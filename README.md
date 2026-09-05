@@ -79,7 +79,7 @@ Ya incluido en el repo:
    - Añadir la propiedad `chenoaventuras.com` (verificación por DNS TXT en Vercel,
      o pegando aquí el `<meta name="google-site-verification">` que dé Google).
    - *Sitemaps* → enviar `sitemap.xml`.
-   - *Inspección de URLs* → pegar `https://chenoaventuras.com/` → *Solicitar indexación*.
+   - *Inspección de URLs* → pegar `https://www.chenoaventuras.com/` → *Solicitar indexación*.
 2. Confirmar en **Vercel** que el dominio `chenoaventuras.com` (y `www`) apunta al
    proyecto y que uno redirige al otro (dominio principal único).
 3. **Enlazar la web** desde las biografías de Instagram, YouTube, TikTok y
