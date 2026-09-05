@@ -69,7 +69,9 @@ Sin el secret, la Action no falla: simplemente no toca nada y la web muestra los
 Ya incluido en el repo:
 - `robots.txt` + `sitemap.xml` (todas las páginas).
 - Por página: `<title>` con la marca delante, `meta description`, `canonical`,
-  Open Graph + Twitter Card (`assets/img/og-default.jpg`, provisional) y favicon.
+  Open Graph + Twitter Card (`assets/img/og-default.jpg`, provisional) y favicon
+  (foto de Cheno recortada — `assets/img/favicon-16/32/180/512.png`; fuente en
+  `assets/img/cheno-perfil.jpg`).
 - `index.html` lleva datos estructurados JSON-LD (`WebSite` + `Person` con
   `sameAs` a Instagram/YouTube/TikTok/Facebook) para que Google asocie la marca
   a los perfiles y no la confunda con "chocoaventuras".
