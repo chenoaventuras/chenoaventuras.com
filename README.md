@@ -64,6 +64,29 @@ Sin el secret, la Action no falla: simplemente no toca nada y la web muestra los
 - **Contenido real** de aventuras, equipo, biografía y cifras.
 - **Refresco del token de Instagram** cada ~50 días (o automatizarlo).
 
+## SEO / que salga en Google
+
+Ya incluido en el repo:
+- `robots.txt` + `sitemap.xml` (todas las páginas).
+- Por página: `<title>` con la marca delante, `meta description`, `canonical`,
+  Open Graph + Twitter Card (`assets/img/og-default.jpg`, provisional) y favicon.
+- `index.html` lleva datos estructurados JSON-LD (`WebSite` + `Person` con
+  `sameAs` a Instagram/YouTube/TikTok/Facebook) para que Google asocie la marca
+  a los perfiles y no la confunda con "chocoaventuras".
+
+**Falta hacerlo a mano (esto es lo que hace que aparezca):**
+1. **Google Search Console** — https://search.google.com/search-console
+   - Añadir la propiedad `chenoaventuras.com` (verificación por DNS TXT en Vercel,
+     o pegando aquí el `<meta name="google-site-verification">` que dé Google).
+   - *Sitemaps* → enviar `sitemap.xml`.
+   - *Inspección de URLs* → pegar `https://chenoaventuras.com/` → *Solicitar indexación*.
+2. Confirmar en **Vercel** que el dominio `chenoaventuras.com` (y `www`) apunta al
+   proyecto y que uno redirige al otro (dominio principal único).
+3. **Enlazar la web** desde las biografías de Instagram, YouTube, TikTok y
+   Facebook: es el factor nº 1 para un dominio nuevo.
+4. Paciencia: un dominio nuevo suele tardar **1–4 semanas** en indexarse.
+5. Opcional: **Bing Webmaster Tools** (mismo proceso, y cubre también a otros).
+
 ## Diseño
 
 Basado en la "Opción 2" del Figma. Paleta: verde oliva `#77854f`, papel
