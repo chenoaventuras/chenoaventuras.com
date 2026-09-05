@@ -1,0 +1,24 @@
+{
+  "updated": null,
+  "note": "Datos de ejemplo. Los reemplaza a diario .github/workflows/instagram.yml cuando el secret IG_ACCESS_TOKEN esté configurado.",
+  "posts": [
+    {
+      "permalink": "https://www.instagram.com/p/Dc1dhLOxx2H/",
+      "image": "assets/img/blog/cola-de-caballo.jpg",
+      "caption": "Curiosidades que no verás en las guías.",
+      "type": "REEL"
+    },
+    {
+      "permalink": "https://www.instagram.com/p/DWE2X_CCJX5/",
+      "image": "assets/img/blog/altea.jpg",
+      "caption": "Rincones del Mediterráneo.",
+      "type": "REEL"
+    },
+    {
+      "permalink": "https://www.instagram.com/p/DUESvStDHi5/",
+      "image": "assets/img/blog/furgoneta.jpg",
+      "caption": "Vida sobre ruedas.",
+      "type": "REEL"
+    }
+  ]
+}

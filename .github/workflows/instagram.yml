@@ -1,0 +1,42 @@
+name: Actualizar últimas publicaciones de Instagram
+
+on:
+  schedule:
+    - cron: "20 6 * * *"   # cada día a las 06:20 UTC
+  workflow_dispatch: {}      # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Descargar últimas publicaciones
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_LIMIT: "3"
+        run: node scripts/fetch-instagram.mjs
+
+      - name: Commit y push si hay cambios
+        run: |
+          if [ -n "$(git status --porcelain assets/data/instagram.json assets/img/instagram)" ]; then
+            git config user.name  "cheno-bot"
+            git config user.email "chenoaventuras@gmail.com"
+            git add assets/data/instagram.json assets/img/instagram
+            git commit -m "chore: actualiza últimas publicaciones de Instagram"
+            git push
+          else
+            echo "Sin cambios."
+          fi

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    { "source": "/destinos", "destination": "/aventuras.html", "permanent": true },
+    { "source": "/destinos.html", "destination": "/aventuras.html", "permanent": true },
+    { "source": "/blog", "destination": "/", "permanent": true },
+    { "source": "/blog.html", "destination": "/", "permanent": true },
+    { "source": "/sobre-mi", "destination": "/contacto.html", "permanent": true },
+    { "source": "/sobre-mi.html", "destination": "/contacto.html", "permanent": true }
+  ]
+}
