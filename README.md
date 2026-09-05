@@ -41,6 +41,10 @@ assets/
 ## Diseño
 
 Basado en la "Opción 2" del Figma. Paleta: verde oliva `#77854f`, papel
-`#efece7`, verde-azulado profundo en fotos, footer `#20261f`. Tipografías de
-Google Fonts: **Anton** (títulos grandes), **Oswald** (titulares), **Barlow**
-(texto), **Sacramento** (wordmark).
+`#efece7`, verde-azulado profundo en fotos, footer `#20261f`.
+
+Tipografías de marca (las de @chenoaventuras):
+**Inter Black 900** para titulares y el wordmark, **Poppins** (600 para
+subtítulos/menú/botones, 400/500 para el cuerpo). Inter y Poppins 600/500‑ital
+van self-hosted en `assets/fonts/` (ver su README); Poppins 400/500 rectos
+desde Google Fonts.
