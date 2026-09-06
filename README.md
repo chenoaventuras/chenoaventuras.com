@@ -61,7 +61,7 @@ Sin el secret, la Action no falla: simplemente no toca nada y la web muestra los
 
 - **Fotos y logo reales.** Todo `assets/img/` son recortes temporales de las
   maquetas de Figma. Mapa en [`assets/img/README.md`](assets/img/README.md).
-- **Códigos de descuento reales** (Holafly, GetYourGuide, Insta360) y sus enlaces.
+- **Códigos de descuento reales** (Holafly, GetYourGuide, Insta360, DiscoverCars) y sus enlaces de afiliado.
 - **Formularios.** Newsletter y contacto solo muestran "¡Vamos a la aventura!";
   todavía no guardan el correo ni avisan. Pendiente elegir servicio/backend.
 - **Contenido real** de aventuras, equipo, biografía y cifras.
