@@ -92,8 +92,8 @@ p { margin: 0 0 1em; }
 
 /* ---------- Utilities ---------- */
 .container { width: 100%; max-width: var(--container); margin-inline: auto; padding-inline: var(--gutter); }
-.section { padding-block: clamp(56px, 9vw, 110px); }
-.section--tight { padding-block: clamp(40px, 6vw, 72px); }
+.section { padding-block: clamp(44px, 7vw, 92px); }
+.section--tight { padding-block: clamp(30px, 4.5vw, 56px); }
 .center { text-align: center; }
 .stack > * + * { margin-top: 1rem; }
 [hidden] { display: none !important; }
@@ -799,6 +799,9 @@ p { margin: 0 0 1em; }
 
 @media (max-width: 560px) {
   body { font-size: 16px; }
+  .section { padding-block: 38px; }
+  .section--tight { padding-block: 28px; }
+  .hero { padding-top: 92px; min-height: min(82vh, 660px); }
   .hero__text, .pagehead p, .lead, .curiosbar__label { font-size: 1rem; }
   .curiosbar { max-width: 100%; gap: .4em; }
   .curiosbar__text { font-size: .95rem; min-height: 4.5em; }
