@@ -212,15 +212,15 @@
     });
   });
 
-  /* ---------- Tarjetas de descuento: abrir al pasar el cursor (solo escritorio) ---------- */
-  if (window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
-    document.querySelectorAll(".dealgrid .deal").forEach(function (d) {
-      d.addEventListener("mouseenter", function () { d.open = true; });
-      d.addEventListener("mouseleave", function () { d.open = false; });
-      var sum = d.querySelector("summary");
-      if (sum) sum.addEventListener("click", function (e) { e.preventDefault(); });
+  /* ---------- Tarjetas de descuento: giro 180º ---------- */
+  // En escritorio el giro es por :hover (CSS). En pantallas táctiles, al tocar.
+  document.querySelectorAll(".dealgrid .deal").forEach(function (d) {
+    d.addEventListener("click", function (e) {
+      if (e.target.closest("a, button")) return;
+      if (window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
+      d.classList.toggle("is-flipped");
     });
-  }
+  });
 
   /* ---------- Copiar códigos de descuento ---------- */
   // Sonido "cha-ching" de caja registradora (Web Audio, sin archivos).
