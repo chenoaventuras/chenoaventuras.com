@@ -557,11 +557,15 @@ p { margin: 0 0 1em; }
   aspect-ratio: 1 / 1; object-fit: cover;
 }
 .deal__more {
-  display: block; padding: 14px 20px;
-  font-family: var(--font-head); text-transform: uppercase; letter-spacing: .12em;
-  font-size: .74rem; font-weight: 600; color: var(--gold);
+  display: block; width: 100%;
+  padding: 16px 18px; text-align: center;
+  font-family: var(--font-head); text-transform: uppercase; letter-spacing: .18em;
+  font-size: .95rem; font-weight: 600; color: var(--gold);
+  background: rgba(255, 255, 255, .05);
+  transition: background .15s ease, color .15s ease;
 }
-.deal:hover .deal__more { color: var(--gold-bright); }
+.deal:hover .deal__more,
+.deal[open] .deal__more { color: var(--gold-bright); background: rgba(255, 255, 255, .11); }
 .deal__more::after { content: " ▾"; }
 .deal[open] .deal__more::after { content: " ▴"; }
 

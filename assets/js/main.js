@@ -213,6 +213,46 @@
   });
 
   /* ---------- Copiar códigos de descuento ---------- */
+  // Sonido "cha-ching" de caja registradora (Web Audio, sin archivos).
+  var _actx = null;
+  function chaChing() {
+    try {
+      var AC = window.AudioContext || window.webkitAudioContext;
+      if (!AC) return;
+      _actx = _actx || new AC();
+      var ctx = _actx;
+      if (ctx.state === "suspended") ctx.resume();
+      var t0 = ctx.currentTime;
+      // dos campanitas metálicas (ding-ding)
+      [[988, 0], [1319, 0.085]].forEach(function (p) {
+        var freq = p[0], t = t0 + p[1];
+        var g = ctx.createGain();
+        g.gain.setValueAtTime(0.0001, t);
+        g.gain.exponentialRampToValueAtTime(0.42, t + 0.008);
+        g.gain.exponentialRampToValueAtTime(0.0001, t + 0.45);
+        g.connect(ctx.destination);
+        [1, 2.01, 3.03].forEach(function (mult, i) {
+          var o = ctx.createOscillator();
+          o.type = i === 0 ? "triangle" : "sine";
+          o.frequency.value = freq * mult;
+          var og = ctx.createGain();
+          og.gain.value = i === 0 ? 1 : 0.35 / i;
+          o.connect(og); og.connect(g);
+          o.start(t); o.stop(t + 0.5);
+        });
+      });
+      // "clic" corto del cajón al principio
+      var nb = ctx.createBuffer(1, ctx.sampleRate * 0.05, ctx.sampleRate);
+      var d = nb.getChannelData(0);
+      for (var i = 0; i < d.length; i++) d[i] = (Math.random() * 2 - 1) * (1 - i / d.length);
+      var ns = ctx.createBufferSource(); ns.buffer = nb;
+      var ng = ctx.createGain(); ng.gain.value = 0.12;
+      var flt = ctx.createBiquadFilter(); flt.type = "highpass"; flt.frequency.value = 1500;
+      ns.connect(flt); flt.connect(ng); ng.connect(ctx.destination);
+      ns.start(t0);
+    } catch (e) { /* sin sonido */ }
+  }
+
   function legacyCopy(text) {
     return new Promise(function (resolve, reject) {
       try {
@@ -238,6 +278,7 @@
       var row = btn.closest(".deal__code-row") || btn.parentNode;
       var codeEl = row && row.querySelector("[data-deal-code]");
       if (!codeEl) return;
+      chaChing();
       var label = btn.textContent;
       copyText(codeEl.textContent.trim()).then(function () {
         btn.textContent = "¡Copiado!";
