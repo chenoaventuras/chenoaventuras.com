@@ -1,6 +1,6 @@
 # chenoaventuras.com
 
-Sitio estático de **Cheno Aventuras** — marca de contenido de viajes en Instagram.
+Sitio estático de **Chenoaventuras** — marca de contenido de viajes en Instagram.
 Sin framework ni paso de build: HTML + CSS + un JS pequeño. Se sirve tal cual
 (desplegado en Vercel).
 

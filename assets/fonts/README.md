@@ -1,4 +1,4 @@
-# Tipografías de marca — Cheno Aventuras
+# Tipografías de marca — Chenoaventuras
 
 Archivos facilitados por el usuario ("son las de @chenoaventuras").
 
