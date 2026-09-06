@@ -543,9 +543,11 @@ p { margin: 0 0 1em; }
 .deal {
   border-radius: 12px; overflow: hidden;
   background: var(--night); color: #fff;
-  transition: transform .15s ease;
+  border: 1px solid rgba(20, 25, 20, .08);
+  box-shadow: 0 2px 8px rgba(20, 25, 20, .10), 0 16px 36px rgba(20, 25, 20, .10);
+  transition: transform .15s ease, box-shadow .15s ease;
 }
-.deal:hover { transform: translateY(-3px); }
+.deal:hover { transform: translateY(-3px); box-shadow: 0 6px 14px rgba(20, 25, 20, .12), 0 22px 44px rgba(20, 25, 20, .14); }
 .deal[open] { transform: none; }
 .deal__head {
   list-style: none; cursor: pointer;
