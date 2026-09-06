@@ -570,8 +570,8 @@ p { margin: 0 0 1em; }
   box-shadow: 0 14px 32px rgba(20, 25, 20, .09);
   transition: transform .15s ease, box-shadow .15s ease;
 }
-.deal:hover { transform: translateY(-3px); box-shadow: 0 20px 42px rgba(20, 25, 20, .13); }
-.deal[open] { transform: none; }
+.deal:hover { transform: translateY(-4px); box-shadow: 0 22px 46px rgba(20, 25, 20, .16); }
+.deal[open]:not(:hover) { transform: none; }
 .deal__head {
   list-style: none; cursor: pointer;
   display: block; padding: 0;
@@ -599,9 +599,14 @@ p { margin: 0 0 1em; }
   border-top: 1px solid rgba(255,255,255,.14);
   display: flex; flex-direction: column; align-items: center; gap: 12px;
   text-align: center;
-  animation: deal-open .28s ease;
+  transform-origin: top center;
+  animation: deal-flip .4s cubic-bezier(.2, .7, .2, 1) both;
 }
-@keyframes deal-open { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+@keyframes deal-flip {
+  from { opacity: 0; transform: perspective(700px) rotateX(-82deg); }
+  60%  { opacity: 1; }
+  to   { opacity: 1; transform: perspective(700px) rotateX(0); }
+}
 .deal__code-row { display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap; }
 .deal__code {
   font-family: var(--font-display); font-weight: 900;
@@ -739,6 +744,9 @@ p { margin: 0 0 1em; }
 /* Bloques de texto / tarjetas: suben y aparecen. */
 .js .reveal { opacity: 0; transform: translateY(26px); transition: opacity .7s ease, transform .8s cubic-bezier(.16,1,.3,1); }
 .js .reveal.is-visible { opacity: 1; transform: none; }
+/* Tarjetas de descuento: entrada de abajo a arriba más marcada */
+.js .dealgrid > .reveal { transform: translateY(52px); }
+.js .dealgrid > .reveal.is-visible { transform: none; }
 
 /* Imágenes: además, la foto entra con un zoom-out lento al aparecer. */
 .js .reveal--media { overflow: hidden; }
@@ -778,8 +786,10 @@ p { margin: 0 0 1em; }
 
 @media (prefers-reduced-motion: reduce) {
   .js .reveal,
+  .js .dealgrid > .reveal,
   .js .reveal--media > img,
   .js .reveal--media > picture > img { opacity: 1; transform: none; transition: none; }
+  .deal__reveal { animation: none; }
   .js .hero__media img,
   .js .pagehead__media img,
   .js .hero__portrait { animation: none; }

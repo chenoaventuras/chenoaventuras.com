@@ -212,6 +212,16 @@
     });
   });
 
+  /* ---------- Tarjetas de descuento: abrir al pasar el cursor (solo escritorio) ---------- */
+  if (window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
+    document.querySelectorAll(".dealgrid .deal").forEach(function (d) {
+      d.addEventListener("mouseenter", function () { d.open = true; });
+      d.addEventListener("mouseleave", function () { d.open = false; });
+      var sum = d.querySelector("summary");
+      if (sum) sum.addEventListener("click", function (e) { e.preventDefault(); });
+    });
+  }
+
   /* ---------- Copiar códigos de descuento ---------- */
   // Sonido "cha-ching" de caja registradora (Web Audio, sin archivos).
   var _actx = null;
