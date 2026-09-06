@@ -573,11 +573,12 @@ p { margin: 0 0 1em; }
 .deal__reveal {
   padding: 16px 22px 22px;
   border-top: 1px solid rgba(255,255,255,.14);
-  display: flex; flex-direction: column; gap: 12px;
+  display: flex; flex-direction: column; align-items: center; gap: 12px;
+  text-align: center;
   animation: deal-open .28s ease;
 }
 @keyframes deal-open { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
-.deal__code-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.deal__code-row { display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap; }
 .deal__code {
   font-family: var(--font-display); font-weight: 900;
   font-size: 1.2rem; letter-spacing: .04em;
@@ -596,15 +597,15 @@ p { margin: 0 0 1em; }
 .deal__benefit { margin: 0; font-size: .9rem; color: rgba(255,255,255,.82); }
 .deal__link {
   font-family: var(--font-head); text-transform: uppercase; letter-spacing: .08em;
-  font-size: .76rem; font-weight: 600; color: #fff;
+  font-size: .76rem; font-weight: 600; color: var(--gold);
 }
-.deal__link:hover { opacity: .75; }
+.deal__link:hover { color: var(--gold-bright); }
 .deal__link--btn {
-  align-self: flex-start;
-  border: 1px solid rgba(255, 255, 255, .6); border-radius: 5px;
+  align-self: center;
+  border: 1px solid var(--gold); border-radius: 5px;
   padding: .65em 1.1em;
 }
-.deal__link--btn:hover { background: #fff; color: var(--night); border-color: #fff; opacity: 1; }
+.deal__link--btn:hover { background: var(--gold); color: var(--night); border-color: var(--gold); }
 
 /* mensaje de éxito de los formularios */
 .subscribe__ok { color: var(--gold-bright); font-weight: 600; margin-top: 12px; }
