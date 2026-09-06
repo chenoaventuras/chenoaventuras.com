@@ -22,6 +22,12 @@ jobs:
         with:
           node-version: 20
 
+      - name: Refrescar token de Instagram (evita la caducidad a los 60 días)
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: node scripts/refresh-instagram-token.mjs
+
       - name: Descargar últimas publicaciones
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
