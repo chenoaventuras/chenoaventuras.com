@@ -211,4 +211,50 @@
       f.reset();
     });
   });
+
+  /* ---------- Copiar códigos de descuento ---------- */
+  function legacyCopy(text) {
+    return new Promise(function (resolve, reject) {
+      try {
+        var ta = document.createElement("textarea");
+        ta.value = text; ta.setAttribute("readonly", "");
+        ta.style.position = "fixed"; ta.style.top = "0"; ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.select(); ta.setSelectionRange(0, ta.value.length);
+        var ok = document.execCommand("copy");
+        document.body.removeChild(ta);
+        ok ? resolve() : reject();
+      } catch (e) { reject(e); }
+    });
+  }
+  function copyText(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text).catch(function () { return legacyCopy(text); });
+    }
+    return legacyCopy(text);
+  }
+  document.querySelectorAll("[data-deal-copy]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var row = btn.closest(".deal__code-row") || btn.parentNode;
+      var codeEl = row && row.querySelector("[data-deal-code]");
+      if (!codeEl) return;
+      var label = btn.textContent;
+      copyText(codeEl.textContent.trim()).then(function () {
+        btn.textContent = "¡Copiado!";
+        btn.classList.add("is-copied");
+      }, function () {
+        // último recurso: seleccionar el código para copiarlo a mano
+        try {
+          var sel = window.getSelection(), r = document.createRange();
+          r.selectNodeContents(codeEl); sel.removeAllRanges(); sel.addRange(r);
+        } catch (e) {}
+        btn.textContent = "Selecciónalo y copia";
+      }).then(function () {
+        setTimeout(function () {
+          btn.textContent = label;
+          btn.classList.remove("is-copied");
+        }, 1900);
+      });
+    });
+  });
 })();

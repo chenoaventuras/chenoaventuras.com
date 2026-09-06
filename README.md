@@ -61,7 +61,11 @@ Sin el secret, la Action no falla: simplemente no toca nada y la web muestra los
 
 - **Fotos y logo reales.** Todo `assets/img/` son recortes temporales de las
   maquetas de Figma. Mapa en [`assets/img/README.md`](assets/img/README.md).
-- **Códigos de descuento reales** (Holafly, GetYourGuide, Insta360, DiscoverCars) y sus enlaces de afiliado.
+- Descuentos: ya con códigos reales (Holafly `CHENOAVENTURAS`, GetYourGuide
+  `CHENOAVENTURAS5`, Insta360 `INRSG28LBE2`) y el enlace de afiliado de
+  DiscoverCars. Cada tarjeta es un `<details>` que se despliega al pulsar;
+  el botón "Copiar" lo maneja `main.js`. Editar en `index.html` y
+  `servicios.html` (mismo bloque en ambos).
 - **Formularios.** Newsletter y contacto solo muestran "¡Vamos a la aventura!";
   todavía no guardan el correo ni avisan. Pendiente elegir servicio/backend.
 - **Contenido real** de aventuras, equipo, biografía y cifras.

@@ -535,20 +535,66 @@ p { margin: 0 0 1em; }
 }
 .seal small { display: block; font-family: var(--font-head); font-size: .5rem; letter-spacing: .2em; margin-top: 4px; }
 
-/* descuentos */
-.dealgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-top: 36px; }
+/* descuentos — tarjetas desplegables (<details>) */
+.dealgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 36px; align-items: start; }
 .deal {
-  position: relative; overflow: hidden;
-  border-radius: 12px; padding: 22px;
+  border-radius: 12px; overflow: hidden;
   background: var(--night); color: #fff;
-  min-height: 150px;
-  display: flex; flex-direction: column; justify-content: space-between; gap: 12px;
   transition: transform .15s ease;
 }
-a.deal:hover { transform: translateY(-3px); }
+.deal:hover { transform: translateY(-3px); }
+.deal[open] { transform: none; }
+.deal__head {
+  list-style: none; cursor: pointer;
+  padding: 22px; min-height: 150px;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.deal__head::-webkit-details-marker { display: none; }
 .deal__brand { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; letter-spacing: -.01em; font-size: 1.35rem; }
-.deal__pct { font-family: var(--font-display); font-size: 1.9rem; }
 .deal__note { font-size: .84rem; color: rgba(255,255,255,.72); }
+.deal__more {
+  margin-top: auto;
+  font-family: var(--font-head); text-transform: uppercase; letter-spacing: .12em;
+  font-size: .72rem; font-weight: 600; color: var(--olive-bright);
+}
+.deal__more::after { content: " ▾"; }
+.deal[open] .deal__more::after { content: " ▴"; }
+
+.deal__reveal {
+  padding: 16px 22px 22px;
+  border-top: 1px solid rgba(255,255,255,.14);
+  display: flex; flex-direction: column; gap: 12px;
+  animation: deal-open .28s ease;
+}
+@keyframes deal-open { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+.deal__code-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.deal__code {
+  font-family: var(--font-display); font-weight: 900;
+  font-size: 1.2rem; letter-spacing: .04em;
+  background: rgba(255,255,255,.12); color: #fff;
+  padding: .28em .6em; border-radius: 6px;
+}
+.deal__copy {
+  font-family: var(--font-head); text-transform: uppercase; letter-spacing: .1em;
+  font-size: .7rem; font-weight: 600;
+  padding: .55em 1em; border: 1px solid rgba(255,255,255,.45);
+  border-radius: 5px; background: transparent; color: #fff; cursor: pointer;
+  transition: background .15s ease, color .15s ease, border-color .15s ease;
+}
+.deal__copy:hover { background: #fff; color: var(--night); border-color: #fff; }
+.deal__copy.is-copied { background: var(--olive-bright); color: var(--night); border-color: var(--olive-bright); }
+.deal__benefit { margin: 0; font-size: .9rem; color: rgba(255,255,255,.82); }
+.deal__link {
+  font-family: var(--font-head); text-transform: uppercase; letter-spacing: .08em;
+  font-size: .76rem; font-weight: 600; color: var(--olive-bright);
+}
+.deal__link:hover { color: #fff; }
+.deal__link--btn {
+  align-self: flex-start;
+  border: 1px solid var(--olive-bright); border-radius: 5px;
+  padding: .65em 1.1em;
+}
+.deal__link--btn:hover { background: var(--olive-bright); color: var(--night); }
 
 /* mensaje de éxito de los formularios */
 .subscribe__ok { color: var(--olive-bright); font-weight: 600; margin-top: 12px; }
