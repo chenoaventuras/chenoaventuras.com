@@ -335,7 +335,8 @@ p { margin: 0 0 1em; }
   font-size: 1.12rem; color: var(--gold); white-space: nowrap;
 }
 .curiosbar__text {
-  font-size: 1rem; color: rgba(255,255,255,.9); min-height: 1.6em;
+  font-size: 1rem; color: rgba(255,255,255,.9);
+  line-height: 1.5; min-height: 3em;   /* reserva siempre 2 líneas: la página no salta al cambiar de dato */
   transition: opacity .4s ease;
 }
 .curiosbar__text.is-fading { opacity: 0; }
@@ -784,7 +785,7 @@ p { margin: 0 0 1em; }
   body { font-size: 16px; }
   .hero__text, .pagehead p, .lead, .curiosbar__label { font-size: 1rem; }
   .curiosbar { max-width: 100%; gap: .4em; }
-  .curiosbar__text { font-size: .95rem; }
+  .curiosbar__text { font-size: .95rem; min-height: 4.5em; }
   .cardgrid, .curios__grid, .svcgrid, .dealgrid { grid-template-columns: 1fr; }
   .placecard { aspect-ratio: 4 / 3; }
   .btn { width: 100%; justify-content: center; }
