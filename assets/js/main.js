@@ -97,6 +97,33 @@
     }
   }
 
+  /* ---------- Aparición al hacer scroll ----------
+     Elementos con .reveal (bloques) y .reveal--media (imágenes con zoom-out).
+     Se puede volver a escanear tras inyectar contenido nuevo (ver Instagram).
+  ------------------------------------------------------------------- */
+  var REVEAL_SEL = ".reveal, .reveal--media";
+  var io = ("IntersectionObserver" in window)
+    ? new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("is-visible");
+            io.unobserve(entry.target);
+          }
+        });
+      }, { rootMargin: "0px 0px 200px 0px", threshold: 0.01 })
+    : null;
+
+  function revealScan(root) {
+    var els = (root || document).querySelectorAll(REVEAL_SEL);
+    if (io) { els.forEach(function (el) { io.observe(el); }); }
+    else { els.forEach(function (el) { el.classList.add("is-visible"); }); }
+  }
+  revealScan(document);
+  // Red de seguridad: si el observer no dispara, muestra todo.
+  setTimeout(function () {
+    document.querySelectorAll(REVEAL_SEL).forEach(function (el) { el.classList.add("is-visible"); });
+  }, 3000);
+
   /* ---------- Últimas publicaciones de Instagram ----------
      Lee assets/data/instagram.json, que actualiza a diario una GitHub Action
      (.github/workflows/instagram.yml). Si no hay datos, se queda el contenido
@@ -113,7 +140,7 @@
         posts.slice(0, 3).forEach(function (p) {
           if (!p || !p.permalink) return;
           var a = document.createElement("a");
-          a.className = "placecard reveal is-visible";
+          a.className = "placecard reveal reveal--media";
           a.href = p.permalink;
           a.target = "_blank";
           a.rel = "noopener";
@@ -133,27 +160,9 @@
           a.appendChild(body);
           igWrap.appendChild(a);
         });
+        revealScan(igWrap);
       })
       .catch(function () { /* deja el contenido de ejemplo */ });
-  }
-
-  /* ---------- Reveal on scroll ---------- */
-  var reveals = document.querySelectorAll(".reveal");
-  if (reveals.length && "IntersectionObserver" in window) {
-    var io = new IntersectionObserver(function (entries) {
-      entries.forEach(function (entry) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("is-visible");
-          io.unobserve(entry.target);
-        }
-      });
-    }, { rootMargin: "0px 0px 240px 0px", threshold: 0.01 });
-    reveals.forEach(function (el) { io.observe(el); });
-    setTimeout(function () {
-      reveals.forEach(function (el) { el.classList.add("is-visible"); });
-    }, 2500);
-  } else {
-    reveals.forEach(function (el) { el.classList.add("is-visible"); });
   }
 
   /* ---------- Año dinámico ---------- */

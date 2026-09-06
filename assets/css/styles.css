@@ -631,14 +631,57 @@ a.deal:hover { transform: translateY(-3px); }
 @media (max-width: 520px) { .footer-grid { grid-template-columns: 1fr; } }
 
 /* =========================================================================
-   Animación de entrada
+   Animaciones al hacer scroll
    ========================================================================= */
 /* Sin JS (o si algo falla) el contenido se ve siempre: el efecto solo se
    activa cuando main.js añade la clase .js al <html>. */
-.js .reveal { opacity: 0; transform: translateY(24px); transition: opacity .6s ease, transform .6s ease; }
+
+/* Bloques de texto / tarjetas: suben y aparecen. */
+.js .reveal { opacity: 0; transform: translateY(26px); transition: opacity .7s ease, transform .8s cubic-bezier(.16,1,.3,1); }
 .js .reveal.is-visible { opacity: 1; transform: none; }
+
+/* Imágenes: además, la foto entra con un zoom-out lento al aparecer. */
+.js .reveal--media { overflow: hidden; }
+.js .reveal--media > img,
+.js .reveal--media > picture > img {
+  transform: scale(1.14);
+  transition: transform 1.5s cubic-bezier(.16,1,.3,1);
+  will-change: transform;
+}
+.js .reveal--media.is-visible > img,
+.js .reveal--media.is-visible > picture > img { transform: scale(1); }
+/* tras aparecer, el zoom de hover vuelve a su velocidad normal */
+.js .placecard.is-visible > img { transition: transform .5s ease; }
+
+/* Escalonado dentro de las retículas (las fotos van cayendo una tras otra). */
+.js .cardgrid > *:nth-child(2),
+.js .curios__grid > *:nth-child(2),
+.js .dealgrid > *:nth-child(2),
+.js .svcgrid > *:nth-child(2) { transition-delay: .08s; }
+.js .cardgrid > *:nth-child(3),
+.js .curios__grid > *:nth-child(3),
+.js .dealgrid > *:nth-child(3),
+.js .svcgrid > *:nth-child(3) { transition-delay: .16s; }
+.js .cardgrid > *:nth-child(4),
+.js .dealgrid > *:nth-child(4),
+.js .svcgrid > *:nth-child(4) { transition-delay: .24s; }
+.js .svcgrid > *:nth-child(5) { transition-delay: .32s; }
+.js .svcgrid > *:nth-child(6) { transition-delay: .40s; }
+
+/* Cabeceras con foto: entrada suave al cargar la página. */
+@keyframes cheno-hero-in {
+  from { transform: scale(1.09); opacity: .35; }
+  to   { transform: scale(1);    opacity: 1; }
+}
+.js .hero__media img,
+.js .pagehead__media img { animation: cheno-hero-in 1.5s cubic-bezier(.16,1,.3,1) both; }
+
 @media (prefers-reduced-motion: reduce) {
-  .js .reveal { opacity: 1; transform: none; transition: none; }
+  .js .reveal,
+  .js .reveal--media > img,
+  .js .reveal--media > picture > img { opacity: 1; transform: none; transition: none; }
+  .js .hero__media img,
+  .js .pagehead__media img { animation: none; }
   html { scroll-behavior: auto; }
 }
 
