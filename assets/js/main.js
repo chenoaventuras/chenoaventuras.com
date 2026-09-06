@@ -65,35 +65,68 @@
   ];
 
   var bar = document.querySelector("[data-curiosbar]");
-  if (bar) {
-    var out = bar.querySelector(".curiosbar__text");
+  var clock = document.querySelector("[data-curios-clock]");
+  if (bar || clock) {
+    var out = bar ? bar.querySelector(".curiosbar__text") : null;
     var pool = CURIOSIDADES;
-    try {
-      var fromAttr = bar.getAttribute("data-curiosidades");
-      if (fromAttr) {
-        var parsed = JSON.parse(fromAttr);
-        if (Array.isArray(parsed) && parsed.length) pool = parsed;
-      }
-    } catch (e) { /* usa el pool por defecto */ }
-
-    // Trío del día (determinista)
-    var day = Math.floor(Date.now() / 86400000);
-    var today = [];
-    for (var k = 0; k < Math.min(3, pool.length); k++) {
-      today.push(pool[((day * 3 + k) % pool.length + pool.length) % pool.length]);
+    if (bar) {
+      try {
+        var fromAttr = bar.getAttribute("data-curiosidades");
+        if (fromAttr) {
+          var parsed = JSON.parse(fromAttr);
+          if (Array.isArray(parsed) && parsed.length) pool = parsed;
+        }
+      } catch (e) { /* usa el pool por defecto */ }
     }
 
+    // Índice de día LOCAL (mismo criterio que el cronómetro: cambia a medianoche).
+    function localDay() {
+      var m = new Date(); m.setHours(0, 0, 0, 0);
+      return Math.round(m.getTime() / 86400000);
+    }
+    // Trío del día (determinista a partir de la fecha).
+    function pickToday() {
+      var day = localDay(), arr = [];
+      for (var k = 0; k < Math.min(3, pool.length); k++) {
+        arr.push(pool[((day * 3 + k) % pool.length + pool.length) % pool.length]);
+      }
+      return arr;
+    }
+
+    var today = pickToday();
     var i = 0;
-    out.textContent = today[0];
-    if (today.length > 1) {
-      setInterval(function () {
-        out.classList.add("is-fading");
-        setTimeout(function () {
-          i = (i + 1) % today.length;
-          out.textContent = today[i];
-          out.classList.remove("is-fading");
-        }, 400);
-      }, 6000);
+    if (out) {
+      out.textContent = today[0];
+      if (today.length > 1) {
+        setInterval(function () {
+          out.classList.add("is-fading");
+          setTimeout(function () {
+            i = (i + 1) % today.length;
+            out.textContent = today[i];
+            out.classList.remove("is-fading");
+          }, 400);
+        }, 6000);
+      }
+    }
+
+    // Cronómetro hasta las nuevas curiosidades (próxima medianoche local).
+    if (clock) {
+      var pad = function (n) { return (n < 10 ? "0" : "") + n; };
+      var tick = function () {
+        var now = new Date();
+        var next = new Date(now); next.setHours(24, 0, 0, 0);
+        var diff = next - now;
+        if (diff <= 0) {                 // ha cambiado el día: nuevo trío
+          today = pickToday(); i = 0;
+          if (out) out.textContent = today[0];
+          diff = 0;
+        }
+        var s = Math.floor(diff / 1000);
+        clock.textContent =
+          pad(Math.floor(s / 3600)) + ":" + pad(Math.floor(s / 60) % 60) + ":" + pad(s % 60);
+      };
+      tick();
+      setInterval(tick, 1000);
     }
   }
 

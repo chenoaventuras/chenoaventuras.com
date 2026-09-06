@@ -377,6 +377,23 @@ p { margin: 0 0 1em; }
 .curioscard p { margin: 0; font-size: .96rem; color: var(--ink-soft); }
 .curioscard--placeholder { color: var(--ink-mute); }
 
+/* Cronómetro: tiempo hasta las nuevas curiosidades */
+.curios__timer {
+  margin: 34px auto 0;
+  display: flex; flex-direction: column; align-items: center; gap: 4px;
+  text-align: center;
+}
+.curios__timer-label {
+  font-family: var(--font-head); text-transform: uppercase;
+  letter-spacing: .18em; font-size: .72rem; font-weight: 600; color: var(--ink-soft);
+}
+.curios__timer-clock {
+  font-family: var(--font-display); font-weight: 900;
+  font-size: clamp(1.6rem, 4vw, 2.1rem); letter-spacing: .01em;
+  color: var(--olive-dark);
+  font-variant-numeric: tabular-nums;
+}
+
 /* =========================================================================
    DESTACADOS / tarjetas de destino
    ========================================================================= */

@@ -36,7 +36,10 @@ Instagram, YouTube, TikTok y Facebook.
 
 `assets/js/main.js` tiene un array `CURIOSIDADES` (ciudades españolas, cultura,
 fauna, pueblos, demografía). Cada día se eligen **3** de forma determinista según
-la fecha y la barra va alternando entre ellas. Añadir/editar frases en ese array.
+la fecha (día local) y la barra va alternando entre ellas. Añadir/editar frases
+en ese array. Bajo la sección de Curiosidades del inicio hay un **cronómetro**
+(`[data-curios-clock]`) que cuenta hasta la próxima medianoche local, cuando
+entra el nuevo trío.
 
 ## Últimas publicaciones de Instagram (automático)
 
