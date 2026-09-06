@@ -294,7 +294,7 @@ p { margin: 0 0 1em; }
   overflow: hidden;
 }
 .hero__media { position: absolute; inset: 0; }
-.hero__media img { width: 100%; height: 100%; object-fit: cover; object-position: 58% 78%; }
+.hero__media img { width: 100%; height: 100%; object-fit: cover; object-position: center 58%; }
 .hero__media::after {
   content: ""; position: absolute; inset: 0;
   background:
