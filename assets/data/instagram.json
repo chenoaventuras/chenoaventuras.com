@@ -1,24 +1,26 @@
 {
-  "updated": null,
-  "note": "Datos de ejemplo. Los reemplaza a diario .github/workflows/instagram.yml cuando el secret IG_ACCESS_TOKEN esté configurado.",
+  "updated": "2026-09-06T20:59:21.052Z",
   "posts": [
     {
-      "permalink": "https://www.instagram.com/p/Dc1dhLOxx2H/",
-      "image": "assets/img/blog/cola-de-caballo.jpg",
-      "caption": "Curiosidades que no verás en las guías.",
-      "type": "REEL"
+      "permalink": "https://www.instagram.com/reel/Dc8CU-xhjww/",
+      "image": "assets/img/instagram/18114888733974966.jpg",
+      "caption": "INFO DEL CORMORÁN ⬇️ Cuando lo vemos descansando sobre una roca parece bastante tranquilo, pero el cormorán es un auténtico TERRENEITOR: camina, vuela y además ",
+      "type": "REEL",
+      "timestamp": "2026-09-06T07:49:19+0000"
     },
     {
-      "permalink": "https://www.instagram.com/p/DWE2X_CCJX5/",
-      "image": "assets/img/blog/altea.jpg",
-      "caption": "Rincones del Mediterráneo.",
-      "type": "REEL"
+      "permalink": "https://www.instagram.com/reel/Dc8CQZ8v6TG/",
+      "image": "assets/img/instagram/17915331480443438.jpg",
+      "caption": "¿Un pájaro que bucea? 🤯 💬 Comenta “info cala” y te envío como llegar a una de las mejores de Cabo de Palos. El cormorán, un animal perfectamente adaptado para",
+      "type": "REEL",
+      "timestamp": "2026-09-06T07:48:35+0000"
     },
     {
-      "permalink": "https://www.instagram.com/p/DUESvStDHi5/",
-      "image": "assets/img/blog/furgoneta.jpg",
-      "caption": "Vida sobre ruedas.",
-      "type": "REEL"
+      "permalink": "https://www.instagram.com/reel/Dc1dhLOxx2H/",
+      "image": "assets/img/instagram/18097458002564101.jpg",
+      "caption": "¡Descubre al Cormorán! 🦤⬇️ Os presento a uno de los habitantes más curiosos de las costas rocosas: el cormorán 🐦 A simple vista parece un pájaro tranquilo que",
+      "type": "REEL",
+      "timestamp": "2026-09-03T18:32:13+0000"
     }
   ]
 }
