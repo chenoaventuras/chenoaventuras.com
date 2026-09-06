@@ -323,8 +323,8 @@ p { margin: 0 0 1em; }
   padding: .35em 0 .35em 1em;
 }
 .curiosbar__label {
-  font-family: var(--font-head); text-transform: uppercase; letter-spacing: .18em;
-  font-size: .74rem; color: var(--gold); white-space: nowrap;
+  font-family: var(--font-head); text-transform: uppercase; letter-spacing: .1em;
+  font-size: 1.12rem; color: var(--gold); white-space: nowrap;
 }
 .curiosbar__text {
   font-size: 1rem; color: rgba(255,255,255,.9); min-height: 1.6em;
@@ -543,11 +543,10 @@ p { margin: 0 0 1em; }
 .deal {
   border-radius: 12px; overflow: hidden;
   background: var(--night); color: #fff;
-  border: 1px solid rgba(20, 25, 20, .08);
-  box-shadow: 0 2px 8px rgba(20, 25, 20, .10), 0 16px 36px rgba(20, 25, 20, .10);
+  box-shadow: 0 14px 32px rgba(20, 25, 20, .09);
   transition: transform .15s ease, box-shadow .15s ease;
 }
-.deal:hover { transform: translateY(-3px); box-shadow: 0 6px 14px rgba(20, 25, 20, .12), 0 22px 44px rgba(20, 25, 20, .14); }
+.deal:hover { transform: translateY(-3px); box-shadow: 0 20px 42px rgba(20, 25, 20, .13); }
 .deal[open] { transform: none; }
 .deal__head {
   list-style: none; cursor: pointer;
@@ -774,7 +773,7 @@ p { margin: 0 0 1em; }
 
 @media (max-width: 560px) {
   body { font-size: 16px; }
-  .hero__text, .pagehead p, .lead { font-size: 1rem; }
+  .hero__text, .pagehead p, .lead, .curiosbar__label { font-size: 1rem; }
   .curiosbar { max-width: 100%; gap: .4em; }
   .curiosbar__text { font-size: .95rem; }
   .cardgrid, .curios__grid, .svcgrid, .dealgrid { grid-template-columns: 1fr; }
