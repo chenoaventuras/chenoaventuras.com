@@ -377,20 +377,22 @@ p { margin: 0 0 1em; }
 .curioscard p { margin: 0; font-size: .96rem; color: var(--ink-soft); }
 .curioscard--placeholder { color: var(--ink-mute); }
 
-/* Cronómetro: tiempo hasta las nuevas curiosidades */
+/* Cronómetro: tiempo hasta las nuevas curiosidades (bajo la barra "¿Sabías que…?") */
 .curios__timer {
-  margin: 34px auto 0;
-  display: flex; flex-direction: column; align-items: center; gap: 4px;
-  text-align: center;
+  position: relative; z-index: 3;
+  margin: 14px 0 0 calc(1em + 3px);
+  display: flex; align-items: baseline; gap: .55em; flex-wrap: wrap;
+  max-width: 560px;
 }
 .curios__timer-label {
   font-family: var(--font-head); text-transform: uppercase;
-  letter-spacing: .18em; font-size: .72rem; font-weight: 600; color: var(--ink-soft);
+  letter-spacing: .16em; font-size: .68rem; font-weight: 600;
+  color: rgba(255, 255, 255, .55);
 }
 .curios__timer-clock {
   font-family: var(--font-display); font-weight: 900;
-  font-size: clamp(1.6rem, 4vw, 2.1rem); letter-spacing: .01em;
-  color: var(--olive-dark);
+  font-size: 1.2rem; letter-spacing: .02em;
+  color: var(--olive-bright);
   font-variant-numeric: tabular-nums;
 }
 
