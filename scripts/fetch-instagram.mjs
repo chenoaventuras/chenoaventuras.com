@@ -22,13 +22,31 @@ const TOKEN = process.env.IG_ACCESS_TOKEN;
 const USER = process.env.IG_USER_ID || "me";
 const LIMIT = Math.max(1, Math.min(12, Number(process.env.IG_LIMIT) || 3));
 
+/**
+ * Publicaciones que NO deben salir en la web (reels de prueba, etc.).
+ * Pon el código corto del enlace: instagram.com/reel/<ESTO>/  ó  /p/<ESTO>/
+ * También se pueden añadir por la variable de entorno IG_EXCLUDE (separadas por comas).
+ */
+const EXCLUDE = [
+  "Dc8CU-xhjww", // reel de prueba - cormorán 1
+  "Dc8CQZ8v6TG", // reel de prueba - cormorán 2
+  ...(process.env.IG_EXCLUDE || "").split(",").map((s) => s.trim()).filter(Boolean),
+];
+const isExcluded = (m) =>
+  EXCLUDE.some(
+    (code) =>
+      code && ((m.permalink || "").includes("/" + code + "/") || (m.id || "") === code)
+  );
+
 if (!TOKEN) {
   console.log("IG_ACCESS_TOKEN no definido — no se actualiza nada.");
   process.exit(0);
 }
 
 const FIELDS = "id,caption,media_type,media_url,thumbnail_url,permalink,timestamp";
-const api = `https://graph.instagram.com/${USER}/media?fields=${FIELDS}&limit=${LIMIT}&access_token=${TOKEN}`;
+// Pedimos bastantes más de las que enseñamos para poder descartar las excluidas.
+const FETCH = Math.min(50, LIMIT + EXCLUDE.length + 12);
+const api = `https://graph.instagram.com/${USER}/media?fields=${FIELDS}&limit=${FETCH}&access_token=${TOKEN}`;
 
 const res = await fetch(api);
 if (!res.ok) {
@@ -41,10 +59,16 @@ if (!Array.isArray(data) || !data.length) {
   process.exit(1);
 }
 
+const visibles = data.filter((m) => !isExcluded(m));
+if (!visibles.length) {
+  console.error("Todas las publicaciones recibidas están excluidas.");
+  process.exit(1);
+}
+
 await mkdir(IMG_DIR, { recursive: true });
 
 const posts = [];
-for (const m of data.slice(0, LIMIT)) {
+for (const m of visibles.slice(0, LIMIT)) {
   const src = m.media_type === "VIDEO" ? m.thumbnail_url || m.media_url : m.media_url;
   let image = "assets/img/blog/cola-de-caballo.jpg";
   if (src) {
