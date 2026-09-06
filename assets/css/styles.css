@@ -560,12 +560,12 @@ p { margin: 0 0 1em; }
   display: block; width: 100%;
   padding: 16px 18px; text-align: center;
   font-family: var(--font-head); text-transform: uppercase; letter-spacing: .18em;
-  font-size: .95rem; font-weight: 600; color: var(--gold);
+  font-size: .95rem; font-weight: 600; color: #fff;
   background: rgba(255, 255, 255, .05);
   transition: background .15s ease, color .15s ease;
 }
 .deal:hover .deal__more,
-.deal[open] .deal__more { color: var(--gold-bright); background: rgba(255, 255, 255, .11); }
+.deal[open] .deal__more { color: #fff; background: rgba(255, 255, 255, .12); }
 .deal__more::after { content: " ▾"; }
 .deal[open] .deal__more::after { content: " ▴"; }
 
@@ -595,15 +595,15 @@ p { margin: 0 0 1em; }
 .deal__benefit { margin: 0; font-size: .9rem; color: rgba(255,255,255,.82); }
 .deal__link {
   font-family: var(--font-head); text-transform: uppercase; letter-spacing: .08em;
-  font-size: .76rem; font-weight: 600; color: var(--olive-bright);
+  font-size: .76rem; font-weight: 600; color: #fff;
 }
-.deal__link:hover { color: #fff; }
+.deal__link:hover { opacity: .75; }
 .deal__link--btn {
   align-self: flex-start;
-  border: 1px solid var(--olive-bright); border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, .6); border-radius: 5px;
   padding: .65em 1.1em;
 }
-.deal__link--btn:hover { background: var(--olive-bright); color: var(--night); }
+.deal__link--btn:hover { background: #fff; color: var(--night); border-color: #fff; opacity: 1; }
 
 /* mensaje de éxito de los formularios */
 .subscribe__ok { color: var(--gold-bright); font-weight: 600; margin-top: 12px; }
