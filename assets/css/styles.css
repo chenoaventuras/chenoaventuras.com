@@ -534,6 +534,30 @@ p { margin: 0 0 1em; }
   border: 1px solid var(--gold); border-radius: 3px; padding: .35em .7em;
 }
 
+/* Mi equipo — cuadrícula de objetos */
+.gearlist {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: clamp(20px, 3.5vw, 44px) clamp(14px, 2.5vw, 28px);
+  margin-top: clamp(28px, 4vw, 44px);
+}
+.gearitem { margin: 0; text-align: center; }
+.gearitem__pic {
+  display: flex; align-items: center; justify-content: center;
+  aspect-ratio: 1 / 1;
+  padding: 12%;
+}
+.gearitem__pic svg { width: 100%; height: 100%; overflow: visible; }
+.gearitem figcaption {
+  margin-top: 4px;
+  font-family: var(--font-head); font-weight: 600;
+  font-size: clamp(.92rem, 1.3vw, 1.08rem);
+  line-height: 1.25; color: var(--night);
+}
+@media (max-width: 720px) {
+  .gearlist { grid-template-columns: repeat(2, 1fr); }
+}
+
 /* bloque CTA oscuro */
 .ctastrip {
   background: var(--night); color: #fff;
