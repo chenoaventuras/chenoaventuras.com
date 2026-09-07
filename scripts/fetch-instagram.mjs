@@ -93,7 +93,7 @@ await mkdir(IMG_DIR, { recursive: true });
 const posts = [];
 for (const m of visibles.slice(0, LIMIT)) {
   const src = m.media_type === "VIDEO" ? m.thumbnail_url || m.media_url : m.media_url;
-  let image = "assets/img/blog/cola-de-caballo.jpg";
+  let image = "assets/img/blog/cola-de-caballo.webp";
   if (src) {
     try {
       const bin = await fetch(src);
