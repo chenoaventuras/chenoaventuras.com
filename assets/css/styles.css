@@ -785,13 +785,13 @@ p { margin: 0 0 1em; }
 /* Dron: cruza volando cuando aparece la sección y luego flota. */
 .drone {
   position: absolute;
-  top: 6%;
+  top: 4%;
   left: 0;
-  width: clamp(84px, 32%, 150px);
+  width: clamp(120px, 44%, 210px);
   z-index: 3;
   pointer-events: none;
   will-change: transform;
-  transform: translateX(-160%);
+  transform: translateX(-175%);
 }
 .drone svg { display: block; width: 100%; height: auto; overflow: visible; }
 .drone .rotor { transform-box: fill-box; transform-origin: center; }
@@ -805,14 +805,14 @@ p { margin: 0 0 1em; }
 }
 @keyframes drone-rotor { to { transform: rotate(360deg); } }
 @keyframes drone-fly-in {
-  0%   { opacity: 0; transform: translateX(-170%) translateY(10px) rotate(-8deg); }
+  0%   { opacity: 0; transform: translateX(-175%) translateY(10px) rotate(-7deg); }
   12%  { opacity: 1; }
-  62%  { transform: translateX(250%) translateY(-8px) rotate(6deg); }
-  100% { opacity: 1; transform: translateX(155%) translateY(0) rotate(0); }
+  60%  { transform: translateX(215%) translateY(-8px) rotate(5deg); }
+  100% { opacity: 1; transform: translateX(120%) translateY(0) rotate(0); }
 }
 @keyframes drone-hover {
-  0%, 100% { transform: translateX(155%) translateY(0) rotate(0); }
-  50%      { transform: translateX(155%) translateY(-8px) rotate(-2deg); }
+  0%, 100% { transform: translateX(120%) translateY(0) rotate(0); }
+  50%      { transform: translateX(120%) translateY(-9px) rotate(-2deg); }
 }
 
 @media (prefers-reduced-motion: reduce) {
