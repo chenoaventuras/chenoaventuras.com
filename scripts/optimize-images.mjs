@@ -74,7 +74,8 @@ for (const dir of IMG_DIRS) {
   }
 }
 
-// 2. Reescribir referencias (por nombre de archivo: los nombres son únicos aquí)
+// 2. Reescribir referencias. Se exige "/" delante del nombre para que
+//    "8.png" no pegue dentro de, p. ej., "favicon-48.png".
 if (renames.length) {
   for (const tf of TEXT_FILES) {
     const abs = join(ROOT, tf);
@@ -86,8 +87,8 @@ if (renames.length) {
     }
     let changed = false;
     for (const [from, to] of renames) {
-      if (txt.includes(from)) {
-        txt = txt.split(from).join(to);
+      if (txt.includes("/" + from)) {
+        txt = txt.split("/" + from).join("/" + to);
         changed = true;
       }
     }
