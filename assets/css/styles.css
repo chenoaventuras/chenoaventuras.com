@@ -803,8 +803,13 @@ p { margin: 0 0 1em; }
   from { transform: scale(1.09); opacity: .35; }
   to   { transform: scale(1);    opacity: 1; }
 }
-.js .hero__media img,
+.js .hero__media img:first-of-type,
 .js .pagehead__media img { animation: cheno-hero-in 1.5s cubic-bezier(.16,1,.3,1) both; }
+
+/* Hero: alterna entre dos fotos cada 5 s (ver main.js). */
+.hero__media img { position: absolute; inset: 0; }
+.hero__media img[data-hero-b] { opacity: 0; transition: opacity 1.2s ease; }
+.hero__media.show-b img[data-hero-b] { opacity: 1; }
 
 @media (prefers-reduced-motion: reduce) {
   .js .reveal,
@@ -815,6 +820,7 @@ p { margin: 0 0 1em; }
   .js .hero__media img,
   .js .pagehead__media img,
   .js .hero__portrait { animation: none; }
+  .hero__media img[data-hero-b] { transition: none; }
   html { scroll-behavior: auto; }
 }
 

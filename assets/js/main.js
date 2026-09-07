@@ -203,6 +203,35 @@
       .catch(function () { /* deja el contenido de ejemplo */ });
   }
 
+  /* ---------- Hero: alterna entre dos fotos cada 5 s ---------- */
+  var heroRot = document.querySelector("[data-hero-rotate]");
+  if (heroRot) {
+    var heroB = heroRot.querySelector("img[data-hero-b]");
+    var reduce =
+      window.matchMedia &&
+      window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    var startHeroRotate = function () {
+      if (reduce) return;
+      setInterval(function () {
+        heroRot.classList.toggle("show-b");
+      }, 5000);
+    };
+    if (heroB) {
+      if (heroB.complete && heroB.naturalWidth > 0) {
+        startHeroRotate();
+      } else {
+        heroB.addEventListener("load", startHeroRotate, { once: true });
+        heroB.addEventListener(
+          "error",
+          function () {
+            heroB.remove();
+          },
+          { once: true }
+        );
+      }
+    }
+  }
+
   /* ---------- Año dinámico ---------- */
   var y = document.querySelector("[data-year]");
   if (y) y.textContent = new Date().getFullYear();
