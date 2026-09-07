@@ -158,82 +158,8 @@
             </li>
           </ul>
         </div>
-        <div class="split__media reveal reveal--media" style="position:relative;">
+        <div class="split__media reveal reveal--media">
           <img src="assets/img/dron-vuelo.webp" alt="Dron en vuelo sobre la montaña" width="375" height="165" loading="lazy" decoding="async" />
-          <div class="drone" aria-hidden="true">
-            <svg viewBox="0 0 220 132" xmlns="http://www.w3.org/2000/svg">
-              <defs>
-                <linearGradient id="drBody" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="0" stop-color="#cfd3d7" />
-                  <stop offset="1" stop-color="#888d93" />
-                </linearGradient>
-                <linearGradient id="drArm" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="0" stop-color="#b6babf" />
-                  <stop offset="1" stop-color="#8b9096" />
-                </linearGradient>
-              </defs>
-
-              <!-- brazos plegables -->
-              <g stroke="url(#drArm)" stroke-width="10" stroke-linecap="round">
-                <line x1="110" y1="70" x2="44" y2="34" />
-                <line x1="110" y1="70" x2="176" y2="34" />
-                <line x1="110" y1="70" x2="50" y2="104" />
-                <line x1="110" y1="70" x2="170" y2="104" />
-              </g>
-
-              <!-- patas de aterrizaje -->
-              <g stroke="#9a9ea3" stroke-width="6" stroke-linecap="round" fill="none">
-                <path d="M92 96 L82 122" /><path d="M128 96 L138 122" />
-              </g>
-              <g fill="#9a9ea3">
-                <rect x="72" y="118" width="20" height="6" rx="3" />
-                <rect x="128" y="118" width="20" height="6" rx="3" />
-              </g>
-
-              <!-- motores -->
-              <g fill="#4b5056">
-                <rect x="36" y="27" width="16" height="14" rx="4" />
-                <rect x="168" y="27" width="16" height="14" rx="4" />
-                <rect x="42" y="97" width="16" height="14" rx="4" />
-                <rect x="162" y="97" width="16" height="14" rx="4" />
-              </g>
-
-              <!-- hélices: disco de desenfoque + aspa girando -->
-              <g fill="#6c7176" opacity=".2">
-                <ellipse cx="44" cy="34" rx="40" ry="8.5" />
-                <ellipse cx="176" cy="34" rx="40" ry="8.5" />
-                <ellipse cx="50" cy="104" rx="40" ry="8.5" />
-                <ellipse cx="170" cy="104" rx="40" ry="8.5" />
-              </g>
-              <g fill="#8b9096" opacity=".5">
-                <g class="rotor"><ellipse cx="44" cy="34" rx="40" ry="2.6" /></g>
-                <g class="rotor"><ellipse cx="176" cy="34" rx="40" ry="2.6" /></g>
-                <g class="rotor"><ellipse cx="50" cy="104" rx="40" ry="2.6" /></g>
-                <g class="rotor"><ellipse cx="170" cy="104" rx="40" ry="2.6" /></g>
-              </g>
-
-              <!-- fuselaje -->
-              <path d="M72 52 Q88 40 110 40 Q132 40 148 52 L152 70 Q152 88 128 92 L92 92 Q68 88 68 70 Z"
-                    fill="url(#drBody)" stroke="#787d84" stroke-width="1.5" />
-              <path d="M84 49 Q102 42 122 46 L132 55 Q112 49 94 51 Z" fill="#e2e5e7" opacity=".65" />
-              <!-- sensores frontales superiores -->
-              <circle cx="99" cy="53" r="4.6" fill="#2b2e33" />
-              <circle cx="119" cy="53" r="4.6" fill="#2b2e33" />
-              <!-- LED de estado -->
-              <circle cx="142" cy="73" r="2.6" fill="var(--gold-soft)" />
-              <!-- rejilla lateral -->
-              <g stroke="#71767d" stroke-width="1.6" stroke-linecap="round">
-                <line x1="120" y1="80" x2="134" y2="80" /><line x1="120" y1="84" x2="132" y2="84" />
-              </g>
-
-              <!-- cámara con gimbal -->
-              <rect x="86" y="80" width="32" height="28" rx="8" fill="#3a3d42" />
-              <rect x="90" y="76" width="10" height="8" rx="3" fill="#4a4e54" />
-              <circle cx="102" cy="94" r="10" fill="#1c1e22" />
-              <circle cx="102" cy="94" r="6" fill="#484c52" />
-              <circle cx="99" cy="91" r="2.1" fill="#c9ccd0" opacity=".85" />
-            </svg>
-          </div>
         </div>
       </div>
       <div class="container center" style="margin-top:40px;">
