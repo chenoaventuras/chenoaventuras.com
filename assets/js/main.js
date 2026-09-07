@@ -234,7 +234,7 @@
         live[idx].classList.remove("is-on");
         idx = (idx + 1) % live.length;
         live[idx].classList.add("is-on");
-      }, 5000);
+      }, 7000);
     });
   }
 
@@ -253,12 +253,20 @@
   });
 
   /* ---------- Tarjetas de descuento: giro 180º ---------- */
-  // En escritorio el giro es por :hover (CSS). En pantallas táctiles, al tocar.
+  // En escritorio el giro es por :hover (CSS). En pantallas táctiles, al tocar;
+  // y si pasan 10 s sin volver a tocar, se gira sola de vuelta.
   document.querySelectorAll(".dealgrid .deal").forEach(function (d) {
+    var flipBackTimer = null;
     d.addEventListener("click", function (e) {
       if (e.target.closest("a, button")) return;
       if (window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
-      d.classList.toggle("is-flipped");
+      var flipped = d.classList.toggle("is-flipped");
+      clearTimeout(flipBackTimer);
+      if (flipped) {
+        flipBackTimer = setTimeout(function () {
+          d.classList.remove("is-flipped");
+        }, 10000);
+      }
     });
   });
 
