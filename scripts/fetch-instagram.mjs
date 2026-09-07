@@ -30,6 +30,7 @@ const LIMIT = Math.max(1, Math.min(12, Number(process.env.IG_LIMIT) || 3));
 const EXCLUDE = [
   "Dc8CU-xhjww", // reel de prueba - cormorán 1
   "Dc8CQZ8v6TG", // reel de prueba - cormorán 2
+  "Dcp-RdAPGf6", // reel de prueba - Altea (duplicado)
   ...(process.env.IG_EXCLUDE || "").split(",").map((s) => s.trim()).filter(Boolean),
 ];
 const isExcluded = (m) =>
