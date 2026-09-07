@@ -238,6 +238,21 @@
     });
   }
 
+  /* ---------- Senderista: ciclo de fotogramas ---------- */
+  var hiker = document.querySelector(".hiker");
+  if (hiker && !heroReduce) {
+    var hFrames = [].slice.call(hiker.querySelectorAll("img"));
+    if (hFrames.length) {
+      var hIdx = 0;
+      hFrames[0].classList.add("on");
+      setInterval(function () {
+        hFrames[hIdx].classList.remove("on");
+        hIdx = (hIdx + 1) % hFrames.length;
+        hFrames[hIdx].classList.add("on");
+      }, 125);
+    }
+  }
+
   /* ---------- Año dinámico ---------- */
   var y = document.querySelector("[data-year]");
   if (y) y.textContent = new Date().getFullYear();
