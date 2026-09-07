@@ -179,8 +179,13 @@
           a.rel = "noopener";
           var img = document.createElement("img");
           img.src = p.image || "assets/img/blog/cola-de-caballo.jpg";
-          img.alt = "";
+          img.alt = p.caption
+            ? p.caption.replace(/\s+/g, " ").slice(0, 100)
+            : "Publicación de Chenoaventuras en Instagram";
           img.loading = "lazy";
+          img.decoding = "async";
+          img.width = 600;
+          img.height = 600;
           var body = document.createElement("div");
           body.className = "placecard__body";
           var h3 = document.createElement("h3");
