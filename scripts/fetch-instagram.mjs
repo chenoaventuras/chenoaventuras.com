@@ -11,8 +11,30 @@
  * Si no hay token, el script termina sin tocar nada (exit 0).
  */
 import { mkdir, writeFile } from "node:fs/promises";
+import { readFileSync, writeFileSync, rmSync, readdirSync } from "node:fs";
+import { execFileSync } from "node:child_process";
+import { tmpdir } from "node:os";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+
+/**
+ * Convierte un buffer de imagen a WebP con `cwebp` si está disponible.
+ * Devuelve { buf, ext }; si no hay cwebp, deja el original como .jpg.
+ */
+function toWebp(buf, id) {
+  const inPath = join(tmpdir(), `ig-${id}.bin`);
+  const outPath = join(tmpdir(), `ig-${id}.webp`);
+  try {
+    writeFileSync(inPath, buf);
+    execFileSync("cwebp", ["-quiet", "-q", "82", inPath, "-o", outPath]);
+    return { buf: readFileSync(outPath), ext: "webp" };
+  } catch {
+    return { buf, ext: "jpg" };
+  } finally {
+    try { rmSync(inPath, { force: true }); } catch {}
+    try { rmSync(outPath, { force: true }); } catch {}
+  }
+}
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT_JSON = join(ROOT, "assets", "data", "instagram.json");
@@ -76,8 +98,9 @@ for (const m of visibles.slice(0, LIMIT)) {
     try {
       const bin = await fetch(src);
       if (bin.ok) {
-        const buf = Buffer.from(await bin.arrayBuffer());
-        const rel = `assets/img/instagram/${m.id}.jpg`;
+        const raw = Buffer.from(await bin.arrayBuffer());
+        const { buf, ext } = toWebp(raw, m.id);
+        const rel = `assets/img/instagram/${m.id}.${ext}`;
         await writeFile(join(ROOT, rel), buf);
         image = rel;
       }
@@ -98,5 +121,18 @@ await writeFile(
   OUT_JSON,
   JSON.stringify({ updated: new Date().toISOString(), posts }, null, 2) + "\n"
 );
+
+// Borra miniaturas antiguas que ya no están en el JSON (no se acumulan).
+try {
+  const keep = new Set(posts.map((p) => p.image && p.image.split("/").pop()));
+  for (const f of readdirSync(IMG_DIR)) {
+    if (!keep.has(f)) {
+      rmSync(join(IMG_DIR, f), { force: true });
+      console.log("miniatura antigua eliminada:", f);
+    }
+  }
+} catch {
+  /* nada que limpiar */
+}
 
 console.log(`instagram.json actualizado con ${posts.length} publicaciones.`);

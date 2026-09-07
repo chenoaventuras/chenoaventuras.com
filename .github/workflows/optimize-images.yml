@@ -1,0 +1,46 @@
+name: Optimizar imágenes a WebP
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/img/**"
+      - "assets/descuentos/**"
+      - "scripts/optimize-images.mjs"
+      - ".github/workflows/optimize-images.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: optimize-images
+  cancel-in-progress: false
+
+jobs:
+  webp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar cwebp
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq webp
+
+      - name: Convertir a WebP y reescribir referencias
+        run: node scripts/optimize-images.mjs
+
+      - name: Commit y push si hay cambios
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name  "cheno-bot"
+            git config user.email "chenoaventuras@gmail.com"
+            git add -A
+            git commit -m "chore: imágenes convertidas a WebP"
+            git push
+          else
+            echo "Sin cambios."
+          fi
