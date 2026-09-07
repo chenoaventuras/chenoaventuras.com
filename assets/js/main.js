@@ -203,33 +203,39 @@
       .catch(function () { /* deja el contenido de ejemplo */ });
   }
 
-  /* ---------- Hero: alterna entre dos fotos cada 5 s ---------- */
+  /* ---------- Hero: alterna entre varias fotos cada 5 s ---------- */
   var heroRot = document.querySelector("[data-hero-rotate]");
-  if (heroRot) {
-    var heroB = heroRot.querySelector("img[data-hero-b]");
-    var reduce =
-      window.matchMedia &&
-      window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    var startHeroRotate = function () {
-      if (reduce) return;
+  var heroReduce =
+    window.matchMedia &&
+    window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (heroRot && !heroReduce) {
+    var heroImgs = [].slice.call(heroRot.querySelectorAll("img"));
+    Promise.all(
+      heroImgs.map(function (im) {
+        return new Promise(function (res) {
+          if (im.complete) return res();
+          im.addEventListener("load", res, { once: true });
+          im.addEventListener("error", res, { once: true });
+        });
+      })
+    ).then(function () {
+      // descarta las que no hayan cargado (p. ej. el archivo aún no existe)
+      heroImgs.forEach(function (im) {
+        if (im.naturalWidth === 0) im.remove();
+      });
+      var live = heroImgs.filter(function (im) {
+        return im.naturalWidth > 0;
+      });
+      if (live.length < 2) return;
+      heroRot.classList.add("js-rotate");
+      var idx = 0;
+      live[0].classList.add("is-on");
       setInterval(function () {
-        heroRot.classList.toggle("show-b");
+        live[idx].classList.remove("is-on");
+        idx = (idx + 1) % live.length;
+        live[idx].classList.add("is-on");
       }, 5000);
-    };
-    if (heroB) {
-      if (heroB.complete && heroB.naturalWidth > 0) {
-        startHeroRotate();
-      } else {
-        heroB.addEventListener("load", startHeroRotate, { once: true });
-        heroB.addEventListener(
-          "error",
-          function () {
-            heroB.remove();
-          },
-          { once: true }
-        );
-      }
-    }
+    });
   }
 
   /* ---------- Año dinámico ---------- */
