@@ -818,14 +818,14 @@ p { margin: 0 0 1em; }
   bottom: 12px;            /* nivel del valle del papel roto; el resto lo ajusta main.js */
   z-index: 3;
   width: clamp(44px, 5.5vw, 68px);
-  pointer-events: none;
-  will-change: transform;
-  animation: hiker-cross 30s linear infinite;
+  pointer-events: auto;     /* al pulsarlo cambia de sentido (main.js) */
+  cursor: pointer;
+  will-change: transform;   /* main.js mueve esto en horizontal */
 }
 .hiker__inner {
   position: relative;
   width: 100%;
-  will-change: transform;   /* main.js sube/baja esto para seguir el corte */
+  will-change: transform;   /* main.js: sube/baja para seguir el corte y voltea al girar */
 }
 .hiker__inner img {
   position: absolute;
@@ -835,10 +835,6 @@ p { margin: 0 0 1em; }
   filter: drop-shadow(0 4px 5px rgba(0, 0, 0, .3));
 }
 .hiker__inner img.on { opacity: 1; }
-@keyframes hiker-cross {
-  from { transform: translateX(-16vw); }
-  to   { transform: translateX(116vw); }
-}
 
 @media (prefers-reduced-motion: reduce) {
   .js .reveal,

@@ -273,15 +273,37 @@
       return EDGE[EDGE.length - 1][1];
     }
     var heroEl = hiker.parentElement;
-    (function follow() {
-      var hr = hiker.getBoundingClientRect();
+    var MARGIN = 120;                 // px fuera de pantalla antes de reaparecer
+    var dir = 1;                      // 1 = hacia la derecha, -1 = hacia la izquierda
+    var posX = -MARGIN;               // posición horizontal dentro del hero (px)
+    var last = null;
+
+    // Al pulsar el senderista, se da la vuelta.
+    hiker.addEventListener("click", function () {
+      dir = -dir;
+    });
+
+    (function follow(ts) {
       var her = heroEl.getBoundingClientRect();
-      var footX = hr.left + hr.width / 2;
-      // el patrón se repite (repeat-x) centrado (background-position: bottom center)
-      var origin = her.left + her.width / 2 - TILE / 2;
+      var heroW = her.width;
+      if (last == null) last = ts || 0;
+      var dt = Math.min(((ts || 0) - last) / 1000, 0.05); // s, con tope anti-saltos
+      last = ts || 0;
+
+      var speed = (heroW + 2 * MARGIN) / 30; // ~30 s de lado a lado, como antes
+      posX += dir * speed * dt;
+      if (dir > 0 && posX > heroW + MARGIN) posX = -MARGIN;
+      else if (dir < 0 && posX < -MARGIN) posX = heroW + MARGIN;
+      hiker.style.transform = "translateX(" + posX + "px)";
+
+      // Altura: seguir el corte del papel roto (patrón repeat-x centrado).
+      var footX = her.left + posX + hiker.offsetWidth / 2;
+      var origin = her.left + heroW / 2 - TILE / 2;
       var px = (((footX - origin) % TILE) + TILE) % TILE;
       var lift = VALLEY - edgeY(px); // 0 en el valle, ~15 en la cresta
-      hikerInner.style.transform = "translateY(" + -lift + "px)";
+      hikerInner.style.transform =
+        "translateY(" + -lift + "px) scaleX(" + dir + ")";
+
       requestAnimationFrame(follow);
     })();
   }
