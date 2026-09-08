@@ -823,17 +823,30 @@ p { margin: 0 0 1em; }
   will-change: transform;
   animation: hiker-cross 30s linear infinite;
 }
-.hiker img {
+.hiker__inner {
+  position: relative;
+  width: 100%;
+  animation: hiker-bob 2s ease-in-out infinite;
+}
+.hiker__inner img {
   position: absolute;
   left: 0; bottom: 0;
   width: 100%; height: auto;
   opacity: 0;
   filter: drop-shadow(0 4px 5px rgba(0, 0, 0, .3));
 }
-.hiker img.on { opacity: 1; }
+.hiker__inner img.on { opacity: 1; }
 @keyframes hiker-cross {
   from { transform: translateX(-16vw); }
   to   { transform: translateX(116vw); }
+}
+/* sube y baja como si pisara las crestas del papel roto */
+@keyframes hiker-bob {
+  0%   { transform: translateY(7px)  rotate(2.5deg); }
+  22%  { transform: translateY(-9px) rotate(-1.5deg); }
+  46%  { transform: translateY(3px)  rotate(1.5deg); }
+  70%  { transform: translateY(-8px) rotate(-2.5deg); }
+  100% { transform: translateY(7px)  rotate(2.5deg); }
 }
 
 @media (prefers-reduced-motion: reduce) {
