@@ -53,6 +53,7 @@ const EXCLUDE = [
   "Dc8CU-xhjww", // reel de prueba - cormorán 1
   "Dc8CQZ8v6TG", // reel de prueba - cormorán 2
   "Dcp-RdAPGf6", // reel de prueba - Altea (duplicado)
+  "Dc_xZjextIf", // reel de prueba
   ...(process.env.IG_EXCLUDE || "").split(",").map((s) => s.trim()).filter(Boolean),
 ];
 const isExcluded = (m) =>
