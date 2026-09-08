@@ -238,10 +238,11 @@
     });
   }
 
-  /* ---------- Senderista: ciclo de fotogramas ---------- */
+  /* ---------- Senderista: ciclo de fotogramas + sigue el corte del papel roto ---------- */
   var hiker = document.querySelector(".hiker");
-  if (hiker && !heroReduce) {
-    var hFrames = [].slice.call(hiker.querySelectorAll("img"));
+  var hikerInner = hiker && hiker.querySelector(".hiker__inner");
+  if (hiker && hikerInner && !heroReduce) {
+    var hFrames = [].slice.call(hikerInner.querySelectorAll("img"));
     if (hFrames.length) {
       var hIdx = 0;
       hFrames[0].classList.add("on");
@@ -251,6 +252,38 @@
         hFrames[hIdx].classList.add("on");
       }, 125);
     }
+
+    // Perfil del borde (assets/img/edges/torn-paper.svg), viewBox 1200x34.
+    var EDGE = [
+      [0, 15], [24, 19], [47, 9], [72, 17], [98, 7], [128, 18], [156, 10],
+      [188, 20], [214, 9], [246, 17], [278, 6], [312, 16], [342, 11], [374, 21],
+      [404, 9], [436, 17], [470, 7], [500, 18], [532, 8], [566, 17], [598, 6],
+      [632, 15], [664, 10], [698, 19], [728, 8], [762, 16], [794, 6], [828, 17],
+      [860, 7], [892, 16], [924, 11], [958, 19], [988, 8], [1020, 16], [1052, 6],
+      [1086, 17], [1118, 9], [1150, 18], [1178, 10], [1200, 15]
+    ];
+    var TILE = 1200, VALLEY = 21; // y máximo del perfil = punto más bajo
+    function edgeY(px) {
+      for (var i = 0; i < EDGE.length - 1; i++) {
+        if (px >= EDGE[i][0] && px <= EDGE[i + 1][0]) {
+          var t = (px - EDGE[i][0]) / (EDGE[i + 1][0] - EDGE[i][0]);
+          return EDGE[i][1] + t * (EDGE[i + 1][1] - EDGE[i][1]);
+        }
+      }
+      return EDGE[EDGE.length - 1][1];
+    }
+    var heroEl = hiker.parentElement;
+    (function follow() {
+      var hr = hiker.getBoundingClientRect();
+      var her = heroEl.getBoundingClientRect();
+      var footX = hr.left + hr.width / 2;
+      // el patrón se repite (repeat-x) centrado (background-position: bottom center)
+      var origin = her.left + her.width / 2 - TILE / 2;
+      var px = (((footX - origin) % TILE) + TILE) % TILE;
+      var lift = VALLEY - edgeY(px); // 0 en el valle, ~15 en la cresta
+      hikerInner.style.transform = "translateY(" + -lift + "px)";
+      requestAnimationFrame(follow);
+    })();
   }
 
   /* ---------- Año dinámico ---------- */
