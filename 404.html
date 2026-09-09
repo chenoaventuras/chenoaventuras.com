@@ -72,6 +72,8 @@
     }
     :root[data-theme="dark"] .runner .runner__hint { color: #d7dbe3; }
     :root[data-theme="dark"] .site-header--solid { background: #0f1622; }
+    :root[data-theme="dark"] .g404__actions .btn--ghost { --btn-fg: #fff; border-color: rgba(255,255,255,.75); }
+    :root[data-theme="dark"] .g404__actions .btn--ghost:hover { background: #fff; --btn-fg: #14140f; border-color: #fff; }
   </style>
 </head>
 <body>
@@ -503,31 +505,34 @@
         ctx.fillRect(player.x, player.y, player.w, player.h);
       }
 
-      // modo oscuro: Cheno lleva linterna -> el resto queda a oscuras
+      // modo oscuro: es de noche, pero la linterna de Cheno alumbra
+      // TODO el recorrido hacia delante para que dé tiempo a ver los obstáculos
       if (dark) {
         var lx = player.x + player.w * 0.72, ly = player.y + player.h * 0.42;
-        // oscuridad general con un charco de luz alrededor de Cheno
-        var og = ctx.createRadialGradient(lx, ly, 14, lx, ly, 120);
-        og.addColorStop(0, "rgba(9,11,17,0)");
-        og.addColorStop(0.55, "rgba(9,11,17,.26)");
-        og.addColorStop(1, "rgba(7,9,14,.88)");
-        ctx.fillStyle = og;
+        // atenuación general suave: se ve todo, solo da ambiente nocturno
+        ctx.fillStyle = "rgba(8,10,16,.30)";
         ctx.fillRect(0, 0, W, H);
-        // haz de la linterna hacia delante
+        // haz de la linterna: abanico que llega hasta el borde derecho
         ctx.save();
         ctx.beginPath();
-        ctx.moveTo(lx - 4, ly);
-        ctx.lineTo(lx + 350, ly - 110);
-        ctx.lineTo(lx + 350, ly + 120);
+        ctx.moveTo(lx - 6, ly - 4);
+        ctx.lineTo(W + 60, ly - H);
+        ctx.lineTo(W + 60, ly + H);
         ctx.closePath();
         ctx.clip();
-        var bg = ctx.createRadialGradient(lx, ly, 6, lx, ly, 360);
-        bg.addColorStop(0, "rgba(255,244,214,.34)");
-        bg.addColorStop(0.6, "rgba(255,240,205,.10)");
-        bg.addColorStop(1, "rgba(255,240,205,0)");
+        var bg = ctx.createLinearGradient(lx, 0, W, 0);
+        bg.addColorStop(0, "rgba(255,246,220,.32)");
+        bg.addColorStop(0.5, "rgba(255,244,214,.18)");
+        bg.addColorStop(1, "rgba(255,244,214,.12)");
         ctx.fillStyle = bg;
         ctx.fillRect(0, 0, W, H);
         ctx.restore();
+        // foquito brillante junto a Cheno
+        var wg = ctx.createRadialGradient(lx, ly, 4, lx, ly, 86);
+        wg.addColorStop(0, "rgba(255,240,200,.30)");
+        wg.addColorStop(1, "rgba(255,240,200,0)");
+        ctx.fillStyle = wg;
+        ctx.fillRect(0, 0, W, H);
       }
 
       // marcador
