@@ -121,7 +121,7 @@
     var ctx = canvas.getContext("2d");
     var DPR = Math.min(window.devicePixelRatio || 1, 2);
 
-    var W = 0, H = 0;
+    var W = 0, H = 0, isMobile = false, speedScale = 1;
     function resize() {
       W = canvas.clientWidth;
       H = canvas.clientHeight;
@@ -129,6 +129,8 @@
       canvas.height = Math.round(H * DPR);
       ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
       GROUND = H - 28;
+      isMobile = W < 620;
+      speedScale = isMobile ? 0.72 : 1;   // en móvil todo más lento: da tiempo a ver
       if (player) player.y = Math.min(player.y, GROUND - player.h);
     }
 
@@ -158,6 +160,7 @@
     var started = false, running = false, over = false;
     var score = 0, best = 0;
     var nextCat = 300, flashT = 0, flashMsg = "";
+    var level = 1, nextLevel = 650;   // a partir de 650 sube de nivel cada 100
     try { best = parseInt(localStorage.getItem("cheno-run-best") || "0", 10) || 0; } catch (e) {}
 
     // Tipos que se van alternando.
@@ -177,9 +180,40 @@
       player.frame = 0; player.frameT = 0;
       score = 0; over = false; started = true; running = true;
       nextCat = 300; flashT = 0; spawnKind = 0;
+      level = 1; nextLevel = 650;
+    }
+
+    /* --- sonido: "miau" sintetizado al saltar a Francho --- */
+    var actx = null;
+    function audioReady() {
+      try {
+        if (!actx) actx = new (window.AudioContext || window.webkitAudioContext)();
+        if (actx && actx.state === "suspended") actx.resume();
+      } catch (e) { actx = null; }
+    }
+    function meow() {
+      if (!actx) return;
+      var t0 = actx.currentTime;
+      var o = actx.createOscillator(), g = actx.createGain(), f = actx.createBiquadFilter();
+      o.type = "sawtooth";
+      f.type = "lowpass"; f.frequency.value = 1700; f.Q.value = 7;
+      o.frequency.setValueAtTime(520, t0);
+      o.frequency.exponentialRampToValueAtTime(910, t0 + 0.10);
+      o.frequency.exponentialRampToValueAtTime(560, t0 + 0.34);
+      g.gain.setValueAtTime(0.0001, t0);
+      g.gain.exponentialRampToValueAtTime(0.22, t0 + 0.04);
+      g.gain.exponentialRampToValueAtTime(0.15, t0 + 0.22);
+      g.gain.exponentialRampToValueAtTime(0.0001, t0 + 0.42);
+      var lfo = actx.createOscillator(), lg = actx.createGain();
+      lfo.frequency.value = 24; lg.gain.value = 20;
+      lfo.connect(lg); lg.connect(o.frequency);
+      o.connect(f); f.connect(g); g.connect(actx.destination);
+      o.start(t0); lfo.start(t0);
+      o.stop(t0 + 0.44); lfo.stop(t0 + 0.44);
     }
 
     function action() {
+      audioReady();
       if (!started || over) { reset(); syncBtn(); return; }
       if (player.onGround) { player.vy = JUMP_V; player.onGround = false; }
     }
@@ -306,13 +340,23 @@
 
       if (running) {
         score += dt * 11;
-        speed = BASE_SPEED + Math.min(score * 2.7, 470);   // sube, pero sin pasarse
+
+        // a partir de 650, subimos el nivel cada 100 puntos
+        if (Math.floor(score) >= nextLevel) {
+          level++;
+          flashMsg = "¡Subimos el nivel!";
+          flashT = 2.0;
+          nextLevel += 100;
+        }
+
+        var ramp = Math.min(score * 2.7, 470) + (level - 1) * 46;
+        speed = (BASE_SPEED + ramp) * speedScale;
         groundOffset = (groundOffset + speed * dt) % 38;
 
-        // sorpresa: el gato, al llegar a 300 (y cada 300)
+        // sorpresa: el gato Francho, al llegar a 300 (y cada 300)
         if (Math.floor(score) >= nextCat) {
           spawnCat();
-          flashMsg = "¡" + nextCat + "!  sorpresa: ¡el gato!  sáltalo";
+          flashMsg = "¡NO PISES A FRANCHO!";
           flashT = 2.2;
           nextCat += 300;
         }
@@ -321,8 +365,8 @@
         if (spawnT >= nextSpawn) {
           spawn();
           spawnT = 0;
-          var gapMin = Math.max(0.56, 1.12 - score / 230);
-          nextSpawn = gapMin + Math.random() * 0.7;
+          var gapMin = Math.max(0.56, 1.12 - score / 230) - (level - 1) * 0.03;
+          nextSpawn = Math.max(0.4, gapMin) + Math.random() * 0.7;
         }
 
         player.vy += GRAV * dt;
@@ -335,6 +379,11 @@
           var o = obstacles[k];
           o.x -= speed * dt;
           if (o.cat) o.bob += dt * 9;
+          // saltaste a Francho y lo dejaste atrás -> ¡miau!
+          if (o.cat && !o.cleared && (o.x + o.w) < player.x) {
+            o.cleared = true;
+            if (!over) meow();
+          }
           if (o.x + o.w < -30) { obstacles.splice(k, 1); continue; }
           if (hit(o)) {
             running = false; over = true;
