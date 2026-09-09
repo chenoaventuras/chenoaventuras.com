@@ -157,7 +157,7 @@
             </div>
           </form>
           <div class="scoreboard" hidden>
-            <h2 class="scoreboard__title">Mejores marcas</h2>
+            <h2 class="scoreboard__title">Top 5 mundial</h2>
             <ol id="score-board"></ol>
           </div>
           <p class="runner__hint">También sirve ESPACIO o ↑. Pulsa este botón para empezar, saltar y reintentar.</p>
@@ -258,30 +258,79 @@
       jumpBtn.textContent = !started ? "EMPEZAR" : (over ? "REINTENTAR" : "SALTAR");
     }
 
-    /* --- top 5: los mejores guardan su nombre (localStorage) --- */
+    /* --- top 5 mundial: ranking online en Supabase, con copia local de respaldo --- */
     var TOP_KEY = "cheno-run-top";
+    var SUPA_URL = "https://kfjdqxlhlcppbjryyikn.supabase.co";
+    var SUPA_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtmamRxeGxobGNwcGJqcnl5aWtuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg5ODgzNDIsImV4cCI6MjEwNDU2NDM0Mn0.GRT8tZ3iC1nyCiSAIiDcnTaJOBm1KmMpgXrvMIjqOQU";
+    var SUPA_REST = SUPA_URL + "/rest/v1/scores";
+    var SUPA_HEADERS = { apikey: SUPA_KEY, Authorization: "Bearer " + SUPA_KEY };
+
     var scoreForm = document.getElementById("score-form");
     var scoreName = document.getElementById("score-name");
     var scoreBoard = document.getElementById("score-board");
     var boardWrap = document.querySelector(".scoreboard");
     var pendingScore = 0;
+    var pendingPlayed = 0;
+    var runStart = 0;
+    var topCache = [];
 
-    function loadTop() {
+    function loadLocal() {
       try {
         var a = JSON.parse(localStorage.getItem(TOP_KEY));
         return Array.isArray(a) ? a.filter(function (e) { return e && typeof e.score === "number"; }) : [];
       } catch (e) { return []; }
     }
-    function saveTop(list) {
+    function saveLocal(list) {
       try { localStorage.setItem(TOP_KEY, JSON.stringify(list)); } catch (e) {}
     }
-    function renderBoard() {
+    function normalize(list) {
+      return (list || [])
+        .map(function (e) { return { name: String(e.name || "Anónimo").slice(0, 14), score: e.score | 0 }; })
+        .sort(function (a, b) { return b.score - a.score; })
+        .slice(0, 5);
+    }
+
+    function supaReadDirect() {
+      return fetch(SUPA_REST + "?select=name,score&order=score.desc&limit=5", { headers: SUPA_HEADERS })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .catch(function () { return null; });
+    }
+    function fetchTopOnline() {
+      if (!window.fetch) return Promise.resolve(null);
+      // 1º la función blindada; si no está lista, lectura directa de Supabase.
+      return fetch("/api/scores", { headers: { Accept: "application/json" } })
+        .then(function (r) { if (!r.ok) throw 0; return r.json(); })
+        .catch(function () { return supaReadDirect(); });
+    }
+    function submitOnline(name, score, playedMs) {
+      if (!window.fetch) return Promise.resolve(false);
+      return fetch("/api/scores", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name: name, score: score, t: playedMs || 0 })
+      }).then(function (r) {
+        if (r.ok) return true;
+        if (r.status === 400 || r.status === 429) return false; // rechazada a propósito
+        throw 0;                                                // función no disponible -> respaldo
+      }).catch(function () {
+        return fetch(SUPA_REST, {
+          method: "POST",
+          headers: {
+            apikey: SUPA_KEY, Authorization: "Bearer " + SUPA_KEY,
+            "Content-Type": "application/json", Prefer: "return=minimal"
+          },
+          body: JSON.stringify({ name: name, score: score })
+        }).then(function (r) { return r.ok; }).catch(function () { return false; });
+      });
+    }
+
+    function renderBoard(list) {
       if (!scoreBoard || !boardWrap) return;
-      var list = loadTop();
+      list = normalize(list || topCache);
       if (!list.length) { boardWrap.hidden = true; return; }
       boardWrap.hidden = false;
       scoreBoard.innerHTML = "";
-      list.slice(0, 5).forEach(function (e, i) {
+      list.forEach(function (e, i) {
         var li = document.createElement("li");
         var n = document.createElement("span"); n.className = "n";
         n.textContent = (i + 1) + ". " + e.name;
@@ -291,10 +340,22 @@
         scoreBoard.appendChild(li);
       });
     }
+    function refreshTop() {
+      return fetchTopOnline().then(function (data) {
+        if (Array.isArray(data)) {
+          topCache = normalize(data);
+          saveLocal(topCache);
+        } else if (!topCache.length) {
+          topCache = normalize(loadLocal());
+        }
+        if (topCache.length) best = Math.max(best, topCache[0].score);
+        renderBoard(topCache);
+        return topCache;
+      });
+    }
     function qualifies(sc) {
       if (sc <= 0) return false;
-      var list = loadTop();
-      return list.length < 5 || sc > list[list.length - 1].score;
+      return topCache.length < 5 || sc > topCache[topCache.length - 1].score;
     }
     function offerNameEntry(sc) {
       if (!scoreForm) return;
@@ -307,18 +368,21 @@
         e.preventDefault();
         if (scoreForm.hidden || pendingScore <= 0) return;
         var name = ((scoreName && scoreName.value) || "").trim().slice(0, 14) || "Anónimo";
-        var list = loadTop();
-        list.push({ name: name, score: pendingScore });
-        list.sort(function (a, b) { return b.score - a.score; });
-        list = list.slice(0, 5);
-        saveTop(list);
+        var sc = pendingScore;
+        var played = pendingPlayed;
         scoreForm.hidden = true;
-        best = Math.max(best, list[0].score);
-        renderBoard();
+        // pinta ya la marca de forma optimista
+        topCache = normalize(topCache.concat([{ name: name, score: sc }]));
+        saveLocal(topCache);
+        best = Math.max(best, topCache[0].score);
+        renderBoard(topCache);
+        // guarda en el servidor y recarga el ranking real
+        submitOnline(name, sc, played).then(function () { return refreshTop(); });
       });
     }
-    renderBoard();
-    (function () { var t = loadTop(); if (t.length) best = Math.max(best, t[0].score); })();
+    topCache = normalize(loadLocal());
+    renderBoard(topCache);
+    refreshTop();
 
     function reset() {
       obstacles = [];
@@ -329,6 +393,7 @@
       score = 0; over = false; started = true; running = true;
       nextCat = 300; flashT = 0; spawnKind = 0;
       level = 1; nextLevel = 650;
+      runStart = Date.now();
       if (scoreForm) scoreForm.hidden = true;
     }
 
@@ -537,10 +602,15 @@
           if (hit(o)) {
             running = false; over = true;
             var finalScore = Math.floor(score);
+            pendingPlayed = runStart ? Math.max(0, Date.now() - runStart) : 0;
             best = Math.max(best, finalScore);
             try { localStorage.setItem("cheno-run-best", String(best)); } catch (e) {}
             syncBtn();
-            if (qualifies(finalScore)) offerNameEntry(finalScore);
+            // trae el top mundial más reciente antes de decidir si entra
+            refreshTop().then(function () {
+              if (!over) return;                 // ya reinició
+              if (qualifies(finalScore)) offerNameEntry(finalScore);
+            });
           }
         }
 
