@@ -148,20 +148,20 @@
 
     var player = { x: 52, y: 0, w: 44, h: 60, vy: 0, onGround: true, frame: 0, frameT: 0 };
 
-    var GRAV = 2700;      // px/s^2
-    var JUMP_V = -815;    // px/s
-    var BASE_SPEED = 340; // px/s
+    var GRAV = 2650;      // px/s^2
+    var JUMP_V = -800;    // px/s
+    var BASE_SPEED = 322; // px/s
 
     var obstacles = [];
     var spawnT = 0, nextSpawn = 1.1, spawnKind = 0;
     var speed = BASE_SPEED;
     var started = false, running = false, over = false;
     var score = 0, best = 0;
-    var nextCat = 500, flashT = 0, flashMsg = "";
+    var nextCat = 300, flashT = 0, flashMsg = "";
     try { best = parseInt(localStorage.getItem("cheno-run-best") || "0", 10) || 0; } catch (e) {}
 
-    // Tipos que se van alternando: monumentos/cosas de España + tronco, cascada, oveja.
-    var KINDS = ["molino", "tronco", "cascada", "acueducto", "oveja", "toro"];
+    // Tipos que se van alternando.
+    var KINDS = ["roca", "molino", "tronco"];
 
     var jumpBtn = document.getElementById("run-jump");
     function syncBtn() {
@@ -176,7 +176,7 @@
       player.y = GROUND - player.h; player.vy = 0; player.onGround = true;
       player.frame = 0; player.frameT = 0;
       score = 0; over = false; started = true; running = true;
-      nextCat = 500; flashT = 0; spawnKind = 0;
+      nextCat = 300; flashT = 0; spawnKind = 0;
     }
 
     function action() {
@@ -184,27 +184,25 @@
       if (player.onGround) { player.vy = JUMP_V; player.onGround = false; }
     }
 
-    // ancho/alto base por tipo (la caja de choque; el dibujo puede desbordar un poco)
-    var SIZE = {
-      molino:    { w: 26, h: 44 },
-      tronco:    { w: 50, h: 20 },
-      cascada:   { w: 16, h: 50 },
-      acueducto: { w: 48, h: 38 },
-      oveja:     { w: 42, h: 28 },
-      toro:      { w: 48, h: 34 }
-    };
-
     function spawn() {
-      var clusterP = 0.12 + Math.min(score / 1600, 0.26);
+      var clusterP = 0.12 + Math.min(score / 1900, 0.20);
       var cluster = Math.random() < clusterP ? 2 : 1;
       var gap = 0;
       for (var c = 0; c < cluster; c++) {
         var kind = KINDS[spawnKind % KINDS.length];
         spawnKind++;
-        var s = SIZE[kind];
-        var jitter = 0.85 + Math.random() * 0.4;
-        var w = Math.round(s.w * (kind === "tronco" ? jitter : 1));
-        var h = Math.round(s.h * (0.9 + Math.random() * 0.25));
+        var w, h;
+        if (kind === "roca") {
+          var big = Math.random() < 0.28;
+          h = Math.round(big ? 28 + Math.random() * 16 : 16 + Math.random() * 12);
+          w = Math.round(big ? 24 + Math.random() * 18 : 15 + Math.random() * 12);
+        } else if (kind === "tronco") {
+          h = Math.round(20 * (0.9 + Math.random() * 0.25));
+          w = Math.round(50 * (0.85 + Math.random() * 0.4));
+        } else { // molino
+          h = Math.round(44 * (0.92 + Math.random() * 0.18));
+          w = 26;
+        }
         obstacles.push({ x: W + 26 + gap, y: GROUND - h, w: w, h: h, kind: kind, ph: Math.random() * 6 });
         gap += w + 20;
       }
@@ -282,84 +280,17 @@
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.55, 0, Math.PI * 2); ctx.stroke();
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.26, 0, Math.PI * 2); ctx.stroke();
     }
-    function drawCascada(o) {                   // cascada
-      var base = o.y + o.h;
-      var grd = ctx.createLinearGradient(0, o.y, 0, base);
-      grd.addColorStop(0, "#93bbe8"); grd.addColorStop(1, "#4d84c5");
-      ctx.fillStyle = grd;
-      rrect(o.x, o.y, o.w, o.h, 5); ctx.fill();
-      ctx.strokeStyle = "rgba(255,255,255,.6)"; ctx.lineWidth = 1.5;
-      var t = performance.now() / 90 + o.ph * 10;
-      for (var i = 0; i < 3; i++) {
-        var lx = o.x + 3 + i * (o.w - 6) / 2;
-        var ly = o.y + ((t + i * 17) % o.h);
-        ctx.beginPath(); ctx.moveTo(lx, ly); ctx.lineTo(lx, ly + 7); ctx.stroke();
-      }
-      ctx.fillStyle = "#eef4fb";
-      ctx.beginPath(); ctx.ellipse(o.x + o.w / 2, base, o.w * 0.95, 5, 0, 0, Math.PI * 2); ctx.fill();
-    }
-    function drawAcueducto(o) {                 // acueducto de Segovia
-      var base = o.y + o.h;
-      ctx.fillStyle = "#cdbfa6";
-      ctx.fillRect(o.x, o.y, o.w, o.h);
-      ctx.fillStyle = "#f4f1ea";
-      var aw = o.w * 0.30, ah = o.h * 0.68;
-      for (var i = 0; i < 2; i++) {
-        var axc = o.x + o.w * (i ? 0.70 : 0.30);
-        ctx.beginPath();
-        ctx.moveTo(axc - aw / 2, base);
-        ctx.lineTo(axc - aw / 2, base - ah + aw / 2);
-        ctx.arc(axc, base - ah + aw / 2, aw / 2, Math.PI, 0);
-        ctx.lineTo(axc + aw / 2, base);
-        ctx.closePath(); ctx.fill();
-      }
-      ctx.fillStyle = "#b7a889";
-      ctx.fillRect(o.x - 1, o.y, o.w + 2, 4);
-    }
-    function drawOveja(o) {                     // oveja
-      var base = o.y + o.h;
-      ctx.strokeStyle = "#37372f"; ctx.lineWidth = 3;
-      ctx.beginPath();
-      ctx.moveTo(o.x + o.w * 0.32, base); ctx.lineTo(o.x + o.w * 0.32, base - 6);
-      ctx.moveTo(o.x + o.w * 0.66, base); ctx.lineTo(o.x + o.w * 0.66, base - 6);
-      ctx.stroke();
-      ctx.fillStyle = "#efe9dd";
-      var cy = o.y + o.h * 0.44, rr = o.h * 0.44;
-      [0.30, 0.5, 0.70].forEach(function (fx) {
-        ctx.beginPath(); ctx.arc(o.x + o.w * fx, cy, rr, 0, Math.PI * 2); ctx.fill();
-      });
-      ctx.beginPath(); ctx.arc(o.x + o.w * 0.5, cy - rr * 0.5, rr, 0, Math.PI * 2); ctx.fill();
-      ctx.fillStyle = "#37372f";
-      ctx.beginPath(); ctx.ellipse(o.x + o.w * 0.88, cy, rr * 0.48, rr * 0.6, 0, 0, Math.PI * 2); ctx.fill();
-    }
-    function drawToro(o) {                      // toro de Osborne
-      var base = o.y + o.h, w = o.w, h = o.h, x = o.x, y = o.y;
-      ctx.fillStyle = "#1c1c1a";
-      ctx.beginPath();
-      ctx.moveTo(x + w * 0.02, base);
-      ctx.lineTo(x + w * 0.12, y + h * 0.34);
-      ctx.lineTo(x + w * 0.34, y + h * 0.16);
-      ctx.lineTo(x + w * 0.58, y + h * 0.18);
-      ctx.lineTo(x + w * 0.66, y + h * 0.00);
-      ctx.lineTo(x + w * 0.74, y + h * 0.18);
-      ctx.lineTo(x + w * 0.88, y + h * 0.03);
-      ctx.lineTo(x + w * 0.92, y + h * 0.30);
-      ctx.lineTo(x + w * 0.82, y + h * 0.52);
-      ctx.lineTo(x + w * 0.82, base);
-      ctx.lineTo(x + w * 0.64, base);
-      ctx.lineTo(x + w * 0.62, y + h * 0.58);
-      ctx.lineTo(x + w * 0.30, y + h * 0.58);
-      ctx.lineTo(x + w * 0.24, base);
-      ctx.closePath(); ctx.fill();
+    function drawRoca(o) {                      // roca verde (como al principio)
+      rockPath(o);
+      ctx.fillStyle = "#3f4a2e";
+      ctx.fill();
+      ctx.fillStyle = "rgba(255,255,255,.10)";
+      ctx.fillRect(o.x + 3, o.y + 2, Math.max(2, o.w - 6), 3);
     }
     function drawObstacle(o) {
       if (o.kind === "molino") return drawMolino(o);
       if (o.kind === "tronco") return drawTronco(o);
-      if (o.kind === "cascada") return drawCascada(o);
-      if (o.kind === "acueducto") return drawAcueducto(o);
-      if (o.kind === "oveja") return drawOveja(o);
-      if (o.kind === "toro") return drawToro(o);
-      rockPath(o); ctx.fillStyle = "#3f4a2e"; ctx.fill();
+      return drawRoca(o);
     }
 
     function text(str, x, y, weight, size, color) {
@@ -375,23 +306,23 @@
 
       if (running) {
         score += dt * 11;
-        speed = BASE_SPEED + Math.min(score * 3.4, 660);   // cada vez más rápido
+        speed = BASE_SPEED + Math.min(score * 2.7, 470);   // sube, pero sin pasarse
         groundOffset = (groundOffset + speed * dt) % 38;
 
-        // sorpresa: el gato, al llegar a 500 (y cada 500)
+        // sorpresa: el gato, al llegar a 300 (y cada 300)
         if (Math.floor(score) >= nextCat) {
           spawnCat();
           flashMsg = "¡" + nextCat + "!  sorpresa: ¡el gato!  sáltalo";
           flashT = 2.2;
-          nextCat += 500;
+          nextCat += 300;
         }
 
         spawnT += dt;
         if (spawnT >= nextSpawn) {
           spawn();
           spawnT = 0;
-          var gapMin = Math.max(0.46, 1.05 - score / 190);
-          nextSpawn = gapMin + Math.random() * 0.6;
+          var gapMin = Math.max(0.56, 1.12 - score / 230);
+          nextSpawn = gapMin + Math.random() * 0.7;
         }
 
         player.vy += GRAV * dt;
