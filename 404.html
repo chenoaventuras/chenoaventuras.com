@@ -33,9 +33,14 @@
     #run-game { display: block; width: 100%; height: 220px; border-radius: 8px; touch-action: none;
       background:
         radial-gradient(120% 90% at 50% 120%, rgba(155,171,104,.18), rgba(155,171,104,0) 60%),
-        #f4f1ea;
-      cursor: pointer; }
-    .runner__hint { margin: 8px 2px 2px; font-size: .82rem; color: var(--ink-mute); text-align: center; }
+        #f4f1ea; }
+    .runner__jump {
+      display: block; width: 100%; margin-top: 12px;
+      font-size: 1.05rem; letter-spacing: .14em; padding-block: .9em;
+      touch-action: manipulation; -webkit-tap-highlight-color: transparent;
+    }
+    .runner .runner__hint { margin: 18px 4px 4px; font-size: .9rem; font-weight: 600;
+      color: #14140f; text-align: center; }
     .g404__actions { margin-top: clamp(22px, 4vw, 36px); display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
     @media (max-width: 560px) { #run-game { height: 180px; } }
     @media (prefers-reduced-motion: reduce) { .runner__hint::after { content: " — el juego solo se mueve cuando tú juegas."; } }
@@ -71,7 +76,8 @@
 
         <div class="runner">
           <canvas id="run-game" role="img" aria-label="Minijuego: el senderista salta obstáculos"></canvas>
-          <p class="runner__hint">ESPACIO o ↑ para saltar · en móvil, toca la pantalla · pulsa para empezar</p>
+          <button type="button" id="run-jump" class="btn runner__jump">EMPEZAR</button>
+          <p class="runner__hint">También sirve ESPACIO o ↑. Pulsa este botón para empezar, saltar y reintentar.</p>
         </div>
 
         <div class="g404__actions">
@@ -150,6 +156,12 @@
     var score = 0, best = 0;
     try { best = parseInt(localStorage.getItem("cheno-run-best") || "0", 10) || 0; } catch (e) {}
 
+    var jumpBtn = document.getElementById("run-jump");
+    function syncBtn() {
+      if (!jumpBtn) return;
+      jumpBtn.textContent = !started ? "EMPEZAR" : (over ? "REINTENTAR" : "SALTAR");
+    }
+
     function reset() {
       obstacles = [];
       spawnT = 0; nextSpawn = 1.0;
@@ -160,7 +172,7 @@
     }
 
     function action() {
-      if (!started || over) { reset(); return; }
+      if (!started || over) { reset(); syncBtn(); return; }
       if (player.onGround) { player.vy = JUMP_V; player.onGround = false; }
     }
 
@@ -229,6 +241,7 @@
             running = false; over = true;
             best = Math.max(best, Math.floor(score));
             try { localStorage.setItem("cheno-run-best", String(best)); } catch (e) {}
+            syncBtn();
           }
         }
 
@@ -296,11 +309,11 @@
       // overlays
       ctx.textAlign = "center";
       if (!started) {
-        text("Pulsa ESPACIO o toca para empezar", W / 2, H / 2 - 4, "700", 16, "#23231f");
-        text("Salta las rocas · ESPACIO / ↑ / toque", W / 2, H / 2 + 16, "500", 12, "#55564d");
+        text("Ayuda a Cheno a cruzar la montaña", W / 2, H / 2 - 4, "700", 16, "#23231f");
+        text("Pulsa el botón EMPEZAR de abajo", W / 2, H / 2 + 16, "500", 12, "#55564d");
       } else if (over) {
         text("¡Te tropezaste!   Puntos: " + Math.floor(score), W / 2, H / 2 - 4, "700", 16, "#23231f");
-        text("Pulsa o toca para reintentar", W / 2, H / 2 + 16, "500", 12, "#55564d");
+        text("Pulsa REINTENTAR para otra partida", W / 2, H / 2 + 16, "500", 12, "#55564d");
       }
       ctx.textAlign = "left";
 
@@ -318,10 +331,15 @@
     });
     canvas.addEventListener("pointerdown", function (e) { e.preventDefault(); action(); });
     canvas.addEventListener("touchstart", function (e) { e.preventDefault(); action(); }, { passive: false });
+    if (jumpBtn) {
+      jumpBtn.addEventListener("pointerdown", function (e) { e.preventDefault(); action(); });
+      jumpBtn.addEventListener("click", function (e) { e.preventDefault(); });
+    }
 
     window.addEventListener("resize", resize);
     resize();
     player.y = GROUND - player.h;
+    syncBtn();
     requestAnimationFrame(loop);
   })();
   </script>
