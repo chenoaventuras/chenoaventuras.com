@@ -308,6 +308,16 @@
     })();
   }
 
+  /* ---------- Secreto: el foco de la imagen de "Equipo con el que viajo" ----------
+     Pulsar alterna: normal <-> super encendido. */
+  var focoBtn = document.querySelector(".focofx");
+  if (focoBtn) {
+    var focoBox = focoBtn.closest(".split__media");
+    focoBtn.addEventListener("click", function () {
+      focoBox.classList.toggle("is-foco-on");
+    });
+  }
+
   /* ---------- Año dinámico ---------- */
   var y = document.querySelector("[data-year]");
   if (y) y.textContent = new Date().getFullYear();

@@ -460,8 +460,48 @@ p { margin: 0 0 1em; }
   gap: clamp(24px, 5vw, 72px);
 }
 .split--reverse .split__media { order: 2; }
-.split__media { border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-md); }
+.split__media { position: relative; border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-md); isolation: isolate; }
 .split__media img { width: 100%; height: 100%; object-fit: cover; aspect-ratio: 4 / 3; }
+.split__media--square img { aspect-ratio: 1 / 1; object-fit: cover; }
+
+/* Secreto: foco de la imagen de "Equipo con el que viajo".
+   Pulsar cicla normal -> super encendido -> apagado (clases en .split__media, ver main.js). */
+.focofx {
+  position: absolute; left: 71.5%; top: 39%;
+  width: 17%; height: 15%;
+  transform: translate(-50%, -50%);
+  padding: 0; border: 0; background: transparent;
+  border-radius: 14%;
+  cursor: pointer; z-index: 4;
+  -webkit-tap-highlight-color: transparent;
+}
+.focofx:focus-visible { outline: 2px solid var(--gold-soft); outline-offset: 3px; }
+.focofx::after {
+  content: ""; position: absolute; left: 50%; top: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none; opacity: 0; transition: opacity .4s ease;
+  width: 520%; height: 520%; border-radius: 50%;
+  background: radial-gradient(circle at 50% 50%,
+    rgba(255,250,235,.95) 0%,
+    rgba(255,234,180,.82) 14%,
+    rgba(255,214,132,.45) 30%,
+    rgba(255,205,120,.18) 48%,
+    rgba(255,205,120,0) 68%);
+  mix-blend-mode: screen;
+}
+.split__media.is-foco-on  .focofx::after {
+  opacity: 1;
+  animation: focoPulse 2.6s ease-in-out infinite;
+}
+@keyframes focoPulse {
+  0%, 100% { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+  46% { opacity: .9; }
+  50% { opacity: .72; transform: translate(-50%, -50%) scale(.985); }
+  54% { opacity: .96; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .split__media.is-foco-on .focofx::after { animation: none; }
+}
 @media (max-width: 820px) {
   .split { grid-template-columns: 1fr; }
   .split--reverse .split__media { order: 0; }
