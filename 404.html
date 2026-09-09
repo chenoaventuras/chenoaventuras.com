@@ -28,7 +28,8 @@
     })();
   </script>
   <style>
-    .g404 { background: linear-gradient(120deg, #1f3e64, #3c6aa3 55%, #5a90cf); color: #fff; }
+    .g404 { background: linear-gradient(120deg, #1f3e64, #3c6aa3 55%, #5a90cf); color: #fff;
+      padding-top: clamp(44px, 8vw, 84px); padding-bottom: clamp(40px, 8vw, 72px); }
     .g404__inner { text-align: center; }
     .g404 h1 { font-family: var(--font-display); text-transform: uppercase; letter-spacing: -.02em;
       font-size: clamp(2.2rem, 7vw, 4rem); line-height: 1; margin: .1em 0 .2em; }
@@ -126,11 +127,24 @@
   </header>
 
   <main>
-    <section class="pagehead g404 torn-bottom">
+    <section class="pagehead g404 torn-bottom" data-g404>
       <div class="pagehead__inner container g404__inner">
-        <span class="eyebrow">Error 404</span>
-        <h1>Te has salido<br />del sendero</h1>
-        <p class="lead">Esta página no existe o se movió de sitio. Ya que estás aquí, ayuda a Cheno a cruzar el país saltando obstáculos.</p>
+        <span class="eyebrow" data-g404-eyebrow>Error 404</span>
+        <h1 data-g404-title>Página<br />no encontrada</h1>
+        <p class="lead" data-g404-lead>Esta página no existe o se movió de sitio. Ya que estás aquí, ayuda a Cheno a cruzar el país saltando obstáculos.</p>
+        <script>
+          /* Si se llega desde el enlace "Minijuego" (URL /404 o /404.html), texto de juego.
+             En un 404 real (URL inválida) se queda el texto por defecto de arriba. */
+          (function () {
+            if (!/\/404(?:\.html)?\/?$/.test(location.pathname)) return;
+            var eb = document.querySelector("[data-g404-eyebrow]");
+            var ti = document.querySelector("[data-g404-title]");
+            var le = document.querySelector("[data-g404-lead]");
+            if (eb) eb.textContent = "Minijuego";
+            if (ti) ti.innerHTML = "Te has salido<br />del sendero";
+            if (le) le.textContent = "Un alto en el camino: ayuda a Cheno a cruzar el país saltando obstáculos. ¿Consigues entrar en el top 5?";
+          })();
+        </script>
 
         <div class="runner">
           <canvas id="run-game" role="img" aria-label="Minijuego: el senderista salta obstáculos"></canvas>
