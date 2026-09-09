@@ -527,12 +527,6 @@
         ctx.fillStyle = bg;
         ctx.fillRect(0, 0, W, H);
         ctx.restore();
-        // foquito brillante junto a Cheno
-        var wg = ctx.createRadialGradient(lx, ly, 4, lx, ly, 86);
-        wg.addColorStop(0, "rgba(255,240,200,.30)");
-        wg.addColorStop(1, "rgba(255,240,200,0)");
-        ctx.fillStyle = wg;
-        ctx.fillRect(0, 0, W, H);
       }
 
       // marcador
