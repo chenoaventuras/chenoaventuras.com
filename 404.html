@@ -53,6 +53,27 @@
       color: #14140f; text-align: center; }
     .g404__actions { margin-top: clamp(22px, 4vw, 36px); display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
     #theme-toggle { font-size: .82rem; letter-spacing: .1em; }
+
+    .score-form { margin: 14px 2px 4px; text-align: center; color: #14140f; }
+    .score-form label { display: block; font-weight: 600; font-size: .92rem; margin-bottom: 8px; }
+    .score-form__row { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+    .score-form input {
+      font: inherit; padding: .6em .9em; border: 1px solid rgba(20,20,15,.28);
+      border-radius: 10px; background: #fff; color: #14140f; min-width: 190px;
+    }
+    .scoreboard { margin: 16px auto 2px; max-width: 340px; }
+    .scoreboard__title {
+      font-family: var(--font-head); text-transform: uppercase; letter-spacing: .16em;
+      font-size: .78rem; font-weight: 600; color: #55564d; text-align: center; margin: 0 0 8px;
+    }
+    #score-board { list-style: none; margin: 0; padding: 0; }
+    #score-board li {
+      display: flex; justify-content: space-between; gap: 12px;
+      font-size: .95rem; color: #14140f; padding: 5px 6px; border-radius: 6px;
+    }
+    #score-board li:nth-child(odd) { background: rgba(20,20,15,.05); }
+    #score-board li .n { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    #score-board li .s { font-variant-numeric: tabular-nums; color: #5f6d3e; font-weight: 700; }
     @media (max-width: 560px) { #run-game { height: 180px; } }
     @media (min-width: 600px) { .runner .runner__hint { white-space: nowrap; max-width: none; } }
     @media (prefers-reduced-motion: reduce) { .runner__hint::after { content: " — el juego solo se mueve cuando tú juegas."; } }
@@ -73,6 +94,12 @@
     }
     :root[data-theme="dark"] .runner .runner__hint { color: #d7dbe3; }
     :root[data-theme="dark"] .site-header--solid { background: #0f1622; }
+    :root[data-theme="dark"] .score-form { color: #e7ebf2; }
+    :root[data-theme="dark"] .score-form input { background: #0d131c; color: #e7ebf2; border-color: rgba(255,255,255,.28); }
+    :root[data-theme="dark"] .scoreboard__title { color: #aeb6c4; }
+    :root[data-theme="dark"] #score-board li { color: #e7ebf2; }
+    :root[data-theme="dark"] #score-board li:nth-child(odd) { background: rgba(255,255,255,.06); }
+    :root[data-theme="dark"] #score-board li .s { color: #9bab68; }
     :root[data-theme="dark"] .g404__actions .btn--ghost { --btn-fg: #fff; border-color: rgba(255,255,255,.75); }
     :root[data-theme="dark"] .g404__actions .btn--ghost:hover { background: #fff; --btn-fg: #14140f; border-color: #fff; }
   </style>
@@ -108,6 +135,17 @@
         <div class="runner">
           <canvas id="run-game" role="img" aria-label="Minijuego: el senderista salta obstáculos"></canvas>
           <button type="button" id="run-jump" class="btn runner__jump">EMPEZAR</button>
+          <form id="score-form" class="score-form" hidden>
+            <label for="score-name">¡Estás en el top 5! Escribe tu nombre:</label>
+            <div class="score-form__row">
+              <input id="score-name" type="text" maxlength="14" autocomplete="off" placeholder="Tu nombre" />
+              <button type="submit" class="btn">Guardar</button>
+            </div>
+          </form>
+          <div class="scoreboard" hidden>
+            <h2 class="scoreboard__title">Mejores marcas</h2>
+            <ol id="score-board"></ol>
+          </div>
           <p class="runner__hint">También sirve ESPACIO o ↑. Pulsa este botón para empezar, saltar y reintentar.</p>
         </div>
 
@@ -134,7 +172,7 @@
           </div>
         </div>
         <div><h5>Explorar</h5><ul class="footer-links"><li><a href="aventuras.html">Aventuras</a></li><li><a href="curiosidades.html">Curiosidades</a></li><li><a href="equipo.html">Mi equipo</a></li><li><a href="servicios.html">Servicios</a></li></ul></div>
-        <div><h5>Cheno</h5><ul class="footer-links"><li><a href="contacto.html">Sobre mí y contacto</a></li><li><a href="servicios.html#dron">Vuelo con dron</a></li><li><a href="servicios.html#descuentos">Descuentos</a></li></ul></div>
+        <div><h5>Cheno</h5><ul class="footer-links"><li><a href="contacto.html">Sobre mí y contacto</a></li><li><a href="servicios.html#dron">Vuelo con dron</a></li><li><a href="servicios.html#descuentos">Descuentos</a></li><li><a href="404.html">Minijuego</a></li></ul></div>
         <div><h5>Newsletter</h5><p>Rutas y aventuras directas a tu correo.</p><form class="subscribe" data-demo><input type="email" placeholder="Tu email" required aria-label="Tu email" /><button class="btn btn--light" type="submit">Me apunto</button></form><p data-demo-msg hidden class="subscribe__ok">¡Vamos a la aventura!</p></div>
       </div>
       <div class="footer-bottom"><span>© <span data-year>2026</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
@@ -206,6 +244,68 @@
       jumpBtn.textContent = !started ? "EMPEZAR" : (over ? "REINTENTAR" : "SALTAR");
     }
 
+    /* --- top 5: los mejores guardan su nombre (localStorage) --- */
+    var TOP_KEY = "cheno-run-top";
+    var scoreForm = document.getElementById("score-form");
+    var scoreName = document.getElementById("score-name");
+    var scoreBoard = document.getElementById("score-board");
+    var boardWrap = document.querySelector(".scoreboard");
+    var pendingScore = 0;
+
+    function loadTop() {
+      try {
+        var a = JSON.parse(localStorage.getItem(TOP_KEY));
+        return Array.isArray(a) ? a.filter(function (e) { return e && typeof e.score === "number"; }) : [];
+      } catch (e) { return []; }
+    }
+    function saveTop(list) {
+      try { localStorage.setItem(TOP_KEY, JSON.stringify(list)); } catch (e) {}
+    }
+    function renderBoard() {
+      if (!scoreBoard || !boardWrap) return;
+      var list = loadTop();
+      if (!list.length) { boardWrap.hidden = true; return; }
+      boardWrap.hidden = false;
+      scoreBoard.innerHTML = "";
+      list.slice(0, 5).forEach(function (e, i) {
+        var li = document.createElement("li");
+        var n = document.createElement("span"); n.className = "n";
+        n.textContent = (i + 1) + ". " + e.name;
+        var s = document.createElement("span"); s.className = "s";
+        s.textContent = String(e.score).padStart(4, "0");
+        li.appendChild(n); li.appendChild(s);
+        scoreBoard.appendChild(li);
+      });
+    }
+    function qualifies(sc) {
+      if (sc <= 0) return false;
+      var list = loadTop();
+      return list.length < 5 || sc > list[list.length - 1].score;
+    }
+    function offerNameEntry(sc) {
+      if (!scoreForm) return;
+      pendingScore = sc;
+      scoreForm.hidden = false;
+      if (scoreName) { scoreName.value = ""; try { scoreName.focus(); } catch (e) {} }
+    }
+    if (scoreForm) {
+      scoreForm.addEventListener("submit", function (e) {
+        e.preventDefault();
+        if (scoreForm.hidden || pendingScore <= 0) return;
+        var name = ((scoreName && scoreName.value) || "").trim().slice(0, 14) || "Anónimo";
+        var list = loadTop();
+        list.push({ name: name, score: pendingScore });
+        list.sort(function (a, b) { return b.score - a.score; });
+        list = list.slice(0, 5);
+        saveTop(list);
+        scoreForm.hidden = true;
+        best = Math.max(best, list[0].score);
+        renderBoard();
+      });
+    }
+    renderBoard();
+    (function () { var t = loadTop(); if (t.length) best = Math.max(best, t[0].score); })();
+
     function reset() {
       obstacles = [];
       spawnT = 0; nextSpawn = 1.0;
@@ -215,6 +315,7 @@
       score = 0; over = false; started = true; running = true;
       nextCat = 300; flashT = 0; spawnKind = 0;
       level = 1; nextLevel = 650;
+      if (scoreForm) scoreForm.hidden = true;
     }
 
     /* --- sonido: "miau" sintetizado al saltar a Francho --- */
@@ -421,9 +522,11 @@
           if (o.x + o.w < -30) { obstacles.splice(k, 1); continue; }
           if (hit(o)) {
             running = false; over = true;
-            best = Math.max(best, Math.floor(score));
+            var finalScore = Math.floor(score);
+            best = Math.max(best, finalScore);
             try { localStorage.setItem("cheno-run-best", String(best)); } catch (e) {}
             syncBtn();
+            if (qualifies(finalScore)) offerNameEntry(finalScore);
           }
         }
 
