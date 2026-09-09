@@ -16,7 +16,17 @@
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/favicon-192.png" />
   <link rel="apple-touch-icon" href="/assets/img/favicon-180.png" />
   <link rel="stylesheet" href="assets/css/styles.css" />
-  <script>document.documentElement.classList.add("js");</script>
+  <script>
+    document.documentElement.classList.add("js");
+    (function () {
+      try {
+        var s = localStorage.getItem("cheno-404-theme");
+        var d = s ? s === "dark"
+                  : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+        if (d) document.documentElement.setAttribute("data-theme", "dark");
+      } catch (e) {}
+    })();
+  </script>
   <style>
     .g404 { background: linear-gradient(120deg, #1f3e64, #3c6aa3 55%, #5a90cf); color: #fff; }
     .g404__inner { text-align: center; }
@@ -42,8 +52,26 @@
     .runner .runner__hint { margin: 18px 4px 4px; font-size: .9rem; font-weight: 600;
       color: #14140f; text-align: center; }
     .g404__actions { margin-top: clamp(22px, 4vw, 36px); display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+    #theme-toggle { font-size: .82rem; letter-spacing: .1em; }
     @media (max-width: 560px) { #run-game { height: 180px; } }
     @media (prefers-reduced-motion: reduce) { .runner__hint::after { content: " — el juego solo se mueve cuando tú juegas."; } }
+
+    /* ---------- Modo oscuro (solo esta página) ---------- */
+    :root[data-theme="dark"] body { background: #0d1017; }
+    :root[data-theme="dark"] .g404 {
+      background: linear-gradient(150deg, #0b0f16, #111a27 58%, #16212f);
+    }
+    :root[data-theme="dark"] .runner {
+      background: #131822;
+      box-shadow: 0 22px 50px rgba(0, 0, 0, .55);
+    }
+    :root[data-theme="dark"] #run-game {
+      background:
+        radial-gradient(120% 90% at 50% 120%, rgba(90,125,170,.10), rgba(0,0,0,0) 60%),
+        #0d131c;
+    }
+    :root[data-theme="dark"] .runner .runner__hint { color: #d7dbe3; }
+    :root[data-theme="dark"] .site-header--solid { background: #0f1622; }
   </style>
 </head>
 <body>
@@ -83,6 +111,7 @@
         <div class="g404__actions">
           <a class="btn" href="index.html">Volver al inicio</a>
           <a class="btn btn--ghost" href="aventuras.html">Ver aventuras</a>
+          <button type="button" class="btn btn--ghost" id="theme-toggle" aria-pressed="false">Modo oscuro</button>
         </div>
       </div>
     </section>
@@ -161,6 +190,8 @@
     var score = 0, best = 0;
     var nextCat = 300, flashT = 0, flashMsg = "";
     var level = 1, nextLevel = 650;   // a partir de 650 sube de nivel cada 100
+    var COL = { ground: "#274c78", dash: "rgba(39,76,120,.32)", mtn: "rgba(39,76,120,.09)",
+                hud: "#23231f", hudSoft: "#55564d", rock: "#3f4a2e" };
     try { best = parseInt(localStorage.getItem("cheno-run-best") || "0", 10) || 0; } catch (e) {}
 
     // Tipos que se van alternando.
@@ -316,7 +347,7 @@
     }
     function drawRoca(o) {                      // roca verde (como al principio)
       rockPath(o);
-      ctx.fillStyle = "#3f4a2e";
+      ctx.fillStyle = COL.rock;
       ctx.fill();
       ctx.fillStyle = "rgba(255,255,255,.10)";
       ctx.fillRect(o.x + 3, o.y + 2, Math.max(2, o.w - 6), 3);
@@ -400,10 +431,17 @@
       }
 
       /* ---- dibujo ---- */
+      var dark = document.documentElement.getAttribute("data-theme") === "dark";
+      COL = dark
+        ? { mtn: "rgba(120,150,190,.10)", ground: "#5b7fb0", dash: "rgba(150,180,220,.30)",
+            hud: "#e7ebf2", hudSoft: "#aeb6c4", rock: "#6a7a4b" }
+        : { mtn: "rgba(39,76,120,.09)", ground: "#274c78", dash: "rgba(39,76,120,.32)",
+            hud: "#23231f", hudSoft: "#55564d", rock: "#3f4a2e" };
+
       ctx.clearRect(0, 0, W, H);
 
       // montañas de fondo
-      ctx.fillStyle = "rgba(39,76,120,.09)";
+      ctx.fillStyle = COL.mtn;
       var mb = GROUND;
       ctx.beginPath();
       ctx.moveTo(-20, mb);
@@ -414,10 +452,10 @@
       ctx.fill();
 
       // suelo
-      ctx.strokeStyle = "#274c78";
+      ctx.strokeStyle = COL.ground;
       ctx.lineWidth = 2;
       ctx.beginPath(); ctx.moveTo(0, GROUND); ctx.lineTo(W, GROUND); ctx.stroke();
-      ctx.strokeStyle = "rgba(39,76,120,.32)";
+      ctx.strokeStyle = COL.dash;
       ctx.lineWidth = 3;
       for (var x = (38 - groundOffset) - 38; x < W; x += 38) {
         ctx.beginPath(); ctx.moveTo(x, GROUND + 8); ctx.lineTo(x + 13, GROUND + 8); ctx.stroke();
@@ -465,19 +503,46 @@
         ctx.fillRect(player.x, player.y, player.w, player.h);
       }
 
+      // modo oscuro: Cheno lleva linterna -> el resto queda a oscuras
+      if (dark) {
+        var lx = player.x + player.w * 0.72, ly = player.y + player.h * 0.42;
+        // oscuridad general con un charco de luz alrededor de Cheno
+        var og = ctx.createRadialGradient(lx, ly, 14, lx, ly, 120);
+        og.addColorStop(0, "rgba(9,11,17,0)");
+        og.addColorStop(0.55, "rgba(9,11,17,.26)");
+        og.addColorStop(1, "rgba(7,9,14,.88)");
+        ctx.fillStyle = og;
+        ctx.fillRect(0, 0, W, H);
+        // haz de la linterna hacia delante
+        ctx.save();
+        ctx.beginPath();
+        ctx.moveTo(lx - 4, ly);
+        ctx.lineTo(lx + 350, ly - 110);
+        ctx.lineTo(lx + 350, ly + 120);
+        ctx.closePath();
+        ctx.clip();
+        var bg = ctx.createRadialGradient(lx, ly, 6, lx, ly, 360);
+        bg.addColorStop(0, "rgba(255,244,214,.34)");
+        bg.addColorStop(0.6, "rgba(255,240,205,.10)");
+        bg.addColorStop(1, "rgba(255,240,205,0)");
+        ctx.fillStyle = bg;
+        ctx.fillRect(0, 0, W, H);
+        ctx.restore();
+      }
+
       // marcador
       ctx.textAlign = "right";
       text((best ? "MÁX " + String(best).padStart(4, "0") + "   " : "") + String(Math.floor(score)).padStart(4, "0"),
-           W - 10, 22, "600", 13, "#23231f");
+           W - 10, 22, "600", 13, COL.hud);
 
       // overlays
       ctx.textAlign = "center";
       if (!started) {
-        text("Ayuda a Cheno a cruzar la montaña", W / 2, H / 2 - 4, "700", 16, "#23231f");
-        text("Pulsa el botón EMPEZAR de abajo", W / 2, H / 2 + 16, "500", 12, "#55564d");
+        text("Ayuda a Cheno a cruzar la montaña", W / 2, H / 2 - 4, "700", 16, COL.hud);
+        text("Pulsa el botón EMPEZAR de abajo", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
       } else if (over) {
-        text("¡Te tropezaste!   Puntos: " + Math.floor(score), W / 2, H / 2 - 4, "700", 16, "#23231f");
-        text("Pulsa REINTENTAR para otra partida", W / 2, H / 2 + 16, "500", 12, "#55564d");
+        text("¡Te tropezaste!   Puntos: " + Math.floor(score), W / 2, H / 2 - 4, "700", 16, COL.hud);
+        text("Pulsa REINTENTAR para otra partida", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
       }
 
       // aviso de la sorpresa del gato
@@ -489,6 +554,26 @@
       ctx.textAlign = "left";
 
       requestAnimationFrame(loop);
+    }
+
+    /* ---- botón claro / oscuro ---- */
+    var themeBtn = document.getElementById("theme-toggle");
+    function paintThemeBtn() {
+      var isDark = document.documentElement.getAttribute("data-theme") === "dark";
+      if (themeBtn) {
+        themeBtn.textContent = isDark ? "Modo claro" : "Modo oscuro";
+        themeBtn.setAttribute("aria-pressed", isDark ? "true" : "false");
+      }
+    }
+    paintThemeBtn();
+    if (themeBtn) {
+      themeBtn.addEventListener("click", function () {
+        var isDark = document.documentElement.getAttribute("data-theme") === "dark";
+        if (isDark) document.documentElement.removeAttribute("data-theme");
+        else document.documentElement.setAttribute("data-theme", "dark");
+        try { localStorage.setItem("cheno-404-theme", isDark ? "light" : "dark"); } catch (e) {}
+        paintThemeBtn();
+      });
     }
 
     /* ---- controles ---- */
