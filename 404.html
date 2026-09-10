@@ -136,7 +136,7 @@
           /* Si se llega desde el enlace "Minijuego" (URL /404 o /404.html), texto de juego.
              En un 404 real (URL inválida) se queda el texto por defecto de arriba. */
           (function () {
-            if (!/\/404(?:\.html)?\/?$/.test(location.pathname)) return;
+            if (!/\/(404(?:\.html)?|minijuego)\/?$/.test(location.pathname)) return;
             var eb = document.querySelector("[data-g404-eyebrow]");
             var ti = document.querySelector("[data-g404-title]");
             var le = document.querySelector("[data-g404-lead]");
@@ -186,7 +186,7 @@
           </div>
         </div>
         <div><h5>Explorar</h5><ul class="footer-links"><li><a href="aventuras.html">Aventuras</a></li><li><a href="curiosidades.html">Curiosidades</a></li><li><a href="equipo.html">Mi equipo</a></li><li><a href="servicios.html">Servicios</a></li></ul></div>
-        <div><h5>Cheno</h5><ul class="footer-links"><li><a href="contacto.html">Sobre mí y contacto</a></li><li><a href="servicios.html#dron">Vuelo con dron</a></li><li><a href="servicios.html#descuentos">Descuentos</a></li><li><a href="404.html">Minijuego</a></li></ul></div>
+        <div><h5>Cheno</h5><ul class="footer-links"><li><a href="contacto.html">Sobre mí y contacto</a></li><li><a href="servicios.html#dron">Vuelo con dron</a></li><li><a href="servicios.html#descuentos">Descuentos</a></li><li><a href="/minijuego">Minijuego</a></li></ul></div>
         <div><h5>Newsletter</h5><p>Rutas y aventuras directas a tu correo.</p><form class="subscribe" data-demo><input type="email" placeholder="Tu email" required aria-label="Tu email" /><button class="btn btn--light" type="submit">Me apunto</button></form><p data-demo-msg hidden class="subscribe__ok">¡Vamos a la aventura!</p></div>
       </div>
       <div class="footer-bottom"><span>© <span data-year>2026</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
@@ -245,6 +245,7 @@
     var score = 0, best = 0;
     var nextCat = 300, flashT = 0, flashMsg = "";
     var level = 1, nextLevel = 650;   // a partir de 650 sube de nivel cada 100
+    var restartTaps = 0, prevKind = null;   // restart: 2 pulsaciones tras perder
     var COL = { ground: "#274c78", dash: "rgba(39,76,120,.32)", mtn: "rgba(39,76,120,.09)",
                 hud: "#23231f", hudSoft: "#55564d", rock: "#3f4a2e" };
     try { best = parseInt(localStorage.getItem("cheno-run-best") || "0", 10) || 0; } catch (e) {}
@@ -386,13 +387,14 @@
 
     function reset() {
       obstacles = [];
-      spawnT = 0; nextSpawn = 1.0;
+      spawnT = 0; nextSpawn = 0.8 + Math.random() * 0.8;   // arranque distinto cada vez
       speed = BASE_SPEED;
       player.y = GROUND - player.h; player.vy = 0; player.onGround = true;
       player.frame = 0; player.frameT = 0;
       score = 0; over = false; started = true; running = true;
       nextCat = 300; flashT = 0; spawnKind = 0;
       level = 1; nextLevel = 650;
+      restartTaps = 0; prevKind = null;
       runStart = Date.now();
       if (scoreForm) scoreForm.hidden = true;
     }
@@ -437,8 +439,13 @@
       var cluster = Math.random() < clusterP ? 2 : 1;
       var gap = 0;
       for (var c = 0; c < cluster; c++) {
-        var kind = KINDS[spawnKind % KINDS.length];
-        spawnKind++;
+        // tipo al azar (roca la más común); nunca el mismo dos veces seguidas.
+        var kind;
+        do {
+          var rk = Math.random();
+          kind = rk < 0.5 ? "roca" : (rk < 0.8 ? "tronco" : "molino");
+        } while (kind === prevKind);
+        prevKind = kind;
         var w, h;
         if (kind === "roca") {
           var big = Math.random() < 0.28;
@@ -591,7 +598,9 @@
           spawn();
           spawnT = 0;
           var gapMin = Math.max(0.56, 1.12 - score / 230) - (level - 1) * 0.03;
-          nextSpawn = Math.max(0.4, gapMin) + Math.random() * 0.7;
+          // más variación en el ritmo: cada partida distinta, con algún respiro suelto
+          nextSpawn = Math.max(0.4, gapMin) + Math.random() * 0.95
+            + (Math.random() < 0.14 ? 0.35 + Math.random() * 0.4 : 0);
         }
 
         player.vy += GRAV * dt;
@@ -612,6 +621,7 @@
           if (o.x + o.w < -30) { obstacles.splice(k, 1); continue; }
           if (hit(o)) {
             running = false; over = true;
+            restartTaps = 0;
             var finalScore = Math.floor(score);
             pendingPlayed = runStart ? Math.max(0, Date.now() - runStart) : 0;
             best = Math.max(best, finalScore);
@@ -740,7 +750,8 @@
         text("Pulsa el botón EMPEZAR de abajo", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
       } else if (over) {
         text("¡Te tropezaste!   Puntos: " + Math.floor(score), W / 2, H / 2 - 4, "700", 16, COL.hud);
-        text("Pulsa REINTENTAR para otra partida", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
+        text(restartTaps >= 1 ? "Pulsa otra vez para reintentar"
+                              : "Pulsa el botón o 2 veces espacio/pantalla", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
       }
 
       // aviso de la sorpresa del gato
@@ -774,18 +785,30 @@
       });
     }
 
-    /* ---- controles ---- */
+    /* ---- controles ----
+       Tras perder, espacio/toque necesitan DOS pulsaciones para reiniciar
+       (la 1ª suele ser el salto reflejo al morir) y si hay formulario de
+       nombre en marcha, no reinician: solo el botón REINTENTAR. */
+    function tapAction() {
+      if (over) {
+        if (scoreForm && !scoreForm.hidden) return;   // metiendo nombre -> no tocar
+        restartTaps++;
+        if (restartTaps < 2) { syncBtn(); return; }
+      }
+      action();
+    }
     window.addEventListener("keydown", function (e) {
       var tag = (e.target && e.target.tagName || "").toLowerCase();
       if (tag === "input" || tag === "textarea" || tag === "select") return;
       if (e.code === "Space" || e.code === "ArrowUp" || e.key === " " || e.key === "ArrowUp" || e.key === "Spacebar") {
         e.preventDefault();
-        action();
+        tapAction();
       }
     });
-    canvas.addEventListener("pointerdown", function (e) { e.preventDefault(); action(); });
-    canvas.addEventListener("touchstart", function (e) { e.preventDefault(); action(); }, { passive: false });
+    canvas.addEventListener("pointerdown", function (e) { e.preventDefault(); tapAction(); });
+    canvas.addEventListener("touchstart", function (e) { e.preventDefault(); tapAction(); }, { passive: false });
     if (jumpBtn) {
+      // el botón reinicia siempre a la primera (es una acción deliberada)
       jumpBtn.addEventListener("pointerdown", function (e) { e.preventDefault(); action(); });
       jumpBtn.addEventListener("click", function (e) { e.preventDefault(); });
     }

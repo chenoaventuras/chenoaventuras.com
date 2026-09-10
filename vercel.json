@@ -1,5 +1,9 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    { "source": "/minijuego", "destination": "/404.html" },
+    { "source": "/minijuego/", "destination": "/404.html" }
+  ],
   "redirects": [
     { "source": "/destinos", "destination": "/aventuras.html", "permanent": true },
     { "source": "/destinos.html", "destination": "/aventuras.html", "permanent": true },
