@@ -457,9 +457,20 @@
     }
 
     function spawnCat() {
-      obstacles.push({ x: W + 30, y: GROUND - 40, w: 40, h: 34, cat: true, bob: 0 });
-      spawnT = -0.5;
-      nextSpawn = Math.max(nextSpawn, 1.3);
+      // el gato siempre con hueco libre a ambos lados: nunca pegado a otro obstáculo
+      var GAP = 200 + speed * 0.12;
+      var catX = W + 40;
+      var rightmost = 0;
+      for (var i = 0; i < obstacles.length; i++) {
+        if (obstacles[i].cat) continue;
+        var re = obstacles[i].x + obstacles[i].w;
+        if (re > rightmost) rightmost = re;
+      }
+      if (rightmost + GAP > catX) catX = rightmost + GAP;
+      obstacles.push({ x: catX, y: GROUND - 40, w: 40, h: 34, cat: true, bob: 0 });
+      // y que la siguiente roca no salga pegada por detrás del gato
+      spawnT = 0;
+      nextSpawn = (GAP + catX + 14 - W) / Math.max(speed, 1) + 0.3;
     }
 
     function hit(o) {
