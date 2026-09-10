@@ -600,6 +600,7 @@ p { margin: 0 0 1em; }
 /* iPhone: enlace de afiliado + leve flotación */
 .gearitem--link { text-decoration: none; }
 .gearitem--link:hover .gearitem__name { text-decoration: underline; }
+.gearitem__pic--wide { padding: 3%; }
 .gearitem__pic--float img { animation: gear-float 3.8s ease-in-out infinite; will-change: transform; }
 .gearitem--link:hover .gearitem__pic--float img { animation-play-state: paused; transform: translateY(-6px) scale(1.03); }
 @keyframes gear-float {
