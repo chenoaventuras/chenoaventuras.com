@@ -245,7 +245,7 @@
     var score = 0, best = 0;
     var nextCat = 300, flashT = 0, flashMsg = "";
     var level = 1, nextLevel = 650;   // a partir de 650 sube de nivel cada 100
-    var restartTaps = 0, prevKind = null;   // restart: 2 pulsaciones tras perder
+    var prevKind = null;   // para no repetir tipo de obstáculo seguido
     var COL = { ground: "#274c78", dash: "rgba(39,76,120,.32)", mtn: "rgba(39,76,120,.09)",
                 hud: "#23231f", hudSoft: "#55564d", rock: "#3f4a2e" };
     try { best = parseInt(localStorage.getItem("cheno-run-best") || "0", 10) || 0; } catch (e) {}
@@ -394,7 +394,7 @@
       score = 0; over = false; started = true; running = true;
       nextCat = 300; flashT = 0; spawnKind = 0;
       level = 1; nextLevel = 650;
-      restartTaps = 0; prevKind = null;
+      prevKind = null;
       runStart = Date.now();
       if (scoreForm) scoreForm.hidden = true;
     }
@@ -621,7 +621,7 @@
           if (o.x + o.w < -30) { obstacles.splice(k, 1); continue; }
           if (hit(o)) {
             running = false; over = true;
-            restartTaps = 0;
+
             var finalScore = Math.floor(score);
             pendingPlayed = runStart ? Math.max(0, Date.now() - runStart) : 0;
             best = Math.max(best, finalScore);
@@ -750,8 +750,7 @@
         text("Pulsa el botón EMPEZAR de abajo", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
       } else if (over) {
         text("¡Te tropezaste!   Puntos: " + Math.floor(score), W / 2, H / 2 - 4, "700", 16, COL.hud);
-        text(restartTaps >= 1 ? "Pulsa otra vez para reintentar"
-                              : "Pulsa el botón o 2 veces espacio/pantalla", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
+        text("Pulsa el botón REINTENTAR para otra partida", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
       }
 
       // aviso de la sorpresa del gato
@@ -786,15 +785,10 @@
     }
 
     /* ---- controles ----
-       Tras perder, espacio/toque necesitan DOS pulsaciones para reiniciar
-       (la 1ª suele ser el salto reflejo al morir) y si hay formulario de
-       nombre en marcha, no reinician: solo el botón REINTENTAR. */
+       Tras perder, espacio/toque NO reinician: hay que pulsar el botón
+       REINTENTAR a propósito (evita reiniciar de los nervios al morir). */
     function tapAction() {
-      if (over) {
-        if (scoreForm && !scoreForm.hidden) return;   // metiendo nombre -> no tocar
-        restartTaps++;
-        if (restartTaps < 2) { syncBtn(); return; }
-      }
+      if (over) return;
       action();
     }
     window.addEventListener("keydown", function (e) {
