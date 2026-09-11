@@ -28,8 +28,13 @@
     })();
   </script>
   <style>
-    .g404 { background: linear-gradient(120deg, #1f3e64, #3c6aa3 55%, #5a90cf); color: #fff;
-      padding-top: clamp(44px, 8vw, 84px); padding-bottom: clamp(40px, 8vw, 72px); }
+    .g404 {
+      background:
+        linear-gradient(120deg, rgba(31,62,100,.74), rgba(60,106,163,.58) 55%, rgba(90,144,207,.42)),
+        url("assets/img/minijuego-fondo.png") center/cover no-repeat;
+      color: #fff;
+      padding-top: clamp(44px, 8vw, 84px); padding-bottom: clamp(40px, 8vw, 72px);
+    }
     .g404__inner { text-align: center; }
     .g404 h1 { font-family: var(--font-display); text-transform: uppercase; letter-spacing: -.02em;
       font-size: clamp(2.2rem, 7vw, 4rem); line-height: 1; margin: .1em 0 .2em; }
@@ -82,7 +87,9 @@
     /* ---------- Modo oscuro (solo esta página) ---------- */
     :root[data-theme="dark"] body { background: #0d1017; }
     :root[data-theme="dark"] .g404 {
-      background: linear-gradient(150deg, #0b0f16, #111a27 58%, #16212f);
+      background:
+        linear-gradient(150deg, rgba(11,15,22,.86), rgba(17,26,39,.78) 58%, rgba(22,33,47,.7)),
+        url("assets/img/minijuego-fondo.png") center/cover no-repeat;
     }
     :root[data-theme="dark"] .runner {
       background: #131822;
