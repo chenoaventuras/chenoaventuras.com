@@ -134,6 +134,11 @@ function readPosts() {
     const title = (data.title || slug).trim();
     const excerpt = (data.excerpt || data.description || "").trim();
     let html = marked.parse(content);
+    // tamaño opcional: escribiendo ![texto](ruta.webp#small) o "#medium" en markdown
+    html = html.replace(
+      /<img([^>]*?)\ssrc="([^"]+?)#(small|medium)"([^>]*)>/g,
+      (_m, pre, src, size, post) => `<img${pre} src="${src}" class="article__img--${size}"${post}>`
+    );
     // imágenes del cuerpo: carga diferida
     html = html.replace(/<img /g, '<img loading="lazy" decoding="async" ');
     posts.push({

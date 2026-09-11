@@ -405,9 +405,12 @@ p { margin: 0 0 1em; }
 .article__body a { color: var(--olive-dark); text-underline-offset: 2px; }
 .article__body img {
   display: block; width: 100%; height: auto;
-  border-radius: 12px; margin: 1.6em 0;
+  border-radius: 12px; margin: 1.6em auto;
   box-shadow: var(--shadow-sm);
 }
+/* tamaño opcional escribiendo ![](ruta.webp#small) o "#medium" en el markdown */
+.article__body img.article__img--small { max-width: 45%; }
+.article__body img.article__img--medium { max-width: 70%; }
 .article__body blockquote {
   margin: 1.6em 0; padding: .2em 0 .2em 1.1em;
   border-left: 3px solid var(--gold); color: var(--ink-soft); font-style: italic;
