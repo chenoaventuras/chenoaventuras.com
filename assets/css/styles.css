@@ -541,8 +541,14 @@ p { margin: 0 0 1em; }
 
 /* Banner del minijuego (inicio): imagen completa, clicable, lleva a /minijuego. */
 .minijuego-banner { display: block; border-radius: 14px; overflow: hidden; box-shadow: var(--shadow-sm); margin-top: 28px; }
-.minijuego-banner img { display: block; width: 100%; height: auto; transition: transform .5s ease; }
-.minijuego-banner:hover img { transform: scale(1.02); }
+.minijuego-banner img {
+  display: block; width: 100%; height: auto;
+  transition: transform .5s ease, filter .5s ease;
+  /* La ilustración es muy saturada/brillante comparada con el resto de la
+     web (fotos reales, paleta tierra): la atenuamos para que no desentone. */
+  filter: saturate(.6) brightness(.9) contrast(.94) sepia(.08);
+}
+.minijuego-banner:hover img { transform: scale(1.02); filter: saturate(.72) brightness(.93) contrast(.96) sepia(.05); }
 
 /* =========================================================================
    BLOQUE EQUIPO / imagen + texto
