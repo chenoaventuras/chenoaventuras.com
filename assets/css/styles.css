@@ -375,6 +375,81 @@ p { margin: 0 0 1em; }
 .pagehead p { max-width: 40ch; color: rgba(255,255,255,.82); font-size: 1.08rem; }
 
 /* =========================================================================
+   BLOG (índice + artículo). El HTML lo genera scripts/build-blog.mjs
+   ========================================================================= */
+.pagehead--blog { padding-block: clamp(96px, 18vw, 150px) clamp(40px, 8vw, 72px); }
+.article__meta { font-size: .95rem; color: rgba(255,255,255,.8); margin-bottom: 10px; }
+.article__meta a { color: var(--gold-soft); text-decoration: none; }
+.article__meta a:hover { text-decoration: underline; }
+
+.article__body {
+  max-width: 68ch;
+  font-size: 1.08rem;
+  line-height: 1.75;
+  color: var(--ink);
+}
+.article__body > :first-child { margin-top: 0; }
+.article__body h2 {
+  font-family: var(--font-head); font-weight: 600; color: var(--night);
+  font-size: clamp(1.35rem, 3vw, 1.7rem); line-height: 1.2;
+  margin: 1.8em 0 .5em;
+}
+.article__body h3 {
+  font-family: var(--font-head); font-weight: 600; color: var(--night);
+  font-size: 1.18rem; margin: 1.5em 0 .4em;
+}
+.article__body p { margin: 0 0 1.1em; }
+.article__body ul, .article__body ol { margin: 0 0 1.2em; padding-left: 1.4em; }
+.article__body li { margin: .3em 0; }
+.article__body li::marker { color: var(--olive); }
+.article__body a { color: var(--olive-dark); text-underline-offset: 2px; }
+.article__body img {
+  display: block; width: 100%; height: auto;
+  border-radius: 12px; margin: 1.6em 0;
+  box-shadow: var(--shadow-sm);
+}
+.article__body blockquote {
+  margin: 1.6em 0; padding: .2em 0 .2em 1.1em;
+  border-left: 3px solid var(--gold); color: var(--ink-soft); font-style: italic;
+}
+.article__body hr { border: 0; border-top: 1px solid var(--line); margin: 2.4em 0; }
+.article__body pre {
+  background: var(--night); color: #eef; border-radius: 10px;
+  padding: 16px 18px; overflow-x: auto; font-size: .9rem; margin: 1.4em 0;
+}
+.article__body code {
+  background: rgba(20,25,20,.07); padding: .15em .4em; border-radius: 5px;
+  font-size: .92em;
+}
+.article__body pre code { background: none; padding: 0; }
+
+.bloglist {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: clamp(20px, 3vw, 36px);
+}
+.blogcard {
+  display: flex; flex-direction: column;
+  border-radius: 12px; overflow: hidden;
+  background: var(--white);
+  box-shadow: var(--shadow-sm);
+  text-decoration: none; color: inherit;
+  transition: transform .3s ease, box-shadow .3s ease;
+}
+.blogcard:hover { transform: translateY(-4px); box-shadow: var(--shadow-md); }
+.blogcard__media { aspect-ratio: 16 / 10; overflow: hidden; background: var(--paper-3); }
+.blogcard__media img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
+.blogcard:hover .blogcard__media img { transform: scale(1.05); }
+.blogcard__media--empty { background: linear-gradient(120deg, var(--teal-deep), var(--teal)); }
+.blogcard__body { padding: 18px 20px 22px; }
+.blogcard__body time { font-size: .82rem; color: var(--ink-mute); text-transform: uppercase; letter-spacing: .06em; }
+.blogcard__body h2 {
+  font-family: var(--font-head); font-weight: 600; color: var(--night);
+  font-size: 1.16rem; line-height: 1.25; margin: 6px 0 8px;
+}
+.blogcard__body p { font-size: .95rem; color: var(--ink-soft); margin: 0; }
+
+/* =========================================================================
    CURIOSIDADES (sección propia bajo el hero)
    ========================================================================= */
 .curios {

@@ -2,3 +2,9 @@
 **/.DS_Store
 .vercel
 .env*
+node_modules/
+
+# Generado por scripts/build-blog.mjs (fuente: content/blog/*.md)
+/blog.html
+/blog/
+/sitemap.xml
