@@ -36,42 +36,60 @@ jobs:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           claude_args: |
             --allowedTools Read,Write,Glob,WebSearch
-            --max-turns 30
+            --max-turns 70
           prompt: |
             Hoy es ${{ steps.today.outputs.date }} (formato AAAA-MM-DD).
 
             TAREA: crear UN borrador de artículo de blog para chenoaventuras.com
-            a partir de la publicación de Instagram más reciente. No toques
-            git ni ningún otro fichero: solo puedes leer y escribir dentro de
-            este repositorio con las herramientas Read/Write/Glob, y buscar en
-            la web con WebSearch para investigar (no para copiar texto).
+            por CADA publicación de Instagram nueva desde la última vez (puede
+            ser ninguna, una, o varias si esa semana se subió más de un
+            vídeo). No toques git ni ningún otro fichero: solo puedes leer y
+            escribir dentro de este repositorio con las herramientas
+            Read/Write/Glob, y buscar en la web con WebSearch para investigar
+            (no para copiar texto).
 
             1. Lee assets/data/instagram.json. Tiene la forma
                {"posts": [{"permalink", "image", "caption", "type", "timestamp"}, ...]}.
-               Escoge la publicación con el timestamp más reciente.
 
             2. Mira los ficheros .md que ya existen en content/blog/. Cada uno
-               tiene un frontmatter YAML. Si alguno tiene "igPermalink" igual
-               al permalink de la publicación elegida, YA existe un artículo
-               para ella: no hagas nada más y termina sin escribir nada.
+               tiene un frontmatter YAML con un campo "igPermalink" si viene de
+               Instagram.
 
-            3. Identifica el destino o la actividad principal a partir del
-               caption de la publicación elegida. Con WebSearch, investiga:
-               - Qué busca realmente la gente sobre ese lugar/actividad (p.ej.
-                 "<lugar> qué ver", "<lugar> cómo llegar", "<lugar> cuándo ir",
-                 "<lugar> qué hacer", "<lugar> dónde comer", según aplique).
-               - Datos reales que enriquezcan el caption (historia, cómo
-                 llegar, mejores épocas, sitios cercanos, gastronomía, etc.).
-               No copies frases textuales largas de ninguna fuente: usa la
-               información para escribir con tus propias palabras.
+            3. Calcula qué publicaciones de instagram.json cumplen TODO esto:
+               - Su "timestamp" cae dentro de los últimos 8 días contando
+                 desde hoy (${{ steps.today.outputs.date }}). Ignora las más
+                 antiguas: son historial ya cubierto o pendiente de pedir a
+                 mano, no de esta tanda semanal.
+               - Ninguno de los ficheros de content/blog/ tiene ya ese mismo
+                 permalink en "igPermalink" (para no duplicar).
+               Como mucho procesa 5 publicaciones en esta ejecución (tope de
+               seguridad); si hay más, deja las demás para la semana que viene.
 
-            4. Si no existe todavía artículo para esa publicación, crea un
-               fichero nuevo en content/blog/${{ steps.today.outputs.date }}-<slug>.md,
-               donde <slug> es un slug corto en minúsculas con guiones (sin
-               acentos ni caracteres especiales) derivado del título del
-               artículo. El fichero debe tener EXACTAMENTE esta forma
-               (frontmatter YAML entre líneas "---", luego el cuerpo en
-               Markdown):
+               Si no queda ninguna publicación que cumpla esto, termina sin
+               escribir ningún fichero.
+
+            4. Para CADA publicación que cumpla lo anterior (repite este paso
+               entero una vez por publicación, cada una en su propio fichero):
+
+               a. Identifica el destino o la actividad principal a partir de
+                  su caption. Con WebSearch, investiga:
+                  - Qué busca realmente la gente sobre ese lugar/actividad
+                    (p.ej. "<lugar> qué ver", "<lugar> cómo llegar",
+                    "<lugar> cuándo ir", "<lugar> qué hacer",
+                    "<lugar> dónde comer", según aplique).
+                  - Datos reales que enriquezcan el caption (historia, cómo
+                    llegar, mejores épocas, sitios cercanos, gastronomía...).
+                  No copies frases textuales largas de ninguna fuente: usa la
+                  información para escribir con tus propias palabras.
+
+               b. Crea un fichero nuevo en
+                  content/blog/${{ steps.today.outputs.date }}-<slug>.md, donde
+                  <slug> es un slug corto en minúsculas con guiones (sin
+                  acentos ni caracteres especiales) derivado del título de ESE
+                  artículo (distinto para cada publicación, para no chocar con
+                  el fichero de otra publicación de esta misma tanda). El
+                  fichero debe tener EXACTAMENTE esta forma (frontmatter YAML
+                  entre líneas "---", luego el cuerpo en Markdown):
 
                ---
                title: "<título con la palabra clave principal, máx. 60 caracteres>"
