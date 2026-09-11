@@ -110,6 +110,11 @@
     :root[data-theme="dark"] #score-board li .s { color: #9bab68; }
     :root[data-theme="dark"] .g404__actions .btn--ghost { --btn-fg: #fff; border-color: rgba(255,255,255,.75); }
     :root[data-theme="dark"] .g404__actions .btn--ghost:hover { background: #fff; --btn-fg: #14140f; border-color: #fff; }
+
+    /* El fondo ilustrado de .g404 es oscuro también en modo claro: botones
+       ghost en blanco siempre, si no se pierden contra la foto. */
+    .g404__actions .btn--ghost { --btn-fg: #fff; border-color: rgba(255,255,255,.75); }
+    .g404__actions .btn--ghost:hover { background: #fff; --btn-fg: #14140f; border-color: #fff; }
   </style>
 </head>
 <body>
