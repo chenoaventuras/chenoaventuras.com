@@ -109,7 +109,13 @@ jobs:
               repetirla varias veces).
 
       - name: Commit y push si se creó un borrador nuevo
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # anthropics/claude-code-action toca las credenciales git del runner
+          # para sus propias llamadas a la API; las reponemos aquí para que el
+          # push funcione pase lo que pase con eso.
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
           if [ -n "$(git status --porcelain content/blog)" ]; then
             git config user.name  "cheno-bot"
             git config user.email "chenoaventuras@gmail.com"
