@@ -171,7 +171,8 @@
             <h2 class="scoreboard__title">Top 5 mundial</h2>
             <ol id="score-board"></ol>
           </div>
-          <p class="runner__hint">También sirve ESPACIO o ↑. Pulsa este botón para empezar, saltar y reintentar.</p>
+          <p class="runner__hint">También sirve ESPACIO o ↑ para saltar.</p>
+          <p class="runner__hint">Pulsa D para activar el modo velocirraptor 🦖.</p>
         </div>
 
         <div class="g404__actions">
@@ -250,6 +251,7 @@
     var BASE_SPEED = 322; // px/s
 
     var obstacles = [];
+    var meteors = [], meteorT = 0; // lluvia de meteoritos: solo con el modo velocirraptor
     var spawnT = 0, nextSpawn = 1.1, spawnKind = 0;
     var speed = BASE_SPEED;
     var raptorMode = false; // tecla D: modo velocirraptor, todo a x1.4
@@ -401,6 +403,7 @@
 
     function reset() {
       obstacles = [];
+      meteors = []; meteorT = 0;
       spawnT = 0; nextSpawn = 0.8 + Math.random() * 0.8;   // arranque distinto cada vez
       speed = BASE_SPEED;
       player.y = GROUND - player.h; player.vy = 0; player.onGround = true;
@@ -636,6 +639,27 @@
             + (Math.random() < 0.14 ? 0.35 + Math.random() * 0.4 : 0);
         }
 
+        // lluvia de meteoritos: solo de fondo, no chocan (modo velocirraptor)
+        if (raptorMode) {
+          meteorT -= dt;
+          if (meteorT <= 0) {
+            meteors.push({
+              x: Math.random() * W,
+              y: -20,
+              vx: -50 - Math.random() * 50,
+              vy: 260 + Math.random() * 160,
+              len: 22 + Math.random() * 18,
+            });
+            meteorT = 0.16 + Math.random() * 0.22;
+          }
+        }
+        for (var mi = meteors.length - 1; mi >= 0; mi--) {
+          var mt = meteors[mi];
+          mt.x += mt.vx * dt;
+          mt.y += mt.vy * dt;
+          if (mt.y - mt.len > GROUND || mt.x < -60) meteors.splice(mi, 1);
+        }
+
         player.vy += GRAV * dt;
         player.y += player.vy * dt;
         if (player.y >= GROUND - player.h) { player.y = GROUND - player.h; player.vy = 0; player.onGround = true; }
@@ -694,6 +718,26 @@
       ctx.lineTo(W * 1.02, mb - 56); ctx.lineTo(W + 20, mb);
       ctx.closePath();
       ctx.fill();
+
+      // meteoritos (modo velocirraptor): solo decorativos, de fondo
+      for (var mj = 0; mj < meteors.length; mj++) {
+        var mm = meteors[mj];
+        var ang = Math.atan2(mm.vy, mm.vx);
+        var tx = mm.x - Math.cos(ang) * mm.len, ty = mm.y - Math.sin(ang) * mm.len;
+        var mgrad = ctx.createLinearGradient(mm.x, mm.y, tx, ty);
+        mgrad.addColorStop(0, "rgba(255,150,60,.9)");
+        mgrad.addColorStop(1, "rgba(255,150,60,0)");
+        ctx.strokeStyle = mgrad;
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.moveTo(mm.x, mm.y);
+        ctx.lineTo(tx, ty);
+        ctx.stroke();
+        ctx.fillStyle = "#fff3d6";
+        ctx.beginPath();
+        ctx.arc(mm.x, mm.y, 2.4, 0, Math.PI * 2);
+        ctx.fill();
+      }
 
       // suelo
       ctx.strokeStyle = COL.ground;
