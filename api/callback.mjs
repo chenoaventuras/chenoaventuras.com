@@ -39,16 +39,23 @@ export default async function handler(req, res) {
   res.statusCode = 200;
   res.setHeader("Content-Type", "text/html; charset=utf-8");
   res.setHeader("Cache-Control", "no-store");
+  // Protocolo de Decap CMS: el popup avisa primero de que está listo
+  // ("authorizing:github"); solo cuando el panel responde, le manda el
+  // mensaje final con el token (o el error).
   res.end(`<!doctype html>
 <html><head><meta charset="utf-8"><title>Autenticando…</title></head>
 <body>
 <p>Autenticando… puedes cerrar esta ventana.</p>
 <script>
 (function () {
+  if (!window.opener) { document.body.appendChild(document.createTextNode(" (sin ventana de origen)")); return; }
   var msg = ${messageLiteral};
-  function send(origin) { if (window.opener) window.opener.postMessage(msg, origin || "*"); }
-  window.addEventListener("message", function (e) { send(e.origin); }, false);
-  send("*");
+  function receiveMessage(e) {
+    window.opener.postMessage(msg, e.origin);
+    window.removeEventListener("message", receiveMessage, false);
+  }
+  window.addEventListener("message", receiveMessage, false);
+  window.opener.postMessage("authorizing:github", "*");
 })();
 </script>
 </body></html>`);
