@@ -252,6 +252,7 @@
     var obstacles = [];
     var spawnT = 0, nextSpawn = 1.1, spawnKind = 0;
     var speed = BASE_SPEED;
+    var raptorMode = false; // tecla D: modo velocirraptor, todo a x1.4
     var started = false, running = false, over = false;
     var score = 0, best = 0;
     // el hueco hasta el próximo gato varía cada vez (no siempre a 300 en punto)
@@ -441,6 +442,25 @@
       o.stop(t0 + 0.44); lfo.stop(t0 + 0.44);
     }
 
+    /* --- sonido: musiquita al activar/desactivar el modo velocirraptor --- */
+    function raptorJingle(on) {
+      if (!actx) return;
+      var t0 = actx.currentTime;
+      var notes = on ? [440, 587, 740, 880] : [660, 494, 392];
+      var step = 0.08;
+      notes.forEach(function (freq, i) {
+        var o = actx.createOscillator(), g = actx.createGain();
+        o.type = "square";
+        o.frequency.value = freq;
+        var t = t0 + i * step;
+        g.gain.setValueAtTime(0.0001, t);
+        g.gain.exponentialRampToValueAtTime(0.16, t + 0.015);
+        g.gain.exponentialRampToValueAtTime(0.0001, t + step * 0.92);
+        o.connect(g); g.connect(actx.destination);
+        o.start(t); o.stop(t + step);
+      });
+    }
+
     function action() {
       audioReady();
       if (!started || over) { reset(); syncBtn(); return; }
@@ -595,7 +615,7 @@
         }
 
         var ramp = Math.min(score * 2.7, 470) + (level - 1) * 46;
-        speed = (BASE_SPEED + ramp) * speedScale;
+        speed = (BASE_SPEED + ramp) * speedScale * (raptorMode ? 1.4 : 1);
         groundOffset = (groundOffset + speed * dt) % 38;
 
         // sorpresa: el gato Francho, cada ~300 puntos (hueco variable, ver nextCatGap)
@@ -756,6 +776,12 @@
       text((best ? "MÁX " + String(best).padStart(4, "0") + "   " : "") + String(Math.floor(score)).padStart(4, "0"),
            W - 10, 22, "600", 13, COL.hud);
 
+      // indicador del modo velocirraptor (tecla D)
+      if (raptorMode) {
+        ctx.textAlign = "left";
+        text("🦖 x1.4", 10, 22, "700", 13, "#b98a10");
+      }
+
       // overlays
       ctx.textAlign = "center";
       if (!started) {
@@ -810,6 +836,13 @@
       if (e.code === "Space" || e.code === "ArrowUp" || e.key === " " || e.key === "ArrowUp" || e.key === "Spacebar") {
         e.preventDefault();
         tapAction();
+      }
+      if ((e.key === "d" || e.key === "D") && !e.ctrlKey && !e.metaKey && !e.altKey) {
+        audioReady();
+        raptorMode = !raptorMode;
+        raptorJingle(raptorMode);
+        flashMsg = raptorMode ? "🦖 MODO VELOCIRRAPTOR" : "Modo velocirraptor desactivado";
+        flashT = raptorMode ? 2.2 : 1.4;
       }
     });
     canvas.addEventListener("pointerdown", function (e) { e.preventDefault(); tapAction(); });
