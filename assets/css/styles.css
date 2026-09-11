@@ -546,9 +546,9 @@ p { margin: 0 0 1em; }
   transition: transform .5s ease, filter .5s ease;
   /* La ilustración es muy saturada/brillante comparada con el resto de la
      web (fotos reales, paleta tierra): la atenuamos para que no desentone. */
-  filter: saturate(.6) brightness(.9) contrast(.94) sepia(.08);
+  filter: saturate(.72) brightness(.95) contrast(.97) sepia(.04);
 }
-.minijuego-banner:hover img { transform: scale(1.02); filter: saturate(.72) brightness(.93) contrast(.96) sepia(.05); }
+.minijuego-banner:hover img { transform: scale(1.02); filter: saturate(.82) brightness(.97) contrast(.98) sepia(.02); }
 
 /* =========================================================================
    BLOQUE EQUIPO / imagen + texto
