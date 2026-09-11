@@ -121,7 +121,15 @@ jobs:
             git config user.email "chenoaventuras@gmail.com"
             git add content/blog
             git commit -m "Blog: borrador automático desde Instagram (Claude Code)"
-            git push
+            # Si main ha avanzado mientras tanto (p. ej. alguien más ha hecho
+            # push), reintenta con rebase en vez de fallar directamente.
+            for i in 1 2 3 4 5; do
+              if git push; then break; fi
+              echo "Push rechazado, reintentando ($i)..."
+              sleep $((5 + RANDOM % 10))
+              git fetch origin main
+              git rebase origin/main
+            done
           else
             echo "Sin borrador nuevo."
           fi
