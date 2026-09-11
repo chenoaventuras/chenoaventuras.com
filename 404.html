@@ -244,7 +244,9 @@
     var speed = BASE_SPEED;
     var started = false, running = false, over = false;
     var score = 0, best = 0;
-    var nextCat = 300, flashT = 0, flashMsg = "";
+    // el hueco hasta el próximo gato varía cada vez (no siempre a 300 en punto)
+    function nextCatGap() { return Math.round(270 + Math.random() * 60); } // 270–330
+    var nextCat = nextCatGap(), flashT = 0, flashMsg = "";
     var level = 1, nextLevel = 650;   // a partir de 650 sube de nivel cada 100
     var prevKind = null;   // para no repetir tipo de obstáculo seguido
     var COL = { ground: "#274c78", dash: "rgba(39,76,120,.32)", mtn: "rgba(39,76,120,.09)",
@@ -393,7 +395,7 @@
       player.y = GROUND - player.h; player.vy = 0; player.onGround = true;
       player.frame = 0; player.frameT = 0;
       score = 0; over = false; started = true; running = true;
-      nextCat = 300; flashT = 0; spawnKind = 0;
+      nextCat = nextCatGap(); flashT = 0; spawnKind = 0;
       level = 1; nextLevel = 650;
       prevKind = null;
       runStart = Date.now();
@@ -586,12 +588,12 @@
         speed = (BASE_SPEED + ramp) * speedScale;
         groundOffset = (groundOffset + speed * dt) % 38;
 
-        // sorpresa: el gato Francho, al llegar a 300 (y cada 300)
+        // sorpresa: el gato Francho, cada ~300 puntos (hueco variable, ver nextCatGap)
         if (Math.floor(score) >= nextCat) {
           spawnCat();
           flashMsg = "¡NO PISES A FRANCHO!";
           flashT = 2.2;
-          nextCat += 300;
+          nextCat += nextCatGap();
         }
 
         spawnT += dt;
