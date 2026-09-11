@@ -164,44 +164,65 @@
   ------------------------------------------------------------------- */
   var igWraps = document.querySelectorAll("[data-ig-posts]");
   if (igWraps.length && window.fetch) {
+    function igCard(p) {
+      if (!p || !p.permalink) return null;
+      var a = document.createElement("a");
+      a.className = "placecard reveal reveal--media";
+      a.href = p.permalink;
+      a.target = "_blank";
+      a.rel = "noopener";
+      var img = document.createElement("img");
+      img.src = p.image || "assets/img/blog/cola-de-caballo.webp";
+      img.alt = p.caption
+        ? p.caption.replace(/\s+/g, " ").slice(0, 100)
+        : "Publicación de Chenoaventuras en Instagram";
+      img.loading = "lazy";
+      img.decoding = "async";
+      img.width = 600;
+      img.height = 600;
+      var body = document.createElement("div");
+      body.className = "placecard__body";
+      var h3 = document.createElement("h3");
+      h3.textContent = p.type === "VIDEO" || p.type === "REEL" ? "Reel" : "Publicación";
+      var span = document.createElement("span");
+      span.textContent = (p.caption ? p.caption.replace(/\s+/g, " ").slice(0, 60) + "…" : "Ver en Instagram");
+      body.appendChild(h3);
+      body.appendChild(span);
+      a.appendChild(img);
+      a.appendChild(body);
+      return a;
+    }
+
     fetch("assets/data/instagram.json", { cache: "no-cache" })
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (data) {
         var posts = data && Array.isArray(data.posts) ? data.posts : (Array.isArray(data) ? data : null);
         if (!posts || !posts.length) return;
         igWraps.forEach(function (igWrap) {
-          // data-ig-posts="all" -> todas las publicaciones; si no, solo las 3 últimas.
-          var list = igWrap.getAttribute("data-ig-posts") === "all" ? posts : posts.slice(0, 3);
+          // data-ig-posts="all" -> todas las publicaciones (con "Ver más" cargando
+          // de "data-ig-step" en "data-ig-step"); si no, solo las 3 últimas.
+          var isAll = igWrap.getAttribute("data-ig-posts") === "all";
+          var pageSize = isAll ? (Number(igWrap.getAttribute("data-ig-page-size")) || 9) : 3;
+          var step = Number(igWrap.getAttribute("data-ig-step")) || 3;
+          var moreWrap = igWrap.parentElement ? igWrap.parentElement.querySelector("[data-ig-more-wrap]") : null;
+          var moreBtn = moreWrap ? moreWrap.querySelector("[data-ig-more]") : null;
+          var shown = 0;
+
+          function renderNext(n) {
+            posts.slice(shown, shown + n).forEach(function (p) {
+              var card = igCard(p);
+              if (card) igWrap.appendChild(card);
+            });
+            shown = Math.min(shown + n, posts.length);
+            revealScan(igWrap);
+            if (moreWrap) moreWrap.hidden = shown >= posts.length;
+          }
+
           igWrap.innerHTML = "";
-          list.forEach(function (p) {
-            if (!p || !p.permalink) return;
-            var a = document.createElement("a");
-            a.className = "placecard reveal reveal--media";
-            a.href = p.permalink;
-            a.target = "_blank";
-            a.rel = "noopener";
-            var img = document.createElement("img");
-            img.src = p.image || "assets/img/blog/cola-de-caballo.webp";
-            img.alt = p.caption
-              ? p.caption.replace(/\s+/g, " ").slice(0, 100)
-              : "Publicación de Chenoaventuras en Instagram";
-            img.loading = "lazy";
-            img.decoding = "async";
-            img.width = 600;
-            img.height = 600;
-            var body = document.createElement("div");
-            body.className = "placecard__body";
-            var h3 = document.createElement("h3");
-            h3.textContent = p.type === "VIDEO" || p.type === "REEL" ? "Reel" : "Publicación";
-            var span = document.createElement("span");
-            span.textContent = (p.caption ? p.caption.replace(/\s+/g, " ").slice(0, 60) + "…" : "Ver en Instagram");
-            body.appendChild(h3);
-            body.appendChild(span);
-            a.appendChild(img);
-            a.appendChild(body);
-            igWrap.appendChild(a);
-          });
-          revealScan(igWrap);
+          renderNext(pageSize);
+          if (moreBtn) {
+            moreBtn.addEventListener("click", function () { renderNext(step); });
+          }
         });
       })
       .catch(function () { /* deja el contenido de ejemplo */ });

@@ -62,41 +62,6 @@
       </div>
     </section>
 
-    <section class="section">
-      <div class="container">
-        <span class="eyebrow">Mapa de aventuras</span>
-        <h2 class="title">Lugares <span class="accent">explorados</span></h2>
-        <div class="cardgrid">
-          <a class="placecard reveal reveal--media" href="#"><img src="assets/img/destinos/cola-de-caballo.webp" alt="Cascada de la Cola de Caballo, Ordesa" width="206" height="198" loading="lazy" decoding="async" /><div class="placecard__body"><h3>Cola de Caballo</h3><span>Ordesa · Huesca · circular 18 km</span></div></a>
-          <a class="placecard reveal reveal--media" href="#"><img src="assets/img/destinos/altea.webp" alt="Iglesia de la cúpula azul de Altea" width="205" height="198" loading="lazy" decoding="async" /><div class="placecard__body"><h3>Altea</h3><span>Alicante · casco antiguo</span></div></a>
-          <a class="placecard reveal reveal--media" href="#"><img src="assets/img/destinos/bateria-castillitos.webp" alt="Torreones de la Batería de Castillitos, Cartagena" width="208" height="198" loading="lazy" decoding="async" /><div class="placecard__body"><h3>Batería de Castillitos</h3><span>Cartagena · Murcia</span></div></a>
-          <a class="placecard reveal reveal--media" href="#"><img src="assets/img/hero-cala.webp" alt="Cala de aguas turquesa en la costa mediterránea" width="428" height="380" loading="lazy" decoding="async" /><div class="placecard__body"><h3>Cala provisional</h3><span>Costa · pendiente de datos</span></div></a>
-          <a class="placecard reveal reveal--media" href="#"><img src="assets/img/blog/planificar-viaje.webp" alt="Ibón de alta montaña en el Pirineo de Huesca" width="354" height="196" loading="lazy" decoding="async" /><div class="placecard__body"><h3>Ibones del Pirineo</h3><span>Huesca · alta montaña</span></div></a>
-          <a class="placecard reveal reveal--media" href="#"><img src="assets/img/blog/furgoneta.webp" alt="Furgoneta camper al atardecer en la costa" width="354" height="196" loading="lazy" decoding="async" /><div class="placecard__body"><h3>Ruta camper Sur</h3><span>Costa · varios días</span></div></a>
-        </div>
-
-        <div class="featurerow">
-          <div class="feature reveal">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M9 3 3 6v15l6-3 6 3 6-3V3l-6 3-6-3Z"/><path d="M9 3v15M15 6v15"/></svg>
-            <h4>Rutas</h4><p>Itinerarios y guías para todos los niveles.</p>
-          </div>
-          <div class="feature reveal">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3a6 6 0 0 0-4 10c1 1 1 2 1 3h6c0-1 0-2 1-3a6 6 0 0 0-4-10Z"/><path d="M9 21h6"/></svg>
-            <h4>Consejos</h4><p>Tips prácticos para viajar mejor.</p>
-          </div>
-          <div class="feature reveal">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="m3 20 6-11 4 7 3-5 5 9z"/></svg>
-            <h4>Aventuras</h4><p>Experiencias únicas en la naturaleza.</p>
-          </div>
-          <div class="feature reveal">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m10 9 5 3-5 3z" fill="currentColor" stroke="none"/></svg>
-            <h4>Vídeos</h4><p>Contenido real, sin filtros.</p>
-          </div>
-        </div>
-        <p class="lead" style="margin-top:32px;"><em>Placeholder: fichas de ejemplo. Cada una enlazará a su ruta, mapa y galería cuando el contenido esté listo.</em></p>
-      </div>
-    </section>
-
     <!-- ============ TODAS LAS PUBLICACIONES DE INSTAGRAM ============ -->
     <section class="section">
       <div class="container">
@@ -107,7 +72,7 @@
           </div>
           <a class="btn btn--ghost" href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">Ver perfil</a>
         </div>
-        <div class="cardgrid cardgrid--ig" data-ig-posts="all">
+        <div class="cardgrid cardgrid--ig" data-ig-posts="all" data-ig-page-size="9" data-ig-step="3">
           <!-- Se rellena desde assets/data/instagram.json (actualizado a diario por GitHub Actions). -->
           <a class="placecard reveal reveal--media" href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">
             <img src="assets/img/blog/cola-de-caballo.webp" alt="Publicación de Chenoaventuras en Instagram" width="354" height="196" loading="lazy" decoding="async" />
@@ -122,6 +87,9 @@
             <div class="placecard__body"><h3>Reel</h3><span>Ver en Instagram</span></div>
           </a>
         </div>
+        <p class="center" style="margin-top:32px;" data-ig-more-wrap hidden>
+          <button type="button" class="btn btn--ghost" data-ig-more>Ver más</button>
+        </p>
       </div>
     </section>
 
