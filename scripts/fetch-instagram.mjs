@@ -4,14 +4,17 @@
  *   - assets/img/instagram/*.jpg  (miniaturas self-host: las media_url de IG caducan)
  *
  * Uso (lo llama .github/workflows/instagram.yml a diario):
- *   IG_ACCESS_TOKEN=xxxx [IG_USER_ID=me] [IG_LIMIT=3] node scripts/fetch-instagram.mjs
+ *   IG_ACCESS_TOKEN=xxxx [IG_USER_ID=me] [IG_LIMIT=3|all] node scripts/fetch-instagram.mjs
+ *
+ * IG_LIMIT="all" trae todas las publicaciones (hasta el tope de seguridad
+ * MAX_POSTS), paginando con paging.next de la Graph API.
  *
  * El token es un "long-lived access token" de la API de Instagram con Instagram
  * Login (cuenta profesional). Caduca a los ~60 días: hay que refrescarlo.
  * Si no hay token, el script termina sin tocar nada (exit 0).
  */
 import { mkdir, writeFile } from "node:fs/promises";
-import { readFileSync, writeFileSync, rmSync, readdirSync } from "node:fs";
+import { readFileSync, writeFileSync, rmSync, readdirSync, existsSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { tmpdir } from "node:os";
 import { join, dirname } from "node:path";
@@ -42,7 +45,13 @@ const IMG_DIR = join(ROOT, "assets", "img", "instagram");
 
 const TOKEN = process.env.IG_ACCESS_TOKEN;
 const USER = process.env.IG_USER_ID || "me";
-const LIMIT = Math.max(1, Math.min(12, Number(process.env.IG_LIMIT) || 3));
+// Tope de seguridad: aunque se pida "todas", nunca se bajan más de estas.
+const MAX_POSTS = 120;
+const LIMIT_RAW = (process.env.IG_LIMIT || "3").trim().toLowerCase();
+const LIMIT =
+  LIMIT_RAW === "all"
+    ? MAX_POSTS
+    : Math.max(1, Math.min(MAX_POSTS, Number(LIMIT_RAW) || 3));
 
 /**
  * Publicaciones que NO deben salir en la web (reels de prueba, etc.).
@@ -68,17 +77,35 @@ if (!TOKEN) {
 }
 
 const FIELDS = "id,caption,media_type,media_url,thumbnail_url,permalink,timestamp";
-// Pedimos bastantes más de las que enseñamos para poder descartar las excluidas.
-const FETCH = Math.min(50, LIMIT + EXCLUDE.length + 12);
-const api = `https://graph.instagram.com/${USER}/media?fields=${FIELDS}&limit=${FETCH}&access_token=${TOKEN}`;
+const PAGE_SIZE = 50;
 
-const res = await fetch(api);
-if (!res.ok) {
-  console.error("Error de la API de Instagram:", res.status, await res.text());
-  process.exit(1);
+/**
+ * Pagina con paging.next hasta tener suficientes publicaciones visibles
+ * (no excluidas) o hasta un tope duro de páginas (evita bucles eternos).
+ */
+async function fetchAllMedia() {
+  let url = `https://graph.instagram.com/${USER}/media?fields=${FIELDS}&limit=${PAGE_SIZE}&access_token=${TOKEN}`;
+  const all = [];
+  let page = 0;
+  while (url && page < 10) {
+    const res = await fetch(url);
+    if (!res.ok) {
+      console.error("Error de la API de Instagram:", res.status, await res.text());
+      if (!all.length) process.exit(1);
+      break;
+    }
+    const json = await res.json();
+    if (Array.isArray(json.data)) all.push(...json.data);
+    url = json.paging && json.paging.next ? json.paging.next : null;
+    page++;
+    const visiblesSoFar = all.filter((m) => !isExcluded(m)).length;
+    if (visiblesSoFar >= LIMIT) break;
+  }
+  return all;
 }
-const { data } = await res.json();
-if (!Array.isArray(data) || !data.length) {
+
+const data = await fetchAllMedia();
+if (!data.length) {
   console.error("La API no devolvió publicaciones.");
   process.exit(1);
 }
@@ -93,9 +120,16 @@ await mkdir(IMG_DIR, { recursive: true });
 
 const posts = [];
 for (const m of visibles.slice(0, LIMIT)) {
+  // Si ya tenemos la miniatura de un día anterior, no volvemos a descargarla
+  // (las media_url de Instagram caducan, pero el fichero local no cambia).
+  let image = existsSync(join(IMG_DIR, `${m.id}.webp`))
+    ? `assets/img/instagram/${m.id}.webp`
+    : existsSync(join(IMG_DIR, `${m.id}.jpg`))
+    ? `assets/img/instagram/${m.id}.jpg`
+    : null;
+
   const src = m.media_type === "VIDEO" ? m.thumbnail_url || m.media_url : m.media_url;
-  let image = "assets/img/blog/cola-de-caballo.webp";
-  if (src) {
+  if (!image && src) {
     try {
       const bin = await fetch(src);
       if (bin.ok) {
@@ -109,6 +143,7 @@ for (const m of visibles.slice(0, LIMIT)) {
       console.warn("No se pudo descargar la imagen de", m.id, e.message);
     }
   }
+  if (!image) image = "assets/img/blog/cola-de-caballo.webp";
   posts.push({
     permalink: m.permalink,
     image,

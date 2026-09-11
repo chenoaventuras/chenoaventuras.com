@@ -162,43 +162,47 @@
      (.github/workflows/instagram.yml). Si no hay datos, se queda el contenido
      de ejemplo que ya está en el HTML.
   ------------------------------------------------------------------- */
-  var igWrap = document.querySelector("[data-ig-posts]");
-  if (igWrap && window.fetch) {
+  var igWraps = document.querySelectorAll("[data-ig-posts]");
+  if (igWraps.length && window.fetch) {
     fetch("assets/data/instagram.json", { cache: "no-cache" })
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (data) {
         var posts = data && Array.isArray(data.posts) ? data.posts : (Array.isArray(data) ? data : null);
         if (!posts || !posts.length) return;
-        igWrap.innerHTML = "";
-        posts.slice(0, 3).forEach(function (p) {
-          if (!p || !p.permalink) return;
-          var a = document.createElement("a");
-          a.className = "placecard reveal reveal--media";
-          a.href = p.permalink;
-          a.target = "_blank";
-          a.rel = "noopener";
-          var img = document.createElement("img");
-          img.src = p.image || "assets/img/blog/cola-de-caballo.webp";
-          img.alt = p.caption
-            ? p.caption.replace(/\s+/g, " ").slice(0, 100)
-            : "Publicación de Chenoaventuras en Instagram";
-          img.loading = "lazy";
-          img.decoding = "async";
-          img.width = 600;
-          img.height = 600;
-          var body = document.createElement("div");
-          body.className = "placecard__body";
-          var h3 = document.createElement("h3");
-          h3.textContent = p.type === "VIDEO" || p.type === "REEL" ? "Reel" : "Publicación";
-          var span = document.createElement("span");
-          span.textContent = (p.caption ? p.caption.replace(/\s+/g, " ").slice(0, 60) + "…" : "Ver en Instagram");
-          body.appendChild(h3);
-          body.appendChild(span);
-          a.appendChild(img);
-          a.appendChild(body);
-          igWrap.appendChild(a);
+        igWraps.forEach(function (igWrap) {
+          // data-ig-posts="all" -> todas las publicaciones; si no, solo las 3 últimas.
+          var list = igWrap.getAttribute("data-ig-posts") === "all" ? posts : posts.slice(0, 3);
+          igWrap.innerHTML = "";
+          list.forEach(function (p) {
+            if (!p || !p.permalink) return;
+            var a = document.createElement("a");
+            a.className = "placecard reveal reveal--media";
+            a.href = p.permalink;
+            a.target = "_blank";
+            a.rel = "noopener";
+            var img = document.createElement("img");
+            img.src = p.image || "assets/img/blog/cola-de-caballo.webp";
+            img.alt = p.caption
+              ? p.caption.replace(/\s+/g, " ").slice(0, 100)
+              : "Publicación de Chenoaventuras en Instagram";
+            img.loading = "lazy";
+            img.decoding = "async";
+            img.width = 600;
+            img.height = 600;
+            var body = document.createElement("div");
+            body.className = "placecard__body";
+            var h3 = document.createElement("h3");
+            h3.textContent = p.type === "VIDEO" || p.type === "REEL" ? "Reel" : "Publicación";
+            var span = document.createElement("span");
+            span.textContent = (p.caption ? p.caption.replace(/\s+/g, " ").slice(0, 60) + "…" : "Ver en Instagram");
+            body.appendChild(h3);
+            body.appendChild(span);
+            a.appendChild(img);
+            a.appendChild(body);
+            igWrap.appendChild(a);
+          });
+          revealScan(igWrap);
         });
-        revealScan(igWrap);
       })
       .catch(function () { /* deja el contenido de ejemplo */ });
   }
