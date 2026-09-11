@@ -1,0 +1,45 @@
+name: Publicar borrador automático de blog si no se ha tocado
+
+on:
+  schedule:
+    # 12:00 hora de España, misma aproximación de verano/invierno que
+    # el resto de horarios automáticos del sitio.
+    - cron: "0 10 * 4-10 *"       # 12:00 CEST (horario de verano, abr-oct)
+    - cron: "0 11 * 1-3,11-12 *"  # 12:00 CET  (horario de invierno, nov-mar)
+  workflow_dispatch: {}      # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-blog-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # historial completo: hace falta para saber si alguien ha tocado el borrador
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - name: Publicar borradores automáticos de hoy que nadie haya tocado
+        run: node scripts/publish-auto-drafts.mjs
+
+      - name: Commit y push si se publicó algo
+        run: |
+          if [ -n "$(git status --porcelain content/blog)" ]; then
+            git config user.name  "cheno-bot"
+            git config user.email "chenoaventuras@gmail.com"
+            git add content/blog
+            git commit -m "Blog: publica automáticamente el borrador sin cambios"
+            git push
+          else
+            echo "Nada que publicar."
+          fi
