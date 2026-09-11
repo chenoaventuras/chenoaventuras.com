@@ -34,15 +34,16 @@ jobs:
           # pago por token.
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           claude_args: |
-            --allowedTools Read,Write,Glob
-            --max-turns 8
+            --allowedTools Read,Write,Glob,WebSearch
+            --max-turns 12
           prompt: |
             Hoy es ${{ steps.today.outputs.date }} (formato AAAA-MM-DD).
 
             TAREA: crear UN borrador de artículo de blog para chenoaventuras.com
             a partir de la publicación de Instagram más reciente. No toques
             git ni ningún otro fichero: solo puedes leer y escribir dentro de
-            este repositorio con las herramientas Read/Write/Glob.
+            este repositorio con las herramientas Read/Write/Glob, y buscar en
+            la web con WebSearch para investigar (no para copiar texto).
 
             1. Lee assets/data/instagram.json. Tiene la forma
                {"posts": [{"permalink", "image", "caption", "type", "timestamp"}, ...]}.
@@ -53,12 +54,23 @@ jobs:
                al permalink de la publicación elegida, YA existe un artículo
                para ella: no hagas nada más y termina sin escribir nada.
 
-            3. Si no existe todavía, crea un fichero nuevo en
-               content/blog/${{ steps.today.outputs.date }}-<slug>.md, donde
-               <slug> es un slug corto en minúsculas con guiones (sin acentos
-               ni caracteres especiales) derivado del título del artículo.
-               El fichero debe tener EXACTAMENTE esta forma (frontmatter YAML
-               entre líneas "---", luego el cuerpo en Markdown):
+            3. Identifica el destino o la actividad principal a partir del
+               caption de la publicación elegida. Con WebSearch, investiga:
+               - Qué busca realmente la gente sobre ese lugar/actividad (p.ej.
+                 "<lugar> qué ver", "<lugar> cómo llegar", "<lugar> cuándo ir",
+                 "<lugar> qué hacer", "<lugar> dónde comer", según aplique).
+               - Datos reales que enriquezcan el caption (historia, cómo
+                 llegar, mejores épocas, sitios cercanos, gastronomía, etc.).
+               No copies frases textuales largas de ninguna fuente: usa la
+               información para escribir con tus propias palabras.
+
+            4. Si no existe todavía artículo para esa publicación, crea un
+               fichero nuevo en content/blog/${{ steps.today.outputs.date }}-<slug>.md,
+               donde <slug> es un slug corto en minúsculas con guiones (sin
+               acentos ni caracteres especiales) derivado del título del
+               artículo. El fichero debe tener EXACTAMENTE esta forma
+               (frontmatter YAML entre líneas "---", luego el cuerpo en
+               Markdown):
 
                ---
                title: "<título con la palabra clave principal, máx. 60 caracteres>"
@@ -79,15 +91,21 @@ jobs:
               España. Tono cercano, aventurero y "sin filtros" (nada de
               lenguaje corporativo ni genérico), como si le contaras el viaje
               a un amigo, pero con rigor SEO.
-            - Identifica el destino o la actividad principal a partir de la
-              descripción (caption) de la publicación elegida. Si el caption
-              no da pistas claras de lugar, escribe sobre la actividad o el
-              tema central.
-            - Estructura: introducción, un par de secciones con contexto y
-              consejos prácticos (sin inventar datos muy concretos como
-              precios u horarios exactos; si los mencionas, que sea de forma
-              orientativa), y un cierre invitando a seguir a @chenoaventuras
-              en Instagram y a explorar más aventuras en la web.
+            - Estructura el artículo en torno a lo que la gente busca de
+              verdad sobre ese lugar/actividad (lo investigado en el paso 3):
+              usa esas preguntas/temas como subtítulos ## siempre que tenga
+              sentido, en vez de una estructura genérica.
+            - Incluye, si aplica al lugar: un poco de historia/contexto, qué
+              ver o hacer, cómo llegar, cuándo ir, y algún consejo práctico.
+              No inventes datos muy concretos como precios u horarios exactos;
+              si los mencionas, que sea de forma orientativa.
+            - Añade, de forma natural dentro del texto (no solo al final), un
+              enlace en Markdown al vídeo original de Instagram usando el
+              permalink de la publicación elegida (igPermalink), del tipo
+              "puedes ver el vídeo [aquí](<permalink>)".
+            - Cierra invitando a seguir a @chenoaventuras en Instagram y a
+              explorar más aventuras en la web (mención de marca breve, sin
+              repetirla varias veces).
 
       - name: Commit y push si se creó un borrador nuevo
         run: |

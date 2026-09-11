@@ -539,6 +539,11 @@ p { margin: 0 0 1em; }
 @media (max-width: 1024px) { .cardgrid--ig { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 640px) { .cardgrid--ig { grid-template-columns: 1fr; } }
 
+/* Banner del minijuego (inicio): imagen completa, clicable, lleva a /minijuego. */
+.minijuego-banner { display: block; border-radius: 14px; overflow: hidden; box-shadow: var(--shadow-sm); margin-top: 28px; }
+.minijuego-banner img { display: block; width: 100%; height: auto; transition: transform .5s ease; }
+.minijuego-banner:hover img { transform: scale(1.02); }
+
 /* =========================================================================
    BLOQUE EQUIPO / imagen + texto
    ========================================================================= */
