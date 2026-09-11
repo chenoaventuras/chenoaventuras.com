@@ -1,0 +1,22 @@
+name: Disparo semanal del borrador de blog
+
+# Este workflow no usa IA: solo dispara, una vez a la semana, el workflow
+# auto-blog-draft.yml (que sí llama a Claude Code) mandando un evento
+# "repository_dispatch". Se hace así porque, a fecha de hoy, ese es el
+# disparo que la documentación de anthropics/claude-code-action indica
+# como soportado (no "schedule").
+on:
+  schedule:
+    - cron: "0 7 * * 1"   # lunes ~09:00 hora de España (aprox., sin ajuste de DST aquí)
+  workflow_dispatch: {}     # para probarlo a mano desde la pestaña Actions
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Disparar auto-blog-draft.yml
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh api "repos/${{ github.repository }}/dispatches" \
+            -f event_type=generate-blog-draft
