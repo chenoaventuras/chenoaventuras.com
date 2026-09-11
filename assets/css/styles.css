@@ -408,7 +408,8 @@ p { margin: 0 0 1em; }
 .article__body ul, .article__body ol { margin: 0 0 1.2em; padding-left: 1.4em; }
 .article__body li { margin: .3em 0; }
 .article__body li::marker { color: var(--olive); }
-.article__body a { color: var(--olive-dark); text-underline-offset: 2px; }
+.article__body a { color: var(--night); text-underline-offset: 2px; }
+.article__body a:hover { color: var(--teal); }
 .article__body img {
   display: block; width: 100%; height: auto;
   border-radius: 12px; margin: 1.6em auto;
