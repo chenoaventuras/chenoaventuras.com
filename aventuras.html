@@ -51,13 +51,9 @@
   </header>
 
   <main>
-    <div class="container" style="padding-top:clamp(20px,3vw,32px); text-align:right;">
-      <a class="btn btn--ghost" href="curiosidades.html">Vídeos curiosos</a>
-    </div>
-
     <!-- ============ TODAS LAS PUBLICACIONES DE INSTAGRAM ============ -->
-    <section class="section" style="padding-top:0;">
-      <div class="container" style="max-width:1500px;">
+    <section class="section" style="padding-top:clamp(20px,3vw,32px);">
+      <div class="container" style="max-width:960px;">
         <div class="destacados__head">
           <div>
             <span class="eyebrow">Instagram</span>
@@ -80,9 +76,12 @@
             <div class="placecard__body"><h3>Reel</h3><span>Ver en Instagram</span></div>
           </a>
         </div>
-        <p class="center" style="margin-top:32px;" data-ig-more-wrap hidden>
-          <button type="button" class="btn btn--ghost" data-ig-more>Ver más</button>
-        </p>
+        <div class="center" style="margin-top:32px; display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
+          <a class="btn btn--ghost" href="curiosidades.html">Vídeos curiosos</a>
+          <span data-ig-more-wrap hidden>
+            <button type="button" class="btn btn--ghost" data-ig-more>Ver más</button>
+          </span>
+        </div>
       </div>
     </section>
 
