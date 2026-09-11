@@ -1,8 +1,9 @@
 ---
-title: "Bienvenido al blog de Chenoaventuras"
+title: Bienvenido al blog de Chenoaventuras
 date: 2026-09-11T09:00:00.000Z
-excerpt: "Arranca el blog: aquí iré contando rutas, consejos y rincones de España con más calma que en un reel."
-cover: /assets/img/blog/blog-hero.webp
+excerpt: "Arranca el blog: aquí iré contando rutas, consejos y rincones de
+  España con más calma que en un reel."
+cover: ""
 draft: false
 ---
 
