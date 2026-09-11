@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  id-token: write   # lo necesita anthropics/claude-code-action para su token OIDC interno
 
 concurrency:
   group: auto-blog-draft
