@@ -883,7 +883,9 @@ p { margin: 0 0 1em; }
    ========================================================================= */
 .site-footer {
   position: relative;
-  background: var(--night);
+  background:
+    linear-gradient(rgba(39,76,120,.86), rgba(39,76,120,.86)),
+    url("../img/minijuego-fondo.webp") center/cover no-repeat;
   color: rgba(255,255,255,.72);
   padding-block: 64px 34px;
 }
