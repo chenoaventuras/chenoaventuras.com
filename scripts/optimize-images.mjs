@@ -28,9 +28,20 @@ const TEXT_FILES = [
   "assets/js/main.js",
   "scripts/fetch-instagram.mjs",
   "assets/data/instagram.json",
+  ...listMarkdown("content/blog"), // portadas/fotos de los artículos del blog
 ];
 const SKIP = /^(favicon|apple-touch|og-|cheno-perfil)/i;
 const RASTER = /\.(jpe?g|png)$/i;
+
+function listMarkdown(dir) {
+  try {
+    return readdirSync(join(ROOT, dir))
+      .filter((f) => f.endsWith(".md"))
+      .map((f) => join(dir, f));
+  } catch {
+    return [];
+  }
+}
 
 function walk(dir, acc = []) {
   if (dir.endsWith("assets/img/instagram")) return acc; // las genera fetch-instagram.mjs
