@@ -1,9 +1,9 @@
 ---
 title: Bienvenido al blog de Chenoaventuras
-date: 2026-09-11T09:00:00.000Z
+date: 2026-09-10T11:00:00.000+02:00
 excerpt: "Arranca el blog: aquí iré contando rutas, consejos y rincones de
   España con más calma que en un reel."
-cover: "/assets/img/cheno-perfil.jpg"
+cover: /assets/img/cheno-perfil.jpg
 draft: false
 ---
 
