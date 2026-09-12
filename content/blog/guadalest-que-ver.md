@@ -3,6 +3,7 @@ title: 'Guadalest: qué ver en uno de los pueblos más bonitos de España'
 date: 2026-09-13T09:00:00.000+02:00
 excerpt: 'Guía de Guadalest (Alicante): su castillo del siglo XI, el embalse turquesa, cómo llegar, cuándo ir y todo lo que hay que ver en el pueblo del peñón.'
 cover: /assets/img/instagram/18096219011376691.webp
+coverPosition: 'center 96%'
 igPermalink: 'https://www.instagram.com/p/Db_YXJ8xcVo/'
 ---
 Hay pueblos bonitos, y luego está Guadalest, que parece dibujado a propósito para que se te caiga el móvil al suelo de tanto hacer fotos. Encajado entre las sierras de Aitana y Xortá, con un peñón rocoso partido en dos y un embalse de un azul turquesa casi de mentira a sus pies, entiendo perfectamente por qué es de los pueblos con más visitas de toda España a pesar de tener poco más de 200 vecinos.

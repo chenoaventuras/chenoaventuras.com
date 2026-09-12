@@ -144,6 +144,7 @@ function readPosts() {
       slug, title, date,
       excerpt: excerpt || title,
       cover: data.cover ? String(data.cover) : "",
+      coverPosition: data.coverPosition ? String(data.coverPosition) : "",
       html,
       url: `${SITE}/blog/${slug}.html`,
     });
@@ -177,8 +178,9 @@ function renderPost(p) {
     2
   );
 
+  const heroStyle = p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : "";
   const heroMedia = p.cover
-    ? `<div class="pagehead__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" decoding="async" /></div>`
+    ? `<div class="pagehead__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" decoding="async"${heroStyle} /></div>`
     : "";
 
   const body = `    <article class="article">
@@ -218,7 +220,7 @@ function renderIndex(posts) {
       (p) => `          <a class="blogcard reveal" href="/blog/${p.slug}.html">
             ${
               p.cover
-                ? `<div class="blogcard__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" loading="lazy" decoding="async" /></div>`
+                ? `<div class="blogcard__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" loading="lazy" decoding="async"${p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : ""} /></div>`
                 : `<div class="blogcard__media blogcard__media--empty"></div>`
             }
             <div class="blogcard__body">
