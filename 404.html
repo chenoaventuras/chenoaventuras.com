@@ -153,7 +153,7 @@
             var le = document.querySelector("[data-g404-lead]");
             if (eb) eb.textContent = "Minijuego";
             if (ti) ti.textContent = "¡Nos vamos de ruta!";
-            if (le) le.innerHTML = "Cheno se ha propuesto recorrer España para descubrir todo lo que esconde. Ayúdalo a seguir avanzando, esquiva los obstáculos y recorre todo lo que puedas.<br><br>¿Tienes lo necesario para llegar al TOP 5? 👀";
+            if (le) le.innerHTML = "Cheno se ha propuesto recorrer España para descubrir todo lo que esconde. Ayúdalo a seguir avanzando, esquiva los obstáculos y recorre todo lo que puedas.<br><br><strong>¿Tienes lo necesario para llegar al TOP 5? 👀</strong>";
           })();
         </script>
 
@@ -881,8 +881,8 @@
       // overlays
       ctx.textAlign = "center";
       if (!started) {
-        text("Ayuda a Cheno a cruzar la montaña", W / 2, H / 2 - 4, "700", 16, COL.hud);
-        text("Pulsa el botón EMPEZAR de abajo", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
+        text("Pulsa EMPEZAR, ESPACIO o ↑ para empezar", W / 2, H / 2 - 4, "700", 15, COL.hud);
+        text("Si pulsas D activas el modo 🦖", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
       } else if (over) {
         text("¡Te tropezaste!   Puntos: " + Math.floor(score), W / 2, H / 2 - 4, "700", 16, COL.hud);
         text("Pulsa el botón REINTENTAR para otra partida", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
