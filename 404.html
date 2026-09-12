@@ -616,7 +616,11 @@
       // se ancla abajo (no se centra verticalmente): así el suelo de la
       // ilustración queda a la altura del camino del juego, no la mitad del cielo.
       if (ir > cr) { dh = H; dw = H * ir; dx = (W - dw) / 2; dy = 0; }
-      else { dw = W; dh = W / ir; dx = 0; dy = H - dh; }
+      else {
+        dw = W; dh = W / ir; dx = 0;
+        // un empujón hacia abajo para no cortar la parte de arriba de la imagen
+        dy = (H - dh) + Math.min(30, Math.max(0, dh - H));
+      }
       ctx.globalAlpha = alpha;
       ctx.drawImage(img, dx, dy, dw, dh);
       ctx.globalAlpha = 1;
