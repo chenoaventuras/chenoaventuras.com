@@ -38,6 +38,8 @@ Si tu visita cae a primeros de agosto, puede que tengas suerte: es cuando se cel
 
 En coche, Altea queda bien conectada: desde Valencia, por la AP-7 en dirección Alicante (un trayecto de en torno a dos horas), y desde Benidorm, por la N-332, en apenas 20 minutos. También se puede llegar en tranvía desde Alicante (línea dirección Dénia) o en autobús de larga distancia desde ciudades como Madrid o Barcelona.
 
+📍 [Abrir el casco antiguo de Altea en Google Maps](https://www.google.com/maps/search/?api=1&query=Casco+antiguo+de+Altea) para ver la ubicación exacta y planear la ruta.
+
 Sobre cuándo ir: la primavera y el otoño son las estaciones más agradecidas, con temperaturas suaves para pasear por el casco antiguo sin agobios. En verano, mi recomendación es ir a primera hora de la mañana o al final de la tarde, para evitar tanto el calor como las horas de más gente.
 
 El acceso al pueblo y a sus miradores es gratuito, así que el único "gasto" real de esta escapada es el tiempo — y quizá alguna comida por el camino.

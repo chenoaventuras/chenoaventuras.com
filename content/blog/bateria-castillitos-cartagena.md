@@ -30,6 +30,8 @@ Lo que de verdad impresiona al llegar son los dos cañones Vickers de 381 mm, fa
 
 Desde Cartagena, se toma la carretera en dirección Mazarrón y, pasada la población de Canteras, hay que seguir los desvíos hacia Cabo Tiñoso y Campillo de Adentro. El último tramo es una carretera de montaña estrecha y con curvas — ve con calma, sobre todo si te cruzas con otro coche. Al final hay una zona de aparcamiento gratuito desde donde se sigue a pie hasta la fortaleza.
 
+📍 [Abrir la Batería de Castillitos en Google Maps](https://www.google.com/maps/search/?api=1&query=Bater%C3%ADa+de+Castillitos+Cartagena) para llevar la ruta puesta desde el móvil.
+
 ## ¿Cuándo ir y cuánto se tarda?
 
 Al ser una fortificación al aire libre, **no hay horario**: se puede visitar a cualquier hora, cualquier día. Para recorrerla con calma, cuenta con poco más de una hora, aunque si quieres pararte a hacer fotos y disfrutar del entorno, puedes alargarlo tranquilamente.
