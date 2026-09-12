@@ -23,6 +23,8 @@ Lo que de verdad impresiona al llegar son los dos cañones Vickers de 381 mm, fa
 
 ## Qué ver en la visita
 
+![Paseo entre las almenas de la Batería de Castillitos con vistas a la bahía de Cartagena](/assets/img/instagram/18151818568395422.webp)
+
 - **Los dos cañones Vickers**, subidos en sus plataformas giratorias originales.
 - **Túneles y pasadizos** que conectaban polvorines, dependencias militares y puestos de observación bajo tierra.
 - **Las fachadas de piedra**, con ese aire de fortaleza de cuento que contrasta con el paisaje árido de alrededor.
