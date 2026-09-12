@@ -758,16 +758,6 @@
       // fondo ilustrado (cambia cada 300 puntos, con fundido)
       drawBg();
 
-      // degradado oscuro pegado al suelo: para que los obstáculos se
-      // distingan bien del fondo (que a veces tiene mucho detalle ahí).
-      var groundGradH = Math.min(H * 0.55, 130);
-      var groundGrad = ctx.createLinearGradient(0, GROUND - groundGradH, 0, GROUND + 24);
-      groundGrad.addColorStop(0, "rgba(10,12,10,0)");
-      groundGrad.addColorStop(.65, "rgba(10,12,10,.4)");
-      groundGrad.addColorStop(1, "rgba(10,12,10,.58)");
-      ctx.fillStyle = groundGrad;
-      ctx.fillRect(0, GROUND - groundGradH, W, groundGradH + 24);
-
       // meteoritos (modo velocirraptor): solo decorativos, de fondo
       for (var mj = 0; mj < meteors.length; mj++) {
         var mm = meteors[mj];
