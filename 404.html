@@ -153,7 +153,7 @@
             var le = document.querySelector("[data-g404-lead]");
             if (eb) eb.textContent = "Minijuego";
             if (ti) ti.textContent = "¡Nos vamos de ruta!";
-            if (le) le.innerHTML = "Cheno se ha propuesto recorrer España para descubrir todo lo que tenemos. Ayúdalo a seguir avanzando, esquiva los obstáculos y recorre todo lo que puedas.<br><br>¿Tienes lo necesario para llegar al TOP 5? 👀";
+            if (le) le.innerHTML = "Cheno se ha propuesto recorrer España para descubrir todo lo que esconde. Ayúdalo a seguir avanzando, esquiva los obstáculos y recorre todo lo que puedas.<br><br>¿Tienes lo necesario para llegar al TOP 5? 👀";
           })();
         </script>
 
@@ -240,6 +240,21 @@
     /* --- sorpresa: el gato, cada 100 puntos --- */
     var catImg = new Image();
     catImg.src = "assets/img/gato-salto.webp";
+
+    /* --- fondos ilustrados: cambian cada 300 puntos, orden al azar por
+       partida (no siempre el mismo), y si pierdes sigues con el mismo
+       fondo en el que ibas (no se reinicia al reintentar). --- */
+    var BG_NAMES = ["madrid", "barcelona", "consuegra", "pais-vasco", "navarra-bardenas", "pirineo-aragones", "valencia-oceanographic"];
+    for (var bi = BG_NAMES.length - 1; bi > 0; bi--) {
+      var bj = Math.floor(Math.random() * (bi + 1));
+      var btmp = BG_NAMES[bi]; BG_NAMES[bi] = BG_NAMES[bj]; BG_NAMES[bj] = btmp;
+    }
+    var bgImages = BG_NAMES.map(function (n) {
+      var im = new Image();
+      im.src = "assets/img/minijuego-fondos/" + n + ".webp";
+      return im;
+    });
+    var bgIndex = 0, bgNextScore = 300, bgFadeFrom = 0, bgFadeT = 1;
 
     var GROUND = 0;
     var groundOffset = 0;
@@ -595,6 +610,20 @@
       return drawRoca(o);
     }
 
+    function drawCover(img, alpha) {
+      if (!img || !img.complete || !img.naturalWidth) return;
+      var ir = img.naturalWidth / img.naturalHeight, cr = W / H, dw, dh, dx, dy;
+      if (ir > cr) { dh = H; dw = H * ir; dx = (W - dw) / 2; dy = 0; }
+      else { dw = W; dh = W / ir; dx = 0; dy = (H - dh) / 2; }
+      ctx.globalAlpha = alpha;
+      ctx.drawImage(img, dx, dy, dw, dh);
+      ctx.globalAlpha = 1;
+    }
+    function drawBg() {
+      if (bgFadeT < 1) drawCover(bgImages[bgFadeFrom], 1);
+      drawCover(bgImages[bgIndex], bgFadeT < 1 ? bgFadeT : 1);
+    }
+
     function text(str, x, y, weight, size, color) {
       ctx.fillStyle = color;
       ctx.font = weight + " " + size + "px Poppins, 'Helvetica Neue', Arial, sans-serif";
@@ -606,6 +635,8 @@
       var dt = last ? Math.min((t - last) / 1000, 0.05) : 0;
       last = t;
 
+      if (bgFadeT < 1) bgFadeT = Math.min(1, bgFadeT + dt / 1.4); // fundido suave entre fondos
+
       if (running) {
         score += dt * 11;
 
@@ -615,6 +646,14 @@
           flashMsg = "¡Subimos el nivel!";
           flashT = 2.0;
           nextLevel += 100;
+        }
+
+        // fondo ilustrado siguiente cada 300 puntos, con fundido suave
+        if (Math.floor(score) >= bgNextScore) {
+          bgFadeFrom = bgIndex;
+          bgIndex = (bgIndex + 1) % bgImages.length;
+          bgFadeT = 0;
+          bgNextScore += 300;
         }
 
         var ramp = Math.min(score * 2.7, 470) + (level - 1) * 46;
@@ -708,16 +747,8 @@
 
       ctx.clearRect(0, 0, W, H);
 
-      // montañas de fondo
-      ctx.fillStyle = COL.mtn;
-      var mb = GROUND;
-      ctx.beginPath();
-      ctx.moveTo(-20, mb);
-      ctx.lineTo(W * 0.22, mb - 70); ctx.lineTo(W * 0.44, mb);
-      ctx.lineTo(W * 0.62, mb - 92); ctx.lineTo(W * 0.86, mb);
-      ctx.lineTo(W * 1.02, mb - 56); ctx.lineTo(W + 20, mb);
-      ctx.closePath();
-      ctx.fill();
+      // fondo ilustrado (cambia cada 300 puntos, con fundido)
+      drawBg();
 
       // meteoritos (modo velocirraptor): solo decorativos, de fondo
       for (var mj = 0; mj < meteors.length; mj++) {
