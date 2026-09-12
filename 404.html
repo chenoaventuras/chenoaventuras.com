@@ -244,7 +244,7 @@
     /* --- fondos ilustrados: cambian cada 300 puntos, orden al azar por
        partida (no siempre el mismo), y si pierdes sigues con el mismo
        fondo en el que ibas (no se reinicia al reintentar). --- */
-    var BG_NAMES = ["madrid", "barcelona", "consuegra", "pais-vasco", "navarra-bardenas", "pirineo-aragones", "valencia-oceanographic"];
+    var BG_NAMES = ["pais-vasco", "navarra-bardenas", "valencia-oceanographic"];
     for (var bi = BG_NAMES.length - 1; bi > 0; bi--) {
       var bj = Math.floor(Math.random() * (bi + 1));
       var btmp = BG_NAMES[bi]; BG_NAMES[bi] = BG_NAMES[bj]; BG_NAMES[bj] = btmp;
@@ -613,8 +613,10 @@
     function drawCover(img, alpha) {
       if (!img || !img.complete || !img.naturalWidth) return;
       var ir = img.naturalWidth / img.naturalHeight, cr = W / H, dw, dh, dx, dy;
+      // se ancla abajo (no se centra verticalmente): así el suelo de la
+      // ilustración queda a la altura del camino del juego, no la mitad del cielo.
       if (ir > cr) { dh = H; dw = H * ir; dx = (W - dw) / 2; dy = 0; }
-      else { dw = W; dh = W / ir; dx = 0; dy = (H - dh) / 2; }
+      else { dw = W; dh = W / ir; dx = 0; dy = H - dh; }
       ctx.globalAlpha = alpha;
       ctx.drawImage(img, dx, dy, dw, dh);
       ctx.globalAlpha = 1;
@@ -640,8 +642,10 @@
       if (running) {
         score += dt * 11;
 
-        // a partir de 650, subimos el nivel cada 100 puntos
-        if (Math.floor(score) >= nextLevel) {
+        // a partir de 650, subimos el nivel cada 100 puntos, pero a partir de
+        // 1100 se congela la dificultad: si no, con partidas muy largas
+        // acaba siendo imposible de superar.
+        if (Math.floor(score) >= nextLevel && Math.floor(score) < 1100) {
           level++;
           flashMsg = "¡Subimos el nivel!";
           flashT = 2.0;
