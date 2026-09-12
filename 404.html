@@ -241,6 +241,10 @@
     var catImg = new Image();
     catImg.src = "assets/img/gato-salto.webp";
 
+    /* --- con el fondo del País Vasco, los obstáculos son botellas de sidra --- */
+    var botellaImg = new Image();
+    botellaImg.src = "assets/img/minijuego-fondos/botella-barkaiztegi.webp";
+
     /* --- fondos ilustrados: cambian cada 300 puntos, orden al azar por
        partida (no siempre el mismo), y si pierdes sigues con el mismo
        fondo en el que ibas (no se reinicia al reintentar). --- */
@@ -605,6 +609,14 @@
       ctx.fillRect(o.x + 3, o.y + 2, Math.max(2, o.w - 6), 3);
     }
     function drawObstacle(o) {
+      // con el fondo del País Vasco, todos los obstáculos son la botella de
+      // sidra (solo cambia el dibujo: la caja de colisión sigue igual).
+      if (BG_NAMES[bgIndex] === "pais-vasco" && botellaImg.complete && botellaImg.naturalWidth) {
+        var bh = o.h * 1.15;
+        var bw = bh * (botellaImg.naturalWidth / botellaImg.naturalHeight);
+        ctx.drawImage(botellaImg, o.x + o.w / 2 - bw / 2, o.y + o.h - bh, bw, bh);
+        return;
+      }
       if (o.kind === "molino") return drawMolino(o);
       if (o.kind === "tronco") return drawTronco(o);
       return drawRoca(o);
