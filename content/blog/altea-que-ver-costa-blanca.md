@@ -4,6 +4,8 @@ date: 2026-09-11T09:00:00.000+02:00
 excerpt: 'Guía rápida de Altea (Alicante): casco antiguo, miradores, playas y gastronomía, con consejos para aprovechar la escapada al máximo.'
 cover: /assets/img/blog/uploads/altea-horizontal.webp
 draft: false
+tags:
+  - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/reel/DcZMPGpRAHv/'
 ---
 Hoy toca escapada a uno de los pueblos más fotografiados de la Costa Blanca: **Altea**. Casas blancas, calles empedradas que suben y bajan sin avisar, y el Mediterráneo asomando por cada esquina. Es de esos sitios que parecen sacados de una postal y que, aun así, merecen la pena en persona.

@@ -435,6 +435,16 @@ p { margin: 0 0 1em; }
 }
 .article__body pre code { background: none; padding: 0; }
 
+.blogfilter {
+  display: flex; align-items: center; gap: 10px;
+  margin-bottom: clamp(20px, 3vw, 32px);
+}
+.blogfilter label { font-weight: 600; font-size: .92rem; color: var(--ink-soft); }
+.blogfilter select {
+  font: inherit; font-size: .92rem; padding: .55em 2em .55em 1em;
+  border-radius: 10px; border: 1px solid rgba(20,20,15,.2); background: var(--white);
+  color: var(--ink); cursor: pointer;
+}
 .bloglist {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));

@@ -44,6 +44,13 @@ collections:
         }
       - { name: cover, label: Foto de portada, widget: image, required: false }
       - {
+          name: tags,
+          label: 'Etiquetas (para el filtro del blog)',
+          widget: list,
+          required: false,
+          hint: 'Ej: "Curiosidades" o "Actividades" si aplica, más la comunidad autónoma si el post tiene un lugar concreto (p. ej. "Comunidad Valenciana", "Región de Murcia").',
+        }
+      - {
           name: draft,
           label: 'Borrador (marca esto para NO publicarlo todavía)',
           widget: boolean,

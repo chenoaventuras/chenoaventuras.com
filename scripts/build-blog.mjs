@@ -20,6 +20,7 @@ const SITE = "https://www.chenoaventuras.com";
 const CONTENT_DIR = join(ROOT, "content", "blog");
 const OUT_DIR = join(ROOT, "blog");
 const OG_DEFAULT = SITE + "/assets/img/og-default.jpg";
+const TAG_TYPES = ["Curiosidades", "Actividades"]; // el resto de tags de un post son comunidades autónomas
 
 marked.setOptions({ gfm: true, breaks: false });
 
@@ -140,11 +141,15 @@ function readPosts() {
     );
     // imágenes del cuerpo: carga diferida
     html = html.replace(/<img /g, '<img loading="lazy" decoding="async" ');
+    const tags = Array.isArray(data.tags)
+      ? data.tags.map((t) => String(t).trim()).filter(Boolean)
+      : [];
     posts.push({
       slug, title, date,
       excerpt: excerpt || title,
       cover: data.cover ? String(data.cover) : "",
       coverPosition: data.coverPosition ? String(data.coverPosition) : "",
+      tags,
       html,
       url: `${SITE}/blog/${slug}.html`,
     });
@@ -217,7 +222,7 @@ ${p.html}
 function renderIndex(posts) {
   const cards = posts
     .map(
-      (p) => `          <a class="blogcard reveal" href="/blog/${p.slug}.html">
+      (p) => `          <a class="blogcard reveal" href="/blog/${p.slug}.html" data-tags="${esc(p.tags.join("|"))}">
             ${
               p.cover
                 ? `<div class="blogcard__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" loading="lazy" decoding="async"${p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : ""} /></div>`
@@ -233,6 +238,23 @@ function renderIndex(posts) {
 
   const empty = `<p class="lead center" style="margin-inline:auto;">Todavía no hay artículos publicados. Vuelve pronto.</p>`;
 
+  // desplegable de filtro: Tipo (Curiosidades/Actividades) + Comunidad Autónoma,
+  // solo con las etiquetas que de verdad tienen posts.
+  const allTags = [...new Set(posts.flatMap((p) => p.tags))];
+  const typeTags = TAG_TYPES.filter((t) => allTags.includes(t));
+  const regionTags = allTags.filter((t) => !TAG_TYPES.includes(t)).sort((a, b) => a.localeCompare(b, "es"));
+  const filterBar =
+    typeTags.length || regionTags.length
+      ? `        <div class="blogfilter">
+          <label for="blog-filter">Filtrar por</label>
+          <select id="blog-filter">
+            <option value="">Todos los posts</option>
+            ${typeTags.length ? `<optgroup label="Tipo">${typeTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}</optgroup>` : ""}
+            ${regionTags.length ? `<optgroup label="Comunidad autónoma">${regionTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}</optgroup>` : ""}
+          </select>
+        </div>\n`
+      : "";
+
   const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
         <span class="eyebrow" style="color:var(--gold-soft)">Blog</span>
@@ -243,9 +265,28 @@ function renderIndex(posts) {
 
     <section class="section">
       <div class="container">
-${posts.length ? `        <div class="bloglist">\n${cards}\n        </div>` : `        ${empty}`}
+${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${cards}\n        </div>\n        <p class="lead center" id="blogfilter-empty" hidden style="margin-inline:auto;">Ningún post coincide con ese filtro todavía.</p>` : `        ${empty}`}
       </div>
-    </section>`;
+    </section>
+    <script>
+      (function () {
+        var sel = document.getElementById("blog-filter");
+        if (!sel) return;
+        var cards = Array.prototype.slice.call(document.querySelectorAll("#bloglist .blogcard"));
+        var emptyMsg = document.getElementById("blogfilter-empty");
+        sel.addEventListener("change", function () {
+          var v = sel.value;
+          var visible = 0;
+          cards.forEach(function (c) {
+            var tags = (c.getAttribute("data-tags") || "").split("|");
+            var show = !v || tags.indexOf(v) !== -1;
+            c.hidden = !show;
+            if (show) visible++;
+          });
+          if (emptyMsg) emptyMsg.hidden = visible !== 0;
+        });
+      })();
+    </script>`;
 
   return shell({
     title: "Blog de viajes y rutas por España | Chenoaventuras",
