@@ -23,7 +23,7 @@ collections:
     description: Escribe aquí. Al publicar se sube y la web se actualiza sola en un minuto.
     folder: content/blog
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     summary: '{{title}}'
     sortable_fields: [date, title]
     fields:

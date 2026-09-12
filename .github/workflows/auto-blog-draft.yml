@@ -82,14 +82,17 @@ jobs:
                   No copies frases textuales largas de ninguna fuente: usa la
                   información para escribir con tus propias palabras.
 
-               b. Crea un fichero nuevo en
-                  content/blog/${{ steps.today.outputs.date }}-<slug>.md, donde
+               b. Crea un fichero nuevo en content/blog/<slug>.md, donde
                   <slug> es un slug corto en minúsculas con guiones (sin
-                  acentos ni caracteres especiales) derivado del título de ESE
-                  artículo (distinto para cada publicación, para no chocar con
-                  el fichero de otra publicación de esta misma tanda). El
-                  fichero debe tener EXACTAMENTE esta forma (frontmatter YAML
-                  entre líneas "---", luego el cuerpo en Markdown):
+                  acentos ni caracteres especiales) con el lugar o la
+                  actividad principal (NO la fecha: la URL final es
+                  /blog/<slug>.html, sin fecha delante). Antes de elegirlo,
+                  comprueba que ningún fichero de content/blog/ (ni ninguno
+                  que estés creando en esta misma tanda) use ya ese slug; si
+                  choca, añade un matiz distintivo (p.ej. la zona o "-2") para
+                  que sea único. El fichero debe tener EXACTAMENTE esta forma
+                  (frontmatter YAML entre líneas "---", luego el cuerpo en
+                  Markdown):
 
                ---
                title: "<título con la palabra clave principal, máx. 60 caracteres>"
