@@ -241,10 +241,10 @@
     var catImg = new Image();
     catImg.src = "assets/img/gato-salto.webp";
 
-    /* --- fondos ilustrados: cambian cada 300 puntos, orden al azar por
+    /* --- fondos ilustrados: cambian cada 280 puntos, orden al azar por
        partida (no siempre el mismo), y si pierdes sigues con el mismo
        fondo en el que ibas (no se reinicia al reintentar). --- */
-    var BG_NAMES = ["pais-vasco-bn", "navarra-bardenas-bn"];
+    var BG_NAMES = ["pais-vasco-bn", "navarra-bardenas-bn", "barcelona-bn", "madrid-bn", "consuegra-bn", "valencia-oceanographic-bn"];
     for (var bi = BG_NAMES.length - 1; bi > 0; bi--) {
       var bj = Math.floor(Math.random() * (bi + 1));
       var btmp = BG_NAMES[bi]; BG_NAMES[bi] = BG_NAMES[bj]; BG_NAMES[bj] = btmp;
@@ -254,7 +254,7 @@
       im.src = "assets/img/minijuego-fondos/" + n + ".webp";
       return im;
     });
-    var bgIndex = 0, bgNextScore = 300, bgFadeFrom = 0, bgFadeT = 1;
+    var bgIndex = 0, bgNextScore = 280, bgFadeFrom = 0, bgFadeT = 1;
 
     var GROUND = 0;
     var groundOffset = 0;
@@ -669,12 +669,12 @@
           hardCheckpoint++;
         }
 
-        // fondo ilustrado siguiente cada 300 puntos, con fundido suave
+        // fondo ilustrado siguiente cada 280 puntos, con fundido suave
         if (Math.floor(score) >= bgNextScore) {
           bgFadeFrom = bgIndex;
           bgIndex = (bgIndex + 1) % bgImages.length;
           bgFadeT = 0;
-          bgNextScore += 300;
+          bgNextScore += 280;
         }
 
         var ramp = Math.min(score * 2.7, 470) + (level - 1) * 46;
@@ -768,7 +768,7 @@
 
       ctx.clearRect(0, 0, W, H);
 
-      // fondo ilustrado (cambia cada 300 puntos, con fundido)
+      // fondo ilustrado (cambia cada 280 puntos, con fundido)
       drawBg();
 
       // meteoritos (modo velocirraptor): solo decorativos, de fondo
