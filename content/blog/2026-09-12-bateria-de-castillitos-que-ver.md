@@ -3,7 +3,6 @@ title: 'Batería de Castillitos: qué ver en Cabo Tiñoso'
 date: 2026-09-12T09:00:00.000+02:00
 excerpt: 'Guía de la Batería de Castillitos (Cartagena): su historia, los cañones Vickers, cómo llegar y consejos para la escapada.'
 cover: /assets/img/destinos/bateria-castillitos.webp
-draft: true
 igPermalink: 'https://www.instagram.com/reel/DcOyoVXRSZy/'
 ---
 Hay sitios que sorprenden por las vistas, otros por la historia, y luego está la **Batería de Castillitos**, en Cabo Tiñoso (Cartagena), que te da las dos cosas a la vez y encima con unos cañones que parecen sacados de una peli. Si te gustan los rincones con esa mezcla de naturaleza, historia militar y postal de acantilado, apunta este.
