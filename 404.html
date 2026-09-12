@@ -60,6 +60,16 @@
     .g404__actions { margin-top: clamp(22px, 4vw, 36px); display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
     #theme-toggle { font-size: .82rem; letter-spacing: .1em; }
 
+    /* Botón táctil del modo velocirraptor (para móvil, donde no hay tecla D) */
+    .raptor-toggle {
+      position: absolute; top: 22px; left: 22px; z-index: 5;
+      width: 36px; height: 36px; padding: 0; border-radius: 50%;
+      border: 2px solid rgba(255,255,255,.75); background: rgba(20,20,15,.4);
+      font-size: 18px; line-height: 1; display: flex; align-items: center; justify-content: center;
+      cursor: pointer; -webkit-tap-highlight-color: transparent;
+    }
+    .raptor-toggle[aria-pressed="true"] { background: #c0392b; border-color: #c0392b; }
+
     .score-form { margin: 14px 2px 4px; text-align: center; color: #14140f; }
     .score-form label { display: block; font-weight: 600; font-size: .92rem; margin-bottom: 8px; }
     .score-form__row { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
@@ -159,6 +169,7 @@
 
         <div class="runner">
           <canvas id="run-game" role="img" aria-label="Minijuego: el senderista salta obstáculos"></canvas>
+          <button type="button" id="raptor-toggle" class="raptor-toggle" aria-label="Activar modo velocirraptor" aria-pressed="false">🦖</button>
           <button type="button" id="run-jump" class="btn runner__jump">EMPEZAR</button>
           <form id="score-form" class="score-form" hidden>
             <label for="score-name">¡Estás en el top 5! Escribe tu nombre:</label>
@@ -926,6 +937,15 @@
       if (over) return;
       action();
     }
+    var raptorBtn = document.getElementById("raptor-toggle");
+    function toggleRaptor() {
+      audioReady();
+      raptorMode = !raptorMode;
+      raptorJingle(raptorMode);
+      flashMsg = raptorMode ? "🦖 MODO VELOCIRRAPTOR" : "Modo velocirraptor desactivado";
+      flashT = raptorMode ? 2.2 : 1.4;
+      if (raptorBtn) raptorBtn.setAttribute("aria-pressed", String(raptorMode));
+    }
     window.addEventListener("keydown", function (e) {
       var tag = (e.target && e.target.tagName || "").toLowerCase();
       if (tag === "input" || tag === "textarea" || tag === "select") return;
@@ -934,13 +954,12 @@
         tapAction();
       }
       if ((e.key === "d" || e.key === "D") && !e.ctrlKey && !e.metaKey && !e.altKey) {
-        audioReady();
-        raptorMode = !raptorMode;
-        raptorJingle(raptorMode);
-        flashMsg = raptorMode ? "🦖 MODO VELOCIRRAPTOR" : "Modo velocirraptor desactivado";
-        flashT = raptorMode ? 2.2 : 1.4;
+        toggleRaptor();
       }
     });
+    if (raptorBtn) {
+      raptorBtn.addEventListener("pointerdown", function (e) { e.preventDefault(); e.stopPropagation(); toggleRaptor(); });
+    }
     canvas.addEventListener("pointerdown", function (e) { e.preventDefault(); tapAction(); });
     canvas.addEventListener("touchstart", function (e) { e.preventDefault(); tapAction(); }, { passive: false });
     if (jumpBtn) {
