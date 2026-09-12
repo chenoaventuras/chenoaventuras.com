@@ -20,8 +20,6 @@ Del recinto amurallado original todavía queda en pie el **Portal Vell** (Portal
 
 ## Qué ver en el casco antiguo
 
-![Cúpulas azules de la Iglesia de Nuestra Señora del Consuelo en Altea, con la sierra de fondo](/assets/img/instagram/17983247141883450.webp)
-
 El corazón de Altea es la **Iglesia de Nuestra Señora del Consuelo**, con sus icónicas cúpulas de cerámica azul y blanca que se ven desde medio pueblo (y desde bastantes fotos de Instagram, seguro que ya la habías visto sin saber dónde estaba). El templo actual se levantó a principios del siglo XX, sobre el emplazamiento de una iglesia anterior, y suele abrir por la mañana y por la tarde — si vas con la idea de entrar, conviene comprobar el horario ese mismo día, porque puede variar.
 
 Desde la plaza de la iglesia se puede bajar por la estrecha y empinada **calle Mayor**, llena de tiendas de artesanía, galerías de arte y terrazas, hasta llegar al Portal Vell. Y ya que estás por la zona, no te vayas sin pasar por:

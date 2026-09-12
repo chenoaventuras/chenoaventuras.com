@@ -14,8 +14,6 @@ Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.
 
 ## Un pueblo con más historia de la que parece
 
-![El Castillo de San José de Guadalest sobre el peñón, con el embalse turquesa al fondo](/assets/img/instagram/18063715412351097.webp)
-
 Guadalest tiene origen musulmán, y su castillo —el Castell de Guadalest, o castillo de San José— es una fortaleza del siglo XI construida sobre la roca más alta del pueblo, desde donde se controlaba todo el valle. Fue plaza importante de las tropas árabes antes de la Reconquista, y a lo largo de los siglos ha sobrevivido a dos terremotos (1644 y 1748) y a una voladura durante la Guerra de Sucesión, así que lo que hoy ves entre las ruinas es, literalmente, lo que quedó en pie después de todo eso.
 
 ## Qué ver en Guadalest
