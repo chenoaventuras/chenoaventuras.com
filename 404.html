@@ -276,6 +276,10 @@
     function nextCatGap() { return Math.round(270 + Math.random() * 60); } // 270–330
     var nextCat = nextCatGap(), flashT = 0, flashMsg = "";
     var level = 1, nextLevel = 650;   // a partir de 650 sube de nivel cada 100
+    // pasados los 1100, unos pocos empujones más pequeños y espaciados, y
+    // luego se congela del todo (ver el "else if" en loop()).
+    var HARD_CHECKPOINTS = [1600, 2000, 2350, 2700];
+    var hardCheckpoint = 0;
     var prevKind = null;   // para no repetir tipo de obstáculo seguido
     var COL = { ground: "#274c78", dash: "rgba(39,76,120,.32)", mtn: "rgba(39,76,120,.09)",
                 hud: "#23231f", hudSoft: "#55564d", rock: "#3f4a2e" };
@@ -425,7 +429,7 @@
       player.frame = 0; player.frameT = 0;
       score = 0; over = false; started = true; running = true;
       nextCat = nextCatGap(); flashT = 0; spawnKind = 0;
-      level = 1; nextLevel = 650;
+      level = 1; nextLevel = 650; hardCheckpoint = 0;
       prevKind = null;
       runStart = Date.now();
       if (scoreForm) scoreForm.hidden = true;
@@ -646,14 +650,23 @@
       if (running) {
         score += dt * 11;
 
-        // a partir de 650, subimos el nivel cada 100 puntos, pero a partir de
-        // 1100 se congela la dificultad: si no, con partidas muy largas
-        // acaba siendo imposible de superar.
+        // a partir de 650, subimos el nivel cada 100 puntos hasta 1100.
         if (Math.floor(score) >= nextLevel && Math.floor(score) < 1100) {
           level++;
           flashMsg = "¡Subimos el nivel!";
           flashT = 2.0;
           nextLevel += 100;
+        } else if (
+          hardCheckpoint < HARD_CHECKPOINTS.length &&
+          Math.floor(score) >= HARD_CHECKPOINTS[hardCheckpoint]
+        ) {
+          // de ahí en adelante, solo unos pocos empujones sueltos y pequeños
+          // (no cada 100 puntos): así una partida larga puede ir rápido pero
+          // sigue siendo jugable, no imposible por física.
+          level++;
+          flashMsg = "¡Subimos el nivel!";
+          flashT = 2.0;
+          hardCheckpoint++;
         }
 
         // fondo ilustrado siguiente cada 300 puntos, con fundido suave
