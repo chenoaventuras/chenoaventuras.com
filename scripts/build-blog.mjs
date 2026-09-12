@@ -222,7 +222,6 @@ function renderIndex(posts) {
                 : `<div class="blogcard__media blogcard__media--empty"></div>`
             }
             <div class="blogcard__body">
-              <time datetime="${p.date.toISOString().slice(0, 10)}">${fmtDate(p.date)}</time>
               <h2>${esc(p.title)}</h2>
               <p>${esc(p.excerpt)}</p>
             </div>
