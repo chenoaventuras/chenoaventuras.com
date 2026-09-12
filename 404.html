@@ -69,6 +69,9 @@
       cursor: pointer; -webkit-tap-highlight-color: transparent;
     }
     .raptor-toggle[aria-pressed="true"] { background: #c0392b; border-color: #c0392b; }
+    @media (max-width: 560px) {
+      .raptor-toggle { top: 14px; left: 14px; width: 26px; height: 26px; font-size: 13px; }
+    }
 
     .score-form { margin: 14px 2px 4px; text-align: center; color: #14140f; }
     .score-form label { display: block; font-weight: 600; font-size: .92rem; margin-bottom: 8px; }
@@ -883,8 +886,9 @@
       text((best ? "MÁX " + String(best).padStart(4, "0") + "   " : "") + String(Math.floor(score)).padStart(4, "0"),
            W - 10, 22, "600", 13, COL.hud);
 
-      // indicador del modo velocirraptor (tecla D)
-      if (raptorMode) {
+      // indicador del modo velocirraptor (tecla D en escritorio; en móvil ya
+      // está el botón 🦖, que se pone rojo, y este texto lo tapaba)
+      if (raptorMode && !isMobile) {
         ctx.textAlign = "left";
         text("🦖 x1.4", 10, 22, "700", 13, "#b98a10");
       }
@@ -892,8 +896,12 @@
       // overlays
       ctx.textAlign = "center";
       if (!started) {
-        text("Pulsa EMPEZAR, ESPACIO o ↑ para empezar", W / 2, H / 2 - 4, "700", 15, COL.hud);
-        text("Si pulsas D activas el modo 🦖", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
+        if (isMobile) {
+          text("Pulsa EMPEZAR para comenzar la ruta", W / 2, H / 2, "700", 15, COL.hud);
+        } else {
+          text("Pulsa EMPEZAR, ESPACIO o ↑ para empezar", W / 2, H / 2 - 4, "700", 15, COL.hud);
+          text("Si pulsas D activas el modo 🦖", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
+        }
       } else if (over) {
         text("¡Te tropezaste!   Puntos: " + Math.floor(score), W / 2, H / 2 - 4, "700", 16, COL.hud);
         text("Pulsa el botón REINTENTAR para otra partida", W / 2, H / 2 + 16, "500", 12, COL.hudSoft);
