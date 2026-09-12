@@ -887,12 +887,8 @@
       text((best ? "MÁX " + String(best).padStart(4, "0") + "   " : "") + String(Math.floor(score)).padStart(4, "0"),
            W - 10, 22, "600", 13, COL.hud);
 
-      // indicador del modo velocirraptor (tecla D en escritorio; en móvil ya
-      // está el botón 🦖, que se pone rojo, y este texto lo tapaba)
-      if (raptorMode && !isMobile) {
-        ctx.textAlign = "left";
-        text("🦖 x1.4", 10, 22, "700", 13, "#b98a10");
-      }
+      // el botón 🦖 (arriba a la izquierda) ya indica el modo activo
+      // poniéndose rojo, así que no hace falta texto adicional aquí.
 
       // overlays
       ctx.textAlign = "center";
