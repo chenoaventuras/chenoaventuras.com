@@ -62,15 +62,16 @@
 
     /* Botón táctil del modo velocirraptor (para móvil, donde no hay tecla D) */
     .raptor-toggle {
+      display: none;
       position: absolute; top: 22px; left: 22px; z-index: 5;
       width: 36px; height: 36px; padding: 0; border-radius: 50%;
       border: 2px solid rgba(255,255,255,.75); background: rgba(20,20,15,.4);
-      font-size: 18px; line-height: 1; display: flex; align-items: center; justify-content: center;
+      font-size: 18px; line-height: 1; align-items: center; justify-content: center;
       cursor: pointer; -webkit-tap-highlight-color: transparent;
     }
     .raptor-toggle[aria-pressed="true"] { background: #c0392b; border-color: #c0392b; }
     @media (max-width: 560px) {
-      .raptor-toggle { top: 14px; left: 14px; width: 26px; height: 26px; font-size: 13px; }
+      .raptor-toggle { display: flex; top: 14px; left: 14px; width: 26px; height: 26px; font-size: 13px; }
     }
 
     .score-form { margin: 14px 2px 4px; text-align: center; color: #14140f; }
