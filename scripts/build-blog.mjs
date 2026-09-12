@@ -233,7 +233,7 @@ function renderIndex(posts) {
 
   const empty = `<p class="lead center" style="margin-inline:auto;">Todavía no hay artículos publicados. Vuelve pronto.</p>`;
 
-  const body = `    <section class="pagehead torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
+  const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
         <span class="eyebrow" style="color:var(--gold-soft)">Blog</span>
         <h1>Historias del camino</h1>
