@@ -121,6 +121,15 @@ jobs:
               ver o hacer, cómo llegar, cuándo ir, y algún consejo práctico.
               No inventes datos muy concretos como precios u horarios exactos;
               si los mencionas, que sea de forma orientativa.
+            - Si el post tiene un apartado de "cómo llegar" a un sitio físico
+              concreto, añade ahí un enlace a Google Maps con este formato:
+              https://www.google.com/maps/search/?api=1&query=<lugar
+              codificado para URL> (no hacen falta coordenadas, con el nombre
+              del sitio Maps ya lo resuelve).
+            - Por encima de cumplir la estructura SEO, el post tiene que
+              aportar valor real y ser entretenido de leer: cuenta algo que no
+              sea obvio, dale color con la propia experiencia/anécdota si
+              encaja, y evita que suene a ficha de folleto turístico.
             - Añade, de forma natural dentro del texto (no solo al final), un
               enlace en Markdown al vídeo original de Instagram usando el
               permalink de la publicación elegida (igPermalink), del tipo
