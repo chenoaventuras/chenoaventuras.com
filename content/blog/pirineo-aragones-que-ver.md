@@ -1,5 +1,5 @@
 ---
-title: 'Escapada por el Pirineo Aragonés: 16 lugares imprescindibles'
+title: 'Escapada por el Pirineo Aragonés: 21 lugares imprescindibles'
 date: 2026-09-13T09:00:00.000+02:00
 excerpt: 'Guía de escapada por el Pirineo Aragonés: miradores, pueblos, cascadas, patrimonio y actividades de aventura, con cómo llegar y cuándo ir.'
 cover: /assets/img/instagram/17918762373419557.webp
@@ -7,7 +7,7 @@ tags:
   - Aragón
 igPermalink: 'https://www.instagram.com/p/DbtQJiPDJwy/'
 ---
-Si tuviera que recomendar una sola escapada de montaña en España, el Pirineo Aragonés estaría siempre en la conversación. Lagos de alta montaña, pueblos con embalse a los pies, una estación de tren fantasma con historia de espías y una de las rutas de senderismo más bonitas del país, todo dentro de una misma zona. Aquí te dejo los 16 sitios que reuní para esta escapada, para que te organices la tuya con calma.
+Si tuviera que recomendar una sola escapada de montaña en España, el Pirineo Aragonés estaría siempre en la conversación. Lagos de alta montaña, pueblos con embalse a los pies, una estación de tren fantasma con historia de espías y una de las rutas de senderismo más bonitas del país, todo dentro de una misma zona. Aquí te dejo los 21 sitios que reuní para esta escapada, para que te organices la tuya con calma.
 
 Puedes ver la publicación original en [este post de Instagram](https://www.instagram.com/p/DbtQJiPDJwy/) — comenta "QUIERO INFO" en el propio post y te llega la guía con estos lugares y algún detalle extra.
 
@@ -19,9 +19,13 @@ Puedes ver la publicación original en [este post de Instagram](https://www.inst
 
 ## Pueblos con encanto
 
-- **Lanuza**: un pueblo diminuto a orillas de un embalse, con la iglesia asomando sobre el agua. Para mí, el más bonito de todo el recorrido.
+- **[Lanuza](https://www.instagram.com/p/DZdIrmTPtoA/)**: un pueblo diminuto a orillas de un embalse, con la iglesia asomando sobre el agua. Para mí, el más bonito de todo el recorrido.
 - **Sallent de Gállego**: casas de piedra, calles estrechas y el río Gállego cruzando el pueblo. Uno de los puntos de referencia para moverte por el valle de Tena.
-- **Torla**: la puerta de entrada al Parque Nacional de Ordesa y Monte Perdido, con vistas a las Tres Marías desde sus calles.
+- **[Torla](https://www.instagram.com/p/DaH1424hpM8/)**: la puerta de entrada al Parque Nacional de Ordesa y Monte Perdido, con vistas a las Tres Marías desde sus calles.
+- **Aínsa**: el pueblo medieval por excelencia del Pirineo aragonés, con una Plaza Mayor porticada declarada Conjunto Histórico-Artístico y un castillo del siglo XI que vigilaba la frontera con los territorios musulmanes. Todo el casco antiguo es peatonal y está empedrado, así que aparca fuera y recorre sus calles con calma.
+- **Panticosa**: además del balneario y las cascadas de la zona, el propio pueblo merece un paseo, con la iglesia de la Asunción, el puente del Concellar y ese aire de valle de alta montaña que se respira en cada esquina.
+- **Biescas**: la puerta del valle de Tena, con un casco antiguo de calles estrechas, casas de piedra y tejados de pizarra. Cerca tiene el conjunto de Santa Elena (ermita, cascada y antiguos búnkeres) y el Paseo de las Brujas entre hayedos.
+- **Alquézar**: un poco más al sur, ya en la Sierra de Guara, pero si te queda un día libre merece el desvío. Su Colegiata de Santa María la Mayor —una antigua fortaleza árabe reconvertida en iglesia— corona el pueblo, y desde ahí baja la famosa Ruta de las Pasarelas, un recorrido circular de unos 3 km colgado literalmente sobre el cañón del río Vero.
 
 ## Patrimonio e historia: Jaca y Canfranc
 
@@ -34,24 +38,24 @@ La **Estación Internacional de Canfranc** es otra parada obligatoria: se inaugu
 El Pirineo Aragonés está lleno de agua por todas partes, y estas son de las paradas más bonitas:
 
 - **Cascada de Forronías** (Panticosa): un rincón escondido, perfecto si te gustan las cascadas menos masificadas.
-- **Cascada del Sorrosal**: cae prácticamente en pleno centro de Broto, así que no hace falta ni caminar mucho para verla.
+- **[Cascada del Sorrosal](https://www.instagram.com/reel/DbToa3ERawQ/?hl=es)**: cae prácticamente en pleno centro de Broto, así que no hace falta ni caminar mucho para verla.
 - **Pasarelas de Panticosa**: un paseo sencillo y apto para todos los públicos, con pasarelas suspendidas sobre el río.
 - **Cascada de Orós Bajo**: ideal para una parada rápida si vas de camino a otro sitio.
 - **Ermita de Santa Elena**: junto a una cascada preciosa y un pequeño fuerte a pocos metros, en Torla.
 
 ## La joya de Ordesa: la ruta a la Cola de Caballo
 
-Si solo vas a hacer una ruta de senderismo en todo el viaje, que sea esta. La **ruta a la Cola de Caballo**, dentro del Parque Nacional de Ordesa y Monte Perdido, recorre unos 17-18 km de ida y vuelta por un camino ancho y bien señalizado, sin tramos técnicos ni expuestos. Es fácil a nivel técnico, pero exigente a nivel físico: cuenta con 6-7 horas y unos 500 metros de desnivel acumulado. A cambio, cruzas bosques, pasas junto a varias cascadas (las Gradas de Soaso) y terminas frente a una cascada en forma de cola de caballo que da nombre a la ruta. Para mí, la más bonita de toda España.
+Si solo vas a hacer una ruta de senderismo en todo el viaje, que sea esta. La **[ruta a la Cola de Caballo](https://www.instagram.com/reel/DbbVfXTMlKA/?hl=es)**, dentro del Parque Nacional de Ordesa y Monte Perdido, recorre unos 17-18 km de ida y vuelta por un camino ancho y bien señalizado, sin tramos técnicos ni expuestos. Es fácil a nivel técnico, pero exigente a nivel físico: cuenta con 6-7 horas y unos 500 metros de desnivel acumulado. A cambio, cruzas bosques, pasas junto a varias cascadas (las Gradas de Soaso) y terminas frente a una cascada en forma de cola de caballo que da nombre a la ruta. Para mí, la más bonita de toda España.
 
 ## Para los más aventureros
 
 Si el senderismo se te queda corto, en la zona hay varias actividades de aventura:
 
-- **Barranco del Furco**: un barranco ideal para iniciarse en el descenso de cañones, con rápeles y toboganes naturales.
-- **Vía Ferrata del Sorrosal**: una ascensión única literalmente pegada a la cascada del Sorrosal, con el agua cayendo a un lado mientras subes.
+- **[Barranco del Furco](https://gyg.me/uAZIhMHa)**: un barranco ideal para iniciarse en el descenso de cañones, con rápeles y toboganes naturales.
+- **[Vía Ferrata del Sorrosal](https://gyg.me/yTLuLVWW)**: una ascensión única literalmente pegada a la cascada del Sorrosal, con el agua cayendo a un lado mientras subes.
 - **Balneario de Panticosa**: si prefieres relajarte después de tanta ruta, este balneario está en un entorno rodeado de montañas que compensa cualquier agujeta.
 
-Para el barranco y la vía ferrata, lo más práctico es reservar con una empresa de guías de la zona — en la guía que te comenté al principio te cuento cómo reservarlos y con qué descuento.
+Para el barranco y la vía ferrata puedes reservar plaza directamente en los enlaces de arriba.
 
 ## Cómo llegar y organizar la ruta
 
@@ -67,6 +71,6 @@ Para senderismo y alta montaña, la ventana buena va de junio a septiembre, cuan
 
 ## Para tu próxima escapada
 
-Con estos 16 sitios tienes de sobra para varios días de ruta por el Pirineo Aragonés, combinando pueblos, patrimonio, cascadas y algo de aventura si te apetece subir un punto la adrenalina. Guarda este artículo para cuando la planees, y recuerda: respeta la naturaleza y no dejes residuos por el camino.
+Con estos 21 sitios tienes de sobra para varios días de ruta por el Pirineo Aragonés, combinando pueblos, patrimonio, cascadas y algo de aventura si te apetece subir un punto la adrenalina. Guarda este artículo para cuando la planees, y recuerda: respeta la naturaleza y no dejes residuos por el camino.
 
 Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones como estos, y comenta "QUIERO INFO" en [la publicación original](https://www.instagram.com/p/DbtQJiPDJwy/) para que te llegue la guía completa.
