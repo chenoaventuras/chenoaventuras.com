@@ -12,6 +12,10 @@
     { "source": "/destinos", "destination": "/aventuras.html", "permanent": true },
     { "source": "/destinos.html", "destination": "/aventuras.html", "permanent": true },
     { "source": "/sobre-mi", "destination": "/contacto.html", "permanent": true },
-    { "source": "/sobre-mi.html", "destination": "/contacto.html", "permanent": true }
+    { "source": "/sobre-mi.html", "destination": "/contacto.html", "permanent": true },
+    { "source": "/blog/2026-09-11-altea-que-ver-costa-blanca.html", "destination": "/blog/altea-que-ver-costa-blanca.html", "permanent": true },
+    { "source": "/blog/2026-09-11-bienvenida-al-blog.html", "destination": "/blog/bienvenida-al-blog.html", "permanent": true },
+    { "source": "/blog/2026-09-11-medusas-mediterraneo-son-peligrosas.html", "destination": "/blog/medusas-mediterraneo-son-peligrosas.html", "permanent": true },
+    { "source": "/blog/2026-09-12-bateria-de-castillitos-que-ver.html", "destination": "/blog/bateria-castillitos-cartagena.html", "permanent": true }
   ]
 }
