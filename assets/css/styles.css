@@ -727,6 +727,10 @@ p { margin: 0 0 1em; }
 @media (max-width: 720px) {
   .gearlist { grid-template-columns: repeat(2, 1fr); }
 }
+@media (min-width: 721px) {
+  .gearitem__pic--lg { padding: 6%; }
+  .gearitem__pic--sm { padding: 15%; }
+}
 
 /* bloque CTA oscuro */
 .ctastrip {
