@@ -208,7 +208,7 @@
           // data-ig-posts="all" -> todas las publicaciones (con "Ver más" cargando
           // de "data-ig-step" en "data-ig-step"); si no, solo las 3 últimas.
           var isAll = igWrap.getAttribute("data-ig-posts") === "all";
-          var pageSize = isAll ? (Number(igWrap.getAttribute("data-ig-page-size")) || 9) : 3;
+          var pageSize = isAll ? (Number(igWrap.getAttribute("data-ig-page-size")) || 9) : 4;
           var step = Number(igWrap.getAttribute("data-ig-step")) || 3;
           var moreWrap = igWrap.parentElement ? igWrap.parentElement.querySelector("[data-ig-more-wrap]") : null;
           var moreBtn = moreWrap ? moreWrap.querySelector("[data-ig-more]") : null;

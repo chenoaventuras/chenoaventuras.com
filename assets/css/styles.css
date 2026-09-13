@@ -758,13 +758,12 @@ p { margin: 0 0 1em; }
   .gearlist { grid-template-columns: repeat(2, 1fr); }
   /* las fotos de producto tienen relaciones de aspecto muy distintas
      (el iPhone o el SSD son verticales y estrechos; la cámara es
-     cuadrada); con "contain" cada una llenaba una proporción distinta
-     del recuadro y unas parecían mucho más grandes que otras. Con
-     "cover" + mismo padding para todas, todas ocupan igual. */
-  .gearitem__pic, .gearitem__pic--wide, .gearitem__pic--lg, .gearitem__pic--sm { padding: 18%; }
+     cuadrada). Se ven enteras (sin recortar) y todas a la misma altura
+     máxima, para que el conjunto quede parejo sin cortar ninguna. */
+  .gearitem__pic, .gearitem__pic--wide, .gearitem__pic--lg, .gearitem__pic--sm { padding: 10%; }
   .gearitem__pic img {
-    max-width: none; max-height: none; width: 100%; height: 100%;
-    object-fit: cover;
+    max-width: 100%; max-height: 100%; width: auto; height: auto;
+    object-fit: contain;
   }
 }
 @media (min-width: 721px) {
@@ -1087,7 +1086,8 @@ p { margin: 0 0 1em; }
   .hero__text, .pagehead p, .lead, .curiosbar__label { font-size: 1rem; }
   .curiosbar { max-width: 100%; gap: .4em; }
   .curiosbar__text { font-size: .95rem; min-height: 4.5em; }
-  .cardgrid:not(.cardgrid--ig), .curios__grid, .svcgrid { grid-template-columns: 1fr; }
+  .cardgrid:not(.cardgrid--ig):not([data-ig-posts]), .curios__grid, .svcgrid { grid-template-columns: 1fr; }
+  .cardgrid[data-ig-posts] { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .dealgrid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .deal__back { padding: 14px 8px; gap: 8px; }
   .deal__code { font-size: clamp(.56rem, 3.6vw, .82rem); letter-spacing: .01em; padding: .28em .4em; }
