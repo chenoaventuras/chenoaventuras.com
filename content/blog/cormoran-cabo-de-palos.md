@@ -1,16 +1,18 @@
 ---
-title: 'El cormorán: el ave que parece torpe y es un buceador de élite'
+title: 'El cormorán: el buceador de élite de las costas rocosas'
 date: 2026-09-13T12:00:00.000+02:00
 excerpt: 'Curiosidades del cormorán: hasta qué profundidad bucea, por qué extiende las alas al sol y dónde verlo en las costas rocosas de España.'
 cover: /assets/img/instagram/18097458002564101.webp
 tags:
   - Curiosidades
-  - Región de Murcia
+  - Murcia
 igPermalink: 'https://www.instagram.com/p/Dc1dhLOxx2H/'
 ---
 Grabando en las rocas de Cabo de Palos me crucé con uno de esos animales que a primera vista parecen de lo más tranquilo del mundo: un pájaro negro posado en una roca, sin hacer mucho más. Y sin embargo, en cuanto se tira al agua, el cormorán se convierte en uno de los mejores buceadores de toda la fauna española.
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/p/Dc1dhLOxx2H/), grabado en Cabo de Palos, Murcia.
+
+Y es que el cormorán es prácticamente un triatleta con plumas: anda por las rocas sin problema, vuela de un punto a otro de la costa y, encima, bucea mejor que la mayoría de aves marinas. Pocos animales dominan tan bien los tres terrenos a la vez.
 
 ## ¿Qué cormorán es el que se ve en las costas rocosas del Mediterráneo?
 
