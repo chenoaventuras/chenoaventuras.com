@@ -692,7 +692,7 @@ p { margin: 0 0 1em; }
 
 /* Mi equipo — cuadrícula de objetos */
 .gearsection {
-  background: linear-gradient(rgba(239,236,231,.88), rgba(239,236,231,.88)), url("../img/fondo-pestana-equipo.jpg") center/cover no-repeat;
+  background: linear-gradient(rgba(239,236,231,.88), rgba(239,236,231,.88)), url("../img/fondo-pestana-equipo.webp") center/cover no-repeat;
 }
 /* el borde rasgado de encima muestra el mismo fondo, no el papel liso,
    para que no se note como una franja blanca sobre la textura */
