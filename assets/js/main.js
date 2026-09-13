@@ -164,7 +164,7 @@
   ------------------------------------------------------------------- */
   var igWraps = document.querySelectorAll("[data-ig-posts]");
   if (igWraps.length && window.fetch) {
-    function igCard(p) {
+    function igCard(p, firstLineOnly) {
       if (!p || !p.permalink) return null;
       var a = document.createElement("a");
       a.className = "placecard reveal reveal--media";
@@ -185,7 +185,13 @@
       var h3 = document.createElement("h3");
       h3.textContent = p.type === "VIDEO" || p.type === "REEL" ? "Reel" : "Publicación";
       var span = document.createElement("span");
-      span.textContent = (p.caption ? p.caption.replace(/\s+/g, " ").slice(0, 60) + "…" : "Ver en Instagram");
+      var caption = "Ver en Instagram";
+      if (p.caption) {
+        caption = firstLineOnly
+          ? p.caption.split("\n")[0].trim()
+          : p.caption.replace(/\s+/g, " ").slice(0, 60) + "…";
+      }
+      span.textContent = caption;
       body.appendChild(h3);
       body.appendChild(span);
       a.appendChild(img);
@@ -210,7 +216,7 @@
 
           function renderNext(n) {
             posts.slice(shown, shown + n).forEach(function (p) {
-              var card = igCard(p);
+              var card = igCard(p, isAll);
               if (card) igWrap.appendChild(card);
             });
             shown = Math.min(shown + n, posts.length);
@@ -353,7 +359,8 @@
     var endpoint = isSubscribe ? "/api/subscribe" : "/api/contact";
     f.addEventListener("submit", function (ev) {
       ev.preventDefault();
-      var msg = f.querySelector("[data-demo-msg]");
+      var msg = f.querySelector("[data-demo-msg]") ||
+        (f.parentElement && f.parentElement.querySelector("[data-demo-msg]"));
       var btn = f.querySelector("button[type=submit]");
       var data;
       if (isSubscribe) {
@@ -375,10 +382,19 @@
             msg.hidden = false;
             msg.style.color = res.ok ? "" : "#b3261e";
             msg.textContent = res.ok
-              ? (isSubscribe ? "¡Listo! Te has suscrito." : "¡Mensaje enviado! Te contesto pronto.")
+              ? (isSubscribe ? "¡Bienvenido a la aventura! Ya estás dentro de la newsletter." : "¡Mensaje enviado! Te contesto pronto.")
               : "Ha habido un error. Prueba de nuevo o escríbeme a chenoaventuras@gmail.com.";
           }
-          if (res.ok) f.reset();
+          if (res.ok) {
+            f.reset();
+            if (isSubscribe && btn) {
+              btn.textContent = "¡Listo!";
+              btn.classList.remove("btn--light");
+              btn.classList.add("btn--gold");
+              return; // se queda deshabilitado, ya no hace falta reenviar
+            }
+          }
+          if (btn) btn.disabled = false;
         })
         .catch(function () {
           if (msg) {
@@ -386,8 +402,6 @@
             msg.style.color = "#b3261e";
             msg.textContent = "Ha habido un error. Prueba de nuevo o escríbeme a chenoaventuras@gmail.com.";
           }
-        })
-        .finally(function () {
           if (btn) btn.disabled = false;
         });
     });

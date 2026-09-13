@@ -169,6 +169,8 @@ p { margin: 0 0 1em; }
 .btn--ghost:hover { background: var(--ink); --btn-fg: #fff; border-color: var(--ink); }
 .btn--light { --btn-bg: transparent; --btn-fg: #fff; border-color: rgba(255,255,255,.6); }
 .btn--light:hover { background: var(--gold); --btn-fg: var(--night); border-color: var(--gold); }
+.btn--gold { --btn-bg: var(--gold); --btn-fg: var(--night); border-color: var(--gold); cursor: default; }
+.btn--gold:hover { transform: none; background: var(--gold); border-color: var(--gold); }
 
 /* ---------- Torn-paper divider ---------- */
 .torn-bottom { position: relative; }
@@ -553,7 +555,22 @@ p { margin: 0 0 1em; }
 /* Feed completo de Instagram (aventuras.html): siempre de 3 en 3 en escritorio. */
 .cardgrid--ig { grid-template-columns: repeat(3, 1fr); }
 @media (max-width: 1024px) { .cardgrid--ig { grid-template-columns: repeat(2, 1fr); } }
-@media (max-width: 640px) { .cardgrid--ig { grid-template-columns: repeat(2, 1fr); gap: 12px; } }
+@media (max-width: 640px) {
+  .cardgrid--ig { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .cardgrid--ig .placecard { aspect-ratio: auto; }
+  .cardgrid--ig .placecard::after { display: none; }
+  .cardgrid--ig .placecard img { position: static; aspect-ratio: 1 / 1; }
+  .cardgrid--ig .placecard__body {
+    position: static; background: var(--white); color: var(--ink);
+    padding: 10px 12px;
+  }
+  .cardgrid--ig .placecard__body h3 { color: var(--ink); font-size: .8rem; }
+  .cardgrid--ig .placecard__body span {
+    color: var(--ink-soft);
+    display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
 
 /* Banner del minijuego (inicio): imagen completa, clicable, lleva a /minijuego. */
 .minijuego-banner { display: block; border-radius: 14px; overflow: hidden; box-shadow: var(--shadow-sm); margin-top: 28px; }
