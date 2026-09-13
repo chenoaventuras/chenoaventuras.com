@@ -757,10 +757,15 @@ p { margin: 0 0 1em; }
 @media (max-width: 720px) {
   .gearlist { grid-template-columns: repeat(2, 1fr); }
   /* las fotos de producto tienen relaciones de aspecto muy distintas
-     (el iPhone o el SSD son verticales y estrechos; la cámara es
-     cuadrada). Se ven enteras (sin recortar) y todas a la misma altura
-     máxima, para que el conjunto quede parejo sin cortar ninguna. */
-  .gearitem__pic, .gearitem__pic--wide, .gearitem__pic--lg, .gearitem__pic--sm { padding: 10%; }
+     (el iPhone o el SSD son verticales y estrechas; la cámara es
+     cuadrada). En vez de un recuadro cuadrado (que hacía que las
+     verticales, al llenar todo el alto disponible, parecieran mucho
+     más grandes), aquí todas comparten la misma ALTURA fija y se ven
+     enteras: el ancho de cada una varía según su forma, pero el
+     "tamaño" percibido queda igualado. */
+  .gearitem__pic, .gearitem__pic--wide, .gearitem__pic--lg, .gearitem__pic--sm {
+    aspect-ratio: auto; height: 120px; padding: 0;
+  }
   .gearitem__pic img {
     max-width: 100%; max-height: 100%; width: auto; height: auto;
     object-fit: contain;
