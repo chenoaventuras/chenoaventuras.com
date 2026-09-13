@@ -27,9 +27,6 @@ marked.setOptions({ gfm: true, breaks: false });
 const esc = (s = "") =>
   String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
-const fmtDate = (d) =>
-  new Intl.DateTimeFormat("es-ES", { day: "numeric", month: "long", year: "numeric" }).format(d);
-
 /* ---------- cabecera y pie comunes (idénticos al resto del sitio) ---------- */
 const NAV = `
   <header class="site-header site-header--solid">
@@ -192,7 +189,7 @@ function renderPost(p) {
       <section class="pagehead pagehead--blog torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
         ${heroMedia}
         <div class="pagehead__inner container">
-          <p class="article__meta"><a href="/blog.html">&larr; Blog</a> · <time datetime="${p.date.toISOString().slice(0, 10)}">${fmtDate(p.date)}</time></p>
+          <p class="article__meta"><a href="/blog.html">&larr; Blog</a></p>
           <h1>${esc(p.title)}</h1>
         </div>
       </section>
