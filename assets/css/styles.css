@@ -553,7 +553,7 @@ p { margin: 0 0 1em; }
 /* Feed completo de Instagram (aventuras.html): siempre de 3 en 3 en escritorio. */
 .cardgrid--ig { grid-template-columns: repeat(3, 1fr); }
 @media (max-width: 1024px) { .cardgrid--ig { grid-template-columns: repeat(2, 1fr); } }
-@media (max-width: 640px) { .cardgrid--ig { grid-template-columns: 1fr; } }
+@media (max-width: 640px) { .cardgrid--ig { grid-template-columns: repeat(2, 1fr); gap: 12px; } }
 
 /* Banner del minijuego (inicio): imagen completa, clicable, lleva a /minijuego. */
 .minijuego-banner { display: block; border-radius: 14px; overflow: hidden; box-shadow: var(--shadow-sm); margin-top: 28px; }
@@ -822,7 +822,7 @@ p { margin: 0 0 1em; }
   font-size: 1.2rem; letter-spacing: .04em;
   background: #fff; color: var(--ink);
   padding: .28em .7em; border-radius: 8px;
-  max-width: 100%; overflow-wrap: anywhere; box-sizing: border-box;
+  max-width: 100%; white-space: nowrap; box-sizing: border-box;
 }
 .deal__copy {
   font-family: var(--font-head); text-transform: uppercase; letter-spacing: .1em;
@@ -845,6 +845,7 @@ p { margin: 0 0 1em; }
   padding: .62em 1.2em;
 }
 .deal__link--btn:hover { background: var(--gold-soft); color: var(--night); border-color: var(--gold-soft); }
+.deal__link--sm { font-size: .78rem; padding: .5em .9em; }
 
 /* mensaje de éxito de los formularios */
 .subscribe__ok { color: var(--gold-bright); font-weight: 600; margin-top: 12px; }
@@ -1059,10 +1060,10 @@ p { margin: 0 0 1em; }
   .hero__text, .pagehead p, .lead, .curiosbar__label { font-size: 1rem; }
   .curiosbar { max-width: 100%; gap: .4em; }
   .curiosbar__text { font-size: .95rem; min-height: 4.5em; }
-  .cardgrid, .curios__grid, .svcgrid { grid-template-columns: 1fr; }
+  .cardgrid:not(.cardgrid--ig), .curios__grid, .svcgrid { grid-template-columns: 1fr; }
   .dealgrid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-  .deal__back { padding: 14px 10px; gap: 8px; }
-  .deal__code { font-size: .82rem; padding: .28em .5em; }
+  .deal__back { padding: 14px 8px; gap: 8px; }
+  .deal__code { font-size: clamp(.56rem, 3.6vw, .82rem); letter-spacing: .01em; padding: .28em .4em; }
   .deal__copy { font-size: .62rem; padding: .5em .8em; }
   .placecard { aspect-ratio: 4 / 3; }
   .btn { width: 100%; justify-content: center; }
