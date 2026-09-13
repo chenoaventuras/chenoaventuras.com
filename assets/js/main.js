@@ -347,13 +347,49 @@
   var y = document.querySelector("[data-year]");
   if (y) y.textContent = new Date().getFullYear();
 
-  /* ---------- Formularios de demostración (sin backend todavía) ---------- */
+  /* ---------- Formularios: contacto (/api/contact) y newsletter (/api/subscribe) ---------- */
   document.querySelectorAll("form[data-demo]").forEach(function (f) {
+    var isSubscribe = f.classList.contains("subscribe");
+    var endpoint = isSubscribe ? "/api/subscribe" : "/api/contact";
     f.addEventListener("submit", function (ev) {
       ev.preventDefault();
       var msg = f.querySelector("[data-demo-msg]");
-      if (msg) { msg.hidden = false; }
-      f.reset();
+      var btn = f.querySelector("button[type=submit]");
+      var data;
+      if (isSubscribe) {
+        var emailInput = f.querySelector('input[type="email"]');
+        data = { email: emailInput ? emailInput.value : "" };
+      } else {
+        data = {};
+        new FormData(f).forEach(function (v, k) { data[k] = v; });
+      }
+      if (btn) btn.disabled = true;
+      fetch(endpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data),
+      })
+        .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, json: j }; }); })
+        .then(function (res) {
+          if (msg) {
+            msg.hidden = false;
+            msg.style.color = res.ok ? "" : "#b3261e";
+            msg.textContent = res.ok
+              ? (isSubscribe ? "¡Listo! Te has suscrito." : "¡Mensaje enviado! Te contesto pronto.")
+              : "Ha habido un error. Prueba de nuevo o escríbeme a chenoaventuras@gmail.com.";
+          }
+          if (res.ok) f.reset();
+        })
+        .catch(function () {
+          if (msg) {
+            msg.hidden = false;
+            msg.style.color = "#b3261e";
+            msg.textContent = "Ha habido un error. Prueba de nuevo o escríbeme a chenoaventuras@gmail.com.";
+          }
+        })
+        .finally(function () {
+          if (btn) btn.disabled = false;
+        });
     });
   });
 
