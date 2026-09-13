@@ -663,7 +663,7 @@
       if (bgFadeT < 1) bgFadeT = Math.min(1, bgFadeT + dt / 1.4); // fundido suave entre fondos
 
       if (running) {
-        score += dt * 11;
+        score += dt * 11 * (raptorMode ? 1.4 : 1);
 
         // a partir de 650, subimos el nivel cada 100 puntos hasta 1100.
         if (Math.floor(score) >= nextLevel && Math.floor(score) < 1100) {
