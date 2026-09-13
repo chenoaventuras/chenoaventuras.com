@@ -5,7 +5,7 @@ excerpt: 'Curiosidades del cormorán: hasta qué profundidad bucea, por qué ext
 cover: /assets/img/instagram/18097458002564101.webp
 tags:
   - Curiosidades
-  - Murcia
+  - Región de Murcia
 igPermalink: 'https://www.instagram.com/p/Dc1dhLOxx2H/'
 ---
 Grabando en las rocas de Cabo de Palos me crucé con uno de esos animales que a primera vista parecen de lo más tranquilo del mundo: un pájaro negro posado en una roca, sin hacer mucho más. Y sin embargo, en cuanto se tira al agua, el cormorán se convierte en uno de los mejores buceadores de toda la fauna española.
