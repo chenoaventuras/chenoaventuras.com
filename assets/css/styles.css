@@ -822,6 +822,7 @@ p { margin: 0 0 1em; }
   font-size: 1.2rem; letter-spacing: .04em;
   background: #fff; color: var(--ink);
   padding: .28em .7em; border-radius: 8px;
+  max-width: 100%; overflow-wrap: anywhere; box-sizing: border-box;
 }
 .deal__copy {
   font-family: var(--font-head); text-transform: uppercase; letter-spacing: .1em;
@@ -1060,6 +1061,9 @@ p { margin: 0 0 1em; }
   .curiosbar__text { font-size: .95rem; min-height: 4.5em; }
   .cardgrid, .curios__grid, .svcgrid { grid-template-columns: 1fr; }
   .dealgrid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .deal__back { padding: 14px 10px; gap: 8px; }
+  .deal__code { font-size: .82rem; padding: .28em .5em; }
+  .deal__copy { font-size: .62rem; padding: .5em .8em; }
   .placecard { aspect-ratio: 4 / 3; }
   .btn { width: 100%; justify-content: center; }
   .destacados__head .btn { width: auto; }
