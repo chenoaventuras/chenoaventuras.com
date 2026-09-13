@@ -581,8 +581,8 @@ p { margin: 0 0 1em; }
 /* Secreto: foco de la imagen de "Equipo con el que viajo".
    Pulsar cicla normal -> super encendido -> apagado (clases en .split__media, ver main.js). */
 .focofx {
-  position: absolute; left: 71.5%; top: 39%;
-  width: 17%; height: 15%;
+  position: absolute; left: 47%; top: 56.5%;
+  width: 18%; height: 14%;
   transform: translate(-50%, -50%);
   padding: 0; border: 0; background: transparent;
   border-radius: 14%;
