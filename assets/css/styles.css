@@ -691,6 +691,9 @@ p { margin: 0 0 1em; }
 }
 
 /* Mi equipo — cuadrícula de objetos */
+.gearsection {
+  background: linear-gradient(rgba(239,236,231,.88), rgba(239,236,231,.88)), url("../img/fondo-pestana-equipo.jpg") center/cover no-repeat;
+}
 .gearlist {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
