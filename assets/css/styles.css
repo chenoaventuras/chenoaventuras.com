@@ -1058,7 +1058,8 @@ p { margin: 0 0 1em; }
   .hero__text, .pagehead p, .lead, .curiosbar__label { font-size: 1rem; }
   .curiosbar { max-width: 100%; gap: .4em; }
   .curiosbar__text { font-size: .95rem; min-height: 4.5em; }
-  .cardgrid, .curios__grid, .svcgrid, .dealgrid { grid-template-columns: 1fr; }
+  .cardgrid, .curios__grid, .svcgrid { grid-template-columns: 1fr; }
+  .dealgrid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .placecard { aspect-ratio: 4 / 3; }
   .btn { width: 100%; justify-content: center; }
   .destacados__head .btn { width: auto; }
