@@ -554,7 +554,8 @@ p { margin: 0 0 1em; }
 
 /* Feed completo de Instagram (aventuras.html): siempre de 3 en 3 en escritorio. */
 .cardgrid--ig { grid-template-columns: repeat(3, 1fr); }
-.cardgrid--ig .placecard__body span { display: none; }
+.cardgrid--ig .placecard__body span,
+.cardgrid[data-ig-posts] .placecard__body span { display: none; }
 @media (max-width: 1024px) { .cardgrid--ig { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 640px) {
   .cardgrid--ig { grid-template-columns: repeat(2, 1fr); gap: 12px; }
@@ -770,6 +771,7 @@ p { margin: 0 0 1em; }
     max-width: 100%; max-height: 100%; width: auto; height: auto;
     object-fit: contain;
   }
+  .gearitem__pic--float img { animation: none; }
 }
 @media (min-width: 721px) {
   .gearitem__pic--lg { padding: 6%; }
@@ -1093,6 +1095,17 @@ p { margin: 0 0 1em; }
   .curiosbar__text { font-size: .95rem; min-height: 4.5em; }
   .cardgrid:not(.cardgrid--ig):not([data-ig-posts]), .curios__grid, .svcgrid { grid-template-columns: 1fr; }
   .cardgrid[data-ig-posts] { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .cardgrid[data-ig-posts] .placecard { aspect-ratio: 1 / 1; }
+  .cardgrid[data-ig-posts] .placecard::after { display: none; }
+  .cardgrid[data-ig-posts] .placecard__body {
+    position: static; background: var(--white); color: var(--ink);
+    padding: 10px 12px;
+  }
+  .cardgrid[data-ig-posts] .placecard__body h3 { color: var(--ink); font-size: .8rem; }
+  .cardgrid[data-ig-posts] .placecard__body span {
+    display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical;
+    overflow: hidden; color: var(--ink-soft);
+  }
   .dealgrid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .deal__back { padding: 14px 8px; gap: 8px; }
   .deal__code { font-size: clamp(.56rem, 3.6vw, .82rem); letter-spacing: .01em; padding: .28em .4em; }
