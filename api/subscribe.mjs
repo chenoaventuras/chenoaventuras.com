@@ -44,6 +44,25 @@ export default async function handler(req, res) {
       res.json({ error: "Brevo rechazó el contacto", detail: err });
       return;
     }
+
+    // aviso a Cheno; si falla, no rompe la suscripción (ya guardada arriba)
+    try {
+      await fetch("https://api.brevo.com/v3/smtp/email", {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          accept: "application/json",
+          "api-key": apiKey,
+        },
+        body: JSON.stringify({
+          sender: { name: "Web Chenoaventuras", email: "chenoaventuras@gmail.com" },
+          to: [{ email: "chenoaventuras@gmail.com", name: "Cheno" }],
+          subject: "Nueva suscripción a la newsletter",
+          htmlContent: `<p>Nuevo suscriptor: <strong>${email}</strong></p>`,
+        }),
+      });
+    } catch (e) {}
+
     res.statusCode = 200;
     res.json({ ok: true });
   } catch (e) {
