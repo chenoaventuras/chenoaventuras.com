@@ -561,18 +561,18 @@ p { margin: 0 0 1em; }
    texto siempre debajo (nunca superpuesto), en cualquier tamaño de pantalla. */
 .cardgrid--ig .placecard,
 .cardgrid[data-ig-posts] .placecard,
-.cardgrid--svc .placecard { aspect-ratio: auto; }
+.cardgrid--svc .placecard { aspect-ratio: auto; display: flex; flex-direction: column; }
 .cardgrid--ig .placecard::after,
 .cardgrid[data-ig-posts] .placecard::after,
 .cardgrid--svc .placecard::after { display: none; }
 .cardgrid--ig .placecard img,
 .cardgrid[data-ig-posts] .placecard img,
-.cardgrid--svc .placecard img { position: static; width: 100%; height: auto; aspect-ratio: 1 / 1; }
+.cardgrid--svc .placecard img { position: static; width: 100%; height: auto; aspect-ratio: 1 / 1; flex: 0 0 auto; }
 .cardgrid--ig .placecard__body,
 .cardgrid[data-ig-posts] .placecard__body,
 .cardgrid--svc .placecard__body {
   position: static; background: var(--white); color: var(--ink);
-  padding: 10px 12px;
+  padding: 10px 12px; flex: 1 0 auto;
 }
 .cardgrid--ig .placecard__body h3,
 .cardgrid[data-ig-posts] .placecard__body h3,
