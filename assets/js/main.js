@@ -609,7 +609,7 @@
     bar.className = "cookiebar";
     bar.innerHTML =
       '<div class="cookiebar__media">' +
-      '<img class="cookiebar__img" src="/assets/img/cookies.png" alt="Una ruta con cookies es mejor. Solo se guardará tu puntuación si juegas al minijuego." />' +
+      '<img class="cookiebar__img" src="/assets/img/cookies.webp" alt="Una ruta con cookies es mejor. Solo se guardará tu puntuación si juegas al minijuego." />' +
       '<button type="button" class="cookiebar__cta btn" data-cookie-ok>¡Entendido!</button>' +
       '</div>';
     document.body.appendChild(bar);
