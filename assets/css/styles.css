@@ -1173,7 +1173,7 @@ p { margin: 0 0 1em; }
 .cookiebar__media { position: relative; }
 .cookiebar__img { display: block; width: 100%; height: auto; }
 .cookiebar__cta {
-  position: absolute; left: 73%; top: 58%; transform: translateX(-50%);
+  position: absolute; left: 68%; top: 58%; transform: translateX(-50%);
   font-size: clamp(.68rem, 2.6vw, .95rem);
   padding: .55em 1.2em;
 }
