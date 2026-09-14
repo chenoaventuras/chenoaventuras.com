@@ -608,7 +608,7 @@
     var bar = document.createElement("div");
     bar.className = "cookiebar";
     bar.innerHTML =
-      '<img class="cookiebar__img" src="/assets/img/cookies.png" alt="Una ruta con cookies es mejor. Solo se guardará tu puntuación si juegas al minijuego." />' +
+      '<img class="cookiebar__img" src="/assets/img/cookies.webp" alt="Una ruta con cookies es mejor. Solo se guardará tu puntuación si juegas al minijuego." />' +
       '<div class="cookiebar__actions"><button type="button" class="btn" data-cookie-ok>¡Toma una cookie!</button></div>';
     document.body.appendChild(bar);
     bar.querySelector("[data-cookie-ok]").addEventListener("click", function () {
