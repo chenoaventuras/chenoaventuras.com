@@ -1156,3 +1156,22 @@ p { margin: 0 0 1em; }
   padding: 70px 20px; text-align: center; background: #fff; border-radius: var(--radius);
 }
 .ig-modal__loading a { color: var(--ink-soft); font-size: .9rem; text-decoration: none; }
+
+/* =========================================================================
+   AVISO DE COOKIES
+   ========================================================================= */
+.cookiebar {
+  position: fixed; left: 16px; right: 16px; bottom: 16px; z-index: 300;
+  max-width: 720px; margin: 0 auto;
+  background: var(--night); color: #fff;
+  border-radius: var(--radius); box-shadow: var(--shadow-md);
+  padding: 18px 20px; display: flex; gap: 16px; align-items: center; flex-wrap: wrap;
+}
+.cookiebar p { margin: 0; font-size: .88rem; line-height: 1.5; color: rgba(255,255,255,.85); flex: 1 1 260px; }
+.cookiebar a { color: var(--gold-bright); }
+.cookiebar__actions { display: flex; gap: 10px; flex: 0 0 auto; margin-left: auto; }
+@media (max-width: 480px) {
+  .cookiebar { flex-direction: column; align-items: stretch; left: 12px; right: 12px; bottom: 12px; padding: 16px; }
+  .cookiebar__actions { margin-left: 0; }
+  .cookiebar__actions .btn { width: 100%; justify-content: center; }
+}
