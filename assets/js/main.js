@@ -443,7 +443,7 @@
             msg.hidden = false;
             msg.style.color = res.ok ? "" : "#b3261e";
             msg.textContent = res.ok
-              ? (isSubscribe ? "¡Bienvenido a la aventura! Ya estás dentro de la newsletter." : "¡Mensaje enviado! Te contesto pronto.")
+              ? (isSubscribe ? "¡A la aventura! Ya eres parte de la comunidad." : "¡Mensaje enviado! Te contesto pronto.")
               : "Ha habido un error. Prueba de nuevo o escríbeme a chenoaventuras@gmail.com.";
           }
           if (res.ok) {

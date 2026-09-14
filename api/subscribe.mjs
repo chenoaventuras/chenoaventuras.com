@@ -45,23 +45,29 @@ export default async function handler(req, res) {
       return;
     }
 
-    // aviso a Cheno; si falla, no rompe la suscripción (ya guardada arriba)
-    try {
-      await fetch("https://api.brevo.com/v3/smtp/email", {
-        method: "POST",
-        headers: {
-          "content-type": "application/json",
-          accept: "application/json",
-          "api-key": apiKey,
-        },
-        body: JSON.stringify({
-          sender: { name: "Web Chenoaventuras", email: "chenoaventuras@gmail.com" },
-          to: [{ email: "chenoaventuras@gmail.com", name: "Cheno" }],
-          subject: "Nueva suscripción a la newsletter",
-          htmlContent: `<p>Nuevo suscriptor: <strong>${email}</strong></p>`,
-        }),
-      });
-    } catch (e) {}
+    // Brevo devuelve 201 si el contacto es nuevo y 204 si ya existía (lo
+    // actualiza). Solo avisamos a Cheno cuando es una suscripción nueva,
+    // para no recibir un correo cada vez que alguien repite su email.
+    const isNewContact = r.status === 201;
+    if (isNewContact) {
+      // aviso a Cheno; si falla, no rompe la suscripción (ya guardada arriba)
+      try {
+        await fetch("https://api.brevo.com/v3/smtp/email", {
+          method: "POST",
+          headers: {
+            "content-type": "application/json",
+            accept: "application/json",
+            "api-key": apiKey,
+          },
+          body: JSON.stringify({
+            sender: { name: "Web Chenoaventuras", email: "chenoaventuras@gmail.com" },
+            to: [{ email: "chenoaventuras@gmail.com", name: "Cheno" }],
+            subject: "Nueva suscripción a la newsletter",
+            htmlContent: `<p>Nuevo suscriptor: <strong>${email}</strong></p>`,
+          }),
+        });
+      } catch (e) {}
+    }
 
     res.statusCode = 200;
     res.json({ ok: true });
