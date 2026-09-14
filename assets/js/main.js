@@ -162,6 +162,64 @@
      (.github/workflows/instagram.yml). Si no hay datos, se queda el contenido
      de ejemplo que ya está en el HTML.
   ------------------------------------------------------------------- */
+  /* ---------- Modal: reproduce el reel/publicación de Instagram sin salir
+     de la web (el vídeo lo sirve Instagram, así que las reproducciones
+     siguen contando ahí). ---------- */
+  var igModal, igModalBox;
+  function ensureIgModal() {
+    if (igModal) return;
+    igModal = document.createElement("div");
+    igModal.className = "ig-modal";
+    igModal.hidden = true;
+    igModal.innerHTML =
+      '<button type="button" class="ig-modal__close" aria-label="Cerrar">&times;</button>' +
+      '<div class="ig-modal__box"></div>';
+    document.body.appendChild(igModal);
+    igModalBox = igModal.querySelector(".ig-modal__box");
+    igModal.addEventListener("click", function (ev) {
+      if (ev.target === igModal) closeIgModal();
+    });
+    igModal.querySelector(".ig-modal__close").addEventListener("click", closeIgModal);
+    document.addEventListener("keydown", function (ev) {
+      if (ev.key === "Escape" && igModal && !igModal.hidden) closeIgModal();
+    });
+  }
+  function closeIgModal() {
+    if (!igModal) return;
+    igModal.hidden = true;
+    igModalBox.innerHTML = "";
+    document.body.style.overflow = "";
+  }
+  function openIgModal(permalink) {
+    ensureIgModal();
+    igModal.hidden = false;
+    document.body.style.overflow = "hidden";
+    igModalBox.innerHTML =
+      '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="' +
+      permalink + '" data-instgrm-version="14" style="margin:0;">' +
+      '<div class="ig-modal__loading"><a href="' + permalink +
+      '" target="_blank" rel="noopener">Cargando publicación de Instagram…</a></div>' +
+      "</blockquote>";
+    function process() {
+      if (window.instgrm && window.instgrm.Embeds) window.instgrm.Embeds.process();
+    }
+    if (window.instgrm && window.instgrm.Embeds) {
+      process();
+    } else {
+      var existing = document.getElementById("ig-embed-script");
+      if (existing) {
+        existing.addEventListener("load", process);
+      } else {
+        var s = document.createElement("script");
+        s.id = "ig-embed-script";
+        s.async = true;
+        s.src = "https://www.instagram.com/embed.js";
+        s.addEventListener("load", process);
+        document.body.appendChild(s);
+      }
+    }
+  }
+
   var igWraps = document.querySelectorAll("[data-ig-posts]");
   if (igWraps.length && window.fetch) {
     function igCard(p, firstLineOnly) {
@@ -169,8 +227,11 @@
       var a = document.createElement("a");
       a.className = "placecard reveal reveal--media";
       a.href = p.permalink;
-      a.target = "_blank";
       a.rel = "noopener";
+      a.addEventListener("click", function (ev) {
+        ev.preventDefault();
+        openIgModal(p.permalink);
+      });
       var img = document.createElement("img");
       img.src = p.image || "assets/img/blog/cola-de-caballo.webp";
       img.alt = p.caption
