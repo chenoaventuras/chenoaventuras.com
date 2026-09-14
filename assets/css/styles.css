@@ -1169,10 +1169,13 @@ p { margin: 0 0 1em; }
   border-radius: var(--radius); box-shadow: var(--shadow-md);
   overflow: hidden;
 }
+.cookiebar__media { position: relative; }
 .cookiebar__img { display: block; width: 100%; height: auto; }
-.cookiebar__actions { padding: 16px 20px 20px; text-align: center; }
-.cookiebar__actions .btn { min-width: 200px; }
+.cookiebar__cta {
+  position: absolute; left: 39%; top: 58%;
+  font-size: clamp(.68rem, 2.6vw, .95rem);
+  padding: .55em 1.2em;
+}
 @media (max-width: 480px) {
   .cookiebar { left: 12px; right: 12px; bottom: 12px; }
-  .cookiebar__actions .btn { width: 100%; }
 }
