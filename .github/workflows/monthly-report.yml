@@ -1,0 +1,27 @@
+name: Informe mensual de Vercel Analytics
+
+on:
+  schedule:
+    # Día 3 de cada mes a las 09:00 CET/CEST aprox. (se deja un margen de
+    # unos días sobre el 1 para que el dato del último día del mes anterior
+    # esté ya consolidado en Vercel).
+    - cron: "0 8 3 * *"
+  workflow_dispatch: {} # permite lanzarlo a mano desde la pestaña Actions
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Enviar informe mensual por correo
+        env:
+          VERCEL_API_TOKEN: ${{ secrets.VERCEL_API_TOKEN }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        run: node scripts/send-monthly-report.mjs

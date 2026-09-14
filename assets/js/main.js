@@ -608,8 +608,8 @@
     var bar = document.createElement("div");
     bar.className = "cookiebar";
     bar.innerHTML =
-      '<p>Esta web guarda lo necesario para funcionar (como tu progreso en el minijuego). Si reproduces un reel desde aquí, Instagram puede guardar sus propias cookies. <a href="/politica-cookies.html">Más información</a>.</p>' +
-      '<div class="cookiebar__actions"><button type="button" class="btn btn--light" data-cookie-ok>Entendido</button></div>';
+      '<img class="cookiebar__img" src="/assets/img/cookies.png" alt="Una ruta con cookies es mejor. Solo se guardará tu puntuación si juegas al minijuego." />' +
+      '<div class="cookiebar__actions"><button type="button" class="btn" data-cookie-ok>¡Toma una cookie!</button></div>';
     document.body.appendChild(bar);
     bar.querySelector("[data-cookie-ok]").addEventListener("click", function () {
       try { localStorage.setItem(KEY, "1"); } catch (e) {}
