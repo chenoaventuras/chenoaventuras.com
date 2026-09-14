@@ -449,10 +449,17 @@
           if (res.ok) {
             f.reset();
             if (isSubscribe && btn) {
+              var originalText = btn.textContent;
               btn.textContent = "¡Listo!";
               btn.classList.remove("btn--light");
               btn.classList.add("btn--gold");
-              return; // se queda deshabilitado, ya no hace falta reenviar
+              setTimeout(function () {
+                btn.textContent = originalText;
+                btn.classList.remove("btn--gold");
+                btn.classList.add("btn--light");
+                btn.disabled = false;
+              }, 5000);
+              return; // se queda deshabilitado esos 5 s, ya no hace falta reenviar
             }
           }
           if (btn) btn.disabled = false;
