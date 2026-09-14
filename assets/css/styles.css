@@ -598,6 +598,7 @@ p { margin: 0 0 1em; }
 .split__media { position: relative; border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-md); isolation: isolate; }
 .split__media img { width: 100%; height: 100%; object-fit: cover; aspect-ratio: 4 / 3; }
 .split__media--square img { aspect-ratio: 1 / 1; object-fit: cover; }
+.split--equipo { grid-template-columns: .78fr 1.22fr; }
 
 /* Secreto: foco de la imagen de "Equipo con el que viajo".
    Pulsar cicla normal -> super encendido -> apagado (clases en .split__media, ver main.js). */
