@@ -550,7 +550,7 @@ p { margin: 0 0 1em; }
 .placecard:hover img { transform: scale(1.05); }
 .placecard__body { position: absolute; left: 0; right: 0; bottom: 0; z-index: 2; padding: 20px; color: #fff; }
 .placecard__body h3 { font-family: var(--font-head); text-transform: uppercase; font-size: 1.15rem; letter-spacing: .03em; margin: 0; }
-.placecard__body span { font-size: .86rem; color: rgba(255,255,255,.8); }
+.placecard__body span { font-size: .86rem; line-height: 1.35; color: rgba(255,255,255,.8); }
 
 /* Feed completo de Instagram (aventuras.html): siempre de 3 en 3 en escritorio. */
 .cardgrid--ig { grid-template-columns: repeat(3, 1fr); }
@@ -1096,8 +1096,9 @@ p { margin: 0 0 1em; }
   .curiosbar__text { font-size: .95rem; min-height: 4.5em; }
   .cardgrid:not(.cardgrid--ig):not([data-ig-posts]):not(.cardgrid--svc), .curios__grid, .svcgrid { grid-template-columns: 1fr; }
   .cardgrid[data-ig-posts], .cardgrid--svc { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-  .cardgrid[data-ig-posts] .placecard, .cardgrid--svc .placecard { aspect-ratio: 1 / 1; }
+  .cardgrid[data-ig-posts] .placecard, .cardgrid--svc .placecard { aspect-ratio: auto; }
   .cardgrid[data-ig-posts] .placecard::after, .cardgrid--svc .placecard::after { display: none; }
+  .cardgrid[data-ig-posts] .placecard img, .cardgrid--svc .placecard img { position: static; width: 100%; height: auto; aspect-ratio: 1 / 1; }
   .cardgrid[data-ig-posts] .placecard__body, .cardgrid--svc .placecard__body {
     position: static; background: var(--white); color: var(--ink);
     padding: 10px 12px;
