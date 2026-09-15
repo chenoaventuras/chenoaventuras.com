@@ -1146,7 +1146,10 @@ p { margin: 0 0 1em; }
   background: rgba(20, 20, 18, .82);
 }
 .ig-modal[hidden] { display: none; }
-.ig-modal__box { width: 100%; max-width: 400px; max-height: 100%; overflow: auto; }
+.ig-modal__box {
+  width: 100%; max-width: 400px; max-height: 100%; overflow: auto;
+  display: flex; flex-direction: column; align-items: center;
+}
 .ig-modal__box iframe { border-radius: var(--radius) !important; }
 .ig-modal__close {
   position: fixed; top: 16px; right: 16px; z-index: 201;
