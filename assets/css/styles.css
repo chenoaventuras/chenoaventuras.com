@@ -1177,7 +1177,9 @@ p { margin: 0 0 1em; }
   position: absolute; left: 63%; top: 58%; transform: translateX(-50%);
   font-size: clamp(.68rem, 2.6vw, .95rem);
   padding: .55em 1.2em;
+  transition: none;
 }
+.cookiebar__cta:hover { transform: translateX(-50%); }
 @media (max-width: 480px) {
   .cookiebar { left: 12px; right: 12px; bottom: 12px; }
 }
