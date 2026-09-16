@@ -6,7 +6,7 @@ cover: /assets/img/blog/uploads/altea-horizontal.webp
 draft: false
 tags:
   - Comunidad Valenciana
-igPermalink: 'https://www.instagram.com/reel/DcZMPGpRAHv/'
+igPermalink: 'https://www.instagram.com/reel/Dcp974QtqkU/'
 ---
 Hoy toca escapada a uno de los pueblos más fotografiados de la Costa Blanca: **Altea**. Casas blancas, calles empedradas que suben y bajan sin avisar, y el Mediterráneo asomando por cada esquina. Es de esos sitios que parecen sacados de una postal y que, aun así, merecen la pena en persona.
 
