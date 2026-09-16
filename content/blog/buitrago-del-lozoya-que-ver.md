@@ -4,7 +4,7 @@ date: 2026-09-16T09:30:00.000+02:00
 excerpt: 'Qué ver en Buitrago del Lozoya: su muralla medieval completa, el museo dedicado a Picasso y cómo combinarlo con otros pueblos de la Sierra Norte de Madrid.'
 cover: /assets/img/instagram/18567364960036817.webp
 tags:
-  - Actividades
+  - Pueblos
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DVO6MY5jNxb/'
 ---

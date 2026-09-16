@@ -4,7 +4,7 @@ date: 2026-09-16T15:10:00.000+02:00
 excerpt: 'Lanuza, en Huesca, quedó despoblado en 1976 al construirse su embalse y volvió a habitarse en los años 90. Historia, festival Pirineos Sur y cómo llegar.'
 cover: /assets/img/instagram/17908806873244673.webp
 tags:
-  - Actividades
+  - Pueblos
   - Aragón
 igPermalink: 'https://www.instagram.com/reel/DZdIrmTPtoA/'
 ---

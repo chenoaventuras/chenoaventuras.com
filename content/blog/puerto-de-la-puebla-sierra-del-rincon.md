@@ -4,7 +4,7 @@ date: 2026-09-16T11:50:00.000+02:00
 excerpt: 'El Puerto de la Puebla conecta Montejo de la Sierra, Prádena del Rincón y La Puebla de la Sierra, en la Sierra del Rincón. Qué ver en cada uno de ellos.'
 cover: /assets/img/instagram/17960555744905872.webp
 tags:
-  - Actividades
+  - Pueblos
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DUlwz4MjDhZ/'
 ---

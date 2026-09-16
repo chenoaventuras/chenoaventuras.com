@@ -4,7 +4,7 @@ date: 2026-09-16T13:00:00.000+02:00
 excerpt: 'Chinchón de noche cambia por completo: la Plaza Mayor iluminada y el castillo de los Condes de Chinchón, cerrado al público, vigilando el pueblo desde lo alto.'
 cover: /assets/img/instagram/18154307548397718.webp
 tags:
-  - Actividades
+  - Pueblos
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DQFNvQQDF7i/'
 ---

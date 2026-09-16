@@ -4,7 +4,7 @@ date: 2026-09-16T09:00:00.000+02:00
 excerpt: 'Qué ver en Pedraza (Segovia): su única puerta de acceso, la cárcel medieval, el castillo de Zuloaga y la Noche de las Velas. Guía rápida para tu escapada.'
 cover: /assets/img/instagram/18089113739420968.webp
 tags:
-  - Actividades
+  - Pueblos
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DavqMrZxpzl/'
 ---
