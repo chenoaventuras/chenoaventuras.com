@@ -2,7 +2,7 @@
 title: 'Medusa huevo frito: la curiosa Cotylorhiza tuberculata del Mediterráneo'
 date: 2026-09-16T09:00:00.000+02:00
 excerpt: 'Por qué la medusa huevo frito tiene ese centro amarillo, si pica y cuánto vive: todo sobre la Cotylorhiza tuberculata, una de las medusas más curiosas del Mediterráneo.'
-cover: /assets/img/instagram/DdW9IzJRGUK.webp
+cover: /assets/img/blog/medusa-huevo-frito.webp
 tags:
   - Curiosidades
   - Región de Murcia
