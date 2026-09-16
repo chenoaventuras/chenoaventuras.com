@@ -22,23 +22,41 @@ const OUT_DIR = join(ROOT, "blog");
 const OG_DEFAULT = SITE + "/assets/img/og-default.jpg";
 const TAG_TYPES = ["Curiosidades", "Actividades", "Pueblos"]; // el resto de tags de un post son comunidades autónomas
 
-// paleta fija para las etiquetas del blog: cada tag siempre cae en el mismo color (hash por texto)
-const TAG_COLORS = [
-  { bg: "#eab308", fg: "#23231f" }, // gold
-  { bg: "#3c6aa3", fg: "#ffffff" }, // teal
-  { bg: "#c2542d", fg: "#ffffff" }, // terracota
-  { bg: "#77854f", fg: "#ffffff" }, // olive
-  { bg: "#7a4a6b", fg: "#ffffff" }, // ciruela
-  { bg: "#2f6b4f", fg: "#ffffff" }, // bosque
-  { bg: "#1f8a9c", fg: "#ffffff" }, // turquesa
-  { bg: "#8f2d3a", fg: "#ffffff" }, // vino
-  { bg: "#c98a2b", fg: "#23231f" }, // mostaza
-  { bg: "#4a5568", fg: "#ffffff" }, // pizarra
-];
-function tagColor(tag) {
-  let hash = 0;
-  for (let i = 0; i < tag.length; i++) hash = (hash * 31 + tag.charCodeAt(i)) >>> 0;
-  return TAG_COLORS[hash % TAG_COLORS.length];
+// color de cada etiqueta del blog: un tono distinto por tag, sin repetir nunca
+// entre las etiquetas que de verdad están en uso (se reparten por el círculo de
+// color con el ángulo dorado, así aunque se añadan más etiquetas en el futuro
+// cada una cae lejos de las demás).
+function hslToRgb(h, s, l) {
+  h = ((h % 360) + 360) % 360 / 360;
+  const c = (1 - Math.abs(2 * l - 1)) * s;
+  const x = c * (1 - Math.abs(((h * 6) % 2) - 1));
+  const m = l - c / 2;
+  let rgb;
+  if (h < 1 / 6) rgb = [c, x, 0];
+  else if (h < 2 / 6) rgb = [x, c, 0];
+  else if (h < 3 / 6) rgb = [0, c, x];
+  else if (h < 4 / 6) rgb = [0, x, c];
+  else if (h < 5 / 6) rgb = [x, 0, c];
+  else rgb = [c, 0, x];
+  return rgb.map((v) => Math.round((v + m) * 255));
+}
+function relLuminance([r, g, b]) {
+  const f = (v) => {
+    v /= 255;
+    return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4);
+  };
+  return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b);
+}
+const toHex = ([r, g, b]) => "#" + [r, g, b].map((v) => v.toString(16).padStart(2, "0")).join("");
+const HUE_START = 205; // arranca en el azul de la marca
+const GOLDEN_ANGLE = 137.508; // reparte los tonos lo más lejos posible entre sí
+function buildTagColorMap(orderedTags) {
+  const map = new Map();
+  orderedTags.forEach((tag, i) => {
+    const rgb = hslToRgb(HUE_START + i * GOLDEN_ANGLE, 0.55, 0.4);
+    map.set(tag, { bg: toHex(rgb), fg: relLuminance(rgb) > 0.42 ? "#23231f" : "#ffffff" });
+  });
+  return map;
 }
 
 marked.setOptions({ gfm: true, breaks: false });
@@ -177,7 +195,7 @@ function readPosts() {
 }
 
 /* ---------- página de artículo ---------- */
-function renderPost(p) {
+function renderPost(p, tagColorMap) {
   const coverAbs = p.cover ? (p.cover.startsWith("http") ? p.cover : SITE + p.cover) : "";
   const jsonld = JSON.stringify(
     {
@@ -208,7 +226,7 @@ function renderPost(p) {
   const tagsHtml = p.tags.length
     ? `<div class="article__tags">${p.tags
         .map((t) => {
-          const c = tagColor(t);
+          const c = tagColorMap.get(t) || { bg: "#4a5568", fg: "#ffffff" };
           return `<span class="tagchip" style="background:${c.bg};color:${c.fg}">${esc(t)}</span>`;
         })
         .join("")}</div>`
@@ -352,10 +370,19 @@ function renderSitemap(posts) {
 /* ---------- build ---------- */
 const posts = readPosts();
 
+// mismo orden que el desplegable de filtro (tipo, luego comunidad autónoma
+// alfabético) para que la asignación de colores sea estable entre builds.
+const allTagsUsed = [...new Set(posts.flatMap((p) => p.tags))];
+const orderedTags = [
+  ...TAG_TYPES.filter((t) => allTagsUsed.includes(t)),
+  ...allTagsUsed.filter((t) => !TAG_TYPES.includes(t)).sort((a, b) => a.localeCompare(b, "es")),
+];
+const tagColorMap = buildTagColorMap(orderedTags);
+
 rmSync(OUT_DIR, { recursive: true, force: true });
 mkdirSync(OUT_DIR, { recursive: true });
 for (const p of posts) {
-  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p));
+  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap));
 }
 writeFileSync(join(ROOT, "blog.html"), renderIndex(posts));
 writeFileSync(join(ROOT, "sitemap.xml"), renderSitemap(posts));
