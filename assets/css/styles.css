@@ -398,6 +398,12 @@ p { margin: 0 0 1em; }
 .article__meta { font-size: .95rem; color: rgba(255,255,255,.8); margin-bottom: 10px; }
 .article__meta a { color: var(--gold-soft); text-decoration: none; }
 .article__meta a:hover { text-decoration: underline; }
+.article__tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.tagchip {
+  display: inline-block; font-family: var(--font-head); text-transform: uppercase;
+  letter-spacing: .06em; font-size: .72rem; font-weight: 600;
+  padding: .35em .85em; border-radius: 4px;
+}
 
 .article__body {
   max-width: 68ch;

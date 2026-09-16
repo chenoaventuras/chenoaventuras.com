@@ -22,6 +22,25 @@ const OUT_DIR = join(ROOT, "blog");
 const OG_DEFAULT = SITE + "/assets/img/og-default.jpg";
 const TAG_TYPES = ["Curiosidades", "Actividades"]; // el resto de tags de un post son comunidades autónomas
 
+// paleta fija para las etiquetas del blog: cada tag siempre cae en el mismo color (hash por texto)
+const TAG_COLORS = [
+  { bg: "#eab308", fg: "#23231f" }, // gold
+  { bg: "#3c6aa3", fg: "#ffffff" }, // teal
+  { bg: "#c2542d", fg: "#ffffff" }, // terracota
+  { bg: "#77854f", fg: "#ffffff" }, // olive
+  { bg: "#7a4a6b", fg: "#ffffff" }, // ciruela
+  { bg: "#2f6b4f", fg: "#ffffff" }, // bosque
+  { bg: "#1f8a9c", fg: "#ffffff" }, // turquesa
+  { bg: "#8f2d3a", fg: "#ffffff" }, // vino
+  { bg: "#c98a2b", fg: "#23231f" }, // mostaza
+  { bg: "#4a5568", fg: "#ffffff" }, // pizarra
+];
+function tagColor(tag) {
+  let hash = 0;
+  for (let i = 0; i < tag.length; i++) hash = (hash * 31 + tag.charCodeAt(i)) >>> 0;
+  return TAG_COLORS[hash % TAG_COLORS.length];
+}
+
 marked.setOptions({ gfm: true, breaks: false });
 
 const esc = (s = "") =>
@@ -186,6 +205,14 @@ function renderPost(p) {
   const heroMedia = p.cover
     ? `<div class="pagehead__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" decoding="async"${heroStyle} /></div>`
     : "";
+  const tagsHtml = p.tags.length
+    ? `<div class="article__tags">${p.tags
+        .map((t) => {
+          const c = tagColor(t);
+          return `<span class="tagchip" style="background:${c.bg};color:${c.fg}">${esc(t)}</span>`;
+        })
+        .join("")}</div>`
+    : "";
 
   const body = `    <article class="article">
       <section class="pagehead pagehead--blog torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
@@ -193,6 +220,7 @@ function renderPost(p) {
         <div class="pagehead__inner container">
           <p class="article__meta"><a href="/blog.html">&larr; Blog</a></p>
           <h1>${esc(p.title)}</h1>
+          ${tagsHtml}
         </div>
       </section>
 
