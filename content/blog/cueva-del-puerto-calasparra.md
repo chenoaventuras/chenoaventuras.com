@@ -5,6 +5,7 @@ excerpt: 'La Cueva del Puerto, en Calasparra, es la única cueva de Europa con d
 cover: /assets/img/instagram/17975666267783470.webp
 tags:
   - Actividades
+  - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DPtFBuKjCay/'
 ---
 Bajo tierra, a pocos kilómetros de Calasparra, se esconde un tesoro geológico formado durante millones de años: estalactitas, estalagmitas y, lo más singular, dos salas donde los minerales brillan en la oscuridad. Es la Cueva del Puerto, y es única en toda Europa por ese motivo.

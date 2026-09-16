@@ -4,6 +4,7 @@ date: 2026-09-12T09:00:00.000+02:00
 excerpt: 'Guía de la Batería de Castillitos (Cartagena): su historia, los cañones Vickers, cómo llegar y consejos para la escapada.'
 cover: /assets/img/destinos/bateria-castillitos.webp
 tags:
+  - Actividades
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DcOyoVXRSZy/'
 ---

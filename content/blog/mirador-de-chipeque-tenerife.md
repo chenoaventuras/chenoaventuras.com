@@ -5,6 +5,7 @@ excerpt: 'El Mirador de Chipeque, a más de 1.800 metros en Tenerife, ofrece vis
 cover: /assets/img/instagram/18075135229685841.webp
 tags:
   - Actividades
+  - Canarias
 igPermalink: 'https://www.instagram.com/reel/DHCAhKOoGQG/'
 ---
 A más de 1.800 metros de altitud, en pleno interior de Tenerife, hay un mirador que muchos ni siquiera conocen a pesar de ofrecer una de las mejores vistas de toda la isla: el Teide, un mar de nubes y, en días claros, hasta la silueta de La Palma en el horizonte.

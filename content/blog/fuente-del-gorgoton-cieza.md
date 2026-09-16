@@ -5,6 +5,7 @@ excerpt: 'La Fuente del Gorgotón, en Cieza, es un manantial de acceso gratuito 
 cover: /assets/img/instagram/17940241613914417.webp
 tags:
   - Actividades
+  - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DNTITyJI_Y8/'
 ---
 Junto al río Segura, en pleno campo de Cieza, hay un rincón donde el agua sale con fuerza desde las profundidades de la tierra, rodeado de vegetación y silencio. Se llama Fuente del Gorgotón, y es una de esas paradas sencillas que merecen la pena solo por lo tranquilo que resulta el lugar.

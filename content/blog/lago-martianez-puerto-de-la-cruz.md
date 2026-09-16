@@ -5,6 +5,7 @@ excerpt: 'Lago Martiánez, en Puerto de la Cruz, es un complejo de piscinas de a
 cover: /assets/img/instagram/17940651440967325.webp
 tags:
   - Actividades
+  - Canarias
 igPermalink: 'https://www.instagram.com/reel/DGbXoV2Iaq6/'
 ---
 En Puerto de la Cruz, Tenerife, el arte y el océano Atlántico se fusionan en un complejo de piscinas de agua salada diseñado por uno de los grandes nombres de la arquitectura canaria: César Manrique. Se llama Lago Martiánez, y es mucho más que unas simples piscinas.

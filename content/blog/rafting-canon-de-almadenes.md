@@ -5,6 +5,7 @@ excerpt: 'El rafting turístico por el Cañón de Almadenes recorre paredes de 1
 cover: /assets/img/instagram/18079196165076381.webp
 tags:
   - Actividades
+  - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DPMiJbsDDrn/'
 ---
 Entre Cieza y Calasparra, el río Segura se abre paso entre paredes de roca de hasta 150 metros de altura, en uno de los espacios naturales más espectaculares de la Región de Murcia. Recorrerlo en barca, con calma y sin apenas dificultad técnica, es de esos planes que sorprenden a cualquiera.

@@ -5,6 +5,7 @@ excerpt: 'Guía rápida de Altea (Alicante): casco antiguo, miradores, playas y 
 cover: /assets/img/blog/uploads/altea-horizontal.webp
 draft: false
 tags:
+  - Actividades
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/reel/DcZMPGpRAHv/'
 ---

@@ -5,6 +5,7 @@ excerpt: 'Guía de Guadalest (Alicante): su castillo del siglo XI, el embalse tu
 cover: /assets/img/instagram/18096219011376691.webp
 coverPosition: 'center 65%'
 tags:
+  - Actividades
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/p/Db_YXJ8xcVo/'
 ---

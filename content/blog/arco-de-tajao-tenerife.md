@@ -5,6 +5,7 @@ excerpt: 'El Arco de Tajao, en el sur de Tenerife, es un arco volcánico de 30 m
 cover: /assets/img/instagram/18124723345426528.webp
 tags:
   - Actividades
+  - Canarias
 igPermalink: 'https://www.instagram.com/reel/DH9KUHwokxB/'
 ---
 En el sur de Tenerife, la erosión ha tallado durante miles de años una formación rocosa que parece sacada de otro planeta: un arco volcánico de piedra basáltica que se ha convertido en uno de los rincones más fotogénicos de la isla.

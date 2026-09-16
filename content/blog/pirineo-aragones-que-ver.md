@@ -4,6 +4,7 @@ date: 2026-09-13T09:00:00.000+02:00
 excerpt: 'Guía de escapada por el Pirineo Aragonés: miradores, pueblos, cascadas, patrimonio y actividades de aventura, con cómo llegar y cuándo ir.'
 cover: /assets/img/instagram/17918762373419557.webp
 tags:
+  - Actividades
   - Aragón
 igPermalink: 'https://www.instagram.com/p/DbtQJiPDJwy/'
 ---
