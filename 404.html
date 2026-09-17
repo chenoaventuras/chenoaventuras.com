@@ -584,14 +584,12 @@
     }
 
     /* --- dibujos de los obstáculos (formas simples, paleta del sitio) ---
-       Todos llevan un contorno doble alrededor de la silueta (blanco por
-       fuera, oscuro por dentro): con los fondos ilustrados a color, un
-       relleno plano —o un solo contorno oscuro— se podía camuflar según
-       lo claro u oscuro que fuera el paisaje de turno. El doble contorno
-       se ve sobre cualquier fondo, claro u oscuro. --- */
+       Todos llevan un contorno oscuro alrededor de la silueta, para que
+       no se camuflen con el paisaje según el color de turno del fondo
+       ilustrado. Se apoya además en la franja oscura del carril (más
+       abajo, en el dibujo del suelo) para que resalten. --- */
     var OUTLINE = "#161611";
-    function outlinePath() {                    // blanco ancho + oscuro fino, mismo trazado
-      ctx.strokeStyle = "#fff"; ctx.lineWidth = 5; ctx.stroke();
+    function outlinePath() {                    // contorno oscuro simple, mismo trazado
       ctx.strokeStyle = OUTLINE; ctx.lineWidth = 2.5; ctx.stroke();
     }
     function drawMolino(o) {                    // molino manchego
