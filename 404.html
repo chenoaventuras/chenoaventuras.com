@@ -805,11 +805,12 @@
       // parte baja de la ilustración (donde corren el personaje y los
       // obstáculos) para que destaquen sobre cualquier fondo, dejando el
       // resto de la escena tal cual arriba.
-      var laneGrad = ctx.createLinearGradient(0, GROUND - 90, 0, H);
-      laneGrad.addColorStop(0, "rgba(10,14,10,0)");
-      laneGrad.addColorStop(1, "rgba(8,10,8,.55)");
+      var laneGrad = ctx.createLinearGradient(0, GROUND - 150, 0, H);
+      laneGrad.addColorStop(0, "rgba(6,9,6,0)");
+      laneGrad.addColorStop(0.55, "rgba(6,9,6,.45)");
+      laneGrad.addColorStop(1, "rgba(4,6,4,.82)");
       ctx.fillStyle = laneGrad;
-      ctx.fillRect(0, GROUND - 90, W, H - (GROUND - 90));
+      ctx.fillRect(0, GROUND - 150, W, H - (GROUND - 150));
 
       // meteoritos (modo velocirraptor): solo decorativos, de fondo
       for (var mj = 0; mj < meteors.length; mj++) {
