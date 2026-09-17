@@ -20,7 +20,7 @@ const SITE = "https://www.chenoaventuras.com";
 const CONTENT_DIR = join(ROOT, "content", "blog");
 const OUT_DIR = join(ROOT, "blog");
 const OG_DEFAULT = SITE + "/assets/img/og-default.jpg";
-const TAG_TYPES = ["Curiosidades", "Actividades", "Pueblos", "Spots"]; // el resto de tags de un post son comunidades autónomas
+const TAG_TYPES = ["Curiosidades", "Actividades", "Pueblos", "Spots", "Descuentos"]; // el resto de tags de un post son comunidades autónomas
 
 // color de cada etiqueta del blog: un tono distinto por tag, sin repetir nunca
 // entre las etiquetas que de verdad están en uso (se reparten por el círculo de
@@ -204,11 +204,21 @@ function readPosts() {
       cover: data.cover ? String(data.cover) : "",
       coverPosition: data.coverPosition ? String(data.coverPosition) : "",
       tags,
+      // posts fijados (p.ej. bienvenida, descuentos): se van siempre arriba,
+      // por delante de todo lo demás, ordenados por pinnedOrder. El resto
+      // sigue ordenándose por fecha como hasta ahora.
+      pinnedOrder: typeof data.pinnedOrder === "number" ? data.pinnedOrder : null,
       html,
       url: `${SITE}/blog/${slug}.html`,
     });
   }
-  posts.sort((a, b) => b.date - a.date);
+  posts.sort((a, b) => {
+    const ap = a.pinnedOrder, bp = b.pinnedOrder;
+    if (ap !== null && bp !== null) return ap - bp;
+    if (ap !== null) return -1;
+    if (bp !== null) return 1;
+    return b.date - a.date;
+  });
   return posts;
 }
 

@@ -5,6 +5,7 @@ excerpt: "Arranca el blog: aquí iré contando rutas, consejos y rincones de
   España con más calma que en un reel."
 cover: /assets/img/cheno-perfil.jpg
 draft: false
+pinnedOrder: 0
 ---
 
 Llevo tiempo compartiendo aventuras en vídeos cortos, pero hay cosas que no
