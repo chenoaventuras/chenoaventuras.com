@@ -46,7 +46,7 @@
       box-shadow: 0 22px 50px rgba(15, 25, 45, .35);
       padding: 14px 14px 10px; position: relative;
     }
-    #run-game { display: block; width: 100%; height: 260px; border-radius: 8px; touch-action: none;
+    #run-game { display: block; width: 100%; height: 220px; border-radius: 8px; touch-action: none;
       background:
         radial-gradient(120% 90% at 50% 120%, rgba(155,171,104,.18), rgba(155,171,104,0) 60%),
         #f4f1ea; }
@@ -93,7 +93,7 @@
     #score-board li:nth-child(odd) { background: rgba(20,20,15,.05); }
     #score-board li .n { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     #score-board li .s { font-variant-numeric: tabular-nums; color: #5f6d3e; font-weight: 700; }
-    @media (max-width: 560px) { #run-game { height: 210px; } }
+    @media (max-width: 560px) { #run-game { height: 180px; } }
     @media (max-width: 620px) { .runner .runner__hint { display: none; } }
     @media (min-width: 600px) { .runner .runner__hint { white-space: nowrap; max-width: none; } }
     @media (prefers-reduced-motion: reduce) { .runner__hint::after { content: " — el juego solo se mueve cuando tú juegas."; } }
@@ -583,32 +583,22 @@
       ctx.closePath();
     }
 
-    /* --- dibujos de los obstáculos (formas simples, paleta del sitio) ---
-       Todos llevan un brillo (glow) alrededor de la silueta, para que no
-       se camuflen con el paisaje según el color de turno del fondo
-       ilustrado. Se apoya además en la franja oscura del carril (más
-       abajo, en el dibujo del suelo) para que resalten. --- */
-    var GLOW = "rgba(255,214,64,.95)";
-    function glowOn() { ctx.shadowColor = GLOW; ctx.shadowBlur = 16; }
-    function glowOff() { ctx.shadowBlur = 0; }
+    /* --- dibujos de los obstáculos (formas simples, paleta del sitio) --- */
     function drawMolino(o) {                    // molino manchego
       var cx = o.x + o.w / 2, base = o.y + o.h;
-      ctx.lineJoin = "round";
       ctx.fillStyle = "#d9d3c5";
       ctx.beginPath();
       ctx.moveTo(o.x + 2, base);
       ctx.lineTo(o.x + o.w - 2, base);
       ctx.lineTo(cx + o.w * 0.30, o.y + o.h * 0.30);
       ctx.lineTo(cx - o.w * 0.30, o.y + o.h * 0.30);
-      ctx.closePath();
-      glowOn(); ctx.fill(); ctx.fill(); glowOff();
+      ctx.closePath(); ctx.fill();
       ctx.fillStyle = "#5f6d3e";
       ctx.beginPath();
       ctx.moveTo(cx - o.w * 0.36, o.y + o.h * 0.30);
       ctx.lineTo(cx + o.w * 0.36, o.y + o.h * 0.30);
       ctx.lineTo(cx, o.y + o.h * 0.04);
-      ctx.closePath();
-      glowOn(); ctx.fill(); ctx.fill(); glowOff();
+      ctx.closePath(); ctx.fill();
       var ang = performance.now() / 240 + o.ph;
       var hx = cx, hy = o.y + o.h * 0.20;
       ctx.strokeStyle = "#37372f"; ctx.lineWidth = 3; ctx.lineCap = "round";
@@ -623,8 +613,7 @@
     function drawTronco(o) {                    // tronco
       var r = o.h / 2;
       ctx.fillStyle = "#6b4a30";
-      rrect(o.x, o.y, o.w, o.h, r);
-      glowOn(); ctx.fill(); ctx.fill(); glowOff();
+      rrect(o.x, o.y, o.w, o.h, r); ctx.fill();
       ctx.strokeStyle = "#8c6139"; ctx.lineWidth = 2;
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.55, 0, Math.PI * 2); ctx.stroke();
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.26, 0, Math.PI * 2); ctx.stroke();
@@ -632,7 +621,7 @@
     function drawRoca(o) {                      // roca verde (como al principio)
       rockPath(o);
       ctx.fillStyle = COL.rock;
-      glowOn(); ctx.fill(); ctx.fill(); glowOff();
+      ctx.fill();
       ctx.fillStyle = "rgba(255,255,255,.10)";
       ctx.fillRect(o.x + 3, o.y + 2, Math.max(2, o.w - 6), 3);
     }
@@ -649,9 +638,9 @@
       // ilustración queda a la altura del camino del juego, no la mitad del cielo.
       if (ir > cr) { dh = H; dw = H * ir; dx = (W - dw) / 2; dy = 0; }
       else {
-        // nunca recortamos por arriba (ahí está el skyline/iglesia/mirador):
-        // todo el sobrante se recorta por abajo, que ya tapa el suelo del juego.
-        dw = W; dh = W / ir; dx = 0; dy = 0;
+        dw = W; dh = W / ir; dx = 0;
+        // un empujón hacia abajo para no cortar la parte de arriba de la imagen
+        dy = (H - dh) + Math.min(30, Math.max(0, dh - H));
       }
       ctx.globalAlpha = alpha;
       ctx.drawImage(img, dx, dy, dw, dh);
@@ -798,17 +787,6 @@
 
       // fondo ilustrado (cambia cada 280 puntos, con fundido)
       drawBg();
-
-      // franja oscura en el carril de juego: oscurece progresivamente la
-      // parte baja de la ilustración (donde corren el personaje y los
-      // obstáculos) para que destaquen sobre cualquier fondo, dejando el
-      // resto de la escena tal cual arriba.
-      var laneGrad = ctx.createLinearGradient(0, GROUND - 150, 0, H);
-      laneGrad.addColorStop(0, "rgba(6,9,6,0)");
-      laneGrad.addColorStop(0.55, "rgba(6,9,6,.45)");
-      laneGrad.addColorStop(1, "rgba(4,6,4,.82)");
-      ctx.fillStyle = laneGrad;
-      ctx.fillRect(0, GROUND - 150, W, H - (GROUND - 150));
 
       // meteoritos (modo velocirraptor): solo decorativos, de fondo
       for (var mj = 0; mj < meteors.length; mj++) {
