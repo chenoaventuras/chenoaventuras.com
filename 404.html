@@ -584,14 +584,13 @@
     }
 
     /* --- dibujos de los obstáculos (formas simples, paleta del sitio) ---
-       Todos llevan un contorno oscuro alrededor de la silueta, para que
-       no se camuflen con el paisaje según el color de turno del fondo
+       Todos llevan un brillo (glow) alrededor de la silueta, para que no
+       se camuflen con el paisaje según el color de turno del fondo
        ilustrado. Se apoya además en la franja oscura del carril (más
        abajo, en el dibujo del suelo) para que resalten. --- */
-    var OUTLINE = "#161611";
-    function outlinePath() {                    // contorno oscuro simple, mismo trazado
-      ctx.strokeStyle = OUTLINE; ctx.lineWidth = 2.5; ctx.stroke();
-    }
+    var GLOW = "rgba(255,214,64,.95)";
+    function glowOn() { ctx.shadowColor = GLOW; ctx.shadowBlur = 16; }
+    function glowOff() { ctx.shadowBlur = 0; }
     function drawMolino(o) {                    // molino manchego
       var cx = o.x + o.w / 2, base = o.y + o.h;
       ctx.lineJoin = "round";
@@ -601,15 +600,15 @@
       ctx.lineTo(o.x + o.w - 2, base);
       ctx.lineTo(cx + o.w * 0.30, o.y + o.h * 0.30);
       ctx.lineTo(cx - o.w * 0.30, o.y + o.h * 0.30);
-      ctx.closePath(); ctx.fill();
-      outlinePath();
+      ctx.closePath();
+      glowOn(); ctx.fill(); ctx.fill(); glowOff();
       ctx.fillStyle = "#5f6d3e";
       ctx.beginPath();
       ctx.moveTo(cx - o.w * 0.36, o.y + o.h * 0.30);
       ctx.lineTo(cx + o.w * 0.36, o.y + o.h * 0.30);
       ctx.lineTo(cx, o.y + o.h * 0.04);
-      ctx.closePath(); ctx.fill();
-      outlinePath();
+      ctx.closePath();
+      glowOn(); ctx.fill(); ctx.fill(); glowOff();
       var ang = performance.now() / 240 + o.ph;
       var hx = cx, hy = o.y + o.h * 0.20;
       ctx.strokeStyle = "#37372f"; ctx.lineWidth = 3; ctx.lineCap = "round";
@@ -624,8 +623,8 @@
     function drawTronco(o) {                    // tronco
       var r = o.h / 2;
       ctx.fillStyle = "#6b4a30";
-      rrect(o.x, o.y, o.w, o.h, r); ctx.fill();
-      outlinePath();
+      rrect(o.x, o.y, o.w, o.h, r);
+      glowOn(); ctx.fill(); ctx.fill(); glowOff();
       ctx.strokeStyle = "#8c6139"; ctx.lineWidth = 2;
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.55, 0, Math.PI * 2); ctx.stroke();
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.26, 0, Math.PI * 2); ctx.stroke();
@@ -633,8 +632,7 @@
     function drawRoca(o) {                      // roca verde (como al principio)
       rockPath(o);
       ctx.fillStyle = COL.rock;
-      ctx.fill();
-      outlinePath();
+      glowOn(); ctx.fill(); ctx.fill(); glowOff();
       ctx.fillStyle = "rgba(255,255,255,.10)";
       ctx.fillRect(o.x + 3, o.y + 2, Math.max(2, o.w - 6), 3);
     }
