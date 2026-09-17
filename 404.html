@@ -276,7 +276,8 @@
     var GROUND = 0;
     var groundOffset = 0;
 
-    var player = { x: 52, y: 0, w: 44, h: 60, vy: 0, onGround: true, frame: 0, frameT: 0 };
+    var PLAYER_X_BASE = 52, PLAYER_X_ENCIERRO = 92;   // más adelantado durante el encierro (Navarra)
+    var player = { x: PLAYER_X_BASE, y: 0, w: 44, h: 60, vy: 0, onGround: true, frame: 0, frameT: 0 };
 
     var GRAV = 2650;      // px/s^2
     var JUMP_V = -800;    // px/s
@@ -303,7 +304,17 @@
     try { best = parseInt(localStorage.getItem("cheno-run-best") || "0", 10) || 0; } catch (e) {}
 
     // Tipos que se van alternando.
-    var KINDS = ["roca", "molino", "tronco"];
+    var KINDS = ["roca", "tronco", "molino", "barril", "valla", "queso", "osomadrono", "banco", "paellera"];
+    // obstáculo temático que sale con cada fondo, algo típico de allí.
+    var REGION_KIND = {
+      "consuegra-bn": "molino",
+      "cuzcurrita-bn": "barril",
+      "navarra-bardenas-bn": "valla",
+      "pais-vasco-bn": "queso",
+      "madrid-bn": "osomadrono",
+      "barcelona-bn": "banco",
+      "valencia-oceanographic-bn": "paellera"
+    };
 
     var jumpBtn = document.getElementById("run-jump");
     function syncBtn() {
@@ -507,6 +518,8 @@
     }
 
     function spawn() {
+      // el tercer tipo posible es siempre el típico del fondo que toca ahora.
+      var themedKind = REGION_KIND[BG_NAMES[bgIndex]] || "molino";
       var clusterP = 0.12 + Math.min(score / 1900, 0.20);
       var cluster = Math.random() < clusterP ? 2 : 1;
       var gap = 0;
@@ -515,7 +528,7 @@
         var kind;
         do {
           var rk = Math.random();
-          kind = rk < 0.5 ? "roca" : (rk < 0.8 ? "tronco" : "molino");
+          kind = rk < 0.5 ? "roca" : (rk < 0.8 ? "tronco" : themedKind);
         } while (kind === prevKind);
         prevKind = kind;
         var w, h;
@@ -526,9 +539,27 @@
         } else if (kind === "tronco") {
           h = Math.round(20 * (0.9 + Math.random() * 0.25));
           w = Math.round(50 * (0.85 + Math.random() * 0.4));
-        } else { // molino
+        } else if (kind === "molino") {
           h = Math.round(44 * (0.92 + Math.random() * 0.18));
           w = 26;
+        } else if (kind === "barril") {
+          h = Math.round(26 * (0.9 + Math.random() * 0.2));
+          w = 20;
+        } else if (kind === "valla") {
+          h = Math.round(26 * (0.9 + Math.random() * 0.15));
+          w = Math.round(38 * (0.9 + Math.random() * 0.2));
+        } else if (kind === "queso") {
+          h = Math.round(20 * (0.9 + Math.random() * 0.2));
+          w = h;
+        } else if (kind === "osomadrono") {
+          h = Math.round(40 * (0.9 + Math.random() * 0.15));
+          w = 30;
+        } else if (kind === "banco") {
+          h = 22;
+          w = Math.round(44 * (0.9 + Math.random() * 0.2));
+        } else { // paellera
+          h = 16;
+          w = Math.round(34 * (0.9 + Math.random() * 0.2));
         }
         obstacles.push({ x: W + 26 + gap, y: GROUND - h, w: w, h: h, kind: kind, ph: Math.random() * 6 });
         gap += w + 20;
@@ -625,9 +656,89 @@
       ctx.fillStyle = "rgba(255,255,255,.10)";
       ctx.fillRect(o.x + 3, o.y + 2, Math.max(2, o.w - 6), 3);
     }
+    function drawBarril(o) {                    // barril de vino (La Rioja / Cuzcurrita)
+      var r = Math.min(6, o.w / 2);
+      ctx.fillStyle = "#7a4a26";
+      rrect(o.x, o.y, o.w, o.h, r); ctx.fill();
+      ctx.strokeStyle = "#4a2f18"; ctx.lineWidth = 2;
+      ctx.beginPath(); ctx.moveTo(o.x, o.y + o.h * 0.32); ctx.lineTo(o.x + o.w, o.y + o.h * 0.32); ctx.stroke();
+      ctx.beginPath(); ctx.moveTo(o.x, o.y + o.h * 0.68); ctx.lineTo(o.x + o.w, o.y + o.h * 0.68); ctx.stroke();
+      ctx.fillStyle = "rgba(255,255,255,.12)";
+      ctx.fillRect(o.x + 2, o.y + o.h * 0.38, 2, o.h * 0.24);
+    }
+    function drawValla(o) {                      // valla de madera del encierro (Navarra)
+      ctx.fillStyle = "#7a5a36";
+      ctx.fillRect(o.x, o.y, o.w * 0.12, o.h);
+      ctx.fillRect(o.x + o.w * 0.88, o.y, o.w * 0.12, o.h);
+      ctx.fillStyle = "#8a6a42";
+      ctx.fillRect(o.x, o.y + o.h * 0.10, o.w, o.h * 0.18);
+      ctx.fillRect(o.x, o.y + o.h * 0.62, o.w, o.h * 0.18);
+      ctx.strokeStyle = "#5c4326"; ctx.lineWidth = 2;
+      ctx.beginPath(); ctx.moveTo(o.x + o.w * 0.16, o.y + o.h * 0.28); ctx.lineTo(o.x + o.w * 0.84, o.y + o.h * 0.80); ctx.stroke();
+    }
+    function drawToro(o) {                      // toro (encierro, Navarra)
+      ctx.fillStyle = "#2b2320";
+      ctx.beginPath();
+      ctx.ellipse(o.x + o.w * 0.58, o.y + o.h * 0.62, o.w * 0.40, o.h * 0.38, 0, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.beginPath();
+      ctx.ellipse(o.x + o.w * 0.16, o.y + o.h * 0.50, o.w * 0.16, o.h * 0.24, 0, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.strokeStyle = "#e8e2d5"; ctx.lineWidth = 2.5; ctx.lineCap = "round";
+      ctx.beginPath(); ctx.moveTo(o.x + o.w * 0.10, o.y + o.h * 0.30); ctx.lineTo(o.x, o.y + o.h * 0.10); ctx.stroke();
+      ctx.beginPath(); ctx.moveTo(o.x + o.w * 0.22, o.y + o.h * 0.28); ctx.lineTo(o.x + o.w * 0.30, o.y + o.h * 0.06); ctx.stroke();
+      ctx.lineCap = "butt";
+      ctx.fillStyle = "#2b2320";
+      ctx.fillRect(o.x + o.w * 0.32, o.y + o.h * 0.86, o.w * 0.09, o.h * 0.16);
+      ctx.fillRect(o.x + o.w * 0.70, o.y + o.h * 0.86, o.w * 0.09, o.h * 0.16);
+    }
+    function drawQueso(o) {                      // rueda de queso Idiazabal (País Vasco)
+      rrect(o.x, o.y, o.w, o.h, Math.min(6, o.h / 2));
+      ctx.fillStyle = "#c99a4b"; ctx.fill();
+      ctx.strokeStyle = "#8a6423"; ctx.lineWidth = 2;
+      ctx.strokeRect(o.x + 2, o.y + 2, o.w - 4, o.h - 4);
+      ctx.beginPath(); ctx.moveTo(o.x + o.w * 0.5, o.y); ctx.lineTo(o.x + o.w * 0.64, o.y + o.h); ctx.stroke();
+    }
+    function drawOsoMadrono(o) {                 // el oso y el madroño (Madrid)
+      var cx = o.x + o.w * 0.34;
+      ctx.strokeStyle = "#5b5750"; ctx.lineWidth = Math.max(3, o.w * 0.10); ctx.lineCap = "round";
+      ctx.beginPath(); ctx.moveTo(cx + o.w * 0.16, o.y + o.h * 0.50); ctx.lineTo(o.x + o.w * 0.62, o.y); ctx.stroke();
+      ctx.lineCap = "butt";
+      ctx.fillStyle = "#a13a2e";
+      ctx.beginPath(); ctx.arc(o.x + o.w * 0.66, o.y + o.h * 0.08, 4, 0, Math.PI * 2); ctx.fill();
+      ctx.beginPath(); ctx.arc(o.x + o.w * 0.80, o.y + o.h * 0.16, 4, 0, Math.PI * 2); ctx.fill();
+      ctx.fillStyle = "#5b5750";
+      rrect(o.x, o.y + o.h * 0.55, o.w * 0.5, o.h * 0.45, 4); ctx.fill();
+      ctx.beginPath(); ctx.arc(cx, o.y + o.h * 0.42, o.w * 0.18, 0, Math.PI * 2); ctx.fill();
+    }
+    function drawBanco(o) {                      // banco de mosaico (Park Güell, Barcelona)
+      rrect(o.x, o.y + o.h * 0.35, o.w, o.h * 0.65, 6);
+      ctx.fillStyle = "#3f6d8c"; ctx.fill();
+      var tileColors = ["#e0b23c", "#c9483f", "#4f8c5b", "#e8e2d5"];
+      var seg = (o.w - 6) / 5;
+      for (var ti = 0; ti < 5; ti++) {
+        ctx.fillStyle = tileColors[ti % tileColors.length];
+        ctx.fillRect(o.x + 3 + ti * seg, o.y + o.h * 0.35, seg - 2, o.h * 0.18);
+      }
+    }
+    function drawPaellera(o) {                   // paellera (Valencia)
+      ctx.strokeStyle = "#6b7076"; ctx.lineWidth = 2.5;
+      ctx.beginPath(); ctx.moveTo(o.x, o.y + o.h * 0.55); ctx.lineTo(o.x - 5, o.y + o.h * 0.48); ctx.stroke();
+      ctx.beginPath(); ctx.moveTo(o.x + o.w, o.y + o.h * 0.55); ctx.lineTo(o.x + o.w + 5, o.y + o.h * 0.48); ctx.stroke();
+      ctx.fillStyle = "#9aa0a6";
+      ctx.beginPath(); ctx.ellipse(o.x + o.w / 2, o.y + o.h * 0.6, o.w * 0.48, o.h * 0.4, 0, 0, Math.PI * 2); ctx.fill();
+      ctx.fillStyle = "#e8c15a";
+      ctx.beginPath(); ctx.ellipse(o.x + o.w / 2, o.y + o.h * 0.55, o.w * 0.36, o.h * 0.26, 0, 0, Math.PI * 2); ctx.fill();
+    }
     function drawObstacle(o) {
       if (o.kind === "molino") return drawMolino(o);
       if (o.kind === "tronco") return drawTronco(o);
+      if (o.kind === "barril") return drawBarril(o);
+      if (o.kind === "valla") return drawValla(o);
+      if (o.kind === "queso") return drawQueso(o);
+      if (o.kind === "osomadrono") return drawOsoMadrono(o);
+      if (o.kind === "banco") return drawBanco(o);
+      if (o.kind === "paellera") return drawPaellera(o);
       return drawRoca(o);
     }
 
@@ -741,6 +852,13 @@
         player.y += player.vy * dt;
         if (player.y >= GROUND - player.h) { player.y = GROUND - player.h; player.vy = 0; player.onGround = true; }
 
+        // en Navarra el senderista corre más adelantado, con el toro
+        // persiguiéndole justo detrás (encierro): un pequeño avance suave
+        // de posición, no un salto brusco al cambiar de fondo.
+        var inEncierro = BG_NAMES[bgIndex] === "navarra-bardenas-bn";
+        var playerTargetX = inEncierro ? PLAYER_X_ENCIERRO : PLAYER_X_BASE;
+        player.x += (playerTargetX - player.x) * Math.min(1, dt * 3);
+
         if (flashT > 0) flashT -= dt;
 
         for (var k = obstacles.length - 1; k >= 0; k--) {
@@ -843,6 +961,17 @@
         ctx.ellipse(ob.x + ob.w / 2, ob.y + ob.h + 2, ob.w * 0.5, 4, 0, 0, Math.PI * 2);
         ctx.fill();
         drawObstacle(ob);
+      }
+
+      // el toro persiguiendo por detrás, solo durante el encierro (Navarra)
+      if (BG_NAMES[bgIndex] === "navarra-bardenas-bn") {
+        var toroH = 34, toroW = 46;
+        var toroObj = { x: player.x - toroW - 26, y: GROUND - toroH, w: toroW, h: toroH };
+        ctx.fillStyle = "rgba(39,76,120,.16)";
+        ctx.beginPath();
+        ctx.ellipse(toroObj.x + toroObj.w / 2, GROUND + 2, toroObj.w * 0.42, 5, 0, 0, Math.PI * 2);
+        ctx.fill();
+        drawToro(toroObj);
       }
 
       // sombra del senderista
