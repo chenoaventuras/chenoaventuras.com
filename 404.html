@@ -583,9 +583,15 @@
       ctx.closePath();
     }
 
-    /* --- dibujos de los obstáculos (formas simples, paleta del sitio) --- */
+    /* --- dibujos de los obstáculos (formas simples, paleta del sitio) ---
+       Todos llevan un contorno oscuro alrededor de la silueta: con los
+       fondos ilustrados a color, un relleno plano se camuflaba con el
+       paisaje según el color de turno; el contorno los separa siempre,
+       sea cual sea el fondo que toque. --- */
+    var OUTLINE = "#161611";
     function drawMolino(o) {                    // molino manchego
       var cx = o.x + o.w / 2, base = o.y + o.h;
+      ctx.lineJoin = "round";
       ctx.fillStyle = "#d9d3c5";
       ctx.beginPath();
       ctx.moveTo(o.x + 2, base);
@@ -593,12 +599,13 @@
       ctx.lineTo(cx + o.w * 0.30, o.y + o.h * 0.30);
       ctx.lineTo(cx - o.w * 0.30, o.y + o.h * 0.30);
       ctx.closePath(); ctx.fill();
+      ctx.strokeStyle = OUTLINE; ctx.lineWidth = 2.5; ctx.stroke();
       ctx.fillStyle = "#5f6d3e";
       ctx.beginPath();
       ctx.moveTo(cx - o.w * 0.36, o.y + o.h * 0.30);
       ctx.lineTo(cx + o.w * 0.36, o.y + o.h * 0.30);
       ctx.lineTo(cx, o.y + o.h * 0.04);
-      ctx.closePath(); ctx.fill();
+      ctx.closePath(); ctx.fill(); ctx.stroke();
       var ang = performance.now() / 240 + o.ph;
       var hx = cx, hy = o.y + o.h * 0.20;
       ctx.strokeStyle = "#37372f"; ctx.lineWidth = 3; ctx.lineCap = "round";
@@ -614,6 +621,7 @@
       var r = o.h / 2;
       ctx.fillStyle = "#6b4a30";
       rrect(o.x, o.y, o.w, o.h, r); ctx.fill();
+      ctx.strokeStyle = OUTLINE; ctx.lineWidth = 2.5; ctx.stroke();
       ctx.strokeStyle = "#8c6139"; ctx.lineWidth = 2;
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.55, 0, Math.PI * 2); ctx.stroke();
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.26, 0, Math.PI * 2); ctx.stroke();
@@ -622,6 +630,7 @@
       rockPath(o);
       ctx.fillStyle = COL.rock;
       ctx.fill();
+      ctx.strokeStyle = OUTLINE; ctx.lineWidth = 2.5; ctx.stroke();
       ctx.fillStyle = "rgba(255,255,255,.10)";
       ctx.fillRect(o.x + 3, o.y + 2, Math.max(2, o.w - 6), 3);
     }
