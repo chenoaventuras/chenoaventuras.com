@@ -584,11 +584,16 @@
     }
 
     /* --- dibujos de los obstáculos (formas simples, paleta del sitio) ---
-       Todos llevan un contorno oscuro alrededor de la silueta: con los
-       fondos ilustrados a color, un relleno plano se camuflaba con el
-       paisaje según el color de turno; el contorno los separa siempre,
-       sea cual sea el fondo que toque. --- */
+       Todos llevan un contorno doble alrededor de la silueta (blanco por
+       fuera, oscuro por dentro): con los fondos ilustrados a color, un
+       relleno plano —o un solo contorno oscuro— se podía camuflar según
+       lo claro u oscuro que fuera el paisaje de turno. El doble contorno
+       se ve sobre cualquier fondo, claro u oscuro. --- */
     var OUTLINE = "#161611";
+    function outlinePath() {                    // blanco ancho + oscuro fino, mismo trazado
+      ctx.strokeStyle = "#fff"; ctx.lineWidth = 5; ctx.stroke();
+      ctx.strokeStyle = OUTLINE; ctx.lineWidth = 2.5; ctx.stroke();
+    }
     function drawMolino(o) {                    // molino manchego
       var cx = o.x + o.w / 2, base = o.y + o.h;
       ctx.lineJoin = "round";
@@ -599,13 +604,14 @@
       ctx.lineTo(cx + o.w * 0.30, o.y + o.h * 0.30);
       ctx.lineTo(cx - o.w * 0.30, o.y + o.h * 0.30);
       ctx.closePath(); ctx.fill();
-      ctx.strokeStyle = OUTLINE; ctx.lineWidth = 2.5; ctx.stroke();
+      outlinePath();
       ctx.fillStyle = "#5f6d3e";
       ctx.beginPath();
       ctx.moveTo(cx - o.w * 0.36, o.y + o.h * 0.30);
       ctx.lineTo(cx + o.w * 0.36, o.y + o.h * 0.30);
       ctx.lineTo(cx, o.y + o.h * 0.04);
-      ctx.closePath(); ctx.fill(); ctx.stroke();
+      ctx.closePath(); ctx.fill();
+      outlinePath();
       var ang = performance.now() / 240 + o.ph;
       var hx = cx, hy = o.y + o.h * 0.20;
       ctx.strokeStyle = "#37372f"; ctx.lineWidth = 3; ctx.lineCap = "round";
@@ -621,7 +627,7 @@
       var r = o.h / 2;
       ctx.fillStyle = "#6b4a30";
       rrect(o.x, o.y, o.w, o.h, r); ctx.fill();
-      ctx.strokeStyle = OUTLINE; ctx.lineWidth = 2.5; ctx.stroke();
+      outlinePath();
       ctx.strokeStyle = "#8c6139"; ctx.lineWidth = 2;
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.55, 0, Math.PI * 2); ctx.stroke();
       ctx.beginPath(); ctx.arc(o.x + o.w - r, o.y + r, r * 0.26, 0, Math.PI * 2); ctx.stroke();
@@ -630,7 +636,7 @@
       rockPath(o);
       ctx.fillStyle = COL.rock;
       ctx.fill();
-      ctx.strokeStyle = OUTLINE; ctx.lineWidth = 2.5; ctx.stroke();
+      outlinePath();
       ctx.fillStyle = "rgba(255,255,255,.10)";
       ctx.fillRect(o.x + 3, o.y + 2, Math.max(2, o.w - 6), 3);
     }
@@ -796,6 +802,16 @@
 
       // fondo ilustrado (cambia cada 280 puntos, con fundido)
       drawBg();
+
+      // franja oscura en el carril de juego: oscurece progresivamente la
+      // parte baja de la ilustración (donde corren el personaje y los
+      // obstáculos) para que destaquen sobre cualquier fondo, dejando el
+      // resto de la escena tal cual arriba.
+      var laneGrad = ctx.createLinearGradient(0, GROUND - 90, 0, H);
+      laneGrad.addColorStop(0, "rgba(10,14,10,0)");
+      laneGrad.addColorStop(1, "rgba(8,10,8,.55)");
+      ctx.fillStyle = laneGrad;
+      ctx.fillRect(0, GROUND - 90, W, H - (GROUND - 90));
 
       // meteoritos (modo velocirraptor): solo decorativos, de fondo
       for (var mj = 0; mj < meteors.length; mj++) {
