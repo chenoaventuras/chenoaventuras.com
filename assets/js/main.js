@@ -61,7 +61,78 @@
     "El Camino de Santiago no es uno: son decenas de rutas; la Francesa recorre unos 770 km.",
     "Muchos pueblos del interior nacieron alrededor de un balneario y su “agua milagrosa”.",
     "La red “Los Pueblos más Bonitos de España” reúne más de un centenar de localidades de toda la península e islas.",
-    "El casco viejo de San Sebastián y su playa de la Concha aparecen cada año entre las mejores playas urbanas del mundo."
+    "El casco viejo de San Sebastián y su playa de la Concha aparecen cada año entre las mejores playas urbanas del mundo.",
+    "Cabo Fisterra, en Galicia, era para los romanos el “finis terrae”: el fin del mundo conocido.",
+    "La Tomatina de Buñol (Valencia) lanza cada año unos 120.000 kilos de tomates en poco más de una hora.",
+    "Frigiliana (Málaga) es de los pocos lugares de la Europa continental donde todavía se elabora miel de caña.",
+    "En Atapuerca (Burgos) se han hallado restos humanos de hasta 1,2 millones de años, entre los más antiguos de Europa.",
+    "El Parque Natural de las Sierras de Cazorla, Segura y Las Villas (Jaén) es el espacio protegido más grande de España, con más de 214.000 hectáreas.",
+    "Ibiza es una de las pocas declaraciones “mixtas” de la UNESCO: reconoce a la vez su naturaleza y su cultura.",
+    "España suma 50 lugares Patrimonio de la Humanidad, la quinta cifra más alta del mundo.",
+    "Canarias va una hora por detrás de la península todo el año: comparte huso horario con Portugal y el Reino Unido.",
+    "El desierto de Tabernas (Almería) se parece tanto a Marte que la ESA lo usa para probar los róveres que viajarán al planeta rojo.",
+    "Las Salinas de Añana (Álava) llevan produciendo sal desde hace más de 7.000 años, una de las salinas en activo más antiguas del mundo.",
+    "Úbeda y Baeza (Jaén) comparten un único título de Patrimonio de la Humanidad por su arquitectura renacentista.",
+    "El faro de Fisterra marca, para muchos peregrinos, un final simbólico del Camino de Santiago más allá de la propia Compostela.",
+    "España tiene la red de tren de alta velocidad más extensa de Europa y la segunda del mundo, solo por detrás de China.",
+    "La playa de Rodas, en las Islas Cíes (Galicia), ha sido elegida varias veces mejor playa del mundo por medios internacionales.",
+    "Peñíscola (Castellón) ha sido escenario de rodajes tan distintos como “El Cid” y “Juego de Tronos”.",
+    "El Parque Nacional de Monfragüe (Cáceres) es uno de los mejores lugares de Europa para ver buitres negros y águilas imperiales en libertad.",
+    "Baeza y Úbeda comparten arquitecto: Andrés de Vandelvira firmó buena parte de sus edificios renacentistas.",
+    "España es el primer productor mundial de aceite de oliva, con el olivo cultivado en la península desde hace milenios.",
+    "La dehesa, con encinas y alcornoques repartidos entre Extremadura, Andalucía y Castilla y León, sostiene la ganadería del cerdo ibérico.",
+    "El toro de Osborne, la silueta negra que se ve junto a algunas carreteras, nació en 1956 como cartel publicitario de un brandy.",
+    "El Bosque de Secuoyas de Cabezón de la Sal (Cantabria) se plantó en los años 40 con ejemplares traídos de California; hoy supera los 40 metros de altura.",
+    "La Laguna de Gallocanta (Aragón) es la mayor laguna salada de interior de España y acoge cada otoño la mayor concentración de grullas migratorias de Europa.",
+    "El Torcal de Antequera (Málaga) es uno de los paisajes kársticos más espectaculares de Europa, esculpido por la erosión durante millones de años.",
+    "Las Hoces del Río Duratón (Segovia) forman un cañón de más de 20 km y refugian una de las mayores colonias de buitre leonado de España.",
+    "El Camino Primitivo, que sale de Oviedo, está considerado el itinerario más antiguo del Camino de Santiago.",
+    "Mérida conserva el teatro romano mejor conservado de España, todavía en uso para representaciones cada verano.",
+    "El Bosque de Muniellos (Asturias) es una de las masas de robles autóctonos mejor conservadas de Europa, con acceso limitado para protegerlo.",
+    "En Sanlúcar de Barrameda (Cádiz) se celebran carreras de caballos sobre la arena de la playa desde el siglo XIX.",
+    "Según la tradición, el Monasterio de Santo Toribio de Liébana (Cantabria) guarda el mayor fragmento conocido de la Cruz de Cristo.",
+    "El puente de Alcántara, sobre el río Tajo en Cáceres, lleva en pie casi 2.000 años y sigue soportando tráfico.",
+    "El Hierro fue, durante siglos, el punto más occidental conocido de Europa y se usó como meridiano cero antes de Greenwich.",
+    "Vejer de la Frontera (Cádiz) fue durante siglos un pueblo donde las mujeres salían a la calle cubiertas por completo con un manto negro.",
+    "La Ruta del Cares, entre Asturias y León, discurre por una garganta excavada a mano por los canteros en el siglo XX.",
+    "El Caminito del Rey (Málaga) pasó de ser considerado la ruta más peligrosa del mundo a una de las más seguras tras su reforma."
+  ];
+
+  /* ---------- Efemérides: "un día como hoy" ----------
+     Hechos reales con fecha exacta (día y mes), relacionados con viajes,
+     naturaleza y patrimonio de España. Si hoy coincide con alguna, sustituye
+     a una de las curiosidades del pool general. Todas verificadas.
+  ------------------------------------------------------------------- */
+  var EFEMERIDES = [
+    { m: 1, d: 11, y: 1999, text: "Un día como hoy de 1999 se declaraba el Parque Nacional de Sierra Nevada." },
+    { m: 1, d: 22, y: 1954, text: "Un día como hoy de 1954 se creaba el Parque Nacional del Teide, en Tenerife." },
+    { m: 3, d: 2, y: 2007, text: "Un día como hoy de 2007 se declaraba el Parque Nacional de Monfragüe, en Cáceres." },
+    { m: 3, d: 19, y: 1882, text: "Un día como hoy de 1882 se colocaba la primera piedra de la Sagrada Familia de Barcelona." },
+    { m: 3, d: 25, y: 1981, text: "Un día como hoy de 1981 se declaraba el Parque Nacional de Garajonay, en La Gomera." },
+    { m: 3, d: 28, y: 2015, text: "Un día como hoy de 2015 reabría el Caminito del Rey (Málaga) tras su reforma." },
+    { m: 4, d: 18, y: 2013, text: "Un día como hoy de 2013 se ampliaba la Reserva de la Biosfera de Doñana hasta casi 270.000 hectáreas." },
+    { m: 5, d: 9, y: 1984, text: "Un día como hoy de 1984 la Mezquita-Catedral de Córdoba era declarada Patrimonio de la Humanidad." },
+    { m: 6, d: 25, y: 2013, text: "Un día como hoy de 2013 se declaraba el Parque Nacional de la Sierra de Guadarrama." },
+    { m: 7, d: 1, y: 2002, text: "Un día como hoy de 2002 se declaraba el Parque Nacional de las Islas Atlánticas de Galicia." },
+    { m: 7, d: 1, y: 2021, text: "Un día como hoy de 2021 se declaraba el Parque Nacional de la Sierra de las Nieves, en Málaga." },
+    { m: 7, d: 22, y: 1918, text: "Un día como hoy de 1918 nacía Covadonga, el primer parque nacional de España." },
+    { m: 7, d: 23, y: 2003, text: "Un día como hoy de 2003 los conjuntos renacentistas de Úbeda y Baeza eran declarados Patrimonio de la Humanidad." },
+    { m: 8, d: 8, y: 1879, text: "Un día como hoy de 1879 Marcelino Sanz de Sautuola daba a conocer las pinturas de la cueva de Altamira." },
+    { m: 8, d: 9, y: 1974, text: "Un día como hoy de 1974 se creaba el Parque Nacional de Timanfaya, en Lanzarote." },
+    { m: 8, d: 16, y: 1918, text: "Un día como hoy de 1918 se creaba el Parque Nacional de Ordesa, en el Pirineo aragonés." },
+    { m: 9, d: 6, y: 1522, text: "Un día como hoy de 1522 Juan Sebastián Elcano llegaba a Sanlúcar de Barrameda, completando la primera vuelta al mundo." },
+    { m: 9, d: 20, y: 1519, text: "Un día como hoy de 1519 la expedición de Magallanes y Elcano zarpaba de Sanlúcar de Barrameda hacia lo desconocido." },
+    { m: 10, d: 12, y: 1492, text: "Un día como hoy de 1492 la expedición de Cristóbal Colón avistaba tierra en América." },
+    { m: 10, d: 16, y: 1969, text: "Un día como hoy de 1969 se declaraba el Parque Nacional de Doñana." },
+    { m: 10, d: 18, y: 1997, text: "Un día como hoy de 1997 abría sus puertas el Museo Guggenheim Bilbao." },
+    { m: 10, d: 21, y: 1955, text: "Un día como hoy de 1955 se creaba el Parque Nacional de Aigüestortes i Estany de Sant Maurici, en el Pirineo catalán." },
+    { m: 10, d: 23, y: 1987, text: "Un día como hoy de 1987 el Camino de Santiago era declarado primer Itinerario Cultural Europeo." },
+    { m: 11, d: 2, y: 1984, text: "Un día como hoy de 1984 la Alhambra y el Generalife de Granada eran declarados Patrimonio de la Humanidad." },
+    { m: 11, d: 20, y: 1995, text: "Un día como hoy de 1995 se declaraba el Parque Nacional de Cabañeros, en Castilla-La Mancha." },
+    { m: 11, d: 26, y: 1986, text: "Un día como hoy de 1986 Toledo era declarada ciudad Patrimonio de la Humanidad." },
+    { m: 12, d: 4, y: 1985, text: "Un día como hoy de 1985 la ciudad vieja de Santiago de Compostela era declarada Patrimonio de la Humanidad." },
+    { m: 12, d: 6, y: 1985, text: "Un día como hoy de 1985 Segovia y Ávila eran declaradas Patrimonio de la Humanidad." },
+    { m: 12, d: 6, y: 1996, text: "Un día como hoy de 1996 Cuenca era declarada ciudad Patrimonio de la Humanidad." }
   ];
 
   var bar = document.querySelector("[data-curiosbar]");
@@ -84,12 +155,27 @@
       var m = new Date(); m.setHours(0, 0, 0, 0);
       return Math.round(m.getTime() / 86400000);
     }
+    // Si hoy coincide con alguna efeméride real, la elegimos (determinista si
+    // hubiera varias el mismo día) para dejar hueco a las curiosidades del pool.
+    function todayEfemeride() {
+      var now = new Date();
+      var mm = now.getMonth() + 1, dd = now.getDate();
+      var matches = [];
+      for (var i = 0; i < EFEMERIDES.length; i++) {
+        if (EFEMERIDES[i].m === mm && EFEMERIDES[i].d === dd) matches.push(EFEMERIDES[i]);
+      }
+      if (!matches.length) return null;
+      return matches[localDay() % matches.length];
+    }
     // Trío del día (determinista a partir de la fecha).
     function pickToday() {
       var day = localDay(), arr = [];
-      for (var k = 0; k < Math.min(3, pool.length); k++) {
+      var efem = todayEfemeride();
+      var need = efem ? 2 : 3;
+      for (var k = 0; k < Math.min(need, pool.length); k++) {
         arr.push(pool[((day * 3 + k) % pool.length + pool.length) % pool.length]);
       }
+      if (efem) arr.unshift(efem.text);
       return arr;
     }
 
