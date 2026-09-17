@@ -450,7 +450,10 @@ p { margin: 0 0 1em; }
 .article__callout--warning { background: #e8871e; color: #fff; }
 .article__callout--warning a { color: #fff; text-decoration: underline; }
 .article__callout--booking { background: var(--paper-2); border: 1px solid var(--line); }
-.article__callout--booking a.btn { margin-top: .4em; }
+.article__callout--booking a.btn {
+  margin-top: .4em; --btn-bg: var(--gold); --btn-fg: var(--night); border-color: var(--gold);
+}
+.article__callout--booking a.btn:hover { background: var(--gold-bright); border-color: var(--gold-bright); }
 .article__body pre {
   background: var(--night); color: #eef; border-radius: 10px;
   padding: 16px 18px; overflow-x: auto; font-size: .9rem; margin: 1.4em 0;

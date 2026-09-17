@@ -1,33 +1,27 @@
 ---
 title: 'Holafly: la eSIM que uso para tener internet en cada viaje'
-date: 2026-09-17T09:00:00.000+02:00
-excerpt: 'Qué es la eSIM de Holafly, cómo funciona y cómo activar tus datos ilimitados en más de 190 países con un 5% de descuento.'
+date: 2020-01-01T09:00:00.000Z
+excerpt: 'Datos ilimitados en más de 190 países sin roaming ni SIM física: por qué Holafly es la eSIM que recomiendo para viajar, con 5% de descuento.'
 cover: /assets/descuentos/holafly.webp
 tags:
   - Descuentos
 ---
-Una de las preguntas que más me hacéis es cómo consigo tener internet nada más aterrizar, sin buscar una tienda de móviles ni pelearme con una SIM física. La respuesta es Holafly, la eSIM que llevo usando en mis últimos viajes.
+Si hay algo que me quita de la cabeza en cada viaje es la conexión: no quiero perder tiempo buscando una tienda de móviles al llegar, ni pagar un roaming disparatado, ni depender del wifi del hotel. Por eso, para mí, la mejor solución que existe ahora mismo es Holafly.
 
-## Qué es una eSIM y por qué usarla al viajar
+## Datos ilimitados de verdad, sin líos
 
-Una eSIM es una tarjeta SIM virtual: no ocupa la bandeja física del móvil, se instala escaneando un código QR o desde la propia app, y no hace falta tocar tu SIM habitual para nada. Holafly es una compañía española especializada en eSIM para viajeros, con datos ilimitados en más de 190 países y sin contratos ni permanencia.
+Holafly es una eSIM (una tarjeta SIM virtual, sin necesidad de bandeja física) con **datos ilimitados** en más de 190 países. Ilimitados de verdad: no compras un paquete de gigas que se te puede acabar a mitad de viaje, pagas por días y navegas todo lo que necesites durante ese tiempo, sin sustos ni facturas sorpresa al volver a casa.
 
-## Cómo funciona en la práctica
+## La opción más cómoda para viajar
 
-El proceso es siempre el mismo: compras el plan del país o región que necesitas, la instalas en 2 o 3 minutos antes de salir de casa (o incluso ya en el aeropuerto) y, al aterrizar, activas los datos. No hay que esperar a encontrar cobertura local ni pagar el roaming de tu operador habitual, porque tu SIM física se queda tal cual, solo usas la eSIM para internet.
+No hace falta tocar tu SIM habitual para nada: la instalas en 2-3 minutos escaneando un código QR, incluso antes de salir de casa, y en cuanto aterrizas ya tienes internet funcionando. Sin contratos, sin permanencia y sin depender de encontrar una tienda local o de que tu operador tenga buena cobertura en el país de destino.
 
-## Datos ilimitados, con matices
+## Planes por país o por regiones enteras
 
-Los planes son de datos ilimitados, sin límite duro de consumo, aunque en algunos destinos concretos los operadores locales pueden reducir la velocidad si se supera un uso muy por encima de lo habitual. En la mayoría de países puedes compartir esos datos con otro dispositivo (por ejemplo, creando un punto de acceso wifi), aunque en algunos mercados como Estados Unidos o Japón esa opción no está disponible.
+Tiene planes para prácticamente cualquier destino y también planes regionales que cubren varios países con una sola eSIM (toda Europa, por ejemplo), así que si tu ruta cruza fronteras no tienes que preocuparte de nada a mitad de viaje.
 
-## Planes por país y planes regionales
+<div class="article__callout article__callout--booking">📱 Usa el código <strong>CHENOAVENTURAS</strong> y llévate un 5% de descuento en tu eSIM de datos ilimitados: <a class="btn" href="https://holafly.sjv.io/c/7089963/2006335/24764" target="_blank" rel="noopener sponsored">Ir a Holafly</a></div>
 
-Además de los planes de un solo país, Holafly tiene planes regionales que cubren varios países con una sola eSIM (por ejemplo, toda Europa), muy útiles si tu viaje incluye más de un destino y no quieres ir cambiando de plan cada vez que cruzas una frontera.
-
-<div class="article__callout article__callout--booking">📱 Usa el código <strong>CHENOAVENTURAS</strong> para conseguir un 5% de descuento en tu eSIM: <a class="btn" href="https://holafly.sjv.io/c/7089963/2006335/24764" target="_blank" rel="noopener sponsored">Ir a Holafly</a></div>
-
-## Mi consejo antes de tu próximo viaje
-
-Instala la eSIM unos días antes de viajar (no hace falta esperar a estar en destino) para comprobar que todo está activado correctamente, y guarda igualmente tu SIM física por si la necesitas como respaldo. Así llegas con internet funcionando desde el mismo aeropuerto, sin depender del wifi del hotel ni de buscar una tienda para comprar una SIM local.
+Es, sin duda, la opción que más tranquilidad me da antes de subirme a un avión, y la que recomiendo siempre que alguien me pregunta cómo me conecto en cada destino.
 
 ¿Ya has probado a viajar con eSIM? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más trucos de viaje, y échale un vistazo al resto del blog para tu próxima escapada.
