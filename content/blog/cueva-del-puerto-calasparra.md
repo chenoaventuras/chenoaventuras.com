@@ -1,6 +1,6 @@
 ---
 title: 'Cueva del Puerto: la única en Europa con dos salas luminiscentes'
-date: 2026-09-16T13:30:00.000+02:00
+date: 2025-10-12T09:41:10.000Z
 excerpt: 'La Cueva del Puerto, en Calasparra, es la única cueva de Europa con dos salas de minerales luminiscentes. Qué ver, precio y cómo visitarla.'
 cover: /assets/img/instagram/17975666267783470.webp
 tags:
@@ -31,5 +31,7 @@ Conviene ir con calzado cerrado y ropa cómoda; si te apuntas a la modalidad de 
 ## Cómo llegar
 
 La Cueva del Puerto se encuentra a solo 9 kilómetros de Calasparra, en la Región de Murcia. La ubicación exacta se facilita tras hacer la reserva. Puedes consultar la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Cueva%20del%20Puerto%2C%20Calasparra%2C%20Murcia).
+
+<div class="article__callout article__callout--booking">🎟️ Reserva la visita a la Cueva del Puerto con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/Tx0uxnsS" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
 
 ¿Te animarías a explorar la Cueva del Puerto? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

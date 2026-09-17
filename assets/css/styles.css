@@ -398,6 +398,8 @@ p { margin: 0 0 1em; }
 .article__meta { font-size: .95rem; color: rgba(255,255,255,.8); margin-bottom: 10px; }
 .article__meta a { color: var(--gold-soft); text-decoration: none; }
 .article__meta a:hover { text-decoration: underline; }
+.article__meta--nav { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.article__next { white-space: nowrap; }
 .article__tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
 .tagchip {
   display: inline-block; font-family: var(--font-head); text-transform: uppercase;
@@ -440,6 +442,15 @@ p { margin: 0 0 1em; }
   border-left: 3px solid var(--gold); color: var(--ink-soft); font-style: italic;
 }
 .article__body hr { border: 0; border-top: 1px solid var(--line); margin: 2.4em 0; }
+.article__callout {
+  margin: 1.8em 0; padding: 1em 1.2em; border-radius: var(--radius);
+  font-size: .98rem; line-height: 1.55;
+}
+.article__callout p:last-child { margin-bottom: 0; }
+.article__callout--warning { background: #e8871e; color: #fff; }
+.article__callout--warning a { color: #fff; text-decoration: underline; }
+.article__callout--booking { background: var(--paper-2); border: 1px solid var(--line); }
+.article__callout--booking a.btn { margin-top: .4em; }
 .article__body pre {
   background: var(--night); color: #eef; border-radius: 10px;
   padding: 16px 18px; overflow-x: auto; font-size: .9rem; margin: 1.4em 0;
@@ -1169,6 +1180,13 @@ p { margin: 0 0 1em; }
   padding: 70px 20px; text-align: center; background: #fff; border-radius: var(--radius);
 }
 .ig-modal__loading a { color: var(--ink-soft); font-size: .9rem; text-decoration: none; }
+
+/* variante del modal para el mapa embebido (más ancha, formato horizontal) */
+.map-modal .ig-modal__box { max-width: 900px; width: 100%; }
+.map-modal__frame {
+  width: 100%; height: min(75vh, 620px); border: 0; border-radius: var(--radius);
+  background: #fff;
+}
 
 /* =========================================================================
    AVISO DE COOKIES

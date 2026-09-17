@@ -1,10 +1,10 @@
 ---
 title: 'Fuente de los Baños de Montanejos: aguas termales a 25°C todo el año'
-date: 2026-09-16T14:30:00.000+02:00
+date: 2025-07-21T08:45:52.000Z
 excerpt: 'La Fuente de los Baños de Montanejos mantiene sus aguas termales a 25°C constantes durante todo el año. Precio, horario y consejos para la visita.'
 cover: /assets/img/instagram/18070045547016448.webp
 tags:
-  - Actividades
+  - Spots
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/reel/DMXRT6iIYC6/'
 ---

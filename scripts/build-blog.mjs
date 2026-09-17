@@ -20,7 +20,7 @@ const SITE = "https://www.chenoaventuras.com";
 const CONTENT_DIR = join(ROOT, "content", "blog");
 const OUT_DIR = join(ROOT, "blog");
 const OG_DEFAULT = SITE + "/assets/img/og-default.jpg";
-const TAG_TYPES = ["Curiosidades", "Actividades", "Pueblos"]; // el resto de tags de un post son comunidades autónomas
+const TAG_TYPES = ["Curiosidades", "Actividades", "Pueblos", "Spots"]; // el resto de tags de un post son comunidades autónomas
 
 // color de cada etiqueta del blog: un tono distinto por tag, sin repetir nunca
 // entre las etiquetas que de verdad están en uso (se reparten por el círculo de
@@ -50,10 +50,28 @@ function relLuminance([r, g, b]) {
 const toHex = ([r, g, b]) => "#" + [r, g, b].map((v) => v.toString(16).padStart(2, "0")).join("");
 const HUE_START = 205; // arranca en el azul de la marca
 const GOLDEN_ANGLE = 137.508; // reparte los tonos lo más lejos posible entre sí
+// colores fijos pedidos a mano para etiquetas concretas (el resto sigue siendo automático).
+const TAG_COLOR_OVERRIDES = { "La Rioja": { bg: "#7b2d3e", fg: "#ffffff", hue: 347 } };
+function hueDistance(a, b) {
+  const d = Math.abs(a - b) % 360;
+  return Math.min(d, 360 - d);
+}
 function buildTagColorMap(orderedTags) {
   const map = new Map();
-  orderedTags.forEach((tag, i) => {
-    const rgb = hslToRgb(HUE_START + i * GOLDEN_ANGLE, 0.55, 0.4);
+  const overrideHues = Object.values(TAG_COLOR_OVERRIDES).map((c) => c.hue);
+  let step = 0;
+  orderedTags.forEach((tag) => {
+    if (TAG_COLOR_OVERRIDES[tag]) {
+      map.set(tag, TAG_COLOR_OVERRIDES[tag]);
+      return;
+    }
+    let hue = (HUE_START + step * GOLDEN_ANGLE) % 360;
+    while (overrideHues.some((h) => hueDistance(hue, h) < 20)) {
+      step++;
+      hue = (HUE_START + step * GOLDEN_ANGLE) % 360;
+    }
+    step++;
+    const rgb = hslToRgb(hue, 0.55, 0.4);
     map.set(tag, { bg: toHex(rgb), fg: relLuminance(rgb) > 0.42 ? "#23231f" : "#ffffff" });
   });
   return map;
@@ -195,25 +213,41 @@ function readPosts() {
 }
 
 /* ---------- página de artículo ---------- */
-function renderPost(p, tagColorMap) {
+function renderPost(p, tagColorMap, nextPost) {
   const coverAbs = p.cover ? (p.cover.startsWith("http") ? p.cover : SITE + p.cover) : "";
+  const regionTag = p.tags.find((t) => !TAG_TYPES.includes(t));
   const jsonld = JSON.stringify(
     {
       "@context": "https://schema.org",
-      "@type": "BlogPosting",
-      headline: p.title,
-      description: p.excerpt,
-      datePublished: p.date.toISOString(),
-      dateModified: p.date.toISOString(),
-      image: coverAbs || OG_DEFAULT,
-      url: p.url,
-      mainEntityOfPage: p.url,
-      author: { "@type": "Person", name: "Cheno", url: SITE + "/contacto.html" },
-      publisher: {
-        "@type": "Person",
-        name: "Chenoaventuras",
-        logo: { "@type": "ImageObject", url: SITE + "/assets/img/favicon-512.png" },
-      },
+      "@graph": [
+        {
+          "@type": "BlogPosting",
+          headline: p.title,
+          description: p.excerpt,
+          datePublished: p.date.toISOString(),
+          dateModified: p.date.toISOString(),
+          image: coverAbs || OG_DEFAULT,
+          url: p.url,
+          mainEntityOfPage: p.url,
+          inLanguage: "es",
+          keywords: p.tags.join(", "),
+          ...(regionTag ? { about: { "@type": "Place", name: regionTag } } : {}),
+          author: { "@type": "Person", name: "Cheno", url: SITE + "/contacto.html" },
+          publisher: {
+            "@type": "Person",
+            name: "Chenoaventuras",
+            logo: { "@type": "ImageObject", url: SITE + "/assets/img/favicon-512.png" },
+          },
+        },
+        {
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            { "@type": "ListItem", position: 1, name: "Inicio", item: SITE + "/index.html" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: SITE + "/blog.html" },
+            { "@type": "ListItem", position: 3, name: p.title, item: p.url },
+          ],
+        },
+      ],
     },
     null,
     2
@@ -236,7 +270,10 @@ function renderPost(p, tagColorMap) {
       <section class="pagehead pagehead--blog torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
         ${heroMedia}
         <div class="pagehead__inner container">
-          <p class="article__meta"><a href="/blog.html">&larr; Blog</a></p>
+          <p class="article__meta article__meta--nav">
+            <a href="/blog.html">&larr; Blog</a>
+            ${nextPost ? `<a href="/blog/${nextPost.slug}.html" class="article__next" title="${esc(nextPost.title)}">Siguiente &rarr;</a>` : ""}
+          </p>
           <h1>${esc(p.title)}</h1>
           ${tagsHtml}
         </div>
@@ -381,8 +418,10 @@ const tagColorMap = buildTagColorMap(orderedTags);
 
 rmSync(OUT_DIR, { recursive: true, force: true });
 mkdirSync(OUT_DIR, { recursive: true });
-for (const p of posts) {
-  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap));
+for (let i = 0; i < posts.length; i++) {
+  const p = posts[i];
+  const nextPost = posts[i + 1] || null;
+  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap, nextPost));
 }
 writeFileSync(join(ROOT, "blog.html"), renderIndex(posts));
 writeFileSync(join(ROOT, "sitemap.xml"), renderSitemap(posts));

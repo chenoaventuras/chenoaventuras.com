@@ -1,6 +1,6 @@
 ---
 title: 'Puerto de la Puebla: la ruta en coche que conecta tres pueblos con encanto de Madrid'
-date: 2026-09-16T11:50:00.000+02:00
+date: 2026-02-10T20:04:43.000Z
 excerpt: 'El Puerto de la Puebla conecta Montejo de la Sierra, Prádena del Rincón y La Puebla de la Sierra, en la Sierra del Rincón. Qué ver en cada uno de ellos.'
 cover: /assets/img/instagram/17960555744905872.webp
 tags:

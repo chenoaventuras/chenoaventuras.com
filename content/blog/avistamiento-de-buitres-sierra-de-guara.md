@@ -1,6 +1,6 @@
 ---
 title: 'Avistamiento de buitres en la Sierra de Guara: la única actividad de su tipo en España'
-date: 2026-09-16T15:00:00.000+02:00
+date: 2025-06-26T19:12:46.000Z
 excerpt: 'En Santa Cilia de Panzano, Sierra de Guara, se puede observar en libertad a buitres leonados y quebrantahuesos. La única actividad de este tipo en España.'
 cover: /assets/img/instagram/18167547529344269.webp
 tags:
@@ -37,3 +37,5 @@ Conviene llevar prismáticos, cámara y el móvil bien cargado, además de ropa 
 La actividad se realiza en Santa Cilia de Panzano, dentro de la Sierra de Guara, en Huesca. Puedes consultar la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Cilia%20de%20Panzano%2C%20Sierra%20de%20Guara%2C%20Huesca).
 
 ¿Te animarías a ver buitres en libertad en la Sierra de Guara? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de naturaleza por España, y échale un vistazo al resto del blog para tu próxima escapada.
+
+<div class="article__callout article__callout--warning">⚠️ <strong>Aviso:</strong> actualmente esta actividad está paralizada. Antes de organizar tu visita, confirma la disponibilidad directamente con la asociación Fondo Amigos del Buitre.</div>

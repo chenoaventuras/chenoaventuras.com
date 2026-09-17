@@ -1,6 +1,6 @@
 ---
 title: 'Cómo volar un dron de forma legal en España sin arriesgarte a una multa'
-date: 2026-09-16T11:10:00.000+02:00
+date: 2026-03-30T18:30:28.000Z
 excerpt: 'Registro en AESA, la app ENAIRE Drones, altura máxima, aviso de vuelo urbano y seguro: la normativa básica para volar tu dron de forma legal en España.'
 cover: /assets/img/instagram/17937287667194022.webp
 tags:
@@ -42,5 +42,7 @@ Para uso recreativo con drones de menos de 250 gramos, ni el seguro ni una titul
 ## Cuánto puede costar no cumplir la normativa
 
 Las multas por no cumplir con esta normativa pueden ir desde los 50€ hasta los 250.000€, dependiendo de la gravedad de la infracción. Cumplir estos puntos básicos te permite volar tranquilo, sin sorpresas si te encuentras con un control de la Guardia Civil o la Policía mientras estás en pleno vuelo.
+
+<div class="article__callout article__callout--booking">📩 Si quieres la guía completa, comenta "Quiero info" <a href="https://www.instagram.com/reel/DWhMemtDLew/" target="_blank" rel="noopener" class="ig-external">aquí</a>.</div>
 
 ¿Tenías claros todos estos puntos antes de volar tu dron? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más consejos de viaje y aventura, y échale un vistazo al resto del blog para seguir aprendiendo antes de tu próxima escapada.

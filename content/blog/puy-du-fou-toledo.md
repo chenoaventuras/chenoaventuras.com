@@ -1,6 +1,6 @@
 ---
 title: 'Puy du Fou España: el parque temático donde la historia cobra vida'
-date: 2026-09-16T14:00:00.000+02:00
+date: 2025-07-31T10:57:12.000Z
 excerpt: 'Puy du Fou España, en Toledo, combina espectáculos históricos a otro nivel con un show nocturno de luces y sonido. Precio, duración y consejos.'
 cover: /assets/img/instagram/18066740699149373.webp
 tags:
@@ -35,5 +35,7 @@ El recinto cuenta con caminos adaptados y zonas pensadas para disfrutar sin pris
 ## Cómo llegar
 
 Puy du Fou España se encuentra en la provincia de Toledo. Puedes consultar la ubicación exacta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puy%20du%20Fou%20Espa%C3%B1a%2C%20Toledo).
+
+<div class="article__callout article__callout--booking">🎟️ Reserva tu entrada a Puy du Fou con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/ToMr62Gb" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
 
 ¿Conocías Puy du Fou España? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes por España, y échale un vistazo al resto del blog para tu próxima escapada.

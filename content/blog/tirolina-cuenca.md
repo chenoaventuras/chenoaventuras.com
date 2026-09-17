@@ -1,6 +1,6 @@
 ---
 title: 'La tirolina de Cuenca: volar sobre la Hoz del Huécar'
-date: 2026-09-16T12:50:00.000+02:00
+date: 2025-10-28T21:00:13.000Z
 excerpt: 'La tirolina urbana de Cuenca cruza la Hoz del Huécar con las Casas Colgadas de fondo. Precio, duración y cómo reservar esta actividad de aventura.'
 cover: /assets/img/instagram/17853104562523022.webp
 tags:
@@ -31,5 +31,7 @@ Aprovechando la visita, merece la pena recorrer las **Casas Colgadas**, el Puent
 ## Cómo llegar
 
 La tirolina se encuentra en el entorno del Puente de San Pablo, en pleno casco histórico de Cuenca. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puente%20de%20San%20Pablo%2C%20Cuenca).
+
+<div class="article__callout article__callout--booking">🎟️ Reserva la tirolina de Cuenca en Civitatis: <a class="btn" href="https://www.civitatis.com/es/cuenca/tirolina-cuenca/?aid=110968" target="_blank" rel="noopener">Reservar en Civitatis</a></div>
 
 ¿Te animarías a volar en tirolina sobre la Hoz del Huécar? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

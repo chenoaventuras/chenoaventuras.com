@@ -1,10 +1,10 @@
 ---
 title: 'Charco Verde y el tobogán natural del Río Pelayo: pozas secretas en Gredos'
-date: 2026-09-16T10:00:00.000+02:00
+date: 2026-07-09T19:02:36.000Z
 excerpt: 'Charco Verde y el tobogán natural del Río Pelayo, en Arenas de San Pedro (Ávila): cómo llegar, cuándo ir y qué tener en cuenta para bañarte en estas pozas naturales de Gredos.'
 cover: /assets/img/instagram/17975621367111494.webp
 tags:
-  - Actividades
+  - Spots
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DalUcTPxSOE/'
 ---

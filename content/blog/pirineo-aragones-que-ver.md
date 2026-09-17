@@ -1,6 +1,6 @@
 ---
 title: 'Escapada por el Pirineo Aragonés: 21 lugares imprescindibles'
-date: 2026-09-13T09:00:00.000+02:00
+date: 2026-08-06T17:29:16.000Z
 excerpt: 'Guía de escapada por el Pirineo Aragonés: miradores, pueblos, cascadas, patrimonio y actividades de aventura, con cómo llegar y cuándo ir.'
 cover: /assets/img/instagram/17918762373419557.webp
 tags:
@@ -56,7 +56,7 @@ Si el senderismo se te queda corto, en la zona hay varias actividades de aventur
 - **[Vía Ferrata del Sorrosal](https://gyg.me/yTLuLVWW)**: una ascensión única literalmente pegada a la cascada del Sorrosal, con el agua cayendo a un lado mientras subes.
 - **Balneario de Panticosa**: si prefieres relajarte después de tanta ruta, este balneario está en un entorno rodeado de montañas que compensa cualquier agujeta.
 
-Para el barranco y la vía ferrata puedes reservar plaza directamente en los enlaces de arriba.
+Para el barranco y la vía ferrata puedes reservar plaza directamente en los enlaces de arriba, usando el código de descuento **CHENOAVENTURAS5**.
 
 ## Cómo llegar y organizar la ruta
 

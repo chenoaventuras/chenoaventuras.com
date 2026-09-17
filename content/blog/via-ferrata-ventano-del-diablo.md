@@ -1,6 +1,6 @@
 ---
 title: 'Vía Ferrata del Ventano del Diablo: adrenalina sobre la Hoz del Júcar'
-date: 2026-09-16T12:40:00.000+02:00
+date: 2025-11-02T20:31:17.000Z
 excerpt: 'La Vía Ferrata del Ventano del Diablo, en Cuenca, discurre sobre la Hoz del Júcar con puentes colgantes y pasos aéreos. Nivel, duración y cómo reservar.'
 cover: /assets/img/instagram/18046706486419072.webp
 tags:

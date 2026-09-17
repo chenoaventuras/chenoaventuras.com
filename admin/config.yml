@@ -48,7 +48,7 @@ collections:
           label: 'Etiquetas (para el filtro del blog)',
           widget: list,
           required: false,
-          hint: 'Ej: "Curiosidades" o "Actividades" si aplica, más la comunidad autónoma si el post tiene un lugar concreto (p. ej. "Comunidad Valenciana", "Región de Murcia").',
+          hint: 'Tipo: "Curiosidades", "Actividades" (algo que se hace/reserva), "Pueblos" (guía de un pueblo) o "Spots" (mirador, cascada, cueva... algo que se ve). Añade también la comunidad autónoma si el post tiene un lugar concreto (p. ej. "Comunidad Valenciana", "Región de Murcia").',
         }
       - {
           name: draft,

@@ -306,6 +306,69 @@
     }
   }
 
+  /* ---------- Enlaces dentro de los posts del blog ----------
+     Los reels/publicaciones de Instagram se abren con el mismo modal que
+     usa la sección de Aventuras (sin salir de la web), y los de Google Maps
+     con un mapa embebido en un modal equivalente. Un enlace con la clase
+     "ig-external" (p. ej. el CTA del post del dron) se libra del modal y
+     abre Instagram de verdad, tal y como se pide en ese caso concreto.
+  ------------------------------------------------------------------- */
+  var mapModal, mapModalBox;
+  function ensureMapModal() {
+    if (mapModal) return;
+    mapModal = document.createElement("div");
+    mapModal.className = "ig-modal map-modal";
+    mapModal.hidden = true;
+    mapModal.innerHTML =
+      '<button type="button" class="ig-modal__close" aria-label="Cerrar">&times;</button>' +
+      '<div class="ig-modal__box"></div>';
+    document.body.appendChild(mapModal);
+    mapModalBox = mapModal.querySelector(".ig-modal__box");
+    mapModal.addEventListener("click", function (ev) {
+      if (ev.target === mapModal) closeMapModal();
+    });
+    mapModal.querySelector(".ig-modal__close").addEventListener("click", closeMapModal);
+    document.addEventListener("keydown", function (ev) {
+      if (ev.key === "Escape" && mapModal && !mapModal.hidden) closeMapModal();
+    });
+  }
+  function closeMapModal() {
+    if (!mapModal) return;
+    mapModal.hidden = true;
+    mapModalBox.innerHTML = "";
+    document.body.style.overflow = "";
+  }
+  function openMapModal(mapsUrl) {
+    ensureMapModal();
+    mapModal.hidden = false;
+    document.body.style.overflow = "hidden";
+    var query = "";
+    try { query = new URL(mapsUrl).searchParams.get("query") || ""; } catch (e) { /* URL no válida, sin query */ }
+    var embedSrc = "https://www.google.com/maps?q=" + encodeURIComponent(query) + "&output=embed";
+    mapModalBox.innerHTML =
+      '<iframe src="' + embedSrc + '" class="map-modal__frame" loading="lazy" ' +
+      'referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>';
+  }
+
+  var articleLinks = document.querySelectorAll(".article__body a[href]");
+  for (var al = 0; al < articleLinks.length; al++) {
+    (function (a) {
+      var href = a.getAttribute("href") || "";
+      if (a.classList.contains("ig-external")) return;
+      if (/instagram\.com\/(reel|p)\//.test(href)) {
+        a.addEventListener("click", function (ev) {
+          ev.preventDefault();
+          openIgModal(href);
+        });
+      } else if (/google\.[a-z.]+\/maps/.test(href)) {
+        a.addEventListener("click", function (ev) {
+          ev.preventDefault();
+          openMapModal(href);
+        });
+      }
+    })(articleLinks[al]);
+  }
+
   var igWraps = document.querySelectorAll("[data-ig-posts]");
   if (igWraps.length && window.fetch) {
     function igCard(p, firstLineOnly) {

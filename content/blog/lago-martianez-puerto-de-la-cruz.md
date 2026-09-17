@@ -1,6 +1,6 @@
 ---
 title: 'Lago Martiánez: las piscinas de César Manrique frente al Atlántico'
-date: 2026-09-16T16:10:00.000+02:00
+date: 2025-02-23T19:49:25.000Z
 excerpt: 'Lago Martiánez, en Puerto de la Cruz, es un complejo de piscinas de agua salada diseñado por César Manrique. Zonas, tarifas y horario de visita.'
 cover: /assets/img/instagram/17940651440967325.webp
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Cuzcurrita de Río Tirón: qué ver en este pueblo con encanto de La Rioja Alta'
-date: 2026-09-16T09:10:00.000+02:00
+date: 2026-05-03T17:30:00.000Z
 excerpt: 'Qué ver en Cuzcurrita de Río Tirón: el castillo de los Velasco convertido en bodega, el puente medieval, el Mirador del Bolo y las ermitas de este pueblo mágico de La Rioja.'
 cover: /assets/img/instagram/17886987651509054.webp
 tags:

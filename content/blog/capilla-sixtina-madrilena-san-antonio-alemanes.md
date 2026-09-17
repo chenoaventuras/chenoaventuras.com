@@ -1,10 +1,10 @@
 ---
 title: 'La "Capilla Sixtina madrileña": la joya barroca oculta de San Antonio de los Alemanes'
-date: 2026-09-16T09:40:00.000+02:00
+date: 2026-02-14T08:28:41.000Z
 excerpt: 'La iglesia de San Antonio de los Alemanes, en Malasaña, está pintada por completo sin un solo espacio vacío. Por qué la llaman la "Capilla Sixtina madrileña".'
 cover: /assets/img/instagram/18083171645586039.webp
 tags:
-  - Actividades
+  - Spots
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DUu0s56jALL/'
 ---

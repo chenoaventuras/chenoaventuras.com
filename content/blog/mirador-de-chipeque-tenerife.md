@@ -1,10 +1,10 @@
 ---
 title: 'Mirador de Chipeque: uno de los secretos mejor guardados de Tenerife'
-date: 2026-09-16T16:00:00.000+02:00
+date: 2025-03-10T19:57:48.000Z
 excerpt: 'El Mirador de Chipeque, a más de 1.800 metros en Tenerife, ofrece vistas al Teide, mar de nubes y cielos estrellados. Cómo llegar y cuándo ir.'
 cover: /assets/img/instagram/18075135229685841.webp
 tags:
-  - Actividades
+  - Spots
   - Canarias
 igPermalink: 'https://www.instagram.com/reel/DHCAhKOoGQG/'
 ---

@@ -1,10 +1,10 @@
 ---
 title: 'Cascadas de Ouzoud: las cataratas más espectaculares de Marruecos'
-date: 2026-09-16T12:30:00.000+02:00
+date: 2025-12-06T15:40:26.000Z
 excerpt: 'Qué ver en las Cascadas de Ouzoud, en Marruecos: las cataratas más altas del país, sus pozas naturales, los monos de Berbería y cómo llegar desde Marrakech.'
 cover: /assets/img/instagram/18304298470250182.webp
 tags:
-  - Actividades
+  - Spots
 igPermalink: 'https://www.instagram.com/reel/DR7WTgNDCew/'
 ---
 En pleno Atlas Medio marroquí, a poco más de dos horas de Marrakech, el agua se despeña casi 100 metros entre paredes de roca ocre, creando uno de los paisajes más espectaculares de todo Marruecos. Son las Cascadas de Ouzoud, y si estás por la zona, merecen una excursión de un día entero.
@@ -30,5 +30,7 @@ Existen varios senderos que permiten bajar hasta la base de las cascadas y verla
 ## Cómo llegar
 
 Las Cascadas de Ouzoud se encuentran a poco más de 2 horas en coche desde Marrakech, y es habitual visitarlas como excursión de un día, ya sea por cuenta propia o con alguna de las muchas excursiones organizadas que salen a diario desde la ciudad. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Cascades%20d%27Ouzoud%2C%20Morocco).
+
+<div class="article__callout article__callout--booking">🎟️ Reserva la excursión a las Cascadas de Ouzoud desde Marrakech con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/zXUgQ2tr" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
 
 ¿Te gustaría conocer las Cascadas de Ouzoud? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Marruecos, y échale un vistazo al resto del blog para tu próxima aventura.

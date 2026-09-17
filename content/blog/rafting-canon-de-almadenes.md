@@ -1,6 +1,6 @@
 ---
 title: 'Rafting en el Cañón de Almadenes: descenso en barca por el río Segura'
-date: 2026-09-16T13:40:00.000+02:00
+date: 2025-09-29T18:14:58.000Z
 excerpt: 'El rafting turístico por el Cañón de Almadenes recorre paredes de 150 metros entre Cieza y Calasparra, con paradas en cuevas con pinturas rupestres.'
 cover: /assets/img/instagram/18079196165076381.webp
 tags:
@@ -31,5 +31,7 @@ La actividad completa dura en torno a **3 horas** y tiene una dificultad muy baj
 ## Cómo llegar
 
 El Cañón de Almadenes se encuentra entre los municipios de Cieza y Calasparra, en la Región de Murcia. Puedes consultar la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Ca%C3%B1%C3%B3n%20de%20Almadenes%2C%20Murcia).
+
+<div class="article__callout article__callout--booking">🎟️ Reserva el rafting por el Cañón de Almadenes con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/qnpedDrF" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
 
 ¿Te animarías a bajar el Cañón de Almadenes en barca? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

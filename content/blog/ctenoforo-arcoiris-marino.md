@@ -1,6 +1,6 @@
 ---
 title: "Ctenóforo: el arcoíris marino que no es medusa ni salpa"
-date: 2026-09-14T09:00:00.000+02:00
+date: 2026-09-13T18:31:16.000Z
 excerpt: "¿Medusa o salpa? Ni una cosa ni la otra: te cuento qué es un
   ctenóforo, por qué parece tener luces de colores y si puede picarte."
 cover: /assets/img/instagram/18136279216623894.webp

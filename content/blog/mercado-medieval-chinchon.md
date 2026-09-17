@@ -1,6 +1,6 @@
 ---
 title: 'Mercado Medieval de Chinchón: cuándo se celebra y qué encontrarás'
-date: 2026-09-16T11:40:00.000+02:00
+date: 2026-02-15T18:49:19.000Z
 excerpt: 'El Mercado Medieval de Chinchón convierte su Plaza Mayor en un viaje a la Edad Media: pasacalles, luchas medievales, artesanía y gastronomía. Cuándo se celebra.'
 cover: /assets/img/instagram/17844725496680012.webp
 tags:

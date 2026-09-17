@@ -1,6 +1,6 @@
 ---
 title: "Medusas en el Mediterráneo: ¿son realmente peligrosas?"
-date: 2026-09-12T00:30:00.000+02:00
+date: 2026-09-09T18:40:33.000Z
 excerpt: Te cuento por qué casi nunca las medusas del Mediterráneo son un
   peligro real, cuáles sí lo son y qué hacer si te pica una en la playa.
 cover: /assets/img/blog/uploads/medusas-mediterraneo.webp

@@ -1,6 +1,6 @@
 ---
 title: 'La máquina expendedora de leche recién ordeñada de Reinosa'
-date: 2026-09-16T11:20:00.000+02:00
+date: 2026-03-19T18:17:55.000Z
 excerpt: 'En Reinosa (Cantabria) hay un dispensador de leche recién ordeñada y pasteurizada, como si fuera una fuente de agua. Cómo funciona y cuánto cuesta.'
 cover: /assets/img/instagram/18096151186984775.webp
 tags:

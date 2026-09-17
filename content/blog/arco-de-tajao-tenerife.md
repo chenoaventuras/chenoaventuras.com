@@ -1,10 +1,10 @@
 ---
 title: 'Arco de Tajao: la formación rocosa más fotogénica del sur de Tenerife'
-date: 2026-09-16T15:50:00.000+02:00
+date: 2025-04-02T19:18:49.000Z
 excerpt: 'El Arco de Tajao, en el sur de Tenerife, es un arco volcánico de 30 metros tallado por la erosión. Cómo llegar y cuándo ir para las mejores fotos.'
 cover: /assets/img/instagram/18124723345426528.webp
 tags:
-  - Actividades
+  - Spots
   - Canarias
 igPermalink: 'https://www.instagram.com/reel/DH9KUHwokxB/'
 ---

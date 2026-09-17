@@ -1,6 +1,6 @@
 ---
 title: 'Ruta en quad por la Serranía de Cuenca: aventura entre pinares'
-date: 2026-09-16T13:20:00.000+02:00
+date: 2025-11-24T19:59:22.000Z
 excerpt: 'La ruta en quad por la Serranía de Cuenca combina pistas forestales, miradores naturales y desniveles entre pinares. Duración, precio y requisitos.'
 cover: /assets/img/instagram/18062737124552103.webp
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Chinchón de noche: el castillo que vigila la Plaza Mayor'
-date: 2026-09-16T13:00:00.000+02:00
+date: 2025-10-21T18:33:21.000Z
 excerpt: 'Chinchón de noche cambia por completo: la Plaza Mayor iluminada y el castillo de los Condes de Chinchón, cerrado al público, vigilando el pueblo desde lo alto.'
 cover: /assets/img/instagram/18154307548397718.webp
 tags:

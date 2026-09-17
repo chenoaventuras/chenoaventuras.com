@@ -1,6 +1,6 @@
 ---
 title: 'El secreto que esconde la puerta del baño del avión'
-date: 2026-09-16T10:30:00.000+02:00
+date: 2026-05-17T17:30:37.000Z
 excerpt: 'Aunque eches el pestillo, la tripulación puede abrir la puerta del baño del avión desde fuera. Por qué existe este mecanismo y para qué se usa realmente.'
 cover: /assets/img/instagram/18107652725482001.webp
 tags:

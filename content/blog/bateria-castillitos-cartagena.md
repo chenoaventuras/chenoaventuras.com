@@ -1,10 +1,10 @@
 ---
 title: 'Batería de Castillitos: qué ver en Cabo Tiñoso'
-date: 2026-09-12T09:00:00.000+02:00
+date: 2026-08-19T18:07:01.000Z
 excerpt: 'Guía de la Batería de Castillitos (Cartagena): su historia, los cañones Vickers, cómo llegar y consejos para la escapada.'
 cover: /assets/img/destinos/bateria-castillitos.webp
 tags:
-  - Actividades
+  - Spots
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DcOyoVXRSZy/'
 ---
