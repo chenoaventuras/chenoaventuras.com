@@ -278,6 +278,10 @@
 
     var PLAYER_X_BASE = 52, PLAYER_X_ENCIERRO = 92;   // más adelantado durante el encierro (Navarra)
     var player = { x: PLAYER_X_BASE, y: 0, w: 44, h: 60, vy: 0, onGround: true, frame: 0, frameT: 0 };
+    // toro del encierro: persigue detrás del senderista y salta los mismos
+    // obstáculos que él, un poco después (le llegan más tarde, al ir detrás).
+    var TORO_W = 46, TORO_H = 34, TORO_GAP = 26, TORO_LEAD = 35;
+    var toroVy = 0, toroYOff = 0, toroOnGround = true;
 
     var GRAV = 2650;      // px/s^2
     var JUMP_V = -800;    // px/s
@@ -676,21 +680,25 @@
       ctx.strokeStyle = "#5c4326"; ctx.lineWidth = 2;
       ctx.beginPath(); ctx.moveTo(o.x + o.w * 0.16, o.y + o.h * 0.28); ctx.lineTo(o.x + o.w * 0.84, o.y + o.h * 0.80); ctx.stroke();
     }
-    function drawToro(o) {                      // toro (encierro, Navarra)
+    function drawToro(o) {                      // toro (encierro, Navarra) — mira hacia el senderista
+      ctx.save();
+      ctx.translate(o.x + o.w, o.y);              // se dibuja en espejo: cabeza a la derecha
+      ctx.scale(-1, 1);
       ctx.fillStyle = "#2b2320";
       ctx.beginPath();
-      ctx.ellipse(o.x + o.w * 0.58, o.y + o.h * 0.62, o.w * 0.40, o.h * 0.38, 0, 0, Math.PI * 2);
+      ctx.ellipse(o.w * 0.58, o.h * 0.62, o.w * 0.40, o.h * 0.38, 0, 0, Math.PI * 2);
       ctx.fill();
       ctx.beginPath();
-      ctx.ellipse(o.x + o.w * 0.16, o.y + o.h * 0.50, o.w * 0.16, o.h * 0.24, 0, 0, Math.PI * 2);
+      ctx.ellipse(o.w * 0.16, o.h * 0.50, o.w * 0.16, o.h * 0.24, 0, 0, Math.PI * 2);
       ctx.fill();
       ctx.strokeStyle = "#e8e2d5"; ctx.lineWidth = 2.5; ctx.lineCap = "round";
-      ctx.beginPath(); ctx.moveTo(o.x + o.w * 0.10, o.y + o.h * 0.30); ctx.lineTo(o.x, o.y + o.h * 0.10); ctx.stroke();
-      ctx.beginPath(); ctx.moveTo(o.x + o.w * 0.22, o.y + o.h * 0.28); ctx.lineTo(o.x + o.w * 0.30, o.y + o.h * 0.06); ctx.stroke();
+      ctx.beginPath(); ctx.moveTo(o.w * 0.10, o.h * 0.30); ctx.lineTo(0, o.h * 0.10); ctx.stroke();
+      ctx.beginPath(); ctx.moveTo(o.w * 0.22, o.h * 0.28); ctx.lineTo(o.w * 0.30, o.h * 0.06); ctx.stroke();
       ctx.lineCap = "butt";
       ctx.fillStyle = "#2b2320";
-      ctx.fillRect(o.x + o.w * 0.32, o.y + o.h * 0.86, o.w * 0.09, o.h * 0.16);
-      ctx.fillRect(o.x + o.w * 0.70, o.y + o.h * 0.86, o.w * 0.09, o.h * 0.16);
+      ctx.fillRect(o.w * 0.32, o.h * 0.86, o.w * 0.09, o.h * 0.16);
+      ctx.fillRect(o.w * 0.70, o.h * 0.86, o.w * 0.09, o.h * 0.16);
+      ctx.restore();
     }
     function drawQueso(o) {                      // rueda de queso Idiazabal (País Vasco)
       rrect(o.x, o.y, o.w, o.h, Math.min(6, o.h / 2));
@@ -858,6 +866,7 @@
         var inEncierro = BG_NAMES[bgIndex] === "navarra-bardenas-bn";
         var playerTargetX = inEncierro ? PLAYER_X_ENCIERRO : PLAYER_X_BASE;
         player.x += (playerTargetX - player.x) * Math.min(1, dt * 3);
+        var toroX = player.x - TORO_W - TORO_GAP;
 
         if (flashT > 0) flashT -= dt;
 
@@ -865,6 +874,12 @@
           var o = obstacles[k];
           o.x -= speed * dt;
           if (o.cat) o.bob += dt * 9;
+          // el toro también salta el mismo obstáculo, un poco después
+          // (va detrás, así que le llega más tarde que al senderista).
+          if (inEncierro && toroOnGround && !o.cat &&
+              o.x <= toroX + TORO_W + TORO_LEAD && o.x + o.w >= toroX) {
+            toroVy = JUMP_V; toroOnGround = false;
+          }
           // saltaste a Francho y lo dejaste atrás -> ¡miau!
           if (o.cat && !o.cleared && (o.x + o.w) < player.x) {
             o.cleared = true;
@@ -885,6 +900,12 @@
               if (qualifies(finalScore)) offerNameEntry(finalScore);
             });
           }
+        }
+
+        if (inEncierro) {
+          toroVy += GRAV * dt;
+          toroYOff += toroVy * dt;
+          if (toroYOff >= 0) { toroYOff = 0; toroVy = 0; toroOnGround = true; }
         }
 
         if (player.onGround) {
@@ -965,8 +986,11 @@
 
       // el toro persiguiendo por detrás, solo durante el encierro (Navarra)
       if (BG_NAMES[bgIndex] === "navarra-bardenas-bn") {
-        var toroH = 34, toroW = 46;
-        var toroObj = { x: player.x - toroW - 26, y: GROUND - toroH, w: toroW, h: toroH };
+        var toroObj = {
+          x: player.x - TORO_W - TORO_GAP,
+          y: GROUND - TORO_H + toroYOff,
+          w: TORO_W, h: TORO_H
+        };
         ctx.fillStyle = "rgba(39,76,120,.16)";
         ctx.beginPath();
         ctx.ellipse(toroObj.x + toroObj.w / 2, GROUND + 2, toroObj.w * 0.42, 5, 0, 0, Math.PI * 2);
