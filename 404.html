@@ -372,24 +372,16 @@
     }
     function submitOnline(name, score, playedMs) {
       if (!window.fetch) return Promise.resolve(false);
+      // Solo por /api/scores: es la única vía que valida la puntuación,
+      // limita envíos por IP y sanea el nombre. Sin respaldo directo a
+      // Supabase aquí (eso dejaba sin efecto esas comprobaciones, ya que
+      // la clave anon queda visible en este mismo archivo).
       return fetch("/api/scores", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ name: name, score: score, t: playedMs || 0 })
-      }).then(function (r) {
-        if (r.ok) return true;
-        if (r.status === 400 || r.status === 429) return false; // rechazada a propósito
-        throw 0;                                                // función no disponible -> respaldo
-      }).catch(function () {
-        return fetch(SUPA_REST, {
-          method: "POST",
-          headers: {
-            apikey: SUPA_KEY, Authorization: "Bearer " + SUPA_KEY,
-            "Content-Type": "application/json", Prefer: "return=minimal"
-          },
-          body: JSON.stringify({ name: name, score: score })
-        }).then(function (r) { return r.ok; }).catch(function () { return false; });
-      });
+      }).then(function (r) { return r.ok; })
+        .catch(function () { return false; });
     }
 
     function renderBoard(list) {

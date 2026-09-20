@@ -3,6 +3,16 @@
  * GitHub vuelve aquí con ?code=... ; se canjea por un token y se
  * devuelve a la ventana del panel con el formato que espera Decap.
  */
+function readCookie(req, name) {
+  const raw = req.headers.cookie || "";
+  for (const part of raw.split(";")) {
+    const i = part.indexOf("=");
+    if (i === -1) continue;
+    if (part.slice(0, i).trim() === name) return decodeURIComponent(part.slice(i + 1).trim());
+  }
+  return null;
+}
+
 export default async function handler(req, res) {
   const clientId = process.env.OAUTH_GITHUB_CLIENT_ID;
   const clientSecret = process.env.OAUTH_GITHUB_CLIENT_SECRET;
@@ -10,12 +20,22 @@ export default async function handler(req, res) {
   const host = req.headers["x-forwarded-host"] || req.headers.host;
   const url = new URL(req.url, `https://${host}`);
   const code = url.searchParams.get("code");
+  const state = url.searchParams.get("state");
+  const cookieState = readCookie(req, "cms_oauth_state");
+
+  // Siempre se borra la cookie de un solo uso, haya ido bien o mal.
+  res.setHeader("Set-Cookie", "cms_oauth_state=; Max-Age=0; Path=/api; HttpOnly; Secure; SameSite=Lax");
+
+  // El "state" tiene que coincidir con el que guardamos al redirigir a
+  // GitHub en /api/auth: evita que alguien complete este login con un
+  // código de autorización que no corresponde a este intento (CSRF de OAuth).
+  const stateOk = Boolean(state) && Boolean(cookieState) && state === cookieState;
 
   let status = "error";
-  let content = { error: "sin configurar" };
+  let content = stateOk ? { error: "sin configurar" } : { error: "estado no válido, repite el login" };
 
   try {
-    if (clientId && clientSecret && code) {
+    if (stateOk && clientId && clientSecret && code) {
       const r = await fetch("https://github.com/login/oauth/access_token", {
         method: "POST",
         headers: { "Content-Type": "application/json", Accept: "application/json" },

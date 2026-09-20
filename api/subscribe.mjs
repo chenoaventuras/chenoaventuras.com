@@ -63,7 +63,7 @@ export default async function handler(req, res) {
             sender: { name: "Web Chenoaventuras", email: "chenoaventuras@gmail.com" },
             to: [{ email: "chenoaventuras@gmail.com", name: "Cheno" }],
             subject: "Nueva suscripción a la newsletter",
-            htmlContent: `<p>Nuevo suscriptor: <strong>${email}</strong></p>`,
+            htmlContent: `<p>Nuevo suscriptor: <strong>${escapeHtml(email)}</strong></p>`,
           }),
         });
       } catch (e) {}
@@ -75,4 +75,12 @@ export default async function handler(req, res) {
     res.statusCode = 500;
     res.json({ error: "Fallo al guardar el contacto" });
   }
+}
+
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
 }

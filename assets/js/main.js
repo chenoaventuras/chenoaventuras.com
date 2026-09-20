@@ -280,12 +280,25 @@
     ensureIgModal();
     igModal.hidden = false;
     document.body.style.overflow = "hidden";
-    igModalBox.innerHTML =
-      '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="' +
-      permalink + '" data-instgrm-version="14" style="margin:0;">' +
-      '<div class="ig-modal__loading"><a href="' + permalink +
-      '" target="_blank" rel="noopener">Cargando publicación de Instagram…</a></div>' +
-      "</blockquote>";
+    // Construido con el DOM (no innerHTML) para que el permalink, aunque
+    // venga de fuera (assets/data/instagram.json), no pueda inyectar HTML.
+    igModalBox.innerHTML = "";
+    var quote = document.createElement("blockquote");
+    quote.className = "instagram-media";
+    quote.setAttribute("data-instgrm-captioned", "");
+    quote.setAttribute("data-instgrm-permalink", permalink);
+    quote.setAttribute("data-instgrm-version", "14");
+    quote.style.margin = "0";
+    var loading = document.createElement("div");
+    loading.className = "ig-modal__loading";
+    var link = document.createElement("a");
+    link.href = permalink;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = "Cargando publicación de Instagram…";
+    loading.appendChild(link);
+    quote.appendChild(loading);
+    igModalBox.appendChild(quote);
     function process() {
       if (window.instgrm && window.instgrm.Embeds) window.instgrm.Embeds.process();
     }
