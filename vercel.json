@@ -2,6 +2,9 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "npm run build",
   "outputDirectory": ".",
+  "crons": [
+    { "path": "/api/scores", "schedule": "0 8 */3 * *" }
+  ],
   "rewrites": [
     { "source": "/minijuego", "destination": "/404.html" },
     { "source": "/minijuego/", "destination": "/404.html" },
