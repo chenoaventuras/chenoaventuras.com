@@ -208,6 +208,8 @@ function readPosts() {
       // por delante de todo lo demás, ordenados por pinnedOrder. El resto
       // sigue ordenándose por fecha como hasta ahora.
       pinnedOrder: typeof data.pinnedOrder === "number" ? data.pinnedOrder : null,
+      // wide: true → el cuerpo ocupa todo el ancho del contenedor (guías con tarjetas)
+      wide: data.wide === true,
       html,
       url: `${SITE}/blog/${slug}.html`,
     });
@@ -291,7 +293,7 @@ function renderPost(p, tagColorMap, nextPost) {
 
       <section class="section">
         <div class="container">
-          <div class="article__body">
+          <div class="article__body${p.wide ? " article__body--wide" : ""}">
 ${p.html}
           </div>
           <p class="article__back" style="margin-top:40px;"><a class="btn btn--ghost" href="/blog.html">Ver más artículos</a></p>
