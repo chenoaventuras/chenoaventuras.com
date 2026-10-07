@@ -71,6 +71,19 @@ const isExcluded = (m) =>
       code && ((m.permalink || "").includes("/" + code + "/") || (m.id || "") === code)
   );
 
+/**
+ * Reels que siguen en el listado completo pero NO salen en "Lo último en
+ * Instagram" de la inicio (se marcan con home:false en el JSON). Son los
+ * que no tienen contador de me gusta visible en su ficha pública.
+ */
+const HIDE_FROM_HOME = [
+  "Ddo7BVURiEb", // NO HAGAS ESTO (basura en el mar)
+  "DdozPGTt96i", // Snorkel en Cabo de Palos (duplicado)
+  "DddcskJBp27", // Medusa huevo frito (duplicado)
+];
+const isHiddenFromHome = (m) =>
+  HIDE_FROM_HOME.some((code) => (m.permalink || "").includes("/" + code + "/"));
+
 if (!TOKEN) {
   console.log("IG_ACCESS_TOKEN no definido — no se actualiza nada.");
   process.exit(0);
@@ -150,6 +163,7 @@ for (const m of visibles.slice(0, LIMIT)) {
     caption: (m.caption || "").replace(/\s+/g, " ").trim().slice(0, 160),
     type: m.media_type === "VIDEO" ? "REEL" : "IMAGE",
     timestamp: m.timestamp || null,
+    ...(isHiddenFromHome(m) ? { home: false } : {}),
   });
 }
 

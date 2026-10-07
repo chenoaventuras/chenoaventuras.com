@@ -436,15 +436,17 @@
           var moreWrap = igWrap.parentElement ? igWrap.parentElement.querySelector("[data-ig-more-wrap]") : null;
           var moreBtn = moreWrap ? moreWrap.querySelector("[data-ig-more]") : null;
           var shown = 0;
+          // "Lo último" (no "all") se salta las marcadas con home:false.
+          var list = isAll ? posts : posts.filter(function (p) { return p.home !== false; });
 
           function renderNext(n) {
-            posts.slice(shown, shown + n).forEach(function (p) {
+            list.slice(shown, shown + n).forEach(function (p) {
               var card = igCard(p, isAll);
               if (card) igWrap.appendChild(card);
             });
-            shown = Math.min(shown + n, posts.length);
+            shown = Math.min(shown + n, list.length);
             revealScan(igWrap);
-            if (moreWrap) moreWrap.hidden = shown >= posts.length;
+            if (moreWrap) moreWrap.hidden = shown >= list.length;
           }
 
           igWrap.innerHTML = "";
