@@ -19,8 +19,6 @@ Hay parques de atracciones más grandes, más rápidos y más modernos. Pero nin
 
 Aquí no se paga una pulsera: **cada atracción tiene su propio precio**, casi todas entre 1 y 3 €. Así que te dejo la lista completa para que calcules el plan a tu medida 👇
 
-<!--guia-->
-
 <div class="guide__story">
 <span class="eyebrow">Un poco de historia</span>
 <h2>Más de 100 años mirando a La Concha</h2>
@@ -35,6 +33,9 @@ Aquí no se paga una pulsera: **cada atracción tiene su propio precio**, casi t
 <li><b>1930</b><span>Abre el Gran Laberinto, que sigue en marcha</span></li>
 <li><b>2014</b><span>Parque y funicular, declarados Conjunto Monumental</span></li>
 </ol>
+
+<!--guia-->
+
 <div class="guide__legend">
 <h3>🌊 La leyenda de la Montaña Suiza</h3>
 <p>Cuentan que, cuando los vikingos asaltaban esta costa, tres hechiceras, <strong>las Tres Marías</strong>, levantaron tres olas para hundir sus drakkars. Al último barco le lanzaron una ola tan descomunal que alguien dijo después que era <em>“tan grande como las montañas suizas”</em>. De ahí el nombre. ¿Y se hundió aquel último drakkar? Eso lo descubres subiéndote 😉</p>

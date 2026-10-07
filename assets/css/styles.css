@@ -1548,3 +1548,4 @@ p { margin: 0 0 1em; }
 .guidebox a { color: inherit; text-decoration: underline; }
 .guidebox a.btn { text-decoration: none; }
 @media (max-width: 760px) { .guidebox { grid-template-columns: 1fr; } }
+.article__body--wide .guidebox { max-width: 68ch; margin-inline: auto; }
