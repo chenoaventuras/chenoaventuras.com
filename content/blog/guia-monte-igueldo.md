@@ -1,6 +1,7 @@
 ---
 title: 'Guía del Monte Igueldo: las 19 atracciones y sus precios'
 date: 2026-10-06T10:00:00.000Z
+lugar: 'Monte Igueldo'
 lat: 43.3228
 lng: -2.0106
 guia: /assets/guias/guia-monte-igueldo-chenoaventuras.pdf
@@ -12,6 +13,7 @@ tags:
   - Actividades
   - País Vasco
 wide: true
+igPermalink: 'https://www.instagram.com/p/DeM_bJkRRM8/'
 ---
 Hay parques de atracciones más grandes, más rápidos y más modernos. Pero ninguno tiene **la bahía de La Concha a tus pies** mientras te subes a una montaña suiza de hace casi un siglo. El Monte Igueldo lleva más de un siglo divirtiendo a familias y sigue teniendo ese encanto de parque de toda la vida que ya cuesta encontrar.
 
@@ -149,7 +151,7 @@ Aquí no se paga una pulsera: **cada atracción tiene su propio precio**, casi t
 <div class="guide__cta">
 <h2>¿Quieres verlo antes de ir?</h2>
 <p>Te lo enseño todo en vídeo: las atracciones, el ambiente y esas vistas que no caben en una foto.</p>
-<a class="btn guide__btn" href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">
+<a class="btn guide__btn" href="https://www.instagram.com/p/DeM_bJkRRM8/" target="_blank" rel="noopener">
 <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
 Ver vídeo
 </a>
