@@ -497,6 +497,65 @@ p { margin: 0 0 1em; }
 .article__body .guide__follow { font-size: .95rem; }
 .article__body .guide__note { text-align: center; font-size: .8rem; line-height: 1.6; color: var(--ink-mute); max-width: 70ch; margin: 24px auto 0; }
 
+.guide__story { max-width: 68ch; margin: clamp(40px, 6vw, 64px) auto 0; }
+.article__body .guide__story h2 { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; letter-spacing: -.02em; line-height: 1; font-size: clamp(1.8rem, 5vw, 3rem); color: var(--night); margin: 0 0 .5em; }
+.article__body .guide__timeline { list-style: none; padding: 0; margin: 30px 0; display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
+.article__body .guide__timeline li { margin: 0; background: var(--white); border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow-sm); border-top: 4px solid var(--gold); }
+.guide__timeline b { display: block; font-family: var(--font-display); font-weight: 900; font-size: 1.5rem; color: var(--night); line-height: 1.1; margin-bottom: 6px; }
+.guide__timeline span { display: block; font-size: .86rem; line-height: 1.45; color: var(--ink-soft); }
+.guide__legend { max-width: 68ch; margin: 0 auto; background: var(--paper-2); border-left: 4px solid var(--gold); border-radius: var(--radius); padding: 18px 22px; }
+.article__body .guide__legend h3 { margin: 0 0 .4em; }
+.article__body .guide__legend p { margin: 0; font-size: .98rem; }
+.guide__info { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 18px; margin-top: 18px; }
+.article__body .guide__small { font-size: .82rem; margin: .8em 0 0; }
+.guide__maps { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 4px; }
+.article__body a.guide__mapbtn { color: #fff; text-decoration: none; font-size: .74rem; padding: .8em 1.2em; }
+.article__body a.guide__hoursbtn { --btn-bg: var(--night); margin-top: 4px; }
+.article__body a.guide__hoursbtn:hover { background: var(--teal); border-color: var(--teal); }
+.article__body a.guide__mapbtn.btn--ghost { color: var(--ink); }
+.article__body a.guide__mapbtn.btn--ghost:hover { color: #fff; }
+@media (max-width: 760px) { .article__body .guide__timeline { grid-template-columns: repeat(2, 1fr); } }
+
+.guide__download { max-width: 68ch; margin: 28px auto 0; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px 20px; background: var(--paper-2); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 22px; }
+.article__body .guide__download p { margin: 0; flex: 1 1 280px; font-size: .98rem; line-height: 1.5; }
+.article__body a.guide__dl { --btn-bg: var(--night); color: #fff; text-decoration: none; white-space: nowrap; }
+.article__body a.guide__dl:hover { background: var(--teal); border-color: var(--teal); color: #fff; }
+.article__body a.guide__dl--cta { --btn-bg: transparent; color: var(--night); border-color: var(--night); margin: 10px 0 18px 10px; padding: 1em 2em; font-size: 1rem; }
+.article__body a.guide__dl--cta:hover { color: #fff; background: var(--night); }
+@media (max-width: 560px) { .article__body a.guide__dl--cta { margin-left: 0; } }
+
+/* calendario de apertura (guías) */
+.guide__calendar { margin-top: clamp(44px, 7vw, 72px); }
+.gcal__intro { text-align: center; max-width: 60ch; margin: 0 auto 24px; }
+.article__body .gcal__intro h2 { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; letter-spacing: -.02em; line-height: 1; font-size: clamp(1.8rem, 5vw, 3rem); color: var(--night); margin: 0 0 .4em; }
+.article__body .gcal__intro p { color: var(--ink-soft); font-size: .98rem; margin: 0; }
+.gcal__months { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; }
+.gcal__m { background: var(--white); border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow-sm); }
+.article__body .gcal__m h4 { font-family: var(--font-head); font-weight: 600; color: var(--night); font-size: 1rem; margin: 0 0 10px; text-align: center; }
+.gcal__grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px; text-align: center; }
+.gcal__grid b { font-family: var(--font-head); font-weight: 600; font-size: .68rem; color: var(--ink-mute); padding-bottom: 2px; }
+.gcal__grid i { font-style: normal; font-size: .8rem; line-height: 1; padding: 7px 0; border-radius: 5px; color: var(--ink-soft); }
+.gcal__grid i:empty { background: none; }
+.t-a { background: #2f7d4f; color: #fff !important; }
+.t-b { background: #77854f; color: #fff !important; }
+.t-c { background: #3c6aa3; color: #fff !important; }
+.t-d { background: var(--gold); color: var(--night) !important; }
+.t-e { background: var(--gold-soft); color: var(--night) !important; }
+.t-x { background: #b23b3b; color: #fff !important; }
+.gcal__grid i.t-a, .gcal__grid i.t-b, .gcal__grid i.t-c, .gcal__grid i.t-d, .gcal__grid i.t-e, .gcal__grid i.t-x { font-weight: 600; }
+.article__body .gcal__legend { list-style: none; padding: 0; margin: 18px 0 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 18px; }
+.article__body .gcal__legend li { margin: 0; display: flex; align-items: center; gap: 7px; font-size: .84rem; color: var(--ink-soft); }
+.gcal__legend li i { width: 16px; height: 16px; border-radius: 4px; border: 1px solid var(--line); flex: none; }
+.gcal__legend li i:not([class]) { background: var(--white); }
+.gcal__next { margin-top: 34px; text-align: center; }
+.article__body .gcal__next h3 { font-family: var(--font-display); font-weight: 900; font-size: 1.8rem; color: var(--night); margin: 0 0 .3em; }
+.article__body .gcal__next > p { max-width: 56ch; margin: 0 auto 18px; color: var(--ink-soft); font-size: .95rem; }
+.gcal__months--small { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 18px; }
+.gcal__m--pending { opacity: .55; padding: 10px; box-shadow: none; border: 1px dashed var(--ink-mute); background: transparent; }
+.article__body .gcal__m--pending h4 { font-size: .82rem; margin-bottom: 6px; }
+.gcal__m--pending .gcal__grid i { font-size: .62rem; padding: 3px 0; }
+.gcal__m--pending .gcal__grid b { font-size: .55rem; }
+
 .article__body pre {
   background: var(--night); color: #eef; border-radius: 10px;
   padding: 16px 18px; overflow-x: auto; font-size: .9rem; margin: 1.4em 0;
