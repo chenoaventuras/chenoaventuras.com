@@ -185,6 +185,7 @@ function readPosts() {
     if (data.draft) continue;
     const slug = (data.slug || file.replace(/\.md$/, "")).toLowerCase();
     const date = data.date ? new Date(data.date) : new Date();
+    const updated = data.updated ? new Date(data.updated) : date;
     const title = (data.title || slug).trim();
     const excerpt = (data.excerpt || data.description || "").trim();
     let html = marked.parse(content);
@@ -199,7 +200,7 @@ function readPosts() {
       ? data.tags.map((t) => String(t).trim()).filter(Boolean)
       : [];
     posts.push({
-      slug, title, date,
+      slug, title, date, updated,
       excerpt: excerpt || title,
       cover: data.cover ? String(data.cover) : "",
       coverPosition: data.coverPosition ? String(data.coverPosition) : "",
@@ -237,7 +238,7 @@ function renderPost(p, tagColorMap, nextPost) {
           headline: p.title,
           description: p.excerpt,
           datePublished: p.date.toISOString(),
-          dateModified: p.date.toISOString(),
+          dateModified: p.updated.toISOString(),
           image: coverAbs || OG_DEFAULT,
           url: p.url,
           mainEntityOfPage: p.url,
@@ -410,7 +411,7 @@ function renderSitemap(posts) {
     ),
     ...posts.map(
       (p) =>
-        `  <url><loc>${p.url}</loc><lastmod>${p.date.toISOString().slice(0, 10)}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>`
+        `  <url><loc>${p.url}</loc><lastmod>${p.updated.toISOString().slice(0, 10)}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>`
     ),
   ];
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${rows.join("\n")}\n</urlset>\n`;

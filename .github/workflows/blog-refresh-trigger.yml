@@ -1,0 +1,21 @@
+name: Disparo semanal de la revisión de posts
+
+# Sin IA: solo dispara, cada lunes de madrugada, blog-refresh.yml (que sí
+# llama a Claude Code) con un "repository_dispatch", igual que hace
+# auto-blog-draft-trigger.yml. Así el correo con los cambios te llega el
+# lunes por la mañana.
+on:
+  schedule:
+    - cron: "0 3 * * 1"   # lunes ~05:00 hora de España (aprox., sin ajuste de DST)
+  workflow_dispatch: {}    # para probarlo a mano desde la pestaña Actions
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Disparar blog-refresh.yml
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh api "repos/${{ github.repository }}/dispatches" \
+            -f event_type=refresh-blog-posts
