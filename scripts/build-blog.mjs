@@ -128,7 +128,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/main.js?v=20261008"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog" }) {
@@ -161,7 +161,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261008" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -682,7 +682,7 @@ ${destinos.map((d) => `          <li><a href="/destinos/${d.slug}.html">${esc(d.
       </div>
     </section>
     <script src="/assets/vendor/leaflet/leaflet.js"></script>
-    <script src="/assets/js/mapa.js"></script>`;
+    <script src="/assets/js/mapa.js?v=20261008"></script>`;
 
   return shell({
     title: "Mapa de aventuras por España y Marruecos | Chenoaventuras",
