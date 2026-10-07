@@ -1535,3 +1535,5 @@ p { margin: 0 0 1em; }
 .site-footer .footer-title { display: block; }
 .article__body p a, .article__body li a { text-decoration: underline; text-underline-offset: 2px; }
 .article__body a.btn { text-decoration: none; }
+
+.guidebox { scroll-margin-top: 90px; }

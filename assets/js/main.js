@@ -460,7 +460,7 @@
   }
 
   /* ---------- Descarga de guía en PDF a cambio del email ---------- */
-  document.querySelectorAll("form[data-guide]").forEach(function (f) {
+  document.querySelectorAll("form[data-guide-source]").forEach(function (f) {
     f.addEventListener("submit", function (ev) {
       ev.preventDefault();
       var box = f.closest("[data-guide-box]") || f.parentElement;
@@ -484,8 +484,14 @@
             f.hidden = true;
             var legal = box.querySelector(".guidebox__legal");
             if (legal) legal.hidden = true;
-            if (msg) msg.textContent = "¡Listo! Tu guía ya está disponible:";
-            if (link) link.hidden = false;
+            var path = res.json && res.json.guide;
+            if (path && link) {
+              link.href = path;
+              link.hidden = false;
+              if (msg) msg.textContent = "¡Listo! Tu guía ya está disponible (también te la he enviado por correo):";
+            } else if (msg) {
+              msg.textContent = "¡Listo! Te he enviado la guía por correo.";
+            }
           } else {
             if (msg) msg.textContent = (res.json && res.json.error) || "No se pudo enviar. Inténtalo de nuevo.";
             if (btn) btn.disabled = false;

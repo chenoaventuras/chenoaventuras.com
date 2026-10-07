@@ -20,8 +20,8 @@ Hay parques de atracciones más grandes, más rápidos y más modernos. Pero nin
 Aquí no se paga una pulsera: **cada atracción tiene su propio precio**, casi todas entre 1 y 3 €. Así que te dejo la lista completa para que calcules el plan a tu medida 👇
 
 <div class="guide__download">
-<p><strong>📄 ¿La quieres en el móvil?</strong> Descárgate esta guía en PDF (7 páginas, 3 MB) y llévala contigo al Monte Igueldo.</p>
-<a class="btn guide__dl" href="/assets/guias/guia-monte-igueldo-chenoaventuras.pdf" download><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M5 21h14"/></svg> Descargar guía PDF</a>
+<p><strong>📄 ¿La quieres en el móvil?</strong> Recíbela en tu correo en PDF (7 páginas, 3 MB) y llévala contigo al Monte Igueldo.</p>
+<a class="btn guide__dl" href="#guia-gratis"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M5 21h14"/></svg> Recibir la guía PDF</a>
 </div>
 
 <div class="guide__story">
@@ -155,7 +155,7 @@ Aquí no se paga una pulsera: **cada atracción tiene su propio precio**, casi t
 <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
 Ver vídeo
 </a>
-<a class="btn btn--ghost guide__dl guide__dl--cta" href="/assets/guias/guia-monte-igueldo-chenoaventuras.pdf" download><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M5 21h14"/></svg> Descargar guía PDF</a>
+<a class="btn btn--ghost guide__dl guide__dl--cta" href="#guia-gratis"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M5 21h14"/></svg> Recibir la guía PDF</a>
 <p class="guide__follow">Y si te gustan estos planes, sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>.</p>
 </div>
 <p class="guide__note">Precios y datos consultados en la <a href="https://www.monteigueldo.es/organiza-tu-visita" target="_blank" rel="noopener">web oficial del Monte Igueldo</a> en octubre de 2026. Pueden cambiar, así que confirma horarios allí antes de subir. Fotos: Parque de Atracciones Monte Igueldo.</p>

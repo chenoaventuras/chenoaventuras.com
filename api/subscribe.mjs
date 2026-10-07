@@ -128,7 +128,8 @@ export default async function handler(req, res) {
     }
 
     res.statusCode = 200;
-    res.json({ ok: true });
+    // La ruta del PDF solo se entrega tras apuntarse (no aparece en el HTML de la página).
+    res.json({ ok: true, ...(guide ? { guide: guide.file } : {}) });
   } catch (e) {
     res.statusCode = 500;
     res.json({ error: "Fallo al guardar el contacto" });
