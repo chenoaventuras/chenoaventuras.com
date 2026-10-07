@@ -150,7 +150,8 @@ jobs:
             - Añade, de forma natural dentro del texto (no solo al final), un
               enlace en Markdown al vídeo original de Instagram usando el
               permalink de la publicación elegida (igPermalink), del tipo
-              "puedes ver el vídeo [aquí](<permalink>)".
+              "puedes ver el [vídeo en Instagram](<permalink>)". Nunca uses
+              "aquí" como texto de un enlace: el texto debe describir el destino.
             - Enlaza de forma natural a 2-3 posts existentes de content/blog/
               que tengan relación (mismo lugar, zona o tema), con
               [texto](/blog/<slug>.html), solo si el enlace aporta algo al

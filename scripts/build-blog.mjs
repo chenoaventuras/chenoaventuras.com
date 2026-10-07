@@ -88,7 +88,7 @@ const esc = (s = "") =>
 const NAV = `
   <header class="site-header site-header--solid">
     <nav class="nav container" data-nav>
-      <a class="brand" href="/index.html" aria-label="Chenoaventuras — inicio"><span class="brand__name">Cheno</span><span class="brand__tag">Aventuras</span></a>
+      <a class="brand" href="/index.html"><span class="brand__name">Cheno</span><span class="brand__tag">Aventuras</span></a>
       <button class="nav__toggle" type="button" data-nav-toggle aria-label="Abrir menú" aria-expanded="false"><span></span></button>
       <ul class="nav__links">
         <li><a href="/index.html">Inicio</a></li>
@@ -121,9 +121,9 @@ const FOOTER = `
             <a href="https://www.facebook.com/Chenoaventuras" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.397 20.997v-8.196h2.765l.411-3.209h-3.176V7.548c0-.926.258-1.56 1.587-1.56h1.684V3.127A22.336 22.336 0 0 0 14.201 3c-2.444 0-4.122 1.492-4.122 4.231v2.355H7.332v3.209h2.753v8.202h3.312z"/></svg></a>
           </div>
         </div>
-        <div><h5>Explorar</h5><ul class="footer-links"><li><a href="/aventuras.html">Aventuras</a></li><li><a href="/mapa.html">Mapa</a></li><li><a href="/blog.html">Blog</a></li><li><a href="/equipo.html">Mi equipo</a></li><li><a href="/servicios.html">Servicios</a></li></ul></div>
-        <div><h5>Cheno</h5><ul class="footer-links"><li><a href="/contacto.html">Sobre mí y contacto</a></li><li><a href="/servicios.html#dron">Vuelo con dron</a></li><li><a href="/equipo.html#descuentos">Descuentos</a></li><li><a href="/minijuego">Minijuego</a></li><li><a href="/politica-cookies.html">Política de cookies</a></li></ul></div>
-        <div><h5>Newsletter</h5><p>Rutas y aventuras directas a tu correo.</p><form class="subscribe" data-demo><input type="email" placeholder="Tu email" required aria-label="Tu email" /><button class="btn btn--light" type="submit">Me apunto</button></form><p data-demo-msg hidden class="subscribe__ok">¡Vamos a la aventura!</p></div>
+        <div><p class="footer-title">Explorar</p><ul class="footer-links"><li><a href="/aventuras.html">Aventuras</a></li><li><a href="/mapa.html">Mapa</a></li><li><a href="/blog.html">Blog</a></li><li><a href="/equipo.html">Mi equipo</a></li><li><a href="/servicios.html">Servicios</a></li></ul></div>
+        <div><p class="footer-title">Cheno</p><ul class="footer-links"><li><a href="/contacto.html">Sobre mí y contacto</a></li><li><a href="/servicios.html#dron">Vuelo con dron</a></li><li><a href="/equipo.html#descuentos">Descuentos</a></li><li><a href="/minijuego">Minijuego</a></li><li><a href="/politica-cookies.html">Política de cookies</a></li><li><a href="/politica-privacidad.html">Política de privacidad</a></li></ul></div>
+        <div><p class="footer-title">Newsletter</p><p>Rutas y aventuras directas a tu correo.</p><form class="subscribe" data-demo><input type="email" placeholder="Tu email" required aria-label="Tu email" /><button class="btn btn--light" type="submit">Me apunto</button></form><p data-demo-msg hidden class="subscribe__ok">¡Vamos a la aventura!</p><p class="subscribe__legal">Al apuntarte aceptas la <a href="/politica-privacidad.html">política de privacidad</a>.</p></div>
       </div>
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
@@ -306,14 +306,14 @@ function thumbOf(cover) {
   return existsSync(join(ROOT, t.slice(1))) ? t : cover;
 }
 
-function blogCard(p, { level = 2, search = false } = {}) {
+function blogCard(p, { level = 2, search = false, eager = false } = {}) {
   const attrs = search
     ? ` data-tags="${esc(p.tags.join("|"))}" data-search="${esc(norm([p.title, p.excerpt, p.tags.join(" ")].join(" ")))}"`
     : "";
   return `          <a class="blogcard reveal" href="/blog/${p.slug}.html"${attrs}>
             ${
               p.cover
-                ? `<div class="blogcard__media"><img src="${esc(thumbOf(p.cover))}" alt="${esc(p.title)}" loading="lazy" decoding="async"${p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : ""} /></div>`
+                ? `<div class="blogcard__media"><img src="${esc(thumbOf(p.cover))}" alt="${esc(p.title)}" ${eager ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"${p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : ""} /></div>`
                 : `<div class="blogcard__media blogcard__media--empty"></div>`
             }
             <div class="blogcard__body">
@@ -369,7 +369,7 @@ function guideBox(p) {
                 <input type="email" placeholder="Tu email" required aria-label="Tu email" autocomplete="email" />
                 <button class="btn" type="submit">Quiero la guía</button>
               </form>
-              <p class="guidebox__legal">Al apuntarte aceptas recibir mi newsletter. Puedes darte de baja cuando quieras.</p>
+              <p class="guidebox__legal">Al apuntarte aceptas recibir mi newsletter. Puedes darte de baja cuando quieras. <a href="/politica-privacidad.html">Política de privacidad</a>.</p>
               <p class="guidebox__msg" data-guide-msg hidden></p>
               <a class="btn guidebox__dl" data-guide-link href="${esc(p.guia)}" download hidden>Descargar la guía (PDF)</a>
             </div>
@@ -442,7 +442,7 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null) {
 
   const heroStyle = p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : "";
   const heroMedia = p.cover
-    ? `<div class="pagehead__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" decoding="async"${heroStyle} /></div>`
+    ? `<div class="pagehead__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" decoding="async" fetchpriority="high"${heroStyle} /></div>`
     : "";
   const tagsHtml = p.tags.length
     ? `<div class="article__tags">${p.tags
@@ -501,7 +501,7 @@ ${related.map((r) => blogCard(r, { level: 3 })).join("\n")}
 
 /* ---------- índice del blog ---------- */
 function renderIndex(posts, destinos = []) {
-  const cards = posts.map((p) => blogCard(p, { search: true })).join("\n");
+  const cards = posts.map((p, i) => blogCard(p, { search: true, eager: i < 2 })).join("\n");
 
   const empty = `<p class="lead center" style="margin-inline:auto;">Todavía no hay artículos publicados. Vuelve pronto.</p>`;
 
@@ -800,6 +800,7 @@ function renderSitemap(posts, destinos = []) {
     ["/servicios.html", "0.7", "monthly", null],
     ["/equipo.html", "0.6", "monthly", null],
     ["/contacto.html", "0.6", "monthly", null],
+    ["/politica-privacidad.html", "0.3", "yearly", null],
   ];
   const rows = [
     ...fixed.map(

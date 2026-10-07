@@ -63,9 +63,9 @@
   --paper-3:      #dcd6ca;
   --ink:          #23231f;
   --ink-soft:     #55564d;
-  --ink-mute:     #8a8a7e;
+  --ink-mute:     #686860;
   --olive:        #77854f;
-  --olive-dark:   #5f6d3e;
+  --olive-dark:   #566337;
   --olive-bright: #9bab68;
   --gold:         #eab308;
   --gold-bright:  #f6c945;
@@ -163,14 +163,14 @@ p { margin: 0 0 1em; }
 
 /* subtítulos y etiquetas en Poppins SemiBold */
 .newsletter h2, .ctastrip h3, .curioscard h3, .placecard__body h3, .svc h3,
-.post h3, .feature h4, .checklist h4, .contact-card h4, .site-footer h5,
+.post h3, .feature h4, .checklist h4, .contact-card h4, .site-footer .footer-title,
 .post__cat, .deal__brand, .stat span, .form label, .seal small,
 .eyebrow, .btn { font-weight: 600; }
 .nav__links { font-weight: 500; }
 
 /* ---------- Buttons ---------- */
 .btn {
-  --btn-bg: var(--olive);
+  --btn-bg: var(--olive-dark);
   --btn-fg: #fff;
   display: inline-flex; align-items: center; gap: .6em;
   padding: .85em 1.6em;
@@ -1125,7 +1125,7 @@ p { margin: 0 0 1em; }
   gap: 40px;
 }
 .site-footer .brand { color: #fff; margin-bottom: 14px; }
-.site-footer h5 {
+.site-footer .footer-title {
   font-family: var(--font-head); text-transform: uppercase; letter-spacing: .16em;
   font-size: .78rem; color: #fff; margin: 0 0 14px;
 }
@@ -1526,3 +1526,10 @@ p { margin: 0 0 1em; }
 .mapnotice { margin: 0 0 12px; font-size: .95rem; color: var(--ink-soft); }
 .mapnotice a { color: var(--night); font-weight: 600; }
 .leaflet-container .mpop__dest { font-weight: 600; color: var(--olive-dark); }
+
+.subscribe__legal, .form__legal, .score-form__legal { font-size: .78rem; line-height: 1.4; margin: .6rem 0 0; opacity: .85; }
+.subscribe__legal a, .form__legal a, .score-form__legal a { color: inherit; text-decoration: underline; }
+
+.site-footer .footer-title { display: block; }
+.article__body p a, .article__body li a { text-decoration: underline; text-underline-offset: 2px; }
+.article__body a.btn { text-decoration: none; }
