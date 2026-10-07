@@ -1,6 +1,8 @@
 ---
 title: 'Vuelo en globo sobre Segovia: el acueducto y el Alcázar desde el aire'
 date: 2025-05-29T19:04:50.000Z
+lat: 40.9481
+lng: -4.1172
 excerpt: 'Volar en globo sobre Segovia permite ver el acueducto romano, el Alcázar y la catedral desde el aire. Precio, duración y consejos para la experiencia.'
 cover: /assets/img/instagram/18067614455079687.webp
 tags:

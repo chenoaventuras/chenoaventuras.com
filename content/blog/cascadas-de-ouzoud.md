@@ -1,6 +1,8 @@
 ---
 title: 'Cascadas de Ouzoud: las cataratas más espectaculares de Marruecos'
 date: 2025-12-06T15:40:26.000Z
+lat: 32.0154
+lng: -6.7193
 excerpt: 'Qué ver en las Cascadas de Ouzoud, en Marruecos: las cataratas más altas del país, sus pozas naturales, los monos de Berbería y cómo llegar desde Marrakech.'
 cover: /assets/img/instagram/18304298470250182.webp
 tags:

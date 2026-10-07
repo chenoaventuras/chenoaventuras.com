@@ -3,6 +3,7 @@
  *
  * Genera:
  *   - /blog.html            (índice, listado de artículos)
+ *   - /mapa.html            (mapa interactivo de los posts con lat/lng)
  *   - /blog/<slug>.html     (una página por artículo)
  *   - /sitemap.xml          (páginas fijas + artículos)
  *
@@ -91,7 +92,8 @@ const NAV = `
       <ul class="nav__links">
         <li><a href="/index.html">Inicio</a></li>
         <li><a href="/aventuras.html">Aventuras</a></li>
-        <li><a href="/blog.html" aria-current="page">Blog</a></li>
+        <li><a href="/mapa.html"{{CUR_MAPA}}>Mapa</a></li>
+        <li><a href="/blog.html"{{CUR_BLOG}}>Blog</a></li>
         <li><a href="/equipo.html">Mi equipo</a></li>
         <li><a href="/servicios.html">Servicios</a></li>
         <li><a href="/contacto.html">Contacto</a></li>
@@ -118,7 +120,7 @@ const FOOTER = `
             <a href="https://www.facebook.com/Chenoaventuras" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.397 20.997v-8.196h2.765l.411-3.209h-3.176V7.548c0-.926.258-1.56 1.587-1.56h1.684V3.127A22.336 22.336 0 0 0 14.201 3c-2.444 0-4.122 1.492-4.122 4.231v2.355H7.332v3.209h2.753v8.202h3.312z"/></svg></a>
           </div>
         </div>
-        <div><h5>Explorar</h5><ul class="footer-links"><li><a href="/aventuras.html">Aventuras</a></li><li><a href="/blog.html">Blog</a></li><li><a href="/equipo.html">Mi equipo</a></li><li><a href="/servicios.html">Servicios</a></li></ul></div>
+        <div><h5>Explorar</h5><ul class="footer-links"><li><a href="/aventuras.html">Aventuras</a></li><li><a href="/mapa.html">Mapa</a></li><li><a href="/blog.html">Blog</a></li><li><a href="/equipo.html">Mi equipo</a></li><li><a href="/servicios.html">Servicios</a></li></ul></div>
         <div><h5>Cheno</h5><ul class="footer-links"><li><a href="/contacto.html">Sobre mí y contacto</a></li><li><a href="/servicios.html#dron">Vuelo con dron</a></li><li><a href="/equipo.html#descuentos">Descuentos</a></li><li><a href="/minijuego">Minijuego</a></li><li><a href="/politica-cookies.html">Política de cookies</a></li></ul></div>
         <div><h5>Newsletter</h5><p>Rutas y aventuras directas a tu correo.</p><form class="subscribe" data-demo><input type="email" placeholder="Tu email" required aria-label="Tu email" /><button class="btn btn--light" type="submit">Me apunto</button></form><p data-demo-msg hidden class="subscribe__ok">¡Vamos a la aventura!</p></div>
       </div>
@@ -128,7 +130,7 @@ const FOOTER = `
   <script src="/assets/js/main.js"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
-function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body }) {
+function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog" }) {
   const img = image || OG_DEFAULT;
   return `<!DOCTYPE html>
 <html lang="es">
@@ -159,11 +161,11 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css" />
+  <link rel="stylesheet" href="/assets/css/styles.css" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
-${NAV}
+${NAV.replace("{{CUR_BLOG}}", current === "blog" ? ' aria-current="page"' : "").replace("{{CUR_MAPA}}", current === "mapa" ? ' aria-current="page"' : "")}
 
   <main>
 ${body}
@@ -186,6 +188,7 @@ function readPosts() {
     const slug = (data.slug || file.replace(/\.md$/, "")).toLowerCase();
     const date = data.date ? new Date(data.date) : new Date();
     const updated = data.updated ? new Date(data.updated) : date;
+    const num = (v) => (v !== undefined && v !== null && v !== "" && Number.isFinite(Number(v)) ? Number(v) : null);
     const title = (data.title || slug).trim();
     const excerpt = (data.excerpt || data.description || "").trim();
     let html = marked.parse(content);
@@ -201,6 +204,9 @@ function readPosts() {
       : [];
     posts.push({
       slug, title, date, updated,
+      lat: num(data.lat), lng: num(data.lng),
+      guia: data.guia ? String(data.guia) : "",
+      guiaTitulo: data.guiaTitulo ? String(data.guiaTitulo) : "",
       excerpt: excerpt || title,
       cover: data.cover ? String(data.cover) : "",
       coverPosition: data.coverPosition ? String(data.coverPosition) : "",
@@ -226,7 +232,81 @@ function readPosts() {
 }
 
 /* ---------- página de artículo ---------- */
-function renderPost(p, tagColorMap, nextPost) {
+/* ---------- tarjetas, posts relacionados y bloque de guía ---------- */
+const norm = (s = "") => String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+
+function blogCard(p, { level = 2, search = false } = {}) {
+  const attrs = search
+    ? ` data-tags="${esc(p.tags.join("|"))}" data-search="${esc(norm([p.title, p.excerpt, p.tags.join(" ")].join(" ")))}"`
+    : "";
+  return `          <a class="blogcard reveal" href="/blog/${p.slug}.html"${attrs}>
+            ${
+              p.cover
+                ? `<div class="blogcard__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" loading="lazy" decoding="async"${p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : ""} /></div>`
+                : `<div class="blogcard__media blogcard__media--empty"></div>`
+            }
+            <div class="blogcard__body">
+              <h${level}>${esc(p.title)}</h${level}>
+              <p>${esc(p.excerpt)}</p>
+            </div>
+          </a>`;
+}
+
+function kmBetween(a, b) {
+  const R = 6371, rad = (d) => (d * Math.PI) / 180;
+  const dLat = rad(b.lat - a.lat), dLng = rad(b.lng - a.lng);
+  const x = Math.sin(dLat / 2) ** 2 + Math.cos(rad(a.lat)) * Math.cos(rad(b.lat)) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(x));
+}
+
+// misma comunidad > cerca en el mapa > mismo tipo; los descuentos solo salen
+// como relacionados de otro descuento.
+function relatedPosts(p, posts, n = 3) {
+  const region = p.tags.find((t) => !TAG_TYPES.includes(t));
+  const type = p.tags.find((t) => TAG_TYPES.includes(t));
+  const isDisc = p.tags.includes("Descuentos");
+  return posts
+    .filter((q) => q.slug !== p.slug && q.tags.length && q.tags.includes("Descuentos") === isDisc)
+    .map((q) => {
+      let score = 0;
+      if (region && q.tags.includes(region)) score += 3;
+      if (type && q.tags.includes(type)) score += 2;
+      if (p.lat !== null && q.lat !== null) {
+        const km = kmBetween(p, q);
+        if (km < 50) score += 4;
+        else if (km < 150) score += 2;
+      }
+      return { q, score };
+    })
+    .filter((x) => x.score > 0)
+    .sort((a, b) => b.score - a.score || b.q.date - a.q.date)
+    .slice(0, n)
+    .map((x) => x.q);
+}
+
+function guideBox(p) {
+  if (!p.guia) return "";
+  const name = p.guiaTitulo || "Descarga la guía en PDF";
+  return `          <aside class="guidebox" data-guide-box>
+            <div class="guidebox__text">
+              <span class="eyebrow">Gratis</span>
+              <h2>${esc(name)}</h2>
+              <p>Déjame tu email, descárgala al momento y recibe mis rutas y aventuras por correo.</p>
+            </div>
+            <div class="guidebox__action">
+              <form class="guideform" data-guide="${esc(p.guia)}" data-guide-source="${esc(p.slug)}">
+                <input type="email" placeholder="Tu email" required aria-label="Tu email" autocomplete="email" />
+                <button class="btn" type="submit">Quiero la guía</button>
+              </form>
+              <p class="guidebox__legal">Al apuntarte aceptas recibir mi newsletter. Puedes darte de baja cuando quieras.</p>
+              <p class="guidebox__msg" data-guide-msg hidden></p>
+              <a class="btn guidebox__dl" data-guide-link href="${esc(p.guia)}" download hidden>Descargar la guía (PDF)</a>
+            </div>
+          </aside>
+`;
+}
+
+function renderPost(p, tagColorMap, nextPost, related = []) {
   const coverAbs = p.cover ? (p.cover.startsWith("http") ? p.cover : SITE + p.cover) : "";
   const regionTag = p.tags.find((t) => !TAG_TYPES.includes(t));
   const jsonld = JSON.stringify(
@@ -294,10 +374,20 @@ function renderPost(p, tagColorMap, nextPost) {
 
       <section class="section">
         <div class="container">
-          <div class="article__body${p.wide ? " article__body--wide" : ""}">
+${guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
 ${p.html}
           </div>
-          <p class="article__back" style="margin-top:40px;"><a class="btn btn--ghost" href="/blog.html">Ver más artículos</a></p>
+${
+  related.length
+    ? `          <section class="related">
+            <h2 class="related__title">Sigue explorando</h2>
+            <div class="bloglist bloglist--related">
+${related.map((r) => blogCard(r, { level: 3 })).join("\n")}
+            </div>
+          </section>
+`
+    : ""
+}          <p class="article__back" style="margin-top:40px;"><a class="btn btn--ghost" href="/blog.html">Ver más artículos</a></p>
         </div>
       </section>
     </article>`;
@@ -315,21 +405,7 @@ ${p.html}
 
 /* ---------- índice del blog ---------- */
 function renderIndex(posts) {
-  const cards = posts
-    .map(
-      (p) => `          <a class="blogcard reveal" href="/blog/${p.slug}.html" data-tags="${esc(p.tags.join("|"))}">
-            ${
-              p.cover
-                ? `<div class="blogcard__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" loading="lazy" decoding="async"${p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : ""} /></div>`
-                : `<div class="blogcard__media blogcard__media--empty"></div>`
-            }
-            <div class="blogcard__body">
-              <h2>${esc(p.title)}</h2>
-              <p>${esc(p.excerpt)}</p>
-            </div>
-          </a>`
-    )
-    .join("\n");
+  const cards = posts.map((p) => blogCard(p, { search: true })).join("\n");
 
   const empty = `<p class="lead center" style="margin-inline:auto;">Todavía no hay artículos publicados. Vuelve pronto.</p>`;
 
@@ -338,17 +414,24 @@ function renderIndex(posts) {
   const allTags = [...new Set(posts.flatMap((p) => p.tags))];
   const typeTags = TAG_TYPES.filter((t) => allTags.includes(t));
   const regionTags = allTags.filter((t) => !TAG_TYPES.includes(t)).sort((a, b) => a.localeCompare(b, "es"));
-  const filterBar =
-    typeTags.length || regionTags.length
-      ? `        <div class="blogfilter">
-          <label for="blog-filter">Filtrar por</label>
-          <select id="blog-filter">
-            <option value="">Todos los posts</option>
-            ${typeTags.length ? `<optgroup label="Tipo">${typeTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}</optgroup>` : ""}
-            ${regionTags.length ? `<optgroup label="Comunidad autónoma">${regionTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}</optgroup>` : ""}
-          </select>
-        </div>\n`
-      : "";
+  const filterBar = `        <div class="blogfilter">
+          <div class="blogfilter__search">
+            <input id="blog-search" type="search" placeholder="Buscar: Cuenca, snorkel, cascada…" aria-label="Buscar en el blog" autocomplete="off" />
+          </div>
+          ${
+            typeTags.length || regionTags.length
+              ? `<div class="blogfilter__select">
+            <label for="blog-filter">Filtrar por</label>
+            <select id="blog-filter">
+              <option value="">Todos los posts</option>
+              ${typeTags.length ? `<optgroup label="Tipo">${typeTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}</optgroup>` : ""}
+              ${regionTags.length ? `<optgroup label="Comunidad autónoma">${regionTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}</optgroup>` : ""}
+            </select>
+          </div>`
+              : ""
+          }
+          <p class="blogfilter__count" id="blog-count" aria-live="polite"></p>
+        </div>\n`;
 
   const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
@@ -360,26 +443,48 @@ function renderIndex(posts) {
 
     <section class="section">
       <div class="container">
-${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${cards}\n        </div>\n        <p class="lead center" id="blogfilter-empty" hidden style="margin-inline:auto;">Ningún post coincide con ese filtro todavía.</p>` : `        ${empty}`}
+${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${cards}\n        </div>\n        <p class="lead center" id="blogfilter-empty" hidden style="margin-inline:auto;">Ningún post coincide con tu búsqueda todavía.</p>` : `        ${empty}`}
       </div>
     </section>
     <script>
       (function () {
         var sel = document.getElementById("blog-filter");
-        if (!sel) return;
+        var q = document.getElementById("blog-search");
+        if (!sel && !q) return;
         var cards = Array.prototype.slice.call(document.querySelectorAll("#bloglist .blogcard"));
         var emptyMsg = document.getElementById("blogfilter-empty");
-        sel.addEventListener("change", function () {
-          var v = sel.value;
+        var countEl = document.getElementById("blog-count");
+        function norm(t) { return (t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""); }
+        function apply(updateUrl) {
+          var v = sel ? sel.value : "";
+          var terms = q ? norm(q.value).split(/\s+/).filter(Boolean) : [];
           var visible = 0;
           cards.forEach(function (c) {
             var tags = (c.getAttribute("data-tags") || "").split("|");
-            var show = !v || tags.indexOf(v) !== -1;
+            var hay = c.getAttribute("data-search") || "";
+            var show = (!v || tags.indexOf(v) !== -1) && terms.every(function (t) { return hay.indexOf(t) !== -1; });
             c.hidden = !show;
             if (show) visible++;
           });
           if (emptyMsg) emptyMsg.hidden = visible !== 0;
-        });
+          if (countEl) countEl.textContent = (v || terms.length) ? visible + (visible === 1 ? " artículo" : " artículos") : "";
+          if (updateUrl && window.history && history.replaceState) {
+            var ps = new URLSearchParams();
+            if (q && q.value.trim()) ps.set("q", q.value.trim());
+            if (v) ps.set("tag", v);
+            var qs = ps.toString();
+            history.replaceState(null, "", location.pathname + (qs ? "?" + qs : ""));
+          }
+        }
+        var params = new URLSearchParams(location.search);
+        if (sel && params.get("tag")) {
+          var opt = Array.prototype.slice.call(sel.options).filter(function (o) { return o.value === params.get("tag"); })[0];
+          if (opt) sel.value = opt.value;
+        }
+        if (q && params.get("q")) q.value = params.get("q");
+        if (sel) sel.addEventListener("change", function () { apply(true); });
+        if (q) q.addEventListener("input", function () { apply(true); });
+        apply(false);
       })();
     </script>`;
 
@@ -392,6 +497,90 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
   });
 }
 
+/* ---------- mapa interactivo ---------- */
+const MAP_TYPES = ["Actividades", "Pueblos", "Spots", "Curiosidades"];
+const MAP_COLORS = { Actividades: "#274c78", Pueblos: "#77854f", Spots: "#d9a406", Curiosidades: "#8a5a9e" };
+
+function regionOf(p) {
+  const r = p.tags.find((t) => !TAG_TYPES.includes(t));
+  if (r) return r;
+  return p.lat !== null && p.lat < 35.5 && p.lng > -10.5 ? "Marruecos" : "Otros destinos";
+}
+
+function renderMap(posts) {
+  const located = posts.filter((p) => p.lat !== null && p.lng !== null && p.tags.length && !p.tags.includes("Descuentos"));
+  const data = located.map((p) => ({
+    slug: p.slug,
+    title: p.title,
+    excerpt: p.excerpt,
+    cover: p.cover,
+    url: `/blog/${p.slug}.html`,
+    type: p.tags.find((t) => MAP_TYPES.includes(t)) || "",
+    region: regionOf(p),
+    lat: p.lat,
+    lng: p.lng,
+  }));
+  const json = JSON.stringify(data).replace(/</g, "\\u003c");
+  const regions = [...new Set(data.map((d) => d.region))].sort((a, b) => a.localeCompare(b, "es"));
+  const types = MAP_TYPES.filter((t) => data.some((d) => d.type === t));
+
+  const byRegion = regions
+    .map((r) => {
+      const items = data.filter((d) => d.region === r).sort((a, b) => a.title.localeCompare(b.title, "es"));
+      return `        <h3>${esc(r)}</h3>\n        <ul>\n${items.map((d) => `          <li><a href="${d.url}">${esc(d.title)}</a></li>`).join("\n")}\n        </ul>`;
+    })
+    .join("\n");
+
+  const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
+      <div class="pagehead__inner container">
+        <span class="eyebrow" style="color:var(--gold-soft)">Mapa</span>
+        <h1>Mapa de aventuras</h1>
+        <p>Todos los lugares de los que te he hablado, en un solo mapa. Toca un punto y descubre el artículo.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="mapbar">
+          <div class="mapbar__chips" role="group" aria-label="Filtrar por tipo">
+            <button type="button" class="mapchip is-active" data-map-type="">Todos</button>
+${types.map((t) => `            <button type="button" class="mapchip" data-map-type="${esc(t)}"><i style="background:${MAP_COLORS[t]}"></i>${esc(t)}</button>`).join("\n")}
+          </div>
+          <div class="mapbar__right">
+            <label for="map-region" class="sr-only">Comunidad o zona</label>
+            <select id="map-region" aria-label="Comunidad o zona">
+              <option value="">Todas las zonas</option>
+${regions.map((r) => `              <option value="${esc(r)}">${esc(r)}</option>`).join("\n")}
+            </select>
+            <button type="button" class="mapchip" data-map-go="canarias">Canarias</button>
+            <button type="button" class="mapchip" data-map-go="marruecos">Marruecos</button>
+            <span class="mapbar__count" id="map-count" aria-live="polite"></span>
+          </div>
+        </div>
+        <div id="mapa" class="mapa" role="region" aria-label="Mapa interactivo de aventuras"></div>
+        <noscript><p class="lead">El mapa necesita JavaScript. Mientras tanto, aquí tienes todos los lugares en la lista de abajo.</p></noscript>
+        <script type="application/json" id="mapa-data">${json}</script>
+
+        <div class="maplist">
+          <h2>Todos los lugares</h2>
+${byRegion}
+        </div>
+      </div>
+    </section>
+    <script src="/assets/vendor/leaflet/leaflet.js"></script>
+    <script src="/assets/js/mapa.js"></script>`;
+
+  return shell({
+    title: "Mapa de aventuras por España y Marruecos | Chenoaventuras",
+    description:
+      "Mapa interactivo con todos los lugares de Chenoaventuras: pueblos, cascadas, actividades de aventura y curiosidades por España y Marruecos.",
+    canonical: `${SITE}/mapa.html`,
+    extraHead: `\n  <link rel="stylesheet" href="/assets/vendor/leaflet/leaflet.css" />`,
+    current: "mapa",
+    body,
+  });
+}
+
 /* ---------- sitemap ---------- */
 function renderSitemap(posts) {
   const today = new Date().toISOString().slice(0, 10);
@@ -399,6 +588,7 @@ function renderSitemap(posts) {
     ["/", "1.0", "weekly"],
     ["/aventuras.html", "0.8", "weekly"],
     ["/blog.html", "0.8", "weekly"],
+    ["/mapa.html", "0.8", "weekly"],
     ["/curiosidades.html", "0.8", "weekly"],
     ["/servicios.html", "0.7", "monthly"],
     ["/equipo.html", "0.6", "monthly"],
@@ -434,9 +624,10 @@ mkdirSync(OUT_DIR, { recursive: true });
 for (let i = 0; i < posts.length; i++) {
   const p = posts[i];
   const nextPost = posts[i + 1] || null;
-  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap, nextPost));
+  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap, nextPost, relatedPosts(p, posts)));
 }
 writeFileSync(join(ROOT, "blog.html"), renderIndex(posts));
+writeFileSync(join(ROOT, "mapa.html"), renderMap(posts));
 writeFileSync(join(ROOT, "sitemap.xml"), renderSitemap(posts));
 
 console.log(`Blog compilado: ${posts.length} artículo(s).`);

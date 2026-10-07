@@ -1,6 +1,8 @@
 ---
 title: 'La tirolina de Cuenca: volar sobre la Hoz del Huécar'
 date: 2025-10-28T21:00:13.000Z
+lat: 40.0783
+lng: -2.1275
 excerpt: 'La tirolina urbana de Cuenca cruza la Hoz del Huécar con las Casas Colgadas de fondo. Precio, duración y cómo reservar esta actividad de aventura.'
 cover: /assets/img/instagram/17853104562523022.webp
 tags:

@@ -1,6 +1,8 @@
 ---
 title: 'Avistamiento de buitres en la Sierra de Guara: la única actividad de su tipo en España'
 date: 2025-06-26T19:12:46.000Z
+lat: 42.21
+lng: -0.19
 excerpt: 'En Santa Cilia de Panzano, Sierra de Guara, se puede observar en libertad a buitres leonados y quebrantahuesos. La única actividad de este tipo en España.'
 cover: /assets/img/instagram/18167547529344269.webp
 tags:

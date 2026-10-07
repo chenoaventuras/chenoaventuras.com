@@ -1315,3 +1315,134 @@ p { margin: 0 0 1em; }
 @media (max-width: 480px) {
   .cookiebar { left: 12px; right: 12px; bottom: 12px; }
 }
+
+/* =========================================================================
+   BLOG: buscador, posts relacionados y bloque de descarga de guía
+   ========================================================================= */
+.sr-only {
+  position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+.blogfilter { flex-wrap: wrap; gap: 12px 18px; }
+.blogfilter__search { flex: 1 1 260px; max-width: 440px; }
+.blogfilter__search input {
+  width: 100%; font: inherit; font-size: .95rem; padding: .62em 1em;
+  border-radius: 10px; border: 1px solid rgba(20,20,15,.2); background: var(--white); color: var(--ink);
+}
+.blogfilter__search input:focus { outline: 2px solid var(--olive-bright); outline-offset: 1px; }
+.blogfilter__select { display: flex; align-items: center; gap: 10px; }
+.blogfilter__count { margin: 0; font-size: .9rem; color: var(--ink-mute); }
+
+.related {
+  margin-top: clamp(40px, 6vw, 64px);
+  padding-top: clamp(28px, 4vw, 40px);
+  border-top: 1px solid var(--line);
+}
+.related__title {
+  font-family: var(--font-head); font-weight: 600; color: var(--night);
+  font-size: clamp(1.3rem, 2.4vw, 1.7rem); margin: 0 0 20px;
+}
+@media (min-width: 900px) { .bloglist--related { grid-template-columns: repeat(3, 1fr); } }
+.blogcard__body h3 {
+  font-family: var(--font-head); font-weight: 600; color: var(--night);
+  font-size: 1.16rem; line-height: 1.25; margin: 6px 0 8px;
+}
+
+.guidebox {
+  display: grid; grid-template-columns: 1.2fr 1fr; gap: 20px 28px; align-items: center;
+  background: linear-gradient(120deg, #1f3e64, #3c6aa3);
+  color: #fff; border-radius: var(--radius);
+  padding: clamp(20px, 3vw, 32px);
+  margin: 0 0 clamp(24px, 3vw, 36px);
+  box-shadow: var(--shadow-md);
+}
+.guidebox .eyebrow { color: var(--gold-soft); }
+.guidebox h2 {
+  font-family: var(--font-display); font-weight: 900; text-transform: uppercase;
+  font-size: clamp(1.4rem, 3vw, 2rem); line-height: 1.05; margin: 6px 0 8px; color: #fff;
+}
+.guidebox p { margin: 0; color: rgba(255,255,255,.88); }
+.guideform { display: flex; gap: 10px; flex-wrap: wrap; }
+.guideform input {
+  flex: 1 1 200px; min-width: 0; font: inherit; padding: .8em 1em;
+  border-radius: 10px; border: 0; background: #fff; color: var(--ink);
+}
+.guideform input:focus { outline: 2px solid var(--gold-bright); }
+.guidebox .btn { --btn-bg: var(--gold); --btn-fg: var(--night); border-color: var(--gold); }
+.guidebox .btn:hover { background: var(--gold-bright); border-color: var(--gold-bright); }
+.guidebox__legal { font-size: .78rem; margin-top: 10px; opacity: .8; }
+.guidebox__msg { margin-top: 4px; font-weight: 600; }
+.guidebox__dl { margin-top: 12px; }
+@media (max-width: 760px) {
+  .guidebox { grid-template-columns: 1fr; }
+  .guideform .btn { width: 100%; }
+}
+
+/* =========================================================================
+   MAPA INTERACTIVO
+   ========================================================================= */
+.mapbar {
+  display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center;
+  justify-content: space-between; margin-bottom: 16px;
+}
+.mapbar__chips, .mapbar__right { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.mapchip {
+  display: inline-flex; align-items: center; gap: 8px;
+  font: inherit; font-size: .9rem; font-weight: 600;
+  padding: .5em 1em; border-radius: 999px;
+  border: 1px solid rgba(20,20,15,.2); background: var(--white); color: var(--ink);
+  cursor: pointer; transition: background .2s ease, color .2s ease, border-color .2s ease;
+}
+.mapchip i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.mapchip:hover { border-color: var(--night); }
+.mapchip.is-active { background: var(--night); color: #fff; border-color: var(--night); }
+.mapbar select {
+  font: inherit; font-size: .9rem; padding: .5em 2em .5em 1em;
+  border-radius: 10px; border: 1px solid rgba(20,20,15,.2); background: var(--white); color: var(--ink); cursor: pointer;
+}
+.mapbar__count { font-size: .9rem; color: var(--ink-mute); min-width: 5.5em; }
+.mapa {
+  position: relative; z-index: 0; isolation: isolate;
+  height: clamp(440px, 70vh, 740px);
+  border-radius: var(--radius); overflow: hidden;
+  box-shadow: var(--shadow-md); background: var(--paper-3);
+}
+.mpin-wrap { background: none; border: 0; }
+.mpin {
+  display: block; width: 28px; height: 28px; margin: 6px 0 0 1px;
+  background: var(--c, #274c78); border: 3px solid #fff;
+  border-radius: 50% 50% 50% 0; transform: rotate(-45deg);
+  box-shadow: 0 3px 8px rgba(0,0,0,.35); position: relative;
+}
+.mpin::after {
+  content: ""; position: absolute; width: 10px; height: 10px; background: #fff;
+  border-radius: 50%; top: 50%; left: 50%; margin: -5px 0 0 -5px;
+}
+.mpin--group {
+  width: 34px; height: 34px; margin: 0; transform: none; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  color: #fff; font-weight: 700; font-size: .95rem;
+}
+.mpin--group::after { display: none; }
+.leaflet-container { font-family: var(--font-body); }
+.leaflet-popup-content { margin: 12px 14px; }
+.mpop { display: flex; flex-direction: column; gap: 12px; max-height: 280px; overflow-y: auto; }
+.leaflet-container .mpop__item {
+  display: flex; gap: 10px; align-items: flex-start; text-decoration: none; color: var(--ink);
+}
+.mpop__item img { width: 64px; height: 64px; object-fit: cover; border-radius: 8px; flex: none; }
+.mpop__item--single { flex-direction: column; }
+.mpop__item--single img { width: 100%; height: 130px; }
+.mpop__body { display: flex; flex-direction: column; gap: 3px; }
+.mpop__body strong { color: var(--night); line-height: 1.25; }
+.mpop__body small { color: var(--ink-mute); }
+.mpop__excerpt { font-size: .85rem; color: var(--ink-soft); line-height: 1.4; }
+.mpop__cta { font-weight: 600; color: var(--olive-dark); margin-top: 4px; }
+.maplist { margin-top: clamp(28px, 4vw, 48px); }
+.maplist h2 { font-family: var(--font-head); font-weight: 600; color: var(--night); font-size: clamp(1.3rem, 2.4vw, 1.7rem); margin: 0 0 12px; }
+.maplist h3 { font-family: var(--font-head); font-weight: 600; font-size: 1rem; margin: 18px 0 6px; color: var(--ink); }
+.maplist ul { margin: 0; padding-left: 1.1em; columns: 1; }
+.maplist li { margin: 3px 0; break-inside: avoid; }
+.maplist a { color: var(--night); }
+@media (min-width: 700px) { .maplist ul { columns: 2; column-gap: 32px; } }
+@media (min-width: 1000px) { .maplist ul { columns: 3; } }

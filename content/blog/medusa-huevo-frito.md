@@ -1,6 +1,8 @@
 ---
 title: 'Medusa huevo frito: ¿pica o es peligrosa? Guía completa'
 date: 2026-09-16T18:46:23.000Z
+lat: 37.6313
+lng: -0.6948
 excerpt: 'Qué es la medusa huevo frito, por qué tiene ese centro amarillo, si pica, qué hacer si te roza y dónde verla en el Mediterráneo.'
 cover: /assets/img/blog/medusa-huevo-frito.webp
 tags:

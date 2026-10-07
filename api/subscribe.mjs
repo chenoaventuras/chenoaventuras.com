@@ -21,7 +21,9 @@ export default async function handler(req, res) {
     return;
   }
 
-  const { email } = req.body || {};
+  const { email, source } = req.body || {};
+  // Origen opcional (p. ej. la guía descargada); solo letras, números y guiones.
+  const src = typeof source === "string" && /^[a-z0-9-]{1,60}$/.test(source) ? source : "";
   if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
     res.statusCode = 400;
     res.json({ error: "Email no válido" });
@@ -63,7 +65,7 @@ export default async function handler(req, res) {
             sender: { name: "Web Chenoaventuras", email: "chenoaventuras@gmail.com" },
             to: [{ email: "chenoaventuras@gmail.com", name: "Cheno" }],
             subject: "Nueva suscripción a la newsletter",
-            htmlContent: `<p>Nuevo suscriptor: <strong>${escapeHtml(email)}</strong></p>`,
+            htmlContent: `<p>Nuevo suscriptor: <strong>${escapeHtml(email)}</strong>${src ? ` (guía: ${escapeHtml(src)})` : ""}</p>`,
           }),
         });
       } catch (e) {}

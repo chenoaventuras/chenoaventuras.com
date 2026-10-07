@@ -1,6 +1,8 @@
 ---
 title: 'Balneario de Panticosa: termas romanas a 1.636 metros de altitud'
 date: 2025-04-13T19:00:56.000Z
+lat: 42.7611
+lng: -0.2326
 excerpt: 'El Balneario de Panticosa, en el Pirineo Aragonés, ofrece aguas termales conocidas desde época romana a más de 1.600 metros de altitud. Precio y horario.'
 cover: /assets/img/instagram/18057693635513557.webp
 tags:

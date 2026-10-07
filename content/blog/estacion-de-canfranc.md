@@ -1,6 +1,8 @@
 ---
 title: 'Estación de Canfranc: la historia detrás de la estación más bonita de España'
 date: 2025-07-12T11:19:03.000Z
+lat: 42.7514
+lng: -0.5142
 excerpt: 'La Estación Internacional de Canfranc, en Huesca, fue paso de refugiados y contrabando durante la Segunda Guerra Mundial. Historia, precio y cómo visitarla.'
 cover: /assets/img/instagram/18060356315252624.webp
 tags:

@@ -1,6 +1,8 @@
 ---
 title: 'Cuevas de San José: el río subterráneo navegable más largo de Europa'
 date: 2025-07-28T19:32:47.000Z
+lat: 39.8245
+lng: -0.2526
 excerpt: 'Las Cuevas de San José, en la Vall d''Uixó, esconden el río subterráneo navegable más largo de Europa. Precio, duración y cómo reservar la visita.'
 cover: /assets/img/instagram/18072737909105340.webp
 tags:

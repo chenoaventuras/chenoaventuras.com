@@ -1,6 +1,8 @@
 ---
 title: 'Snorkel en Cabo de Palos e Islas Hormigas: calas y fauna'
 date: 2026-09-28T07:00:00.000Z
+lat: 37.6348
+lng: -0.6918
 excerpt: >-
   Dónde hacer snorkel en Cabo de Palos y la Reserva de Islas Hormigas: mejores
   calas, vida marina, cuándo ir, cómo llegar y normas que respetar.

@@ -1,6 +1,8 @@
 ---
 title: 'Mercado Cervantino de Alcalá de Henares: torneo y ambiente medieval'
 date: 2025-10-14T09:02:48.000Z
+lat: 40.4821
+lng: -3.3639
 excerpt: 'El Mercado Cervantino de Alcalá de Henares recrea el siglo XVI con puestos gratuitos y un torneo de justas medievales. Fechas y precio de la entrada al torneo.'
 cover: /assets/img/instagram/18107361979606597.webp
 tags:

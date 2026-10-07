@@ -1,6 +1,10 @@
 ---
 title: 'Guía del Monte Igueldo: las 19 atracciones y sus precios'
 date: 2026-10-06T10:00:00.000Z
+lat: 43.3228
+lng: -2.0106
+guia: /assets/guias/guia-monte-igueldo-chenoaventuras.pdf
+guiaTitulo: 'Guía del Monte Igueldo en PDF'
 excerpt: 'Las 19 atracciones del parque del Monte Igueldo en San Sebastián con su precio, edad recomendada, el funicular, los horarios y mis favoritas.'
 cover: /assets/img/blog/monte-igueldo/portada-rio-misterioso-cheno.webp
 coverPosition: center 58%

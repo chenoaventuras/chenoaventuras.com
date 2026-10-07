@@ -459,6 +459,45 @@
       .catch(function () { /* deja el contenido de ejemplo */ });
   }
 
+  /* ---------- Descarga de guía en PDF a cambio del email ---------- */
+  document.querySelectorAll("form[data-guide]").forEach(function (f) {
+    f.addEventListener("submit", function (ev) {
+      ev.preventDefault();
+      var box = f.closest("[data-guide-box]") || f.parentElement;
+      var msg = box.querySelector("[data-guide-msg]");
+      var link = box.querySelector("[data-guide-link]");
+      var btn = f.querySelector("button[type=submit]");
+      var emailInput = f.querySelector('input[type="email"]');
+      if (btn) btn.disabled = true;
+      fetch("/api/subscribe", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          email: emailInput ? emailInput.value : "",
+          source: f.getAttribute("data-guide-source") || ""
+        }),
+      })
+        .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, json: j }; }); })
+        .then(function (res) {
+          if (msg) { msg.hidden = false; msg.style.color = res.ok ? "" : "#ffb4a9"; }
+          if (res.ok) {
+            f.hidden = true;
+            var legal = box.querySelector(".guidebox__legal");
+            if (legal) legal.hidden = true;
+            if (msg) msg.textContent = "¡Listo! Tu guía ya está disponible:";
+            if (link) link.hidden = false;
+          } else {
+            if (msg) msg.textContent = (res.json && res.json.error) || "No se pudo enviar. Inténtalo de nuevo.";
+            if (btn) btn.disabled = false;
+          }
+        })
+        .catch(function () {
+          if (msg) { msg.hidden = false; msg.style.color = "#ffb4a9"; msg.textContent = "No se pudo enviar. Inténtalo de nuevo."; }
+          if (btn) btn.disabled = false;
+        });
+    });
+  });
+
   /* ---------- Hero: alterna entre varias fotos cada 5 s ---------- */
   var heroRot = document.querySelector("[data-hero-rotate]");
   var heroReduce =

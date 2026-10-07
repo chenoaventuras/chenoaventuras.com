@@ -1,6 +1,8 @@
 ---
 title: 'Territorio Artlanza: el pueblo castellano en miniatura hecho a mano en Burgos'
 date: 2026-05-31T17:40:55.000Z
+lat: 42.0337
+lng: -3.6527
 excerpt: 'Qué es Territorio Artlanza, la escultura más grande del mundo creada por una sola persona: un pueblo castellano recreado a tamaño real en Quintanilla del Agua, Burgos.'
 cover: /assets/img/instagram/18047661281545002.webp
 tags:

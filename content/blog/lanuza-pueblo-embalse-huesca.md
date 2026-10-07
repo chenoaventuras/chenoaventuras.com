@@ -1,6 +1,8 @@
 ---
 title: 'Lanuza: el pueblo que resucitó tras quedar bajo las aguas de un embalse'
 date: 2026-06-11T18:15:39.000Z
+lat: 42.7562
+lng: -0.3155
 excerpt: 'Lanuza, en Huesca, quedó despoblado en 1976 al construirse su embalse y volvió a habitarse en los años 90. Historia, festival Pirineos Sur y cómo llegar.'
 cover: /assets/img/instagram/17908806873244673.webp
 tags:

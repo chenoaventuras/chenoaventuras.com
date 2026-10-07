@@ -1,6 +1,8 @@
 ---
 title: 'Basura en el mar: snorkel en Cabo de Palos'
 date: 2026-09-28T07:00:00.000Z
+lat: 37.6313
+lng: -0.6948
 excerpt: >-
   Qué me encontré haciendo snorkel en Cabo de Palos y por qué la basura marina
   sigue siendo un problema real en el Mediterráneo.

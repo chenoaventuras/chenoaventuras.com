@@ -50,6 +50,10 @@ collections:
           required: false,
           hint: 'Tipo: "Curiosidades", "Actividades" (algo que se hace/reserva), "Pueblos" (guía de un pueblo) o "Spots" (mirador, cascada, cueva... algo que se ve). Añade también la comunidad autónoma si el post tiene un lugar concreto (p. ej. "Comunidad Valenciana", "Región de Murcia").',
         }
+      - { name: lat, label: 'Latitud (para el mapa)', widget: number, value_type: float, required: false, hint: 'Opcional. Si la rellenas junto con la longitud, el post sale en la página Mapa. Se copia de Google Maps (clic derecho en el sitio).' }
+      - { name: lng, label: 'Longitud (para el mapa)', widget: number, value_type: float, required: false }
+      - { name: guia, label: 'Guía PDF a cambio del email (ruta)', widget: string, required: false, hint: 'Opcional. Ruta del PDF, p. ej. /assets/guias/mi-guia.pdf. Muestra un bloque para descargarla tras dejar el email.' }
+      - { name: guiaTitulo, label: 'Título del bloque de la guía', widget: string, required: false }
       - {
           name: draft,
           label: 'Borrador (marca esto para NO publicarlo todavía)',

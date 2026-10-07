@@ -1,6 +1,8 @@
 ---
 title: 'Pasarelas de Panticosa: puentes colgantes sobre el río Caldarés'
 date: 2026-06-16T18:42:30.000Z
+lat: 42.7237
+lng: -0.2844
 excerpt: 'Las Pasarelas de Panticosa cruzan el río Caldarés con puentes colgantes y vistas de vértigo. Precio, horario y requisitos de esta ruta circular de una hora.'
 cover: /assets/img/instagram/18131174488538752.webp
 tags:

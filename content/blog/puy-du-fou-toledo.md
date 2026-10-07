@@ -1,6 +1,8 @@
 ---
 title: 'Puy du Fou España: el parque temático donde la historia cobra vida'
 date: 2025-07-31T10:57:12.000Z
+lat: 39.8388
+lng: -4.0929
 excerpt: 'Puy du Fou España, en Toledo, combina espectáculos históricos a otro nivel con un show nocturno de luces y sonido. Precio, duración y consejos.'
 cover: /assets/img/instagram/18066740699149373.webp
 tags:

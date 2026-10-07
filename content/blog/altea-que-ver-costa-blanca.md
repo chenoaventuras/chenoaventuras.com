@@ -1,6 +1,8 @@
 ---
 title: 'Altea: qué ver en el pueblo de las cúpulas azules'
 date: 2026-08-23T19:05:06.000Z
+lat: 38.599
+lng: -0.051
 excerpt: 'Guía rápida de Altea (Alicante): casco antiguo, miradores, playas y gastronomía, con consejos para aprovechar la escapada al máximo.'
 cover: /assets/img/blog/uploads/altea-horizontal.webp
 draft: false

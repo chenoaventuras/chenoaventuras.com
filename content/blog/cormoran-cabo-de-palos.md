@@ -1,6 +1,8 @@
 ---
 title: 'El cormorán: el buceador de élite de las costas rocosas'
 date: 2026-09-03T18:32:13.000Z
+lat: 37.6313
+lng: -0.6948
 excerpt: 'Curiosidades del cormorán: hasta qué profundidad bucea, por qué extiende las alas al sol y dónde verlo en las costas rocosas de España.'
 cover: /assets/img/instagram/18097458002564101.webp
 tags:

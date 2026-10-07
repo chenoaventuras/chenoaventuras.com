@@ -1,6 +1,8 @@
 ---
 title: 'El mercado de pescado de Essaouira: subastas a pie de muelle en Marruecos'
 date: 2026-01-28T20:10:11.000Z
+lat: 31.5125
+lng: -9.77
 excerpt: 'El mercado de pescado del puerto de Essaouira, en Marruecos, es puro trabajo diario: subastas a pie de muelle, sardinas recién llegadas y pescado que puedes comprar y comer al momento.'
 cover: /assets/img/instagram/17941957854103087.webp
 tags:

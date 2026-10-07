@@ -1,6 +1,8 @@
 ---
 title: 'Escapada por el Pirineo Aragonés: 21 lugares imprescindibles'
 date: 2026-08-06T17:29:16.000Z
+lat: 42.57
+lng: -0.549
 excerpt: 'Guía de escapada por el Pirineo Aragonés: miradores, pueblos, cascadas, patrimonio y actividades de aventura, con cómo llegar y cuándo ir.'
 cover: /assets/img/instagram/17918762373419557.webp
 tags:

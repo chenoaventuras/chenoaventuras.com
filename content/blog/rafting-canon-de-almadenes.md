@@ -1,6 +1,8 @@
 ---
 title: 'Rafting en el Cañón de Almadenes: descenso en barca por el río Segura'
 date: 2025-09-29T18:14:58.000Z
+lat: 38.2399
+lng: -1.582
 excerpt: 'El rafting turístico por el Cañón de Almadenes recorre paredes de 150 metros entre Cieza y Calasparra, con paradas en cuevas con pinturas rupestres.'
 cover: /assets/img/instagram/18079196165076381.webp
 tags:

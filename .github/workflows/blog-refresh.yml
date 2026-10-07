@@ -111,7 +111,10 @@ jobs:
                  "updated: AAAA-MM-DD" (fecha de hoy), y solo en los posts
                  donde hayas cambiado el título, el resumen o el cuerpo. No
                  cambies date, slug, cover, tags, igPermalink ni ningún otro
-                 campo.
+                 campo. Excepción: si el post trata de un sitio concreto y no
+                 tiene "lat" y "lng", añádelos (decimales, p. ej. lat: 38.5990 y
+                 lng: -0.0510) solo si has confirmado las coordenadas en esta
+                 ejecución; sirven para colocar el post en la página Mapa.
                - No toques los enlaces de Google Maps, el enlace al vídeo de
                  Instagram ni ningún enlace de afiliado o código de descuento.
                - Respeta el formato exacto del fichero (algunas guías llevan

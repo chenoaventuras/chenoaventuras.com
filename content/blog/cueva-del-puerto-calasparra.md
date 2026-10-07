@@ -1,6 +1,8 @@
 ---
 title: 'Cueva del Puerto: la única en Europa con dos salas luminiscentes'
 date: 2025-10-12T09:41:10.000Z
+lat: 38.2945
+lng: -1.6332
 excerpt: 'La Cueva del Puerto, en Calasparra, es la única cueva de Europa con dos salas de minerales luminiscentes. Qué ver, precio y cómo visitarla.'
 cover: /assets/img/instagram/17975666267783470.webp
 tags:

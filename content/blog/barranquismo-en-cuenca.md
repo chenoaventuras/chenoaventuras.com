@@ -1,6 +1,8 @@
 ---
 title: 'Barranquismo en Cuenca: descenso de cañones en el río Júcar'
 date: 2026-07-05T08:00:47.000Z
+lat: 40.2356
+lng: -2.0893
 excerpt: 'Cómo es la actividad de barranquismo en el cañón del río Júcar, en la Serranía de Cuenca: qué incluye, precio, requisitos y cómo reservarla.'
 cover: /assets/img/instagram/17884520457664154.webp
 tags:
