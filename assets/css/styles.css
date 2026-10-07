@@ -1333,6 +1333,8 @@ p { margin: 0 0 1em; }
   transition: none;
 }
 .cookiebar__cta:hover { transform: translateX(-50%); }
+.cookiebar__links { margin: 0; padding: 0 14px 10px; text-align: center; font-size: .75rem; color: var(--ink-mute); }
+.cookiebar__links a { color: var(--night); text-decoration: underline; text-underline-offset: 2px; }
 @media (max-width: 480px) {
   .cookiebar { left: 12px; right: 12px; bottom: 12px; }
 }

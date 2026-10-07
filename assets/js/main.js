@@ -814,7 +814,8 @@
       '<div class="cookiebar__media">' +
       '<img class="cookiebar__img" src="/assets/img/cookies.webp" width="1787" height="419" alt="Una ruta con cookies es mejor. Solo se guardará tu puntuación si juegas al minijuego." />' +
       '<button type="button" class="cookiebar__cta btn" data-cookie-ok>¡Entendido!</button>' +
-      '</div>';
+      '</div>' +
+      '<p class="cookiebar__links">Más información: <a href="/politica-cookies.html">política de cookies</a> · <a href="/politica-privacidad.html">política de privacidad</a></p>';
     document.body.appendChild(bar);
     bar.querySelector("[data-cookie-ok]").addEventListener("click", function () {
       try { localStorage.setItem(KEY, "1"); } catch (e) {}
