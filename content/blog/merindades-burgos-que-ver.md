@@ -1,6 +1,8 @@
 ---
 title: 'Las Merindades de Burgos: 8 lugares imprescindibles para una escapada'
 date: 2026-01-21T20:20:55.000Z
+lugar: 'Merindades de Burgos'
+seoTitle: 'Merindades de Burgos: 8 lugares imprescindibles'
 lat: 42.7479
 lng: -3.2961
 excerpt: 'Qué ver en Las Merindades de Burgos: Puentedey, Orbaneja del Castillo, el Desfiladero de la Yecla, Frías y otros rincones imprescindibles de esta ruta.'

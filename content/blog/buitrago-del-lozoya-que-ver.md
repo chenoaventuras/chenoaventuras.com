@@ -1,6 +1,8 @@
 ---
 title: 'Buitrago del Lozoya: el único pueblo con muralla completa de la Comunidad de Madrid'
 date: 2026-02-26T19:32:03.000Z
+lugar: 'Buitrago del Lozoya'
+seoTitle: 'Buitrago del Lozoya: qué ver en el pueblo amurallado'
 lat: 40.9953
 lng: -3.6351
 excerpt: 'Qué ver en Buitrago del Lozoya: su muralla medieval completa, el museo dedicado a Picasso y cómo combinarlo con otros pueblos de la Sierra Norte de Madrid.'

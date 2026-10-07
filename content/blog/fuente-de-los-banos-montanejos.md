@@ -1,6 +1,8 @@
 ---
 title: 'Fuente de los Baños de Montanejos: aguas termales a 25°C todo el año'
 date: 2025-07-21T08:45:52.000Z
+lugar: 'Montanejos'
+seoTitle: 'Fuente de los Baños de Montanejos: termas a 25°C'
 lat: 40.0741
 lng: -0.5339
 excerpt: 'La Fuente de los Baños de Montanejos mantiene sus aguas termales a 25°C constantes durante todo el año. Precio, horario y consejos para la visita.'

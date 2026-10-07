@@ -1,16 +1,18 @@
 ---
 title: 'Mercado Medieval de Chinchón: cuándo se celebra y qué encontrarás'
 date: 2026-02-15T18:49:19.000Z
+lugar: 'Chinchón'
+seoTitle: 'Mercado Medieval de Chinchón: cuándo es y qué ver'
 lat: 40.1408
 lng: -3.4231
-excerpt: 'El Mercado Medieval de Chinchón convierte su Plaza Mayor en un viaje a la Edad Media: pasacalles, luchas medievales, artesanía y gastronomía. Cuándo se celebra.'
+excerpt: 'El Mercado Medieval de Chinchón lleva su Plaza Mayor a la Edad Media: pasacalles, luchas, artesanía y gastronomía. Cuándo se celebra.'
 cover: /assets/img/instagram/17844725496680012.webp
 tags:
   - Actividades
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DUygejhDDnD/'
 ---
-Chinchón ya es, de por sí, uno de los pueblos más bonitos de la Comunidad de Madrid. Pero una vez al año, sus calles empedradas y su mítica Plaza Mayor retroceden varios siglos para acoger caballeros, juglares y artesanos: es el Mercado Medieval de Chinchón.
+[Chinchón](/blog/chinchon-castillo-de-noche.html) ya es, de por sí, uno de los pueblos más bonitos de la Comunidad de Madrid. Pero una vez al año, sus calles empedradas y su mítica Plaza Mayor retroceden varios siglos para acoger caballeros, juglares y artesanos: es el Mercado Medieval de Chinchón.
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DUygejhDDnD/), grabado en Chinchón, Comunidad de Madrid.
 

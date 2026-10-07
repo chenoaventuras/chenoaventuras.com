@@ -1,6 +1,8 @@
 ---
 title: 'La Piedra del Rey Moro: la leyenda escondida junto al Tajo en Toledo'
 date: 2025-07-29T19:33:38.000Z
+lugar: 'Toledo'
+seoTitle: 'La Piedra del Rey Moro: leyenda junto al Tajo, Toledo'
 lat: 39.8504
 lng: -4.0225
 excerpt: 'La Piedra del Rey Moro, en Toledo, guarda la leyenda del último rey musulmán de la ciudad. Cómo llegar desde el Mirador del Valle y qué tener en cuenta.'

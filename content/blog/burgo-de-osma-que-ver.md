@@ -1,6 +1,8 @@
 ---
 title: 'El Burgo de Osma: qué ver en uno de los pueblos medievales más bonitos de Soria'
 date: 2026-03-08T08:56:30.000Z
+lugar: 'El Burgo de Osma'
+seoTitle: 'El Burgo de Osma: qué ver en uno de los pueblos de Soria'
 lat: 41.5869
 lng: -3.0674
 excerpt: 'Qué ver en El Burgo de Osma: su catedral, la farmacia más antigua de España, el castillo y por qué combinarlo con el Cañón del Río Lobos o Calatañazor.'

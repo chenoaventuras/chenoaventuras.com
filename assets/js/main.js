@@ -395,7 +395,7 @@
         openIgModal(p.permalink);
       });
       var img = document.createElement("img");
-      img.src = p.image || "assets/img/blog/cola-de-caballo.webp";
+      img.src = p.thumb || p.image || "assets/img/blog/cola-de-caballo.webp";
       img.alt = p.caption
         ? p.caption.replace(/\s+/g, " ").slice(0, 100)
         : "Publicación de Chenoaventuras en Instagram";
@@ -812,7 +812,7 @@
     bar.className = "cookiebar";
     bar.innerHTML =
       '<div class="cookiebar__media">' +
-      '<img class="cookiebar__img" src="/assets/img/cookies.webp" alt="Una ruta con cookies es mejor. Solo se guardará tu puntuación si juegas al minijuego." />' +
+      '<img class="cookiebar__img" src="/assets/img/cookies.webp" width="1787" height="419" alt="Una ruta con cookies es mejor. Solo se guardará tu puntuación si juegas al minijuego." />' +
       '<button type="button" class="cookiebar__cta btn" data-cookie-ok>¡Entendido!</button>' +
       '</div>';
     document.body.appendChild(bar);

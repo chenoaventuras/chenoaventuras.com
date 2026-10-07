@@ -54,6 +54,8 @@ collections:
       - { name: lng, label: 'Longitud (para el mapa)', widget: number, value_type: float, required: false }
       - { name: guia, label: 'Guía PDF a cambio del email (ruta)', widget: string, required: false, hint: 'Opcional. Ruta del PDF, p. ej. /assets/guias/mi-guia.pdf. Muestra un bloque para descargarla tras dejar el email.' }
       - { name: guiaTitulo, label: 'Título del bloque de la guía', widget: string, required: false }
+      - { name: lugar, label: 'Nombre del lugar (para el mapa y Google)', widget: string, required: false, hint: 'Opcional. Nombre corto del sitio, p. ej. "Cabo de Palos". Se usa también para enlazar automáticamente entre posts.' }
+      - { name: seoTitle, label: 'Título para Google (máx. ~60 caracteres)', widget: string, required: false, hint: 'Opcional. Si el título del post es muy largo, pon aquí una versión corta para el resultado de Google.' }
       - {
           name: draft,
           label: 'Borrador (marca esto para NO publicarlo todavía)',

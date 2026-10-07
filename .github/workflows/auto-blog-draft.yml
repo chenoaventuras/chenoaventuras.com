@@ -105,6 +105,8 @@ jobs:
                  con fiabilidad (compruébalo con WebSearch si dudas); si no, omite
                  lat y lng>
                lng: <longitud decimal (p.ej. -0.0510)>
+               lugar: <nombre corto del lugar (p.ej. Cabo de Palos); omítelo si
+                 no hay lugar concreto>
                tags:
                  - "<solo si el post es una curiosidad/dato (no una guía de un
                    lugar concreto): 'Curiosidades'; o si es sobre una
@@ -149,6 +151,12 @@ jobs:
               enlace en Markdown al vídeo original de Instagram usando el
               permalink de la publicación elegida (igPermalink), del tipo
               "puedes ver el vídeo [aquí](<permalink>)".
+            - Enlaza de forma natural a 2-3 posts existentes de content/blog/
+              que tengan relación (mismo lugar, zona o tema), con
+              [texto](/blog/<slug>.html), solo si el enlace aporta algo al
+              lector. Nunca en subtítulos.
+            - El título (title) debe cabrer entero en Google: máx. ~60
+              caracteres incluyendo la palabra clave principal al principio.
             - Cierra invitando a seguir a @chenoaventuras en Instagram y a
               explorar más aventuras en la web (mención de marca breve, sin
               repetirla varias veces).

@@ -1,9 +1,11 @@
 ---
 title: 'Aguilar de Campoo: qué ver en el pueblo de las galletas (y mucho más)'
 date: 2026-04-02T18:30:47.000Z
+lugar: 'Aguilar de Campoo'
+seoTitle: 'Aguilar de Campoo: qué ver en el pueblo de las galletas'
 lat: 42.7956
 lng: -4.3037
-excerpt: 'Qué ver en Aguilar de Campoo: la Colegiata de San Miguel, el Monasterio de Santa María la Real, el castillo y por qué es mucho más que el pueblo de las galletas.'
+excerpt: 'Qué ver en Aguilar de Campoo: la Colegiata, el Monasterio de Santa María la Real, el castillo y por qué es más que el pueblo de las galletas.'
 cover: /assets/img/instagram/17943610464165000.webp
 tags:
   - Pueblos

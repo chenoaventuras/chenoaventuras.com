@@ -1,6 +1,8 @@
 ---
 title: 'La "Capilla Sixtina madrileña": la joya barroca oculta de San Antonio de los Alemanes'
 date: 2026-02-14T08:28:41.000Z
+lugar: 'San Antonio de los Alemanes'
+seoTitle: 'Capilla Sixtina madrileña: San Antonio de los Alemanes'
 lat: 40.4264
 lng: -3.7033
 excerpt: 'La iglesia de San Antonio de los Alemanes, en Malasaña, está pintada por completo sin un solo espacio vacío. Por qué la llaman la "Capilla Sixtina madrileña".'

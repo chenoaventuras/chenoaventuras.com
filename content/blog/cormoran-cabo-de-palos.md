@@ -1,6 +1,7 @@
 ---
 title: 'El cormorán: el buceador de élite de las costas rocosas'
 date: 2026-09-03T18:32:13.000Z
+lugar: 'Cabo de Palos'
 lat: 37.6313
 lng: -0.6948
 excerpt: 'Curiosidades del cormorán: hasta qué profundidad bucea, por qué extiende las alas al sol y dónde verlo en las costas rocosas de España.'
@@ -10,7 +11,7 @@ tags:
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/p/Dc1dhLOxx2H/'
 ---
-Grabando en las rocas de Cabo de Palos me crucé con uno de esos animales que a primera vista parecen de lo más tranquilo del mundo: un pájaro negro posado en una roca, sin hacer mucho más. Y sin embargo, en cuanto se tira al agua, el cormorán se convierte en uno de los mejores buceadores de toda la fauna española.
+Grabando en las rocas de [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) me crucé con uno de esos animales que a primera vista parecen de lo más tranquilo del mundo: un pájaro negro posado en una roca, sin hacer mucho más. Y sin embargo, en cuanto se tira al agua, el cormorán se convierte en uno de los mejores buceadores de toda la fauna española.
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/p/Dc1dhLOxx2H/), grabado en Cabo de Palos, Cartagena, Región de Murcia.
 

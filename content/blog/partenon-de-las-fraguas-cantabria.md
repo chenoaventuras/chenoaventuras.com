@@ -1,9 +1,11 @@
 ---
 title: 'El Partenón cántabro: la iglesia neoclásica escondida en Las Fraguas'
 date: 2026-05-13T17:23:11.000Z
+lugar: 'Las Fraguas'
+seoTitle: 'El Partenón cántabro: la iglesia de Las Fraguas'
 lat: 43.1932
 lng: -4.0542
-excerpt: 'La iglesia de San Jorge, en Las Fraguas (Cantabria), es un templo neoclásico con 40 columnas corintias que recuerda al Partenón griego. Historia y cómo visitarla.'
+excerpt: 'La iglesia de San Jorge, en Las Fraguas (Cantabria), es un templo neoclásico con 40 columnas corintias que recuerda al Partenón. Historia y visita.'
 cover: /assets/img/instagram/18073249217294344.webp
 tags:
   - Spots

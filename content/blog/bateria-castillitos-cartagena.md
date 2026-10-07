@@ -1,6 +1,7 @@
 ---
 title: 'Batería de Castillitos: qué ver en Cabo Tiñoso'
 date: 2026-08-19T18:07:01.000Z
+lugar: 'Batería de Castillitos'
 lat: 37.54
 lng: -1.1209
 excerpt: 'Guía de la Batería de Castillitos (Cartagena): su historia, los cañones Vickers, cómo llegar y consejos para la escapada.'

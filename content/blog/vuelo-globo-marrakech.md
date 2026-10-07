@@ -1,6 +1,8 @@
 ---
 title: 'Vuelo en globo sobre Marrakech: cómo es ver el amanecer frente al Atlas'
 date: 2025-12-07T10:43:00.000Z
+lugar: 'Marrakech'
+seoTitle: 'Vuelo en globo en Marrakech: amanecer frente al Atlas'
 lat: 31.6295
 lng: -7.9811
 excerpt: 'Cómo es la experiencia de volar en globo aerostático al amanecer sobre Marrakech, con la cordillera del Atlas de fondo: qué incluye, precio y requisitos.'

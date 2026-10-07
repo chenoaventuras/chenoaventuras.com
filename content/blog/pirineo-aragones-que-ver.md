@@ -1,6 +1,7 @@
 ---
 title: 'Escapada por el Pirineo Aragonés: 21 lugares imprescindibles'
 date: 2026-08-06T17:29:16.000Z
+lugar: 'Pirineo Aragonés'
 lat: 42.57
 lng: -0.549
 excerpt: 'Guía de escapada por el Pirineo Aragonés: miradores, pueblos, cascadas, patrimonio y actividades de aventura, con cómo llegar y cuándo ir.'
@@ -28,13 +29,13 @@ Puedes ver la publicación original en [este post de Instagram](https://www.inst
 - **Aínsa**: el pueblo medieval por excelencia del Pirineo aragonés, con una Plaza Mayor porticada declarada Conjunto Histórico-Artístico y un castillo del siglo XI que vigilaba la frontera con los territorios musulmanes. Todo el casco antiguo es peatonal y está empedrado, así que aparca fuera y recorre sus calles con calma.
 - **Panticosa**: además del balneario y las cascadas de la zona, el propio pueblo merece un paseo, con la iglesia de la Asunción, el puente del Concellar y ese aire de valle de alta montaña que se respira en cada esquina.
 - **Biescas**: la puerta del valle de Tena, con un casco antiguo de calles estrechas, casas de piedra y tejados de pizarra. Cerca tiene el conjunto de Santa Elena (ermita, cascada y antiguos búnkeres) y el Paseo de las Brujas entre hayedos.
-- **Alquézar**: un poco más al sur, ya en la Sierra de Guara, pero si te queda un día libre merece el desvío. Su Colegiata de Santa María la Mayor —una antigua fortaleza árabe reconvertida en iglesia— corona el pueblo, y desde ahí baja la famosa Ruta de las Pasarelas, un recorrido circular de unos 3 km colgado literalmente sobre el cañón del río Vero.
+- **Alquézar**: un poco más al sur, ya en la [Sierra de Guara](/blog/avistamiento-de-buitres-sierra-de-guara.html), pero si te queda un día libre merece el desvío. Su Colegiata de Santa María la Mayor —una antigua fortaleza árabe reconvertida en iglesia— corona el pueblo, y desde ahí baja la famosa Ruta de las Pasarelas, un recorrido circular de unos 3 km colgado literalmente sobre el cañón del río Vero.
 
 ## Patrimonio e historia: Jaca y Canfranc
 
 La **Ciudadela de Jaca** (Castillo de San Pedro) es una fortaleza en forma de estrella construida en el siglo XVI por el ingeniero italiano Tiburcio Spannocchi, y es la única construcción de este tipo que se conserva completa en toda Europa. Se puede visitar por libre o con guía; en temporada alta (15 de junio a 15 de septiembre) abre todos los días de 10:00 a 20:00, y el resto del año, fines de semana y festivos de 10:00 a 18:00.
 
-La **Estación Internacional de Canfranc** es otra parada obligatoria: se inauguró en 1928 como uno de los grandes puntos de entrada ferroviaria entre España y Europa, y durante la Segunda Guerra Mundial fue escenario de historias de contrabando de oro, obras de arte y personas huyendo del nazismo. Cerró en 1970 y estuvo décadas abandonada como un fantasma monumental, hasta que entre 2014 y 2017 se restauró su vestíbulo; hoy se puede visitar con guía (unas 1,5 horas) y parte del edificio funciona como hotel de cinco estrellas.
+La **[Estación Internacional de Canfranc](/blog/estacion-de-canfranc.html)** es otra parada obligatoria: se inauguró en 1928 como uno de los grandes puntos de entrada ferroviaria entre España y Europa, y durante la Segunda Guerra Mundial fue escenario de historias de contrabando de oro, obras de arte y personas huyendo del nazismo. Cerró en 1970 y estuvo décadas abandonada como un fantasma monumental, hasta que entre 2014 y 2017 se restauró su vestíbulo; hoy se puede visitar con guía (unas 1,5 horas) y parte del edificio funciona como hotel de cinco estrellas.
 
 ## Cascadas y rincones de agua
 
@@ -42,7 +43,7 @@ El Pirineo Aragonés está lleno de agua por todas partes, y estas son de las pa
 
 - **Cascada de Forronías** (Panticosa): un rincón escondido, perfecto si te gustan las cascadas menos masificadas.
 - **[Cascada del Sorrosal](https://www.instagram.com/reel/DbToa3ERawQ/?hl=es)**: cae prácticamente en pleno centro de Broto, así que no hace falta ni caminar mucho para verla.
-- **Pasarelas de Panticosa**: un paseo sencillo y apto para todos los públicos, con pasarelas suspendidas sobre el río.
+- **[Pasarelas de Panticosa](/blog/pasarelas-de-panticosa.html)**: un paseo sencillo y apto para todos los públicos, con pasarelas suspendidas sobre el río.
 - **Cascada de Orós Bajo**: ideal para una parada rápida si vas de camino a otro sitio.
 - **Ermita de Santa Elena**: junto a una cascada preciosa y un pequeño fuerte a pocos metros, en Torla.
 
@@ -56,7 +57,7 @@ Si el senderismo se te queda corto, en la zona hay varias actividades de aventur
 
 - **[Barranco del Furco](https://gyg.me/uAZIhMHa)**: un barranco ideal para iniciarse en el descenso de cañones, con rápeles y toboganes naturales.
 - **[Vía Ferrata del Sorrosal](https://gyg.me/yTLuLVWW)**: una ascensión única literalmente pegada a la cascada del Sorrosal, con el agua cayendo a un lado mientras subes.
-- **Balneario de Panticosa**: si prefieres relajarte después de tanta ruta, este balneario está en un entorno rodeado de montañas que compensa cualquier agujeta.
+- **[Balneario de Panticosa](/blog/balneario-de-panticosa.html)**: si prefieres relajarte después de tanta ruta, este balneario está en un entorno rodeado de montañas que compensa cualquier agujeta.
 
 Para el barranco y la vía ferrata puedes reservar plaza directamente en los enlaces de arriba, usando el código de descuento **CHENOAVENTURAS5**.
 

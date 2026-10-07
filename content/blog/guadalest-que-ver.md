@@ -1,6 +1,8 @@
 ---
 title: 'Guadalest: qué ver en uno de los pueblos más bonitos de España'
 date: 2026-08-13T18:28:28.000Z
+lugar: 'Guadalest'
+seoTitle: 'Guadalest: qué ver en uno de los pueblos más bonitos'
 lat: 38.6755
 lng: -0.1996
 excerpt: 'Guía de Guadalest (Alicante): su castillo del siglo XI, el embalse turquesa, cómo llegar, cuándo ir y todo lo que hay que ver en el pueblo del peñón.'

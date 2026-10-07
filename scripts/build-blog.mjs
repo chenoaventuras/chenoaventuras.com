@@ -139,9 +139,8 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>${esc(title)}</title>
   <meta name="description" content="${esc(description)}" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet" />
+  <link rel="preload" href="/assets/fonts/poppins-400.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/assets/fonts/Inter-Black.otf" as="font" type="font/otf" crossorigin />
   <link rel="canonical" href="${esc(canonical)}" />
   <meta name="robots" content="index, follow, max-image-preview:large" />
   <meta name="theme-color" content="#274c78" />
@@ -205,6 +204,8 @@ function readPosts() {
     posts.push({
       slug, title, date, updated,
       lat: num(data.lat), lng: num(data.lng),
+      lugar: data.lugar ? String(data.lugar).trim() : "",
+      seoTitle: data.seoTitle ? String(data.seoTitle).trim() : "",
       guia: data.guia ? String(data.guia) : "",
       guiaTitulo: data.guiaTitulo ? String(data.guiaTitulo) : "",
       excerpt: excerpt || title,
@@ -233,7 +234,22 @@ function readPosts() {
 
 /* ---------- página de artículo ---------- */
 /* ---------- tarjetas, posts relacionados y bloque de guía ---------- */
-const norm = (s = "") => String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+// <title> de Google: ~60 caracteres. Con marca si cabe; si no, el seoTitle del
+// post (campo opcional) o el título solo.
+function seoTitleOf(p) {
+  if (p.seoTitle) return p.seoTitle;
+  const full = `${p.title} | Chenoaventuras`;
+  return full.length <= 62 ? full : p.title;
+}
+
+const norm = (s = "") =>String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+
+// Miniatura de 640 px (si existe) para tarjetas y mapa; el hero del post usa la original.
+function thumbOf(cover) {
+  if (!cover || !/^\/assets\/img\/(instagram|blog)\/[^/]+\.webp$/.test(cover)) return cover;
+  const t = cover.replace(/\.webp$/, "-640.webp");
+  return existsSync(join(ROOT, t.slice(1))) ? t : cover;
+}
 
 function blogCard(p, { level = 2, search = false } = {}) {
   const attrs = search
@@ -242,7 +258,7 @@ function blogCard(p, { level = 2, search = false } = {}) {
   return `          <a class="blogcard reveal" href="/blog/${p.slug}.html"${attrs}>
             ${
               p.cover
-                ? `<div class="blogcard__media"><img src="${esc(p.cover)}" alt="${esc(p.title)}" loading="lazy" decoding="async"${p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : ""} /></div>`
+                ? `<div class="blogcard__media"><img src="${esc(thumbOf(p.cover))}" alt="${esc(p.title)}" loading="lazy" decoding="async"${p.coverPosition ? ` style="object-position: ${esc(p.coverPosition)}"` : ""} /></div>`
                 : `<div class="blogcard__media blogcard__media--empty"></div>`
             }
             <div class="blogcard__body">
@@ -325,6 +341,20 @@ function renderPost(p, tagColorMap, nextPost, related = []) {
           inLanguage: "es",
           keywords: p.tags.join(", "),
           ...(regionTag ? { about: { "@type": "Place", name: regionTag } } : {}),
+          ...(p.lat !== null && p.lng !== null
+            ? {
+                contentLocation: {
+                  "@type": "Place",
+                  name: p.lugar || regionTag || p.title,
+                  geo: { "@type": "GeoCoordinates", latitude: p.lat, longitude: p.lng },
+                  address: {
+                    "@type": "PostalAddress",
+                    ...(regionTag ? { addressRegion: regionTag } : {}),
+                    addressCountry: p.lat < 35.5 && p.lng > -10.5 ? "MA" : "ES",
+                  },
+                },
+              }
+            : {}),
           author: { "@type": "Person", name: "Cheno", url: SITE + "/contacto.html" },
           publisher: {
             "@type": "Person",
@@ -393,7 +423,7 @@ ${related.map((r) => blogCard(r, { level: 3 })).join("\n")}
     </article>`;
 
   return shell({
-    title: `${p.title} | Chenoaventuras`,
+    title: seoTitleOf(p),
     description: p.excerpt,
     canonical: p.url,
     image: coverAbs,
@@ -513,7 +543,7 @@ function renderMap(posts) {
     slug: p.slug,
     title: p.title,
     excerpt: p.excerpt,
-    cover: p.cover,
+    cover: thumbOf(p.cover),
     url: `/blog/${p.slug}.html`,
     type: p.tags.find((t) => MAP_TYPES.includes(t)) || "",
     region: regionOf(p),
@@ -575,6 +605,21 @@ ${byRegion}
     description:
       "Mapa interactivo con todos los lugares de Chenoaventuras: pueblos, cascadas, actividades de aventura y curiosidades por España y Marruecos.",
     canonical: `${SITE}/mapa.html`,
+    jsonld: JSON.stringify(
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        name: "Mapa de aventuras",
+        url: `${SITE}/mapa.html`,
+        inLanguage: "es",
+        mainEntity: {
+          "@type": "ItemList",
+          itemListElement: data.map((d, i) => ({ "@type": "ListItem", position: i + 1, url: SITE + d.url, name: d.title })),
+        },
+      },
+      null,
+      2
+    ),
     extraHead: `\n  <link rel="stylesheet" href="/assets/vendor/leaflet/leaflet.css" />`,
     current: "mapa",
     body,
@@ -583,21 +628,24 @@ ${byRegion}
 
 /* ---------- sitemap ---------- */
 function renderSitemap(posts) {
-  const today = new Date().toISOString().slice(0, 10);
+  // Solo se pone lastmod donde es verdad: el blog y el mapa cambian cuando
+  // cambia el último post. En el resto no se pone (poner "hoy" en cada
+  // despliegue hace que Google deje de fiarse de las fechas del sitemap).
+  const latest = posts.reduce((m, p) => (p.updated > m ? p.updated : m), new Date(0)).toISOString().slice(0, 10);
   const fixed = [
-    ["/", "1.0", "weekly"],
-    ["/aventuras.html", "0.8", "weekly"],
-    ["/blog.html", "0.8", "weekly"],
-    ["/mapa.html", "0.8", "weekly"],
-    ["/curiosidades.html", "0.8", "weekly"],
-    ["/servicios.html", "0.7", "monthly"],
-    ["/equipo.html", "0.6", "monthly"],
-    ["/contacto.html", "0.6", "monthly"],
+    ["/", "1.0", "weekly", null],
+    ["/aventuras.html", "0.8", "weekly", null],
+    ["/blog.html", "0.8", "weekly", latest],
+    ["/mapa.html", "0.8", "weekly", latest],
+    ["/curiosidades.html", "0.8", "weekly", null],
+    ["/servicios.html", "0.7", "monthly", null],
+    ["/equipo.html", "0.6", "monthly", null],
+    ["/contacto.html", "0.6", "monthly", null],
   ];
   const rows = [
     ...fixed.map(
-      ([loc, pr, cf]) =>
-        `  <url><loc>${SITE}${loc}</loc><lastmod>${today}</lastmod><changefreq>${cf}</changefreq><priority>${pr}</priority></url>`
+      ([loc, pr, cf, lm]) =>
+        `  <url><loc>${SITE}${loc}</loc>${lm ? `<lastmod>${lm}</lastmod>` : ""}<changefreq>${cf}</changefreq><priority>${pr}</priority></url>`
     ),
     ...posts.map(
       (p) =>

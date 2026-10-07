@@ -1,6 +1,8 @@
 ---
 title: 'Rafting en el Cañón de Almadenes: descenso en barca por el río Segura'
 date: 2025-09-29T18:14:58.000Z
+lugar: 'Cañón de Almadenes'
+seoTitle: 'Rafting en el Cañón de Almadenes: descenso por el Segura'
 lat: 38.2399
 lng: -1.582
 excerpt: 'El rafting turístico por el Cañón de Almadenes recorre paredes de 150 metros entre Cieza y Calasparra, con paradas en cuevas con pinturas rupestres.'
@@ -24,7 +26,7 @@ Durante el trayecto se hacen paradas en lugares como la **Cueva de los Monigotes
 
 ## Precio y paquete combinado
 
-El rafting turístico tiene un precio desde **18€ por persona**, aunque suele haber ofertas en plataformas como Groupon o Civitatis. También existe un paquete combinado de rafting más visita a la Cueva del Puerto, con un precio general de 33€ por persona (12-64 años) y 27€ para niños y pensionistas; los menores de 4 años no pagan.
+El rafting turístico tiene un precio desde **18€ por persona**, aunque suele haber ofertas en plataformas como Groupon o Civitatis. También existe un paquete combinado de rafting más visita a la [Cueva del Puerto](/blog/cueva-del-puerto-calasparra.html), con un precio general de 33€ por persona (12-64 años) y 27€ para niños y pensionistas; los menores de 4 años no pagan.
 
 ## Duración y dificultad
 

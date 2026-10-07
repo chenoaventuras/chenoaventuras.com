@@ -1,6 +1,7 @@
 ---
 title: 'Cómo volar un dron de forma legal en España sin arriesgarte a una multa'
 date: 2026-03-30T18:30:28.000Z
+seoTitle: 'Cómo volar un dron legalmente en España sin multas'
 excerpt: 'Registro en AESA, la app ENAIRE Drones, altura máxima, aviso de vuelo urbano y seguro: la normativa básica para volar tu dron de forma legal en España.'
 cover: /assets/img/instagram/17937287667194022.webp
 tags:

@@ -1,6 +1,8 @@
 ---
 title: 'Pasarelas de Panticosa: puentes colgantes sobre el río Caldarés'
 date: 2026-06-16T18:42:30.000Z
+lugar: 'Panticosa'
+seoTitle: 'Pasarelas de Panticosa: puentes colgantes del Caldarés'
 lat: 42.7237
 lng: -0.2844
 excerpt: 'Las Pasarelas de Panticosa cruzan el río Caldarés con puentes colgantes y vistas de vértigo. Precio, horario y requisitos de esta ruta circular de una hora.'
@@ -10,7 +12,7 @@ tags:
   - Aragón
 igPermalink: 'https://www.instagram.com/reel/DZqD7LhNvuV/'
 ---
-Puentes colgantes sobre el río Caldarés, rodeados de montañas y desfiladeros, con vistas que provocan algo de vértigo incluso a quienes no suelen tenerlo: así son las Pasarelas de Panticosa, una de las rutas más espectaculares y accesibles del Pirineo Aragonés.
+Puentes colgantes sobre el río Caldarés, rodeados de montañas y desfiladeros, con vistas que provocan algo de vértigo incluso a quienes no suelen tenerlo: así son las Pasarelas de Panticosa, una de las rutas más espectaculares y accesibles del [Pirineo Aragonés](/blog/pirineo-aragones-que-ver.html).
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DZqD7LhNvuV/), grabado en Panticosa, Huesca.
 

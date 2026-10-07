@@ -1,6 +1,7 @@
 ---
 title: 'GetYourGuide: dónde reservo tours y entradas con 5% de descuento'
 date: 2020-01-01T09:00:00.000Z
+seoTitle: 'GetYourGuide: reservar tours con 5% de descuento'
 excerpt: 'Por qué GetYourGuide es mi plataforma de referencia para reservar tours, entradas y actividades de aventura, con cancelación gratuita y 5% de descuento.'
 cover: /assets/descuentos/getyourguide.webp
 tags:

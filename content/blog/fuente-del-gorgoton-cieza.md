@@ -1,6 +1,7 @@
 ---
 title: 'Fuente del Gorgotón: el manantial de acceso libre en Cieza'
 date: 2025-08-13T14:46:00.000Z
+lugar: 'Cieza'
 lat: 38.24
 lng: -1.419
 excerpt: 'La Fuente del Gorgotón, en Cieza, es un manantial de acceso gratuito donde el agua emerge desde el acuífero de Calasparra a 200 metros de profundidad.'

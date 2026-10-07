@@ -114,7 +114,15 @@ jobs:
                  campo. Excepción: si el post trata de un sitio concreto y no
                  tiene "lat" y "lng", añádelos (decimales, p. ej. lat: 38.5990 y
                  lng: -0.0510) solo si has confirmado las coordenadas en esta
-                 ejecución; sirven para colocar el post en la página Mapa.
+                 ejecución; sirven para colocar el post en la página Mapa. Si
+                 falta "lugar", añade el nombre corto del sitio (p. ej.
+                 lugar: Cabo de Palos).
+               - ENLACES INTERNOS: si en el cuerpo se nombra un lugar, animal
+                 o tema del que ya hay otro post en content/blog/ (mira su
+                 "lugar" y su título) y esa mención aún no lleva enlace, enlázala
+                 la primera vez que aparece con [texto](/blog/<slug>.html). Máx.
+                 3 enlaces nuevos por post, nunca en subtítulos, nunca al propio
+                 post y solo cuando el enlace tenga sentido para el lector.
                - No toques los enlaces de Google Maps, el enlace al vídeo de
                  Instagram ni ningún enlace de afiliado o código de descuento.
                - Respeta el formato exacto del fichero (algunas guías llevan

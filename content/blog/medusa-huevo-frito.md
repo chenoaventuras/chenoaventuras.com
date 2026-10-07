@@ -1,6 +1,7 @@
 ---
 title: 'Medusa huevo frito: ¿pica o es peligrosa? Guía completa'
 date: 2026-09-16T18:46:23.000Z
+lugar: 'Cabo de Palos'
 lat: 37.6313
 lng: -0.6948
 excerpt: 'Qué es la medusa huevo frito, por qué tiene ese centro amarillo, si pica, qué hacer si te roza y dónde verla en el Mediterráneo.'
@@ -10,7 +11,7 @@ tags:
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DdW9IzJRGUK/'
 ---
-Buceando por Cabo de Palos es fácil cruzarte con una medusa que parece sacada de una sartén: centro amarillo brillante rodeado de un cuerpo blanquecino, flotando tranquila cerca de la superficie. No es casualidad que la conozcan como medusa huevo frito. Y aunque la primera vez que la ves de cerca impone (puede rozar los 40 centímetros), es de las medusas más tranquilas que te vas a encontrar en el Mediterráneo.
+Buceando por [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) es fácil cruzarte con una medusa que parece sacada de una sartén: centro amarillo brillante rodeado de un cuerpo blanquecino, flotando tranquila cerca de la superficie. No es casualidad que la conozcan como medusa huevo frito. Y aunque la primera vez que la ves de cerca impone (puede rozar los 40 centímetros), es de las medusas más tranquilas que te vas a encontrar en el Mediterráneo.
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DdW9IzJRGUK/), grabado en Cabo de Palos, Cartagena, Región de Murcia.
 

@@ -1,6 +1,8 @@
 ---
 title: 'Lanuza: el pueblo que resucitó tras quedar bajo las aguas de un embalse'
 date: 2026-06-11T18:15:39.000Z
+lugar: 'Lanuza'
+seoTitle: 'Lanuza (Huesca): el pueblo que resucitó bajo un embalse'
 lat: 42.7562
 lng: -0.3155
 excerpt: 'Lanuza, en Huesca, quedó despoblado en 1976 al construirse su embalse y volvió a habitarse en los años 90. Historia, festival Pirineos Sur y cómo llegar.'
@@ -20,7 +22,7 @@ En 1976 se construyó el **Embalse de Lanuza**, que recoge las aguas del río G�
 
 ## La recuperación del pueblo en los años 90
 
-Fue en los años 90 cuando los antiguos habitantes de Lanuza consiguieron recuperar las viviendas y propiedades que habían quedado fuera del agua, devolviendo la actividad al pueblo. Hoy, sus casas de piedra conviven con el paisaje del embalse, creando una de las estampas más bonitas de todo el Pirineo aragonés.
+Fue en los años 90 cuando los antiguos habitantes de Lanuza consiguieron recuperar las viviendas y propiedades que habían quedado fuera del agua, devolviendo la actividad al pueblo. Hoy, sus casas de piedra conviven con el paisaje del embalse, creando una de las estampas más bonitas de todo el [Pirineo aragonés](/blog/pirineo-aragones-que-ver.html).
 
 ## El festival Pirineos Sur
 

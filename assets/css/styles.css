@@ -21,19 +21,40 @@
 }
 @font-face {
   font-family: "Poppins";
-  src: url("../fonts/Poppins-SemiBold.ttf") format("truetype");
+  src: url("../fonts/poppins-400.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins-500.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins-600.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Poppins";
-  src: url("../fonts/Poppins-MediumItalic.ttf") format("truetype");
+  src: url("../fonts/poppins-400i.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/poppins-500i.woff2") format("woff2");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
 }
-/* Poppins 400/500 rectos llegan de Google Fonts (ver <link> en cada página). */
+/* Poppins (subset latino, woff2) alojada aquí: sin depender de Google Fonts. */
 
 /* ---------- Tokens ---------- */
 :root {

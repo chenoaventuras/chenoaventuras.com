@@ -1,6 +1,8 @@
 ---
 title: 'Chorrera de los Litueros: la cascada de 40 metros en Somosierra'
 date: 2026-03-01T18:59:11.000Z
+lugar: 'Chorrera de los Litueros'
+seoTitle: 'Chorrera de los Litueros: cascada de 40 m en Somosierra'
 lat: 41.1331
 lng: -3.5812
 excerpt: 'La Chorrera de los Litueros, en Somosierra, es una cascada escalonada de unos 40 metros y nacimiento del río Duratón. Cómo llegar y cuándo tiene más caudal.'

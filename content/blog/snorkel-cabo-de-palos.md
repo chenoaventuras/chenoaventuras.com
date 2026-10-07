@@ -1,6 +1,7 @@
 ---
 title: 'Snorkel en Cabo de Palos e Islas Hormigas: calas y fauna'
 date: 2026-09-28T07:00:00.000Z
+lugar: 'Cabo de Palos'
 lat: 37.6348
 lng: -0.6918
 excerpt: >-
@@ -41,7 +42,7 @@ Un poco más exigente, la Cala de la Escalera tiene un fondo marino mucho más e
 
 ## Qué vida marina te puedes encontrar
 
-En las calas rocosas de Cabo de Palos es habitual toparse con **pulpos** camuflados entre las piedras, bancos de **castañuelas** (esos pececillos azules y morados tan vistosos), **salpas**, **doncellas** y, si te alejas un poco de la orilla, **barracudas** patrullando en grupo. También hay quien se ha cruzado con peces luna, morenas asomando entre las rocas y, cómo no, los cormoranes que bucean por su cuenta compitiendo contigo por la misma pesca.
+En las calas rocosas de Cabo de Palos es habitual toparse con **pulpos** camuflados entre las piedras, bancos de **castañuelas** (esos pececillos azules y morados tan vistosos), **salpas**, **doncellas** y, si te alejas un poco de la orilla, **barracudas** patrullando en grupo. También hay quien se ha cruzado con peces luna, morenas asomando entre las rocas y, cómo no, los [cormoranes](/blog/cormoran-cabo-de-palos.html) que bucean por su cuenta compitiendo contigo por la misma pesca.
 
 Más allá de las calas, toda la reserva comparte un catálogo de fauna que pocos sitios del Mediterráneo español pueden igualar: corvinas, abadejos, besugos reales, anguilas de arena, rayas y meros de buen tamaño, protegidos precisamente por llevar tantos años sin presión pesquera. La combinación de roca, pradera de posidonia y aguas limpias hace que la vida se concentre mucho más que en una playa de arena cualquiera.
 

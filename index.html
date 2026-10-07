@@ -5,9 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Chenoaventuras | Descubre nuevos destinos 🌎</title>
   <meta name="description" content="Chenoaventuras (@chenoaventuras): rutas, destinos y curiosidades de viaje reales por España y más allá. Contenido de viajes para gente aventurera." />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet" />
+  <link rel="preload" href="assets/fonts/poppins-400.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="assets/fonts/Inter-Black.otf" as="font" type="font/otf" crossorigin />
   <link rel="canonical" href="https://www.chenoaventuras.com/" />
   <meta name="robots" content="index, follow, max-image-preview:large" />
   <meta name="theme-color" content="#274c78" />
@@ -95,9 +94,9 @@
     <!-- ============ HERO ============ -->
     <section class="hero torn-bottom">
       <div class="hero__media" data-hero-rotate>
-        <img src="assets/img/hero.webp" alt="Embalse de Lanuza y la Peña Foratata en el Pirineo aragonés" width="1672" height="941" fetchpriority="high" decoding="async" />
-        <img src="assets/img/hero-altea.webp" alt="Vista aérea de Altea, la iglesia de la cúpula azul y la Costa Blanca al atardecer" width="1672" height="941" loading="lazy" decoding="async" />
-        <img src="assets/img/hero-desierto.webp" alt="Dunas del desierto bajo un cielo azul" width="1672" height="941" loading="lazy" decoding="async" />
+        <img src="assets/img/hero.webp" srcset="assets/img/hero-828.webp 828w, assets/img/hero.webp 1672w" sizes="100vw" alt="Embalse de Lanuza y la Peña Foratata en el Pirineo aragonés" width="1672" height="941" fetchpriority="high" decoding="async" />
+        <img src="assets/img/hero-altea.webp" srcset="assets/img/hero-altea-828.webp 828w, assets/img/hero-altea.webp 1672w" sizes="100vw" alt="Vista aérea de Altea, la iglesia de la cúpula azul y la Costa Blanca al atardecer" width="1672" height="941" loading="lazy" decoding="async" />
+        <img src="assets/img/hero-desierto.webp" srcset="assets/img/hero-desierto-828.webp 828w, assets/img/hero-desierto.webp 1672w" sizes="100vw" alt="Dunas del desierto bajo un cielo azul" width="1672" height="941" loading="lazy" decoding="async" />
       </div>
       <div class="hero__portrait" aria-hidden="true"></div>
       <div class="hiker" aria-hidden="true">
@@ -242,7 +241,7 @@
       </div>
       <div class="container split split--equipo">
         <div class="split__media split__media--square reveal reveal--media">
-          <img src="assets/img/mi-equipo.webp" alt="Equipo de viaje de Chenoaventuras: iPhone, dron DJI Mini, cámara de acción, estabilizador, micrófono inalámbrico, SSD, batería externa, foco LED, tarjeta microSD y AirTag" width="1254" height="1254" loading="lazy" decoding="async" />
+          <img src="assets/img/mi-equipo.webp" srcset="assets/img/mi-equipo-640.webp 640w, assets/img/mi-equipo.webp 1254w" sizes="(min-width: 900px) 50vw, 100vw" alt="Equipo de viaje de Chenoaventuras: iPhone, dron DJI Mini, cámara de acción, estabilizador, micrófono inalámbrico, SSD, batería externa, foco LED, tarjeta microSD y AirTag" width="1254" height="1254" loading="lazy" decoding="async" />
           <button type="button" class="focofx" tabindex="-1" aria-label="Foco de la imagen"></button>
         </div>
         <div class="reveal">
@@ -273,7 +272,7 @@
             <div class="placecard__body"><h3>Alojamientos y lugares turísticos</h3><span>Hoteles, casas rurales, campings...</span></div>
           </a>
           <a class="placecard reveal reveal--media" href="servicios.html">
-            <img src="assets/img/mi-equipo.webp" alt="Equipo de viaje y creación de contenido de Chenoaventuras" width="400" height="400" loading="lazy" decoding="async" />
+            <img src="assets/img/mi-equipo.webp" srcset="assets/img/mi-equipo-640.webp 640w, assets/img/mi-equipo.webp 1254w" sizes="400px" alt="Equipo de viaje y creación de contenido de Chenoaventuras" width="400" height="400" loading="lazy" decoding="async" />
             <div class="placecard__body"><h3>Productos</h3><span>Relacionados con viajes y aventura</span></div>
           </a>
         </div>

@@ -39,6 +39,22 @@ function toWebp(buf, id) {
   }
 }
 
+/** Miniatura de 640 px de ancho para tarjetas (el original se usa en los héroes). */
+function toWebpThumb(buf, id) {
+  const inPath = join(tmpdir(), `ig-${id}-t.bin`);
+  const outPath = join(tmpdir(), `ig-${id}-t.webp`);
+  try {
+    writeFileSync(inPath, buf);
+    execFileSync("cwebp", ["-quiet", "-q", "76", "-resize", "640", "0", inPath, "-o", outPath]);
+    return readFileSync(outPath);
+  } catch {
+    return null;
+  } finally {
+    try { rmSync(inPath, { force: true }); } catch {}
+    try { rmSync(outPath, { force: true }); } catch {}
+  }
+}
+
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT_JSON = join(ROOT, "assets", "data", "instagram.json");
 const IMG_DIR = join(ROOT, "assets", "img", "instagram");
@@ -151,6 +167,8 @@ for (const m of visibles.slice(0, LIMIT)) {
         const rel = `assets/img/instagram/${m.id}.${ext}`;
         await writeFile(join(ROOT, rel), buf);
         image = rel;
+        const th = toWebpThumb(raw, m.id);
+        if (th) await writeFile(join(IMG_DIR, `${m.id}-640.webp`), th);
       }
     } catch (e) {
       console.warn("No se pudo descargar la imagen de", m.id, e.message);
@@ -163,6 +181,7 @@ for (const m of visibles.slice(0, LIMIT)) {
     caption: (m.caption || "").replace(/\s+/g, " ").trim().slice(0, 160),
     type: m.media_type === "VIDEO" ? "REEL" : "IMAGE",
     timestamp: m.timestamp || null,
+    ...(existsSync(join(IMG_DIR, `${m.id}-640.webp`)) ? { thumb: `assets/img/instagram/${m.id}-640.webp` } : {}),
     ...(isHiddenFromHome(m) ? { home: false } : {}),
   });
 }
@@ -174,7 +193,7 @@ await writeFile(
 
 // Borra miniaturas antiguas que ya no están en el JSON (no se acumulan).
 try {
-  const keep = new Set(posts.map((p) => p.image && p.image.split("/").pop()));
+  const keep = new Set(posts.flatMap((p) => [p.image, p.thumb]).filter(Boolean).map((x) => x.split("/").pop()));
   for (const f of readdirSync(IMG_DIR)) {
     if (!keep.has(f)) {
       rmSync(join(IMG_DIR, f), { force: true });
