@@ -16,6 +16,7 @@ const OWNER_EMAIL = "chenoaventuras@gmail.com";
 // Guías en PDF: valor de "source" del formulario -> título y archivo.
 const GUIDES = {
   "guia-monte-igueldo": { title: "Guía del Monte Igueldo", file: "/assets/guias/guia-monte-igueldo-chenoaventuras.pdf" },
+  "guia-cuenca": { title: "Guía de Cuenca", file: "/assets/guias/guia-cuenca-chenoaventuras.pdf" },
 };
 
 // Límite por IP (en memoria): evita usar el formulario para mandar correos a terceros.

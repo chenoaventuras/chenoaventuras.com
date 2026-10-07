@@ -360,7 +360,7 @@ function guideBox(p) {
   const name = p.guiaTitulo || "Descarga la guía en PDF";
   return `<aside class="guidebox" id="guia-gratis" data-guide-box>
   <div class="guidebox__text">
-    <p class="guidebox__title">${esc(name)}</p>
+    <p class="guidebox__title">📱 ${esc(name)}</p>
     <p>Gratis: recíbela en tu correo y llévala en el móvil.</p>
   </div>
   <div class="guidebox__action">

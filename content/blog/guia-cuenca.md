@@ -12,15 +12,14 @@ tags:
   - Actividades
   - Castilla-La Mancha
 wide: true
+guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
+guiaTitulo: 'Guía de Cuenca en PDF'
 ---
 Cuenca es de esos sitios a los que vas por las **Casas Colgadas** y vuelves hablando de todo lo demás. Una ciudad Patrimonio de la Humanidad colgada entre dos hoces, y a veinte minutos, una Serranía llena de cañones, lagunas y rocas con formas imposibles.
 
 Aquí te dejo todo lo que he visitado y hecho allí: lo imprescindible de la ciudad, mis aventuras (con sus reels) y los rincones de la Serranía que no te puedes perder. Con precios, cómo llegar y una ruta para organizarte 👇
 
-<div class="guide__download">
-<p><strong>📄 ¿La quieres en el móvil?</strong> Descárgate esta guía en PDF y llévala contigo a Cuenca.</p>
-<a class="btn guide__dl" href="/assets/guias/guia-cuenca-chenoaventuras.pdf" download><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M5 21h14"/></svg> Descargar guía PDF</a>
-</div>
+<!--guia-->
 
 <div class="guide__head"><span class="eyebrow">La ciudad</span><h2>Qué ver en Cuenca</h2><p>Casi todo se ve a pie y gratis. Cuenta con cuestas: calzado cómodo sí o sí.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
@@ -66,7 +65,7 @@ Aquí te dejo todo lo que he visitado y hecho allí: lo imprescindible de la ciu
 <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
 Ver vídeos
 </a>
-<a class="btn btn--ghost guide__dl guide__dl--cta" href="/assets/guias/guia-cuenca-chenoaventuras.pdf" download><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M5 21h14"/></svg> Descargar guía PDF</a>
+<a class="btn btn--ghost guide__dl guide__dl--cta" href="#guia-gratis"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M5 21h14"/></svg> Recibir la guía PDF</a>
 <p class="guide__follow">Y si te gustan estos planes, sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>.</p>
 </div>
 
