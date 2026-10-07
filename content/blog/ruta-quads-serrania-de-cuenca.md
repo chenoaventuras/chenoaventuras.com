@@ -1,6 +1,7 @@
 ---
 title: 'Ruta en quad por la Serranía de Cuenca: aventura entre pinares'
 date: 2025-11-24T19:59:22.000Z
+destino: cuenca
 lugar: 'Villalba de la Sierra'
 seoTitle: 'Ruta en quad por la Serranía de Cuenca: entre pinares'
 lat: 40.2356

@@ -1,6 +1,7 @@
 ---
 title: 'Cascadas de Ouzoud: las cataratas más espectaculares de Marruecos'
 date: 2025-12-06T15:40:26.000Z
+destino: marruecos
 lugar: 'Cascadas de Ouzoud'
 seoTitle: 'Cascadas de Ouzoud: las cataratas de Marruecos'
 lat: 32.0154

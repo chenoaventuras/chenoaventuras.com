@@ -1,6 +1,7 @@
 ---
 title: 'Chinchón de noche: el castillo que vigila la Plaza Mayor'
 date: 2025-10-21T18:33:21.000Z
+destino: chinchon
 lugar: 'Chinchón'
 lat: 40.14
 lng: -3.4231

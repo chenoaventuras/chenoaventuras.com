@@ -1,6 +1,7 @@
 ---
 title: 'Mirador de Chipeque: uno de los secretos mejor guardados de Tenerife'
 date: 2025-03-10T19:57:48.000Z
+destino: tenerife
 lugar: 'Mirador de Chipeque'
 seoTitle: 'Mirador de Chipeque: el secreto mejor guardado de Tenerife'
 lat: 28.374

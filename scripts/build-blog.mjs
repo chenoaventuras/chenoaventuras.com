@@ -20,6 +20,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const SITE = "https://www.chenoaventuras.com";
 const CONTENT_DIR = join(ROOT, "content", "blog");
 const OUT_DIR = join(ROOT, "blog");
+const DEST_DIR = join(ROOT, "destinos");
 const OG_DEFAULT = SITE + "/assets/img/og-default.jpg";
 const TAG_TYPES = ["Curiosidades", "Actividades", "Pueblos", "Spots", "Descuentos"]; // el resto de tags de un post son comunidades autónomas
 
@@ -205,6 +206,7 @@ function readPosts() {
       slug, title, date, updated,
       lat: num(data.lat), lng: num(data.lng),
       lugar: data.lugar ? String(data.lugar).trim() : "",
+      destino: data.destino ? String(data.destino).trim() : "",
       seoTitle: data.seoTitle ? String(data.seoTitle).trim() : "",
       guia: data.guia ? String(data.guia) : "",
       guiaTitulo: data.guiaTitulo ? String(data.guiaTitulo) : "",
@@ -233,6 +235,52 @@ function readPosts() {
 }
 
 /* ---------- página de artículo ---------- */
+/* ---------- destinos (páginas que reúnen varios posts de un mismo sitio) ---------- */
+function readDestinos(posts) {
+  const dir = join(ROOT, "content", "destinos");
+  if (!existsSync(dir)) return [];
+  const out = [];
+  for (const f of readdirSync(dir)) {
+    if (!f.endsWith(".md")) continue;
+    const { data, content } = matter(readFileSync(join(dir, f), "utf8"));
+    const slug = f.replace(/\.md$/, "").toLowerCase();
+    const mine = posts.filter((p) => p.destino === slug).sort((a, b) => b.date - a.date);
+    if (!mine.length) continue;
+    const num = (v) => (v !== undefined && v !== null && v !== "" && Number.isFinite(Number(v)) ? Number(v) : null);
+    out.push({
+      slug,
+      title: String(data.title || slug),
+      nombre: String(data.nombre || data.title || slug),
+      description: String(data.description || ""),
+      lat: num(data.lat),
+      lng: num(data.lng),
+      cover: data.cover ? String(data.cover) : (mine.find((p) => p.cover) || {}).cover || "",
+      html: marked.parse(content),
+      posts: mine,
+      url: `${SITE}/destinos/${slug}.html`,
+    });
+  }
+  return out.sort((a, b) => b.posts.length - a.posts.length || a.nombre.localeCompare(b.nombre, "es"));
+}
+
+const PIN_SVG = '<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>';
+
+function placeChip(d) {
+  return d ? `<a class="placechip" href="/destinos/${d.slug}.html">${PIN_SVG}Más sobre ${esc(d.nombre)}</a>` : "";
+}
+
+function authorBox() {
+  return `          <aside class="authorbox" aria-label="Sobre el autor">
+            <img class="authorbox__img" src="/assets/img/cheno-perfil-192.webp" alt="Cheno, de Chenoaventuras" width="96" height="96" loading="lazy" decoding="async" />
+            <div class="authorbox__body">
+              <p class="authorbox__name">Cheno · Chenoaventuras</p>
+              <p>Lugares de interés para personas aventureras. Visito y pruebo todo lo que cuento: rutas, actividades y curiosidades de viaje por España y más allá.</p>
+              <p class="authorbox__links"><a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener me">Instagram</a> · <a href="https://www.tiktok.com/@chenoaventuras" target="_blank" rel="noopener me">TikTok</a> · <a href="https://www.youtube.com/channel/UC_IpsXQB1ky-HUaDFePSPFg" target="_blank" rel="noopener me">YouTube</a> · <a href="/contacto.html">Contacto</a></p>
+            </div>
+          </aside>
+`;
+}
+
 /* ---------- tarjetas, posts relacionados y bloque de guía ---------- */
 // <title> de Google: ~60 caracteres. Con marca si cabe; si no, el seoTitle del
 // post (campo opcional) o el título solo.
@@ -329,7 +377,7 @@ function guideBox(p) {
 `;
 }
 
-function renderPost(p, tagColorMap, nextPost, related = []) {
+function renderPost(p, tagColorMap, nextPost, related = [], destino = null) {
   const coverAbs = p.cover ? (p.cover.startsWith("http") ? p.cover : SITE + p.cover) : "";
   const regionTag = p.tags.find((t) => !TAG_TYPES.includes(t));
   const jsonld = JSON.stringify(
@@ -362,7 +410,16 @@ function renderPost(p, tagColorMap, nextPost, related = []) {
                 },
               }
             : {}),
-          author: { "@type": "Person", name: "Cheno", url: SITE + "/contacto.html" },
+          author: {
+            "@type": "Person",
+            name: "Cheno",
+            url: SITE + "/contacto.html",
+            sameAs: [
+              "https://www.instagram.com/chenoaventuras/",
+              "https://www.tiktok.com/@chenoaventuras",
+              "https://www.youtube.com/channel/UC_IpsXQB1ky-HUaDFePSPFg",
+            ],
+          },
           publisher: {
             "@type": "Person",
             name: "Chenoaventuras",
@@ -407,6 +464,7 @@ function renderPost(p, tagColorMap, nextPost, related = []) {
           <h1>${esc(p.title)}</h1>
           ${tagsHtml}
           ${p.tags.includes("Descuentos") || !p.tags.length ? "" : dateLine(p)}
+          ${placeChip(destino)}
         </div>
       </section>
 
@@ -415,11 +473,11 @@ function renderPost(p, tagColorMap, nextPost, related = []) {
 ${guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
 ${p.html}
           </div>
-${
+${authorBox()}${
   related.length
     ? `          <section class="related">
             <h2 class="related__title">Sigue explorando</h2>
-            <div class="bloglist bloglist--related">
+${destino ? `            <p class="related__more"><a href="/destinos/${destino.slug}.html">Ver todo sobre ${esc(destino.nombre)} &rarr;</a></p>\n` : ""}            <div class="bloglist bloglist--related">
 ${related.map((r) => blogCard(r, { level: 3 })).join("\n")}
             </div>
           </section>
@@ -442,7 +500,7 @@ ${related.map((r) => blogCard(r, { level: 3 })).join("\n")}
 }
 
 /* ---------- índice del blog ---------- */
-function renderIndex(posts) {
+function renderIndex(posts, destinos = []) {
   const cards = posts.map((p) => blogCard(p, { search: true })).join("\n");
 
   const empty = `<p class="lead center" style="margin-inline:auto;">Todavía no hay artículos publicados. Vuelve pronto.</p>`;
@@ -481,7 +539,15 @@ function renderIndex(posts) {
 
     <section class="section">
       <div class="container">
-${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${cards}\n        </div>\n        <p class="lead center" id="blogfilter-empty" hidden style="margin-inline:auto;">Ningún post coincide con tu búsqueda todavía.</p>` : `        ${empty}`}
+${
+  destinos.length
+    ? `        <nav class="destinos-strip" aria-label="Destinos">
+          <span class="destinos-strip__label">Destinos</span>
+${destinos.map((d) => `          <a class="destinos-strip__item" href="/destinos/${d.slug}.html">${esc(d.nombre)} <b>${d.posts.length}</b></a>`).join("\n")}
+        </nav>
+`
+    : ""
+}${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${cards}\n        </div>\n        <p class="lead center" id="blogfilter-empty" hidden style="margin-inline:auto;">Ningún post coincide con tu búsqueda todavía.</p>` : `        ${empty}`}
       </div>
     </section>
     <script>
@@ -545,7 +611,7 @@ function regionOf(p) {
   return p.lat !== null && p.lat < 35.5 && p.lng > -10.5 ? "Marruecos" : "Otros destinos";
 }
 
-function renderMap(posts) {
+function renderMap(posts, destinos = []) {
   const located = posts.filter((p) => p.lat !== null && p.lng !== null && p.tags.length && !p.tags.includes("Descuentos"));
   const data = located.map((p) => ({
     slug: p.slug,
@@ -555,6 +621,8 @@ function renderMap(posts) {
     url: `/blog/${p.slug}.html`,
     type: p.tags.find((t) => MAP_TYPES.includes(t)) || "",
     region: regionOf(p),
+    destino: p.destino || "",
+    destinoNombre: (destinos.find((d) => d.slug === p.destino) || {}).nombre || "",
     lat: p.lat,
     lng: p.lng,
   }));
@@ -595,13 +663,22 @@ ${regions.map((r) => `              <option value="${esc(r)}">${esc(r)}</option>
             <span class="mapbar__count" id="map-count" aria-live="polite"></span>
           </div>
         </div>
+        <p class="mapnotice" id="map-notice" hidden></p>
         <div id="mapa" class="mapa" role="region" aria-label="Mapa interactivo de aventuras"></div>
         <noscript><p class="lead">El mapa necesita JavaScript. Mientras tanto, aquí tienes todos los lugares en la lista de abajo.</p></noscript>
         <script type="application/json" id="mapa-data">${json}</script>
 
         <div class="maplist">
           <h2>Todos los lugares</h2>
-${byRegion}
+${
+  destinos.length
+    ? `        <h3>Destinos</h3>
+        <ul>
+${destinos.map((d) => `          <li><a href="/destinos/${d.slug}.html">${esc(d.title)}</a> (${d.posts.length} artículos)</li>`).join("\n")}
+        </ul>
+`
+    : ""
+}${byRegion}
         </div>
       </div>
     </section>
@@ -634,8 +711,82 @@ ${byRegion}
   });
 }
 
+/* ---------- página de destino ---------- */
+function renderDestino(d) {
+  const cards = d.posts.map((p) => blogCard(p, { level: 3 })).join("\n");
+  const jsonld = JSON.stringify(
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          name: d.title,
+          description: d.description,
+          url: d.url,
+          inLanguage: "es",
+          ...(d.lat !== null && d.lng !== null
+            ? {
+                about: {
+                  "@type": "Place",
+                  name: d.nombre,
+                  geo: { "@type": "GeoCoordinates", latitude: d.lat, longitude: d.lng },
+                  address: { "@type": "PostalAddress", addressCountry: d.lat < 35.5 && d.lng > -10.5 ? "MA" : "ES" },
+                },
+              }
+            : {}),
+          mainEntity: {
+            "@type": "ItemList",
+            itemListElement: d.posts.map((p, i) => ({ "@type": "ListItem", position: i + 1, url: p.url, name: p.title })),
+          },
+        },
+        {
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            { "@type": "ListItem", position: 1, name: "Inicio", item: SITE + "/index.html" },
+            { "@type": "ListItem", position: 2, name: "Blog", item: SITE + "/blog.html" },
+            { "@type": "ListItem", position: 3, name: d.nombre, item: d.url },
+          ],
+        },
+      ],
+    },
+    null,
+    2
+  );
+  const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
+      <div class="pagehead__inner container">
+        <span class="eyebrow" style="color:var(--gold-soft)">Destino</span>
+        <h1>${esc(d.title)}</h1>
+        <p>${esc(d.description)}</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="article__body">
+${d.html}
+        </div>
+        <h2 class="related__title" style="margin-top:36px;">Artículos sobre ${esc(d.nombre)}</h2>
+        <div class="bloglist bloglist--related">
+${cards}
+        </div>
+        <p class="article__back" style="margin-top:36px;display:flex;gap:12px;flex-wrap:wrap;">
+          <a class="btn" href="/mapa.html?destino=${d.slug}">Ver en el mapa</a>
+          <a class="btn btn--ghost" href="/blog.html">Todos los artículos</a>
+        </p>
+      </div>
+    </section>`;
+  return shell({
+    title: d.title.length + 16 <= 62 ? `${d.title} | Chenoaventuras` : d.title,
+    description: d.description,
+    canonical: d.url,
+    image: d.cover ? (d.cover.startsWith("http") ? d.cover : SITE + d.cover) : "",
+    jsonld,
+    body,
+  });
+}
+
 /* ---------- sitemap ---------- */
-function renderSitemap(posts) {
+function renderSitemap(posts, destinos = []) {
   // Solo se pone lastmod donde es verdad: el blog y el mapa cambian cuando
   // cambia el último post. En el resto no se pone (poner "hoy" en cada
   // despliegue hace que Google deje de fiarse de las fechas del sitemap).
@@ -655,6 +806,10 @@ function renderSitemap(posts) {
       ([loc, pr, cf, lm]) =>
         `  <url><loc>${SITE}${loc}</loc>${lm ? `<lastmod>${lm}</lastmod>` : ""}<changefreq>${cf}</changefreq><priority>${pr}</priority></url>`
     ),
+    ...destinos.map((d) => {
+      const lm = d.posts.reduce((m, p) => (p.updated > m ? p.updated : m), new Date(0)).toISOString().slice(0, 10);
+      return `  <url><loc>${d.url}</loc><lastmod>${lm}</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>`;
+    }),
     ...posts.map(
       (p) =>
         `  <url><loc>${p.url}</loc><lastmod>${p.updated.toISOString().slice(0, 10)}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>`
@@ -665,6 +820,8 @@ function renderSitemap(posts) {
 
 /* ---------- build ---------- */
 const posts = readPosts();
+const destinos = readDestinos(posts);
+const destinoOf = (p) => destinos.find((d) => d.slug === p.destino) || null;
 
 // mismo orden que el desplegable de filtro (tipo, luego comunidad autónoma
 // alfabético) para que la asignación de colores sea estable entre builds.
@@ -680,11 +837,14 @@ mkdirSync(OUT_DIR, { recursive: true });
 for (let i = 0; i < posts.length; i++) {
   const p = posts[i];
   const nextPost = posts[i + 1] || null;
-  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap, nextPost, relatedPosts(p, posts)));
+  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap, nextPost, relatedPosts(p, posts), destinoOf(p)));
 }
-writeFileSync(join(ROOT, "blog.html"), renderIndex(posts));
-writeFileSync(join(ROOT, "mapa.html"), renderMap(posts));
-writeFileSync(join(ROOT, "sitemap.xml"), renderSitemap(posts));
+rmSync(DEST_DIR, { recursive: true, force: true });
+mkdirSync(DEST_DIR, { recursive: true });
+for (const d of destinos) writeFileSync(join(DEST_DIR, `${d.slug}.html`), renderDestino(d));
+writeFileSync(join(ROOT, "blog.html"), renderIndex(posts, destinos));
+writeFileSync(join(ROOT, "mapa.html"), renderMap(posts, destinos));
+writeFileSync(join(ROOT, "sitemap.xml"), renderSitemap(posts, destinos));
 
-console.log(`Blog compilado: ${posts.length} artículo(s).`);
+console.log(`Blog compilado: ${posts.length} artículo(s), ${destinos.length} destino(s).`);
 for (const p of posts) console.log(`  /blog/${p.slug}.html  ·  ${p.title}`);

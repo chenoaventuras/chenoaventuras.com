@@ -1,6 +1,7 @@
 ---
 title: 'Estación de Canfranc: la historia detrás de la estación más bonita de España'
 date: 2025-07-12T11:19:03.000Z
+destino: pirineo-aragones
 lugar: 'Estación de Canfranc'
 seoTitle: 'Estación de Canfranc: historia de la estación más bonita'
 lat: 42.7514

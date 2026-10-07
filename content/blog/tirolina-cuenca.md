@@ -1,6 +1,7 @@
 ---
 title: 'La tirolina de Cuenca: volar sobre la Hoz del Huécar'
 date: 2025-10-28T21:00:13.000Z
+destino: cuenca
 lugar: 'Cuenca'
 lat: 40.0783
 lng: -2.1275

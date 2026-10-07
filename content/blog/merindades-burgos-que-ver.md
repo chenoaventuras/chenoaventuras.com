@@ -1,6 +1,7 @@
 ---
 title: 'Las Merindades de Burgos: 8 lugares imprescindibles para una escapada'
 date: 2026-01-21T20:20:55.000Z
+destino: burgos
 lugar: 'Merindades de Burgos'
 seoTitle: 'Merindades de Burgos: 8 lugares imprescindibles'
 lat: 42.7479

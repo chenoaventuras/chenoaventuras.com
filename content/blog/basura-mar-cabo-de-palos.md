@@ -1,6 +1,7 @@
 ---
 title: 'Basura en el mar: snorkel en Cabo de Palos'
 date: 2026-09-28T07:00:00.000Z
+destino: cabo-de-palos
 lugar: 'Cabo de Palos'
 lat: 37.6313
 lng: -0.6948

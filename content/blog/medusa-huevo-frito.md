@@ -1,6 +1,7 @@
 ---
 title: 'Medusa huevo frito: ¿pica o es peligrosa? Guía completa'
 date: 2026-09-16T18:46:23.000Z
+destino: cabo-de-palos
 updated: 2026-10-07
 lugar: 'Cabo de Palos'
 lat: 37.6313

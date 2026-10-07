@@ -1,6 +1,7 @@
 ---
 title: 'Barranquismo en Cuenca: descenso de cañones en el río Júcar'
 date: 2026-07-05T08:00:47.000Z
+destino: cuenca
 lugar: 'Cuenca'
 lat: 40.2356
 lng: -2.0893

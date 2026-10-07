@@ -1,6 +1,7 @@
 ---
 title: 'Pasarelas de Panticosa: puentes colgantes sobre el río Caldarés'
 date: 2026-06-16T18:42:30.000Z
+destino: pirineo-aragones
 lugar: 'Panticosa'
 seoTitle: 'Pasarelas de Panticosa: puentes colgantes del Caldarés'
 lat: 42.7237

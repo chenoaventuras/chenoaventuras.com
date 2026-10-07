@@ -1,6 +1,7 @@
 ---
 title: 'Arco de Tajao: la formación rocosa más fotogénica del sur de Tenerife'
 date: 2025-04-02T19:18:49.000Z
+destino: tenerife
 lugar: 'Arco de Tajao'
 seoTitle: 'Arco de Tajao (Tenerife): la roca más fotogénica del sur'
 lat: 28.1157

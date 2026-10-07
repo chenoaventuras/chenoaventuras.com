@@ -1,6 +1,7 @@
 ---
 title: 'Lanuza: el pueblo que resucitó tras quedar bajo las aguas de un embalse'
 date: 2026-06-11T18:15:39.000Z
+destino: pirineo-aragones
 lugar: 'Lanuza'
 seoTitle: 'Lanuza (Huesca): el pueblo que resucitó bajo un embalse'
 lat: 42.7562

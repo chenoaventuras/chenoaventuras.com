@@ -1,6 +1,7 @@
 ---
 title: 'Vía Ferrata del Ventano del Diablo: adrenalina sobre la Hoz del Júcar'
 date: 2025-11-02T20:31:17.000Z
+destino: cuenca
 lugar: 'Ventano del Diablo'
 seoTitle: 'Vía Ferrata del Ventano del Diablo: Hoz del Júcar'
 lat: 40.2356

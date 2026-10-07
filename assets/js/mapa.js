@@ -26,7 +26,8 @@
   map.on("mouseout", function () { map.scrollWheelZoom.disable(); });
 
   var layer = L.layerGroup().addTo(map);
-  var state = { type: "", region: "" };
+  var state = { type: "", region: "", destino: new URLSearchParams(location.search).get("destino") || "" };
+  var noticeEl = document.getElementById("map-notice");
   var countEl = document.getElementById("map-count");
   var regionSel = document.getElementById("map-region");
   var chips = Array.prototype.slice.call(document.querySelectorAll("[data-map-type]"));
@@ -60,6 +61,14 @@
       a.appendChild(body);
       wrap.appendChild(a);
     });
+    var dest = items[0].destino;
+    if (dest) {
+      var more = document.createElement("a");
+      more.className = "mpop__dest";
+      more.href = "/destinos/" + dest + ".html";
+      more.textContent = "Ver todo sobre " + items[0].destinoNombre + " →";
+      wrap.appendChild(more);
+    }
     return wrap;
   }
 
@@ -87,7 +96,7 @@
   function render(fit) {
     layer.clearLayers();
     var list = posts.filter(function (p) {
-      return (!state.type || p.type === state.type) && (!state.region || p.region === state.region);
+      return (!state.type || p.type === state.type) && (!state.region || p.region === state.region) && (!state.destino || p.destino === state.destino);
     });
     var pts = [];
     groups(list).forEach(function (items) {
@@ -98,10 +107,23 @@
       m.addTo(layer);
       pts.push([c.lat, c.lng]);
     });
+    if (noticeEl) {
+      if (state.destino && list.length) {
+        noticeEl.hidden = false;
+        noticeEl.textContent = "";
+        noticeEl.appendChild(document.createTextNode("Mostrando solo " + list[0].destinoNombre + ". "));
+        var all = document.createElement("a");
+        all.href = "/mapa.html";
+        all.textContent = "Ver todos los lugares";
+        noticeEl.appendChild(all);
+      } else {
+        noticeEl.hidden = true;
+      }
+    }
     if (countEl) countEl.textContent = list.length + (list.length === 1 ? " lugar" : " lugares");
     if (fit) {
       if (!pts.length) return;
-      if (!state.type && !state.region) map.fitBounds(SPAIN, { animate: !reduce });
+      if (!state.type && !state.region && !state.destino) map.fitBounds(SPAIN, { animate: !reduce });
       else map.fitBounds(pts, { padding: [50, 50], maxZoom: 11, animate: !reduce });
     }
   }
@@ -133,5 +155,5 @@
     });
   });
 
-  render(false);
+  render(!!state.destino);
 })();

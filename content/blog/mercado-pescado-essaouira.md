@@ -1,6 +1,7 @@
 ---
 title: 'El mercado de pescado de Essaouira: subastas a pie de muelle en Marruecos'
 date: 2026-01-28T20:10:11.000Z
+destino: marruecos
 lugar: 'Essaouira'
 seoTitle: 'Mercado de pescado de Essaouira: subastas en el muelle'
 lat: 31.5125

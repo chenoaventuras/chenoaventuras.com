@@ -1,6 +1,7 @@
 ---
 title: 'El nido de cigüeña más famoso de España: la "Torre de Pisa" burgalesa'
 date: 2026-04-22T17:46:32.000Z
+destino: burgos
 seoTitle: 'El nido de cigüeña más famoso de España, en Burgos'
 excerpt: 'Casi una tonelada, dos metros de altura y una inclinación extrema que ha exigido refuerzos: el nido de cigüeña más famoso de España, en Burgos.'
 cover: /assets/img/instagram/18314157211262082.webp

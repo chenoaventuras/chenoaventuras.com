@@ -1,6 +1,7 @@
 ---
 title: 'Lago Martiánez: las piscinas de César Manrique frente al Atlántico'
 date: 2025-02-23T19:49:25.000Z
+destino: tenerife
 lugar: 'Lago Martiánez'
 seoTitle: 'Lago Martiánez: piscinas de César Manrique en Tenerife'
 lat: 28.4193

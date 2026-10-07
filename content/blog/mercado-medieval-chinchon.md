@@ -1,6 +1,7 @@
 ---
 title: 'Mercado Medieval de Chinchón: cuándo se celebra y qué encontrarás'
 date: 2026-02-15T18:49:19.000Z
+destino: chinchon
 lugar: 'Chinchón'
 seoTitle: 'Mercado Medieval de Chinchón: cuándo es y qué ver'
 lat: 40.1408

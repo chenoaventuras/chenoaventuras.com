@@ -1,6 +1,7 @@
 ---
 title: 'Avistamiento de buitres en la Sierra de Guara: la única actividad de su tipo en España'
 date: 2025-06-26T19:12:46.000Z
+destino: pirineo-aragones
 lugar: 'Sierra de Guara'
 seoTitle: 'Avistamiento de buitres en la Sierra de Guara (Huesca)'
 lat: 42.21

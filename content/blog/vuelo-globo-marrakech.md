@@ -1,6 +1,7 @@
 ---
 title: 'Vuelo en globo sobre Marrakech: cómo es ver el amanecer frente al Atlas'
 date: 2025-12-07T10:43:00.000Z
+destino: marruecos
 lugar: 'Marrakech'
 seoTitle: 'Vuelo en globo en Marrakech: amanecer frente al Atlas'
 lat: 31.6295

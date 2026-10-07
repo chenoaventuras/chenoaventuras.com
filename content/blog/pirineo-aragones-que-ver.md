@@ -1,6 +1,7 @@
 ---
 title: 'Escapada por el Pirineo Aragonés: 21 lugares imprescindibles'
 date: 2026-08-06T17:29:16.000Z
+destino: pirineo-aragones
 lugar: 'Pirineo Aragonés'
 lat: 42.57
 lng: -0.549

@@ -1,6 +1,7 @@
 ---
 title: 'Territorio Artlanza: el pueblo castellano en miniatura hecho a mano en Burgos'
 date: 2026-05-31T17:40:55.000Z
+destino: burgos
 lugar: 'Quintanilla del Agua'
 seoTitle: 'Territorio Artlanza: el pueblo en miniatura de Burgos'
 lat: 42.0337

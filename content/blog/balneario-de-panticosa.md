@@ -1,6 +1,7 @@
 ---
 title: 'Balneario de Panticosa: termas romanas a 1.636 metros de altitud'
 date: 2025-04-13T19:00:56.000Z
+destino: pirineo-aragones
 lugar: 'Balneario de Panticosa'
 seoTitle: 'Balneario de Panticosa: termas romanas a 1.636 m'
 lat: 42.7611

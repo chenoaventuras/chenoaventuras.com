@@ -1470,3 +1470,59 @@ p { margin: 0 0 1em; }
 
 .pagehead .article__date { margin: .9rem 0 0; font-size: .9rem; color: rgba(255,255,255,.82); max-width: none; }
 .article__date time { font-weight: 600; color: #fff; }
+
+/* =========================================================================
+   DESTINOS, FICHA DE AUTOR Y ETIQUETA DE LUGAR
+   ========================================================================= */
+.pagehead .placechip {
+  display: inline-flex; align-items: center; gap: .4em;
+  margin-top: .8rem; padding: .4em .9em; border-radius: 999px;
+  font-size: .85rem; font-weight: 600; text-decoration: none;
+  color: var(--night); background: var(--gold-soft);
+  transition: background .2s ease, transform .2s ease;
+}
+.pagehead .placechip:hover { background: var(--gold-bright); transform: translateY(-1px); }
+
+.destinos-strip {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px;
+  margin-bottom: clamp(18px, 2.6vw, 28px);
+}
+.destinos-strip__label {
+  font-family: var(--font-head); font-weight: 600; font-size: .92rem; color: var(--ink-soft);
+  margin-right: 4px;
+}
+.destinos-strip__item {
+  display: inline-flex; align-items: center; gap: .5em;
+  padding: .45em 1em; border-radius: 999px; text-decoration: none;
+  font-size: .9rem; font-weight: 600; color: var(--night);
+  background: var(--white); border: 1px solid rgba(20,20,15,.16);
+  transition: background .2s ease, color .2s ease, border-color .2s ease;
+}
+.destinos-strip__item b {
+  font-weight: 600; font-size: .78rem; color: #fff; background: var(--night);
+  border-radius: 999px; padding: .1em .55em;
+}
+.destinos-strip__item:hover { background: var(--night); color: #fff; border-color: var(--night); }
+.destinos-strip__item:hover b { background: var(--gold); color: var(--night); }
+
+.related__more { margin: -8px 0 18px; }
+.related__more a { color: var(--night); font-weight: 600; }
+
+.authorbox {
+  display: flex; gap: 18px; align-items: center;
+  margin-top: clamp(32px, 5vw, 52px);
+  padding: clamp(16px, 2.4vw, 24px);
+  background: var(--white); border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+}
+.authorbox__img { width: 88px; height: 88px; border-radius: 50%; object-fit: cover; flex: none; }
+.authorbox__body p { margin: 0; }
+.authorbox__body p + p { margin-top: .35em; }
+.authorbox__name { font-family: var(--font-head); font-weight: 600; color: var(--night); font-size: 1.05rem; }
+.authorbox__body { font-size: .95rem; color: var(--ink-soft); }
+.authorbox__links a { color: var(--night); font-weight: 600; }
+@media (max-width: 560px) { .authorbox { flex-direction: column; align-items: flex-start; } }
+
+.mapnotice { margin: 0 0 12px; font-size: .95rem; color: var(--ink-soft); }
+.mapnotice a { color: var(--night); font-weight: 600; }
+.leaflet-container .mpop__dest { font-weight: 600; color: var(--olive-dark); }
