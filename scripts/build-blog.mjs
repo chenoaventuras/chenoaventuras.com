@@ -358,22 +358,21 @@ function relatedPosts(p, posts, n = 3) {
 function guideBox(p) {
   if (!p.guia) return "";
   const name = p.guiaTitulo || "Descarga la guía en PDF";
-  return `          <aside class="guidebox" id="guia-gratis" data-guide-box>
-            <div class="guidebox__text">
-              <span class="eyebrow">Gratis</span>
-              <h2>${esc(name)}</h2>
-              <p>Déjame tu email, descárgala al momento y recibe mis rutas y aventuras por correo.</p>
-            </div>
-            <div class="guidebox__action">
-              <form class="guideform" data-guide-source="${esc(p.slug)}">
-                <input type="email" placeholder="Tu email" required aria-label="Tu email" autocomplete="email" />
-                <button class="btn" type="submit">Quiero la guía</button>
-              </form>
-              <p class="guidebox__legal">Al apuntarte aceptas recibir mi newsletter. Puedes darte de baja cuando quieras. <a href="/politica-privacidad.html">Política de privacidad</a>.</p>
-              <p class="guidebox__msg" data-guide-msg hidden></p>
-              <a class="btn guidebox__dl" data-guide-link href="#" download hidden>Descargar la guía (PDF)</a>
-            </div>
-          </aside>
+  return `<aside class="guidebox" id="guia-gratis" data-guide-box>
+  <div class="guidebox__text">
+    <p class="guidebox__title">${esc(name)}</p>
+    <p>Gratis: recíbela en tu correo y llévala en el móvil.</p>
+  </div>
+  <div class="guidebox__action">
+    <form class="guideform" data-guide-source="${esc(p.slug)}">
+      <input type="email" placeholder="Tu email" required aria-label="Tu email" autocomplete="email" />
+      <button class="btn" type="submit">Quiero la guía</button>
+    </form>
+    <p class="guidebox__legal">Al apuntarte aceptas recibir mi newsletter. Puedes darte de baja cuando quieras. <a href="/politica-privacidad.html">Política de privacidad</a>.</p>
+    <p class="guidebox__msg" data-guide-msg hidden></p>
+    <a class="btn guidebox__dl" data-guide-link href="#" download hidden>Descargar la guía (PDF)</a>
+  </div>
+</aside>
 `;
 }
 
@@ -470,8 +469,8 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null) {
 
       <section class="section">
         <div class="container">
-${guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
-${p.html}
+${p.html.includes("<!--guia-->") ? "" : guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
+${p.html.replace("<!--guia-->", () => guideBox(p))}
           </div>
 ${authorBox()}${
   related.length

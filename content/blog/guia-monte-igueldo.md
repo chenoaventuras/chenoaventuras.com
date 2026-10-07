@@ -19,10 +19,7 @@ Hay parques de atracciones más grandes, más rápidos y más modernos. Pero nin
 
 Aquí no se paga una pulsera: **cada atracción tiene su propio precio**, casi todas entre 1 y 3 €. Así que te dejo la lista completa para que calcules el plan a tu medida 👇
 
-<div class="guide__download">
-<p><strong>📄 ¿La quieres en el móvil?</strong> Recíbela en tu correo en PDF (7 páginas, 3 MB) y llévala contigo al Monte Igueldo.</p>
-<a class="btn guide__dl" href="#guia-gratis"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3v12m0 0l-5-5m5 5l5-5M5 21h14"/></svg> Recibir la guía PDF</a>
-</div>
+<!--guia-->
 
 <div class="guide__story">
 <span class="eyebrow">Un poco de historia</span>

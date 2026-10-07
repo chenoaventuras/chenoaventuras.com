@@ -1537,3 +1537,14 @@ p { margin: 0 0 1em; }
 .article__body a.btn { text-decoration: none; }
 
 .guidebox { scroll-margin-top: 90px; }
+
+/* Caja de la guía, versión compacta (va dentro del texto del post) */
+.guidebox { grid-template-columns: 1fr 1.15fr; gap: 12px 22px; padding: 16px 20px; margin: 26px 0; box-shadow: var(--shadow-sm); }
+.guidebox__title { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; font-size: clamp(1.05rem, 2.2vw, 1.3rem); line-height: 1.1; margin: 0 0 4px; color: #fff; }
+.guidebox__text p:last-child { font-size: .9rem; }
+.guideform input { padding: .6em .9em; font-size: .95rem; }
+.guidebox .btn { padding: .65em 1.1em; font-size: .72rem; }
+.guidebox__legal { font-size: .72rem; margin-top: 6px; }
+.guidebox a { color: inherit; text-decoration: underline; }
+.guidebox a.btn { text-decoration: none; }
+@media (max-width: 760px) { .guidebox { grid-template-columns: 1fr; } }
