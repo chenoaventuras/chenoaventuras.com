@@ -244,6 +244,13 @@ function seoTitleOf(p) {
 
 const norm = (s = "") =>String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
 
+const fmtEs = new Intl.DateTimeFormat("es-ES", { day: "numeric", month: "long", year: "numeric", timeZone: "Europe/Madrid" });
+function dateLine(p) {
+  const t = (d) => `<time datetime="${d.toISOString().slice(0, 10)}">${fmtEs.format(d)}</time>`;
+  const changed = Math.abs(p.updated - p.date) > 24 * 3600 * 1000;
+  return `<p class="article__date">Publicado el ${t(p.date)}${changed ? ` · Actualizado el ${t(p.updated)}` : ""}</p>`;
+}
+
 // Miniatura de 640 px (si existe) para tarjetas y mapa; el hero del post usa la original.
 function thumbOf(cover) {
   if (!cover || !/^\/assets\/img\/(instagram|blog)\/[^/]+\.webp$/.test(cover)) return cover;
@@ -399,6 +406,7 @@ function renderPost(p, tagColorMap, nextPost, related = []) {
           </p>
           <h1>${esc(p.title)}</h1>
           ${tagsHtml}
+          ${p.tags.includes("Descuentos") || !p.tags.length ? "" : dateLine(p)}
         </div>
       </section>
 

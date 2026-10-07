@@ -182,6 +182,11 @@ jobs:
             echo "Sin cambios que publicar."
           fi
 
+      - name: Revisar enlaces rotos
+        if: always()
+        continue-on-error: true
+        run: node scripts/check-links.mjs
+
       - name: Enviar informe por correo
         if: always()
         env:

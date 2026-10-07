@@ -1,6 +1,7 @@
 ---
 title: 'Snorkel en Cabo de Palos e Islas Hormigas: calas y fauna'
 date: 2026-09-28T07:00:00.000Z
+updated: 2026-10-07
 lugar: 'Cabo de Palos'
 lat: 37.6348
 lng: -0.6918

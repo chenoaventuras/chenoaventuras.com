@@ -1467,3 +1467,6 @@ p { margin: 0 0 1em; }
 .maplist a { color: var(--night); }
 @media (min-width: 700px) { .maplist ul { columns: 2; column-gap: 32px; } }
 @media (min-width: 1000px) { .maplist ul { columns: 3; } }
+
+.pagehead .article__date { margin: .9rem 0 0; font-size: .9rem; color: rgba(255,255,255,.82); max-width: none; }
+.article__date time { font-weight: 600; color: #fff; }
