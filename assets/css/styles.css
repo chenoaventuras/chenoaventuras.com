@@ -526,6 +526,7 @@ p { margin: 0 0 1em; }
 .article__body .guide__timeline li { margin: 0; background: var(--white); border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow-sm); border-top: 4px solid var(--gold); }
 .guide__timeline b { display: block; font-family: var(--font-display); font-weight: 900; font-size: 1.5rem; color: var(--night); line-height: 1.1; margin-bottom: 6px; }
 .guide__timeline span { display: block; font-size: .86rem; line-height: 1.45; color: var(--ink-soft); }
+.guide__timeline b small { display: block; font-family: var(--font-head); font-weight: 600; font-size: .5em; letter-spacing: 0; line-height: 1.2; margin-top: 2px; }
 .guide__legend { max-width: 68ch; margin: 0 auto; background: var(--paper-2); border-left: 4px solid var(--gold); border-radius: var(--radius); padding: 18px 22px; }
 .article__body .guide__legend h3 { margin: 0 0 .4em; }
 .article__body .guide__legend p { margin: 0; font-size: .98rem; }
@@ -547,6 +548,9 @@ p { margin: 0 0 1em; }
 .article__body a.guide__dl--cta:hover { color: #fff; background: var(--night); }
 @media (max-width: 560px) { .article__body a.guide__dl--cta { margin-left: 0; } }
 
+/* iconos SVG dentro de botones (en lugar de emojis, que no se alinean) */
+.btn .ico, .gbtn .ico { flex: none; display: block; }
+
 /* botones dentro de las tarjetas de guía */
 .article__body .gcard__links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: .9em !important; }
 .article__body a.gbtn { display: inline-flex; align-items: center; gap: .3em; font-family: var(--font-head); font-weight: 600; font-size: .74rem; letter-spacing: .04em; text-decoration: none; color: var(--night); border: 1px solid var(--night); border-radius: 4px; padding: .45em .8em; line-height: 1.2; }
@@ -555,6 +559,28 @@ p { margin: 0 0 1em; }
 .article__body a.gbtn--reel:hover { background: var(--gold-bright); border-color: var(--gold-bright); color: var(--night); }
 .article__body .guide__grid--cuenca { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
 .article__body .guide__note a { word-break: break-word; }
+
+/* posts de lugares: galería, cómo llegar, FAQ y "qué ver cerca" */
+.article__body .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin: 0 0 24px; }
+.article__body .gallery figure { margin: 0; background: var(--white); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-sm); }
+.article__body .gallery img { width: 100%; aspect-ratio: 4 / 3; height: auto; object-fit: cover; margin: 0; border-radius: 0; box-shadow: none; }
+.article__body .gallery figcaption { padding: 10px 14px 12px; font-size: .86rem; line-height: 1.45; color: var(--ink-soft); }
+.article__body--wide > .guide__legend { margin-top: 24px; }
+.guide__howto { max-width: 68ch; margin: 0 auto; background: var(--white); border-radius: var(--radius); padding: 20px 24px; box-shadow: var(--shadow-sm); }
+.article__body .guide__howto p { margin: 0 0 .8em; }
+.article__body .faq { max-width: 68ch; margin: 0 auto; display: grid; gap: 10px; }
+.article__body .faq details { background: var(--white); border-radius: 12px; box-shadow: var(--shadow-sm); padding: 0 18px; }
+.article__body .faq summary { cursor: pointer; list-style: none; font-family: var(--font-head); font-weight: 600; color: var(--night); padding: 14px 28px 14px 0; position: relative; line-height: 1.4; }
+.article__body .faq summary::-webkit-details-marker { display: none; }
+.article__body .faq summary::after { content: "+"; position: absolute; right: 0; top: 10px; font-size: 1.4rem; color: var(--gold-dark); }
+.article__body .faq details[open] summary::after { content: "–"; }
+.article__body .faq details p { margin: 0 0 14px; color: var(--ink-soft); font-size: .98rem; }
+.article__body .nearby { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; }
+.article__body .nearby li { margin: 0; }
+.article__body .nearby a { display: block; position: relative; border-radius: var(--radius); overflow: hidden; aspect-ratio: 4 / 3; text-decoration: none; box-shadow: var(--shadow-sm); }
+.article__body .nearby img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; margin: 0; border-radius: 0; box-shadow: none; transition: transform .4s ease; }
+.article__body .nearby a:hover img { transform: scale(1.05); }
+.article__body .nearby span { position: absolute; left: 0; right: 0; bottom: 0; padding: 30px 14px 12px; background: linear-gradient(transparent, rgba(15,35,65,.85)); color: #fff; font-family: var(--font-head); font-weight: 600; font-size: .95rem; line-height: 1.25; }
 
 /* calendario de apertura (guías) */
 .guide__calendar { margin-top: clamp(44px, 7vw, 72px); }
