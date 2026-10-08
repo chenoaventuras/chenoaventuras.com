@@ -32,4 +32,6 @@ Sin las aglomeraciones típicas de fin de semana, Chinchón de noche permite pas
 
 Chinchón se encuentra a unos 45 kilómetros al sureste de Madrid capital, con buena conexión por carretera. Puedes consultar la ubicación de la Plaza Mayor en [Google Maps](https://www.google.com/maps/search/?api=1&query=Plaza%20Mayor%20de%20Chinch%C3%B3n).
 
+Y si quieres ver Chinchón con más ambiente todavía, échale un ojo a su [Mercado Medieval](/blog/mercado-medieval-chinchon.html).
+
 ¿Habías visto Chinchón de noche? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Madrid, y échale un vistazo al resto del blog para tu próxima escapada.

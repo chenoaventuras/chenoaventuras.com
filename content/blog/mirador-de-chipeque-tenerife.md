@@ -41,4 +41,6 @@ Se accede por la carretera TF-24, la Carretera de La Esperanza, donde hay una pe
 
 El Mirador de Chipeque se encuentra en el interior de Tenerife, junto a la Carretera de La Esperanza. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Mirador%20de%20Chipeque%2C%20Tenerife).
 
+Más planes en Tenerife: el [Arco de Tajao](/blog/arco-de-tajao-tenerife.html), en el sur, y el [Lago Martiánez](/blog/lago-martianez-puerto-de-la-cruz.html), en Puerto de la Cruz.
+
 ¿Conocías el Mirador de Chipeque? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Canarias, y échale un vistazo al resto del blog para tu próxima escapada.

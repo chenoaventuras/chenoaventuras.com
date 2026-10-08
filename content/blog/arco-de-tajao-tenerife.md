@@ -37,4 +37,6 @@ Se encuentra cerca de la localidad de Tajao. Desde la TF-1, hay que tomar la sal
 
 El Arco de Tajao se encuentra en el municipio de Arico, al sur de Tenerife. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Arco%20de%20Tajao%2C%20Arico%2C%20Tenerife).
 
+Más planes en Tenerife: el [Mirador de Chipeque](/blog/mirador-de-chipeque-tenerife.html), en el interior, y el [Lago Martiánez](/blog/lago-martianez-puerto-de-la-cruz.html), en Puerto de la Cruz.
+
 ¿Conocías el Arco de Tajao? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Canarias, y échale un vistazo al resto del blog para tu próxima escapada.

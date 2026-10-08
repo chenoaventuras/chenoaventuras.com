@@ -42,4 +42,6 @@ Cualquier época del año es buena: primavera y otoño son especialmente agradab
 
 Si quieres alargar la escapada, la Sierra Norte de Madrid da para mucho más: pueblos como **Rascafría** o **Patones de Arriba** están cerca, y a solo 15 minutos de Buitrago se esconde la cascada más alta de la Comunidad de Madrid, ideal para combinar en la misma ruta.
 
+Y para seguir explorando la Sierra Norte, en la Sierra del Rincón tienes [Puebla de la Sierra](/blog/puerto-de-la-puebla-sierra-del-rincon.html) y la carretera que sube a su puerto.
+
 ¿Ya conocías Buitrago del Lozoya? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones cerca de Madrid, y échale un vistazo al resto del blog para tu próxima escapada.

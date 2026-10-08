@@ -53,4 +53,6 @@ Para cerrar la ruta con un plan tranquilo, **Tobera** ofrece un paseo sencillo e
 
 Estos ocho lugares están repartidos por buena parte del norte de la provincia de Burgos, así que la forma más práctica de recorrerlos es en coche propio, organizando la ruta en 1 o 2 días según el ritmo que quieras llevar. Puedes usar [Frías](https://www.google.com/maps/search/?api=1&query=Fr%C3%ADas%2C%20Burgos) o [Villarcayo](https://www.google.com/maps/search/?api=1&query=Villarcayo%2C%20Burgos) como base para moverte con comodidad entre los distintos puntos de la ruta.
 
+Y si sigues por la provincia, no te pierdas [Territorio Artlanza](/blog/territorio-artlanza-burgos.html), un pueblo castellano en miniatura hecho a mano, ni [el nido de cigüeña más famoso de España](/blog/nido-ciguena-mas-famoso-espana.html).
+
 ¿Con cuál de estos rincones de Las Merindades te quedas? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más escapadas por Burgos y el resto de España, y échale un vistazo al resto del blog para seguir planeando tu próxima ruta.

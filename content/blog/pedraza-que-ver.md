@@ -46,4 +46,6 @@ Pedraza está en la provincia de Segovia, a poco más de una hora en coche desde
 
 Pedraza es de esos pueblos que se recorren en pocas horas pero que se quedan en la memoria mucho más tiempo: una puerta, una cárcel, un castillo con historia de reyes y una iglesia de piedra, todo dentro de una villa que parece congelada en la Edad Media.
 
+Y si vas por la provincia de Segovia, el plan más especial es verla desde el aire: te cuento cómo es el [vuelo en globo sobre Segovia](/blog/vuelo-en-globo-segovia.html).
+
 ¿Ya has visitado Pedraza? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones con historia, y échale un vistazo al resto del blog para seguir planeando tu próxima escapada.

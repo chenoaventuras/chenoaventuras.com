@@ -58,4 +58,6 @@ La gastronomía de la zona tira mucho hacia el arroz y el marisco, como en el re
 
 Con un día completo tienes de sobra para recorrer el casco antiguo, subir a los miradores, bajar al paseo marítimo y sentarte a comer con vistas al mar. Y si además coincides con el Castell de l'Olla, mejor que mejor.
 
+Y si te sobra media mañana, a media hora en coche tienes [Guadalest](/blog/guadalest-que-ver.html), uno de los pueblos más bonitos de España, colgado sobre su embalse.
+
 Guarda este artículo para cuando toque planear la próxima escapada, y sígueme en [@chenoaventuras](https://www.instagram.com/chenoaventuras/) en Instagram — ahí suelo ir soltando los sitios antes de que lleguen aquí al blog.

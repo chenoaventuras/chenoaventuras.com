@@ -38,4 +38,6 @@ Las Cascadas de Ouzoud se encuentran a poco más de 2 horas en coche desde Marra
 
 <div class="article__callout article__callout--booking">🎟️ Reserva la excursión a las Cascadas de Ouzoud desde Marrakech con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/zXUgQ2tr" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
 
+Más planes en Marruecos: el [vuelo en globo sobre Marrakech](/blog/vuelo-globo-marrakech.html) al amanecer y el [mercado de pescado de Essaouira](/blog/mercado-pescado-essaouira.html).
+
 ¿Te gustaría conocer las Cascadas de Ouzoud? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Marruecos, y échale un vistazo al resto del blog para tu próxima aventura.

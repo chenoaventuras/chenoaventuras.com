@@ -70,4 +70,6 @@ Al estar dentro de una reserva marina, no todo vale: hay zonas donde el fondeo, 
 
 Cabo de Palos es de esos sitios que demuestran que no hace falta cruzar medio mundo para hacer snorkel con vida marina de verdad: con un buen día, un poco de curiosidad y respeto por el entorno, en un par de horas puedes ver más fauna de la que imaginas a pocos metros de la orilla. Y el mismo cabo da para varios días distintos de snorkel sin repetir paisaje bajo el agua: prueba una cala distinta cada vez.
 
+Si te pica la curiosidad por lo que puedes encontrarte bajo el agua, tengo posts sobre la [medusa huevo frito](/blog/medusa-huevo-frito.html), los [ctenóforos](/blog/ctenoforo-arcoiris-marino.html) (ese «arcoíris marino» que no es medusa) y, por desgracia, también sobre la [basura que aparece en el mar](/blog/basura-mar-cabo-de-palos.html) de Cabo de Palos.
+
 Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más vídeos de snorkel y buceo por la costa española, y échale un vistazo al resto del blog si estás planeando tu próxima escapada al Mediterráneo.

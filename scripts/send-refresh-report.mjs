@@ -12,6 +12,7 @@ import { marked } from "marked";
 
 const REPORT = ".refresh/informe.md";
 const LINKS = ".refresh/enlaces.md";
+const GSC = ".refresh/gsc.md";
 const status = process.env.JOB_STATUS || "success";
 const runUrl = process.env.RUN_URL || "";
 const apiKey = process.env.BREVO_API_KEY;
@@ -26,6 +27,7 @@ marked.use({ renderer: { html: (token) => esc(token.text ?? token) } });
 const hasReport = existsSync(REPORT);
 const report = hasReport ? readFileSync(REPORT, "utf8") : "";
 const links = existsSync(LINKS) ? readFileSync(LINKS, "utf8") : "";
+const gsc = existsSync(GSC) ? readFileSync(GSC, "utf8") : "";
 const failed = status !== "success";
 
 let subject;
@@ -43,8 +45,8 @@ if (failed) {
   subject = `Revisión semanal del blog (${date})`;
 }
 
-const body = hasReport || links
-  ? marked.parse([report, links].filter(Boolean).join("\n\n"))
+const body = hasReport || links || gsc
+  ? marked.parse([report, gsc, links].filter(Boolean).join("\n\n"))
   : failed
     ? ""
     : "<p>La revisión terminó pero no generó informe. Revisa la ejecución en GitHub Actions.</p>";

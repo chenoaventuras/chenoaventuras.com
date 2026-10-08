@@ -42,4 +42,6 @@ Puy du Fou España se encuentra en la provincia de Toledo. Puedes consultar la u
 
 <div class="article__callout article__callout--booking">🎟️ Reserva tu entrada a Puy du Fou con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/ToMr62Gb" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
 
+Si aprovechas para ver la ciudad de Toledo, busca la [Piedra del Rey Moro](/blog/piedra-del-rey-moro-toledo.html), un rincón junto al Tajo con leyenda incluida.
+
 ¿Conocías Puy du Fou España? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes por España, y échale un vistazo al resto del blog para tu próxima escapada.

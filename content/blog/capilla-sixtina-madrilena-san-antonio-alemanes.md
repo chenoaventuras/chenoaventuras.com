@@ -42,4 +42,6 @@ Si te gusta la fotografía de interiores, pocos sitios en Madrid dan tanto juego
 
 La iglesia se encuentra en el barrio de Malasaña, muy cerca de la parada de metro Tribunal. Puedes consultar la ubicación exacta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20San%20Antonio%20de%20los%20Alemanes%2C%20Madrid).
 
+¿Te gustan los planes con historia cerca de Madrid? El [Mercado Cervantino de Alcalá de Henares](/blog/mercado-cervantino-alcala-de-henares.html) es otro imprescindible.
+
 ¿Conocías esta "Capilla Sixtina" en pleno Madrid? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones con historia, y échale un vistazo al resto del blog para seguir planeando tu próxima escapada.

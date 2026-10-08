@@ -38,4 +38,6 @@ Si te gusta la fotografía callejera, pocos lugares dan tanto juego como este: g
 
 Essaouira se encuentra en la costa atlántica de Marruecos, a poco más de dos horas en coche desde Marrakech. Puedes consultar la ubicación del puerto en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20de%20Essaouira%2C%20Marruecos).
 
+Más planes en Marruecos: las [Cascadas de Ouzoud](/blog/cascadas-de-ouzoud.html) y el [vuelo en globo sobre Marrakech](/blog/vuelo-globo-marrakech.html) al amanecer.
+
 ¿Te animarías a visitar el mercado de pescado de Essaouira? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones auténticos, y échale un vistazo al resto del blog para tu próxima aventura.

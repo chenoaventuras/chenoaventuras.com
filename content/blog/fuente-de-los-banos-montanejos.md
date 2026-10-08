@@ -36,4 +36,6 @@ Conviene llevar protector solar, toalla y un calzado tipo escarpín, ya que el s
 
 La Fuente de los Baños se encuentra en Montanejos, Castellón. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Fuente%20de%20los%20Ba%C3%B1os%2C%20Montanejos%2C%20Castell%C3%B3n).
 
+Y si te quedas por Castellón, en La Vall d'Uixó tienes las [Cuevas de San José](/blog/cuevas-de-san-jose-vall-duixo.html), con el río subterráneo navegable más largo de Europa.
+
 ¿Te animarías a bañarte en la Fuente de los Baños de Montanejos? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones naturales de España, y échale un vistazo al resto del blog para tu próxima escapada.

@@ -34,6 +34,11 @@ jobs:
         id: today
         run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
+      - name: Datos de Google Search Console
+        env:
+          GSC_SERVICE_ACCOUNT_KEY: ${{ secrets.GSC_SERVICE_ACCOUNT_KEY }}
+        run: node scripts/gsc-report.mjs --inspect
+
       - name: Revisar posts con Claude Code
         id: claude
         uses: anthropics/claude-code-action@v1
@@ -68,6 +73,14 @@ jobs:
                  al más reciente (los que no tengan entrada van primero; entre
                  ellos, primero el de "date" más antiguo en su frontmatter).
                - Coge los 10 primeros. Ese es el lote de hoy.
+               - DATOS REALES DE GOOGLE: si existe .refresh/gsc.json, léelo.
+                 En "posts" tiene, por slug, las búsquedas reales con las que
+                 la gente ve cada post en Google (impresiones, clics, CTR y
+                 posición) en las últimas 4 semanas. Antes de cerrar el lote,
+                 cambia hasta 3 de los 10 por los posts con 20 o más
+                 impresiones, CTR por debajo del 2 % y posición 20 o mejor que
+                 no se hayan revisado en los últimos 14 días: son los que más
+                 ganan con una mejora.
 
             2. PARA CADA POST DEL LOTE
                a. Identifica el lugar o la actividad principal.
@@ -82,6 +95,12 @@ jobs:
                   puedes responderla con datos fiables, añade una sección ##
                   corta (o amplía una existente) con esa pregunta como
                   subtítulo.
+                  Si el post tiene datos en .refresh/gsc.json, esas búsquedas
+                  reales van primero: asegúrate de que el post responde a las
+                  que tienen más impresiones. Si sale mucho en Google pero
+                  apenas tiene clics, mejora también "title" y "excerpt" para
+                  que respondan a esas búsquedas, sin inventar nada (el título,
+                  máx. ~65 caracteres; el excerpt, máx. ~160).
                c. NOVEDADES. Busca si ha cambiado algo desde que se escribió
                   el post: precios o tarifas, horarios o temporadas, cierres
                   temporales o permanentes, obras, nuevas atracciones o
@@ -109,7 +128,8 @@ jobs:
                  "> **Aviso:** ..." y cuéntalo en el informe.
                - En el frontmatter solo puedes añadir o actualizar el campo
                  "updated: AAAA-MM-DD" (fecha de hoy), y solo en los posts
-                 donde hayas cambiado el título, el resumen o el cuerpo. No
+                 donde hayas cambiado el título, el resumen o el cuerpo; y
+                 "title" y "excerpt" en el caso del punto 2b. No
                  cambies date, slug, cover, tags, igPermalink ni ningún otro
                  campo. Excepción: si el post trata de un sitio concreto y no
                  tiene "lat" y "lng", añádelos (decimales, p. ej. lat: 38.5990 y
@@ -147,6 +167,11 @@ jobs:
                ## Lo que busca la gente (secciones añadidas o ajustadas)
                - <Post>: <pregunta o búsqueda> → <qué se ha añadido>
                (o "Sin ajustes esta semana.")
+
+               ## Search Console
+               - <Post>: <búsquedas reales tenidas en cuenta> → <qué se ha
+                 cambiado para ellas>
+               (o "Sin datos de Search Console esta semana.")
 
                ## Para revisar a mano
                - <Post>: <duda, fuentes que se contradicen, algo que no pude

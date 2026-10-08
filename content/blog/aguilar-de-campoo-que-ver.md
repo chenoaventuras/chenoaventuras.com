@@ -40,4 +40,6 @@ Aguilar de Campoo lleva ligado a la fabricación de galletas desde hace generaci
 
 El pueblo tiene fácil acceso en coche y aparcamiento gratuito. Puedes consultar la ruta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Aguilar%20de%20Campoo%2C%20Palencia). Para verlo con calma —colegiata, castillo, monasterio, embalse y puente— hacen falta unas 5 horas, que se pasan volando dada la cantidad de sitios que hay que ver. Se puede visitar durante todo el año y la dificultad es baja, apta para todos los públicos.
 
+Si quieres alargar la escapada hacia Cantabria, muy cerca tienes Reinosa, con su [máquina de leche recién ordeñada](/blog/maquina-leche-reinosa-cantabria.html), y algo más al norte el [Partenón cántabro de Las Fraguas](/blog/partenon-de-las-fraguas-cantabria.html).
+
 ¿Ya conocías Aguilar de Campoo más allá de las galletas? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más pueblos completos de España, y échale un vistazo al resto del blog para tu próxima escapada.

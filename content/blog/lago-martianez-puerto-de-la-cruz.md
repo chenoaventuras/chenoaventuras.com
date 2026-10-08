@@ -41,4 +41,6 @@ Tenerife disfruta de un clima privilegiado durante todo el año, por lo que cual
 
 Lago Martiánez se encuentra en Puerto de la Cruz, al norte de Tenerife. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Lago%20Marti%C3%A1nez%2C%20Puerto%20de%20la%20Cruz%2C%20Tenerife).
 
+Más planes en Tenerife: el [Mirador de Chipeque](/blog/mirador-de-chipeque-tenerife.html), en el interior, y el [Arco de Tajao](/blog/arco-de-tajao-tenerife.html), en el sur.
+
 ¿Conocías el Lago Martiánez? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Canarias, y échale un vistazo al resto del blog para tu próxima escapada.
