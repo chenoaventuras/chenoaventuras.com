@@ -14,6 +14,7 @@ const SENDER_EMAIL = process.env.BREVO_SENDER_EMAIL || "chenoaventuras@gmail.com
 const OWNER_EMAIL = "chenoaventuras@gmail.com";
 
 // Guías en PDF: valor de "source" del formulario -> título y archivo.
+// "extra" (opcional): más PDFs que se envían en el mismo correo.
 const GUIDES = {
   "guia-monte-igueldo": { title: "Guía del Monte Igueldo", file: "/assets/guias/guia-monte-igueldo-chenoaventuras.pdf" },
   "guia-cuenca": { title: "Guía de Cuenca", file: "/assets/guias/guia-cuenca-chenoaventuras.pdf" },
@@ -21,6 +22,12 @@ const GUIDES = {
   "laguna-de-una-cuenca": { title: "Guía de Cuenca", file: "/assets/guias/guia-cuenca-chenoaventuras.pdf" },
   "nacimiento-rio-cuervo": { title: "Guía de Cuenca", file: "/assets/guias/guia-cuenca-chenoaventuras.pdf" },
   "mirador-ventano-del-diablo": { title: "Guía de Cuenca", file: "/assets/guias/guia-cuenca-chenoaventuras.pdf" },
+  "pirineo-aragones-que-ver": { title: "Guía del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-chenoaventuras.pdf", extra: [{ title: "Guía ilustrada del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-ilustrada-chenoaventuras.pdf" }] },
+  "ruta-cola-de-caballo-ordesa": { title: "Guía del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-chenoaventuras.pdf", extra: [{ title: "Guía ilustrada del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-ilustrada-chenoaventuras.pdf" }] },
+  "senda-de-los-cazadores-ordesa": { title: "Guía del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-chenoaventuras.pdf", extra: [{ title: "Guía ilustrada del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-ilustrada-chenoaventuras.pdf" }] },
+  "ibon-de-anayet": { title: "Guía del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-chenoaventuras.pdf", extra: [{ title: "Guía ilustrada del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-ilustrada-chenoaventuras.pdf" }] },
+  "cascada-del-sorrosal-broto": { title: "Guía del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-chenoaventuras.pdf", extra: [{ title: "Guía ilustrada del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-ilustrada-chenoaventuras.pdf" }] },
+  "ainsa-que-ver": { title: "Guía del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-chenoaventuras.pdf", extra: [{ title: "Guía ilustrada del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-ilustrada-chenoaventuras.pdf" }] },
 };
 
 // Límite por IP (en memoria): evita usar el formulario para mandar correos a terceros.
@@ -99,6 +106,7 @@ export default async function handler(req, res) {
               `<p>¡Hola! Gracias por apuntarte a Chenoaventuras.</p>` +
               `<p>Aquí tienes tu guía:</p>` +
               `<p><a href="${SITE}${guide.file}" style="display:inline-block;background:#274c78;color:#fff;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;">Descargar ${guide.title} (PDF)</a></p>` +
+              (guide.extra || []).map((x) => `<p><a href="${SITE}${x.file}" style="display:inline-block;background:#eab308;color:#1f3e64;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;">Descargar ${x.title} (PDF)</a></p>`).join("") +
               `<p>A partir de ahora recibirás mis rutas, lugares de interés y curiosidades de viaje. Puedes darte de baja cuando quieras.</p>` +
               `<p>Un abrazo,<br>Cheno · Chenoaventuras</p>` +
               `<p style="color:#888;font-size:12px;">Si no has pedido esta guía, ignora este mensaje.</p>` +
