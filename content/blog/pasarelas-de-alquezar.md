@@ -11,7 +11,6 @@ tags:
   - Actividades
   - Aragón
 wide: true
-draft: true
 ---
 Pasarelas metálicas colgadas de la roca, un río de aguas turquesas por debajo y, al final, uno de los pueblos más bonitos de España. Las **Pasarelas de Alquézar** son la ruta más popular de la Sierra de Guara, y con razón.
 
@@ -51,4 +50,4 @@ Te cuento cómo hacerla y qué ver en **Alquézar** antes o después 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios, precio y compra de entradas en la web oficial de las Pasarelas de Alquézar.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios, precio y compra de entradas en la web oficial de las Pasarelas de Alquézar. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3APPA2219_Alqu%C3%A9zar_y_ca%C3%B1ones_del_Vero.jpg" target="_blank" rel="noopener">Pedro José Ponce Asensio</a> (CC BY 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APasarelas_de_Alqueza_%287%29.jpg" target="_blank" rel="noopener">Alberto-g-rovi</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3APasarelas_R%C3%ADo_Vero%2C_Alqu%C3%A9zar%2C_Huesca.jpeg" target="_blank" rel="noopener">Robot8A</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_y_Colegiata_de_Santa_Mar%C3%ADa_de_Alqu%C3%A9zar_%28Huesca%2C_Arag%C3%B3n%2C_Espa%C3%B1a%29.jpg" target="_blank" rel="noopener">LSanzSal</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3APlazuela_de_Alqu%C3%A9zar.jpg" target="_blank" rel="noopener">Jl FilpoC</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACa%C3%B1%C3%B3n_de_la_Sierra_de_Guara.jpg" target="_blank" rel="noopener">Iván Carmona Berriguete</a> (CC BY-SA 4.0).</p>

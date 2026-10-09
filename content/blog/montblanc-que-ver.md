@@ -11,7 +11,6 @@ tags:
   - Pueblos
   - Cataluña
 wide: true
-draft: true
 ---
 Una muralla medieval casi intacta, torres, portales y un casco antiguo que parece detenido en el siglo XIV. Y, según la tradición, justo delante de esos muros **Sant Jordi** se enfrentó al **dragón**.
 
@@ -51,4 +50,4 @@ Una muralla medieval casi intacta, torres, portales y un casco antiguo que parec
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta las fechas de la Semana Medieval y los horarios de la muralla en la oficina de turismo de Montblanc.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta las fechas de la Semana Medieval y los horarios de la muralla en la oficina de turismo de Montblanc. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AMuralla_Montblanc_3.jpg" target="_blank" rel="noopener">Mmorell</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APortal_de_Sant_Jordi_1.jpg" target="_blank" rel="noopener">Till F. Teenck</a> (CC BY-SA 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3AMontblanc-Santa_Maria_la_Major.jpg" target="_blank" rel="noopener">Josep Grin</a> (CC BY-SA 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3AMontblanc_-_Pla%C3%A7a_Major.jpg" target="_blank" rel="noopener">Jordi D. A. from Barcelona, Catalan Lands</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APont_vell_montblanc_6.jpg" target="_blank" rel="noopener">Santi Gomà</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMonestir_de_Poblet-PM_26149.jpg" target="_blank" rel="noopener">PMRMaeyaert</a> (CC BY-SA 3.0).</p>

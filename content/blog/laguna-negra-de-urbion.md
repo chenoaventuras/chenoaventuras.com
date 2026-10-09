@@ -11,7 +11,6 @@ tags:
   - Spots
   - Castilla y León
 wide: true
-draft: true
 ---
 Agua oscura como la tinta, un paredón de roca de casi 200 metros y un bosque de pinos que la rodea. La **Laguna Negra** parece sacada de un cuento de terror… y es que de un cuento salió: aquí ambientó **Antonio Machado** su crimen más famoso.
 
@@ -51,4 +50,4 @@ Cuentan que no tiene fondo y que está conectada con el mar. Yo no me metería a
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta el estado de la carretera, el precio del aparcamiento y los horarios del autobús en la Casa del Parque de Vinuesa antes de ir.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta el estado de la carretera, el precio del aparcamiento y los horarios del autobús en la Casa del Parque de Vinuesa antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ALaguna_Negra_Soria_3.JPG" target="_blank" rel="noopener">Victor Salvador Vilariño</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ALaguna_negra_de_Urbi%C3%B3n%2C_Valle_de_Juarros_%28Soria%29.jpg" target="_blank" rel="noopener">José Antonio JG</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ALaguna_Negra_de_Urbi%C3%B3n_2.JPG" target="_blank" rel="noopener">Txo</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACatarata_Parque_natural_de_la_Laguna_Negra_y_los_Circos_Glaciares_de_Urbi%C3%B3n_Soria.jpg" target="_blank" rel="noopener">Tanja Freibott</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AWalking_track_in_Urbi%C3%B3n_Mountains_Natural_Park.jpg" target="_blank" rel="noopener">Heidi Meudt</a> (CC BY 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AVinuesa.jpg" target="_blank" rel="noopener">Fernando</a> (CC BY-SA 4.0).</p>
