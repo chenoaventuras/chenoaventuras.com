@@ -73,42 +73,145 @@
   </header>
 
   <main>
-    <section class="pagehead torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
-      <div class="pagehead__inner container">
-        <div class="split" style="align-items:center;">
-          <div>
-            <span class="eyebrow" style="color:var(--olive-bright)">Sobre mí · Contacto</span>
-            <h1>Soy Cheno</h1>
-            <p>Creador de contenido, aventurero y apasionado de la naturaleza.</p>
-            <p style="color:rgba(255,255,255,.8);max-width:44ch;">Desde siempre he sentido una conexión especial con los paisajes, las historias y las experiencias que te transforman. Viajo, exploro y comparto para inspirar a otros a vivir más aventuras y a disfrutar del camino.</p>
-            <a class="btn" href="#hablemos" style="margin-top:8px;">Hablemos</a>
+    <!-- HERO: pasaporte aventurero -->
+    <section class="about-hero torn-bottom">
+      <div class="about-hero__glow" aria-hidden="true"></div>
+      <div class="container about-hero__grid">
+        <div class="about-hero__text">
+          <span class="eyebrow" style="color:var(--gold-soft)">Sobre mí · Contacto</span>
+          <h1 class="about-hero__title">Soy <span>Cheno</span></h1>
+          <p class="about-hero__lead">Busco los rincones de España que merecen el desvío y te cuento <strong>cómo llegar, cuándo ir y qué historia esconden</strong>.</p>
+          <p class="about-hero__sub">Pueblos con leyenda, rutas de aventura, curiosidades que no salen en las guías… y un dron para verlo todo desde arriba.</p>
+          <div class="about-hero__ctas">
+            <a class="btn btn--sun" href="#hablemos">Escríbeme</a>
+            <a class="btn btn--light" href="mapa.html">Ver mis aventuras</a>
           </div>
-          <div class="reveal" style="justify-self:center;">
-            <div class="polaroid"><img src="assets/img/sobre-mi-retrato.webp" alt="Cheno sentado en una roca mirando las montañas" width="300" height="268" loading="lazy" decoding="async" /></div>
+        </div>
+
+        <div class="passport reveal" aria-label="Pasaporte aventurero de Cheno">
+          <div class="passport__top">
+            <span>Pasaporte aventurero</span>
+            <span>ES · Nº 0001</span>
           </div>
+          <div class="passport__body">
+            <div class="passport__photo"><img src="assets/img/cheno-recorte.webp" alt="Cheno, creador de Chenoaventuras" width="880" height="813" decoding="async" fetchpriority="high" /></div>
+            <dl class="passport__data">
+              <div><dt>Nombre</dt><dd>Cheno</dd></div>
+              <div><dt>Profesión</dt><dd>Creador de contenido de viajes</dd></div>
+              <div><dt>Base</dt><dd>España</dd></div>
+              <div><dt>Licencia</dt><dd>Piloto de dron A1/A3 · AESA</dd></div>
+              <div><dt>Próximo destino</dt><dd class="passport__next" data-next-place>El que me propongas</dd></div>
+            </dl>
+          </div>
+          <p class="passport__mrz" aria-hidden="true">P&lt;ESPCHENO&lt;&lt;AVENTURAS&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</p>
+          <div class="passport__stamp" aria-hidden="true"><span>Aprobado</span><b>para la</b><span>aventura</span></div>
         </div>
       </div>
     </section>
 
-    <section class="section">
+    <!-- CIFRAS EN VIVO -->
+    <section class="section about-stats">
       <div class="container">
-        <div class="statrow">
-          <div class="stat reveal"><b>+150</b><span>Aventuras</span></div>
-          <div class="stat reveal"><b>+80K</b><span>Comunidad</span></div>
-          <div class="stat reveal"><b>+20</b><span>Países</span></div>
-          <div class="stat reveal"><b>+300</b><span>Vídeos</span></div>
+        <div class="about-stats__grid">
+          <div class="about-stat reveal"><b data-count="lugares">155</b><span>lugares en el mapa</span></div>
+          <div class="about-stat reveal"><b data-count="comunidades">19</b><span>comunidades exploradas</span></div>
+          <div class="about-stat reveal"><b data-count="provincias">51</b><span>provincias con historia</span></div>
+          <div class="about-stat reveal"><b>A1/A3</b><span>piloto de dron certificado</span></div>
         </div>
-        <p class="lead center" style="margin:30px auto 0;"><em>Placeholder: cifras tomadas del diseño. Ajustar a los datos reales.</em></p>
       </div>
     </section>
 
-    <section class="section" style="background:var(--paper-2);">
-      <div class="container split split--reverse">
-        <div class="split__media reveal reveal--media"><img src="assets/img/dron-piloto.webp" alt="Cheno pilotando el dron en la montaña" width="291" height="340" loading="lazy" decoding="async" /></div>
-        <div class="reveal">
-          <span class="eyebrow">La historia</span>
-          <h2 class="title">Del <span class="accent">hobby</span> a la carretera</h2>
-          <p class="lead">Placeholder — aquí irá la biografía larga de Cheno: cómo empezó, por qué la furgoneta, qué busca en cada viaje y qué le gustaría que la comunidad se llevara de cada vídeo.</p>
+    <!-- HISTORIA: cuaderno de ruta -->
+    <section class="section about-story">
+      <div class="container about-story__grid">
+        <figure class="about-story__photo reveal">
+          <div class="polaroid polaroid--left"><img src="assets/img/cheno-perfil.jpg" alt="Retrato de Cheno con montañas de fondo" width="1080" height="1080" loading="lazy" decoding="async" /></div>
+          <figcaption>Siempre con una montaña de fondo</figcaption>
+        </figure>
+        <div class="notebook reveal">
+          <span class="eyebrow">Mi historia</span>
+          <h2 class="title">Lo que no cabe en <span class="accent">30 segundos</span></h2>
+          <p>Empecé compartiendo aventuras en vídeos cortos: un mirador, una cascada, un pueblo que parecía de cuento. Pero cada vídeo dejaba fuera lo más útil: <strong>el porqué de un sitio, cómo llegar, qué llevar y cuándo ir</strong>.</p>
+          <p>Por eso nació Chenoaventuras como algo más que una cuenta de Instagram: un blog con guías de verdad, un mapa con todos los lugares y vídeos que te pican para salir de casa este mismo finde.</p>
+          <p>Me encanta lo que tiene historia detrás: una leyenda, un pueblo maldito, un río que parece de Marte. Si me escribes para proponerme un lugar, <strong>las mejores propuestas acaban en vídeo</strong>.</p>
+          <p class="notebook__sign">Nos vemos en el camino,<span>Cheno</span></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- LO QUE ME MUEVE -->
+    <section class="section about-values">
+      <div class="container">
+        <span class="eyebrow eyebrow--center">Mi forma de viajar</span>
+        <h2 class="title center">Tres reglas que <span class="accent">no me salto</span></h2>
+        <div class="about-values__grid">
+          <article class="value reveal"><span class="value__n">01</span><h3>Lugares reales</h3><p>Nada de «top 10» genéricos: sitios concretos, con nombre y coordenadas, que puedes visitar este fin de semana.</p></article>
+          <article class="value reveal"><span class="value__n">02</span><h3>Información que sirve</h3><p>Cómo llegar, dónde aparcar, si hay que reservar, cuánto cuesta y a qué hora ir para evitar a la gente.</p></article>
+          <article class="value reveal"><span class="value__n">03</span><h3>La historia detrás</h3><p>Cada lugar tiene una leyenda, un dato curioso o una pregunta que nadie se hace. Esa es la parte que más me gusta contar.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONSTELACIÓN -->
+    <section class="about-sky torn-top torn-bottom">
+      <div class="container about-sky__grid">
+        <div class="about-sky__text">
+          <span class="eyebrow" style="color:var(--gold-soft)">Mi España, punto a punto</span>
+          <h2>Cada estrella es un lugar donde ya te he llevado</h2>
+          <p>Pasa el dedo o el ratón por encima y descubre cuál es. Toca una y te llevo a la guía.</p>
+          <ul class="about-sky__legend">
+            <li><i style="background:#6f9be0"></i>Actividades</li>
+            <li><i style="background:#9bab68"></i>Pueblos</li>
+            <li><i style="background:#f6c945"></i>Spots</li>
+            <li><i style="background:#c08ad6"></i>Curiosidades</li>
+          </ul>
+          <a class="btn btn--light" href="mapa.html">Abrir el mapa completo</a>
+        </div>
+        <div class="about-sky__map">
+          <svg id="sky" viewBox="0 0 1000 760" role="img" aria-label="Constelación con todos los lugares de Chenoaventuras en España"></svg>
+          <p class="about-sky__tip" id="sky-tip" aria-live="polite">&nbsp;</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SELLOS -->
+    <section class="section about-stamps">
+      <div class="container">
+        <span class="eyebrow eyebrow--center">Sellos en el pasaporte</span>
+        <h2 class="title center">Comunidades que ya llevo <span class="accent">selladas</span></h2>
+        <div class="stamps" id="stamps"></div>
+        <p class="center about-stamps__note">¿Falta la tuya? <a href="#hablemos">Propónme un lugar</a> y vamos a por el siguiente sello.</p>
+      </div>
+    </section>
+
+    <!-- TIRA DE FOTOS -->
+    <section class="about-film" aria-label="Fotos de mis aventuras">
+      <div class="film" id="film"><div class="film__track"></div></div>
+    </section>
+
+    <!-- TRABAJAR JUNTOS -->
+    <section class="section about-work">
+      <div class="container">
+        <div class="about-work__head">
+          <div>
+            <span class="eyebrow">Para marcas, destinos y alojamientos</span>
+            <h2 class="title">Así trabajamos <span class="accent">juntos</span></h2>
+          </div>
+          <p class="lead">Contenido para pueblos y oficinas de turismo, empresas de aventura, alojamientos y productos de viaje. Y si lo necesitas, también anuncios en Instagram y Facebook.</p>
+        </div>
+        <ol class="route">
+          <li class="route__step reveal"><span class="route__pin"><i>1</i></span><h3>Me cuentas tu idea</h3><p>Qué quieres mostrar, a quién y para cuándo. Con el formulario de abajo basta.</p></li>
+          <li class="route__step reveal"><span class="route__pin"><i>2</i></span><h3>Te propongo un plan</h3><p>Formato (reels, fotos, dron, guía en el blog), fechas y presupuesto claro.</p></li>
+          <li class="route__step reveal"><span class="route__pin"><i>3</i></span><h3>Salgo a grabar</h3><p>Con mi equipo y el dron, con vuelos que cumplen la normativa y la certificación A1/A3.</p></li>
+          <li class="route__step reveal"><span class="route__pin"><i>4</i></span><h3>Entrega y difusión</h3><p>Material editado para tus canales y, si encaja, publicado en los míos.</p></li>
+        </ol>
+        <div class="about-brands">
+          <span>Marcas que me acompañan</span>
+          <b>Holafly</b>
+          <b>GetYourGuide</b>
+          <b>Insta360</b>
+          <b>DiscoverCars</b>
+          <a href="equipo.html#descuentos">Ver sus descuentos →</a>
         </div>
       </div>
     </section>
@@ -178,6 +281,7 @@
   </footer>
 
   <script src="assets/js/main.js?v=20261008"></script>
+  <script src="assets/js/sobre-mi.js?v=20261010" defer></script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
