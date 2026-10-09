@@ -11,7 +11,6 @@ tags:
   - Pueblos
   - Aragón
 wide: true
-draft: true
 ---
 Hay pueblos con leyenda y luego está **Trasmoz**. Un pueblecito del Moncayo, con apenas unas decenas de vecinos, que lleva siglos **excomulgado y maldito por la Iglesia**. Y la maldición, dicen, sigue en vigor.
 
@@ -50,4 +49,4 @@ Brujas, un castillo en ruinas y un poeta que se inspiró en todo ello. Te cuento
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta los horarios del castillo y las fechas de la feria con el Ayuntamiento de Trasmoz.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta los horarios del castillo y las fechas de la feria con el Ayuntamiento de Trasmoz. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ATrasmoz_-_DSC_8770.JPG" target="_blank" rel="noopener">Juanje 2712</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATrasmoz%2C_Zaragoza%2C_Espa%C3%B1a%2C_2016-01-03%2C_DD_21.JPG" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AVista_del_Moncayo%2C_Trasmoz%2C_Zaragoza%2C_Espa%C3%B1a%2C_2015.jpg" target="_blank" rel="noopener">Benjamín Núñez González</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMonasterio_de_Veruela%2C_Vera_de_Moncayo%2C_Espa%C3%B1a%2C_2012-09-03%2C_DD_01.JPG" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATarazona_2.jpg" target="_blank" rel="noopener">Gargoileh</a> (CC BY-SA 4.0).</p>

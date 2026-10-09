@@ -11,7 +11,6 @@ tags:
   - Pueblos
   - Cantabria
 wide: true
-draft: true
 ---
 Dicen que **Santillana del Mar** es la villa de las tres mentiras: **ni es santa, ni es llana, ni tiene mar**. Y aun así es uno de los pueblos más buscados de España, y en cuanto pisas sus calles empedradas entiendes por qué.
 
@@ -51,4 +50,4 @@ Casonas con escudos, balcones de madera llenos de flores, una colegiata románic
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios del Museo de Altamira y de la colegiata en sus webs oficiales antes de ir.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios del Museo de Altamira y de la colegiata en sus webs oficiales antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AColegiata_de_Santa_Juliana%2C_Santillana_del_Mar_03.jpg" target="_blank" rel="noopener">Luis Fermín TURIEL PEREDO</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACalle_del_Rio_-_Santillana_del_Mar_-_panoramio.jpg" target="_blank" rel="noopener">charles lecompte</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3APlaza_Mayor_%28Santillana_del_Mar-Cantabria%29.jpg" target="_blank" rel="noopener">JnCrlsMG</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AFachada_con_escudo_de_una_casa_nobiliaria%2C_Santillana_del_Mar.jpg" target="_blank" rel="noopener">Jl FilpoC</a> (CC BY 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AQuesada_pasiega.jpg" target="_blank" rel="noopener">Juan Emilio Prades Bel</a> (CC BY-SA 4.0).</p>
