@@ -11,7 +11,6 @@ tags:
   - Actividades
   - Asturias
 wide: true
-draft: true
 ---
 Un camino excavado en la roca, colgado sobre un precipicio, con el río Cares turquesa allá abajo y paredes de mil metros a los lados. La **Ruta del Cares** es probablemente la ruta de senderismo más famosa de España, y la llaman **la garganta divina**.
 
@@ -51,4 +50,4 @@ Te cuento cómo hacerla sin morir en el intento (y cómo volver, que es la gran 
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta el estado del camino y las opciones de transporte de vuelta en el Parque Nacional de los Picos de Europa.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta el estado del camino y las opciones de transporte de vuelta en el Parque Nacional de los Picos de Europa. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ARuta_del_cares_%2814072443456%29.jpg" target="_blank" rel="noopener">Javier Mendia García from leioa</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AS00_060_Garganta_de_Cares.jpg" target="_blank" rel="noopener">Falk2</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AFunicular_de_Bulnes_Ago_2020.jpeg" target="_blank" rel="noopener">Robot8A</a> (CC BY-SA 4.0).</p>
