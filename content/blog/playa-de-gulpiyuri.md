@@ -3,13 +3,14 @@ title: 'Playa de Gulpiyuri: la playa sin mar de Asturias'
 seoTitle: 'Playa de Gulpiyuri: cómo llegar, mareas y consejos'
 date: 2026-10-20T08:00:00.000Z
 lugar: 'Playa de Gulpiyuri'
+lat: 43.4476
+lng: -4.8861
 excerpt: 'Playa de Gulpiyuri (Llanes): una playa interior en mitad de un prado, a 100 metros del mar. Cómo llegar desde Naves, cuándo ir según la marea y consejos.'
 cover: /assets/img/blog/playa-de-gulpiyuri/portada.webp
 tags:
   - Spots
   - Asturias
 wide: true
-draft: true
 ---
 Una playa de arena fina, con olas y agua salada… en mitad de un prado verde, sin el mar a la vista. **Gulpiyuri** es una de las rarezas más bonitas de España: una **playa interior** de apenas 50 metros.
 
@@ -29,9 +30,8 @@ El truco está en la marea. Te cuento cuándo ir para verla con agua 👇
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-gulpiyuri/playa.webp" alt="Playa de Gulpiyuri con agua en marea alta" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La playa en marea alta</h3><p>Agua salada y pequeñas olas en mitad de un prado. La imagen que buscas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-gulpiyuri/prado.webp" alt="Prado alrededor de la playa de Gulpiyuri" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El prado</h3><p>La playa está rodeada de hierba y vegetación. Asómate desde arriba para la mejor foto.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-gulpiyuri/acantilado.webp" alt="Acantilados junto a Gulpiyuri" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los acantilados</h3><p>Al otro lado está el mar abierto, con acantilados por donde entra el agua.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-gulpiyuri/san-antolin.webp" alt="Playa de San Antolín en Llanes" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Playa de San Antolín</h3><p>Una playa enorme y salvaje a unos 500 metros. Puedes ir andando desde Gulpiyuri.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-gulpiyuri/llanes.webp" alt="Llanes, Asturias" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Llanes</h3><p>A unos 15 minutos: puerto, casco antiguo y los Cubos de la Memoria.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-gulpiyuri/san-antolin.webp" alt="Playa de San Antolín en Llanes" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Playa de San Antolín</h3><p>Una playa enorme y salvaje a unos 500 metros. Puedes ir andando desde Gulpiyuri.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-gulpiyuri/llanes.webp" alt="Llanes, Asturias" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Llanes</h3><p>A unos 15 minutos: puerto, casco antiguo y los Cubos de la Memoria.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Gulpiyuri</h2></div>
@@ -48,4 +48,4 @@ El truco está en la marea. Te cuento cuándo ir para verla con agua 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta la tabla de mareas de Llanes antes de ir.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta la tabla de mareas de Llanes antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AGulpiyuri.jpg" target="_blank" rel="noopener">Ramon Diaz</a> (Public domain) · <a href="https://commons.wikimedia.org/wiki/File%3APlaya_de_Gulpiyuri_-_panoramio.jpg" target="_blank" rel="noopener">Fernando Vázquez</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AGulpiyuri_spiaggia.jpg" target="_blank" rel="noopener">Franciaio</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3APlaya_de_San_Antolin.jpg" target="_blank" rel="noopener">J.L. Maral</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACubos_de_la_memoria_%28Llanes%29.jpg" target="_blank" rel="noopener">Pedro M. Martinez Corada</a> (CC BY-SA 3.0).</p>

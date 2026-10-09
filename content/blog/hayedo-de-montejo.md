@@ -3,13 +3,14 @@ title: 'Hayedo de Montejo: el bosque de Madrid que es Patrimonio'
 seoTitle: 'Hayedo de Montejo: reservas, rutas y mejor época'
 date: 2026-10-20T08:00:00.000Z
 lugar: 'Hayedo de Montejo'
+lat: 41.1033
+lng: -3.4898
 excerpt: 'Hayedo de Montejo (Madrid): el hayedo Patrimonio de la Humanidad de la Sierra del Rincón. Cómo reservar las rutas, cuándo ir en otoño y qué ver cerca.'
 cover: /assets/img/blog/hayedo-de-montejo/portada.webp
 tags:
   - Spots
   - Comunidad de Madrid
 wide: true
-draft: true
 ---
 A una hora y poco de Madrid hay un bosque de hayas que es **Patrimonio de la Humanidad**. Uno de los hayedos más al sur de Europa, escondido en la Sierra del Rincón, y en otoño se convierte en un espectáculo de amarillos y rojos.
 
@@ -29,9 +30,8 @@ Eso sí: no se entra por libre. Te cuento cómo reservar y qué hacer por la zon
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hayedo-de-montejo/hayedo.webp" alt="Hayedo de Montejo en otoño" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El hayedo</h3><p>Hayas, robles y acebos junto al río Jarama. De mediados de octubre a principios de noviembre, puro color.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hayedo-de-montejo/rio.webp" alt="Río Jarama en el Hayedo de Montejo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El río Jarama</h3><p>El río atraviesa el bosque y las rutas lo siguen en parte. Con la hojarasca en el agua, la foto es de postal.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hayedo-de-montejo/centro.webp" alt="Centro de Recursos de la Sierra del Rincón" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Centro de Recursos</h3><p>En Montejo de la Sierra, donde se organizan las visitas y te informan de las rutas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hayedo-de-montejo/montejo.webp" alt="Montejo de la Sierra" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Montejo de la Sierra</h3><p>Pueblo serrano de piedra, con su iglesia y sus casas tradicionales.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hayedo-de-montejo/puebla.webp" alt="La Puebla de la Sierra" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Sierra del Rincón</h3><p>Pueblos como La Puebla de la Sierra o Prádena del Rincón completan la escapada.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hayedo-de-montejo/montejo.webp" alt="Montejo de la Sierra" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Montejo de la Sierra</h3><p>Pueblo serrano de piedra, con su iglesia y sus casas tradicionales.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hayedo-de-montejo/puebla.webp" alt="La Puebla de la Sierra" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Sierra del Rincón</h3><p>Pueblos como La Puebla de la Sierra o Prádena del Rincón completan la escapada.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a el Hayedo de Montejo</h2></div>
@@ -48,4 +48,4 @@ Eso sí: no se entra por libre. Te cuento cómo reservar y qué hacer por la zon
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta cómo reservar las rutas y las fechas en la web de la Comunidad de Madrid o del Centro de Recursos de la Sierra del Rincón.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta cómo reservar las rutas y las fechas en la web de la Comunidad de Madrid o del Centro de Recursos de la Sierra del Rincón. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AHayedo_de_Montejo_en_su_fase_rojiza_de_oto%C3%B1o.jpg" target="_blank" rel="noopener">Dapatxi</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AHayedo_de_Montejo_de_la_Sierra._Oto%C3%B1o.jpg" target="_blank" rel="noopener">Miriela Rodriguez</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3APaseo_por_el_Hayedo_de_Montejo_en_invierno.jpg" target="_blank" rel="noopener">Ilcantabria</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3AMontejo_de_la_Sierra.jpg" target="_blank" rel="noopener">jacinta lluch valero from madrid * barcelona...., (España-Sp</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APueblaDeLaSierra2_5062062_-_5062066-1.jpg" target="_blank" rel="noopener">Rowanwindwhistler</a> (CC BY-SA 4.0).</p>
