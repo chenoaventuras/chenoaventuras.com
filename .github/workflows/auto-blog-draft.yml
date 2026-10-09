@@ -105,6 +105,8 @@ jobs:
                  con fiabilidad (compruébalo con WebSearch si dudas); si no, omite
                  lat y lng>
                lng: <longitud decimal (p.ej. -0.0510)>
+               provincia: <provincia española del lugar (p.ej. Huesca, Cuenca,
+                 Santa Cruz de Tenerife); omítelo si no es en España>
                lugar: <nombre corto del lugar (p.ej. Cabo de Palos); omítelo si
                  no hay lugar concreto>
                tags:

@@ -55,6 +55,7 @@ collections:
       - { name: guia, label: 'Guía PDF a cambio del email (ruta)', widget: string, required: false, hint: 'Opcional. Ruta del PDF, p. ej. /assets/guias/mi-guia.pdf. Muestra un bloque para descargarla tras dejar el email.' }
       - { name: guiaTitulo, label: 'Título del bloque de la guía', widget: string, required: false }
       - { name: destino, label: 'Destino (agrupa posts del mismo sitio)', widget: string, required: false, hint: 'Opcional. Pon el código de una página de destino existente: cabo-de-palos, cuenca, pirineo-aragones, tenerife, marruecos, chinchon o burgos.' }
+      - { name: provincia, label: 'Provincia (para la lista del mapa)', widget: string, required: false, hint: 'Opcional. Provincia española del lugar, p. ej. Huesca. Si la dejas vacía se usa content/provincias.json.' }
       - { name: lugar, label: 'Nombre del lugar (para el mapa y Google)', widget: string, required: false, hint: 'Opcional. Nombre corto del sitio, p. ej. "Cabo de Palos". Se usa también para enlazar automáticamente entre posts.' }
       - { name: seoTitle, label: 'Título para Google (máx. ~60 caracteres)', widget: string, required: false, hint: 'Opcional. Si el título del post es muy largo, pon aquí una versión corta para el resultado de Google.' }
       - {

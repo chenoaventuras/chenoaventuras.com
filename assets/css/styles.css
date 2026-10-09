@@ -1585,21 +1585,21 @@ p { margin: 0 0 1em; }
 @media (max-width: 760px) { .guidebox { grid-template-columns: 1fr; } }
 .article__body--wide .guidebox { max-width: 68ch; margin-inline: auto; }
 
-/* Lista visual de lugares del mapa: tarjetas por comunidad con bandera */
-.regiongrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px; margin-top: 18px; align-items: start; }
-.regioncard { background: var(--white); border-radius: var(--radius); box-shadow: var(--shadow-sm); padding: 14px 16px 12px; }
-.regioncard__head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+/* Lista visual de lugares del mapa: una franja por comunidad, dividida en provincias */
+.regiongrid { display: flex; flex-direction: column; gap: 14px; margin-top: 18px; }
+.regionband { background: var(--white); border-radius: var(--radius); box-shadow: var(--shadow-sm); padding: 14px 20px 8px; }
+.regioncard__head { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
 .regioncard__head img { width: 34px; height: 23px; object-fit: cover; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0,0,0,.14); flex: none; }
-.maplist .regioncard__head h3 { margin: 0; flex: 1; font-family: var(--font-head); font-weight: 600; font-size: 1rem; color: var(--night); }
+.maplist .regioncard__head h3 { margin: 0; flex: 1; font-family: var(--font-head); font-weight: 600; font-size: 1.05rem; color: var(--night); }
 .regioncard__count { font-size: .75rem; font-weight: 600; color: #fff; background: var(--night); border-radius: 999px; padding: .1em .65em; }
+.regionband__body { columns: 3 230px; column-gap: 32px; }
+.provblock { break-inside: avoid; margin: 0 0 14px; }
+.provblock--single, .provblock--long { break-inside: auto; }
+.maplist .provblock h4 { break-after: avoid; display: flex; align-items: center; gap: .5em; margin: 0 0 4px; padding-bottom: 4px; border-bottom: 1px solid var(--line); font-family: var(--font-head); font-weight: 600; font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; color: var(--olive-dark); }
+.maplist .provblock h4 span { color: var(--ink-mute); font-weight: 600; }
 .regioncard__list { list-style: none; margin: 0; padding: 0; }
-.regioncard__list li { position: relative; padding-left: 1.1em; margin: .3em 0; font-size: .92rem; line-height: 1.35; }
+.regioncard__list li { position: relative; padding-left: 1.1em; margin: .3em 0; font-size: .92rem; line-height: 1.35; break-inside: avoid; }
 .regioncard__list li::before { content: ""; position: absolute; left: .1em; top: .52em; width: .42em; height: .42em; border-radius: 50%; background: var(--gold); }
 .regioncard__list a { color: var(--ink); text-decoration: none; }
 .regioncard__list a:hover { color: var(--night); text-decoration: underline; }
-.regioncard__more summary { cursor: pointer; margin-top: 6px; font-size: .85rem; font-weight: 600; color: var(--olive-dark); list-style: none; }
-.regioncard__more summary::-webkit-details-marker { display: none; }
-.regioncard__more summary::after { content: " ▾"; }
-.regioncard__more[open] summary::after { content: " ▴"; }
-.regioncard__more[open] summary { margin-bottom: 2px; }
 .maplist .destinos-strip { margin-bottom: 4px; }

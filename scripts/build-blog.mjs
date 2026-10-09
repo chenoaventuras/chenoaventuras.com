@@ -208,6 +208,7 @@ function readPosts() {
       lat: num(data.lat), lng: num(data.lng),
       lugar: data.lugar ? String(data.lugar).trim() : "",
       destino: data.destino ? String(data.destino).trim() : "",
+      provincia: data.provincia ? String(data.provincia).trim() : "",
       seoTitle: data.seoTitle ? String(data.seoTitle).trim() : "",
       guia: data.guia ? String(data.guia) : "",
       guiaTitulo: data.guiaTitulo ? String(data.guiaTitulo) : "",
@@ -611,6 +612,15 @@ function regionOf(p) {
   return p.lat !== null && p.lat < 35.5 && p.lng > -10.5 ? "Marruecos" : "Otros destinos";
 }
 
+// Provincia de cada post: campo "provincia" del post o, si falta, content/provincias.json.
+const PROVINCIAS = (() => {
+  try {
+    return JSON.parse(readFileSync(join(ROOT, "content", "provincias.json"), "utf8"));
+  } catch {
+    return {};
+  }
+})();
+
 function renderMap(posts, destinos = []) {
   const located = posts.filter((p) => p.lat !== null && p.lng !== null && p.tags.length && !p.tags.includes("Descuentos"));
   const data = located.map((p) => ({
@@ -621,6 +631,7 @@ function renderMap(posts, destinos = []) {
     url: `/blog/${p.slug}.html`,
     type: p.tags.find((t) => MAP_TYPES.includes(t)) || "",
     region: regionOf(p),
+    provincia: p.provincia || PROVINCIAS[p.slug] || "",
     destino: p.destino || "",
     destinoNombre: (destinos.find((d) => d.slug === p.destino) || {}).nombre || "",
     lat: p.lat,
@@ -640,18 +651,27 @@ function renderMap(posts, destinos = []) {
     const f = `/assets/img/flags/${regionSlug(r)}.webp`;
     return existsSync(join(ROOT, f.slice(1))) ? f : "";
   };
-  const FIRST = 6;
   const byRegion = regions
     .map((r) => {
       const items = data.filter((d) => d.region === r).sort((a, b) => a.title.localeCompare(b.title, "es"));
       const li = (d) => `<li><a href="${d.url}" title="${esc(d.title)}">${esc(shortTitle(d.title))}</a></li>`;
-      const rest = items.slice(FIRST);
+      const list = (arr) => `<ul class="regioncard__list">${arr.map(li).join("")}</ul>`;
+      const provs = [...new Set(items.map((d) => d.provincia).filter(Boolean))].sort((a, b) => a.localeCompare(b, "es"));
+      let body;
+      if (provs.length > 1) {
+        const groups = provs.map((pv) => ({ name: pv, items: items.filter((d) => d.provincia === pv) }));
+        const sin = items.filter((d) => !d.provincia);
+        if (sin.length) groups.push({ name: "Otros lugares", items: sin });
+        body = groups
+          .map((g) => `<section class="provblock${g.items.length > 8 ? " provblock--long" : ""}"><h4>${esc(g.name)} <span>${g.items.length}</span></h4>${list(g.items)}</section>`)
+          .join("");
+      } else {
+        body = `<section class="provblock provblock--single">${list(items)}</section>`;
+      }
       const flag = flagOf(r);
-      return `          <article class="regioncard">
+      return `          <article class="regionband">
             <header class="regioncard__head">${flag ? `<img src="${flag}" alt="" width="34" height="23" loading="lazy" decoding="async" />` : ""}<h3>${esc(r)}</h3><span class="regioncard__count">${items.length}</span></header>
-            <ul class="regioncard__list">${items.slice(0, FIRST).map(li).join("")}</ul>${
-              rest.length ? `\n            <details class="regioncard__more"><summary>Ver ${rest.length} más</summary><ul class="regioncard__list">${rest.map(li).join("")}</ul></details>` : ""
-            }
+            <div class="regionband__body">${body}</div>
           </article>`;
     })
     .join("\n");

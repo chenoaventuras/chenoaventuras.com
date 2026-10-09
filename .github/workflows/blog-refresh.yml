@@ -136,7 +136,8 @@ jobs:
                  lng: -0.0510) solo si has confirmado las coordenadas en esta
                  ejecución; sirven para colocar el post en la página Mapa. Si
                  falta "lugar", añade el nombre corto del sitio (p. ej.
-                 lugar: Cabo de Palos).
+                 lugar: Cabo de Palos). Si falta "provincia" y el sitio está
+                 en España, añádela (p. ej. provincia: Huesca).
                - ENLACES INTERNOS: si en el cuerpo se nombra un lugar, animal
                  o tema del que ya hay otro post en content/blog/ (mira su
                  "lugar" y su título) y esa mención aún no lleva enlace, enlázala
