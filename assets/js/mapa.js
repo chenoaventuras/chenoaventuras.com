@@ -19,6 +19,8 @@
     maxZoom: 18,
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'
   }).addTo(map);
+  // Si la página se abre en una pestaña en segundo plano el mapa mide 0 px: se vuelve a encuadrar al hacerse visible.
+  var sizedFit = el.clientWidth > 0;
   map.fitBounds(SPAIN);
 
   // La rueda del ratón solo hace zoom tras pulsar en el mapa (no atrapa el scroll de la página).
@@ -156,4 +158,13 @@
   });
 
   render(!!state.destino);
+
+  if (window.ResizeObserver) {
+    new ResizeObserver(function () {
+      if (!el.clientWidth) return;
+      map.invalidateSize();
+      if (!sizedFit && !state.type && !state.region && !state.destino) map.fitBounds(SPAIN, { animate: false });
+      sizedFit = true;
+    }).observe(el);
+  }
 })();

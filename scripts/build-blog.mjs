@@ -630,10 +630,29 @@ function renderMap(posts, destinos = []) {
   const regions = [...new Set(data.map((d) => d.region))].sort((a, b) => a.localeCompare(b, "es"));
   const types = MAP_TYPES.filter((t) => data.some((d) => d.type === t));
 
+  // Lista visual: una tarjeta por comunidad con su bandera y puntos con el nombre corto del lugar.
+  const regionSlug = (r) => norm(r).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const shortTitle = (t) => {
+    const i = t.indexOf(":");
+    return (i > 8 ? t.slice(0, i) : t).trim();
+  };
+  const flagOf = (r) => {
+    const f = `/assets/img/flags/${regionSlug(r)}.webp`;
+    return existsSync(join(ROOT, f.slice(1))) ? f : "";
+  };
+  const FIRST = 6;
   const byRegion = regions
     .map((r) => {
       const items = data.filter((d) => d.region === r).sort((a, b) => a.title.localeCompare(b.title, "es"));
-      return `        <h3>${esc(r)}</h3>\n        <ul>\n${items.map((d) => `          <li><a href="${d.url}">${esc(d.title)}</a></li>`).join("\n")}\n        </ul>`;
+      const li = (d) => `<li><a href="${d.url}" title="${esc(d.title)}">${esc(shortTitle(d.title))}</a></li>`;
+      const rest = items.slice(FIRST);
+      const flag = flagOf(r);
+      return `          <article class="regioncard">
+            <header class="regioncard__head">${flag ? `<img src="${flag}" alt="" width="34" height="23" loading="lazy" decoding="async" />` : ""}<h3>${esc(r)}</h3><span class="regioncard__count">${items.length}</span></header>
+            <ul class="regioncard__list">${items.slice(0, FIRST).map(li).join("")}</ul>${
+              rest.length ? `\n            <details class="regioncard__more"><summary>Ver ${rest.length} más</summary><ul class="regioncard__list">${rest.map(li).join("")}</ul></details>` : ""
+            }
+          </article>`;
     })
     .join("\n");
 
@@ -672,13 +691,15 @@ ${regions.map((r) => `              <option value="${esc(r)}">${esc(r)}</option>
           <h2>Todos los lugares</h2>
 ${
   destinos.length
-    ? `        <h3>Destinos</h3>
-        <ul>
-${destinos.map((d) => `          <li><a href="/destinos/${d.slug}.html">${esc(d.title)}</a> (${d.posts.length} artículos)</li>`).join("\n")}
-        </ul>
+    ? `          <nav class="destinos-strip" aria-label="Destinos">
+            <span class="destinos-strip__label">Destinos</span>
+${destinos.map((d) => `            <a class="destinos-strip__item" href="/destinos/${d.slug}.html" title="${esc(d.title)}">${esc(d.nombre)} <b>${d.posts.length}</b></a>`).join("\n")}
+          </nav>
 `
     : ""
-}${byRegion}
+}          <div class="regiongrid">
+${byRegion}
+          </div>
         </div>
       </div>
     </section>
