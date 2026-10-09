@@ -1,0 +1,56 @@
+---
+title: 'San Juan de la Peña: el monasterio bajo la roca y el Grial'
+seoTitle: 'San Juan de la Peña: monasterio, leyenda del Grial y visita'
+date: 2026-10-11T08:00:00.000Z
+lugar: 'San Juan de la Peña'
+lat: 42.5078
+lng: -0.6732
+excerpt: 'San Juan de la Peña (Huesca): el monasterio construido bajo una roca, la leyenda del Santo Grial y del ciervo de Voto, el panteón de los reyes de Aragón y cómo está tras el incendio de 2026.'
+cover: /assets/img/blog/san-juan-de-la-pena/portada.webp
+tags:
+  - Spots
+  - Aragón
+wide: true
+draft: true
+---
+Imagina un monasterio románico metido debajo de una roca gigante, como si la montaña lo protegiera con la mano. Así es **San Juan de la Peña**, cuna del reino de Aragón, panteón de sus primeros reyes y, según la tradición, el lugar donde se guardó durante siglos el **Santo Grial**.
+
+Pocos sitios de España juntan tanta leyenda en tan poco espacio 👇
+
+<div class="guide__legend"><h3>⚠️ Antes de ir</h3><p>En agosto de 2026 el <strong>incendio de Las Peñas de Riglos</strong> llegó hasta el entorno del monasterio. El conjunto y la carretera de acceso (A-1603) se cerraron hasta nuevo aviso y los restos de los reyes se trasladaron al Museo de Huesca como precaución. <strong>Comprueba que ha reabierto antes de ir</strong> en la web de Turismo de Aragón.</p></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de San Juan de la Peña</h2></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>📍 Dónde está</h3><p>En la sierra de San Juan de la Peña, a unos <strong>25 km de Jaca</strong>, por Santa Cruz de la Serós.</p></div>
+<div class="guide__tip"><h3>⏱️ Tiempo</h3><p>Monasterio Viejo y Monasterio Nuevo en <strong>2-3 horas</strong>. Suma Santa Cruz de la Serós y Jaca para un día completo.</p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p>Hay <strong>entrada</strong> conjunta para los dos monasterios, que se puede comprar online.</p></div>
+</div>
+
+<div class="guide__head"><span class="eyebrow">La leyenda</span><h2>El ciervo de Voto y el Santo Grial</h2></div>
+<p>Cuenta la leyenda que un noble llamado <strong>Voto</strong> perseguía a caballo a un ciervo cuando el animal se despeñó y su caballo fue detrás. En plena caída, Voto se encomendó a <strong>San Juan Bautista</strong> y el caballo se detuvo al borde del precipicio. Al bajar encontró una pequeña ermita bajo la roca con el cuerpo de un ermitaño. Voto y su hermano Félix lo dejaron todo para vivir allí, y así empezó el monasterio.</p><div class="guide__legend"><h3>🏆 El Santo Grial</h3><p>La tradición dice que el <strong>cáliz de la Última Cena</strong> llegó a la península y se custodió en San Juan de la Peña durante la Edad Media. En 1399 el rey Martín el Humano se lo llevó a Zaragoza, y hoy se venera en la <strong>catedral de Valencia</strong>. En el monasterio hay una réplica.</p></div>
+
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en San Juan de la Peña</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-juan-de-la-pena/monasterio-viejo.webp" alt="Monasterio Viejo de San Juan de la Peña bajo la roca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Monasterio Viejo</h3><p>El conjunto románico bajo la gran roca, con la iglesia prerrománica excavada en la piedra y la iglesia alta de los siglos X-XII.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-juan-de-la-pena/claustro.webp" alt="Claustro románico de San Juan de la Peña" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El claustro</h3><p>Sin techo propio: la roca hace de cubierta. Sus capiteles cuentan escenas de la Biblia y son de lo mejor del románico español.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-juan-de-la-pena/panteon.webp" alt="Panteón real de San Juan de la Peña" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Panteón Real</h3><p>Donde reposaban los primeros reyes de Aragón, como Ramiro I, Sancho Ramírez y Pedro I. Al lado está el Panteón de Nobles.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-juan-de-la-pena/monasterio-nuevo.webp" alt="Monasterio Nuevo de San Juan de la Peña" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Monasterio Nuevo</h3><p>Barroco, construido tras un incendio en el siglo XVII en la pradera de arriba. Hoy es centro de interpretación del reino de Aragón.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-juan-de-la-pena/mirador.webp" alt="Vistas desde el mirador de San Juan de la Peña" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El balcón de los Pirineos</h3><p>Un paseo corto desde el Monasterio Nuevo lleva a un mirador con vistas a toda la cordillera.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-juan-de-la-pena/seros.webp" alt="Iglesia de Santa María en Santa Cruz de la Serós" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Santa Cruz de la Serós</h3><p>El pueblo de abajo, con la iglesia románica de Santa María, de un antiguo monasterio femenino. Parada obligada en la subida.</p></div></li>
+</ol>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a San Juan de la Peña</h2></div>
+<div class="guide__howto"><p>Desde <strong>Jaca</strong>, toma la N-240 hacia Pamplona y desvíate hacia <strong>Santa Cruz de la Serós</strong>. Desde allí la A-1603 sube por la sierra hasta los monasterios.</p><p>Normalmente se aparca en la pradera del <strong>Monasterio Nuevo</strong> y un autobús o un sendero baja al Monasterio Viejo. También se puede subir andando desde Santa Cruz de la Serós por el antiguo camino de los monjes (1 hora, con bastante desnivel).</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Monasterio%20de%20San%20Juan%20de%20la%20Pe%C3%B1a" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Comprueba que está abierto</b>: tras el incendio de 2026, mira la web de Turismo de Aragón o llama antes de ir.</li><li><b>Sube andando desde Santa Cruz de la Serós</b>: el camino de los monjes es la forma más bonita de llegar.</li><li><b>Combínalo con Jaca y Canfranc</b>: en un solo día ves la ciudadela, la estación y el monasterio.</li><li><b>Fíjate en los capiteles</b>: cada uno cuenta una historia: Adán y Eva, la Última Cena…</li></ul></div>
+
+<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre San Juan de la Peña</h2></div>
+<div class="faq"><details><summary>¿Está abierto San Juan de la Peña?</summary><p>Tras el incendio de Las Peñas de Riglos de agosto de 2026, el conjunto y la carretera de acceso se cerraron hasta nuevo aviso. Comprueba si ha reabierto en la web de Turismo de Aragón antes de ir.</p></details><details><summary>¿Está el Santo Grial en San Juan de la Peña?</summary><p>No. Según la tradición se guardó allí durante la Edad Media, pero desde el siglo XV está en la catedral de Valencia. En el monasterio hay una réplica.</p></details><details><summary>¿Qué diferencia hay entre el Monasterio Viejo y el Nuevo?</summary><p>El Viejo es el románico construido bajo la roca. El Nuevo es barroco, del siglo XVII, y está en la pradera de arriba, a 1,5 km.</p></details><details><summary>¿Qué reyes están enterrados en San Juan de la Peña?</summary><p>En su Panteón Real reposaban los primeros reyes de Aragón, como Ramiro I, Sancho Ramírez y Pedro I. En agosto de 2026 los restos se trasladaron al Museo de Huesca como precaución por el incendio.</p></details></div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Está abierto San Juan de la Peña?", "acceptedAnswer": {"@type": "Answer", "text": "Tras el incendio de Las Peñas de Riglos de agosto de 2026, el conjunto y la carretera de acceso se cerraron hasta nuevo aviso. Comprueba si ha reabierto en la web de Turismo de Aragón antes de ir."}}, {"@type": "Question", "name": "¿Está el Santo Grial en San Juan de la Peña?", "acceptedAnswer": {"@type": "Answer", "text": "No. Según la tradición se guardó allí durante la Edad Media, pero desde el siglo XV está en la catedral de Valencia. En el monasterio hay una réplica."}}, {"@type": "Question", "name": "¿Qué diferencia hay entre el Monasterio Viejo y el Nuevo?", "acceptedAnswer": {"@type": "Answer", "text": "El Viejo es el románico construido bajo la roca. El Nuevo es barroco, del siglo XVII, y está en la pradera de arriba, a 1,5 km."}}, {"@type": "Question", "name": "¿Qué reyes están enterrados en San Juan de la Peña?", "acceptedAnswer": {"@type": "Answer", "text": "En su Panteón Real reposaban los primeros reyes de Aragón, como Ramiro I, Sancho Ramírez y Pedro I. En agosto de 2026 los restos se trasladaron al Museo de Huesca como precaución por el incendio."}}]}</script>
+
+<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el Pirineo</h2></div>
+<ul class="nearby"><li><a href="/blog/estacion-de-canfranc.html"><img src="/assets/img/instagram/18060356315252624.webp" alt="Estación de Canfranc" loading="lazy" decoding="async" /><span>Estación de Canfranc</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Pirineo Aragonés" loading="lazy" decoding="async" /><span>Pirineo Aragonés</span></a></li><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Aínsa" loading="lazy" decoding="async" /><span>Aínsa</span></a></li></ul>
+
+<div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
+
+<p class="guide__note">Información consultada en octubre de 2026. El monasterio estaba cerrado tras el incendio de agosto de 2026: comprueba su estado, horarios y precios en Turismo de Aragón antes de ir.</p>
