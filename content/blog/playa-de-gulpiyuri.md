@@ -34,6 +34,8 @@ El truco está en la marea. Te cuento cuándo ir para verla con agua 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-gulpiyuri/llanes.webp" alt="Llanes, Asturias" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Llanes</h3><p>A unos 15 minutos: puerto, casco antiguo y los Cubos de la Memoria.</p></div></li>
 </ol>
 
+<div class="guide__howto"><h3>Los acantilados de Gulpiyuri</h3><p>La playa está tierra adentro, pero a unos 100 metros tienes el mar abierto. Allí la costa de Llanes forma <strong>acantilados de roca caliza</strong>, y el agua entra por túneles y cuevas hasta llegar a Gulpiyuri. Asómate a la parte de los acantilados para entender cómo se forma esta playa interior, pero ten cuidado con el borde y no te acerques con mala mar.</p></div>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Gulpiyuri</h2></div>
 <div class="guide__howto"><p>Desde <strong>Llanes</strong>, por la A-8 o la N-634 hacia <strong>Naves</strong>. Aparca en Naves o junto a San Antolín y sigue el camino a pie (unos 10 minutos).</p><p>No hay servicios ni apenas señalización, así que lleva la ubicación en el móvil. En julio y agosto el aparcamiento se llena pronto.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa%20de%20Gulpiyuri" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
