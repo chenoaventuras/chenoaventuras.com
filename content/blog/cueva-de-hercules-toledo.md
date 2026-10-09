@@ -11,7 +11,6 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
-draft: true
 ---
 Bajo las calles de Toledo hay una cueva cerrada con candados. Cada rey visigodo debía añadir uno nuevo, porque el día que alguien la abriera llegaría la desgracia. Hasta que el rey **don Rodrigo** no pudo resistir la curiosidad.
 
@@ -52,4 +51,4 @@ La **Cueva de Hércules** se puede visitar, y es la puerta de entrada a un Toled
 
 <div class="guide__cta"><h2>¿Te atreves con más lugares de miedo?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta el horario de la Cueva de Hércules con el Consorcio de Toledo o en la oficina de turismo antes de ir.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta el horario de la Cueva de Hércules con el Consorcio de Toledo o en la oficina de turismo antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACueva_de_H%C3%A9rcules.jpg" target="_blank" rel="noopener">Mentxuwiki</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACueva_de_H%C3%A9rcules_-_01.jpg" target="_blank" rel="noopener">Carlos Delgado</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATorre%C3%B3n_del_Ba%C3%B1o_de_la_Cava_%286061593730%29.jpg" target="_blank" rel="noopener">amaianos from Galicia</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APuente_de_San_Mart%C3%ADn._Toledo%2C_Spain.jpg" target="_blank" rel="noopener">Ввласенко</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ALa_juder%C3%ADa_de_Toledo._Calle.jpg" target="_blank" rel="noopener">José Luis Filpo Cabana</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AErmita_del_Cristo_de_la_Vega_-_Toledo_02.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0).</p>

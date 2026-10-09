@@ -11,7 +11,6 @@ tags:
   - Spots
   - Castilla y León
 wide: true
-draft: true
 ---
 En una cripta de Salamanca, dice la leyenda, el mismísimo **diablo** daba clases de magia negra. Siete alumnos, siete años… y uno de ellos se quedaba con él para siempre como pago.
 
@@ -53,4 +52,4 @@ La **Cueva de Salamanca** existe, se puede visitar, y es el punto de partida per
 
 <div class="guide__cta"><h2>¿Te atreves con más lugares de miedo?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios de la Cueva de Salamanca y de los monumentos en Turismo de Salamanca.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios de la Cueva de Salamanca y de los monumentos en Turismo de Salamanca. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACueva_de_Salamanca_02.JPG" target="_blank" rel="noopener">Superchilum</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3A20211009_190125%280%29_Torre_Marqu%C3%A9s_de_Villena.jpg" target="_blank" rel="noopener">FLAVIVSAETIVS</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ARanita_fachada-Universidad.JPG" target="_blank" rel="noopener">Tamorlan</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASalamanca_catedral_nueva_astronauta.jpg" target="_blank" rel="noopener">Cruccone</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3ACielo_de_Salamanca%2C_Escuelas_Menores_%28Salamanca%29.jpg" target="_blank" rel="noopener">Jl FilpoC</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AHuerto_de_Calixto_y_Melibea_con_la_catedral_al_fondo.jpg" target="_blank" rel="noopener">Ensalman</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ANew_Cathedral_at_night_-_Salamanca%2C_Spain_-_panoramio.jpg" target="_blank" rel="noopener">Sergey Ashmarin</a> (CC BY-SA 3.0).</p>

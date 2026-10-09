@@ -11,7 +11,6 @@ tags:
   - Spots
   - Comunidad de Madrid
 wide: true
-draft: true
 ---
 Madrid tiene un lado oscuro que no sale en las guías: palacios con niñas que lloran por la noche, damas de blanco que pasean por los tejados y una calle que se llama así por una cabeza que nadie quería ver.
 
@@ -52,4 +51,4 @@ Te propongo una **ruta de fantasmas por el centro de Madrid**, perfecta para Hal
 
 <div class="guide__cta"><h2>¿Te atreves con más lugares de miedo?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios de la visita al Palacio de Linares en la web de Casa de América.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios de la visita al Palacio de Linares en la web de Casa de América. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3APalacio_de_Linares_%28Madrid%29_01.jpg" target="_blank" rel="noopener">Blanca García Gil from Madrid (Spain)</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APalacio_de_Linares%2C_Plaza_de_Cibeles%2C_Madrid.jpg" target="_blank" rel="noopener">No machine-readable author provided. Gryffindor assumed (bas</a> (Public domain) · <a href="https://commons.wikimedia.org/wiki/File%3APalacio_de_Linares_07.jpg" target="_blank" rel="noopener">Kent Wang</a> (CC BY 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACasa_de_las_Siete_Chimeneas.jpg" target="_blank" rel="noopener">Mentxuwiki</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACalle_de_la_Cabeza%2C_desde_la_calle_de_Lavapi%C3%A9s.jpg" target="_blank" rel="noopener">Malopez 21</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AArco_de_cuchilleros_-_2013.jpg" target="_blank" rel="noopener">Tamorlan</a> (CC BY-SA 3.0).</p>
