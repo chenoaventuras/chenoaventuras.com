@@ -1,0 +1,55 @@
+---
+title: 'Monasterio de Piedra: cascadas, grutas y un monasterio entre el agua'
+seoTitle: 'Monasterio de Piedra: precio 2026, horario, cascadas y ruta'
+date: 2026-10-10T08:00:00.000Z
+lugar: 'Monasterio de Piedra'
+lat: 41.192
+lng: -1.783
+excerpt: 'Monasterio de Piedra (Zaragoza): precio de la entrada en 2026, horario, la ruta de unos 5 km por sus cascadas como la Cola de Caballo, la Gruta Iris por dentro de la roca y el monasterio cisterciense.'
+cover: /assets/img/blog/monasterio-de-piedra/portada.jpg
+tags:
+  - Spots
+  - Aragón
+wide: true
+---
+Imagina un parque lleno de **cascadas**, lagos, cuevas y pasarelas, donde el agua aparece por todas partes, y en medio, un **monasterio cisterciense del siglo XII**. Eso es el **Monasterio de Piedra**, en Zaragoza, uno de los paisajes de agua más espectaculares de España.
+
+Y lo mejor: bajas por dentro de una gruta para ver una cascada de 50 metros desde atrás. Te cuento cómo es la visita 👇
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Monasterio de Piedra: precio y horario</h2></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🎟️ Entrada 2026</h3><p>La entrada incluye parque y monasterio. Comprando online es un poco más barata.</p>
+<ul class="guide__prices"><li><span>Adultos (taquilla)</span><b>19,70 €</b></li><li><span>Adultos (online)</span><b>18,70 €</b></li><li><span>Niños 4-11 y mayores de 65 (taquilla)</span><b>14 €</b></li></ul>
+</div>
+<div class="guide__tip"><h3>🕒 Horario</h3><p>El parque abre a las <strong>9:00</strong> y el monasterio a las <strong>10:00</strong>. El último acceso al parque suele ser a las <strong>16:30</strong>; consulta el horario del día en la web.</p></div>
+<div class="guide__tip"><h3>🥾 La ruta</h3><p>Un recorrido señalizado de unos <strong>5 km</strong>, de unas <strong>2 horas</strong>. Hay escaleras y tramos húmedos: calzado cómodo.</p></div>
+</div>
+
+<div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un jardín de agua y piedra</h2></div>
+<p>El río <strong>Piedra</strong> atraviesa aquí rocas calizas y, al dejar cal, va formando <strong>toba</strong>: un tipo de roca que crea cascadas, grutas y paredes cubiertas de musgo. Los monjes cistercienses fundaron el monasterio en 1194, y en el siglo XIX el parque se convirtió en uno de los primeros jardines románticos de España.</p><div class="guide__legend"><h3>🍫 ¿El primer chocolate de Europa?</h3><p>Cuenta la tradición que en la cocina de este monasterio se elaboró por primera vez en Europa el <strong>chocolate</strong>, con el cacao que un monje trajo de América. El monasterio tiene una pequeña exposición sobre ello.</p></div>
+
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Monasterio de Piedra</h2><p>Las paradas imprescindibles del recorrido.</p></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-piedra/cola.jpg" alt="Cascada Cola de Caballo en el Monasterio de Piedra" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Cola de Caballo</h3><p>La gran cascada del parque, de más de 50 metros. Se ve desde arriba… y desde dentro de la roca.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-piedra/gruta.jpg" alt="Gruta Iris en el Monasterio de Piedra" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Gruta Iris</h3><p>Una escalera excavada en la roca baja a una cueva detrás de la cascada. El momento más aventurero de la visita.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-piedra/cascada.jpg" alt="Cascada entre musgo en el Monasterio de Piedra" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las cascadas</h3><p>Baño de Diana, Los Fresnos, La Caprichosa… cada rincón tiene su salto de agua.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-piedra/portada.jpg" alt="Cascada y pasarela de madera en el parque" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las pasarelas</h3><p>Senderos y pasarelas de madera entre el agua y la vegetación, siempre con el sonido del río.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-piedra/monasterio.jpg" alt="Exterior del Monasterio de Piedra" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El monasterio</h3><p>Cisterciense, del siglo XII. Visita la iglesia, la cocina y el claustro.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-piedra/claustro.jpg" alt="Claustro gótico del Monasterio de Piedra" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El claustro</h3><p>Gótico y silencioso, en contraste con el estruendo de las cascadas.</p></div></li>
+</ol>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Monasterio de Piedra</h2></div>
+<div class="guide__howto"><p>Está junto al pueblo de <strong>Nuévalos</strong> (Zaragoza), a unas dos horas de Madrid y hora y media de Zaragoza por la A-2 (salida Alhama de Aragón o Calatayud).</p><p>Tiene aparcamiento propio junto a la entrada. Los fines de semana de primavera hay mucha gente: llega a primera hora.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Monasterio+de+Piedra" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.monasteriopiedra.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Web oficial</a></div></div>
+
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra online</b>: es algo más barato y te ahorras la cola.</li><li><b>Ve en primavera u otoño</b>: con más caudal en las cascadas y menos calor.</li><li><b>Chubasquero en la Gruta Iris</b>: las gotas de la cascada empapan.</li><li><b>Combínalo con el Pantano de la Tranquera</b>: justo al lado, ideal para un paseo o kayak.</li></ul></div>
+
+<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Monasterio de Piedra</h2></div>
+<div class="faq"><details><summary>¿Cuánto cuesta la entrada al Monasterio de Piedra en 2026?</summary><p>19,70 € para adultos en taquilla (18,70 € online). Niños de 4 a 11 años y mayores de 65 pagan 14 € en taquilla.</p></details><details><summary>¿Cuánto se tarda en recorrer el Monasterio de Piedra?</summary><p>El recorrido del parque mide unos 5 km y se hace en unas 2 horas. Con el monasterio, cuenta media jornada.</p></details><details><summary>¿Qué es la Gruta Iris?</summary><p>Una cueva situada detrás de la cascada Cola de Caballo, a la que se baja por una escalera excavada en la roca.</p></details><details><summary>¿Se puede ir con perro?</summary><p>Consulta la normativa en la web oficial antes de ir: en el parque hay restricciones para mascotas.</p></details></div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta la entrada al Monasterio de Piedra en 2026?", "acceptedAnswer": {"@type": "Answer", "text": "19,70 € para adultos en taquilla (18,70 € online). Niños de 4 a 11 años y mayores de 65 pagan 14 € en taquilla."}}, {"@type": "Question", "name": "¿Cuánto se tarda en recorrer el Monasterio de Piedra?", "acceptedAnswer": {"@type": "Answer", "text": "El recorrido del parque mide unos 5 km y se hace en unas 2 horas. Con el monasterio, cuenta media jornada."}}, {"@type": "Question", "name": "¿Qué es la Gruta Iris?", "acceptedAnswer": {"@type": "Answer", "text": "Una cueva situada detrás de la cascada Cola de Caballo, a la que se baja por una escalera excavada en la roca."}}, {"@type": "Question", "name": "¿Se puede ir con perro?", "acceptedAnswer": {"@type": "Answer", "text": "Consulta la normativa en la web oficial antes de ir: en el parque hay restricciones para mascotas."}}]}</script>
+
+<div class="guide__head"><span class="eyebrow">Más cascadas</span><h2>Más cascadas y agua</h2></div>
+<ul class="nearby"><li><a href="/blog/ruta-cola-de-caballo-ordesa.html"><img src="/assets/img/instagram/18124961662670705.webp" alt="Cola de Caballo de Ordesa" loading="lazy" decoding="async" /><span>Cola de Caballo de Ordesa</span></a></li><li><a href="/blog/orbaneja-del-castillo.html"><img src="/assets/img/blog/orbaneja-del-castillo/portada.jpg" alt="Orbaneja del Castillo" loading="lazy" decoding="async" /><span>Orbaneja del Castillo</span></a></li><li><a href="/blog/ruta-rio-borosa.html"><img src="/assets/img/blog/ruta-rio-borosa/portada.jpg" alt="Ruta del río Borosa" loading="lazy" decoding="async" /><span>Ruta del río Borosa</span></a></li></ul>
+
+<div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
+
+<p class="guide__note">Precios de 2026 y horarios consultados en octubre de 2026; confírmalos en la web oficial del Monasterio de Piedra. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AWaterfalls_in_Monasterio_de_Piedra.jpg" target="_blank" rel="noopener">Fernando Pascullo</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACascada_Cola_de_Caballo_%288257194669%29.jpg" target="_blank" rel="noopener">Juanedc from Zaragoza, España</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMonasterio_de_Piedrako_ur-jauzietako_bat.jpg" target="_blank" rel="noopener">Koldo Biguri</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMonasterio_de_Piedra_107.jpg" target="_blank" rel="noopener">Txo</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AGaler%C3%ADa_del_claustro_del_Monasterio_de_Piedra.jpg" target="_blank" rel="noopener">Jl FilpoC</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AExterior_del_monasterio-monasterio_de_piedra-nuevalos-2010_%283%29.JPG" target="_blank" rel="noopener">Alberto-g-rovi</a> (CC BY-SA 3.0).</p>

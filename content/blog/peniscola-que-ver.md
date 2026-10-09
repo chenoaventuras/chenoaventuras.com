@@ -1,0 +1,53 @@
+---
+title: 'Qué ver en Peñíscola: el castillo del Papa Luna, Juego de Tronos y la Serra d''Irta'
+seoTitle: 'Qué ver en Peñíscola: castillo, casco antiguo y el Bufador'
+date: 2026-10-10T08:00:00.000Z
+lugar: 'Peñíscola'
+lat: 40.3594
+lng: 0.4064
+excerpt: 'Qué ver en Peñíscola (Castellón): el castillo del Papa Luna, el casco antiguo amurallado que fue Meereen en Juego de Tronos, el Bufador, el faro, sus playas y rutas por la Serra d''Irta.'
+cover: /assets/img/blog/peniscola-que-ver/portada.jpg
+tags:
+  - Pueblos
+  - Comunidad Valenciana
+wide: true
+---
+Un peñón rodeado de mar casi por completo, con casas blancas trepando por la roca, murallas y un castillo templario en lo alto. **Peñíscola** es uno de los pueblos costeros más bonitos del Mediterráneo, y tiene historia de película: aquí vivió un papa «rebelde» y aquí se rodó **Juego de Tronos**.
+
+Te cuento qué ver, sus curiosidades y una ruta de costa salvaje a pocos minutos 👇
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Peñíscola</h2></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de <strong>Castellón</strong>, en la Costa del Azahar, a hora y media de Valencia y a unas dos horas de Tarragona.</p></div>
+<div class="guide__tip"><h3>🏰 El castillo</h3><p>Se visita con entrada (unos 5 €). Desde sus terrazas tienes el mar a 360 grados.</p></div>
+<div class="guide__tip"><h3>🚗 Aparcar</h3><p>El casco antiguo es peatonal. Aparca en los parkings de la zona del puerto o del paseo y sube andando.</p></div>
+</div>
+
+<div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>El papa que se encerró en un castillo</h2></div>
+<p>El castillo lo construyeron los <strong>templarios</strong> a finales del siglo XIII y principios del XIV. Un siglo después se convirtió en la residencia de <strong>Benedicto XIII, el Papa Luna</strong>, un papa aragonés que se negó a renunciar durante el Cisma de Occidente y se atrincheró en Peñíscola hasta su muerte. De ahí viene la expresión <strong>«seguir en sus trece»</strong>.</p><div class="guide__legend"><h3>🐉 Meereen está en Castellón</h3><p>En la sexta temporada de <strong>Juego de Tronos</strong>, el casco antiguo de Peñíscola se convirtió en la ciudad de <strong>Meereen</strong>. Se rodó en rincones como el Portal Fosc, la rampa de Felipe II o la plaza de Santa María.</p></div><div class="guide__legend"><h3>🌊 El Bufador</h3><p>En el casco antiguo hay una grieta natural en la roca que conecta con el mar. Los días de temporal, el agua entra con fuerza y sale disparada hacia arriba con un ruido como un resoplido: es <strong>el Bufador</strong>.</p></div>
+
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Peñíscola</h2><p>El peñón, sus murallas y la costa de alrededor.</p></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/peniscola-que-ver/penon.jpg" alt="El peñón de Peñíscola con el castillo visto desde el mar" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El peñón</h3><p>La imagen más famosa: el pueblo blanco sobre la roca, casi una isla unida a tierra por un istmo de arena.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/peniscola-que-ver/murallas.jpg" alt="Murallas y garita de Peñíscola" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las murallas</h3><p>Recorre el perímetro amurallado, con sus garitas, baluartes y puertas como el Portal Fosc.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/peniscola-que-ver/calles.jpg" alt="Calle comercial del casco antiguo de Peñíscola" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El casco antiguo</h3><p>Callejuelas empinadas, casas blancas y rincones como la Casa de las Conchas, cubierta de conchas marinas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/peniscola-que-ver/noche.jpg" alt="Castillo de Peñíscola iluminado de noche" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El castillo del Papa Luna</h3><p>Iluminado de noche es espectacular. Por dentro, salas góticas y terrazas sobre el Mediterráneo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/peniscola-que-ver/faro.jpg" alt="Faro de Peñíscola" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El faro</h3><p>Junto al castillo, con un mirador sobre el mar abierto.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/peniscola-que-ver/irta.jpg" alt="Costa virgen de la Serra d'Irta" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La Serra d'Irta</h3><p>Al sur del pueblo empieza uno de los últimos tramos de costa virgen del Mediterráneo: calas, torres vigía y senderos.</p></div></li>
+</ol>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Peñíscola</h2></div>
+<div class="guide__howto"><p>Desde la <strong>AP-7</strong> se llega en pocos minutos (salida Peñíscola-Benicarló). La estación de tren más cercana es <strong>Benicarló-Peñíscola</strong>, conectada con el pueblo por autobús.</p><p>En verano el tráfico es intenso: aparca en los parkings de la entrada y entra a pie al casco antiguo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castillo+de+Peñíscola" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Sube al castillo a primera hora</b>: antes del calor y de los grupos.</li><li><b>Busca el Bufador un día de mar movida</b>: con el mar en calma apenas se nota.</li><li><b>Haz un tramo de la Serra d'Irta</b>: a pie o en bici por la pista que bordea la costa.</li><li><b>Ve fuera de agosto</b>: en primavera y otoño se disfruta muchísimo más.</li></ul></div>
+
+<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Peñíscola</h2></div>
+<div class="faq"><details><summary>¿Cuánto cuesta entrar al castillo de Peñíscola?</summary><p>La entrada general cuesta unos 5 €. Consulta horarios y tarifas actualizadas en la web municipal.</p></details><details><summary>¿Qué se rodó en Peñíscola de Juego de Tronos?</summary><p>El casco antiguo de Peñíscola fue la ciudad de Meereen en la sexta temporada de la serie.</p></details><details><summary>¿Qué es el Bufador de Peñíscola?</summary><p>Una grieta natural en la roca del casco antiguo conectada con el mar por la que el agua sale disparada los días de temporal.</p></details><details><summary>¿Por qué se dice «seguir en sus trece»?</summary><p>Por el Papa Luna, Benedicto XIII, que se negó a renunciar al papado y se refugió en el castillo de Peñíscola hasta su muerte.</p></details></div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar al castillo de Peñíscola?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta unos 5 €. Consulta horarios y tarifas actualizadas en la web municipal."}}, {"@type": "Question", "name": "¿Qué se rodó en Peñíscola de Juego de Tronos?", "acceptedAnswer": {"@type": "Answer", "text": "El casco antiguo de Peñíscola fue la ciudad de Meereen en la sexta temporada de la serie."}}, {"@type": "Question", "name": "¿Qué es el Bufador de Peñíscola?", "acceptedAnswer": {"@type": "Answer", "text": "Una grieta natural en la roca del casco antiguo conectada con el mar por la que el agua sale disparada los días de temporal."}}, {"@type": "Question", "name": "¿Por qué se dice «seguir en sus trece»?", "acceptedAnswer": {"@type": "Answer", "text": "Por el Papa Luna, Benedicto XIII, que se negó a renunciar al papado y se refugió en el castillo de Peñíscola hasta su muerte."}}]}</script>
+
+<div class="guide__head"><span class="eyebrow">Más Mediterráneo</span><h2>Sigue por la costa</h2></div>
+<ul class="nearby"><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.jpg" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li><li><a href="/blog/altea-que-ver-costa-blanca.html"><img src="/assets/img/blog/uploads/altea-horizontal.webp" alt="Altea" loading="lazy" decoding="async" /><span>Altea</span></a></li><li><a href="/blog/fuente-de-los-banos-montanejos.html"><img src="/assets/img/instagram/18070045547016448.webp" alt="Fuente de los Baños (Montanejos)" loading="lazy" decoding="async" /><span>Fuente de los Baños (Montanejos)</span></a></li></ul>
+
+<div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
+
+<p class="guide__note">Información consultada en octubre de 2026. Confirma horarios y precios del castillo en la web del Ayuntamiento de Peñíscola. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3APe%C3%B1%C3%ADscola_-_aerial_view.jpg" target="_blank" rel="noopener">Lodevermeiren</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMeerseitige_Ansicht_der_Altstadt_von_Pe%C3%B1%C3%ADscola%2C_Spanien.jpg" target="_blank" rel="noopener">Gordito1869</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AOverview_of_Pe%C3%B1%C3%ADscola_castle_in_Pe%C3%B1%C3%ADscola%2C_Bajo_Maestrazgo_Comarca.jpg" target="_blank" rel="noopener">Jiří Sedláček</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AFaro_de_Pe%C3%B1%C3%ADscola._Castell%C3%B3n.jpg" target="_blank" rel="noopener">AdelosRM</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASerra_d%27Irta_89.jpg" target="_blank" rel="noopener">Millars</a> (CC BY-SA 4.0).</p>

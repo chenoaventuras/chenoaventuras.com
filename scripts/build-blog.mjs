@@ -184,7 +184,8 @@ function readPosts() {
     if (!file.endsWith(".md")) continue;
     const raw = readFileSync(join(CONTENT_DIR, file), "utf8");
     const { data, content } = matter(raw);
-    if (data.draft) continue;
+    // PREVIEW_DRAFTS=1 npm run build → incluye borradores para revisarlos en local
+    if (data.draft && !process.env.PREVIEW_DRAFTS) continue;
     const slug = (data.slug || file.replace(/\.md$/, "")).toLowerCase();
     const date = data.date ? new Date(data.date) : new Date();
     const updated = data.updated ? new Date(data.updated) : date;
