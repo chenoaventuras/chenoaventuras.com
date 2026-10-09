@@ -506,8 +506,8 @@ function renderIndex(posts, destinos = []) {
 
   const empty = `<p class="lead center" style="margin-inline:auto;">Todavía no hay artículos publicados. Vuelve pronto.</p>`;
 
-  // desplegable de filtro: Tipo (Curiosidades/Actividades) + Comunidad Autónoma,
-  // solo con las etiquetas que de verdad tienen posts.
+  // dos desplegables que se combinan: Comunidad Autónoma y Tipo (Curiosidades,
+  // Pueblos…), solo con las etiquetas que de verdad tienen posts.
   const allTags = [...new Set(posts.flatMap((p) => p.tags))];
   const typeTags = TAG_TYPES.filter((t) => allTags.includes(t));
   const regionTags = allTags.filter((t) => !TAG_TYPES.includes(t)).sort((a, b) => a.localeCompare(b, "es"));
@@ -518,12 +518,15 @@ function renderIndex(posts, destinos = []) {
           ${
             typeTags.length || regionTags.length
               ? `<div class="blogfilter__select">
-            <label for="blog-filter">Filtrar por</label>
-            <select id="blog-filter">
-              <option value="">Todos los posts</option>
-              ${typeTags.length ? `<optgroup label="Tipo">${typeTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}</optgroup>` : ""}
-              ${regionTags.length ? `<optgroup label="Comunidad autónoma">${regionTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}</optgroup>` : ""}
-            </select>
+            <label for="blog-region">Filtrar por</label>
+            ${regionTags.length ? `<select id="blog-region" aria-label="Comunidad autónoma">
+              <option value="">Todas las comunidades</option>
+              ${regionTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}
+            </select>` : ""}
+            ${typeTags.length ? `<select id="blog-type" aria-label="Tipo de post">
+              <option value="">Todos los tipos</option>
+              ${typeTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}
+            </select>` : ""}
           </div>`
               : ""
           }
@@ -540,54 +543,71 @@ function renderIndex(posts, destinos = []) {
 
     <section class="section">
       <div class="container">
-${
-  destinos.length
-    ? `        <nav class="destinos-strip" aria-label="Destinos">
-          <span class="destinos-strip__label">Destinos</span>
-${destinos.map((d) => `          <a class="destinos-strip__item" href="/destinos/${d.slug}.html">${esc(d.nombre)} <b>${d.posts.length}</b></a>`).join("\n")}
-        </nav>
-`
-    : ""
-}${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${cards}\n        </div>\n        <p class="lead center" id="blogfilter-empty" hidden style="margin-inline:auto;">Ningún post coincide con tu búsqueda todavía.</p>` : `        ${empty}`}
+${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${cards}\n        </div>\n        <p class="lead center" id="blogfilter-empty" hidden style="margin-inline:auto;">Ningún post coincide con tu búsqueda todavía.</p>` : `        ${empty}`}
       </div>
     </section>
     <script>
       (function () {
-        var sel = document.getElementById("blog-filter");
+        var reg = document.getElementById("blog-region");
+        var typ = document.getElementById("blog-type");
         var q = document.getElementById("blog-search");
-        if (!sel && !q) return;
+        if (!reg && !typ && !q) return;
         var cards = Array.prototype.slice.call(document.querySelectorAll("#bloglist .blogcard"));
         var emptyMsg = document.getElementById("blogfilter-empty");
         var countEl = document.getElementById("blog-count");
         function norm(t) { return (t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""); }
+        function tagsOf(c) { return (c.getAttribute("data-tags") || "").split("|"); }
+        function has(c, v) { return !v || tagsOf(c).indexOf(v) !== -1; }
+        // cuántos posts quedarían con cada opción, según lo elegido en el otro desplegable
+        function counts(select, other) {
+          if (!select) return;
+          var ov = other ? other.value : "";
+          Array.prototype.slice.call(select.options).forEach(function (o) {
+            if (!o.value) return;
+            if (!o.dataset.label) o.dataset.label = o.textContent;
+            var n = cards.filter(function (c) { return has(c, ov) && has(c, o.value); }).length;
+            o.textContent = o.dataset.label + " (" + n + ")";
+            o.disabled = n === 0 && select.value !== o.value;
+          });
+        }
         function apply(updateUrl) {
-          var v = sel ? sel.value : "";
+          var r = reg ? reg.value : "";
+          var t = typ ? typ.value : "";
           var terms = q ? norm(q.value).split(/\s+/).filter(Boolean) : [];
           var visible = 0;
           cards.forEach(function (c) {
-            var tags = (c.getAttribute("data-tags") || "").split("|");
             var hay = c.getAttribute("data-search") || "";
-            var show = (!v || tags.indexOf(v) !== -1) && terms.every(function (t) { return hay.indexOf(t) !== -1; });
+            var show = has(c, r) && has(c, t) && terms.every(function (x) { return hay.indexOf(x) !== -1; });
             c.hidden = !show;
             if (show) visible++;
           });
+          counts(reg, typ);
+          counts(typ, reg);
           if (emptyMsg) emptyMsg.hidden = visible !== 0;
-          if (countEl) countEl.textContent = (v || terms.length) ? visible + (visible === 1 ? " artículo" : " artículos") : "";
+          if (countEl) countEl.textContent = (r || t || terms.length) ? visible + (visible === 1 ? " artículo" : " artículos") : "";
           if (updateUrl && window.history && history.replaceState) {
             var ps = new URLSearchParams();
             if (q && q.value.trim()) ps.set("q", q.value.trim());
-            if (v) ps.set("tag", v);
+            if (r) ps.set("comunidad", r);
+            if (t) ps.set("tipo", t);
             var qs = ps.toString();
             history.replaceState(null, "", location.pathname + (qs ? "?" + qs : ""));
           }
         }
-        var params = new URLSearchParams(location.search);
-        if (sel && params.get("tag")) {
-          var opt = Array.prototype.slice.call(sel.options).filter(function (o) { return o.value === params.get("tag"); })[0];
-          if (opt) sel.value = opt.value;
+        function pick(select, value) {
+          if (!select || !value) return false;
+          var ok = Array.prototype.slice.call(select.options).some(function (o) { return o.value === value; });
+          if (ok) select.value = value;
+          return ok;
         }
+        var params = new URLSearchParams(location.search);
+        pick(reg, params.get("comunidad"));
+        pick(typ, params.get("tipo"));
+        // enlaces antiguos con ?tag=: puede ser una comunidad o un tipo
+        if (params.get("tag") && !pick(reg, params.get("tag"))) pick(typ, params.get("tag"));
         if (q && params.get("q")) q.value = params.get("q");
-        if (sel) sel.addEventListener("change", function () { apply(true); });
+        if (reg) reg.addEventListener("change", function () { apply(true); });
+        if (typ) typ.addEventListener("change", function () { apply(true); });
         if (q) q.addEventListener("input", function () { apply(true); });
         apply(false);
       })();
@@ -697,8 +717,6 @@ ${types.map((t) => `            <button type="button" class="mapchip" data-map-t
               <option value="">Todas las zonas</option>
 ${regions.map((r) => `              <option value="${esc(r)}">${esc(r)}</option>`).join("\n")}
             </select>
-            <button type="button" class="mapchip" data-map-go="canarias">Canarias</button>
-            <button type="button" class="mapchip" data-map-go="marruecos">Marruecos</button>
             <span class="mapbar__count" id="map-count" aria-live="polite"></span>
           </div>
         </div>
@@ -709,22 +727,14 @@ ${regions.map((r) => `              <option value="${esc(r)}">${esc(r)}</option>
 
         <div class="maplist">
           <h2>Todos los lugares</h2>
-${
-  destinos.length
-    ? `          <nav class="destinos-strip" aria-label="Destinos">
-            <span class="destinos-strip__label">Destinos</span>
-${destinos.map((d) => `            <a class="destinos-strip__item" href="/destinos/${d.slug}.html" title="${esc(d.title)}">${esc(d.nombre)} <b>${d.posts.length}</b></a>`).join("\n")}
-          </nav>
-`
-    : ""
-}          <div class="regiongrid">
+          <div class="regiongrid">
 ${byRegion}
           </div>
         </div>
       </div>
     </section>
     <script src="/assets/vendor/leaflet/leaflet.js"></script>
-    <script src="/assets/js/mapa.js?v=20261008"></script>`;
+    <script src="/assets/js/mapa.js?v=20261010"></script>`;
 
   return shell({
     title: "Mapa de aventuras por España y Marruecos | Chenoaventuras",

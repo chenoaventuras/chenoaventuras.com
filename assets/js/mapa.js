@@ -28,12 +28,11 @@
   map.on("mouseout", function () { map.scrollWheelZoom.disable(); });
 
   var layer = L.layerGroup().addTo(map);
-  var state = { type: "", region: "", destino: new URLSearchParams(location.search).get("destino") || "" };
+  var state = { types: [], region: "", destino: new URLSearchParams(location.search).get("destino") || "" };
   var noticeEl = document.getElementById("map-notice");
   var countEl = document.getElementById("map-count");
   var regionSel = document.getElementById("map-region");
   var chips = Array.prototype.slice.call(document.querySelectorAll("[data-map-type]"));
-  var goBtns = Array.prototype.slice.call(document.querySelectorAll("[data-map-go]"));
 
   function text(tag, cls, content) {
     var n = document.createElement(tag);
@@ -98,7 +97,7 @@
   function render(fit) {
     layer.clearLayers();
     var list = posts.filter(function (p) {
-      return (!state.type || p.type === state.type) && (!state.region || p.region === state.region) && (!state.destino || p.destino === state.destino);
+      return (!state.types.length || state.types.indexOf(p.type) !== -1) && (!state.region || p.region === state.region) && (!state.destino || p.destino === state.destino);
     });
     var pts = [];
     groups(list).forEach(function (items) {
@@ -125,15 +124,24 @@
     if (countEl) countEl.textContent = list.length + (list.length === 1 ? " lugar" : " lugares");
     if (fit) {
       if (!pts.length) return;
-      if (!state.type && !state.region && !state.destino) map.fitBounds(SPAIN, { animate: !reduce });
+      if (!state.types.length && !state.region && !state.destino) map.fitBounds(SPAIN, { animate: !reduce });
       else map.fitBounds(pts, { padding: [50, 50], maxZoom: 11, animate: !reduce });
     }
   }
 
   chips.forEach(function (b) {
     b.addEventListener("click", function () {
-      state.type = b.getAttribute("data-map-type") || "";
-      chips.forEach(function (c) { c.classList.toggle("is-active", c === b); });
+      // cada tipo se marca y desmarca por separado; «Todos» quita la selección
+      var t = b.getAttribute("data-map-type") || "";
+      if (!t) state.types = [];
+      else if (state.types.indexOf(t) !== -1) state.types = state.types.filter(function (x) { return x !== t; });
+      else state.types = state.types.concat(t);
+      chips.forEach(function (c) {
+        var ct = c.getAttribute("data-map-type") || "";
+        var on = ct ? state.types.indexOf(ct) !== -1 : !state.types.length;
+        c.classList.toggle("is-active", on);
+        c.setAttribute("aria-pressed", on ? "true" : "false");
+      });
       render(true);
     });
   });
@@ -143,27 +151,13 @@
       render(true);
     });
   }
-  var JUMPS = { canarias: { c: [28.3, -16.3], z: 8 }, marruecos: { c: [31.4, -8.2], z: 6 } };
-  goBtns.forEach(function (b) {
-    b.addEventListener("click", function () {
-      var j = JUMPS[b.getAttribute("data-map-go")];
-      if (!j) return;
-      state.type = "";
-      state.region = "";
-      if (regionSel) regionSel.value = "";
-      chips.forEach(function (c) { c.classList.toggle("is-active", !c.getAttribute("data-map-type")); });
-      render(false);
-      if (reduce) map.setView(j.c, j.z); else map.flyTo(j.c, j.z, { duration: 1.1 });
-    });
-  });
-
   render(!!state.destino);
 
   if (window.ResizeObserver) {
     new ResizeObserver(function () {
       if (!el.clientWidth) return;
       map.invalidateSize();
-      if (!sizedFit && !state.type && !state.region && !state.destino) map.fitBounds(SPAIN, { animate: false });
+      if (!sizedFit && !state.types.length && !state.region && !state.destino) map.fitBounds(SPAIN, { animate: false });
       sizedFit = true;
     }).observe(el);
   }

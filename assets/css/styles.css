@@ -1394,7 +1394,7 @@ p { margin: 0 0 1em; }
   border-radius: 10px; border: 1px solid rgba(20,20,15,.2); background: var(--white); color: var(--ink);
 }
 .blogfilter__search input:focus { outline: 2px solid var(--olive-bright); outline-offset: 1px; }
-.blogfilter__select { display: flex; align-items: center; gap: 10px; }
+.blogfilter__select { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 .blogfilter__count { margin: 0; font-size: .9rem; color: var(--ink-mute); }
 
 .related {
