@@ -161,7 +161,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261008" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261010" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -683,14 +683,14 @@ function renderMap(posts, destinos = []) {
         const sin = items.filter((d) => !d.provincia);
         if (sin.length) groups.push({ name: "Otros lugares", items: sin });
         body = groups
-          .map((g) => `<section class="provblock${g.items.length > 8 ? " provblock--long" : ""}"><h4>${esc(g.name)} <span>${g.items.length}</span></h4>${list(g.items)}</section>`)
+          .map((g) => `<section class="provblock${g.items.length > 8 ? " provblock--long" : ""}"><h4>${esc(g.name)}</h4>${list(g.items)}</section>`)
           .join("");
       } else {
         body = `<section class="provblock provblock--single">${list(items)}</section>`;
       }
       const flag = flagOf(r);
       return `          <article class="regionband">
-            <header class="regioncard__head">${flag ? `<img src="${flag}" alt="" width="34" height="23" loading="lazy" decoding="async" />` : ""}<h3>${esc(r)}</h3><span class="regioncard__count">${items.length}</span></header>
+            <header class="regioncard__head">${flag ? `<img src="${flag}" alt="" width="34" height="23" loading="lazy" decoding="async" />` : ""}<h3>${esc(r)}</h3></header>
             <div class="regionband__body">${body}</div>
           </article>`;
     })

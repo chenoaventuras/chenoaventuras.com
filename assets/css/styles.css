@@ -1588,7 +1588,7 @@ p { margin: 0 0 1em; }
 /* Lista visual de lugares del mapa: una franja por comunidad, dividida en provincias */
 .regiongrid { display: flex; flex-direction: column; gap: 14px; margin-top: 18px; }
 .regionband { background: var(--white); border-radius: var(--radius); box-shadow: var(--shadow-sm); padding: 14px 20px 8px; }
-.regioncard__head { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+.regioncard__head { display: flex; align-items: center; gap: 10px; margin-bottom: 20px; }
 .regioncard__head img { width: 34px; height: 23px; object-fit: cover; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0,0,0,.14); flex: none; }
 .maplist .regioncard__head h3 { margin: 0; flex: 1; font-family: var(--font-head); font-weight: 600; font-size: 1.05rem; color: var(--night); }
 .regioncard__count { font-size: .75rem; font-weight: 600; color: #fff; background: var(--night); border-radius: 999px; padding: .1em .65em; }
