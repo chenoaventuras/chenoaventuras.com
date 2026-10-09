@@ -3,13 +3,14 @@ title: 'Selva de Irati: cómo visitar el gran hayedo de Navarra'
 seoTitle: 'Selva de Irati: rutas, cómo llegar y cuándo ir en otoño'
 date: 2026-10-20T08:00:00.000Z
 lugar: 'Selva de Irati'
+lat: 43.0000
+lng: -1.0833
 excerpt: 'Selva de Irati (Navarra): el gran bosque de hayas y abetos del Pirineo. Rutas como la Cascada del Cubo, accesos desde Ochagavía y Orbaizeta y cuándo ir en otoño.'
 cover: /assets/img/blog/selva-de-irati/portada.webp
 tags:
   - Spots
   - Navarra
 wide: true
-draft: true
 ---
 En otoño, la **Selva de Irati** se pone de todos los colores: amarillos, naranjas, rojos y el verde oscuro de los abetos, todo reflejado en el río. Es uno de los bosques más grandes y mejor conservados de Europa, y en octubre está en su mejor momento.
 
@@ -49,4 +50,4 @@ Te cuento cómo llegar, qué rutas hacer y cómo evitar las colas de coches 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta las fechas de regulación de accesos y el precio de los aparcamientos en la web de Turismo de Navarra.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta las fechas de regulación de accesos y el precio de los aparcamientos en la web de Turismo de Navarra. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AIrati%2C_oto%C3%B1o_1990_02.jpg" target="_blank" rel="noopener">LBM1948</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACascada_Cubo.jpg" target="_blank" rel="noopener">Mikipons</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3AEmbalse_de_Irabia_05.jpg" target="_blank" rel="noopener">Rodelar</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AExterior_de_la_ermita_de_la_Virgen_de_las_Nieves_de_Irati_30.05.2026.jpg" target="_blank" rel="noopener">JLVwiki</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AF%C3%A1brica_de_Armas_Orbaizeta_7.JPG" target="_blank" rel="noopener">josemi merino torrens</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AOchagav%C3%ADa-Otsagabia_02.JPG" target="_blank" rel="noopener">Cherubino</a> (CC BY-SA 3.0 es).</p>
