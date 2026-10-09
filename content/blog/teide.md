@@ -7,7 +7,7 @@ lugar: 'Teide'
 lat: 28.2724
 lng: -16.6425
 excerpt: 'Cómo subir al Teide (Tenerife): el teleférico, el permiso para llegar al pico por el sendero Telesforo Bravo y su tasa de 2026, la ruta de Montaña Blanca, los Roques de García y consejos de altura.'
-cover: /assets/img/blog/teide/portada.jpg
+cover: /assets/img/blog/teide/portada.webp
 tags:
   - Actividades
   - Canarias
@@ -31,12 +31,12 @@ Pero llegar al cráter no es tan simple como coger el teleférico: hace falta un
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Parque Nacional del Teide</h2><p>Aunque no subas al pico, el parque es un espectáculo.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/teleferico.jpg" alt="Teleférico del Teide" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El teleférico</h3><p>La forma más fácil de subir a 3.555 metros. Arriba hay dos senderos con miradores: a La Fortaleza y al Pico Viejo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/crater.jpg" alt="Cráter del Teide con fumarolas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El cráter</h3><p>Con permiso, el sendero Telesforo Bravo te lleva hasta el borde del cráter, entre fumarolas y rocas amarillas de azufre.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/picoviejo.jpg" alt="Cráter del Pico Viejo junto al Teide" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Pico Viejo</h3><p>El hermano pequeño del Teide, con un cráter enorme de casi un kilómetro. Se ve desde el mirador de la estación superior.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/nubes.jpg" alt="Mar de nubes visto desde el Teide" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El mar de nubes</h3><p>Los días de alisio, las nubes se quedan por debajo y desde arriba parece que flotas sobre un océano blanco.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/sendero.jpg" alt="Sendero de lava en el Parque Nacional del Teide" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los senderos de lava</h3><p>Coladas de lava, piedra pómez y volcanes por todas partes. Hay rutas para todos los niveles.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/pinar.jpg" alt="Pinar canario con el Teide al fondo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El pinar canario</h3><p>Subiendo hacia el parque cruzas bosques de pino canario, un árbol capaz de rebrotar tras los incendios.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/teleferico.webp" alt="Teleférico del Teide" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El teleférico</h3><p>La forma más fácil de subir a 3.555 metros. Arriba hay dos senderos con miradores: a La Fortaleza y al Pico Viejo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/crater.webp" alt="Cráter del Teide con fumarolas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El cráter</h3><p>Con permiso, el sendero Telesforo Bravo te lleva hasta el borde del cráter, entre fumarolas y rocas amarillas de azufre.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/picoviejo.webp" alt="Cráter del Pico Viejo junto al Teide" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Pico Viejo</h3><p>El hermano pequeño del Teide, con un cráter enorme de casi un kilómetro. Se ve desde el mirador de la estación superior.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/nubes.webp" alt="Mar de nubes visto desde el Teide" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El mar de nubes</h3><p>Los días de alisio, las nubes se quedan por debajo y desde arriba parece que flotas sobre un océano blanco.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/sendero.webp" alt="Sendero de lava en el Parque Nacional del Teide" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los senderos de lava</h3><p>Coladas de lava, piedra pómez y volcanes por todas partes. Hay rutas para todos los niveles.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/pinar.webp" alt="Pinar canario con el Teide al fondo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El pinar canario</h3><p>Subiendo hacia el parque cruzas bosques de pino canario, un árbol capaz de rebrotar tras los incendios.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo subir al Teide</h2></div>

@@ -6,7 +6,7 @@ lugar: 'Caravaca de la Cruz'
 lat: 38.106
 lng: -1.864
 excerpt: 'Qué ver en Caravaca de la Cruz (Murcia): la Basílica de la Vera Cruz dentro del castillo, el Año Jubilar, la carrera de los Caballos del Vino, el casco antiguo y las Fuentes del Marqués.'
-cover: /assets/img/blog/caravaca-de-la-cruz/portada.jpg
+cover: /assets/img/blog/caravaca-de-la-cruz/portada.webp
 tags:
   - Pueblos
   - Región de Murcia
@@ -28,12 +28,12 @@ Te cuento qué ver y cuándo ir 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Caravaca de la Cruz</h2><p>Del castillo a la plaza.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/castillo.jpg" alt="Castillo y basílica de Caravaca de la Cruz sobre el pueblo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El castillo</h3><p>Una fortaleza medieval con catorce torres que protege en su interior la basílica.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/cruz.jpg" alt="Cruz de Caravaca en la plaza de la basílica" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Basílica de la Vera Cruz</h3><p>Barroca, con una fachada de mármol rojo, y en su interior la famosa Cruz de Caravaca de doble brazo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/muralla.jpg" alt="Murallas del castillo de Caravaca" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las murallas</h3><p>Rodea el castillo por fuera: las vistas del pueblo y la sierra son espectaculares.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/salvador.jpg" alt="Calle empinada hacia la iglesia del Salvador en Caravaca" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El casco antiguo</h3><p>Calles en cuesta, la iglesia renacentista del Salvador y el Templete o Bañadero.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/caballo.jpg" alt="Manto bordado de los Caballos del Vino en el museo" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El museo de los Caballos del Vino</h3><p>Mantos bordados con miles de piezas: auténticas obras de arte que tardan años en hacerse.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/toros.jpg" alt="Plaza de toros de Caravaca de la Cruz" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La plaza de toros</h3><p>De estilo neomudéjar y color rojo intenso, una de las más llamativas de España.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/castillo.webp" alt="Castillo y basílica de Caravaca de la Cruz sobre el pueblo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El castillo</h3><p>Una fortaleza medieval con catorce torres que protege en su interior la basílica.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/cruz.webp" alt="Cruz de Caravaca en la plaza de la basílica" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Basílica de la Vera Cruz</h3><p>Barroca, con una fachada de mármol rojo, y en su interior la famosa Cruz de Caravaca de doble brazo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/muralla.webp" alt="Murallas del castillo de Caravaca" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las murallas</h3><p>Rodea el castillo por fuera: las vistas del pueblo y la sierra son espectaculares.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/salvador.webp" alt="Calle empinada hacia la iglesia del Salvador en Caravaca" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El casco antiguo</h3><p>Calles en cuesta, la iglesia renacentista del Salvador y el Templete o Bañadero.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/caballo.webp" alt="Manto bordado de los Caballos del Vino en el museo" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El museo de los Caballos del Vino</h3><p>Mantos bordados con miles de piezas: auténticas obras de arte que tardan años en hacerse.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/toros.webp" alt="Plaza de toros de Caravaca de la Cruz" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La plaza de toros</h3><p>De estilo neomudéjar y color rojo intenso, una de las más llamativas de España.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Caravaca</h2></div>

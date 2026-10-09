@@ -7,7 +7,7 @@ lugar: 'Orbaneja del Castillo'
 lat: 42.832
 lng: -3.79
 excerpt: 'Orbaneja del Castillo (Burgos): la cascada que cruza el pueblo, la Cueva del Agua, las rocas sobre el cañón del Ebro, qué ver, cuándo ir para verla con más agua y cómo llegar.'
-cover: /assets/img/blog/orbaneja-del-castillo/portada.jpg
+cover: /assets/img/blog/orbaneja-del-castillo/portada.webp
 tags:
   - Pueblos
   - Castilla y León
@@ -29,12 +29,12 @@ Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cóm
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Orbaneja del Castillo</h2><p>Un pueblo pequeño, pero que da para mucho.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/cascada.jpg" alt="Cascada de Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La cascada</h3><p>La gran protagonista: se ve desde la carretera y desde los caminos que bajan junto a ella hasta el Ebro.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/pozas.jpg" alt="Pequeñas cascadas y pozas en Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las pozas de toba</h3><p>El agua va dejando cal y forma terrazas y pequeñas cascadas cubiertas de musgo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/pueblo.jpg" alt="Vista de Orbaneja del Castillo bajo las peñas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El pueblo bajo las peñas</h3><p>Casas de piedra con balcones de madera, encajadas bajo un muro de roca enorme.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/calles.jpg" alt="Calle empedrada de Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Sus calles</h3><p>Empedradas y empinadas. Busca la Casa de los Canes o la Casa Fuerte.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/arroyo.jpg" alt="Casas de Orbaneja del Castillo bajo las rocas" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las peñas</h3><p>Las formaciones de roca sobre el pueblo son parte del paisaje: en algunos tramos las casas se apoyan en ellas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/canon.jpg" alt="Cañón del Ebro junto a Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El cañón del Ebro</h3><p>Desde los miradores ves cómo el Ebro serpentea encajonado entre paredes de roca.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/cascada.webp" alt="Cascada de Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La cascada</h3><p>La gran protagonista: se ve desde la carretera y desde los caminos que bajan junto a ella hasta el Ebro.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/pozas.webp" alt="Pequeñas cascadas y pozas en Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las pozas de toba</h3><p>El agua va dejando cal y forma terrazas y pequeñas cascadas cubiertas de musgo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/pueblo.webp" alt="Vista de Orbaneja del Castillo bajo las peñas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El pueblo bajo las peñas</h3><p>Casas de piedra con balcones de madera, encajadas bajo un muro de roca enorme.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/calles.webp" alt="Calle empedrada de Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Sus calles</h3><p>Empedradas y empinadas. Busca la Casa de los Canes o la Casa Fuerte.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/arroyo.webp" alt="Casas de Orbaneja del Castillo bajo las rocas" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las peñas</h3><p>Las formaciones de roca sobre el pueblo son parte del paisaje: en algunos tramos las casas se apoyan en ellas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/canon.webp" alt="Cañón del Ebro junto a Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El cañón del Ebro</h3><p>Desde los miradores ves cómo el Ebro serpentea encajonado entre paredes de roca.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Orbaneja del Castillo</h2></div>

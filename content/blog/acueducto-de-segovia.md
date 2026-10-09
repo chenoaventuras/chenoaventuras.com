@@ -6,7 +6,7 @@ lugar: 'Segovia'
 lat: 40.9481
 lng: -4.1184
 excerpt: 'Qué ver en Segovia: el Acueducto romano (cómo se sostiene sin argamasa y su leyenda del diablo), el Alcázar, la catedral, los mejores miradores y cómo entrar gratis al Alcázar.'
-cover: /assets/img/blog/acueducto-de-segovia/acueducto.jpg
+cover: /assets/img/blog/acueducto-de-segovia/acueducto.webp
 tags:
   - Spots
   - Castilla y León
@@ -28,12 +28,12 @@ Te cuento qué ver, las mejores vistas y algunos trucos para la visita 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Segovia</h2><p>Lo imprescindible en una escapada.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/portada.jpg" alt="Arcos del Acueducto de Segovia desde abajo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Acueducto</h3><p>Míralo desde la plaza del Azoguejo, donde es más alto, y luego sube por las escaleras de su lateral para verlo desde arriba.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/arcos.jpg" alt="Sillares de granito del Acueducto de Segovia" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Sus piedras</h3><p>Acércate a los pilares: verás que los bloques de granito encajan sin nada que los una.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/alcazar.jpg" alt="Alcázar de Segovia al atardecer" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Alcázar</h3><p>Un castillo-palacio sobre la roca, entre dos ríos. Sube a la Torre de Juan II para tener Segovia a tus pies.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/alcazar2.jpg" alt="Sala del Trono del Alcázar de Segovia" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las salas del Alcázar</h3><p>Techos mudéjares, la Sala del Trono y la Sala de Reyes, con todos los monarcas de Castilla.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/catedral.jpg" alt="Catedral de Segovia iluminada de noche" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La catedral</h3><p>La llaman «la dama de las catedrales». Fue de las últimas catedrales góticas que se construyeron en España.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/panoramica.jpg" alt="Vista panorámica de Segovia con la catedral" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los miradores</h3><p>Para la foto de la ciudad entera, ve a la pradera de San Marcos o al mirador de la Canaleja.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/portada.webp" alt="Arcos del Acueducto de Segovia desde abajo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Acueducto</h3><p>Míralo desde la plaza del Azoguejo, donde es más alto, y luego sube por las escaleras de su lateral para verlo desde arriba.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/arcos.webp" alt="Sillares de granito del Acueducto de Segovia" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Sus piedras</h3><p>Acércate a los pilares: verás que los bloques de granito encajan sin nada que los una.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/alcazar.webp" alt="Alcázar de Segovia al atardecer" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Alcázar</h3><p>Un castillo-palacio sobre la roca, entre dos ríos. Sube a la Torre de Juan II para tener Segovia a tus pies.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/alcazar2.webp" alt="Sala del Trono del Alcázar de Segovia" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las salas del Alcázar</h3><p>Techos mudéjares, la Sala del Trono y la Sala de Reyes, con todos los monarcas de Castilla.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/catedral.webp" alt="Catedral de Segovia iluminada de noche" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La catedral</h3><p>La llaman «la dama de las catedrales». Fue de las últimas catedrales góticas que se construyeron en España.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/panoramica.webp" alt="Vista panorámica de Segovia con la catedral" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los miradores</h3><p>Para la foto de la ciudad entera, ve a la pradera de San Marcos o al mirador de la Canaleja.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Segovia</h2></div>

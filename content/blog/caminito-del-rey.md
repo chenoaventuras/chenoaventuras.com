@@ -6,7 +6,7 @@ lugar: 'Caminito del Rey'
 lat: 36.918
 lng: -4.777
 excerpt: 'Guía del Caminito del Rey (Málaga): precio de las entradas, cómo reservar, el recorrido de 8 km por pasarelas colgadas a 100 metros, el bus lanzadera y cómo llegar.'
-cover: /assets/img/blog/caminito-del-rey/portada.jpg
+cover: /assets/img/blog/caminito-del-rey/portada.webp
 tags:
   - Actividades
   - Andalucía
@@ -30,12 +30,12 @@ Aquí te cuento cuánto cuestan las entradas, cómo es el recorrido, qué tienes
 
 <div class="guide__head"><span class="eyebrow">El recorrido</span><h2>Qué vas a ver en el Caminito del Rey</h2><p>El camino pasa por dos desfiladeros y un valle entre ellos. Estos son los tramos que más impresionan.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/gaitanejo.jpg" alt="Desfiladero de Gaitanejo, Caminito del Rey" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Desfiladero de Gaitanejo</h3><p>El primer cañón: las pasarelas empiezan pegadas a la roca, con el río verde turquesa allá abajo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/valle.jpg" alt="Valle del Hoyo en el Caminito del Rey" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Valle del Hoyo</h3><p>Un respiro entre los dos desfiladeros: un valle abierto, con pinos y vistas a la sierra.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/antiguo.jpg" alt="Pasarela original del Caminito del Rey bajo la nueva" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El camino antiguo</h3><p>Por debajo de las pasarelas nuevas se ve el camino original, el de la fama de peligroso.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/rio.jpg" alt="Río Guadalhorce en el Caminito del Rey" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El río Guadalhorce</h3><p>El agua ha ido tallando la roca durante millones de años hasta abrir el desfiladero.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/gaitanes.jpg" alt="Desfiladero de los Gaitanes" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Desfiladero de los Gaitanes</h3><p>El tramo final y el más espectacular: paredes de más de 300 metros y, en algunos puntos, menos de 10 de ancho.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/panoramica.jpg" alt="Vista panorámica del Desfiladero de los Gaitanes" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Al final del recorrido, el cañón se abre y ves todo el desfiladero desde arriba.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/gaitanejo.webp" alt="Desfiladero de Gaitanejo, Caminito del Rey" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Desfiladero de Gaitanejo</h3><p>El primer cañón: las pasarelas empiezan pegadas a la roca, con el río verde turquesa allá abajo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/valle.webp" alt="Valle del Hoyo en el Caminito del Rey" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Valle del Hoyo</h3><p>Un respiro entre los dos desfiladeros: un valle abierto, con pinos y vistas a la sierra.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/antiguo.webp" alt="Pasarela original del Caminito del Rey bajo la nueva" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El camino antiguo</h3><p>Por debajo de las pasarelas nuevas se ve el camino original, el de la fama de peligroso.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/rio.webp" alt="Río Guadalhorce en el Caminito del Rey" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El río Guadalhorce</h3><p>El agua ha ido tallando la roca durante millones de años hasta abrir el desfiladero.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/gaitanes.webp" alt="Desfiladero de los Gaitanes" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Desfiladero de los Gaitanes</h3><p>El tramo final y el más espectacular: paredes de más de 300 metros y, en algunos puntos, menos de 10 de ancho.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/panoramica.webp" alt="Vista panorámica del Desfiladero de los Gaitanes" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Al final del recorrido, el cañón se abre y ves todo el desfiladero desde arriba.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Caminito del Rey</h2></div>
