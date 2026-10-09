@@ -14,3 +14,8 @@ node_modules/
 
 # Informes locales de la revisión semanal
 /.refresh/
+
+# Archivos de trabajo locales (no se suben)
+/.claude/
+/Guia-*.pdf
+/Historia-*.jpg
