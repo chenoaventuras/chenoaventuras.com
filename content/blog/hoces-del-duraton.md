@@ -3,13 +3,14 @@ title: 'Hoces del Duratón: buitres, la ermita de San Frutos y kayak'
 seoTitle: 'Hoces del Duratón: San Frutos, buitres y cómo llegar'
 date: 2026-10-20T08:00:00.000Z
 lugar: 'Hoces del Duratón'
+lat: 41.3246
+lng: -3.8794
 excerpt: 'Hoces del Duratón (Segovia): la ermita de San Frutos y su leyenda de La Cuchillada, una de las mayores colonias de buitres de Europa, rutas, kayak y Sepúlveda.'
 cover: /assets/img/blog/hoces-del-duraton/portada.webp
 tags:
   - Spots
   - Castilla y León
 wide: true
-draft: true
 ---
 Un río que serpentea en curvas imposibles al fondo de un cañón, cientos de **buitres** planeando a la altura de tus ojos y, en lo alto de un meandro, las ruinas de un priorato románico al borde del precipicio. Así son las **Hoces del Duratón**.
 
@@ -49,4 +50,4 @@ A una hora y media de Madrid, es uno de los paisajes más bestias del centro de 
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta sendas abiertas y restricciones temporales en la Casa del Parque de las Hoces del Río Duratón, en Sepúlveda.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta sendas abiertas y restricciones temporales en la Casa del Parque de las Hoces del Río Duratón, en Sepúlveda. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Cuchillada_de_San_Frutos.jpg" target="_blank" rel="noopener">Marlene VD (derivado: Rabanus Flavus)</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3AMeandroDelDurat%C3%B3nCercaDeSanMiguelDeBernuy-rectangular.jpg" target="_blank" rel="noopener">Rowanwindwhistler</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASepulveda_Iglesia_y_Monasterio_de_San_Frutos-2012.jpg" target="_blank" rel="noopener">Xauxa (Håkan Svensson)</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3A20240606_155524_DSCN0788_Buitres_leonados_en_su_refugio_de_la_Hoz_del_Durat%C3%B3n.jpg" target="_blank" rel="noopener">Juan Arrago</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3AHoces_del_r%C3%ADo_Durat%C3%B3n_-_02.jpg" target="_blank" rel="noopener">Carlos Delgado</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APiragua_en_el_pantano.jpg" target="_blank" rel="noopener">Amanita Muscaria 2020</a> (CC BY-SA 4.0).</p>

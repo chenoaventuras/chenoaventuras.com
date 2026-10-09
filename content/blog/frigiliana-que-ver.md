@@ -11,7 +11,6 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
-draft: true
 ---
 Casas blancas encaladas, macetas azules, calles empinadas que se retuercen ladera arriba y el Mediterráneo al fondo. **Frigiliana** es uno de los pueblos más buscados de España y tiene una historia que muy poca gente conoce.
 
@@ -53,4 +52,4 @@ En sus paredes, unos azulejos cuentan la batalla en la que los moriscos se hicie
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AFrigiliana_v_l%C3%A9t%C4%9B.jpg" target="_blank" rel="noopener">Jaroslav Polacek</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AFrigiliana%2C_the_lane_%22Calle_Alta%22%2C_image_2.jpg" target="_blank" rel="noopener">Dguendel</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3APlaca_en_Frigiliana.jpg" target="_blank" rel="noopener">Son of Groucho</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AFrigiliana_16_October.2006.jpg" target="_blank" rel="noopener">gildemax</a> (CC BY-SA 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3AIngenio_Frigiliana.jpg" target="_blank" rel="noopener">Miguel Frutos</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AView_from_Balc%C3%B3n_de_Europa_in_Nerja_2014.jpg" target="_blank" rel="noopener">Tuxyso</a> (CC BY-SA 3.0).</p>
