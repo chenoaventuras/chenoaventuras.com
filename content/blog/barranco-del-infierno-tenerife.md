@@ -11,7 +11,6 @@ tags:
   - Actividades
   - Canarias
 wide: true
-draft: true
 ---
 Con ese nombre, uno espera algo terrible, pero lo que hay al final es lo contrario: un rincón fresco y verde con una **cascada** cayendo entre paredes de roca, en pleno sur seco de Tenerife.
 
@@ -50,4 +49,4 @@ El **Barranco del Infierno** es una de las rutas más famosas de la isla, con pl
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Las plazas, precios y horarios cambian según la temporada: consúltalos en la web oficial del Barranco del Infierno antes de ir.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Las plazas, precios y horarios cambian según la temporada: consúltalos en la web oficial del Barranco del Infierno antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ABarranco_del_Infierno_-_Tenerife_-_08.jpg" target="_blank" rel="noopener">Ronny Siegel</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABarranco_del_Infierno_9.JPG" target="_blank" rel="noopener">Fujnky</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AESP_Tenerife%2C_Adeje%2C_Iglesia_de_Santa_%C3%9Arsula_0001.jpg" target="_blank" rel="noopener">-wuppertaler</a> (CC BY 4.0).</p>

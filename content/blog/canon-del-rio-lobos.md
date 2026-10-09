@@ -11,7 +11,6 @@ tags:
   - Spots
   - Castilla y León
 wide: true
-draft: true
 ---
 Paredes de roca de cien metros, buitres planeando por encima de tu cabeza y, en mitad del cañón, una **ermita templaria** pegada a la pared. Dicen que está justo a medio camino entre los dos extremos de la península, en el **centro del mundo**.
 
@@ -50,4 +49,4 @@ El **Cañón del Río Lobos** es uno de los rincones más mágicos de Soria 👇
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta los accesos, aparcamientos y la apertura de la ermita en la Casa del Parque del Cañón del Río Lobos.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta los accesos, aparcamientos y la apertura de la ermita en la Casa del Parque del Cañón del Río Lobos. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AParque_Natural_del_Ca%C3%B1%C3%B3n_del_R%C3%ADo_Lobos%2C_Soria%2C_Espa%C3%B1a%2C_2017-05-26%2C_DD_02.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AThe_great_cave_in_Rio_Lobos_Canyon_Natural_Park.jpg" target="_blank" rel="noopener">Heidi Meudt</a> (CC BY 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABuitres_sobre_la_Ermita.jpg" target="_blank" rel="noopener">Jose Ignacio Martinez Navarro</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_Ucero_%28SORIA%29.jpg" target="_blank" rel="noopener">Hibiscus7</a> (CC BY 4.0).</p>

@@ -11,7 +11,6 @@ tags:
   - Spots
   - Aragón
 wide: true
-draft: true
 ---
 Iglesias sin techo, calles llenas de escombros y fachadas agujereadas por las balas. El **Pueblo Viejo de Belchite** se quedó tal y como acabó la batalla de 1937, y lleva casi noventa años así.
 
@@ -50,4 +49,4 @@ Es uno de los lugares más impactantes de España, con fama de **pueblo fantasma
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios, precios y fechas de las visitas nocturnas en belchite.es.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios, precios y fechas de las visitas nocturnas en belchite.es. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3APueblo_viejo_de_Belchite%2C_Zaragoza%2C_Espa%C3%B1a%2C_2017-01-04%2C_DD_109-111_HDR.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AArco_de_la_Villa_de_Belchite.JPG" target="_blank" rel="noopener">Joanbanjo</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABelchite_-_Iglesia_de_San_Marin_-_Fachada01.JPG" target="_blank" rel="noopener">ecelan</a> (CC BY 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3AIglesia_de_San_Agust%C3%ADn%2C_Belchite%2C_Arag%C3%B3n_%28Espa%C3%B1a%29.jpg" target="_blank" rel="noopener">MaGrc</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABelchite._Pueblo_viejo_%2821159379590%29.jpg" target="_blank" rel="noopener">Fernando</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABelchite_by_night%2C_Zaragoza%2C_Spain%2C_2016_06.jpg" target="_blank" rel="noopener">Benjamín Núñez González</a> (CC BY-SA 4.0).</p>

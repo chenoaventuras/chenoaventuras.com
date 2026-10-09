@@ -11,7 +11,6 @@ tags:
   - Spots
   - Aragón
 wide: true
-draft: true
 ---
 Mucho antes de que Shakespeare escribiera *Romeo y Julieta*, Teruel ya tenía su propia historia de amor trágico. **Isabel y Diego** murieron de amor en el siglo XIII, y hoy descansan juntos en un mausoleo donde sus manos casi se tocan.
 
@@ -53,4 +52,4 @@ Visitar a los **Amantes de Teruel** es la excusa perfecta para descubrir una ciu
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios del Mausoleo en la web de la Fundación Amantes de Teruel antes de ir.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios del Mausoleo en la web de la Fundación Amantes de Teruel antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AWLM14ES_-_PB015218_-_.jpg" target="_blank" rel="noopener">Turol Jones, un artista de cojones from Villanueva del Casca</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATorre_de_San_Pedro%2C_Teruel%2C_Espa%C3%B1a%2C_2014-01-10%2C_DD_01.JPG" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATorre_de_El_Salvador._Teruel.jpg" target="_blank" rel="noopener">Tagarino</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ALa_Escalinata_%28Teruel%29.jpg" target="_blank" rel="noopener">José Luis Mieza from Manresa-Barcelona, Spain</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATeruel_-_Plaza_del_Torico_3.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3ALos_amantes_%2816715026486%29.jpg" target="_blank" rel="noopener">Ángel M. Felicísimo from Mérida, España</a> (CC BY-SA 2.0).</p>

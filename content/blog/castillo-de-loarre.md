@@ -11,7 +11,6 @@ tags:
   - Spots
   - Aragón
 wide: true
-draft: true
 ---
 Mil años en lo alto de una peña, murallas con torres redondas, una iglesia románica dentro del recinto y unas vistas que llegan hasta el horizonte. El **castillo de Loarre** es tan de película que **Ridley Scott** lo eligió para rodar *El reino de los cielos*.
 
@@ -51,4 +50,4 @@ Está considerado uno de los castillos románicos mejor conservados de Europa, y
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios actualizados en la web del castillo de Loarre o en Turismo de Aragón.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios actualizados en la web del castillo de Loarre o en Turismo de Aragón. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_Loarre%2C_Loarre%2C_Huesca%2C_Espa%C3%B1a%2C_2015-01-06%2C_DD_07.JPG" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMuralla_%288258385586%29.jpg" target="_blank" rel="noopener">Juanedc from Zaragoza, España</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AInterior_del_Castillo_de_Loarre%28HUESCA%29.JPG" target="_blank" rel="noopener">Hibiscus7</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_Loarre_-_Relieve_entrada_cripta.jpg" target="_blank" rel="noopener">Ecelan</a> (CC BY-SA 3.0).</p>
