@@ -7,15 +7,17 @@ lugar: 'Orbaneja del Castillo'
 lat: 42.832
 lng: -3.79
 excerpt: 'Orbaneja del Castillo (Burgos): la cascada que cruza el pueblo, la Cueva del Agua, las rocas sobre el cañón del Ebro, qué ver, cuándo ir para verla con más agua y cómo llegar.'
-cover: /assets/img/blog/orbaneja-del-castillo/portada.webp
+cover: /assets/img/instagram/18093513218481944.webp
+coverPosition: center 60%
 tags:
   - Pueblos
   - Castilla y León
+igPermalink: 'https://www.instagram.com/reel/DTdpjjYDDI8/'
 wide: true
 ---
 Un pueblo de piedra encajado bajo unas peñas gigantes, en pleno cañón del Ebro… y una **cascada que nace en una cueva y baja atravesando el pueblo** hasta el río. **Orbaneja del Castillo** parece sacado de un cuento, y es uno de los pueblos más fotografiados de Burgos.
 
-Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cómo llegar 👇
+Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cómo llegar 👇 Y si quieres verla en movimiento, la tienes en [este reel de Instagram](https://www.instagram.com/reel/DTdpjjYDDI8/).
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Orbaneja</h2></div>
 <div class="guide__tips">
@@ -29,7 +31,7 @@ Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cóm
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Orbaneja del Castillo</h2><p>Un pueblo pequeño, pero que da para mucho.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/cascada.webp" alt="Cascada de Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La cascada</h3><p>La gran protagonista: se ve desde la carretera y desde los caminos que bajan junto a ella hasta el Ebro.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/instagram/18093513218481944.webp" alt="Cascada de Orbaneja del Castillo cayendo en terrazas de musgo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La cascada</h3><p>La gran protagonista: baja en terrazas cubiertas de musgo hasta una poza de agua turquesa. Se ve desde la carretera y desde los caminos que bajan junto a ella.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/pozas.webp" alt="Pequeñas cascadas y pozas en Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las pozas de toba</h3><p>El agua va dejando cal y forma terrazas y pequeñas cascadas cubiertas de musgo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/pueblo.webp" alt="Vista de Orbaneja del Castillo bajo las peñas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El pueblo bajo las peñas</h3><p>Casas de piedra con balcones de madera, encajadas bajo un muro de roca enorme.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/calles.webp" alt="Calle empedrada de Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Sus calles</h3><p>Empedradas y empinadas. Busca la Casa de los Canes o la Casa Fuerte.</p></div></li>
@@ -51,4 +53,4 @@ Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cóm
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. El caudal de la cascada depende de las lluvias. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AOrbaneja_del_Castillo._Ca%C3%ADda_de_la_cascada_en_el_Ebro.jpg" target="_blank" rel="noopener">Miriela Rodríguez</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3ACascada_de_Orbaneja_del_Castillo_%28Burgos%29.JPG" target="_blank" rel="noopener">Mich.lagarde</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AOrbaneja_del_Castillo_-_026_%2836692085606%29.jpg" target="_blank" rel="noopener">Luis Rogelio HM</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AOrbanejaDelCastilloDesdeElEste_6222627---_6222632.jpg" target="_blank" rel="noopener">Rowanwindwhistler</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMini_cascadas_en_Orbaneja_del_Castillo.JPG" target="_blank" rel="noopener">Vanessa Herrrero</a> (CC BY-SA 3.0 es).</p>
+<p class="guide__note">Información consultada en octubre de 2026. El caudal de la cascada depende de las lluvias. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AOrbaneja_del_Castillo_-_026_%2836692085606%29.jpg" target="_blank" rel="noopener">Luis Rogelio HM</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AOrbanejaDelCastilloDesdeElEste_6222627---_6222632.jpg" target="_blank" rel="noopener">Rowanwindwhistler</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMini_cascadas_en_Orbaneja_del_Castillo.JPG" target="_blank" rel="noopener">Vanessa Herrrero</a> (CC BY-SA 3.0 es).</p>
