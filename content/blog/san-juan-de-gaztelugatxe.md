@@ -11,6 +11,19 @@ tags:
   - Spots
   - País Vasco
 wide: true
+faq:
+  - q: "¿Hay que pagar para visitar San Juan de Gaztelugatxe?"
+    a: "No. La visita es gratuita, pero en temporada alta hay que reservar la entrada en la web oficial."
+  - q: "¿Cuándo hay que reservar para ir a Gaztelugatxe?"
+    a: "En Semana Santa, puentes, fines de semana de primavera y otoño y todos los días en verano. Las fechas exactas cambian cada año: consúltalas en la web oficial de reservas."
+  - q: "¿Cuántos escalones tiene San Juan de Gaztelugatxe?"
+    a: "241 escalones desde el puente hasta la ermita."
+  - q: "¿Cuánto se tarda en subir?"
+    a: "Ida y vuelta desde el aparcamiento son casi 3 km y unos 75 minutos, más el tiempo que pases arriba."
+  - q: "¿Se rodó Juego de Tronos en Gaztelugatxe?"
+    a: "Sí, en la séptima temporada fue Rocadragón, el hogar de Daenerys Targaryen."
+  - q: "¿Se puede ir en coche a San Juan de Gaztelugatxe?"
+    a: "Hasta el aparcamiento junto a la carretera, sí. Desde allí se baja andando: casi 3 km ida y vuelta, unos 75 minutos."
 ---
 Un islote unido a la costa por un puente de piedra, un camino en zigzag de **241 escalones** y, arriba del todo, una pequeña ermita con una campana que todo el mundo toca tres veces. **San Juan de Gaztelugatxe** es uno de los paisajes más famosos de la costa vasca… y desde que salió en **Juego de Tronos**, más todavía.
 
@@ -41,9 +54,7 @@ La visita es gratis, pero hay días en los que **tienes que reservar**. Te cuent
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira si necesitas reserva</b>: sin ella, los días de temporada alta no te dejarán pasar.</li><li><b>Calzado cómodo y algo de abrigo</b>: en el islote siempre sopla viento.</li><li><b>Ve temprano o al final de la tarde</b>: con menos gente y mejor luz.</li><li><b>Combínalo con Bermeo</b>: un pueblo marinero precioso a pocos kilómetros, y con Bakio para la playa.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre San Juan de Gaztelugatxe</h2></div>
-<div class="faq"><details><summary>¿Hay que pagar para visitar San Juan de Gaztelugatxe?</summary><p>No. La visita es gratuita, pero en temporada alta hay que reservar la entrada en la web oficial.</p></details><details><summary>¿Cuándo hay que reservar para ir a Gaztelugatxe?</summary><p>En Semana Santa, puentes, fines de semana de primavera y otoño y todos los días en verano. Las fechas exactas cambian cada año: consúltalas en la web oficial de reservas.</p></details><details><summary>¿Cuántos escalones tiene San Juan de Gaztelugatxe?</summary><p>241 escalones desde el puente hasta la ermita.</p></details><details><summary>¿Cuánto se tarda en subir?</summary><p>Ida y vuelta desde el aparcamiento son casi 3 km y unos 75 minutos, más el tiempo que pases arriba.</p></details><details><summary>¿Se rodó Juego de Tronos en Gaztelugatxe?</summary><p>Sí, en la séptima temporada fue Rocadragón, el hogar de Daenerys Targaryen.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hay que pagar para visitar San Juan de Gaztelugatxe?", "acceptedAnswer": {"@type": "Answer", "text": "No. La visita es gratuita, pero en temporada alta hay que reservar la entrada en la web oficial."}}, {"@type": "Question", "name": "¿Cuándo hay que reservar para ir a Gaztelugatxe?", "acceptedAnswer": {"@type": "Answer", "text": "En Semana Santa, puentes, fines de semana de primavera y otoño y todos los días en verano. Las fechas exactas cambian cada año: consúltalas en la web oficial de reservas."}}, {"@type": "Question", "name": "¿Cuántos escalones tiene San Juan de Gaztelugatxe?", "acceptedAnswer": {"@type": "Answer", "text": "241 escalones desde el puente hasta la ermita."}}, {"@type": "Question", "name": "¿Cuánto se tarda en subir?", "acceptedAnswer": {"@type": "Answer", "text": "Ida y vuelta desde el aparcamiento son casi 3 km y unos 75 minutos, más el tiempo que pases arriba."}}, {"@type": "Question", "name": "¿Se rodó Juego de Tronos en Gaztelugatxe?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, en la séptima temporada fue Rocadragón, el hogar de Daenerys Targaryen."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más norte</span><h2>Más planes por el norte</h2></div>
 <ul class="nearby"><li><a href="/blog/guia-monte-igueldo.html"><img src="/assets/img/blog/monte-igueldo/portada-rio-misterioso-cheno.webp" alt="Monte Igueldo" loading="lazy" decoding="async" /><span>Monte Igueldo</span></a></li><li><a href="/blog/orbaneja-del-castillo.html"><img src="/assets/img/instagram/18093513218481944.webp" alt="Orbaneja del Castillo" loading="lazy" decoding="async" /><span>Orbaneja del Castillo</span></a></li><li><a href="/blog/partenon-de-las-fraguas-cantabria.html"><img src="/assets/img/instagram/18073249217294344.webp" alt="El Partenón de Las Fraguas" loading="lazy" decoding="async" /><span>El Partenón de Las Fraguas</span></a></li></ul>

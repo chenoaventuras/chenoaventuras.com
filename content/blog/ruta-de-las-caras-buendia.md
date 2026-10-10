@@ -10,6 +10,16 @@ tags:
   - Castilla-La Mancha
 wide: true
 draft: true
+faqTitulo: "Dudas sobre la Ruta de las Caras"
+faq:
+  - q: "¿Quién hizo la Ruta de las Caras?"
+    a: "Dos artistas, Eulogio Reguillo y Jorge Juan Maldonado, que las tallaron en los años 90."
+  - q: "¿Cuánto se tarda en hacer la Ruta de las Caras?"
+    a: "Es un paseo de unos 2 km que se hace en una hora o una hora y media."
+  - q: "¿Hay que pagar para ver la Ruta de las Caras?"
+    a: "El paseo es de acceso libre. Consulta si el nuevo aparcamiento regulado tiene tarifa."
+  - q: "¿Dónde está la Ruta de las Caras?"
+    a: "Junto a Buendía (Cuenca), al lado del embalse de Buendía."
 ---
 En mitad de un pinar, junto a un embalse, aparecen de repente **caras gigantes talladas en la roca**: una Virgen, Beethoven, rostros de chamanes y dioses. Parecen de una civilización perdida, pero tienen solo unas décadas.
 
@@ -39,9 +49,7 @@ La **Ruta de las Caras** es uno de los paseos más curiosos de Cuenca, con un ai
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve al atardecer</b>: la luz baja marca mucho más los relieves de las caras.</li><li><b>Evita el mediodía en verano</b>: hay poca sombra en algunos tramos.</li><li><b>Ve buscando las caras</b>: algunas están escondidas y es fácil pasarlas de largo.</li><li><b>Respeta las tallas</b>: no te subas a las rocas ni las toques.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Ruta de las Caras</h2></div>
-<div class="faq"><details><summary>¿Quién hizo la Ruta de las Caras?</summary><p>Dos artistas, Eulogio Reguillo y Jorge Juan Maldonado, que las tallaron en los años 90.</p></details><details><summary>¿Cuánto se tarda en hacer la Ruta de las Caras?</summary><p>Es un paseo de unos 2 km que se hace en una hora o una hora y media.</p></details><details><summary>¿Hay que pagar para ver la Ruta de las Caras?</summary><p>El paseo es de acceso libre. Consulta si el nuevo aparcamiento regulado tiene tarifa.</p></details><details><summary>¿Dónde está la Ruta de las Caras?</summary><p>Junto a Buendía (Cuenca), al lado del embalse de Buendía.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Quién hizo la Ruta de las Caras?", "acceptedAnswer": {"@type": "Answer", "text": "Dos artistas, Eulogio Reguillo y Jorge Juan Maldonado, que las tallaron en los años 90."}}, {"@type": "Question", "name": "¿Cuánto se tarda en hacer la Ruta de las Caras?", "acceptedAnswer": {"@type": "Answer", "text": "Es un paseo de unos 2 km que se hace en una hora o una hora y media."}}, {"@type": "Question", "name": "¿Hay que pagar para ver la Ruta de las Caras?", "acceptedAnswer": {"@type": "Answer", "text": "El paseo es de acceso libre. Consulta si el nuevo aparcamiento regulado tiene tarifa."}}, {"@type": "Question", "name": "¿Dónde está la Ruta de las Caras?", "acceptedAnswer": {"@type": "Answer", "text": "Junto a Buendía (Cuenca), al lado del embalse de Buendía."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Cuenca" loading="lazy" decoding="async" /><span>Cuenca</span></a></li><li><a href="/blog/ciudad-encantada-cuenca.html"><img src="/assets/img/blog/cuenca/ciudad-encantada.webp" alt="Ciudad Encantada" loading="lazy" decoding="async" /><span>Ciudad Encantada</span></a></li><li><a href="/blog/siguenza-que-ver.html"><img src="/assets/img/blog/siguenza-que-ver/portada.webp" alt="Sigüenza" loading="lazy" decoding="async" /><span>Sigüenza</span></a></li></ul>

@@ -11,6 +11,16 @@ cover: /assets/img/instagram/18030529913769384.webp
 tags:
   - Actividades
 igPermalink: 'https://www.instagram.com/reel/DR9ZId0jKtW/'
+faqTitulo: "Dudas sobre el globo en Marrakech"
+faq:
+  - q: "¿Cuánto cuesta el vuelo en globo en Marrakech?"
+    a: "Unos 90 € por persona, según la temporada. Incluye recogida en el alojamiento, desayunos y seguro."
+  - q: "¿Cuánto dura el vuelo en globo en Marrakech?"
+    a: "El vuelo dura unos 40-50 minutos, pero toda la experiencia lleva entre 4 y 5 horas."
+  - q: "¿A qué hora recogen para el globo en Marrakech?"
+    a: "De madrugada, todavía de noche, para despegar al amanecer."
+  - q: "¿Quién no puede hacer el vuelo en globo?"
+    a: "No se recomienda a embarazadas, personas con mal de altura o con problemas graves de espalda."
 ---
 Empezar el día en total silencio, flotando sobre el desierto mientras sale el sol y la cordillera del Atlas se ilumina al fondo, es de esas experiencias que cuestan de describir con palabras. El vuelo en globo aerostático sobre Marrakech es justamente eso.
 
@@ -37,5 +47,8 @@ Al ser temprano y en globo, conviene llevar ropa cómoda, un abrigo ligero (por 
 Si vas a Marrakech y tienes la oportunidad, esta es una de esas actividades que merece la pena priorizar: silencio absoluto, paisajes que parecen sacados de una película y una forma completamente distinta de ver la cordillera del Atlas y el desierto que rodea la ciudad.
 
 <div class="article__callout article__callout--booking">🎟️ Reserva el vuelo en globo sobre Marrakech con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/UaltnPTK" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
+
+<!--faq-->
+
 
 ¿Te animarías a volar en globo sobre Marrakech? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más experiencias únicas por el mundo, y échale un vistazo al resto del blog para tu próxima aventura.

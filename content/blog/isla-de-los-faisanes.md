@@ -11,6 +11,22 @@ tags:
   - Spots
   - País Vasco
 wide: true
+faqTitulo: "Dudas sobre la Isla de los Faisanes"
+faq:
+  - q: "¿A quién pertenece la Isla de los Faisanes?"
+    a: "A España y Francia: es un condominio. España la administra de febrero a julio y Francia de agosto a enero."
+  - q: "¿Cuántos habitantes tiene la Isla de los Faisanes?"
+    a: "Ninguno. Está deshabitada."
+  - q: "¿Se puede visitar la Isla de los Faisanes?"
+    a: "No por libre. Solo en visitas guiadas excepcionales; se ve desde la orilla del Bidasoa."
+  - q: "¿Por qué es importante la Isla de los Faisanes?"
+    a: "Porque en 1659 se firmó en ella el Tratado de los Pirineos entre España y Francia."
+  - q: "¿Dónde está la Isla de los Faisanes?"
+    a: "En el río Bidasoa, entre Irun (Gipuzkoa) y Hendaya (Francia)."
+  - q: "¿Cuándo es española la Isla de los Faisanes?"
+    a: "De febrero a julio. De agosto a enero es francesa."
+  - q: "¿Desde dónde se ve la Isla de los Faisanes?"
+    a: "Desde la orilla del Bidasoa, en el barrio de Behobia (Irun). No se puede entrar por libre."
 ---
 En el río Bidasoa, entre **Irun** y **Hendaya**, hay una isla diminuta que **cambia de país cada seis meses**: de febrero a julio es española y de agosto a enero, francesa. Es la **Isla de los Faisanes**, el condominio más pequeño del mundo.
 
@@ -41,9 +57,7 @@ Y aquí se firmó la paz entre España y Francia en 1659. Te lo cuento 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira el calendario</b>: si vas de febrero a julio, estás mirando una isla española; de agosto a enero, francesa.</li><li><b>Pregunta por visitas guiadas</b>: las oficinas de turismo de Irun y Hendaya las anuncian alguna vez.</li><li><b>Combínalo con Hondarribia</b>: uno de los pueblos más bonitos de Gipuzkoa.</li><li><b>Cruza a Francia</b>: Hendaya y su playa están al otro lado del puente.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Isla de los Faisanes</h2></div>
-<div class="faq"><details><summary>¿A quién pertenece la Isla de los Faisanes?</summary><p>A España y Francia: es un condominio. España la administra de febrero a julio y Francia de agosto a enero.</p></details><details><summary>¿Cuántos habitantes tiene la Isla de los Faisanes?</summary><p>Ninguno. Está deshabitada.</p></details><details><summary>¿Se puede visitar la Isla de los Faisanes?</summary><p>No por libre. Solo en visitas guiadas excepcionales; se ve desde la orilla del Bidasoa.</p></details><details><summary>¿Por qué es importante la Isla de los Faisanes?</summary><p>Porque en 1659 se firmó en ella el Tratado de los Pirineos entre España y Francia.</p></details><details><summary>¿Dónde está la Isla de los Faisanes?</summary><p>En el río Bidasoa, entre Irun (Gipuzkoa) y Hendaya (Francia).</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿A quién pertenece la Isla de los Faisanes?", "acceptedAnswer": {"@type": "Answer", "text": "A España y Francia: es un condominio. España la administra de febrero a julio y Francia de agosto a enero."}}, {"@type": "Question", "name": "¿Cuántos habitantes tiene la Isla de los Faisanes?", "acceptedAnswer": {"@type": "Answer", "text": "Ninguno. Está deshabitada."}}, {"@type": "Question", "name": "¿Se puede visitar la Isla de los Faisanes?", "acceptedAnswer": {"@type": "Answer", "text": "No por libre. Solo en visitas guiadas excepcionales; se ve desde la orilla del Bidasoa."}}, {"@type": "Question", "name": "¿Por qué es importante la Isla de los Faisanes?", "acceptedAnswer": {"@type": "Answer", "text": "Porque en 1659 se firmó en ella el Tratado de los Pirineos entre España y Francia."}}, {"@type": "Question", "name": "¿Dónde está la Isla de los Faisanes?", "acceptedAnswer": {"@type": "Answer", "text": "En el río Bidasoa, entre Irun (Gipuzkoa) y Hendaya (Francia)."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/hondarribia-que-ver.html"><img src="/assets/img/blog/hondarribia-que-ver/plaza.webp" alt="Hondarribia" loading="lazy" decoding="async" /><span>Hondarribia</span></a></li><li><a href="/blog/guia-monte-igueldo.html"><img src="/assets/img/blog/monte-igueldo/portada-rio-misterioso-cheno.webp" alt="Monte Igueldo" loading="lazy" decoding="async" /><span>Monte Igueldo</span></a></li><li><a href="/blog/selva-de-irati.html"><img src="/assets/img/blog/selva-de-irati/portada.webp" alt="Selva de Irati" loading="lazy" decoding="async" /><span>Selva de Irati</span></a></li></ul>

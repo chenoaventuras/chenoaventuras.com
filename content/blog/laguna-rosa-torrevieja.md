@@ -11,6 +11,18 @@ tags:
   - Spots
   - Comunidad Valenciana
 wide: true
+faqTitulo: "Dudas sobre la Laguna Rosa de Torrevieja"
+faq:
+  - q: "¿Se puede bañar en la Laguna Rosa de Torrevieja?"
+    a: "No. Está prohibido por protección ambiental y por seguridad, con multas de 60 a 600 euros."
+  - q: "¿Por qué la laguna de Torrevieja es rosa?"
+    a: "Por el alga Dunaliella salina y unas bacterias que viven en agua muy salada y producen pigmentos rojizos."
+  - q: "¿Cuándo está más rosa?"
+    a: "Con sol fuerte y en verano, cuando hay más evaporación y más sal."
+  - q: "¿Cuánto cuesta ver la Laguna Rosa?"
+    a: "Nada: se ve gratis desde los caminos del Parque Natural."
+  - q: "¿Dónde ver la Laguna Rosa de Torrevieja?"
+    a: "Desde los caminos del Parque Natural. El punto más conocido está en la zona de las salinas, con un pequeño aparcamiento de tierra."
 ---
 Agua de color **rosa chicle**, montañas de sal blanca y flamencos al fondo. La **Laguna Rosa de Torrevieja** es uno de esos sitios que parecen editados... y no lo están.
 
@@ -41,9 +53,7 @@ Lo primero que todo el mundo pregunta es si se puede bañar. Te lo cuento 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve con sol</b>: los días nublados el rosa se apaga mucho.</li><li><b>Atardecer</b>: la hora dorada da las mejores fotos, con el cielo también rosado.</li><li><b>Ni bañarse ni barro</b>: aunque veas a gente haciéndolo, está prohibido y es peligroso.</li><li><b>Lleva agua y gorra</b>: no hay sombra y en verano el calor aprieta.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Laguna Rosa de Torrevieja</h2></div>
-<div class="faq"><details><summary>¿Se puede bañar en la Laguna Rosa de Torrevieja?</summary><p>No. Está prohibido por protección ambiental y por seguridad, con multas de 60 a 600 euros.</p></details><details><summary>¿Por qué la laguna de Torrevieja es rosa?</summary><p>Por el alga Dunaliella salina y unas bacterias que viven en agua muy salada y producen pigmentos rojizos.</p></details><details><summary>¿Cuándo está más rosa?</summary><p>Con sol fuerte y en verano, cuando hay más evaporación y más sal.</p></details><details><summary>¿Cuánto cuesta ver la Laguna Rosa?</summary><p>Nada: se ve gratis desde los caminos del Parque Natural.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede bañar en la Laguna Rosa de Torrevieja?", "acceptedAnswer": {"@type": "Answer", "text": "No. Está prohibido por protección ambiental y por seguridad, con multas de 60 a 600 euros."}}, {"@type": "Question", "name": "¿Por qué la laguna de Torrevieja es rosa?", "acceptedAnswer": {"@type": "Answer", "text": "Por el alga Dunaliella salina y unas bacterias que viven en agua muy salada y producen pigmentos rojizos."}}, {"@type": "Question", "name": "¿Cuándo está más rosa?", "acceptedAnswer": {"@type": "Answer", "text": "Con sol fuerte y en verano, cuando hay más evaporación y más sal."}}, {"@type": "Question", "name": "¿Cuánto cuesta ver la Laguna Rosa?", "acceptedAnswer": {"@type": "Answer", "text": "Nada: se ve gratis desde los caminos del Parque Natural."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.webp" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Cabo de Palos" loading="lazy" decoding="async" /><span>Cabo de Palos</span></a></li><li><a href="/blog/fuente-del-gorgoton-cieza.html"><img src="/assets/img/instagram/17940241613914417.webp" alt="Cieza" loading="lazy" decoding="async" /><span>Cieza</span></a></li></ul>

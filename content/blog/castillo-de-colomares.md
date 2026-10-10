@@ -11,6 +11,20 @@ tags:
   - Spots
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre el Castillo de Colomares"
+faq:
+  - q: "¿Cuánto cuesta entrar al Castillo de Colomares?"
+    a: "La entrada cuesta pocos euros. Consulta el precio actual antes de ir."
+  - q: "¿Se rodó Juego de Tronos en el Castillo de Colomares?"
+    a: "No. Aunque mucha gente lo busca, la serie no se grabó aquí. En Andalucía se rodó en el Alcázar de Sevilla, Osuna o la Alcazaba de Almería."
+  - q: "¿Quién construyó el Castillo de Colomares?"
+    a: "El médico Esteban Martín y Martín, con dos albañiles, entre 1987 y 1994."
+  - q: "¿Dónde está la iglesia más pequeña del mundo?"
+    a: "Dentro del Castillo de Colomares, en Benalmádena: una capilla de menos de 2 m²."
+  - q: "¿Cómo llegar al Castillo de Colomares desde Málaga?"
+    a: "Está en una colina de Benalmádena, a unos 20 km de Málaga. Lo más cómodo es ir en coche."
+  - q: "¿Cuánto se tarda en visitar el Castillo de Colomares?"
+    a: "Unos 45 minutos."
 ---
 Románico, gótico, mudéjar y bizantino, todo mezclado en el mismo edificio. El **Castillo de Colomares**, en Benalmádena, es un monumento a **Cristóbal Colón** que levantaron a mano un médico y dos albañiles. Y dentro tiene la que dicen que es **la iglesia más pequeña del mundo**.
 
@@ -39,9 +53,7 @@ Te cuento su historia y cómo visitarlo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Consulta el horario</b>: abre en franjas que cambian con la temporada.</li><li><b>Lleva efectivo</b>: por si acaso en taquilla.</li><li><b>Sube a la Estupa</b>: y termina en Benalmádena Pueblo, blanco y con vistas.</li><li><b>Al atardecer</b>: desde la colina se ve la Costa del Sol entera.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Castillo de Colomares</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar al Castillo de Colomares?</summary><p>La entrada cuesta pocos euros. Consulta el precio actual antes de ir.</p></details><details><summary>¿Se rodó Juego de Tronos en el Castillo de Colomares?</summary><p>No. Aunque mucha gente lo busca, la serie no se grabó aquí. En Andalucía se rodó en el Alcázar de Sevilla, Osuna o la Alcazaba de Almería.</p></details><details><summary>¿Quién construyó el Castillo de Colomares?</summary><p>El médico Esteban Martín y Martín, con dos albañiles, entre 1987 y 1994.</p></details><details><summary>¿Dónde está la iglesia más pequeña del mundo?</summary><p>Dentro del Castillo de Colomares, en Benalmádena: una capilla de menos de 2 m².</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar al Castillo de Colomares?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada cuesta pocos euros. Consulta el precio actual antes de ir."}}, {"@type": "Question", "name": "¿Se rodó Juego de Tronos en el Castillo de Colomares?", "acceptedAnswer": {"@type": "Answer", "text": "No. Aunque mucha gente lo busca, la serie no se grabó aquí. En Andalucía se rodó en el Alcázar de Sevilla, Osuna o la Alcazaba de Almería."}}, {"@type": "Question", "name": "¿Quién construyó el Castillo de Colomares?", "acceptedAnswer": {"@type": "Answer", "text": "El médico Esteban Martín y Martín, con dos albañiles, entre 1987 y 1994."}}, {"@type": "Question", "name": "¿Dónde está la iglesia más pequeña del mundo?", "acceptedAnswer": {"@type": "Answer", "text": "Dentro del Castillo de Colomares, en Benalmádena: una capilla de menos de 2 m²."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li><li><a href="/blog/frigiliana-que-ver.html"><img src="/assets/img/blog/frigiliana-que-ver/portada.webp" alt="Frigiliana" loading="lazy" decoding="async" /><span>Frigiliana</span></a></li></ul>

@@ -11,6 +11,15 @@ tags:
   - Spots
   - Aragón
 wide: true
+faq:
+  - q: "¿Está abierto San Juan de la Peña?"
+    a: "Tras el incendio de Las Peñas de Riglos de agosto de 2026, el conjunto y la carretera de acceso se cerraron hasta nuevo aviso. Comprueba si ha reabierto en la web de Turismo de Aragón antes de ir."
+  - q: "¿Está el Santo Grial en San Juan de la Peña?"
+    a: "No. Según la tradición se guardó allí durante la Edad Media, pero desde el siglo XV está en la catedral de Valencia. En el monasterio hay una réplica."
+  - q: "¿Qué diferencia hay entre el Monasterio Viejo y el Nuevo?"
+    a: "El Viejo es el románico construido bajo la roca. El Nuevo es barroco, del siglo XVII, y está en la pradera de arriba, a 1,5 km."
+  - q: "¿Qué reyes están enterrados en San Juan de la Peña?"
+    a: "En su Panteón Real reposaban los primeros reyes de Aragón, como Ramiro I, Sancho Ramírez y Pedro I. En agosto de 2026 los restos se trasladaron al Museo de Huesca como precaución por el incendio."
 ---
 Imagina un monasterio románico metido debajo de una roca gigante, como si la montaña lo protegiera con la mano. Así es **San Juan de la Peña**, cuna del reino de Aragón, panteón de sus primeros reyes y, según la tradición, el lugar donde se guardó durante siglos el **Santo Grial**.
 
@@ -43,9 +52,7 @@ Pocos sitios de España juntan tanta leyenda en tan poco espacio 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Comprueba que está abierto</b>: tras el incendio de 2026, mira la web de Turismo de Aragón o llama antes de ir.</li><li><b>Sube andando desde Santa Cruz de la Serós</b>: el camino de los monjes es la forma más bonita de llegar.</li><li><b>Combínalo con Jaca y Canfranc</b>: en un solo día ves la ciudadela, la estación y el monasterio.</li><li><b>Fíjate en los capiteles</b>: cada uno cuenta una historia: Adán y Eva, la Última Cena…</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre San Juan de la Peña</h2></div>
-<div class="faq"><details><summary>¿Está abierto San Juan de la Peña?</summary><p>Tras el incendio de Las Peñas de Riglos de agosto de 2026, el conjunto y la carretera de acceso se cerraron hasta nuevo aviso. Comprueba si ha reabierto en la web de Turismo de Aragón antes de ir.</p></details><details><summary>¿Está el Santo Grial en San Juan de la Peña?</summary><p>No. Según la tradición se guardó allí durante la Edad Media, pero desde el siglo XV está en la catedral de Valencia. En el monasterio hay una réplica.</p></details><details><summary>¿Qué diferencia hay entre el Monasterio Viejo y el Nuevo?</summary><p>El Viejo es el románico construido bajo la roca. El Nuevo es barroco, del siglo XVII, y está en la pradera de arriba, a 1,5 km.</p></details><details><summary>¿Qué reyes están enterrados en San Juan de la Peña?</summary><p>En su Panteón Real reposaban los primeros reyes de Aragón, como Ramiro I, Sancho Ramírez y Pedro I. En agosto de 2026 los restos se trasladaron al Museo de Huesca como precaución por el incendio.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Está abierto San Juan de la Peña?", "acceptedAnswer": {"@type": "Answer", "text": "Tras el incendio de Las Peñas de Riglos de agosto de 2026, el conjunto y la carretera de acceso se cerraron hasta nuevo aviso. Comprueba si ha reabierto en la web de Turismo de Aragón antes de ir."}}, {"@type": "Question", "name": "¿Está el Santo Grial en San Juan de la Peña?", "acceptedAnswer": {"@type": "Answer", "text": "No. Según la tradición se guardó allí durante la Edad Media, pero desde el siglo XV está en la catedral de Valencia. En el monasterio hay una réplica."}}, {"@type": "Question", "name": "¿Qué diferencia hay entre el Monasterio Viejo y el Nuevo?", "acceptedAnswer": {"@type": "Answer", "text": "El Viejo es el románico construido bajo la roca. El Nuevo es barroco, del siglo XVII, y está en la pradera de arriba, a 1,5 km."}}, {"@type": "Question", "name": "¿Qué reyes están enterrados en San Juan de la Peña?", "acceptedAnswer": {"@type": "Answer", "text": "En su Panteón Real reposaban los primeros reyes de Aragón, como Ramiro I, Sancho Ramírez y Pedro I. En agosto de 2026 los restos se trasladaron al Museo de Huesca como precaución por el incendio."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el Pirineo</h2></div>
 <ul class="nearby"><li><a href="/blog/estacion-de-canfranc.html"><img src="/assets/img/instagram/18060356315252624.webp" alt="Estación de Canfranc" loading="lazy" decoding="async" /><span>Estación de Canfranc</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Pirineo Aragonés" loading="lazy" decoding="async" /><span>Pirineo Aragonés</span></a></li><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Aínsa" loading="lazy" decoding="async" /><span>Aínsa</span></a></li></ul>

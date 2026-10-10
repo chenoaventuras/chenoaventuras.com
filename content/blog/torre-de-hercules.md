@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Galicia
 wide: true
+faqTitulo: "Dudas sobre la Torre de Hércules"
+faq:
+  - q: "¿Por qué es famosa la Torre de Hércules?"
+    a: "Porque es el único faro romano del mundo que sigue funcionando y el más antiguo en uso. Es Patrimonio de la Humanidad desde 2009."
+  - q: "¿Se puede subir a la Torre de Hércules?"
+    a: "Sí, hay una escalera interior de más de 200 escalones hasta una terraza con vistas. La entrada es de pago."
+  - q: "¿Cuánto mide la Torre de Hércules?"
+    a: "Unos 55 metros de altura, sobre una colina que la deja a más de 100 metros sobre el mar."
+  - q: "¿De qué época es?"
+    a: "De finales del siglo I o principios del II, de época romana. El exterior es de una restauración del siglo XVIII."
+  - q: "¿Cómo llegar a la Torre de Hércules?"
+    a: "Desde el centro de A Coruña, andando por el paseo marítimo (30-40 minutos) o en autobús urbano. En coche hay aparcamiento alrededor del parque, que se llena en verano."
 ---
 Lleva casi **2.000 años** avisando a los barcos. La **Torre de Hércules**, en A Coruña, es el **único faro romano del mundo que sigue funcionando**, y el más antiguo en uso. Es Patrimonio de la Humanidad desde 2009.
 
@@ -39,9 +51,7 @@ Te cuento por qué se llama así, qué queda de la torre romana y cómo subir ha
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve al atardecer</b>: el sol se pone detrás de la torre y de los Menhires.</li><li><b>Lleva chaqueta</b>: arriba sopla mucho el viento, incluso en verano.</li><li><b>Mira bien los muros por dentro</b>: las piedras de la parte romana se distinguen de las del siglo XVIII.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Torre de Hércules</h2></div>
-<div class="faq"><details><summary>¿Por qué es famosa la Torre de Hércules?</summary><p>Porque es el único faro romano del mundo que sigue funcionando y el más antiguo en uso. Es Patrimonio de la Humanidad desde 2009.</p></details><details><summary>¿Se puede subir a la Torre de Hércules?</summary><p>Sí, hay una escalera interior de más de 200 escalones hasta una terraza con vistas. La entrada es de pago.</p></details><details><summary>¿Cuánto mide la Torre de Hércules?</summary><p>Unos 55 metros de altura, sobre una colina que la deja a más de 100 metros sobre el mar.</p></details><details><summary>¿De qué época es?</summary><p>De finales del siglo I o principios del II, de época romana. El exterior es de una restauración del siglo XVIII.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué es famosa la Torre de Hércules?", "acceptedAnswer": {"@type": "Answer", "text": "Porque es el único faro romano del mundo que sigue funcionando y el más antiguo en uso. Es Patrimonio de la Humanidad desde 2009."}}, {"@type": "Question", "name": "¿Se puede subir a la Torre de Hércules?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, hay una escalera interior de más de 200 escalones hasta una terraza con vistas. La entrada es de pago."}}, {"@type": "Question", "name": "¿Cuánto mide la Torre de Hércules?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 55 metros de altura, sobre una colina que la deja a más de 100 metros sobre el mar."}}, {"@type": "Question", "name": "¿De qué época es?", "acceptedAnswer": {"@type": "Answer", "text": "De finales del siglo I o principios del II, de época romana. El exterior es de una restauración del siglo XVIII."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/fervenza-do-ezaro.html"><img src="/assets/img/blog/fervenza-do-ezaro/portada.webp" alt="Fervenza do Ézaro" loading="lazy" decoding="async" /><span>Fervenza do Ézaro</span></a></li><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li><li><a href="/blog/canon-del-sil.html"><img src="/assets/img/blog/canon-del-sil/portada.webp" alt="Cañón del Sil" loading="lazy" decoding="async" /><span>Cañón del Sil</span></a></li></ul>

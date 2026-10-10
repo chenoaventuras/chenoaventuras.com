@@ -11,6 +11,19 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+faq:
+  - q: "¿Se puede pasear por la muralla de Ciudad Rodrigo?"
+    a: "Sí, el adarve de la muralla, de unos 2 km, se puede recorrer casi entero y gratis."
+  - q: "¿Por qué la catedral de Ciudad Rodrigo tiene marcas de disparos?"
+    a: "Son impactos de los cañones durante los asedios de la Guerra de la Independencia, en 1810 y 1812."
+  - q: "¿Cuándo es el Carnaval del Toro?"
+    a: "En febrero, coincidiendo con el Carnaval. Es Fiesta de Interés Turístico Internacional."
+  - q: "¿Qué ver cerca de Ciudad Rodrigo?"
+    a: "La Sierra de Francia con La Alberca y Mogarraz, y los pueblos fronterizos con Portugal."
+  - q: "¿A cuánto está Ciudad Rodrigo de Salamanca?"
+    a: "A una hora por la A-62, y a menos de media hora de Portugal."
+  - q: "¿Cuánto se tarda en ver Ciudad Rodrigo?"
+    a: "Medio día para la muralla, la catedral y la Plaza Mayor. Un día si entras en museos y paseas junto al río Águeda."
 ---
 Una ciudad entera rodeada de murallas por las que puedes **pasear por arriba**, una catedral que todavía lleva **marcas de cañonazos** de la Guerra de la Independencia y un castillo junto al río donde se puede dormir. **Ciudad Rodrigo** es una joya escondida en la frontera con Portugal.
 
@@ -41,9 +54,7 @@ Te cuento qué ver y por qué su carnaval es de los más especiales de España �
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Haz la muralla al atardecer</b>: la luz sobre la piedra dorada es preciosa.</li><li><b>Ven en Carnaval</b>: aunque no te gusten los toros, el ambiente de la ciudad es único.</li><li><b>Pasea junto al Águeda</b>: el puente romano y la ribera son ideales para un paseo.</li><li><b>Combínalo con La Alberca y Las Batuecas</b>: la sierra está a menos de una hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Ciudad Rodrigo</h2></div>
-<div class="faq"><details><summary>¿Se puede pasear por la muralla de Ciudad Rodrigo?</summary><p>Sí, el adarve de la muralla, de unos 2 km, se puede recorrer casi entero y gratis.</p></details><details><summary>¿Por qué la catedral de Ciudad Rodrigo tiene marcas de disparos?</summary><p>Son impactos de los cañones durante los asedios de la Guerra de la Independencia, en 1810 y 1812.</p></details><details><summary>¿Cuándo es el Carnaval del Toro?</summary><p>En febrero, coincidiendo con el Carnaval. Es Fiesta de Interés Turístico Internacional.</p></details><details><summary>¿Qué ver cerca de Ciudad Rodrigo?</summary><p>La Sierra de Francia con La Alberca y Mogarraz, y los pueblos fronterizos con Portugal.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede pasear por la muralla de Ciudad Rodrigo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, el adarve de la muralla, de unos 2 km, se puede recorrer casi entero y gratis."}}, {"@type": "Question", "name": "¿Por qué la catedral de Ciudad Rodrigo tiene marcas de disparos?", "acceptedAnswer": {"@type": "Answer", "text": "Son impactos de los cañones durante los asedios de la Guerra de la Independencia, en 1810 y 1812."}}, {"@type": "Question", "name": "¿Cuándo es el Carnaval del Toro?", "acceptedAnswer": {"@type": "Answer", "text": "En febrero, coincidiendo con el Carnaval. Es Fiesta de Interés Turístico Internacional."}}, {"@type": "Question", "name": "¿Qué ver cerca de Ciudad Rodrigo?", "acceptedAnswer": {"@type": "Answer", "text": "La Sierra de Francia con La Alberca y Mogarraz, y los pueblos fronterizos con Portugal."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Castilla y León</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/astorga-que-ver.html"><img src="/assets/img/blog/astorga-que-ver/portada.webp" alt="Astorga" loading="lazy" decoding="async" /><span>Astorga</span></a></li><li><a href="/blog/puebla-de-sanabria.html"><img src="/assets/img/blog/puebla-de-sanabria/portada.webp" alt="Lago de Sanabria" loading="lazy" decoding="async" /><span>Lago de Sanabria</span></a></li><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li></ul>

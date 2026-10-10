@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre Fresnedillas y la NASA"
+faq:
+  - q: "¿Participó España en la llegada a la Luna?"
+    a: "Sí, la estación de seguimiento de Fresnedillas de la Oliva (Madrid) dio apoyo a las misiones Apolo, incluido el Apolo 11."
+  - q: "¿Se puede visitar la estación?"
+    a: "La antigua estación no, pero sí el centro de visitantes del complejo de la NASA en Robledo de Chavela."
+  - q: "¿Hay una roca lunar en Madrid?"
+    a: "Sí, en el centro de visitantes de Robledo de Chavela hay una roca del Apolo 15."
+  - q: "¿Dónde está Fresnedillas?"
+    a: "En el oeste de la Comunidad de Madrid, a unos 50 km de la capital."
+  - q: "¿Cómo llegar a Fresnedillas de la Oliva desde Madrid?"
+    a: "En coche: está en el oeste de la Comunidad de Madrid, a unos 50 km de la capital, cerca de Robledo de Chavela."
 ---
 En julio de 1969, mientras el mundo miraba la Luna, unas antenas en un pueblo de la sierra de Madrid estaban trabajando. Junto a **Fresnedillas de la Oliva** funcionaba una **estación de seguimiento de la NASA** que ayudó a comunicar con las misiones **Apolo**.
 
@@ -39,9 +51,7 @@ Te cuento su historia y qué se puede visitar hoy 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Consulta el horario</b>: del centro de visitantes de Robledo antes de ir.</li><li><b>Noche de estrellas</b>: la zona tiene buen cielo para observar.</li><li><b>San Lorenzo de El Escorial</b>: está a media hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Fresnedillas y la NASA</h2></div>
-<div class="faq"><details><summary>¿Participó España en la llegada a la Luna?</summary><p>Sí, la estación de seguimiento de Fresnedillas de la Oliva (Madrid) dio apoyo a las misiones Apolo, incluido el Apolo 11.</p></details><details><summary>¿Se puede visitar la estación?</summary><p>La antigua estación no, pero sí el centro de visitantes del complejo de la NASA en Robledo de Chavela.</p></details><details><summary>¿Hay una roca lunar en Madrid?</summary><p>Sí, en el centro de visitantes de Robledo de Chavela hay una roca del Apolo 15.</p></details><details><summary>¿Dónde está Fresnedillas?</summary><p>En el oeste de la Comunidad de Madrid, a unos 50 km de la capital.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Participó España en la llegada a la Luna?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la estación de seguimiento de Fresnedillas de la Oliva (Madrid) dio apoyo a las misiones Apolo, incluido el Apolo 11."}}, {"@type": "Question", "name": "¿Se puede visitar la estación?", "acceptedAnswer": {"@type": "Answer", "text": "La antigua estación no, pero sí el centro de visitantes del complejo de la NASA en Robledo de Chavela."}}, {"@type": "Question", "name": "¿Hay una roca lunar en Madrid?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, en el centro de visitantes de Robledo de Chavela hay una roca del Apolo 15."}}, {"@type": "Question", "name": "¿Dónde está Fresnedillas?", "acceptedAnswer": {"@type": "Answer", "text": "En el oeste de la Comunidad de Madrid, a unos 50 km de la capital."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/torre-de-cristal-madrid.html"><img src="/assets/img/blog/torre-de-cristal-madrid/cuatro.webp" alt="Torre de Cristal" loading="lazy" decoding="async" /><span>Torre de Cristal</span></a></li><li><a href="/blog/sobrino-de-botin.html"><img src="/assets/img/blog/sobrino-de-botin/interior.webp" alt="Sobrino de Botín" loading="lazy" decoding="async" /><span>Sobrino de Botín</span></a></li><li><a href="/blog/templo-de-debod.html"><img src="/assets/img/blog/templo-de-debod/portada.webp" alt="Templo de Debod" loading="lazy" decoding="async" /><span>Templo de Debod</span></a></li></ul>

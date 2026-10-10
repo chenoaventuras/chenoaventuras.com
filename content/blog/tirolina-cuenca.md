@@ -11,6 +11,18 @@ tags:
   - Actividades
   - Castilla-La Mancha
 igPermalink: 'https://www.instagram.com/reel/DQXf5ldjME1/'
+faqTitulo: "Dudas sobre la tirolina de Cuenca"
+faq:
+  - q: "¿Cuánto cuesta la tirolina de Cuenca?"
+    a: "Desde 28 € por persona."
+  - q: "¿Cuánto mide la tirolina de Cuenca?"
+    a: "445 metros sobre la Hoz del Huécar, a unos 70 km/h y con las Casas Colgadas de fondo. Es la tirolina urbana doble más larga de Europa."
+  - q: "¿Dónde está la tirolina de Cuenca?"
+    a: "Cruza la Hoz del Huécar desde el barrio del Castillo hacia el Parador, junto al Puente de San Pablo."
+  - q: "¿Cuánto dura la tirolina de Cuenca?"
+    a: "El vuelo dura segundos, pero con la charla de seguridad y la espera cuenta 30-45 minutos en total."
+  - q: "¿Hay límite de peso en la tirolina de Cuenca?"
+    a: "Sí, hay que pesar entre 35 y 120 kg."
 ---
 Pocas tirolinas del mundo tienen un decorado como este: la Hoz del Huécar por debajo y las Casas Colgadas de Cuenca asomando al fondo, como telón de fondo de un vuelo de pocos segundos que se recuerda mucho más tiempo.
 
@@ -37,5 +49,8 @@ Aprovechando la visita, merece la pena recorrer las **Casas Colgadas**, el Puent
 La tirolina se encuentra en el entorno del Puente de San Pablo, en pleno casco histórico de Cuenca. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puente%20de%20San%20Pablo%2C%20Cuenca).
 
 <div class="article__callout article__callout--booking">🎟️ Reserva la tirolina de Cuenca en Civitatis: <a class="btn" href="https://www.civitatis.com/es/cuenca/tirolina-cuenca/?aid=110968" target="_blank" rel="noopener">Reservar en Civitatis</a></div>
+
+<!--faq-->
+
 
 ¿Te animarías a volar en tirolina sobre la Hoz del Huécar? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

@@ -14,6 +14,18 @@ tags:
 guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
 guiaTitulo: 'Guía de Cuenca en PDF'
 wide: true
+faqTitulo: "Dudas sobre el Ventano del Diablo"
+faq:
+  - q: "¿Dónde está el Ventano del Diablo?"
+    a: "En la carretera CM-2105, en el término de Villalba de la Sierra, entre Cuenca y la Ciudad Encantada, a unos 20 minutos de la capital."
+  - q: "¿Cuánto cuesta visitar el Ventano del Diablo?"
+    a: "Nada, es gratis y de acceso libre."
+  - q: "¿Hay que andar mucho para llegar al Ventano del Diablo?"
+    a: "No, desde el aparcamiento junto a la carretera son unos 150 metros, apenas 2 minutos a pie."
+  - q: "¿Por qué se llama Ventano del Diablo?"
+    a: "Según la leyenda, el diablo aparecía en la cueva durante las sesiones de brujería para empujar al vacío a quien se asomaba por sus ventanas."
+  - q: "¿Qué altura tiene el Ventano del Diablo?"
+    a: "Sus aberturas se asoman a casi 200 metros de altura sobre el río Júcar."
 ---
 Una cueva en la roca con dos enormes ventanas que se asoman al vacío, y abajo, a casi 200 metros, el río Júcar serpenteando entre pinares: así es el **mirador del Ventano del Diablo**, uno de los balcones naturales más espectaculares de la **Serranía de Cuenca**.
 
@@ -46,9 +58,7 @@ Lo mejor: está junto a la carretera, a 20 minutos de Cuenca, y se llega en 2 mi
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Madruga el finde</b> — el aparcamiento es pequeño y se llena rápido los fines de semana.</li><li><b>Al atardecer</b> — la roca se tiñe de naranja y la luz sobre el cañón es preciosa.</li><li><b>Con niños, de la mano</b> — hay barandillas, pero el desnivel impone.</li><li><b>Haz la ruta completa</b> — Ventano, Ciudad Encantada y Laguna de Uña están en la misma carretera.</li></ul><p>Si te va la adrenalina, mira la vía ferrata desde arriba… y luego atrévete a hacerla 😉</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Ventano del Diablo</h2></div>
-<div class="faq"><details><summary>¿Dónde está el Ventano del Diablo?</summary><p>En la carretera CM-2105, en el término de Villalba de la Sierra, entre Cuenca y la Ciudad Encantada, a unos 20 minutos de la capital.</p></details><details><summary>¿Cuánto cuesta visitar el Ventano del Diablo?</summary><p>Nada, es gratis y de acceso libre.</p></details><details><summary>¿Hay que andar mucho para llegar al Ventano del Diablo?</summary><p>No, desde el aparcamiento junto a la carretera son unos 150 metros, apenas 2 minutos a pie.</p></details><details><summary>¿Por qué se llama Ventano del Diablo?</summary><p>Según la leyenda, el diablo aparecía en la cueva durante las sesiones de brujería para empujar al vacío a quien se asomaba por sus ventanas.</p></details><details><summary>¿Qué altura tiene el Ventano del Diablo?</summary><p>Sus aberturas se asoman a casi 200 metros de altura sobre el río Júcar.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde está el Ventano del Diablo?", "acceptedAnswer": {"@type": "Answer", "text": "En la carretera CM-2105, en el término de Villalba de la Sierra, entre Cuenca y la Ciudad Encantada, a unos 20 minutos de la capital."}}, {"@type": "Question", "name": "¿Cuánto cuesta visitar el Ventano del Diablo?", "acceptedAnswer": {"@type": "Answer", "text": "Nada, es gratis y de acceso libre."}}, {"@type": "Question", "name": "¿Hay que andar mucho para llegar al Ventano del Diablo?", "acceptedAnswer": {"@type": "Answer", "text": "No, desde el aparcamiento junto a la carretera son unos 150 metros, apenas 2 minutos a pie."}}, {"@type": "Question", "name": "¿Por qué se llama Ventano del Diablo?", "acceptedAnswer": {"@type": "Answer", "text": "Según la leyenda, el diablo aparecía en la cueva durante las sesiones de brujería para empujar al vacío a quien se asomaba por sus ventanas."}}, {"@type": "Question", "name": "¿Qué altura tiene el Ventano del Diablo?", "acceptedAnswer": {"@type": "Answer", "text": "Sus aberturas se asoman a casi 200 metros de altura sobre el río Júcar."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando la Serranía</h2></div>
 <ul class="nearby"><li><a href="/blog/via-ferrata-ventano-del-diablo.html"><img src="/assets/img/instagram/18046706486419072.webp" alt="Vía ferrata del Ventano del Diablo" loading="lazy" decoding="async" /><span>Vía ferrata del Ventano del Diablo</span></a></li><li><a href="/blog/ciudad-encantada-cuenca.html"><img src="/assets/img/blog/cuenca/ciudad-encantada.webp" alt="Ciudad Encantada" loading="lazy" decoding="async" /><span>Ciudad Encantada</span></a></li><li><a href="/blog/laguna-de-una-cuenca.html"><img src="/assets/img/blog/cuenca/una-laguna.webp" alt="Laguna de Uña" loading="lazy" decoding="async" /><span>Laguna de Uña</span></a></li><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/blog/cuenca/casas-colgadas.webp" alt="Mi guía completa de Cuenca" loading="lazy" decoding="async" /><span>Mi guía completa de Cuenca</span></a></li></ul>

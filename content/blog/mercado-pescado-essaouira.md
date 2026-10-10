@@ -11,6 +11,16 @@ cover: /assets/img/instagram/17941957854103087.webp
 tags:
   - Spots
 igPermalink: 'https://www.instagram.com/reel/DUESvStDHi5/'
+faqTitulo: "Dudas sobre el puerto de Essaouira"
+faq:
+  - q: "¿A cuánto está Essaouira de Marrakech?"
+    a: "A unos 190 km, unas dos horas y media en coche."
+  - q: "¿A qué hora es mejor ver el mercado de pescado de Essaouira?"
+    a: "A primera hora de la mañana, cuando llegan las barcas cargadas y empiezan las subastas."
+  - q: "¿Dónde comer pescado en Essaouira?"
+    a: "En los puestos que rodean el puerto: compras el pescado fresco en el mercado y te lo cocinan al momento."
+  - q: "¿Qué llevar al puerto de Essaouira?"
+    a: "Calzado que no resbale: el suelo suele estar mojado. Y prepárate para un olor a pescado intenso."
 ---
 No es un decorado para turistas, es trabajo puro cada mañana desde hace décadas. El mercado de pescado del puerto de Essaouira, en Marruecos, funciona igual que siempre: las barcas llegan, el pescado se sube a las mesas y empieza la subasta, sin filtros ni artificios.
 
@@ -36,8 +46,11 @@ Si te gusta la fotografía callejera, pocos lugares dan tanto juego como este: g
 
 ## Cómo llegar a Essaouira
 
-Essaouira se encuentra en la costa atlántica de Marruecos, a poco más de dos horas en coche desde Marrakech. Puedes consultar la ubicación del puerto en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20de%20Essaouira%2C%20Marruecos).
+Essaouira se encuentra en la costa atlántica de Marruecos, a unos 190 km de Marrakech, unas dos horas y media en coche. Puedes consultar la ubicación del puerto en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20de%20Essaouira%2C%20Marruecos).
 
 Más planes en Marruecos: las [Cascadas de Ouzoud](/blog/cascadas-de-ouzoud.html) y el [vuelo en globo sobre Marrakech](/blog/vuelo-globo-marrakech.html) al amanecer.
+
+<!--faq-->
+
 
 ¿Te animarías a visitar el mercado de pescado de Essaouira? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones auténticos, y échale un vistazo al resto del blog para tu próxima aventura.

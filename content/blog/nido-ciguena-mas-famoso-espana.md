@@ -9,6 +9,16 @@ tags:
   - Curiosidades
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DXcVzdDDLIK/'
+faqTitulo: "Dudas sobre el nido de cigüeña"
+faq:
+  - q: "¿Dónde está el nido de cigüeña más grande de España?"
+    a: "En la provincia de Burgos. Su ubicación exacta no se hace pública para que los curiosos no molesten a las cigüeñas."
+  - q: "¿Cuánto pesa el nido de cigüeña más famoso de España?"
+    a: "Alrededor de una tonelada, y mide cerca de 2 metros de altura."
+  - q: "¿Por qué lo llaman la Torre de Pisa burgalesa?"
+    a: "Porque con tanto peso se ha inclinado muchísimo. Ha habido que reforzarlo con cemento y un cable para que no se caiga."
+  - q: "¿Se puede quitar un nido de cigüeña?"
+    a: "No por tu cuenta: la cigüeña blanca es una especie protegida y retirar o mover un nido necesita autorización de la administración ambiental."
 ---
 Hay nidos de cigüeña por toda España, pero solo hay uno al que se le conoce ya como la "Torre de Pisa" de los nidos. Está en Burgos, pesa casi una tonelada y lleva temporada tras temporada desafiando la gravedad.
 
@@ -29,5 +39,8 @@ A diferencia de otros lugares curiosos que suelen compartirse con su ubicación 
 ## Una lección de naturaleza y resistencia
 
 Más allá de la curiosidad de su tamaño e inclinación, este nido es también un ejemplo de resistencia animal: generación tras generación de cigüeñas han seguido ampliándolo y reutilizándolo, transformándolo poco a poco en el icono que es hoy, capaz de sorprender a cualquiera que se cruce con él, aunque sea solo en una fotografía.
+
+<!--faq-->
+
 
 ¿Conocías este nido o te has enterado ahora de su existencia? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades de la naturaleza en España, y échale un vistazo al resto del blog para descubrir más rincones sorprendentes.

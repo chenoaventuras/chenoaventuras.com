@@ -11,6 +11,17 @@ tags:
   - Spots
   - Melilla
 wide: true
+faq:
+  - q: "¿Qué ver en Melilla?"
+    a: "Melilla la Vieja y sus recintos fortificados, las Cuevas del Conventico, la plaza de España y la ruta de edificios modernistas de Enrique Nieto."
+  - q: "¿Cómo se llega a Melilla?"
+    a: "En avión desde Málaga, Madrid y otras ciudades, o en ferry desde Málaga, Almería o Motril."
+  - q: "¿Hace falta pasaporte para ir a Melilla?"
+    a: "No, desde la península basta con el DNI. El pasaporte solo es necesario para cruzar a Marruecos."
+  - q: "¿Por qué hay tanto modernismo en Melilla?"
+    a: "Porque la ciudad creció a principios del siglo XX, cuando el arquitecto Enrique Nieto, que había trabajado con Gaudí, diseñó muchos de sus edificios."
+  - q: "¿Se puede ir a Melilla en coche?"
+    a: "Sí, en el ferry desde Málaga, Almería o Motril puedes llevar el coche."
 ---
 Una ciudadela amurallada encaramada a un acantilado sobre el Mediterráneo, túneles excavados en la roca que llegan hasta el mar y, a pocos pasos, calles llenas de fachadas **modernistas** de colores. **Melilla** es una de las ciudades más sorprendentes y desconocidas de España.
 
@@ -41,9 +52,7 @@ Te cuento qué ver en una escapada 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Haz la ruta modernista con un plano</b>: la Oficina de Turismo tiene itinerarios marcados.</li><li><b>Baja a las Cuevas del Conventico</b>: la visita más aventurera de la ciudad.</li><li><b>Atardecer desde las murallas</b>: con el mar y el puerto a tus pies.</li><li><b>Prueba la gastronomía local</b>: con influencias de las distintas culturas de la ciudad.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Melilla</h2></div>
-<div class="faq"><details><summary>¿Qué ver en Melilla?</summary><p>Melilla la Vieja y sus recintos fortificados, las Cuevas del Conventico, la plaza de España y la ruta de edificios modernistas de Enrique Nieto.</p></details><details><summary>¿Cómo se llega a Melilla?</summary><p>En avión desde Málaga, Madrid y otras ciudades, o en ferry desde Málaga, Almería o Motril.</p></details><details><summary>¿Hace falta pasaporte para ir a Melilla?</summary><p>No, desde la península basta con el DNI. El pasaporte solo es necesario para cruzar a Marruecos.</p></details><details><summary>¿Por qué hay tanto modernismo en Melilla?</summary><p>Porque la ciudad creció a principios del siglo XX, cuando el arquitecto Enrique Nieto, que había trabajado con Gaudí, diseñó muchos de sus edificios.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en Melilla?", "acceptedAnswer": {"@type": "Answer", "text": "Melilla la Vieja y sus recintos fortificados, las Cuevas del Conventico, la plaza de España y la ruta de edificios modernistas de Enrique Nieto."}}, {"@type": "Question", "name": "¿Cómo se llega a Melilla?", "acceptedAnswer": {"@type": "Answer", "text": "En avión desde Málaga, Madrid y otras ciudades, o en ferry desde Málaga, Almería o Motril."}}, {"@type": "Question", "name": "¿Hace falta pasaporte para ir a Melilla?", "acceptedAnswer": {"@type": "Answer", "text": "No, desde la península basta con el DNI. El pasaporte solo es necesario para cruzar a Marruecos."}}, {"@type": "Question", "name": "¿Por qué hay tanto modernismo en Melilla?", "acceptedAnswer": {"@type": "Answer", "text": "Porque la ciudad creció a principios del siglo XX, cuando el arquitecto Enrique Nieto, que había trabajado con Gaudí, diseñó muchos de sus edificios."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Más ciudades con historia</h2></div>
 <ul class="nearby"><li><a href="/blog/ceuta-que-ver.html"><img src="/assets/img/blog/ceuta-que-ver/portada.webp" alt="Ceuta" loading="lazy" decoding="async" /><span>Ceuta</span></a></li><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/peniscola-que-ver.html"><img src="/assets/img/blog/peniscola-que-ver/portada.webp" alt="Peñíscola" loading="lazy" decoding="async" /><span>Peñíscola</span></a></li></ul>

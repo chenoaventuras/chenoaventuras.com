@@ -11,6 +11,17 @@ tags:
   - Actividades
   - Extremadura
 wide: true
+faq:
+  - q: "¿Cuánto se tarda en llegar a Los Pilones?"
+    a: "Desde el Centro de Interpretación son unos 3 km por un camino fácil, unos 45 minutos a 1 hora de ida."
+  - q: "¿Se puede bañar en Los Pilones?"
+    a: "Es una zona de baño muy popular en verano. Ten cuidado con la roca resbaladiza y con el caudal, sobre todo en primavera."
+  - q: "¿Cuándo florecen los cerezos del Jerte?"
+    a: "Normalmente entre finales de marzo y principios de abril, según el tiempo de cada año."
+  - q: "¿Hay que pagar para ir a Los Pilones?"
+    a: "No, la ruta es gratuita y el aparcamiento junto al Centro de Interpretación también."
+  - q: "¿Dónde empieza la ruta de Los Pilones?"
+    a: "En el Centro de Interpretación de la Garganta de los Infiernos, junto al pueblo de Jerte (Cáceres). Desde allí son unos 3 km fáciles hasta las pozas."
 ---
 Imagina un río de agua cristalina que ha ido excavando el granito hasta dejarlo pulido como si fuera mármol, formando **pozas redondas** una detrás de otra. Eso son **Los Pilones**, en la Reserva Natural de la Garganta de los Infiernos, en el Valle del Jerte.
 
@@ -41,9 +52,7 @@ Se llega con una ruta corta y fácil, y en verano es una de las mejores piscinas
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve temprano en verano</b>: las pozas y el parking se llenan a media mañana.</li><li><b>Escarpines</b>: la roca mojada resbala mucho.</li><li><b>Cuidado con las corrientes</b>: en primavera y tras lluvias el agua baja con mucha fuerza.</li><li><b>Respeta la reserva</b>: nada de jabones, música alta ni basura.</li><li><b>Ven en marzo-abril para los cerezos</b>: y en junio para comprar cerezas del Jerte.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Los Pilones</h2></div>
-<div class="faq"><details><summary>¿Cuánto se tarda en llegar a Los Pilones?</summary><p>Desde el Centro de Interpretación son unos 3 km por un camino fácil, unos 45 minutos a 1 hora de ida.</p></details><details><summary>¿Se puede bañar en Los Pilones?</summary><p>Es una zona de baño muy popular en verano. Ten cuidado con la roca resbaladiza y con el caudal, sobre todo en primavera.</p></details><details><summary>¿Cuándo florecen los cerezos del Jerte?</summary><p>Normalmente entre finales de marzo y principios de abril, según el tiempo de cada año.</p></details><details><summary>¿Hay que pagar para ir a Los Pilones?</summary><p>No, la ruta es gratuita y el aparcamiento junto al Centro de Interpretación también.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto se tarda en llegar a Los Pilones?", "acceptedAnswer": {"@type": "Answer", "text": "Desde el Centro de Interpretación son unos 3 km por un camino fácil, unos 45 minutos a 1 hora de ida."}}, {"@type": "Question", "name": "¿Se puede bañar en Los Pilones?", "acceptedAnswer": {"@type": "Answer", "text": "Es una zona de baño muy popular en verano. Ten cuidado con la roca resbaladiza y con el caudal, sobre todo en primavera."}}, {"@type": "Question", "name": "¿Cuándo florecen los cerezos del Jerte?", "acceptedAnswer": {"@type": "Answer", "text": "Normalmente entre finales de marzo y principios de abril, según el tiempo de cada año."}}, {"@type": "Question", "name": "¿Hay que pagar para ir a Los Pilones?", "acceptedAnswer": {"@type": "Answer", "text": "No, la ruta es gratuita y el aparcamiento junto al Centro de Interpretación también."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más pozas</span><h2>Más pozas y ríos</h2></div>
 <ul class="nearby"><li><a href="/blog/charco-verde-tobogan-rio-pelayo.html"><img src="/assets/img/instagram/17975621367111494.webp" alt="Charco Verde y el tobogán del río Pelayo" loading="lazy" decoding="async" /><span>Charco Verde y el tobogán del río Pelayo</span></a></li><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li><li><a href="/blog/ruta-rio-borosa.html"><img src="/assets/img/blog/ruta-rio-borosa/portada.webp" alt="Ruta del río Borosa" loading="lazy" decoding="async" /><span>Ruta del río Borosa</span></a></li></ul>

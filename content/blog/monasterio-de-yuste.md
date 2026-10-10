@@ -11,6 +11,20 @@ tags:
   - Curiosidades
   - Extremadura
 wide: true
+faqTitulo: "Dudas sobre el Monasterio de Yuste"
+faq:
+  - q: "¿Quién vivió en el Monasterio de Yuste?"
+    a: "El emperador Carlos V (Carlos I de España), que se retiró allí y murió en 1558."
+  - q: "¿Dónde está Yuste?"
+    a: "Junto a Cuacos de Yuste, en la comarca de La Vera (Cáceres)."
+  - q: "¿Se puede visitar?"
+    a: "Sí, lo gestiona Patrimonio Nacional, con entrada de pago."
+  - q: "¿Qué es el cementerio alemán de Cuacos?"
+    a: "Un cementerio militar con soldados y aviadores alemanes de las dos guerras mundiales."
+  - q: "¿Cuánto dura la visita al Monasterio de Yuste?"
+    a: "Alrededor de una hora."
+  - q: "¿Cómo llegar al Monasterio de Yuste?"
+    a: "En coche hasta Cuacos de Yuste, en La Vera (Cáceres), a unos 45 minutos de Plasencia."
 ---
 Gobernó medio mundo: España, Alemania, los Países Bajos, Italia y América. Y para sus últimos años eligió un rincón tranquilo de **La Vera** (Cáceres): el **Monasterio de Yuste**. Aquí vivió **Carlos V** entre 1557 y 1558, y aquí murió.
 
@@ -38,9 +52,7 @@ Te cuento cómo vivía el emperador retirado y qué ver hoy 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ruta del Emperador</b>: sendero que sigue el camino que hizo Carlos V desde Tornavacas hasta Jarandilla.</li><li><b>Gargantas de La Vera</b>: pozas naturales para bañarse en verano.</li><li><b>Pimentón</b>: La Vera es la tierra del pimentón: llévate una lata.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Monasterio de Yuste</h2></div>
-<div class="faq"><details><summary>¿Quién vivió en el Monasterio de Yuste?</summary><p>El emperador Carlos V (Carlos I de España), que se retiró allí y murió en 1558.</p></details><details><summary>¿Dónde está Yuste?</summary><p>Junto a Cuacos de Yuste, en la comarca de La Vera (Cáceres).</p></details><details><summary>¿Se puede visitar?</summary><p>Sí, lo gestiona Patrimonio Nacional, con entrada de pago.</p></details><details><summary>¿Qué es el cementerio alemán de Cuacos?</summary><p>Un cementerio militar con soldados y aviadores alemanes de las dos guerras mundiales.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Quién vivió en el Monasterio de Yuste?", "acceptedAnswer": {"@type": "Answer", "text": "El emperador Carlos V (Carlos I de España), que se retiró allí y murió en 1558."}}, {"@type": "Question", "name": "¿Dónde está Yuste?", "acceptedAnswer": {"@type": "Answer", "text": "Junto a Cuacos de Yuste, en la comarca de La Vera (Cáceres)."}}, {"@type": "Question", "name": "¿Se puede visitar?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, lo gestiona Patrimonio Nacional, con entrada de pago."}}, {"@type": "Question", "name": "¿Qué es el cementerio alemán de Cuacos?", "acceptedAnswer": {"@type": "Answer", "text": "Un cementerio militar con soldados y aviadores alemanes de las dos guerras mundiales."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/granadilla-pueblo-abandonado.html"><img src="/assets/img/blog/granadilla-pueblo-abandonado/pueblo.webp" alt="Granadilla" loading="lazy" decoding="async" /><span>Granadilla</span></a></li><li><a href="/blog/los-pilones-jerte.html"><img src="/assets/img/blog/los-pilones-jerte/portada.webp" alt="Los Pilones" loading="lazy" decoding="async" /><span>Los Pilones</span></a></li><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li></ul>

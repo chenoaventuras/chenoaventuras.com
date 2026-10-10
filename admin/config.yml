@@ -64,6 +64,15 @@ collections:
           widget: boolean,
           default: false,
         }
+      - { name: faqTitulo, label: 'Título de las preguntas frecuentes', widget: string, required: false, hint: 'Opcional. Por defecto: «Dudas sobre <lugar>».' }
+      - name: faq
+        label: 'Preguntas frecuentes (al final del post)'
+        widget: list
+        required: false
+        hint: 'Opcional. Dudas reales que la gente busca en Google sobre el lugar. Salen donde pongas <!--faq--> en el contenido, o al final.'
+        fields:
+          - { name: q, label: Pregunta, widget: string }
+          - { name: a, label: Respuesta, widget: text }
       - { name: body, label: Contenido, widget: markdown }
       # Campos ocultos que usa el artículo automático generado desde
       # Instagram (scripts/generate-blog-post.mjs / publish-auto-drafts.mjs).

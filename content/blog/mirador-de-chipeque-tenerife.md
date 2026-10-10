@@ -12,6 +12,16 @@ tags:
   - Spots
   - Canarias
 igPermalink: 'https://www.instagram.com/reel/DHCAhKOoGQG/'
+faqTitulo: "Dudas sobre el Mirador de Chipeque"
+faq:
+  - q: "¿Dónde está el Mirador de Chipeque?"
+    a: "En el interior de Tenerife, a más de 1.800 metros de altitud, junto a la carretera TF-24 (Carretera de La Esperanza)."
+  - q: "¿Dónde aparcar en el Mirador de Chipeque?"
+    a: "Hay una pequeña zona de aparcamiento junto al mismo mirador."
+  - q: "¿Hay que pagar para ir al Mirador de Chipeque?"
+    a: "No, el acceso es libre y gratis, sin reserva."
+  - q: "¿Cuándo es mejor ir al Mirador de Chipeque?"
+    a: "Al atardecer, para ver el sol esconderse tras el Teide; en días de mar de nubes, y de noche para ver las estrellas. Lleva abrigo: arriba refresca mucho."
 ---
 A más de 1.800 metros de altitud, en pleno interior de Tenerife, hay un mirador que muchos ni siquiera conocen a pesar de ofrecer una de las mejores vistas de toda la isla: el Teide, un mar de nubes y, en días claros, hasta la silueta de La Palma en el horizonte.
 
@@ -42,5 +52,8 @@ Se accede por la carretera TF-24, la Carretera de La Esperanza, donde hay una pe
 El Mirador de Chipeque se encuentra en el interior de Tenerife, junto a la Carretera de La Esperanza. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Mirador%20de%20Chipeque%2C%20Tenerife).
 
 Más planes en Tenerife: el [Arco de Tajao](/blog/arco-de-tajao-tenerife.html), en el sur, y el [Lago Martiánez](/blog/lago-martianez-puerto-de-la-cruz.html), en Puerto de la Cruz.
+
+<!--faq-->
+
 
 ¿Conocías el Mirador de Chipeque? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Canarias, y échale un vistazo al resto del blog para tu próxima escapada.

@@ -11,6 +11,20 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+faqTitulo: "Dudas sobre Salamanca"
+faq:
+  - q: "¿Qué es la Cueva de Salamanca?"
+    a: "La antigua sacristía de la iglesia de San Cebrián, donde según la leyenda el diablo enseñaba magia negra a siete estudiantes."
+  - q: "¿Cuánto cuesta visitar la Cueva de Salamanca?"
+    a: "La visita es gratuita y el horario es muy amplio. Consulta los horarios actualizados con Turismo de Salamanca."
+  - q: "¿Dónde está la rana de Salamanca?"
+    a: "En la fachada plateresca de la Universidad, sobre una calavera. La tradición dice que debes encontrarla sin ayuda."
+  - q: "¿Por qué hay un astronauta en la Catedral de Salamanca?"
+    a: "Lo añadieron los canteros en una restauración de 1992 como firma de su época, junto a un dragón comiendo helado."
+  - q: "¿Dónde está la Cueva de Salamanca?"
+    a: "En el casco histórico, en la plaza del Padre Jerónimo Muñoz, junto a la Torre de Villena."
+  - q: "¿Qué horario tiene la Cueva de Salamanca?"
+    a: "Se visita gratis en un horario muy amplio, y en 15 minutos la has visto."
 ---
 En una cripta de Salamanca, dice la leyenda, el mismísimo **diablo** daba clases de magia negra. Siete alumnos, siete años… y uno de ellos se quedaba con él para siempre como pago.
 
@@ -43,9 +57,7 @@ La **Cueva de Salamanca** existe, se puede visitar, y es el punto de partida per
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Busca la rana tú solo</b>: es tradición no dejar que nadie te la señale.</li><li><b>Haz una ruta nocturna de leyendas</b>: Salamanca iluminada de noche es otra ciudad.</li><li><b>Sube a las torres de la Catedral</b>: el recorrido por los tejados de Ieronimus tiene unas vistas increíbles.</li><li><b>Tapea en la calle Van Dyck</b>: una de las zonas de tapas más famosas de la ciudad.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Salamanca</h2></div>
-<div class="faq"><details><summary>¿Qué es la Cueva de Salamanca?</summary><p>La antigua sacristía de la iglesia de San Cebrián, donde según la leyenda el diablo enseñaba magia negra a siete estudiantes.</p></details><details><summary>¿Cuánto cuesta visitar la Cueva de Salamanca?</summary><p>La visita es gratuita y el horario es muy amplio. Consulta los horarios actualizados con Turismo de Salamanca.</p></details><details><summary>¿Dónde está la rana de Salamanca?</summary><p>En la fachada plateresca de la Universidad, sobre una calavera. La tradición dice que debes encontrarla sin ayuda.</p></details><details><summary>¿Por qué hay un astronauta en la Catedral de Salamanca?</summary><p>Lo añadieron los canteros en una restauración de 1992 como firma de su época, junto a un dragón comiendo helado.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué es la Cueva de Salamanca?", "acceptedAnswer": {"@type": "Answer", "text": "La antigua sacristía de la iglesia de San Cebrián, donde según la leyenda el diablo enseñaba magia negra a siete estudiantes."}}, {"@type": "Question", "name": "¿Cuánto cuesta visitar la Cueva de Salamanca?", "acceptedAnswer": {"@type": "Answer", "text": "La visita es gratuita y el horario es muy amplio. Consulta los horarios actualizados con Turismo de Salamanca."}}, {"@type": "Question", "name": "¿Dónde está la rana de Salamanca?", "acceptedAnswer": {"@type": "Answer", "text": "En la fachada plateresca de la Universidad, sobre una calavera. La tradición dice que debes encontrarla sin ayuda."}}, {"@type": "Question", "name": "¿Por qué hay un astronauta en la Catedral de Salamanca?", "acceptedAnswer": {"@type": "Answer", "text": "Lo añadieron los canteros en una restauración de 1992 como firma de su época, junto a un dragón comiendo helado."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/ciudad-rodrigo-que-ver.html"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/portada.webp" alt="Ciudad Rodrigo" loading="lazy" decoding="async" /><span>Ciudad Rodrigo</span></a></li><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li><li><a href="/blog/sierra-de-gredos.html"><img src="/assets/img/blog/sierra-de-gredos/portada.webp" alt="Laguna Grande de Gredos" loading="lazy" decoding="async" /><span>Laguna Grande de Gredos</span></a></li></ul>

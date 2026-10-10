@@ -11,6 +11,20 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+faqTitulo: "Dudas sobre el Toledo de las leyendas"
+faq:
+  - q: "¿Cuál es la leyenda de la Cueva de Hércules?"
+    a: "Cada rey debía cerrar la cueva con un candado más. El rey don Rodrigo la abrió buscando un tesoro y encontró una profecía: perdería su reino. Poco después, en el 711, llegaron los musulmanes."
+  - q: "¿Cuánto cuesta entrar a la Cueva de Hércules?"
+    a: "La entrada es gratis, con aforo reducido. El horario es irregular, así que conviene confirmarlo con el Consorcio de Toledo."
+  - q: "¿Qué es realmente la Cueva de Hércules?"
+    a: "Un aljibe de época romana que después estuvo bajo varias iglesias."
+  - q: "¿Qué son los Baños de la Cava?"
+    a: "Los restos de un antiguo puente junto al Tajo que la tradición relaciona con Florinda, la Cava."
+  - q: "¿Dónde está la Cueva de Hércules de Toledo?"
+    a: "En el casco histórico, en el callejón de San Ginés, a unos 100 metros de la Catedral."
+  - q: "¿Qué horario tiene la Cueva de Hércules?"
+    a: "Es irregular y con aforo reducido, así que confírmalo antes de ir. La visita dura 15-20 minutos."
 ---
 Bajo las calles de Toledo hay una cueva cerrada con candados. Cada rey visigodo debía añadir uno nuevo, porque el día que alguien la abriera llegaría la desgracia. Hasta que el rey **don Rodrigo** no pudo resistir la curiosidad.
 
@@ -42,9 +56,7 @@ La **Cueva de Hércules** se puede visitar, y es la puerta de entrada a un Toled
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Llama antes de ir a la cueva</b>: el horario cambia y a veces cierra por mantenimiento.</li><li><b>Haz una ruta nocturna de leyendas</b>: Toledo de noche es perfecto para Halloween.</li><li><b>Baja al Tajo al atardecer</b>: el paseo por la ribera junto a los Baños de la Cava tiene unas vistas preciosas.</li><li><b>Sigue hasta la Piedra del Rey Moro</b>: otra leyenda toledana a pocos minutos del valle.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Toledo de las leyendas</h2></div>
-<div class="faq"><details><summary>¿Cuál es la leyenda de la Cueva de Hércules?</summary><p>Cada rey debía cerrar la cueva con un candado más. El rey don Rodrigo la abrió buscando un tesoro y encontró una profecía: perdería su reino. Poco después, en el 711, llegaron los musulmanes.</p></details><details><summary>¿Cuánto cuesta entrar a la Cueva de Hércules?</summary><p>La entrada es gratis, con aforo reducido. El horario es irregular, así que conviene confirmarlo con el Consorcio de Toledo.</p></details><details><summary>¿Qué es realmente la Cueva de Hércules?</summary><p>Un aljibe de época romana que después estuvo bajo varias iglesias.</p></details><details><summary>¿Qué son los Baños de la Cava?</summary><p>Los restos de un antiguo puente junto al Tajo que la tradición relaciona con Florinda, la Cava.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es la leyenda de la Cueva de Hércules?", "acceptedAnswer": {"@type": "Answer", "text": "Cada rey debía cerrar la cueva con un candado más. El rey don Rodrigo la abrió buscando un tesoro y encontró una profecía: perdería su reino. Poco después, en el 711, llegaron los musulmanes."}}, {"@type": "Question", "name": "¿Cuánto cuesta entrar a la Cueva de Hércules?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada es gratis, con aforo reducido. El horario es irregular, así que conviene confirmarlo con el Consorcio de Toledo."}}, {"@type": "Question", "name": "¿Qué es realmente la Cueva de Hércules?", "acceptedAnswer": {"@type": "Answer", "text": "Un aljibe de época romana que después estuvo bajo varias iglesias."}}, {"@type": "Question", "name": "¿Qué son los Baños de la Cava?", "acceptedAnswer": {"@type": "Answer", "text": "Los restos de un antiguo puente junto al Tajo que la tradición relaciona con Florinda, la Cava."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/piedra-del-rey-moro-toledo.html"><img src="/assets/img/instagram/18067189766151364.webp" alt="Toledo" loading="lazy" decoding="async" /><span>Toledo</span></a></li><li><a href="/blog/puy-du-fou-toledo.html"><img src="/assets/img/instagram/18066740699149373.webp" alt="Puy du Fou España" loading="lazy" decoding="async" /><span>Puy du Fou España</span></a></li><li><a href="/blog/consuegra-molinos.html"><img src="/assets/img/blog/consuegra-molinos/portada.webp" alt="Consuegra" loading="lazy" decoding="async" /><span>Consuegra</span></a></li></ul>

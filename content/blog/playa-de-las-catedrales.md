@@ -11,6 +11,20 @@ tags:
   - Spots
   - Galicia
 wide: true
+faqTitulo: "Dudas sobre la Playa de las Catedrales"
+faq:
+  - q: "¿Hay que reservar para ir a la Playa de las Catedrales?"
+    a: "Sí, pero solo en Semana Santa y del 1 de julio al 30 de septiembre. La reserva es gratuita y se hace en la web oficial de la Xunta, con hasta 30 días de antelación. El resto del año el acceso es libre."
+  - q: "¿Cuánto cuesta visitar la Playa de las Catedrales?"
+    a: "Nada. El acceso es gratuito; solo hay que reservar en las fechas de temporada alta."
+  - q: "¿A qué hora es mejor ir?"
+    a: "Con la marea baja. Lo ideal es llegar un poco antes de la bajamar y salir antes de que la marea vuelva a subir."
+  - q: "¿Se puede visitar con la marea alta?"
+    a: "No se puede bajar a la arena, pero puedes recorrer el paseo por lo alto del acantilado y ver los arcos desde arriba."
+  - q: "¿Dónde está la Playa de las Catedrales?"
+    a: "En Ribadeo (Lugo), en la costa norte de Galicia, muy cerca del límite con Asturias."
+  - q: "¿Se puede ver la Playa de las Catedrales sin reserva?"
+    a: "Desde arriba sí: el paseo por lo alto del acantilado es libre. La reserva solo es obligatoria para bajar a la arena en temporada alta."
 ---
 Arcos de roca de hasta 30 metros que parecen los arbotantes de una catedral gótica, cuevas que se atraviesan andando y pasillos de arena entre acantilados. Eso es la **Playa de las Catedrales**, en Ribadeo (Lugo)… pero ojo: **solo se puede pasear entre sus arcos con la marea baja**.
 
@@ -41,9 +55,7 @@ Además, en temporada alta **hay que reservar**. Te explico cómo organizar la v
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Elige bien la hora</b>: la web de reservas te dice la bajamar del día: ve un poco antes.</li><li><b>Calzado que se pueda mojar</b>: hay charcos y rocas con algas que resbalan.</li><li><b>No te alejes de la salida</b>: cuando sube la marea, el agua avanza rápido.</li><li><b>Fuera de temporada, mejor</b>: en otoño o primavera no hace falta reservar y hay mucha menos gente.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Playa de las Catedrales</h2></div>
-<div class="faq"><details><summary>¿Hay que reservar para ir a la Playa de las Catedrales?</summary><p>Sí, pero solo en Semana Santa y del 1 de julio al 30 de septiembre. La reserva es gratuita y se hace en la web oficial de la Xunta, con hasta 30 días de antelación. El resto del año el acceso es libre.</p></details><details><summary>¿Cuánto cuesta visitar la Playa de las Catedrales?</summary><p>Nada. El acceso es gratuito; solo hay que reservar en las fechas de temporada alta.</p></details><details><summary>¿A qué hora es mejor ir?</summary><p>Con la marea baja. Lo ideal es llegar un poco antes de la bajamar y salir antes de que la marea vuelva a subir.</p></details><details><summary>¿Se puede visitar con la marea alta?</summary><p>No se puede bajar a la arena, pero puedes recorrer el paseo por lo alto del acantilado y ver los arcos desde arriba.</p></details><details><summary>¿Dónde está la Playa de las Catedrales?</summary><p>En Ribadeo (Lugo), en la costa norte de Galicia, muy cerca del límite con Asturias.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hay que reservar para ir a la Playa de las Catedrales?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, pero solo en Semana Santa y del 1 de julio al 30 de septiembre. La reserva es gratuita y se hace en la web oficial de la Xunta, con hasta 30 días de antelación. El resto del año el acceso es libre."}}, {"@type": "Question", "name": "¿Cuánto cuesta visitar la Playa de las Catedrales?", "acceptedAnswer": {"@type": "Answer", "text": "Nada. El acceso es gratuito; solo hay que reservar en las fechas de temporada alta."}}, {"@type": "Question", "name": "¿A qué hora es mejor ir?", "acceptedAnswer": {"@type": "Answer", "text": "Con la marea baja. Lo ideal es llegar un poco antes de la bajamar y salir antes de que la marea vuelva a subir."}}, {"@type": "Question", "name": "¿Se puede visitar con la marea alta?", "acceptedAnswer": {"@type": "Answer", "text": "No se puede bajar a la arena, pero puedes recorrer el paseo por lo alto del acantilado y ver los arcos desde arriba."}}, {"@type": "Question", "name": "¿Dónde está la Playa de las Catedrales?", "acceptedAnswer": {"@type": "Answer", "text": "En Ribadeo (Lugo), en la costa norte de Galicia, muy cerca del límite con Asturias."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más costa norte</span><h2>Sigue por el Cantábrico</h2></div>
 <ul class="nearby"><li><a href="/blog/cudillero-que-ver.html"><img src="/assets/img/blog/cudillero-que-ver/portada.webp" alt="Cudillero" loading="lazy" decoding="async" /><span>Cudillero</span></a></li><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li></ul>

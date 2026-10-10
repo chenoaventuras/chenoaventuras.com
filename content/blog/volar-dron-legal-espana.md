@@ -7,6 +7,20 @@ cover: /assets/img/instagram/17937287667194022.webp
 tags:
   - Curiosidades
 igPermalink: 'https://www.instagram.com/reel/DWhMemtDLew/'
+faqTitulo: "Dudas sobre volar un dron"
+faq:
+  - q: "¿Qué hace falta para volar un dron en España?"
+    a: "Registrarte como operador en AESA (gratis, desde los 16 años), poner tu número de operador en el dron y consultar la app ENAIRE Drones antes de cada vuelo."
+  - q: "¿Hace falta licencia para volar un dron de menos de 250 g?"
+    a: "Para uso recreativo, no es obligatoria ninguna titulación ni seguro, aunque los dos son muy recomendables."
+  - q: "¿Dónde puedo volar mi dron en España?"
+    a: "Míralo en la app ENAIRE Drones: te dice dónde puedes volar libremente y dónde hay restricciones, horarios o zonas protegidas."
+  - q: "¿A qué altura máxima se puede volar un dron?"
+    a: "A 120 metros sobre el suelo como máximo, y siempre con el dron a la vista."
+  - q: "¿Se puede volar un dron en ciudad?"
+    a: "Sí, pero tienes que avisar al Ministerio del Interior con al menos 5 días de antelación. Y nunca sobre aglomeraciones de gente."
+  - q: "¿Cuánto es la multa por volar un dron sin cumplir la normativa?"
+    a: "Desde 50 € hasta 250.000 €, según la gravedad."
 ---
 Volar un dron parece tan sencillo como sacarlo de la caja y despegar, pero hacerlo de forma legal en España implica cumplir una normativa concreta. Si tienes o quieres comprarte un dron de menos de 250 gramos para uso recreativo, esto es lo que necesitas saber para no llevarte una multa.
 
@@ -45,5 +59,8 @@ Para uso recreativo con drones de menos de 250 gramos, ni el seguro ni una titul
 Las multas por no cumplir con esta normativa pueden ir desde los 50€ hasta los 250.000€, dependiendo de la gravedad de la infracción. Cumplir estos puntos básicos te permite volar tranquilo, sin sorpresas si te encuentras con un control de la Guardia Civil o la Policía mientras estás en pleno vuelo.
 
 <div class="article__callout article__callout--booking">📩 Si quieres la guía completa, comenta "Quiero info" <a href="https://www.instagram.com/reel/DWhMemtDLew/" target="_blank" rel="noopener" class="ig-external">aquí</a>.</div>
+
+<!--faq-->
+
 
 ¿Tenías claros todos estos puntos antes de volar tu dron? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más consejos de viaje y aventura, y échale un vistazo al resto del blog para seguir aprendiendo antes de tu próxima escapada.

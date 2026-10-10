@@ -11,6 +11,18 @@ tags:
   - Spots
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre el Río Tinto"
+faq:
+  - q: "¿Por qué el Río Tinto es rojo?"
+    a: "Porque el agua disuelve el hierro de los minerales de la zona y se vuelve muy ácida y rojiza."
+  - q: "¿Por qué la NASA estudia el Río Tinto?"
+    a: "Porque sus condiciones y minerales se parecen a los de Marte, y en él viven microorganismos extremos."
+  - q: "¿Por dónde pasa el Río Tinto?"
+    a: "Nace en la sierra de Nerva y recorre unos 100 km por la provincia de Huelva hasta unirse al Odiel en la ría de Huelva."
+  - q: "¿Se puede bañar en el Río Tinto?"
+    a: "No es recomendable: el agua es muy ácida y tiene metales."
+  - q: "¿Dónde ver el Río Tinto?"
+    a: "En la comarca de Riotinto (Huelva): desde el Tren Minero que sale de Minas de Riotinto, en la Corta Atalaya o en Peña de Hierro, cerca de Nerva."
 ---
 Agua roja como el vino, orillas naranjas y ocres, y ni un pez. El **Río Tinto**, en Huelva, parece de otro planeta... y por eso la **NASA** lo ha usado para estudiar cómo podría ser la vida en **Marte**.
 
@@ -42,9 +54,7 @@ Te cuento por qué es así y cómo verlo de cerca 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva el tren</b>: sobre todo los fines de semana y en primavera.</li><li><b>No te bañes ni bebas</b>: el agua es muy ácida.</li><li><b>Ve en primavera u otoño</b>: en verano el calor en la zona minera es durísimo.</li><li><b>Combínalo con Aracena</b>: la Gruta de las Maravillas está a 40 minutos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Río Tinto</h2></div>
-<div class="faq"><details><summary>¿Por qué el Río Tinto es rojo?</summary><p>Porque el agua disuelve el hierro de los minerales de la zona y se vuelve muy ácida y rojiza.</p></details><details><summary>¿Por qué la NASA estudia el Río Tinto?</summary><p>Porque sus condiciones y minerales se parecen a los de Marte, y en él viven microorganismos extremos.</p></details><details><summary>¿Por dónde pasa el Río Tinto?</summary><p>Nace en la sierra de Nerva y recorre unos 100 km por la provincia de Huelva hasta unirse al Odiel en la ría de Huelva.</p></details><details><summary>¿Se puede bañar en el Río Tinto?</summary><p>No es recomendable: el agua es muy ácida y tiene metales.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué el Río Tinto es rojo?", "acceptedAnswer": {"@type": "Answer", "text": "Porque el agua disuelve el hierro de los minerales de la zona y se vuelve muy ácida y rojiza."}}, {"@type": "Question", "name": "¿Por qué la NASA estudia el Río Tinto?", "acceptedAnswer": {"@type": "Answer", "text": "Porque sus condiciones y minerales se parecen a los de Marte, y en él viven microorganismos extremos."}}, {"@type": "Question", "name": "¿Por dónde pasa el Río Tinto?", "acceptedAnswer": {"@type": "Answer", "text": "Nace en la sierra de Nerva y recorre unos 100 km por la provincia de Huelva hasta unirse al Odiel en la ría de Huelva."}}, {"@type": "Question", "name": "¿Se puede bañar en el Río Tinto?", "acceptedAnswer": {"@type": "Answer", "text": "No es recomendable: el agua es muy ácida y tiene metales."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/gruta-de-las-maravillas-aracena.html"><img src="/assets/img/blog/gruta-de-las-maravillas-aracena/portada.webp" alt="Gruta de las Maravillas" loading="lazy" decoding="async" /><span>Gruta de las Maravillas</span></a></li><li><a href="/blog/plaza-de-espana-sevilla.html"><img src="/assets/img/blog/plaza-de-espana-sevilla/portada.webp" alt="Plaza de España (Sevilla)" loading="lazy" decoding="async" /><span>Plaza de España (Sevilla)</span></a></li><li><a href="/blog/olivenza-que-ver.html"><img src="/assets/img/blog/olivenza-que-ver/portada.webp" alt="Olivenza" loading="lazy" decoding="async" /><span>Olivenza</span></a></li></ul>

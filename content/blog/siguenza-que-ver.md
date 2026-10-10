@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Castilla-La Mancha
 wide: true
+faq:
+  - q: "¿Qué ver en Sigüenza?"
+    a: "La catedral con el sepulcro del Doncel, el castillo-parador, la Plaza Mayor, la calle Mayor y, en los alrededores, el Barranco del río Dulce."
+  - q: "¿Qué es el Doncel de Sigüenza?"
+    a: "La escultura funeraria de Martín Vázquez de Arce, un joven caballero muerto en 1486, representado recostado leyendo un libro. Es una obra maestra del gótico."
+  - q: "¿Qué es el Tren Medieval de Sigüenza?"
+    a: "Un tren turístico desde Madrid que funciona en primavera y otoño, con actores de época y visita teatralizada a la ciudad."
+  - q: "¿Qué ruta hacer cerca de Sigüenza?"
+    a: "El Barranco del río Dulce, entre Pelegrina y La Cabrera, con el mirador de Félix Rodríguez de la Fuente."
+  - q: "¿A cuánto está Sigüenza de Madrid?"
+    a: "A una hora y media en coche por la A-2. En primavera y otoño también puedes ir en el Tren Medieval."
 ---
 Una ciudad medieval de piedra rojiza, con una **catedral que parece una fortaleza** y un **castillo donde se puede dormir**. **Sigüenza** es de esas escapadas perfectas desde Madrid, y a pocos kilómetros tienes el **Barranco del río Dulce**, el paisaje donde Félix Rodríguez de la Fuente grabó parte de «El Hombre y la Tierra».
 
@@ -41,9 +52,7 @@ Te cuento qué ver y cómo combinar historia y naturaleza 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Haz la visita guiada de la catedral</b>: con ella ves el Doncel, la sacristía y el claustro.</li><li><b>Toma algo en el patio del Parador</b>: aunque no duermas allí.</li><li><b>Ruta por el río Dulce</b>: la senda entre Pelegrina y La Cabrera es preciosa en otoño.</li><li><b>Prueba el cabrito y los dulces seguntinos</b>: las yemas del Doncel son típicas.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Sigüenza</h2></div>
-<div class="faq"><details><summary>¿Qué ver en Sigüenza?</summary><p>La catedral con el sepulcro del Doncel, el castillo-parador, la Plaza Mayor, la calle Mayor y, en los alrededores, el Barranco del río Dulce.</p></details><details><summary>¿Qué es el Doncel de Sigüenza?</summary><p>La escultura funeraria de Martín Vázquez de Arce, un joven caballero muerto en 1486, representado recostado leyendo un libro. Es una obra maestra del gótico.</p></details><details><summary>¿Qué es el Tren Medieval de Sigüenza?</summary><p>Un tren turístico desde Madrid que funciona en primavera y otoño, con actores de época y visita teatralizada a la ciudad.</p></details><details><summary>¿Qué ruta hacer cerca de Sigüenza?</summary><p>El Barranco del río Dulce, entre Pelegrina y La Cabrera, con el mirador de Félix Rodríguez de la Fuente.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en Sigüenza?", "acceptedAnswer": {"@type": "Answer", "text": "La catedral con el sepulcro del Doncel, el castillo-parador, la Plaza Mayor, la calle Mayor y, en los alrededores, el Barranco del río Dulce."}}, {"@type": "Question", "name": "¿Qué es el Doncel de Sigüenza?", "acceptedAnswer": {"@type": "Answer", "text": "La escultura funeraria de Martín Vázquez de Arce, un joven caballero muerto en 1486, representado recostado leyendo un libro. Es una obra maestra del gótico."}}, {"@type": "Question", "name": "¿Qué es el Tren Medieval de Sigüenza?", "acceptedAnswer": {"@type": "Answer", "text": "Un tren turístico desde Madrid que funciona en primavera y otoño, con actores de época y visita teatralizada a la ciudad."}}, {"@type": "Question", "name": "¿Qué ruta hacer cerca de Sigüenza?", "acceptedAnswer": {"@type": "Answer", "text": "El Barranco del río Dulce, entre Pelegrina y La Cabrera, con el mirador de Félix Rodríguez de la Fuente."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Castilla-La Mancha</span><h2>Sigue por Castilla-La Mancha</h2></div>
 <ul class="nearby"><li><a href="/blog/consuegra-molinos.html"><img src="/assets/img/blog/consuegra-molinos/portada.webp" alt="Molinos de Consuegra" loading="lazy" decoding="async" /><span>Molinos de Consuegra</span></a></li><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Guía de Cuenca" loading="lazy" decoding="async" /><span>Guía de Cuenca</span></a></li><li><a href="/blog/alcala-del-jucar.html"><img src="/assets/img/blog/alcala-del-jucar/portada.webp" alt="Alcalá del Júcar" loading="lazy" decoding="async" /><span>Alcalá del Júcar</span></a></li></ul>

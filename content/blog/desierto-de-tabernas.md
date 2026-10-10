@@ -11,6 +11,20 @@ tags:
   - Spots
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre el Desierto de Tabernas"
+faq:
+  - q: "¿El Desierto de Tabernas es el único desierto de Europa?"
+    a: "Así se le conoce: es una de las zonas más áridas del continente, con muy pocas lluvias y un paisaje de cárcavas y ramblas típico de desierto."
+  - q: "¿Qué películas se rodaron en el Desierto de Tabernas?"
+    a: "Cientos. Las más famosas son los western de Sergio Leone con Clint Eastwood, como «El bueno, el feo y el malo», además de escenas de «Lawrence de Arabia», «Indiana Jones y la última cruzada» y la serie «Juego de Tronos»."
+  - q: "¿Se puede visitar gratis?"
+    a: "Sí, el paraje natural se puede recorrer libremente. Los poblados del oeste (Oasys MiniHollywood, Fort Bravo, Western Leone) son parques privados con entrada."
+  - q: "¿Cuál es la mejor época para ir?"
+    a: "De otoño a primavera. En verano las temperaturas son muy altas y conviene ir a primera hora o al atardecer."
+  - q: "¿Cómo llegar al Desierto de Tabernas?"
+    a: "En coche: rodea el pueblo de Tabernas, a unos 30 km de Almería capital, por la A-92."
+  - q: "¿Qué se puede ver gratis en el Desierto de Tabernas?"
+    a: "Recorrer el paraje, sus ramblas y miradores es gratis. Los poblados del oeste tienen entrada."
 ---
 Cárcavas peladas, ramblas secas, un sol que no perdona… y de repente, un poblado del Far West con su saloon y su banco. No estás en Arizona: estás en el **Desierto de Tabernas**, a media hora de Almería capital, el sitio donde se rodaron los grandes *spaghetti western* de Sergio Leone.
 
@@ -41,9 +55,7 @@ Te cuento qué tiene de especial, qué ver y cómo exprimir una escapada al «sa
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Agua, gorra y crema</b>: no hay sombra y apenas hay servicios fuera de los pueblos.</li><li><b>Ve con guía si te adentras</b>: las ramblas se parecen mucho entre sí y es fácil desorientarse.</li><li><b>Cuidado con las tormentas</b>: las ramblas pueden llevar agua de golpe si llueve fuerte en la sierra.</li><li><b>Combínalo con la costa</b>: a una hora tienes las calas del Cabo de Gata.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Desierto de Tabernas</h2></div>
-<div class="faq"><details><summary>¿El Desierto de Tabernas es el único desierto de Europa?</summary><p>Así se le conoce: es una de las zonas más áridas del continente, con muy pocas lluvias y un paisaje de cárcavas y ramblas típico de desierto.</p></details><details><summary>¿Qué películas se rodaron en el Desierto de Tabernas?</summary><p>Cientos. Las más famosas son los western de Sergio Leone con Clint Eastwood, como «El bueno, el feo y el malo», además de escenas de «Lawrence de Arabia», «Indiana Jones y la última cruzada» y la serie «Juego de Tronos».</p></details><details><summary>¿Se puede visitar gratis?</summary><p>Sí, el paraje natural se puede recorrer libremente. Los poblados del oeste (Oasys MiniHollywood, Fort Bravo, Western Leone) son parques privados con entrada.</p></details><details><summary>¿Cuál es la mejor época para ir?</summary><p>De otoño a primavera. En verano las temperaturas son muy altas y conviene ir a primera hora o al atardecer.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿El Desierto de Tabernas es el único desierto de Europa?", "acceptedAnswer": {"@type": "Answer", "text": "Así se le conoce: es una de las zonas más áridas del continente, con muy pocas lluvias y un paisaje de cárcavas y ramblas típico de desierto."}}, {"@type": "Question", "name": "¿Qué películas se rodaron en el Desierto de Tabernas?", "acceptedAnswer": {"@type": "Answer", "text": "Cientos. Las más famosas son los western de Sergio Leone con Clint Eastwood, como «El bueno, el feo y el malo», además de escenas de «Lawrence de Arabia», «Indiana Jones y la última cruzada» y la serie «Juego de Tronos»."}}, {"@type": "Question", "name": "¿Se puede visitar gratis?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, el paraje natural se puede recorrer libremente. Los poblados del oeste (Oasys MiniHollywood, Fort Bravo, Western Leone) son parques privados con entrada."}}, {"@type": "Question", "name": "¿Cuál es la mejor época para ir?", "acceptedAnswer": {"@type": "Answer", "text": "De otoño a primavera. En verano las temperaturas son muy altas y conviene ir a primera hora o al atardecer."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Más aventuras por Andalucía</h2></div>
 <ul class="nearby"><li><a href="/blog/los-cahorros-de-monachil.html"><img src="/assets/img/blog/los-cahorros-de-monachil/portada.webp" alt="Los Cahorros de Monachil" loading="lazy" decoding="async" /><span>Los Cahorros de Monachil</span></a></li><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li></ul>

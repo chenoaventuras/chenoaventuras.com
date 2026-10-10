@@ -14,6 +14,22 @@ tags:
 guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
 guiaTitulo: 'Guía de Cuenca en PDF'
 wide: true
+faqTitulo: "Dudas sobre el Nacimiento del río Cuervo"
+faq:
+  - q: "¿Cuánto cuesta visitar el Nacimiento del río Cuervo?"
+    a: "Es gratis. El acceso es libre y el aparcamiento también es gratuito."
+  - q: "¿Cuándo lleva más agua el Nacimiento del río Cuervo?"
+    a: "En primavera, con el deshielo. En invierno, si hiela, las cascadas pueden quedarse congeladas."
+  - q: "¿Cuánto dura la ruta del Nacimiento del río Cuervo?"
+    a: "El sendero circular mide unos 1,5 km y se hace en menos de una hora con calma."
+  - q: "¿Es accesible para sillas de ruedas?"
+    a: "Sí, la pasarela de unos 300 m entre el aparcamiento y las cascadas está adaptada."
+  - q: "¿Se puede bañar en el Nacimiento del río Cuervo?"
+    a: "No, el baño está prohibido al tratarse de un espacio protegido como Monumento Natural."
+  - q: "¿A cuánto está el Nacimiento del río Cuervo de Cuenca?"
+    a: "A unos 85 km, alrededor de una hora y media en coche."
+  - q: "¿Dónde está Vega del Codorno?"
+    a: "En lo más alto de la Serranía de Cuenca: allí está el Nacimiento del río Cuervo, a 1 h 30 de Cuenca."
 ---
 Agua que brota de la roca entre musgo verde intenso y cae en pequeñas cascadas hasta formar un río cristalino: el **Nacimiento del río Cuervo** es uno de los rincones más bonitos de toda la provincia de Cuenca. Y en invierno, si hiela, sus cascadas se quedan congeladas como estalactitas.
 
@@ -45,9 +61,7 @@ Está en **Vega del Codorno**, en lo más alto de la Serranía, y se visita con 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz la ruta circular</b> — son 1,5 km fáciles: cascadas, nacimiento y vuelta por el bosque.</li><li><b>Accesible</b> — los primeros 300 m son una pasarela adaptada, apta para sillas de ruedas y carritos.</li><li><b>Abrígate</b> — a casi 1.500 m de altitud refresca incluso en verano.</li><li><b>No te bañes</b> — el baño está prohibido para proteger el manantial.</li></ul><p>Si vienes desde Cuenca, aprovecha el viaje: de camino tienes el Ventano del Diablo, la Ciudad Encantada y Uña 😉</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Nacimiento del río Cuervo</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta visitar el Nacimiento del río Cuervo?</summary><p>Es gratis. El acceso es libre y el aparcamiento también es gratuito.</p></details><details><summary>¿Cuándo lleva más agua el Nacimiento del río Cuervo?</summary><p>En primavera, con el deshielo. En invierno, si hiela, las cascadas pueden quedarse congeladas.</p></details><details><summary>¿Cuánto dura la ruta del Nacimiento del río Cuervo?</summary><p>El sendero circular mide unos 1,5 km y se hace en menos de una hora con calma.</p></details><details><summary>¿Es accesible para sillas de ruedas?</summary><p>Sí, la pasarela de unos 300 m entre el aparcamiento y las cascadas está adaptada.</p></details><details><summary>¿Se puede bañar en el Nacimiento del río Cuervo?</summary><p>No, el baño está prohibido al tratarse de un espacio protegido como Monumento Natural.</p></details><details><summary>¿A cuánto está el Nacimiento del río Cuervo de Cuenca?</summary><p>A unos 85 km, alrededor de una hora y media en coche.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta visitar el Nacimiento del río Cuervo?", "acceptedAnswer": {"@type": "Answer", "text": "Es gratis. El acceso es libre y el aparcamiento también es gratuito."}}, {"@type": "Question", "name": "¿Cuándo lleva más agua el Nacimiento del río Cuervo?", "acceptedAnswer": {"@type": "Answer", "text": "En primavera, con el deshielo. En invierno, si hiela, las cascadas pueden quedarse congeladas."}}, {"@type": "Question", "name": "¿Cuánto dura la ruta del Nacimiento del río Cuervo?", "acceptedAnswer": {"@type": "Answer", "text": "El sendero circular mide unos 1,5 km y se hace en menos de una hora con calma."}}, {"@type": "Question", "name": "¿Es accesible para sillas de ruedas?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la pasarela de unos 300 m entre el aparcamiento y las cascadas está adaptada."}}, {"@type": "Question", "name": "¿Se puede bañar en el Nacimiento del río Cuervo?", "acceptedAnswer": {"@type": "Answer", "text": "No, el baño está prohibido al tratarse de un espacio protegido como Monumento Natural."}}, {"@type": "Question", "name": "¿A cuánto está el Nacimiento del río Cuervo de Cuenca?", "acceptedAnswer": {"@type": "Answer", "text": "A unos 85 km, alrededor de una hora y media en coche."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando la Serranía</h2></div>
 <ul class="nearby"><li><a href="/blog/laguna-de-una-cuenca.html"><img src="/assets/img/blog/cuenca/una-laguna.webp" alt="Laguna de Uña" loading="lazy" decoding="async" /><span>Laguna de Uña</span></a></li><li><a href="/blog/ciudad-encantada-cuenca.html"><img src="/assets/img/blog/cuenca/ciudad-encantada.webp" alt="Ciudad Encantada" loading="lazy" decoding="async" /><span>Ciudad Encantada</span></a></li><li><a href="/blog/mirador-ventano-del-diablo.html"><img src="/assets/img/blog/cuenca/ventano-ventana.webp" alt="Mirador del Ventano del Diablo" loading="lazy" decoding="async" /><span>Mirador del Ventano del Diablo</span></a></li><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/blog/cuenca/casas-colgadas.webp" alt="Mi guía completa de Cuenca" loading="lazy" decoding="async" /><span>Mi guía completa de Cuenca</span></a></li></ul>

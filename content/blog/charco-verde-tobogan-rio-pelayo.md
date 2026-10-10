@@ -11,6 +11,18 @@ tags:
   - Spots
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DalUcTPxSOE/'
+faqTitulo: "Dudas sobre el Charco Verde y el Río Pelayo"
+faq:
+  - q: "¿Dónde está el Charco Verde de Arenas de San Pedro?"
+    a: "En Arenas de San Pedro (Ávila), en la Sierra de Gredos. No lo confundas con el Charco Verde de Guisando, que es otro distinto."
+  - q: "¿Cuánto se camina hasta el Charco Verde?"
+    a: "Unos 10 minutos desde el coche. Hasta el tobogán del Río Pelayo son 20-25 minutos más."
+  - q: "¿Cuánto cuesta bañarse en el Charco Verde?"
+    a: "Nada: el acceso al Charco Verde y al tobogán natural es gratis."
+  - q: "¿Cuál es la mejor época para bañarse en Arenas de San Pedro?"
+    a: "De primavera a principios de otoño, y sobre todo julio y agosto. Mejor entre semana para evitar gente."
+  - q: "¿Qué llevar al tobogán del Río Pelayo?"
+    a: "Escarpines o zapatillas de agua, agua y comida: no hay ningún servicio en la zona."
 ---
 En la Sierra de Gredos hay pozas que se han formado durante siglos a base de agua y roca, sin que nadie las haya tocado. El Charco Verde y el tobogán natural del Río Pelayo son dos de esos rincones, perfectos para un chapuzón sin artificios.
 
@@ -37,5 +49,8 @@ Puedes consultar la ubicación de Arenas de San Pedro en [Google Maps](https://w
 ## Qué más ver en Arenas de San Pedro
 
 Si te animas a hacer noche o alargar el día, Arenas de San Pedro da para mucho más: tiene su propio castillo, las cercanas Cuevas del Águila y hasta un monasterio, así que puedes montarte un fin de semana completo sin salir de la zona.
+
+<!--faq-->
+
 
 ¿Conocías estas pozas de Gredos? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de naturaleza por España, y échale un vistazo al resto del blog para tu próxima escapada.

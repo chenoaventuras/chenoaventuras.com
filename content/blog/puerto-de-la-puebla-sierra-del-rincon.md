@@ -11,6 +11,18 @@ tags:
   - Pueblos
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DUlwz4MjDhZ/'
+faqTitulo: "Dudas sobre la Sierra del Rincón"
+faq:
+  - q: "¿Dónde está la Sierra del Rincón?"
+    a: "En el extremo noreste de la Comunidad de Madrid, junto al límite con Guadalajara."
+  - q: "¿Qué pueblos une el Puerto de la Puebla?"
+    a: "Montejo de la Sierra, Prádena del Rincón y La Puebla de la Sierra."
+  - q: "¿Qué ver en la Sierra del Rincón?"
+    a: "El Hayedo de Montejo, la necrópolis medieval de Prádena del Rincón y las obras de arte al aire libre de La Puebla de la Sierra."
+  - q: "¿Cuándo es mejor ir al Hayedo de Montejo?"
+    a: "En otoño, cuando las hayas cambian de color."
+  - q: "¿Se puede pasar el Puerto de la Puebla en invierno?"
+    a: "Sí, pero con precaución en días de mucha nieve."
 ---
 En el extremo nororiental de la Comunidad de Madrid, la Sierra del Rincón esconde un paso de montaña que conecta tres pueblos completamente distintos entre sí, cada uno con su propio motivo para visitarlo. Se llama Puerto de la Puebla, y es tan bonito recorrerlo en coche como parar en cada uno de sus extremos.
 
@@ -35,5 +47,8 @@ Más allá de los tres pueblos, el propio **Puerto de la Puebla** es un atractiv
 ## Cómo llegar y qué tener en cuenta
 
 Es una ruta tranquila y poco transitada, ideal para desconectar, aunque conviene tener precaución en días de fuerte nevada. Puedes consultar la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20de%20la%20Puebla%2C%20Sierra%20del%20Rinc%C3%B3n%2C%20Madrid).
+
+<!--faq-->
+
 
 ¿Conocías alguno de estos tres pueblos de la Sierra del Rincón? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rutas y rincones cerca de Madrid, y échale un vistazo al resto del blog para tu próxima escapada.

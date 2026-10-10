@@ -11,6 +11,19 @@ tags:
   - Pueblos
   - Aragón
 wide: true
+faq:
+  - q: "¿Cuánto tiempo se necesita para ver Albarracín?"
+    a: "Con medio día ves el pueblo y subes a la muralla. Si quieres hacer el paseo del río y visitar los Pinares de Rodeno, mejor un día completo."
+  - q: "¿Se puede subir a la muralla de Albarracín?"
+    a: "Sí, hay un camino que sube junto a la muralla hasta la torre del Andador. Es gratis, pero la subida es empinada."
+  - q: "¿Qué son los Pinares de Rodeno?"
+    a: "Un paisaje protegido a unos 15 minutos de Albarracín con rocas de arenisca roja, pinares y abrigos con pinturas rupestres. Es también un destino de escalada en bloque muy conocido."
+  - q: "¿Dónde aparcar en Albarracín?"
+    a: "En los aparcamientos de la entrada del pueblo. El casco antiguo tiene calles muy estrechas y es mejor recorrerlo andando."
+  - q: "¿A cuánto está Albarracín de Teruel?"
+    a: "A unos 35-40 minutos en coche por la A-1512."
+  - q: "¿Cómo llegar a Albarracín desde Valencia o Zaragoza?"
+    a: "En coche, en unas dos horas y media desde cualquiera de las dos."
 ---
 Casas de color rosado colgadas sobre una hoz del río, callejuelas tan estrechas que los aleros casi se tocan y una muralla que trepa por la montaña. **Albarracín** parece un decorado medieval, pero es un pueblo de verdad, y uno de los más bonitos de España.
 
@@ -41,9 +54,7 @@ Y a 15 minutos tienes los **Pinares de Rodeno**: rocas rojas, pinturas rupestres
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube a la muralla al atardecer</b>: la luz sobre las casas rosadas es espectacular.</li><li><b>Duerme allí</b>: cuando se van las excursiones, el pueblo de noche es otro.</li><li><b>Haz una ruta en Rodeno</b>: las rutas de las pinturas rupestres son cortas y aptas para casi todos.</li><li><b>¿Escalas?</b>: Rodeno es uno de los grandes destinos de búlder de Europa: lleva tu crashpad.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Albarracín</h2></div>
-<div class="faq"><details><summary>¿Cuánto tiempo se necesita para ver Albarracín?</summary><p>Con medio día ves el pueblo y subes a la muralla. Si quieres hacer el paseo del río y visitar los Pinares de Rodeno, mejor un día completo.</p></details><details><summary>¿Se puede subir a la muralla de Albarracín?</summary><p>Sí, hay un camino que sube junto a la muralla hasta la torre del Andador. Es gratis, pero la subida es empinada.</p></details><details><summary>¿Qué son los Pinares de Rodeno?</summary><p>Un paisaje protegido a unos 15 minutos de Albarracín con rocas de arenisca roja, pinares y abrigos con pinturas rupestres. Es también un destino de escalada en bloque muy conocido.</p></details><details><summary>¿Dónde aparcar en Albarracín?</summary><p>En los aparcamientos de la entrada del pueblo. El casco antiguo tiene calles muy estrechas y es mejor recorrerlo andando.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto tiempo se necesita para ver Albarracín?", "acceptedAnswer": {"@type": "Answer", "text": "Con medio día ves el pueblo y subes a la muralla. Si quieres hacer el paseo del río y visitar los Pinares de Rodeno, mejor un día completo."}}, {"@type": "Question", "name": "¿Se puede subir a la muralla de Albarracín?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, hay un camino que sube junto a la muralla hasta la torre del Andador. Es gratis, pero la subida es empinada."}}, {"@type": "Question", "name": "¿Qué son los Pinares de Rodeno?", "acceptedAnswer": {"@type": "Answer", "text": "Un paisaje protegido a unos 15 minutos de Albarracín con rocas de arenisca roja, pinares y abrigos con pinturas rupestres. Es también un destino de escalada en bloque muy conocido."}}, {"@type": "Question", "name": "¿Dónde aparcar en Albarracín?", "acceptedAnswer": {"@type": "Answer", "text": "En los aparcamientos de la entrada del pueblo. El casco antiguo tiene calles muy estrechas y es mejor recorrerlo andando."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más pueblos</span><h2>Más pueblos con encanto</h2></div>
 <ul class="nearby"><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Guía de Cuenca" loading="lazy" decoding="async" /><span>Guía de Cuenca</span></a></li><li><a href="/blog/pedraza-que-ver.html"><img src="/assets/img/instagram/18089113739420968.webp" alt="Pedraza" loading="lazy" decoding="async" /><span>Pedraza</span></a></li></ul>

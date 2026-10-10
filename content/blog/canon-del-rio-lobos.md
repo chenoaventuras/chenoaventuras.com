@@ -11,6 +11,20 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+faqTitulo: "Dudas sobre el Cañón del Río Lobos"
+faq:
+  - q: "¿Por qué dicen que la ermita de San Bartolomé es el centro del mundo?"
+    a: "Según la leyenda, está a la misma distancia del cabo de Creus y del cabo de Finisterre, los dos extremos de la península, y los templarios la consideraban un centro del mundo."
+  - q: "¿Se puede entrar en la ermita de San Bartolomé?"
+    a: "Solo en fechas concretas, normalmente en verano. Consulta en la Casa del Parque antes de ir."
+  - q: "¿Es difícil la ruta a la ermita?"
+    a: "No. Desde los aparcamientos es un paseo llano por el fondo del cañón, apto para casi todo el mundo."
+  - q: "¿Dónde está el Cañón del Río Lobos?"
+    a: "Entre Soria y Burgos. La entrada más habitual es Ucero, cerca de El Burgo de Osma."
+  - q: "¿Cuánto dura la ruta a la ermita del Cañón del Río Lobos?"
+    a: "Ir y volver a la ermita de San Bartolomé lleva 1-2 horas por un paseo llano. Si recorres más cañón, cuenta medio día."
+  - q: "¿Cómo llegar al Cañón del Río Lobos?"
+    a: "La entrada más usada es por Ucero, a 15 minutos de El Burgo de Osma. Desde allí, sigue la carretera del parque hasta los aparcamientos señalizados."
 ---
 Paredes de roca de cien metros, buitres planeando por encima de tu cabeza y, en mitad del cañón, una **ermita templaria** pegada a la pared. Dicen que está justo a medio camino entre los dos extremos de la península, en el **centro del mundo**.
 
@@ -40,9 +54,7 @@ El **Cañón del Río Lobos** es uno de los rincones más mágicos de Soria 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Lleva linterna</b>: para asomarte a la Cueva Grande.</li><li><b>Ve en otoño</b>: los chopos del río se ponen amarillos y el cañón está precioso.</li><li><b>Prismáticos</b>: para ver de cerca a los buitres en las paredes.</li><li><b>Come en El Burgo de Osma</b>: a 15 minutos, famoso por su matanza y sus torreznos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Cañón del Río Lobos</h2></div>
-<div class="faq"><details><summary>¿Por qué dicen que la ermita de San Bartolomé es el centro del mundo?</summary><p>Según la leyenda, está a la misma distancia del cabo de Creus y del cabo de Finisterre, los dos extremos de la península, y los templarios la consideraban un centro del mundo.</p></details><details><summary>¿Se puede entrar en la ermita de San Bartolomé?</summary><p>Solo en fechas concretas, normalmente en verano. Consulta en la Casa del Parque antes de ir.</p></details><details><summary>¿Es difícil la ruta a la ermita?</summary><p>No. Desde los aparcamientos es un paseo llano por el fondo del cañón, apto para casi todo el mundo.</p></details><details><summary>¿Dónde está el Cañón del Río Lobos?</summary><p>Entre Soria y Burgos. La entrada más habitual es Ucero, cerca de El Burgo de Osma.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué dicen que la ermita de San Bartolomé es el centro del mundo?", "acceptedAnswer": {"@type": "Answer", "text": "Según la leyenda, está a la misma distancia del cabo de Creus y del cabo de Finisterre, los dos extremos de la península, y los templarios la consideraban un centro del mundo."}}, {"@type": "Question", "name": "¿Se puede entrar en la ermita de San Bartolomé?", "acceptedAnswer": {"@type": "Answer", "text": "Solo en fechas concretas, normalmente en verano. Consulta en la Casa del Parque antes de ir."}}, {"@type": "Question", "name": "¿Es difícil la ruta a la ermita?", "acceptedAnswer": {"@type": "Answer", "text": "No. Desde los aparcamientos es un paseo llano por el fondo del cañón, apto para casi todo el mundo."}}, {"@type": "Question", "name": "¿Dónde está el Cañón del Río Lobos?", "acceptedAnswer": {"@type": "Answer", "text": "Entre Soria y Burgos. La entrada más habitual es Ucero, cerca de El Burgo de Osma."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/burgo-de-osma-que-ver.html"><img src="/assets/img/instagram/18092599556079124.webp" alt="El Burgo de Osma" loading="lazy" decoding="async" /><span>El Burgo de Osma</span></a></li><li><a href="/blog/medinaceli-que-ver.html"><img src="/assets/img/blog/medinaceli-que-ver/portada.webp" alt="Medinaceli" loading="lazy" decoding="async" /><span>Medinaceli</span></a></li><li><a href="/blog/pedraza-que-ver.html"><img src="/assets/img/instagram/18089113739420968.webp" alt="Pedraza" loading="lazy" decoding="async" /><span>Pedraza</span></a></li></ul>

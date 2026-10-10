@@ -11,6 +11,16 @@ tags:
   - Curiosidades
   - Región de Murcia
 wide: true
+faqTitulo: "Dudas sobre el naufragio del Sirio"
+faq:
+  - q: "¿Qué fue el naufragio del Sirio?"
+    a: "El hundimiento de un transatlántico italiano frente a Cabo de Palos el 4 de agosto de 1906."
+  - q: "¿Cuántas personas murieron?"
+    a: "No se sabe con exactitud: se habla de unas 240, pero seguramente fueron más."
+  - q: "¿Se puede bucear en el Sirio?"
+    a: "Sí, con permiso de la reserva marina y nivel avanzado: está a 40-55 metros."
+  - q: "¿Quién fue Vicente Buigues?"
+    a: "El patrón de la barca Joven Miguel, que rescató a unas 400 personas."
 ---
 Seis años antes del Titanic, el Mediterráneo vivió su propia tragedia. El **4 de agosto de 1906**, el transatlántico italiano **Sirio** chocó contra unas rocas frente a **Cabo de Palos**. Iba lleno de emigrantes rumbo a América.
 
@@ -39,9 +49,7 @@ Te cuento qué pasó, los héroes de la historia y dónde descansan sus restos �
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Buceo</b>: si tienes nivel avanzado, centros de buceo de Cabo de Palos organizan inmersiones con permiso.</li><li><b>Snorkel</b>: si no buceas, la reserva marina tiene fondos increíbles cerca de la orilla.</li><li><b>Sube al faro</b>: el paseo hasta el faro tiene vistas a las Hormigas.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el naufragio del Sirio</h2></div>
-<div class="faq"><details><summary>¿Qué fue el naufragio del Sirio?</summary><p>El hundimiento de un transatlántico italiano frente a Cabo de Palos el 4 de agosto de 1906.</p></details><details><summary>¿Cuántas personas murieron?</summary><p>No se sabe con exactitud: se habla de unas 240, pero seguramente fueron más.</p></details><details><summary>¿Se puede bucear en el Sirio?</summary><p>Sí, con permiso de la reserva marina y nivel avanzado: está a 40-55 metros.</p></details><details><summary>¿Quién fue Vicente Buigues?</summary><p>El patrón de la barca Joven Miguel, que rescató a unas 400 personas.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué fue el naufragio del Sirio?", "acceptedAnswer": {"@type": "Answer", "text": "El hundimiento de un transatlántico italiano frente a Cabo de Palos el 4 de agosto de 1906."}}, {"@type": "Question", "name": "¿Cuántas personas murieron?", "acceptedAnswer": {"@type": "Answer", "text": "No se sabe con exactitud: se habla de unas 240, pero seguramente fueron más."}}, {"@type": "Question", "name": "¿Se puede bucear en el Sirio?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, con permiso de la reserva marina y nivel avanzado: está a 40-55 metros."}}, {"@type": "Question", "name": "¿Quién fue Vicente Buigues?", "acceptedAnswer": {"@type": "Answer", "text": "El patrón de la barca Joven Miguel, que rescató a unas 400 personas."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Snorkel en Cabo de Palos" loading="lazy" decoding="async" /><span>Snorkel en Cabo de Palos</span></a></li><li><a href="/blog/bateria-castillitos-cartagena.html"><img src="/assets/img/destinos/bateria-castillitos.webp" alt="Batería de Castillitos" loading="lazy" decoding="async" /><span>Batería de Castillitos</span></a></li><li><a href="/blog/cormoran-cabo-de-palos.html"><img src="/assets/img/instagram/18097458002564101.webp" alt="Cormorán en Cabo de Palos" loading="lazy" decoding="async" /><span>Cormorán en Cabo de Palos</span></a></li></ul>

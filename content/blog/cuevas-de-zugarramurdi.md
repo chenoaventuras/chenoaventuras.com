@@ -12,6 +12,15 @@ tags:
   - Navarra
 wide: true
 draft: true
+faq:
+  - q: "¿Qué es un akelarre?"
+    a: "Viene del euskera aker (macho cabrío) y larre (prado). Era el nombre de las supuestas reuniones nocturnas de brujas con el diablo."
+  - q: "¿Qué pasó en Zugarramurdi en 1610?"
+    a: "Varios vecinos de Zugarramurdi y la comarca fueron acusados de brujería y juzgados por la Inquisición en el auto de fe de Logroño de 1610. Algunos murieron en la hoguera y otros en prisión."
+  - q: "¿Cuánto cuesta la entrada a la Cueva de las Brujas?"
+    a: "La cueva y el Museo de las Brujas tienen entrada por separado, de unos 6,50 € cada una para adultos, con descuento si compras las dos. Conviene reservar online."
+  - q: "¿Qué ver cerca de Zugarramurdi?"
+    a: "Las Cuevas de Urdax, a 4 km, y los pueblos del Valle de Baztán como Elizondo o Arizkun. También las cuevas de Sare, al otro lado de la frontera."
 ---
 Un riachuelo que atraviesa la montaña, una cueva enorme abierta por el agua y un pueblo de caseríos blancos en la frontera con Francia. En **Zugarramurdi** se juntaron hace cuatro siglos la superstición, los chivatazos entre vecinos y la Inquisición, y el resultado fue uno de los juicios por brujería más famosos de Europa.
 
@@ -44,9 +53,7 @@ Hoy puedes recorrer la cueva donde supuestamente se celebraban los **akelarres**
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Empieza por el museo</b>: entender la historia antes de entrar cambia por completo la visita a la cueva.</li><li><b>Reserva online</b>: en verano, Semana Santa y puentes las entradas vuelan.</li><li><b>Ve en día de lluvia o niebla</b>: el valle verde y la cueva con bruma tienen otro ambiente.</li><li><b>Prueba la cocina del Baztán</b>: cordero, alubias y la cuajada de la zona en cualquier sidrería o restaurante del valle.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Zugarramurdi</h2></div>
-<div class="faq"><details><summary>¿Qué es un akelarre?</summary><p>Viene del euskera aker (macho cabrío) y larre (prado). Era el nombre de las supuestas reuniones nocturnas de brujas con el diablo.</p></details><details><summary>¿Qué pasó en Zugarramurdi en 1610?</summary><p>Varios vecinos de Zugarramurdi y la comarca fueron acusados de brujería y juzgados por la Inquisición en el auto de fe de Logroño de 1610. Algunos murieron en la hoguera y otros en prisión.</p></details><details><summary>¿Cuánto cuesta la entrada a la Cueva de las Brujas?</summary><p>La cueva y el Museo de las Brujas tienen entrada por separado, de unos 6,50 € cada una para adultos, con descuento si compras las dos. Conviene reservar online.</p></details><details><summary>¿Qué ver cerca de Zugarramurdi?</summary><p>Las Cuevas de Urdax, a 4 km, y los pueblos del Valle de Baztán como Elizondo o Arizkun. También las cuevas de Sare, al otro lado de la frontera.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué es un akelarre?", "acceptedAnswer": {"@type": "Answer", "text": "Viene del euskera aker (macho cabrío) y larre (prado). Era el nombre de las supuestas reuniones nocturnas de brujas con el diablo."}}, {"@type": "Question", "name": "¿Qué pasó en Zugarramurdi en 1610?", "acceptedAnswer": {"@type": "Answer", "text": "Varios vecinos de Zugarramurdi y la comarca fueron acusados de brujería y juzgados por la Inquisición en el auto de fe de Logroño de 1610. Algunos murieron en la hoguera y otros en prisión."}}, {"@type": "Question", "name": "¿Cuánto cuesta la entrada a la Cueva de las Brujas?", "acceptedAnswer": {"@type": "Answer", "text": "La cueva y el Museo de las Brujas tienen entrada por separado, de unos 6,50 € cada una para adultos, con descuento si compras las dos. Conviene reservar online."}}, {"@type": "Question", "name": "¿Qué ver cerca de Zugarramurdi?", "acceptedAnswer": {"@type": "Answer", "text": "Las Cuevas de Urdax, a 4 km, y los pueblos del Valle de Baztán como Elizondo o Arizkun. También las cuevas de Sare, al otro lado de la frontera."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el norte</h2></div>
 <ul class="nearby"><li><a href="/blog/bardenas-reales.html"><img src="/assets/img/blog/bardenas-reales/portada.webp" alt="Bardenas Reales" loading="lazy" decoding="async" /><span>Bardenas Reales</span></a></li><li><a href="/blog/hondarribia-que-ver.html"><img src="/assets/img/blog/hondarribia-que-ver/plaza.webp" alt="Hondarribia" loading="lazy" decoding="async" /><span>Hondarribia</span></a></li><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li></ul>

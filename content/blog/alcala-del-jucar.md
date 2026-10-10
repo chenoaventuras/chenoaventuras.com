@@ -11,6 +11,19 @@ tags:
   - Pueblos
   - Castilla-La Mancha
 wide: true
+faq:
+  - q: "¿Qué ver en Alcalá del Júcar?"
+    a: "Las casas colgadas sobre la hoz, las cuevas que atraviesan la montaña (como la Cueva del Diablo y la de Masagó), el castillo almohade, el puente sobre el Júcar y la playa fluvial."
+  - q: "¿Se pueden visitar las cuevas de Alcalá del Júcar?"
+    a: "Sí. Varias casas-cueva se pueden visitar con una entrada pequeña; algunas incluyen consumición en su terraza."
+  - q: "¿Hay playa en Alcalá del Júcar?"
+    a: "Sí, una playa fluvial junto al río Júcar, muy concurrida en verano."
+  - q: "¿Cuánto tiempo hace falta para ver Alcalá del Júcar?"
+    a: "Medio día para lo principal; un día completo si quieres bañarte en el río o hacer alguna ruta por la hoz."
+  - q: "¿Cómo llegar a Alcalá del Júcar?"
+    a: "En coche: está a unos 50 minutos de Albacete y a hora y media de Valencia."
+  - q: "¿Qué hacer en Alcalá del Júcar con niños?"
+    a: "Entrar en las cuevas que atraviesan la montaña, subir al castillo y, en verano, bañarse en la playa fluvial."
 ---
 Casas blancas encaramadas a una pared de roca, un castillo coronándolo todo y un río verde esmeralda a sus pies. **Alcalá del Júcar** parece un pueblo colgado de la hoz que ha abierto el río Júcar en plena Manchuela de Albacete.
 
@@ -41,9 +54,7 @@ Y lo mejor está dentro de la roca: **cuevas que atraviesan la montaña de lado 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Entra en una cueva</b>: es la experiencia más especial de Alcalá: atravesar la montaña por dentro.</li><li><b>Calzado cómodo</b>: las cuestas hasta el castillo son serias.</li><li><b>Ven en verano a bañarte</b>: la playa fluvial del Júcar es muy agradable.</li><li><b>Recorre la hoz</b>: hay rutas a pie y miradores en la carretera hacia Jorquera y Cofrentes.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Alcalá del Júcar</h2></div>
-<div class="faq"><details><summary>¿Qué ver en Alcalá del Júcar?</summary><p>Las casas colgadas sobre la hoz, las cuevas que atraviesan la montaña (como la Cueva del Diablo y la de Masagó), el castillo almohade, el puente sobre el Júcar y la playa fluvial.</p></details><details><summary>¿Se pueden visitar las cuevas de Alcalá del Júcar?</summary><p>Sí. Varias casas-cueva se pueden visitar con una entrada pequeña; algunas incluyen consumición en su terraza.</p></details><details><summary>¿Hay playa en Alcalá del Júcar?</summary><p>Sí, una playa fluvial junto al río Júcar, muy concurrida en verano.</p></details><details><summary>¿Cuánto tiempo hace falta para ver Alcalá del Júcar?</summary><p>Medio día para lo principal; un día completo si quieres bañarte en el río o hacer alguna ruta por la hoz.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en Alcalá del Júcar?", "acceptedAnswer": {"@type": "Answer", "text": "Las casas colgadas sobre la hoz, las cuevas que atraviesan la montaña (como la Cueva del Diablo y la de Masagó), el castillo almohade, el puente sobre el Júcar y la playa fluvial."}}, {"@type": "Question", "name": "¿Se pueden visitar las cuevas de Alcalá del Júcar?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Varias casas-cueva se pueden visitar con una entrada pequeña; algunas incluyen consumición en su terraza."}}, {"@type": "Question", "name": "¿Hay playa en Alcalá del Júcar?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, una playa fluvial junto al río Júcar, muy concurrida en verano."}}, {"@type": "Question", "name": "¿Cuánto tiempo hace falta para ver Alcalá del Júcar?", "acceptedAnswer": {"@type": "Answer", "text": "Medio día para lo principal; un día completo si quieres bañarte en el río o hacer alguna ruta por la hoz."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más pueblos</span><h2>Pueblos colgados y en la roca</h2></div>
 <ul class="nearby"><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Guía de Cuenca" loading="lazy" decoding="async" /><span>Guía de Cuenca</span></a></li><li><a href="/blog/albarracin-que-ver.html"><img src="/assets/img/blog/albarracin-que-ver/portada.webp" alt="Albarracín" loading="lazy" decoding="async" /><span>Albarracín</span></a></li></ul>

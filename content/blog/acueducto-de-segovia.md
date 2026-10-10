@@ -11,6 +11,23 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+faq:
+  - q: "¿Cuánto mide el Acueducto de Segovia?"
+    a: "Tiene más de 160 arcos y en su punto más alto, en la plaza del Azoguejo, alcanza casi 30 metros."
+  - q: "¿Cómo se sostiene el Acueducto sin cemento?"
+    a: "Sus bloques de granito están colocados en equilibrio unos sobre otros, sin argamasa: el propio peso y la forma de los arcos los mantienen en su sitio."
+  - q: "¿Se puede entrar gratis al Alcázar de Segovia?"
+    a: "Sí, los martes de 14:00 a 16:00 la visita al palacio es gratuita para ciudadanos de la Unión Europea, comprando la entrada en taquilla y según aforo (no aplica en festivos)."
+  - q: "¿Cuánto tiempo hace falta para ver Segovia?"
+    a: "Un día da para el Acueducto, la catedral y el Alcázar. Si quieres hacer alguna excursión cercana, mejor dos."
+  - q: "¿Se puede subir al Acueducto de Segovia?"
+    a: "Encima no, pero sí por las escaleras de su lateral, desde donde lo ves desde arriba. Es gratis y a cualquier hora."
+  - q: "¿De cuándo es el Acueducto de Segovia?"
+    a: "Lo construyeron los romanos a finales del siglo I o principios del II, y funcionó hasta bien entrado el siglo XX."
+  - q: "¿Cómo llegar a Segovia desde Madrid?"
+    a: "En AVE en menos de media hora hasta Segovia-Guiomar, y de allí en autobús urbano al Acueducto. En coche, algo más de una hora por la AP-6/AP-61."
+  - q: "¿Dónde aparcar cerca del Acueducto de Segovia?"
+    a: "En los aparcamientos cercanos al Acueducto o en las afueras: el centro se recorre mejor a pie."
 ---
 Más de 160 arcos de granito, casi 30 metros de altura en su punto más alto y **ni una gota de argamasa** sujetando sus piedras. El **Acueducto de Segovia** lleva unos 2.000 años en pie, y es solo el principio: en la misma ciudad tienes un **Alcázar de cuento** y una de las catedrales más bonitas de España.
 
@@ -41,9 +58,7 @@ Te cuento qué ver, las mejores vistas y algunos trucos para la visita 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Sube a la torre del Alcázar</b>: tiene escalones de sobra, pero las vistas lo compensan.</li><li><b>Come cochinillo</b>: es el plato estrella; lo tradicional es «partirlo con el plato».</li><li><b>Mira Segovia desde el aire</b>: si te va la aventura, hay vuelos en globo al amanecer sobre la ciudad.</li><li><b>Vuelve de noche</b>: el Acueducto y la catedral iluminados son otra visita.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Segovia</h2></div>
-<div class="faq"><details><summary>¿Cuánto mide el Acueducto de Segovia?</summary><p>Tiene más de 160 arcos y en su punto más alto, en la plaza del Azoguejo, alcanza casi 30 metros.</p></details><details><summary>¿Cómo se sostiene el Acueducto sin cemento?</summary><p>Sus bloques de granito están colocados en equilibrio unos sobre otros, sin argamasa: el propio peso y la forma de los arcos los mantienen en su sitio.</p></details><details><summary>¿Se puede entrar gratis al Alcázar de Segovia?</summary><p>Sí, los martes de 14:00 a 16:00 la visita al palacio es gratuita para ciudadanos de la Unión Europea, comprando la entrada en taquilla y según aforo (no aplica en festivos).</p></details><details><summary>¿Cuánto tiempo hace falta para ver Segovia?</summary><p>Un día da para el Acueducto, la catedral y el Alcázar. Si quieres hacer alguna excursión cercana, mejor dos.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto mide el Acueducto de Segovia?", "acceptedAnswer": {"@type": "Answer", "text": "Tiene más de 160 arcos y en su punto más alto, en la plaza del Azoguejo, alcanza casi 30 metros."}}, {"@type": "Question", "name": "¿Cómo se sostiene el Acueducto sin cemento?", "acceptedAnswer": {"@type": "Answer", "text": "Sus bloques de granito están colocados en equilibrio unos sobre otros, sin argamasa: el propio peso y la forma de los arcos los mantienen en su sitio."}}, {"@type": "Question", "name": "¿Se puede entrar gratis al Alcázar de Segovia?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, los martes de 14:00 a 16:00 la visita al palacio es gratuita para ciudadanos de la Unión Europea, comprando la entrada en taquilla y según aforo (no aplica en festivos)."}}, {"@type": "Question", "name": "¿Cuánto tiempo hace falta para ver Segovia?", "acceptedAnswer": {"@type": "Answer", "text": "Un día da para el Acueducto, la catedral y el Alcázar. Si quieres hacer alguna excursión cercana, mejor dos."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Cerca de Segovia</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/vuelo-en-globo-segovia.html"><img src="/assets/img/instagram/18067614455079687.webp" alt="Vuelo en globo sobre Segovia" loading="lazy" decoding="async" /><span>Vuelo en globo sobre Segovia</span></a></li><li><a href="/blog/pedraza-que-ver.html"><img src="/assets/img/instagram/18089113739420968.webp" alt="Pedraza" loading="lazy" decoding="async" /><span>Pedraza</span></a></li><li><a href="/blog/buitrago-del-lozoya-que-ver.html"><img src="/assets/img/instagram/18567364960036817.webp" alt="Buitrago del Lozoya" loading="lazy" decoding="async" /><span>Buitrago del Lozoya</span></a></li></ul>

@@ -11,6 +11,18 @@ tags:
   - Actividades
   - Asturias
 wide: true
+faqTitulo: "Dudas sobre la Ruta del Cares"
+faq:
+  - q: "¿Cuántos kilómetros tiene la Ruta del Cares?"
+    a: "Unos 12 km por sentido entre Poncebos y Caín, unos 24 km si haces ida y vuelta."
+  - q: "¿Es difícil la Ruta del Cares?"
+    a: "Tiene poca dificultad técnica, pero es larga. El tramo más duro es la subida inicial desde Poncebos."
+  - q: "¿Cómo se vuelve de la Ruta del Cares?"
+    a: "Haciendo el camino de vuelta a pie o contratando un taxi o transfer, porque por carretera hay más de 2 horas entre Caín y Poncebos."
+  - q: "¿Se puede hacer la Ruta del Cares con niños?"
+    a: "Sí, con niños acostumbrados a caminar y siempre lejos del borde, porque en muchos tramos no hay barandilla."
+  - q: "¿Dónde empieza la Ruta del Cares?"
+    a: "Se puede empezar en Poncebos (Asturias) o en Caín (León). Son unos 12 km por sentido entre los dos pueblos."
 ---
 Un camino excavado en la roca, colgado sobre un precipicio, con el río Cares turquesa allá abajo y paredes de mil metros a los lados. La **Ruta del Cares** es probablemente la ruta de senderismo más famosa de España, y la llaman **la garganta divina**.
 
@@ -41,9 +53,7 @@ Te cuento cómo hacerla sin morir en el intento (y cómo volver, que es la gran 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Empieza temprano</b>: en verano hace calor y a media mañana hay mucha gente.</li><li><b>Lleva agua y comida</b>: no hay fuentes fiables en el camino.</li><li><b>No te acerques al borde</b>: en muchos tramos no hay barandilla.</li><li><b>Si no quieres hacerla entera</b>: desde Poncebos, el tramo hasta los Collados ya merece la pena.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Ruta del Cares</h2></div>
-<div class="faq"><details><summary>¿Cuántos kilómetros tiene la Ruta del Cares?</summary><p>Unos 12 km por sentido entre Poncebos y Caín, unos 24 km si haces ida y vuelta.</p></details><details><summary>¿Es difícil la Ruta del Cares?</summary><p>Tiene poca dificultad técnica, pero es larga. El tramo más duro es la subida inicial desde Poncebos.</p></details><details><summary>¿Cómo se vuelve de la Ruta del Cares?</summary><p>Haciendo el camino de vuelta a pie o contratando un taxi o transfer, porque por carretera hay más de 2 horas entre Caín y Poncebos.</p></details><details><summary>¿Se puede hacer la Ruta del Cares con niños?</summary><p>Sí, con niños acostumbrados a caminar y siempre lejos del borde, porque en muchos tramos no hay barandilla.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuántos kilómetros tiene la Ruta del Cares?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 12 km por sentido entre Poncebos y Caín, unos 24 km si haces ida y vuelta."}}, {"@type": "Question", "name": "¿Es difícil la Ruta del Cares?", "acceptedAnswer": {"@type": "Answer", "text": "Tiene poca dificultad técnica, pero es larga. El tramo más duro es la subida inicial desde Poncebos."}}, {"@type": "Question", "name": "¿Cómo se vuelve de la Ruta del Cares?", "acceptedAnswer": {"@type": "Answer", "text": "Haciendo el camino de vuelta a pie o contratando un taxi o transfer, porque por carretera hay más de 2 horas entre Caín y Poncebos."}}, {"@type": "Question", "name": "¿Se puede hacer la Ruta del Cares con niños?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, con niños acostumbrados a caminar y siempre lejos del borde, porque en muchos tramos no hay barandilla."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el norte</h2></div>
 <ul class="nearby"><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/cudillero-que-ver.html"><img src="/assets/img/blog/cudillero-que-ver/portada.webp" alt="Cudillero" loading="lazy" decoding="async" /><span>Cudillero</span></a></li><li><a href="/blog/partenon-de-las-fraguas-cantabria.html"><img src="/assets/img/instagram/18073249217294344.webp" alt="Las Fraguas" loading="lazy" decoding="async" /><span>Las Fraguas</span></a></li></ul>

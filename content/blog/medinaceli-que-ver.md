@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+faq:
+  - q: "¿Qué tiene de especial el arco de Medinaceli?"
+    a: "Es el único arco romano de tres vanos que se conserva en España, y su silueta inspira las señales de tráfico de monumentos."
+  - q: "¿Cuánto tiempo hace falta para ver Medinaceli?"
+    a: "Con dos o tres horas recorres el arco, la Plaza Mayor y las calles principales."
+  - q: "¿Hay que pagar para ver el arco romano?"
+    a: "No, está al aire libre a la entrada del pueblo y se puede ver gratis."
+  - q: "¿Qué ver cerca de Medinaceli?"
+    a: "Sigüenza, a menos de media hora, y el Barranco del río Dulce."
+  - q: "¿A cuánto está Medinaceli de Madrid?"
+    a: "A algo más de hora y media por la A-2, y a dos horas de Zaragoza. Está en el sur de Soria."
 ---
 Seguro que lo has visto cientos de veces sin saberlo: el arco que aparece en las **señales marrones de monumentos** de las carreteras españolas está inspirado en uno real. Está en **Medinaceli**, un pueblo de piedra en lo alto de un cerro de Soria, y es el **único arco romano de tres vanos** que se conserva en España.
 
@@ -41,9 +52,7 @@ Te cuento qué ver en uno de los pueblos más bonitos de Castilla 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve al atardecer</b>: la piedra del arco y la plaza se vuelven doradas.</li><li><b>Abrígate en invierno</b>: a 1.200 metros, el frío soriano se nota.</li><li><b>Combínalo con Sigüenza</b>: está a menos de media hora.</li><li><b>Busca la señal</b>: haz la foto del arco… y la de la señal que lo representa.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Medinaceli</h2></div>
-<div class="faq"><details><summary>¿Qué tiene de especial el arco de Medinaceli?</summary><p>Es el único arco romano de tres vanos que se conserva en España, y su silueta inspira las señales de tráfico de monumentos.</p></details><details><summary>¿Cuánto tiempo hace falta para ver Medinaceli?</summary><p>Con dos o tres horas recorres el arco, la Plaza Mayor y las calles principales.</p></details><details><summary>¿Hay que pagar para ver el arco romano?</summary><p>No, está al aire libre a la entrada del pueblo y se puede ver gratis.</p></details><details><summary>¿Qué ver cerca de Medinaceli?</summary><p>Sigüenza, a menos de media hora, y el Barranco del río Dulce.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué tiene de especial el arco de Medinaceli?", "acceptedAnswer": {"@type": "Answer", "text": "Es el único arco romano de tres vanos que se conserva en España, y su silueta inspira las señales de tráfico de monumentos."}}, {"@type": "Question", "name": "¿Cuánto tiempo hace falta para ver Medinaceli?", "acceptedAnswer": {"@type": "Answer", "text": "Con dos o tres horas recorres el arco, la Plaza Mayor y las calles principales."}}, {"@type": "Question", "name": "¿Hay que pagar para ver el arco romano?", "acceptedAnswer": {"@type": "Answer", "text": "No, está al aire libre a la entrada del pueblo y se puede ver gratis."}}, {"@type": "Question", "name": "¿Qué ver cerca de Medinaceli?", "acceptedAnswer": {"@type": "Answer", "text": "Sigüenza, a menos de media hora, y el Barranco del río Dulce."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Cerca</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/siguenza-que-ver.html"><img src="/assets/img/blog/siguenza-que-ver/portada.webp" alt="Sigüenza" loading="lazy" decoding="async" /><span>Sigüenza</span></a></li><li><a href="/blog/burgo-de-osma-que-ver.html"><img src="/assets/img/instagram/18092599556079124.webp" alt="El Burgo de Osma" loading="lazy" decoding="async" /><span>El Burgo de Osma</span></a></li><li><a href="/blog/albarracin-que-ver.html"><img src="/assets/img/blog/albarracin-que-ver/portada.webp" alt="Albarracín" loading="lazy" decoding="async" /><span>Albarracín</span></a></li></ul>

@@ -11,6 +11,19 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+faq:
+  - q: "¿Qué hay que ver en Astorga?"
+    a: "El Palacio Episcopal de Gaudí, la catedral, las murallas romanas, la Plaza Mayor con su reloj de maragatos y el Museo del Chocolate."
+  - q: "¿Por qué hay un palacio de Gaudí en Astorga?"
+    a: "Lo encargó a finales del siglo XIX el obispo de Astorga, que era amigo de Gaudí, tras el incendio del palacio anterior."
+  - q: "¿Qué es el cocido maragato?"
+    a: "Un cocido típico de la Maragatería que se come al revés: primero las carnes, después los garbanzos y verduras, y al final la sopa."
+  - q: "¿Qué pueblo visitar cerca de Astorga?"
+    a: "Castrillo de los Polvazares, un pueblo maragato de piedra a unos 5 km, famoso por su conjunto histórico y su cocido."
+  - q: "¿A cuánto está Astorga de León?"
+    a: "A unos 45 minutos en coche por la autovía."
+  - q: "¿Cómo se come el cocido maragato?"
+    a: "Al revés: primero las carnes, luego los garbanzos y las verduras, y al final la sopa."
 ---
 Un **palacio de Gaudí** que parece un castillo de cuento, una catedral gigantesca justo al lado, murallas romanas y… un museo dedicado al **chocolate**. **Astorga** es una de esas ciudades pequeñas que sorprenden muchísimo, y además es parada clave del Camino de Santiago.
 
@@ -41,9 +54,7 @@ Te cuento qué ver, qué comer (spoiler: el cocido se come al revés) y qué pue
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira el reloj de la plaza a en punto</b>: los maragatos del Ayuntamiento tocan la campana.</li><li><b>Come cocido maragato</b>: en Astorga o en Castrillo de los Polvazares; ve con hambre.</li><li><b>Compra chocolate y mantecadas</b>: son los dulces típicos de la ciudad.</li><li><b>Haz un tramo del Camino</b>: si te gusta caminar, la ruta hacia la Maragatería es preciosa.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Astorga</h2></div>
-<div class="faq"><details><summary>¿Qué hay que ver en Astorga?</summary><p>El Palacio Episcopal de Gaudí, la catedral, las murallas romanas, la Plaza Mayor con su reloj de maragatos y el Museo del Chocolate.</p></details><details><summary>¿Por qué hay un palacio de Gaudí en Astorga?</summary><p>Lo encargó a finales del siglo XIX el obispo de Astorga, que era amigo de Gaudí, tras el incendio del palacio anterior.</p></details><details><summary>¿Qué es el cocido maragato?</summary><p>Un cocido típico de la Maragatería que se come al revés: primero las carnes, después los garbanzos y verduras, y al final la sopa.</p></details><details><summary>¿Qué pueblo visitar cerca de Astorga?</summary><p>Castrillo de los Polvazares, un pueblo maragato de piedra a unos 5 km, famoso por su conjunto histórico y su cocido.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué hay que ver en Astorga?", "acceptedAnswer": {"@type": "Answer", "text": "El Palacio Episcopal de Gaudí, la catedral, las murallas romanas, la Plaza Mayor con su reloj de maragatos y el Museo del Chocolate."}}, {"@type": "Question", "name": "¿Por qué hay un palacio de Gaudí en Astorga?", "acceptedAnswer": {"@type": "Answer", "text": "Lo encargó a finales del siglo XIX el obispo de Astorga, que era amigo de Gaudí, tras el incendio del palacio anterior."}}, {"@type": "Question", "name": "¿Qué es el cocido maragato?", "acceptedAnswer": {"@type": "Answer", "text": "Un cocido típico de la Maragatería que se come al revés: primero las carnes, después los garbanzos y verduras, y al final la sopa."}}, {"@type": "Question", "name": "¿Qué pueblo visitar cerca de Astorga?", "acceptedAnswer": {"@type": "Answer", "text": "Castrillo de los Polvazares, un pueblo maragato de piedra a unos 5 km, famoso por su conjunto histórico y su cocido."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Castilla y León</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/acueducto-de-segovia.html"><img src="/assets/img/blog/acueducto-de-segovia/acueducto.webp" alt="Segovia" loading="lazy" decoding="async" /><span>Segovia</span></a></li><li><a href="/blog/aguilar-de-campoo-que-ver.html"><img src="/assets/img/instagram/17943610464165000.webp" alt="Aguilar de Campoo" loading="lazy" decoding="async" /><span>Aguilar de Campoo</span></a></li><li><a href="/blog/burgo-de-osma-que-ver.html"><img src="/assets/img/instagram/18092599556079124.webp" alt="El Burgo de Osma" loading="lazy" decoding="async" /><span>El Burgo de Osma</span></a></li></ul>

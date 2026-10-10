@@ -11,6 +11,16 @@ tags:
   - Curiosidades
   - Cataluña
 wide: true
+faqTitulo: "Dudas sobre la Farga de l'Arion"
+faq:
+  - q: "¿Dónde está el olivo más antiguo de España?"
+    a: "Uno de los más antiguos es la Farga de l'Arion, en Ulldecona (Tarragona), que se calcula plantado hacia el año 314."
+  - q: "¿Se puede visitar gratis?"
+    a: "Sí, la finca de l'Arion se puede recorrer libremente."
+  - q: "¿Cuántos olivos milenarios hay en la zona?"
+    a: "Miles: el territorio Sénia tiene la mayor concentración de olivos milenarios del mundo."
+  - q: "¿Sigue dando aceitunas?"
+    a: "Sí, los olivos de la finca siguen produciendo."
 ---
 En el sur de Tarragona, en **Ulldecona**, hay un olivo que se calcula que se plantó en el **año 314**, cuando el emperador **Constantino** gobernaba Roma. Se llama **La Farga de l'Arion** y es uno de los árboles más antiguos de España que sigue dando aceitunas.
 
@@ -38,9 +48,7 @@ Te cuento cómo verlo y por qué esta zona es un museo de olivos milenarios al a
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Pide aceite</b>: las almazaras de la zona venden aceite de olivos milenarios.</li><li><b>Ruta de olivos</b>: en La Jana, Canet lo Roig o Traiguera (Castellón) también hay olivos milenarios señalizados.</li><li><b>Respeta los árboles</b>: no te subas a ellos ni arranques corteza: son muy frágiles.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Farga de l'Arion</h2></div>
-<div class="faq"><details><summary>¿Dónde está el olivo más antiguo de España?</summary><p>Uno de los más antiguos es la Farga de l'Arion, en Ulldecona (Tarragona), que se calcula plantado hacia el año 314.</p></details><details><summary>¿Se puede visitar gratis?</summary><p>Sí, la finca de l'Arion se puede recorrer libremente.</p></details><details><summary>¿Cuántos olivos milenarios hay en la zona?</summary><p>Miles: el territorio Sénia tiene la mayor concentración de olivos milenarios del mundo.</p></details><details><summary>¿Sigue dando aceitunas?</summary><p>Sí, los olivos de la finca siguen produciendo.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde está el olivo más antiguo de España?", "acceptedAnswer": {"@type": "Answer", "text": "Uno de los más antiguos es la Farga de l'Arion, en Ulldecona (Tarragona), que se calcula plantado hacia el año 314."}}, {"@type": "Question", "name": "¿Se puede visitar gratis?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la finca de l'Arion se puede recorrer libremente."}}, {"@type": "Question", "name": "¿Cuántos olivos milenarios hay en la zona?", "acceptedAnswer": {"@type": "Answer", "text": "Miles: el territorio Sénia tiene la mayor concentración de olivos milenarios del mundo."}}, {"@type": "Question", "name": "¿Sigue dando aceitunas?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, los olivos de la finca siguen produciendo."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/peniscola-que-ver.html"><img src="/assets/img/blog/peniscola-que-ver/portada.webp" alt="Peñíscola" loading="lazy" decoding="async" /><span>Peñíscola</span></a></li><li><a href="/blog/miravet.html"><img src="/assets/img/blog/miravet/portada.webp" alt="Miravet" loading="lazy" decoding="async" /><span>Miravet</span></a></li><li><a href="/blog/montblanc-que-ver.html"><img src="/assets/img/blog/montblanc-que-ver/portada.webp" alt="Montblanc" loading="lazy" decoding="async" /><span>Montblanc</span></a></li></ul>

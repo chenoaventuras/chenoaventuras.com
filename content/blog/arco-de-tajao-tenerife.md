@@ -12,6 +12,18 @@ tags:
   - Spots
   - Canarias
 igPermalink: 'https://www.instagram.com/reel/DH9KUHwokxB/'
+faqTitulo: "Dudas sobre el Arco de Tajao"
+faq:
+  - q: "¿Dónde está el Arco de Tajao?"
+    a: "En el municipio de Arico, en el sur de Tenerife, junto al pueblo costero de Tajao."
+  - q: "¿Cómo llegar al Arco de Tajao?"
+    a: "Por la TF-1, salida 46 hacia San Miguel de Tajao, y seguir las indicaciones hasta un parking de tierra. Desde allí son 5 minutos andando."
+  - q: "¿Dónde aparcar para ver el Arco de Tajao?"
+    a: "En el parking de tierra que hay al final del camino de acceso, a unos 5 minutos a pie del arco."
+  - q: "¿Hay que pagar para ver el Arco de Tajao?"
+    a: "No, la visita es libre y gratuita, sin entrada ni reserva."
+  - q: "¿Cuál es la mejor hora para ir al Arco de Tajao?"
+    a: "Al amanecer o al atardecer: hace menos calor y la luz sobre la roca es mucho más bonita."
 ---
 En el sur de Tenerife, la erosión ha tallado durante miles de años una formación rocosa que parece sacada de otro planeta: un arco volcánico de piedra basáltica que se ha convertido en uno de los rincones más fotogénicos de la isla.
 
@@ -38,5 +50,8 @@ Se encuentra cerca de la localidad de Tajao. Desde la TF-1, hay que tomar la sal
 El Arco de Tajao se encuentra en el municipio de Arico, al sur de Tenerife. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Arco%20de%20Tajao%2C%20Arico%2C%20Tenerife).
 
 Más planes en Tenerife: el [Mirador de Chipeque](/blog/mirador-de-chipeque-tenerife.html), en el interior, y el [Lago Martiánez](/blog/lago-martianez-puerto-de-la-cruz.html), en Puerto de la Cruz.
+
+<!--faq-->
+
 
 ¿Conocías el Arco de Tajao? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Canarias, y échale un vistazo al resto del blog para tu próxima escapada.

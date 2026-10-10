@@ -11,6 +11,20 @@ tags:
   - Spots
   - Aragón
 wide: true
+faqTitulo: "Dudas sobre el Monasterio de Piedra"
+faq:
+  - q: "¿Cuánto cuesta la entrada al Monasterio de Piedra en 2026?"
+    a: "19,70 € para adultos en taquilla (18,70 € online). Niños de 4 a 11 años y mayores de 65 pagan 14 € en taquilla."
+  - q: "¿Cuánto se tarda en recorrer el Monasterio de Piedra?"
+    a: "El recorrido del parque mide unos 5 km y se hace en unas 2 horas. Con el monasterio, cuenta media jornada."
+  - q: "¿Qué es la Gruta Iris?"
+    a: "Una cueva situada detrás de la cascada Cola de Caballo, a la que se baja por una escalera excavada en la roca."
+  - q: "¿Se puede ir con perro?"
+    a: "Consulta la normativa en la web oficial antes de ir: en el parque hay restricciones para mascotas."
+  - q: "¿A cuánto está el Monasterio de Piedra de Zaragoza?"
+    a: "Está en Nuévalos, a una hora y media en coche de Zaragoza."
+  - q: "¿Cuánto dura el recorrido del Monasterio de Piedra?"
+    a: "La ruta por el parque tiene unos 5 km entre cascadas, grutas y lagos: cuenta unas 3 horas con calma."
 ---
 Imagina un parque lleno de **cascadas**, lagos, cuevas y pasarelas, donde el agua aparece por todas partes, y en medio, un **monasterio cisterciense del siglo XII**. Eso es el **Monasterio de Piedra**, en Zaragoza, uno de los paisajes de agua más espectaculares de España.
 
@@ -43,9 +57,7 @@ Y lo mejor: bajas por dentro de una gruta para ver una cascada de 50 metros desd
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra online</b>: es algo más barato y te ahorras la cola.</li><li><b>Ve en primavera u otoño</b>: con más caudal en las cascadas y menos calor.</li><li><b>Chubasquero en la Gruta Iris</b>: las gotas de la cascada empapan.</li><li><b>Combínalo con el Pantano de la Tranquera</b>: justo al lado, ideal para un paseo o kayak.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Monasterio de Piedra</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta la entrada al Monasterio de Piedra en 2026?</summary><p>19,70 € para adultos en taquilla (18,70 € online). Niños de 4 a 11 años y mayores de 65 pagan 14 € en taquilla.</p></details><details><summary>¿Cuánto se tarda en recorrer el Monasterio de Piedra?</summary><p>El recorrido del parque mide unos 5 km y se hace en unas 2 horas. Con el monasterio, cuenta media jornada.</p></details><details><summary>¿Qué es la Gruta Iris?</summary><p>Una cueva situada detrás de la cascada Cola de Caballo, a la que se baja por una escalera excavada en la roca.</p></details><details><summary>¿Se puede ir con perro?</summary><p>Consulta la normativa en la web oficial antes de ir: en el parque hay restricciones para mascotas.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta la entrada al Monasterio de Piedra en 2026?", "acceptedAnswer": {"@type": "Answer", "text": "19,70 € para adultos en taquilla (18,70 € online). Niños de 4 a 11 años y mayores de 65 pagan 14 € en taquilla."}}, {"@type": "Question", "name": "¿Cuánto se tarda en recorrer el Monasterio de Piedra?", "acceptedAnswer": {"@type": "Answer", "text": "El recorrido del parque mide unos 5 km y se hace en unas 2 horas. Con el monasterio, cuenta media jornada."}}, {"@type": "Question", "name": "¿Qué es la Gruta Iris?", "acceptedAnswer": {"@type": "Answer", "text": "Una cueva situada detrás de la cascada Cola de Caballo, a la que se baja por una escalera excavada en la roca."}}, {"@type": "Question", "name": "¿Se puede ir con perro?", "acceptedAnswer": {"@type": "Answer", "text": "Consulta la normativa en la web oficial antes de ir: en el parque hay restricciones para mascotas."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más cascadas</span><h2>Más cascadas y agua</h2></div>
 <ul class="nearby"><li><a href="/blog/ruta-cola-de-caballo-ordesa.html"><img src="/assets/img/instagram/18124961662670705.webp" alt="Cola de Caballo de Ordesa" loading="lazy" decoding="async" /><span>Cola de Caballo de Ordesa</span></a></li><li><a href="/blog/orbaneja-del-castillo.html"><img src="/assets/img/instagram/18093513218481944.webp" alt="Orbaneja del Castillo" loading="lazy" decoding="async" /><span>Orbaneja del Castillo</span></a></li><li><a href="/blog/ruta-rio-borosa.html"><img src="/assets/img/blog/ruta-rio-borosa/portada.webp" alt="Ruta del río Borosa" loading="lazy" decoding="async" /><span>Ruta del río Borosa</span></a></li></ul>

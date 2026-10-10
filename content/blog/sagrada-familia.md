@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Cataluña
 wide: true
+faqTitulo: "Dudas sobre la Sagrada Familia"
+faq:
+  - q: "¿Cuál es la iglesia más alta del mundo?"
+    a: "La Sagrada Familia de Barcelona, desde el 30 de octubre de 2025. Terminada medirá 172,5 metros."
+  - q: "¿Cuándo se terminará la Sagrada Familia?"
+    a: "Aún no hay fecha cerrada: la torre de Jesucristo ya está muy avanzada, pero quedan partes en obras."
+  - q: "¿Dónde está enterrado Gaudí?"
+    a: "En la cripta de la propia Sagrada Familia."
+  - q: "¿Hay que comprar las entradas antes?"
+    a: "Sí, es muy recomendable comprarlas online con antelación."
+  - q: "¿Cómo llegar a la Sagrada Familia?"
+    a: "En metro: tiene parada propia, Sagrada Família (líneas 2 y 5), en el barrio del Eixample."
 ---
 Lleva en obras desde **1882** y aún no está terminada, pero ya tiene un récord: desde el **30 de octubre de 2025**, la **Sagrada Familia** de Barcelona es la **iglesia más alta del mundo**.
 
@@ -38,9 +50,7 @@ Te cuento cómo lo consiguió, sus curiosidades y cómo visitarla sin quedarte s
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Entradas con tiempo</b>: en verano se agotan días antes.</li><li><b>Foto desde el estanque</b>: en la plaza de Gaudí, al otro lado, la Sagrada Familia se refleja en el agua.</li><li><b>Ve por la tarde</b>: la luz de las vidrieras es naranja y roja.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Sagrada Familia</h2></div>
-<div class="faq"><details><summary>¿Cuál es la iglesia más alta del mundo?</summary><p>La Sagrada Familia de Barcelona, desde el 30 de octubre de 2025. Terminada medirá 172,5 metros.</p></details><details><summary>¿Cuándo se terminará la Sagrada Familia?</summary><p>Aún no hay fecha cerrada: la torre de Jesucristo ya está muy avanzada, pero quedan partes en obras.</p></details><details><summary>¿Dónde está enterrado Gaudí?</summary><p>En la cripta de la propia Sagrada Familia.</p></details><details><summary>¿Hay que comprar las entradas antes?</summary><p>Sí, es muy recomendable comprarlas online con antelación.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es la iglesia más alta del mundo?", "acceptedAnswer": {"@type": "Answer", "text": "La Sagrada Familia de Barcelona, desde el 30 de octubre de 2025. Terminada medirá 172,5 metros."}}, {"@type": "Question", "name": "¿Cuándo se terminará la Sagrada Familia?", "acceptedAnswer": {"@type": "Answer", "text": "Aún no hay fecha cerrada: la torre de Jesucristo ya está muy avanzada, pero quedan partes en obras."}}, {"@type": "Question", "name": "¿Dónde está enterrado Gaudí?", "acceptedAnswer": {"@type": "Answer", "text": "En la cripta de la propia Sagrada Familia."}}, {"@type": "Question", "name": "¿Hay que comprar las entradas antes?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, es muy recomendable comprarlas online con antelación."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/bunkers-del-carmel.html"><img src="/assets/img/blog/bunkers-del-carmel/portada.webp" alt="Búnkers del Carmel" loading="lazy" decoding="async" /><span>Búnkers del Carmel</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li></ul>

@@ -11,6 +11,20 @@ tags:
   - Spots
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre la Mezquita de Córdoba"
+faq:
+  - q: "¿Cuánto cuesta la entrada a la Mezquita de Córdoba?"
+    a: "La entrada general cuesta 15 €. Hay reducida de 12 € para mayores de 65 años, estudiantes y titulares del Carnet Joven, y los menores de 10 años entran gratis."
+  - q: "¿Se puede visitar la Mezquita de Córdoba gratis?"
+    a: "Sí: de lunes a sábado, de 8:30 a 9:30, la entrada es gratuita, salvo días de celebraciones extraordinarias y sin grupos."
+  - q: "¿Cuánto tiempo se tarda en ver la Mezquita?"
+    a: "Con una hora u hora y media la ves con calma. Si subes a la torre, añade media hora más."
+  - q: "¿Qué es «El Alma de Córdoba»?"
+    a: "Es la visita nocturna de la Mezquita-Catedral, con luz y sonido. La entrada general cuesta 25 €."
+  - q: "¿Por qué hay una catedral dentro de la mezquita?"
+    a: "Tras la conquista cristiana de Córdoba en 1236 la mezquita se consagró como catedral, y en el siglo XVI se construyó en su centro una gran nave renacentista."
+  - q: "¿Qué horario tiene la Mezquita de Córdoba?"
+    a: "La visita general suele ser de 10:00 a 19:00, pero cambia según el día y las celebraciones: confírmalo en la web oficial."
 ---
 Entras y, de repente, estás en un **bosque de columnas** con arcos rojos y blancos que se repiten hasta donde alcanza la vista. Y cuando crees que ya lo has visto todo, en mitad de la mezquita aparece… **una catedral renacentista**. La **Mezquita-Catedral de Córdoba** es uno de los monumentos más alucinantes del mundo, y no es ninguna exageración.
 
@@ -43,9 +57,7 @@ Te cuento cuánto cuesta, cómo entrar gratis y las curiosidades que no te puede
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Madruga y entra gratis</b>: de lunes a sábado de 8:30 a 9:30, con poca gente y una luz preciosa.</li><li><b>Sube a la torre</b>: desde arriba ves los tejados de la mezquita y toda la judería.</li><li><b>Repite de noche</b>: «El Alma de Córdoba» es un espectáculo de luz y sonido dentro del monumento.</li><li><b>Piérdete por la judería</b>: la calleja de las Flores y los patios están a dos pasos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Mezquita de Córdoba</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta la entrada a la Mezquita de Córdoba?</summary><p>La entrada general cuesta 15 €. Hay reducida de 12 € para mayores de 65 años, estudiantes y titulares del Carnet Joven, y los menores de 10 años entran gratis.</p></details><details><summary>¿Se puede visitar la Mezquita de Córdoba gratis?</summary><p>Sí: de lunes a sábado, de 8:30 a 9:30, la entrada es gratuita, salvo días de celebraciones extraordinarias y sin grupos.</p></details><details><summary>¿Cuánto tiempo se tarda en ver la Mezquita?</summary><p>Con una hora u hora y media la ves con calma. Si subes a la torre, añade media hora más.</p></details><details><summary>¿Qué es «El Alma de Córdoba»?</summary><p>Es la visita nocturna de la Mezquita-Catedral, con luz y sonido. La entrada general cuesta 25 €.</p></details><details><summary>¿Por qué hay una catedral dentro de la mezquita?</summary><p>Tras la conquista cristiana de Córdoba en 1236 la mezquita se consagró como catedral, y en el siglo XVI se construyó en su centro una gran nave renacentista.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta la entrada a la Mezquita de Córdoba?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta 15 €. Hay reducida de 12 € para mayores de 65 años, estudiantes y titulares del Carnet Joven, y los menores de 10 años entran gratis."}}, {"@type": "Question", "name": "¿Se puede visitar la Mezquita de Córdoba gratis?", "acceptedAnswer": {"@type": "Answer", "text": "Sí: de lunes a sábado, de 8:30 a 9:30, la entrada es gratuita, salvo días de celebraciones extraordinarias y sin grupos."}}, {"@type": "Question", "name": "¿Cuánto tiempo se tarda en ver la Mezquita?", "acceptedAnswer": {"@type": "Answer", "text": "Con una hora u hora y media la ves con calma. Si subes a la torre, añade media hora más."}}, {"@type": "Question", "name": "¿Qué es «El Alma de Córdoba»?", "acceptedAnswer": {"@type": "Answer", "text": "Es la visita nocturna de la Mezquita-Catedral, con luz y sonido. La entrada general cuesta 25 €."}}, {"@type": "Question", "name": "¿Por qué hay una catedral dentro de la mezquita?", "acceptedAnswer": {"@type": "Answer", "text": "Tras la conquista cristiana de Córdoba en 1236 la mezquita se consagró como catedral, y en el siglo XVI se construyó en su centro una gran nave renacentista."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue por Andalucía</h2></div>
 <ul class="nearby"><li><a href="/blog/plaza-de-espana-sevilla.html"><img src="/assets/img/blog/plaza-de-espana-sevilla/portada.webp" alt="Plaza de España de Sevilla" loading="lazy" decoding="async" /><span>Plaza de España de Sevilla</span></a></li><li><a href="/blog/ruta-rio-borosa.html"><img src="/assets/img/blog/ruta-rio-borosa/portada.webp" alt="Ruta del río Borosa" loading="lazy" decoding="async" /><span>Ruta del río Borosa</span></a></li><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li></ul>

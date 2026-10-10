@@ -14,6 +14,20 @@ tags:
 wide: true
 guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
 guiaTitulo: 'Guía de Cuenca en PDF'
+faqTitulo: "Dudas sobre Cuenca"
+faq:
+  - q: "¿Qué ver en Cuenca en un día?"
+    a: "Las Casas Colgadas, la catedral, el castillo y el Arco de Bezudo, el Puente de San Pablo y, al atardecer, la subida al Cerro del Socorro. Casi todo se ve a pie y gratis."
+  - q: "¿Cuánto cuesta entrar a las Casas Colgadas?"
+    a: "Verlas es gratis, y el Museo de Arte Abstracto que hay dentro también (cierra los lunes)."
+  - q: "¿Cuánto cuesta la Ciudad Encantada?"
+    a: "5 € adultos, 4 € niños y gratis menores de 7. La entrada se compra solo en taquilla y el parking es gratis."
+  - q: "¿Qué aventuras se pueden hacer en Cuenca?"
+    a: "La tirolina urbana sobre la Hoz del Huécar, barranquismo en el Júcar, vía ferrata y rutas en quad por la Serranía."
+  - q: "¿Hace falta coche en Cuenca?"
+    a: "Para la ciudad no, se recorre a pie. Para la Serranía (Ciudad Encantada, Nacimiento del río Cuervo…) sí lo necesitas."
+  - q: "¿Cuántos días hacen falta para ver Cuenca?"
+    a: "Con 3 días ves la ciudad, haces alguna aventura y recorres la Serranía, como en mi ruta de esta guía."
 ---
 Cuenca es de esos sitios a los que vas por las **Casas Colgadas** y vuelves hablando de todo lo demás. Una ciudad Patrimonio de la Humanidad colgada entre dos hoces, y a veinte minutos, una Serranía llena de cañones, lagunas y rocas con formas imposibles.
 
@@ -57,6 +71,8 @@ Aquí te dejo todo lo que he visitado y hecho allí: lo imprescindible de la ciu
 </ul>
 <p>Truco: la ciudad se disfruta mucho más entre semana, sin el lleno de los fines de semana 😉</p>
 </div>
+
+<!--faq-->
 
 <div class="guide__cta">
 <h2>¿Quieres verlo antes de ir?</h2>

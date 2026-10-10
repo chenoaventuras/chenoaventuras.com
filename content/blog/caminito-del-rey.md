@@ -11,6 +11,26 @@ tags:
   - Actividades
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre el Caminito del Rey"
+faq:
+  - q: "¿Cuánto cuesta la entrada al Caminito del Rey?"
+    a: "La entrada general cuesta 10 € y la visita guiada oficial 18 €. El bus lanzadera se paga aparte (2,50 €) y el parking del centro de visitantes cuesta 2 € al día."
+  - q: "¿Cuánto se tarda en hacer el Caminito del Rey?"
+    a: "El recorrido completo, con los accesos, son unos 8 km y se hace en 3-4 horas. El tramo de pasarelas en sí lleva entre hora y media y dos horas."
+  - q: "¿Pueden ir niños?"
+    a: "Sí, a partir de 8 años. Tienen que llevar el DNI original o el libro de familia para comprobar la edad."
+  - q: "¿Se puede ir con perro?"
+    a: "No. Por ahora no se permiten mascotas en el recorrido."
+  - q: "¿Da vértigo?"
+    a: "Las pasarelas están a unos 100 metros sobre el río, pero tienen barandilla y son seguras. Si tienes mucho vértigo, puede impresionarte en algunos tramos."
+  - q: "¿Hay que llevar casco?"
+    a: "Sí. Te dan el casco al validar la entrada en el acceso norte y lo devuelves al terminar, en El Chorro."
+  - q: "¿Cuántos kilómetros tiene el Caminito del Rey?"
+    a: "8 km lineales y en un solo sentido, de norte (Ardales) a sur (El Chorro), accesos incluidos."
+  - q: "¿Se puede ir al Caminito del Rey sin reserva?"
+    a: "Solo si quedan plazas en la taquilla del acceso norte. En temporada alta se agotan, así que mejor reservar en la web oficial."
+  - q: "¿Se puede hacer el Caminito del Rey sin guía?"
+    a: "Sí, la entrada general (10 €) es por libre. Si quieres que te lo cuenten, hay visita guiada oficial por 18 €."
 ---
 Durante años tuvo fama de ser **el camino más peligroso del mundo**. Hoy el **Caminito del Rey** es una pasarela segura colgada en las paredes del Desfiladero de los Gaitanes, en Málaga, a unos 100 metros sobre el río Guadalhorce. Y sigue siendo una de esas experiencias que te dejan con la boca abierta en cada curva.
 
@@ -43,9 +63,7 @@ Aquí te cuento cuánto cuestan las entradas, cómo es el recorrido, qué tienes
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva pronto</b>: los fines de semana y en primavera se agotan las entradas.</li><li><b>Calzado de montaña</b>: es obligatorio llevar calzado bien sujeto al pie: con chanclas no te dejan pasar.</li><li><b>Sin palo selfie ni mochila grande</b>: están prohibidos, igual que paraguas, bastones y carritos.</li><li><b>Mira el tiempo</b>: con viento fuerte o lluvia pueden cerrarlo; si pasa, cambias la entrada de día.</li><li><b>Lleva agua</b>: pero ojo: no se puede comer por el camino salvo lo que permiten las normas.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Caminito del Rey</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta la entrada al Caminito del Rey?</summary><p>La entrada general cuesta 10 € y la visita guiada oficial 18 €. El bus lanzadera se paga aparte (2,50 €) y el parking del centro de visitantes cuesta 2 € al día.</p></details><details><summary>¿Cuánto se tarda en hacer el Caminito del Rey?</summary><p>El recorrido completo, con los accesos, son unos 8 km y se hace en 3-4 horas. El tramo de pasarelas en sí lleva entre hora y media y dos horas.</p></details><details><summary>¿Pueden ir niños?</summary><p>Sí, a partir de 8 años. Tienen que llevar el DNI original o el libro de familia para comprobar la edad.</p></details><details><summary>¿Se puede ir con perro?</summary><p>No. Por ahora no se permiten mascotas en el recorrido.</p></details><details><summary>¿Da vértigo?</summary><p>Las pasarelas están a unos 100 metros sobre el río, pero tienen barandilla y son seguras. Si tienes mucho vértigo, puede impresionarte en algunos tramos.</p></details><details><summary>¿Hay que llevar casco?</summary><p>Sí. Te dan el casco al validar la entrada en el acceso norte y lo devuelves al terminar, en El Chorro.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta la entrada al Caminito del Rey?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta 10 € y la visita guiada oficial 18 €. El bus lanzadera se paga aparte (2,50 €) y el parking del centro de visitantes cuesta 2 € al día."}}, {"@type": "Question", "name": "¿Cuánto se tarda en hacer el Caminito del Rey?", "acceptedAnswer": {"@type": "Answer", "text": "El recorrido completo, con los accesos, son unos 8 km y se hace en 3-4 horas. El tramo de pasarelas en sí lleva entre hora y media y dos horas."}}, {"@type": "Question", "name": "¿Pueden ir niños?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, a partir de 8 años. Tienen que llevar el DNI original o el libro de familia para comprobar la edad."}}, {"@type": "Question", "name": "¿Se puede ir con perro?", "acceptedAnswer": {"@type": "Answer", "text": "No. Por ahora no se permiten mascotas en el recorrido."}}, {"@type": "Question", "name": "¿Da vértigo?", "acceptedAnswer": {"@type": "Answer", "text": "Las pasarelas están a unos 100 metros sobre el río, pero tienen barandilla y son seguras. Si tienes mucho vértigo, puede impresionarte en algunos tramos."}}, {"@type": "Question", "name": "¿Hay que llevar casco?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Te dan el casco al validar la entrada en el acceso norte y lo devuelves al terminar, en El Chorro."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más aventuras</span><h2>Si te gustan las pasarelas…</h2></div>
 <ul class="nearby"><li><a href="/blog/pasarelas-de-panticosa.html"><img src="/assets/img/instagram/18131174488538752.webp" alt="Pasarelas de Panticosa" loading="lazy" decoding="async" /><span>Pasarelas de Panticosa</span></a></li><li><a href="/blog/via-ferrata-ventano-del-diablo.html"><img src="/assets/img/instagram/18046706486419072.webp" alt="Vía ferrata del Ventano del Diablo" loading="lazy" decoding="async" /><span>Vía ferrata del Ventano del Diablo</span></a></li><li><a href="/blog/barranquismo-en-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Barranquismo en Cuenca" loading="lazy" decoding="async" /><span>Barranquismo en Cuenca</span></a></li></ul>

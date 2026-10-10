@@ -11,6 +11,20 @@ tags:
   - Curiosidades
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre la Catedral de Justo"
+faq:
+  - q: "¿Está abierta la Catedral de Justo?"
+    a: "Desde febrero de 2026 el Ayuntamiento la tiene cerrada hasta que se regularicen sus licencias. Se puede ver por fuera."
+  - q: "¿Quién construyó la Catedral de Justo?"
+    a: "Justo Gallego Martínez, que la levantó casi solo desde 1961 hasta su muerte en 2021."
+  - q: "¿Con qué materiales se hizo?"
+    a: "Con ladrillos sobrantes y materiales reciclados: bidones como moldes, botes rellenos de cemento o una rueda de bicicleta como polea."
+  - q: "¿Dónde está la Catedral de Justo?"
+    a: "En Mejorada del Campo, a unos 20 km de Madrid."
+  - q: "¿Se puede visitar la Catedral de Justo por dentro?"
+    a: "Desde febrero de 2026 está cerrada por dentro hasta que se arreglen las licencias. Por fuera se puede ver."
+  - q: "¿Cómo llegar a la Catedral de Justo?"
+    a: "Está en Mejorada del Campo, a unos 20 km del centro de Madrid."
 ---
 A 20 km de Madrid hay una catedral que no levantó ningún obispo ni ningún arquitecto: la hizo **Justo Gallego**, un hombre que empezó en 1961 y siguió trabajando **durante 60 años**, casi siempre solo, con ladrillos sobrantes, bidones y ruedas de bicicleta.
 
@@ -39,9 +53,7 @@ Esta es su historia, y lo que tienes que saber antes de ir 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira si ha reabierto</b>: antes de ir, consulta la web de la catedral o de Mensajeros de la Paz.</li><li><b>Rodéala entera</b>: por fuera ya merece la pena: cada esquina tiene algo distinto.</li><li><b>Fíjate en los detalles</b>: muchas formas salen de moldes improvisados con cubos y bidones.</li><li><b>Combínala con Alcalá</b>: Alcalá de Henares está a 20 minutos en coche.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Catedral de Justo</h2></div>
-<div class="faq"><details><summary>¿Está abierta la Catedral de Justo?</summary><p>Desde febrero de 2026 el Ayuntamiento la tiene cerrada hasta que se regularicen sus licencias. Se puede ver por fuera.</p></details><details><summary>¿Quién construyó la Catedral de Justo?</summary><p>Justo Gallego Martínez, que la levantó casi solo desde 1961 hasta su muerte en 2021.</p></details><details><summary>¿Con qué materiales se hizo?</summary><p>Con ladrillos sobrantes y materiales reciclados: bidones como moldes, botes rellenos de cemento o una rueda de bicicleta como polea.</p></details><details><summary>¿Dónde está la Catedral de Justo?</summary><p>En Mejorada del Campo, a unos 20 km de Madrid.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Está abierta la Catedral de Justo?", "acceptedAnswer": {"@type": "Answer", "text": "Desde febrero de 2026 el Ayuntamiento la tiene cerrada hasta que se regularicen sus licencias. Se puede ver por fuera."}}, {"@type": "Question", "name": "¿Quién construyó la Catedral de Justo?", "acceptedAnswer": {"@type": "Answer", "text": "Justo Gallego Martínez, que la levantó casi solo desde 1961 hasta su muerte en 2021."}}, {"@type": "Question", "name": "¿Con qué materiales se hizo?", "acceptedAnswer": {"@type": "Answer", "text": "Con ladrillos sobrantes y materiales reciclados: bidones como moldes, botes rellenos de cemento o una rueda de bicicleta como polea."}}, {"@type": "Question", "name": "¿Dónde está la Catedral de Justo?", "acceptedAnswer": {"@type": "Answer", "text": "En Mejorada del Campo, a unos 20 km de Madrid."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/mercado-cervantino-alcala-de-henares.html"><img src="/assets/img/instagram/18107361979606597.webp" alt="Alcalá de Henares" loading="lazy" decoding="async" /><span>Alcalá de Henares</span></a></li><li><a href="/blog/chinchon-castillo-de-noche.html"><img src="/assets/img/instagram/18154307548397718.webp" alt="Chinchón" loading="lazy" decoding="async" /><span>Chinchón</span></a></li><li><a href="/blog/aranjuez-que-ver.html"><img src="/assets/img/blog/aranjuez-que-ver/portada.webp" alt="Aranjuez" loading="lazy" decoding="async" /><span>Aranjuez</span></a></li></ul>

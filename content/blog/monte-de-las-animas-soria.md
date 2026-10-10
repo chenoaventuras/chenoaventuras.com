@@ -12,6 +12,16 @@ tags:
   - Castilla y León
 wide: true
 draft: true
+faqTitulo: "Dudas sobre Soria"
+faq:
+  - q: "¿Dónde está el Monte de las Ánimas?"
+    a: "En Soria, en la orilla izquierda del Duero, frente a la ciudad, junto a los Arcos de San Juan de Duero."
+  - q: "¿De qué trata El Monte de las Ánimas de Bécquer?"
+    a: "Alonso va al monte en la noche de Difuntos a buscar la banda azul que ha perdido su prima Beatriz. No vuelve, y por la mañana ella encuentra la banda ensangrentada y muere de espanto."
+  - q: "¿Cuándo es el Festival de las Ánimas de Soria?"
+    a: "Desde finales de octubre hasta el 2 de noviembre. Consulta el programa de cada año en la web del Ayuntamiento de Soria."
+  - q: "¿Se puede subir al Monte de las Ánimas?"
+    a: "Sí, hay senderos que suben desde la zona de San Juan de Duero, con vistas a la ciudad."
 ---
 La noche de Difuntos, en Soria, las campanas doblan solas y los muertos salen del monte. Eso cuenta **Gustavo Adolfo Bécquer** en *El Monte de las Ánimas*, la leyenda de miedo más famosa de la literatura española.
 
@@ -42,9 +52,7 @@ Y el monte existe: está al otro lado del Duero, y cada año la ciudad celebra *
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve a finales de octubre</b>: el Festival de las Ánimas llena la ciudad de actividades hasta el 2 de noviembre.</li><li><b>Lee la leyenda antes</b>: son pocas páginas y el paseo se disfruta el doble.</li><li><b>Haz el paseo al atardecer</b>: los chopos del Duero y la luz de otoño son espectaculares.</li><li><b>Abrígate</b>: en Soria, a finales de octubre, las noches son frías de verdad.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Soria</h2></div>
-<div class="faq"><details><summary>¿Dónde está el Monte de las Ánimas?</summary><p>En Soria, en la orilla izquierda del Duero, frente a la ciudad, junto a los Arcos de San Juan de Duero.</p></details><details><summary>¿De qué trata El Monte de las Ánimas de Bécquer?</summary><p>Alonso va al monte en la noche de Difuntos a buscar la banda azul que ha perdido su prima Beatriz. No vuelve, y por la mañana ella encuentra la banda ensangrentada y muere de espanto.</p></details><details><summary>¿Cuándo es el Festival de las Ánimas de Soria?</summary><p>Desde finales de octubre hasta el 2 de noviembre. Consulta el programa de cada año en la web del Ayuntamiento de Soria.</p></details><details><summary>¿Se puede subir al Monte de las Ánimas?</summary><p>Sí, hay senderos que suben desde la zona de San Juan de Duero, con vistas a la ciudad.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde está el Monte de las Ánimas?", "acceptedAnswer": {"@type": "Answer", "text": "En Soria, en la orilla izquierda del Duero, frente a la ciudad, junto a los Arcos de San Juan de Duero."}}, {"@type": "Question", "name": "¿De qué trata El Monte de las Ánimas de Bécquer?", "acceptedAnswer": {"@type": "Answer", "text": "Alonso va al monte en la noche de Difuntos a buscar la banda azul que ha perdido su prima Beatriz. No vuelve, y por la mañana ella encuentra la banda ensangrentada y muere de espanto."}}, {"@type": "Question", "name": "¿Cuándo es el Festival de las Ánimas de Soria?", "acceptedAnswer": {"@type": "Answer", "text": "Desde finales de octubre hasta el 2 de noviembre. Consulta el programa de cada año en la web del Ayuntamiento de Soria."}}, {"@type": "Question", "name": "¿Se puede subir al Monte de las Ánimas?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, hay senderos que suben desde la zona de San Juan de Duero, con vistas a la ciudad."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/burgo-de-osma-que-ver.html"><img src="/assets/img/instagram/18092599556079124.webp" alt="El Burgo de Osma" loading="lazy" decoding="async" /><span>El Burgo de Osma</span></a></li><li><a href="/blog/medinaceli-que-ver.html"><img src="/assets/img/blog/medinaceli-que-ver/portada.webp" alt="Medinaceli" loading="lazy" decoding="async" /><span>Medinaceli</span></a></li><li><a href="/blog/siguenza-que-ver.html"><img src="/assets/img/blog/siguenza-que-ver/portada.webp" alt="Sigüenza" loading="lazy" decoding="async" /><span>Sigüenza</span></a></li></ul>

@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DavqMrZxpzl/'
+faq:
+  - q: "¿A cuánto está Pedraza de Madrid?"
+    a: "A poco más de una hora en coche. Está en la provincia de Segovia."
+  - q: "¿Se puede visitar el castillo de Pedraza?"
+    a: "Sí: el castillo, que fue casa del pintor Ignacio Zuloaga, funciona hoy como museo con obras suyas."
+  - q: "¿Qué ver en Pedraza?"
+    a: "La Puerta de la Villa (su única entrada), la cárcel medieval, el castillo, la iglesia de San Juan Bautista y sus calles empedradas."
+  - q: "¿Cuánto tiempo hace falta para ver Pedraza?"
+    a: "Se recorre en pocas horas, así que encaja bien en una escapada de un día."
+  - q: "¿Se puede visitar la cárcel de Pedraza?"
+    a: "Sí, es una de las pocas cárceles medievales de España que se pueden visitar, con celdas y objetos de la época."
 ---
 Hay pueblos a los que entras por varias calles y pueblos a los que solo se entra por un sitio. Pedraza es de los segundos, y esa sola puerta ya dice mucho de lo bien conservada que está esta villa medieval de Segovia.
 
@@ -47,5 +58,8 @@ Pedraza está en la provincia de Segovia, a poco más de una hora en coche desde
 Pedraza es de esos pueblos que se recorren en pocas horas pero que se quedan en la memoria mucho más tiempo: una puerta, una cárcel, un castillo con historia de reyes y una iglesia de piedra, todo dentro de una villa que parece congelada en la Edad Media.
 
 Y si vas por la provincia de Segovia, el plan más especial es verla desde el aire: te cuento cómo es el [vuelo en globo sobre Segovia](/blog/vuelo-en-globo-segovia.html).
+
+<!--faq-->
+
 
 ¿Ya has visitado Pedraza? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones con historia, y échale un vistazo al resto del blog para seguir planeando tu próxima escapada.

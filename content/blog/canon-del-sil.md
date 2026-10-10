@@ -11,6 +11,20 @@ tags:
   - Spots
   - Galicia
 wide: true
+faqTitulo: "Dudas sobre el Cañón del Sil"
+faq:
+  - q: "¿Cuánto cuesta el catamarán por el Cañón del Sil?"
+    a: "Las rutas de la Diputación de Lugo cuestan unos 9 € la entrada general, con descuentos. Hay otras rutas desde embarcaderos de Ourense con precios distintos: reserva con antelación."
+  - q: "¿Cuál es el mejor mirador del Cañón del Sil?"
+    a: "Los Balcones de Madrid, en Parada de Sil, son los más famosos, pero Cabezoás o Souto Chao también tienen vistas espectaculares."
+  - q: "¿Qué es la viticultura heroica?"
+    a: "El cultivo de la vid en bancales de pendientes muy pronunciadas, donde casi todo el trabajo se hace a mano."
+  - q: "¿Cuándo es mejor visitar la Ribeira Sacra?"
+    a: "En otoño por los colores de los viñedos, y en primavera por el verde. En verano, conviene reservar los barcos."
+  - q: "¿Dónde está el Cañón del Sil?"
+    a: "En la Ribeira Sacra, entre las provincias de Ourense y Lugo, a unos 30-45 minutos de Ourense ciudad y de Monforte de Lemos."
+  - q: "¿Es buen plan el Cañón del Sil con niños?"
+    a: "Sí: el paseo en catamarán es tranquilo y los miradores tienen acceso fácil en coche."
 ---
 Paredes de granito de cientos de metros cayendo al río, laderas cubiertas de **viñedos en terrazas** que parecen imposibles de trabajar y monasterios escondidos entre bosques. El **Cañón del Sil**, en la Ribeira Sacra, es uno de los paisajes más impresionantes de Galicia.
 
@@ -41,9 +55,7 @@ La mejor forma de verlo es desde dos sitios: **desde el río, en catamarán**, y
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz catamarán y miradores</b>: son dos experiencias complementarias: no elijas, haz las dos.</li><li><b>Reserva el barco en verano</b>: las plazas se agotan.</li><li><b>Ven en vendimia</b>: entre septiembre y octubre, el paisaje y el ambiente son únicos.</li><li><b>Prueba el vino mencía</b>: de la Denominación de Origen Ribeira Sacra.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Cañón del Sil</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta el catamarán por el Cañón del Sil?</summary><p>Las rutas de la Diputación de Lugo cuestan unos 9 € la entrada general, con descuentos. Hay otras rutas desde embarcaderos de Ourense con precios distintos: reserva con antelación.</p></details><details><summary>¿Cuál es el mejor mirador del Cañón del Sil?</summary><p>Los Balcones de Madrid, en Parada de Sil, son los más famosos, pero Cabezoás o Souto Chao también tienen vistas espectaculares.</p></details><details><summary>¿Qué es la viticultura heroica?</summary><p>El cultivo de la vid en bancales de pendientes muy pronunciadas, donde casi todo el trabajo se hace a mano.</p></details><details><summary>¿Cuándo es mejor visitar la Ribeira Sacra?</summary><p>En otoño por los colores de los viñedos, y en primavera por el verde. En verano, conviene reservar los barcos.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta el catamarán por el Cañón del Sil?", "acceptedAnswer": {"@type": "Answer", "text": "Las rutas de la Diputación de Lugo cuestan unos 9 € la entrada general, con descuentos. Hay otras rutas desde embarcaderos de Ourense con precios distintos: reserva con antelación."}}, {"@type": "Question", "name": "¿Cuál es el mejor mirador del Cañón del Sil?", "acceptedAnswer": {"@type": "Answer", "text": "Los Balcones de Madrid, en Parada de Sil, son los más famosos, pero Cabezoás o Souto Chao también tienen vistas espectaculares."}}, {"@type": "Question", "name": "¿Qué es la viticultura heroica?", "acceptedAnswer": {"@type": "Answer", "text": "El cultivo de la vid en bancales de pendientes muy pronunciadas, donde casi todo el trabajo se hace a mano."}}, {"@type": "Question", "name": "¿Cuándo es mejor visitar la Ribeira Sacra?", "acceptedAnswer": {"@type": "Answer", "text": "En otoño por los colores de los viñedos, y en primavera por el verde. En verano, conviene reservar los barcos."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Galicia</span><h2>Sigue por Galicia</h2></div>
 <ul class="nearby"><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li><li><a href="/blog/playa-de-las-catedrales.html"><img src="/assets/img/blog/playa-de-las-catedrales/portada.webp" alt="Playa de las Catedrales" loading="lazy" decoding="async" /><span>Playa de las Catedrales</span></a></li><li><a href="/blog/puebla-de-sanabria.html"><img src="/assets/img/blog/puebla-de-sanabria/portada.webp" alt="Lago de Sanabria" loading="lazy" decoding="async" /><span>Lago de Sanabria</span></a></li></ul>

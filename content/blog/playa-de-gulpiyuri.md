@@ -11,6 +11,16 @@ tags:
   - Spots
   - Asturias
 wide: true
+faqTitulo: "Dudas sobre Gulpiyuri"
+faq:
+  - q: "¿Por qué Gulpiyuri tiene agua si no está junto al mar?"
+    a: "Porque el mar entra por túneles y cuevas excavados en la roca caliza, a unos 100 metros de la costa."
+  - q: "¿Cuándo es mejor ir a Gulpiyuri?"
+    a: "Con marea alta, sobre todo en mareas vivas. En marea baja se queda casi sin agua."
+  - q: "¿Cómo se llega a la playa de Gulpiyuri?"
+    a: "A pie, en unos 10 minutos desde Naves o desde la playa de San Antolín, en Llanes."
+  - q: "¿Se puede bañar en Gulpiyuri?"
+    a: "Sí, con marea alta. No tiene servicios ni socorristas, así que ten cuidado."
 ---
 Una playa de arena fina, con olas y agua salada… en mitad de un prado verde, sin el mar a la vista. **Gulpiyuri** es una de las rarezas más bonitas de España: una **playa interior** de apenas 50 metros.
 
@@ -41,9 +51,7 @@ El truco está en la marea. Te cuento cuándo ir para verla con agua 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve con marea alta</b>: mejor en mareas vivas (luna llena o nueva), que es cuando más se llena.</li><li><b>Madruga en verano</b>: antes de las 9:30 o ya por la tarde para encontrar sitio.</li><li><b>Ojo al bajar la marea</b>: al principio de la bajada se produce un desagüe que puede arrastrar.</li><li><b>Combínala con San Antolín</b>: está al lado y es una playa salvaje preciosa.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Gulpiyuri</h2></div>
-<div class="faq"><details><summary>¿Por qué Gulpiyuri tiene agua si no está junto al mar?</summary><p>Porque el mar entra por túneles y cuevas excavados en la roca caliza, a unos 100 metros de la costa.</p></details><details><summary>¿Cuándo es mejor ir a Gulpiyuri?</summary><p>Con marea alta, sobre todo en mareas vivas. En marea baja se queda casi sin agua.</p></details><details><summary>¿Cómo se llega a la playa de Gulpiyuri?</summary><p>A pie, en unos 10 minutos desde Naves o desde la playa de San Antolín, en Llanes.</p></details><details><summary>¿Se puede bañar en Gulpiyuri?</summary><p>Sí, con marea alta. No tiene servicios ni socorristas, así que ten cuidado.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué Gulpiyuri tiene agua si no está junto al mar?", "acceptedAnswer": {"@type": "Answer", "text": "Porque el mar entra por túneles y cuevas excavados en la roca caliza, a unos 100 metros de la costa."}}, {"@type": "Question", "name": "¿Cuándo es mejor ir a Gulpiyuri?", "acceptedAnswer": {"@type": "Answer", "text": "Con marea alta, sobre todo en mareas vivas. En marea baja se queda casi sin agua."}}, {"@type": "Question", "name": "¿Cómo se llega a la playa de Gulpiyuri?", "acceptedAnswer": {"@type": "Answer", "text": "A pie, en unos 10 minutos desde Naves o desde la playa de San Antolín, en Llanes."}}, {"@type": "Question", "name": "¿Se puede bañar en Gulpiyuri?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, con marea alta. No tiene servicios ni socorristas, así que ten cuidado."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el norte</h2></div>
 <ul class="nearby"><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/cudillero-que-ver.html"><img src="/assets/img/blog/cudillero-que-ver/portada.webp" alt="Cudillero" loading="lazy" decoding="async" /><span>Cudillero</span></a></li><li><a href="/blog/partenon-de-las-fraguas-cantabria.html"><img src="/assets/img/instagram/18073249217294344.webp" alt="Las Fraguas" loading="lazy" decoding="async" /><span>Las Fraguas</span></a></li></ul>

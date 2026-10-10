@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+faq:
+  - q: "¿Por qué Urueña es la Villa del Libro?"
+    a: "Porque en 2007 se convirtió en la primera Villa del Libro de España, con librerías, talleres y un centro dedicado a la lectura."
+  - q: "¿Cuántas librerías hay en Urueña?"
+    a: "Alrededor de una docena, para un pueblo de unos 200 habitantes."
+  - q: "¿Se puede pasear por la muralla de Urueña?"
+    a: "Sí, se pueden recorrer partes del adarve, con vistas sobre Tierra de Campos."
+  - q: "¿Cuándo es mejor visitar Urueña?"
+    a: "En fin de semana o festivo, cuando abren más librerías y museos."
+  - q: "¿Cómo llegar a Urueña?"
+    a: "En coche, junto a la A-6: está a unos 50 minutos de Valladolid y a unas dos horas de Madrid."
 ---
 Un pueblo de unos 200 habitantes, encerrado en una muralla medieval en lo alto de un páramo… y con **más librerías que bares**. **Urueña** es la primera **Villa del Libro** de España, y pasear por sus calles es como entrar en una biblioteca al aire libre.
 
@@ -41,9 +52,7 @@ Además, desde su muralla tienes una de las vistas más amplias de Tierra de Cam
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve en fin de semana</b>: es cuando abren más librerías.</li><li><b>Sube a la muralla al atardecer</b>: el sol se pone sobre Tierra de Campos.</li><li><b>Visita la Fundación Joaquín Díaz</b>: una de las mejores colecciones de cultura tradicional de Castilla.</li><li><b>Llévate un libro de recuerdo</b>: es la mejor forma de apoyar el proyecto.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Urueña</h2></div>
-<div class="faq"><details><summary>¿Por qué Urueña es la Villa del Libro?</summary><p>Porque en 2007 se convirtió en la primera Villa del Libro de España, con librerías, talleres y un centro dedicado a la lectura.</p></details><details><summary>¿Cuántas librerías hay en Urueña?</summary><p>Alrededor de una docena, para un pueblo de unos 200 habitantes.</p></details><details><summary>¿Se puede pasear por la muralla de Urueña?</summary><p>Sí, se pueden recorrer partes del adarve, con vistas sobre Tierra de Campos.</p></details><details><summary>¿Cuándo es mejor visitar Urueña?</summary><p>En fin de semana o festivo, cuando abren más librerías y museos.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué Urueña es la Villa del Libro?", "acceptedAnswer": {"@type": "Answer", "text": "Porque en 2007 se convirtió en la primera Villa del Libro de España, con librerías, talleres y un centro dedicado a la lectura."}}, {"@type": "Question", "name": "¿Cuántas librerías hay en Urueña?", "acceptedAnswer": {"@type": "Answer", "text": "Alrededor de una docena, para un pueblo de unos 200 habitantes."}}, {"@type": "Question", "name": "¿Se puede pasear por la muralla de Urueña?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, se pueden recorrer partes del adarve, con vistas sobre Tierra de Campos."}}, {"@type": "Question", "name": "¿Cuándo es mejor visitar Urueña?", "acceptedAnswer": {"@type": "Answer", "text": "En fin de semana o festivo, cuando abren más librerías y museos."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Castilla</span><h2>Sigue por Castilla y León</h2></div>
 <ul class="nearby"><li><a href="/blog/medinaceli-que-ver.html"><img src="/assets/img/blog/medinaceli-que-ver/portada.webp" alt="Medinaceli" loading="lazy" decoding="async" /><span>Medinaceli</span></a></li><li><a href="/blog/ciudad-rodrigo-que-ver.html"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/portada.webp" alt="Ciudad Rodrigo" loading="lazy" decoding="async" /><span>Ciudad Rodrigo</span></a></li><li><a href="/blog/astorga-que-ver.html"><img src="/assets/img/blog/astorga-que-ver/portada.webp" alt="Astorga" loading="lazy" decoding="async" /><span>Astorga</span></a></li></ul>

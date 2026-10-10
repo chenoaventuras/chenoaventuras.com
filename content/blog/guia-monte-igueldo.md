@@ -14,6 +14,20 @@ tags:
   - País Vasco
 wide: true
 igPermalink: 'https://www.instagram.com/p/DeM_bJkRRM8/'
+faqTitulo: "Dudas sobre el Monte Igueldo"
+faq:
+  - q: "¿Cuánto cuesta subir al Monte Igueldo?"
+    a: "En funicular, 5,50 € ida y vuelta para adultos y 2,50 € para niños hasta 7 años. En coche o a pie pagas 3 € por persona por entrar al recinto."
+  - q: "¿Se puede subir al Monte Igueldo en coche?"
+    a: "Sí, por el Paseo de Igueldo hasta el final (número 183). Arriba hay parking gratis."
+  - q: "¿Dónde se coge el funicular del Monte Igueldo?"
+    a: "En la Plaza del Funicular, 4, al final de la playa de Ondarreta. Sale cada 15 minutos."
+  - q: "¿Cuánto cuestan las atracciones del Monte Igueldo?"
+    a: "No hay pulsera: cada atracción se paga aparte y casi todas cuestan entre 1 y 3 €."
+  - q: "¿Está abierto el Monte Igueldo entre semana?"
+    a: "Fuera del verano, las atracciones abren solo fines de semana y festivos. Entre semana puedes subir igualmente al mirador. Y si llueve, las atracciones cierran."
+  - q: "¿Se puede subir con perro al Monte Igueldo?"
+    a: "Sí, con correa. Bicis y patinetes no pueden entrar."
 ---
 Hay parques de atracciones más grandes, más rápidos y más modernos. Pero ninguno tiene **la bahía de La Concha a tus pies** mientras te subes a una montaña suiza de hace casi un siglo. El Monte Igueldo lleva más de un siglo divirtiendo a familias y sigue teniendo ese encanto de parque de toda la vida que ya cuesta encontrar.
 
@@ -146,6 +160,8 @@ Aquí no se paga una pulsera: **cada atracción tiene su propio precio**, casi t
 </ul>
 <p>Funicular + mis tres favoritas: <strong>13,50 € por adulto</strong>. Un planazo de tarde por menos de lo que cuesta una entrada de cine con palomitas 🍿</p>
 </div>
+<!--faq-->
+
 <div class="guide__cta">
 <h2>¿Quieres verlo antes de ir?</h2>
 <p>Te lo enseño todo en vídeo: las atracciones, el ambiente y esas vistas que no caben en una foto.</p>

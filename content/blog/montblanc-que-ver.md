@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Cataluña
 wide: true
+faq:
+  - q: "¿Por qué se dice que Sant Jordi mató al dragón en Montblanc?"
+    a: "Porque el folclorista Joan Amades situó la leyenda delante de sus murallas, y uno de sus portales se llama Portal de Sant Jordi."
+  - q: "¿Cuándo es la Semana Medieval de Montblanc?"
+    a: "En abril, en torno al 23, día de Sant Jordi. Consulta las fechas exactas cada año."
+  - q: "¿Qué ver cerca de Montblanc?"
+    a: "El Monasterio de Poblet, a unos 8 km, y los pueblos y bodegas de la Conca de Barberà."
+  - q: "¿Se puede subir a la muralla de Montblanc?"
+    a: "Sí, hay tramos que se pueden recorrer por arriba."
+  - q: "¿Cómo llegar a Montblanc?"
+    a: "En coche: está en la Conca de Barberà, a unos 40 minutos de Tarragona y una hora y cuarto de Barcelona."
 ---
 Una muralla medieval casi intacta, torres, portales y un casco antiguo que parece detenido en el siglo XIV. Y, según la tradición, justo delante de esos muros **Sant Jordi** se enfrentó al **dragón**.
 
@@ -41,9 +52,7 @@ Una muralla medieval casi intacta, torres, portales y un casco antiguo que parec
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ven a la Semana Medieval</b>: en abril, en torno a Sant Jordi: mercado, torneos y la leyenda representada sobre la muralla.</li><li><b>Sube al mirador de Santa Maria</b>: tendrás toda la muralla y la Conca de Barberà a tus pies.</li><li><b>Combínalo con Poblet</b>: está a 10 minutos y es imprescindible.</li><li><b>Prueba los vinos de la zona</b>: la Conca de Barberà tiene su propia denominación de origen.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Montblanc</h2></div>
-<div class="faq"><details><summary>¿Por qué se dice que Sant Jordi mató al dragón en Montblanc?</summary><p>Porque el folclorista Joan Amades situó la leyenda delante de sus murallas, y uno de sus portales se llama Portal de Sant Jordi.</p></details><details><summary>¿Cuándo es la Semana Medieval de Montblanc?</summary><p>En abril, en torno al 23, día de Sant Jordi. Consulta las fechas exactas cada año.</p></details><details><summary>¿Qué ver cerca de Montblanc?</summary><p>El Monasterio de Poblet, a unos 8 km, y los pueblos y bodegas de la Conca de Barberà.</p></details><details><summary>¿Se puede subir a la muralla de Montblanc?</summary><p>Sí, hay tramos que se pueden recorrer por arriba.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué se dice que Sant Jordi mató al dragón en Montblanc?", "acceptedAnswer": {"@type": "Answer", "text": "Porque el folclorista Joan Amades situó la leyenda delante de sus murallas, y uno de sus portales se llama Portal de Sant Jordi."}}, {"@type": "Question", "name": "¿Cuándo es la Semana Medieval de Montblanc?", "acceptedAnswer": {"@type": "Answer", "text": "En abril, en torno al 23, día de Sant Jordi. Consulta las fechas exactas cada año."}}, {"@type": "Question", "name": "¿Qué ver cerca de Montblanc?", "acceptedAnswer": {"@type": "Answer", "text": "El Monasterio de Poblet, a unos 8 km, y los pueblos y bodegas de la Conca de Barberà."}}, {"@type": "Question", "name": "¿Se puede subir a la muralla de Montblanc?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, hay tramos que se pueden recorrer por arriba."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Cataluña</h2></div>
 <ul class="nearby"><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li><li><a href="/blog/miravet.html"><img src="/assets/img/blog/miravet/portada.webp" alt="Miravet" loading="lazy" decoding="async" /><span>Miravet</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li></ul>

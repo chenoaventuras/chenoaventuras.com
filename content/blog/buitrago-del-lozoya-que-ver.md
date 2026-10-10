@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DVO6MY5jNxb/'
+faq:
+  - q: "¿Cómo llegar a Buitrago del Lozoya desde Madrid?"
+    a: "En coche, en aproximadamente una hora por la A-1, con aparcamientos señalizados a la entrada del pueblo."
+  - q: "¿Qué ver en Buitrago del Lozoya?"
+    a: "Su muralla medieval completa, el Museo Picasso - Colección Eugenio Arias, la iglesia y su campanario, el paseo junto al río Lozoya y un pequeño laberinto."
+  - q: "¿Cuánto cuesta visitar la muralla de Buitrago?"
+    a: "Pasear por el pueblo y buena parte de la muralla es gratis. La zona con armas de asedio cuesta 2 € (1 € mayores de 65 y gratis menores de 12)."
+  - q: "¿Qué hacer en Buitrago del Lozoya con niños?"
+    a: "Recorrer la muralla, perderse en el laberinto y, en verano, alquilar una canoa en el río Lozoya."
+  - q: "¿Por qué hay un museo de Picasso en Buitrago?"
+    a: "Porque Picasso era amigo de Eugenio Arias, el barbero del pueblo, y esa amistad dio forma a la colección que hoy se visita gratis."
 ---
 A poco más de una hora de Madrid capital hay un pueblo que conserva algo que ningún otro de la comunidad puede presumir: su muralla medieval completa, casi abrazada por un río. Se llama Buitrago del Lozoya, y es de esas escapadas que no hace falta planear con meses de antelación.
 
@@ -43,5 +54,8 @@ Cualquier época del año es buena: primavera y otoño son especialmente agradab
 Si quieres alargar la escapada, la Sierra Norte de Madrid da para mucho más: pueblos como **Rascafría** o **Patones de Arriba** están cerca, y a solo 15 minutos de Buitrago se esconde la cascada más alta de la Comunidad de Madrid, ideal para combinar en la misma ruta.
 
 Y para seguir explorando la Sierra Norte, en la Sierra del Rincón tienes [Puebla de la Sierra](/blog/puerto-de-la-puebla-sierra-del-rincon.html) y la carretera que sube a su puerto.
+
+<!--faq-->
+
 
 ¿Ya conocías Buitrago del Lozoya? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones cerca de Madrid, y échale un vistazo al resto del blog para tu próxima escapada.

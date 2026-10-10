@@ -11,6 +11,22 @@ tags:
   - Curiosidades
   - Castilla y León
 wide: true
+faqTitulo: "Dudas sobre el astronauta y la rana de Salamanca"
+faq:
+  - q: "¿Dónde está el astronauta de la Catedral de Salamanca?"
+    a: "En la Puerta de Ramos de la Catedral Nueva, en el lado de la calle Cardenal Pla y Deniel."
+  - q: "¿Por qué hay un astronauta en la Catedral de Salamanca?"
+    a: "Se talló en la restauración de 1992 como símbolo del siglo XX, siguiendo la costumbre de los canteros de dejar figuras de su época."
+  - q: "¿Dónde está la rana de Salamanca?"
+    a: "En la fachada plateresca de la Universidad, sobre una calavera en la parte derecha."
+  - q: "¿Qué significa encontrar la rana?"
+    a: "Según la tradición, el estudiante que la encuentra sin ayuda aprueba los exámenes."
+  - q: "¿Es gratis ver el astronauta?"
+    a: "Sí, se ve desde la calle sin entrada."
+  - q: "¿Dónde está la Catedral Nueva de Salamanca?"
+    a: "En pleno casco histórico, a unos 3 minutos andando de la Universidad. El astronauta está en la Puerta de Ramos, la que da a la plaza de Anaya."
+  - q: "¿Cuánto se tarda en encontrar el astronauta y la rana?"
+    a: "Media hora para los dos. Si entras a visitar la catedral y la Universidad por dentro, cuenta una mañana."
 ---
 En una catedral del siglo XVI hay un **astronauta** tallado en piedra, con su escafandra y todo. No es un viajero en el tiempo: es una de las curiosidades más famosas de **Salamanca**, junto a la **rana** de la fachada de la Universidad.
 
@@ -41,9 +57,7 @@ Te cuento dónde está cada uno y su historia 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Lleva prismáticos o zoom</b>: el astronauta es pequeño y la rana todavía más.</li><li><b>Ve con buena luz</b>: a primera hora o al atardecer la piedra de Villamayor se pone dorada.</li><li><b>Busca el dragón</b>: está muy cerca del astronauta y casi nadie se fija.</li><li><b>Sube a las torres</b>: la visita Ieronimus da unas vistas de Salamanca de las mejores.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el astronauta y la rana de Salamanca</h2></div>
-<div class="faq"><details><summary>¿Dónde está el astronauta de la Catedral de Salamanca?</summary><p>En la Puerta de Ramos de la Catedral Nueva, en el lado de la calle Cardenal Pla y Deniel.</p></details><details><summary>¿Por qué hay un astronauta en la Catedral de Salamanca?</summary><p>Se talló en la restauración de 1992 como símbolo del siglo XX, siguiendo la costumbre de los canteros de dejar figuras de su época.</p></details><details><summary>¿Dónde está la rana de Salamanca?</summary><p>En la fachada plateresca de la Universidad, sobre una calavera en la parte derecha.</p></details><details><summary>¿Qué significa encontrar la rana?</summary><p>Según la tradición, el estudiante que la encuentra sin ayuda aprueba los exámenes.</p></details><details><summary>¿Es gratis ver el astronauta?</summary><p>Sí, se ve desde la calle sin entrada.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde está el astronauta de la Catedral de Salamanca?", "acceptedAnswer": {"@type": "Answer", "text": "En la Puerta de Ramos de la Catedral Nueva, en el lado de la calle Cardenal Pla y Deniel."}}, {"@type": "Question", "name": "¿Por qué hay un astronauta en la Catedral de Salamanca?", "acceptedAnswer": {"@type": "Answer", "text": "Se talló en la restauración de 1992 como símbolo del siglo XX, siguiendo la costumbre de los canteros de dejar figuras de su época."}}, {"@type": "Question", "name": "¿Dónde está la rana de Salamanca?", "acceptedAnswer": {"@type": "Answer", "text": "En la fachada plateresca de la Universidad, sobre una calavera en la parte derecha."}}, {"@type": "Question", "name": "¿Qué significa encontrar la rana?", "acceptedAnswer": {"@type": "Answer", "text": "Según la tradición, el estudiante que la encuentra sin ayuda aprueba los exámenes."}}, {"@type": "Question", "name": "¿Es gratis ver el astronauta?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, se ve desde la calle sin entrada."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/cueva-de-salamanca.html"><img src="/assets/img/blog/cueva-de-salamanca/portada.webp" alt="Cueva de Salamanca" loading="lazy" decoding="async" /><span>Cueva de Salamanca</span></a></li><li><a href="/blog/ciudad-rodrigo-que-ver.html"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/portada.webp" alt="Ciudad Rodrigo" loading="lazy" decoding="async" /><span>Ciudad Rodrigo</span></a></li><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li></ul>

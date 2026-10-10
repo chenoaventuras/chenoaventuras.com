@@ -11,6 +11,19 @@ tags:
   - Curiosidades
   - Andalucía
 wide: true
+faq:
+  - q: "¿Por qué Júzcar es azul?"
+    a: "Se pintó en 2011 para el estreno de la película de Los Pitufos, y los vecinos votaron mantener el color."
+  - q: "¿Sigue siendo el pueblo pitufo?"
+    a: "Sigue azul, pero por derechos de autor ahora se llama Aldea Azul."
+  - q: "¿Dónde está Júzcar?"
+    a: "En el Valle del Genal, Serranía de Ronda (Málaga)."
+  - q: "¿Qué ver cerca de Júzcar?"
+    a: "Ronda, los pueblos blancos del Genal y Setenil de las Bodegas."
+  - q: "¿Cómo llegar a Júzcar?"
+    a: "En coche: está en el Valle del Genal, a unos 25 km de Ronda (Málaga)."
+  - q: "¿Merece la pena ir a Júzcar con niños?"
+    a: "Sí, les encanta ver un pueblo entero pintado de azul. Es pequeño y en una o dos horas lo recorres."
 ---
 En la Serranía de Ronda todos los pueblos son blancos... menos uno. **Júzcar** es **azul**. En **2011** se pintó entero para el estreno mundial de la película de **Los Pitufos**, y a los vecinos les gustó tanto que decidieron quedarse así.
 
@@ -38,9 +51,7 @@ Te cuento cómo pasó, por qué ya no puede llamarse «pueblo pitufo» y qué ve
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Otoño</b>: el «Bosque de Cobre» del Genal en noviembre es espectacular.</li><li><b>Pueblos blancos</b>: combina con Cartajima o Benalauría para ver el contraste.</li><li><b>Setas</b>: Júzcar es famoso por sus jornadas micológicas.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Júzcar</h2></div>
-<div class="faq"><details><summary>¿Por qué Júzcar es azul?</summary><p>Se pintó en 2011 para el estreno de la película de Los Pitufos, y los vecinos votaron mantener el color.</p></details><details><summary>¿Sigue siendo el pueblo pitufo?</summary><p>Sigue azul, pero por derechos de autor ahora se llama Aldea Azul.</p></details><details><summary>¿Dónde está Júzcar?</summary><p>En el Valle del Genal, Serranía de Ronda (Málaga).</p></details><details><summary>¿Qué ver cerca de Júzcar?</summary><p>Ronda, los pueblos blancos del Genal y Setenil de las Bodegas.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué Júzcar es azul?", "acceptedAnswer": {"@type": "Answer", "text": "Se pintó en 2011 para el estreno de la película de Los Pitufos, y los vecinos votaron mantener el color."}}, {"@type": "Question", "name": "¿Sigue siendo el pueblo pitufo?", "acceptedAnswer": {"@type": "Answer", "text": "Sigue azul, pero por derechos de autor ahora se llama Aldea Azul."}}, {"@type": "Question", "name": "¿Dónde está Júzcar?", "acceptedAnswer": {"@type": "Answer", "text": "En el Valle del Genal, Serranía de Ronda (Málaga)."}}, {"@type": "Question", "name": "¿Qué ver cerca de Júzcar?", "acceptedAnswer": {"@type": "Answer", "text": "Ronda, los pueblos blancos del Genal y Setenil de las Bodegas."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/grazalema.html"><img src="/assets/img/blog/grazalema/portada.webp" alt="Grazalema" loading="lazy" decoding="async" /><span>Grazalema</span></a></li></ul>

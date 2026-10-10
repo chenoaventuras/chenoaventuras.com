@@ -11,6 +11,18 @@ tags:
   - Spots
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre la Plaza de España de Sevilla"
+faq:
+  - q: "¿Hay que pagar para entrar en la Plaza de España de Sevilla?"
+    a: "No, a día de hoy la entrada es gratuita. El Ayuntamiento ha planteado cobrar a los turistas en el futuro, así que conviene comprobarlo antes de ir."
+  - q: "¿Qué horario tiene la Plaza de España?"
+    a: "Abre todos los días, normalmente de 8:00 a 22:00. Por la noche se cierra."
+  - q: "¿Qué película de Star Wars se rodó en la Plaza de España?"
+    a: "«Star Wars: Episodio II – El ataque de los clones» (2002), donde aparece como un palacio del planeta Naboo."
+  - q: "¿Cuántos bancos de provincias tiene?"
+    a: "Hay un banco de azulejos dedicado a cada provincia española de la época, con su escudo, su mapa y una escena histórica."
+  - q: "¿Quién construyó la Plaza de España?"
+    a: "El arquitecto sevillano Aníbal González, para la Exposición Iberoamericana de 1929."
 ---
 Hay sitios que salen en todas las fotos de Sevilla, y la **Plaza de España** es el número uno. Un semicírculo enorme de ladrillo y azulejo, con torres, puentes, un canal donde puedes remar en barca… y tanto aire de palacio de cuento que **hasta Star Wars la eligió para rodar**.
 
@@ -41,9 +53,7 @@ Te cuento sus curiosidades, qué no te puedes perder y lo que tienes que saber a
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Ve a primera hora o al atardecer</b>: con menos gente y una luz preciosa sobre el ladrillo.</li><li><b>Sube a la galería superior</b>: desde los balcones tienes la mejor vista de toda la plaza.</li><li><b>Busca tu provincia</b>: y hazte la foto en su banco.</li><li><b>Evita las horas centrales en verano</b>: en julio y agosto el calor en la plaza es muy fuerte.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Plaza de España de Sevilla</h2></div>
-<div class="faq"><details><summary>¿Hay que pagar para entrar en la Plaza de España de Sevilla?</summary><p>No, a día de hoy la entrada es gratuita. El Ayuntamiento ha planteado cobrar a los turistas en el futuro, así que conviene comprobarlo antes de ir.</p></details><details><summary>¿Qué horario tiene la Plaza de España?</summary><p>Abre todos los días, normalmente de 8:00 a 22:00. Por la noche se cierra.</p></details><details><summary>¿Qué película de Star Wars se rodó en la Plaza de España?</summary><p>«Star Wars: Episodio II – El ataque de los clones» (2002), donde aparece como un palacio del planeta Naboo.</p></details><details><summary>¿Cuántos bancos de provincias tiene?</summary><p>Hay un banco de azulejos dedicado a cada provincia española de la época, con su escudo, su mapa y una escena histórica.</p></details><details><summary>¿Quién construyó la Plaza de España?</summary><p>El arquitecto sevillano Aníbal González, para la Exposición Iberoamericana de 1929.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hay que pagar para entrar en la Plaza de España de Sevilla?", "acceptedAnswer": {"@type": "Answer", "text": "No, a día de hoy la entrada es gratuita. El Ayuntamiento ha planteado cobrar a los turistas en el futuro, así que conviene comprobarlo antes de ir."}}, {"@type": "Question", "name": "¿Qué horario tiene la Plaza de España?", "acceptedAnswer": {"@type": "Answer", "text": "Abre todos los días, normalmente de 8:00 a 22:00. Por la noche se cierra."}}, {"@type": "Question", "name": "¿Qué película de Star Wars se rodó en la Plaza de España?", "acceptedAnswer": {"@type": "Answer", "text": "«Star Wars: Episodio II – El ataque de los clones» (2002), donde aparece como un palacio del planeta Naboo."}}, {"@type": "Question", "name": "¿Cuántos bancos de provincias tiene?", "acceptedAnswer": {"@type": "Answer", "text": "Hay un banco de azulejos dedicado a cada provincia española de la época, con su escudo, su mapa y una escena histórica."}}, {"@type": "Question", "name": "¿Quién construyó la Plaza de España?", "acceptedAnswer": {"@type": "Answer", "text": "El arquitecto sevillano Aníbal González, para la Exposición Iberoamericana de 1929."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Más planes por Andalucía</h2></div>
 <ul class="nearby"><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/gruta-de-las-maravillas-aracena.html"><img src="/assets/img/blog/gruta-de-las-maravillas-aracena/portada.webp" alt="Gruta de las Maravillas" loading="lazy" decoding="async" /><span>Gruta de las Maravillas</span></a></li><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li></ul>

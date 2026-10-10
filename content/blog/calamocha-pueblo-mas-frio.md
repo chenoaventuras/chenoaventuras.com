@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Aragón
 wide: true
+faqTitulo: "Dudas sobre Calamocha y el frío"
+faq:
+  - q: "¿Cuál es el pueblo más frío de España?"
+    a: "Calamocha (Teruel) suele tener las mínimas más bajas del país; llegó a −30 °C en 1963."
+  - q: "¿Qué es el triángulo del frío?"
+    a: "La zona entre Calamocha, Molina de Aragón y Teruel, donde se registran temperaturas muy bajas en invierno."
+  - q: "¿Por qué hace tanto frío?"
+    a: "Son altiplanos de interior donde el aire frío se acumula en los valles por la noche."
+  - q: "¿Hace calor en verano?"
+    a: "De día sí, pero las noches son frescas."
+  - q: "¿Dónde está Calamocha?"
+    a: "En el valle del Jiloca (Teruel), a medio camino entre Teruel y Zaragoza, junto a la A-23."
 ---
 El **17 de diciembre de 1963**, el termómetro de **Calamocha** (Teruel) marcó **30 grados bajo cero**. Este pueblo del valle del Jiloca es famoso porque muchas noches de invierno tiene **la temperatura más baja de España**.
 
@@ -38,9 +50,7 @@ Te cuento qué es el «triángulo del frío», por qué en verano se está tan b
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Abrígate de verdad</b>: si vas en invierno, sobre todo al amanecer.</li><li><b>Prueba el jamón</b>: pide jamón de Teruel en cualquier bar.</li><li><b>Laguna de Gallocanta</b>: en invierno se llena de miles de grullas, a media hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Calamocha y el frío</h2></div>
-<div class="faq"><details><summary>¿Cuál es el pueblo más frío de España?</summary><p>Calamocha (Teruel) suele tener las mínimas más bajas del país; llegó a −30 °C en 1963.</p></details><details><summary>¿Qué es el triángulo del frío?</summary><p>La zona entre Calamocha, Molina de Aragón y Teruel, donde se registran temperaturas muy bajas en invierno.</p></details><details><summary>¿Por qué hace tanto frío?</summary><p>Son altiplanos de interior donde el aire frío se acumula en los valles por la noche.</p></details><details><summary>¿Hace calor en verano?</summary><p>De día sí, pero las noches son frescas.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es el pueblo más frío de España?", "acceptedAnswer": {"@type": "Answer", "text": "Calamocha (Teruel) suele tener las mínimas más bajas del país; llegó a −30 °C en 1963."}}, {"@type": "Question", "name": "¿Qué es el triángulo del frío?", "acceptedAnswer": {"@type": "Answer", "text": "La zona entre Calamocha, Molina de Aragón y Teruel, donde se registran temperaturas muy bajas en invierno."}}, {"@type": "Question", "name": "¿Por qué hace tanto frío?", "acceptedAnswer": {"@type": "Answer", "text": "Son altiplanos de interior donde el aire frío se acumula en los valles por la noche."}}, {"@type": "Question", "name": "¿Hace calor en verano?", "acceptedAnswer": {"@type": "Answer", "text": "De día sí, pero las noches son frescas."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/albarracin-que-ver.html"><img src="/assets/img/blog/albarracin-que-ver/portada.webp" alt="Albarracín" loading="lazy" decoding="async" /><span>Albarracín</span></a></li><li><a href="/blog/amantes-de-teruel.html"><img src="/assets/img/blog/amantes-de-teruel/portada.webp" alt="Amantes de Teruel" loading="lazy" decoding="async" /><span>Amantes de Teruel</span></a></li><li><a href="/blog/belchite-pueblo-viejo.html"><img src="/assets/img/blog/belchite-pueblo-viejo/portada.webp" alt="Belchite" loading="lazy" decoding="async" /><span>Belchite</span></a></li></ul>

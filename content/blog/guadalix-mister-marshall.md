@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre Bienvenido, Mister Marshall"
+faq:
+  - q: "¿Dónde se rodó Bienvenido, Mister Marshall?"
+    a: "En Guadalix de la Sierra (Madrid), en 1952."
+  - q: "¿Cómo se llama el pueblo en la película?"
+    a: "Villar del Río."
+  - q: "¿Quién dirigió la película?"
+    a: "Luis García Berlanga. Se estrenó en 1953."
+  - q: "¿Hay algo de la película en Guadalix?"
+    a: "Sí, una escultura homenaje con el cartel de bienvenida y una placa dedicada a Berlanga."
+  - q: "¿Cómo llegar a Guadalix de la Sierra desde Madrid?"
+    a: "En coche por la A-1, en unos 45 minutos (unos 50 km)."
 ---
 «Americanos, os recibimos con alegría...». La canción más famosa del cine español sonó por primera vez en las calles de **Guadalix de la Sierra**, a 50 km de Madrid. Aquí rodó **Luis García Berlanga** en 1952 *¡Bienvenido, Mister Marshall!*, una de las mejores películas españolas de la historia.
 
@@ -38,9 +50,7 @@ Te cuento la historia de la película y qué queda de ella en el pueblo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira la peli antes</b>: así reconocerás la plaza y las calles.</li><li><b>Embalse de Pedrezuela</b>: al lado del pueblo, para pasear.</li><li><b>Buitrago del Lozoya</b>: villa amurallada a media hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Bienvenido, Mister Marshall</h2></div>
-<div class="faq"><details><summary>¿Dónde se rodó Bienvenido, Mister Marshall?</summary><p>En Guadalix de la Sierra (Madrid), en 1952.</p></details><details><summary>¿Cómo se llama el pueblo en la película?</summary><p>Villar del Río.</p></details><details><summary>¿Quién dirigió la película?</summary><p>Luis García Berlanga. Se estrenó en 1953.</p></details><details><summary>¿Hay algo de la película en Guadalix?</summary><p>Sí, una escultura homenaje con el cartel de bienvenida y una placa dedicada a Berlanga.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde se rodó Bienvenido, Mister Marshall?", "acceptedAnswer": {"@type": "Answer", "text": "En Guadalix de la Sierra (Madrid), en 1952."}}, {"@type": "Question", "name": "¿Cómo se llama el pueblo en la película?", "acceptedAnswer": {"@type": "Answer", "text": "Villar del Río."}}, {"@type": "Question", "name": "¿Quién dirigió la película?", "acceptedAnswer": {"@type": "Answer", "text": "Luis García Berlanga. Se estrenó en 1953."}}, {"@type": "Question", "name": "¿Hay algo de la película en Guadalix?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, una escultura homenaje con el cartel de bienvenida y una placa dedicada a Berlanga."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/buitrago-del-lozoya-que-ver.html"><img src="/assets/img/instagram/18567364960036817.webp" alt="Buitrago del Lozoya" loading="lazy" decoding="async" /><span>Buitrago del Lozoya</span></a></li><li><a href="/blog/hayedo-de-montejo.html"><img src="/assets/img/blog/hayedo-de-montejo/portada.webp" alt="Hayedo de Montejo" loading="lazy" decoding="async" /><span>Hayedo de Montejo</span></a></li><li><a href="/blog/fresnedillas-apolo-11.html"><img src="/assets/img/blog/fresnedillas-apolo-11/portada.webp" alt="Fresnedillas y la Luna" loading="lazy" decoding="async" /><span>Fresnedillas y la Luna</span></a></li></ul>

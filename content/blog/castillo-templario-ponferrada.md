@@ -12,6 +12,15 @@ tags:
   - Castilla y León
 wide: true
 draft: true
+faq:
+  - q: "¿Cuánto cuesta entrar al Castillo de Ponferrada?"
+    a: "La entrada general cuesta unos 6 €, con tarifa reducida para jóvenes, estudiantes y mayores. Consulta los precios actualizados en la web municipal."
+  - q: "¿Qué día cierra el Castillo de Ponferrada?"
+    a: "Normalmente los lunes. El horario cambia entre invierno y verano."
+  - q: "¿Cuándo es la Noche Templaria de Ponferrada?"
+    a: "A principios de julio, con desfiles, cenas históricas y mercado medieval."
+  - q: "¿A qué distancia están Las Médulas de Ponferrada?"
+    a: "A unos 20 km, unos 30 minutos en coche."
 ---
 Murallas almenadas, torres, un puente levadizo y la cruz templaria por todas partes. El **Castillo de Ponferrada** parece sacado de una novela de caballeros… y en parte lo es, porque aquí la leyenda de los **templarios** está en cada piedra.
 
@@ -43,9 +52,7 @@ Además, Ponferrada es la puerta de entrada a **Las Médulas**, otro de los pais
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ven a la Noche Templaria</b>: a principios de julio la ciudad se llena de caballeros, antorchas y mercado medieval.</li><li><b>Sube a las torres</b>: las vistas del Bierzo desde arriba merecen la pena.</li><li><b>Ve a Las Médulas al atardecer</b>: el rojo de la tierra se enciende con la luz de la tarde.</li><li><b>Prueba el botillo</b>: el plato más contundente de El Bierzo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Ponferrada</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar al Castillo de Ponferrada?</summary><p>La entrada general cuesta unos 6 €, con tarifa reducida para jóvenes, estudiantes y mayores. Consulta los precios actualizados en la web municipal.</p></details><details><summary>¿Qué día cierra el Castillo de Ponferrada?</summary><p>Normalmente los lunes. El horario cambia entre invierno y verano.</p></details><details><summary>¿Cuándo es la Noche Templaria de Ponferrada?</summary><p>A principios de julio, con desfiles, cenas históricas y mercado medieval.</p></details><details><summary>¿A qué distancia están Las Médulas de Ponferrada?</summary><p>A unos 20 km, unos 30 minutos en coche.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar al Castillo de Ponferrada?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta unos 6 €, con tarifa reducida para jóvenes, estudiantes y mayores. Consulta los precios actualizados en la web municipal."}}, {"@type": "Question", "name": "¿Qué día cierra el Castillo de Ponferrada?", "acceptedAnswer": {"@type": "Answer", "text": "Normalmente los lunes. El horario cambia entre invierno y verano."}}, {"@type": "Question", "name": "¿Cuándo es la Noche Templaria de Ponferrada?", "acceptedAnswer": {"@type": "Answer", "text": "A principios de julio, con desfiles, cenas históricas y mercado medieval."}}, {"@type": "Question", "name": "¿A qué distancia están Las Médulas de Ponferrada?", "acceptedAnswer": {"@type": "Answer", "text": "A unos 20 km, unos 30 minutos en coche."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/astorga-que-ver.html"><img src="/assets/img/blog/astorga-que-ver/portada.webp" alt="Astorga" loading="lazy" decoding="async" /><span>Astorga</span></a></li><li><a href="/blog/canon-del-sil.html"><img src="/assets/img/blog/canon-del-sil/portada.webp" alt="Cañón del Sil" loading="lazy" decoding="async" /><span>Cañón del Sil</span></a></li><li><a href="/blog/puebla-de-sanabria.html"><img src="/assets/img/blog/puebla-de-sanabria/portada.webp" alt="Lago de Sanabria" loading="lazy" decoding="async" /><span>Lago de Sanabria</span></a></li></ul>

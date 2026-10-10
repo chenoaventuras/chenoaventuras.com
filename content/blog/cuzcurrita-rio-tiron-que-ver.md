@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - La Rioja
 igPermalink: 'https://www.instagram.com/reel/DX4osIysp4I/'
+faq:
+  - q: "¿Dónde está Cuzcurrita de Río Tirón?"
+    a: "En la Rioja Alta, entre viñedos y a orillas del río Tirón."
+  - q: "¿Qué ver en Cuzcurrita de Río Tirón?"
+    a: "El castillo de los Velasco (hoy bodega), el puente medieval, el Mirador del Bolo, la iglesia de San Miguel y las ermitas de Tironcillo y Santa María de Sorejana."
+  - q: "¿Se puede visitar el castillo de Cuzcurrita?"
+    a: "El castillo funciona hoy como bodega, rodeado de viñedos: es la excusa perfecta para una parada de enoturismo."
+  - q: "¿Dónde bañarse en Cuzcurrita de Río Tirón?"
+    a: "En la presa del río Tirón, que en verano se convierte en zona de baño."
+  - q: "¿Cuándo es mejor visitar Cuzcurrita?"
+    a: "En cualquier época, pero luce especialmente en la vendimia (septiembre-octubre) y en primavera."
 ---
 Entre viñedos de la Rioja Alta, con un río cruzando el pueblo y un castillo que hoy sabe más a vino que a guerra, Cuzcurrita de Río Tirón es de esas escapadas donde el plan es simplemente pasear, parar y disfrutar sin prisa.
 
@@ -45,5 +56,8 @@ El pueblo tiene fácil acceso en coche y aparcamiento sencillo en el propio casc
 Para verlo con calma —castillo, puente, mirador, ermitas y un rato de vino— hace falta prácticamente todo el día. Cuzcurrita se puede visitar en cualquier época del año, aunque resulta especialmente bonita durante la vendimia, entre septiembre y octubre, y también en primavera.
 
 Forma parte, además, de la red de Pueblos Mágicos de España, así que si te gustan este tipo de escapadas, seguro que no es el único que te va a gustar.
+
+<!--faq-->
+
 
 ¿Conocías Cuzcurrita de Río Tirón? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más pueblos con encanto, y échale un vistazo al resto del blog para tu próxima ruta.

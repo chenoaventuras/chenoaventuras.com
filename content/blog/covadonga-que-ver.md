@@ -12,6 +12,15 @@ tags:
   - Asturias
 wide: true
 draft: true
+faq:
+  - q: "¿Se puede subir en coche a los Lagos de Covadonga?"
+    a: "Depende de la fecha. En temporada alta, Semana Santa y puentes el acceso en coche particular está restringido y se sube en autobús. Fuera de esas fechas, sí se puede subir en coche."
+  - q: "¿Cuánto cuesta visitar Covadonga?"
+    a: "La Santa Cueva y la basílica son gratis. El autobús a los Lagos en temporada es de pago."
+  - q: "¿Qué hay en la Santa Cueva de Covadonga?"
+    a: "La imagen de la Virgen de Covadonga, la Santina, y el sepulcro de Pelayo, el primer rey de Asturias."
+  - q: "¿Qué dice la leyenda de la fuente de Covadonga?"
+    a: "Según el dicho popular, «la moza que bebe en la fuente, se casa en el año»."
 ---
 Una cueva colgada en la roca con una cascada saliendo justo debajo, una basílica de piedra rosa en mitad de las montañas y, doce kilómetros más arriba, dos lagos glaciares con vacas pastando en la orilla. **Covadonga** es uno de esos lugares que se han contado tantas veces que parecen leyenda.
 
@@ -42,9 +51,7 @@ Y en parte lo son: aquí empieza, según la tradición, la historia de España t
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve temprano</b>: a primera hora la Santa Cueva está tranquila y la luz sobre la basílica es preciosa.</li><li><b>Reserva el autobús a los Lagos</b>: en verano los horarios se llenan con antelación.</li><li><b>Lleva capas</b>: en los Lagos puede haber niebla y frío aunque abajo haga sol.</li><li><b>Haz la ruta de los Lagos</b>: la circular entre el Enol y el Ercina es corta y apta para casi todo el mundo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Covadonga</h2></div>
-<div class="faq"><details><summary>¿Se puede subir en coche a los Lagos de Covadonga?</summary><p>Depende de la fecha. En temporada alta, Semana Santa y puentes el acceso en coche particular está restringido y se sube en autobús. Fuera de esas fechas, sí se puede subir en coche.</p></details><details><summary>¿Cuánto cuesta visitar Covadonga?</summary><p>La Santa Cueva y la basílica son gratis. El autobús a los Lagos en temporada es de pago.</p></details><details><summary>¿Qué hay en la Santa Cueva de Covadonga?</summary><p>La imagen de la Virgen de Covadonga, la Santina, y el sepulcro de Pelayo, el primer rey de Asturias.</p></details><details><summary>¿Qué dice la leyenda de la fuente de Covadonga?</summary><p>Según el dicho popular, «la moza que bebe en la fuente, se casa en el año».</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede subir en coche a los Lagos de Covadonga?", "acceptedAnswer": {"@type": "Answer", "text": "Depende de la fecha. En temporada alta, Semana Santa y puentes el acceso en coche particular está restringido y se sube en autobús. Fuera de esas fechas, sí se puede subir en coche."}}, {"@type": "Question", "name": "¿Cuánto cuesta visitar Covadonga?", "acceptedAnswer": {"@type": "Answer", "text": "La Santa Cueva y la basílica son gratis. El autobús a los Lagos en temporada es de pago."}}, {"@type": "Question", "name": "¿Qué hay en la Santa Cueva de Covadonga?", "acceptedAnswer": {"@type": "Answer", "text": "La imagen de la Virgen de Covadonga, la Santina, y el sepulcro de Pelayo, el primer rey de Asturias."}}, {"@type": "Question", "name": "¿Qué dice la leyenda de la fuente de Covadonga?", "acceptedAnswer": {"@type": "Answer", "text": "Según el dicho popular, «la moza que bebe en la fuente, se casa en el año»."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el norte</h2></div>
 <ul class="nearby"><li><a href="/blog/cudillero-que-ver.html"><img src="/assets/img/blog/cudillero-que-ver/portada.webp" alt="Cudillero" loading="lazy" decoding="async" /><span>Cudillero</span></a></li><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/partenon-de-las-fraguas-cantabria.html"><img src="/assets/img/instagram/18073249217294344.webp" alt="Las Fraguas" loading="lazy" decoding="async" /><span>Las Fraguas</span></a></li></ul>

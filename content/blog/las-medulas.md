@@ -11,6 +11,17 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+faq:
+  - q: "¿Cuánto cuesta entrar en Las Médulas?"
+    a: "El paraje es gratis. Algunas galerías y centros tienen entrada."
+  - q: "¿Cómo llegar a Las Médulas?"
+    a: "Desde Ponferrada, por la N-536 hacia Carucedo; son unos 25 km."
+  - q: "¿Qué son Las Médulas?"
+    a: "Los restos de la mayor mina de oro a cielo abierto del Imperio romano."
+  - q: "¿Dónde está el Mirador de Orellán?"
+    a: "Junto al pueblo de Orellán, frente a Las Médulas. Se llega en coche y se termina a pie."
+  - q: "¿Cuánto se tarda en ver Las Médulas?"
+    a: "Medio día da para una ruta a pie y subir al Mirador de Orellán."
 ---
 Picos rojos que parecen de otro planeta, castaños centenarios y galerías excavadas en la montaña. **Las Médulas** no son naturales: son lo que quedó de la **mayor mina de oro del Imperio romano**.
 
@@ -41,9 +52,7 @@ Te cuento cómo llegar, qué ruta hacer y desde dónde se ve mejor 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Empieza por el Centro de Recepción</b>: te dan mapas de las rutas.</li><li><b>Haz la Senda de las Valiñas</b>: es la más popular, corta y con las galerías más famosas.</li><li><b>Atardecer en Orellán</b>: con el sol bajo, los picos se ponen rojo fuego.</li><li><b>Ve en otoño</b>: los castaños y el rojo de la tierra hacen un contraste brutal.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Las Médulas</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar en Las Médulas?</summary><p>El paraje es gratis. Algunas galerías y centros tienen entrada.</p></details><details><summary>¿Cómo llegar a Las Médulas?</summary><p>Desde Ponferrada, por la N-536 hacia Carucedo; son unos 25 km.</p></details><details><summary>¿Qué son Las Médulas?</summary><p>Los restos de la mayor mina de oro a cielo abierto del Imperio romano.</p></details><details><summary>¿Dónde está el Mirador de Orellán?</summary><p>Junto al pueblo de Orellán, frente a Las Médulas. Se llega en coche y se termina a pie.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar en Las Médulas?", "acceptedAnswer": {"@type": "Answer", "text": "El paraje es gratis. Algunas galerías y centros tienen entrada."}}, {"@type": "Question", "name": "¿Cómo llegar a Las Médulas?", "acceptedAnswer": {"@type": "Answer", "text": "Desde Ponferrada, por la N-536 hacia Carucedo; son unos 25 km."}}, {"@type": "Question", "name": "¿Qué son Las Médulas?", "acceptedAnswer": {"@type": "Answer", "text": "Los restos de la mayor mina de oro a cielo abierto del Imperio romano."}}, {"@type": "Question", "name": "¿Dónde está el Mirador de Orellán?", "acceptedAnswer": {"@type": "Answer", "text": "Junto al pueblo de Orellán, frente a Las Médulas. Se llega en coche y se termina a pie."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/canon-del-sil.html"><img src="/assets/img/blog/canon-del-sil/portada.webp" alt="Cañón del Sil" loading="lazy" decoding="async" /><span>Cañón del Sil</span></a></li><li><a href="/blog/astorga-que-ver.html"><img src="/assets/img/blog/astorga-que-ver/portada.webp" alt="Astorga" loading="lazy" decoding="async" /><span>Astorga</span></a></li><li><a href="/blog/puebla-de-sanabria.html"><img src="/assets/img/blog/puebla-de-sanabria/portada.webp" alt="Lago de Sanabria" loading="lazy" decoding="async" /><span>Lago de Sanabria</span></a></li></ul>

@@ -11,6 +11,18 @@ tags:
   - Spots
   - Navarra
 wide: true
+faqTitulo: "Dudas sobre la Selva de Irati"
+faq:
+  - q: "¿Cuándo es mejor ir a la Selva de Irati?"
+    a: "En otoño, de mediados de octubre a principios de noviembre, cuando las hayas cambian de color. Primavera también es muy bonita."
+  - q: "¿Hay que pagar para entrar en la Selva de Irati?"
+    a: "El bosque es de acceso libre, pero los aparcamientos de los accesos principales son de pago en temporada."
+  - q: "¿Cuál es la ruta más fácil de Irati?"
+    a: "La de la Cascada del Cubo, unos 5 km ida y vuelta casi llanos desde Casas de Irati."
+  - q: "¿Por dónde se entra a la Selva de Irati?"
+    a: "Por Ochagavía, en el Valle de Salazar, o por Orbaizeta, en el Valle de Aezkoa."
+  - q: "¿Cómo llegar a la Selva de Irati desde Pamplona?"
+    a: "En coche, en algo más de una hora, entrando por Ochagavía (Valle de Salazar) o por Orbaizeta (Valle de Aezkoa)."
 ---
 En otoño, la **Selva de Irati** se pone de todos los colores: amarillos, naranjas, rojos y el verde oscuro de los abetos, todo reflejado en el río. Es uno de los bosques más grandes y mejor conservados de Europa, y en octubre está en su mejor momento.
 
@@ -41,9 +53,7 @@ Te cuento cómo llegar, qué rutas hacer y cómo evitar las colas de coches 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Madruga en otoño</b>: los fines de semana de octubre los aparcamientos se llenan pronto.</li><li><b>Ve entre semana si puedes</b>: el bosque está mucho más tranquilo.</li><li><b>Lleva calzado impermeable</b>: con las hojas y la humedad, los caminos resbalan.</li><li><b>Duerme en Ochagavía</b>: así puedes entrar al bosque a primera hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Selva de Irati</h2></div>
-<div class="faq"><details><summary>¿Cuándo es mejor ir a la Selva de Irati?</summary><p>En otoño, de mediados de octubre a principios de noviembre, cuando las hayas cambian de color. Primavera también es muy bonita.</p></details><details><summary>¿Hay que pagar para entrar en la Selva de Irati?</summary><p>El bosque es de acceso libre, pero los aparcamientos de los accesos principales son de pago en temporada.</p></details><details><summary>¿Cuál es la ruta más fácil de Irati?</summary><p>La de la Cascada del Cubo, unos 5 km ida y vuelta casi llanos desde Casas de Irati.</p></details><details><summary>¿Por dónde se entra a la Selva de Irati?</summary><p>Por Ochagavía, en el Valle de Salazar, o por Orbaizeta, en el Valle de Aezkoa.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuándo es mejor ir a la Selva de Irati?", "acceptedAnswer": {"@type": "Answer", "text": "En otoño, de mediados de octubre a principios de noviembre, cuando las hayas cambian de color. Primavera también es muy bonita."}}, {"@type": "Question", "name": "¿Hay que pagar para entrar en la Selva de Irati?", "acceptedAnswer": {"@type": "Answer", "text": "El bosque es de acceso libre, pero los aparcamientos de los accesos principales son de pago en temporada."}}, {"@type": "Question", "name": "¿Cuál es la ruta más fácil de Irati?", "acceptedAnswer": {"@type": "Answer", "text": "La de la Cascada del Cubo, unos 5 km ida y vuelta casi llanos desde Casas de Irati."}}, {"@type": "Question", "name": "¿Por dónde se entra a la Selva de Irati?", "acceptedAnswer": {"@type": "Answer", "text": "Por Ochagavía, en el Valle de Salazar, o por Orbaizeta, en el Valle de Aezkoa."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el norte</h2></div>
 <ul class="nearby"><li><a href="/blog/bardenas-reales.html"><img src="/assets/img/blog/bardenas-reales/portada.webp" alt="Bardenas Reales" loading="lazy" decoding="async" /><span>Bardenas Reales</span></a></li><li><a href="/blog/hondarribia-que-ver.html"><img src="/assets/img/blog/hondarribia-que-ver/plaza.webp" alt="Hondarribia" loading="lazy" decoding="async" /><span>Hondarribia</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Pirineo Aragonés" loading="lazy" decoding="async" /><span>Pirineo Aragonés</span></a></li></ul>

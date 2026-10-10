@@ -11,6 +11,16 @@ tags:
   - Curiosidades
   - Cataluña
 wide: true
+faqTitulo: "Dudas sobre la Casa de Dalí"
+faq:
+  - q: "¿Hay que reservar para la Casa de Dalí en Portlligat?"
+    a: "Sí, las visitas son en grupos reducidos con hora. Reserva online."
+  - q: "¿Por qué hay huevos en el tejado?"
+    a: "El huevo era para Dalí un símbolo de vida y renacimiento."
+  - q: "¿Cuánto tiempo vivió Dalí allí?"
+    a: "Desde 1930 hasta la muerte de Gala en 1982."
+  - q: "¿Cómo se llega desde Cadaqués?"
+    a: "Andando en unos 15 minutos por el paseo junto al mar."
 ---
 Unos **huevos gigantes** sobre el tejado, un **oso disecado** en la entrada y una piscina con forma de... bueno, ya lo verás. La casa de **Salvador Dalí** en **Portlligat**, junto a Cadaqués, es tan surrealista como él.
 
@@ -38,9 +48,7 @@ Te cuento su historia, cómo conseguir entrada (se agotan) y qué ver 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva ya</b>: en verano se agota con semanas de antelación.</li><li><b>Triángulo daliniano</b>: combina con el Teatro-Museo de Figueres y el Castillo de Púbol.</li><li><b>Cap de Creus</b>: las rocas que inspiraban a Dalí están a 15 minutos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Casa de Dalí</h2></div>
-<div class="faq"><details><summary>¿Hay que reservar para la Casa de Dalí en Portlligat?</summary><p>Sí, las visitas son en grupos reducidos con hora. Reserva online.</p></details><details><summary>¿Por qué hay huevos en el tejado?</summary><p>El huevo era para Dalí un símbolo de vida y renacimiento.</p></details><details><summary>¿Cuánto tiempo vivió Dalí allí?</summary><p>Desde 1930 hasta la muerte de Gala en 1982.</p></details><details><summary>¿Cómo se llega desde Cadaqués?</summary><p>Andando en unos 15 minutos por el paseo junto al mar.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hay que reservar para la Casa de Dalí en Portlligat?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, las visitas son en grupos reducidos con hora. Reserva online."}}, {"@type": "Question", "name": "¿Por qué hay huevos en el tejado?", "acceptedAnswer": {"@type": "Answer", "text": "El huevo era para Dalí un símbolo de vida y renacimiento."}}, {"@type": "Question", "name": "¿Cuánto tiempo vivió Dalí allí?", "acceptedAnswer": {"@type": "Answer", "text": "Desde 1930 hasta la muerte de Gala en 1982."}}, {"@type": "Question", "name": "¿Cómo se llega desde Cadaqués?", "acceptedAnswer": {"@type": "Answer", "text": "Andando en unos 15 minutos por el paseo junto al mar."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/cabo-de-creus.html"><img src="/assets/img/blog/cabo-de-creus/paisaje.webp" alt="Cabo de Creus" loading="lazy" decoding="async" /><span>Cabo de Creus</span></a></li><li><a href="/blog/tossa-de-mar-ava-gardner.html"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/castillo.webp" alt="Tossa de Mar" loading="lazy" decoding="async" /><span>Tossa de Mar</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li></ul>

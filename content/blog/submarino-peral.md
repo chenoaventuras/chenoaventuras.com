@@ -11,6 +11,16 @@ tags:
   - Curiosidades
   - Región de Murcia
 wide: true
+faqTitulo: "Dudas sobre el Submarino Peral"
+faq:
+  - q: "¿Cuál fue el primer submarino eléctrico?"
+    a: "El submarino de Isaac Peral, botado en 1888: el primer submarino totalmente eléctrico y con torpedos."
+  - q: "¿Dónde está el Submarino Peral?"
+    a: "En el Museo Naval de Cartagena."
+  - q: "¿Quién era Isaac Peral?"
+    a: "Un marino e inventor nacido en Cartagena en 1851."
+  - q: "¿Por qué no se siguió fabricando?"
+    a: "Se abandonó por desconfianza y motivos políticos, pese a sus buenas pruebas."
 ---
 En 1888, en San Fernando (Cádiz), se botó un invento que se adelantó a su tiempo: el **submarino de Isaac Peral**, el **primer submarino totalmente eléctrico del mundo** y armado con torpedos.
 
@@ -38,9 +48,7 @@ Te cuento su historia, por qué no siguió adelante y dónde verlo hoy en Cartag
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Combina</b>: con el Teatro Romano y el ARQVA, el museo de arqueología subacuática.</li><li><b>Baterías de costa</b>: la Batería de Castillitos, con sus cañones gigantes, está a media hora.</li><li><b>Cabo de Palos</b>: y el naufragio del Sirio, a 30 minutos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Submarino Peral</h2></div>
-<div class="faq"><details><summary>¿Cuál fue el primer submarino eléctrico?</summary><p>El submarino de Isaac Peral, botado en 1888: el primer submarino totalmente eléctrico y con torpedos.</p></details><details><summary>¿Dónde está el Submarino Peral?</summary><p>En el Museo Naval de Cartagena.</p></details><details><summary>¿Quién era Isaac Peral?</summary><p>Un marino e inventor nacido en Cartagena en 1851.</p></details><details><summary>¿Por qué no se siguió fabricando?</summary><p>Se abandonó por desconfianza y motivos políticos, pese a sus buenas pruebas.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál fue el primer submarino eléctrico?", "acceptedAnswer": {"@type": "Answer", "text": "El submarino de Isaac Peral, botado en 1888: el primer submarino totalmente eléctrico y con torpedos."}}, {"@type": "Question", "name": "¿Dónde está el Submarino Peral?", "acceptedAnswer": {"@type": "Answer", "text": "En el Museo Naval de Cartagena."}}, {"@type": "Question", "name": "¿Quién era Isaac Peral?", "acceptedAnswer": {"@type": "Answer", "text": "Un marino e inventor nacido en Cartagena en 1851."}}, {"@type": "Question", "name": "¿Por qué no se siguió fabricando?", "acceptedAnswer": {"@type": "Answer", "text": "Se abandonó por desconfianza y motivos políticos, pese a sus buenas pruebas."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/bateria-castillitos-cartagena.html"><img src="/assets/img/destinos/bateria-castillitos.webp" alt="Batería de Castillitos" loading="lazy" decoding="async" /><span>Batería de Castillitos</span></a></li><li><a href="/blog/naufragio-del-sirio.html"><img src="/assets/img/blog/naufragio-del-sirio/portada.webp" alt="Naufragio del Sirio" loading="lazy" decoding="async" /><span>Naufragio del Sirio</span></a></li><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Snorkel en Cabo de Palos" loading="lazy" decoding="async" /><span>Snorkel en Cabo de Palos</span></a></li></ul>

@@ -11,6 +11,22 @@ tags:
   - Actividades
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre Los Cahorros"
+faq:
+  - q: "¿Hay que pagar para hacer la ruta de Los Cahorros?"
+    a: "No. La ruta es gratuita y no necesitas reserva ni permiso. El aparcamiento de tierra del inicio también es gratis."
+  - q: "¿Cuántos kilómetros tiene la ruta de Los Cahorros?"
+    a: "La ruta circular más habitual tiene unos 9-10 km y se hace en unas 4 horas con paradas. También puedes hacer solo el tramo de los puentes, ida y vuelta."
+  - q: "¿Es apta para niños?"
+    a: "Sí, el tramo del cañón y los puentes lo hacen muchas familias. Eso sí, hay que vigilarlos en los puentes y en los pasos junto al río."
+  - q: "¿Se puede ir con perro?"
+    a: "Sí, es un sendero público y mucha gente va con perro. Llévalo atado en los puentes colgantes y en los tramos estrechos."
+  - q: "¿Cuándo es mejor ir?"
+    a: "Se puede hacer todo el año, pero primavera y otoño son las mejores épocas. En verano, ve temprano: el cañón da sombra, pero la vuelta por arriba es muy soleada."
+  - q: "¿Dónde empieza la ruta de Los Cahorros?"
+    a: "En el pueblo de Monachil, a unos 20-30 minutos en coche de Granada."
+  - q: "¿Dónde aparcar para Los Cahorros?"
+    a: "En el aparcamiento de tierra del inicio de la ruta, que es gratis."
 ---
 A solo 20 minutos de Granada, el río Monachil se cuela por un cañón de roca caliza tan estrecho que en algunos tramos tienes que **agacharte para pasar**. Esa es la ruta de **Los Cahorros**: puentes colgantes que se balancean sobre el río, pasarelas pegadas a la pared y paredes verticales donde casi siempre verás a alguien escalando.
 
@@ -41,9 +57,7 @@ Es gratis, no hay que reservar y es apta para casi todo el mundo. Te cuento cóm
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Madruga</b>: el parking se llena y a primera hora el cañón está mucho más tranquilo.</li><li><b>Zapatillas con buen agarre</b>: hay roca pulida y algún tramo húmedo junto al río.</li><li><b>Ojo si ha llovido mucho</b>: con el río crecido algunos pasos pueden ser peligrosos; respeta los avisos de los paneles.</li><li><b>Lleva agua y algo de comer</b>: en el camino no hay ningún servicio.</li><li><b>Combínala con Granada</b>: por la tarde, sube al mirador de San Nicolás a ver la Alhambra con el atardecer.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Los Cahorros</h2></div>
-<div class="faq"><details><summary>¿Hay que pagar para hacer la ruta de Los Cahorros?</summary><p>No. La ruta es gratuita y no necesitas reserva ni permiso. El aparcamiento de tierra del inicio también es gratis.</p></details><details><summary>¿Cuántos kilómetros tiene la ruta de Los Cahorros?</summary><p>La ruta circular más habitual tiene unos 9-10 km y se hace en unas 4 horas con paradas. También puedes hacer solo el tramo de los puentes, ida y vuelta.</p></details><details><summary>¿Es apta para niños?</summary><p>Sí, el tramo del cañón y los puentes lo hacen muchas familias. Eso sí, hay que vigilarlos en los puentes y en los pasos junto al río.</p></details><details><summary>¿Se puede ir con perro?</summary><p>Sí, es un sendero público y mucha gente va con perro. Llévalo atado en los puentes colgantes y en los tramos estrechos.</p></details><details><summary>¿Cuándo es mejor ir?</summary><p>Se puede hacer todo el año, pero primavera y otoño son las mejores épocas. En verano, ve temprano: el cañón da sombra, pero la vuelta por arriba es muy soleada.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hay que pagar para hacer la ruta de Los Cahorros?", "acceptedAnswer": {"@type": "Answer", "text": "No. La ruta es gratuita y no necesitas reserva ni permiso. El aparcamiento de tierra del inicio también es gratis."}}, {"@type": "Question", "name": "¿Cuántos kilómetros tiene la ruta de Los Cahorros?", "acceptedAnswer": {"@type": "Answer", "text": "La ruta circular más habitual tiene unos 9-10 km y se hace en unas 4 horas con paradas. También puedes hacer solo el tramo de los puentes, ida y vuelta."}}, {"@type": "Question", "name": "¿Es apta para niños?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, el tramo del cañón y los puentes lo hacen muchas familias. Eso sí, hay que vigilarlos en los puentes y en los pasos junto al río."}}, {"@type": "Question", "name": "¿Se puede ir con perro?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, es un sendero público y mucha gente va con perro. Llévalo atado en los puentes colgantes y en los tramos estrechos."}}, {"@type": "Question", "name": "¿Cuándo es mejor ir?", "acceptedAnswer": {"@type": "Answer", "text": "Se puede hacer todo el año, pero primavera y otoño son las mejores épocas. En verano, ve temprano: el cañón da sombra, pero la vuelta por arriba es muy soleada."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más aventuras</span><h2>Si te gustan los puentes colgantes…</h2></div>
 <ul class="nearby"><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/pasarelas-de-panticosa.html"><img src="/assets/img/instagram/18131174488538752.webp" alt="Pasarelas de Panticosa" loading="lazy" decoding="async" /><span>Pasarelas de Panticosa</span></a></li><li><a href="/blog/senda-de-los-cazadores-ordesa.html"><img src="/assets/img/blog/pirineo/calcilarruego.webp" alt="Senda de los Cazadores" loading="lazy" decoding="async" /><span>Senda de los Cazadores</span></a></li></ul>

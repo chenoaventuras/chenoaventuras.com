@@ -11,6 +11,18 @@ tags:
   - Actividades
   - Castilla-La Mancha
 igPermalink: 'https://www.instagram.com/reel/DMxQCRKo6vO/'
+faqTitulo: "Dudas sobre Puy du Fou España"
+faq:
+  - q: "¿Dónde está Puy du Fou España?"
+    a: "A las afueras de Toledo, a pocos minutos en coche de la ciudad."
+  - q: "¿Cuánto cuesta la entrada de Puy du Fou España?"
+    a: "La entrada de un día con el espectáculo nocturno ronda los 70 €, aunque suele haber promociones que la rebajan bastante."
+  - q: "¿Se puede ver Puy du Fou España en un día?"
+    a: "Sí, pero necesitas el día completo para ver todos los espectáculos. Si quieres ir más tranquilo, hay entrada de dos días."
+  - q: "¿Cuál es el mejor espectáculo de Puy du Fou?"
+    a: "El espectáculo nocturno, con luces, sonido y efectos especiales: es el gran cierre del día y no te lo deberías perder."
+  - q: "¿Cuándo es mejor ir a Puy du Fou España?"
+    a: "En primavera y verano, cuando los espectáculos al aire libre se disfrutan mejor."
 ---
 Hay parques temáticos con atracciones, y luego está Puy du Fou, donde el protagonista es el espectáculo en vivo: batallas medievales, danzas tradicionales y una puesta en escena que está a otro nivel de lo habitual.
 
@@ -43,5 +55,8 @@ Puy du Fou España se encuentra en la provincia de Toledo. Puedes consultar la u
 <div class="article__callout article__callout--booking">🎟️ Reserva tu entrada a Puy du Fou con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/ToMr62Gb" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
 
 Si aprovechas para ver la ciudad de Toledo, busca la [Piedra del Rey Moro](/blog/piedra-del-rey-moro-toledo.html), un rincón junto al Tajo con leyenda incluida.
+
+<!--faq-->
+
 
 ¿Conocías Puy du Fou España? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes por España, y échale un vistazo al resto del blog para tu próxima escapada.

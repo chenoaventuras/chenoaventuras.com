@@ -14,6 +14,22 @@ tags:
 guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
 guiaTitulo: 'Guía de Cuenca en PDF'
 wide: true
+faqTitulo: "Dudas sobre la Ciudad Encantada"
+faq:
+  - q: "¿Cuánto cuesta la entrada a la Ciudad Encantada?"
+    a: "La entrada general cuesta 5 €. Los niños de 8 a 12 años, jubilados y familias numerosas pagan 4 €, y los menores de 7 años entran gratis."
+  - q: "¿Se pueden comprar las entradas online?"
+    a: "No. Las entradas se compran directamente en la taquilla; no hay venta online ni reserva."
+  - q: "¿Cuánto se tarda en ver la Ciudad Encantada?"
+    a: "El recorrido circular mide 3 km y se hace en aproximadamente una hora y media."
+  - q: "¿Qué horario tiene la Ciudad Encantada?"
+    a: "Abre todos los días a las 10:00. La taquilla cierra entre las 16:30 en invierno y las 19:30 en verano, y el parque cierra hora y media después."
+  - q: "¿Es apta para carritos de bebé o sillas de ruedas?"
+    a: "No. El recorrido no está adaptado para carritos, sillas de ruedas ni personas con movilidad reducida."
+  - q: "¿A cuánto está la Ciudad Encantada de Cuenca?"
+    a: "A unos 35 km, entre 35 y 40 minutos en coche por la carretera de Villalba de la Sierra."
+  - q: "¿Dónde aparcar en la Ciudad Encantada?"
+    a: "Tiene aparcamiento gratuito junto a la entrada."
 ---
 Imagina un bosque de pinos donde, entre los árboles, aparecen setas gigantes, barcos, osos y caras humanas… pero todo de piedra. Eso es la **Ciudad Encantada de Cuenca**: un laberinto de rocas que el agua, el viento y el hielo llevan millones de años esculpiendo, a media hora de la ciudad.
 
@@ -56,9 +72,7 @@ Es una de las visitas imprescindibles de la **Serranía de Cuenca** y se hace en
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Ve a primera hora</b> — a las 10:00 hay poca gente y la luz entre los pinos es preciosa.</li><li><b>Calzado cómodo</b> — el camino es fácil, pero hay tramos de piedra y alguna escalera.</li><li><b>Junta varios sitios</b> — de camino tienes el Ventano del Diablo y a 15 minutos la Laguna de Uña.</li><li><b>Lleva efectivo por si acaso</b> — y agua en verano: dentro del recorrido no hay dónde comprar.</li></ul><p>Mi plan ideal: Ventano del Diablo, Ciudad Encantada por la mañana y comer en Uña junto a la laguna 😋</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Ciudad Encantada</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta la entrada a la Ciudad Encantada?</summary><p>La entrada general cuesta 5 €. Los niños de 8 a 12 años, jubilados y familias numerosas pagan 4 €, y los menores de 7 años entran gratis.</p></details><details><summary>¿Se pueden comprar las entradas online?</summary><p>No. Las entradas se compran directamente en la taquilla; no hay venta online ni reserva.</p></details><details><summary>¿Cuánto se tarda en ver la Ciudad Encantada?</summary><p>El recorrido circular mide 3 km y se hace en aproximadamente una hora y media.</p></details><details><summary>¿Qué horario tiene la Ciudad Encantada?</summary><p>Abre todos los días a las 10:00. La taquilla cierra entre las 16:30 en invierno y las 19:30 en verano, y el parque cierra hora y media después.</p></details><details><summary>¿Es apta para carritos de bebé o sillas de ruedas?</summary><p>No. El recorrido no está adaptado para carritos, sillas de ruedas ni personas con movilidad reducida.</p></details><details><summary>¿A cuánto está la Ciudad Encantada de Cuenca?</summary><p>A unos 35 km, entre 35 y 40 minutos en coche por la carretera de Villalba de la Sierra.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta la entrada a la Ciudad Encantada?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta 5 €. Los niños de 8 a 12 años, jubilados y familias numerosas pagan 4 €, y los menores de 7 años entran gratis."}}, {"@type": "Question", "name": "¿Se pueden comprar las entradas online?", "acceptedAnswer": {"@type": "Answer", "text": "No. Las entradas se compran directamente en la taquilla; no hay venta online ni reserva."}}, {"@type": "Question", "name": "¿Cuánto se tarda en ver la Ciudad Encantada?", "acceptedAnswer": {"@type": "Answer", "text": "El recorrido circular mide 3 km y se hace en aproximadamente una hora y media."}}, {"@type": "Question", "name": "¿Qué horario tiene la Ciudad Encantada?", "acceptedAnswer": {"@type": "Answer", "text": "Abre todos los días a las 10:00. La taquilla cierra entre las 16:30 en invierno y las 19:30 en verano, y el parque cierra hora y media después."}}, {"@type": "Question", "name": "¿Es apta para carritos de bebé o sillas de ruedas?", "acceptedAnswer": {"@type": "Answer", "text": "No. El recorrido no está adaptado para carritos, sillas de ruedas ni personas con movilidad reducida."}}, {"@type": "Question", "name": "¿A cuánto está la Ciudad Encantada de Cuenca?", "acceptedAnswer": {"@type": "Answer", "text": "A unos 35 km, entre 35 y 40 minutos en coche por la carretera de Villalba de la Sierra."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando la Serranía</h2></div>
 <ul class="nearby"><li><a href="/blog/mirador-ventano-del-diablo.html"><img src="/assets/img/blog/cuenca/ventano-ventana.webp" alt="Mirador del Ventano del Diablo" loading="lazy" decoding="async" /><span>Mirador del Ventano del Diablo</span></a></li><li><a href="/blog/laguna-de-una-cuenca.html"><img src="/assets/img/blog/cuenca/una-laguna.webp" alt="Laguna de Uña" loading="lazy" decoding="async" /><span>Laguna de Uña</span></a></li><li><a href="/blog/nacimiento-rio-cuervo.html"><img src="/assets/img/blog/cuenca/rio-cuervo.webp" alt="Nacimiento del río Cuervo" loading="lazy" decoding="async" /><span>Nacimiento del río Cuervo</span></a></li><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/blog/cuenca/casas-colgadas.webp" alt="Mi guía completa de Cuenca" loading="lazy" decoding="async" /><span>Mi guía completa de Cuenca</span></a></li></ul>

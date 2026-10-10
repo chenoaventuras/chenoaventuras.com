@@ -16,6 +16,20 @@ tags:
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+faqTitulo: "Dudas sobre la Cascada del Sorrosal"
+faq:
+  - q: "¿Dónde está la Cascada del Sorrosal?"
+    a: "En Broto, en el Pirineo de Huesca, a unos 5 km de Torla y muy cerca del Parque Nacional de Ordesa."
+  - q: "¿Cuánto se tarda en llegar a la Cascada del Sorrosal?"
+    a: "Unos 5 minutos andando desde el centro de Broto."
+  - q: "¿Qué altura tiene la Cascada del Sorrosal?"
+    a: "Alrededor de 80 metros, repartidos en dos saltos."
+  - q: "¿Cómo es la vía ferrata del Sorrosal?"
+    a: "Es de dificultad media (K3), dura entre 2 y 3 horas y tiene escaleras, pasamanos, un puente colgante y un túnel. Apta para principiantes con buena forma física."
+  - q: "¿Cuándo lleva más agua la Cascada del Sorrosal?"
+    a: "En primavera, con el deshielo. En pleno verano el caudal puede bajar bastante."
+  - q: "¿Cómo llegar a Broto?"
+    a: "Está en el Pirineo de Huesca, a unos 5 km de Torla, en la carretera hacia el Parque Nacional de Ordesa."
 ---
 Una cascada de unos **80 metros** cayendo en dos saltos… a **5 minutos andando del pueblo**. La **Cascada del Sorrosal**, en **Broto**, es probablemente la cascada más fácil de ver de todo el Pirineo Aragonés, y una de las más espectaculares.
 
@@ -46,9 +60,7 @@ Y si quieres verla desde dentro, tiene una **vía ferrata** pegada al agua que y
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Ve en primavera</b> — con el deshielo la cascada está en su mejor momento.</li><li><b>Ojo con las rocas</b> — junto al agua resbalan mucho: mejor calzado con buena suela.</li><li><b>Haz la ferrata</b> — si te gusta la aventura: ver la cascada desde dentro es otra cosa.</li><li><b>Combínala</b> — con Torla y Ordesa, que están a 10 minutos.</li></ul><p>Es la parada perfecta para estirar las piernas: llegas, la ves y sigues ruta… o te quedas un buen rato hipnotizado 😍</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Cascada del Sorrosal</h2></div>
-<div class="faq"><details><summary>¿Dónde está la Cascada del Sorrosal?</summary><p>En Broto, en el Pirineo de Huesca, a unos 5 km de Torla y muy cerca del Parque Nacional de Ordesa.</p></details><details><summary>¿Cuánto se tarda en llegar a la Cascada del Sorrosal?</summary><p>Unos 5 minutos andando desde el centro de Broto.</p></details><details><summary>¿Qué altura tiene la Cascada del Sorrosal?</summary><p>Alrededor de 80 metros, repartidos en dos saltos.</p></details><details><summary>¿Cómo es la vía ferrata del Sorrosal?</summary><p>Es de dificultad media (K3), dura entre 2 y 3 horas y tiene escaleras, pasamanos, un puente colgante y un túnel. Apta para principiantes con buena forma física.</p></details><details><summary>¿Cuándo lleva más agua la Cascada del Sorrosal?</summary><p>En primavera, con el deshielo. En pleno verano el caudal puede bajar bastante.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde está la Cascada del Sorrosal?", "acceptedAnswer": {"@type": "Answer", "text": "En Broto, en el Pirineo de Huesca, a unos 5 km de Torla y muy cerca del Parque Nacional de Ordesa."}}, {"@type": "Question", "name": "¿Cuánto se tarda en llegar a la Cascada del Sorrosal?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 5 minutos andando desde el centro de Broto."}}, {"@type": "Question", "name": "¿Qué altura tiene la Cascada del Sorrosal?", "acceptedAnswer": {"@type": "Answer", "text": "Alrededor de 80 metros, repartidos en dos saltos."}}, {"@type": "Question", "name": "¿Cómo es la vía ferrata del Sorrosal?", "acceptedAnswer": {"@type": "Answer", "text": "Es de dificultad media (K3), dura entre 2 y 3 horas y tiene escaleras, pasamanos, un puente colgante y un túnel. Apta para principiantes con buena forma física."}}, {"@type": "Question", "name": "¿Cuándo lleva más agua la Cascada del Sorrosal?", "acceptedAnswer": {"@type": "Answer", "text": "En primavera, con el deshielo. En pleno verano el caudal puede bajar bastante."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando Ordesa</h2></div>
 <ul class="nearby"><li><a href="/blog/ruta-cola-de-caballo-ordesa.html"><img src="/assets/img/instagram/18124961662670705.webp" alt="Ruta a la Cola de Caballo" loading="lazy" decoding="async" /><span>Ruta a la Cola de Caballo</span></a></li><li><a href="/blog/senda-de-los-cazadores-ordesa.html"><img src="/assets/img/blog/pirineo/calcilarruego.webp" alt="Senda de los Cazadores" loading="lazy" decoding="async" /><span>Senda de los Cazadores</span></a></li><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Qué ver en Aínsa" loading="lazy" decoding="async" /><span>Qué ver en Aínsa</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>

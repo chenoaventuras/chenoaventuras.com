@@ -11,6 +11,20 @@ tags:
   - Actividades
   - Castilla-La Mancha
 igPermalink: 'https://www.instagram.com/reel/DaZ1lCyPTde/'
+faqTitulo: "Dudas sobre el barranquismo en Cuenca"
+faq:
+  - q: "¿Dónde se hace barranquismo en Cuenca?"
+    a: "En el cañón del río Júcar, en la Serranía de Cuenca. El punto de encuentro suele estar en Villalba de la Sierra, a 20 minutos de la capital."
+  - q: "¿Cuánto cuesta el barranquismo en Cuenca?"
+    a: "Alrededor de 40 € por persona, con descuento para grupos. Incluye guía titulado, transporte, neopreno, casco, botas y fotos."
+  - q: "¿Cuánto dura el barranquismo en el río Júcar?"
+    a: "Unas 3 horas en total."
+  - q: "¿Hace falta saber nadar para hacer barranquismo?"
+    a: "Sí, es imprescindible, y tener una forma física razonable. Los saltos son opcionales."
+  - q: "¿Pueden hacer barranquismo los niños?"
+    a: "Sí, si saben nadar bien. La edad mínima habitual es de 7 años."
+  - q: "¿Qué hay que llevar al barranquismo?"
+    a: "Solo bañador, toalla y ropa de recambio: la empresa pone el resto del equipo."
 ---
 Saltos al agua, toboganes tallados por el propio río durante siglos y un cañón que parece sacado de otra región muy distinta a Castilla-La Mancha: así es el barranquismo en el cañón del río Júcar, en plena Serranía de Cuenca.
 
@@ -37,5 +51,8 @@ El punto de encuentro suele estar en Villalba de la Sierra, a solo 20 minutos de
 ## Para quién es este plan
 
 El barranquismo en Cuenca es un plan que funciona igual de bien en pareja, con amigos, en despedidas de soltero o soltera, o como actividad familiar si los peques ya saben nadar bien. Si buscas algo distinto a la ruta de senderismo de turno y no te importa mojarte, es de esas experiencias que se recuerdan mucho tiempo.
+
+<!--faq-->
+
 
 ¿Te atreverías con el barranquismo en Cuenca? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más actividades de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

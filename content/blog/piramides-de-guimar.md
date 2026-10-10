@@ -11,6 +11,18 @@ tags:
   - Spots
   - Canarias
 wide: true
+faqTitulo: "Dudas sobre las Pirámides de Güímar"
+faq:
+  - q: "¿Quién hizo las Pirámides de Güímar?"
+    a: "Los arqueólogos creen que las levantaron agricultores en el siglo XIX al limpiar los campos de piedras; Thor Heyerdahl defendía un origen mucho más antiguo."
+  - q: "¿Cuántas pirámides hay en Güímar?"
+    a: "Seis pirámides escalonadas de piedra volcánica."
+  - q: "¿Hay que pagar para ver las Pirámides de Güímar?"
+    a: "Sí, están dentro de un parque etnográfico con entrada."
+  - q: "¿Dónde están las Pirámides de Güímar?"
+    a: "En Güímar, en el sureste de Tenerife, a unos 25 km de Santa Cruz."
+  - q: "¿Cómo llegar a las Pirámides de Güímar?"
+    a: "En coche: están en Güímar, en el sureste de Tenerife, a unos 25 km de Santa Cruz."
 ---
 En **Tenerife** hay **pirámides**. Seis, de piedra volcánica negra y con escalones, en el pueblo de **Güímar**. Un explorador famoso pensó que tenían relación con las de Egipto y México... y los arqueólogos dicen otra cosa.
 
@@ -41,9 +53,7 @@ Te cuento el misterio y cómo visitarlas 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve por la mañana</b>: en las horas centrales hace mucho calor y hay poca sombra.</li><li><b>Lee ambas versiones</b>: el parque cuenta la teoría de Heyerdahl; los arqueólogos la ven distinta. Saca tus conclusiones.</li><li><b>Combínalo con el Arco de Tajao</b>: está a 20 minutos hacia el sur.</li><li><b>O con el Chipeque</b>: el mirador sobre el valle de Güímar, de camino al Teide.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre las Pirámides de Güímar</h2></div>
-<div class="faq"><details><summary>¿Quién hizo las Pirámides de Güímar?</summary><p>Los arqueólogos creen que las levantaron agricultores en el siglo XIX al limpiar los campos de piedras; Thor Heyerdahl defendía un origen mucho más antiguo.</p></details><details><summary>¿Cuántas pirámides hay en Güímar?</summary><p>Seis pirámides escalonadas de piedra volcánica.</p></details><details><summary>¿Hay que pagar para ver las Pirámides de Güímar?</summary><p>Sí, están dentro de un parque etnográfico con entrada.</p></details><details><summary>¿Dónde están las Pirámides de Güímar?</summary><p>En Güímar, en el sureste de Tenerife, a unos 25 km de Santa Cruz.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Quién hizo las Pirámides de Güímar?", "acceptedAnswer": {"@type": "Answer", "text": "Los arqueólogos creen que las levantaron agricultores en el siglo XIX al limpiar los campos de piedras; Thor Heyerdahl defendía un origen mucho más antiguo."}}, {"@type": "Question", "name": "¿Cuántas pirámides hay en Güímar?", "acceptedAnswer": {"@type": "Answer", "text": "Seis pirámides escalonadas de piedra volcánica."}}, {"@type": "Question", "name": "¿Hay que pagar para ver las Pirámides de Güímar?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, están dentro de un parque etnográfico con entrada."}}, {"@type": "Question", "name": "¿Dónde están las Pirámides de Güímar?", "acceptedAnswer": {"@type": "Answer", "text": "En Güímar, en el sureste de Tenerife, a unos 25 km de Santa Cruz."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/arco-de-tajao-tenerife.html"><img src="/assets/img/instagram/18124723345426528.webp" alt="Arco de Tajao" loading="lazy" decoding="async" /><span>Arco de Tajao</span></a></li><li><a href="/blog/mirador-de-chipeque-tenerife.html"><img src="/assets/img/instagram/18075135229685841.webp" alt="Mirador de Chipeque" loading="lazy" decoding="async" /><span>Mirador de Chipeque</span></a></li><li><a href="/blog/teide.html"><img src="/assets/img/blog/teide/portada.webp" alt="Teide" loading="lazy" decoding="async" /><span>Teide</span></a></li></ul>

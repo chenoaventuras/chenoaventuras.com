@@ -11,6 +11,20 @@ tags:
   - Actividades
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre la ruta del río Borosa"
+faq:
+  - q: "¿Cuántos kilómetros tiene la ruta del río Borosa?"
+    a: "Depende de hasta dónde llegues: a la Cerrada de Elías son unos 8-10 km ida y vuelta, y hasta la laguna de Aguas Negras unos 21-24 km ida y vuelta."
+  - q: "¿Es difícil?"
+    a: "El tramo hasta la Cerrada de Elías es fácil y casi llano. A partir de la central el camino sube con fuerza y la ruta completa ya es exigente por la distancia y el desnivel."
+  - q: "¿Hay que pagar o reservar?"
+    a: "No. Es un sendero gratuito del parque natural y no necesita reserva."
+  - q: "¿Es apta para niños?"
+    a: "La opción corta hasta la Cerrada de Elías la hacen muchas familias. La ruta completa es demasiado larga para niños pequeños."
+  - q: "¿Se puede ir con perro?"
+    a: "Es un sendero del parque natural; si vas con perro, llévalo siempre atado y respeta la normativa del parque."
+  - q: "¿Dónde empieza la ruta del río Borosa?"
+    a: "Junto a la piscifactoría del río Borosa, cerca del Centro de Visitantes Torre del Vinagre, en la Sierra de Cazorla (Jaén)."
 ---
 Agua turquesa, pasarelas de madera encajadas entre paredes de roca, cascadas y hasta **túneles excavados en la montaña**. La **ruta del río Borosa** es probablemente el sendero más famoso del Parque Natural de las Sierras de Cazorla, Segura y Las Villas, y es de esas rutas que van mejorando a cada kilómetro.
 
@@ -41,9 +55,7 @@ Lo mejor es que la puedes adaptar: desde un paseo de un par de horas hasta un d�
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Empieza temprano</b>: sobre todo si vas a por la ruta completa: son muchas horas y la vuelta se hace larga.</li><li><b>Frontal o linterna</b>: imprescindible si llegas hasta los túneles.</li><li><b>Calzado de montaña</b>: hay tramos de piedra y, en la parte alta, una buena subida.</li><li><b>Respeta el río</b>: está prohibido bañarse en muchos tramos para proteger el ecosistema: sigue los carteles del parque.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la ruta del río Borosa</h2></div>
-<div class="faq"><details><summary>¿Cuántos kilómetros tiene la ruta del río Borosa?</summary><p>Depende de hasta dónde llegues: a la Cerrada de Elías son unos 8-10 km ida y vuelta, y hasta la laguna de Aguas Negras unos 21-24 km ida y vuelta.</p></details><details><summary>¿Es difícil?</summary><p>El tramo hasta la Cerrada de Elías es fácil y casi llano. A partir de la central el camino sube con fuerza y la ruta completa ya es exigente por la distancia y el desnivel.</p></details><details><summary>¿Hay que pagar o reservar?</summary><p>No. Es un sendero gratuito del parque natural y no necesita reserva.</p></details><details><summary>¿Es apta para niños?</summary><p>La opción corta hasta la Cerrada de Elías la hacen muchas familias. La ruta completa es demasiado larga para niños pequeños.</p></details><details><summary>¿Se puede ir con perro?</summary><p>Es un sendero del parque natural; si vas con perro, llévalo siempre atado y respeta la normativa del parque.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuántos kilómetros tiene la ruta del río Borosa?", "acceptedAnswer": {"@type": "Answer", "text": "Depende de hasta dónde llegues: a la Cerrada de Elías son unos 8-10 km ida y vuelta, y hasta la laguna de Aguas Negras unos 21-24 km ida y vuelta."}}, {"@type": "Question", "name": "¿Es difícil?", "acceptedAnswer": {"@type": "Answer", "text": "El tramo hasta la Cerrada de Elías es fácil y casi llano. A partir de la central el camino sube con fuerza y la ruta completa ya es exigente por la distancia y el desnivel."}}, {"@type": "Question", "name": "¿Hay que pagar o reservar?", "acceptedAnswer": {"@type": "Answer", "text": "No. Es un sendero gratuito del parque natural y no necesita reserva."}}, {"@type": "Question", "name": "¿Es apta para niños?", "acceptedAnswer": {"@type": "Answer", "text": "La opción corta hasta la Cerrada de Elías la hacen muchas familias. La ruta completa es demasiado larga para niños pequeños."}}, {"@type": "Question", "name": "¿Se puede ir con perro?", "acceptedAnswer": {"@type": "Answer", "text": "Es un sendero del parque natural; si vas con perro, llévalo siempre atado y respeta la normativa del parque."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más rutas</span><h2>Más rutas con pasarelas y agua</h2></div>
 <ul class="nearby"><li><a href="/blog/los-cahorros-de-monachil.html"><img src="/assets/img/blog/los-cahorros-de-monachil/portada.webp" alt="Los Cahorros de Monachil" loading="lazy" decoding="async" /><span>Los Cahorros de Monachil</span></a></li><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/ruta-cola-de-caballo-ordesa.html"><img src="/assets/img/instagram/18124961662670705.webp" alt="Ruta de la Cola de Caballo" loading="lazy" decoding="async" /><span>Ruta de la Cola de Caballo</span></a></li></ul>

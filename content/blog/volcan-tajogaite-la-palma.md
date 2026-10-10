@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Canarias
 wide: true
+faqTitulo: "Dudas sobre el volcán Tajogaite"
+faq:
+  - q: "¿Cuándo fue la erupción de La Palma?"
+    a: "Del 19 de septiembre al 13 de diciembre de 2021, 85 días."
+  - q: "¿Se puede visitar el volcán Tajogaite?"
+    a: "Sí, con rutas guiadas autorizadas. Consulta en turismo de La Palma."
+  - q: "¿Qué es una fajana?"
+    a: "Una plataforma de tierra nueva formada cuando la lava llega al mar y se solidifica."
+  - q: "¿Por qué se llama Tajogaite?"
+    a: "Es el nombre que los vecinos daban a esa zona de la montaña."
+  - q: "¿Cuánto duró la erupción del volcán de La Palma?"
+    a: "85 días, entre septiembre y diciembre de 2021."
 ---
 Entre septiembre y diciembre de **2021**, el volcán de **Tajogaite** estuvo **85 días** en erupción en La Palma. La lava llegó al mar y formó **plataformas nuevas**, las **fajanas**: el **terreno más joven de España**.
 
@@ -38,9 +50,7 @@ Te cuento qué pasó, cómo está ahora y cómo verlo con respeto 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve con guía</b>: te contarán la erupción en primera persona.</li><li><b>Apoya lo local</b>: comer y dormir en la zona ayuda a su recuperación.</li><li><b>Cielo de estrellas</b>: La Palma es uno de los mejores cielos del mundo para ver estrellas.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el volcán Tajogaite</h2></div>
-<div class="faq"><details><summary>¿Cuándo fue la erupción de La Palma?</summary><p>Del 19 de septiembre al 13 de diciembre de 2021, 85 días.</p></details><details><summary>¿Se puede visitar el volcán Tajogaite?</summary><p>Sí, con rutas guiadas autorizadas. Consulta en turismo de La Palma.</p></details><details><summary>¿Qué es una fajana?</summary><p>Una plataforma de tierra nueva formada cuando la lava llega al mar y se solidifica.</p></details><details><summary>¿Por qué se llama Tajogaite?</summary><p>Es el nombre que los vecinos daban a esa zona de la montaña.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuándo fue la erupción de La Palma?", "acceptedAnswer": {"@type": "Answer", "text": "Del 19 de septiembre al 13 de diciembre de 2021, 85 días."}}, {"@type": "Question", "name": "¿Se puede visitar el volcán Tajogaite?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, con rutas guiadas autorizadas. Consulta en turismo de La Palma."}}, {"@type": "Question", "name": "¿Qué es una fajana?", "acceptedAnswer": {"@type": "Answer", "text": "Una plataforma de tierra nueva formada cuando la lava llega al mar y se solidifica."}}, {"@type": "Question", "name": "¿Por qué se llama Tajogaite?", "acceptedAnswer": {"@type": "Answer", "text": "Es el nombre que los vecinos daban a esa zona de la montaña."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/teide.html"><img src="/assets/img/blog/teide/portada.webp" alt="Teide" loading="lazy" decoding="async" /><span>Teide</span></a></li><li><a href="/blog/drago-milenario-icod.html"><img src="/assets/img/blog/drago-milenario-icod/drago.webp" alt="Drago Milenario" loading="lazy" decoding="async" /><span>Drago Milenario</span></a></li><li><a href="/blog/roque-nublo.html"><img src="/assets/img/blog/roque-nublo/teide.webp" alt="Roque Nublo" loading="lazy" decoding="async" /><span>Roque Nublo</span></a></li></ul>

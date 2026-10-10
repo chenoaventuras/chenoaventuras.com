@@ -11,6 +11,18 @@ tags:
   - Spots
   - Galicia
 wide: true
+faqTitulo: "Dudas sobre la Fervenza do Ézaro"
+faq:
+  - q: "¿Es la Fervenza do Ézaro la única cascada de Europa que cae al mar?"
+    a: "Así se la conoce: el río Xallas desemboca directamente en el mar en forma de cascada."
+  - q: "¿Cuándo tiene más agua la cascada de Ézaro?"
+    a: "En invierno y tras épocas de lluvia. El caudal está regulado, pero hay agua todo el año."
+  - q: "¿Hay que pagar para ver la cascada de Ézaro?"
+    a: "No, la pasarela y el mirador son gratuitos."
+  - q: "¿Qué ver cerca de Ézaro?"
+    a: "El monte Pindo, el cabo de Fisterra, Muxía y el resto de la Costa da Morte."
+  - q: "¿Dónde está la Fervenza do Ézaro?"
+    a: "En Ézaro, en el concello de Dumbría (A Coruña), en plena Costa da Morte, a los pies del monte Pindo y a media hora de Fisterra."
 ---
 Un río que, en vez de llegar tranquilo al mar, se lanza al vacío por una pared de granito de unos **40 metros** y cae directamente al océano. Eso es la **Fervenza do Ézaro**, en la Costa da Morte, y se dice que es la **única cascada de Europa que desemboca en el mar**.
 
@@ -41,9 +53,7 @@ A media hora tienes el cabo de **Fisterra**, el que los romanos creían el fin d
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Ve en invierno o tras lluvias</b>: la cascada con caudal es otra cosa.</li><li><b>Sube al mirador</b>: la vista de la cascada cayendo a la ría es la mejor foto.</li><li><b>Atardecer en Fisterra</b>: uno de los grandes atardeceres de España.</li><li><b>Recorre la Costa da Morte</b>: faros, playas salvajes y pueblos marineros como Muxía.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Fervenza do Ézaro</h2></div>
-<div class="faq"><details><summary>¿Es la Fervenza do Ézaro la única cascada de Europa que cae al mar?</summary><p>Así se la conoce: el río Xallas desemboca directamente en el mar en forma de cascada.</p></details><details><summary>¿Cuándo tiene más agua la cascada de Ézaro?</summary><p>En invierno y tras épocas de lluvia. El caudal está regulado, pero hay agua todo el año.</p></details><details><summary>¿Hay que pagar para ver la cascada de Ézaro?</summary><p>No, la pasarela y el mirador son gratuitos.</p></details><details><summary>¿Qué ver cerca de Ézaro?</summary><p>El monte Pindo, el cabo de Fisterra, Muxía y el resto de la Costa da Morte.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Es la Fervenza do Ézaro la única cascada de Europa que cae al mar?", "acceptedAnswer": {"@type": "Answer", "text": "Así se la conoce: el río Xallas desemboca directamente en el mar en forma de cascada."}}, {"@type": "Question", "name": "¿Cuándo tiene más agua la cascada de Ézaro?", "acceptedAnswer": {"@type": "Answer", "text": "En invierno y tras épocas de lluvia. El caudal está regulado, pero hay agua todo el año."}}, {"@type": "Question", "name": "¿Hay que pagar para ver la cascada de Ézaro?", "acceptedAnswer": {"@type": "Answer", "text": "No, la pasarela y el mirador son gratuitos."}}, {"@type": "Question", "name": "¿Qué ver cerca de Ézaro?", "acceptedAnswer": {"@type": "Answer", "text": "El monte Pindo, el cabo de Fisterra, Muxía y el resto de la Costa da Morte."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Galicia</span><h2>Sigue por Galicia</h2></div>
 <ul class="nearby"><li><a href="/blog/canon-del-sil.html"><img src="/assets/img/blog/canon-del-sil/portada.webp" alt="Cañón del Sil" loading="lazy" decoding="async" /><span>Cañón del Sil</span></a></li><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li><li><a href="/blog/playa-de-las-catedrales.html"><img src="/assets/img/blog/playa-de-las-catedrales/portada.webp" alt="Playa de las Catedrales" loading="lazy" decoding="async" /><span>Playa de las Catedrales</span></a></li></ul>

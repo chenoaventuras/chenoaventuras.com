@@ -12,6 +12,18 @@ tags:
   - Actividades
   - Castilla-La Mancha
 igPermalink: 'https://www.instagram.com/reel/DRc6iVIDE0-/'
+faqTitulo: "Dudas sobre la ruta en quad"
+faq:
+  - q: "¿Dónde se hacen las rutas en quad en Cuenca?"
+    a: "En la Serranía, saliendo de Villalba de la Sierra, a 20 minutos de Cuenca capital."
+  - q: "¿Hace falta carnet para conducir un quad?"
+    a: "Sí, el de coche. Los acompañantes deben tener al menos 7 años."
+  - q: "¿Cuánto dura la ruta en quad?"
+    a: "Hay dos opciones: 30 minutos para iniciarse o 1 hora con más variedad de terreno."
+  - q: "¿Hace falta experiencia para ir en quad?"
+    a: "No: los quads son automáticos y siempre vas con un guía titulado."
+  - q: "¿Qué hay que llevar a la ruta en quad?"
+    a: "Calzado cerrado y ropa cómoda que se pueda manchar. Casco, gafas y seguro están incluidos."
 ---
 A solo 20 minutos de la ciudad de Cuenca, la Serranía esconde pistas forestales, caminos de tierra y senderos entre pinares perfectos para recorrer en quad. Es un plan que mezcla naturaleza y adrenalina sin necesidad de experiencia previa.
 
@@ -36,5 +48,8 @@ Para conducir es obligatorio el carnet de coche, y los acompañantes deben tener
 ## Cómo llegar
 
 El punto de encuentro se encuentra en Villalba de la Sierra, desde donde arranca directamente la ruta en quad. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Villalba%20de%20la%20Sierra%2C%20Cuenca).
+
+<!--faq-->
+
 
 ¿Te animarías a recorrer la Serranía de Cuenca en quad? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

@@ -11,6 +11,17 @@ tags:
   - Curiosidades
   - Galicia
 wide: true
+faq:
+  - q: "¿Por qué trasladaron Portomarín?"
+    a: "Porque el embalse de Belesar (1962) iba a inundar el pueblo antiguo."
+  - q: "¿Se movió la iglesia piedra a piedra?"
+    a: "Sí, la iglesia de San Nicolás se desmontó, se numeraron las piedras y se reconstruyó en el Monte do Cristo."
+  - q: "¿Se ve el pueblo antiguo?"
+    a: "En épocas de sequía, cuando baja el embalse, aparecen restos."
+  - q: "¿Está en el Camino de Santiago?"
+    a: "Sí, en el Camino Francés, una etapa después de Sarria."
+  - q: "¿Dónde está Portomarín?"
+    a: "En Lugo, a unos 35 km de la capital, en el Camino Francés de Santiago, una etapa después de Sarria."
 ---
 Imagina desmontar una **iglesia románica** piedra a piedra, **numerar cada piedra** y volver a montarla en lo alto de un monte. Es lo que se hizo en **Portomarín** (Lugo) cuando el embalse de Belesar iba a inundar el pueblo.
 
@@ -38,9 +49,7 @@ Te cuento cómo fue y qué se ve cuando baja el agua 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira el nivel del embalse</b>: a finales de verano es más fácil ver los restos.</li><li><b>Escalera de entrada</b>: la escalinata que sube del puente al pueblo es la foto clásica.</li><li><b>Cañón del Sil</b>: a 1 hora, para ver la Ribeira Sacra.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Portomarín</h2></div>
-<div class="faq"><details><summary>¿Por qué trasladaron Portomarín?</summary><p>Porque el embalse de Belesar (1962) iba a inundar el pueblo antiguo.</p></details><details><summary>¿Se movió la iglesia piedra a piedra?</summary><p>Sí, la iglesia de San Nicolás se desmontó, se numeraron las piedras y se reconstruyó en el Monte do Cristo.</p></details><details><summary>¿Se ve el pueblo antiguo?</summary><p>En épocas de sequía, cuando baja el embalse, aparecen restos.</p></details><details><summary>¿Está en el Camino de Santiago?</summary><p>Sí, en el Camino Francés, una etapa después de Sarria.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué trasladaron Portomarín?", "acceptedAnswer": {"@type": "Answer", "text": "Porque el embalse de Belesar (1962) iba a inundar el pueblo antiguo."}}, {"@type": "Question", "name": "¿Se movió la iglesia piedra a piedra?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la iglesia de San Nicolás se desmontó, se numeraron las piedras y se reconstruyó en el Monte do Cristo."}}, {"@type": "Question", "name": "¿Se ve el pueblo antiguo?", "acceptedAnswer": {"@type": "Answer", "text": "En épocas de sequía, cuando baja el embalse, aparecen restos."}}, {"@type": "Question", "name": "¿Está en el Camino de Santiago?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, en el Camino Francés, una etapa después de Sarria."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/canon-del-sil.html"><img src="/assets/img/blog/canon-del-sil/portada.webp" alt="Cañón del Sil" loading="lazy" decoding="async" /><span>Cañón del Sil</span></a></li><li><a href="/blog/fuente-del-vino-irache.html"><img src="/assets/img/blog/fuente-del-vino-irache/portada.webp" alt="Fuente del vino de Irache" loading="lazy" decoding="async" /><span>Fuente del vino de Irache</span></a></li><li><a href="/blog/torre-de-hercules.html"><img src="/assets/img/blog/torre-de-hercules/atardecer.webp" alt="Torre de Hércules" loading="lazy" decoding="async" /><span>Torre de Hércules</span></a></li></ul>

@@ -11,6 +11,22 @@ tags:
   - Spots
   - Cantabria
 wide: true
+faqTitulo: "Dudas sobre el bosque de secuoyas"
+faq:
+  - q: "¿Cuánto cuesta entrar al bosque de secuoyas?"
+    a: "Nada: es gratis y está abierto todo el año."
+  - q: "¿Cuántas secuoyas hay en el Monte Cabezón?"
+    a: "Se plantaron 848 en 1940."
+  - q: "¿Cuánto miden las secuoyas de Cabezón de la Sal?"
+    a: "Unos 36 metros de media; las más altas superan los 40."
+  - q: "¿Dónde se aparca para ir al bosque de secuoyas?"
+    a: "Hay un aparcamiento junto a la entrada, al lado de la carretera CA-135 y la salida de la A-8."
+  - q: "¿Cómo llegar al bosque de secuoyas de Cantabria?"
+    a: "Por la A-8, salida de Cabezón de la Sal / Comillas. Está a unos 45 km de Santander y a 10 minutos de Comillas."
+  - q: "¿Cuánto se tarda en ver el bosque de secuoyas?"
+    a: "El paseo dura unos 30-45 minutos."
+  - q: "¿Hay que reservar para el bosque de secuoyas?"
+    a: "No: es gratis, no hace falta reserva y abre todo el año."
 ---
 Parece California, pero estás a 10 minutos de Comillas. En el **Monte Cabezón**, en Cantabria, hay un bosque de **secuoyas gigantes** que superan los 35 metros de altura y te hacen sentir diminuto.
 
@@ -39,9 +55,7 @@ Es gratis, fácil de visitar y está al lado de la autovía. Te cuento todo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve temprano</b>: los fines de semana el aparcamiento se llena.</li><li><b>Mejor tras la lluvia</b>: con niebla o el suelo húmedo, el bosque parece de película.</li><li><b>No te salgas del camino</b>: las raíces son superficiales y se dañan al pisarlas.</li><li><b>Combínalo con Comillas</b>: el Capricho de Gaudí está a 10 minutos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el bosque de secuoyas</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar al bosque de secuoyas?</summary><p>Nada: es gratis y está abierto todo el año.</p></details><details><summary>¿Cuántas secuoyas hay en el Monte Cabezón?</summary><p>Se plantaron 848 en 1940.</p></details><details><summary>¿Cuánto miden las secuoyas de Cabezón de la Sal?</summary><p>Unos 36 metros de media; las más altas superan los 40.</p></details><details><summary>¿Dónde se aparca para ir al bosque de secuoyas?</summary><p>Hay un aparcamiento junto a la entrada, al lado de la carretera CA-135 y la salida de la A-8.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar al bosque de secuoyas?", "acceptedAnswer": {"@type": "Answer", "text": "Nada: es gratis y está abierto todo el año."}}, {"@type": "Question", "name": "¿Cuántas secuoyas hay en el Monte Cabezón?", "acceptedAnswer": {"@type": "Answer", "text": "Se plantaron 848 en 1940."}}, {"@type": "Question", "name": "¿Cuánto miden las secuoyas de Cabezón de la Sal?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 36 metros de media; las más altas superan los 40."}}, {"@type": "Question", "name": "¿Dónde se aparca para ir al bosque de secuoyas?", "acceptedAnswer": {"@type": "Answer", "text": "Hay un aparcamiento junto a la entrada, al lado de la carretera CA-135 y la salida de la A-8."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/santillana-del-mar-que-ver.html"><img src="/assets/img/blog/santillana-del-mar-que-ver/portada.webp" alt="Santillana del Mar" loading="lazy" decoding="async" /><span>Santillana del Mar</span></a></li><li><a href="/blog/playa-de-gulpiyuri.html"><img src="/assets/img/blog/playa-de-gulpiyuri/portada.webp" alt="Playa de Gulpiyuri" loading="lazy" decoding="async" /><span>Playa de Gulpiyuri</span></a></li></ul>

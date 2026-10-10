@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Navarra
 wide: true
+faqTitulo: "Dudas sobre la Fuente del vino de Irache"
+faq:
+  - q: "¿Es gratis la Fuente del vino de Irache?"
+    a: "Sí. El vino lo pone Bodegas Irache y es gratis, con una cantidad limitada cada día."
+  - q: "¿Hay webcam en la Fuente de Irache?"
+    a: "Sí, Bodegas Irache tiene una cámara en directo en su web que enfoca la fuente."
+  - q: "¿Qué horario tiene la Fuente del vino?"
+    a: "Funciona de día. Por la noche se cierra para evitar abusos."
+  - q: "¿Hace falta ser peregrino para beber?"
+    a: "No, puede beber cualquiera, pero se pide un trago con moderación y no llenar botellas."
+  - q: "¿Dónde está la Fuente del vino de Irache?"
+    a: "En Ayegui (Navarra), junto al Monasterio de Irache, a unos 3 km de Estella en el Camino Francés."
 ---
 En el Camino de Santiago, a la salida de Estella, hay una fuente con **dos grifos**: uno de agua y otro de **vino tinto**. Gratis. Es la **Fuente del vino de Irache**, y es tan famosa que tiene hasta una **webcam** para ver en directo quién se acerca a brindar.
 
@@ -39,9 +51,7 @@ Te cuento cómo funciona, a qué hora ir y qué ver al lado 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve por la mañana</b>: la fuente se llena cada día y en verano, con muchos peregrinos, puede quedarse vacía por la tarde.</li><li><b>Un trago, no una garrafa</b>: la idea es brindar, no llenar botellas. Si llenas, se acaba para los demás.</li><li><b>Avisa a casa</b>: diles que miren la webcam de Bodegas Irache y saluda a la cámara.</li><li><b>Si conduces</b>: prueba el agua, que también es gratis 😉.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Fuente del vino de Irache</h2></div>
-<div class="faq"><details><summary>¿Es gratis la Fuente del vino de Irache?</summary><p>Sí. El vino lo pone Bodegas Irache y es gratis, con una cantidad limitada cada día.</p></details><details><summary>¿Hay webcam en la Fuente de Irache?</summary><p>Sí, Bodegas Irache tiene una cámara en directo en su web que enfoca la fuente.</p></details><details><summary>¿Qué horario tiene la Fuente del vino?</summary><p>Funciona de día. Por la noche se cierra para evitar abusos.</p></details><details><summary>¿Hace falta ser peregrino para beber?</summary><p>No, puede beber cualquiera, pero se pide un trago con moderación y no llenar botellas.</p></details><details><summary>¿Dónde está la Fuente del vino de Irache?</summary><p>En Ayegui (Navarra), junto al Monasterio de Irache, a unos 3 km de Estella en el Camino Francés.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Es gratis la Fuente del vino de Irache?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. El vino lo pone Bodegas Irache y es gratis, con una cantidad limitada cada día."}}, {"@type": "Question", "name": "¿Hay webcam en la Fuente de Irache?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, Bodegas Irache tiene una cámara en directo en su web que enfoca la fuente."}}, {"@type": "Question", "name": "¿Qué horario tiene la Fuente del vino?", "acceptedAnswer": {"@type": "Answer", "text": "Funciona de día. Por la noche se cierra para evitar abusos."}}, {"@type": "Question", "name": "¿Hace falta ser peregrino para beber?", "acceptedAnswer": {"@type": "Answer", "text": "No, puede beber cualquiera, pero se pide un trago con moderación y no llenar botellas."}}, {"@type": "Question", "name": "¿Dónde está la Fuente del vino de Irache?", "acceptedAnswer": {"@type": "Answer", "text": "En Ayegui (Navarra), junto al Monasterio de Irache, a unos 3 km de Estella en el Camino Francés."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/laguardia-que-ver.html"><img src="/assets/img/blog/laguardia-que-ver/portada.webp" alt="Laguardia" loading="lazy" decoding="async" /><span>Laguardia</span></a></li><li><a href="/blog/bardenas-reales.html"><img src="/assets/img/blog/bardenas-reales/portada.webp" alt="Bardenas Reales" loading="lazy" decoding="async" /><span>Bardenas Reales</span></a></li><li><a href="/blog/haro-que-ver.html"><img src="/assets/img/blog/haro-que-ver/portada.webp" alt="Haro" loading="lazy" decoding="async" /><span>Haro</span></a></li></ul>

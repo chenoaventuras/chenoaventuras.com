@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Cataluña
 wide: true
+faq:
+  - q: "¿Qué ver en Miravet?"
+    a: "El castillo templario, el pueblo viejo colgado del risco, la iglesia vieja, la calle de los alfareros y el pas de barca sobre el Ebro."
+  - q: "¿Qué es el pas de barca de Miravet?"
+    a: "Un transbordador tradicional que cruza el Ebro sin motor: va sujeto a un cable y lo empuja la corriente del río."
+  - q: "¿Se puede visitar el castillo de Miravet?"
+    a: "Sí, con entrada. Suele abrir de martes a domingo; consulta horarios y precios actualizados antes de ir."
+  - q: "¿Quién construyó el castillo de Miravet?"
+    a: "Su origen es andalusí, pero los templarios lo transformaron en una gran fortaleza a partir del siglo XII."
+  - q: "¿Cómo llegar a Miravet?"
+    a: "En coche: está en la Ribera d'Ebre (Tarragona), a una hora de Tarragona y a dos de Barcelona."
 ---
 Un pueblo de casas de piedra colgado de un risco, un **castillo templario** coronándolo y el río **Ebro** pasando tranquilo a sus pies. **Miravet** es una de las postales más bonitas de Cataluña, y tiene algo que ya casi no existe: una **barca que cruza el río tirada por un cable**, sin motor, empujada solo por la corriente.
 
@@ -41,9 +52,7 @@ Te cuento qué ver y cómo vivir este rincón de las Terres de l'Ebre 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Cruza el Ebro en la barca</b>: es una experiencia única y dura pocos minutos.</li><li><b>Haz kayak por el Ebro</b>: hay empresas que organizan descensos tranquilos frente al pueblo.</li><li><b>Sube al castillo a primera hora</b>: en verano el calor aprieta.</li><li><b>Combínalo con el Delta del Ebro</b>: está a una hora en coche río abajo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Miravet</h2></div>
-<div class="faq"><details><summary>¿Qué ver en Miravet?</summary><p>El castillo templario, el pueblo viejo colgado del risco, la iglesia vieja, la calle de los alfareros y el pas de barca sobre el Ebro.</p></details><details><summary>¿Qué es el pas de barca de Miravet?</summary><p>Un transbordador tradicional que cruza el Ebro sin motor: va sujeto a un cable y lo empuja la corriente del río.</p></details><details><summary>¿Se puede visitar el castillo de Miravet?</summary><p>Sí, con entrada. Suele abrir de martes a domingo; consulta horarios y precios actualizados antes de ir.</p></details><details><summary>¿Quién construyó el castillo de Miravet?</summary><p>Su origen es andalusí, pero los templarios lo transformaron en una gran fortaleza a partir del siglo XII.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en Miravet?", "acceptedAnswer": {"@type": "Answer", "text": "El castillo templario, el pueblo viejo colgado del risco, la iglesia vieja, la calle de los alfareros y el pas de barca sobre el Ebro."}}, {"@type": "Question", "name": "¿Qué es el pas de barca de Miravet?", "acceptedAnswer": {"@type": "Answer", "text": "Un transbordador tradicional que cruza el Ebro sin motor: va sujeto a un cable y lo empuja la corriente del río."}}, {"@type": "Question", "name": "¿Se puede visitar el castillo de Miravet?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, con entrada. Suele abrir de martes a domingo; consulta horarios y precios actualizados antes de ir."}}, {"@type": "Question", "name": "¿Quién construyó el castillo de Miravet?", "acceptedAnswer": {"@type": "Answer", "text": "Su origen es andalusí, pero los templarios lo transformaron en una gran fortaleza a partir del siglo XII."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Cataluña</span><h2>Sigue por Cataluña</h2></div>
 <ul class="nearby"><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li><li><a href="/blog/valle-de-aran.html"><img src="/assets/img/blog/valle-de-aran/artiga.webp" alt="Valle de Arán" loading="lazy" decoding="async" /><span>Valle de Arán</span></a></li></ul>

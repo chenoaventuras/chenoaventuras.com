@@ -15,6 +15,20 @@ tags:
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+faqTitulo: "Dudas sobre el Ibón de Anayet"
+faq:
+  - q: "¿Cuánto se tarda en subir al Ibón de Anayet?"
+    a: "Unas 2 horas y 15 minutos de subida desde el Corral de las Mulas, cerca de Formigal. Entre ida y vuelta, calcula de 4 a 5 horas."
+  - q: "¿Qué desnivel tiene la ruta al Ibón de Anayet?"
+    a: "Unos 640 metros: se sale a 1.635 metros y los ibones están a unos 2.230."
+  - q: "¿Dónde empieza la ruta al Ibón de Anayet?"
+    a: "En el Corral de las Mulas, junto a la carretera del Portalet, muy cerca de Formigal, en el Valle de Tena."
+  - q: "¿Es difícil la ruta a los ibones de Anayet?"
+    a: "Es de dificultad media: no tiene pasos técnicos, pero es una subida constante de alta montaña."
+  - q: "¿Cuándo es mejor ir al Ibón de Anayet?"
+    a: "Entre junio y octubre, cuando normalmente no hay nieve. Sal temprano para evitar las tormentas de tarde en verano."
+  - q: "¿Dónde está el Valle de Tena?"
+    a: "En el Pirineo de Huesca, a lo largo del río Gállego, con pueblos como Sallent de Gállego, Formigal, Lanuza y Panticosa."
 ---
 Un lago de alta montaña que refleja un pico puntiagudo y, al fondo, la silueta del **Midi d'Ossau** ya en Francia: la postal de los **ibones de Anayet** es de las más famosas de todo el Pirineo. Y lo mejor es que se llega con una ruta asequible desde **Formigal**, en el Valle de Tena.
 
@@ -43,9 +57,7 @@ La foto de portada es mía, dando saltos de alegría al llegar arriba (literalme
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>De junio a octubre</b> — es cuando la ruta suele estar sin nieve.</li><li><b>Mira el parte</b> — las tormentas de verano en alta montaña llegan rápido: sal temprano.</li><li><b>Abrigo en la mochila</b> — a 2.200 metros refresca aunque abajo haga calor.</li><li><b>Respeta el ibón</b> — no te bañes ni dejes nada: es un ecosistema muy frágil.</li></ul><p>Si vas con fuerzas, desde los ibones se puede seguir hacia el pico… pero eso ya es otra historia (y otro post) 😉</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Ibón de Anayet</h2></div>
-<div class="faq"><details><summary>¿Cuánto se tarda en subir al Ibón de Anayet?</summary><p>Unas 2 horas y 15 minutos de subida desde el Corral de las Mulas, cerca de Formigal. Entre ida y vuelta, calcula de 4 a 5 horas.</p></details><details><summary>¿Qué desnivel tiene la ruta al Ibón de Anayet?</summary><p>Unos 640 metros: se sale a 1.635 metros y los ibones están a unos 2.230.</p></details><details><summary>¿Dónde empieza la ruta al Ibón de Anayet?</summary><p>En el Corral de las Mulas, junto a la carretera del Portalet, muy cerca de Formigal, en el Valle de Tena.</p></details><details><summary>¿Es difícil la ruta a los ibones de Anayet?</summary><p>Es de dificultad media: no tiene pasos técnicos, pero es una subida constante de alta montaña.</p></details><details><summary>¿Cuándo es mejor ir al Ibón de Anayet?</summary><p>Entre junio y octubre, cuando normalmente no hay nieve. Sal temprano para evitar las tormentas de tarde en verano.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto se tarda en subir al Ibón de Anayet?", "acceptedAnswer": {"@type": "Answer", "text": "Unas 2 horas y 15 minutos de subida desde el Corral de las Mulas, cerca de Formigal. Entre ida y vuelta, calcula de 4 a 5 horas."}}, {"@type": "Question", "name": "¿Qué desnivel tiene la ruta al Ibón de Anayet?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 640 metros: se sale a 1.635 metros y los ibones están a unos 2.230."}}, {"@type": "Question", "name": "¿Dónde empieza la ruta al Ibón de Anayet?", "acceptedAnswer": {"@type": "Answer", "text": "En el Corral de las Mulas, junto a la carretera del Portalet, muy cerca de Formigal, en el Valle de Tena."}}, {"@type": "Question", "name": "¿Es difícil la ruta a los ibones de Anayet?", "acceptedAnswer": {"@type": "Answer", "text": "Es de dificultad media: no tiene pasos técnicos, pero es una subida constante de alta montaña."}}, {"@type": "Question", "name": "¿Cuándo es mejor ir al Ibón de Anayet?", "acceptedAnswer": {"@type": "Answer", "text": "Entre junio y octubre, cuando normalmente no hay nieve. Sal temprano para evitar las tormentas de tarde en verano."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando el Valle de Tena</h2></div>
 <ul class="nearby"><li><a href="/blog/lanuza-pueblo-embalse-huesca.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Lanuza" loading="lazy" decoding="async" /><span>Lanuza</span></a></li><li><a href="/blog/pasarelas-de-panticosa.html"><img src="/assets/img/instagram/18131174488538752.webp" alt="Pasarelas de Panticosa" loading="lazy" decoding="async" /><span>Pasarelas de Panticosa</span></a></li><li><a href="/blog/estacion-de-canfranc.html"><img src="/assets/img/instagram/18060356315252624.webp" alt="Estación de Canfranc" loading="lazy" decoding="async" /><span>Estación de Canfranc</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>

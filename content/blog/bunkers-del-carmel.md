@@ -11,6 +11,20 @@ tags:
   - Spots
   - Cataluña
 wide: true
+faqTitulo: "Dudas sobre los Búnkers del Carmel"
+faq:
+  - q: "¿Cuánto cuesta subir a los Búnkers del Carmel?"
+    a: "Nada: es gratis."
+  - q: "¿Se puede ir de noche a los Búnkers del Carmel?"
+    a: "No. Desde mayo de 2023 la zona vallada solo abre de día."
+  - q: "¿Qué son los Búnkers del Carmel?"
+    a: "Los restos de una batería antiaérea de la Guerra Civil y de un barrio de barracas, en el Turó de la Rovira."
+  - q: "¿Cómo se llega a los Búnkers del Carmel?"
+    a: "En autobús hasta el barrio del Carmel y unos 15 minutos andando cuesta arriba."
+  - q: "¿Qué horario tienen los Búnkers del Carmel?"
+    a: "Desde 2023 la zona vallada solo abre de día, con un horario más amplio en verano que en invierno."
+  - q: "¿Dónde están los Búnkers del Carmel?"
+    a: "En lo alto del Turó de la Rovira (262 m), en el barrio del Carmel de Barcelona."
 ---
 Toda **Barcelona** a tus pies: la Sagrada Familia, el mar, Montjuïc y el Tibidabo, en 360 grados. Los **Búnkers del Carmel** son el mirador favorito de los barceloneses, y además son **gratis**.
 
@@ -39,9 +53,7 @@ Pero no son búnkeres, y tienen horario. Te lo cuento 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira el horario</b>: cambia entre verano e invierno y cierran antes de que anochezca.</li><li><b>Lleva agua</b>: arriba no hay bares y la subida tiene cuesta.</li><li><b>Respeta a los vecinos</b>: es un barrio residencial: sin música ni gritos.</li><li><b>Combínalo con el Park Güell</b>: está muy cerca, al otro lado del barrio.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre los Búnkers del Carmel</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta subir a los Búnkers del Carmel?</summary><p>Nada: es gratis.</p></details><details><summary>¿Se puede ir de noche a los Búnkers del Carmel?</summary><p>No. Desde mayo de 2023 la zona vallada solo abre de día.</p></details><details><summary>¿Qué son los Búnkers del Carmel?</summary><p>Los restos de una batería antiaérea de la Guerra Civil y de un barrio de barracas, en el Turó de la Rovira.</p></details><details><summary>¿Cómo se llega a los Búnkers del Carmel?</summary><p>En autobús hasta el barrio del Carmel y unos 15 minutos andando cuesta arriba.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta subir a los Búnkers del Carmel?", "acceptedAnswer": {"@type": "Answer", "text": "Nada: es gratis."}}, {"@type": "Question", "name": "¿Se puede ir de noche a los Búnkers del Carmel?", "acceptedAnswer": {"@type": "Answer", "text": "No. Desde mayo de 2023 la zona vallada solo abre de día."}}, {"@type": "Question", "name": "¿Qué son los Búnkers del Carmel?", "acceptedAnswer": {"@type": "Answer", "text": "Los restos de una batería antiaérea de la Guerra Civil y de un barrio de barracas, en el Turó de la Rovira."}}, {"@type": "Question", "name": "¿Cómo se llega a los Búnkers del Carmel?", "acceptedAnswer": {"@type": "Answer", "text": "En autobús hasta el barrio del Carmel y unos 15 minutos andando cuesta arriba."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li><li><a href="/blog/montblanc-que-ver.html"><img src="/assets/img/blog/montblanc-que-ver/portada.webp" alt="Montblanc" loading="lazy" decoding="async" /><span>Montblanc</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li></ul>

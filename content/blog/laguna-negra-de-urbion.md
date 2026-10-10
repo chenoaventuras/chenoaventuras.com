@@ -11,6 +11,18 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+faqTitulo: "Dudas sobre la Laguna Negra"
+faq:
+  - q: "¿Por qué se llama Laguna Negra?"
+    a: "Por el color oscuro de su agua, que se debe a la sombra del paredón de roca que la rodea y a su profundidad. La leyenda dice que no tiene fondo."
+  - q: "¿Se puede llegar en coche a la Laguna Negra?"
+    a: "Solo hasta el aparcamiento del Paso de la Serrá en las épocas de más afluencia. Desde allí son 2 km a pie o en autobús lanzadera. El resto del año se puede subir más cerca."
+  - q: "¿Qué tiene que ver Machado con la Laguna Negra?"
+    a: "Antonio Machado ambientó allí «La tierra de Alvargonzález», de Campos de Castilla: los hijos de Alvargonzález lo matan y arrojan su cuerpo a la laguna."
+  - q: "¿Se puede bañar en la Laguna Negra?"
+    a: "No. Está dentro de un parque natural y el baño está prohibido para proteger el ecosistema."
+  - q: "¿Cómo llegar a la Laguna Negra desde Soria?"
+    a: "En coche hasta Vinuesa (una hora desde Soria) y de allí unos 18 km hasta el aparcamiento. Los últimos 2 km se hacen a pie o en autobús lanzadera."
 ---
 Agua oscura como la tinta, un paredón de roca de casi 200 metros y un bosque de pinos que la rodea. La **Laguna Negra** parece sacada de un cuento de terror… y es que de un cuento salió: aquí ambientó **Antonio Machado** su crimen más famoso.
 
@@ -41,9 +53,7 @@ Cuentan que no tiene fondo y que está conectada con el mar. Yo no me metería a
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube andando desde el Paso de la Serrá</b>: la senda por el pinar es preciosa y te ahorras la cola del bus.</li><li><b>Madruga en verano y fines de semana</b>: a media mañana se llena y el aparcamiento puede completarse.</li><li><b>Ve en otoño</b>: con los pinos, la niebla y el agua negra, la laguna está en su versión más misteriosa.</li><li><b>Abrígate</b>: a 1.750 metros hace fresco incluso en verano, y la cima de Urbión es otra historia.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Laguna Negra</h2></div>
-<div class="faq"><details><summary>¿Por qué se llama Laguna Negra?</summary><p>Por el color oscuro de su agua, que se debe a la sombra del paredón de roca que la rodea y a su profundidad. La leyenda dice que no tiene fondo.</p></details><details><summary>¿Se puede llegar en coche a la Laguna Negra?</summary><p>Solo hasta el aparcamiento del Paso de la Serrá en las épocas de más afluencia. Desde allí son 2 km a pie o en autobús lanzadera. El resto del año se puede subir más cerca.</p></details><details><summary>¿Qué tiene que ver Machado con la Laguna Negra?</summary><p>Antonio Machado ambientó allí «La tierra de Alvargonzález», de Campos de Castilla: los hijos de Alvargonzález lo matan y arrojan su cuerpo a la laguna.</p></details><details><summary>¿Se puede bañar en la Laguna Negra?</summary><p>No. Está dentro de un parque natural y el baño está prohibido para proteger el ecosistema.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué se llama Laguna Negra?", "acceptedAnswer": {"@type": "Answer", "text": "Por el color oscuro de su agua, que se debe a la sombra del paredón de roca que la rodea y a su profundidad. La leyenda dice que no tiene fondo."}}, {"@type": "Question", "name": "¿Se puede llegar en coche a la Laguna Negra?", "acceptedAnswer": {"@type": "Answer", "text": "Solo hasta el aparcamiento del Paso de la Serrá en las épocas de más afluencia. Desde allí son 2 km a pie o en autobús lanzadera. El resto del año se puede subir más cerca."}}, {"@type": "Question", "name": "¿Qué tiene que ver Machado con la Laguna Negra?", "acceptedAnswer": {"@type": "Answer", "text": "Antonio Machado ambientó allí «La tierra de Alvargonzález», de Campos de Castilla: los hijos de Alvargonzález lo matan y arrojan su cuerpo a la laguna."}}, {"@type": "Question", "name": "¿Se puede bañar en la Laguna Negra?", "acceptedAnswer": {"@type": "Answer", "text": "No. Está dentro de un parque natural y el baño está prohibido para proteger el ecosistema."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca de Soria</h2></div>
 <ul class="nearby"><li><a href="/blog/medinaceli-que-ver.html"><img src="/assets/img/blog/medinaceli-que-ver/portada.webp" alt="Medinaceli" loading="lazy" decoding="async" /><span>Medinaceli</span></a></li><li><a href="/blog/burgo-de-osma-que-ver.html"><img src="/assets/img/instagram/18092599556079124.webp" alt="El Burgo de Osma" loading="lazy" decoding="async" /><span>El Burgo de Osma</span></a></li><li><a href="/blog/siguenza-que-ver.html"><img src="/assets/img/blog/siguenza-que-ver/portada.webp" alt="Sigüenza" loading="lazy" decoding="async" /><span>Sigüenza</span></a></li></ul>

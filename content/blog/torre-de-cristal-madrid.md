@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre la Torre de Cristal"
+faq:
+  - q: "¿Cuál es el edificio más alto de España?"
+    a: "La Torre de Cristal de Madrid, con 249 metros y 50 plantas."
+  - q: "¿Se puede subir a la Torre de Cristal?"
+    a: "No, son oficinas privadas y no tiene mirador público."
+  - q: "¿Quién la diseñó?"
+    a: "El arquitecto argentino César Pelli. Se terminó en 2008."
+  - q: "¿Dónde están las Cuatro Torres de Madrid?"
+    a: "Al final del Paseo de la Castellana, junto a la estación de Chamartín."
+  - q: "¿Dónde está la Torre de Cristal?"
+    a: "En las Cuatro Torres, al norte del Paseo de la Castellana (Madrid). La parada de metro más cercana es Begoña."
 ---
 Al norte de la Castellana hay cuatro gigantes que se ven desde casi todo Madrid. El más alto es la **Torre de Cristal**: **249 metros** y **50 plantas**. Es el **edificio más alto de España** y uno de los más altos de la Unión Europea.
 
@@ -38,9 +50,7 @@ Te cuento sus curiosidades y dónde hacer las mejores fotos de las Cuatro Torres
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz fotos desde lejos</b>: desde parques altos de Madrid se ve el skyline completo con las torres.</li><li><b>Ve al atardecer</b>: el vidrio se tiñe de naranja y rosa.</li><li><b>Combina</b>: con un paseo por la Castellana o el Santiago Bernabéu, que está cerca.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Torre de Cristal</h2></div>
-<div class="faq"><details><summary>¿Cuál es el edificio más alto de España?</summary><p>La Torre de Cristal de Madrid, con 249 metros y 50 plantas.</p></details><details><summary>¿Se puede subir a la Torre de Cristal?</summary><p>No, son oficinas privadas y no tiene mirador público.</p></details><details><summary>¿Quién la diseñó?</summary><p>El arquitecto argentino César Pelli. Se terminó en 2008.</p></details><details><summary>¿Dónde están las Cuatro Torres de Madrid?</summary><p>Al final del Paseo de la Castellana, junto a la estación de Chamartín.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es el edificio más alto de España?", "acceptedAnswer": {"@type": "Answer", "text": "La Torre de Cristal de Madrid, con 249 metros y 50 plantas."}}, {"@type": "Question", "name": "¿Se puede subir a la Torre de Cristal?", "acceptedAnswer": {"@type": "Answer", "text": "No, son oficinas privadas y no tiene mirador público."}}, {"@type": "Question", "name": "¿Quién la diseñó?", "acceptedAnswer": {"@type": "Answer", "text": "El arquitecto argentino César Pelli. Se terminó en 2008."}}, {"@type": "Question", "name": "¿Dónde están las Cuatro Torres de Madrid?", "acceptedAnswer": {"@type": "Answer", "text": "Al final del Paseo de la Castellana, junto a la estación de Chamartín."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/templo-de-debod.html"><img src="/assets/img/blog/templo-de-debod/portada.webp" alt="Templo de Debod" loading="lazy" decoding="async" /><span>Templo de Debod</span></a></li><li><a href="/blog/madrid-fantasmas-leyendas.html"><img src="/assets/img/blog/madrid-fantasmas-leyendas/portada.webp" alt="Madrid de fantasmas" loading="lazy" decoding="async" /><span>Madrid de fantasmas</span></a></li><li><a href="/blog/buitrago-del-lozoya-que-ver.html"><img src="/assets/img/instagram/18567364960036817.webp" alt="Buitrago del Lozoya" loading="lazy" decoding="async" /><span>Buitrago del Lozoya</span></a></li></ul>

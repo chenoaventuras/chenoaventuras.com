@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Galicia
 wide: true
+faqTitulo: "Dudas sobre el hórreo de Carnota"
+faq:
+  - q: "¿Cuánto mide el hórreo de Carnota?"
+    a: "Unos 35 metros de largo. Se terminó en 1768."
+  - q: "¿Cuál es el hórreo más largo de Galicia?"
+    a: "El de Araño (Rianxo), con unos 37 metros. Los de Carnota y Lira están entre los más largos."
+  - q: "¿Se puede visitar gratis?"
+    a: "Sí, está al aire libre junto a la iglesia de Carnota."
+  - q: "¿Qué ver cerca de Carnota?"
+    a: "La playa de Carnota, el Monte Pindo, la Fervenza do Ézaro y el hórreo de Lira."
+  - q: "¿Dónde está el hórreo de Carnota?"
+    a: "En Carnota (A Coruña), junto a la iglesia de Santa Comba, en la Costa da Morte. A 5 km tienes el hórreo de Lira."
 ---
 Un granero de piedra de **casi 35 metros**, levantado sobre decenas de patas de piedra, junto a una iglesia. El **hórreo de Carnota** es uno de los más largos de Galicia y **Monumento Nacional**.
 
@@ -38,9 +50,7 @@ Te cuento su historia, la pelea entre pueblos por tener el hórreo más largo y 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Playa de Carnota</b>: una de las playas más largas de Galicia, con 7 km de arena.</li><li><b>Monte Pindo</b>: el «Olimpo celta», justo al lado, con rutas por rocas de granito.</li><li><b>Fervenza do Ézaro</b>: la cascada que cae directamente al mar, a 15 minutos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el hórreo de Carnota</h2></div>
-<div class="faq"><details><summary>¿Cuánto mide el hórreo de Carnota?</summary><p>Unos 35 metros de largo. Se terminó en 1768.</p></details><details><summary>¿Cuál es el hórreo más largo de Galicia?</summary><p>El de Araño (Rianxo), con unos 37 metros. Los de Carnota y Lira están entre los más largos.</p></details><details><summary>¿Se puede visitar gratis?</summary><p>Sí, está al aire libre junto a la iglesia de Carnota.</p></details><details><summary>¿Qué ver cerca de Carnota?</summary><p>La playa de Carnota, el Monte Pindo, la Fervenza do Ézaro y el hórreo de Lira.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto mide el hórreo de Carnota?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 35 metros de largo. Se terminó en 1768."}}, {"@type": "Question", "name": "¿Cuál es el hórreo más largo de Galicia?", "acceptedAnswer": {"@type": "Answer", "text": "El de Araño (Rianxo), con unos 37 metros. Los de Carnota y Lira están entre los más largos."}}, {"@type": "Question", "name": "¿Se puede visitar gratis?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, está al aire libre junto a la iglesia de Carnota."}}, {"@type": "Question", "name": "¿Qué ver cerca de Carnota?", "acceptedAnswer": {"@type": "Answer", "text": "La playa de Carnota, el Monte Pindo, la Fervenza do Ézaro y el hórreo de Lira."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/fervenza-do-ezaro.html"><img src="/assets/img/blog/fervenza-do-ezaro/portada.webp" alt="Fervenza do Ézaro" loading="lazy" decoding="async" /><span>Fervenza do Ézaro</span></a></li><li><a href="/blog/torre-de-hercules.html"><img src="/assets/img/blog/torre-de-hercules/atardecer.webp" alt="Torre de Hércules" loading="lazy" decoding="async" /><span>Torre de Hércules</span></a></li><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li></ul>

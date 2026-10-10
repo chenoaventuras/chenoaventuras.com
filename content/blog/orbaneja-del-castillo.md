@@ -14,6 +14,17 @@ tags:
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DTdpjjYDDI8/'
 wide: true
+faq:
+  - q: "¿Cuándo tiene más agua la cascada de Orbaneja del Castillo?"
+    a: "En primavera, en otoño y después de días de lluvia. En verano el caudal suele bajar bastante."
+  - q: "¿De dónde sale el agua de la cascada?"
+    a: "De la Cueva del Agua, la salida natural de un gran acuífero que hay bajo el páramo de Bricia."
+  - q: "¿Cuánto tiempo se necesita para ver Orbaneja?"
+    a: "Con un par de horas recorres el pueblo y la cascada. Si haces la senda hasta las rocas, cuenta medio día."
+  - q: "¿Hay que pagar para ver la cascada?"
+    a: "No, el pueblo y la cascada se visitan gratis."
+  - q: "¿A cuánto está Orbaneja del Castillo de Burgos?"
+    a: "A algo más de una hora en coche. Está en el norte de la provincia, casi en el límite con Cantabria."
 ---
 Un pueblo de piedra encajado bajo unas peñas gigantes, en pleno cañón del Ebro… y una **cascada que nace en una cueva y baja atravesando el pueblo** hasta el río. **Orbaneja del Castillo** parece sacado de un cuento, y es uno de los pueblos más fotografiados de Burgos.
 
@@ -44,9 +55,7 @@ Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cóm
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve después de llover</b>: la cascada es mucho más espectacular con caudal.</li><li><b>Sube a las rocas</b>: la senda hasta las peñas da las mejores vistas del cañón.</li><li><b>Calzado con agarre</b>: las piedras junto al agua resbalan.</li><li><b>Combínalo con Las Merindades</b>: Frías, Puentedey o el Monumento Natural de Ojo Guareña están en la misma zona.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Orbaneja del Castillo</h2></div>
-<div class="faq"><details><summary>¿Cuándo tiene más agua la cascada de Orbaneja del Castillo?</summary><p>En primavera, en otoño y después de días de lluvia. En verano el caudal suele bajar bastante.</p></details><details><summary>¿De dónde sale el agua de la cascada?</summary><p>De la Cueva del Agua, la salida natural de un gran acuífero que hay bajo el páramo de Bricia.</p></details><details><summary>¿Cuánto tiempo se necesita para ver Orbaneja?</summary><p>Con un par de horas recorres el pueblo y la cascada. Si haces la senda hasta las rocas, cuenta medio día.</p></details><details><summary>¿Hay que pagar para ver la cascada?</summary><p>No, el pueblo y la cascada se visitan gratis.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuándo tiene más agua la cascada de Orbaneja del Castillo?", "acceptedAnswer": {"@type": "Answer", "text": "En primavera, en otoño y después de días de lluvia. En verano el caudal suele bajar bastante."}}, {"@type": "Question", "name": "¿De dónde sale el agua de la cascada?", "acceptedAnswer": {"@type": "Answer", "text": "De la Cueva del Agua, la salida natural de un gran acuífero que hay bajo el páramo de Bricia."}}, {"@type": "Question", "name": "¿Cuánto tiempo se necesita para ver Orbaneja?", "acceptedAnswer": {"@type": "Answer", "text": "Con un par de horas recorres el pueblo y la cascada. Si haces la senda hasta las rocas, cuenta medio día."}}, {"@type": "Question", "name": "¿Hay que pagar para ver la cascada?", "acceptedAnswer": {"@type": "Answer", "text": "No, el pueblo y la cascada se visitan gratis."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Burgos</span><h2>Sigue por el norte de Burgos</h2></div>
 <ul class="nearby"><li><a href="/blog/merindades-burgos-que-ver.html"><img src="/assets/img/instagram/18077362268036595.webp" alt="Las Merindades" loading="lazy" decoding="async" /><span>Las Merindades</span></a></li><li><a href="/blog/nido-ciguena-mas-famoso-espana.html"><img src="/assets/img/instagram/18314157211262082.webp" alt="El nido de cigüeña más famoso" loading="lazy" decoding="async" /><span>El nido de cigüeña más famoso</span></a></li><li><a href="/blog/territorio-artlanza-burgos.html"><img src="/assets/img/instagram/18047661281545002.webp" alt="Territorio Artlanza" loading="lazy" decoding="async" /><span>Territorio Artlanza</span></a></li></ul>

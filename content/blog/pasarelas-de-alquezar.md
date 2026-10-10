@@ -11,6 +11,17 @@ tags:
   - Actividades
   - Aragón
 wide: true
+faq:
+  - q: "¿Cuánto cuesta la ruta de las Pasarelas de Alquézar?"
+    a: "Tiene una entrada de pocos euros. Consulta el precio actualizado y compra online en la web oficial."
+  - q: "¿Cuánto se tarda en hacer las Pasarelas de Alquézar?"
+    a: "Entre una hora y media y dos horas, es una ruta circular de unos 3 km."
+  - q: "¿Es difícil la ruta de las Pasarelas de Alquézar?"
+    a: "No, pero tiene bastantes escaleras y algún desnivel. No es apta para carritos."
+  - q: "¿Qué ver en Alquézar?"
+    a: "La colegiata y el castillo, sus calles empedradas y las pasarelas sobre el río Vero."
+  - q: "¿Cómo llegar a Alquézar?"
+    a: "En coche: está en el Somontano (Huesca), a unos 25 minutos de Barbastro y 45 de Huesca."
 ---
 Pasarelas metálicas colgadas de la roca, un río de aguas turquesas por debajo y, al final, uno de los pueblos más bonitos de España. Las **Pasarelas de Alquézar** son la ruta más popular de la Sierra de Guara, y con razón.
 
@@ -41,9 +52,7 @@ Te cuento cómo hacerla y qué ver en **Alquézar** antes o después 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra la entrada online</b>: en verano y puentes hay cupo y se agota.</li><li><b>Haz la ruta por la mañana</b>: en verano el cañón se calienta mucho.</li><li><b>Lleva calzado con buen agarre</b>: hay escaleras y tramos de piedra.</li><li><b>Prueba los vinos del Somontano</b>: estás en plena denominación de origen.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Alquézar</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta la ruta de las Pasarelas de Alquézar?</summary><p>Tiene una entrada de pocos euros. Consulta el precio actualizado y compra online en la web oficial.</p></details><details><summary>¿Cuánto se tarda en hacer las Pasarelas de Alquézar?</summary><p>Entre una hora y media y dos horas, es una ruta circular de unos 3 km.</p></details><details><summary>¿Es difícil la ruta de las Pasarelas de Alquézar?</summary><p>No, pero tiene bastantes escaleras y algún desnivel. No es apta para carritos.</p></details><details><summary>¿Qué ver en Alquézar?</summary><p>La colegiata y el castillo, sus calles empedradas y las pasarelas sobre el río Vero.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta la ruta de las Pasarelas de Alquézar?", "acceptedAnswer": {"@type": "Answer", "text": "Tiene una entrada de pocos euros. Consulta el precio actualizado y compra online en la web oficial."}}, {"@type": "Question", "name": "¿Cuánto se tarda en hacer las Pasarelas de Alquézar?", "acceptedAnswer": {"@type": "Answer", "text": "Entre una hora y media y dos horas, es una ruta circular de unos 3 km."}}, {"@type": "Question", "name": "¿Es difícil la ruta de las Pasarelas de Alquézar?", "acceptedAnswer": {"@type": "Answer", "text": "No, pero tiene bastantes escaleras y algún desnivel. No es apta para carritos."}}, {"@type": "Question", "name": "¿Qué ver en Alquézar?", "acceptedAnswer": {"@type": "Answer", "text": "La colegiata y el castillo, sus calles empedradas y las pasarelas sobre el río Vero."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Aragón</h2></div>
 <ul class="nearby"><li><a href="/blog/avistamiento-de-buitres-sierra-de-guara.html"><img src="/assets/img/instagram/18167547529344269.webp" alt="Sierra de Guara" loading="lazy" decoding="async" /><span>Sierra de Guara</span></a></li><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Aínsa" loading="lazy" decoding="async" /><span>Aínsa</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Pirineo Aragonés" loading="lazy" decoding="async" /><span>Pirineo Aragonés</span></a></li></ul>

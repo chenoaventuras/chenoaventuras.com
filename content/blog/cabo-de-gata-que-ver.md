@@ -11,6 +11,19 @@ tags:
   - Spots
   - Andalucía
 wide: true
+faq:
+  - q: "¿Se puede ir en coche a la playa de Mónsul?"
+    a: "Fuera de temporada, sí. En verano el acceso está regulado, con aparcamiento de pago y autobús lanzadera desde San José."
+  - q: "¿Qué película se rodó en la playa de Mónsul?"
+    a: "Indiana Jones y la última cruzada, entre otras."
+  - q: "¿Por qué se llama Arrecife de las Sirenas?"
+    a: "Por los lamentos que oían los marineros, que en realidad eran de las focas monje que vivían allí."
+  - q: "¿Cuál es la mejor época para ir a Cabo de Gata?"
+    a: "Primavera y otoño: buen tiempo, menos gente y sin restricciones de acceso."
+  - q: "¿Cómo llegar a Cabo de Gata desde Almería?"
+    a: "En coche, a unos 40 minutos de Almería capital. En verano, para Mónsul y Genoveses, hay lanzadera desde San José."
+  - q: "¿Cuántos días hacen falta para ver Cabo de Gata?"
+    a: "Como mínimo un día, pero para ver bien sus calas mejor 2-3 días."
 ---
 Playas vírgenes entre volcanes, agua transparente y paisajes de desierto que parecen de otro planeta. **Cabo de Gata** es el último gran tramo de costa salvaje del Mediterráneo español.
 
@@ -41,9 +54,7 @@ En la playa de **Mónsul** rodaron una escena de *Indiana Jones*, y en el faro h
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve fuera de temporada</b>: en octubre el agua aún está buena y no hay restricciones de acceso.</li><li><b>En verano, usa la lanzadera</b>: o llega antes de las 9:00 para encontrar sitio.</li><li><b>Haz snorkel</b>: las aguas del parque son de las más claras del Mediterráneo.</li><li><b>Lleva agua y sombra</b>: casi no hay servicios en las playas vírgenes.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Cabo de Gata</h2></div>
-<div class="faq"><details><summary>¿Se puede ir en coche a la playa de Mónsul?</summary><p>Fuera de temporada, sí. En verano el acceso está regulado, con aparcamiento de pago y autobús lanzadera desde San José.</p></details><details><summary>¿Qué película se rodó en la playa de Mónsul?</summary><p>Indiana Jones y la última cruzada, entre otras.</p></details><details><summary>¿Por qué se llama Arrecife de las Sirenas?</summary><p>Por los lamentos que oían los marineros, que en realidad eran de las focas monje que vivían allí.</p></details><details><summary>¿Cuál es la mejor época para ir a Cabo de Gata?</summary><p>Primavera y otoño: buen tiempo, menos gente y sin restricciones de acceso.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede ir en coche a la playa de Mónsul?", "acceptedAnswer": {"@type": "Answer", "text": "Fuera de temporada, sí. En verano el acceso está regulado, con aparcamiento de pago y autobús lanzadera desde San José."}}, {"@type": "Question", "name": "¿Qué película se rodó en la playa de Mónsul?", "acceptedAnswer": {"@type": "Answer", "text": "Indiana Jones y la última cruzada, entre otras."}}, {"@type": "Question", "name": "¿Por qué se llama Arrecife de las Sirenas?", "acceptedAnswer": {"@type": "Answer", "text": "Por los lamentos que oían los marineros, que en realidad eran de las focas monje que vivían allí."}}, {"@type": "Question", "name": "¿Cuál es la mejor época para ir a Cabo de Gata?", "acceptedAnswer": {"@type": "Answer", "text": "Primavera y otoño: buen tiempo, menos gente y sin restricciones de acceso."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/desierto-de-tabernas.html"><img src="/assets/img/blog/desierto-de-tabernas/portada.webp" alt="Desierto de Tabernas" loading="lazy" decoding="async" /><span>Desierto de Tabernas</span></a></li><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Cabo de Palos" loading="lazy" decoding="async" /><span>Cabo de Palos</span></a></li><li><a href="/blog/los-cahorros-de-monachil.html"><img src="/assets/img/blog/los-cahorros-de-monachil/portada.webp" alt="Los Cahorros de Monachil" loading="lazy" decoding="async" /><span>Los Cahorros de Monachil</span></a></li></ul>

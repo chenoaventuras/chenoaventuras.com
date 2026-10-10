@@ -11,6 +11,21 @@ tags:
   - Spots
   - Aragón
 wide: true
+faq:
+  - q: "¿Cuál es la leyenda de los Amantes de Teruel?"
+    a: "Diego de Marcilla tenía cinco años para hacerse rico y casarse con Isabel de Segura. Volvió un día tarde, ella ya se había casado y le negó un beso. Él murió, y en su funeral ella le dio el beso y murió también."
+  - q: "¿Dónde están enterrados los Amantes de Teruel?"
+    a: "En el Mausoleo de los Amantes, junto a la iglesia de San Pedro, en el centro de Teruel."
+  - q: "¿Cuándo son las Bodas de Isabel de Segura?"
+    a: "Se celebran cada año en febrero, en torno a San Valentín."
+  - q: "¿Qué ver en Teruel en un día?"
+    a: "El Mausoleo de los Amantes, las torres mudéjares, la Catedral, la Escalinata y la Plaza del Torico."
+  - q: "¿Los Amantes de Teruel son una historia real?"
+    a: "Es una leyenda del siglo XIII, aunque la ciudad conserva a Isabel y Diego en su mausoleo y la vive como propia."
+  - q: "¿Dónde está el mausoleo de los Amantes de Teruel?"
+    a: "Junto a la iglesia de San Pedro, en el centro de Teruel."
+  - q: "¿Cuánto cuesta ver a los Amantes de Teruel?"
+    a: "El mausoleo tiene entrada, con varias combinaciones según añadas la iglesia, la torre o el claustro."
 ---
 Mucho antes de que Shakespeare escribiera *Romeo y Julieta*, Teruel ya tenía su propia historia de amor trágico. **Isabel y Diego** murieron de amor en el siglo XIII, y hoy descansan juntos en un mausoleo donde sus manos casi se tocan.
 
@@ -43,9 +58,7 @@ Visitar a los **Amantes de Teruel** es la excusa perfecta para descubrir una ciu
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz la visita completa</b>: torre, claustro y ándito valen mucho la pena, no te quedes solo en el mausoleo.</li><li><b>Ven en febrero</b>: con Las Bodas de Isabel de Segura toda la ciudad se viste de época.</li><li><b>Prueba el jamón de Teruel</b>: con denominación de origen y en cualquier bar del centro.</li><li><b>Duerme y sigue a Albarracín</b>: está a 40 minutos y juntos forman una escapada de dos días perfecta.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Teruel</h2></div>
-<div class="faq"><details><summary>¿Cuál es la leyenda de los Amantes de Teruel?</summary><p>Diego de Marcilla tenía cinco años para hacerse rico y casarse con Isabel de Segura. Volvió un día tarde, ella ya se había casado y le negó un beso. Él murió, y en su funeral ella le dio el beso y murió también.</p></details><details><summary>¿Dónde están enterrados los Amantes de Teruel?</summary><p>En el Mausoleo de los Amantes, junto a la iglesia de San Pedro, en el centro de Teruel.</p></details><details><summary>¿Cuándo son las Bodas de Isabel de Segura?</summary><p>Se celebran cada año en febrero, en torno a San Valentín.</p></details><details><summary>¿Qué ver en Teruel en un día?</summary><p>El Mausoleo de los Amantes, las torres mudéjares, la Catedral, la Escalinata y la Plaza del Torico.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es la leyenda de los Amantes de Teruel?", "acceptedAnswer": {"@type": "Answer", "text": "Diego de Marcilla tenía cinco años para hacerse rico y casarse con Isabel de Segura. Volvió un día tarde, ella ya se había casado y le negó un beso. Él murió, y en su funeral ella le dio el beso y murió también."}}, {"@type": "Question", "name": "¿Dónde están enterrados los Amantes de Teruel?", "acceptedAnswer": {"@type": "Answer", "text": "En el Mausoleo de los Amantes, junto a la iglesia de San Pedro, en el centro de Teruel."}}, {"@type": "Question", "name": "¿Cuándo son las Bodas de Isabel de Segura?", "acceptedAnswer": {"@type": "Answer", "text": "Se celebran cada año en febrero, en torno a San Valentín."}}, {"@type": "Question", "name": "¿Qué ver en Teruel en un día?", "acceptedAnswer": {"@type": "Answer", "text": "El Mausoleo de los Amantes, las torres mudéjares, la Catedral, la Escalinata y la Plaza del Torico."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/albarracin-que-ver.html"><img src="/assets/img/blog/albarracin-que-ver/portada.webp" alt="Albarracín" loading="lazy" decoding="async" /><span>Albarracín</span></a></li><li><a href="/blog/fuente-de-los-banos-montanejos.html"><img src="/assets/img/instagram/18070045547016448.webp" alt="Montanejos" loading="lazy" decoding="async" /><span>Montanejos</span></a></li><li><a href="/blog/monasterio-de-piedra.html"><img src="/assets/img/blog/monasterio-de-piedra/portada.webp" alt="Monasterio de Piedra" loading="lazy" decoding="async" /><span>Monasterio de Piedra</span></a></li></ul>

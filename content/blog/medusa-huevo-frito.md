@@ -12,6 +12,18 @@ tags:
   - Curiosidades
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DdW9IzJRGUK/'
+faqTitulo: "Dudas sobre la medusa huevo frito"
+faq:
+  - q: "¿Pica la medusa huevo frito?"
+    a: "Casi nada: su veneno es de los más suaves y normalmente ni notas el roce. Con la piel sensible puede dar un escozor leve que se pasa pronto."
+  - q: "¿Es peligrosa la medusa huevo frito?"
+    a: "No. Es una de las medusas más tranquilas del Mediterráneo y puedes observarla de cerca sin problema (sin tocarla)."
+  - q: "¿Cómo se llama la medusa huevo frito?"
+    a: "Su nombre científico es Cotylorhiza tuberculata, y también la llaman aguacuajada."
+  - q: "¿Por qué la medusa huevo frito es amarilla?"
+    a: "Por las microalgas (zooxantelas) que viven dentro de ella: hacen la fotosíntesis y le ceden nutrientes. Por eso le gusta estar cerca de la superficie, al sol."
+  - q: "¿Cuánto mide la medusa huevo frito?"
+    a: "Entre 30 y 40 centímetros de diámetro."
 ---
 Buceando por [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) es fácil cruzarte con una medusa que parece sacada de una sartén: centro amarillo brillante rodeado de un cuerpo blanquecino, flotando tranquila cerca de la superficie. No es casualidad que la conozcan como medusa huevo frito. Y aunque la primera vez que la ves de cerca impone (puede rozar los 40 centímetros), es de las medusas más tranquilas que te vas a encontrar en el Mediterráneo.
 
@@ -68,5 +80,8 @@ Si te encuentras con una concentración grande, lo razonable es respetar su espa
 ## Una medusa con la que sí puedes convivir
 
 Entre todas las medusas que te puedes encontrar en el Mediterráneo, la huevo frito es probablemente una de las más agradecidas: vistosa, curiosa por dentro y por fuera, y prácticamente inofensiva. Es de esos animales que enseñan una lección bastante clara: el aspecto no siempre coincide con el peligro real. Si te la cruzas nadando, tómatelo como una oportunidad para observarla de cerca, no como un motivo para salir del agua.
+
+<!--faq-->
+
 
 ¿Te bañarías en un sitio lleno de medusas huevo frito? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades del mar, y échale un vistazo al resto del blog para seguir descubriendo bichos como este.

@@ -12,6 +12,16 @@ tags:
   - Pueblos
   - Castilla y León
 igPermalink: 'https://www.instagram.com/p/DTyTMSajP_5/'
+faqTitulo: "Dudas sobre Las Merindades"
+faq:
+  - q: "¿Dónde están Las Merindades?"
+    a: "En el norte de la provincia de Burgos, en el límite con Cantabria y el País Vasco."
+  - q: "¿Qué ver en Las Merindades?"
+    a: "Puentedey, la ermita de San Bernabé en Ojo Guareña, San Pantaleón de Losa, Orbaneja del Castillo, el Desfiladero de la Yecla, Frías, el Monasterio de Rioseco y Tobera."
+  - q: "¿Cuántos días hacen falta para ver Las Merindades?"
+    a: "Con 1 o 2 días ves los ocho sitios, según el ritmo que lleves. Hace falta coche, porque están repartidos por toda la comarca."
+  - q: "¿Cuál es la ciudad más pequeña de España?"
+    a: "Frías, en Las Merindades: tiene título de ciudad y hasta su propio castillo."
 ---
 Al norte de la provincia de Burgos hay una comarca donde los pueblos se construyen bajo puentes de roca, las ermitas se excavan dentro de cuevas y hasta la ciudad más pequeña de España guarda su propio castillo. Se llama Las Merindades, y da para una escapada entera sin repetir paisaje ni una sola vez.
 
@@ -54,5 +64,8 @@ Para cerrar la ruta con un plan tranquilo, **Tobera** ofrece un paseo sencillo e
 Estos ocho lugares están repartidos por buena parte del norte de la provincia de Burgos, así que la forma más práctica de recorrerlos es en coche propio, organizando la ruta en 1 o 2 días según el ritmo que quieras llevar. Puedes usar [Frías](https://www.google.com/maps/search/?api=1&query=Fr%C3%ADas%2C%20Burgos) o [Villarcayo](https://www.google.com/maps/search/?api=1&query=Villarcayo%2C%20Burgos) como base para moverte con comodidad entre los distintos puntos de la ruta.
 
 Y si sigues por la provincia, no te pierdas [Territorio Artlanza](/blog/territorio-artlanza-burgos.html), un pueblo castellano en miniatura hecho a mano, ni [el nido de cigüeña más famoso de España](/blog/nido-ciguena-mas-famoso-espana.html).
+
+<!--faq-->
+
 
 ¿Con cuál de estos rincones de Las Merindades te quedas? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más escapadas por Burgos y el resto de España, y échale un vistazo al resto del blog para seguir planeando tu próxima ruta.

@@ -11,6 +11,16 @@ tags:
   - Pueblos
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DQFNvQQDF7i/'
+faqTitulo: "Dudas sobre el castillo de Chinchón"
+faq:
+  - q: "¿Se puede visitar el castillo de Chinchón?"
+    a: "No, el castillo de los Condes de Chinchón está cerrado al público. Se ve desde fuera, y de noche, iluminado, es una imagen preciosa."
+  - q: "¿Cómo llegar a Chinchón desde Madrid?"
+    a: "Está a unos 45 km al sureste de la capital, con buena conexión por carretera."
+  - q: "¿Merece la pena ver Chinchón de noche?"
+    a: "Sí: la Plaza Mayor iluminada y sin gente parece de otra época, y se pasea con mucha más calma."
+  - q: "¿Para qué se usó el castillo de Chinchón?"
+    a: "Ha tenido muchos usos a lo largo de los siglos, incluida una fábrica de aguardiente."
 ---
 De día, Chinchón es uno de los pueblos con más ambiente de toda la Comunidad de Madrid. De noche, con la Plaza Mayor iluminada y las calles mucho más tranquilas, cambia completamente de personalidad, y el protagonista pasa a ser el castillo que vigila el pueblo desde lo alto.
 
@@ -33,5 +43,8 @@ Sin las aglomeraciones típicas de fin de semana, Chinchón de noche permite pas
 Chinchón se encuentra a unos 45 kilómetros al sureste de Madrid capital, con buena conexión por carretera. Puedes consultar la ubicación de la Plaza Mayor en [Google Maps](https://www.google.com/maps/search/?api=1&query=Plaza%20Mayor%20de%20Chinch%C3%B3n).
 
 Y si quieres ver Chinchón con más ambiente todavía, échale un ojo a su [Mercado Medieval](/blog/mercado-medieval-chinchon.html).
+
+<!--faq-->
+
 
 ¿Habías visto Chinchón de noche? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Madrid, y échale un vistazo al resto del blog para tu próxima escapada.

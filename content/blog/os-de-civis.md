@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Cataluña
 wide: true
+faq:
+  - q: "¿Por qué a Os de Civís solo se llega por Andorra?"
+    a: "Porque las montañas lo separan del resto de su municipio y la única carretera sale de Sant Julià de Lòria, en Andorra."
+  - q: "¿Os de Civís es España o Andorra?"
+    a: "Es España: pertenece a Les Valls de Valira, en la provincia de Lleida (Cataluña)."
+  - q: "¿Cuántos habitantes tiene Os de Civís?"
+    a: "Unos 25 censados, según el INE."
+  - q: "¿Hace falta pasaporte para ir a Os de Civís?"
+    a: "Basta con el DNI, porque pasas por la aduana de Andorra."
+  - q: "¿Cómo llegar a Os de Civís?"
+    a: "Por carretera desde Sant Julià de Lòria (Andorra), a unos 10 km. Es la única forma de llegar en coche."
 ---
 Imagina vivir en España pero tener que **salir del país** cada vez que quieres ir a tu ayuntamiento. Pasa en **Os de Civís**, un pueblo de Lleida al que solo se llega por carretera **atravesando Andorra**.
 
@@ -41,9 +52,7 @@ Es lo que se llama un *pene-enclave*. Te cuento cómo es y cómo visitarlo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Lleva el DNI</b>: cruzas dos veces la frontera de Andorra.</li><li><b>Ojo con las compras</b>: al volver a España hay límites de tabaco, alcohol y otros productos.</li><li><b>Mejor de primavera a otoño</b>: en invierno la carretera puede tener nieve y hielo.</li><li><b>Combínalo con Andorra</b>: Sant Julià de Lòria y Andorra la Vella están al lado.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Os de Civís</h2></div>
-<div class="faq"><details><summary>¿Por qué a Os de Civís solo se llega por Andorra?</summary><p>Porque las montañas lo separan del resto de su municipio y la única carretera sale de Sant Julià de Lòria, en Andorra.</p></details><details><summary>¿Os de Civís es España o Andorra?</summary><p>Es España: pertenece a Les Valls de Valira, en la provincia de Lleida (Cataluña).</p></details><details><summary>¿Cuántos habitantes tiene Os de Civís?</summary><p>Unos 25 censados, según el INE.</p></details><details><summary>¿Hace falta pasaporte para ir a Os de Civís?</summary><p>Basta con el DNI, porque pasas por la aduana de Andorra.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué a Os de Civís solo se llega por Andorra?", "acceptedAnswer": {"@type": "Answer", "text": "Porque las montañas lo separan del resto de su municipio y la única carretera sale de Sant Julià de Lòria, en Andorra."}}, {"@type": "Question", "name": "¿Os de Civís es España o Andorra?", "acceptedAnswer": {"@type": "Answer", "text": "Es España: pertenece a Les Valls de Valira, en la provincia de Lleida (Cataluña)."}}, {"@type": "Question", "name": "¿Cuántos habitantes tiene Os de Civís?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 25 censados, según el INE."}}, {"@type": "Question", "name": "¿Hace falta pasaporte para ir a Os de Civís?", "acceptedAnswer": {"@type": "Answer", "text": "Basta con el DNI, porque pasas por la aduana de Andorra."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/valle-de-aran.html"><img src="/assets/img/blog/valle-de-aran/artiga.webp" alt="Valle de Arán" loading="lazy" decoding="async" /><span>Valle de Arán</span></a></li><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Aínsa" loading="lazy" decoding="async" /><span>Aínsa</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li></ul>

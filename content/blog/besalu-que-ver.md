@@ -11,6 +11,19 @@ tags:
   - Pueblos
   - Cataluña
 wide: true
+faq:
+  - q: "¿Qué ver en Besalú?"
+    a: "El puente románico fortificado, el miqvé de la judería, el monasterio de Sant Pere, la plaza de la Llibertat y sus calles medievales."
+  - q: "¿Qué es el miqvé de Besalú?"
+    a: "Un baño ritual judío medieval, redescubierto en el siglo XX. Es uno de los pocos que se conservan en Europa."
+  - q: "¿Cuánto tiempo se necesita para ver Besalú?"
+    a: "Medio día es suficiente. Si lo combinas con Castellfollit de la Roca y la Garrotxa, sale un día completo."
+  - q: "¿Qué hay cerca de Besalú?"
+    a: "Castellfollit de la Roca, Olot y la zona volcánica de la Garrotxa, con rutas por volcanes y hayedos."
+  - q: "¿Cómo llegar a Besalú?"
+    a: "En coche: está en la Garrotxa, a unos 30 minutos de Girona y a hora y media de Barcelona."
+  - q: "¿Es gratis visitar Besalú?"
+    a: "Pasear y cruzar el puente, sí. El miqvé y algunos monumentos se visitan a través de la Oficina de Turismo."
 ---
 Un puente de piedra en zigzag con una torre fortificada en medio, un río tranquilo a sus pies y un pueblo medieval casi intacto al otro lado. **Besalú** es de esos sitios que parecen sacados de una película de caballeros, y además guarda un tesoro que muy pocos lugares de Europa conservan: un **baño ritual judío** de la Edad Media.
 
@@ -41,9 +54,7 @@ Te cuento qué ver y cómo combinarlo con la zona volcánica de la Garrotxa 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Visita el miqvé</b>: las visitas se organizan desde la Oficina de Turismo; pregunta horarios.</li><li><b>Combínalo con la Garrotxa</b>: volcanes, hayedos como la Fageda d'en Jordà y pueblos como Santa Pau.</li><li><b>Ve temprano</b>: a media mañana llegan muchos grupos desde la Costa Brava.</li><li><b>Para en el mirador de Castellfollit</b>: la vista del pueblo sobre el acantilado es espectacular.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Besalú</h2></div>
-<div class="faq"><details><summary>¿Qué ver en Besalú?</summary><p>El puente románico fortificado, el miqvé de la judería, el monasterio de Sant Pere, la plaza de la Llibertat y sus calles medievales.</p></details><details><summary>¿Qué es el miqvé de Besalú?</summary><p>Un baño ritual judío medieval, redescubierto en el siglo XX. Es uno de los pocos que se conservan en Europa.</p></details><details><summary>¿Cuánto tiempo se necesita para ver Besalú?</summary><p>Medio día es suficiente. Si lo combinas con Castellfollit de la Roca y la Garrotxa, sale un día completo.</p></details><details><summary>¿Qué hay cerca de Besalú?</summary><p>Castellfollit de la Roca, Olot y la zona volcánica de la Garrotxa, con rutas por volcanes y hayedos.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en Besalú?", "acceptedAnswer": {"@type": "Answer", "text": "El puente románico fortificado, el miqvé de la judería, el monasterio de Sant Pere, la plaza de la Llibertat y sus calles medievales."}}, {"@type": "Question", "name": "¿Qué es el miqvé de Besalú?", "acceptedAnswer": {"@type": "Answer", "text": "Un baño ritual judío medieval, redescubierto en el siglo XX. Es uno de los pocos que se conservan en Europa."}}, {"@type": "Question", "name": "¿Cuánto tiempo se necesita para ver Besalú?", "acceptedAnswer": {"@type": "Answer", "text": "Medio día es suficiente. Si lo combinas con Castellfollit de la Roca y la Garrotxa, sale un día completo."}}, {"@type": "Question", "name": "¿Qué hay cerca de Besalú?", "acceptedAnswer": {"@type": "Answer", "text": "Castellfollit de la Roca, Olot y la zona volcánica de la Garrotxa, con rutas por volcanes y hayedos."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más pueblos</span><h2>Más pueblos medievales</h2></div>
 <ul class="nearby"><li><a href="/blog/albarracin-que-ver.html"><img src="/assets/img/blog/albarracin-que-ver/portada.webp" alt="Albarracín" loading="lazy" decoding="async" /><span>Albarracín</span></a></li><li><a href="/blog/pedraza-que-ver.html"><img src="/assets/img/instagram/18089113739420968.webp" alt="Pedraza" loading="lazy" decoding="async" /><span>Pedraza</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li></ul>

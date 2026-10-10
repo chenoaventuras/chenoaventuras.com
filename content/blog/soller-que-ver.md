@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Islas Baleares
 wide: true
+faq:
+  - q: "¿Cuánto se tarda en el Tren de Sóller desde Palma?"
+    a: "Alrededor de una hora, con una parada en un mirador sobre el valle."
+  - q: "¿Cómo se va del pueblo de Sóller al puerto?"
+    a: "En el tranvía histórico que une Sóller con el Port de Sóller, o en coche y autobús por carretera."
+  - q: "¿Qué ruta hacer desde Sóller?"
+    a: "El barranc de Biniaraix es la más famosa: un camino empedrado de piedra seca que sube por un barranco de la Serra de Tramuntana."
+  - q: "¿Merece la pena el Tren de Sóller?"
+    a: "Sí, si te gustan los trenes históricos y el paisaje: sus vagones de madera de 1912 y el paso por la sierra son una experiencia única."
+  - q: "¿Cómo llegar a Sóller desde Palma?"
+    a: "En el histórico tren de madera, que cruza la sierra por túneles, o en coche por carretera."
 ---
 Un valle lleno de **naranjos** rodeado por las montañas más altas de Mallorca, un pueblo con fachadas modernistas, un puerto en una bahía casi cerrada y, para llegar, un **tren de madera de 1912** que cruza la sierra por túneles. **Sóller** es probablemente la escapada más bonita de la isla.
 
@@ -41,9 +52,7 @@ Te cuento qué ver, cómo llegar en el tren y qué ruta hacer por la Serra de Tr
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ida en tren, vuelta en bus</b>: así ves el paisaje de la sierra y vuelves más rápido.</li><li><b>Prueba el zumo y el helado de naranja</b>: son la especialidad del valle.</li><li><b>Haz el barranc de Biniaraix</b>: una de las rutas más bonitas de la Tramuntana, con la aldea de Biniaraix al inicio.</li><li><b>Atardecer en el puerto</b>: desde el faro de Cap Gros, el sol cae sobre el mar.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Sóller</h2></div>
-<div class="faq"><details><summary>¿Cuánto se tarda en el Tren de Sóller desde Palma?</summary><p>Alrededor de una hora, con una parada en un mirador sobre el valle.</p></details><details><summary>¿Cómo se va del pueblo de Sóller al puerto?</summary><p>En el tranvía histórico que une Sóller con el Port de Sóller, o en coche y autobús por carretera.</p></details><details><summary>¿Qué ruta hacer desde Sóller?</summary><p>El barranc de Biniaraix es la más famosa: un camino empedrado de piedra seca que sube por un barranco de la Serra de Tramuntana.</p></details><details><summary>¿Merece la pena el Tren de Sóller?</summary><p>Sí, si te gustan los trenes históricos y el paisaje: sus vagones de madera de 1912 y el paso por la sierra son una experiencia única.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto se tarda en el Tren de Sóller desde Palma?", "acceptedAnswer": {"@type": "Answer", "text": "Alrededor de una hora, con una parada en un mirador sobre el valle."}}, {"@type": "Question", "name": "¿Cómo se va del pueblo de Sóller al puerto?", "acceptedAnswer": {"@type": "Answer", "text": "En el tranvía histórico que une Sóller con el Port de Sóller, o en coche y autobús por carretera."}}, {"@type": "Question", "name": "¿Qué ruta hacer desde Sóller?", "acceptedAnswer": {"@type": "Answer", "text": "El barranc de Biniaraix es la más famosa: un camino empedrado de piedra seca que sube por un barranco de la Serra de Tramuntana."}}, {"@type": "Question", "name": "¿Merece la pena el Tren de Sóller?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, si te gustan los trenes históricos y el paisaje: sus vagones de madera de 1912 y el paso por la sierra son una experiencia única."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más islas</span><h2>Más islas y costa</h2></div>
 <ul class="nearby"><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.webp" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li><li><a href="/blog/peniscola-que-ver.html"><img src="/assets/img/blog/peniscola-que-ver/portada.webp" alt="Peñíscola" loading="lazy" decoding="async" /><span>Peñíscola</span></a></li><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li></ul>

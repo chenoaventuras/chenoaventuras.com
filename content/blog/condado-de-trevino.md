@@ -11,6 +11,18 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+faqTitulo: "Dudas sobre el Condado de Treviño"
+faq:
+  - q: "¿El Condado de Treviño es de Álava o de Burgos?"
+    a: "Es de Burgos (Castilla y León), aunque está totalmente rodeado por Álava (País Vasco)."
+  - q: "¿Por qué Treviño pertenece a Burgos?"
+    a: "Por razones históricas: perteneció a Castilla desde la Edad Media y se respetó al crear las provincias en 1833."
+  - q: "¿Qué municipios forman el enclave de Treviño?"
+    a: "El Condado de Treviño y La Puebla de Arganzón."
+  - q: "¿A qué distancia está Treviño de Vitoria?"
+    a: "A unos 15 km, unos 20 minutos en coche."
+  - q: "¿Cómo llegar al Condado de Treviño?"
+    a: "En coche desde Vitoria-Gasteiz, a unos 15 km. Desde la ciudad de Burgos hay más de 100 km."
 ---
 Si miras un **mapa** de Álava verás un agujero en medio: no es Álava, es **Burgos**. El **Condado de Treviño** es un trozo de Castilla y León completamente rodeado por el País Vasco, a 15 km de **Vitoria** y a más de 100 de la ciudad de Burgos.
 
@@ -39,9 +51,7 @@ Te cuento por qué pasa esto y qué ver allí 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira el mapa</b>: es curioso ver cómo los carteles cambian de Álava a Burgos y viceversa.</li><li><b>Sube al cerro</b>: la mejor forma de entender el enclave.</li><li><b>Visita Ochate</b>: si te gustan los misterios.</li><li><b>Come en Vitoria</b>: o en La Puebla de Arganzón, junto al río Zadorra.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Condado de Treviño</h2></div>
-<div class="faq"><details><summary>¿El Condado de Treviño es de Álava o de Burgos?</summary><p>Es de Burgos (Castilla y León), aunque está totalmente rodeado por Álava (País Vasco).</p></details><details><summary>¿Por qué Treviño pertenece a Burgos?</summary><p>Por razones históricas: perteneció a Castilla desde la Edad Media y se respetó al crear las provincias en 1833.</p></details><details><summary>¿Qué municipios forman el enclave de Treviño?</summary><p>El Condado de Treviño y La Puebla de Arganzón.</p></details><details><summary>¿A qué distancia está Treviño de Vitoria?</summary><p>A unos 15 km, unos 20 minutos en coche.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿El Condado de Treviño es de Álava o de Burgos?", "acceptedAnswer": {"@type": "Answer", "text": "Es de Burgos (Castilla y León), aunque está totalmente rodeado por Álava (País Vasco)."}}, {"@type": "Question", "name": "¿Por qué Treviño pertenece a Burgos?", "acceptedAnswer": {"@type": "Answer", "text": "Por razones históricas: perteneció a Castilla desde la Edad Media y se respetó al crear las provincias en 1833."}}, {"@type": "Question", "name": "¿Qué municipios forman el enclave de Treviño?", "acceptedAnswer": {"@type": "Answer", "text": "El Condado de Treviño y La Puebla de Arganzón."}}, {"@type": "Question", "name": "¿A qué distancia está Treviño de Vitoria?", "acceptedAnswer": {"@type": "Answer", "text": "A unos 15 km, unos 20 minutos en coche."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/ochate-pueblo-maldito.html"><img src="/assets/img/blog/ochate-pueblo-maldito/portada.webp" alt="Ochate" loading="lazy" decoding="async" /><span>Ochate</span></a></li><li><a href="/blog/laguardia-que-ver.html"><img src="/assets/img/blog/laguardia-que-ver/portada.webp" alt="Laguardia" loading="lazy" decoding="async" /><span>Laguardia</span></a></li><li><a href="/blog/merindades-burgos-que-ver.html"><img src="/assets/img/instagram/18077362268036595.webp" alt="Merindades de Burgos" loading="lazy" decoding="async" /><span>Merindades de Burgos</span></a></li></ul>

@@ -11,6 +11,20 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+faqTitulo: "Dudas sobre las Hoces del Duratón"
+faq:
+  - q: "¿Cómo se llega a la ermita de San Frutos?"
+    a: "Desde Villaseca, por una pista de unos 4 km hasta el aparcamiento de San Frutos, y desde allí unos 20 minutos andando."
+  - q: "¿Se puede hacer kayak en las Hoces del Duratón?"
+    a: "Sí, con empresas autorizadas y respetando las restricciones de la época de cría. Consulta en la Casa del Parque."
+  - q: "¿Qué es La Cuchillada?"
+    a: "Una grieta en la roca junto a la ermita. Según la leyenda, la abrió San Frutos con su cayado para escapar de sus perseguidores."
+  - q: "¿Hay buitres en las Hoces del Duratón?"
+    a: "Sí, una de las mayores colonias de buitres leonados de Europa."
+  - q: "¿Dónde están las Hoces del Duratón?"
+    a: "En el nordeste de Segovia, entre Sepúlveda y el embalse de Burgomillodo, a hora y media de Madrid."
+  - q: "¿Cuánto cuesta visitar las Hoces del Duratón?"
+    a: "Es gratis. Para San Frutos, ve hasta Villaseca, sigue la pista de 4 km hasta el aparcamiento y camina unos 20 minutos."
 ---
 Un río que serpentea en curvas imposibles al fondo de un cañón, cientos de **buitres** planeando a la altura de tus ojos y, en lo alto de un meandro, las ruinas de un priorato románico al borde del precipicio. Así son las **Hoces del Duratón**.
 
@@ -41,9 +55,7 @@ A una hora y media de Madrid, es uno de los paisajes más bestias del centro de 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Respeta la época de cría</b>: de enero a julio muchas zonas tienen restricciones para proteger a las aves.</li><li><b>No salgas de los senderos</b>: y no hagas ruido: los buitres crían en las paredes.</li><li><b>Ve al atardecer</b>: los buitres vuelven a sus repisas y la luz sobre el cañón es preciosa.</li><li><b>Come cordero en Sepúlveda</b>: es parada obligada.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre las Hoces del Duratón</h2></div>
-<div class="faq"><details><summary>¿Cómo se llega a la ermita de San Frutos?</summary><p>Desde Villaseca, por una pista de unos 4 km hasta el aparcamiento de San Frutos, y desde allí unos 20 minutos andando.</p></details><details><summary>¿Se puede hacer kayak en las Hoces del Duratón?</summary><p>Sí, con empresas autorizadas y respetando las restricciones de la época de cría. Consulta en la Casa del Parque.</p></details><details><summary>¿Qué es La Cuchillada?</summary><p>Una grieta en la roca junto a la ermita. Según la leyenda, la abrió San Frutos con su cayado para escapar de sus perseguidores.</p></details><details><summary>¿Hay buitres en las Hoces del Duratón?</summary><p>Sí, una de las mayores colonias de buitres leonados de Europa.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cómo se llega a la ermita de San Frutos?", "acceptedAnswer": {"@type": "Answer", "text": "Desde Villaseca, por una pista de unos 4 km hasta el aparcamiento de San Frutos, y desde allí unos 20 minutos andando."}}, {"@type": "Question", "name": "¿Se puede hacer kayak en las Hoces del Duratón?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, con empresas autorizadas y respetando las restricciones de la época de cría. Consulta en la Casa del Parque."}}, {"@type": "Question", "name": "¿Qué es La Cuchillada?", "acceptedAnswer": {"@type": "Answer", "text": "Una grieta en la roca junto a la ermita. Según la leyenda, la abrió San Frutos con su cayado para escapar de sus perseguidores."}}, {"@type": "Question", "name": "¿Hay buitres en las Hoces del Duratón?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, una de las mayores colonias de buitres leonados de Europa."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/pedraza-que-ver.html"><img src="/assets/img/instagram/18089113739420968.webp" alt="Pedraza" loading="lazy" decoding="async" /><span>Pedraza</span></a></li><li><a href="/blog/acueducto-de-segovia.html"><img src="/assets/img/blog/acueducto-de-segovia/acueducto.webp" alt="Segovia" loading="lazy" decoding="async" /><span>Segovia</span></a></li><li><a href="/blog/buitrago-del-lozoya-que-ver.html"><img src="/assets/img/instagram/18567364960036817.webp" alt="Buitrago del Lozoya" loading="lazy" decoding="async" /><span>Buitrago del Lozoya</span></a></li></ul>

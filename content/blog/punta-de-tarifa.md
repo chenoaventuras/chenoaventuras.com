@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre la Punta de Tarifa"
+faq:
+  - q: "¿Cuál es el punto más al sur de Europa?"
+    a: "De la Europa continental, la Punta de Tarifa (Cádiz)."
+  - q: "¿Se puede entrar en la Isla de las Palomas?"
+    a: "Es zona militar; solo se accede al interior con visitas organizadas. El camino hasta la entrada es libre."
+  - q: "¿A qué distancia está África?"
+    a: "A unos 14 km en el punto más estrecho del Estrecho de Gibraltar."
+  - q: "¿Dónde se juntan el Atlántico y el Mediterráneo?"
+    a: "En la Punta de Tarifa, donde hay un cartel que lo marca."
+  - q: "¿Cómo llegar a la Punta de Tarifa?"
+    a: "Desde el puerto de Tarifa sale el camino a la Isla de las Palomas. Hasta la entrada es libre, y allí está el cartel que separa los dos mares."
 ---
 A un lado, el **Atlántico**. Al otro, el **Mediterráneo**. Y enfrente, a solo **14 km**, **África**. La **Punta de Tarifa** es el **punto más al sur de la Europa continental**.
 
@@ -38,9 +50,7 @@ Te cuento cómo llegar al cartel de los dos mares y qué más hacer en Tarifa �
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira el viento</b>: con Levante fuerte, el camino es una aventura. Agárrate el sombrero.</li><li><b>Avistamiento de cetáceos</b>: desde Tarifa salen barcos para ver delfines y orcas en el Estrecho.</li><li><b>Bolonia</b>: las dunas y las ruinas romanas de Baelo Claudia, a 20 minutos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Punta de Tarifa</h2></div>
-<div class="faq"><details><summary>¿Cuál es el punto más al sur de Europa?</summary><p>De la Europa continental, la Punta de Tarifa (Cádiz).</p></details><details><summary>¿Se puede entrar en la Isla de las Palomas?</summary><p>Es zona militar; solo se accede al interior con visitas organizadas. El camino hasta la entrada es libre.</p></details><details><summary>¿A qué distancia está África?</summary><p>A unos 14 km en el punto más estrecho del Estrecho de Gibraltar.</p></details><details><summary>¿Dónde se juntan el Atlántico y el Mediterráneo?</summary><p>En la Punta de Tarifa, donde hay un cartel que lo marca.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es el punto más al sur de Europa?", "acceptedAnswer": {"@type": "Answer", "text": "De la Europa continental, la Punta de Tarifa (Cádiz)."}}, {"@type": "Question", "name": "¿Se puede entrar en la Isla de las Palomas?", "acceptedAnswer": {"@type": "Answer", "text": "Es zona militar; solo se accede al interior con visitas organizadas. El camino hasta la entrada es libre."}}, {"@type": "Question", "name": "¿A qué distancia está África?", "acceptedAnswer": {"@type": "Answer", "text": "A unos 14 km en el punto más estrecho del Estrecho de Gibraltar."}}, {"@type": "Question", "name": "¿Dónde se juntan el Atlántico y el Mediterráneo?", "acceptedAnswer": {"@type": "Answer", "text": "En la Punta de Tarifa, donde hay un cartel que lo marca."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/ceuta-que-ver.html"><img src="/assets/img/blog/ceuta-que-ver/portada.webp" alt="Ceuta" loading="lazy" decoding="async" /><span>Ceuta</span></a></li><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li></ul>

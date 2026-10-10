@@ -11,6 +11,17 @@ tags:
   - Curiosidades
   - Andalucía
 wide: true
+faq:
+  - q: "¿Qué pasó en Palomares?"
+    a: "En 1966 dos aviones de EE. UU. chocaron y cayeron cuatro bombas termonucleares que no explotaron."
+  - q: "¿Dónde se bañó Fraga?"
+    a: "En la playa de Quitapellejos, en Palomares, en marzo de 1966."
+  - q: "¿Quién era Paco el de la bomba?"
+    a: "Francisco Simó, el pescador que ayudó a encontrar la bomba caída al mar."
+  - q: "¿Sigue contaminado Palomares?"
+    a: "Hay terrenos vallados con restos de plutonio pendientes de limpieza."
+  - q: "¿Dónde está Palomares?"
+    a: "En el municipio de Cuevas del Almanzora (Almería), a pocos minutos de las playas de Vera y Mojácar."
 ---
 El **17 de enero de 1966**, un bombardero B-52 y un avión cisterna de Estados Unidos chocaron en el cielo de **Palomares** (Almería). Cayeron **cuatro bombas termonucleares**. Ninguna explotó, pero la historia es de película.
 
@@ -38,9 +49,7 @@ Te cuento qué pasó, la búsqueda de la bomba perdida y el baño más famoso de
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Respeta las vallas</b>: las zonas cercadas son las que aún tienen restos de contaminación.</li><li><b>Mojácar</b>: uno de los pueblos blancos más bonitos de Almería, a 15 minutos.</li><li><b>Cabo de Gata</b>: a una hora, con playas salvajes.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Palomares</h2></div>
-<div class="faq"><details><summary>¿Qué pasó en Palomares?</summary><p>En 1966 dos aviones de EE. UU. chocaron y cayeron cuatro bombas termonucleares que no explotaron.</p></details><details><summary>¿Dónde se bañó Fraga?</summary><p>En la playa de Quitapellejos, en Palomares, en marzo de 1966.</p></details><details><summary>¿Quién era Paco el de la bomba?</summary><p>Francisco Simó, el pescador que ayudó a encontrar la bomba caída al mar.</p></details><details><summary>¿Sigue contaminado Palomares?</summary><p>Hay terrenos vallados con restos de plutonio pendientes de limpieza.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué pasó en Palomares?", "acceptedAnswer": {"@type": "Answer", "text": "En 1966 dos aviones de EE. UU. chocaron y cayeron cuatro bombas termonucleares que no explotaron."}}, {"@type": "Question", "name": "¿Dónde se bañó Fraga?", "acceptedAnswer": {"@type": "Answer", "text": "En la playa de Quitapellejos, en Palomares, en marzo de 1966."}}, {"@type": "Question", "name": "¿Quién era Paco el de la bomba?", "acceptedAnswer": {"@type": "Answer", "text": "Francisco Simó, el pescador que ayudó a encontrar la bomba caída al mar."}}, {"@type": "Question", "name": "¿Sigue contaminado Palomares?", "acceptedAnswer": {"@type": "Answer", "text": "Hay terrenos vallados con restos de plutonio pendientes de limpieza."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/cabo-de-gata-que-ver.html"><img src="/assets/img/blog/cabo-de-gata-que-ver/portada.webp" alt="Cabo de Gata" loading="lazy" decoding="async" /><span>Cabo de Gata</span></a></li><li><a href="/blog/desierto-de-tabernas.html"><img src="/assets/img/blog/desierto-de-tabernas/portada.webp" alt="Desierto de Tabernas" loading="lazy" decoding="async" /><span>Desierto de Tabernas</span></a></li><li><a href="/blog/naufragio-del-sirio.html"><img src="/assets/img/blog/naufragio-del-sirio/portada.webp" alt="Naufragio del Sirio" loading="lazy" decoding="async" /><span>Naufragio del Sirio</span></a></li></ul>

@@ -11,6 +11,17 @@ tags:
   - Curiosidades
   - Cataluña
 wide: true
+faq:
+  - q: "¿Por qué Llívia es de España si está en Francia?"
+    a: "Por el Tratado de los Pirineos (1659): según la explicación tradicional, Llívia era villa y el tratado solo cedía pueblos."
+  - q: "¿Hay que pasar por Francia para llegar a Llívia?"
+    a: "Sí, unos kilómetros de carretera francesa separan Llívia de Puigcerdà."
+  - q: "¿Qué es la farmacia de Llívia?"
+    a: "La farmacia Esteve, una de las más antiguas de Europa, que se conserva en el Museo Municipal."
+  - q: "¿Hay control de frontera?"
+    a: "No, se cruza libremente."
+  - q: "¿Cómo llegar a Llívia?"
+    a: "Desde Puigcerdà, a unos 6 km, por una carretera que cruza territorio francés sin controles."
 ---
 Para llegar a **Llívia** desde España tienes que **pasar por Francia**. Este pueblo de la Cerdanya (Girona) está **totalmente rodeado de territorio francés**: es un enclave, una isla de España dentro de otro país.
 
@@ -38,9 +49,7 @@ Te cuento cómo pasó, qué es la carretera «neutral» y la farmacia medieval q
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira las señales</b>: al cruzar verás señales en francés y luego otra vez en catalán y castellano.</li><li><b>En invierno</b>: la Cerdanya es zona de esquí: La Molina y Masella están cerca.</li><li><b>Puigcerdà</b>: combínalo con su lago y su casco antiguo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Llívia</h2></div>
-<div class="faq"><details><summary>¿Por qué Llívia es de España si está en Francia?</summary><p>Por el Tratado de los Pirineos (1659): según la explicación tradicional, Llívia era villa y el tratado solo cedía pueblos.</p></details><details><summary>¿Hay que pasar por Francia para llegar a Llívia?</summary><p>Sí, unos kilómetros de carretera francesa separan Llívia de Puigcerdà.</p></details><details><summary>¿Qué es la farmacia de Llívia?</summary><p>La farmacia Esteve, una de las más antiguas de Europa, que se conserva en el Museo Municipal.</p></details><details><summary>¿Hay control de frontera?</summary><p>No, se cruza libremente.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué Llívia es de España si está en Francia?", "acceptedAnswer": {"@type": "Answer", "text": "Por el Tratado de los Pirineos (1659): según la explicación tradicional, Llívia era villa y el tratado solo cedía pueblos."}}, {"@type": "Question", "name": "¿Hay que pasar por Francia para llegar a Llívia?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, unos kilómetros de carretera francesa separan Llívia de Puigcerdà."}}, {"@type": "Question", "name": "¿Qué es la farmacia de Llívia?", "acceptedAnswer": {"@type": "Answer", "text": "La farmacia Esteve, una de las más antiguas de Europa, que se conserva en el Museo Municipal."}}, {"@type": "Question", "name": "¿Hay control de frontera?", "acceptedAnswer": {"@type": "Answer", "text": "No, se cruza libremente."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li><li><a href="/blog/cabo-de-creus.html"><img src="/assets/img/blog/cabo-de-creus/paisaje.webp" alt="Cabo de Creus" loading="lazy" decoding="async" /><span>Cabo de Creus</span></a></li></ul>

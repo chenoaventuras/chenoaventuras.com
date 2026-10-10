@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Comunidad Valenciana
 wide: true
+faq:
+  - q: "¿Cuánto cuesta entrar al castillo de Peñíscola?"
+    a: "La entrada general cuesta unos 5 €. Consulta horarios y tarifas actualizadas en la web municipal."
+  - q: "¿Qué se rodó en Peñíscola de Juego de Tronos?"
+    a: "El casco antiguo de Peñíscola fue la ciudad de Meereen en la sexta temporada de la serie."
+  - q: "¿Qué es el Bufador de Peñíscola?"
+    a: "Una grieta natural en la roca del casco antiguo conectada con el mar por la que el agua sale disparada los días de temporal."
+  - q: "¿Por qué se dice «seguir en sus trece»?"
+    a: "Por el Papa Luna, Benedicto XIII, que se negó a renunciar al papado y se refugió en el castillo de Peñíscola hasta su muerte."
+  - q: "¿A cuánto está Peñíscola de Valencia?"
+    a: "A hora y media en coche. Está en el norte de Castellón, en la Costa del Azahar, a unas dos horas de Tarragona."
 ---
 Un peñón rodeado de mar casi por completo, con casas blancas trepando por la roca, murallas y un castillo templario en lo alto. **Peñíscola** es uno de los pueblos costeros más bonitos del Mediterráneo, y tiene historia de película: aquí vivió un papa «rebelde» y aquí se rodó **Juego de Tronos**.
 
@@ -41,9 +52,7 @@ Te cuento qué ver, sus curiosidades y una ruta de costa salvaje a pocos minutos
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Sube al castillo a primera hora</b>: antes del calor y de los grupos.</li><li><b>Busca el Bufador un día de mar movida</b>: con el mar en calma apenas se nota.</li><li><b>Haz un tramo de la Serra d'Irta</b>: a pie o en bici por la pista que bordea la costa.</li><li><b>Ve fuera de agosto</b>: en primavera y otoño se disfruta muchísimo más.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Peñíscola</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar al castillo de Peñíscola?</summary><p>La entrada general cuesta unos 5 €. Consulta horarios y tarifas actualizadas en la web municipal.</p></details><details><summary>¿Qué se rodó en Peñíscola de Juego de Tronos?</summary><p>El casco antiguo de Peñíscola fue la ciudad de Meereen en la sexta temporada de la serie.</p></details><details><summary>¿Qué es el Bufador de Peñíscola?</summary><p>Una grieta natural en la roca del casco antiguo conectada con el mar por la que el agua sale disparada los días de temporal.</p></details><details><summary>¿Por qué se dice «seguir en sus trece»?</summary><p>Por el Papa Luna, Benedicto XIII, que se negó a renunciar al papado y se refugió en el castillo de Peñíscola hasta su muerte.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar al castillo de Peñíscola?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta unos 5 €. Consulta horarios y tarifas actualizadas en la web municipal."}}, {"@type": "Question", "name": "¿Qué se rodó en Peñíscola de Juego de Tronos?", "acceptedAnswer": {"@type": "Answer", "text": "El casco antiguo de Peñíscola fue la ciudad de Meereen en la sexta temporada de la serie."}}, {"@type": "Question", "name": "¿Qué es el Bufador de Peñíscola?", "acceptedAnswer": {"@type": "Answer", "text": "Una grieta natural en la roca del casco antiguo conectada con el mar por la que el agua sale disparada los días de temporal."}}, {"@type": "Question", "name": "¿Por qué se dice «seguir en sus trece»?", "acceptedAnswer": {"@type": "Answer", "text": "Por el Papa Luna, Benedicto XIII, que se negó a renunciar al papado y se refugió en el castillo de Peñíscola hasta su muerte."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Mediterráneo</span><h2>Sigue por la costa</h2></div>
 <ul class="nearby"><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.webp" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li><li><a href="/blog/altea-que-ver-costa-blanca.html"><img src="/assets/img/blog/uploads/altea-horizontal.webp" alt="Altea" loading="lazy" decoding="async" /><span>Altea</span></a></li><li><a href="/blog/fuente-de-los-banos-montanejos.html"><img src="/assets/img/instagram/18070045547016448.webp" alt="Fuente de los Baños (Montanejos)" loading="lazy" decoding="async" /><span>Fuente de los Baños (Montanejos)</span></a></li></ul>

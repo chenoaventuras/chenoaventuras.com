@@ -11,6 +11,19 @@ tags:
   - Curiosidades
   - Extremadura
 wide: true
+faq:
+  - q: "¿Por qué está abandonado Granadilla?"
+    a: "Fue expropiado hacia 1960 al construirse el embalse de Gabriel y Galán, aunque el agua nunca lo cubrió."
+  - q: "¿Se puede visitar Granadilla?"
+    a: "Sí, gratis y con horario de visita."
+  - q: "¿Vive alguien en Granadilla?"
+    a: "No hay vecinos; en verano acuden estudiantes a restaurarlo."
+  - q: "¿Dónde está?"
+    a: "En el norte de Cáceres, en el municipio de Zarza de Granadilla."
+  - q: "¿Cómo llegar a Granadilla?"
+    a: "En coche: está junto al embalse de Gabriel y Galán, en el norte de Cáceres, a unos 35 minutos de Plasencia."
+  - q: "¿Cuánto cuesta visitar Granadilla?"
+    a: "Es gratis, pero tiene horario de visita y cierra algunos días: consúltalo antes de ir."
 ---
 Un pueblo con **muralla**, **castillo** y casas de colores... y sin vecinos. **Granadilla**, en el norte de Cáceres, fue **desalojado** en los años 60 porque iba a quedar bajo un pantano. Lo curioso es que **el agua nunca llegó a cubrirlo**.
 
@@ -38,9 +51,7 @@ Te cuento su historia, cómo lo están recuperando y cómo visitarlo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira el horario</b>: cierra a mediodía y algunos días de la semana.</li><li><b>Atardecer</b>: desde la muralla, con el sol sobre el embalse.</li><li><b>Hervás</b>: su barrio judío está a media hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Granadilla</h2></div>
-<div class="faq"><details><summary>¿Por qué está abandonado Granadilla?</summary><p>Fue expropiado hacia 1960 al construirse el embalse de Gabriel y Galán, aunque el agua nunca lo cubrió.</p></details><details><summary>¿Se puede visitar Granadilla?</summary><p>Sí, gratis y con horario de visita.</p></details><details><summary>¿Vive alguien en Granadilla?</summary><p>No hay vecinos; en verano acuden estudiantes a restaurarlo.</p></details><details><summary>¿Dónde está?</summary><p>En el norte de Cáceres, en el municipio de Zarza de Granadilla.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué está abandonado Granadilla?", "acceptedAnswer": {"@type": "Answer", "text": "Fue expropiado hacia 1960 al construirse el embalse de Gabriel y Galán, aunque el agua nunca lo cubrió."}}, {"@type": "Question", "name": "¿Se puede visitar Granadilla?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, gratis y con horario de visita."}}, {"@type": "Question", "name": "¿Vive alguien en Granadilla?", "acceptedAnswer": {"@type": "Answer", "text": "No hay vecinos; en verano acuden estudiantes a restaurarlo."}}, {"@type": "Question", "name": "¿Dónde está?", "acceptedAnswer": {"@type": "Answer", "text": "En el norte de Cáceres, en el municipio de Zarza de Granadilla."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li><li><a href="/blog/los-pilones-jerte.html"><img src="/assets/img/blog/los-pilones-jerte/portada.webp" alt="Los Pilones" loading="lazy" decoding="async" /><span>Los Pilones</span></a></li><li><a href="/blog/ciudad-rodrigo-que-ver.html"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/portada.webp" alt="Ciudad Rodrigo" loading="lazy" decoding="async" /><span>Ciudad Rodrigo</span></a></li></ul>

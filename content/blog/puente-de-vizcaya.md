@@ -11,6 +11,20 @@ tags:
   - Spots
   - País Vasco
 wide: true
+faqTitulo: "Dudas sobre el Puente de Vizcaya"
+faq:
+  - q: "¿Cuánto cuesta cruzar el Puente de Vizcaya?"
+    a: "En barquilla, menos de 1 euro por persona. La pasarela superior cuesta unos 11 euros ida y vuelta."
+  - q: "¿Qué horario tiene el Puente de Vizcaya?"
+    a: "La barquilla funciona todos los días del año; la pasarela tiene horario propio según la época."
+  - q: "¿Por qué se llama Puente Colgante?"
+    a: "Porque la barquilla que cruza la ría va colgada de la estructura superior."
+  - q: "¿Qué une el Puente de Vizcaya?"
+    a: "Portugalete y Las Arenas (Getxo), a ambos lados de la ría de Bilbao."
+  - q: "¿Se puede cruzar el Puente de Vizcaya en coche?"
+    a: "Sí, la barquilla colgada lleva coches y personas de una orilla a otra. También puedes cruzar a pie por arriba, a 45 metros de altura."
+  - q: "¿Dónde está el Puente de Vizcaya?"
+    a: "Une Portugalete y Las Arenas (Getxo), a ambos lados de la ría de Bilbao."
 ---
 Ni se levanta ni tiene carretera: el **Puente de Vizcaya** cruza la ría con una **barquilla colgada** que lleva coches y personas de una orilla a otra. Fue el **primer puente transbordador del mundo** y es Patrimonio de la Humanidad.
 
@@ -39,9 +53,7 @@ Además, puedes cruzarlo por arriba, a 45 metros de altura. Te cuento precios y 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz las dos</b>: cruza abajo en barquilla y vuelve por arriba en la pasarela.</li><li><b>Día despejado</b>: desde la pasarela se ve hasta el mar Cantábrico.</li><li><b>Si te da vértigo</b>: el suelo de la pasarela es de rejilla: lo verás todo bajo tus pies.</li><li><b>Pintxos en Portugalete</b>: termina en el casco viejo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Puente de Vizcaya</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta cruzar el Puente de Vizcaya?</summary><p>En barquilla, menos de 1 euro por persona. La pasarela superior cuesta unos 11 euros ida y vuelta.</p></details><details><summary>¿Qué horario tiene el Puente de Vizcaya?</summary><p>La barquilla funciona todos los días del año; la pasarela tiene horario propio según la época.</p></details><details><summary>¿Por qué se llama Puente Colgante?</summary><p>Porque la barquilla que cruza la ría va colgada de la estructura superior.</p></details><details><summary>¿Qué une el Puente de Vizcaya?</summary><p>Portugalete y Las Arenas (Getxo), a ambos lados de la ría de Bilbao.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta cruzar el Puente de Vizcaya?", "acceptedAnswer": {"@type": "Answer", "text": "En barquilla, menos de 1 euro por persona. La pasarela superior cuesta unos 11 euros ida y vuelta."}}, {"@type": "Question", "name": "¿Qué horario tiene el Puente de Vizcaya?", "acceptedAnswer": {"@type": "Answer", "text": "La barquilla funciona todos los días del año; la pasarela tiene horario propio según la época."}}, {"@type": "Question", "name": "¿Por qué se llama Puente Colgante?", "acceptedAnswer": {"@type": "Answer", "text": "Porque la barquilla que cruza la ría va colgada de la estructura superior."}}, {"@type": "Question", "name": "¿Qué une el Puente de Vizcaya?", "acceptedAnswer": {"@type": "Answer", "text": "Portugalete y Las Arenas (Getxo), a ambos lados de la ría de Bilbao."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li><li><a href="/blog/castillo-de-butron.html"><img src="/assets/img/blog/castillo-de-butron/portada.webp" alt="Castillo de Butrón" loading="lazy" decoding="async" /><span>Castillo de Butrón</span></a></li><li><a href="/blog/bosque-de-oma.html"><img src="/assets/img/blog/bosque-de-oma/portada.webp" alt="Bosque de Oma" loading="lazy" decoding="async" /><span>Bosque de Oma</span></a></li></ul>

@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+faq:
+  - q: "¿Setenil de las Bodegas es de Cádiz o de Málaga?"
+    a: "Es de la provincia de Cádiz, aunque está justo en el límite con Málaga y muy cerca de Ronda."
+  - q: "¿Cuánto tiempo se necesita para ver Setenil?"
+    a: "Con 2-3 horas puedes recorrer el pueblo con calma. Si quieres comer allí y subir a la torre, cuenta medio día."
+  - q: "¿Por qué las casas están bajo la roca?"
+    a: "El río Trejo excavó un tajo en la roca y sus habitantes aprovecharon los huecos para construir: la roca hace de tejado y de pared, y mantiene una temperatura agradable todo el año."
+  - q: "¿De dónde viene el nombre de Setenil?"
+    a: "Según la leyenda, de «septem nihil» («siete veces nada»): los cristianos intentaron conquistarla siete veces sin éxito antes de tomarla en 1484."
+  - q: "¿A cuánto está Setenil de las Bodegas de Ronda?"
+    a: "A unos 20 minutos en coche."
 ---
 Hay pueblos blancos bonitos… y luego está **Setenil de las Bodegas**. Aquí, en vez de construir casas en una ladera, la gente aprovechó el tajo que abrió el río Trejo y **metió las casas debajo de la roca**: la propia piedra hace de tejado. Pasear por algunas calles es literalmente caminar por debajo de una montaña.
 
@@ -41,9 +52,7 @@ Te cuento qué ver, el origen de su curioso nombre y cómo llegar 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve entre semana</b>: los fines de semana y puentes se llena de visitantes.</li><li><b>Prueba los productos locales</b>: chacinas, quesos de la sierra y aceite: los bares bajo la roca son el sitio perfecto.</li><li><b>Combínalo con Ronda</b>: están a 20 minutos y juntos hacen un día redondo.</li><li><b>Aparca fuera</b>: entrar con el coche por las calles estrechas es una aventura que no merece la pena.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Setenil de las Bodegas</h2></div>
-<div class="faq"><details><summary>¿Setenil de las Bodegas es de Cádiz o de Málaga?</summary><p>Es de la provincia de Cádiz, aunque está justo en el límite con Málaga y muy cerca de Ronda.</p></details><details><summary>¿Cuánto tiempo se necesita para ver Setenil?</summary><p>Con 2-3 horas puedes recorrer el pueblo con calma. Si quieres comer allí y subir a la torre, cuenta medio día.</p></details><details><summary>¿Por qué las casas están bajo la roca?</summary><p>El río Trejo excavó un tajo en la roca y sus habitantes aprovecharon los huecos para construir: la roca hace de tejado y de pared, y mantiene una temperatura agradable todo el año.</p></details><details><summary>¿De dónde viene el nombre de Setenil?</summary><p>Según la leyenda, de «septem nihil» («siete veces nada»): los cristianos intentaron conquistarla siete veces sin éxito antes de tomarla en 1484.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Setenil de las Bodegas es de Cádiz o de Málaga?", "acceptedAnswer": {"@type": "Answer", "text": "Es de la provincia de Cádiz, aunque está justo en el límite con Málaga y muy cerca de Ronda."}}, {"@type": "Question", "name": "¿Cuánto tiempo se necesita para ver Setenil?", "acceptedAnswer": {"@type": "Answer", "text": "Con 2-3 horas puedes recorrer el pueblo con calma. Si quieres comer allí y subir a la torre, cuenta medio día."}}, {"@type": "Question", "name": "¿Por qué las casas están bajo la roca?", "acceptedAnswer": {"@type": "Answer", "text": "El río Trejo excavó un tajo en la roca y sus habitantes aprovecharon los huecos para construir: la roca hace de tejado y de pared, y mantiene una temperatura agradable todo el año."}}, {"@type": "Question", "name": "¿De dónde viene el nombre de Setenil?", "acceptedAnswer": {"@type": "Answer", "text": "Según la leyenda, de «septem nihil» («siete veces nada»): los cristianos intentaron conquistarla siete veces sin éxito antes de tomarla en 1484."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando el sur</h2></div>
 <ul class="nearby"><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/los-cahorros-de-monachil.html"><img src="/assets/img/blog/los-cahorros-de-monachil/portada.webp" alt="Los Cahorros de Monachil" loading="lazy" decoding="async" /><span>Los Cahorros de Monachil</span></a></li></ul>

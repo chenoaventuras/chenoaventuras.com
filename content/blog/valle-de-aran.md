@@ -11,6 +11,18 @@ tags:
   - Spots
   - Cataluña
 wide: true
+faqTitulo: "Dudas sobre el Valle de Arán"
+faq:
+  - q: "¿Qué ver en el Valle de Arán?"
+    a: "La cascada del Saut deth Pish, los Uelhs deth Joèu en la Artiga de Lin, Vielha, pueblos como Salardú, Arties o Bossòst, y el santuario de Montgarri."
+  - q: "¿Qué idioma se habla en el Valle de Arán?"
+    a: "El aranés, una variante del occitano, oficial en el valle junto al catalán y el castellano."
+  - q: "¿Cuándo es mejor ir al Valle de Arán?"
+    a: "Verano y otoño para senderismo y paisaje; invierno para esquí y raquetas de nieve."
+  - q: "¿Por qué se dice que es un valle atlántico?"
+    a: "Porque sus aguas van al río Garona, que desemboca en el Atlántico, a diferencia del resto de ríos de Cataluña, que van al Mediterráneo."
+  - q: "¿Cómo llegar al Valle de Arán desde Barcelona?"
+    a: "En coche, en unas 4 horas, entrando por el túnel de Vielha."
 ---
 Un valle verde en pleno Pirineo donde los ríos corren hacia el Atlántico, se habla su propia lengua y cada pueblo tiene su iglesia románica de piedra. El **Valle de Arán** es mucho más que Baqueira: es cascadas, bosques, pueblos con tejados de pizarra y rutas para todos los niveles.
 
@@ -41,9 +53,7 @@ Te cuento los rincones imprescindibles y qué aventuras hacer según la época �
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve en otoño</b>: los bosques de hayas y abetos se tiñen de colores.</li><li><b>Prueba la olla aranesa</b>: el plato típico del valle, perfecto después de una ruta.</li><li><b>Haz rafting en el Garona</b>: en primavera y verano, con empresas locales.</li><li><b>Raquetas de nieve en invierno</b>: Montgarri o el Pla de Beret son clásicos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Valle de Arán</h2></div>
-<div class="faq"><details><summary>¿Qué ver en el Valle de Arán?</summary><p>La cascada del Saut deth Pish, los Uelhs deth Joèu en la Artiga de Lin, Vielha, pueblos como Salardú, Arties o Bossòst, y el santuario de Montgarri.</p></details><details><summary>¿Qué idioma se habla en el Valle de Arán?</summary><p>El aranés, una variante del occitano, oficial en el valle junto al catalán y el castellano.</p></details><details><summary>¿Cuándo es mejor ir al Valle de Arán?</summary><p>Verano y otoño para senderismo y paisaje; invierno para esquí y raquetas de nieve.</p></details><details><summary>¿Por qué se dice que es un valle atlántico?</summary><p>Porque sus aguas van al río Garona, que desemboca en el Atlántico, a diferencia del resto de ríos de Cataluña, que van al Mediterráneo.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en el Valle de Arán?", "acceptedAnswer": {"@type": "Answer", "text": "La cascada del Saut deth Pish, los Uelhs deth Joèu en la Artiga de Lin, Vielha, pueblos como Salardú, Arties o Bossòst, y el santuario de Montgarri."}}, {"@type": "Question", "name": "¿Qué idioma se habla en el Valle de Arán?", "acceptedAnswer": {"@type": "Answer", "text": "El aranés, una variante del occitano, oficial en el valle junto al catalán y el castellano."}}, {"@type": "Question", "name": "¿Cuándo es mejor ir al Valle de Arán?", "acceptedAnswer": {"@type": "Answer", "text": "Verano y otoño para senderismo y paisaje; invierno para esquí y raquetas de nieve."}}, {"@type": "Question", "name": "¿Por qué se dice que es un valle atlántico?", "acceptedAnswer": {"@type": "Answer", "text": "Porque sus aguas van al río Garona, que desemboca en el Atlántico, a diferencia del resto de ríos de Cataluña, que van al Mediterráneo."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Pirineo</span><h2>Más Pirineo</h2></div>
 <ul class="nearby"><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Pirineo Aragonés" loading="lazy" decoding="async" /><span>Pirineo Aragonés</span></a></li><li><a href="/blog/ibon-de-anayet.html"><img src="/assets/img/blog/pirineo/anayet.webp" alt="Ibón de Anayet" loading="lazy" decoding="async" /><span>Ibón de Anayet</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li></ul>

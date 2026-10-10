@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Cantabria
 wide: true
+faq:
+  - q: "¿Cuánto cuesta entrar en El Capricho de Gaudí?"
+    a: "La visita libre cuesta 7 € y la visita guiada 10 €. También hay entradas flexibles, sin hora fija, de 10 € (libre) y 15 € (guiada)."
+  - q: "¿Qué horario tiene El Capricho de Gaudí?"
+    a: "Abre todos los días desde las 10:00 y cierra a las 17:30 en invierno, a las 20:00 en primavera y otoño y a las 21:00 en julio y agosto. Cierra el 24, 25 y 31 de diciembre y el 1 y 6 de enero."
+  - q: "¿Cuánto dura la visita a El Capricho?"
+    a: "Unos 45 minutos la visita libre y alrededor de una hora la guiada."
+  - q: "¿Qué más hay que ver en Comillas?"
+    a: "El Palacio de Sobrellano, el cementerio con el ángel exterminador, la Universidad Pontificia, el casco antiguo y la playa."
+  - q: "¿A cuánto está Comillas de Santander?"
+    a: "A unos 50 km por la autovía A-8, unos 40 minutos en coche."
 ---
 Un pueblo marinero de Cantabria con una **casa de Gaudí** cubierta de girasoles, un palacio neogótico, un ángel gigante vigilando un cementerio en ruinas y una universidad que parece un castillo. **Comillas** es el pueblo modernista por excelencia del norte, y además tiene playa.
 
@@ -43,9 +54,7 @@ Te cuento qué ver, cuánto cuesta El Capricho y algunas curiosidades 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz la visita guiada</b>: te enseñan los trucos de la casa, como las ventanas musicales.</li><li><b>Sube al cementerio al atardecer</b>: el ángel a contraluz es una foto espectacular.</li><li><b>Baja a la playa</b>: la playa de Comillas y el puerto están a cinco minutos del centro.</li><li><b>Combínalo con la costa</b>: San Vicente de la Barquera y Santillana del Mar están muy cerca.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Comillas</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar en El Capricho de Gaudí?</summary><p>La visita libre cuesta 7 € y la visita guiada 10 €. También hay entradas flexibles, sin hora fija, de 10 € (libre) y 15 € (guiada).</p></details><details><summary>¿Qué horario tiene El Capricho de Gaudí?</summary><p>Abre todos los días desde las 10:00 y cierra a las 17:30 en invierno, a las 20:00 en primavera y otoño y a las 21:00 en julio y agosto. Cierra el 24, 25 y 31 de diciembre y el 1 y 6 de enero.</p></details><details><summary>¿Cuánto dura la visita a El Capricho?</summary><p>Unos 45 minutos la visita libre y alrededor de una hora la guiada.</p></details><details><summary>¿Qué más hay que ver en Comillas?</summary><p>El Palacio de Sobrellano, el cementerio con el ángel exterminador, la Universidad Pontificia, el casco antiguo y la playa.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar en El Capricho de Gaudí?", "acceptedAnswer": {"@type": "Answer", "text": "La visita libre cuesta 7 € y la visita guiada 10 €. También hay entradas flexibles, sin hora fija, de 10 € (libre) y 15 € (guiada)."}}, {"@type": "Question", "name": "¿Qué horario tiene El Capricho de Gaudí?", "acceptedAnswer": {"@type": "Answer", "text": "Abre todos los días desde las 10:00 y cierra a las 17:30 en invierno, a las 20:00 en primavera y otoño y a las 21:00 en julio y agosto. Cierra el 24, 25 y 31 de diciembre y el 1 y 6 de enero."}}, {"@type": "Question", "name": "¿Cuánto dura la visita a El Capricho?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 45 minutos la visita libre y alrededor de una hora la guiada."}}, {"@type": "Question", "name": "¿Qué más hay que ver en Comillas?", "acceptedAnswer": {"@type": "Answer", "text": "El Palacio de Sobrellano, el cementerio con el ángel exterminador, la Universidad Pontificia, el casco antiguo y la playa."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Cantabria</span><h2>Sigue por Cantabria</h2></div>
 <ul class="nearby"><li><a href="/blog/partenon-de-las-fraguas-cantabria.html"><img src="/assets/img/instagram/18073249217294344.webp" alt="El Partenón de Las Fraguas" loading="lazy" decoding="async" /><span>El Partenón de Las Fraguas</span></a></li><li><a href="/blog/maquina-leche-reinosa-cantabria.html"><img src="/assets/img/instagram/18096151186984775.webp" alt="La máquina de leche de Reinosa" loading="lazy" decoding="async" /><span>La máquina de leche de Reinosa</span></a></li><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li></ul>

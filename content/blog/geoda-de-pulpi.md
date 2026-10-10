@@ -11,6 +11,20 @@ tags:
   - Spots
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre la Geoda de Pulpí"
+faq:
+  - q: "¿Cuánto cuesta la entrada a la Geoda de Pulpí?"
+    a: "22 euros los adultos y 10 euros de 8 a 16 años. Los residentes tienen precio reducido."
+  - q: "¿Cómo se compran las entradas de la Geoda de Pulpí?"
+    a: "Online, en la web oficial de la Geoda de Pulpí. Conviene reservar con antelación."
+  - q: "¿Cuánto dura la visita a la Geoda de Pulpí?"
+    a: "Alrededor de 1 hora y media."
+  - q: "¿Se puede entrar dentro de la geoda?"
+    a: "No, se ve asomándose por una abertura para protegerla."
+  - q: "¿Dónde está la Geoda de Pulpí?"
+    a: "En la Mina Rica, en Pilar de Jaravía (Pulpí, Almería), cerca de San Juan de los Terreros."
+  - q: "¿Cuánto mide la Geoda de Pulpí?"
+    a: "Unos 8 metros de largo, forrada de cristales de yeso de hasta 2 metros."
 ---
 Imagina una cueva forrada de **cristales transparentes de hasta 2 metros**, como si estuvieras dentro de un diamante. Existe, está en **Almería** y se puede visitar: es la **Geoda de Pulpí**, una de las más grandes del mundo.
 
@@ -39,9 +53,7 @@ Las plazas vuelan, así que te cuento cómo conseguir entradas 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra la entrada con tiempo</b>: el aforo es limitado y en verano y puentes se agota.</li><li><b>Llega pronto</b>: los grupos salen a hora fija.</li><li><b>Calzado cómodo</b>: se camina por galerías de mina.</li><li><b>Combínalo con la playa</b>: San Juan de los Terreros y sus calas están a 10 minutos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Geoda de Pulpí</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta la entrada a la Geoda de Pulpí?</summary><p>22 euros los adultos y 10 euros de 8 a 16 años. Los residentes tienen precio reducido.</p></details><details><summary>¿Cómo se compran las entradas de la Geoda de Pulpí?</summary><p>Online, en la web oficial de la Geoda de Pulpí. Conviene reservar con antelación.</p></details><details><summary>¿Cuánto dura la visita a la Geoda de Pulpí?</summary><p>Alrededor de 1 hora y media.</p></details><details><summary>¿Se puede entrar dentro de la geoda?</summary><p>No, se ve asomándose por una abertura para protegerla.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta la entrada a la Geoda de Pulpí?", "acceptedAnswer": {"@type": "Answer", "text": "22 euros los adultos y 10 euros de 8 a 16 años. Los residentes tienen precio reducido."}}, {"@type": "Question", "name": "¿Cómo se compran las entradas de la Geoda de Pulpí?", "acceptedAnswer": {"@type": "Answer", "text": "Online, en la web oficial de la Geoda de Pulpí. Conviene reservar con antelación."}}, {"@type": "Question", "name": "¿Cuánto dura la visita a la Geoda de Pulpí?", "acceptedAnswer": {"@type": "Answer", "text": "Alrededor de 1 hora y media."}}, {"@type": "Question", "name": "¿Se puede entrar dentro de la geoda?", "acceptedAnswer": {"@type": "Answer", "text": "No, se ve asomándose por una abertura para protegerla."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/cabo-de-gata-que-ver.html"><img src="/assets/img/blog/cabo-de-gata-que-ver/portada.webp" alt="Cabo de Gata" loading="lazy" decoding="async" /><span>Cabo de Gata</span></a></li><li><a href="/blog/desierto-de-tabernas.html"><img src="/assets/img/blog/desierto-de-tabernas/portada.webp" alt="Desierto de Tabernas" loading="lazy" decoding="async" /><span>Desierto de Tabernas</span></a></li><li><a href="/blog/bateria-castillitos-cartagena.html"><img src="/assets/img/destinos/bateria-castillitos.webp" alt="Batería de Castillitos" loading="lazy" decoding="async" /><span>Batería de Castillitos</span></a></li></ul>

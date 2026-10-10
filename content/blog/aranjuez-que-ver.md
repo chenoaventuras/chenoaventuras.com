@@ -11,6 +11,19 @@ tags:
   - Spots
   - Comunidad de Madrid
 wide: true
+faq:
+  - q: "¿Cuánto cuesta entrar al Palacio Real de Aranjuez?"
+    a: "La entrada general cuesta 12 € y la reducida 7 €. Los ciudadanos de la UE e Iberoamérica entran gratis los miércoles y domingos por la tarde."
+  - q: "¿Los jardines de Aranjuez son gratis?"
+    a: "Sí, los jardines del Parterre, de la Isla y del Príncipe son de acceso libre."
+  - q: "¿Cuándo funciona el Tren de la Fresa?"
+    a: "En primavera y otoño, con salida desde el Museo del Ferrocarril de Madrid. Las fechas exactas se publican cada temporada."
+  - q: "¿Cómo se llega a Aranjuez desde Madrid?"
+    a: "En Cercanías (línea C-3) desde Atocha en unos 45 minutos, o en coche por la A-4."
+  - q: "¿A cuánto está Aranjuez de Madrid?"
+    a: "A menos de una hora: en coche por la A-4, en tren de Cercanías o, en primavera y otoño, en el histórico Tren de la Fresa."
+  - q: "¿Cuánto se tarda en ver el Palacio Real de Aranjuez?"
+    a: "Cuenta un par de horas para el palacio y otro buen rato para pasear por los jardines, que son gratis."
 ---
 Un palacio real rodeado de jardines, fuentes y bosques junto al río Tajo, a menos de una hora de Madrid. **Aranjuez** fue durante siglos la residencia de primavera de los reyes de España, y hoy su paisaje cultural es **Patrimonio de la Humanidad**.
 
@@ -43,9 +56,7 @@ Y para llegar hay una forma de cuento: el **Tren de la Fresa**, un tren históri
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Recorre los jardines en bici</b>: son enormes y casi todos llanos.</li><li><b>Haz un paseo en barco por el Tajo</b>: en temporada salen barcos desde el embarcadero.</li><li><b>Prueba las fresas con nata</b>: en primavera son las protagonistas.</li><li><b>Aprovecha la tarde gratis</b>: miércoles y domingos por la tarde, el palacio es gratis para ciudadanos de la UE.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Aranjuez</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar al Palacio Real de Aranjuez?</summary><p>La entrada general cuesta 12 € y la reducida 7 €. Los ciudadanos de la UE e Iberoamérica entran gratis los miércoles y domingos por la tarde.</p></details><details><summary>¿Los jardines de Aranjuez son gratis?</summary><p>Sí, los jardines del Parterre, de la Isla y del Príncipe son de acceso libre.</p></details><details><summary>¿Cuándo funciona el Tren de la Fresa?</summary><p>En primavera y otoño, con salida desde el Museo del Ferrocarril de Madrid. Las fechas exactas se publican cada temporada.</p></details><details><summary>¿Cómo se llega a Aranjuez desde Madrid?</summary><p>En Cercanías (línea C-3) desde Atocha en unos 45 minutos, o en coche por la A-4.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar al Palacio Real de Aranjuez?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta 12 € y la reducida 7 €. Los ciudadanos de la UE e Iberoamérica entran gratis los miércoles y domingos por la tarde."}}, {"@type": "Question", "name": "¿Los jardines de Aranjuez son gratis?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, los jardines del Parterre, de la Isla y del Príncipe son de acceso libre."}}, {"@type": "Question", "name": "¿Cuándo funciona el Tren de la Fresa?", "acceptedAnswer": {"@type": "Answer", "text": "En primavera y otoño, con salida desde el Museo del Ferrocarril de Madrid. Las fechas exactas se publican cada temporada."}}, {"@type": "Question", "name": "¿Cómo se llega a Aranjuez desde Madrid?", "acceptedAnswer": {"@type": "Answer", "text": "En Cercanías (línea C-3) desde Atocha en unos 45 minutos, o en coche por la A-4."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Madrid</span><h2>Más escapadas desde Madrid</h2></div>
 <ul class="nearby"><li><a href="/blog/mercado-medieval-chinchon.html"><img src="/assets/img/instagram/17844725496680012.webp" alt="Mercado Medieval de Chinchón" loading="lazy" decoding="async" /><span>Mercado Medieval de Chinchón</span></a></li><li><a href="/blog/chinchon-castillo-de-noche.html"><img src="/assets/img/instagram/18154307548397718.webp" alt="Chinchón de noche" loading="lazy" decoding="async" /><span>Chinchón de noche</span></a></li><li><a href="/blog/acueducto-de-segovia.html"><img src="/assets/img/blog/acueducto-de-segovia/acueducto.webp" alt="Segovia" loading="lazy" decoding="async" /><span>Segovia</span></a></li></ul>

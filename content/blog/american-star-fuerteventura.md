@@ -11,6 +11,20 @@ tags:
   - Curiosidades
   - Canarias
 wide: true
+faqTitulo: "Dudas sobre el American Star"
+faq:
+  - q: "¿Dónde está el American Star?"
+    a: "En la playa de Garcey, en la costa oeste de Fuerteventura."
+  - q: "¿Se ve todavía el barco?"
+    a: "Casi no: la proa se deshizo en 2007. Con marea muy baja asoman algunos restos."
+  - q: "¿Cuándo naufragó?"
+    a: "Encalló en enero de 1994 mientras lo remolcaban."
+  - q: "¿Qué barco era?"
+    a: "El SS America, un transatlántico estadounidense de 1940."
+  - q: "¿Cómo llegar a la playa de Garcey?"
+    a: "Por una pista de tierra en la costa oeste de Fuerteventura, en el municipio de Pájara."
+  - q: "¿Se puede bañar en la playa del American Star?"
+    a: "No es buena idea: la playa de Garcey es peligrosa para el baño."
 ---
 Durante más de diez años, un transatlántico gigante estuvo varado frente a una playa salvaje de **Fuerteventura**. Era el **American Star**, uno de los barcos de pasajeros más famosos de Estados Unidos, y se convirtió en el **barco fantasma** más fotografiado de Canarias.
 
@@ -39,9 +53,7 @@ Te cuento su historia, por qué encalló y lo que queda hoy 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Marea baja</b>: es cuando hay alguna opción de ver restos.</li><li><b>No te bañes</b>: las corrientes en la costa oeste son muy fuertes.</li><li><b>Ajuy</b>: combínalo con las cuevas de Ajuy, muy cerca.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el American Star</h2></div>
-<div class="faq"><details><summary>¿Dónde está el American Star?</summary><p>En la playa de Garcey, en la costa oeste de Fuerteventura.</p></details><details><summary>¿Se ve todavía el barco?</summary><p>Casi no: la proa se deshizo en 2007. Con marea muy baja asoman algunos restos.</p></details><details><summary>¿Cuándo naufragó?</summary><p>Encalló en enero de 1994 mientras lo remolcaban.</p></details><details><summary>¿Qué barco era?</summary><p>El SS America, un transatlántico estadounidense de 1940.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde está el American Star?", "acceptedAnswer": {"@type": "Answer", "text": "En la playa de Garcey, en la costa oeste de Fuerteventura."}}, {"@type": "Question", "name": "¿Se ve todavía el barco?", "acceptedAnswer": {"@type": "Answer", "text": "Casi no: la proa se deshizo en 2007. Con marea muy baja asoman algunos restos."}}, {"@type": "Question", "name": "¿Cuándo naufragó?", "acceptedAnswer": {"@type": "Answer", "text": "Encalló en enero de 1994 mientras lo remolcaban."}}, {"@type": "Question", "name": "¿Qué barco era?", "acceptedAnswer": {"@type": "Answer", "text": "El SS America, un transatlántico estadounidense de 1940."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/barco-telamon-lanzarote.html"><img src="/assets/img/blog/barco-telamon-lanzarote/b.webp" alt="Barco Telamon" loading="lazy" decoding="async" /><span>Barco Telamon</span></a></li><li><a href="/blog/jameos-del-agua-cueva-de-los-verdes.html"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/portada.webp" alt="Jameos del Agua" loading="lazy" decoding="async" /><span>Jameos del Agua</span></a></li><li><a href="/blog/roque-nublo.html"><img src="/assets/img/blog/roque-nublo/teide.webp" alt="Roque Nublo" loading="lazy" decoding="async" /><span>Roque Nublo</span></a></li></ul>

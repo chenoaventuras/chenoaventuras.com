@@ -17,6 +17,20 @@ igPermalink: 'https://www.instagram.com/reel/DLYBHuVI9Ja/'
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+faqTitulo: "Dudas sobre el avistamiento de buitres"
+faq:
+  - q: "¿Dónde se pueden ver buitres en la Sierra de Guara?"
+    a: "En Santa Cilia de Panzano, con la asociación Fondo Amigos del Buitre. Ahora mismo la actividad está paralizada: confírmalo con ellos antes de ir."
+  - q: "¿Cuánto cuesta el avistamiento de buitres?"
+    a: "Se hace con un donativo de 10 € por persona, que incluye la observación y la entrada al museo Casa del Buitre."
+  - q: "¿Cuánto dura la actividad?"
+    a: "Unas 2 horas entre la charla y la observación, más unos 20 minutos de paseo hasta el observatorio."
+  - q: "¿Hay que reservar?"
+    a: "Sí, es imprescindible: sin reserva no se puede entrar al recinto."
+  - q: "¿Dónde está la Sierra de Guara?"
+    a: "En el Prepirineo de Huesca. El avistamiento de buitres se hace en Santa Cilia de Panzano."
+  - q: "¿Se puede ir con niños al avistamiento de buitres?"
+    a: "Sí, es una actividad de educación ambiental con charla y un paseo corto de unos 20 minutos hasta el observatorio."
 ---
 En el Prepirineo aragonés existe una actividad que no se puede hacer en ningún otro lugar de España: observar **muy de cerca y en plena libertad** a los grandes buitres que sobrevuelan la **Sierra de Guara**. Una experiencia que mezcla conservación, educación ambiental y la emoción de tener a estos gigantes del aire a pocos metros.
 
@@ -49,9 +63,7 @@ Te lo enseño en vídeo 👇
 
 <div class="article__callout article__callout--warning">⚠️ <strong>Aviso:</strong> actualmente esta actividad está paralizada. Antes de organizar tu visita, confirma la disponibilidad directamente con la asociación Fondo Amigos del Buitre.</div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el avistamiento de buitres</h2></div>
-<div class="faq"><details><summary>¿Dónde se pueden ver buitres en la Sierra de Guara?</summary><p>En Santa Cilia de Panzano, con la asociación Fondo Amigos del Buitre. Ahora mismo la actividad está paralizada: confírmalo con ellos antes de ir.</p></details><details><summary>¿Cuánto cuesta el avistamiento de buitres?</summary><p>Se hace con un donativo de 10 € por persona, que incluye la observación y la entrada al museo Casa del Buitre.</p></details><details><summary>¿Cuánto dura la actividad?</summary><p>Unas 2 horas entre la charla y la observación, más unos 20 minutos de paseo hasta el observatorio.</p></details><details><summary>¿Hay que reservar?</summary><p>Sí, es imprescindible: sin reserva no se puede entrar al recinto.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde se pueden ver buitres en la Sierra de Guara?", "acceptedAnswer": {"@type": "Answer", "text": "En Santa Cilia de Panzano, con la asociación Fondo Amigos del Buitre. Ahora mismo la actividad está paralizada: confírmalo con ellos antes de ir."}}, {"@type": "Question", "name": "¿Cuánto cuesta el avistamiento de buitres?", "acceptedAnswer": {"@type": "Answer", "text": "Se hace con un donativo de 10 € por persona, que incluye la observación y la entrada al museo Casa del Buitre."}}, {"@type": "Question", "name": "¿Cuánto dura la actividad?", "acceptedAnswer": {"@type": "Answer", "text": "Unas 2 horas entre la charla y la observación, más unos 20 minutos de paseo hasta el observatorio."}}, {"@type": "Question", "name": "¿Hay que reservar?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, es imprescindible: sin reserva no se puede entrar al recinto."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando el Pirineo</h2></div>
 <ul class="nearby"><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Qué ver en Aínsa" loading="lazy" decoding="async" /><span>Qué ver en Aínsa</span></a></li><li><a href="/blog/cascada-del-sorrosal-broto.html"><img src="/assets/img/instagram/17998790027794852.webp" alt="Cascada del Sorrosal" loading="lazy" decoding="async" /><span>Cascada del Sorrosal</span></a></li><li><a href="/blog/ruta-cola-de-caballo-ordesa.html"><img src="/assets/img/instagram/18124961662670705.webp" alt="Ruta a la Cola de Caballo" loading="lazy" decoding="async" /><span>Ruta a la Cola de Caballo</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>

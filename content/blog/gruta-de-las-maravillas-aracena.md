@@ -11,6 +11,20 @@ tags:
   - Spots
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre la Gruta de las Maravillas"
+faq:
+  - q: "¿Cuánto dura la visita a la Gruta de las Maravillas?"
+    a: "La visita es guiada y dura unos 45 minutos."
+  - q: "¿Qué horario tiene la Gruta de las Maravillas?"
+    a: "Las visitas son de 10:00 a 14:00 y de 15:30 a 18:00. Abre todo el año salvo el 24, 25 y 31 de diciembre y el 1 y 6 de enero."
+  - q: "¿Hay que reservar?"
+    a: "Es muy recomendable comprar la entrada online, sobre todo en puentes y festivos, porque el aforo está limitado a 1.000 personas al día."
+  - q: "¿Qué temperatura hace dentro?"
+    a: "Entre 16 y 19 grados durante todo el año, con una humedad cercana al 100 %."
+  - q: "¿Cuánto mide la gruta?"
+    a: "El recorrido visitable tiene unos 1.200 metros, repartidos en tres niveles de galerías."
+  - q: "¿Cómo llegar a la Gruta de las Maravillas?"
+    a: "Está en pleno pueblo de Aracena (Huelva), a algo más de una hora en coche de Sevilla por la N-433."
 ---
 Imagina un pueblo de la sierra con su castillo en lo alto… y, justo debajo de sus calles, **una cueva con lagos subterráneos** y miles de estalactitas. Eso es la **Gruta de las Maravillas**, en Aracena (Huelva): una de las cuevas turísticas más visitadas de España y una de las primeras de Europa en abrirse al público, en 1914.
 
@@ -41,9 +55,7 @@ Te cuento cómo es la visita, el horario y qué más hacer en Aracena 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Compra online en fechas señaladas</b>: hay cupo diario y en puentes se agota.</li><li><b>Lleva una chaqueta fina</b>: dentro siempre hay unos 16-19 grados y mucha humedad.</li><li><b>Haz el pack de Aracena</b>: la tarjeta «Aracena Turística» junta la gruta, el Museo del Jamón y el castillo.</li><li><b>Come jamón, claro</b>: estás en la tierra del ibérico de bellota: no te vayas sin probarlo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Gruta de las Maravillas</h2></div>
-<div class="faq"><details><summary>¿Cuánto dura la visita a la Gruta de las Maravillas?</summary><p>La visita es guiada y dura unos 45 minutos.</p></details><details><summary>¿Qué horario tiene la Gruta de las Maravillas?</summary><p>Las visitas son de 10:00 a 14:00 y de 15:30 a 18:00. Abre todo el año salvo el 24, 25 y 31 de diciembre y el 1 y 6 de enero.</p></details><details><summary>¿Hay que reservar?</summary><p>Es muy recomendable comprar la entrada online, sobre todo en puentes y festivos, porque el aforo está limitado a 1.000 personas al día.</p></details><details><summary>¿Qué temperatura hace dentro?</summary><p>Entre 16 y 19 grados durante todo el año, con una humedad cercana al 100 %.</p></details><details><summary>¿Cuánto mide la gruta?</summary><p>El recorrido visitable tiene unos 1.200 metros, repartidos en tres niveles de galerías.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto dura la visita a la Gruta de las Maravillas?", "acceptedAnswer": {"@type": "Answer", "text": "La visita es guiada y dura unos 45 minutos."}}, {"@type": "Question", "name": "¿Qué horario tiene la Gruta de las Maravillas?", "acceptedAnswer": {"@type": "Answer", "text": "Las visitas son de 10:00 a 14:00 y de 15:30 a 18:00. Abre todo el año salvo el 24, 25 y 31 de diciembre y el 1 y 6 de enero."}}, {"@type": "Question", "name": "¿Hay que reservar?", "acceptedAnswer": {"@type": "Answer", "text": "Es muy recomendable comprar la entrada online, sobre todo en puentes y festivos, porque el aforo está limitado a 1.000 personas al día."}}, {"@type": "Question", "name": "¿Qué temperatura hace dentro?", "acceptedAnswer": {"@type": "Answer", "text": "Entre 16 y 19 grados durante todo el año, con una humedad cercana al 100 %."}}, {"@type": "Question", "name": "¿Cuánto mide la gruta?", "acceptedAnswer": {"@type": "Answer", "text": "El recorrido visitable tiene unos 1.200 metros, repartidos en tres niveles de galerías."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más cuevas</span><h2>Si te gustan las cuevas…</h2></div>
 <ul class="nearby"><li><a href="/blog/cueva-del-puerto-calasparra.html"><img src="/assets/img/instagram/17975666267783470.webp" alt="Cueva del Puerto (Murcia)" loading="lazy" decoding="async" /><span>Cueva del Puerto (Murcia)</span></a></li><li><a href="/blog/cuevas-de-san-jose-vall-duixo.html"><img src="/assets/img/instagram/18072737909105340.webp" alt="Cuevas de San José" loading="lazy" decoding="async" /><span>Cuevas de San José</span></a></li><li><a href="/blog/desierto-de-tabernas.html"><img src="/assets/img/blog/desierto-de-tabernas/portada.webp" alt="Desierto de Tabernas" loading="lazy" decoding="async" /><span>Desierto de Tabernas</span></a></li></ul>

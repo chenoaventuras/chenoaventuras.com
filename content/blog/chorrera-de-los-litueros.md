@@ -11,6 +11,18 @@ tags:
   - Spots
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DVWktJLDPZS/'
+faqTitulo: "Dudas sobre la Chorrera de los Litueros"
+faq:
+  - q: "¿Dónde está la Chorrera de los Litueros?"
+    a: "En Somosierra (Comunidad de Madrid), en la Sierra de Guadarrama, donde nace el río Duratón."
+  - q: "¿Cómo llegar a la Chorrera de los Litueros?"
+    a: "Aparca en el pequeño aparcamiento del puerto de Somosierra, frente a la gasolinera. Desde allí son unos 1,6 km, unos 20 minutos andando."
+  - q: "¿Se puede ir con niños a la Chorrera de los Litueros?"
+    a: "Sí, la ruta es corta y fácil. Con mucha agua el sendero se embarra y puede tocar cruzar el cauce, así que lleva buen calzado."
+  - q: "¿Cuándo tiene más agua la Chorrera de los Litueros?"
+    a: "En primavera, con el deshielo, o tras lluvias fuertes. En verano baja muy poco caudal."
+  - q: "¿Cuánto mide la Chorrera de los Litueros?"
+    a: "Unos 40 metros sumando todos sus saltos escalonados."
 ---
 En la Sierra de Guadarrama, justo donde nace el río Duratón, el agua se despeña en varios saltos escalonados que en conjunto suman unos 40 metros de caída. Es la Chorrera de los Litueros, uno de esos rincones que cambian por completo según la época del año en la que la visites.
 
@@ -35,5 +47,8 @@ La ruta es fácil, pero con más agua el sendero puede volverse embarrado o resb
 ## Un plan gratuito para desconectar
 
 El acceso a la Chorrera de los Litueros es completamente gratuito. Es un lugar perfecto si buscas un plan tranquilo: caminar sin prisas, hacer fotos, o simplemente sentarte a contemplar el agua caer en plena Sierra de Guadarrama.
+
+<!--faq-->
+
 
 ¿Ya conocías la Chorrera de los Litueros? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más cascadas y rincones de naturaleza por España, y échale un vistazo al resto del blog para tu próxima escapada.

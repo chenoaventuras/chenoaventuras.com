@@ -11,6 +11,20 @@ tags:
   - Curiosidades
   - Cataluña
 wide: true
+faqTitulo: "Dudas sobre el Cap de Creus"
+faq:
+  - q: "¿Cuál es el punto más oriental de España?"
+    a: "De la península ibérica, el Cabo de Creus (Girona). Si cuentas las islas, es Menorca."
+  - q: "¿Se puede ir en coche al faro?"
+    a: "Fuera de verano sí. En verano el acceso suele estar restringido y hay lanzadera."
+  - q: "¿Qué tiene que ver Dalí con el Cap de Creus?"
+    a: "Vivía al lado, en Portlligat, y sus rocas aparecen en muchos de sus cuadros."
+  - q: "¿Cuánto se tarda desde Cadaqués?"
+    a: "Unos 15-20 minutos en coche."
+  - q: "¿Dónde está el Cabo de Creus?"
+    a: "En el Parque Natural del Cap de Creus (Girona), a unos 8 km de Cadaqués."
+  - q: "¿Hay que pagar para ir al Cabo de Creus?"
+    a: "El parque y el faro son gratis. Solo pagas la lanzadera si vas en verano, cuando la carretera tiene acceso restringido."
 ---
 Es el primer sitio de la península donde sale el sol. El **Cabo de Creus**, en Girona, es el **punto más oriental de la península ibérica**: un paisaje de rocas retorcidas por el viento que obsesionaba a **Salvador Dalí**.
 
@@ -38,9 +52,7 @@ Te cuento qué ver, cómo llegar desde Cadaqués y el truco para ver el amanecer
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ojo con la tramontana</b>: con viento fuerte, cuidado al borde de los acantilados.</li><li><b>Kayak</b>: la forma más bonita de ver las calas.</li><li><b>Casa de Dalí</b>: combínalo con Portlligat, a 10 minutos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Cap de Creus</h2></div>
-<div class="faq"><details><summary>¿Cuál es el punto más oriental de España?</summary><p>De la península ibérica, el Cabo de Creus (Girona). Si cuentas las islas, es Menorca.</p></details><details><summary>¿Se puede ir en coche al faro?</summary><p>Fuera de verano sí. En verano el acceso suele estar restringido y hay lanzadera.</p></details><details><summary>¿Qué tiene que ver Dalí con el Cap de Creus?</summary><p>Vivía al lado, en Portlligat, y sus rocas aparecen en muchos de sus cuadros.</p></details><details><summary>¿Cuánto se tarda desde Cadaqués?</summary><p>Unos 15-20 minutos en coche.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es el punto más oriental de España?", "acceptedAnswer": {"@type": "Answer", "text": "De la península ibérica, el Cabo de Creus (Girona). Si cuentas las islas, es Menorca."}}, {"@type": "Question", "name": "¿Se puede ir en coche al faro?", "acceptedAnswer": {"@type": "Answer", "text": "Fuera de verano sí. En verano el acceso suele estar restringido y hay lanzadera."}}, {"@type": "Question", "name": "¿Qué tiene que ver Dalí con el Cap de Creus?", "acceptedAnswer": {"@type": "Answer", "text": "Vivía al lado, en Portlligat, y sus rocas aparecen en muchos de sus cuadros."}}, {"@type": "Question", "name": "¿Cuánto se tarda desde Cadaqués?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 15-20 minutos en coche."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li><li><a href="/blog/sagrada-familia.html"><img src="/assets/img/blog/sagrada-familia/portada.webp" alt="Sagrada Familia" loading="lazy" decoding="async" /><span>Sagrada Familia</span></a></li></ul>

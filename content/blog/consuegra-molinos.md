@@ -11,6 +11,20 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+faqTitulo: "Dudas sobre los molinos de Consuegra"
+faq:
+  - q: "¿Cuántos molinos hay en Consuegra?"
+    a: "En el cerro Calderico se conservan doce molinos de viento, cada uno con su propio nombre."
+  - q: "¿Se pueden visitar los molinos por dentro?"
+    a: "Sí, algunos molinos son visitables y conservan su maquinaria, como el molino Bolero."
+  - q: "¿Hay que pagar para ver los molinos de Consuegra?"
+    a: "Subir al cerro y verlos por fuera es gratis. El castillo de la Muela y los molinos visitables tienen entrada."
+  - q: "¿Cuál es el mejor momento para ir?"
+    a: "Al atardecer, y si puedes, a finales de octubre durante la Fiesta de la Rosa del Azafrán."
+  - q: "¿Se puede subir en coche a los molinos de Consuegra?"
+    a: "Sí, una carretera sube hasta lo alto del cerro, aunque también se puede subir andando desde el pueblo."
+  - q: "¿A cuánto está Consuegra de Toledo?"
+    a: "A unos 45 minutos en coche. Desde Madrid, algo más de hora y media."
 ---
 Doce molinos blancos alineados en lo alto de un cerro, con un castillo medieval en medio y toda la llanura manchega a sus pies. Si alguna vez has imaginado a don Quijote cargando contra los gigantes, la imagen que tienes en la cabeza se parece mucho a **Consuegra**.
 
@@ -41,9 +55,7 @@ Te cuento qué ver, qué molinos se pueden visitar por dentro y cuándo ir para 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve al atardecer</b>: la luz dorada sobre los molinos es la foto que todos buscan.</li><li><b>Lleva algo de abrigo</b>: en lo alto del cerro siempre sopla el viento (por algo hay molinos).</li><li><b>Ven en la fiesta del azafrán</b>: a finales de octubre se ven los molinos funcionando.</li><li><b>Combínalo con Toledo o Tembleque</b>: si haces ruta por La Mancha.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre los molinos de Consuegra</h2></div>
-<div class="faq"><details><summary>¿Cuántos molinos hay en Consuegra?</summary><p>En el cerro Calderico se conservan doce molinos de viento, cada uno con su propio nombre.</p></details><details><summary>¿Se pueden visitar los molinos por dentro?</summary><p>Sí, algunos molinos son visitables y conservan su maquinaria, como el molino Bolero.</p></details><details><summary>¿Hay que pagar para ver los molinos de Consuegra?</summary><p>Subir al cerro y verlos por fuera es gratis. El castillo de la Muela y los molinos visitables tienen entrada.</p></details><details><summary>¿Cuál es el mejor momento para ir?</summary><p>Al atardecer, y si puedes, a finales de octubre durante la Fiesta de la Rosa del Azafrán.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuántos molinos hay en Consuegra?", "acceptedAnswer": {"@type": "Answer", "text": "En el cerro Calderico se conservan doce molinos de viento, cada uno con su propio nombre."}}, {"@type": "Question", "name": "¿Se pueden visitar los molinos por dentro?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, algunos molinos son visitables y conservan su maquinaria, como el molino Bolero."}}, {"@type": "Question", "name": "¿Hay que pagar para ver los molinos de Consuegra?", "acceptedAnswer": {"@type": "Answer", "text": "Subir al cerro y verlos por fuera es gratis. El castillo de la Muela y los molinos visitables tienen entrada."}}, {"@type": "Question", "name": "¿Cuál es el mejor momento para ir?", "acceptedAnswer": {"@type": "Answer", "text": "Al atardecer, y si puedes, a finales de octubre durante la Fiesta de la Rosa del Azafrán."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Castilla-La Mancha</span><h2>Sigue por La Mancha</h2></div>
 <ul class="nearby"><li><a href="/blog/lagunas-de-ruidera.html"><img src="/assets/img/blog/lagunas-de-ruidera/portada.webp" alt="Lagunas de Ruidera" loading="lazy" decoding="async" /><span>Lagunas de Ruidera</span></a></li><li><a href="/blog/puy-du-fou-toledo.html"><img src="/assets/img/instagram/18066740699149373.webp" alt="Puy du Fou España" loading="lazy" decoding="async" /><span>Puy du Fou España</span></a></li><li><a href="/blog/piedra-del-rey-moro-toledo.html"><img src="/assets/img/instagram/18067189766151364.webp" alt="La Piedra del Rey Moro" loading="lazy" decoding="async" /><span>La Piedra del Rey Moro</span></a></li></ul>

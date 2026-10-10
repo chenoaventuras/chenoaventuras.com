@@ -11,6 +11,17 @@ tags:
   - Curiosidades
   - Cataluña
 wide: true
+faq:
+  - q: "¿Qué es la iglesia del pantano de Sau?"
+    a: "La iglesia románica de Sant Romà de Sau, del siglo XI, que quedó bajo el agua al construirse el embalse en los años 60."
+  - q: "¿Cuándo se ve la iglesia?"
+    a: "El campanario asoma casi siempre; la iglesia entera solo con el pantano bajo."
+  - q: "¿Se puede entrar?"
+    a: "No es recomendable: el edificio está muy deteriorado."
+  - q: "¿Dónde está?"
+    a: "En Vilanova de Sau (Osona), a unos 25 minutos de Vic."
+  - q: "¿Cómo llegar a Sant Romà de Sau?"
+    a: "En coche hasta Vilanova de Sau (Osona, Barcelona), a unos 25 minutos de Vic."
 ---
 En medio del pantano de **Sau** (Barcelona) asoma un **campanario románico**. Es lo que queda de **Sant Romà de Sau**, un pueblo que quedó bajo el agua en los años 60. Según llueva más o menos, la torre aparece entera, a medias... o se puede llegar andando hasta ella.
 
@@ -38,9 +49,7 @@ Te cuento su historia y desde dónde verla 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira el nivel antes</b>: las webs de embalses de Cataluña lo dan al día.</li><li><b>Tavertet</b>: un pueblo de piedra al borde del acantilado, a 30 minutos.</li><li><b>Rupit</b>: otro de los pueblos más bonitos de Osona, muy cerca.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Sant Romà de Sau</h2></div>
-<div class="faq"><details><summary>¿Qué es la iglesia del pantano de Sau?</summary><p>La iglesia románica de Sant Romà de Sau, del siglo XI, que quedó bajo el agua al construirse el embalse en los años 60.</p></details><details><summary>¿Cuándo se ve la iglesia?</summary><p>El campanario asoma casi siempre; la iglesia entera solo con el pantano bajo.</p></details><details><summary>¿Se puede entrar?</summary><p>No es recomendable: el edificio está muy deteriorado.</p></details><details><summary>¿Dónde está?</summary><p>En Vilanova de Sau (Osona), a unos 25 minutos de Vic.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué es la iglesia del pantano de Sau?", "acceptedAnswer": {"@type": "Answer", "text": "La iglesia románica de Sant Romà de Sau, del siglo XI, que quedó bajo el agua al construirse el embalse en los años 60."}}, {"@type": "Question", "name": "¿Cuándo se ve la iglesia?", "acceptedAnswer": {"@type": "Answer", "text": "El campanario asoma casi siempre; la iglesia entera solo con el pantano bajo."}}, {"@type": "Question", "name": "¿Se puede entrar?", "acceptedAnswer": {"@type": "Answer", "text": "No es recomendable: el edificio está muy deteriorado."}}, {"@type": "Question", "name": "¿Dónde está?", "acceptedAnswer": {"@type": "Answer", "text": "En Vilanova de Sau (Osona), a unos 25 minutos de Vic."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li><li><a href="/blog/lanuza-pueblo-embalse-huesca.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Lanuza" loading="lazy" decoding="async" /><span>Lanuza</span></a></li></ul>

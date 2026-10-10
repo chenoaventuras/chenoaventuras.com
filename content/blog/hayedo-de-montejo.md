@@ -11,6 +11,20 @@ tags:
   - Spots
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre el Hayedo de Montejo"
+faq:
+  - q: "¿Hay que reservar para entrar al Hayedo de Montejo?"
+    a: "Sí, las rutas por el interior del hayedo funcionan con reserva previa, sobre todo en otoño."
+  - q: "¿Cuándo es mejor ir al Hayedo de Montejo?"
+    a: "De mediados de octubre a principios de noviembre, cuando las hayas cambian de color."
+  - q: "¿Por qué el Hayedo de Montejo es Patrimonio de la Humanidad?"
+    a: "Porque forma parte del conjunto de hayedos primarios de Europa reconocido por la UNESCO en 2017. Es uno de los más meridionales."
+  - q: "¿A qué distancia está el Hayedo de Montejo de Madrid?"
+    a: "A unos 100 km, algo más de una hora en coche por la A-1."
+  - q: "¿Se puede visitar el Hayedo de Montejo sin reserva?"
+    a: "Las rutas por el interior del hayedo funcionan con reserva previa. En otoño las plazas se agotan rápido, así que resérvalas con tiempo."
+  - q: "¿Cómo llegar al Hayedo de Montejo?"
+    a: "En coche hasta Montejo de la Sierra, en la Sierra del Rincón, a unos 100 km de Madrid por la A-1."
 ---
 A una hora y poco de Madrid hay un bosque de hayas que es **Patrimonio de la Humanidad**. Uno de los hayedos más al sur de Europa, escondido en la Sierra del Rincón, y en otoño se convierte en un espectáculo de amarillos y rojos.
 
@@ -41,9 +55,7 @@ Eso sí: no se entra por libre. Te cuento cómo reservar y qué hacer por la zon
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva con tiempo</b>: en otoño las plazas se agotan en cuanto salen.</li><li><b>Si no consigues plaza</b>: haz el recorrido virtual o la ruta «Hayedo total» fuera de la temporada alta.</li><li><b>Lleva botas</b>: el suelo del bosque es húmedo y resbala.</li><li><b>Haz la ruta del Puerto de la Puebla</b>: para ver los pueblos de la Sierra del Rincón en el mismo día.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Hayedo de Montejo</h2></div>
-<div class="faq"><details><summary>¿Hay que reservar para entrar al Hayedo de Montejo?</summary><p>Sí, las rutas por el interior del hayedo funcionan con reserva previa, sobre todo en otoño.</p></details><details><summary>¿Cuándo es mejor ir al Hayedo de Montejo?</summary><p>De mediados de octubre a principios de noviembre, cuando las hayas cambian de color.</p></details><details><summary>¿Por qué el Hayedo de Montejo es Patrimonio de la Humanidad?</summary><p>Porque forma parte del conjunto de hayedos primarios de Europa reconocido por la UNESCO en 2017. Es uno de los más meridionales.</p></details><details><summary>¿A qué distancia está el Hayedo de Montejo de Madrid?</summary><p>A unos 100 km, algo más de una hora en coche por la A-1.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hay que reservar para entrar al Hayedo de Montejo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, las rutas por el interior del hayedo funcionan con reserva previa, sobre todo en otoño."}}, {"@type": "Question", "name": "¿Cuándo es mejor ir al Hayedo de Montejo?", "acceptedAnswer": {"@type": "Answer", "text": "De mediados de octubre a principios de noviembre, cuando las hayas cambian de color."}}, {"@type": "Question", "name": "¿Por qué el Hayedo de Montejo es Patrimonio de la Humanidad?", "acceptedAnswer": {"@type": "Answer", "text": "Porque forma parte del conjunto de hayedos primarios de Europa reconocido por la UNESCO en 2017. Es uno de los más meridionales."}}, {"@type": "Question", "name": "¿A qué distancia está el Hayedo de Montejo de Madrid?", "acceptedAnswer": {"@type": "Answer", "text": "A unos 100 km, algo más de una hora en coche por la A-1."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/puerto-de-la-puebla-sierra-del-rincon.html"><img src="/assets/img/instagram/17960555744905872.webp" alt="Sierra del Rincón" loading="lazy" decoding="async" /><span>Sierra del Rincón</span></a></li><li><a href="/blog/buitrago-del-lozoya-que-ver.html"><img src="/assets/img/instagram/18567364960036817.webp" alt="Buitrago del Lozoya" loading="lazy" decoding="async" /><span>Buitrago del Lozoya</span></a></li><li><a href="/blog/pedraza-que-ver.html"><img src="/assets/img/instagram/18089113739420968.webp" alt="Pedraza" loading="lazy" decoding="async" /><span>Pedraza</span></a></li></ul>

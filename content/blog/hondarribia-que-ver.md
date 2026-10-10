@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - País Vasco
 wide: true
+faq:
+  - q: "¿Qué ver en Hondarribia?"
+    a: "El casco antiguo amurallado, la Calle Mayor, la Plaza de Armas con el castillo de Carlos V, el barrio de La Marina, el faro de Higer y el monte Jaizkibel."
+  - q: "¿Se puede ir de Hondarribia a Francia en barco?"
+    a: "Sí, una lancha cruza la bahía de Txingudi hasta Hendaya en pocos minutos."
+  - q: "¿Qué es el Alarde de Hondarribia?"
+    a: "La fiesta principal del pueblo, el 8 de septiembre, que recuerda la resistencia al asedio francés de 1638."
+  - q: "¿Cuánto tiempo hace falta para ver Hondarribia?"
+    a: "Medio día para el pueblo; un día completo si sumas una ruta por Jaizkibel."
+  - q: "¿A cuánto está Hondarribia de San Sebastián?"
+    a: "A unos 25 minutos en coche. Está en la desembocadura del Bidasoa, frente a Hendaya."
 ---
 Un casco medieval amurallado en lo alto, un barrio de pescadores con balcones de colores abajo y, al otro lado de la bahía, Francia. **Hondarribia** es uno de los pueblos más bonitos de la costa vasca, y la puerta de entrada a **Jaizkibel**, uno de los montes con mejores vistas del Cantábrico.
 
@@ -41,9 +52,7 @@ Te cuento qué ver y qué ruta hacer 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Pintxos en La Marina</b>: la calle San Pedro concentra muchos de los mejores bares.</li><li><b>Sube a Jaizkibel</b>: en coche o andando desde Higer: las vistas de la costa vasca son espectaculares.</li><li><b>Cruza en lancha a Hendaya</b>: un paseo corto y diferente.</li><li><b>Ve el 8 de septiembre</b>: si quieres ver el Alarde, la gran fiesta del pueblo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Hondarribia</h2></div>
-<div class="faq"><details><summary>¿Qué ver en Hondarribia?</summary><p>El casco antiguo amurallado, la Calle Mayor, la Plaza de Armas con el castillo de Carlos V, el barrio de La Marina, el faro de Higer y el monte Jaizkibel.</p></details><details><summary>¿Se puede ir de Hondarribia a Francia en barco?</summary><p>Sí, una lancha cruza la bahía de Txingudi hasta Hendaya en pocos minutos.</p></details><details><summary>¿Qué es el Alarde de Hondarribia?</summary><p>La fiesta principal del pueblo, el 8 de septiembre, que recuerda la resistencia al asedio francés de 1638.</p></details><details><summary>¿Cuánto tiempo hace falta para ver Hondarribia?</summary><p>Medio día para el pueblo; un día completo si sumas una ruta por Jaizkibel.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en Hondarribia?", "acceptedAnswer": {"@type": "Answer", "text": "El casco antiguo amurallado, la Calle Mayor, la Plaza de Armas con el castillo de Carlos V, el barrio de La Marina, el faro de Higer y el monte Jaizkibel."}}, {"@type": "Question", "name": "¿Se puede ir de Hondarribia a Francia en barco?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, una lancha cruza la bahía de Txingudi hasta Hendaya en pocos minutos."}}, {"@type": "Question", "name": "¿Qué es el Alarde de Hondarribia?", "acceptedAnswer": {"@type": "Answer", "text": "La fiesta principal del pueblo, el 8 de septiembre, que recuerda la resistencia al asedio francés de 1638."}}, {"@type": "Question", "name": "¿Cuánto tiempo hace falta para ver Hondarribia?", "acceptedAnswer": {"@type": "Answer", "text": "Medio día para el pueblo; un día completo si sumas una ruta por Jaizkibel."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Euskadi</span><h2>Sigue por el País Vasco</h2></div>
 <ul class="nearby"><li><a href="/blog/guia-monte-igueldo.html"><img src="/assets/img/blog/monte-igueldo/portada-rio-misterioso-cheno.webp" alt="Monte Igueldo" loading="lazy" decoding="async" /><span>Monte Igueldo</span></a></li><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li><li><a href="/blog/laguardia-que-ver.html"><img src="/assets/img/blog/laguardia-que-ver/portada.webp" alt="Laguardia" loading="lazy" decoding="async" /><span>Laguardia</span></a></li></ul>

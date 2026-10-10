@@ -11,6 +11,22 @@ tags:
   - Spots
   - Navarra
 wide: true
+faqTitulo: "Dudas sobre las Bardenas Reales"
+faq:
+  - q: "¿Hay que pagar para entrar en las Bardenas Reales?"
+    a: "No, la entrada es gratuita y no necesita reserva."
+  - q: "¿Qué horario tienen las Bardenas Reales?"
+    a: "El parque está abierto todo el año desde las 8:00 hasta la puesta de sol. De noche no se puede circular por su interior."
+  - q: "¿Se pueden recorrer las Bardenas en coche?"
+    a: "Sí, pero solo por los caminos autorizados y a un máximo de 30 km/h. La ruta más habitual es la pista perimetral de la Bardena Blanca."
+  - q: "¿Qué es Castildetierra?"
+    a: "Una chimenea de hadas: una columna de arcilla coronada por una losa más dura que la protege de la erosión. Es el símbolo de las Bardenas y está prohibido subirse."
+  - q: "¿Qué se rodó en las Bardenas Reales?"
+    a: "Escenas del mar Dothraki en la sexta temporada de Juego de Tronos y de la película de James Bond «El mundo nunca es suficiente», entre otras."
+  - q: "¿Cómo llegar a las Bardenas Reales?"
+    a: "La entrada más habitual es desde Arguedas, donde está el Centro de Información. Está a unos 15 minutos de Tudela y a una hora y cuarto de Pamplona o Zaragoza."
+  - q: "¿Hay que reservar para ir a las Bardenas Reales?"
+    a: "No: la entrada es gratis y no hace falta reserva. Abre desde las 8:00 hasta la puesta de sol."
 ---
 Llanuras de arcilla agrietada, cabezos que parecen mesas gigantes y una chimenea de roca en equilibrio imposible. Las **Bardenas Reales** son un paisaje semidesértico en pleno sur de Navarra, tan marciano que lo han usado de plató **Juego de Tronos** y hasta una película de James Bond.
 
@@ -41,9 +57,7 @@ Se pueden recorrer en coche, en bici o a pie, pero tienen sus normas (y un polí
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlas al máximo</h2><ul><li><b>Mira los avisos antes de ir</b>: cacerías, rallies, maniobras militares o lluvias pueden cortar caminos.</li><li><b>Evita los días de lluvia</b>: las pistas de arcilla se convierten en barro y es fácil quedarse atascado.</li><li><b>Ve al amanecer o al atardecer</b>: la luz rasante hace que el paisaje se vuelva naranja.</li><li><b>Agua y depósito lleno</b>: dentro no hay ningún servicio.</li><li><b>No te salgas del camino</b>: es un espacio protegido y las multas son serias.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre las Bardenas Reales</h2></div>
-<div class="faq"><details><summary>¿Hay que pagar para entrar en las Bardenas Reales?</summary><p>No, la entrada es gratuita y no necesita reserva.</p></details><details><summary>¿Qué horario tienen las Bardenas Reales?</summary><p>El parque está abierto todo el año desde las 8:00 hasta la puesta de sol. De noche no se puede circular por su interior.</p></details><details><summary>¿Se pueden recorrer las Bardenas en coche?</summary><p>Sí, pero solo por los caminos autorizados y a un máximo de 30 km/h. La ruta más habitual es la pista perimetral de la Bardena Blanca.</p></details><details><summary>¿Qué es Castildetierra?</summary><p>Una chimenea de hadas: una columna de arcilla coronada por una losa más dura que la protege de la erosión. Es el símbolo de las Bardenas y está prohibido subirse.</p></details><details><summary>¿Qué se rodó en las Bardenas Reales?</summary><p>Escenas del mar Dothraki en la sexta temporada de Juego de Tronos y de la película de James Bond «El mundo nunca es suficiente», entre otras.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hay que pagar para entrar en las Bardenas Reales?", "acceptedAnswer": {"@type": "Answer", "text": "No, la entrada es gratuita y no necesita reserva."}}, {"@type": "Question", "name": "¿Qué horario tienen las Bardenas Reales?", "acceptedAnswer": {"@type": "Answer", "text": "El parque está abierto todo el año desde las 8:00 hasta la puesta de sol. De noche no se puede circular por su interior."}}, {"@type": "Question", "name": "¿Se pueden recorrer las Bardenas en coche?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, pero solo por los caminos autorizados y a un máximo de 30 km/h. La ruta más habitual es la pista perimetral de la Bardena Blanca."}}, {"@type": "Question", "name": "¿Qué es Castildetierra?", "acceptedAnswer": {"@type": "Answer", "text": "Una chimenea de hadas: una columna de arcilla coronada por una losa más dura que la protege de la erosión. Es el símbolo de las Bardenas y está prohibido subirse."}}, {"@type": "Question", "name": "¿Qué se rodó en las Bardenas Reales?", "acceptedAnswer": {"@type": "Answer", "text": "Escenas del mar Dothraki en la sexta temporada de Juego de Tronos y de la película de James Bond «El mundo nunca es suficiente», entre otras."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más desiertos</span><h2>Más paisajes de otro planeta</h2></div>
 <ul class="nearby"><li><a href="/blog/desierto-de-tabernas.html"><img src="/assets/img/blog/desierto-de-tabernas/portada.webp" alt="Desierto de Tabernas" loading="lazy" decoding="async" /><span>Desierto de Tabernas</span></a></li><li><a href="/blog/albarracin-que-ver.html"><img src="/assets/img/blog/albarracin-que-ver/portada.webp" alt="Albarracín" loading="lazy" decoding="async" /><span>Albarracín</span></a></li><li><a href="/blog/orbaneja-del-castillo.html"><img src="/assets/img/instagram/18093513218481944.webp" alt="Orbaneja del Castillo" loading="lazy" decoding="async" /><span>Orbaneja del Castillo</span></a></li></ul>

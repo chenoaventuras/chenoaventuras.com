@@ -17,6 +17,22 @@ igPermalink: 'https://www.instagram.com/reel/DIZdAF1owCn/'
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+faqTitulo: "Dudas sobre el Balneario de Panticosa"
+faq:
+  - q: "¿Cuánto cuesta el Balneario de Panticosa?"
+    a: "Pasear por el entorno es gratis. El acceso al spa y las termas cuesta desde 39 €, según la temporada y los servicios elegidos."
+  - q: "¿Cuánto dura el circuito termal?"
+    a: "El circuito Termas del Tiberio dura 1 hora y 15 minutos."
+  - q: "¿A qué altura está el Balneario de Panticosa?"
+    a: "A 1.636 metros de altitud, en un circo de alta montaña del Valle de Tena."
+  - q: "¿Qué hay que llevar al Balneario de Panticosa?"
+    a: "Gorro de baño y chanclas, que son obligatorios dentro del spa. Si no los tienes, se pueden comprar allí."
+  - q: "¿Hay aparcamiento en el Balneario de Panticosa?"
+    a: "Sí, el complejo tiene aparcamiento gratuito."
+  - q: "¿Dónde está el Balneario de Panticosa?"
+    a: "En el Valle de Tena (Huesca), a unos 8 km por carretera del pueblo de Panticosa."
+  - q: "¿Se puede visitar el Balneario de Panticosa sin entrar al spa?"
+    a: "Sí, pasear por el entorno, el lago y las cascadas es gratis. Solo pagas si entras a las termas."
 ---
 A **1.636 metros de altitud**, rodeado de montañas, cascadas y un lago de origen glaciar, el **Balneario de Panticosa** ofrece una de las experiencias termales más completas del <a href="/blog/pirineo-aragones-que-ver.html">Pirineo Aragonés</a>, con aguas conocidas y aprovechadas ya desde tiempos romanos.
 
@@ -49,9 +65,7 @@ Así se vive una tarde de termas en plena alta montaña 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve después de una ruta</b> — las termas sientan de maravilla con las piernas cansadas.</li><li><b>Lleva gorro y chanclas</b> — te ahorras comprarlos allí.</li><li><b>Da un paseo por el lago</b> — antes o después del spa: el entorno es gratis y precioso.</li><li><b>En invierno</b> — combínalo con un día de esquí en Formigal o Panticosa.</li></ul><p>Termas a más de 1.600 metros con picos alrededor: difícil encontrar un sitio mejor para desconectar 🧖</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Balneario de Panticosa</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta el Balneario de Panticosa?</summary><p>Pasear por el entorno es gratis. El acceso al spa y las termas cuesta desde 39 €, según la temporada y los servicios elegidos.</p></details><details><summary>¿Cuánto dura el circuito termal?</summary><p>El circuito Termas del Tiberio dura 1 hora y 15 minutos.</p></details><details><summary>¿A qué altura está el Balneario de Panticosa?</summary><p>A 1.636 metros de altitud, en un circo de alta montaña del Valle de Tena.</p></details><details><summary>¿Qué hay que llevar al Balneario de Panticosa?</summary><p>Gorro de baño y chanclas, que son obligatorios dentro del spa. Si no los tienes, se pueden comprar allí.</p></details><details><summary>¿Hay aparcamiento en el Balneario de Panticosa?</summary><p>Sí, el complejo tiene aparcamiento gratuito.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta el Balneario de Panticosa?", "acceptedAnswer": {"@type": "Answer", "text": "Pasear por el entorno es gratis. El acceso al spa y las termas cuesta desde 39 €, según la temporada y los servicios elegidos."}}, {"@type": "Question", "name": "¿Cuánto dura el circuito termal?", "acceptedAnswer": {"@type": "Answer", "text": "El circuito Termas del Tiberio dura 1 hora y 15 minutos."}}, {"@type": "Question", "name": "¿A qué altura está el Balneario de Panticosa?", "acceptedAnswer": {"@type": "Answer", "text": "A 1.636 metros de altitud, en un circo de alta montaña del Valle de Tena."}}, {"@type": "Question", "name": "¿Qué hay que llevar al Balneario de Panticosa?", "acceptedAnswer": {"@type": "Answer", "text": "Gorro de baño y chanclas, que son obligatorios dentro del spa. Si no los tienes, se pueden comprar allí."}}, {"@type": "Question", "name": "¿Hay aparcamiento en el Balneario de Panticosa?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, el complejo tiene aparcamiento gratuito."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando el Valle de Tena</h2></div>
 <ul class="nearby"><li><a href="/blog/pasarelas-de-panticosa.html"><img src="/assets/img/instagram/18131174488538752.webp" alt="Pasarelas de Panticosa" loading="lazy" decoding="async" /><span>Pasarelas de Panticosa</span></a></li><li><a href="/blog/lanuza-pueblo-embalse-huesca.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Lanuza" loading="lazy" decoding="async" /><span>Lanuza</span></a></li><li><a href="/blog/ibon-de-anayet.html"><img src="/assets/img/blog/pirineo/anayet.webp" alt="Ibón de Anayet" loading="lazy" decoding="async" /><span>Ibón de Anayet</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>

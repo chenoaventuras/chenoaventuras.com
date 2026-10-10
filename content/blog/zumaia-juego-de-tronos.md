@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - País Vasco
 wide: true
+faqTitulo: "Dudas sobre Zumaia"
+faq:
+  - q: "¿Dónde se rodó Juego de Tronos en Zumaia?"
+    a: "En la playa de Itzurun, que fue la costa de Rocadragón en la séptima temporada."
+  - q: "¿Qué es el flysch?"
+    a: "Capas de roca colocadas en vertical que muestran millones de años de historia geológica."
+  - q: "¿Cuándo ver el flysch?"
+    a: "Con marea baja, cuando aparece la rasa mareal."
+  - q: "¿Qué película se rodó en la ermita de San Telmo?"
+    a: "Ocho apellidos vascos."
+  - q: "¿Cómo llegar a la playa de Itzurun en Zumaia?"
+    a: "Desde San Sebastián, unos 30 minutos por la AP-8. La playa está junto al casco de Zumaia, al lado de la ermita de San Telmo."
 ---
 Si has visto **Juego de Tronos**, ya has estado en **Zumaia**. Su playa de **Itzurun** fue la costa de **Rocadragón** en la séptima temporada. Pero lo más alucinante no es la serie: son sus acantilados de **flysch**, capas de roca que cuentan **millones de años** de historia de la Tierra.
 
@@ -38,9 +50,7 @@ Te cuento qué ver, cuándo ir según la marea y dónde está la ermita de pelí
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Consulta las mareas</b>: con marea alta la rasa no se ve.</li><li><b>Ruta del flysch</b>: de Zumaia a Deba, una de las rutas costeras más bonitas del norte.</li><li><b>Atardecer</b>: desde la ermita de San Telmo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Zumaia</h2></div>
-<div class="faq"><details><summary>¿Dónde se rodó Juego de Tronos en Zumaia?</summary><p>En la playa de Itzurun, que fue la costa de Rocadragón en la séptima temporada.</p></details><details><summary>¿Qué es el flysch?</summary><p>Capas de roca colocadas en vertical que muestran millones de años de historia geológica.</p></details><details><summary>¿Cuándo ver el flysch?</summary><p>Con marea baja, cuando aparece la rasa mareal.</p></details><details><summary>¿Qué película se rodó en la ermita de San Telmo?</summary><p>Ocho apellidos vascos.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde se rodó Juego de Tronos en Zumaia?", "acceptedAnswer": {"@type": "Answer", "text": "En la playa de Itzurun, que fue la costa de Rocadragón en la séptima temporada."}}, {"@type": "Question", "name": "¿Qué es el flysch?", "acceptedAnswer": {"@type": "Answer", "text": "Capas de roca colocadas en vertical que muestran millones de años de historia geológica."}}, {"@type": "Question", "name": "¿Cuándo ver el flysch?", "acceptedAnswer": {"@type": "Answer", "text": "Con marea baja, cuando aparece la rasa mareal."}}, {"@type": "Question", "name": "¿Qué película se rodó en la ermita de San Telmo?", "acceptedAnswer": {"@type": "Answer", "text": "Ocho apellidos vascos."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li><li><a href="/blog/hondarribia-que-ver.html"><img src="/assets/img/blog/hondarribia-que-ver/plaza.webp" alt="Hondarribia" loading="lazy" decoding="async" /><span>Hondarribia</span></a></li><li><a href="/blog/guia-monte-igueldo.html"><img src="/assets/img/blog/monte-igueldo/portada-rio-misterioso-cheno.webp" alt="Monte Igueldo" loading="lazy" decoding="async" /><span>Monte Igueldo</span></a></li></ul>

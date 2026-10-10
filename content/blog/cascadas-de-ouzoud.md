@@ -11,6 +11,18 @@ cover: /assets/img/instagram/18304298470250182.webp
 tags:
   - Spots
 igPermalink: 'https://www.instagram.com/reel/DR7WTgNDCew/'
+faqTitulo: "Dudas sobre las cascadas de Ouzoud"
+faq:
+  - q: "¿A cuánto están las cascadas de Ouzoud de Marrakech?"
+    a: "A poco más de 2 horas en coche, así que se visitan bien en una excursión de un día."
+  - q: "¿Cuánto miden las cascadas de Ouzoud?"
+    a: "Casi 100 metros de caída repartidos en varios saltos: son las cascadas más altas de Marruecos."
+  - q: "¿Se puede bañar en las cascadas de Ouzoud?"
+    a: "Sí, en las pozas naturales de la base, sobre todo en los meses de calor."
+  - q: "¿Cómo llegar a las cascadas de Ouzoud desde Marrakech?"
+    a: "Por tu cuenta en coche o con una de las excursiones organizadas que salen cada día desde la ciudad."
+  - q: "¿Hay monos en las cascadas de Ouzoud?"
+    a: "Sí, monos de Berbería en libertad. Obsérvalos sin darles de comer ni acercarte demasiado."
 ---
 En pleno Atlas Medio marroquí, a poco más de dos horas de Marrakech, el agua se despeña casi 100 metros entre paredes de roca ocre, creando uno de los paisajes más espectaculares de todo Marruecos. Son las Cascadas de Ouzoud, y si estás por la zona, merecen una excursión de un día entero.
 
@@ -39,5 +51,8 @@ Las Cascadas de Ouzoud se encuentran a poco más de 2 horas en coche desde Marra
 <div class="article__callout article__callout--booking">🎟️ Reserva la excursión a las Cascadas de Ouzoud desde Marrakech con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/zXUgQ2tr" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
 
 Más planes en Marruecos: el [vuelo en globo sobre Marrakech](/blog/vuelo-globo-marrakech.html) al amanecer y el [mercado de pescado de Essaouira](/blog/mercado-pescado-essaouira.html).
+
+<!--faq-->
+
 
 ¿Te gustaría conocer las Cascadas de Ouzoud? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Marruecos, y échale un vistazo al resto del blog para tu próxima aventura.

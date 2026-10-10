@@ -11,6 +11,20 @@ tags:
   - Spots
   - País Vasco
 wide: true
+faqTitulo: "Dudas sobre el Castillo de Butrón"
+faq:
+  - q: "¿Se puede visitar el Castillo de Butrón?"
+    a: "Por fuera sí, gratis y sin horario. El interior es privado y solo se ha abierto en visitas guiadas puntuales."
+  - q: "¿Quién es el dueño del Castillo de Butrón?"
+    a: "Un matrimonio que lo compró en 2021 y lo restaura para uso personal; su identidad no se ha hecho pública."
+  - q: "¿Dónde está el Castillo de Butrón?"
+    a: "En Gatika (Bizkaia), a unos 25 km de Bilbao."
+  - q: "¿De qué época es el Castillo de Butrón?"
+    a: "Tiene origen medieval, pero su aspecto actual es de la reconstrucción neogótica de 1878."
+  - q: "¿Cómo llegar al Castillo de Butrón desde Bilbao?"
+    a: "En coche hasta Gatika (Bizkaia), a unos 25 km de Bilbao: media hora más o menos."
+  - q: "¿Cuánto cuesta ver el Castillo de Butrón?"
+    a: "Verlo por fuera es gratis y sin horario. El interior es privado."
 ---
 Torres, almenas y un foso, escondido entre árboles a media hora de Bilbao. El **Castillo de Butrón** parece sacado de una película de Disney, y durante años estuvo abandonado y en venta.
 
@@ -38,9 +52,7 @@ Ahora tiene nuevos dueños y se está restaurando. Te cuento qué se puede ver y
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>No saltes vallas</b>: es propiedad privada y está en obras.</li><li><b>Ve con luz de tarde</b>: el sol entre los árboles le da un aire mágico.</li><li><b>Combínalo con la costa</b>: Bakio y San Juan de Gaztelugatxe están a 20-30 minutos.</li><li><b>O con el Puente de Vizcaya</b>: a media hora, en Getxo y Portugalete.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Castillo de Butrón</h2></div>
-<div class="faq"><details><summary>¿Se puede visitar el Castillo de Butrón?</summary><p>Por fuera sí, gratis y sin horario. El interior es privado y solo se ha abierto en visitas guiadas puntuales.</p></details><details><summary>¿Quién es el dueño del Castillo de Butrón?</summary><p>Un matrimonio que lo compró en 2021 y lo restaura para uso personal; su identidad no se ha hecho pública.</p></details><details><summary>¿Dónde está el Castillo de Butrón?</summary><p>En Gatika (Bizkaia), a unos 25 km de Bilbao.</p></details><details><summary>¿De qué época es el Castillo de Butrón?</summary><p>Tiene origen medieval, pero su aspecto actual es de la reconstrucción neogótica de 1878.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede visitar el Castillo de Butrón?", "acceptedAnswer": {"@type": "Answer", "text": "Por fuera sí, gratis y sin horario. El interior es privado y solo se ha abierto en visitas guiadas puntuales."}}, {"@type": "Question", "name": "¿Quién es el dueño del Castillo de Butrón?", "acceptedAnswer": {"@type": "Answer", "text": "Un matrimonio que lo compró en 2021 y lo restaura para uso personal; su identidad no se ha hecho pública."}}, {"@type": "Question", "name": "¿Dónde está el Castillo de Butrón?", "acceptedAnswer": {"@type": "Answer", "text": "En Gatika (Bizkaia), a unos 25 km de Bilbao."}}, {"@type": "Question", "name": "¿De qué época es el Castillo de Butrón?", "acceptedAnswer": {"@type": "Answer", "text": "Tiene origen medieval, pero su aspecto actual es de la reconstrucción neogótica de 1878."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li><li><a href="/blog/puente-de-vizcaya.html"><img src="/assets/img/blog/puente-de-vizcaya/portada.webp" alt="Puente de Vizcaya" loading="lazy" decoding="async" /><span>Puente de Vizcaya</span></a></li><li><a href="/blog/bosque-de-oma.html"><img src="/assets/img/blog/bosque-de-oma/portada.webp" alt="Bosque de Oma" loading="lazy" decoding="async" /><span>Bosque de Oma</span></a></li></ul>

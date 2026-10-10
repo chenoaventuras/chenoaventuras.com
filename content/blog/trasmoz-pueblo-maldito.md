@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Aragón
 wide: true
+faq:
+  - q: "¿Por qué Trasmoz está excomulgado?"
+    a: "En el siglo XIII el pueblo se enfrentó al Monasterio de Veruela por la leña y el agua del Moncayo, y los monjes lo excomulgaron. La tradición lo relaciona también con la brujería."
+  - q: "¿Sigue Trasmoz maldito?"
+    a: "Según la tradición, sí: la maldición de 1511 nunca se ha levantado y solo el Papa podría hacerlo."
+  - q: "¿Qué tiene que ver Bécquer con Trasmoz?"
+    a: "Bécquer vivió una temporada en el Monasterio de Veruela y escribió sobre Trasmoz y sus brujas en sus Cartas desde mi celda."
+  - q: "¿Cuándo es la feria de brujería de Trasmoz?"
+    a: "Se celebra en julio. Consulta las fechas exactas con el ayuntamiento."
+  - q: "¿Cómo llegar a Trasmoz desde Zaragoza?"
+    a: "En coche, en una hora. Está en las faldas del Moncayo, a unos 20 km de Tarazona."
 ---
 Hay pueblos con leyenda y luego está **Trasmoz**. Un pueblecito del Moncayo, con apenas unas decenas de vecinos, que lleva siglos **excomulgado y maldito por la Iglesia**. Y la maldición, dicen, sigue en vigor.
 
@@ -40,9 +51,7 @@ Brujas, un castillo en ruinas y un poeta que se inspiró en todo ello. Te cuento
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve a la Feria de Brujería</b>: en julio el pueblo celebra su feria de magia, brujería y plantas medicinales del Moncayo.</li><li><b>Lee a Bécquer antes</b>: las Cartas desde mi celda le dan otra dimensión a la visita.</li><li><b>Combínalo con Veruela</b>: la historia se entiende mejor viendo los dos lados del conflicto.</li><li><b>Sube al Moncayo</b>: si tienes tiempo, el Parque Natural del Moncayo tiene rutas para todos los niveles.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Trasmoz</h2></div>
-<div class="faq"><details><summary>¿Por qué Trasmoz está excomulgado?</summary><p>En el siglo XIII el pueblo se enfrentó al Monasterio de Veruela por la leña y el agua del Moncayo, y los monjes lo excomulgaron. La tradición lo relaciona también con la brujería.</p></details><details><summary>¿Sigue Trasmoz maldito?</summary><p>Según la tradición, sí: la maldición de 1511 nunca se ha levantado y solo el Papa podría hacerlo.</p></details><details><summary>¿Qué tiene que ver Bécquer con Trasmoz?</summary><p>Bécquer vivió una temporada en el Monasterio de Veruela y escribió sobre Trasmoz y sus brujas en sus Cartas desde mi celda.</p></details><details><summary>¿Cuándo es la feria de brujería de Trasmoz?</summary><p>Se celebra en julio. Consulta las fechas exactas con el ayuntamiento.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué Trasmoz está excomulgado?", "acceptedAnswer": {"@type": "Answer", "text": "En el siglo XIII el pueblo se enfrentó al Monasterio de Veruela por la leña y el agua del Moncayo, y los monjes lo excomulgaron. La tradición lo relaciona también con la brujería."}}, {"@type": "Question", "name": "¿Sigue Trasmoz maldito?", "acceptedAnswer": {"@type": "Answer", "text": "Según la tradición, sí: la maldición de 1511 nunca se ha levantado y solo el Papa podría hacerlo."}}, {"@type": "Question", "name": "¿Qué tiene que ver Bécquer con Trasmoz?", "acceptedAnswer": {"@type": "Answer", "text": "Bécquer vivió una temporada en el Monasterio de Veruela y escribió sobre Trasmoz y sus brujas en sus Cartas desde mi celda."}}, {"@type": "Question", "name": "¿Cuándo es la feria de brujería de Trasmoz?", "acceptedAnswer": {"@type": "Answer", "text": "Se celebra en julio. Consulta las fechas exactas con el ayuntamiento."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/bardenas-reales.html"><img src="/assets/img/blog/bardenas-reales/portada.webp" alt="Bardenas Reales" loading="lazy" decoding="async" /><span>Bardenas Reales</span></a></li><li><a href="/blog/monasterio-de-piedra.html"><img src="/assets/img/blog/monasterio-de-piedra/portada.webp" alt="Monasterio de Piedra" loading="lazy" decoding="async" /><span>Monasterio de Piedra</span></a></li><li><a href="/blog/medinaceli-que-ver.html"><img src="/assets/img/blog/medinaceli-que-ver/portada.webp" alt="Medinaceli" loading="lazy" decoding="async" /><span>Medinaceli</span></a></li></ul>

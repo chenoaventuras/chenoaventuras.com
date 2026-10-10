@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DWo64-nDPc5/'
+faq:
+  - q: "¿Dónde está Aguilar de Campoo?"
+    a: "En el norte de Palencia, en plena Montaña Palentina y muy cerca de Cantabria: Reinosa queda a un paso."
+  - q: "¿Cuánto tiempo hace falta para ver Aguilar de Campoo?"
+    a: "Unas 5 horas para ver con calma la colegiata, el castillo, el monasterio de Santa María la Real, el embalse y el puente del Portazgo."
+  - q: "¿Dónde aparcar en Aguilar de Campoo?"
+    a: "Tiene buen acceso en coche y aparcamiento gratuito en el pueblo."
+  - q: "¿Qué ver en Aguilar de Campoo con niños?"
+    a: "La subida al castillo, el paseo junto al embalse y el puente medieval son fáciles y gustan a todas las edades: la visita es de dificultad baja y apta para todos."
+  - q: "¿Por qué Aguilar de Campoo es el pueblo de las galletas?"
+    a: "Porque lleva generaciones fabricándolas, primero con Fontaneda y hoy con Gullón. Ese pasado galletero forma parte de la identidad del pueblo."
 ---
 Todo el mundo conoce Aguilar de Campoo por sus galletas, pero quien solo se queda con eso se pierde uno de los pueblos más completos que hay para visitar en la Montaña Palentina: castillo, románico, un embalse y un casco histórico que da para todo un día.
 
@@ -41,5 +52,8 @@ Aguilar de Campoo lleva ligado a la fabricación de galletas desde hace generaci
 El pueblo tiene fácil acceso en coche y aparcamiento gratuito. Puedes consultar la ruta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Aguilar%20de%20Campoo%2C%20Palencia). Para verlo con calma —colegiata, castillo, monasterio, embalse y puente— hacen falta unas 5 horas, que se pasan volando dada la cantidad de sitios que hay que ver. Se puede visitar durante todo el año y la dificultad es baja, apta para todos los públicos.
 
 Si quieres alargar la escapada hacia Cantabria, muy cerca tienes Reinosa, con su [máquina de leche recién ordeñada](/blog/maquina-leche-reinosa-cantabria.html), y algo más al norte el [Partenón cántabro de Las Fraguas](/blog/partenon-de-las-fraguas-cantabria.html).
+
+<!--faq-->
+
 
 ¿Ya conocías Aguilar de Campoo más allá de las galletas? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más pueblos completos de España, y échale un vistazo al resto del blog para tu próxima escapada.

@@ -11,6 +11,17 @@ tags:
   - Spots
   - Comunidad Valenciana
 wide: true
+faq:
+  - q: "¿Cuánto cuesta entrar al castillo de Xàtiva?"
+    a: "La entrada general cuesta unos 6 €, con reducida para jubilados y titulares del Carnet Jove. Conviene comprarla online porque hay aforo limitado."
+  - q: "¿Por qué el retrato de Felipe V está boca abajo en Xàtiva?"
+    a: "Como desagravio por la quema de la ciudad que ordenó en 1707, durante la Guerra de Sucesión. Cuelga así desde 1957 en el Museo de Bellas Artes."
+  - q: "¿Qué papas nacieron en Xàtiva?"
+    a: "Calixto III y Alejandro VI, de la familia Borja."
+  - q: "¿Se puede subir andando al castillo de Xàtiva?"
+    a: "Sí, desde el casco antiguo, aunque es una cuesta exigente. También se puede subir en coche o en el trenecito turístico."
+  - q: "¿Cómo llegar a Xàtiva desde Valencia?"
+    a: "En coche, en unos 45 minutos, o en tren de Cercanías desde Valencia. Al castillo puedes subir andando, en coche o en el trenecito turístico."
 ---
 Un castillo gigantesco que recorre la cresta de una sierra, una ciudad con casi mil fuentes y un museo donde un **rey cuelga boca abajo** desde hace décadas. **Xàtiva** tiene historia de sobra: aquí nacieron dos papas Borja y aquí se fabricó el primer papel de Europa.
 
@@ -41,9 +52,7 @@ Te cuento qué ver y cómo organizar la subida al castillo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Reserva el castillo online</b>: el aforo es limitado y en taquilla quedan pocas entradas.</li><li><b>Sube a primera hora</b>: en verano el sol pega fuerte en la ladera.</li><li><b>Busca el cuadro de Felipe V</b>: en el Museo de Bellas Artes (L'Almodí).</li><li><b>Bebe de sus fuentes</b>: Xàtiva es famosa por sus fuentes públicas; la de los 25 caños es la más conocida.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Xàtiva</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar al castillo de Xàtiva?</summary><p>La entrada general cuesta unos 6 €, con reducida para jubilados y titulares del Carnet Jove. Conviene comprarla online porque hay aforo limitado.</p></details><details><summary>¿Por qué el retrato de Felipe V está boca abajo en Xàtiva?</summary><p>Como desagravio por la quema de la ciudad que ordenó en 1707, durante la Guerra de Sucesión. Cuelga así desde 1957 en el Museo de Bellas Artes.</p></details><details><summary>¿Qué papas nacieron en Xàtiva?</summary><p>Calixto III y Alejandro VI, de la familia Borja.</p></details><details><summary>¿Se puede subir andando al castillo de Xàtiva?</summary><p>Sí, desde el casco antiguo, aunque es una cuesta exigente. También se puede subir en coche o en el trenecito turístico.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar al castillo de Xàtiva?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta unos 6 €, con reducida para jubilados y titulares del Carnet Jove. Conviene comprarla online porque hay aforo limitado."}}, {"@type": "Question", "name": "¿Por qué el retrato de Felipe V está boca abajo en Xàtiva?", "acceptedAnswer": {"@type": "Answer", "text": "Como desagravio por la quema de la ciudad que ordenó en 1707, durante la Guerra de Sucesión. Cuelga así desde 1957 en el Museo de Bellas Artes."}}, {"@type": "Question", "name": "¿Qué papas nacieron en Xàtiva?", "acceptedAnswer": {"@type": "Answer", "text": "Calixto III y Alejandro VI, de la familia Borja."}}, {"@type": "Question", "name": "¿Se puede subir andando al castillo de Xàtiva?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, desde el casco antiguo, aunque es una cuesta exigente. También se puede subir en coche o en el trenecito turístico."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Valencia</span><h2>Sigue por la Comunidad Valenciana</h2></div>
 <ul class="nearby"><li><a href="/blog/peniscola-que-ver.html"><img src="/assets/img/blog/peniscola-que-ver/portada.webp" alt="Peñíscola" loading="lazy" decoding="async" /><span>Peñíscola</span></a></li><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.webp" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li><li><a href="/blog/guadalest-que-ver.html"><img src="/assets/img/instagram/18096219011376691.webp" alt="Guadalest" loading="lazy" decoding="async" /><span>Guadalest</span></a></li></ul>

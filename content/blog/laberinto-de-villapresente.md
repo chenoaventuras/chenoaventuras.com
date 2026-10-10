@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Cantabria
 wide: true
+faqTitulo: "Dudas sobre el Laberinto de Villapresente"
+faq:
+  - q: "¿Cuál es el laberinto más grande de España?"
+    a: "El de Villapresente, en Cantabria, con más de 5 km de pasillos sobre 5.625 m²."
+  - q: "¿Cuánto se tarda en recorrerlo?"
+    a: "Entre 45 minutos y más de una hora para llegar al centro y salir."
+  - q: "¿Dónde está?"
+    a: "En Villapresente (Reocín), a unos 10 minutos de Santillana del Mar."
+  - q: "¿Está abierto todo el año?"
+    a: "No siempre; algunos meses de invierno cierra. Consulta su web."
+  - q: "¿Es buen plan el Laberinto de Villapresente con niños?"
+    a: "Sí, les encanta y es un buen plan de medio día, combinado con Santillana del Mar."
 ---
 Más de **5 kilómetros** de pasillos entre muros de ciprés de **2,5 metros** de alto. El **Laberinto de Villapresente**, en Cantabria, es el **laberinto vegetal más grande de España**.
 
@@ -37,9 +49,7 @@ Te cuento cómo es, cuánto se tarda en salir y por qué es un plan perfecto par
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve con niños</b>: les encanta, y es un buen plan de medio día.</li><li><b>Combina</b>: con Santillana del Mar, Comillas o el Bosque de Secuoyas, que están cerca.</li><li><b>Calzado cómodo</b>: el suelo puede estar húmedo después de llover.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Laberinto de Villapresente</h2></div>
-<div class="faq"><details><summary>¿Cuál es el laberinto más grande de España?</summary><p>El de Villapresente, en Cantabria, con más de 5 km de pasillos sobre 5.625 m².</p></details><details><summary>¿Cuánto se tarda en recorrerlo?</summary><p>Entre 45 minutos y más de una hora para llegar al centro y salir.</p></details><details><summary>¿Dónde está?</summary><p>En Villapresente (Reocín), a unos 10 minutos de Santillana del Mar.</p></details><details><summary>¿Está abierto todo el año?</summary><p>No siempre; algunos meses de invierno cierra. Consulta su web.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es el laberinto más grande de España?", "acceptedAnswer": {"@type": "Answer", "text": "El de Villapresente, en Cantabria, con más de 5 km de pasillos sobre 5.625 m²."}}, {"@type": "Question", "name": "¿Cuánto se tarda en recorrerlo?", "acceptedAnswer": {"@type": "Answer", "text": "Entre 45 minutos y más de una hora para llegar al centro y salir."}}, {"@type": "Question", "name": "¿Dónde está?", "acceptedAnswer": {"@type": "Answer", "text": "En Villapresente (Reocín), a unos 10 minutos de Santillana del Mar."}}, {"@type": "Question", "name": "¿Está abierto todo el año?", "acceptedAnswer": {"@type": "Answer", "text": "No siempre; algunos meses de invierno cierra. Consulta su web."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/santillana-del-mar-que-ver.html"><img src="/assets/img/blog/santillana-del-mar-que-ver/portada.webp" alt="Santillana del Mar" loading="lazy" decoding="async" /><span>Santillana del Mar</span></a></li><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/bosque-de-secuoyas-cabezon-de-la-sal.html"><img src="/assets/img/blog/bosque-de-secuoyas-cabezon-de-la-sal/portada.webp" alt="Bosque de Secuoyas" loading="lazy" decoding="async" /><span>Bosque de Secuoyas</span></a></li></ul>

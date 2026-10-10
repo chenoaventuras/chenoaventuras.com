@@ -13,6 +13,24 @@ tags:
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DcOyoVXRSZy/'
 wide: true
+faqTitulo: "Dudas sobre la Batería de Castillitos"
+faq:
+  - q: "¿Cómo se llega a la Batería de Castillitos?"
+    a: "Desde Cartagena, por la carretera de La Azohía. A la altura del km 7 sale el desvío hacia Campillo de Adentro y el Faro de Cabo Tiñoso; desde ahí son unos 7 km de carretera de montaña, asfaltada entera en 2025, hasta el aparcamiento."
+  - q: "¿Hay que pagar para visitar la Batería de Castillitos?"
+    a: "No. Tanto la visita como el aparcamiento son gratis."
+  - q: "¿Qué horario tiene?"
+    a: "No tiene horario: es un espacio al aire libre y se puede visitar cualquier día y a cualquier hora."
+  - q: "¿Se puede entrar dentro de la batería?"
+    a: "No. Lo que se recorre es el exterior: las torres, las murallas y la explanada de los cañones. Las dependencias interiores no están abiertas al público."
+  - q: "¿Cuánto tiempo se necesita?"
+    a: "Con una hora tienes de sobra para verla con calma y hacer fotos. Si sumas las otras baterías de la zona o una ruta a pie, cuenta media mañana."
+  - q: "¿Se puede ir en autocaravana?"
+    a: "La carretera es estrecha y con muchas curvas, y el aparcamiento es pequeño, así que no es recomendable con vehículos grandes, sobre todo en fin de semana o temporada alta."
+  - q: "¿Dónde aparcar en la Batería de Castillitos?"
+    a: "Hay un aparcamiento gratuito al final de la carretera, junto a la batería."
+  - q: "¿Dónde está la Batería de Castillitos?"
+    a: "En Cabo Tiñoso, en Cartagena (Región de Murcia), al borde de un acantilado a 250 metros sobre el mar."
 ---
 Hay sitios que sorprenden por las vistas, otros por la historia, y luego está la **Batería de Castillitos**, en Cabo Tiñoso (Cartagena), que te da las dos cosas a la vez y encima con unos cañones que parecen sacados de una peli. Un castillo de cuento al borde de un acantilado, con el Mediterráneo a 250 metros por debajo.
 
@@ -46,9 +64,7 @@ Aquí te cuento cómo llegar, dónde aparcar, qué ver y las fotos que no te pue
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Ve al atardecer</b>: la piedra se pone dorada y el sol cae sobre la costa de Mazarrón.</li><li><b>Agua, gorra y crema</b>: apenas hay sombra y no hay ningún servicio cerca.</li><li><b>Cuidado con los acantilados</b>: el terreno es irregular y no todo tiene barandilla.</li><li><b>¿Dron?</b> Estás cerca de la base naval de Cartagena: mira antes las zonas restringidas (te lo explico en <a href="/blog/volar-dron-legal-espana.html">cómo volar un dron de forma legal</a>).</li><li><b>Llévate tu basura</b>: es espacio natural y patrimonio a la vez.</li></ul><p>Mi plan ideal: subir por la tarde, ver las baterías de la zona y quedarse en Castillitos hasta que se ponga el sol 🌅</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Batería de Castillitos</h2></div>
-<div class="faq"><details><summary>¿Cómo se llega a la Batería de Castillitos?</summary><p>Desde Cartagena, por la carretera de La Azohía. A la altura del km 7 sale el desvío hacia Campillo de Adentro y el Faro de Cabo Tiñoso; desde ahí son unos 7 km de carretera de montaña, asfaltada entera en 2025, hasta el aparcamiento.</p></details><details><summary>¿Hay que pagar para visitar la Batería de Castillitos?</summary><p>No. Tanto la visita como el aparcamiento son gratis.</p></details><details><summary>¿Qué horario tiene?</summary><p>No tiene horario: es un espacio al aire libre y se puede visitar cualquier día y a cualquier hora.</p></details><details><summary>¿Se puede entrar dentro de la batería?</summary><p>No. Lo que se recorre es el exterior: las torres, las murallas y la explanada de los cañones. Las dependencias interiores no están abiertas al público.</p></details><details><summary>¿Cuánto tiempo se necesita?</summary><p>Con una hora tienes de sobra para verla con calma y hacer fotos. Si sumas las otras baterías de la zona o una ruta a pie, cuenta media mañana.</p></details><details><summary>¿Se puede ir en autocaravana?</summary><p>La carretera es estrecha y con muchas curvas, y el aparcamiento es pequeño, así que no es recomendable con vehículos grandes, sobre todo en fin de semana o temporada alta.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cómo se llega a la Batería de Castillitos?", "acceptedAnswer": {"@type": "Answer", "text": "Desde Cartagena, por la carretera de La Azohía. A la altura del km 7 sale el desvío hacia Campillo de Adentro y el Faro de Cabo Tiñoso; desde ahí son unos 7 km de carretera de montaña, asfaltada entera en 2025, hasta el aparcamiento."}}, {"@type": "Question", "name": "¿Hay que pagar para visitar la Batería de Castillitos?", "acceptedAnswer": {"@type": "Answer", "text": "No. Tanto la visita como el aparcamiento son gratis."}}, {"@type": "Question", "name": "¿Qué horario tiene?", "acceptedAnswer": {"@type": "Answer", "text": "No tiene horario: es un espacio al aire libre y se puede visitar cualquier día y a cualquier hora."}}, {"@type": "Question", "name": "¿Se puede entrar dentro de la batería?", "acceptedAnswer": {"@type": "Answer", "text": "No. Lo que se recorre es el exterior: las torres, las murallas y la explanada de los cañones. Las dependencias interiores no están abiertas al público."}}, {"@type": "Question", "name": "¿Cuánto tiempo se necesita?", "acceptedAnswer": {"@type": "Answer", "text": "Con una hora tienes de sobra para verla con calma y hacer fotos. Si sumas las otras baterías de la zona o una ruta a pie, cuenta media mañana."}}, {"@type": "Question", "name": "¿Se puede ir en autocaravana?", "acceptedAnswer": {"@type": "Answer", "text": "La carretera es estrecha y con muchas curvas, y el aparcamiento es pequeño, así que no es recomendable con vehículos grandes, sobre todo en fin de semana o temporada alta."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando la Región de Murcia</h2></div>
 <ul class="nearby"><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Snorkel en Cabo de Palos" loading="lazy" decoding="async" /><span>Snorkel en Cabo de Palos</span></a></li><li><a href="/blog/cueva-del-puerto-calasparra.html"><img src="/assets/img/instagram/17975666267783470.webp" alt="Cueva del Puerto (Calasparra)" loading="lazy" decoding="async" /><span>Cueva del Puerto (Calasparra)</span></a></li><li><a href="/blog/rafting-canon-de-almadenes.html"><img src="/assets/img/instagram/18079196165076381.webp" alt="Rafting en el Cañón de Almadenes" loading="lazy" decoding="async" /><span>Rafting en el Cañón de Almadenes</span></a></li><li><a href="/blog/fuente-del-gorgoton-cieza.html"><img src="/assets/img/instagram/17940241613914417.webp" alt="Fuente del Gorgotón (Cieza)" loading="lazy" decoding="async" /><span>Fuente del Gorgotón (Cieza)</span></a></li></ul>

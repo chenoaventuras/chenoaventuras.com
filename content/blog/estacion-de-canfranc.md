@@ -17,6 +17,24 @@ igPermalink: 'https://www.instagram.com/reel/DMAXmrWIKC9/'
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+faqTitulo: "Dudas sobre la Estación de Canfranc"
+faq:
+  - q: "¿Cuánto cuesta visitar la Estación de Canfranc?"
+    a: "Ver los exteriores es gratis. Para visitar algunas zonas interiores hace falta entrada, que cuesta 6 € en la web del Ayuntamiento."
+  - q: "¿Por qué cerró la Estación de Canfranc?"
+    a: "En 1970 un tren de mercancías descarriló y derrumbó el puente de L'Estanguet, en Francia, cortando la línea internacional."
+  - q: "¿Qué pasó en Canfranc en la Segunda Guerra Mundial?"
+    a: "Fue vía de escape para refugiados y ruta de contrabando de oro y wolframio entre la España de Franco y la Alemania de Hitler."
+  - q: "¿Se puede dormir en la Estación de Canfranc?"
+    a: "Sí, desde 2023 el edificio histórico es el hotel Canfranc Estación, con precios desde unos 200 € la noche."
+  - q: "¿Siguen pasando trenes por Canfranc?"
+    a: "Sí, hay trenes de Media Distancia de Renfe hasta Zaragoza."
+  - q: "¿Se puede visitar la Estación de Canfranc por libre?"
+    a: "Los exteriores sí, gratis. Para las zonas interiores hace falta entrada (6 €), a la venta en la web del Ayuntamiento."
+  - q: "¿Dónde está la Estación de Canfranc?"
+    a: "En Canfranc-Estación, en el Pirineo de Huesca, muy cerca de la frontera con Francia."
+  - q: "¿Cuánto se tarda en ver la Estación de Canfranc?"
+    a: "Unos 40 minutos recorriéndola por tu cuenta."
 ---
 En pleno Pirineo oscense hay una estación de tren que parece sacada de otro país: fachadas monumentales, un pasado ligado a **espías y contrabando**, y una historia de abandono y resurrección que la convierte en una de las paradas más sorprendentes de la zona.
 
@@ -50,9 +68,7 @@ Así es la **Estación Internacional de Canfranc** en mi vídeo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Haz la visita guiada</b> — si quieres ver los interiores: se reserva en la web del Ayuntamiento.</li><li><b>Busca los detalles</b> — las ventanas, la marquesina y las vías antiguas tienen mucha historia.</li><li><b>Combínala con Jaca</b> — está a solo 15-20 minutos.</li><li><b>Ven en tren</b> — llegar en tren a la estación más bonita de España tiene su encanto 🚂</li></ul><p>Si te gustan las historias de espías, lee sobre el contrabando de oro de la Segunda Guerra Mundial antes de ir: la visita cambia por completo 🕵️</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Estación de Canfranc</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta visitar la Estación de Canfranc?</summary><p>Ver los exteriores es gratis. Para visitar algunas zonas interiores hace falta entrada, que cuesta 6 € en la web del Ayuntamiento.</p></details><details><summary>¿Por qué cerró la Estación de Canfranc?</summary><p>En 1970 un tren de mercancías descarriló y derrumbó el puente de L'Estanguet, en Francia, cortando la línea internacional.</p></details><details><summary>¿Qué pasó en Canfranc en la Segunda Guerra Mundial?</summary><p>Fue vía de escape para refugiados y ruta de contrabando de oro y wolframio entre la España de Franco y la Alemania de Hitler.</p></details><details><summary>¿Se puede dormir en la Estación de Canfranc?</summary><p>Sí, desde 2023 el edificio histórico es el hotel Canfranc Estación, con precios desde unos 200 € la noche.</p></details><details><summary>¿Siguen pasando trenes por Canfranc?</summary><p>Sí, hay trenes de Media Distancia de Renfe hasta Zaragoza.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta visitar la Estación de Canfranc?", "acceptedAnswer": {"@type": "Answer", "text": "Ver los exteriores es gratis. Para visitar algunas zonas interiores hace falta entrada, que cuesta 6 € en la web del Ayuntamiento."}}, {"@type": "Question", "name": "¿Por qué cerró la Estación de Canfranc?", "acceptedAnswer": {"@type": "Answer", "text": "En 1970 un tren de mercancías descarriló y derrumbó el puente de L'Estanguet, en Francia, cortando la línea internacional."}}, {"@type": "Question", "name": "¿Qué pasó en Canfranc en la Segunda Guerra Mundial?", "acceptedAnswer": {"@type": "Answer", "text": "Fue vía de escape para refugiados y ruta de contrabando de oro y wolframio entre la España de Franco y la Alemania de Hitler."}}, {"@type": "Question", "name": "¿Se puede dormir en la Estación de Canfranc?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, desde 2023 el edificio histórico es el hotel Canfranc Estación, con precios desde unos 200 € la noche."}}, {"@type": "Question", "name": "¿Siguen pasando trenes por Canfranc?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, hay trenes de Media Distancia de Renfe hasta Zaragoza."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando el Pirineo</h2></div>
 <ul class="nearby"><li><a href="/blog/lanuza-pueblo-embalse-huesca.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Lanuza" loading="lazy" decoding="async" /><span>Lanuza</span></a></li><li><a href="/blog/ibon-de-anayet.html"><img src="/assets/img/blog/pirineo/anayet.webp" alt="Ibón de Anayet" loading="lazy" decoding="async" /><span>Ibón de Anayet</span></a></li><li><a href="/blog/pasarelas-de-panticosa.html"><img src="/assets/img/instagram/18131174488538752.webp" alt="Pasarelas de Panticosa" loading="lazy" decoding="async" /><span>Pasarelas de Panticosa</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>

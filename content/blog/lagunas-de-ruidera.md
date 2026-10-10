@@ -11,6 +11,20 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+faqTitulo: "Dudas sobre las Lagunas de Ruidera"
+faq:
+  - q: "¿Se puede bañar en las Lagunas de Ruidera?"
+    a: "Sí, en verano el baño está permitido en zonas autorizadas de varias lagunas. En el resto está prohibido para proteger el parque natural."
+  - q: "¿Cuántas lagunas hay en Ruidera?"
+    a: "Quince lagunas encadenadas a lo largo de unos 30 km, unidas por cascadas y barreras de toba."
+  - q: "¿Se pueden alquilar kayaks en Ruidera?"
+    a: "Sí, hay empresas que alquilan kayaks, paddle surf y barcas sin motor en temporada."
+  - q: "¿Qué relación tienen las Lagunas de Ruidera con el Quijote?"
+    a: "Cervantes situó en la cercana Cueva de Montesinos uno de los episodios del Quijote, y en la novela las lagunas son la dueña Ruidera y sus hijas encantadas por Merlín."
+  - q: "¿Cómo llegar a las Lagunas de Ruidera desde Madrid?"
+    a: "En unas 2 horas y media: por la A-4 hasta Manzanares y luego hacia Ruidera."
+  - q: "¿Dónde están las Lagunas de Ruidera?"
+    a: "Entre Ciudad Real y Albacete, alrededor de los pueblos de Ruidera y Ossa de Montiel."
 ---
 En mitad de la llanura manchega, de repente, aparece un rosario de **quince lagunas de agua turquesa** unidas por cascadas, rodeadas de pinos y sabinas. Las **Lagunas de Ruidera** son un auténtico oasis en el interior de España, y en verano se convierten en una de las mejores «playas» de interior.
 
@@ -41,9 +55,7 @@ Te cuento dónde bañarte, qué actividades hacer y qué rincones no te puedes p
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlas al máximo</h2><ul><li><b>Fuera de agosto, mejor</b>: en pleno verano hay mucha gente; en junio o septiembre se disfruta más.</li><li><b>Báñate solo en zonas autorizadas</b>: el parque está muy protegido y la normativa se vigila.</li><li><b>Visita la Cueva de Montesinos</b>: el guiño quijotesco perfecto para completar la escapada.</li><li><b>Llévate tu basura</b>: y respeta la vegetación de las orillas.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre las Lagunas de Ruidera</h2></div>
-<div class="faq"><details><summary>¿Se puede bañar en las Lagunas de Ruidera?</summary><p>Sí, en verano el baño está permitido en zonas autorizadas de varias lagunas. En el resto está prohibido para proteger el parque natural.</p></details><details><summary>¿Cuántas lagunas hay en Ruidera?</summary><p>Quince lagunas encadenadas a lo largo de unos 30 km, unidas por cascadas y barreras de toba.</p></details><details><summary>¿Se pueden alquilar kayaks en Ruidera?</summary><p>Sí, hay empresas que alquilan kayaks, paddle surf y barcas sin motor en temporada.</p></details><details><summary>¿Qué relación tienen las Lagunas de Ruidera con el Quijote?</summary><p>Cervantes situó en la cercana Cueva de Montesinos uno de los episodios del Quijote, y en la novela las lagunas son la dueña Ruidera y sus hijas encantadas por Merlín.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede bañar en las Lagunas de Ruidera?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, en verano el baño está permitido en zonas autorizadas de varias lagunas. En el resto está prohibido para proteger el parque natural."}}, {"@type": "Question", "name": "¿Cuántas lagunas hay en Ruidera?", "acceptedAnswer": {"@type": "Answer", "text": "Quince lagunas encadenadas a lo largo de unos 30 km, unidas por cascadas y barreras de toba."}}, {"@type": "Question", "name": "¿Se pueden alquilar kayaks en Ruidera?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, hay empresas que alquilan kayaks, paddle surf y barcas sin motor en temporada."}}, {"@type": "Question", "name": "¿Qué relación tienen las Lagunas de Ruidera con el Quijote?", "acceptedAnswer": {"@type": "Answer", "text": "Cervantes situó en la cercana Cueva de Montesinos uno de los episodios del Quijote, y en la novela las lagunas son la dueña Ruidera y sus hijas encantadas por Merlín."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más agua</span><h2>Más planes con agua</h2></div>
 <ul class="nearby"><li><a href="/blog/puebla-de-sanabria.html"><img src="/assets/img/blog/puebla-de-sanabria/portada.webp" alt="Lago de Sanabria" loading="lazy" decoding="async" /><span>Lago de Sanabria</span></a></li><li><a href="/blog/laguna-de-una-cuenca.html"><img src="/assets/img/blog/cuenca/una-laguna.webp" alt="Laguna de Uña" loading="lazy" decoding="async" /><span>Laguna de Uña</span></a></li><li><a href="/blog/alcala-del-jucar.html"><img src="/assets/img/blog/alcala-del-jucar/portada.webp" alt="Alcalá del Júcar" loading="lazy" decoding="async" /><span>Alcalá del Júcar</span></a></li></ul>

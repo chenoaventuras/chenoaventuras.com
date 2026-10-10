@@ -11,6 +11,17 @@ tags:
   - Curiosidades
   - Castilla y León
 wide: true
+faq:
+  - q: "¿Qué pueblo está dividido entre España y Portugal?"
+    a: "Rihonor de Castilla (España) y Rio de Onor (Portugal) forman un solo pueblo dividido por la frontera."
+  - q: "¿Hay control de frontera?"
+    a: "No, se pasa libremente de un lado a otro."
+  - q: "¿Qué idioma se habla?"
+    a: "Castellano y portugués, y antiguamente el rionorés, un dialecto leonés."
+  - q: "¿Dónde está Rihonor?"
+    a: "En Zamora, al norte de la Sierra de la Culebra, cerca de Bragança."
+  - q: "¿Cómo llegar a Rihonor de Castilla?"
+    a: "Desde Puebla de Sanabria, unos 35 minutos en coche hacia Pedralba de la Pradería y luego hasta Rihonor."
 ---
 Imagina que vas a casa de tu vecino y **cambias de país**. En **Rihonor de Castilla** (Zamora) pasa eso: el pueblo forma **un solo núcleo** con **Rio de Onor**, en Portugal. Una calle hace de frontera.
 
@@ -38,9 +49,7 @@ Te cuento cómo es, cómo se llaman las dos mitades y qué ver allí 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Cambia el reloj</b>: en la parte portuguesa es una hora menos.</li><li><b>Combínalo</b>: con el Lago de Sanabria y Puebla de Sanabria.</li><li><b>Bragança</b>: una ciudad amurallada muy bonita, a un paso.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Rihonor de Castilla</h2></div>
-<div class="faq"><details><summary>¿Qué pueblo está dividido entre España y Portugal?</summary><p>Rihonor de Castilla (España) y Rio de Onor (Portugal) forman un solo pueblo dividido por la frontera.</p></details><details><summary>¿Hay control de frontera?</summary><p>No, se pasa libremente de un lado a otro.</p></details><details><summary>¿Qué idioma se habla?</summary><p>Castellano y portugués, y antiguamente el rionorés, un dialecto leonés.</p></details><details><summary>¿Dónde está Rihonor?</summary><p>En Zamora, al norte de la Sierra de la Culebra, cerca de Bragança.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué pueblo está dividido entre España y Portugal?", "acceptedAnswer": {"@type": "Answer", "text": "Rihonor de Castilla (España) y Rio de Onor (Portugal) forman un solo pueblo dividido por la frontera."}}, {"@type": "Question", "name": "¿Hay control de frontera?", "acceptedAnswer": {"@type": "Answer", "text": "No, se pasa libremente de un lado a otro."}}, {"@type": "Question", "name": "¿Qué idioma se habla?", "acceptedAnswer": {"@type": "Answer", "text": "Castellano y portugués, y antiguamente el rionorés, un dialecto leonés."}}, {"@type": "Question", "name": "¿Dónde está Rihonor?", "acceptedAnswer": {"@type": "Answer", "text": "En Zamora, al norte de la Sierra de la Culebra, cerca de Bragança."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/puebla-de-sanabria.html"><img src="/assets/img/blog/puebla-de-sanabria/portada.webp" alt="Puebla de Sanabria" loading="lazy" decoding="async" /><span>Puebla de Sanabria</span></a></li><li><a href="/blog/astorga-que-ver.html"><img src="/assets/img/blog/astorga-que-ver/portada.webp" alt="Astorga" loading="lazy" decoding="async" /><span>Astorga</span></a></li><li><a href="/blog/uruena-que-ver.html"><img src="/assets/img/blog/uruena-que-ver/muralla.webp" alt="Urueña" loading="lazy" decoding="async" /><span>Urueña</span></a></li></ul>

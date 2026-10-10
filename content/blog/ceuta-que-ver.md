@@ -11,6 +11,19 @@ tags:
   - Spots
   - Ceuta
 wide: true
+faq:
+  - q: "¿Cómo se llega a Ceuta?"
+    a: "En ferry desde Algeciras (alrededor de una hora) o en helicóptero desde Málaga o Algeciras."
+  - q: "¿Hace falta pasaporte para ir a Ceuta?"
+    a: "No, desde la península basta con el DNI. El pasaporte solo es necesario si vas a cruzar a Marruecos."
+  - q: "¿Se puede hacer kayak en las Murallas Reales?"
+    a: "Sí, el foso navegable de las Murallas Reales se puede recorrer en kayak con empresas locales."
+  - q: "¿Qué es la Mujer Muerta?"
+    a: "El monte Jebel Musa, en Marruecos, cuya silueta parece una mujer tumbada. Se ve desde la costa oeste de Ceuta."
+  - q: "¿Se puede ir a Ceuta en coche?"
+    a: "Sí, en el ferry desde Algeciras puedes llevar el coche. La travesía dura alrededor de una hora."
+  - q: "¿Cuántos días hacen falta para ver Ceuta?"
+    a: "Un día da para lo principal. Si quieres hacer kayak, rutas o snorkel, mejor un fin de semana."
 ---
 Una ciudad española en el norte de África, entre el Mediterráneo y el Atlántico, con murallas que se recorren **en kayak** por un foso de agua de mar. **Ceuta** sorprende a casi todo el que llega: fortalezas, calas, un monte con vistas al Estrecho y la silueta de la **Mujer Muerta** en el horizonte.
 
@@ -41,9 +54,7 @@ Te cuento qué ver y qué aventuras hacer 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Haz el kayak por el foso</b>: la experiencia más diferente de Ceuta.</li><li><b>Rodea el Monte Hacho</b>: miradores al Estrecho y, en días claros, Gibraltar enfrente.</li><li><b>Snorkel en sus calas</b>: las aguas del Estrecho son muy ricas en vida marina.</li><li><b>Prueba la mezcla de culturas</b>: en la gastronomía de Ceuta se nota su mezcla de culturas.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Ceuta</h2></div>
-<div class="faq"><details><summary>¿Cómo se llega a Ceuta?</summary><p>En ferry desde Algeciras (alrededor de una hora) o en helicóptero desde Málaga o Algeciras.</p></details><details><summary>¿Hace falta pasaporte para ir a Ceuta?</summary><p>No, desde la península basta con el DNI. El pasaporte solo es necesario si vas a cruzar a Marruecos.</p></details><details><summary>¿Se puede hacer kayak en las Murallas Reales?</summary><p>Sí, el foso navegable de las Murallas Reales se puede recorrer en kayak con empresas locales.</p></details><details><summary>¿Qué es la Mujer Muerta?</summary><p>El monte Jebel Musa, en Marruecos, cuya silueta parece una mujer tumbada. Se ve desde la costa oeste de Ceuta.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cómo se llega a Ceuta?", "acceptedAnswer": {"@type": "Answer", "text": "En ferry desde Algeciras (alrededor de una hora) o en helicóptero desde Málaga o Algeciras."}}, {"@type": "Question", "name": "¿Hace falta pasaporte para ir a Ceuta?", "acceptedAnswer": {"@type": "Answer", "text": "No, desde la península basta con el DNI. El pasaporte solo es necesario si vas a cruzar a Marruecos."}}, {"@type": "Question", "name": "¿Se puede hacer kayak en las Murallas Reales?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, el foso navegable de las Murallas Reales se puede recorrer en kayak con empresas locales."}}, {"@type": "Question", "name": "¿Qué es la Mujer Muerta?", "acceptedAnswer": {"@type": "Answer", "text": "El monte Jebel Musa, en Marruecos, cuya silueta parece una mujer tumbada. Se ve desde la costa oeste de Ceuta."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más mar</span><h2>Más planes con mar</h2></div>
 <ul class="nearby"><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.webp" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Snorkel en Cabo de Palos" loading="lazy" decoding="async" /><span>Snorkel en Cabo de Palos</span></a></li><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li></ul>

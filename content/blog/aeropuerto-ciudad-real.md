@@ -11,6 +11,20 @@ tags:
   - Curiosidades
   - Castilla-La Mancha
 wide: true
+faqTitulo: "Dudas sobre el aeropuerto de Ciudad Real"
+faq:
+  - q: "¿Funciona el aeropuerto de Ciudad Real?"
+    a: "Sí, pero no con vuelos regulares de pasajeros: se usa para mantenimiento, aparcamiento de aviones, carga y vuelos privados."
+  - q: "¿Cuánto costó?"
+    a: "Alrededor de 1.100 millones de euros."
+  - q: "¿Cuándo cerró?"
+    a: "Tuvo vuelos de pasajeros entre 2008 y 2012. Reabrió en 2019 con otro modelo."
+  - q: "¿Se puede visitar?"
+    a: "No, es un recinto privado; se ve desde fuera."
+  - q: "¿Dónde está el aeropuerto de Ciudad Real?"
+    a: "Entre Ciudad Real y Puertollano, junto a la autovía A-41."
+  - q: "¿Cuánto mide la pista del aeropuerto de Ciudad Real?"
+    a: "4.200 metros, una de las más largas de Europa, preparada para los aviones más grandes del mundo."
 ---
 Una pista de **4.200 metros**, una de las más largas de Europa. Una inversión de unos **1.100 millones de euros**. Y apenas **tres años** con vuelos de pasajeros. El **aeropuerto de Ciudad Real** es uno de los símbolos más famosos de los años de la burbuja.
 
@@ -37,9 +51,7 @@ Te cuento su historia y en qué se ha convertido 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Curiosidades rápidas</h2><ul><li><b>Pista gigante</b>: 4.200 metros, preparada para los aviones más grandes del mundo.</li><li><b>Pocos años de vuelos</b>: de 2008 a 2012.</li><li><b>Lagunas de Ruidera</b>: si vas por la provincia, son el gran plan de naturaleza.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el aeropuerto de Ciudad Real</h2></div>
-<div class="faq"><details><summary>¿Funciona el aeropuerto de Ciudad Real?</summary><p>Sí, pero no con vuelos regulares de pasajeros: se usa para mantenimiento, aparcamiento de aviones, carga y vuelos privados.</p></details><details><summary>¿Cuánto costó?</summary><p>Alrededor de 1.100 millones de euros.</p></details><details><summary>¿Cuándo cerró?</summary><p>Tuvo vuelos de pasajeros entre 2008 y 2012. Reabrió en 2019 con otro modelo.</p></details><details><summary>¿Se puede visitar?</summary><p>No, es un recinto privado; se ve desde fuera.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Funciona el aeropuerto de Ciudad Real?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, pero no con vuelos regulares de pasajeros: se usa para mantenimiento, aparcamiento de aviones, carga y vuelos privados."}}, {"@type": "Question", "name": "¿Cuánto costó?", "acceptedAnswer": {"@type": "Answer", "text": "Alrededor de 1.100 millones de euros."}}, {"@type": "Question", "name": "¿Cuándo cerró?", "acceptedAnswer": {"@type": "Answer", "text": "Tuvo vuelos de pasajeros entre 2008 y 2012. Reabrió en 2019 con otro modelo."}}, {"@type": "Question", "name": "¿Se puede visitar?", "acceptedAnswer": {"@type": "Answer", "text": "No, es un recinto privado; se ve desde fuera."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/lagunas-de-ruidera.html"><img src="/assets/img/blog/lagunas-de-ruidera/portada.webp" alt="Lagunas de Ruidera" loading="lazy" decoding="async" /><span>Lagunas de Ruidera</span></a></li><li><a href="/blog/consuegra-molinos.html"><img src="/assets/img/blog/consuegra-molinos/portada.webp" alt="Molinos de Consuegra" loading="lazy" decoding="async" /><span>Molinos de Consuegra</span></a></li><li><a href="/blog/belmonte-castillo.html"><img src="/assets/img/blog/belmonte-castillo/portada.webp" alt="Castillo de Belmonte" loading="lazy" decoding="async" /><span>Castillo de Belmonte</span></a></li></ul>

@@ -17,6 +17,17 @@ igPermalink: 'https://www.instagram.com/reel/DZdIrmTPtoA/'
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+faq:
+  - q: "¿Por qué Lanuza quedó bajo el agua?"
+    a: "En 1976 se construyó el embalse de Lanuza en el río Gállego. El pueblo quedó despoblado y en 1978 ya estaba deshabitado, aunque el agua solo llegó a cubrir una pequeña parte de las casas."
+  - q: "¿Cuándo volvió a habitarse Lanuza?"
+    a: "En los años 90, cuando sus antiguos vecinos consiguieron recuperar las casas que habían quedado fuera del agua."
+  - q: "¿Cuánto cuesta visitar Lanuza?"
+    a: "Nada, el acceso al pueblo es gratuito."
+  - q: "¿Cuándo es el festival Pirineos Sur?"
+    a: "Se celebra en julio, durante varios días, con un escenario junto al embalse."
+  - q: "¿Cómo llegar a Lanuza?"
+    a: "En el Valle de Tena (Huesca), a un par de minutos de Sallent de Gállego por la A-136."
 ---
 Rodeado de montañas y con un embalse de aguas turquesas a sus pies, **Lanuza** tiene una de esas historias que cuesta creer hasta que se conoce entera: un pueblo que quedó despoblado por completo y que, décadas después, sus propios vecinos consiguieron devolverle la vida.
 
@@ -50,9 +61,7 @@ Para mí es el pueblo más bonito de todo el Pirineo Aragonés, y te lo enseño 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Primavera y verano</b> — son la mejor época: buen tiempo y el embalse lleno.</li><li><b>Si puedes, en julio</b> — coincide con el festival Pirineos Sur y es un plan redondo.</li><li><b>Sube un poco</b> — las mejores vistas del pueblo con el embalse se tienen desde la carretera y los caminos de encima.</li><li><b>Combínalo</b> — con Sallent, el Ibón de Anayet y las Pasarelas de Panticosa.</li></ul><p>Pasea despacio por sus calles: cada casa de piedra que ves en pie es una historia de vecinos que no se rindieron ❤️</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Lanuza</h2></div>
-<div class="faq"><details><summary>¿Por qué Lanuza quedó bajo el agua?</summary><p>En 1976 se construyó el embalse de Lanuza en el río Gállego. El pueblo quedó despoblado y en 1978 ya estaba deshabitado, aunque el agua solo llegó a cubrir una pequeña parte de las casas.</p></details><details><summary>¿Cuándo volvió a habitarse Lanuza?</summary><p>En los años 90, cuando sus antiguos vecinos consiguieron recuperar las casas que habían quedado fuera del agua.</p></details><details><summary>¿Cuánto cuesta visitar Lanuza?</summary><p>Nada, el acceso al pueblo es gratuito.</p></details><details><summary>¿Cuándo es el festival Pirineos Sur?</summary><p>Se celebra en julio, durante varios días, con un escenario junto al embalse.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué Lanuza quedó bajo el agua?", "acceptedAnswer": {"@type": "Answer", "text": "En 1976 se construyó el embalse de Lanuza en el río Gállego. El pueblo quedó despoblado y en 1978 ya estaba deshabitado, aunque el agua solo llegó a cubrir una pequeña parte de las casas."}}, {"@type": "Question", "name": "¿Cuándo volvió a habitarse Lanuza?", "acceptedAnswer": {"@type": "Answer", "text": "En los años 90, cuando sus antiguos vecinos consiguieron recuperar las casas que habían quedado fuera del agua."}}, {"@type": "Question", "name": "¿Cuánto cuesta visitar Lanuza?", "acceptedAnswer": {"@type": "Answer", "text": "Nada, el acceso al pueblo es gratuito."}}, {"@type": "Question", "name": "¿Cuándo es el festival Pirineos Sur?", "acceptedAnswer": {"@type": "Answer", "text": "Se celebra en julio, durante varios días, con un escenario junto al embalse."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando el Valle de Tena</h2></div>
 <ul class="nearby"><li><a href="/blog/ibon-de-anayet.html"><img src="/assets/img/blog/pirineo/anayet.webp" alt="Ibón de Anayet" loading="lazy" decoding="async" /><span>Ibón de Anayet</span></a></li><li><a href="/blog/pasarelas-de-panticosa.html"><img src="/assets/img/instagram/18131174488538752.webp" alt="Pasarelas de Panticosa" loading="lazy" decoding="async" /><span>Pasarelas de Panticosa</span></a></li><li><a href="/blog/balneario-de-panticosa.html"><img src="/assets/img/instagram/18057693635513557.webp" alt="Balneario de Panticosa" loading="lazy" decoding="async" /><span>Balneario de Panticosa</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>

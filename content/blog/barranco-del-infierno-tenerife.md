@@ -11,6 +11,20 @@ tags:
   - Actividades
   - Canarias
 wide: true
+faqTitulo: "Dudas sobre el Barranco del Infierno"
+faq:
+  - q: "¿Hay que reservar para el Barranco del Infierno?"
+    a: "Sí, la reserva online es obligatoria. Hay unas 300 plazas al día y cada entrada tiene una hora asignada."
+  - q: "¿Cuánto cuesta el Barranco del Infierno?"
+    a: "Unos 15 € para adultos y la mitad para niños de 5 a 12 años, con casco y seguro incluidos. Consulta el precio actualizado en la web oficial."
+  - q: "¿Cuánto se tarda en hacer el Barranco del Infierno?"
+    a: "Son unos 6,5 km ida y vuelta y se hacen en unas 3 horas a ritmo tranquilo."
+  - q: "¿Pueden ir niños al Barranco del Infierno?"
+    a: "A partir de 5 años. Los menores de 5 años no pueden hacer la ruta."
+  - q: "¿Dónde está el Barranco del Infierno?"
+    a: "En Adeje, en el sur de Tenerife. La ruta sale del casco antiguo del pueblo."
+  - q: "¿Dónde aparcar para el Barranco del Infierno?"
+    a: "El aparcamiento junto a la salida es pequeño: mejor deja el coche en el pueblo de Adeje y sube andando."
 ---
 Con ese nombre, uno espera algo terrible, pero lo que hay al final es lo contrario: un rincón fresco y verde con una **cascada** cayendo entre paredes de roca, en pleno sur seco de Tenerife.
 
@@ -40,9 +54,7 @@ El **Barranco del Infierno** es una de las rutas más famosas de la isla, con pl
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva con antelación</b>: hay unas 300 plazas al día y en temporada alta se agotan días o semanas antes.</li><li><b>En verano, ve a primera hora</b>: del 1 de junio al 15 de septiembre solo se entra por la mañana y el calor aprieta.</li><li><b>Lleva agua y calzado de montaña</b>: no hay fuentes en el camino y hay tramos con piedra suelta.</li><li><b>Ojo con los niños y las mascotas</b>: no se admiten menores de 5 años ni animales.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Barranco del Infierno</h2></div>
-<div class="faq"><details><summary>¿Hay que reservar para el Barranco del Infierno?</summary><p>Sí, la reserva online es obligatoria. Hay unas 300 plazas al día y cada entrada tiene una hora asignada.</p></details><details><summary>¿Cuánto cuesta el Barranco del Infierno?</summary><p>Unos 15 € para adultos y la mitad para niños de 5 a 12 años, con casco y seguro incluidos. Consulta el precio actualizado en la web oficial.</p></details><details><summary>¿Cuánto se tarda en hacer el Barranco del Infierno?</summary><p>Son unos 6,5 km ida y vuelta y se hacen en unas 3 horas a ritmo tranquilo.</p></details><details><summary>¿Pueden ir niños al Barranco del Infierno?</summary><p>A partir de 5 años. Los menores de 5 años no pueden hacer la ruta.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hay que reservar para el Barranco del Infierno?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la reserva online es obligatoria. Hay unas 300 plazas al día y cada entrada tiene una hora asignada."}}, {"@type": "Question", "name": "¿Cuánto cuesta el Barranco del Infierno?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 15 € para adultos y la mitad para niños de 5 a 12 años, con casco y seguro incluidos. Consulta el precio actualizado en la web oficial."}}, {"@type": "Question", "name": "¿Cuánto se tarda en hacer el Barranco del Infierno?", "acceptedAnswer": {"@type": "Answer", "text": "Son unos 6,5 km ida y vuelta y se hacen en unas 3 horas a ritmo tranquilo."}}, {"@type": "Question", "name": "¿Pueden ir niños al Barranco del Infierno?", "acceptedAnswer": {"@type": "Answer", "text": "A partir de 5 años. Los menores de 5 años no pueden hacer la ruta."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Tenerife</h2></div>
 <ul class="nearby"><li><a href="/blog/teide.html"><img src="/assets/img/blog/teide/portada.webp" alt="Teide" loading="lazy" decoding="async" /><span>Teide</span></a></li><li><a href="/blog/mirador-de-chipeque-tenerife.html"><img src="/assets/img/instagram/18075135229685841.webp" alt="Mirador de Chipeque" loading="lazy" decoding="async" /><span>Mirador de Chipeque</span></a></li><li><a href="/blog/arco-de-tajao-tenerife.html"><img src="/assets/img/instagram/18124723345426528.webp" alt="Arco de Tajao" loading="lazy" decoding="async" /><span>Arco de Tajao</span></a></li></ul>

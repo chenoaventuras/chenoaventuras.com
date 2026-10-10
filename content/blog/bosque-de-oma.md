@@ -11,6 +11,20 @@ tags:
   - Spots
   - País Vasco
 wide: true
+faqTitulo: "Dudas sobre el Bosque de Oma"
+faq:
+  - q: "¿Está abierto el Bosque de Oma?"
+    a: "Sí. El nuevo Bosque de Oma reabrió en octubre de 2023 en el mismo valle, con reserva previa."
+  - q: "¿Hay que reservar para el Bosque de Oma?"
+    a: "Sí, a través de la web de la Diputación Foral de Bizkaia."
+  - q: "¿Quién pintó el Bosque de Oma?"
+    a: "El escultor y pintor vasco Agustín Ibarrola, desde los años 80."
+  - q: "¿Dónde está el Bosque de Oma?"
+    a: "En Kortezubi, en Urdaibai (Bizkaia), a unos 5 km de Gernika."
+  - q: "¿Cuánto se tarda en ver el Bosque de Oma?"
+    a: "Entre 1 y 2 horas, contando el paseo desde el aparcamiento."
+  - q: "¿Cómo llegar al Bosque de Oma desde Bilbao?"
+    a: "En coche hasta Kortezubi, en Urdaibai, a unos 5 km de Gernika."
 ---
 Árboles con ojos, rayas de colores y figuras que solo aparecen si te colocas en el sitio justo. El **Bosque de Oma**, en Urdaibai, es una obra de arte **pintada sobre un bosque** por el escultor vasco **Agustín Ibarrola**.
 
@@ -39,9 +53,7 @@ El bosque original murió, pero hay uno nuevo. Te cuento cómo visitarlo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva antes</b>: sin reserva no se puede entrar y las plazas son limitadas.</li><li><b>Haz la visita guiada</b>: los sábados hay visitas en euskera y castellano que explican cada obra.</li><li><b>Botas</b>: el terreno es de monte y con lluvia se embarra.</li><li><b>Combínalo con Gaztelugatxe</b>: está a 30 minutos por la costa.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Bosque de Oma</h2></div>
-<div class="faq"><details><summary>¿Está abierto el Bosque de Oma?</summary><p>Sí. El nuevo Bosque de Oma reabrió en octubre de 2023 en el mismo valle, con reserva previa.</p></details><details><summary>¿Hay que reservar para el Bosque de Oma?</summary><p>Sí, a través de la web de la Diputación Foral de Bizkaia.</p></details><details><summary>¿Quién pintó el Bosque de Oma?</summary><p>El escultor y pintor vasco Agustín Ibarrola, desde los años 80.</p></details><details><summary>¿Dónde está el Bosque de Oma?</summary><p>En Kortezubi, en Urdaibai (Bizkaia), a unos 5 km de Gernika.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Está abierto el Bosque de Oma?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. El nuevo Bosque de Oma reabrió en octubre de 2023 en el mismo valle, con reserva previa."}}, {"@type": "Question", "name": "¿Hay que reservar para el Bosque de Oma?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, a través de la web de la Diputación Foral de Bizkaia."}}, {"@type": "Question", "name": "¿Quién pintó el Bosque de Oma?", "acceptedAnswer": {"@type": "Answer", "text": "El escultor y pintor vasco Agustín Ibarrola, desde los años 80."}}, {"@type": "Question", "name": "¿Dónde está el Bosque de Oma?", "acceptedAnswer": {"@type": "Answer", "text": "En Kortezubi, en Urdaibai (Bizkaia), a unos 5 km de Gernika."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li><li><a href="/blog/laguardia-que-ver.html"><img src="/assets/img/blog/laguardia-que-ver/portada.webp" alt="Laguardia" loading="lazy" decoding="async" /><span>Laguardia</span></a></li><li><a href="/blog/hondarribia-que-ver.html"><img src="/assets/img/blog/hondarribia-que-ver/plaza.webp" alt="Hondarribia" loading="lazy" decoding="async" /><span>Hondarribia</span></a></li></ul>

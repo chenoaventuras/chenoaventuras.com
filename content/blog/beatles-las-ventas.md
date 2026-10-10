@@ -11,6 +11,20 @@ tags:
   - Curiosidades
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre los Beatles en Madrid"
+faq:
+  - q: "¿Cuándo tocaron los Beatles en Madrid?"
+    a: "El 2 de julio de 1965, en la plaza de toros de Las Ventas."
+  - q: "¿Tocaron los Beatles más veces en España?"
+    a: "Solo dos conciertos: Madrid (2 de julio) y Barcelona (3 de julio de 1965)."
+  - q: "¿Cuánta gente fue?"
+    a: "Se calcula que unas 10.000 personas."
+  - q: "¿Se puede visitar Las Ventas?"
+    a: "Sí, con visita guiada de pago."
+  - q: "¿Cómo llegar a la plaza de toros de Las Ventas?"
+    a: "Está en la calle de Alcalá, en el barrio de Ventas, y tiene metro propio: Ventas, líneas 2 y 5."
+  - q: "¿Cuánta gente cabe en Las Ventas?"
+    a: "Casi 24.000 personas: es la plaza de toros más grande de España."
 ---
 El **2 de julio de 1965**, en plena Beatlemanía, **John, Paul, George y Ringo** se subieron a un escenario en la **plaza de toros de Las Ventas** de Madrid. Al día siguiente tocaron en Barcelona. Fueron **los únicos conciertos de los Beatles en España**.
 
@@ -38,9 +52,7 @@ Te cuento cómo fue aquella noche y cómo visitar hoy la plaza 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Visita guiada</b>: incluye los tendidos, la capilla y el patio de caballos.</li><li><b>Concierto en Las Ventas</b>: en verano hay conciertos: escuchar música donde tocaron los Beatles tiene su gracia.</li><li><b>Combina</b>: con el Parque del Retiro, a 20 minutos andando.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre los Beatles en Madrid</h2></div>
-<div class="faq"><details><summary>¿Cuándo tocaron los Beatles en Madrid?</summary><p>El 2 de julio de 1965, en la plaza de toros de Las Ventas.</p></details><details><summary>¿Tocaron los Beatles más veces en España?</summary><p>Solo dos conciertos: Madrid (2 de julio) y Barcelona (3 de julio de 1965).</p></details><details><summary>¿Cuánta gente fue?</summary><p>Se calcula que unas 10.000 personas.</p></details><details><summary>¿Se puede visitar Las Ventas?</summary><p>Sí, con visita guiada de pago.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuándo tocaron los Beatles en Madrid?", "acceptedAnswer": {"@type": "Answer", "text": "El 2 de julio de 1965, en la plaza de toros de Las Ventas."}}, {"@type": "Question", "name": "¿Tocaron los Beatles más veces en España?", "acceptedAnswer": {"@type": "Answer", "text": "Solo dos conciertos: Madrid (2 de julio) y Barcelona (3 de julio de 1965)."}}, {"@type": "Question", "name": "¿Cuánta gente fue?", "acceptedAnswer": {"@type": "Answer", "text": "Se calcula que unas 10.000 personas."}}, {"@type": "Question", "name": "¿Se puede visitar Las Ventas?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, con visita guiada de pago."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/sobrino-de-botin.html"><img src="/assets/img/blog/sobrino-de-botin/interior.webp" alt="Sobrino de Botín" loading="lazy" decoding="async" /><span>Sobrino de Botín</span></a></li><li><a href="/blog/casa-museo-raton-perez.html"><img src="/assets/img/blog/casa-museo-raton-perez/portada.webp" alt="Casa del Ratón Pérez" loading="lazy" decoding="async" /><span>Casa del Ratón Pérez</span></a></li><li><a href="/blog/torre-de-cristal-madrid.html"><img src="/assets/img/blog/torre-de-cristal-madrid/cuatro.webp" alt="Torre de Cristal" loading="lazy" decoding="async" /><span>Torre de Cristal</span></a></li></ul>

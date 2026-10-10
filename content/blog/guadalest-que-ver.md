@@ -12,6 +12,17 @@ tags:
   - Pueblos
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/p/Db_YXJ8xcVo/'
+faq:
+  - q: "¿Cómo llegar a Guadalest?"
+    a: "En coche es lo más cómodo: desde Benidorm son unos 25 km por la CV-70 (media hora) y desde Altea, un tiempo similar por la CV-755. Hay autobús desde Benidorm, pero solo un trayecto al día en cada sentido."
+  - q: "¿Cuánto cuesta entrar en Guadalest?"
+    a: "El pueblo es gratis. Solo pagas si entras al castillo (unos 4 €, con la Casa Orduña incluida) o a algún museo."
+  - q: "¿Se puede bañar en el embalse de Guadalest?"
+    a: "No, el baño no está permitido en el embalse. Se disfruta desde los miradores del pueblo y del castillo."
+  - q: "¿Cuál es la mejor hora para visitar Guadalest?"
+    a: "Antes de las 10:00 o después de las 16:00: recibe más de dos millones de visitas al año y a esas horas hay mucha menos gente."
+  - q: "¿Qué ver en Guadalest?"
+    a: "El castillo de San José y su túnel en la roca, el embalse turquesa, el casco antiguo y sus museos curiosos, como el de microminiaturas."
 ---
 Hay pueblos bonitos, y luego está Guadalest, que parece dibujado a propósito para que se te caiga el móvil al suelo de tanto hacer fotos. Encajado entre las sierras de Aitana y Xortá, con un peñón rocoso partido en dos y un embalse de un azul turquesa casi de mentira a sus pies, entiendo perfectamente por qué es de los pueblos con más visitas de toda España a pesar de tener poco más de 200 vecinos.
 
@@ -47,5 +58,7 @@ Es un plan fácil y apto para casi cualquier edad, pero ojo: hay calles con bast
 ## Para tu próxima escapada
 
 El acceso al pueblo es gratuito (solo pagas si entras al castillo o a algún museo), lo que lo convierte en un planazo de bajo presupuesto y alto impacto en el carrete. Y si te queda tiempo, a media hora en coche tienes Altea, otro de esos pueblos que parecen de postal — [ya te lo enseñé por aquí](/blog/altea-que-ver-costa-blanca.html).
+
+<!--faq-->
 
 Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más rincones así, y no olvides recoger tus residuos y respetar el entorno cuando vayas.

@@ -12,6 +12,15 @@ tags:
   - Galicia
 wide: true
 draft: true
+faq:
+  - q: "¿Qué significa «vai de morto quen non foi de vivo»?"
+    a: "Que quien no vaya a San Andrés de Teixido en vida, irá después de muerto, reencarnado en un animal pequeño como una lagartija o un sapo."
+  - q: "¿Qué son los sanandresiños?"
+    a: "Figuritas de miga de pan pintadas de colores que se venden en la aldea como amuleto de buena suerte."
+  - q: "¿Qué es la herba de namorar?"
+    a: "Una flor que crece en los acantilados. Según la tradición, si la metes en el bolsillo de la persona que te gusta, se enamora de ti."
+  - q: "¿Cuándo es la romería de San Andrés de Teixido?"
+    a: "La fiesta principal es el 30 de noviembre, día de San Andrés, pero hay peregrinos todo el año, sobre todo en verano."
 ---
 En Galicia hay un dicho que no deja escapatoria: **«A San Andrés de Teixido vai de morto quen non foi de vivo»**. A este pequeño santuario colgado sobre el Atlántico hay que ir sí o sí: o vas en vida, o irás después de muerto convertido en lagartija, sapo o culebra.
 
@@ -42,9 +51,7 @@ Así que mejor ir ahora, que además el paisaje es de los más bestias de Españ
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube por la carretera de la Capelada</b>: para en los miradores: con buen tiempo, las vistas son de las mejores de Galicia.</li><li><b>Ve en día despejado</b>: con niebla el santuario tiene mucho ambiente, pero los acantilados no se ven.</li><li><b>Lleva tu piedra</b>: y déjala en un milladoiro del camino, como manda la tradición.</li><li><b>Compra un sanandresiño</b>: es el recuerdo más auténtico, y no cuesta casi nada.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre San Andrés de Teixido</h2></div>
-<div class="faq"><details><summary>¿Qué significa «vai de morto quen non foi de vivo»?</summary><p>Que quien no vaya a San Andrés de Teixido en vida, irá después de muerto, reencarnado en un animal pequeño como una lagartija o un sapo.</p></details><details><summary>¿Qué son los sanandresiños?</summary><p>Figuritas de miga de pan pintadas de colores que se venden en la aldea como amuleto de buena suerte.</p></details><details><summary>¿Qué es la herba de namorar?</summary><p>Una flor que crece en los acantilados. Según la tradición, si la metes en el bolsillo de la persona que te gusta, se enamora de ti.</p></details><details><summary>¿Cuándo es la romería de San Andrés de Teixido?</summary><p>La fiesta principal es el 30 de noviembre, día de San Andrés, pero hay peregrinos todo el año, sobre todo en verano.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué significa «vai de morto quen non foi de vivo»?", "acceptedAnswer": {"@type": "Answer", "text": "Que quien no vaya a San Andrés de Teixido en vida, irá después de muerto, reencarnado en un animal pequeño como una lagartija o un sapo."}}, {"@type": "Question", "name": "¿Qué son los sanandresiños?", "acceptedAnswer": {"@type": "Answer", "text": "Figuritas de miga de pan pintadas de colores que se venden en la aldea como amuleto de buena suerte."}}, {"@type": "Question", "name": "¿Qué es la herba de namorar?", "acceptedAnswer": {"@type": "Answer", "text": "Una flor que crece en los acantilados. Según la tradición, si la metes en el bolsillo de la persona que te gusta, se enamora de ti."}}, {"@type": "Question", "name": "¿Cuándo es la romería de San Andrés de Teixido?", "acceptedAnswer": {"@type": "Answer", "text": "La fiesta principal es el 30 de noviembre, día de San Andrés, pero hay peregrinos todo el año, sobre todo en verano."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Galicia</h2></div>
 <ul class="nearby"><li><a href="/blog/playa-de-las-catedrales.html"><img src="/assets/img/blog/playa-de-las-catedrales/portada.webp" alt="Playa de las Catedrales" loading="lazy" decoding="async" /><span>Playa de las Catedrales</span></a></li><li><a href="/blog/fervenza-do-ezaro.html"><img src="/assets/img/blog/fervenza-do-ezaro/portada.webp" alt="Fervenza do Ézaro" loading="lazy" decoding="async" /><span>Fervenza do Ézaro</span></a></li><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li></ul>

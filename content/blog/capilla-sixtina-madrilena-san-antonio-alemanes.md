@@ -11,6 +11,18 @@ tags:
   - Spots
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DUu0s56jALL/'
+faqTitulo: "Dudas sobre San Antonio de los Alemanes"
+faq:
+  - q: "¿Dónde está la iglesia de San Antonio de los Alemanes?"
+    a: "En el barrio de Malasaña, en pleno centro de Madrid, en la calle de la Puebla."
+  - q: "¿Por qué se llama San Antonio de los Alemanes?"
+    a: "Primero fue la iglesia de la comunidad portuguesa de Madrid y después pasó a la comunidad alemana, de ahí el nombre."
+  - q: "¿Por qué la llaman la Capilla Sixtina madrileña?"
+    a: "Porque su interior está pintado al fresco de arriba abajo, sin apenas huecos libres: paredes, cúpula y techos."
+  - q: "¿Qué incluye la entrada de San Antonio de los Alemanes?"
+    a: "También da acceso al cercano Monasterio de San Plácido, con audioguía incluida."
+  - q: "¿Cuándo ir para que haya poca gente?"
+    a: "Entre semana, a primera hora o a mediodía."
 ---
 Por fuera es una iglesia más entre las calles de Malasaña. Por dentro, es de esos sitios donde te quedas mirando al techo durante varios minutos sin darte cuenta del tiempo que pasa. Así es la iglesia de San Antonio de los Alemanes, conocida como la "Capilla Sixtina madrileña".
 
@@ -43,5 +55,8 @@ Si te gusta la fotografía de interiores, pocos sitios en Madrid dan tanto juego
 La iglesia se encuentra en el barrio de Malasaña, muy cerca de la parada de metro Tribunal. Puedes consultar la ubicación exacta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20San%20Antonio%20de%20los%20Alemanes%2C%20Madrid).
 
 ¿Te gustan los planes con historia cerca de Madrid? El [Mercado Cervantino de Alcalá de Henares](/blog/mercado-cervantino-alcala-de-henares.html) es otro imprescindible.
+
+<!--faq-->
+
 
 ¿Conocías esta "Capilla Sixtina" en pleno Madrid? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones con historia, y échale un vistazo al resto del blog para seguir planeando tu próxima escapada.

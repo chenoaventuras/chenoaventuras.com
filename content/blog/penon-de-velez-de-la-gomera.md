@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Melilla
 wide: true
+faqTitulo: "Dudas sobre el Peñón de Vélez de la Gomera"
+faq:
+  - q: "¿Cuál es la frontera más corta del mundo?"
+    a: "La del Peñón de Vélez de la Gomera entre España y Marruecos, de unos 85 metros."
+  - q: "¿Se puede visitar el Peñón de Vélez?"
+    a: "No, es zona militar y no se puede cruzar la frontera."
+  - q: "¿Por qué es de España?"
+    a: "Es una de las plazas de soberanía españolas en el norte de África desde el siglo XVI."
+  - q: "¿Es una isla?"
+    a: "Lo era hasta 1930, cuando un terremoto lo unió al continente."
+  - q: "¿Dónde está el Peñón de Vélez de la Gomera?"
+    a: "En la costa mediterránea de Marruecos, a más de 100 km tanto de Ceuta como de Melilla."
 ---
 En la costa de Marruecos, entre Ceuta y Melilla, hay una roca de 87 metros de altura que es **España**. El **Peñón de Vélez de la Gomera** tiene la **frontera terrestre más corta del mundo**: unos **85 metros**.
 
@@ -38,9 +50,7 @@ Te cuento cómo una isla se convirtió en península por un terremoto y si se pu
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Curiosidades rápidas</h2><ul><li><b>Una isla que dejó de serlo</b>: por un terremoto en 1930.</li><li><b>Sin habitantes civiles</b>: solo militares españoles.</li><li><b>Otras plazas</b>: España también tiene el Peñón de Alhucemas y las islas Chafarinas, en la misma costa.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Peñón de Vélez de la Gomera</h2></div>
-<div class="faq"><details><summary>¿Cuál es la frontera más corta del mundo?</summary><p>La del Peñón de Vélez de la Gomera entre España y Marruecos, de unos 85 metros.</p></details><details><summary>¿Se puede visitar el Peñón de Vélez?</summary><p>No, es zona militar y no se puede cruzar la frontera.</p></details><details><summary>¿Por qué es de España?</summary><p>Es una de las plazas de soberanía españolas en el norte de África desde el siglo XVI.</p></details><details><summary>¿Es una isla?</summary><p>Lo era hasta 1930, cuando un terremoto lo unió al continente.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es la frontera más corta del mundo?", "acceptedAnswer": {"@type": "Answer", "text": "La del Peñón de Vélez de la Gomera entre España y Marruecos, de unos 85 metros."}}, {"@type": "Question", "name": "¿Se puede visitar el Peñón de Vélez?", "acceptedAnswer": {"@type": "Answer", "text": "No, es zona militar y no se puede cruzar la frontera."}}, {"@type": "Question", "name": "¿Por qué es de España?", "acceptedAnswer": {"@type": "Answer", "text": "Es una de las plazas de soberanía españolas en el norte de África desde el siglo XVI."}}, {"@type": "Question", "name": "¿Es una isla?", "acceptedAnswer": {"@type": "Answer", "text": "Lo era hasta 1930, cuando un terremoto lo unió al continente."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/melilla-que-ver.html"><img src="/assets/img/blog/melilla-que-ver/acantilado.webp" alt="Melilla" loading="lazy" decoding="async" /><span>Melilla</span></a></li><li><a href="/blog/ceuta-que-ver.html"><img src="/assets/img/blog/ceuta-que-ver/portada.webp" alt="Ceuta" loading="lazy" decoding="async" /><span>Ceuta</span></a></li><li><a href="/blog/punta-de-tarifa.html"><img src="/assets/img/blog/punta-de-tarifa/faro.webp" alt="Punta de Tarifa" loading="lazy" decoding="async" /><span>Punta de Tarifa</span></a></li></ul>

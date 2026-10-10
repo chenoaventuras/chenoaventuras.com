@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Cantabria
 wide: true
+faqTitulo: "Dudas sobre el teleférico de Fuente Dé"
+faq:
+  - q: "¿Cuánto sube el teleférico de Fuente Dé?"
+    a: "753 metros de desnivel, de 1.070 a 1.823 metros, en 3 minutos y 40 segundos."
+  - q: "¿Es el teleférico más largo de Europa?"
+    a: "Es el teleférico de tramo único (sin apoyos intermedios) más largo de Europa."
+  - q: "¿Hay mucha cola?"
+    a: "En verano y puentes, sí. Conviene llegar antes de la apertura."
+  - q: "¿Qué hacer arriba?"
+    a: "Asomarse al Mirador del Cable y hacer rutas fáciles hacia los Puertos de Áliva."
+  - q: "¿Dónde está el teleférico de Fuente Dé?"
+    a: "Al final del valle de Liébana (Cantabria), a unos 25 km de Potes. Desde Santander son unas 2 horas y media."
 ---
 En **menos de 4 minutos** pasas de un valle verde a un mundo de roca a **1.823 metros**. El **teleférico de Fuente Dé**, en Picos de Europa, salva **753 metros de desnivel** en un solo tramo, sin apoyos intermedios. Es el **teleférico de tramo único más largo de Europa**.
 
@@ -38,9 +50,7 @@ Te cuento cómo funciona, cuándo ir para no hacer horas de cola y qué rutas ha
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Madruga</b>: en verano las colas pueden ser de varias horas. Llega antes de que abra.</li><li><b>Coge el ticket de vuelta pronto</b>: al subir te dan un número para bajar: si no, puedes esperar mucho.</li><li><b>Baja andando</b>: la ruta por los Puertos de Áliva y Espinama es preciosa (unos 13 km).</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el teleférico de Fuente Dé</h2></div>
-<div class="faq"><details><summary>¿Cuánto sube el teleférico de Fuente Dé?</summary><p>753 metros de desnivel, de 1.070 a 1.823 metros, en 3 minutos y 40 segundos.</p></details><details><summary>¿Es el teleférico más largo de Europa?</summary><p>Es el teleférico de tramo único (sin apoyos intermedios) más largo de Europa.</p></details><details><summary>¿Hay mucha cola?</summary><p>En verano y puentes, sí. Conviene llegar antes de la apertura.</p></details><details><summary>¿Qué hacer arriba?</summary><p>Asomarse al Mirador del Cable y hacer rutas fáciles hacia los Puertos de Áliva.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto sube el teleférico de Fuente Dé?", "acceptedAnswer": {"@type": "Answer", "text": "753 metros de desnivel, de 1.070 a 1.823 metros, en 3 minutos y 40 segundos."}}, {"@type": "Question", "name": "¿Es el teleférico más largo de Europa?", "acceptedAnswer": {"@type": "Answer", "text": "Es el teleférico de tramo único (sin apoyos intermedios) más largo de Europa."}}, {"@type": "Question", "name": "¿Hay mucha cola?", "acceptedAnswer": {"@type": "Answer", "text": "En verano y puentes, sí. Conviene llegar antes de la apertura."}}, {"@type": "Question", "name": "¿Qué hacer arriba?", "acceptedAnswer": {"@type": "Answer", "text": "Asomarse al Mirador del Cable y hacer rutas fáciles hacia los Puertos de Áliva."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/ruta-del-cares.html"><img src="/assets/img/blog/ruta-del-cares/portada.webp" alt="Ruta del Cares" loading="lazy" decoding="async" /><span>Ruta del Cares</span></a></li><li><a href="/blog/maquina-leche-reinosa-cantabria.html"><img src="/assets/img/instagram/18096151186984775.webp" alt="La máquina de leche de Reinosa" loading="lazy" decoding="async" /><span>La máquina de leche de Reinosa</span></a></li><li><a href="/blog/aguilar-de-campoo-que-ver.html"><img src="/assets/img/instagram/17943610464165000.webp" alt="Aguilar de Campoo" loading="lazy" decoding="async" /><span>Aguilar de Campoo</span></a></li></ul>

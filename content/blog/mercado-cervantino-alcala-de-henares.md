@@ -11,6 +11,16 @@ tags:
   - Actividades
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DPyKoVcjODe/'
+faqTitulo: "Dudas sobre el Mercado Cervantino"
+faq:
+  - q: "¿Cuándo es el Mercado Cervantino de Alcalá de Henares?"
+    a: "Normalmente a principios o mediados de octubre, coincidiendo con las fiestas en honor a Cervantes. Las fechas cambian un poco cada año."
+  - q: "¿Cuánto cuesta el Mercado Cervantino?"
+    a: "Pasear por el mercado es gratis. El torneo de justas cuesta unos 12 € por persona y suele agotarse."
+  - q: "¿Cómo llegar a Alcalá de Henares desde Madrid?"
+    a: "En tren de Cercanías desde Madrid, o en coche por la A-2."
+  - q: "¿Cuál es la mejor hora para ver el Mercado Cervantino?"
+    a: "Por la mañana, cuando hay menos gente. Para el torneo, ve con tiempo si quieres buen sitio."
 ---
 Una vez al año, el casco histórico de Alcalá de Henares retrocede varios siglos: puestos ambientados, oficios de época y, como colofón, un torneo de justas medievales que reúne a caballeros a caballo delante de cientos de espectadores. Es el Mercado Cervantino, y es de esos planes que hay que vivir al menos una vez.
 
@@ -35,5 +45,8 @@ Al ser un evento multitudinario, conviene ir con tiempo si quieres conseguir bue
 ## Cómo llegar
 
 Alcalá de Henares se encuentra a unos 35 kilómetros de Madrid capital, con muy buena conexión en Cercanías (línea C-2) y por carretera. Puedes consultar la ubicación del casco histórico en [Google Maps](https://www.google.com/maps/search/?api=1&query=Casco%20hist%C3%B3rico%20de%20Alcal%C3%A1%20de%20Henares).
+
+<!--faq-->
+
 
 ¿Te animarías a ver el torneo de justas del Mercado Cervantino? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más eventos y escapadas por Madrid, y échale un vistazo al resto del blog para tu próxima aventura.

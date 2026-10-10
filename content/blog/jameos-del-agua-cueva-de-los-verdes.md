@@ -11,6 +11,22 @@ tags:
   - Spots
   - Canarias
 wide: true
+faqTitulo: "Dudas sobre los Jameos del Agua y la Cueva de los Verdes"
+faq:
+  - q: "¿Cuánto se tarda en ver los Jameos del Agua y la Cueva de los Verdes?"
+    a: "Alrededor de una hora cada uno; con los dos, media jornada."
+  - q: "¿Se puede bañar en la piscina de los Jameos del Agua?"
+    a: "No, la piscina es solo para verla."
+  - q: "¿Qué son los cangrejos de los Jameos?"
+    a: "Cangrejos ciegos y albinos de 1 cm (Munidopsis polymorpha) que solo viven en este lago."
+  - q: "¿Cómo es la visita a la Cueva de los Verdes?"
+    a: "Es guiada, de casi 1 km por el interior del tubo volcánico."
+  - q: "¿Quién diseñó los Jameos del Agua?"
+    a: "El artista lanzaroteño César Manrique."
+  - q: "¿Dónde están los Jameos del Agua?"
+    a: "En el norte de Lanzarote, en el municipio de Haría, a unos 30 km de Arrecife. La Cueva de los Verdes está a solo 1 km."
+  - q: "¿Hay que pagar para entrar a los Jameos del Agua?"
+    a: "Sí, los Jameos y la Cueva de los Verdes son de pago (Centros Turísticos del Cabildo de Lanzarote)."
 ---
 Hace miles de años, el **volcán de La Corona** escupió un río de lava que corrió hasta el mar y dejó un túnel de varios kilómetros. Hoy, en ese túnel, puedes visitar dos de los lugares más impresionantes de **Lanzarote**: los **Jameos del Agua** y la **Cueva de los Verdes**.
 
@@ -42,9 +58,7 @@ Están a 1 km uno del otro, así que mejor verlos juntos 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra un bono</b>: si vas a ver varios Centros Turísticos (Jameos, Cueva, Timanfaya, Mirador del Río) sale más barato.</li><li><b>Ve temprano</b>: a media mañana llegan las excursiones en autobús.</li><li><b>No tires monedas</b>: en el lago de los Jameos matarías a los cangrejos.</li><li><b>Vuelve de noche</b>: algunos días los Jameos abren por la noche y la iluminación es mágica.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre los Jameos del Agua y la Cueva de los Verdes</h2></div>
-<div class="faq"><details><summary>¿Cuánto se tarda en ver los Jameos del Agua y la Cueva de los Verdes?</summary><p>Alrededor de una hora cada uno; con los dos, media jornada.</p></details><details><summary>¿Se puede bañar en la piscina de los Jameos del Agua?</summary><p>No, la piscina es solo para verla.</p></details><details><summary>¿Qué son los cangrejos de los Jameos?</summary><p>Cangrejos ciegos y albinos de 1 cm (Munidopsis polymorpha) que solo viven en este lago.</p></details><details><summary>¿Cómo es la visita a la Cueva de los Verdes?</summary><p>Es guiada, de casi 1 km por el interior del tubo volcánico.</p></details><details><summary>¿Quién diseñó los Jameos del Agua?</summary><p>El artista lanzaroteño César Manrique.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto se tarda en ver los Jameos del Agua y la Cueva de los Verdes?", "acceptedAnswer": {"@type": "Answer", "text": "Alrededor de una hora cada uno; con los dos, media jornada."}}, {"@type": "Question", "name": "¿Se puede bañar en la piscina de los Jameos del Agua?", "acceptedAnswer": {"@type": "Answer", "text": "No, la piscina es solo para verla."}}, {"@type": "Question", "name": "¿Qué son los cangrejos de los Jameos?", "acceptedAnswer": {"@type": "Answer", "text": "Cangrejos ciegos y albinos de 1 cm (Munidopsis polymorpha) que solo viven en este lago."}}, {"@type": "Question", "name": "¿Cómo es la visita a la Cueva de los Verdes?", "acceptedAnswer": {"@type": "Answer", "text": "Es guiada, de casi 1 km por el interior del tubo volcánico."}}, {"@type": "Question", "name": "¿Quién diseñó los Jameos del Agua?", "acceptedAnswer": {"@type": "Answer", "text": "El artista lanzaroteño César Manrique."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/lago-martianez-puerto-de-la-cruz.html"><img src="/assets/img/instagram/17940651440967325.webp" alt="Lago Martiánez" loading="lazy" decoding="async" /><span>Lago Martiánez</span></a></li><li><a href="/blog/teide.html"><img src="/assets/img/blog/teide/portada.webp" alt="Teide" loading="lazy" decoding="async" /><span>Teide</span></a></li><li><a href="/blog/roque-nublo.html"><img src="/assets/img/blog/roque-nublo/teide.webp" alt="Roque Nublo" loading="lazy" decoding="async" /><span>Roque Nublo</span></a></li></ul>

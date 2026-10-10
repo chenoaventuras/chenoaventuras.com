@@ -12,6 +12,16 @@ tags:
   - Actividades
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DUygejhDDnD/'
+faqTitulo: "Dudas sobre el Mercado Medieval de Chinchón"
+faq:
+  - q: "¿Cuándo es el Mercado Medieval de Chinchón?"
+    a: "Normalmente en febrero, durante un fin de semana, de la mañana a la noche. Las fechas exactas cambian cada año."
+  - q: "¿Cuánto cuesta el Mercado Medieval de Chinchón?"
+    a: "La entrada es gratis: solo pagas lo que compres de comida o artesanía."
+  - q: "¿Qué hay en el Mercado Medieval de Chinchón?"
+    a: "Puestos de artesanía y comida, luchas medievales y teatro en la Plaza Mayor, pasacalles con músicos y actividades para niños."
+  - q: "¿Cómo llegar a Chinchón desde Madrid?"
+    a: "En coche, a unos 45 km al sureste de la capital, con aparcamientos habilitados. También hay transporte público."
 ---
 [Chinchón](/blog/chinchon-castillo-de-noche.html) ya es, de por sí, uno de los pueblos más bonitos de la Comunidad de Madrid. Pero una vez al año, sus calles empedradas y su mítica Plaza Mayor retroceden varios siglos para acoger caballeros, juglares y artesanos: es el Mercado Medieval de Chinchón.
 
@@ -36,5 +46,8 @@ Chinchón tiene fácil acceso desde Madrid capital en coche, con zonas de aparca
 ## Aprovecha para ver el resto del pueblo
 
 Si vas al mercado medieval, aprovecha para recorrer también el resto de Chinchón: sus calles con balcones de madera y su Plaza Mayor son igual de bonitas el resto del año, así que la visita da para mucho más que el propio evento.
+
+<!--faq-->
+
 
 ¿Has estado alguna vez en el Mercado Medieval de Chinchón? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más experiencias y eventos por España, y échale un vistazo al resto del blog para planear tu próxima escapada.

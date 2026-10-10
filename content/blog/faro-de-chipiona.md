@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre el faro de Chipiona"
+faq:
+  - q: "¿Cuál es el faro más alto de España?"
+    a: "El faro de Chipiona, en Cádiz, con 62 metros de altura."
+  - q: "¿Se puede subir al faro de Chipiona?"
+    a: "En algunas épocas hay visitas guiadas organizadas por el Ayuntamiento. Consulta en la oficina de turismo."
+  - q: "¿Desde cuándo funciona?"
+    a: "Se encendió por primera vez en 1867."
+  - q: "¿Por qué se llama así Chipiona?"
+    a: "Por la torre faro romana de Quinto Servilio Cepión, la Turris Caepionis."
+  - q: "¿Dónde está el faro de Chipiona?"
+    a: "En la Punta del Perro, en Chipiona (Cádiz), a unos 30 minutos de Jerez y de Sanlúcar."
 ---
 En la punta de Chipiona, donde el Guadalquivir se junta con el Atlántico, hay un faro de **62 metros**. Es el **faro más alto de España** y uno de los más altos del mundo.
 
@@ -38,9 +50,7 @@ Te cuento por qué está aquí, su curiosa conexión con los romanos y qué hace
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Atardecer</b>: el sol se pone sobre el mar justo al lado del faro.</li><li><b>Mira la marea</b>: con marea baja aparecen los corrales de pesca, muy antiguos.</li><li><b>Sanlúcar al lado</b>: prueba los langostinos y la manzanilla en Bajo de Guía.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el faro de Chipiona</h2></div>
-<div class="faq"><details><summary>¿Cuál es el faro más alto de España?</summary><p>El faro de Chipiona, en Cádiz, con 62 metros de altura.</p></details><details><summary>¿Se puede subir al faro de Chipiona?</summary><p>En algunas épocas hay visitas guiadas organizadas por el Ayuntamiento. Consulta en la oficina de turismo.</p></details><details><summary>¿Desde cuándo funciona?</summary><p>Se encendió por primera vez en 1867.</p></details><details><summary>¿Por qué se llama así Chipiona?</summary><p>Por la torre faro romana de Quinto Servilio Cepión, la Turris Caepionis.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es el faro más alto de España?", "acceptedAnswer": {"@type": "Answer", "text": "El faro de Chipiona, en Cádiz, con 62 metros de altura."}}, {"@type": "Question", "name": "¿Se puede subir al faro de Chipiona?", "acceptedAnswer": {"@type": "Answer", "text": "En algunas épocas hay visitas guiadas organizadas por el Ayuntamiento. Consulta en la oficina de turismo."}}, {"@type": "Question", "name": "¿Desde cuándo funciona?", "acceptedAnswer": {"@type": "Answer", "text": "Se encendió por primera vez en 1867."}}, {"@type": "Question", "name": "¿Por qué se llama así Chipiona?", "acceptedAnswer": {"@type": "Answer", "text": "Por la torre faro romana de Quinto Servilio Cepión, la Turris Caepionis."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/plaza-de-espana-sevilla.html"><img src="/assets/img/blog/plaza-de-espana-sevilla/portada.webp" alt="Plaza de España de Sevilla" loading="lazy" decoding="async" /><span>Plaza de España de Sevilla</span></a></li><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li></ul>

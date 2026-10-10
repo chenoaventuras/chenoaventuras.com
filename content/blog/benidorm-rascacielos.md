@@ -11,6 +11,19 @@ tags:
   - Curiosidades
   - Comunidad Valenciana
 wide: true
+faq:
+  - q: "¿Por qué llaman a Benidorm la Nueva York del Mediterráneo?"
+    a: "Por sus rascacielos: es la ciudad con más rascacielos por habitante del mundo."
+  - q: "¿Cuál es el edificio más alto de Benidorm?"
+    a: "El Intempo, con más de 190 metros."
+  - q: "¿Cuántos habitantes tiene Benidorm?"
+    a: "Unos 77.000, pero en verano supera los 400.000."
+  - q: "¿Dónde está el mejor mirador?"
+    a: "El Balcón del Mediterráneo y la Cruz de la Serra Gelada."
+  - q: "¿Cómo llegar a Benidorm?"
+    a: "Está en la Costa Blanca, a unos 45 minutos del aeropuerto de Alicante. Desde Alicante también llega el TRAM."
+  - q: "¿Cuánto mide el Intempo de Benidorm?"
+    a: "Más de 190 metros: es el rascacielos más alto de la ciudad."
 ---
 La llaman la **«Nueva York del Mediterráneo»**, y no es exagerado: **Benidorm** es la **ciudad con más rascacielos por habitante del mundo** y la segunda con más rascacielos por kilómetro cuadrado, solo detrás de Nueva York.
 
@@ -38,9 +51,7 @@ Te cuento por qué un pueblo de pescadores acabó así y dónde ver su skyline �
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube a la Cruz</b>: al atardecer, con el skyline iluminándose.</li><li><b>Serra Gelada</b>: rutas por acantilados justo al lado de los rascacielos.</li><li><b>Combina</b>: con Altea y Guadalest, a pocos kilómetros.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Benidorm</h2></div>
-<div class="faq"><details><summary>¿Por qué llaman a Benidorm la Nueva York del Mediterráneo?</summary><p>Por sus rascacielos: es la ciudad con más rascacielos por habitante del mundo.</p></details><details><summary>¿Cuál es el edificio más alto de Benidorm?</summary><p>El Intempo, con más de 190 metros.</p></details><details><summary>¿Cuántos habitantes tiene Benidorm?</summary><p>Unos 77.000, pero en verano supera los 400.000.</p></details><details><summary>¿Dónde está el mejor mirador?</summary><p>El Balcón del Mediterráneo y la Cruz de la Serra Gelada.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué llaman a Benidorm la Nueva York del Mediterráneo?", "acceptedAnswer": {"@type": "Answer", "text": "Por sus rascacielos: es la ciudad con más rascacielos por habitante del mundo."}}, {"@type": "Question", "name": "¿Cuál es el edificio más alto de Benidorm?", "acceptedAnswer": {"@type": "Answer", "text": "El Intempo, con más de 190 metros."}}, {"@type": "Question", "name": "¿Cuántos habitantes tiene Benidorm?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 77.000, pero en verano supera los 400.000."}}, {"@type": "Question", "name": "¿Dónde está el mejor mirador?", "acceptedAnswer": {"@type": "Answer", "text": "El Balcón del Mediterráneo y la Cruz de la Serra Gelada."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/altea-que-ver-costa-blanca.html"><img src="/assets/img/blog/uploads/altea-horizontal.webp" alt="Altea" loading="lazy" decoding="async" /><span>Altea</span></a></li><li><a href="/blog/guadalest-que-ver.html"><img src="/assets/img/instagram/18096219011376691.webp" alt="Guadalest" loading="lazy" decoding="async" /><span>Guadalest</span></a></li><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.webp" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li></ul>

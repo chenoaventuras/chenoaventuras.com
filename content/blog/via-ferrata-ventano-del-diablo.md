@@ -12,6 +12,16 @@ tags:
   - Actividades
   - Castilla-La Mancha
 igPermalink: 'https://www.instagram.com/reel/DQkUrhujNoJ/'
+faqTitulo: "Dudas sobre el Ventano del Diablo"
+faq:
+  - q: "¿Dónde está el Ventano del Diablo?"
+    a: "En la carretera de Cuenca a la Ciudad Encantada, en el término de Villalba de la Sierra, sobre la Hoz del Júcar."
+  - q: "¿Qué es el Ventano del Diablo?"
+    a: "Un mirador natural: una abertura en la roca desde la que se ve la Hoz del Júcar. Al lado sale una vía ferrata con puentes colgantes."
+  - q: "¿Hace falta experiencia para la vía ferrata del Ventano del Diablo?"
+    a: "No, vas siempre asegurado al cable con arnés. Eso sí, necesitas algo de forma física y no tener vértigo fuerte."
+  - q: "¿Cuánto dura la vía ferrata del Ventano del Diablo?"
+    a: "Unas 2-3 horas, contando la explicación de seguridad y el equipo."
 ---
 Colgado sobre la Hoz del Júcar, con el río corriendo decenas de metros más abajo, este recorrido de vía ferrata es uno de los planes de aventura más completos que puedes encontrar en la provincia de Cuenca. Se llama Ventano del Diablo, como el mirador natural que le da nombre a toda la zona.
 
@@ -36,5 +46,8 @@ El propio Ventano del Diablo es, además, un mirador natural muy visitado por s�
 ## Cómo llegar
 
 El Ventano del Diablo se encuentra en la carretera que conecta Cuenca capital con la Ciudad Encantada, dentro del término de Villalba de la Sierra. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Ventano%20del%20Diablo%2C%20Villalba%20de%20la%20Sierra%2C%20Cuenca).
+
+<!--faq-->
+
 
 ¿Te atreverías con la Vía Ferrata del Ventano del Diablo? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

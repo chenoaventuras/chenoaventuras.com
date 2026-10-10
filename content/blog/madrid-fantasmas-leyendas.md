@@ -11,6 +11,16 @@ tags:
   - Spots
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre el Madrid de los fantasmas"
+faq:
+  - q: "¿Cuál es la leyenda del Palacio de Linares?"
+    a: "Según la leyenda, el marqués de Linares y su esposa descubrieron que eran hermanos de padre, y su hija Raimundita fue emparedada en el palacio. Se habló de psicofonías de una niña durante su rehabilitación."
+  - q: "¿Se puede visitar el Palacio de Linares?"
+    a: "Sí, con visita guiada de pago, normalmente los fines de semana y algunas tardes. Consulta horarios y precios en la web de Casa de América."
+  - q: "¿Se puede entrar en la Casa de las Siete Chimeneas?"
+    a: "No, es un edificio oficial y solo se ve por fuera, en la plaza del Rey."
+  - q: "¿Por qué se llama así la calle de la Cabeza?"
+    a: "Por una leyenda: un hombre compró una cabeza de cordero y, al llegar a casa, se convirtió en la cabeza de la persona a la que había asesinado."
 ---
 Madrid tiene un lado oscuro que no sale en las guías: palacios con niñas que lloran por la noche, damas de blanco que pasean por los tejados y una calle que se llama así por una cabeza que nadie quería ver.
 
@@ -42,9 +52,7 @@ Te propongo una **ruta de fantasmas por el centro de Madrid**, perfecta para Hal
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva la visita al Palacio de Linares</b>: hay pases limitados, sobre todo los fines de semana.</li><li><b>Haz la ruta de noche</b>: con las calles vacías, las historias impresionan más.</li><li><b>Únete a una ruta guiada en Halloween</b>: los guías cuentan muchas más leyendas de las que caben aquí.</li><li><b>Acaba con un chocolate con churros</b>: en Madrid es casi obligatorio después de una noche de fantasmas.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Madrid de los fantasmas</h2></div>
-<div class="faq"><details><summary>¿Cuál es la leyenda del Palacio de Linares?</summary><p>Según la leyenda, el marqués de Linares y su esposa descubrieron que eran hermanos de padre, y su hija Raimundita fue emparedada en el palacio. Se habló de psicofonías de una niña durante su rehabilitación.</p></details><details><summary>¿Se puede visitar el Palacio de Linares?</summary><p>Sí, con visita guiada de pago, normalmente los fines de semana y algunas tardes. Consulta horarios y precios en la web de Casa de América.</p></details><details><summary>¿Se puede entrar en la Casa de las Siete Chimeneas?</summary><p>No, es un edificio oficial y solo se ve por fuera, en la plaza del Rey.</p></details><details><summary>¿Por qué se llama así la calle de la Cabeza?</summary><p>Por una leyenda: un hombre compró una cabeza de cordero y, al llegar a casa, se convirtió en la cabeza de la persona a la que había asesinado.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es la leyenda del Palacio de Linares?", "acceptedAnswer": {"@type": "Answer", "text": "Según la leyenda, el marqués de Linares y su esposa descubrieron que eran hermanos de padre, y su hija Raimundita fue emparedada en el palacio. Se habló de psicofonías de una niña durante su rehabilitación."}}, {"@type": "Question", "name": "¿Se puede visitar el Palacio de Linares?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, con visita guiada de pago, normalmente los fines de semana y algunas tardes. Consulta horarios y precios en la web de Casa de América."}}, {"@type": "Question", "name": "¿Se puede entrar en la Casa de las Siete Chimeneas?", "acceptedAnswer": {"@type": "Answer", "text": "No, es un edificio oficial y solo se ve por fuera, en la plaza del Rey."}}, {"@type": "Question", "name": "¿Por qué se llama así la calle de la Cabeza?", "acceptedAnswer": {"@type": "Answer", "text": "Por una leyenda: un hombre compró una cabeza de cordero y, al llegar a casa, se convirtió en la cabeza de la persona a la que había asesinado."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Madrid</h2></div>
 <ul class="nearby"><li><a href="/blog/capilla-sixtina-madrilena-san-antonio-alemanes.html"><img src="/assets/img/instagram/18083171645586039.webp" alt="San Antonio de los Alemanes" loading="lazy" decoding="async" /><span>San Antonio de los Alemanes</span></a></li><li><a href="/blog/chinchon-castillo-de-noche.html"><img src="/assets/img/instagram/18154307548397718.webp" alt="Chinchón" loading="lazy" decoding="async" /><span>Chinchón</span></a></li><li><a href="/blog/mercado-cervantino-alcala-de-henares.html"><img src="/assets/img/instagram/18107361979606597.webp" alt="Alcalá de Henares" loading="lazy" decoding="async" /><span>Alcalá de Henares</span></a></li></ul>

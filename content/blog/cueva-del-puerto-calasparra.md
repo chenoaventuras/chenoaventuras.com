@@ -11,6 +11,18 @@ tags:
   - Actividades
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DPtFBuKjCay/'
+faqTitulo: "Dudas sobre la Cueva del Puerto"
+faq:
+  - q: "¿Dónde está la Cueva del Puerto?"
+    a: "A 9 km de Calasparra, en la Región de Murcia. La ubicación exacta te la dan al reservar."
+  - q: "¿Cuánto cuesta la Cueva del Puerto?"
+    a: "La visita turística cuesta desde 16 € por persona, con guía, casco, luz y seguro incluidos."
+  - q: "¿Cuánto dura la visita a la Cueva del Puerto?"
+    a: "Algo más de una hora, recorriendo unos 900 metros de galerías."
+  - q: "¿Hay que reservar la Cueva del Puerto?"
+    a: "Sí, es imprescindible: los grupos tienen aforo limitado."
+  - q: "¿Qué tiene de especial la Cueva del Puerto?"
+    a: "Es la única de Europa con dos salas de minerales luminiscentes, que brillan en la oscuridad."
 ---
 Bajo tierra, a pocos kilómetros de Calasparra, se esconde un tesoro geológico formado durante millones de años: estalactitas, estalagmitas y, lo más singular, dos salas donde los minerales brillan en la oscuridad. Es la Cueva del Puerto, y es única en toda Europa por ese motivo.
 
@@ -37,5 +49,8 @@ Conviene ir con calzado cerrado y ropa cómoda; si te apuntas a la modalidad de 
 La Cueva del Puerto se encuentra a solo 9 kilómetros de Calasparra, en la Región de Murcia. La ubicación exacta se facilita tras hacer la reserva. Puedes consultar la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Cueva%20del%20Puerto%2C%20Calasparra%2C%20Murcia).
 
 <div class="article__callout article__callout--booking">🎟️ Reserva la visita a la Cueva del Puerto con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/Tx0uxnsS" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
+
+<!--faq-->
+
 
 ¿Te animarías a explorar la Cueva del Puerto? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

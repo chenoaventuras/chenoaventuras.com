@@ -14,6 +14,18 @@ tags:
 guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
 guiaTitulo: 'Guía de Cuenca en PDF'
 wide: true
+faqTitulo: "Dudas sobre la Laguna de Uña"
+faq:
+  - q: "¿Se puede bañar en la Laguna de Uña?"
+    a: "No. El baño está prohibido para proteger el ecosistema y las especies que crían en la laguna, que es Refugio de Fauna desde 1988."
+  - q: "¿Cuánto cuesta visitar la Laguna de Uña?"
+    a: "Nada: la visita es gratuita y de acceso libre."
+  - q: "¿A cuánto está la Laguna de Uña de Cuenca?"
+    a: "A unos 35 km, alrededor de 40 minutos en coche, y a unos 15 minutos de la Ciudad Encantada."
+  - q: "¿Qué ruta hacer en la Laguna de Uña?"
+    a: "Para un paseo fácil, las pasarelas y la orilla. Si quieres vistas desde arriba, la ruta del Escalerón, de unos 9 km y con tramos exigentes."
+  - q: "¿Qué animales se pueden ver en la Laguna de Uña?"
+    a: "Patos, garzas y otras aves acuáticas, buitres leonados y negros, y en los alrededores ciervos, gamos, jabalíes y muflones."
 ---
 Aguas verdes y turquesas, pasarelas de madera entre los juncos y enormes paredes de roca alrededor: la **Laguna de Uña** es de esos sitios que no esperas encontrarte en plena **Serranía de Cuenca**. Y lo mejor es que está a solo 15 minutos de la Ciudad Encantada.
 
@@ -47,9 +59,7 @@ El pueblo de **Uña** apenas tiene un centenar de vecinos, pero su laguna es una
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Primera o última hora</b> — con el agua en calma la laguna hace de espejo y es cuando más fauna se ve.</li><li><b>Combínala</b> — con la Ciudad Encantada (15 min) y el Ventano del Diablo, todo en la misma carretera.</li><li><b>Respeta el entorno</b> — no se puede bañar y conviene no salirse de los caminos señalizados.</li><li><b>Primavera y otoño</b> — son las mejores épocas: colores, temperatura agradable y menos gente.</li></ul><p>Uña es el sitio perfecto para comer en mitad de la ruta por la Serranía 😋</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Laguna de Uña</h2></div>
-<div class="faq"><details><summary>¿Se puede bañar en la Laguna de Uña?</summary><p>No. El baño está prohibido para proteger el ecosistema y las especies que crían en la laguna, que es Refugio de Fauna desde 1988.</p></details><details><summary>¿Cuánto cuesta visitar la Laguna de Uña?</summary><p>Nada: la visita es gratuita y de acceso libre.</p></details><details><summary>¿A cuánto está la Laguna de Uña de Cuenca?</summary><p>A unos 35 km, alrededor de 40 minutos en coche, y a unos 15 minutos de la Ciudad Encantada.</p></details><details><summary>¿Qué ruta hacer en la Laguna de Uña?</summary><p>Para un paseo fácil, las pasarelas y la orilla. Si quieres vistas desde arriba, la ruta del Escalerón, de unos 9 km y con tramos exigentes.</p></details><details><summary>¿Qué animales se pueden ver en la Laguna de Uña?</summary><p>Patos, garzas y otras aves acuáticas, buitres leonados y negros, y en los alrededores ciervos, gamos, jabalíes y muflones.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede bañar en la Laguna de Uña?", "acceptedAnswer": {"@type": "Answer", "text": "No. El baño está prohibido para proteger el ecosistema y las especies que crían en la laguna, que es Refugio de Fauna desde 1988."}}, {"@type": "Question", "name": "¿Cuánto cuesta visitar la Laguna de Uña?", "acceptedAnswer": {"@type": "Answer", "text": "Nada: la visita es gratuita y de acceso libre."}}, {"@type": "Question", "name": "¿A cuánto está la Laguna de Uña de Cuenca?", "acceptedAnswer": {"@type": "Answer", "text": "A unos 35 km, alrededor de 40 minutos en coche, y a unos 15 minutos de la Ciudad Encantada."}}, {"@type": "Question", "name": "¿Qué ruta hacer en la Laguna de Uña?", "acceptedAnswer": {"@type": "Answer", "text": "Para un paseo fácil, las pasarelas y la orilla. Si quieres vistas desde arriba, la ruta del Escalerón, de unos 9 km y con tramos exigentes."}}, {"@type": "Question", "name": "¿Qué animales se pueden ver en la Laguna de Uña?", "acceptedAnswer": {"@type": "Answer", "text": "Patos, garzas y otras aves acuáticas, buitres leonados y negros, y en los alrededores ciervos, gamos, jabalíes y muflones."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando la Serranía</h2></div>
 <ul class="nearby"><li><a href="/blog/ciudad-encantada-cuenca.html"><img src="/assets/img/blog/cuenca/ciudad-encantada.webp" alt="Ciudad Encantada" loading="lazy" decoding="async" /><span>Ciudad Encantada</span></a></li><li><a href="/blog/mirador-ventano-del-diablo.html"><img src="/assets/img/blog/cuenca/ventano-ventana.webp" alt="Mirador del Ventano del Diablo" loading="lazy" decoding="async" /><span>Mirador del Ventano del Diablo</span></a></li><li><a href="/blog/nacimiento-rio-cuervo.html"><img src="/assets/img/blog/cuenca/rio-cuervo.webp" alt="Nacimiento del río Cuervo" loading="lazy" decoding="async" /><span>Nacimiento del río Cuervo</span></a></li><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/blog/cuenca/casas-colgadas.webp" alt="Mi guía completa de Cuenca" loading="lazy" decoding="async" /><span>Mi guía completa de Cuenca</span></a></li></ul>

@@ -11,6 +11,15 @@ tags:
   - Pueblos
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DVnhTcgjD7C/'
+faq:
+  - q: "¿Dónde está El Burgo de Osma?"
+    a: "En la provincia de Soria (Castilla y León), a orillas del río Ucero."
+  - q: "¿Qué ver en El Burgo de Osma?"
+    a: "La catedral de la Asunción, el Hospital de San Agustín con su antigua farmacia, la antigua Universidad de Santa Catalina, las murallas, la Plaza Mayor porticada y el castillo de Osma."
+  - q: "¿Cuánto tiempo hace falta para ver El Burgo de Osma?"
+    a: "Con 2-3 horas recorres con calma todo el casco histórico."
+  - q: "¿Es gratis subir al castillo de Osma?"
+    a: "Sí: el casco histórico y la subida al castillo son gratuitos, y las vistas compensan la pequeña caminata."
 ---
 Hay pueblos que crecieron alrededor de un castillo, y otros que crecieron alrededor de una catedral. El Burgo de Osma es de los segundos: durante siglos fue una importante ciudad episcopal, y ese pasado se nota en cada esquina de su casco histórico.
 
@@ -41,5 +50,8 @@ El pueblo está en la provincia de Soria, en Castilla y León. Puedes consultar 
 ## Qué combinar con la visita
 
 Con 2-3 horas puedes recorrer con calma todo el casco histórico, y la dificultad es baja salvo la pequeña subida al castillo. Si quieres alargar el día, a solo 20 minutos en coche tienes el **Parque Natural del Cañón del Río Lobos**, y también puedes combinar la ruta con otros pueblos con encanto de la zona como **Calatañazor**.
+
+<!--faq-->
+
 
 ¿Ya conocías El Burgo de Osma? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más pueblos con historia, y échale un vistazo al resto del blog para tu próxima escapada por Castilla y León.

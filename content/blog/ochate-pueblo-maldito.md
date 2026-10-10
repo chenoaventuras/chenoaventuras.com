@@ -11,6 +11,15 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+faq:
+  - q: "¿Por qué Ochate es un pueblo maldito?"
+    a: "Por las tres epidemias que lo golpearon en el siglo XIX mientras apenas afectaban a los pueblos vecinos, y por las historias de luces y fenómenos extraños que se contaron desde los años 80."
+  - q: "¿Dónde está Ochate?"
+    a: "En el Condado de Treviño, un enclave de Burgos rodeado por Álava, a unos 25-30 minutos de Vitoria."
+  - q: "¿Cómo se llega a Ochate?"
+    a: "A pie, por una ruta que sale de San Vicentejo. Lleva el track descargado y calzado de montaña."
+  - q: "¿Se puede entrar en las ruinas de Ochate?"
+    a: "No es recomendable: las construcciones están en muy mal estado."
 ---
 Tres epidemias en diez años que apenas tocaron a los pueblos de alrededor, una torre de iglesia en mitad del bosque y décadas de historias sobre **luces en el cielo**. **Ochate** es probablemente el pueblo abandonado con más misterio de España.
 
@@ -41,9 +50,7 @@ Se llega andando, entre robles, y lo que queda impone 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>No entres en las ruinas</b>: están muy deterioradas y pueden derrumbarse.</li><li><b>Ve con luz de día</b>: el camino tiene tramos de bosque y es fácil desorientarse al anochecer.</li><li><b>Elige un día de niebla</b>: si buscas ambiente de miedo, es cuando Ochate impresiona más.</li><li><b>Combínalo con Laguardia</b>: la villa amurallada de la Rioja Alavesa está a menos de una hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Ochate</h2></div>
-<div class="faq"><details><summary>¿Por qué Ochate es un pueblo maldito?</summary><p>Por las tres epidemias que lo golpearon en el siglo XIX mientras apenas afectaban a los pueblos vecinos, y por las historias de luces y fenómenos extraños que se contaron desde los años 80.</p></details><details><summary>¿Dónde está Ochate?</summary><p>En el Condado de Treviño, un enclave de Burgos rodeado por Álava, a unos 25-30 minutos de Vitoria.</p></details><details><summary>¿Cómo se llega a Ochate?</summary><p>A pie, por una ruta que sale de San Vicentejo. Lleva el track descargado y calzado de montaña.</p></details><details><summary>¿Se puede entrar en las ruinas de Ochate?</summary><p>No es recomendable: las construcciones están en muy mal estado.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué Ochate es un pueblo maldito?", "acceptedAnswer": {"@type": "Answer", "text": "Por las tres epidemias que lo golpearon en el siglo XIX mientras apenas afectaban a los pueblos vecinos, y por las historias de luces y fenómenos extraños que se contaron desde los años 80."}}, {"@type": "Question", "name": "¿Dónde está Ochate?", "acceptedAnswer": {"@type": "Answer", "text": "En el Condado de Treviño, un enclave de Burgos rodeado por Álava, a unos 25-30 minutos de Vitoria."}}, {"@type": "Question", "name": "¿Cómo se llega a Ochate?", "acceptedAnswer": {"@type": "Answer", "text": "A pie, por una ruta que sale de San Vicentejo. Lleva el track descargado y calzado de montaña."}}, {"@type": "Question", "name": "¿Se puede entrar en las ruinas de Ochate?", "acceptedAnswer": {"@type": "Answer", "text": "No es recomendable: las construcciones están en muy mal estado."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/laguardia-que-ver.html"><img src="/assets/img/blog/laguardia-que-ver/portada.webp" alt="Laguardia" loading="lazy" decoding="async" /><span>Laguardia</span></a></li><li><a href="/blog/haro-que-ver.html"><img src="/assets/img/blog/haro-que-ver/portada.webp" alt="Haro" loading="lazy" decoding="async" /><span>Haro</span></a></li><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li></ul>

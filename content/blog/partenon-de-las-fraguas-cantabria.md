@@ -11,6 +11,18 @@ tags:
   - Spots
   - Cantabria
 igPermalink: 'https://www.instagram.com/reel/DYSX22UMI_t/'
+faqTitulo: "Dudas sobre el Partenón de Las Fraguas"
+faq:
+  - q: "¿Dónde está el Partenón de Las Fraguas?"
+    a: "En Las Fraguas, en el Valle de Iguña (Cantabria). Es la iglesia de San Jorge."
+  - q: "¿Cómo llegar al Partenón de Las Fraguas?"
+    a: "En coche es sencillo y hay aparcamiento cerca de la iglesia."
+  - q: "¿Cuánto tiempo se tarda en ver la iglesia de Las Fraguas?"
+    a: "Entre 30 y 45 minutos para la iglesia y sus alrededores."
+  - q: "¿Qué película se rodó en Las Fraguas?"
+    a: "«Los otros», con Nicole Kidman: aparece el Palacio de los Hornillos, muy cerca de la iglesia."
+  - q: "¿Cuándo se construyó la iglesia de San Jorge de Las Fraguas?"
+    a: "En 1890, inspirada en los templos griegos, con 40 columnas corintias."
 ---
 Entre montañas y prados del Valle de Iguña, en Cantabria, hay un edificio que parece haberse teletransportado directamente desde Grecia. Lo llaman el "Partenón cántabro", y es uno de los rincones neoclásicos más sorprendentes del norte de España.
 
@@ -35,5 +47,8 @@ Durante la Guerra Civil española, la iglesia llegó a utilizarse como **cárcel
 ## Cómo llegar y cuándo visitarla
 
 La visita a la iglesia y sus alrededores lleva entre 30 y 45 minutos, y se puede hacer durante todo el año, aunque el atardecer es el momento en el que más se aprecia esa sensación de estar frente a un templo griego auténtico. El acceso en coche es sencillo y hay aparcamiento disponible cerca. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Las%20Fraguas%2C%20Cantabria).
+
+<!--faq-->
+
 
 ¿Conocías el Partenón cántabro? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones sorprendentes de España, y échale un vistazo al resto del blog para tu próxima escapada.

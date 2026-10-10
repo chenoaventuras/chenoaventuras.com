@@ -11,6 +11,18 @@ tags:
   - Spots
   - Comunidad Valenciana
 wide: true
+faqTitulo: "Dudas sobre la Isla de Tabarca"
+faq:
+  - q: "¿Cómo se llega a la isla de Tabarca?"
+    a: "En barco. La opción más rápida es desde Santa Pola (unos 25-30 minutos); también hay barcos desde Alicante y, en temporada, desde otros puertos de la costa."
+  - q: "¿Se puede hacer snorkel en Tabarca?"
+    a: "Sí, y es uno de los mejores sitios del Mediterráneo español: sus aguas son reserva marina desde 1986 y hay muchísima vida cerca de la orilla."
+  - q: "¿Vive gente en Tabarca?"
+    a: "Sí, es la única isla habitada de la Comunidad Valenciana, aunque con muy pocos vecinos fijos."
+  - q: "¿Cuánto tiempo hace falta para ver Tabarca?"
+    a: "Un día es suficiente para recorrerla, bañarte y comer. Si quieres vivirla tranquila, quédate a dormir."
+  - q: "¿Cuánto se tarda en llegar a Tabarca?"
+    a: "Desde Santa Pola, el trayecto más corto, unos 25-30 minutos en barco. También hay barcos desde Alicante."
 ---
 Una isla pequeñita, plana, con un pueblo amurallado, un faro y unas aguas tan claras que fue la **primera reserva marina de España**. **Tabarca** es la única isla habitada de la Comunidad Valenciana y uno de los mejores sitios del Mediterráneo para hacer **snorkel** sin necesidad de barco propio.
 
@@ -41,9 +53,7 @@ Te cuento cómo llegar, dónde meterte al agua y qué ver en la isla 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Coge el primer barco</b>: a media mañana llegan muchos visitantes y la isla se llena.</li><li><b>Gafas, tubo y escarpines</b>: el fondo es rocoso y la vida marina, increíble.</li><li><b>Prueba el caldero tabarquino</b>: el plato típico de la isla, con arroz y pescado de roca.</li><li><b>Quédate a dormir</b>: cuando se va el último barco, la isla es otra.</li><li><b>Respeta la reserva</b>: no se puede pescar ni coger nada del fondo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Isla de Tabarca</h2></div>
-<div class="faq"><details><summary>¿Cómo se llega a la isla de Tabarca?</summary><p>En barco. La opción más rápida es desde Santa Pola (unos 25-30 minutos); también hay barcos desde Alicante y, en temporada, desde otros puertos de la costa.</p></details><details><summary>¿Se puede hacer snorkel en Tabarca?</summary><p>Sí, y es uno de los mejores sitios del Mediterráneo español: sus aguas son reserva marina desde 1986 y hay muchísima vida cerca de la orilla.</p></details><details><summary>¿Vive gente en Tabarca?</summary><p>Sí, es la única isla habitada de la Comunidad Valenciana, aunque con muy pocos vecinos fijos.</p></details><details><summary>¿Cuánto tiempo hace falta para ver Tabarca?</summary><p>Un día es suficiente para recorrerla, bañarte y comer. Si quieres vivirla tranquila, quédate a dormir.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cómo se llega a la isla de Tabarca?", "acceptedAnswer": {"@type": "Answer", "text": "En barco. La opción más rápida es desde Santa Pola (unos 25-30 minutos); también hay barcos desde Alicante y, en temporada, desde otros puertos de la costa."}}, {"@type": "Question", "name": "¿Se puede hacer snorkel en Tabarca?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, y es uno de los mejores sitios del Mediterráneo español: sus aguas son reserva marina desde 1986 y hay muchísima vida cerca de la orilla."}}, {"@type": "Question", "name": "¿Vive gente en Tabarca?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, es la única isla habitada de la Comunidad Valenciana, aunque con muy pocos vecinos fijos."}}, {"@type": "Question", "name": "¿Cuánto tiempo hace falta para ver Tabarca?", "acceptedAnswer": {"@type": "Answer", "text": "Un día es suficiente para recorrerla, bañarte y comer. Si quieres vivirla tranquila, quédate a dormir."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más mar</span><h2>Más planes de mar</h2></div>
 <ul class="nearby"><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Snorkel en Cabo de Palos" loading="lazy" decoding="async" /><span>Snorkel en Cabo de Palos</span></a></li><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li><li><a href="/blog/altea-que-ver-costa-blanca.html"><img src="/assets/img/blog/uploads/altea-horizontal.webp" alt="Altea" loading="lazy" decoding="async" /><span>Altea</span></a></li></ul>

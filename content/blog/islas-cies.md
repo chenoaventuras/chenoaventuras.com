@@ -11,6 +11,22 @@ tags:
   - Spots
   - Galicia
 wide: true
+faqTitulo: "Dudas sobre las Islas Cíes"
+faq:
+  - q: "¿Hace falta autorización para ir a las Islas Cíes?"
+    a: "Sí, en Semana Santa y del 15 de mayo al 15 de septiembre. Es gratuita y se pide en la web de la Xunta antes de comprar el barco. El resto del año basta con el billete."
+  - q: "¿Desde dónde salen los barcos a las Islas Cíes?"
+    a: "Principalmente desde Vigo, Cangas y Baiona. En verano también hay salidas desde otros puertos de las Rías Baixas."
+  - q: "¿Se puede dormir en las Islas Cíes?"
+    a: "Solo en el camping de las islas, que gestiona su propio permiso de acampada."
+  - q: "¿Cuál es la playa más famosa de las Cíes?"
+    a: "La playa de Rodas, que une las islas de Monteagudo y do Faro. En 2007 The Guardian la eligió como la mejor playa del mundo."
+  - q: "¿Hay papeleras en las Islas Cíes?"
+    a: "No. Al ser parque nacional, cada visitante debe llevarse su basura de vuelta."
+  - q: "¿Cuánto se tarda de Vigo a las Islas Cíes?"
+    a: "El barco tarda entre 30 y 45 minutos. El billete se paga aparte a la naviera."
+  - q: "¿Se puede ir con perro a las Islas Cíes?"
+    a: "No, en el Parque Nacional no se permite llevar mascotas (salvo perros de asistencia)."
 ---
 Arena blanca, agua cristalina (y fría, eso sí) y senderos que suben a faros con vistas al Atlántico. Las **Islas Cíes**, frente a Vigo, son parte del **Parque Nacional de las Islas Atlánticas de Galicia** y tienen la que muchos consideran una de las mejores playas del mundo: **Rodas**.
 
@@ -41,9 +57,7 @@ Para ir hay que coger un barco y, en temporada alta, **pedir una autorización**
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlas al máximo</h2><ul><li><b>Pide la autorización con tiempo</b>: en verano los cupos vuelan.</li><li><b>Coge el primer barco</b>: tendrás las playas y las rutas casi para ti.</li><li><b>Lleva comida, agua y bolsa de basura</b>: hay un restaurante y una tienda, pero son caros y se llenan.</li><li><b>Haz la ruta del faro</b>: son unas dos horas ida y vuelta y merecen muchísimo la pena.</li><li><b>Un forro polar en la mochila</b>: en el Atlántico el tiempo cambia rápido.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre las Islas Cíes</h2></div>
-<div class="faq"><details><summary>¿Hace falta autorización para ir a las Islas Cíes?</summary><p>Sí, en Semana Santa y del 15 de mayo al 15 de septiembre. Es gratuita y se pide en la web de la Xunta antes de comprar el barco. El resto del año basta con el billete.</p></details><details><summary>¿Desde dónde salen los barcos a las Islas Cíes?</summary><p>Principalmente desde Vigo, Cangas y Baiona. En verano también hay salidas desde otros puertos de las Rías Baixas.</p></details><details><summary>¿Se puede dormir en las Islas Cíes?</summary><p>Solo en el camping de las islas, que gestiona su propio permiso de acampada.</p></details><details><summary>¿Cuál es la playa más famosa de las Cíes?</summary><p>La playa de Rodas, que une las islas de Monteagudo y do Faro. En 2007 The Guardian la eligió como la mejor playa del mundo.</p></details><details><summary>¿Hay papeleras en las Islas Cíes?</summary><p>No. Al ser parque nacional, cada visitante debe llevarse su basura de vuelta.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hace falta autorización para ir a las Islas Cíes?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, en Semana Santa y del 15 de mayo al 15 de septiembre. Es gratuita y se pide en la web de la Xunta antes de comprar el barco. El resto del año basta con el billete."}}, {"@type": "Question", "name": "¿Desde dónde salen los barcos a las Islas Cíes?", "acceptedAnswer": {"@type": "Answer", "text": "Principalmente desde Vigo, Cangas y Baiona. En verano también hay salidas desde otros puertos de las Rías Baixas."}}, {"@type": "Question", "name": "¿Se puede dormir en las Islas Cíes?", "acceptedAnswer": {"@type": "Answer", "text": "Solo en el camping de las islas, que gestiona su propio permiso de acampada."}}, {"@type": "Question", "name": "¿Cuál es la playa más famosa de las Cíes?", "acceptedAnswer": {"@type": "Answer", "text": "La playa de Rodas, que une las islas de Monteagudo y do Faro. En 2007 The Guardian la eligió como la mejor playa del mundo."}}, {"@type": "Question", "name": "¿Hay papeleras en las Islas Cíes?", "acceptedAnswer": {"@type": "Answer", "text": "No. Al ser parque nacional, cada visitante debe llevarse su basura de vuelta."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más costa</span><h2>Más playas y costa norte</h2></div>
 <ul class="nearby"><li><a href="/blog/playa-de-las-catedrales.html"><img src="/assets/img/blog/playa-de-las-catedrales/portada.webp" alt="Playa de las Catedrales" loading="lazy" decoding="async" /><span>Playa de las Catedrales</span></a></li><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Snorkel en Cabo de Palos" loading="lazy" decoding="async" /><span>Snorkel en Cabo de Palos</span></a></li><li><a href="/blog/cudillero-que-ver.html"><img src="/assets/img/blog/cudillero-que-ver/portada.webp" alt="Cudillero" loading="lazy" decoding="async" /><span>Cudillero</span></a></li></ul>

@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Aragón
 wide: true
+faqTitulo: "Dudas sobre el templo budista de Panillo"
+faq:
+  - q: "¿El templo budista de Panillo está en Zaragoza?"
+    a: "No, está en Panillo, en el municipio de Graus, provincia de Huesca."
+  - q: "¿Se puede visitar Dag Shang Kagyu?"
+    a: "Sí, está abierto a visitantes. La entrada es libre con donativo y hay visitas guiadas en fechas concretas."
+  - q: "¿Hay que ser budista para visitarlo?"
+    a: "No. Solo se pide respeto: hablar bajo y seguir las normas del centro."
+  - q: "¿Qué otros templos budistas hay en España?"
+    a: "La Estupa de Benalmádena (Málaga), O Sel Ling en la Alpujarra (Granada) y el Palau Novella en el Garraf (Barcelona), entre otros."
+  - q: "¿Cómo llegar al templo budista de Panillo?"
+    a: "En coche hasta Panillo, en la Ribagorza (Huesca), muy cerca de Graus."
 ---
 Banderas de oración al viento, una estupa blanca y un templo de colores... en **Huesca**. En el pueblecito de **Panillo**, en la Ribagorza, está **Dag Shang Kagyu**, uno de los centros budistas tibetanos más importantes de Europa.
 
@@ -43,9 +55,7 @@ Ojo, que mucha gente lo busca en Zaragoza: está en **Huesca**, cerca de Graus. 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira la web antes</b>: los horarios de visita y las visitas guiadas cambian según la época y los retiros.</li><li><b>Ve con calma</b>: es un lugar de meditación: nada de prisas ni música alta.</li><li><b>Combínalo con Graus</b>: su Plaza Mayor porticada es de las más bonitas de Aragón.</li><li><b>Sigue hacia el Pirineo</b>: Alquézar, Aínsa y la Sierra de Guara están a menos de una hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el templo budista de Panillo</h2></div>
-<div class="faq"><details><summary>¿El templo budista de Panillo está en Zaragoza?</summary><p>No, está en Panillo, en el municipio de Graus, provincia de Huesca.</p></details><details><summary>¿Se puede visitar Dag Shang Kagyu?</summary><p>Sí, está abierto a visitantes. La entrada es libre con donativo y hay visitas guiadas en fechas concretas.</p></details><details><summary>¿Hay que ser budista para visitarlo?</summary><p>No. Solo se pide respeto: hablar bajo y seguir las normas del centro.</p></details><details><summary>¿Qué otros templos budistas hay en España?</summary><p>La Estupa de Benalmádena (Málaga), O Sel Ling en la Alpujarra (Granada) y el Palau Novella en el Garraf (Barcelona), entre otros.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿El templo budista de Panillo está en Zaragoza?", "acceptedAnswer": {"@type": "Answer", "text": "No, está en Panillo, en el municipio de Graus, provincia de Huesca."}}, {"@type": "Question", "name": "¿Se puede visitar Dag Shang Kagyu?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, está abierto a visitantes. La entrada es libre con donativo y hay visitas guiadas en fechas concretas."}}, {"@type": "Question", "name": "¿Hay que ser budista para visitarlo?", "acceptedAnswer": {"@type": "Answer", "text": "No. Solo se pide respeto: hablar bajo y seguir las normas del centro."}}, {"@type": "Question", "name": "¿Qué otros templos budistas hay en España?", "acceptedAnswer": {"@type": "Answer", "text": "La Estupa de Benalmádena (Málaga), O Sel Ling en la Alpujarra (Granada) y el Palau Novella en el Garraf (Barcelona), entre otros."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/pasarelas-de-alquezar.html"><img src="/assets/img/blog/pasarelas-de-alquezar/portada.webp" alt="Alquézar" loading="lazy" decoding="async" /><span>Alquézar</span></a></li><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Aínsa" loading="lazy" decoding="async" /><span>Aínsa</span></a></li><li><a href="/blog/avistamiento-de-buitres-sierra-de-guara.html"><img src="/assets/img/instagram/18167547529344269.webp" alt="Sierra de Guara" loading="lazy" decoding="async" /><span>Sierra de Guara</span></a></li></ul>

@@ -11,6 +11,16 @@ tags:
   - Curiosidades
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre Sobrino de Botín"
+faq:
+  - q: "¿Cuál es el restaurante más antiguo del mundo?"
+    a: "Según el Libro Guinness de los Récords, Sobrino de Botín, en Madrid, abierto en 1725."
+  - q: "¿Dónde está Botín?"
+    a: "En la calle de Cuchilleros, 17, junto a la Plaza Mayor de Madrid."
+  - q: "¿Qué se come en Botín?"
+    a: "Cocina castellana; lo más famoso es el cochinillo y el cordero asados en horno de leña."
+  - q: "¿Hace falta reservar?"
+    a: "Es muy recomendable, sobre todo en fines de semana y temporada alta."
 ---
 En la calle Cuchilleros, a dos pasos de la Plaza Mayor, hay un restaurante que aparece en el **Libro Guinness de los Récords** como el **más antiguo del mundo**. Se llama **Sobrino de Botín** y dice tener el horno encendido desde **1725**.
 
@@ -38,9 +48,7 @@ Te cuento su historia, las leyendas que lo rodean y qué pedir si te sientas a c
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Si no vas a comer</b>: la foto de la fachada es gratis. Ve temprano para que no haya gente.</li><li><b>Combínalo</b>: con la Plaza Mayor, el Mercado de San Miguel y el Madrid de los Austrias.</li><li><b>Haz la ruta de leyendas</b>: esta zona está llena de historias de fantasmas (te las cuento en otro post).</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Sobrino de Botín</h2></div>
-<div class="faq"><details><summary>¿Cuál es el restaurante más antiguo del mundo?</summary><p>Según el Libro Guinness de los Récords, Sobrino de Botín, en Madrid, abierto en 1725.</p></details><details><summary>¿Dónde está Botín?</summary><p>En la calle de Cuchilleros, 17, junto a la Plaza Mayor de Madrid.</p></details><details><summary>¿Qué se come en Botín?</summary><p>Cocina castellana; lo más famoso es el cochinillo y el cordero asados en horno de leña.</p></details><details><summary>¿Hace falta reservar?</summary><p>Es muy recomendable, sobre todo en fines de semana y temporada alta.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es el restaurante más antiguo del mundo?", "acceptedAnswer": {"@type": "Answer", "text": "Según el Libro Guinness de los Récords, Sobrino de Botín, en Madrid, abierto en 1725."}}, {"@type": "Question", "name": "¿Dónde está Botín?", "acceptedAnswer": {"@type": "Answer", "text": "En la calle de Cuchilleros, 17, junto a la Plaza Mayor de Madrid."}}, {"@type": "Question", "name": "¿Qué se come en Botín?", "acceptedAnswer": {"@type": "Answer", "text": "Cocina castellana; lo más famoso es el cochinillo y el cordero asados en horno de leña."}}, {"@type": "Question", "name": "¿Hace falta reservar?", "acceptedAnswer": {"@type": "Answer", "text": "Es muy recomendable, sobre todo en fines de semana y temporada alta."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/madrid-fantasmas-leyendas.html"><img src="/assets/img/blog/madrid-fantasmas-leyendas/portada.webp" alt="Madrid de fantasmas" loading="lazy" decoding="async" /><span>Madrid de fantasmas</span></a></li><li><a href="/blog/capilla-sixtina-madrilena-san-antonio-alemanes.html"><img src="/assets/img/instagram/18083171645586039.webp" alt="San Antonio de los Alemanes" loading="lazy" decoding="async" /><span>San Antonio de los Alemanes</span></a></li><li><a href="/blog/templo-de-debod.html"><img src="/assets/img/blog/templo-de-debod/portada.webp" alt="Templo de Debod" loading="lazy" decoding="async" /><span>Templo de Debod</span></a></li></ul>

@@ -11,6 +11,17 @@ tags:
   - Spots
   - Andalucía
 wide: true
+faq:
+  - q: "¿Cuánto cuesta entrar a Medina Azahara?"
+    a: "Es gratis para ciudadanos de la UE. Para el resto hay una entrada simbólica. El autobús lanzadera se paga aparte."
+  - q: "¿Se puede ir en coche a Medina Azahara?"
+    a: "Hasta el Centro de Visitantes sí; desde allí al yacimiento hay que subir en el autobús lanzadera."
+  - q: "¿Cuánto se tarda en ver Medina Azahara?"
+    a: "Entre 2 y 3 horas con el museo y el yacimiento."
+  - q: "¿Qué día cierra Medina Azahara?"
+    a: "Los lunes."
+  - q: "¿Cómo llegar a Medina Azahara desde Córdoba?"
+    a: "Está a unos 8 km de Córdoba. En coche no se llega hasta la puerta: se aparca en el museo y desde allí sube un autobús lanzadera."
 ---
 A las afueras de **Córdoba** hay una ciudad entera que fue la más lujosa de Europa... y que solo duró **70 años**. **Medina Azahara** fue la capital de los califas de al-Ándalus, y hoy es **Patrimonio de la Humanidad**.
 
@@ -41,9 +52,7 @@ Te cuento su historia y cómo organizar la visita (ojo, que no se llega en coche
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Lleva el DNI</b>: para la entrada gratuita como ciudadano de la UE.</li><li><b>Ojo con los lunes</b>: cierra los lunes, y los domingos cierra antes.</li><li><b>En verano, temprano</b>: apenas hay sombra y en Córdoba el calor es serio.</li><li><b>Visita guiada</b>: merece la pena para entender lo que estás viendo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Medina Azahara</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar a Medina Azahara?</summary><p>Es gratis para ciudadanos de la UE. Para el resto hay una entrada simbólica. El autobús lanzadera se paga aparte.</p></details><details><summary>¿Se puede ir en coche a Medina Azahara?</summary><p>Hasta el Centro de Visitantes sí; desde allí al yacimiento hay que subir en el autobús lanzadera.</p></details><details><summary>¿Cuánto se tarda en ver Medina Azahara?</summary><p>Entre 2 y 3 horas con el museo y el yacimiento.</p></details><details><summary>¿Qué día cierra Medina Azahara?</summary><p>Los lunes.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar a Medina Azahara?", "acceptedAnswer": {"@type": "Answer", "text": "Es gratis para ciudadanos de la UE. Para el resto hay una entrada simbólica. El autobús lanzadera se paga aparte."}}, {"@type": "Question", "name": "¿Se puede ir en coche a Medina Azahara?", "acceptedAnswer": {"@type": "Answer", "text": "Hasta el Centro de Visitantes sí; desde allí al yacimiento hay que subir en el autobús lanzadera."}}, {"@type": "Question", "name": "¿Cuánto se tarda en ver Medina Azahara?", "acceptedAnswer": {"@type": "Answer", "text": "Entre 2 y 3 horas con el museo y el yacimiento."}}, {"@type": "Question", "name": "¿Qué día cierra Medina Azahara?", "acceptedAnswer": {"@type": "Answer", "text": "Los lunes."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/mezquita-de-cordoba.html"><img src="/assets/img/blog/mezquita-de-cordoba/portada.webp" alt="Mezquita-Catedral de Córdoba" loading="lazy" decoding="async" /><span>Mezquita-Catedral de Córdoba</span></a></li><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/plaza-de-espana-sevilla.html"><img src="/assets/img/blog/plaza-de-espana-sevilla/portada.webp" alt="Plaza de España (Sevilla)" loading="lazy" decoding="async" /><span>Plaza de España (Sevilla)</span></a></li></ul>

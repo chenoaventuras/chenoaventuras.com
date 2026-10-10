@@ -11,6 +11,18 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+faqTitulo: "Dudas sobre el Lago de Sanabria"
+faq:
+  - q: "¿Se puede bañar en el Lago de Sanabria?"
+    a: "Sí. En verano tiene varias playas con servicios, como Los Enanos, Custa Llago o Viquiella. El agua es fría y muy limpia."
+  - q: "¿Es el Lago de Sanabria un lago glaciar?"
+    a: "Sí, es el mayor lago de origen glaciar de la península ibérica."
+  - q: "¿Qué distancia hay entre Puebla de Sanabria y el lago?"
+    a: "Unos 15 km por carretera, unos 15-20 minutos en coche."
+  - q: "¿Qué es la leyenda de Valverde de Lucerna?"
+    a: "Una leyenda que cuenta que bajo el lago hay un pueblo hundido cuyas campanas se oyen la noche de San Juan. Inspiró a Unamuno en «San Manuel Bueno, mártir»."
+  - q: "¿Cómo llegar al Lago de Sanabria?"
+    a: "Desde Puebla de Sanabria (Zamora) son unos 15 km por carretera, 15-20 minutos en coche."
 ---
 Un lago de origen glaciar enorme, rodeado de montañas que en invierno se cubren de nieve, con playas de arena donde bañarse en verano. El **Lago de Sanabria** es un rincón de Zamora que sorprende a todo el que llega, y a pocos kilómetros está **Puebla de Sanabria**, un pueblo medieval con castillo que es de los más bonitos de Castilla y León.
 
@@ -41,9 +53,7 @@ Te cuento qué ver, dónde bañarte y qué rutas hacer 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz una ruta</b>: la subida a la Laguna de los Peces o la cascada de Sotillo son clásicos del parque.</li><li><b>Báñate a primera hora</b>: el agua está fría, pero el lago en calma por la mañana es precioso.</li><li><b>Prueba la ternera de Aliste y el pulpo a la sanabresa</b>: la gastronomía de la zona merece el viaje.</li><li><b>Sube al castillo al atardecer</b>: las vistas de la sierra desde Puebla son espectaculares.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Lago de Sanabria</h2></div>
-<div class="faq"><details><summary>¿Se puede bañar en el Lago de Sanabria?</summary><p>Sí. En verano tiene varias playas con servicios, como Los Enanos, Custa Llago o Viquiella. El agua es fría y muy limpia.</p></details><details><summary>¿Es el Lago de Sanabria un lago glaciar?</summary><p>Sí, es el mayor lago de origen glaciar de la península ibérica.</p></details><details><summary>¿Qué distancia hay entre Puebla de Sanabria y el lago?</summary><p>Unos 15 km por carretera, unos 15-20 minutos en coche.</p></details><details><summary>¿Qué es la leyenda de Valverde de Lucerna?</summary><p>Una leyenda que cuenta que bajo el lago hay un pueblo hundido cuyas campanas se oyen la noche de San Juan. Inspiró a Unamuno en «San Manuel Bueno, mártir».</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede bañar en el Lago de Sanabria?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. En verano tiene varias playas con servicios, como Los Enanos, Custa Llago o Viquiella. El agua es fría y muy limpia."}}, {"@type": "Question", "name": "¿Es el Lago de Sanabria un lago glaciar?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, es el mayor lago de origen glaciar de la península ibérica."}}, {"@type": "Question", "name": "¿Qué distancia hay entre Puebla de Sanabria y el lago?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 15 km por carretera, unos 15-20 minutos en coche."}}, {"@type": "Question", "name": "¿Qué es la leyenda de Valverde de Lucerna?", "acceptedAnswer": {"@type": "Answer", "text": "Una leyenda que cuenta que bajo el lago hay un pueblo hundido cuyas campanas se oyen la noche de San Juan. Inspiró a Unamuno en «San Manuel Bueno, mártir»."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más lagos y montaña</span><h2>Más agua y montaña</h2></div>
 <ul class="nearby"><li><a href="/blog/sierra-de-gredos.html"><img src="/assets/img/blog/sierra-de-gredos/portada.webp" alt="Laguna Grande de Gredos" loading="lazy" decoding="async" /><span>Laguna Grande de Gredos</span></a></li><li><a href="/blog/ibon-de-anayet.html"><img src="/assets/img/blog/pirineo/anayet.webp" alt="Ibón de Anayet" loading="lazy" decoding="async" /><span>Ibón de Anayet</span></a></li><li><a href="/blog/laguna-de-una-cuenca.html"><img src="/assets/img/blog/cuenca/una-laguna.webp" alt="Laguna de Uña" loading="lazy" decoding="async" /><span>Laguna de Uña</span></a></li></ul>

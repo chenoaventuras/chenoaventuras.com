@@ -11,6 +11,20 @@ tags:
   - Actividades
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/reel/DMqc0iQIVwi/'
+faqTitulo: "Dudas sobre las Cuevas de San José"
+faq:
+  - q: "¿Dónde están las Cuevas de San José?"
+    a: "En la Vall d'Uixó, en la provincia de Castellón (Comunidad Valenciana)."
+  - q: "¿Cuánto cuesta entrar a las Cuevas de San José?"
+    a: "15 € adultos, 8 € niños hasta 13 años y 10 € estudiantes, carnet joven, jubilados y personas con discapacidad. La ruta en kayak cuesta 50 €."
+  - q: "¿Cuánto dura la visita a las Cuevas de San José?"
+    a: "Unos 40 minutos: 800 metros en barca y 250 metros a pie."
+  - q: "¿Se puede bañar en las Cuevas de San José?"
+    a: "No, el río se recorre en barca o, si reservas esa opción, en kayak."
+  - q: "¿Hay que reservar para las Cuevas de San José?"
+    a: "En temporada alta, sí. Si no quedan plazas online, cada día se venden unas pocas entradas en taquilla."
+  - q: "¿Qué temperatura hace dentro de las Cuevas de San José?"
+    a: "Unos 20 °C constantes todo el año, así que es buen plan tanto en invierno como en verano."
 ---
 Bajo la Vall d'Uixó, en Castellón, corre un río subterráneo que se puede recorrer en barca: el más largo de Europa que admite navegación. Rodeado de formaciones que han tardado miles de años en formarse, es uno de esos planes que combinan aventura y naturaleza bajo tierra.
 
@@ -39,5 +53,8 @@ La visita es apta para todos los públicos y cuenta con accesibilidad para perso
 ## Cómo llegar
 
 Las Cuevas de San José se encuentran en la Vall d'Uixó, en Castellón. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Cuevas%20de%20San%20Jos%C3%A9%2C%20la%20Vall%20d%27Uix%C3%B3).
+
+<!--faq-->
+
 
 ¿Te animarías a navegar por el río subterráneo de las Cuevas de San José? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

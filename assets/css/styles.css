@@ -570,7 +570,7 @@ p { margin: 0 0 1em; }
 .article__body--wide > .guide__legend { margin-top: 24px; }
 .guide__howto { max-width: 68ch; margin: 0 auto; background: var(--white); border-radius: var(--radius); padding: 20px 24px; box-shadow: var(--shadow-sm); }
 .article__body .guide__howto p { margin: 0 0 .8em; }
-.article__body .faq { max-width: 68ch; margin: 0 auto; display: grid; gap: 10px; }
+.article__body .faq { max-width: 68ch; margin: 0 auto 32px; display: grid; gap: 10px; }
 .article__body .faq details { background: var(--white); border-radius: 12px; box-shadow: var(--shadow-sm); padding: 0 18px; }
 .article__body .faq summary { cursor: pointer; list-style: none; font-family: var(--font-head); font-weight: 600; color: var(--night); padding: 14px 28px 14px 0; position: relative; line-height: 1.4; }
 .article__body .faq summary::-webkit-details-marker { display: none; }

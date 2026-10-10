@@ -12,6 +12,16 @@ tags:
   - Actividades
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DZAwD6dsanE/'
+faqTitulo: "Dudas sobre Territorio Artlanza"
+faq:
+  - q: "¿Dónde está Territorio Artlanza?"
+    a: "En Quintanilla del Agua (Burgos), entre Lerma y Covarrubias, en el valle del Arlanza. Hay aparcamiento gratuito al lado."
+  - q: "¿Qué es Territorio Artlanza?"
+    a: "Un pueblo castellano entero recreado a tamaño real por el artista Félix Yáñez con materiales reciclados: está considerado la escultura más grande del mundo hecha por una sola persona."
+  - q: "¿Qué ver en Territorio Artlanza?"
+    a: "El taller del artista, calles y plazas recreadas, museos como la escuela, la botica, la fragua o la taberna, dos corrales de comedias y una zona infantil."
+  - q: "¿Es buen plan ir a Territorio Artlanza con niños?"
+    a: "Sí: el recorrido termina con una zona infantil llena de personajes de dibujos animados, y el pueblo en sí les encanta."
 ---
 Hay quien construye una maqueta a escala. El artista Félix Yáñez decidió construir un pueblo castellano entero, a tamaño real, con sus propias manos y con materiales reciclados. El resultado se llama Territorio Artlanza, y está considerado la escultura más grande del mundo creada por una sola persona.
 
@@ -42,5 +52,8 @@ Recorrerlo con calma, deteniéndote en los detalles, lleva entre 2 y 3 horas. Se
 ## Combina la visita con el valle del Arlanza
 
 Al estar entre Lerma y Covarrubias, Territorio Artlanza es una parada perfecta para combinar con algunos de los pueblos con más encanto de la provincia de Burgos, si quieres alargar la escapada por la zona.
+
+<!--faq-->
+
 
 ¿Conocías Territorio Artlanza? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones sorprendentes de España, y échale un vistazo al resto del blog para tu próxima ruta.

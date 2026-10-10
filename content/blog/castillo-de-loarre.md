@@ -11,6 +11,20 @@ tags:
   - Spots
   - Aragón
 wide: true
+faqTitulo: "Dudas sobre Loarre"
+faq:
+  - q: "¿Cuánto cuesta entrar al castillo de Loarre?"
+    a: "La entrada general cuesta unos 6 €, con un pequeño suplemento para la visita guiada. Consulta precios reducidos y horarios en su web."
+  - q: "¿Qué película se rodó en el castillo de Loarre?"
+    a: "El reino de los cielos (2005), de Ridley Scott, con Orlando Bloom, Eva Green y Liam Neeson."
+  - q: "¿Cuánto tiempo se necesita para ver el castillo de Loarre?"
+    a: "Entre una y dos horas, según si haces la visita guiada."
+  - q: "¿Se puede subir en coche al castillo de Loarre?"
+    a: "Sí, hay una carretera desde el pueblo de Loarre hasta un aparcamiento junto al castillo."
+  - q: "¿Cómo llegar al castillo de Loarre desde Huesca?"
+    a: "Son unos 35 km, unos 40 minutos en coche. Desde el pueblo de Loarre, una carretera sube 5 km hasta el aparcamiento del castillo."
+  - q: "¿Qué horario tiene el castillo de Loarre?"
+    a: "Cambia según la temporada y suele cerrar los lunes en temporada baja: consulta su web antes de ir."
 ---
 Mil años en lo alto de una peña, murallas con torres redondas, una iglesia románica dentro del recinto y unas vistas que llegan hasta el horizonte. El **castillo de Loarre** es tan de película que **Ridley Scott** lo eligió para rodar *El reino de los cielos*.
 
@@ -41,9 +55,7 @@ Está considerado uno de los castillos románicos mejor conservados de Europa, y
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Coge la visita guiada</b>: cuesta poco más y te cuentan detalles de la historia y del rodaje que no verías solo.</li><li><b>Ve a última hora</b>: la luz de la tarde sobre la piedra es la mejor para las fotos.</li><li><b>Mira la película antes</b>: buscar los escenarios de El reino de los cielos tiene su gracia.</li><li><b>Combínalo con los Mallos de Riglos</b>: están a media hora, aunque tras el incendio de 2026 conviene comprobar qué senderos están abiertos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Loarre</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuesta entrar al castillo de Loarre?</summary><p>La entrada general cuesta unos 6 €, con un pequeño suplemento para la visita guiada. Consulta precios reducidos y horarios en su web.</p></details><details><summary>¿Qué película se rodó en el castillo de Loarre?</summary><p>El reino de los cielos (2005), de Ridley Scott, con Orlando Bloom, Eva Green y Liam Neeson.</p></details><details><summary>¿Cuánto tiempo se necesita para ver el castillo de Loarre?</summary><p>Entre una y dos horas, según si haces la visita guiada.</p></details><details><summary>¿Se puede subir en coche al castillo de Loarre?</summary><p>Sí, hay una carretera desde el pueblo de Loarre hasta un aparcamiento junto al castillo.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuesta entrar al castillo de Loarre?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta unos 6 €, con un pequeño suplemento para la visita guiada. Consulta precios reducidos y horarios en su web."}}, {"@type": "Question", "name": "¿Qué película se rodó en el castillo de Loarre?", "acceptedAnswer": {"@type": "Answer", "text": "El reino de los cielos (2005), de Ridley Scott, con Orlando Bloom, Eva Green y Liam Neeson."}}, {"@type": "Question", "name": "¿Cuánto tiempo se necesita para ver el castillo de Loarre?", "acceptedAnswer": {"@type": "Answer", "text": "Entre una y dos horas, según si haces la visita guiada."}}, {"@type": "Question", "name": "¿Se puede subir en coche al castillo de Loarre?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, hay una carretera desde el pueblo de Loarre hasta un aparcamiento junto al castillo."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Aragón</h2></div>
 <ul class="nearby"><li><a href="/blog/avistamiento-de-buitres-sierra-de-guara.html"><img src="/assets/img/instagram/18167547529344269.webp" alt="Sierra de Guara" loading="lazy" decoding="async" /><span>Sierra de Guara</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Pirineo Aragonés" loading="lazy" decoding="async" /><span>Pirineo Aragonés</span></a></li><li><a href="/blog/estacion-de-canfranc.html"><img src="/assets/img/instagram/18060356315252624.webp" alt="Estación de Canfranc" loading="lazy" decoding="async" /><span>Estación de Canfranc</span></a></li></ul>

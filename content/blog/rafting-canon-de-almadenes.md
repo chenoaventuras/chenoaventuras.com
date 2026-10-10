@@ -11,6 +11,18 @@ tags:
   - Actividades
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DPMiJbsDDrn/'
+faqTitulo: "Dudas sobre el Cañón de Almadenes"
+faq:
+  - q: "¿Dónde está el Cañón de Almadenes?"
+    a: "Entre Cieza y Calasparra (Región de Murcia), en el río Segura, con paredes de roca de hasta 150 metros."
+  - q: "¿Cuánto cuesta el rafting en el Cañón de Almadenes?"
+    a: "Desde 18 € por persona. El combinado con la Cueva del Puerto cuesta 33 € (27 € niños y pensionistas; gratis menores de 4)."
+  - q: "¿Se puede hacer el Cañón de Almadenes con niños?"
+    a: "Sí: la dificultad es muy baja y es apta para familias y para quien no ha hecho nunca rafting."
+  - q: "¿Cuánto dura el descenso del Cañón de Almadenes?"
+    a: "Unas 3 horas en total, con paradas en la Cueva de los Monigotes y la Cueva de las Nutrias."
+  - q: "¿Qué animales se ven en el Cañón de Almadenes?"
+    a: "Tortugas, garzas, buitres y, con suerte, alguna nutria."
 ---
 Entre Cieza y Calasparra, el río Segura se abre paso entre paredes de roca de hasta 150 metros de altura, en uno de los espacios naturales más espectaculares de la Región de Murcia. Recorrerlo en barca, con calma y sin apenas dificultad técnica, es de esos planes que sorprenden a cualquiera.
 
@@ -37,5 +49,8 @@ La actividad completa dura en torno a **3 horas** y tiene una dificultad muy baj
 El Cañón de Almadenes se encuentra entre los municipios de Cieza y Calasparra, en la Región de Murcia. Puedes consultar la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Ca%C3%B1%C3%B3n%20de%20Almadenes%2C%20Murcia).
 
 <div class="article__callout article__callout--booking">🎟️ Reserva el rafting por el Cañón de Almadenes con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/qnpedDrF" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
+
+<!--faq-->
+
 
 ¿Te animarías a bajar el Cañón de Almadenes en barca? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.

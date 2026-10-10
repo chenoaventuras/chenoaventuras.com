@@ -12,6 +12,20 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+faqTitulo: "Dudas sobre el Castillo de Belmonte"
+faq:
+  - q: "¿Se puede visitar el Castillo de Belmonte?"
+    a: "Sí, por libre con audioguía. Suele cerrar los lunes; consulta horarios y precios actualizados en su web."
+  - q: "¿Quién construyó el Castillo de Belmonte?"
+    a: "Juan Pacheco, marqués de Villena, en el siglo XV."
+  - q: "¿Qué tiene de especial el Castillo de Belmonte?"
+    a: "Su excelente estado de conservación, su planta en forma de estrella y sus artesonados mudéjares."
+  - q: "¿Qué relación tiene con Eugenia de Montijo?"
+    a: "La emperatriz heredó el castillo en el siglo XIX y lo restauró."
+  - q: "¿Dónde está el Castillo de Belmonte?"
+    a: "En Belmonte, al sur de la provincia de Cuenca, a unos 90 minutos de Cuenca capital y a unas dos horas de Madrid."
+  - q: "¿Cuánto dura la visita al Castillo de Belmonte?"
+    a: "Una hora y media, por libre y con audioguía. Ojo: cierra los lunes."
 ---
 Torres redondas, murallas almenadas que bajan hasta el pueblo y un patio que parece esperar a que aparezcan los caballeros. El **Castillo de Belmonte**, en Cuenca, es uno de los castillos medievales **mejor conservados de España**, y por eso aparece en películas y acoge torneos de combate medieval.
 
@@ -42,9 +56,7 @@ Te cuento qué ver y algunas curiosidades que lo hacen único 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira la agenda de eventos</b>: los torneos medievales son un espectáculo.</li><li><b>Sube al adarve</b>: las vistas de la llanura manchega desde las almenas son enormes.</li><li><b>Visita la colegiata de Belmonte</b>: en el pueblo, con un coro gótico precioso.</li><li><b>Combínalo con los molinos</b>: Mota del Cuervo y Campo de Criptana están cerca.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Castillo de Belmonte</h2></div>
-<div class="faq"><details><summary>¿Se puede visitar el Castillo de Belmonte?</summary><p>Sí, por libre con audioguía. Suele cerrar los lunes; consulta horarios y precios actualizados en su web.</p></details><details><summary>¿Quién construyó el Castillo de Belmonte?</summary><p>Juan Pacheco, marqués de Villena, en el siglo XV.</p></details><details><summary>¿Qué tiene de especial el Castillo de Belmonte?</summary><p>Su excelente estado de conservación, su planta en forma de estrella y sus artesonados mudéjares.</p></details><details><summary>¿Qué relación tiene con Eugenia de Montijo?</summary><p>La emperatriz heredó el castillo en el siglo XIX y lo restauró.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede visitar el Castillo de Belmonte?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, por libre con audioguía. Suele cerrar los lunes; consulta horarios y precios actualizados en su web."}}, {"@type": "Question", "name": "¿Quién construyó el Castillo de Belmonte?", "acceptedAnswer": {"@type": "Answer", "text": "Juan Pacheco, marqués de Villena, en el siglo XV."}}, {"@type": "Question", "name": "¿Qué tiene de especial el Castillo de Belmonte?", "acceptedAnswer": {"@type": "Answer", "text": "Su excelente estado de conservación, su planta en forma de estrella y sus artesonados mudéjares."}}, {"@type": "Question", "name": "¿Qué relación tiene con Eugenia de Montijo?", "acceptedAnswer": {"@type": "Answer", "text": "La emperatriz heredó el castillo en el siglo XIX y lo restauró."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Cuenca</span><h2>Sigue por Cuenca</h2></div>
 <ul class="nearby"><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Guía de Cuenca" loading="lazy" decoding="async" /><span>Guía de Cuenca</span></a></li><li><a href="/blog/ciudad-encantada-cuenca.html"><img src="/assets/img/blog/cuenca/ciudad-encantada.webp" alt="Ciudad Encantada" loading="lazy" decoding="async" /><span>Ciudad Encantada</span></a></li><li><a href="/blog/consuegra-molinos.html"><img src="/assets/img/blog/consuegra-molinos/portada.webp" alt="Molinos de Consuegra" loading="lazy" decoding="async" /><span>Molinos de Consuegra</span></a></li></ul>

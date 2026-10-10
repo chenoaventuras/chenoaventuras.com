@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - País Vasco
 wide: true
+faq:
+  - q: "¿Por qué no pueden entrar coches en Laguardia?"
+    a: "Porque bajo sus calles hay muchísimas bodegas subterráneas, llamadas calados, y la calzada no soporta el peso de los vehículos. Por eso el casco es peatonal."
+  - q: "¿Qué es lo más importante que ver en Laguardia?"
+    a: "El pórtico policromado de la iglesia de Santa María de los Reyes, las calles del casco, alguna bodega subterránea y las murallas."
+  - q: "¿Cómo se visita el pórtico de Santa María de los Reyes?"
+    a: "Con visita guiada que se gestiona en la Oficina de Turismo de Laguardia. Conviene reservar."
+  - q: "¿Qué ver cerca de Laguardia?"
+    a: "Las lagunas de Carralogroño y Musco, dólmenes como El Sotillo o La Hechicera, y bodegas de la Rioja Alavesa."
+  - q: "¿Dónde está Laguardia?"
+    a: "En la Rioja Alavesa, a solo 15-20 minutos de Logroño y a unos 45 de Vitoria."
 ---
 Un pueblo amurallado en lo alto de una colina, rodeado de viñedos… y con una curiosidad que lo hace único: **no pueden entrar coches porque debajo de sus calles hay cientos de bodegas excavadas en la roca**. Bienvenido a **Laguardia**, la capital de la Rioja Alavesa.
 
@@ -41,9 +52,7 @@ Te cuento qué ver, desde el pórtico que conserva sus colores medievales hasta 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva la visita al pórtico</b>: se hace con guía y por turnos desde la Oficina de Turismo.</li><li><b>Baja a un calado</b>: visitar una bodega subterránea del casco es la experiencia más de Laguardia.</li><li><b>Para en el Balcón de La Rioja</b>: si vienes desde Vitoria, el mirador del puerto de Herrera es espectacular.</li><li><b>Ven en vendimia</b>: en septiembre y octubre los viñedos cambian de color.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Laguardia</h2></div>
-<div class="faq"><details><summary>¿Por qué no pueden entrar coches en Laguardia?</summary><p>Porque bajo sus calles hay muchísimas bodegas subterráneas, llamadas calados, y la calzada no soporta el peso de los vehículos. Por eso el casco es peatonal.</p></details><details><summary>¿Qué es lo más importante que ver en Laguardia?</summary><p>El pórtico policromado de la iglesia de Santa María de los Reyes, las calles del casco, alguna bodega subterránea y las murallas.</p></details><details><summary>¿Cómo se visita el pórtico de Santa María de los Reyes?</summary><p>Con visita guiada que se gestiona en la Oficina de Turismo de Laguardia. Conviene reservar.</p></details><details><summary>¿Qué ver cerca de Laguardia?</summary><p>Las lagunas de Carralogroño y Musco, dólmenes como El Sotillo o La Hechicera, y bodegas de la Rioja Alavesa.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué no pueden entrar coches en Laguardia?", "acceptedAnswer": {"@type": "Answer", "text": "Porque bajo sus calles hay muchísimas bodegas subterráneas, llamadas calados, y la calzada no soporta el peso de los vehículos. Por eso el casco es peatonal."}}, {"@type": "Question", "name": "¿Qué es lo más importante que ver en Laguardia?", "acceptedAnswer": {"@type": "Answer", "text": "El pórtico policromado de la iglesia de Santa María de los Reyes, las calles del casco, alguna bodega subterránea y las murallas."}}, {"@type": "Question", "name": "¿Cómo se visita el pórtico de Santa María de los Reyes?", "acceptedAnswer": {"@type": "Answer", "text": "Con visita guiada que se gestiona en la Oficina de Turismo de Laguardia. Conviene reservar."}}, {"@type": "Question", "name": "¿Qué ver cerca de Laguardia?", "acceptedAnswer": {"@type": "Answer", "text": "Las lagunas de Carralogroño y Musco, dólmenes como El Sotillo o La Hechicera, y bodegas de la Rioja Alavesa."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más norte</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/bardenas-reales.html"><img src="/assets/img/blog/bardenas-reales/portada.webp" alt="Bardenas Reales" loading="lazy" decoding="async" /><span>Bardenas Reales</span></a></li><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li><li><a href="/blog/cuzcurrita-rio-tiron-que-ver.html"><img src="/assets/img/instagram/17886987651509054.webp" alt="Cuzcurrita de Río Tirón" loading="lazy" decoding="async" /><span>Cuzcurrita de Río Tirón</span></a></li></ul>

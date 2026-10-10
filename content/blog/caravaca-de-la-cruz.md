@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Región de Murcia
 wide: true
+faq:
+  - q: "¿Qué ver en Caravaca de la Cruz?"
+    a: "El castillo con la Basílica de la Vera Cruz, el casco antiguo, la iglesia del Salvador, el museo de los Caballos del Vino, la plaza de toros y las Fuentes del Marqués."
+  - q: "¿Cuándo es la fiesta de los Caballos del Vino?"
+    a: "El 2 de mayo, dentro de las fiestas de la Santísima y Vera Cruz, que se celebran del 1 al 5 de mayo."
+  - q: "¿Por qué Caravaca es ciudad santa?"
+    a: "Porque guarda un relicario con un fragmento de la cruz de Cristo según la tradición, y celebra Año Jubilar cada siete años."
+  - q: "¿Qué hay cerca de Caravaca?"
+    a: "Las Fuentes del Marqués, Moratalla, el Cañón de Almadenes y la Cueva del Puerto en Calasparra."
+  - q: "¿Cómo llegar a Caravaca de la Cruz?"
+    a: "En coche: está en el noroeste de la Región de Murcia, a una hora de Murcia capital."
 ---
 Un castillo en lo alto de un cerro con una basílica barroca dentro, un casco antiguo de calles empinadas y una de las fiestas más espectaculares de España, con **caballos enjaezados con mantos bordados** subiendo a toda velocidad la cuesta del castillo. **Caravaca de la Cruz** es una de las cinco **ciudades santas** del cristianismo y el gran tesoro del noroeste de Murcia.
 
@@ -41,9 +52,7 @@ Te cuento qué ver y cuándo ir 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Ven el 2 de mayo</b>: la carrera de los Caballos del Vino es increíble. Llega pronto para coger sitio en la cuesta.</li><li><b>Pasea por las Fuentes del Marqués</b>: un paraje con manantiales y arboleda a las afueras, perfecto para un paseo.</li><li><b>Combínalo con más Murcia</b>: el Cañón de Almadenes y la Cueva del Puerto están a menos de una hora.</li><li><b>Prueba las yemas de Caravaca</b>: el dulce típico de la ciudad.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Caravaca de la Cruz</h2></div>
-<div class="faq"><details><summary>¿Qué ver en Caravaca de la Cruz?</summary><p>El castillo con la Basílica de la Vera Cruz, el casco antiguo, la iglesia del Salvador, el museo de los Caballos del Vino, la plaza de toros y las Fuentes del Marqués.</p></details><details><summary>¿Cuándo es la fiesta de los Caballos del Vino?</summary><p>El 2 de mayo, dentro de las fiestas de la Santísima y Vera Cruz, que se celebran del 1 al 5 de mayo.</p></details><details><summary>¿Por qué Caravaca es ciudad santa?</summary><p>Porque guarda un relicario con un fragmento de la cruz de Cristo según la tradición, y celebra Año Jubilar cada siete años.</p></details><details><summary>¿Qué hay cerca de Caravaca?</summary><p>Las Fuentes del Marqués, Moratalla, el Cañón de Almadenes y la Cueva del Puerto en Calasparra.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en Caravaca de la Cruz?", "acceptedAnswer": {"@type": "Answer", "text": "El castillo con la Basílica de la Vera Cruz, el casco antiguo, la iglesia del Salvador, el museo de los Caballos del Vino, la plaza de toros y las Fuentes del Marqués."}}, {"@type": "Question", "name": "¿Cuándo es la fiesta de los Caballos del Vino?", "acceptedAnswer": {"@type": "Answer", "text": "El 2 de mayo, dentro de las fiestas de la Santísima y Vera Cruz, que se celebran del 1 al 5 de mayo."}}, {"@type": "Question", "name": "¿Por qué Caravaca es ciudad santa?", "acceptedAnswer": {"@type": "Answer", "text": "Porque guarda un relicario con un fragmento de la cruz de Cristo según la tradición, y celebra Año Jubilar cada siete años."}}, {"@type": "Question", "name": "¿Qué hay cerca de Caravaca?", "acceptedAnswer": {"@type": "Answer", "text": "Las Fuentes del Marqués, Moratalla, el Cañón de Almadenes y la Cueva del Puerto en Calasparra."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Murcia</span><h2>Sigue por Murcia</h2></div>
 <ul class="nearby"><li><a href="/blog/cueva-del-puerto-calasparra.html"><img src="/assets/img/instagram/17975666267783470.webp" alt="Cueva del Puerto" loading="lazy" decoding="async" /><span>Cueva del Puerto</span></a></li><li><a href="/blog/rafting-canon-de-almadenes.html"><img src="/assets/img/instagram/18079196165076381.webp" alt="Rafting en el Cañón de Almadenes" loading="lazy" decoding="async" /><span>Rafting en el Cañón de Almadenes</span></a></li><li><a href="/blog/bateria-castillitos-cartagena.html"><img src="/assets/img/destinos/bateria-castillitos.webp" alt="Batería de Castillitos" loading="lazy" decoding="async" /><span>Batería de Castillitos</span></a></li></ul>

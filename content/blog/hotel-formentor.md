@@ -11,6 +11,16 @@ tags:
   - Curiosidades
   - Islas Baleares
 wide: true
+faqTitulo: "Dudas sobre el Hotel Formentor"
+faq:
+  - q: "¿Qué famosos estuvieron en el Hotel Formentor?"
+    a: "Entre otros, Charles Chaplin, Winston Churchill, Audrey Hepburn, John Wayne y Grace Kelly con Rainiero."
+  - q: "¿La playa de Formentor es pública?"
+    a: "Sí, todas las playas en España son públicas."
+  - q: "¿Sigue abierto el hotel?"
+    a: "Sí, reabrió en 2025 como Four Seasons tras una gran reforma."
+  - q: "¿Cómo llegar a Formentor?"
+    a: "Desde Port de Pollença por la Ma-2210; en verano hay restricciones de tráfico."
 ---
 En una playa de pinos y agua turquesa al norte de **Mallorca** hay un hotel con más historias que habitaciones. El **Hotel Formentor**, abierto en **1929**, recibió a **Charles Chaplin**, **Winston Churchill**, **Audrey Hepburn**, **John Wayne** y a **Grace Kelly** con el príncipe Rainiero.
 
@@ -38,9 +48,7 @@ Te cuento su historia y cómo disfrutar de la península de Formentor aunque no 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Madruga</b>: la playa y los miradores se llenan pronto.</li><li><b>Barco desde Port de Pollença</b>: en verano hay barcos a la playa de Formentor.</li><li><b>Faro de Formentor</b>: al final de la carretera, con vistas de infarto.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Hotel Formentor</h2></div>
-<div class="faq"><details><summary>¿Qué famosos estuvieron en el Hotel Formentor?</summary><p>Entre otros, Charles Chaplin, Winston Churchill, Audrey Hepburn, John Wayne y Grace Kelly con Rainiero.</p></details><details><summary>¿La playa de Formentor es pública?</summary><p>Sí, todas las playas en España son públicas.</p></details><details><summary>¿Sigue abierto el hotel?</summary><p>Sí, reabrió en 2025 como Four Seasons tras una gran reforma.</p></details><details><summary>¿Cómo llegar a Formentor?</summary><p>Desde Port de Pollença por la Ma-2210; en verano hay restricciones de tráfico.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué famosos estuvieron en el Hotel Formentor?", "acceptedAnswer": {"@type": "Answer", "text": "Entre otros, Charles Chaplin, Winston Churchill, Audrey Hepburn, John Wayne y Grace Kelly con Rainiero."}}, {"@type": "Question", "name": "¿La playa de Formentor es pública?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, todas las playas en España son públicas."}}, {"@type": "Question", "name": "¿Sigue abierto el hotel?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, reabrió en 2025 como Four Seasons tras una gran reforma."}}, {"@type": "Question", "name": "¿Cómo llegar a Formentor?", "acceptedAnswer": {"@type": "Answer", "text": "Desde Port de Pollença por la Ma-2210; en verano hay restricciones de tráfico."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/soller-que-ver.html"><img src="/assets/img/blog/soller-que-ver/tren.webp" alt="Sóller" loading="lazy" decoding="async" /><span>Sóller</span></a></li><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.webp" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li><li><a href="/blog/peniscola-que-ver.html"><img src="/assets/img/blog/peniscola-que-ver/portada.webp" alt="Peñíscola" loading="lazy" decoding="async" /><span>Peñíscola</span></a></li></ul>

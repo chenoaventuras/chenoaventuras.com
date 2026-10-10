@@ -11,6 +11,20 @@ tags:
   - Curiosidades
   - Castilla y León
 wide: true
+faqTitulo: "Dudas sobre el Salto del Nervión"
+faq:
+  - q: "¿Cuál es la cascada más alta de España?"
+    a: "El Salto del Nervión, con 222 metros de caída, es la más alta de la península ibérica."
+  - q: "¿Cuándo lleva agua el Salto del Nervión?"
+    a: "En épocas de lluvia y deshielo, normalmente de otoño a primavera. En verano suele estar seco."
+  - q: "¿Cuánto se tarda en llegar al mirador?"
+    a: "Unos 30-40 minutos andando desde el aparcamiento de Monte Santiago, por pista fácil."
+  - q: "¿Es gratis?"
+    a: "Sí, el acceso y el mirador son gratuitos."
+  - q: "¿Cómo llegar al Salto del Nervión?"
+    a: "En coche hasta el aparcamiento de Monte Santiago (Burgos), junto al puerto de Orduña. Desde allí son 30-40 minutos andando por una pista fácil."
+  - q: "¿Se puede llegar en coche al Salto del Nervión?"
+    a: "Hasta el mirador no: dejas el coche en Monte Santiago y caminas 30-40 minutos."
 ---
 Entre **Álava y Burgos** hay un cortado donde el río Nervión se lanza al vacío desde **222 metros**. Es el **Salto del Nervión**, la **cascada más alta de la península ibérica**.
 
@@ -38,9 +52,7 @@ Pero tiene truco: no siempre lleva agua. Te cuento cuándo ir y cómo llegar al 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira la lluvia</b>: ve tras varios días de lluvia o con deshielo: es cuando más agua cae.</li><li><b>Lleva abrigo</b>: el mirador está muy expuesto al viento.</li><li><b>Otoño</b>: el hayedo se pone rojo y amarillo.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Salto del Nervión</h2></div>
-<div class="faq"><details><summary>¿Cuál es la cascada más alta de España?</summary><p>El Salto del Nervión, con 222 metros de caída, es la más alta de la península ibérica.</p></details><details><summary>¿Cuándo lleva agua el Salto del Nervión?</summary><p>En épocas de lluvia y deshielo, normalmente de otoño a primavera. En verano suele estar seco.</p></details><details><summary>¿Cuánto se tarda en llegar al mirador?</summary><p>Unos 30-40 minutos andando desde el aparcamiento de Monte Santiago, por pista fácil.</p></details><details><summary>¿Es gratis?</summary><p>Sí, el acceso y el mirador son gratuitos.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es la cascada más alta de España?", "acceptedAnswer": {"@type": "Answer", "text": "El Salto del Nervión, con 222 metros de caída, es la más alta de la península ibérica."}}, {"@type": "Question", "name": "¿Cuándo lleva agua el Salto del Nervión?", "acceptedAnswer": {"@type": "Answer", "text": "En épocas de lluvia y deshielo, normalmente de otoño a primavera. En verano suele estar seco."}}, {"@type": "Question", "name": "¿Cuánto se tarda en llegar al mirador?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 30-40 minutos andando desde el aparcamiento de Monte Santiago, por pista fácil."}}, {"@type": "Question", "name": "¿Es gratis?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, el acceso y el mirador son gratuitos."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/merindades-burgos-que-ver.html"><img src="/assets/img/instagram/18077362268036595.webp" alt="Las Merindades" loading="lazy" decoding="async" /><span>Las Merindades</span></a></li><li><a href="/blog/orbaneja-del-castillo.html"><img src="/assets/img/instagram/18093513218481944.webp" alt="Orbaneja del Castillo" loading="lazy" decoding="async" /><span>Orbaneja del Castillo</span></a></li><li><a href="/blog/puente-de-vizcaya.html"><img src="/assets/img/blog/puente-de-vizcaya/portada.webp" alt="Puente de Vizcaya" loading="lazy" decoding="async" /><span>Puente de Vizcaya</span></a></li></ul>

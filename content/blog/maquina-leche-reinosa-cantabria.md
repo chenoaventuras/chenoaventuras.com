@@ -10,6 +10,16 @@ tags:
   - Curiosidades
   - Cantabria
 igPermalink: 'https://www.instagram.com/reel/DWE2X_CCJX5/'
+faqTitulo: "Dudas sobre la máquina de leche de Reinosa"
+faq:
+  - q: "¿Dónde está la máquina de leche de Reinosa?"
+    a: "En Reinosa, en la comarca de Campoo, en el interior de Cantabria."
+  - q: "¿Cuánto cuesta la leche de la máquina de Reinosa?"
+    a: "Alrededor de 1 € el litro. Si no llevas botella, la de cristal cuesta 40 céntimos y la de plástico 30."
+  - q: "¿La leche de la máquina está pasteurizada?"
+    a: "Sí. Es leche de vacas de la zona, sin aditivos, y pasa por pasteurización antes de llegar a la máquina."
+  - q: "¿Qué ver cerca de Reinosa?"
+    a: "Muy cerca tienes Aguilar de Campoo y el Partenón de Las Fraguas, dos paradas que encajan en la misma escapada."
 ---
 Hay curiosidades que descubres por casualidad y que te sorprenden más de lo que esperabas. En Reinosa, Cantabria, hay una máquina que dispensa leche recién ordeñada de las vacas como si fuera una fuente de agua pública.
 
@@ -34,5 +44,8 @@ No está claro si este tipo de máquinas son muy comunes en otras zonas del nort
 ## Cómo llegar a Reinosa
 
 Reinosa se encuentra en el interior de Cantabria, en la comarca de Campoo. Puedes consultar su ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Reinosa%2C%20Cantabria).
+
+<!--faq-->
+
 
 ¿Habías visto antes una máquina expendedora de leche como esta? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades por España, y échale un vistazo al resto del blog para seguir descubriendo rincones sorprendentes.

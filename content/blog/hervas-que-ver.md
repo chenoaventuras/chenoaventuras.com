@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Extremadura
 wide: true
+faq:
+  - q: "¿Qué ver en Hervás?"
+    a: "El barrio judío, la Travesía del Moral, la iglesia de Santa María, el puente sobre el río Ambroz y el Museo de la Moto Clásica."
+  - q: "¿Cuál es la calle más estrecha de Hervás?"
+    a: "La Travesía del Moral, en el barrio judío, tan estrecha que casi se tocan las dos paredes con los brazos extendidos."
+  - q: "¿Cuándo es la fiesta de Los Conversos?"
+    a: "En verano, normalmente a principios de julio. Consulta las fechas exactas en el Ayuntamiento de Hervás."
+  - q: "¿Qué hacer cerca de Hervás?"
+    a: "Rutas por el Valle del Ambroz, la Vía Verde de la Plata en bici y el Valle del Jerte con la Garganta de los Infiernos."
+  - q: "¿Cómo llegar a Hervás?"
+    a: "En coche por la A-66 (Ruta de la Plata): está en el Valle del Ambroz, al norte de Cáceres, casi en el límite con Salamanca."
 ---
 Calles estrechísimas, casas de entramado de madera de castaño que casi se tocan por arriba, un río de montaña cruzando el pueblo y la sierra nevada al fondo. **Hervás** tiene uno de los **barrios judíos mejor conservados de España**, y es la puerta perfecta para descubrir el norte de Extremadura.
 
@@ -41,9 +52,7 @@ Te cuento qué ver y qué rutas hacer por el Valle del Ambroz 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz la ruta del Castañar</b>: un sendero entre castaños centenarios, espectacular en otoño.</li><li><b>Recorre la Vía Verde de la Plata</b>: pasa por Hervás y es ideal para hacer en bici.</li><li><b>Combínalo con el Valle del Jerte</b>: a menos de una hora, con la Garganta de los Infiernos y sus pozas.</li><li><b>Prueba las cerezas y las castañas</b>: según la temporada, son lo más típico del norte de Cáceres.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Hervás</h2></div>
-<div class="faq"><details><summary>¿Qué ver en Hervás?</summary><p>El barrio judío, la Travesía del Moral, la iglesia de Santa María, el puente sobre el río Ambroz y el Museo de la Moto Clásica.</p></details><details><summary>¿Cuál es la calle más estrecha de Hervás?</summary><p>La Travesía del Moral, en el barrio judío, tan estrecha que casi se tocan las dos paredes con los brazos extendidos.</p></details><details><summary>¿Cuándo es la fiesta de Los Conversos?</summary><p>En verano, normalmente a principios de julio. Consulta las fechas exactas en el Ayuntamiento de Hervás.</p></details><details><summary>¿Qué hacer cerca de Hervás?</summary><p>Rutas por el Valle del Ambroz, la Vía Verde de la Plata en bici y el Valle del Jerte con la Garganta de los Infiernos.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en Hervás?", "acceptedAnswer": {"@type": "Answer", "text": "El barrio judío, la Travesía del Moral, la iglesia de Santa María, el puente sobre el río Ambroz y el Museo de la Moto Clásica."}}, {"@type": "Question", "name": "¿Cuál es la calle más estrecha de Hervás?", "acceptedAnswer": {"@type": "Answer", "text": "La Travesía del Moral, en el barrio judío, tan estrecha que casi se tocan las dos paredes con los brazos extendidos."}}, {"@type": "Question", "name": "¿Cuándo es la fiesta de Los Conversos?", "acceptedAnswer": {"@type": "Answer", "text": "En verano, normalmente a principios de julio. Consulta las fechas exactas en el Ayuntamiento de Hervás."}}, {"@type": "Question", "name": "¿Qué hacer cerca de Hervás?", "acceptedAnswer": {"@type": "Answer", "text": "Rutas por el Valle del Ambroz, la Vía Verde de la Plata en bici y el Valle del Jerte con la Garganta de los Infiernos."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más interior</span><h2>Más pueblos con encanto</h2></div>
 <ul class="nearby"><li><a href="/blog/albarracin-que-ver.html"><img src="/assets/img/blog/albarracin-que-ver/portada.webp" alt="Albarracín" loading="lazy" decoding="async" /><span>Albarracín</span></a></li><li><a href="/blog/sierra-de-gredos.html"><img src="/assets/img/blog/sierra-de-gredos/portada.webp" alt="Laguna Grande de Gredos" loading="lazy" decoding="async" /><span>Laguna Grande de Gredos</span></a></li><li><a href="/blog/astorga-que-ver.html"><img src="/assets/img/blog/astorga-que-ver/portada.webp" alt="Astorga" loading="lazy" decoding="async" /><span>Astorga</span></a></li></ul>

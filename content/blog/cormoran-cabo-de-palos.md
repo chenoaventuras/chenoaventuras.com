@@ -11,6 +11,16 @@ tags:
   - Curiosidades
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/p/Dc1dhLOxx2H/'
+faqTitulo: "Dudas sobre el cormorán"
+faq:
+  - q: "¿Por qué el cormorán abre las alas al sol?"
+    a: "Porque sus plumas no son del todo impermeables: así pesa más y bucea mejor, pero sale empapado y necesita secarse antes de volver a volar."
+  - q: "¿Qué cormorán se ve en Cabo de Palos?"
+    a: "Lo habitual en las costas rocosas del Mediterráneo es el cormorán moñudo, en su subespecie mediterránea."
+  - q: "¿A cuánta profundidad bucea un cormorán?"
+    a: "Puede bajar a más de 30-40 metros y aguantar más de un minuto bajo el agua persiguiendo peces."
+  - q: "¿Por qué hay cormoranes blancos y negros?"
+    a: "Es cuestión de edad: los jóvenes tienen el pecho y el vientre casi blancos y los adultos son de un negro brillante."
 ---
 Grabando en las rocas de [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) me crucé con uno de esos animales que a primera vista parecen de lo más tranquilo del mundo: un pájaro negro posado en una roca, sin hacer mucho más. Y sin embargo, en cuanto se tira al agua, el cormorán se convierte en uno de los mejores buceadores de toda la fauna española.
 
@@ -45,5 +55,8 @@ Los cormoranes moñudos son residentes habituales de las zonas de costa rocosa, 
 ## Para tu próxima escapada
 
 La próxima vez que veas un pájaro negro inmóvil sobre una roca con las alas abiertas, ya sabes que no está posando para la foto: se está secando después de una sesión de buceo que envidiaría cualquier submarinista. Fíjate bien la próxima vez que pasees por una cala rocosa, seguro que tienes uno más cerca de lo que crees.
+
+<!--faq-->
+
 
 ¿Conocías estas curiosidades sobre los cormoranes? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más fauna y rincones de España, y échale un vistazo al resto del blog para seguir descubriendo curiosidades como esta.

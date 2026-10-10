@@ -11,6 +11,19 @@ tags:
   - Curiosidades
   - Andalucía
 wide: true
+faq:
+  - q: "¿Cuál es el pueblo donde más llueve de Andalucía?"
+    a: "Grazalema, con casi 2.000 litros por metro cuadrado de media al año."
+  - q: "¿Por qué llueve tanto en Grazalema?"
+    a: "Las nubes del Atlántico chocan con la sierra y descargan allí la lluvia."
+  - q: "¿Hace falta permiso para el Pinsapar?"
+    a: "Sí, un permiso gratuito del Parque Natural, con cupo diario."
+  - q: "¿Qué es un pinsapo?"
+    a: "Un abeto que solo vive en algunas sierras de Andalucía y Marruecos, superviviente de las glaciaciones."
+  - q: "¿Cómo llegar a Grazalema?"
+    a: "En coche: está en la Sierra de Cádiz, a unos 30 minutos de Ronda, dentro del Parque Natural Sierra de Grazalema."
+  - q: "¿Cuánto llueve en Grazalema?"
+    a: "Casi 2.000 litros por metro cuadrado al año de media, más que en muchos sitios de Galicia."
 ---
 En plena Andalucía hay un pueblo blanco donde llueve **más que en muchos sitios de Galicia**. **Grazalema** (Cádiz) recoge de media casi **2.000 litros por metro cuadrado al año**: es el lugar más lluvioso de Andalucía y de toda la mitad sur de la península.
 
@@ -38,9 +51,7 @@ Te cuento por qué llueve tanto, el bosque «de la época del hielo» que escond
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Lleva chubasquero</b>: aunque estés en Cádiz.</li><li><b>Pide el permiso</b>: para el Pinsapar y la Garganta Verde, que tienen cupo.</li><li><b>Pueblos blancos</b>: combina con Zahara de la Sierra y Setenil.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Grazalema</h2></div>
-<div class="faq"><details><summary>¿Cuál es el pueblo donde más llueve de Andalucía?</summary><p>Grazalema, con casi 2.000 litros por metro cuadrado de media al año.</p></details><details><summary>¿Por qué llueve tanto en Grazalema?</summary><p>Las nubes del Atlántico chocan con la sierra y descargan allí la lluvia.</p></details><details><summary>¿Hace falta permiso para el Pinsapar?</summary><p>Sí, un permiso gratuito del Parque Natural, con cupo diario.</p></details><details><summary>¿Qué es un pinsapo?</summary><p>Un abeto que solo vive en algunas sierras de Andalucía y Marruecos, superviviente de las glaciaciones.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es el pueblo donde más llueve de Andalucía?", "acceptedAnswer": {"@type": "Answer", "text": "Grazalema, con casi 2.000 litros por metro cuadrado de media al año."}}, {"@type": "Question", "name": "¿Por qué llueve tanto en Grazalema?", "acceptedAnswer": {"@type": "Answer", "text": "Las nubes del Atlántico chocan con la sierra y descargan allí la lluvia."}}, {"@type": "Question", "name": "¿Hace falta permiso para el Pinsapar?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, un permiso gratuito del Parque Natural, con cupo diario."}}, {"@type": "Question", "name": "¿Qué es un pinsapo?", "acceptedAnswer": {"@type": "Answer", "text": "Un abeto que solo vive en algunas sierras de Andalucía y Marruecos, superviviente de las glaciaciones."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/faro-de-chipiona.html"><img src="/assets/img/blog/faro-de-chipiona/portada.webp" alt="Faro de Chipiona" loading="lazy" decoding="async" /><span>Faro de Chipiona</span></a></li></ul>

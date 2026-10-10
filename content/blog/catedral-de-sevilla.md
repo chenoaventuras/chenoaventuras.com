@@ -11,6 +11,20 @@ tags:
   - Curiosidades
   - Andalucía
 wide: true
+faqTitulo: "Dudas sobre la Catedral de Sevilla"
+faq:
+  - q: "¿Es la catedral más grande del mundo?"
+    a: "Es la catedral gótica más grande del mundo. El Guinness la reconoció en 1988 como la de mayor superficie."
+  - q: "¿Cómo se sube a la Giralda?"
+    a: "Por 35 rampas, hechas para poder subir a caballo. Está incluida en la entrada."
+  - q: "¿Está enterrado Colón en Sevilla?"
+    a: "Sí, su sepulcro está en la catedral y estudios de ADN confirmaron que contiene parte de sus restos."
+  - q: "¿Hace falta comprar entrada?"
+    a: "Sí, para la visita turística. Mejor comprarla online."
+  - q: "¿Cuánto se tarda en ver la Catedral de Sevilla?"
+    a: "Entre 1,5 y 2 horas, contando la subida a la Giralda."
+  - q: "¿Dónde está la Catedral de Sevilla?"
+    a: "En pleno centro, junto al Real Alcázar y el Archivo de Indias."
 ---
 En 1988 el **Libro Guinness** la reconoció como la **catedral con mayor superficie del mundo**. La **Catedral de Sevilla** es la catedral gótica más grande del planeta y uno de los monumentos más visitados de España.
 
@@ -39,9 +53,7 @@ Te cuento sus curiosidades más llamativas: una torre que se sube en rampa, la t
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Entrada online</b>: ahorras la cola, que en primavera puede ser enorme.</li><li><b>Sube a la Giralda primero</b>: antes de que se llene de gente.</li><li><b>Busca el lagarto</b>: en la Puerta del Lagarto, junto al Patio de los Naranjos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Catedral de Sevilla</h2></div>
-<div class="faq"><details><summary>¿Es la catedral más grande del mundo?</summary><p>Es la catedral gótica más grande del mundo. El Guinness la reconoció en 1988 como la de mayor superficie.</p></details><details><summary>¿Cómo se sube a la Giralda?</summary><p>Por 35 rampas, hechas para poder subir a caballo. Está incluida en la entrada.</p></details><details><summary>¿Está enterrado Colón en Sevilla?</summary><p>Sí, su sepulcro está en la catedral y estudios de ADN confirmaron que contiene parte de sus restos.</p></details><details><summary>¿Hace falta comprar entrada?</summary><p>Sí, para la visita turística. Mejor comprarla online.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Es la catedral más grande del mundo?", "acceptedAnswer": {"@type": "Answer", "text": "Es la catedral gótica más grande del mundo. El Guinness la reconoció en 1988 como la de mayor superficie."}}, {"@type": "Question", "name": "¿Cómo se sube a la Giralda?", "acceptedAnswer": {"@type": "Answer", "text": "Por 35 rampas, hechas para poder subir a caballo. Está incluida en la entrada."}}, {"@type": "Question", "name": "¿Está enterrado Colón en Sevilla?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, su sepulcro está en la catedral y estudios de ADN confirmaron que contiene parte de sus restos."}}, {"@type": "Question", "name": "¿Hace falta comprar entrada?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, para la visita turística. Mejor comprarla online."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/plaza-de-espana-sevilla.html"><img src="/assets/img/blog/plaza-de-espana-sevilla/portada.webp" alt="Plaza de España de Sevilla" loading="lazy" decoding="async" /><span>Plaza de España de Sevilla</span></a></li><li><a href="/blog/mezquita-de-cordoba.html"><img src="/assets/img/blog/mezquita-de-cordoba/portada.webp" alt="Mezquita de Córdoba" loading="lazy" decoding="async" /><span>Mezquita de Córdoba</span></a></li><li><a href="/blog/gruta-de-las-maravillas-aracena.html"><img src="/assets/img/blog/gruta-de-las-maravillas-aracena/portada.webp" alt="Gruta de las Maravillas" loading="lazy" decoding="async" /><span>Gruta de las Maravillas</span></a></li></ul>

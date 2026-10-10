@@ -6,6 +6,16 @@ cover: /assets/img/instagram/18107652725482001.webp
 tags:
   - Curiosidades
 igPermalink: 'https://www.instagram.com/reel/DYcrqgZMxkL/'
+faqTitulo: "Dudas sobre el baño del avión"
+faq:
+  - q: "¿Se puede abrir la puerta del baño del avión desde fuera?"
+    a: "Sí: junto al indicador de ocupado suele haber una chapita que la tripulación levanta para desbloquear la puerta sin llave."
+  - q: "¿Por qué la tripulación puede abrir el baño del avión?"
+    a: "Por seguridad: si alguien se encuentra mal, se queda atrapado o hay que comprobar que no queda nadie dentro antes del despegue o el aterrizaje."
+  - q: "¿Se puede usar el baño del avión antes de despegar?"
+    a: "Mientras el avión rueda, despega o aterriza, no: tienes que estar sentado con el cinturón puesto. Úsalo en la terminal o cuando se apague la señal del cinturón."
+  - q: "¿El agua del baño del avión es potable?"
+    a: "No es recomendable beberla: es para lavarse las manos. Para beber, pide agua embotellada a la tripulación."
 ---
 Cierras el pestillo del baño del avión y das por hecho que ahí dentro tienes toda la privacidad del mundo. Sin embargo, hay un detalle que pocos pasajeros conocen: la tripulación puede abrir esa puerta desde fuera aunque el pestillo esté echado.
 
@@ -26,5 +36,8 @@ Piénsalo desde el punto de vista de la seguridad de la cabina: si alguien se en
 ## Una curiosidad que casi nadie conoce hasta que la ve
 
 Es de esos detalles de los aviones que llevan ahí desde siempre, delante de cualquiera que viaje en avión, y que sin embargo pasan completamente inadvertidos hasta que alguien te los señala. La próxima vez que entres al baño de un avión, fíjate en esa pequeña chapita junto al pestillo — ahora ya sabes para qué está.
+
+<!--faq-->
+
 
 ¿Tú ya conocías este mecanismo o te has enterado ahora? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades de viajes, y échale un vistazo al resto del blog para seguir descubriendo detalles como este.

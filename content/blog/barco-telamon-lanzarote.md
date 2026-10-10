@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Canarias
 wide: true
+faqTitulo: "Dudas sobre el barco Telamon"
+faq:
+  - q: "¿Dónde está el barco encallado de Lanzarote?"
+    a: "Frente a Las Caletas, entre Arrecife y Costa Teguise."
+  - q: "¿Desde cuándo está encallado?"
+    a: "Desde el 31 de octubre de 1981."
+  - q: "¿Cómo se llamaba antes?"
+    a: "Temple Hall; era un carguero construido en Escocia en 1953."
+  - q: "¿Se puede subir al barco?"
+    a: "No, es peligroso y no está permitido."
+  - q: "¿Cómo llegar al barco Telamon?"
+    a: "Ve a la costa de Las Caletas, entre Arrecife y Costa Teguise. Desde la Avenida de los Corales lo ves desde la orilla."
 ---
 Entre Arrecife y Costa Teguise hay un barco oxidado que parece salido de una película de piratas. Es el **Telamon**, encallado frente a la costa de **Lanzarote** desde **1981**.
 
@@ -38,9 +50,7 @@ Te cuento su historia y dónde hacer la mejor foto del «barco fantasma» 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Atardecer</b>: el óxido se pone naranja y el cielo hace el resto.</li><li><b>No te subas</b>: el barco es inestable y la zona tiene corrientes.</li><li><b>Jameos del Agua</b>: combínalo con la obra de César Manrique en el norte de la isla.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el barco Telamon</h2></div>
-<div class="faq"><details><summary>¿Dónde está el barco encallado de Lanzarote?</summary><p>Frente a Las Caletas, entre Arrecife y Costa Teguise.</p></details><details><summary>¿Desde cuándo está encallado?</summary><p>Desde el 31 de octubre de 1981.</p></details><details><summary>¿Cómo se llamaba antes?</summary><p>Temple Hall; era un carguero construido en Escocia en 1953.</p></details><details><summary>¿Se puede subir al barco?</summary><p>No, es peligroso y no está permitido.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde está el barco encallado de Lanzarote?", "acceptedAnswer": {"@type": "Answer", "text": "Frente a Las Caletas, entre Arrecife y Costa Teguise."}}, {"@type": "Question", "name": "¿Desde cuándo está encallado?", "acceptedAnswer": {"@type": "Answer", "text": "Desde el 31 de octubre de 1981."}}, {"@type": "Question", "name": "¿Cómo se llamaba antes?", "acceptedAnswer": {"@type": "Answer", "text": "Temple Hall; era un carguero construido en Escocia en 1953."}}, {"@type": "Question", "name": "¿Se puede subir al barco?", "acceptedAnswer": {"@type": "Answer", "text": "No, es peligroso y no está permitido."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/jameos-del-agua-cueva-de-los-verdes.html"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/portada.webp" alt="Jameos del Agua" loading="lazy" decoding="async" /><span>Jameos del Agua</span></a></li><li><a href="/blog/american-star-fuerteventura.html"><img src="/assets/img/blog/american-star-fuerteventura/portada.webp" alt="American Star" loading="lazy" decoding="async" /><span>American Star</span></a></li><li><a href="/blog/drago-milenario-icod.html"><img src="/assets/img/blog/drago-milenario-icod/drago.webp" alt="Drago Milenario" loading="lazy" decoding="async" /><span>Drago Milenario</span></a></li></ul>

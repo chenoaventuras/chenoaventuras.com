@@ -12,6 +12,18 @@ tags:
   - Actividades
   - Canarias
 igPermalink: 'https://www.instagram.com/reel/DGbXoV2Iaq6/'
+faqTitulo: "Dudas sobre el Lago Martiánez"
+faq:
+  - q: "¿Cuánto cuesta el Lago Martiánez?"
+    a: "5,50 € adultos y 2,50 € niños hasta 10 años (residentes: 3 € y 1,50 €). Todas las entradas incluyen tumbona."
+  - q: "¿Qué horario tiene el Lago Martiánez?"
+    a: "De 10:00 a 19:00 h del 1 de julio al 30 de septiembre, y de 10:00 a 18:00 h el resto del año."
+  - q: "¿Dónde está el Lago Martiánez?"
+    a: "En Puerto de la Cruz, en el norte de Tenerife, junto al mar y a un paseo del centro."
+  - q: "¿Quién diseñó el Lago Martiánez?"
+    a: "El artista canario César Manrique, que mezcló piscinas de agua salada, jardines, cascadas y esculturas volcánicas."
+  - q: "¿Qué zonas tiene el Lago Martiánez?"
+    a: "Tres: El Lago (la piscina grande con islas), Los Alisios (más tranquila) y las Piscinas de San Telmo (más pequeñas y resguardadas)."
 ---
 En Puerto de la Cruz, Tenerife, el arte y el océano Atlántico se fusionan en un complejo de piscinas de agua salada diseñado por uno de los grandes nombres de la arquitectura canaria: César Manrique. Se llama Lago Martiánez, y es mucho más que unas simples piscinas.
 
@@ -42,5 +54,8 @@ Tenerife disfruta de un clima privilegiado durante todo el año, por lo que cual
 Lago Martiánez se encuentra en Puerto de la Cruz, al norte de Tenerife. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Lago%20Marti%C3%A1nez%2C%20Puerto%20de%20la%20Cruz%2C%20Tenerife).
 
 Más planes en Tenerife: el [Mirador de Chipeque](/blog/mirador-de-chipeque-tenerife.html), en el interior, y el [Arco de Tajao](/blog/arco-de-tajao-tenerife.html), en el sur.
+
+<!--faq-->
+
 
 ¿Conocías el Lago Martiánez? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Canarias, y échale un vistazo al resto del blog para tu próxima escapada.

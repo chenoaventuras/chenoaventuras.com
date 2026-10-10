@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+faq:
+  - q: "¿Qué altura tiene el Puente Nuevo de Ronda?"
+    a: "Salva el Tajo, un cañón de casi 100 metros de profundidad abierto por el río Guadalevín."
+  - q: "¿Se puede entrar en el Puente Nuevo?"
+    a: "Sí, en el arco central hay una sala que se usó como cárcel y hoy es un pequeño centro de interpretación. La entrada se compra junto al puente."
+  - q: "¿Cuánto tiempo se necesita para ver Ronda?"
+    a: "Con un día completo ves lo principal. Si quieres bajar al fondo del Tajo y entrar en los monumentos con calma, mejor dos días."
+  - q: "¿Dónde se hace la mejor foto del Puente Nuevo?"
+    a: "Desde abajo, en los caminos que bajan hacia los antiguos molinos, y desde los miradores de los jardines junto al Tajo."
+  - q: "¿A cuánto está Ronda de Málaga?"
+    a: "A cerca de hora y media en coche de Málaga capital o de la Costa del Sol."
 ---
 Una ciudad partida en dos por un tajo de casi **100 metros de profundidad**, unida por un puente que parece imposible y con casas colgadas literalmente al borde del precipicio. **Ronda** es una de esas ciudades que se te quedan grabadas a la primera.
 
@@ -41,9 +52,7 @@ Te cuento qué ver, cómo hacer la mejor foto del Puente Nuevo (desde abajo) y a
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Baja al fondo del Tajo</b>: la vista del puente desde abajo es la que buscan todos los fotógrafos.</li><li><b>Ve temprano o quédate a dormir</b>: a media mañana llegan las excursiones de la costa.</li><li><b>La Mina de la Casa del Rey Moro</b>: una escalera excavada en la roca que baja hasta el río: lleva calzado cómodo.</li><li><b>Combínala con Setenil</b>: el pueblo bajo la roca está a solo 20 minutos.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Ronda</h2></div>
-<div class="faq"><details><summary>¿Qué altura tiene el Puente Nuevo de Ronda?</summary><p>Salva el Tajo, un cañón de casi 100 metros de profundidad abierto por el río Guadalevín.</p></details><details><summary>¿Se puede entrar en el Puente Nuevo?</summary><p>Sí, en el arco central hay una sala que se usó como cárcel y hoy es un pequeño centro de interpretación. La entrada se compra junto al puente.</p></details><details><summary>¿Cuánto tiempo se necesita para ver Ronda?</summary><p>Con un día completo ves lo principal. Si quieres bajar al fondo del Tajo y entrar en los monumentos con calma, mejor dos días.</p></details><details><summary>¿Dónde se hace la mejor foto del Puente Nuevo?</summary><p>Desde abajo, en los caminos que bajan hacia los antiguos molinos, y desde los miradores de los jardines junto al Tajo.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué altura tiene el Puente Nuevo de Ronda?", "acceptedAnswer": {"@type": "Answer", "text": "Salva el Tajo, un cañón de casi 100 metros de profundidad abierto por el río Guadalevín."}}, {"@type": "Question", "name": "¿Se puede entrar en el Puente Nuevo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, en el arco central hay una sala que se usó como cárcel y hoy es un pequeño centro de interpretación. La entrada se compra junto al puente."}}, {"@type": "Question", "name": "¿Cuánto tiempo se necesita para ver Ronda?", "acceptedAnswer": {"@type": "Answer", "text": "Con un día completo ves lo principal. Si quieres bajar al fondo del Tajo y entrar en los monumentos con calma, mejor dos días."}}, {"@type": "Question", "name": "¿Dónde se hace la mejor foto del Puente Nuevo?", "acceptedAnswer": {"@type": "Answer", "text": "Desde abajo, en los caminos que bajan hacia los antiguos molinos, y desde los miradores de los jardines junto al Tajo."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Cerca de Ronda</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/plaza-de-espana-sevilla.html"><img src="/assets/img/blog/plaza-de-espana-sevilla/portada.webp" alt="Plaza de España de Sevilla" loading="lazy" decoding="async" /><span>Plaza de España de Sevilla</span></a></li></ul>

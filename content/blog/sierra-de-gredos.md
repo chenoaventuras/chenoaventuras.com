@@ -11,6 +11,20 @@ tags:
   - Actividades
   - Castilla y León
 wide: true
+faqTitulo: "Dudas sobre la Laguna Grande de Gredos"
+faq:
+  - q: "¿Cuánto se tarda en llegar a la Laguna Grande de Gredos?"
+    a: "Desde la Plataforma son unos 6,5 km de ida. Ida y vuelta se tarda unas 4 horas sin contar paradas."
+  - q: "¿Es difícil la ruta a la Laguna Grande?"
+    a: "Es de dificultad media: el camino está bien marcado, pero tiene unos 700 metros de desnivel acumulado entre la ida y la vuelta."
+  - q: "¿Hay que pagar el aparcamiento de la Plataforma de Gredos?"
+    a: "En temporada el aparcamiento está regulado y es de pago. En 2026 la tarifa para turismos es de 3 € al día."
+  - q: "¿Se puede dormir junto a la laguna?"
+    a: "Sí, en el refugio Elola, que tiene literas y servicio de comidas. Conviene reservar."
+  - q: "¿Se pueden ver cabras montesas?"
+    a: "Sí, es muy habitual verlas por la senda y junto a la laguna. No hay que darles de comer."
+  - q: "¿Cómo llegar a la Laguna Grande de Gredos?"
+    a: "En coche hasta la Plataforma de Gredos, subiendo desde Hoyos del Espino (Ávila). Desde allí son unos 6,5 km andando."
 ---
 Una laguna de origen glaciar encajada a casi 2.000 metros, rodeada de paredes de granito y vigilada por el **Almanzor**, el pico más alto del Sistema Central. Y por el camino, **cabras montesas** tan tranquilas que se te acercan a pocos metros. La ruta a la **Laguna Grande de Gredos** es uno de los grandes clásicos del senderismo en el centro de España.
 
@@ -41,9 +55,7 @@ Te cuento cómo es la ruta, cuánto se tarda y lo que tienes que saber antes de 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Empieza temprano</b>: para pillar aparcamiento y evitar el calor de la vuelta.</li><li><b>Ropa de abrigo y chubasquero</b>: a 2.000 metros el tiempo cambia en minutos.</li><li><b>Agua y comida</b>: no hay fuentes seguras garantizadas en todo el camino.</li><li><b>Respeta a la fauna</b>: ni comida para las cabras ni basura en la laguna.</li><li><b>Fuera del verano, consulta la nieve</b>: en invierno y primavera la ruta puede necesitar crampones.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Laguna Grande de Gredos</h2></div>
-<div class="faq"><details><summary>¿Cuánto se tarda en llegar a la Laguna Grande de Gredos?</summary><p>Desde la Plataforma son unos 6,5 km de ida. Ida y vuelta se tarda unas 4 horas sin contar paradas.</p></details><details><summary>¿Es difícil la ruta a la Laguna Grande?</summary><p>Es de dificultad media: el camino está bien marcado, pero tiene unos 700 metros de desnivel acumulado entre la ida y la vuelta.</p></details><details><summary>¿Hay que pagar el aparcamiento de la Plataforma de Gredos?</summary><p>En temporada el aparcamiento está regulado y es de pago. En 2026 la tarifa para turismos es de 3 € al día.</p></details><details><summary>¿Se puede dormir junto a la laguna?</summary><p>Sí, en el refugio Elola, que tiene literas y servicio de comidas. Conviene reservar.</p></details><details><summary>¿Se pueden ver cabras montesas?</summary><p>Sí, es muy habitual verlas por la senda y junto a la laguna. No hay que darles de comer.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto se tarda en llegar a la Laguna Grande de Gredos?", "acceptedAnswer": {"@type": "Answer", "text": "Desde la Plataforma son unos 6,5 km de ida. Ida y vuelta se tarda unas 4 horas sin contar paradas."}}, {"@type": "Question", "name": "¿Es difícil la ruta a la Laguna Grande?", "acceptedAnswer": {"@type": "Answer", "text": "Es de dificultad media: el camino está bien marcado, pero tiene unos 700 metros de desnivel acumulado entre la ida y la vuelta."}}, {"@type": "Question", "name": "¿Hay que pagar el aparcamiento de la Plataforma de Gredos?", "acceptedAnswer": {"@type": "Answer", "text": "En temporada el aparcamiento está regulado y es de pago. En 2026 la tarifa para turismos es de 3 € al día."}}, {"@type": "Question", "name": "¿Se puede dormir junto a la laguna?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, en el refugio Elola, que tiene literas y servicio de comidas. Conviene reservar."}}, {"@type": "Question", "name": "¿Se pueden ver cabras montesas?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, es muy habitual verlas por la senda y junto a la laguna. No hay que darles de comer."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más montaña</span><h2>Más rutas de montaña</h2></div>
 <ul class="nearby"><li><a href="/blog/ruta-cola-de-caballo-ordesa.html"><img src="/assets/img/instagram/18124961662670705.webp" alt="Ruta de la Cola de Caballo" loading="lazy" decoding="async" /><span>Ruta de la Cola de Caballo</span></a></li><li><a href="/blog/ibon-de-anayet.html"><img src="/assets/img/blog/pirineo/anayet.webp" alt="Ibón de Anayet" loading="lazy" decoding="async" /><span>Ibón de Anayet</span></a></li><li><a href="/blog/ruta-rio-borosa.html"><img src="/assets/img/blog/ruta-rio-borosa/portada.webp" alt="Ruta del río Borosa" loading="lazy" decoding="async" /><span>Ruta del río Borosa</span></a></li></ul>

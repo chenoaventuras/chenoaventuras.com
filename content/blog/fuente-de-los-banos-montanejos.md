@@ -11,6 +11,18 @@ tags:
   - Spots
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/reel/DMXRT6iIYC6/'
+faqTitulo: "Dudas sobre la Fuente de los Baños"
+faq:
+  - q: "¿Hay que pagar para bañarse en la Fuente de los Baños de Montanejos?"
+    a: "Fuera de temporada alta es gratis. En verano la entrada cuesta 3 € por la web y 3,50 € en taquilla si quedan plazas."
+  - q: "¿Hay que reservar para la Fuente de los Baños?"
+    a: "En verano, sí conviene: las entradas se compran en la web y en taquilla solo se venden si sobran."
+  - q: "¿A qué temperatura está el agua de Montanejos?"
+    a: "A unos 25 °C todo el año, por eso apetece bañarse incluso fuera del verano."
+  - q: "¿Qué horario tiene la Fuente de los Baños?"
+    a: "De 9:00 a 18:00 h."
+  - q: "¿Es peligroso bañarse en la Fuente de los Baños?"
+    a: "La visita es fácil, pero hay zonas de unos 2,5 metros de profundidad con pocos apoyos: si te alejas de la orilla, tienes que saber nadar. Lleva escarpines, el fondo es de piedra."
 ---
 En Montanejos, Castellón, hay una fuente cuyas aguas termales mantienen una temperatura cálida y constante durante todo el año, sin importar la estación. Es la Fuente de los Baños, y es uno de esos planes de baño que se pueden disfrutar incluso cuando en el resto de España hace frío.
 
@@ -37,5 +49,8 @@ Conviene llevar protector solar, toalla y un calzado tipo escarpín, ya que el s
 La Fuente de los Baños se encuentra en Montanejos, Castellón. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Fuente%20de%20los%20Ba%C3%B1os%2C%20Montanejos%2C%20Castell%C3%B3n).
 
 Y si te quedas por Castellón, en La Vall d'Uixó tienes las [Cuevas de San José](/blog/cuevas-de-san-jose-vall-duixo.html), con el río subterráneo navegable más largo de Europa.
+
+<!--faq-->
+
 
 ¿Te animarías a bañarte en la Fuente de los Baños de Montanejos? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones naturales de España, y échale un vistazo al resto del blog para tu próxima escapada.

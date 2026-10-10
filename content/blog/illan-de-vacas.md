@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Castilla-La Mancha
 wide: true
+faq:
+  - q: "¿Cuál es el pueblo más pequeño de España?"
+    a: "Por habitantes, Illán de Vacas (Toledo), con 8 vecinos censados en 2025 según el INE."
+  - q: "¿Dónde está Illán de Vacas?"
+    a: "En la provincia de Toledo, a 23 km de Talavera de la Reina y 88 km de Madrid."
+  - q: "¿Qué ver en Illán de Vacas?"
+    a: "La iglesia de la Asunción, sus calles, el cementerio y el cartel de entrada."
+  - q: "¿Illán de Vacas tiene alcalde?"
+    a: "Sí. Es un municipio con su propio ayuntamiento y alcalde."
+  - q: "¿Cómo llegar a Illán de Vacas?"
+    a: "En coche: está en la comarca de Torrijos (Toledo), a 23 km de Talavera de la Reina y a 46 de Toledo."
 ---
 Tiene ayuntamiento, alcalde, iglesia y fiestas... y **8 vecinos**. **Illán de Vacas**, en Toledo, es el **municipio con menos habitantes de España** según el INE.
 
@@ -41,9 +52,7 @@ Te cuento cómo ha llegado a esto y qué te vas a encontrar si vas 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>No esperes bares</b>: no hay tiendas ni restaurantes: lleva agua y come en Talavera o Cebolla.</li><li><b>Respeta a los vecinos</b>: es un pueblo pequeño y vivo, no un decorado.</li><li><b>Combínalo con Talavera</b>: su cerámica y la basílica del Prado merecen la visita.</li><li><b>Y con Toledo</b>: la Cueva de Hércules y la Piedra del Rey Moro están a una hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Illán de Vacas</h2></div>
-<div class="faq"><details><summary>¿Cuál es el pueblo más pequeño de España?</summary><p>Por habitantes, Illán de Vacas (Toledo), con 8 vecinos censados en 2025 según el INE.</p></details><details><summary>¿Dónde está Illán de Vacas?</summary><p>En la provincia de Toledo, a 23 km de Talavera de la Reina y 88 km de Madrid.</p></details><details><summary>¿Qué ver en Illán de Vacas?</summary><p>La iglesia de la Asunción, sus calles, el cementerio y el cartel de entrada.</p></details><details><summary>¿Illán de Vacas tiene alcalde?</summary><p>Sí. Es un municipio con su propio ayuntamiento y alcalde.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuál es el pueblo más pequeño de España?", "acceptedAnswer": {"@type": "Answer", "text": "Por habitantes, Illán de Vacas (Toledo), con 8 vecinos censados en 2025 según el INE."}}, {"@type": "Question", "name": "¿Dónde está Illán de Vacas?", "acceptedAnswer": {"@type": "Answer", "text": "En la provincia de Toledo, a 23 km de Talavera de la Reina y 88 km de Madrid."}}, {"@type": "Question", "name": "¿Qué ver en Illán de Vacas?", "acceptedAnswer": {"@type": "Answer", "text": "La iglesia de la Asunción, sus calles, el cementerio y el cartel de entrada."}}, {"@type": "Question", "name": "¿Illán de Vacas tiene alcalde?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Es un municipio con su propio ayuntamiento y alcalde."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/cueva-de-hercules-toledo.html"><img src="/assets/img/blog/cueva-de-hercules-toledo/portada.webp" alt="Cueva de Hércules" loading="lazy" decoding="async" /><span>Cueva de Hércules</span></a></li><li><a href="/blog/piedra-del-rey-moro-toledo.html"><img src="/assets/img/instagram/18067189766151364.webp" alt="Toledo" loading="lazy" decoding="async" /><span>Toledo</span></a></li><li><a href="/blog/puy-du-fou-toledo.html"><img src="/assets/img/instagram/18066740699149373.webp" alt="Puy du Fou España" loading="lazy" decoding="async" /><span>Puy du Fou España</span></a></li></ul>

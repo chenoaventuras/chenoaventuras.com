@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - La Rioja
 wide: true
+faq:
+  - q: "¿Qué es el Barrio de la Estación de Haro?"
+    a: "Una zona junto a la estación de tren donde se concentran varias bodegas centenarias, como Bodegas Bilbaínas, Muga, La Rioja Alta, CVNE o López de Heredia."
+  - q: "¿Cuándo es la Batalla del Vino de Haro?"
+    a: "Cada 29 de junio, día de San Pedro, en los Riscos de Bilibio, a las afueras de Haro."
+  - q: "¿Hay que reservar para visitar las bodegas?"
+    a: "Sí, la mayoría de las bodegas hacen visitas guiadas con cata y conviene reservar en su web con antelación."
+  - q: "¿Por qué se dice «Haro, París y Londres»?"
+    a: "Según la tradición, porque Haro fue de los primeros lugares de España en tener alumbrado eléctrico a finales del siglo XIX."
+  - q: "¿A cuánto está Haro de Logroño?"
+    a: "A unos 40 minutos en coche, y a una hora de Bilbao o Vitoria."
 ---
 Si hay un pueblo que huele a vino, es **Haro**. Junto a la vieja estación de tren se concentran varias de las **bodegas más antiguas de La Rioja**, y cada 29 de junio miles de personas suben a los riscos de Bilibio para empaparse de tinto en la **Batalla del Vino**.
 
@@ -41,9 +52,7 @@ Te cuento qué ver, cómo visitar sus bodegas y alguna curiosidad que no conoce 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva las bodegas</b>: las visitas tienen plazas limitadas, sobre todo en fin de semana.</li><li><b>No conduzcas después de catar</b>: ve en tren o con alguien que no beba.</li><li><b>Tapea por la Herradura</b>: la zona de bares del casco histórico es perfecta para picar algo.</li><li><b>Combínalo con la Rioja Alavesa</b>: Laguardia está a media hora.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Haro</h2></div>
-<div class="faq"><details><summary>¿Qué es el Barrio de la Estación de Haro?</summary><p>Una zona junto a la estación de tren donde se concentran varias bodegas centenarias, como Bodegas Bilbaínas, Muga, La Rioja Alta, CVNE o López de Heredia.</p></details><details><summary>¿Cuándo es la Batalla del Vino de Haro?</summary><p>Cada 29 de junio, día de San Pedro, en los Riscos de Bilibio, a las afueras de Haro.</p></details><details><summary>¿Hay que reservar para visitar las bodegas?</summary><p>Sí, la mayoría de las bodegas hacen visitas guiadas con cata y conviene reservar en su web con antelación.</p></details><details><summary>¿Por qué se dice «Haro, París y Londres»?</summary><p>Según la tradición, porque Haro fue de los primeros lugares de España en tener alumbrado eléctrico a finales del siglo XIX.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué es el Barrio de la Estación de Haro?", "acceptedAnswer": {"@type": "Answer", "text": "Una zona junto a la estación de tren donde se concentran varias bodegas centenarias, como Bodegas Bilbaínas, Muga, La Rioja Alta, CVNE o López de Heredia."}}, {"@type": "Question", "name": "¿Cuándo es la Batalla del Vino de Haro?", "acceptedAnswer": {"@type": "Answer", "text": "Cada 29 de junio, día de San Pedro, en los Riscos de Bilibio, a las afueras de Haro."}}, {"@type": "Question", "name": "¿Hay que reservar para visitar las bodegas?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la mayoría de las bodegas hacen visitas guiadas con cata y conviene reservar en su web con antelación."}}, {"@type": "Question", "name": "¿Por qué se dice «Haro, París y Londres»?", "acceptedAnswer": {"@type": "Answer", "text": "Según la tradición, porque Haro fue de los primeros lugares de España en tener alumbrado eléctrico a finales del siglo XIX."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Cerca de Haro</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/laguardia-que-ver.html"><img src="/assets/img/blog/laguardia-que-ver/portada.webp" alt="Laguardia" loading="lazy" decoding="async" /><span>Laguardia</span></a></li><li><a href="/blog/cuzcurrita-rio-tiron-que-ver.html"><img src="/assets/img/instagram/17886987651509054.webp" alt="Cuzcurrita de Río Tirón" loading="lazy" decoding="async" /><span>Cuzcurrita de Río Tirón</span></a></li><li><a href="/blog/merindades-burgos-que-ver.html"><img src="/assets/img/instagram/18077362268036595.webp" alt="Las Merindades" loading="lazy" decoding="async" /><span>Las Merindades</span></a></li></ul>

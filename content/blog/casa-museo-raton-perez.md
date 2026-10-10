@@ -11,6 +11,16 @@ tags:
   - Curiosidades
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre el Ratón Pérez"
+faq:
+  - q: "¿Dónde vive el Ratón Pérez?"
+    a: "Según el cuento del padre Coloma, en la calle del Arenal, 8, de Madrid."
+  - q: "¿Quién inventó el Ratón Pérez?"
+    a: "Luis Coloma escribió el cuento a finales del siglo XIX para el rey niño Alfonso XIII."
+  - q: "¿Se puede visitar su casa?"
+    a: "Sí, hay una casita-museo en el mismo edificio, con entrada barata."
+  - q: "¿Hay una placa?"
+    a: "Sí, el Ayuntamiento de Madrid colocó una placa en la fachada."
 ---
 Si alguna vez te preguntaste dónde vive el **Ratoncito Pérez**, la respuesta es: en la **calle del Arenal, 8**, de Madrid, a dos minutos de la Puerta del Sol. Hasta tiene una **placa oficial** del Ayuntamiento.
 
@@ -37,9 +47,7 @@ Te cuento de dónde sale el cuento y cómo visitar su casita-museo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Lleva el diente</b>: algunos niños dejan cartas para el ratón.</li><li><b>Chocolate con churros</b>: San Ginés está a la vuelta de la esquina.</li><li><b>Palacio Real</b>: al final de la calle del Arenal.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Ratón Pérez</h2></div>
-<div class="faq"><details><summary>¿Dónde vive el Ratón Pérez?</summary><p>Según el cuento del padre Coloma, en la calle del Arenal, 8, de Madrid.</p></details><details><summary>¿Quién inventó el Ratón Pérez?</summary><p>Luis Coloma escribió el cuento a finales del siglo XIX para el rey niño Alfonso XIII.</p></details><details><summary>¿Se puede visitar su casa?</summary><p>Sí, hay una casita-museo en el mismo edificio, con entrada barata.</p></details><details><summary>¿Hay una placa?</summary><p>Sí, el Ayuntamiento de Madrid colocó una placa en la fachada.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Dónde vive el Ratón Pérez?", "acceptedAnswer": {"@type": "Answer", "text": "Según el cuento del padre Coloma, en la calle del Arenal, 8, de Madrid."}}, {"@type": "Question", "name": "¿Quién inventó el Ratón Pérez?", "acceptedAnswer": {"@type": "Answer", "text": "Luis Coloma escribió el cuento a finales del siglo XIX para el rey niño Alfonso XIII."}}, {"@type": "Question", "name": "¿Se puede visitar su casa?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, hay una casita-museo en el mismo edificio, con entrada barata."}}, {"@type": "Question", "name": "¿Hay una placa?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, el Ayuntamiento de Madrid colocó una placa en la fachada."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/sobrino-de-botin.html"><img src="/assets/img/blog/sobrino-de-botin/interior.webp" alt="Sobrino de Botín" loading="lazy" decoding="async" /><span>Sobrino de Botín</span></a></li><li><a href="/blog/madrid-fantasmas-leyendas.html"><img src="/assets/img/blog/madrid-fantasmas-leyendas/portada.webp" alt="Madrid de fantasmas" loading="lazy" decoding="async" /><span>Madrid de fantasmas</span></a></li><li><a href="/blog/beatles-las-ventas.html"><img src="/assets/img/blog/beatles-las-ventas/ventas.webp" alt="Los Beatles en Las Ventas" loading="lazy" decoding="async" /><span>Los Beatles en Las Ventas</span></a></li></ul>

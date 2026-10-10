@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Asturias
 wide: true
+faq:
+  - q: "¿Cuánto tiempo se necesita para ver Cudillero?"
+    a: "Con 2-3 horas recorres el pueblo y subes a los miradores. Si añades la Playa del Silencio, cuenta un día."
+  - q: "¿Dónde aparcar en Cudillero?"
+    a: "En los aparcamientos de la entrada del pueblo o del puerto. El centro tiene calles muy estrechas y en verano el tráfico está restringido."
+  - q: "¿Qué es L'Amuravela?"
+    a: "Una fiesta tradicional que se celebra cada 29 de junio, por San Pedro, en la que se recita en pixueto un sermón satírico sobre lo ocurrido en el pueblo durante el año."
+  - q: "¿A qué distancia está la Playa del Silencio de Cudillero?"
+    a: "A unos 20 minutos en coche hacia el oeste, en la zona de Castañeras."
+  - q: "¿A cuánto está Cudillero de Oviedo?"
+    a: "A unos 45 minutos de Oviedo y a media hora de Avilés."
 ---
 Casas de colores apiladas en la ladera, una encima de otra, mirando todas a un pequeño puerto pesquero. **Cudillero** parece un anfiteatro natural, y por eso es uno de los pueblos más fotografiados de toda la costa asturiana.
 
@@ -41,9 +52,7 @@ Te cuento qué ver, desde qué miradores sacar la mejor foto y cómo combinarlo 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube a los miradores</b>: la foto buena de Cudillero se hace desde arriba.</li><li><b>Come pescado</b>: las sidrerías del puerto son el sitio para probar el pescado del día.</li><li><b>Ve fuera de agosto</b>: en pleno verano se llena muchísimo.</li><li><b>Combínalo con la Playa del Silencio</b>: y si te sobra tiempo, con Luarca, otro pueblo marinero precioso.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Cudillero</h2></div>
-<div class="faq"><details><summary>¿Cuánto tiempo se necesita para ver Cudillero?</summary><p>Con 2-3 horas recorres el pueblo y subes a los miradores. Si añades la Playa del Silencio, cuenta un día.</p></details><details><summary>¿Dónde aparcar en Cudillero?</summary><p>En los aparcamientos de la entrada del pueblo o del puerto. El centro tiene calles muy estrechas y en verano el tráfico está restringido.</p></details><details><summary>¿Qué es L'Amuravela?</summary><p>Una fiesta tradicional que se celebra cada 29 de junio, por San Pedro, en la que se recita en pixueto un sermón satírico sobre lo ocurrido en el pueblo durante el año.</p></details><details><summary>¿A qué distancia está la Playa del Silencio de Cudillero?</summary><p>A unos 20 minutos en coche hacia el oeste, en la zona de Castañeras.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto tiempo se necesita para ver Cudillero?", "acceptedAnswer": {"@type": "Answer", "text": "Con 2-3 horas recorres el pueblo y subes a los miradores. Si añades la Playa del Silencio, cuenta un día."}}, {"@type": "Question", "name": "¿Dónde aparcar en Cudillero?", "acceptedAnswer": {"@type": "Answer", "text": "En los aparcamientos de la entrada del pueblo o del puerto. El centro tiene calles muy estrechas y en verano el tráfico está restringido."}}, {"@type": "Question", "name": "¿Qué es L'Amuravela?", "acceptedAnswer": {"@type": "Answer", "text": "Una fiesta tradicional que se celebra cada 29 de junio, por San Pedro, en la que se recita en pixueto un sermón satírico sobre lo ocurrido en el pueblo durante el año."}}, {"@type": "Question", "name": "¿A qué distancia está la Playa del Silencio de Cudillero?", "acceptedAnswer": {"@type": "Answer", "text": "A unos 20 minutos en coche hacia el oeste, en la zona de Castañeras."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más norte</span><h2>Sigue por el Cantábrico</h2></div>
 <ul class="nearby"><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li><li><a href="/blog/guia-monte-igueldo.html"><img src="/assets/img/blog/monte-igueldo/portada-rio-misterioso-cheno.webp" alt="Monte Igueldo" loading="lazy" decoding="async" /><span>Monte Igueldo</span></a></li></ul>

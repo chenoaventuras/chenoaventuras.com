@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Extremadura
 wide: true
+faq:
+  - q: "¿Olivenza es de España o de Portugal?"
+    a: "Está bajo soberanía española desde 1801, tras la Guerra de las Naranjas, aunque Portugal no la ha reconocido oficialmente del todo."
+  - q: "¿Qué ver en Olivenza?"
+    a: "La iglesia manuelina de Santa María Magdalena, el castillo y su torre del homenaje, Santa María del Castillo, la Santa Casa de Misericordia y los restos de la muralla."
+  - q: "¿Qué es la técula mécula?"
+    a: "Un dulce típico de Olivenza de origen portugués, hecho con almendra, yema y azúcar."
+  - q: "¿Cuánto tiempo se necesita para ver Olivenza?"
+    a: "Medio día es suficiente para lo principal."
+  - q: "¿A cuánto está Olivenza de Badajoz?"
+    a: "A unos 25 minutos en coche, en la misma frontera con Portugal."
 ---
 Calles blancas con nombres en dos idiomas, azulejos azules en las iglesias, columnas retorcidas como cuerdas de barco… y todo eso en Badajoz. **Olivenza** fue **portuguesa durante cinco siglos**, y todavía se nota en cada rincón.
 
@@ -41,9 +52,7 @@ Te cuento su curiosa historia y qué ver en uno de los pueblos más bonitos de E
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Sube a la torre del homenaje</b>: las vistas de los tejados blancos y la llanura son estupendas.</li><li><b>Prueba la «técula mécula»</b>: el dulce típico de Olivenza, de origen portugués.</li><li><b>Cruza a Elvas</b>: la ciudad portuguesa amurallada, Patrimonio de la Humanidad, está a un paso.</li><li><b>Fíjate en los nombres de las calles</b>: en castellano y portugués.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Olivenza</h2></div>
-<div class="faq"><details><summary>¿Olivenza es de España o de Portugal?</summary><p>Está bajo soberanía española desde 1801, tras la Guerra de las Naranjas, aunque Portugal no la ha reconocido oficialmente del todo.</p></details><details><summary>¿Qué ver en Olivenza?</summary><p>La iglesia manuelina de Santa María Magdalena, el castillo y su torre del homenaje, Santa María del Castillo, la Santa Casa de Misericordia y los restos de la muralla.</p></details><details><summary>¿Qué es la técula mécula?</summary><p>Un dulce típico de Olivenza de origen portugués, hecho con almendra, yema y azúcar.</p></details><details><summary>¿Cuánto tiempo se necesita para ver Olivenza?</summary><p>Medio día es suficiente para lo principal.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Olivenza es de España o de Portugal?", "acceptedAnswer": {"@type": "Answer", "text": "Está bajo soberanía española desde 1801, tras la Guerra de las Naranjas, aunque Portugal no la ha reconocido oficialmente del todo."}}, {"@type": "Question", "name": "¿Qué ver en Olivenza?", "acceptedAnswer": {"@type": "Answer", "text": "La iglesia manuelina de Santa María Magdalena, el castillo y su torre del homenaje, Santa María del Castillo, la Santa Casa de Misericordia y los restos de la muralla."}}, {"@type": "Question", "name": "¿Qué es la técula mécula?", "acceptedAnswer": {"@type": "Answer", "text": "Un dulce típico de Olivenza de origen portugués, hecho con almendra, yema y azúcar."}}, {"@type": "Question", "name": "¿Cuánto tiempo se necesita para ver Olivenza?", "acceptedAnswer": {"@type": "Answer", "text": "Medio día es suficiente para lo principal."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más interior</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li><li><a href="/blog/los-pilones-jerte.html"><img src="/assets/img/blog/los-pilones-jerte/portada.webp" alt="Los Pilones" loading="lazy" decoding="async" /><span>Los Pilones</span></a></li><li><a href="/blog/ciudad-rodrigo-que-ver.html"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/portada.webp" alt="Ciudad Rodrigo" loading="lazy" decoding="async" /><span>Ciudad Rodrigo</span></a></li></ul>

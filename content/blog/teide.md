@@ -12,6 +12,20 @@ tags:
   - Actividades
   - Canarias
 wide: true
+faqTitulo: "Dudas sobre subir al Teide"
+faq:
+  - q: "¿Hace falta permiso para subir al Teide?"
+    a: "Para llegar al pico (el último tramo desde el teleférico, por el sendero Telesforo Bravo) sí: hay que reservar con antelación. Para subir en teleférico hasta la estación superior no hace falta permiso."
+  - q: "¿Cuánto cuesta subir al Teide en 2026?"
+    a: "Desde 2026 el acceso al pico tiene tasa: 15 € para no residentes, 6 € para residentes en Canarias y gratis para residentes en Tenerife y menores de 14 años. El teleférico se paga aparte (unos 42 € ida y vuelta para no residentes)."
+  - q: "¿El billete del teleférico incluye el permiso al pico?"
+    a: "No. Son dos cosas distintas: el teleférico te sube a la estación superior y el permiso te deja hacer el último tramo hasta el cráter."
+  - q: "¿Se puede subir al Teide andando?"
+    a: "Sí, por la ruta de Montaña Blanca, larga y exigente. Se puede partir en dos noches durmiendo en el refugio de Altavista."
+  - q: "¿Qué altura tiene el Teide?"
+    a: "3.715 metros sobre el nivel del mar: es el pico más alto de España."
+  - q: "¿Se puede subir al Teide en coche?"
+    a: "Hasta la base del teleférico, sí, por la carretera del Parque Nacional. Desde ahí se sigue en teleférico o a pie."
 ---
 Con sus **3.715 metros**, el **Teide** es el pico más alto de España y uno de los volcanes más impresionantes del mundo. Subir hasta arriba, con el olor a azufre de las fumarolas y un mar de nubes bajo tus pies, es una de esas experiencias que hay que vivir al menos una vez.
 
@@ -44,9 +58,7 @@ Pero llegar al cráter no es tan simple como coger el teleférico: hace falta un
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva con semanas de antelación</b>: tanto el permiso al pico como el teleférico se agotan.</li><li><b>Sube sin prisas</b>: a más de 3.500 metros falta el aire: camina despacio y bebe agua.</li><li><b>Abrigo aunque sea verano</b>: arriba puede hacer frío y viento, y en invierno hay nieve.</li><li><b>Para en los Roques de García</b>: el mirador más famoso del parque, con el Teide detrás.</li><li><b>Si tienes problemas de corazón o respiratorios</b>: consulta antes: la altura no perdona.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre subir al Teide</h2></div>
-<div class="faq"><details><summary>¿Hace falta permiso para subir al Teide?</summary><p>Para llegar al pico (el último tramo desde el teleférico, por el sendero Telesforo Bravo) sí: hay que reservar con antelación. Para subir en teleférico hasta la estación superior no hace falta permiso.</p></details><details><summary>¿Cuánto cuesta subir al Teide en 2026?</summary><p>Desde 2026 el acceso al pico tiene tasa: 15 € para no residentes, 6 € para residentes en Canarias y gratis para residentes en Tenerife y menores de 14 años. El teleférico se paga aparte (unos 42 € ida y vuelta para no residentes).</p></details><details><summary>¿El billete del teleférico incluye el permiso al pico?</summary><p>No. Son dos cosas distintas: el teleférico te sube a la estación superior y el permiso te deja hacer el último tramo hasta el cráter.</p></details><details><summary>¿Se puede subir al Teide andando?</summary><p>Sí, por la ruta de Montaña Blanca, larga y exigente. Se puede partir en dos noches durmiendo en el refugio de Altavista.</p></details><details><summary>¿Qué altura tiene el Teide?</summary><p>3.715 metros sobre el nivel del mar: es el pico más alto de España.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hace falta permiso para subir al Teide?", "acceptedAnswer": {"@type": "Answer", "text": "Para llegar al pico (el último tramo desde el teleférico, por el sendero Telesforo Bravo) sí: hay que reservar con antelación. Para subir en teleférico hasta la estación superior no hace falta permiso."}}, {"@type": "Question", "name": "¿Cuánto cuesta subir al Teide en 2026?", "acceptedAnswer": {"@type": "Answer", "text": "Desde 2026 el acceso al pico tiene tasa: 15 € para no residentes, 6 € para residentes en Canarias y gratis para residentes en Tenerife y menores de 14 años. El teleférico se paga aparte (unos 42 € ida y vuelta para no residentes)."}}, {"@type": "Question", "name": "¿El billete del teleférico incluye el permiso al pico?", "acceptedAnswer": {"@type": "Answer", "text": "No. Son dos cosas distintas: el teleférico te sube a la estación superior y el permiso te deja hacer el último tramo hasta el cráter."}}, {"@type": "Question", "name": "¿Se puede subir al Teide andando?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, por la ruta de Montaña Blanca, larga y exigente. Se puede partir en dos noches durmiendo en el refugio de Altavista."}}, {"@type": "Question", "name": "¿Qué altura tiene el Teide?", "acceptedAnswer": {"@type": "Answer", "text": "3.715 metros sobre el nivel del mar: es el pico más alto de España."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Tenerife</span><h2>Sigue por Tenerife</h2></div>
 <ul class="nearby"><li><a href="/blog/mirador-de-chipeque-tenerife.html"><img src="/assets/img/instagram/18075135229685841.webp" alt="Mirador de Chipeque" loading="lazy" decoding="async" /><span>Mirador de Chipeque</span></a></li><li><a href="/blog/arco-de-tajao-tenerife.html"><img src="/assets/img/instagram/18124723345426528.webp" alt="Arco de Tajao" loading="lazy" decoding="async" /><span>Arco de Tajao</span></a></li><li><a href="/blog/lago-martianez-puerto-de-la-cruz.html"><img src="/assets/img/instagram/17940651440967325.webp" alt="Lago Martiánez" loading="lazy" decoding="async" /><span>Lago Martiánez</span></a></li></ul>

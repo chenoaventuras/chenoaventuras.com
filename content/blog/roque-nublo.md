@@ -11,6 +11,18 @@ tags:
   - Actividades
   - Canarias
 wide: true
+faqTitulo: "Dudas sobre el Roque Nublo"
+faq:
+  - q: "¿Hace falta reserva para subir al Roque Nublo?"
+    a: "Sí, para acceder por la Degollada de La Goleta en horario diurno. El cupo es de 60 personas por hora y se reserva en la web oficial. Fuera del horario regulado no es necesaria."
+  - q: "¿Dónde se aparca para subir al Roque Nublo?"
+    a: "El aparcamiento de La Goleta ya no está disponible (salvo para personas con movilidad reducida). Hay que aparcar en Cruz de Los Llanos o en Tejeda y llegar en guagua o a pie."
+  - q: "¿Cuánto se tarda en subir al Roque Nublo?"
+    a: "Desde La Goleta, unos 40 minutos de subida por un sendero bien marcado."
+  - q: "¿Qué altura tiene el Roque Nublo?"
+    a: "El monolito mide unos 80 metros y su base está a más de 1.800 metros sobre el nivel del mar."
+  - q: "¿Hay que pagar para subir al Roque Nublo?"
+    a: "La reserva es obligatoria en horario de día. Hay que aparcar en Cruz de Los Llanos o en Tejeda y llegar en guagua lanzadera o a pie."
 ---
 Un monolito de roca volcánica de unos **80 metros** plantado en lo alto de la isla, a más de 1.800 metros de altura, con el **Teide** asomando sobre el mar de nubes. El **Roque Nublo** es el símbolo de Gran Canaria y una de las excursiones más bonitas de Canarias.
 
@@ -41,9 +53,7 @@ Desde 2025 subir tiene sus normas: hay **reserva obligatoria** en horario de dí
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva con antelación</b>: las franjas de la mañana vuelan.</li><li><b>Abrigo y cortavientos</b>: arriba sopla fuerte y la temperatura baja mucho al atardecer.</li><li><b>Calzado de senderismo</b>: el camino tiene piedra suelta y escalones.</li><li><b>Combínalo con Tejeda y el Pico de las Nieves</b>: y no te vayas sin probar los dulces de almendra de Tejeda.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Roque Nublo</h2></div>
-<div class="faq"><details><summary>¿Hace falta reserva para subir al Roque Nublo?</summary><p>Sí, para acceder por la Degollada de La Goleta en horario diurno. El cupo es de 60 personas por hora y se reserva en la web oficial. Fuera del horario regulado no es necesaria.</p></details><details><summary>¿Dónde se aparca para subir al Roque Nublo?</summary><p>El aparcamiento de La Goleta ya no está disponible (salvo para personas con movilidad reducida). Hay que aparcar en Cruz de Los Llanos o en Tejeda y llegar en guagua o a pie.</p></details><details><summary>¿Cuánto se tarda en subir al Roque Nublo?</summary><p>Desde La Goleta, unos 40 minutos de subida por un sendero bien marcado.</p></details><details><summary>¿Qué altura tiene el Roque Nublo?</summary><p>El monolito mide unos 80 metros y su base está a más de 1.800 metros sobre el nivel del mar.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hace falta reserva para subir al Roque Nublo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, para acceder por la Degollada de La Goleta en horario diurno. El cupo es de 60 personas por hora y se reserva en la web oficial. Fuera del horario regulado no es necesaria."}}, {"@type": "Question", "name": "¿Dónde se aparca para subir al Roque Nublo?", "acceptedAnswer": {"@type": "Answer", "text": "El aparcamiento de La Goleta ya no está disponible (salvo para personas con movilidad reducida). Hay que aparcar en Cruz de Los Llanos o en Tejeda y llegar en guagua o a pie."}}, {"@type": "Question", "name": "¿Cuánto se tarda en subir al Roque Nublo?", "acceptedAnswer": {"@type": "Answer", "text": "Desde La Goleta, unos 40 minutos de subida por un sendero bien marcado."}}, {"@type": "Question", "name": "¿Qué altura tiene el Roque Nublo?", "acceptedAnswer": {"@type": "Answer", "text": "El monolito mide unos 80 metros y su base está a más de 1.800 metros sobre el nivel del mar."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más Canarias</span><h2>Sigue por Canarias</h2></div>
 <ul class="nearby"><li><a href="/blog/teide.html"><img src="/assets/img/blog/teide/portada.webp" alt="Subir al Teide" loading="lazy" decoding="async" /><span>Subir al Teide</span></a></li><li><a href="/blog/mirador-de-chipeque-tenerife.html"><img src="/assets/img/instagram/18075135229685841.webp" alt="Mirador de Chipeque" loading="lazy" decoding="async" /><span>Mirador de Chipeque</span></a></li><li><a href="/blog/arco-de-tajao-tenerife.html"><img src="/assets/img/instagram/18124723345426528.webp" alt="Arco de Tajao" loading="lazy" decoding="async" /><span>Arco de Tajao</span></a></li></ul>

@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+faq:
+  - q: "¿Qué pasó en la batalla del Peñón de Frigiliana?"
+    a: "En 1569, durante la rebelión de los moriscos, cientos de moriscos se refugiaron en lo alto del pueblo y resistieron a las tropas cristianas hasta que llegaron refuerzos y cayó la resistencia."
+  - q: "¿Cuánto tiempo se necesita para ver Frigiliana?"
+    a: "Entre dos y tres horas para recorrer el barrio morisco con calma."
+  - q: "¿Dónde aparcar en Frigiliana?"
+    a: "En el aparcamiento municipal de la entrada del pueblo. El barrio morisco es peatonal."
+  - q: "¿Qué distancia hay entre Nerja y Frigiliana?"
+    a: "Unos 6 km, unos 10 minutos en coche. También hay autobús."
+  - q: "¿A cuánto está Frigiliana de Málaga?"
+    a: "A una hora en coche. Desde Nerja son solo 6 km."
 ---
 Casas blancas encaladas, macetas azules, calles empinadas que se retuercen ladera arriba y el Mediterráneo al fondo. **Frigiliana** es uno de los pueblos más buscados de España y tiene una historia que muy poca gente conoce.
 
@@ -43,9 +54,7 @@ En sus paredes, unos azulejos cuentan la batalla en la que los moriscos se hicie
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube hasta el Peñón</b>: las vistas sobre los tejados blancos y el mar son la mejor foto del pueblo.</li><li><b>Sigue los azulejos</b>: es la forma más entretenida de recorrer el barrio morisco.</li><li><b>Evita el mediodía en verano</b>: las cuestas y el sol aprietan. Mejor por la mañana o al atardecer.</li><li><b>Ven al Festival de las Tres Culturas</b>: a finales de agosto el pueblo celebra su pasado cristiano, judío y musulmán.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Frigiliana</h2></div>
-<div class="faq"><details><summary>¿Qué pasó en la batalla del Peñón de Frigiliana?</summary><p>En 1569, durante la rebelión de los moriscos, cientos de moriscos se refugiaron en lo alto del pueblo y resistieron a las tropas cristianas hasta que llegaron refuerzos y cayó la resistencia.</p></details><details><summary>¿Cuánto tiempo se necesita para ver Frigiliana?</summary><p>Entre dos y tres horas para recorrer el barrio morisco con calma.</p></details><details><summary>¿Dónde aparcar en Frigiliana?</summary><p>En el aparcamiento municipal de la entrada del pueblo. El barrio morisco es peatonal.</p></details><details><summary>¿Qué distancia hay entre Nerja y Frigiliana?</summary><p>Unos 6 km, unos 10 minutos en coche. También hay autobús.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué pasó en la batalla del Peñón de Frigiliana?", "acceptedAnswer": {"@type": "Answer", "text": "En 1569, durante la rebelión de los moriscos, cientos de moriscos se refugiaron en lo alto del pueblo y resistieron a las tropas cristianas hasta que llegaron refuerzos y cayó la resistencia."}}, {"@type": "Question", "name": "¿Cuánto tiempo se necesita para ver Frigiliana?", "acceptedAnswer": {"@type": "Answer", "text": "Entre dos y tres horas para recorrer el barrio morisco con calma."}}, {"@type": "Question", "name": "¿Dónde aparcar en Frigiliana?", "acceptedAnswer": {"@type": "Answer", "text": "En el aparcamiento municipal de la entrada del pueblo. El barrio morisco es peatonal."}}, {"@type": "Question", "name": "¿Qué distancia hay entre Nerja y Frigiliana?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 6 km, unos 10 minutos en coche. También hay autobús."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Andalucía</h2></div>
 <ul class="nearby"><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li></ul>

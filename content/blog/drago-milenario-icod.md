@@ -11,6 +11,18 @@ tags:
   - Curiosidades
   - Canarias
 wide: true
+faqTitulo: "Dudas sobre el Drago Milenario"
+faq:
+  - q: "¿Cuántos años tiene el Drago de Icod?"
+    a: "Su edad real es incierta; los cálculos más aceptados hablan de varios siglos, no de mil años."
+  - q: "¿Cuánto mide el Drago Milenario?"
+    a: "Unos 18 metros de alto y unos 20 metros de perímetro en la base."
+  - q: "¿Se paga por ver el Drago?"
+    a: "Verlo desde la plaza es gratis. Entrar al Parque del Drago es de pago."
+  - q: "¿Qué es la sangre de drago?"
+    a: "La resina roja que sale del tronco. Se ha usado como medicina y tinte."
+  - q: "¿Cómo llegar al Drago Milenario?"
+    a: "Está en Icod de los Vinos, en el norte de Tenerife, a unos 50 minutos en coche de Santa Cruz. Se ve desde la plaza de la iglesia."
 ---
 Parece un árbol sacado de la época de los dinosaurios. El **Drago Milenario** de Icod de los Vinos, en Tenerife, es el **drago más grande y longevo conocido del mundo**: unos **18 metros** de alto y 20 de perímetro en la base.
 
@@ -38,9 +50,7 @@ Te cuento su edad real (no es tan «milenario» como dice el nombre), sus leyend
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube a la plaza</b>: la de la iglesia de San Marcos tiene la mejor vista sin pagar.</li><li><b>Prueba los vinos</b>: Icod es zona de bodegas, de ahí su nombre.</li><li><b>Combínalo</b>: con Garachico y la Cueva del Viento, que están muy cerca.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Drago Milenario</h2></div>
-<div class="faq"><details><summary>¿Cuántos años tiene el Drago de Icod?</summary><p>Su edad real es incierta; los cálculos más aceptados hablan de varios siglos, no de mil años.</p></details><details><summary>¿Cuánto mide el Drago Milenario?</summary><p>Unos 18 metros de alto y unos 20 metros de perímetro en la base.</p></details><details><summary>¿Se paga por ver el Drago?</summary><p>Verlo desde la plaza es gratis. Entrar al Parque del Drago es de pago.</p></details><details><summary>¿Qué es la sangre de drago?</summary><p>La resina roja que sale del tronco. Se ha usado como medicina y tinte.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuántos años tiene el Drago de Icod?", "acceptedAnswer": {"@type": "Answer", "text": "Su edad real es incierta; los cálculos más aceptados hablan de varios siglos, no de mil años."}}, {"@type": "Question", "name": "¿Cuánto mide el Drago Milenario?", "acceptedAnswer": {"@type": "Answer", "text": "Unos 18 metros de alto y unos 20 metros de perímetro en la base."}}, {"@type": "Question", "name": "¿Se paga por ver el Drago?", "acceptedAnswer": {"@type": "Answer", "text": "Verlo desde la plaza es gratis. Entrar al Parque del Drago es de pago."}}, {"@type": "Question", "name": "¿Qué es la sangre de drago?", "acceptedAnswer": {"@type": "Answer", "text": "La resina roja que sale del tronco. Se ha usado como medicina y tinte."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/mirador-de-chipeque-tenerife.html"><img src="/assets/img/instagram/18075135229685841.webp" alt="Mirador de Chipeque" loading="lazy" decoding="async" /><span>Mirador de Chipeque</span></a></li><li><a href="/blog/barranco-del-infierno-tenerife.html"><img src="/assets/img/blog/barranco-del-infierno-tenerife/portada.webp" alt="Barranco del Infierno" loading="lazy" decoding="async" /><span>Barranco del Infierno</span></a></li><li><a href="/blog/lago-martianez-puerto-de-la-cruz.html"><img src="/assets/img/instagram/17940651440967325.webp" alt="Lago Martiánez" loading="lazy" decoding="async" /><span>Lago Martiánez</span></a></li></ul>

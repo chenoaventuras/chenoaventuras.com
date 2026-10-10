@@ -15,6 +15,16 @@ tags:
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+faqTitulo: "Dudas sobre la Senda de los Cazadores"
+faq:
+  - q: "¿Cuánto se tarda en subir la Senda de los Cazadores?"
+    a: "Son unos 2,1 km con 630 metros de desnivel. Según tu ritmo, entre una hora y media y dos horas hasta el mirador de Calcilarruego."
+  - q: "¿Es peligrosa la Senda de los Cazadores?"
+    a: "No es técnica ni aérea en la subida, pero es muy empinada. La Faja de Pelay, si sigues por ella, va a media pared y no se recomienda con vértigo."
+  - q: "¿A qué altura está el mirador de Calcilarruego?"
+    a: "A 1.949 metros, unos 630 metros por encima de la Pradera de Ordesa."
+  - q: "¿Se puede hacer circular con la Cola de Caballo?"
+    a: "Sí: Senda de los Cazadores, Faja de Pelay, Cola de Caballo y vuelta por el río Arazas. Calcula unas 7 horas."
 ---
 Hay rutas que se ganan las vistas a pulso, y la **Senda de los Cazadores** es la reina. En solo 2 kilómetros sube más de 600 metros en zigzag desde la Pradera de Ordesa hasta el **mirador de Calcilarruego**, un balcón a casi 2.000 metros desde el que ves todo el valle de Ordesa con Monte Perdido al fondo.
 
@@ -43,9 +53,7 @@ La foto de portada es mía, en el mirador, y te aseguro que las piernas se olvid
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Sube con fresco</b> — la subida va por la cara que da el sol: mejor a primera hora.</li><li><b>Bastones</b> — se agradecen muchísimo en la bajada si vuelves por el mismo camino.</li><li><b>Agua de sobra</b> — en la subida no hay fuentes y se suda mucho.</li><li><b>Haz la circular</b> — si vas con tiempo y fuerzas: Faja de Pelay y Cola de Caballo en un solo día.</li></ul><p>Mi consejo: sube por la Senda de los Cazadores y baja por el río. Así las cuestas te pillan frescas y las cascadas, de premio final 🏆</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre la Senda de los Cazadores</h2></div>
-<div class="faq"><details><summary>¿Cuánto se tarda en subir la Senda de los Cazadores?</summary><p>Son unos 2,1 km con 630 metros de desnivel. Según tu ritmo, entre una hora y media y dos horas hasta el mirador de Calcilarruego.</p></details><details><summary>¿Es peligrosa la Senda de los Cazadores?</summary><p>No es técnica ni aérea en la subida, pero es muy empinada. La Faja de Pelay, si sigues por ella, va a media pared y no se recomienda con vértigo.</p></details><details><summary>¿A qué altura está el mirador de Calcilarruego?</summary><p>A 1.949 metros, unos 630 metros por encima de la Pradera de Ordesa.</p></details><details><summary>¿Se puede hacer circular con la Cola de Caballo?</summary><p>Sí: Senda de los Cazadores, Faja de Pelay, Cola de Caballo y vuelta por el río Arazas. Calcula unas 7 horas.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto se tarda en subir la Senda de los Cazadores?", "acceptedAnswer": {"@type": "Answer", "text": "Son unos 2,1 km con 630 metros de desnivel. Según tu ritmo, entre una hora y media y dos horas hasta el mirador de Calcilarruego."}}, {"@type": "Question", "name": "¿Es peligrosa la Senda de los Cazadores?", "acceptedAnswer": {"@type": "Answer", "text": "No es técnica ni aérea en la subida, pero es muy empinada. La Faja de Pelay, si sigues por ella, va a media pared y no se recomienda con vértigo."}}, {"@type": "Question", "name": "¿A qué altura está el mirador de Calcilarruego?", "acceptedAnswer": {"@type": "Answer", "text": "A 1.949 metros, unos 630 metros por encima de la Pradera de Ordesa."}}, {"@type": "Question", "name": "¿Se puede hacer circular con la Cola de Caballo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí: Senda de los Cazadores, Faja de Pelay, Cola de Caballo y vuelta por el río Arazas. Calcula unas 7 horas."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando Ordesa</h2></div>
 <ul class="nearby"><li><a href="/blog/ruta-cola-de-caballo-ordesa.html"><img src="/assets/img/instagram/18124961662670705.webp" alt="Ruta a la Cola de Caballo" loading="lazy" decoding="async" /><span>Ruta a la Cola de Caballo</span></a></li><li><a href="/blog/cascada-del-sorrosal-broto.html"><img src="/assets/img/instagram/17998790027794852.webp" alt="Cascada del Sorrosal" loading="lazy" decoding="async" /><span>Cascada del Sorrosal</span></a></li><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Qué ver en Aínsa" loading="lazy" decoding="async" /><span>Qué ver en Aínsa</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>

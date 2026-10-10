@@ -11,6 +11,18 @@ tags:
   - Actividades
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DKP5_zQIwIo/'
+faqTitulo: "Dudas sobre el vuelo en globo"
+faq:
+  - q: "¿Cuánto cuesta un vuelo en globo en Segovia?"
+    a: "Desde unos 170 € por persona, con brindis de cava, desayuno campestre y certificado de vuelo. Suele haber promociones de última hora."
+  - q: "¿Cuánto dura el vuelo en globo en Segovia?"
+    a: "El vuelo dura alrededor de 1 hora, pero toda la experiencia ronda las 3 horas."
+  - q: "¿Qué se ve desde el globo en Segovia?"
+    a: "El acueducto romano, el Alcázar, la catedral y los campos de Castilla alrededor de la ciudad."
+  - q: "¿Qué llevar a un vuelo en globo?"
+    a: "Ropa cómoda, calzado cerrado y algo de abrigo, porque se vuela al amanecer y hace fresco."
+  - q: "¿Dónde sale el globo en Segovia?"
+    a: "El punto de encuentro suele estar frente al hospital de Segovia; te dan la ubicación exacta al reservar."
 ---
 Ver el acueducto romano, el Alcázar y la catedral de Segovia desde el aire, flotando en silencio sobre la ciudad, es una experiencia que mezcla aventura, vistas espectaculares y una sensación de libertad difícil de igualar desde tierra.
 
@@ -39,5 +51,8 @@ Conviene llevar ropa cómoda, calzado cerrado (nada de tacones) y algo de abrigo
 ## Cómo llegar
 
 El punto de encuentro suele estar frente al hospital de Segovia, con la ubicación exacta facilitada al hacer la reserva. Puedes consultar la ciudad en [Google Maps](https://www.google.com/maps/search/?api=1&query=Segovia).
+
+<!--faq-->
+
 
 ¿Te animarías a volar en globo sobre Segovia? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más experiencias únicas por España, y échale un vistazo al resto del blog para tu próxima aventura.

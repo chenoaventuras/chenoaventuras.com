@@ -15,6 +15,19 @@ tags:
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+faq:
+  - q: "¿Qué ver en Aínsa?"
+    a: "La Plaza Mayor porticada, el castillo con el Ecomuseo de la Fauna Pirenaica, la iglesia románica de Santa María y las calles empedradas del casco antiguo, declarado Conjunto Histórico-Artístico."
+  - q: "¿Cuánto tiempo hace falta para ver Aínsa?"
+    a: "Con medio día se ve con calma. Mucha gente la usa como base para visitar Ordesa, Añisclo y Pineta."
+  - q: "¿Cuándo es La Morisma de Aínsa?"
+    a: "Se celebra los años pares, el domingo más próximo al 14 de septiembre, en la Plaza Mayor."
+  - q: "¿Por qué Aínsa es tan famosa?"
+    a: "Por su casco medieval tan bien conservado: en 2023 National Geographic la eligió como el pueblo más bonito de España."
+  - q: "¿Dónde aparcar en Aínsa?"
+    a: "En los aparcamientos de la parte baja del pueblo: el casco antiguo es peatonal y se sube andando en pocos minutos."
+  - q: "¿Cómo llegar a Aínsa?"
+    a: "En coche: está en la comarca del Sobrarbe (Huesca), a unos 50 minutos de Torla y Ordesa y a unas dos horas de Zaragoza."
 ---
 Calles empedradas, casas de piedra, una plaza medieval con soportales y las montañas del Pirineo de fondo: **Aínsa** es de esos pueblos que parecen detenidos en el tiempo. En 2023, National Geographic lo eligió como **el pueblo más bonito de España**, y forma parte de la red de Los Pueblos Más Bonitos de España.
 
@@ -45,9 +58,7 @@ Está en la comarca del **Sobrarbe**, donde se juntan los ríos Cinca y Ara, y e
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Ve a última hora</b> — la luz del atardecer en la plaza y las murallas es preciosa.</li><li><b>Sube a la torre</b> — del castillo o de la iglesia para ver el pueblo y el Pirineo desde arriba.</li><li><b>Úsala de base</b> — para Ordesa, Añisclo y Pineta: está a menos de una hora de todo.</li><li><b>Mira el calendario</b> — si coincides con La Morisma, en años pares a mediados de septiembre.</li></ul><p>Mi plan ideal: ruta por Ordesa por la mañana y cena en la Plaza Mayor de Aínsa por la noche 🌙</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Aínsa</h2></div>
-<div class="faq"><details><summary>¿Qué ver en Aínsa?</summary><p>La Plaza Mayor porticada, el castillo con el Ecomuseo de la Fauna Pirenaica, la iglesia románica de Santa María y las calles empedradas del casco antiguo, declarado Conjunto Histórico-Artístico.</p></details><details><summary>¿Cuánto tiempo hace falta para ver Aínsa?</summary><p>Con medio día se ve con calma. Mucha gente la usa como base para visitar Ordesa, Añisclo y Pineta.</p></details><details><summary>¿Cuándo es La Morisma de Aínsa?</summary><p>Se celebra los años pares, el domingo más próximo al 14 de septiembre, en la Plaza Mayor.</p></details><details><summary>¿Por qué Aínsa es tan famosa?</summary><p>Por su casco medieval tan bien conservado: en 2023 National Geographic la eligió como el pueblo más bonito de España.</p></details><details><summary>¿Dónde aparcar en Aínsa?</summary><p>En los aparcamientos de la parte baja del pueblo: el casco antiguo es peatonal y se sube andando en pocos minutos.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué ver en Aínsa?", "acceptedAnswer": {"@type": "Answer", "text": "La Plaza Mayor porticada, el castillo con el Ecomuseo de la Fauna Pirenaica, la iglesia románica de Santa María y las calles empedradas del casco antiguo, declarado Conjunto Histórico-Artístico."}}, {"@type": "Question", "name": "¿Cuánto tiempo hace falta para ver Aínsa?", "acceptedAnswer": {"@type": "Answer", "text": "Con medio día se ve con calma. Mucha gente la usa como base para visitar Ordesa, Añisclo y Pineta."}}, {"@type": "Question", "name": "¿Cuándo es La Morisma de Aínsa?", "acceptedAnswer": {"@type": "Answer", "text": "Se celebra los años pares, el domingo más próximo al 14 de septiembre, en la Plaza Mayor."}}, {"@type": "Question", "name": "¿Por qué Aínsa es tan famosa?", "acceptedAnswer": {"@type": "Answer", "text": "Por su casco medieval tan bien conservado: en 2023 National Geographic la eligió como el pueblo más bonito de España."}}, {"@type": "Question", "name": "¿Dónde aparcar en Aínsa?", "acceptedAnswer": {"@type": "Answer", "text": "En los aparcamientos de la parte baja del pueblo: el casco antiguo es peatonal y se sube andando en pocos minutos."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando el Pirineo</h2></div>
 <ul class="nearby"><li><a href="/blog/ruta-cola-de-caballo-ordesa.html"><img src="/assets/img/instagram/18124961662670705.webp" alt="Ruta a la Cola de Caballo" loading="lazy" decoding="async" /><span>Ruta a la Cola de Caballo</span></a></li><li><a href="/blog/cascada-del-sorrosal-broto.html"><img src="/assets/img/instagram/17998790027794852.webp" alt="Cascada del Sorrosal" loading="lazy" decoding="async" /><span>Cascada del Sorrosal</span></a></li><li><a href="/blog/senda-de-los-cazadores-ordesa.html"><img src="/assets/img/blog/pirineo/calcilarruego.webp" alt="Senda de los Cazadores" loading="lazy" decoding="async" /><span>Senda de los Cazadores</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>

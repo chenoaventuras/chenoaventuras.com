@@ -11,6 +11,16 @@ tags:
   - Spots
   - Castilla-La Mancha
 igPermalink: 'https://www.instagram.com/p/DMtB3-VI4mr/'
+faqTitulo: "Dudas sobre la Piedra del Rey Moro"
+faq:
+  - q: "¿Dónde está la Piedra del Rey Moro?"
+    a: "En el valle del Tajo, frente al casco histórico de Toledo, a 5 minutos andando del Mirador del Valle."
+  - q: "¿Cuánto se tarda en llegar a la Piedra del Rey Moro?"
+    a: "5 minutos desde el Mirador del Valle, o unos 45 minutos andando desde el casco histórico o el Puente de San Martín."
+  - q: "¿Cuál es la leyenda de la Piedra del Rey Moro?"
+    a: "Cuenta que desde aquí se lanzó al vacío el último rey musulmán de Toledo, antes que rendirse tras perder la ciudad."
+  - q: "¿Se puede ir con niños o perros a la Piedra del Rey Moro?"
+    a: "No es lo más recomendable con niños pequeños o perros: el terreno es irregular y tiene algo de desnivel. Y no hay fuentes, lleva agua."
 ---
 Junto al Tajo, en pleno valle que rodea Toledo, hay una roca solitaria que carga con una de las leyendas más dramáticas de la ciudad. Se llama la Piedra del Rey Moro, y su historia es tan interesante como las vistas que ofrece.
 
@@ -39,5 +49,8 @@ La primavera y el otoño son las estaciones más recomendables. En verano, mejor
 ## Cómo llegar
 
 La Piedra del Rey Moro se encuentra en el valle del Tajo, muy cerca del casco histórico de Toledo. Puedes consultar la ubicación del Mirador del Valle en [Google Maps](https://www.google.com/maps/search/?api=1&query=Mirador%20del%20Valle%2C%20Toledo).
+
+<!--faq-->
+
 
 ¿Conocías la leyenda de la Piedra del Rey Moro? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones con historia, y échale un vistazo al resto del blog para tu próxima escapada.

@@ -222,6 +222,13 @@ function readPosts() {
       pinnedOrder: typeof data.pinnedOrder === "number" ? data.pinnedOrder : null,
       // wide: true → el cuerpo ocupa todo el ancho del contenedor (guías con tarjetas)
       wide: data.wide === true,
+      // coche: true/false fuerza o quita el bloque de alquiler de coche (por defecto, solo en islas)
+      coche: typeof data.coche === "boolean" ? data.coche : null,
+      // faq: [{ q, a }] → bloque «Preguntas frecuentes» al final y FAQPage en el JSON-LD
+      faq: Array.isArray(data.faq)
+        ? data.faq.filter((f) => f && f.q && f.a).map((f) => ({ q: String(f.q).trim(), a: String(f.a).trim() }))
+        : [],
+      faqTitulo: data.faqTitulo ? String(data.faqTitulo).trim() : "",
       html,
       url: `${SITE}/blog/${slug}.html`,
     });
@@ -378,6 +385,29 @@ function guideBox(p) {
 `;
 }
 
+// texto plano para el JSON-LD (sin markdown)
+const plain = (s) => marked.parseInline(s).replace(/<[^>]+>/g, "").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&amp;/g, "&");
+
+// recomendación de DiscoverCars (afiliado) en los posts donde moverse en coche es casi obligatorio
+const CAR_TAGS = ["Canarias", "Islas Baleares"];
+function carBox(p) {
+  const isIsland = p.tags.some((t) => CAR_TAGS.includes(t));
+  if (!(p.coche ?? isIsland)) return "";
+  const where = isIsland ? "Para moverte por la isla" : "Para llegar y moverte por la zona";
+  return `
+<div class="article__callout article__callout--booking">🚗 <strong>${where}, lo más cómodo es alquilar coche.</strong> Yo comparo precios en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis. <a class="btn" href="https://www.discovercars.com/?a_aid=chenoaventuras" target="_blank" rel="sponsored noopener">Ver coches en DiscoverCars</a></div>
+`;
+}
+
+function faqBox(p) {
+  if (!p.faq.length) return "";
+  const title = p.faqTitulo || `Dudas sobre ${p.lugar || p.title}`;
+  return `
+<div class="guide__head" id="preguntas-frecuentes"><span class="eyebrow">Preguntas frecuentes</span><h2>${esc(title)}</h2></div>
+<div class="faq">${p.faq.map((f) => `<details><summary>${esc(f.q)}</summary><p>${marked.parseInline(f.a)}</p></details>`).join("")}</div>
+`;
+}
+
 function renderPost(p, tagColorMap, nextPost, related = [], destino = null) {
   const coverAbs = p.cover ? (p.cover.startsWith("http") ? p.cover : SITE + p.cover) : "";
   const regionTag = p.tags.find((t) => !TAG_TYPES.includes(t));
@@ -435,6 +465,18 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null) {
             { "@type": "ListItem", position: 3, name: p.title, item: p.url },
           ],
         },
+        ...(p.faq.length
+          ? [
+              {
+                "@type": "FAQPage",
+                mainEntity: p.faq.map((f) => ({
+                  "@type": "Question",
+                  name: f.q,
+                  acceptedAnswer: { "@type": "Answer", text: plain(f.a) },
+                })),
+              },
+            ]
+          : []),
       ],
     },
     null,
@@ -472,7 +514,7 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null) {
       <section class="section">
         <div class="container">
 ${p.html.includes("<!--guia-->") ? "" : guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
-${p.html.replace("<!--guia-->", () => guideBox(p))}
+${(p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", () => guideBox(p)).replace("<!--faq-->", () => carBox(p) + faqBox(p))}
           </div>
 ${authorBox()}${
   related.length

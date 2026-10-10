@@ -11,6 +11,17 @@ tags:
   - Spots
   - Cataluña
 wide: true
+faq:
+  - q: "¿Cómo se llega a Montserrat desde Barcelona?"
+    a: "En tren FGC (línea R5) desde Plaça Espanya hasta Monistrol, donde se coge el cremallera, o hasta Montserrat-Aeri, para subir en teleférico. También se puede ir en coche."
+  - q: "¿Hay que pagar para entrar al monasterio de Montserrat?"
+    a: "No, el recinto y la basílica son gratuitos. Se pagan los transportes, el museo y algunas visitas."
+  - q: "¿Qué es mejor, cremallera o Aeri?"
+    a: "El cremallera es más cómodo y tiene vistas del valle; el Aeri es más rápido y emocionante. Ambos llegan al monasterio."
+  - q: "¿Cuál es el punto más alto de Montserrat?"
+    a: "Sant Jeroni, al que se llega por un sendero desde el funicular de Sant Joan."
+  - q: "¿Se puede ir a Montserrat en coche?"
+    a: "Sí, puedes subir en coche hasta el aparcamiento del monasterio. Está a unos 60 km de Barcelona, una hora."
 ---
 Una montaña de roca con forma de sierra, llena de agujas gigantes, y encajado en ella a 700 metros de altura, un monasterio con mil años de historia. **Montserrat** es la gran escapada desde Barcelona: un sitio para devotos de la **Moreneta**, para amantes del senderismo y para escaladores de todo el mundo.
 
@@ -41,9 +52,7 @@ Te cuento cómo llegar, qué ver y qué ruta hacer para subir a lo más alto �
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Coge el primer tren</b>: a media mañana llegan los autobuses de excursiones.</li><li><b>Sube en funicular y vuelve andando</b>: bajar desde Sant Joan al monasterio a pie es precioso y fácil.</li><li><b>Ve a Sant Jeroni</b>: la ruta desde el funicular de Sant Joan es de las más bonitas de Cataluña.</li><li><b>Mira el estado de los funiculares</b>: a veces cierran por mantenimiento: consúltalo antes de ir.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Montserrat</h2></div>
-<div class="faq"><details><summary>¿Cómo se llega a Montserrat desde Barcelona?</summary><p>En tren FGC (línea R5) desde Plaça Espanya hasta Monistrol, donde se coge el cremallera, o hasta Montserrat-Aeri, para subir en teleférico. También se puede ir en coche.</p></details><details><summary>¿Hay que pagar para entrar al monasterio de Montserrat?</summary><p>No, el recinto y la basílica son gratuitos. Se pagan los transportes, el museo y algunas visitas.</p></details><details><summary>¿Qué es mejor, cremallera o Aeri?</summary><p>El cremallera es más cómodo y tiene vistas del valle; el Aeri es más rápido y emocionante. Ambos llegan al monasterio.</p></details><details><summary>¿Cuál es el punto más alto de Montserrat?</summary><p>Sant Jeroni, al que se llega por un sendero desde el funicular de Sant Joan.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cómo se llega a Montserrat desde Barcelona?", "acceptedAnswer": {"@type": "Answer", "text": "En tren FGC (línea R5) desde Plaça Espanya hasta Monistrol, donde se coge el cremallera, o hasta Montserrat-Aeri, para subir en teleférico. También se puede ir en coche."}}, {"@type": "Question", "name": "¿Hay que pagar para entrar al monasterio de Montserrat?", "acceptedAnswer": {"@type": "Answer", "text": "No, el recinto y la basílica son gratuitos. Se pagan los transportes, el museo y algunas visitas."}}, {"@type": "Question", "name": "¿Qué es mejor, cremallera o Aeri?", "acceptedAnswer": {"@type": "Answer", "text": "El cremallera es más cómodo y tiene vistas del valle; el Aeri es más rápido y emocionante. Ambos llegan al monasterio."}}, {"@type": "Question", "name": "¿Cuál es el punto más alto de Montserrat?", "acceptedAnswer": {"@type": "Answer", "text": "Sant Jeroni, al que se llega por un sendero desde el funicular de Sant Joan."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más montaña</span><h2>Más aventuras de montaña</h2></div>
 <ul class="nearby"><li><a href="/blog/teide.html"><img src="/assets/img/blog/teide/portada.webp" alt="Subir al Teide" loading="lazy" decoding="async" /><span>Subir al Teide</span></a></li><li><a href="/blog/sierra-de-gredos.html"><img src="/assets/img/blog/sierra-de-gredos/portada.webp" alt="Laguna Grande de Gredos" loading="lazy" decoding="async" /><span>Laguna Grande de Gredos</span></a></li><li><a href="/blog/via-ferrata-ventano-del-diablo.html"><img src="/assets/img/instagram/18046706486419072.webp" alt="Vía ferrata del Ventano del Diablo" loading="lazy" decoding="async" /><span>Vía ferrata del Ventano del Diablo</span></a></li></ul>

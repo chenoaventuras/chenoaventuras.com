@@ -11,6 +11,18 @@ tags:
   - Spots
   - Comunidad de Madrid
 wide: true
+faqTitulo: "Dudas sobre el Templo de Debod"
+faq:
+  - q: "¿Hay que reservar para entrar al Templo de Debod?"
+    a: "No para visitas individuales: se entra por orden de llegada. Los grupos sí deben reservar."
+  - q: "¿Cuánto cuesta entrar al Templo de Debod?"
+    a: "Es gratis, tanto el interior como el exterior."
+  - q: "¿Qué horario tiene el Templo de Debod?"
+    a: "El interior abre de martes a domingo (cierra los lunes) y el horario cambia entre verano e invierno. El exterior está abierto siempre."
+  - q: "¿Por qué hay un templo egipcio en Madrid?"
+    a: "Egipto lo regaló a España en 1968 por su ayuda para salvar los templos de Nubia de la presa de Asuán."
+  - q: "¿Dónde está el Templo de Debod?"
+    a: "En el Parque del Oeste de Madrid, junto a Plaza de España, en la calle Ferraz."
 ---
 Tiene más de **2.000 años**, viene de las orillas del **Nilo** y está en pleno centro de **Madrid**. El **Templo de Debod** es un templo egipcio auténtico, piedra a piedra, y su atardecer es uno de los más famosos de la ciudad.
 
@@ -39,9 +51,7 @@ Te cuento su historia y cómo visitarlo (también por dentro) 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Entra por la mañana</b>: el interior tiene aforo muy pequeño y por la tarde se hacen colas.</li><li><b>Ojo con los lunes</b>: el interior cierra los lunes (el exterior está siempre abierto).</li><li><b>Atardecer</b>: llega con tiempo para coger sitio en el mirador.</li><li><b>Combínalo</b>: con el Palacio Real, los jardines de Sabatini y el teleférico.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre el Templo de Debod</h2></div>
-<div class="faq"><details><summary>¿Hay que reservar para entrar al Templo de Debod?</summary><p>No para visitas individuales: se entra por orden de llegada. Los grupos sí deben reservar.</p></details><details><summary>¿Cuánto cuesta entrar al Templo de Debod?</summary><p>Es gratis, tanto el interior como el exterior.</p></details><details><summary>¿Qué horario tiene el Templo de Debod?</summary><p>El interior abre de martes a domingo (cierra los lunes) y el horario cambia entre verano e invierno. El exterior está abierto siempre.</p></details><details><summary>¿Por qué hay un templo egipcio en Madrid?</summary><p>Egipto lo regaló a España en 1968 por su ayuda para salvar los templos de Nubia de la presa de Asuán.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Hay que reservar para entrar al Templo de Debod?", "acceptedAnswer": {"@type": "Answer", "text": "No para visitas individuales: se entra por orden de llegada. Los grupos sí deben reservar."}}, {"@type": "Question", "name": "¿Cuánto cuesta entrar al Templo de Debod?", "acceptedAnswer": {"@type": "Answer", "text": "Es gratis, tanto el interior como el exterior."}}, {"@type": "Question", "name": "¿Qué horario tiene el Templo de Debod?", "acceptedAnswer": {"@type": "Answer", "text": "El interior abre de martes a domingo (cierra los lunes) y el horario cambia entre verano e invierno. El exterior está abierto siempre."}}, {"@type": "Question", "name": "¿Por qué hay un templo egipcio en Madrid?", "acceptedAnswer": {"@type": "Answer", "text": "Egipto lo regaló a España en 1968 por su ayuda para salvar los templos de Nubia de la presa de Asuán."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/madrid-fantasmas-leyendas.html"><img src="/assets/img/blog/madrid-fantasmas-leyendas/portada.webp" alt="Madrid" loading="lazy" decoding="async" /><span>Madrid</span></a></li><li><a href="/blog/capilla-sixtina-madrilena-san-antonio-alemanes.html"><img src="/assets/img/instagram/18083171645586039.webp" alt="San Antonio de los Alemanes" loading="lazy" decoding="async" /><span>San Antonio de los Alemanes</span></a></li><li><a href="/blog/catedral-de-justo.html"><img src="/assets/img/blog/catedral-de-justo/portada.webp" alt="Catedral de Justo" loading="lazy" decoding="async" /><span>Catedral de Justo</span></a></li></ul>

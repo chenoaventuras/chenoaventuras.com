@@ -17,6 +17,20 @@ igPermalink: 'https://www.instagram.com/reel/DZqD7LhNvuV/'
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+faqTitulo: "Dudas sobre las Pasarelas de Panticosa"
+faq:
+  - q: "¿Cuánto cuestan las Pasarelas de Panticosa?"
+    a: "3 € si compras la entrada online y 4 € en la máquina de tickets del inicio del recorrido."
+  - q: "¿Qué horario tienen las Pasarelas de Panticosa?"
+    a: "Del 13 de junio al 13 de septiembre abren todos los días de 10:00 a 17:40. El resto de la temporada, solo fines de semana y festivos, y cierran del 2 de noviembre a principios de abril."
+  - q: "¿Cuánto dura la ruta de las Pasarelas de Panticosa?"
+    a: "Es una ruta circular de aproximadamente una hora, pasando por el mirador O Calvé."
+  - q: "¿Pueden ir niños a las Pasarelas de Panticosa?"
+    a: "Sí, a partir de 7 años y con una altura mínima de 1,30 metros."
+  - q: "¿Se puede ir con perro o con carrito?"
+    a: "No, no se permiten mascotas, carritos ni mochilas grandes."
+  - q: "¿Cómo llegar a Panticosa?"
+    a: "En coche por el Valle de Tena (Huesca), a unos 40 minutos de Jaca y algo más de una hora de Huesca."
 ---
 Puentes colgantes sobre el **río Caldarés**, rodeados de montañas y desfiladeros, con vistas que dan algo de vértigo incluso a quien no suele tenerlo: así son las **Pasarelas de Panticosa**, una de las rutas más espectaculares y accesibles del <a href="/blog/pirineo-aragones-que-ver.html">Pirineo Aragonés</a>.
 
@@ -47,9 +61,7 @@ Te las enseño en vídeo 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlas al máximo</h2><ul><li><b>Compra online</b> — son 3 € en vez de 4 y te aseguras la hora con el aforo limitado.</li><li><b>Ve a primera hora</b> — con menos gente se disfruta mucho más cada pasarela.</li><li><b>Agua y calzado cómodo</b> — no hay fuentes y hay algo de desnivel.</li><li><b>Combínalas</b> — con el Balneario de Panticosa y la Cascada de Forronías, muy cerca.</li></ul><p>Si te da vértigo, mira al frente y no al río… o mira al río, que para eso has venido 😅</p></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre las Pasarelas de Panticosa</h2></div>
-<div class="faq"><details><summary>¿Cuánto cuestan las Pasarelas de Panticosa?</summary><p>3 € si compras la entrada online y 4 € en la máquina de tickets del inicio del recorrido.</p></details><details><summary>¿Qué horario tienen las Pasarelas de Panticosa?</summary><p>Del 13 de junio al 13 de septiembre abren todos los días de 10:00 a 17:40. El resto de la temporada, solo fines de semana y festivos, y cierran del 2 de noviembre a principios de abril.</p></details><details><summary>¿Cuánto dura la ruta de las Pasarelas de Panticosa?</summary><p>Es una ruta circular de aproximadamente una hora, pasando por el mirador O Calvé.</p></details><details><summary>¿Pueden ir niños a las Pasarelas de Panticosa?</summary><p>Sí, a partir de 7 años y con una altura mínima de 1,30 metros.</p></details><details><summary>¿Se puede ir con perro o con carrito?</summary><p>No, no se permiten mascotas, carritos ni mochilas grandes.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Cuánto cuestan las Pasarelas de Panticosa?", "acceptedAnswer": {"@type": "Answer", "text": "3 € si compras la entrada online y 4 € en la máquina de tickets del inicio del recorrido."}}, {"@type": "Question", "name": "¿Qué horario tienen las Pasarelas de Panticosa?", "acceptedAnswer": {"@type": "Answer", "text": "Del 13 de junio al 13 de septiembre abren todos los días de 10:00 a 17:40. El resto de la temporada, solo fines de semana y festivos, y cierran del 2 de noviembre a principios de abril."}}, {"@type": "Question", "name": "¿Cuánto dura la ruta de las Pasarelas de Panticosa?", "acceptedAnswer": {"@type": "Answer", "text": "Es una ruta circular de aproximadamente una hora, pasando por el mirador O Calvé."}}, {"@type": "Question", "name": "¿Pueden ir niños a las Pasarelas de Panticosa?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, a partir de 7 años y con una altura mínima de 1,30 metros."}}, {"@type": "Question", "name": "¿Se puede ir con perro o con carrito?", "acceptedAnswer": {"@type": "Answer", "text": "No, no se permiten mascotas, carritos ni mochilas grandes."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando el Valle de Tena</h2></div>
 <ul class="nearby"><li><a href="/blog/balneario-de-panticosa.html"><img src="/assets/img/instagram/18057693635513557.webp" alt="Balneario de Panticosa" loading="lazy" decoding="async" /><span>Balneario de Panticosa</span></a></li><li><a href="/blog/lanuza-pueblo-embalse-huesca.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Lanuza" loading="lazy" decoding="async" /><span>Lanuza</span></a></li><li><a href="/blog/ibon-de-anayet.html"><img src="/assets/img/blog/pirineo/anayet.webp" alt="Ibón de Anayet" loading="lazy" decoding="async" /><span>Ibón de Anayet</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>

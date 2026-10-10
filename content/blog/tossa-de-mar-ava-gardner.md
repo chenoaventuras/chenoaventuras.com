@@ -11,6 +11,17 @@ tags:
   - Curiosidades
   - Cataluña
 wide: true
+faq:
+  - q: "¿Qué película rodó Ava Gardner en Tossa?"
+    a: "«Pandora y el holandés errante» (1951), rodada en 1950 con James Mason."
+  - q: "¿Dónde está la estatua de Ava Gardner?"
+    a: "En la Vila Vella de Tossa de Mar, inaugurada en 1998."
+  - q: "¿La Vila Vella es gratis?"
+    a: "Sí, se recorre libremente."
+  - q: "¿Qué más ver en Tossa?"
+    a: "La playa Gran, el faro, el camino de ronda y sus calas."
+  - q: "¿Cómo llegar a Tossa de Mar desde Barcelona?"
+    a: "En coche, en 1 hora y cuarto por la C-32 y Lloret de Mar."
 ---
 En **1950** llegó a un pequeño pueblo de la Costa Brava la actriz más famosa del momento: **Ava Gardner**. Venía a rodar *Pandora y el holandés errante* con James Mason. Desde entonces, **Tossa de Mar** tiene una **estatua** suya mirando al mar.
 
@@ -38,9 +49,7 @@ Te cuento la historia y qué ver en su espectacular **Vila Vella** amurallada �
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve temprano</b>: en verano la Vila Vella se llena.</li><li><b>Camino de ronda</b>: senderos costeros a calas escondidas.</li><li><b>Barco</b>: hay excursiones en barco a otras calas de la Costa Brava.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Tossa de Mar</h2></div>
-<div class="faq"><details><summary>¿Qué película rodó Ava Gardner en Tossa?</summary><p>«Pandora y el holandés errante» (1951), rodada en 1950 con James Mason.</p></details><details><summary>¿Dónde está la estatua de Ava Gardner?</summary><p>En la Vila Vella de Tossa de Mar, inaugurada en 1998.</p></details><details><summary>¿La Vila Vella es gratis?</summary><p>Sí, se recorre libremente.</p></details><details><summary>¿Qué más ver en Tossa?</summary><p>La playa Gran, el faro, el camino de ronda y sus calas.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué película rodó Ava Gardner en Tossa?", "acceptedAnswer": {"@type": "Answer", "text": "«Pandora y el holandés errante» (1951), rodada en 1950 con James Mason."}}, {"@type": "Question", "name": "¿Dónde está la estatua de Ava Gardner?", "acceptedAnswer": {"@type": "Answer", "text": "En la Vila Vella de Tossa de Mar, inaugurada en 1998."}}, {"@type": "Question", "name": "¿La Vila Vella es gratis?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, se recorre libremente."}}, {"@type": "Question", "name": "¿Qué más ver en Tossa?", "acceptedAnswer": {"@type": "Answer", "text": "La playa Gran, el faro, el camino de ronda y sus calas."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
 <ul class="nearby"><li><a href="/blog/cabo-de-creus.html"><img src="/assets/img/blog/cabo-de-creus/paisaje.webp" alt="Cabo de Creus" loading="lazy" decoding="async" /><span>Cabo de Creus</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li><li><a href="/blog/sagrada-familia.html"><img src="/assets/img/blog/sagrada-familia/portada.webp" alt="Sagrada Familia" loading="lazy" decoding="async" /><span>Sagrada Familia</span></a></li></ul>

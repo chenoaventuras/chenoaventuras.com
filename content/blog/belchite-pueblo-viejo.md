@@ -11,6 +11,19 @@ tags:
   - Spots
   - Aragón
 wide: true
+faq:
+  - q: "¿Se puede visitar el Pueblo Viejo de Belchite por libre?"
+    a: "No. Solo se puede entrar con visita guiada, de día o de noche. Las entradas se compran en belchite.es."
+  - q: "¿Qué pasó en Belchite?"
+    a: "En 1937 fue escenario de una dura batalla de la Guerra Civil. El pueblo quedó destruido y se dejó en ruinas como recuerdo, mientras se construía uno nuevo al lado."
+  - q: "¿Hay visitas nocturnas en Belchite?"
+    a: "Sí, con las ruinas iluminadas y relatos de misterio y leyendas. Las fechas se publican en la web oficial."
+  - q: "¿Qué películas se han rodado en Belchite?"
+    a: "Entre otras, Las aventuras del barón Munchausen, de Terry Gilliam."
+  - q: "¿Cómo llegar a Belchite desde Zaragoza?"
+    a: "En coche, unos 45 km y unos 40 minutos."
+  - q: "¿Cuánto dura la visita a Belchite?"
+    a: "La visita guiada dura alrededor de una hora. Las entradas se compran en belchite.es."
 ---
 Iglesias sin techo, calles llenas de escombros y fachadas agujereadas por las balas. El **Pueblo Viejo de Belchite** se quedó tal y como acabó la batalla de 1937, y lleva casi noventa años así.
 
@@ -40,9 +53,7 @@ Es uno de los lugares más impactantes de España, con fama de **pueblo fantasma
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz la visita nocturna</b>: es la que tiene más ambiente, pero se agota rápido.</li><li><b>Ve con respeto</b>: es un lugar de memoria donde murieron muchas personas.</li><li><b>Lleva agua y gorra en verano</b>: el sol de la estepa aprieta y apenas hay sombra.</li><li><b>Combínalo con la presa romana de Almonacid de la Cuba</b>: hay entrada conjunta y está muy cerca.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Belchite</h2></div>
-<div class="faq"><details><summary>¿Se puede visitar el Pueblo Viejo de Belchite por libre?</summary><p>No. Solo se puede entrar con visita guiada, de día o de noche. Las entradas se compran en belchite.es.</p></details><details><summary>¿Qué pasó en Belchite?</summary><p>En 1937 fue escenario de una dura batalla de la Guerra Civil. El pueblo quedó destruido y se dejó en ruinas como recuerdo, mientras se construía uno nuevo al lado.</p></details><details><summary>¿Hay visitas nocturnas en Belchite?</summary><p>Sí, con las ruinas iluminadas y relatos de misterio y leyendas. Las fechas se publican en la web oficial.</p></details><details><summary>¿Qué películas se han rodado en Belchite?</summary><p>Entre otras, Las aventuras del barón Munchausen, de Terry Gilliam.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Se puede visitar el Pueblo Viejo de Belchite por libre?", "acceptedAnswer": {"@type": "Answer", "text": "No. Solo se puede entrar con visita guiada, de día o de noche. Las entradas se compran en belchite.es."}}, {"@type": "Question", "name": "¿Qué pasó en Belchite?", "acceptedAnswer": {"@type": "Answer", "text": "En 1937 fue escenario de una dura batalla de la Guerra Civil. El pueblo quedó destruido y se dejó en ruinas como recuerdo, mientras se construía uno nuevo al lado."}}, {"@type": "Question", "name": "¿Hay visitas nocturnas en Belchite?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, con las ruinas iluminadas y relatos de misterio y leyendas. Las fechas se publican en la web oficial."}}, {"@type": "Question", "name": "¿Qué películas se han rodado en Belchite?", "acceptedAnswer": {"@type": "Answer", "text": "Entre otras, Las aventuras del barón Munchausen, de Terry Gilliam."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Aragón</h2></div>
 <ul class="nearby"><li><a href="/blog/monasterio-de-piedra.html"><img src="/assets/img/blog/monasterio-de-piedra/portada.webp" alt="Monasterio de Piedra" loading="lazy" decoding="async" /><span>Monasterio de Piedra</span></a></li><li><a href="/blog/bardenas-reales.html"><img src="/assets/img/blog/bardenas-reales/portada.webp" alt="Bardenas Reales" loading="lazy" decoding="async" /><span>Bardenas Reales</span></a></li><li><a href="/blog/avistamiento-de-buitres-sierra-de-guara.html"><img src="/assets/img/instagram/18167547529344269.webp" alt="Sierra de Guara" loading="lazy" decoding="async" /><span>Sierra de Guara</span></a></li></ul>

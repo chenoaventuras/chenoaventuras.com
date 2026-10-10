@@ -11,6 +11,17 @@ tags:
   - Pueblos
   - Cantabria
 wide: true
+faq:
+  - q: "¿Por qué Santillana del Mar es la villa de las tres mentiras?"
+    a: "Porque, según el dicho, ni es santa, ni es llana, ni tiene mar. El nombre viene de santa Juliana, el pueblo está en cuesta y queda tierra adentro."
+  - q: "¿Se puede visitar la Cueva de Altamira original?"
+    a: "La cueva original está cerrada al público general para proteger las pinturas. Se visita la Neocueva, una réplica exacta, en el Museo de Altamira."
+  - q: "¿Cuánto cuesta entrar al Museo de Altamira?"
+    a: "La entrada general cuesta unos 3 € y es gratis los sábados desde las 14:00 y los domingos. Cierra los lunes."
+  - q: "¿Dónde aparcar en Santillana del Mar?"
+    a: "En los aparcamientos de la entrada del pueblo. El casco histórico es peatonal."
+  - q: "¿A cuánto está Santillana del Mar de Santander?"
+    a: "A unos 30 km, media hora en coche por la A-67 hacia Torrelavega."
 ---
 Dicen que **Santillana del Mar** es la villa de las tres mentiras: **ni es santa, ni es llana, ni tiene mar**. Y aun así es uno de los pueblos más buscados de España, y en cuanto pisas sus calles empedradas entiendes por qué.
 
@@ -41,9 +52,7 @@ Casonas con escudos, balcones de madera llenos de flores, una colegiata románic
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve temprano o a última hora</b>: a media mañana llegan las excursiones y las calles se llenan.</li><li><b>Combínalo con Comillas</b>: está a 20 minutos y juntos hacen un día redondo.</li><li><b>Aprovecha la entrada gratis a Altamira</b>: los sábados por la tarde y los domingos no se paga.</li><li><b>Lleva calzado cómodo</b>: el empedrado es precioso pero irregular.</li></ul></div>
 
-<div class="guide__head"><span class="eyebrow">Preguntas frecuentes</span><h2>Dudas sobre Santillana del Mar</h2></div>
-<div class="faq"><details><summary>¿Por qué Santillana del Mar es la villa de las tres mentiras?</summary><p>Porque, según el dicho, ni es santa, ni es llana, ni tiene mar. El nombre viene de santa Juliana, el pueblo está en cuesta y queda tierra adentro.</p></details><details><summary>¿Se puede visitar la Cueva de Altamira original?</summary><p>La cueva original está cerrada al público general para proteger las pinturas. Se visita la Neocueva, una réplica exacta, en el Museo de Altamira.</p></details><details><summary>¿Cuánto cuesta entrar al Museo de Altamira?</summary><p>La entrada general cuesta unos 3 € y es gratis los sábados desde las 14:00 y los domingos. Cierra los lunes.</p></details><details><summary>¿Dónde aparcar en Santillana del Mar?</summary><p>En los aparcamientos de la entrada del pueblo. El casco histórico es peatonal.</p></details></div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Por qué Santillana del Mar es la villa de las tres mentiras?", "acceptedAnswer": {"@type": "Answer", "text": "Porque, según el dicho, ni es santa, ni es llana, ni tiene mar. El nombre viene de santa Juliana, el pueblo está en cuesta y queda tierra adentro."}}, {"@type": "Question", "name": "¿Se puede visitar la Cueva de Altamira original?", "acceptedAnswer": {"@type": "Answer", "text": "La cueva original está cerrada al público general para proteger las pinturas. Se visita la Neocueva, una réplica exacta, en el Museo de Altamira."}}, {"@type": "Question", "name": "¿Cuánto cuesta entrar al Museo de Altamira?", "acceptedAnswer": {"@type": "Answer", "text": "La entrada general cuesta unos 3 € y es gratis los sábados desde las 14:00 y los domingos. Cierra los lunes."}}, {"@type": "Question", "name": "¿Dónde aparcar en Santillana del Mar?", "acceptedAnswer": {"@type": "Answer", "text": "En los aparcamientos de la entrada del pueblo. El casco histórico es peatonal."}}]}</script>
+<!--faq-->
 
 <div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
 <ul class="nearby"><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/partenon-de-las-fraguas-cantabria.html"><img src="/assets/img/instagram/18073249217294344.webp" alt="Las Fraguas" loading="lazy" decoding="async" /><span>Las Fraguas</span></a></li><li><a href="/blog/aguilar-de-campoo-que-ver.html"><img src="/assets/img/instagram/17943610464165000.webp" alt="Aguilar de Campoo" loading="lazy" decoding="async" /><span>Aguilar de Campoo</span></a></li></ul>

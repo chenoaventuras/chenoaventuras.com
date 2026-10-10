@@ -10,6 +10,18 @@ tags:
   - Spots
   - Región de Murcia
 igPermalink: 'https://www.instagram.com/reel/DNTITyJI_Y8/'
+faqTitulo: "Dudas sobre la Fuente del Gorgotón"
+faq:
+  - q: "¿Dónde está la Fuente del Gorgotón?"
+    a: "En el término de Cieza (Región de Murcia), junto al río Segura."
+  - q: "¿Cómo llegar a la Fuente del Gorgotón?"
+    a: "Hay un parking de tierra cerca. Solo tienes que bajar y cruzar un puente metálico para llegar a la fuente."
+  - q: "¿Hay que pagar para ver la Fuente del Gorgotón?"
+    a: "No, es gratis y de acceso libre."
+  - q: "¿De dónde sale el agua de la Fuente del Gorgotón?"
+    a: "Del acuífero de Calasparra: el agua queda atrapada a unos 200 metros de profundidad y aquí brota con fuerza."
+  - q: "¿Cuándo ir a la Fuente del Gorgotón?"
+    a: "En primavera u otoño. En verano el sitio, que es pequeño, se llena con facilidad."
 ---
 Junto al río Segura, en pleno campo de Cieza, hay un rincón donde el agua sale con fuerza desde las profundidades de la tierra, rodeado de vegetación y silencio. Se llama Fuente del Gorgotón, y es una de esas paradas sencillas que merecen la pena solo por lo tranquilo que resulta el lugar.
 
@@ -38,5 +50,8 @@ El terreno puede ser algo irregular en ciertos tramos, por lo que no es un lugar
 ## Cómo llegar
 
 La Fuente del Gorgotón se encuentra en el término de Cieza, junto al río Segura. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Fuente%20del%20Gorgot%C3%B3n%2C%20Cieza%2C%20Murcia).
+
+<!--faq-->
+
 
 ¿Conocías la Fuente del Gorgotón? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones naturales de España, y échale un vistazo al resto del blog para tu próxima escapada.

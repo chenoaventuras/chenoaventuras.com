@@ -11,6 +11,15 @@ tags:
   - Pueblos
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/reel/DcZMPGpRAHv/'
+faq:
+  - q: "¿Dónde está Altea?"
+    a: "En la Costa Blanca, en la provincia de Alicante, entre Benidorm y Calpe. Desde el Mirador de los Cronistas, en días claros, se ve el perfil de Benidorm."
+  - q: "¿Qué ver en Altea?"
+    a: "La iglesia de Nuestra Señora del Consuelo y sus cúpulas azules, la calle Mayor, el Portal Vell, la calle de San Miguel y los miradores Blanco y de los Cronistas."
+  - q: "¿Se puede visitar la iglesia de las cúpulas azules de Altea?"
+    a: "Sí, suele abrir por la mañana y por la tarde, pero el horario cambia: compruébalo el mismo día si quieres entrar."
+  - q: "¿Por qué Altea está construida en lo alto?"
+    a: "Para protegerse de los ataques de los piratas berberiscos: por eso el casco antiguo creció hacia arriba y no pegado a la orilla."
 ---
 Hoy toca escapada a uno de los pueblos más fotografiados de la Costa Blanca: **Altea**. Casas blancas, calles empedradas que suben y bajan sin avisar, y el Mediterráneo asomando por cada esquina. Es de esos sitios que parecen sacados de una postal y que, aun así, merecen la pena en persona.
 
@@ -59,5 +68,7 @@ La gastronomía de la zona tira mucho hacia el arroz y el marisco, como en el re
 Con un día completo tienes de sobra para recorrer el casco antiguo, subir a los miradores, bajar al paseo marítimo y sentarte a comer con vistas al mar. Y si además coincides con el Castell de l'Olla, mejor que mejor.
 
 Y si te sobra media mañana, a media hora en coche tienes [Guadalest](/blog/guadalest-que-ver.html), uno de los pueblos más bonitos de España, colgado sobre su embalse.
+
+<!--faq-->
 
 Guarda este artículo para cuando toque planear la próxima escapada, y sígueme en [@chenoaventuras](https://www.instagram.com/chenoaventuras/) en Instagram — ahí suelo ir soltando los sitios antes de que lleguen aquí al blog.
