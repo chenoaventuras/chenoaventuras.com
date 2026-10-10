@@ -638,7 +638,8 @@
         data = { email: emailInput ? emailInput.value : "" };
       } else {
         data = {};
-        new FormData(f).forEach(function (v, k) { data[k] = v; });
+        // campos repetidos (p. ej. varios motivos marcados) se juntan en uno
+        new FormData(f).forEach(function (v, k) { data[k] = data[k] ? data[k] + ", " + v : v; });
       }
       if (btn) btn.disabled = true;
       fetch(endpoint, {

@@ -26,7 +26,7 @@
   <meta name="twitter:title" content="Sobre mí y contacto | Chenoaventuras" />
   <meta name="twitter:description" content="Soy Cheno, creador de Chenoaventuras: viajes, rutas y contenido audiovisual. Escríbeme para colaboraciones, proyectos con marcas o proponer un destino." />
   <meta name="twitter:image" content="https://www.chenoaventuras.com/assets/img/og-default.jpg" />
-  <link rel="stylesheet" href="assets/css/styles.css?v=20261011b" />
+  <link rel="stylesheet" href="assets/css/styles.css?v=20261011c" />
   <script>document.documentElement.classList.add("js");</script>
   <script type="application/ld+json">
   {
@@ -184,9 +184,20 @@
       </div>
     </section>
 
-    <!-- TIRA DE FOTOS -->
+    <!-- TIRA DE FOTOS + COCHE -->
     <section class="about-film" aria-label="Fotos de mis aventuras">
-      <div class="film" id="film"><div class="film__track"></div></div>
+      <div class="scene" aria-hidden="true"><div class="scene__img"></div><div class="scene__img"></div></div>
+      <div class="film film--cuerda" id="film"><div class="film__track"></div></div>
+      <div class="carlane">
+        <button class="road__car" type="button" aria-label="Tocar el claxon">
+            <span class="road__auto">
+              <img class="road__img" src="assets/img/ford-s-max.webp?v=5" alt="" width="640" height="233" loading="lazy" decoding="async" />
+              <img class="road__rueda road__rueda--tras" src="assets/img/ford-s-max-rueda-trasera.webp" alt="" width="220" height="220" loading="lazy" decoding="async" />
+              <img class="road__rueda road__rueda--del" src="assets/img/ford-s-max-rueda-delantera.webp" alt="" width="220" height="220" loading="lazy" decoding="async" />
+            </span>
+          <span class="road__honk" aria-hidden="true">¡pi-pí!</span>
+        </button>
+      </div>
     </section>
 
     <!-- TRABAJAR JUNTOS -->
@@ -221,16 +232,16 @@
         <div class="contact-block__head">
           <span class="eyebrow eyebrow--center">Contacto</span>
           <h2 class="title">¿En qué te <span class="accent">puedo ayudar</span>?</h2>
-          <p>Elige el motivo y cuéntame los detalles.</p>
+          <p>Elige uno o varios motivos y cuéntame los detalles.</p>
         </div>
 
         <form class="contact-block__form" data-demo>
           <fieldset class="contact-reasons">
-            <legend class="sr-only">Motivo del mensaje</legend>
-            <label><input type="radio" name="tipo" value="Contenido para marca" checked /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg><b>Marcas</b><small>Contenido y campañas para productos de viaje y outdoor.</small></span></label>
-            <label><input type="radio" name="tipo" value="Turismo y alojamientos" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 21h18M5 21V9l7-5 7 5v12"/><path d="M10 21v-6h4v6"/></svg><b>Turismo</b><small>Pueblos, oficinas de turismo, hoteles y casas rurales.</small></span></label>
-            <label><input type="radio" name="tipo" value="Foto / vídeo con dron" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="5" cy="5" r="2.5"/><circle cx="19" cy="5" r="2.5"/><circle cx="5" cy="19" r="2.5"/><circle cx="19" cy="19" r="2.5"/><rect x="9" y="9" width="6" height="6" rx="1.5"/><path d="M7 7l2 2M17 7l-2 2M7 17l2-2M17 17l-2-2"/></svg><b>Dron y vídeo</b><small>Grabación aérea con certificación A1/A3.</small></span></label>
-            <label><input type="radio" name="tipo" value="Proponer un destino" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><b>Un lugar</b><small>Propón un sitio que debería visitar.</small></span></label>
+            <legend class="sr-only">Motivo del mensaje (puedes elegir varios)</legend>
+            <label><input type="checkbox" name="tipo" value="Contenido para marca" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg><b>Marcas</b><small>Contenido y campañas para productos de viaje y outdoor.</small></span></label>
+            <label><input type="checkbox" name="tipo" value="Turismo y alojamientos" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 21h18M5 21V9l7-5 7 5v12"/><path d="M10 21v-6h4v6"/></svg><b>Turismo</b><small>Pueblos, oficinas de turismo, hoteles y casas rurales.</small></span></label>
+            <label><input type="checkbox" name="tipo" value="Foto / vídeo con dron" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="5" cy="5" r="2.5"/><circle cx="19" cy="5" r="2.5"/><circle cx="5" cy="19" r="2.5"/><circle cx="19" cy="19" r="2.5"/><rect x="9" y="9" width="6" height="6" rx="1.5"/><path d="M7 7l2 2M17 7l-2 2M7 17l2-2M17 17l-2-2"/></svg><b>Dron y vídeo</b><small>Grabación aérea con certificación A1/A3.</small></span></label>
+            <label><input type="checkbox" name="tipo" value="Proponer un destino" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><b>Un lugar</b><small>Propón un sitio que debería visitar.</small></span></label>
           </fieldset>
 
           <div class="contact-panel">
@@ -270,8 +281,8 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js?v=20261008"></script>
-  <script src="assets/js/sobre-mi.js?v=20261010" defer></script>
+  <script src="assets/js/main.js?v=20261011"></script>
+  <script src="assets/js/sobre-mi.js?v=20261011n" defer></script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

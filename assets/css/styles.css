@@ -1770,26 +1770,67 @@ p { margin: 0 0 1em; }
 .about-stamps__note { margin-top: 26px; color: var(--ink-soft); }
 .about-stamps__note a { color: var(--olive-dark); font-weight: 600; text-decoration: underline; }
 
-/* --- Tira de fotos --- */
-.about-film { padding-block: clamp(10px, 2vw, 20px) clamp(24px, 3vw, 40px); overflow: hidden; }
-.film { position: relative; background: #151513; padding: 22px 0; rotate: -1.5deg; margin-inline: -2%; }
-.film::before, .film::after {
-  content: ""; position: absolute; left: 0; right: 0; height: 10px;
-  background: repeating-linear-gradient(90deg, transparent 0 10px, rgba(255,255,255,.85) 10px 22px, transparent 22px 32px);
-  border-radius: 2px; opacity: .9;
+/* --- Polaroids colgadas de una cuerda + Ford S-Max --- */
+.about-film { position: relative; isolation: isolate; padding-block: clamp(18px, 3vw, 30px) 0; overflow: hidden; margin-block: clamp(10px, 2vw, 20px); }
+.about-film .road__car { filter: drop-shadow(0 -2px 8px rgba(0,0,0,.25)); }
+.scene { position: absolute; inset: 0; z-index: -1; background: linear-gradient(120deg, #1f3e64, #3c6aa3 55%, #77854f); }
+.scene::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(20,25,20,.25), rgba(20,25,20,.05) 45%, rgba(20,25,20,.45)); }
+.scene__img { position: absolute; inset: 0; background-size: cover; background-position: center 40%; opacity: 0; transition: opacity 1.1s ease-in-out; animation: kenburns 5.5s linear both; will-change: opacity, transform; }
+.scene__img.is-on { opacity: 1; }
+@keyframes kenburns { from { transform: scale(1.04) translateX(1%); } to { transform: scale(1.12) translateX(-1.5%); } }
+.film--cuerda { position: relative; padding-top: 30px; }
+.film--cuerda::before { /* cuerda */
+  content: ""; position: absolute; left: 0; right: 0; top: 18px; height: 2px; background: #e8dcc6; box-shadow: 0 1px 2px rgba(0,0,0,.35);
 }
-.film::before { top: 6px; } .film::after { bottom: 6px; }
-.film__track { display: flex; gap: 10px; width: max-content; animation: filmroll 80s linear infinite; }
+.film__track { display: flex; align-items: flex-start; gap: 30px; padding: 0 15px 24px; width: max-content; animation: filmroll 140s linear infinite; }
 .film:hover .film__track { animation-play-state: paused; }
-.film__track a { display: block; width: 190px; aspect-ratio: 4 / 5; overflow: hidden; border-radius: 3px; position: relative; flex: none; }
-.film__track img { width: 100%; height: 100%; object-fit: cover; filter: saturate(1.05); transition: transform .4s; }
-.film__track a:hover img { transform: scale(1.06); }
-.film__track span {
-  position: absolute; left: 0; right: 0; bottom: 0; padding: 22px 10px 8px; font-size: .74rem; font-weight: 600; line-height: 1.2; color: #fff;
-  background: linear-gradient(transparent, rgba(0,0,0,.75)); opacity: 0; transition: opacity .3s;
+.film__track a {
+  position: relative; flex: none; display: block; width: 170px; background: #fff; padding: 9px 9px 36px;
+  box-shadow: 0 10px 22px rgba(20,25,20,.18); transform-origin: 50% -14px; animation: sway 4s ease-in-out infinite alternate;
 }
-.film__track a:hover span, .film__track a:focus span { opacity: 1; }
+.film__track a:nth-child(3n+1) { animation-delay: -1.3s; }
+.film__track a:nth-child(3n+2) { animation-delay: -2.6s; }
+.film__track a::before { /* pinza */
+  content: ""; position: absolute; left: 50%; top: -18px; width: 11px; height: 28px; translate: -50% 0;
+  background: linear-gradient(90deg, #c49a6c 0 45%, #8f6a43 45% 55%, #b58a5c 55%); border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,.3); z-index: 2;
+}
+.film__ph { aspect-ratio: 1; overflow: hidden; }
+.film__ph img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s; }
+.film__track a:hover .film__ph img { transform: scale(1.06); }
+.film__track span {
+  position: absolute; left: 10px; right: 10px; bottom: 9px; font-family: var(--font-display); font-style: italic; font-size: .72rem;
+  color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
 @keyframes filmroll { to { transform: translateX(-50%); } }
+@keyframes sway { from { transform: rotate(-2.2deg); } to { transform: rotate(2.2deg); } }
+.carlane { position: relative; height: 84px; }
+.road__auto { position: relative; display: block; }
+.road__img { width: 100%; height: auto; display: block; }
+.road__rueda { position: absolute; height: auto; animation: wheelSpin 1.9s linear infinite; }
+.road__rueda--tras { left: 12.25%; top: 57.42%; width: 14.93%; }
+.road__rueda--del { left: 72.46%; top: 59.92%; width: 14.59%; }
+@keyframes wheelSpin { to { transform: rotate(360deg); } }
+.road__car:hover .road__rueda, .road__car:focus-visible .road__rueda { animation-play-state: paused; }
+.road__car.is-honking .road__auto { animation: honkShake .35s ease-in-out; }
+/* frenazo al pasar el ratón: el morro baja hacia delante y rebota */
+.road__auto { transform-origin: 79% 100%; }
+.road__car.is-braking .road__auto { animation: brakeDip .75s cubic-bezier(.25,.8,.3,1); }
+@keyframes brakeDip { 0% { transform: rotate(0); } 22% { transform: rotate(2.4deg); } 55% { transform: rotate(-.5deg); } 78% { transform: rotate(.2deg); } 100% { transform: rotate(0); } }
+.road__car {
+  position: absolute; left: 0; bottom: 0; width: 190px; height: auto; padding: 0; border: 0; background: none; cursor: pointer;
+  animation: carDrive 26s linear infinite;
+}
+.road__car:hover, .road__car:focus-visible { animation-play-state: paused; }
+.road__car:focus-visible { outline: 2px solid var(--gold-soft); outline-offset: 4px; border-radius: 8px; }
+@keyframes carDrive { from { transform: translateX(-190px); } to { transform: translateX(calc(100vw + 30px)); } }
+@keyframes carBob { to { transform: translateY(-1.2px); } }
+.road__honk {
+  position: absolute; right: -6px; top: -22px; font-family: var(--font-display); font-size: .95rem; color: var(--gold-soft);
+  white-space: nowrap; opacity: 0; pointer-events: none;
+}
+.road__car.is-honking .road__honk { animation: honkPop .8s ease-out; }
+@keyframes honkShake { 0%,100% { transform: none; } 25% { transform: translateY(-3px) rotate(-2deg); } 60% { transform: translateY(1px) rotate(1.5deg); } }
+@keyframes honkPop { 0% { opacity: 0; transform: translateY(6px) scale(.7); } 25% { opacity: 1; transform: translateY(0) scale(1.1); } 100% { opacity: 0; transform: translateY(-12px) scale(1); } }
 
 /* --- Trabajar juntos --- */
 .about-work__head { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: end; margin-bottom: clamp(24px, 4vw, 40px); }
@@ -1832,9 +1873,12 @@ p { margin: 0 0 1em; }
   .stamp { width: 112px; }
   .stamps { grid-template-columns: repeat(auto-fill, minmax(112px, 1fr)); }
   .film__track a { width: 140px; }
+  .road__car { width: 140px; }
+  .carlane { height: 64px; }
 }
 @media (prefers-reduced-motion: reduce) {
-  .film__track, .sky-star, .passport__stamp { animation: none !important; }
+  .film__track, .sky-star, .passport__stamp, .road__rueda, .scene__img { animation: none !important; }
+  .road__car { animation-duration: 40s; }
 }
 .about-story__photo .polaroid img { width: 100%; height: auto; object-position: 40% 30%; }
 
@@ -1856,8 +1900,9 @@ p { margin: 0 0 1em; }
 .contact-reason b { display: block; font-family: var(--font-display); font-weight: 900; text-transform: uppercase; font-size: 1rem; color: var(--ink); margin-bottom: 4px; }
 .contact-reason small { display: block; color: var(--ink-soft); font-size: .86rem; line-height: 1.4; }
 .contact-reasons label:hover .contact-reason { transform: translateY(-2px); box-shadow: var(--shadow-md); }
-.contact-reasons input:checked + .contact-reason { border-color: var(--olive); background: #f7f8f1; }
-.contact-reasons input:checked + .contact-reason svg { color: var(--olive-dark); }
+.contact-reasons input:checked + .contact-reason { border-color: var(--gold-bright); background: var(--gold-bright); box-shadow: var(--shadow-md); }
+.contact-reasons input:checked + .contact-reason svg { color: var(--night); }
+.contact-reasons input:checked + .contact-reason small { color: var(--ink); }
 .contact-reasons input:focus-visible + .contact-reason { outline: 2px solid var(--olive); outline-offset: 2px; }
 
 .contact-panel { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; background: #fff; border-radius: 20px; box-shadow: var(--shadow-sm); padding: clamp(22px, 4vw, 36px); }
