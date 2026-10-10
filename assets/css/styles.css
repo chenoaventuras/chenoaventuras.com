@@ -1839,9 +1839,12 @@ p { margin: 0 0 1em; }
 .about-story__photo .polaroid img { width: 100%; height: auto; object-position: 40% 30%; }
 
 /* --- Contacto: primero el motivo, luego el formulario --- */
-.contact-block { padding-block: clamp(48px, 7vw, 96px); }
+.contact-block { background: var(--teal-deep); padding-block: clamp(48px, 7vw, 96px); }
 .contact-block__head { text-align: center; max-width: 620px; margin: 0 auto clamp(26px, 4vw, 40px); }
-.contact-block__head p { color: var(--ink-soft); margin: 0; }
+.contact-block__head .eyebrow { color: var(--gold-soft); }
+.contact-block__head .title { color: #fff; }
+.contact-block__head .title .accent { color: var(--gold); }
+.contact-block__head p { color: rgba(255,255,255,.75); margin: 0; }
 
 .contact-reasons { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; border: 0; padding: 0; margin: 0 0 22px; }
 .contact-reasons input { position: absolute; opacity: 0; pointer-events: none; }
@@ -1866,9 +1869,9 @@ p { margin: 0 0 1em; }
 .contact-block__send { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 18px; }
 .contact-block__send .form__legal { margin: 0; flex: 1 1 200px; font-size: .8rem; color: var(--ink-mute); }
 .contact-block__send .form__legal a { text-decoration: underline; }
-.contact-block__ok { margin: 16px 0 0; text-align: center; font-weight: 600; color: var(--olive-dark); }
-.contact-block__direct { text-align: center; margin: 18px 0 0; color: var(--ink-soft); font-size: .95rem; }
-.contact-block__direct a { color: var(--olive-dark); font-weight: 600; text-decoration: underline; }
+.contact-block__ok { margin: 16px 0 0; text-align: center; font-weight: 600; color: var(--gold-soft); }
+.contact-block__direct { text-align: center; margin: 18px 0 0; color: rgba(255,255,255,.75); font-size: .95rem; }
+.contact-block__direct a { color: var(--gold-soft); font-weight: 600; text-decoration: underline; }
 
 @media (max-width: 860px) {
   .contact-reasons { grid-template-columns: 1fr 1fr; }
