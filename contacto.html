@@ -26,7 +26,7 @@
   <meta name="twitter:title" content="Sobre mí y contacto | Chenoaventuras" />
   <meta name="twitter:description" content="Soy Cheno, creador de Chenoaventuras: viajes, rutas y contenido audiovisual. Escríbeme para colaboraciones, proyectos con marcas o proponer un destino." />
   <meta name="twitter:image" content="https://www.chenoaventuras.com/assets/img/og-default.jpg" />
-  <link rel="stylesheet" href="assets/css/styles.css?v=20261010b" />
+  <link rel="stylesheet" href="assets/css/styles.css?v=20261011" />
   <script>document.documentElement.classList.add("js");</script>
   <script type="application/ld+json">
   {
@@ -216,45 +216,35 @@
       </div>
     </section>
 
-    <section class="section" id="hablemos">
+    <section class="contact-block" id="hablemos">
       <div class="container">
-        <div class="split" style="align-items:start;">
-          <div class="reveal">
-            <span class="eyebrow">Escríbeme</span>
-            <h2 class="title">Cuéntame tu <span class="accent">idea</span></h2>
-            <form class="form" data-demo>
-              <label>Nombre
-                <input type="text" name="nombre" required />
-              </label>
-              <label>Email
-                <input type="email" name="email" required />
-              </label>
-              <label>Tipo de proyecto
-                <select name="tipo">
-                  <option>Contenido para marca</option>
-                  <option>Foto / vídeo con dron</option>
-                  <option>Turismo y alojamientos</option>
-                  <option>Colaboración / campaña</option>
-                  <option>Otro</option>
-                </select>
-              </label>
-              <label>Mensaje
-                <textarea name="mensaje" required></textarea>
-              </label>
+        <div class="contact-block__head">
+          <span class="eyebrow eyebrow--center">Contacto</span>
+          <h2 class="title">¿En qué te <span class="accent">puedo ayudar</span>?</h2>
+          <p>Elige el motivo y cuéntame los detalles.</p>
+        </div>
+
+        <form class="contact-block__form" data-demo>
+          <fieldset class="contact-reasons">
+            <legend class="sr-only">Motivo del mensaje</legend>
+            <label><input type="radio" name="tipo" value="Contenido para marca" checked /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg><b>Marcas</b><small>Contenido y campañas para productos de viaje y outdoor.</small></span></label>
+            <label><input type="radio" name="tipo" value="Turismo y alojamientos" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 21h18M5 21V9l7-5 7 5v12"/><path d="M10 21v-6h4v6"/></svg><b>Turismo</b><small>Pueblos, oficinas de turismo, hoteles y casas rurales.</small></span></label>
+            <label><input type="radio" name="tipo" value="Foto / vídeo con dron" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="5" cy="5" r="2.5"/><circle cx="19" cy="5" r="2.5"/><circle cx="5" cy="19" r="2.5"/><circle cx="19" cy="19" r="2.5"/><rect x="9" y="9" width="6" height="6" rx="1.5"/><path d="M7 7l2 2M17 7l-2 2M7 17l2-2M17 17l-2-2"/></svg><b>Dron y vídeo</b><small>Grabación aérea con certificación A1/A3.</small></span></label>
+            <label><input type="radio" name="tipo" value="Proponer un destino" /><span class="contact-reason"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><b>Un lugar</b><small>Propón un sitio que debería visitar.</small></span></label>
+          </fieldset>
+
+          <div class="contact-panel">
+            <label class="contact-f">Nombre<input type="text" name="nombre" autocomplete="name" placeholder="Tu nombre" required /></label>
+            <label class="contact-f">Email<input type="email" name="email" autocomplete="email" placeholder="tu@email.com" required /></label>
+            <label class="contact-f contact-f--full">Mensaje<textarea name="mensaje" placeholder="Cuéntame los detalles" required></textarea></label>
+            <div class="contact-block__send">
               <button class="btn" type="submit">Enviar mensaje</button>
-              <p class="form__legal">Al enviar este formulario aceptas la <a href="politica-privacidad.html">política de privacidad</a>. Uso tus datos solo para responderte.</p>
-              <p data-demo-msg hidden class="subscribe__ok" style="color:var(--olive-dark);">¡Mensaje enviado! Te contesto pronto.</p>
-            </form>
-          </div>
-          <div class="reveal">
-            <div class="contact-cards" style="grid-template-columns:1fr;">
-              <div class="contact-card"><h4>Email</h4><p><a href="mailto:chenoaventuras@gmail.com">chenoaventuras@gmail.com</a></p></div>
-              <div class="contact-card"><h4>Instagram</h4><p><a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a></p></div>
-              <div class="contact-card"><h4>Colaboraciones</h4><p>Marcas de outdoor, turismo y tecnología. Envía brief y fechas.</p></div>
-              <div class="contact-card"><h4>Ubicación</h4><p>España · disponible para viajar.</p></div>
+              <p class="form__legal">Al enviar aceptas la <a href="politica-privacidad.html">política de privacidad</a>. Uso tus datos solo para responderte.</p>
             </div>
           </div>
-        </div>
+          <p data-demo-msg hidden class="contact-block__ok">¡Mensaje enviado! Te contesto pronto.</p>
+        </form>
+        <p class="contact-block__direct">¿Prefieres el correo? <a href="mailto:chenoaventuras@gmail.com">chenoaventuras@gmail.com</a></p>
       </div>
     </section>
   </main>
