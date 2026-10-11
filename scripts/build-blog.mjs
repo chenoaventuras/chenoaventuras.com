@@ -92,9 +92,8 @@ const NAV = `
       <button class="nav__toggle" type="button" data-nav-toggle aria-label="Abrir menú" aria-expanded="false"><span></span></button>
       <ul class="nav__links">
         <li><a href="/index.html">Inicio</a></li>
-        <li><a href="/aventuras.html">Aventuras</a></li>
-        <li><a href="/mapa.html"{{CUR_MAPA}}>Mapa</a></li>
         <li><a href="/blog.html"{{CUR_BLOG}}>Blog</a></li>
+        <li><a href="/mapa.html"{{CUR_MAPA}}>Mapa</a></li>
         <li><a href="/equipo.html">Mi equipo</a></li>
         <li><a href="/servicios.html">Servicios</a></li>
         <li><a href="/contacto.html">Contacto</a></li>
