@@ -2117,8 +2117,8 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .cardgrid[data-ig-posts] .placecard:focus-visible .placecard__body { opacity: 1; transform: none; }
 .cardgrid[data-ig-posts] .placecard__body span { white-space: normal; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
-/* Pie de página: cielo azul con nubes en movimiento (WebGL, lo añade main.js). */
-.site-footer.has-cielo { background: #2b5486; overflow: hidden; }
+/* Pie de página: cielo nocturno con estrellas (canvas, lo añade main.js). */
+.site-footer.has-cielo { background: #05071a; overflow: hidden; }
 .site-footer .footer-cielo { position: absolute; inset: 0; width: 100%; height: 100%; display: block; pointer-events: none; z-index: 0; }
 .site-footer.has-cielo > * { position: relative; z-index: 1; }
 .site-footer.has-cielo > .footer-cielo { position: absolute; z-index: 0; }

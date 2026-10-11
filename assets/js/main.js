@@ -1171,49 +1171,54 @@
   }, { passive: true });
 })();
 
-/* ---------- Pie de página: cielo con nubes (shader WebGL propio) ----------
-   Azul profundo con nubes de ruido fractal que se desplazan despacio, para que el
-   texto blanco se lea bien. Solo se anima cuando el pie está a la vista. */
+/* ---------- Pie de página: cielo nocturno ----------
+   Degradado muy oscuro con estrellas que parpadean y, de vez en cuando, una estrella
+   fugaz. Canvas 2D propio; solo se anima cuando el pie está a la vista. */
 (function () {
   var foot = document.querySelector(".site-footer");
   if (!foot) return;
   var cv = document.createElement("canvas"); cv.className = "footer-cielo"; cv.setAttribute("aria-hidden", "true");
-  var gl = cv.getContext("webgl", { antialias: false, alpha: false, preserveDrawingBuffer: true });
-  if (!gl) return;
-  var fs = [
-    "precision mediump float;uniform vec2 r;uniform float t;",
-    "float h(vec2 p){return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453);}",
-    "float n(vec2 p){vec2 i=floor(p),f=fract(p);f=f*f*(3.-2.*f);return mix(mix(h(i),h(i+vec2(1,0)),f.x),mix(h(i+vec2(0,1)),h(i+vec2(1,1)),f.x),f.y);}",
-    "float fbm(vec2 p){float v=0.,a=.5;mat2 m=mat2(1.6,1.2,-1.2,1.6);for(int i=0;i<6;i++){v+=a*n(p);p=m*p;a*=.5;}return v;}",
-    "void main(){vec2 uv=gl_FragCoord.xy/r;vec2 p=uv*vec2(r.x/r.y,1.)*1.8;",
-    "vec2 w=vec2(t*.02,t*.007);float q=fbm(p+w);float c=fbm(p*1.3+vec2(q*1.6)+w*1.7-vec2(t*.012,0.));",
-    "c=smoothstep(.5,.85,c);",
-    "vec3 top=vec3(.17,.33,.55),bot=vec3(.12,.24,.40);vec3 sky=mix(bot,top,uv.y);",
-    "float g=(h(gl_FragCoord.xy+t)-.5)*.02;",
-    "gl_FragColor=vec4(mix(sky,vec3(.86,.91,.97),c*.42)+g,1.);}"
-  ].join("");
-  function sh(type, src) { var s = gl.createShader(type); gl.shaderSource(s, src); gl.compileShader(s); return s; }
-  var pr = gl.createProgram();
-  gl.attachShader(pr, sh(gl.VERTEX_SHADER, "attribute vec2 p;void main(){gl_Position=vec4(p,0.,1.);}")); gl.attachShader(pr, sh(gl.FRAGMENT_SHADER, fs)); gl.linkProgram(pr);
-  if (!gl.getProgramParameter(pr, gl.LINK_STATUS)) return;
+  var ctx = cv.getContext("2d");
+  if (!ctx) return;
   foot.insertBefore(cv, foot.firstChild); foot.classList.add("has-cielo");
-  gl.useProgram(pr);
-  gl.bindBuffer(gl.ARRAY_BUFFER, gl.createBuffer());
-  gl.bufferData(gl.ARRAY_BUFFER, new Float32Array([-1, -1, 1, -1, -1, 1, 1, 1]), gl.STATIC_DRAW);
-  var loc = gl.getAttribLocation(pr, "p"); gl.enableVertexAttribArray(loc); gl.vertexAttribPointer(loc, 2, gl.FLOAT, false, 0, 0);
-  var uR = gl.getUniformLocation(pr, "r"), uT = gl.getUniformLocation(pr, "t");
   var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  var t0 = performance.now(), last = 0, visible = false, raf = 0;
-  function dibuja(now) {
-    var w = Math.round(foot.clientWidth * .5), hh = Math.round(foot.clientHeight * .5);
-    if (cv.width !== w || cv.height !== hh) { cv.width = w; cv.height = hh; gl.viewport(0, 0, w, hh); }
-    gl.uniform2f(uR, w, hh); gl.uniform1f(uT, (now - t0) / 1000 + 25); gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);
+  var dpr = Math.min(window.devicePixelRatio || 1, 2), W = 0, H = 0, estrellas = [], cometa = null, proximo = 0, visible = false, raf = 0;
+  function preparar() {
+    W = foot.clientWidth; H = foot.clientHeight; cv.width = W * dpr; cv.height = H * dpr; ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    var n = Math.round(Math.min(160, W * H / 9000));
+    estrellas = [];
+    for (var i = 0; i < n; i++) estrellas.push({ x: Math.random() * W, y: Math.random() * H, r: .4 + Math.random() * 1.2, f: Math.random() * 6.28, v: .6 + Math.random() * 1.4 });
   }
-  function bucle(now) { raf = 0; if (!visible) return; if (now - last > 33) { last = now; dibuja(now); } raf = requestAnimationFrame(bucle); }
-  dibuja(performance.now());
-  if (reduce) { window.addEventListener("resize", function () { dibuja(performance.now()); }); return; }
+  function dibuja(now) {
+    var t = now / 1000;
+    var g = ctx.createLinearGradient(0, 0, 0, H); g.addColorStop(0, "#0a0e27"); g.addColorStop(1, "#000000");
+    ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+    estrellas.forEach(function (s) {
+      var a = reduce ? .8 : .35 + .65 * (.5 + .5 * Math.sin(t * s.v * 1.6 + s.f));
+      ctx.globalAlpha = a; ctx.fillStyle = "#fff"; ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, 6.283); ctx.fill();
+    });
+    ctx.globalAlpha = 1;
+    if (reduce) return;
+    if (!cometa && now > proximo) {
+      var x0 = Math.random() * W * .7 + W * .2, y0 = Math.random() * H * .4;
+      cometa = { x0: x0, y0: y0, dx: -(220 + Math.random() * 180), dy: 120 + Math.random() * 80, t0: now, d: 1100 };
+    }
+    if (cometa) {
+      var k = (now - cometa.t0) / cometa.d;
+      if (k >= 1) { cometa = null; proximo = now + 5000 + Math.random() * 4000; }
+      else {
+        var hx = cometa.x0 + cometa.dx * k, hy = cometa.y0 + cometa.dy * k, tx = hx - cometa.dx * .28, ty = hy - cometa.dy * .28;
+        var cg = ctx.createLinearGradient(hx, hy, tx, ty); cg.addColorStop(0, "rgba(255,255,255," + (1 - k) + ")"); cg.addColorStop(1, "rgba(255,255,255,0)");
+        ctx.strokeStyle = cg; ctx.lineWidth = 1.6; ctx.lineCap = "round"; ctx.beginPath(); ctx.moveTo(hx, hy); ctx.lineTo(tx, ty); ctx.stroke();
+      }
+    }
+  }
+  function bucle(now) { raf = 0; if (!visible) return; dibuja(now); raf = requestAnimationFrame(bucle); }
+  preparar(); proximo = performance.now() + 2500; dibuja(performance.now());
+  window.addEventListener("resize", function () { preparar(); dibuja(performance.now()); });
+  if (reduce) return;
   if ("IntersectionObserver" in window) {
     new IntersectionObserver(function (es) { visible = es[0].isIntersecting; if (visible && !raf) raf = requestAnimationFrame(bucle); }).observe(foot);
   } else { visible = true; raf = requestAnimationFrame(bucle); }
-})();
-
+})()
+;
