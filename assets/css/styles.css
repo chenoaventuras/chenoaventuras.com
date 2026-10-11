@@ -2123,3 +2123,27 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .site-footer .footer-cielo { position: absolute; inset: 0; width: 100%; height: 100%; display: block; pointer-events: none; z-index: 0; }
 .site-footer.has-cielo > * { position: relative; z-index: 1; }
 .site-footer.has-cielo > .footer-cielo { position: absolute; z-index: 0; }
+
+/* ---------- Barra de arriba: botones de cristal líquido (solo en pantalla grande) ---------- */
+@media (min-width: 1001px) {
+  .nav__links { gap: 10px; }
+  .nav__links li:not(.nav__social) a {
+    --mx: 50%; --my: 0%;
+    display: inline-block; padding: 9px 17px; border-radius: 999px; opacity: 1; overflow: hidden; isolation: isolate;
+    background: linear-gradient(150deg, rgba(255,255,255,.24), rgba(255,255,255,.06) 55%, rgba(255,255,255,.12));
+    border: 1px solid rgba(255,255,255,.3);
+    -webkit-backdrop-filter: blur(10px) saturate(170%); backdrop-filter: blur(10px) saturate(170%);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.55), inset 0 -1px 0 rgba(255,255,255,.12), inset 0 0 12px rgba(255,255,255,.08), 0 6px 18px rgba(10,20,40,.22);
+    text-shadow: 0 1px 2px rgba(0,0,0,.25);
+    transition: transform .45s cubic-bezier(.34,1.56,.64,1), box-shadow .3s, background .3s;
+  }
+  .nav__links li:not(.nav__social) a::before {
+    content: ""; position: absolute; inset: 0; z-index: -1; border-radius: inherit; opacity: 0; transition: opacity .3s;
+    background: radial-gradient(120px 60px at var(--mx) var(--my), rgba(255,255,255,.55), rgba(255,255,255,0) 70%);
+  }
+  .nav__links li:not(.nav__social) a:hover { transform: scale(1.06); box-shadow: inset 0 1px 0 rgba(255,255,255,.7), inset 0 -1px 0 rgba(255,255,255,.15), inset 0 0 16px rgba(255,255,255,.14), 0 10px 26px rgba(10,20,40,.3); }
+  .nav__links li:not(.nav__social) a:hover::before { opacity: 1; }
+  .nav__links li:not(.nav__social) a:active { transform: scale(.97); }
+  .nav__links li:not(.nav__social) a[aria-current="page"] { background: linear-gradient(150deg, rgba(246,201,69,.55), rgba(234,179,8,.25) 60%, rgba(246,201,69,.4)); border-color: rgba(248,216,120,.75); }
+  .nav__links li:not(.nav__social) a[aria-current="page"]::after { display: none; }
+}
