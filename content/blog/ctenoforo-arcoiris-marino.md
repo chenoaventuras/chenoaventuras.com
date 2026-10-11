@@ -27,6 +27,11 @@ faq:
     a: "La medusa tiene forma de campana y tentáculos urticantes; la salpa es un barrilito que bombea agua; el ctenóforo es ovalado, no pica y se mueve con filas de cilios."
   - q: "¿Cuándo se ven ctenóforos en el Mediterráneo?"
     a: "Están casi todo el año, pero es más fácil verlos cerca de la costa entre finales de primavera y verano."
+actividades:
+  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Kayak y snorkel en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 ---
 Grabando bajo el agua me crucé con un bicho transparente que, al moverse, dejaba una especie de estela de luces de colores recorriéndole el cuerpo, como si llevara un cable de neón por dentro. Lo subí a chenoaventuras preguntando "¿es una medusa o una salpa?" y, como imaginaba, la respuesta sorprende a casi todo el mundo: no es ninguna de las dos cosas. Es un ctenóforo, y puedes ver el [vídeo en Instagram](https://www.instagram.com/reel/DdPNSojxUaT/).
 

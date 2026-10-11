@@ -28,6 +28,9 @@ faq:
     a: "En los aparcamientos de la parte baja del pueblo: el casco antiguo es peatonal y se sube andando en pocos minutos."
   - q: "¿Cómo llegar a Aínsa?"
     a: "En coche: está en la comarca del Sobrarbe (Huesca), a unos 50 minutos de Torla y Ordesa y a unas dos horas de Zaragoza."
+actividades:
+  - t: "Raquetas de nieve por Ordesa y Monte Perdido desde Aínsa"
+    u: "https://www.civitatis.com/es/ainsa/raquetas-nieve-ordesa-monte-perdido/"
 ---
 Calles empedradas, casas de piedra, una plaza medieval con soportales y las montañas del Pirineo de fondo: **Aínsa** es de esos pueblos que parecen detenidos en el tiempo. En 2023, National Geographic lo eligió como **el pueblo más bonito de España**, y forma parte de la red de Los Pueblos Más Bonitos de España.
 
@@ -49,6 +52,9 @@ Está en la comarca del **Sobrarbe**, donde se juntan los ríos Cinca y Ara, y e
 <p>El corazón del pueblo es su <strong>Plaza Mayor</strong>, una de las plazas medievales mejor conservadas de España: alargada, rodeada de soportales y presidida por el Ayuntamiento, todavía guarda bajo sus arcos las antiguas prensas comunales donde se hacía el vino. A un lado de la plaza está el <strong>castillo</strong>, una fortaleza construida entre los siglos XI y XVII, y justo detrás, la <strong>iglesia románica de Santa María</strong>, con su cripta, su torre y su claustro.</p>
 <div class="gallery"><figure><img src="/assets/img/blog/pirineo/ainsa-plaza-2.webp" alt="Plaza Mayor de Aínsa" loading="lazy" decoding="async" /><figcaption>La Plaza Mayor porticada</figcaption></figure><figure><img src="/assets/img/blog/pirineo/ainsa-puerta.webp" alt="Puerta de acceso a la Plaza Mayor de Aínsa" loading="lazy" decoding="async" /><figcaption>Una de las puertas a la Plaza Mayor</figcaption></figure><figure><img src="/assets/img/blog/pirineo/ainsa-calle.webp" alt="Calle Mayor de Aínsa" loading="lazy" decoding="async" /><figcaption>Las calles de piedra del casco antiguo</figcaption></figure><figure><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Vista de Aínsa" loading="lazy" decoding="async" /><figcaption>Aínsa desde arriba, con la sierra al fondo</figcaption></figure></div>
 <div class="guide__legend"><h3>🦅 El Ecomuseo y los quebrantahuesos</h3><p>Dentro del castillo está el <strong>Ecomuseo de la Fauna Pirenaica</strong>, un centro pionero dedicado a la fauna de alta montaña, con especial protagonismo del <strong>quebrantahuesos</strong>, el buitre más escaso de Europa. En el castillo también están la Oficina de Turismo y el centro del Geoparque Sobrarbe.</p></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">La fiesta</span><h2>La Morisma: cuando la plaza se convierte en batalla</h2></div>
 <p>Cada dos años, en los años pares, la Plaza Mayor se transforma en el escenario de <strong>La Morisma</strong>, la representación de la batalla del año 724 entre moros y cristianos. Participan más de 300 vecinos y cuenta cómo las tropas del rey García Jiménez vencieron gracias a la aparición de una cruz sobre una encina, el símbolo que hoy luce el escudo del Sobrarbe.</p>

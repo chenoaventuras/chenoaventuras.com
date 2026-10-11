@@ -23,6 +23,11 @@ faq:
     a: "Sí, es imprescindible: los grupos tienen aforo limitado."
   - q: "¿Qué tiene de especial la Cueva del Puerto?"
     a: "Es la única de Europa con dos salas de minerales luminiscentes, que brillan en la oscuridad."
+actividades:
+  - t: "Calasparra: entrada a la Cueva del Puerto con visita guiada"
+    u: "https://www.getyourguide.es/calasparra-l178427/calasparra-entrada-a-la-cueva-del-puerto-con-visita-guiada-t429157/"
+  - t: "Rafting en el Cañón de Almadenes + Cueva del Puerto"
+    u: "https://www.getyourguide.es/calasparra-l178427/calasparra-tour-de-rafting-en-el-canon-de-almadenes-y-cueva-del-puerto-t425787/"
 ---
 Bajo tierra, a pocos kilómetros de Calasparra, se esconde un tesoro geológico formado durante millones de años: estalactitas, estalagmitas y, lo más singular, dos salas donde los minerales brillan en la oscuridad. Es la Cueva del Puerto, y es única en toda Europa por ese motivo.
 
@@ -43,6 +48,9 @@ La visita turística dura algo más de una hora y recorre unos 900 metros de gal
 ## Qué llevar
 
 Conviene ir con calzado cerrado y ropa cómoda; si te apuntas a la modalidad de aventura, también es buena idea llevar ropa de cambio. Las fotografías están permitidas solo en las zonas que indique el guía durante el recorrido.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

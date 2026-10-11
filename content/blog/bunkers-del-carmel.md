@@ -25,6 +25,11 @@ faq:
     a: "Desde 2023 la zona vallada solo abre de día, con un horario más amplio en verano que en invierno."
   - q: "¿Dónde están los Búnkers del Carmel?"
     a: "En lo alto del Turó de la Rovira (262 m), en el barrio del Carmel de Barcelona."
+actividades:
+  - t: "Free tour de la Guerra Civil en Barcelona"
+    u: "https://www.civitatis.com/es/barcelona/tour-guerra-civil-espanola/"
+  - t: "Barcelona: tours a pie Gótico, Gaudí y Búnkers"
+    u: "https://www.getyourguide.es/barcelona-l45/barcelona-walking-tours-pass-gothic-gaudi-bunker-sangria-t1229168/"
 ---
 Toda **Barcelona** a tus pies: la Sagrada Familia, el mar, Montjuïc y el Tibidabo, en 360 grados. Los **Búnkers del Carmel** son el mirador favorito de los barceloneses, y además son **gratis**.
 
@@ -47,6 +52,9 @@ Pero no son búnkeres, y tienen horario. Te lo cuento 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bunkers-del-carmel/barracas.webp" alt="Restos de barracas en el Turó de la Rovira" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las barracas</h3><p>Suelos de baldosas de las casas que hubo aquí hasta 1990.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bunkers-del-carmel/panoramica.webp" alt="Vista panorámica de Barcelona desde el Turó de la Rovira" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La panorámica</h3><p>El mejor momento: una hora antes de que cierren, con luz dorada.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a los Búnkers del Carmel</h2></div>
 <div class="guide__howto"><p>En <strong>autobús</strong>, hasta el barrio del Carmel (líneas que suben por la carretera del Carmel) y luego unos 15 minutos de subida a pie. En metro, la parada más cercana es <strong>Alfons X</strong> o <strong>El Carmel</strong>, con una subida más larga.</p><p>En coche no merece la pena: las calles son estrechas y no hay sitio para aparcar.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=B%C3%BAnkers%20del%20Carmel%2C%20Barcelona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

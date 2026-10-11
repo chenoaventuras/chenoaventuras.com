@@ -28,6 +28,9 @@ faq:
     a: "Fuera del verano, las atracciones abren solo fines de semana y festivos. Entre semana puedes subir igualmente al mirador. Y si llueve, las atracciones cierran."
   - q: "¿Se puede subir con perro al Monte Igueldo?"
     a: "Sí, con correa. Bicis y patinetes no pueden entrar."
+actividades:
+  - t: "Monte Igueldo: entradas y tours"
+    u: "https://www.getyourguide.es/monte-igueldo-l36991/"
 ---
 Hay parques de atracciones más grandes, más rápidos y más modernos. Pero ninguno tiene **la bahía de La Concha a tus pies** mientras te subes a una montaña suiza de hace casi un siglo. El Monte Igueldo lleva más de un siglo divirtiendo a familias y sigue teniendo ese encanto de parque de toda la vida que ya cuesta encontrar.
 

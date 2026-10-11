@@ -22,6 +22,9 @@ faq:
     a: "Según la tradición, porque Haro fue de los primeros lugares de España en tener alumbrado eléctrico a finales del siglo XIX."
   - q: "¿A cuánto está Haro de Logroño?"
     a: "A unos 40 minutos en coche, y a una hora de Bilbao o Vitoria."
+actividades:
+  - t: "Visita a Bodegas Bilbaínas"
+    u: "https://www.civitatis.com/es/haro/visita-bodegas-bilbainas/"
 ---
 Si hay un pueblo que huele a vino, es **Haro**. Junto a la vieja estación de tren se concentran varias de las **bodegas más antiguas de La Rioja**, y cada 29 de junio miles de personas suben a los riscos de Bilibio para empaparse de tinto en la **Batalla del Vino**.
 
@@ -46,6 +49,9 @@ Te cuento qué ver, cómo visitar sus bodegas y alguna curiosidad que no conoce 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/haro-que-ver/riscos.webp" alt="Riscos de Bilibio en Haro" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los Riscos de Bilibio</h3><p>Los riscos donde se celebra la Batalla del Vino. Fuera de fiestas, son un paseo con buenas vistas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/haro-que-ver/conchas.webp" alt="Las Conchas de Haro desde los Riscos de Bilibio" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las Conchas de Haro</h3><p>El desfiladero por el que el Ebro se cuela entre montañas, visto desde lo alto de Bilibio.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Haro</h2></div>
 <div class="guide__howto"><p>Haro está junto a la <strong>AP-68</strong>, a unos 40 minutos de Logroño y a una hora de Bilbao. También tiene <strong>estación de tren</strong>, justo en el Barrio de la Estación: puedes llegar en tren y bajarte entre bodegas.</p><p>Del centro al Barrio de la Estación se va andando en unos 10-15 minutos, cruzando el Ebro.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Barrio+de+la+Estación+Haro" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

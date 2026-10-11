@@ -25,6 +25,9 @@ faq:
     a: "Por una pista de tierra en la costa oeste de Fuerteventura, en el municipio de Pájara."
   - q: "¿Se puede bañar en la playa del American Star?"
     a: "No es buena idea: la playa de Garcey es peligrosa para el baño."
+actividades:
+  - t: "Tour en todoterreno por la península de Jandía (Cofete) desde el sur"
+    u: "https://www.civitatis.com/es/jandia/tour-4x4-peninsula-jandia/"
 ---
 Durante más de diez años, un transatlántico gigante estuvo varado frente a una playa salvaje de **Fuerteventura**. Era el **American Star**, uno de los barcos de pasajeros más famosos de Estados Unidos, y se convirtió en el **barco fantasma** más fotografiado de Canarias.
 
@@ -47,6 +50,9 @@ Te cuento su historia, por qué encalló y lo que queda hoy 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/american-star-fuerteventura/a.webp" alt="Restos del American Star en 2005" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>En la playa</h3><p>Partido en dos frente a la playa de Garcey, a principios de los 2000.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/american-star-fuerteventura/b.webp" alt="Playa de Garcey en Fuerteventura" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La playa hoy</h3><p>Hoy apenas quedan restos bajo el agua frente a la arena.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la playa de Garcey</h2></div>
 <div class="guide__howto"><p>Desde <strong>Pájara</strong>, hay una pista de tierra hacia la costa oeste. Mejor con coche alto y sin prisa.</p><p>Es una playa salvaje y sin servicios: lleva agua y no te bañes si hay oleaje.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa%20de%20Garcey%2C%20P%C3%A1jara%2C%20Fuerteventura" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

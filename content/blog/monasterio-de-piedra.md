@@ -25,6 +25,9 @@ faq:
     a: "Está en Nuévalos, a una hora y media en coche de Zaragoza."
   - q: "¿Cuánto dura el recorrido del Monasterio de Piedra?"
     a: "La ruta por el parque tiene unos 5 km entre cascadas, grutas y lagos: cuenta unas 3 horas con calma."
+actividades:
+  - t: "Monasterio de Piedra: entradas y tours"
+    u: "https://www.getyourguide.es/monasterio-de-piedra-l97105/"
 ---
 Imagina un parque lleno de **cascadas**, lagos, cuevas y pasarelas, donde el agua aparece por todas partes, y en medio, un **monasterio cisterciense del siglo XII**. Eso es el **Monasterio de Piedra**, en Zaragoza, uno de los paisajes de agua más espectaculares de España.
 
@@ -51,6 +54,9 @@ Y lo mejor: bajas por dentro de una gruta para ver una cascada de 50 metros desd
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-piedra/monasterio.webp" alt="Exterior del Monasterio de Piedra" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El monasterio</h3><p>Cisterciense, del siglo XII. Visita la iglesia, la cocina y el claustro.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-piedra/claustro.webp" alt="Claustro gótico del Monasterio de Piedra" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El claustro</h3><p>Gótico y silencioso, en contraste con el estruendo de las cascadas.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Monasterio de Piedra</h2></div>
 <div class="guide__howto"><p>Está junto al pueblo de <strong>Nuévalos</strong> (Zaragoza), a unas dos horas de Madrid y hora y media de Zaragoza por la A-2 (salida Alhama de Aragón o Calatayud).</p><p>Tiene aparcamiento propio junto a la entrada. Los fines de semana de primavera hay mucha gente: llega a primera hora.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Monasterio+de+Piedra" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.monasteriopiedra.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Web oficial</a></div></div>

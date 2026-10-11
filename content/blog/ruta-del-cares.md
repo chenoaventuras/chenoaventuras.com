@@ -23,6 +23,9 @@ faq:
     a: "Sí, con niños acostumbrados a caminar y siempre lejos del borde, porque en muchos tramos no hay barandilla."
   - q: "¿Dónde empieza la Ruta del Cares?"
     a: "Se puede empezar en Poncebos (Asturias) o en Caín (León). Son unos 12 km por sentido entre los dos pueblos."
+actividades:
+  - t: "Asturias: paddle surf por el río Cares"
+    u: "https://www.getyourguide.es/leon-spain-l144127/picos-de-europa-cares-deva-river-sup-tour-t710556/"
 ---
 Un camino excavado en la roca, colgado sobre un precipicio, con el río Cares turquesa allá abajo y paredes de mil metros a los lados. La **Ruta del Cares** es probablemente la ruta de senderismo más famosa de España, y la llaman **la garganta divina**.
 
@@ -47,6 +50,9 @@ Te cuento cómo hacerla sin morir en el intento (y cómo volver, que es la gran 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-del-cares/cain.webp" alt="Caín de Valdeón" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Caín</h3><p>Un pueblecito en el lado leonés, al final de la garganta. Ideal para comer antes de volver.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-del-cares/bulnes.webp" alt="Funicular de Bulnes en Poncebos" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Bulnes</h3><p>Desde Poncebos sale el funicular a Bulnes, pueblo sin carretera con vistas al Naranjo de Bulnes.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Ruta del Cares</h2></div>
 <div class="guide__howto"><p>La mayoría empieza en <strong>Poncebos</strong>, a unos 30 minutos de Arenas de Cabrales. El primer tramo desde allí es el más duro: unos 2 km de subida fuerte.</p><p>Como es una ruta lineal, piensa antes cómo volver: hacer <strong>ida y vuelta</strong> (24 km), o solo ida y volver en <strong>taxi o transfer</strong>. Por carretera, Caín y Poncebos están a más de 2 horas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Poncebos%2C%20Asturias" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

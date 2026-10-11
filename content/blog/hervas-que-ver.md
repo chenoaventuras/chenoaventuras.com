@@ -22,6 +22,9 @@ faq:
     a: "Rutas por el Valle del Ambroz, la Vía Verde de la Plata en bici y el Valle del Jerte con la Garganta de los Infiernos."
   - q: "¿Cómo llegar a Hervás?"
     a: "En coche por la A-66 (Ruta de la Plata): está en el Valle del Ambroz, al norte de Cáceres, casi en el límite con Salamanca."
+actividades:
+  - t: "Free tour nocturno por Hervás"
+    u: "https://www.civitatis.com/es/hervas/free-tour-nocturno-hervas/"
 ---
 Calles estrechísimas, casas de entramado de madera de castaño que casi se tocan por arriba, un río de montaña cruzando el pueblo y la sierra nevada al fondo. **Hervás** tiene uno de los **barrios judíos mejor conservados de España**, y es la puerta perfecta para descubrir el norte de Extremadura.
 
@@ -46,6 +49,9 @@ Te cuento qué ver y qué rutas hacer por el Valle del Ambroz 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hervas-que-ver/rio.webp" alt="Río Ambroz a su paso por Hervás" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El río Ambroz</h3><p>El río cruza el pueblo con puentes de piedra y paseos junto al agua. En verano hay piscina natural.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Tejados de Hervás con la sierra nevada" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Sube a la iglesia de Santa María, en lo alto del pueblo, para ver los tejados y la sierra.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Hervás</h2></div>
 <div class="guide__howto"><p>Está junto a la autovía <strong>A-66</strong>, a una hora y cuarto de Cáceres y a una hora de Salamanca. Desde Madrid son unas tres horas.</p><p>Aparca en la parte baja del pueblo, cerca del río, y recorre el barrio judío a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Barrio+Judío+Hervás" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

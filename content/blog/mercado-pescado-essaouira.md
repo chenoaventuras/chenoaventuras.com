@@ -21,6 +21,9 @@ faq:
     a: "En los puestos que rodean el puerto: compras el pescado fresco en el mercado y te lo cocinan al momento."
   - q: "¿Qué llevar al puerto de Essaouira?"
     a: "Calzado que no resbale: el suelo suele estar mojado. Y prepárate para un olor a pescado intenso."
+actividades:
+  - t: "Excursión a Essaouira desde Marrakech"
+    u: "https://www.civitatis.com/es/marrakech/excursion-essaouira/"
 ---
 No es un decorado para turistas, es trabajo puro cada mañana desde hace décadas. El mercado de pescado del puerto de Essaouira, en Marruecos, funciona igual que siempre: las barcas llegan, el pescado se sube a las mesas y empieza la subasta, sin filtros ni artificios.
 
@@ -43,6 +46,9 @@ Alrededor de las subastas se mueven pescadores, carpinteros navales y vendedores
 La mejor hora para visitarlo es a primera hora de la mañana, justo cuando llegan las barcas cargadas. Ten en cuenta que el olor a mar y pescado es intenso (algo bastante predecible, dado lo que vas a ver) y que el suelo puede estar mojado y resbaladizo, así que conviene ir con calzado adecuado.
 
 Si te gusta la fotografía callejera, pocos lugares dan tanto juego como este: gestos, colores y movimiento constante en cada esquina del muelle.
+
+
+<!--actividades-->
 
 ## Cómo llegar a Essaouira
 

@@ -25,6 +25,11 @@ faq:
     a: "En el casco histórico, en el callejón de San Ginés, a unos 100 metros de la Catedral."
   - q: "¿Qué horario tiene la Cueva de Hércules?"
     a: "Es irregular y con aforo reducido, así que confírmalo antes de ir. La visita dura 15-20 minutos."
+actividades:
+  - t: "Tour nocturno por el Toledo misterioso"
+    u: "https://www.civitatis.com/es/toledo/tour-toledo-misterioso/"
+  - t: "Tour de las leyendas de Toledo + Cuevas del Alcaná"
+    u: "https://www.civitatis.com/es/toledo/tour-leyendas-toledo/"
 ---
 Bajo las calles de Toledo hay una cueva cerrada con candados. Cada rey visigodo debía añadir uno nuevo, porque el día que alguien la abriera llegaría la desgracia. Hasta que el rey **don Rodrigo** no pudo resistir la curiosidad.
 
@@ -48,6 +53,9 @@ La **Cueva de Hércules** se puede visitar, y es la puerta de entrada a un Toled
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cueva-de-hercules-toledo/san-martin.webp" alt="Puente de San Martín en Toledo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Puente de San Martín</h3><p>Su propia leyenda: la mujer del arquitecto prendió fuego al andamio para salvar el honor de su marido.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cueva-de-hercules-toledo/calles.webp" alt="Calles de Toledo de noche" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Toledo de noche</h3><p>Callejuelas estrechas, cobertizos y faroles. Las rutas nocturnas de leyendas son un clásico.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a el Toledo de las leyendas</h2></div>
 <div class="guide__howto"><p>Toledo está a <strong>una hora de Madrid</strong> en coche por la A-42, o a media hora en tren AVE.</p><p>Aparca en los aparcamientos de la entrada (Safont o Recaredo) y sube al centro en las escaleras mecánicas. La cueva está junto a la Catedral.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cueva%20de%20H%C3%A9rcules%2C%20Toledo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

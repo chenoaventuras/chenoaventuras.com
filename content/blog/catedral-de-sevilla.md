@@ -25,6 +25,11 @@ faq:
     a: "Entre 1,5 y 2 horas, contando la subida a la Giralda."
   - q: "¿Dónde está la Catedral de Sevilla?"
     a: "En pleno centro, junto al Real Alcázar y el Archivo de Indias."
+actividades:
+  - t: "Visita guiada por la catedral de Sevilla y la Giralda"
+    u: "https://www.civitatis.com/es/sevilla/visita-guiada-catedral-sevilla/"
+  - t: "Catedral y Giralda: entrada con audioguía"
+    u: "https://www.getyourguide.es/sevilla-l48/ticket-de-acceso-a-la-catedral-y-la-giralda-con-audioguia-t1014366/"
 ---
 En 1988 el **Libro Guinness** la reconoció como la **catedral con mayor superficie del mundo**. La **Catedral de Sevilla** es la catedral gótica más grande del planeta y uno de los monumentos más visitados de España.
 
@@ -47,6 +52,9 @@ Te cuento sus curiosidades más llamativas: una torre que se sube en rampa, la t
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/catedral-de-sevilla/giralda.webp" alt="La Giralda desde el Patio de los Naranjos" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Giralda</h3><p>Sube las 35 rampas: arriba tienes Sevilla a tus pies.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/catedral-de-sevilla/pilares.webp" alt="Pilares de la Catedral de Sevilla" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los pilares</h3><p>Columnas enormes que sostienen bóvedas de más de 30 metros. Aquí entiendes el tamaño del templo.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Catedral</h2></div>
 <div class="guide__howto"><p>Está en el centro: andando desde casi cualquier punto del casco histórico. El tranvía para en <strong>Archivo de Indias</strong>, a pocos pasos.</p><p>En coche, mejor dejarlo en un aparcamiento fuera del centro.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Catedral%20de%20Sevilla" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

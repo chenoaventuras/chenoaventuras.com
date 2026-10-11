@@ -24,6 +24,11 @@ faq:
     a: "Por las microalgas (zooxantelas) que viven dentro de ella: hacen la fotosíntesis y le ceden nutrientes. Por eso le gusta estar cerca de la superficie, al sol."
   - q: "¿Cuánto mide la medusa huevo frito?"
     a: "Entre 30 y 40 centímetros de diámetro."
+actividades:
+  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Kayak y snorkel en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 ---
 Buceando por [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) es fácil cruzarte con una medusa que parece sacada de una sartén: centro amarillo brillante rodeado de un cuerpo blanquecino, flotando tranquila cerca de la superficie. No es casualidad que la conozcan como medusa huevo frito. Y aunque la primera vez que la ves de cerca impone (puede rozar los 40 centímetros), es de las medusas más tranquilas que te vas a encontrar en el Mediterráneo.
 

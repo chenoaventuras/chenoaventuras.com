@@ -22,6 +22,9 @@ faq:
     a: "A unos 20 minutos en coche hacia el oeste, en la zona de Castañeras."
   - q: "¿A cuánto está Cudillero de Oviedo?"
     a: "A unos 45 minutos de Oviedo y a media hora de Avilés."
+actividades:
+  - t: "Free tour por Cudillero"
+    u: "https://www.civitatis.com/es/cudillero/free-tour-cudillero/"
 ---
 Casas de colores apiladas en la ladera, una encima de otra, mirando todas a un pequeño puerto pesquero. **Cudillero** parece un anfiteatro natural, y por eso es uno de los pueblos más fotografiados de toda la costa asturiana.
 
@@ -46,6 +49,9 @@ Te cuento qué ver, desde qué miradores sacar la mejor foto y cómo combinarlo 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cudillero-que-ver/puerto.webp" alt="Puerto y faro de Cudillero" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El puerto y el faro</h3><p>Pasea por el espigón hasta la bocana: desde allí ves el faro y el pueblo entero.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cudillero-que-ver/silencio.webp" alt="Playa del Silencio en Asturias" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La Playa del Silencio</h3><p>A unos 20 minutos en coche, una cala de cantos rodados entre acantilados. Una de las playas más bonitas del norte.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Cudillero</h2></div>
 <div class="guide__howto"><p>Desde <strong>Oviedo</strong> se llega en unos 45 minutos por la autovía del Cantábrico (A-8). También hay tren de cercanías, aunque la estación queda lejos del puerto.</p><p>En verano el acceso en coche al centro está muy restringido: aparca en la entrada o en el puerto y camina. Las cuestas son serias, así que lleva calzado cómodo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cudillero" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Playa+del+Silencio+Asturias" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Playa del Silencio</a></div></div>

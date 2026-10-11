@@ -21,6 +21,11 @@ faq:
     a: "Desde 1930 hasta la muerte de Gala en 1982."
   - q: "¿Cómo se llega desde Cadaqués?"
     a: "Andando en unos 15 minutos por el paseo junto al mar."
+actividades:
+  - t: "Cadaqués: paseo en el barco de Dalí con baño"
+    u: "https://www.getyourguide.es/port-lligat-l150580/cadaques-salvador-dali-boat-tour-with-swimming-stop-t1394437/"
+  - t: "Casa-Museo Salvador Dalí: entradas y tours"
+    u: "https://www.getyourguide.es/casa-museu-salvador-dali-l119690/"
 ---
 Unos **huevos gigantes** sobre el tejado, un **oso disecado** en la entrada y una piscina con forma de... bueno, ya lo verás. La casa de **Salvador Dalí** en **Portlligat**, junto a Cadaqués, es tan surrealista como él.
 
@@ -42,6 +47,9 @@ Te cuento su historia, cómo conseguir entrada (se agotan) y qué ver 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/casa-dali-portlligat/barca.webp" alt="Barca con un ciprés en Portlligat" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La barca con ciprés</h3><p>Una barca vieja con un ciprés plantado dentro. Puro Dalí.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/casa-dali-portlligat/bahia.webp" alt="Bahía de Portlligat" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La bahía</h3><p>Aguas tranquilas que aparecen en muchos de sus cuadros.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Portlligat</h2></div>
 <div class="guide__howto"><p>Desde <strong>Cadaqués</strong>, unos 15 minutos a pie por un camino junto al mar. En coche hay un aparcamiento pequeño (de pago) cerca de la casa.</p><p>Cadaqués está a unos 40 minutos de Figueres.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Casa-Museu%20Salvador%20Dal%C3%AD%2C%20Portlligat%2C%20Cadaqu%C3%A9s" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

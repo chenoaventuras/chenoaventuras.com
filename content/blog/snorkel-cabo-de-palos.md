@@ -31,6 +31,13 @@ faq:
     a: "En coche, a unos 25 minutos de Cartagena y algo más de una hora desde Murcia. También hay autobuses desde la estación de Murcia."
   - q: "¿Qué material hace falta para hacer snorkel?"
     a: "Gafas bien ajustadas, tubo y, si vas a nadar un rato, aletas cortas. En primavera u otoño, un neopreno fino de 3 mm."
+actividades:
+  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Kayak y snorkel en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
+  - t: "Visita guiada al faro de Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/visita-guiada-faro-cabo-palos/"
 ---
 Metí la cabeza bajo el agua en Cabo de Palos sin esperar gran cosa, la verdad, y en menos de cinco minutos ya tenía alrededor un puñado de peces, un fondo de roca lleno de vida y una pradera de posidonia que no tiene nada que envidiar a según qué destinos "exóticos". Y cuando empecé a moverme entre sus distintas calas me di cuenta de lo diferente que puede ser el fondo de un lado a otro del mismo cabo. Puedes ver el [vídeo completo en Instagram](https://www.instagram.com/reel/Ddo2u7rxbIc/).
 
@@ -69,6 +76,9 @@ Lo básico: gafas de buceo bien ajustadas, tubo (snorkel) y, si vas a estar un r
 ## Cuándo ir para encontrar mejores condiciones
 
 La temporada alta para el snorkel en Cabo de Palos va de mayo a octubre, con el agua rondando los 26-28 ºC en pleno verano (entre julio y septiembre está más cálida). Ahora bien, si lo que buscas es visibilidad y menos gente en el agua, muchos aficionados a la zona prefieren ir a finales de septiembre o en octubre: el agua sigue calentita, pero ya no hay tanto trasiego de barcos ni de bañistas, y eso se nota en cómo se ve el fondo.
+
+
+<!--actividades-->
 
 ## Cómo llegar a Cabo de Palos y a las calas
 

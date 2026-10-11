@@ -22,6 +22,9 @@ faq:
     a: "En la presa del río Tirón, que en verano se convierte en zona de baño."
   - q: "¿Cuándo es mejor visitar Cuzcurrita?"
     a: "En cualquier época, pero luce especialmente en la vendimia (septiembre-octubre) y en primavera."
+actividades:
+  - t: "Visita a Bodegas Bilbaínas (Haro, cerca)"
+    u: "https://www.civitatis.com/es/haro/visita-bodegas-bilbainas/"
 ---
 Entre viñedos de la Rioja Alta, con un río cruzando el pueblo y un castillo que hoy sabe más a vino que a guerra, Cuzcurrita de Río Tirón es de esas escapadas donde el plan es simplemente pasear, parar y disfrutar sin prisa.
 
@@ -46,6 +49,9 @@ En el casco histórico destaca la **iglesia de San Miguel**, una obra barroca de
 ## Vino, río y una presa perfecta para el verano
 
 Cuzcurrita está rodeada de bodegas y viñedos de la Rioja Alta, así que aprovechar la visita para hacer una parada enoturística es casi obligatorio. Y si el paseo junto al río Tirón se te hace corto, la **presa del río Tirón** es el broche perfecto: en los meses de verano se convierte en zona de baño para quien quiera refrescarse después de recorrer el pueblo.
+
+
+<!--actividades-->
 
 ## Cómo llegar a Cuzcurrita de Río Tirón
 

@@ -21,6 +21,9 @@ faq:
     a: "Sí: la Plaza Mayor iluminada y sin gente parece de otra época, y se pasea con mucha más calma."
   - q: "¿Para qué se usó el castillo de Chinchón?"
     a: "Ha tenido muchos usos a lo largo de los siglos, incluida una fábrica de aguardiente."
+actividades:
+  - t: "Free tour por Chinchón"
+    u: "https://www.civitatis.com/es/chinchon/free-tour-chinchon/"
 ---
 De día, Chinchón es uno de los pueblos con más ambiente de toda la Comunidad de Madrid. De noche, con la Plaza Mayor iluminada y las calles mucho más tranquilas, cambia completamente de personalidad, y el protagonista pasa a ser el castillo que vigila el pueblo desde lo alto.
 
@@ -37,6 +40,9 @@ En lo alto del pueblo se levanta el **castillo de los Condes de Chinchón**, una
 ## Por qué ir de noche
 
 Sin las aglomeraciones típicas de fin de semana, Chinchón de noche permite pasear con calma por sus calles empedradas, disfrutar de la plaza sin agobios y hacerse una idea mucho más clara de cómo se vería el pueblo antes de que se llenara de turismo. Es un plan distinto al habitual, ideal si ya conoces Chinchón de día y quieres verlo con otros ojos.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

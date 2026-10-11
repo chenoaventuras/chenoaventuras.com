@@ -31,6 +31,9 @@ faq:
     a: "En el Prepirineo de Huesca. El avistamiento de buitres se hace en Santa Cilia de Panzano."
   - q: "¿Se puede ir con niños al avistamiento de buitres?"
     a: "Sí, es una actividad de educación ambiental con charla y un paseo corto de unos 20 minutos hasta el observatorio."
+actividades:
+  - t: "Barranquismo de un día en la Sierra de Guara"
+    u: "https://www.getyourguide.es/las-almunias-l200630/canyoning-day-trip-in-sierra-de-guara-t632167/"
 ---
 En el Prepirineo aragonés existe una actividad que no se puede hacer en ningún otro lugar de España: observar **muy de cerca y en plena libertad** a los grandes buitres que sobrevuelan la **Sierra de Guara**. Una experiencia que mezcla conservación, educación ambiental y la emoción de tener a estos gigantes del aire a pocos metros.
 
@@ -53,6 +56,9 @@ Te lo enseño en vídeo 👇
 <div class="guide__head"><span class="eyebrow">La experiencia</span><h2>Buitres, quebrantahuesos y alimoches en libertad</h2></div>
 <p>Gracias al trabajo de la asociación <strong>Fondo Amigos del Buitre</strong>, en Santa Cilia de Panzano se puede ver de cerca a <strong>buitres leonados, quebrantahuesos, alimoches y milanos</strong>, en uno de los parajes más impresionantes del Prepirineo. La actividad empieza con una charla sobre estas aves, sigue con tiempo de observación en el muladar y termina con la visita al museo <strong>Casa del Buitre</strong>. El donativo ayuda directamente a su conservación.</p>
 <div class="gallery gallery--single"><figure><img src="/assets/img/instagram/18167547529344269.webp" alt="Cheno entre buitres en la Sierra de Guara" loading="lazy" decoding="async" /><figcaption>Rodeado de buitres en el observatorio</figcaption></figure></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>La mejor época</h2></div>
 <p>Se puede hacer todo el año, pero <strong>primavera y otoño</strong> son ideales por el clima y la actividad de las aves. Las <strong>mañanas despejadas</strong> son las mejores para verlas en pleno vuelo.</p>

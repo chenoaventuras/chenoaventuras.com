@@ -21,6 +21,11 @@ faq:
     a: "Cuenta que desde aquí se lanzó al vacío el último rey musulmán de Toledo, antes que rendirse tras perder la ciudad."
   - q: "¿Se puede ir con niños o perros a la Piedra del Rey Moro?"
     a: "No es lo más recomendable con niños pequeños o perros: el terreno es irregular y tiene algo de desnivel. Y no hay fuentes, lleva agua."
+actividades:
+  - t: "Tour nocturno por el Toledo misterioso"
+    u: "https://www.civitatis.com/es/toledo/tour-toledo-misterioso/"
+  - t: "Tour de las leyendas de Toledo + Cuevas del Alcaná"
+    u: "https://www.civitatis.com/es/toledo/tour-leyendas-toledo/"
 ---
 Junto al Tajo, en pleno valle que rodea Toledo, hay una roca solitaria que carga con una de las leyendas más dramáticas de la ciudad. Se llama la Piedra del Rey Moro, y su historia es tan interesante como las vistas que ofrece.
 
@@ -33,6 +38,9 @@ Cuenta la leyenda que fue precisamente aquí donde se arrojó al vacío el últi
 ## Un "grafiti medieval" que sigue sin explicación
 
 En la propia piedra pueden verse cruces grabadas y símbolos antiguos, una especie de grafiti medieval que atrae tanto a curiosos de la historia como a quienes simplemente disfrutan de la ruta y sus vistas al río y a la ciudad.
+
+
+<!--actividades-->
 
 ## Cómo llegar hasta la piedra
 

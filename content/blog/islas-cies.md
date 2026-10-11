@@ -27,6 +27,9 @@ faq:
     a: "El barco tarda entre 30 y 45 minutos. El billete se paga aparte a la naviera."
   - q: "¿Se puede ir con perro a las Islas Cíes?"
     a: "No, en el Parque Nacional no se permite llevar mascotas (salvo perros de asistencia)."
+actividades:
+  - t: "Ferry a las Islas Cíes desde Vigo"
+    u: "https://www.civitatis.com/es/vigo/barco-islas-cies/"
 ---
 Arena blanca, agua cristalina (y fría, eso sí) y senderos que suben a faros con vistas al Atlántico. Las **Islas Cíes**, frente a Vigo, son parte del **Parque Nacional de las Islas Atlánticas de Galicia** y tienen la que muchos consideran una de las mejores playas del mundo: **Rodas**.
 
@@ -51,6 +54,9 @@ Para ir hay que coger un barco y, en temporada alta, **pedir una autorización**
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/islas-cies/piedra.webp" alt="Roca con agujero en las Islas Cíes" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Pedra da Campá</h3><p>Una roca de granito perforada por la erosión en el camino del faro, uno de los rincones más fotografiados.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/islas-cies/atardecer.webp" alt="Atardecer desde el monte de las Islas Cíes" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los atardeceres</h3><p>Si te quedas en el camping, sube a algún mirador a ver cómo el sol se esconde en el Atlántico.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a las Islas Cíes</h2></div>
 <div class="guide__howto"><p>Solo se puede llegar en <strong>barco</strong>. Las navieras autorizadas salen sobre todo de <strong>Vigo</strong>, <strong>Cangas</strong> y <strong>Baiona</strong>, y en verano también de otros puertos de las Rías Baixas.</p><p>En temporada alta, el orden es: primero pides la <strong>autorización gratuita</strong> en la web de la Xunta y luego compras el <strong>billete de barco</strong> con ese código. Si compras el barco a través de la naviera, ellos te guían en el proceso.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://autorizacionillasatlanticas.xunta.gal/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Autorización oficial (Xunta)</a><a class="btn guide__mapbtn btn--ghost" href="https://illasatlanticas.gal/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Info del Parque Nacional</a></div></div>

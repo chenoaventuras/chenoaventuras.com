@@ -25,6 +25,9 @@ faq:
     a: "En la Mina Rica, en Pilar de Jaravía (Pulpí, Almería), cerca de San Juan de los Terreros."
   - q: "¿Cuánto mide la Geoda de Pulpí?"
     a: "Unos 8 metros de largo, forrada de cristales de yeso de hasta 2 metros."
+actividades:
+  - t: "Tour por Oleo Almanzora, Sala Negra, Mina Rica y Geoda de Pulpí"
+    u: "https://www.civitatis.com/es/pulpi/tour-mina-rica-geoda-pulpi/"
 ---
 Imagina una cueva forrada de **cristales transparentes de hasta 2 metros**, como si estuvieras dentro de un diamante. Existe, está en **Almería** y se puede visitar: es la **Geoda de Pulpí**, una de las más grandes del mundo.
 
@@ -47,6 +50,9 @@ Las plazas vuelan, así que te cuento cómo conseguir entradas 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/geoda-de-pulpi/cristales.webp" alt="Cristales de yeso de la Geoda de Pulpí" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los cristales</h3><p>Cristales de yeso de hasta 2 metros, limpios como el cristal.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/geoda-de-pulpi/jaravia.webp" alt="Minas y hornos de Pilar de Jaravía" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El paisaje minero</h3><p>Por fuera, restos de minas y hornos en la Sierra del Aguilón.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Geoda de Pulpí</h2></div>
 <div class="guide__howto"><p>Desde <strong>Almería</strong>, por la A-7 hacia Murcia hasta la salida de Pulpí y luego a <strong>Pilar de Jaravía</strong> (unos 1 h 30 min). Desde Murcia o Cartagena, algo más de 1 hora.</p><p>El punto de encuentro está señalizado y tiene aparcamiento.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Geoda%20de%20Pulp%C3%AD" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

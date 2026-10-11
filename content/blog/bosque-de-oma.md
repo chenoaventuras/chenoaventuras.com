@@ -25,6 +25,11 @@ faq:
     a: "Entre 1 y 2 horas, contando el paseo desde el aparcamiento."
   - q: "¿Cómo llegar al Bosque de Oma desde Bilbao?"
     a: "En coche hasta Kortezubi, en Urdaibai, a unos 5 km de Gernika."
+actividades:
+  - t: "Paseo en barco por la costa de Urdaibai desde Bermeo"
+    u: "https://www.civitatis.com/es/bermeo/paseo-barco-costa-urdaibai/"
+  - t: "Gernika: tour a pie «Guerra y paz»"
+    u: "https://www.getyourguide.es/guernica-l7936/tour-a-piedi-di-gernika-guerra-e-pace-t459126/"
 ---
 Árboles con ojos, rayas de colores y figuras que solo aparecen si te colocas en el sitio justo. El **Bosque de Oma**, en Urdaibai, es una obra de arte **pintada sobre un bosque** por el escultor vasco **Agustín Ibarrola**.
 
@@ -47,6 +52,9 @@ El bosque original murió, pero hay uno nuevo. Te cuento cómo visitarlo 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-oma/figuras.webp" alt="Figuras pintadas en el Bosque de Oma" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las figuras</h3><p>Colócate en el punto marcado y verás cómo se forman.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-oma/santimamine.webp" alt="Cueva de Santimamiñe en Kortezubi" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Cueva de Santimamiñe</h3><p>Al lado del bosque: arte rupestre de hace más de 13.000 años (se visita con reserva).</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Bosque de Oma</h2></div>
 <div class="guide__howto"><p>Desde <strong>Gernika</strong>, toma la carretera hacia Kortezubi y Lekeitio y luego la <strong>BI-4244</strong> hasta el final, donde está el aparcamiento señalizado del Bosque de Oma.</p><p>Desde Bilbao son unos 40 minutos en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Bosque%20de%20Oma%2C%20Kortezubi" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -25,6 +25,9 @@ faq:
     a: "El recorrido visitable tiene unos 1.200 metros, repartidos en tres niveles de galerías."
   - q: "¿Cómo llegar a la Gruta de las Maravillas?"
     a: "Está en pleno pueblo de Aracena (Huelva), a algo más de una hora en coche de Sevilla por la N-433."
+actividades:
+  - t: "Gruta de las Maravillas: entradas y tours"
+    u: "https://www.getyourguide.es/gruta-de-las-maravillas-l89748/"
 ---
 Imagina un pueblo de la sierra con su castillo en lo alto… y, justo debajo de sus calles, **una cueva con lagos subterráneos** y miles de estalactitas. Eso es la **Gruta de las Maravillas**, en Aracena (Huelva): una de las cuevas turísticas más visitadas de España y una de las primeras de Europa en abrirse al público, en 1914.
 
@@ -49,6 +52,9 @@ Te cuento cómo es la visita, el horario y qué más hacer en Aracena 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/gruta-de-las-maravillas-aracena/columna.webp" alt="Columna de roca en la Gruta de las Maravillas" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las columnas</h3><p>Cuando una estalactita y una estalagmita se juntan, forman columnas que van del suelo al techo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/gruta-de-las-maravillas-aracena/castillo.webp" alt="Murallas del castillo de Aracena" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El castillo, encima</h3><p>Al salir, sube al castillo de Aracena: estás justo encima de la cueva que acabas de recorrer.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Aracena</h2></div>
 <div class="guide__howto"><p>Aracena está en la <strong>Sierra de Aracena y Picos de Aroche</strong>, al norte de Huelva, a algo más de una hora en coche de <strong>Sevilla</strong> por la <strong>N-433</strong>.</p><p>La gruta está en pleno pueblo, en la <strong>calle Pozo de la Nieve</strong>. Lo más cómodo es aparcar en las afueras y llegar andando: el centro tiene calles estrechas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Gruta+de+las+Maravillas+Aracena" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.aracena.es/es/municipio/gruta/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Información oficial y entradas</a></div></div>

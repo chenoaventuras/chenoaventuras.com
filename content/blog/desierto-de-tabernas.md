@@ -25,6 +25,9 @@ faq:
     a: "En coche: rodea el pueblo de Tabernas, a unos 30 km de Almería capital, por la A-92."
   - q: "¿Qué se puede ver gratis en el Desierto de Tabernas?"
     a: "Recorrer el paraje, sus ramblas y miradores es gratis. Los poblados del oeste tienen entrada."
+actividades:
+  - t: "Tour en 4x4 por el desierto de Tabernas"
+    u: "https://www.civitatis.com/es/tabernas/tour-desierto-tabernas/"
 ---
 Cárcavas peladas, ramblas secas, un sol que no perdona… y de repente, un poblado del Far West con su saloon y su banco. No estás en Arizona: estás en el **Desierto de Tabernas**, a media hora de Almería capital, el sitio donde se rodaron los grandes *spaghetti western* de Sergio Leone.
 
@@ -49,6 +52,9 @@ Te cuento qué tiene de especial, qué ver y cómo exprimir una escapada al «sa
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/desierto-de-tabernas/rambla.webp" alt="Rambla en el Desierto de Tabernas" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las ramblas</h3><p>Cauces secos que solo llevan agua tras las tormentas. Son los caminos naturales para recorrer el desierto.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/desierto-de-tabernas/atardecer.webp" alt="Atardecer en el Desierto de Tabernas" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El atardecer</h3><p>Cuando baja el sol, las rocas se vuelven doradas. El mejor momento para hacer fotos.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Desierto de Tabernas</h2></div>
 <div class="guide__howto"><p>Desde <strong>Almería capital</strong> se tarda una media hora en coche por la <strong>A-92</strong>. Los poblados del oeste están junto a la carretera, señalizados, entre Almería y Tabernas.</p><p>Para adentrarte en el paraje lo mejor es ir con una <strong>excursión guiada en 4x4</strong> o seguir alguna ruta señalizada a pie o en bici. Los caminos de tierra pueden estar en mal estado: no te metas con un coche normal por cualquier rambla.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Desierto+de+Tabernas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://minihollywoodoasys.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Oasys MiniHollywood</a></div></div>

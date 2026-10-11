@@ -229,6 +229,10 @@ function readPosts() {
         ? data.faq.filter((f) => f && f.q && f.a).map((f) => ({ q: String(f.q).trim(), a: String(f.a).trim() }))
         : [],
       faqTitulo: data.faqTitulo ? String(data.faqTitulo).trim() : "",
+      // actividades: [{ t, u }] → bloque «Actividades recomendadas» (Civitatis / GetYourGuide con afiliado)
+      actividades: Array.isArray(data.actividades)
+        ? data.actividades.filter((a) => a && a.t && a.u).map((a) => ({ t: String(a.t).trim(), u: String(a.u).trim() }))
+        : [],
       html,
       url: `${SITE}/blog/${slug}.html`,
     });
@@ -438,6 +442,33 @@ function carBox(p) {
 `;
 }
 
+// enlaces de afiliado: se añaden aquí para poder cambiarlos en un solo sitio
+const AFF = {
+  civitatis: { name: "Civitatis", params: "aid=110968" },
+  getyourguide: { name: "GetYourGuide", params: "partner_id=PEUGCO9&utm_medium=online_publisher" },
+};
+const GYG_CODE = "CHENOAVENTURAS5";
+function affLink(u) {
+  const key = /civitatis\.com/.test(u) ? "civitatis" : /getyourguide\./.test(u) ? "getyourguide" : null;
+  if (!key) return { href: u, plat: "" };
+  const clean = u.split("?")[0];
+  return { href: `${clean}?${AFF[key].params}`, plat: AFF[key].name };
+}
+function activitiesBox(p) {
+  if (!p.actividades.length) return "";
+  const items = p.actividades.map((a) => ({ ...a, ...affLink(a.u) }));
+  const hasGyg = items.some((a) => a.plat === "GetYourGuide");
+  return `
+<div class="guide__head" id="actividades"><span class="eyebrow">Planes para reservar</span><h2>Actividades recomendadas</h2></div>
+<ul class="actbox">${items
+    .map(
+      (a) => `<li><a href="${esc(a.href)}" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--${a.plat === "Civitatis" ? "civ" : "gyg"}">${esc(a.plat)}</span><span class="actbox__name">${esc(a.t)}</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li>`
+    )
+    .join("")}</ul>
+${hasGyg ? `<p class="actbox__code">🎟️ En GetYourGuide usa el código <strong>${GYG_CODE}</strong> y llévate un 5% de descuento.</p>\n` : ""}
+`;
+}
+
 function faqBox(p) {
   if (!p.faq.length) return "";
   const title = p.faqTitulo || `Dudas sobre ${p.lugar || p.title}`;
@@ -553,7 +584,7 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
       <section class="section">
         <div class="container">
 ${p.html.includes("<!--guia-->") ? "" : guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
-${withNearby((p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", () => guideBox(p)).replace("<!--faq-->", () => carBox(p) + faqBox(p)), nearbyBox(nearby, p))}
+${withNearby((p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", () => guideBox(p)).replace("<!--actividades-->", () => activitiesBox(p)).replace("<!--faq-->", () => (p.html.includes("<!--actividades-->") ? "" : activitiesBox(p)) + carBox(p) + faqBox(p)), nearbyBox(nearby, p))}
           </div>
 ${authorBox()}${
   related.length

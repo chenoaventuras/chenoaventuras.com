@@ -26,6 +26,13 @@ faq:
     a: "Junto a la iglesia de San Pedro, en el centro de Teruel."
   - q: "¿Cuánto cuesta ver a los Amantes de Teruel?"
     a: "El mausoleo tiene entrada, con varias combinaciones según añadas la iglesia, la torre o el claustro."
+actividades:
+  - t: "Visita guiada por Teruel"
+    u: "https://www.civitatis.com/es/teruel/visita-guiada-teruel/"
+  - t: "Tour nocturno por Teruel"
+    u: "https://www.civitatis.com/es/teruel/tour-nocturno-teruel/"
+  - t: "Teruel: tour guiado por la catedral y el Museo de Arte Sacro"
+    u: "https://www.getyourguide.es/teruel-l99909/teruel-guided-tour-to-the-cathedral-museum-of-sacred-art-t1244524/"
 ---
 Mucho antes de que Shakespeare escribiera *Romeo y Julieta*, Teruel ya tenía su propia historia de amor trágico. **Isabel y Diego** murieron de amor en el siglo XIII, y hoy descansan juntos en un mausoleo donde sus manos casi se tocan.
 
@@ -50,6 +57,9 @@ Visitar a los **Amantes de Teruel** es la excusa perfecta para descubrir una ciu
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/amantes-de-teruel/torico.webp" alt="Plaza del Torico en Teruel" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Plaza del Torico</h3><p>El centro de la ciudad, con su diminuto toro sobre una columna. Tócalo para que te dé suerte.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/amantes-de-teruel/catedral.webp" alt="Techo mudéjar de la Catedral de Teruel" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La Catedral</h3><p>Por dentro, un techo de madera pintado del siglo XIII que llaman la Capilla Sixtina del mudéjar.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Teruel</h2></div>
 <div class="guide__howto"><p>Por la <strong>A-23</strong>, a unas dos horas desde Valencia o desde Zaragoza. También se llega en tren o autobús.</p><p>Hay aparcamientos públicos junto al centro histórico, que se recorre andando. El mausoleo está a pocos minutos de la Plaza del Torico.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Mausoleo%20de%20los%20Amantes%20de%20Teruel" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

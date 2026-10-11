@@ -22,6 +22,9 @@ faq:
     a: "No, el acceso es libre y gratis, sin reserva."
   - q: "¿Cuándo es mejor ir al Mirador de Chipeque?"
     a: "Al atardecer, para ver el sol esconderse tras el Teide; en días de mar de nubes, y de noche para ver las estrellas. Lleva abrigo: arriba refresca mucho."
+actividades:
+  - t: "Mirador de Chipeque: tours al atardecer y estrellas"
+    u: "https://www.getyourguide.es/mirador-de-chipeque-l134182/"
 ---
 A más de 1.800 metros de altitud, en pleno interior de Tenerife, hay un mirador que muchos ni siquiera conocen a pesar de ofrecer una de las mejores vistas de toda la isla: el Teide, un mar de nubes y, en días claros, hasta la silueta de La Palma en el horizonte.
 
@@ -42,6 +45,9 @@ El acceso al mirador es completamente libre y gratuito, sin necesidad de reserva
 ## Cuándo ir
 
 Al atardecer, para ver la puesta de sol tras el Teide; en días con mar de nubes, para una vista aún más espectacular; y de noche, para la observación de estrellas, gracias a la escasa contaminación lumínica de la zona.
+
+
+<!--actividades-->
 
 ## Cómo llegar y consejos
 

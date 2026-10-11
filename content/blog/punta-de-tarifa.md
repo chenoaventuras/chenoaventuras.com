@@ -23,6 +23,9 @@ faq:
     a: "En la Punta de Tarifa, donde hay un cartel que lo marca."
   - q: "¿Cómo llegar a la Punta de Tarifa?"
     a: "Desde el puerto de Tarifa sale el camino a la Isla de las Palomas. Hasta la entrada es libre, y allí está el cartel que separa los dos mares."
+actividades:
+  - t: "Avistamiento de cetáceos en Tarifa"
+    u: "https://www.civitatis.com/es/tarifa/avistamiento-cetaceos/"
 ---
 A un lado, el **Atlántico**. Al otro, el **Mediterráneo**. Y enfrente, a solo **14 km**, **África**. La **Punta de Tarifa** es el **punto más al sur de la Europa continental**.
 
@@ -44,6 +47,9 @@ Te cuento cómo llegar al cartel de los dos mares y qué más hacer en Tarifa �
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/punta-de-tarifa/mediterraneo.webp" alt="Cartel del Mar Mediterráneo en la Punta de Tarifa" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El lado Mediterráneo</h3><p>Date la vuelta: el mismo camino, otro mar.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/punta-de-tarifa/kite.webp" alt="Kitesurf en la playa de los Lances, Tarifa" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Playa de los Lances</h3><p>Kilómetros de arena llena de cometas de kitesurf.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Punta de Tarifa</h2></div>
 <div class="guide__howto"><p>Desde el centro de <strong>Tarifa</strong>, camina hacia el puerto y sigue el camino de la Isla de las Palomas: unos 10 minutos.</p><p>Tarifa está a 1 hora y media de Cádiz y a unos 45 minutos de Algeciras.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Isla%20de%20las%20Palomas%2C%20Tarifa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

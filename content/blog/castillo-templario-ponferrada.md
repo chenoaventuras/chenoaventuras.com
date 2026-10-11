@@ -21,6 +21,9 @@ faq:
     a: "A principios de julio, con desfiles, cenas históricas y mercado medieval."
   - q: "¿A qué distancia están Las Médulas de Ponferrada?"
     a: "A unos 20 km, unos 30 minutos en coche."
+actividades:
+  - t: "Visita guiada por Ponferrada y su castillo"
+    u: "https://www.civitatis.com/es/ponferrada/visita-guiada-ponferrada/"
 ---
 Murallas almenadas, torres, un puente levadizo y la cruz templaria por todas partes. El **Castillo de Ponferrada** parece sacado de una novela de caballeros… y en parte lo es, porque aquí la leyenda de los **templarios** está en cada piedra.
 
@@ -44,6 +47,9 @@ Además, Ponferrada es la puerta de entrada a **Las Médulas**, otro de los pais
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-templario-ponferrada/encina.webp" alt="Basílica de la Virgen de la Encina en Ponferrada" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Basílica de la Encina</h3><p>A pocos pasos del castillo, en el casco antiguo. Aquí está la Virgen que, según la leyenda, encontraron los templarios.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-templario-ponferrada/medulas.webp" alt="Paisaje de Las Médulas" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las Médulas</h3><p>A unos 20 km: montañas rojas excavadas por los romanos para sacar oro. Patrimonio de la Humanidad e imprescindible.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Ponferrada</h2></div>
 <div class="guide__howto"><p>Ponferrada está en la <strong>A-6</strong>, a una hora de León y unas cuatro de Madrid. El castillo está en el casco antiguo, con aparcamientos cerca.</p><p>Para <strong>Las Médulas</strong>, unos 30 minutos en coche hacia Carucedo. Desde el aparcamiento del pueblo salen las rutas y el camino al mirador de Orellán.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castillo%20de%20los%20Templarios%2C%20Ponferrada" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -33,6 +33,11 @@ faq:
     a: "En el Valle de Tena (Huesca), a unos 8 km por carretera del pueblo de Panticosa."
   - q: "¿Se puede visitar el Balneario de Panticosa sin entrar al spa?"
     a: "Sí, pasear por el entorno, el lago y las cascadas es gratis. Solo pagas si entras a las termas."
+actividades:
+  - t: "Balneario de Panticosa: circuito termal Termas de Tiberio (75 min)"
+    u: "https://www.getyourguide.es/balneario-de-panticosa-l204833/balneario-de-panticosa-75-thermal-circuit-tiberio-therms-t685195/"
+  - t: "Panticosa: parapente en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
 ---
 A **1.636 metros de altitud**, rodeado de montañas, cascadas y un lago de origen glaciar, el **Balneario de Panticosa** ofrece una de las experiencias termales más completas del <a href="/blog/pirineo-aragones-que-ver.html">Pirineo Aragonés</a>, con aguas conocidas y aprovechadas ya desde tiempos romanos.
 
@@ -56,6 +61,9 @@ Así se vive una tarde de termas en plena alta montaña 👇
 <p>Las aguas del balneario, conocidas desde época romana, brotan a más de 50 °C y son especialmente indicadas para la <strong>relajación</strong> y para problemas respiratorios y reumatológicos, gracias a su composición mineral. Y lo mejor es el entorno: un circo de alta montaña con un lago, cascadas y picos alrededor.</p>
 <p>Más allá de las termas, es un sitio ideal para la aventura: <strong>senderismo, raquetas de nieve, escalada y fotografía</strong>, según la época. De aquí sale, por ejemplo, la subida a los ibones de Bachimaña.</p>
 <div class="gallery"><figure><img src="/assets/img/blog/pirineo/balneario-lago.webp" alt="Balneario de Panticosa con su lago" loading="lazy" decoding="async" /><figcaption>El balneario y su lago, en pleno circo de montaña</figcaption></figure><figure><img src="/assets/img/blog/pirineo/balneario-invierno.webp" alt="Balneario de Panticosa en invierno" loading="lazy" decoding="async" /><figcaption>En invierno, todo nevado</figcaption></figure><figure><img src="/assets/img/instagram/18057693635513557.webp" alt="Termas del Balneario de Panticosa" loading="lazy" decoding="async" /><figcaption>Las termas, por dentro</figcaption></figure></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Un plan para todo el año</h2></div>
 <p>En <strong>otoño y primavera</strong> el entorno se llena de color; en <strong>verano</strong> es un planazo para escapar del calor; y en <strong>invierno</strong>, con todo nevado, puedes combinarlo con esquí en Formigal o Panticosa.</p>

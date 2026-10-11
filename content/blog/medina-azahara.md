@@ -22,6 +22,11 @@ faq:
     a: "Los lunes."
   - q: "¿Cómo llegar a Medina Azahara desde Córdoba?"
     a: "Está a unos 8 km de Córdoba. En coche no se llega hasta la puerta: se aparca en el museo y desde allí sube un autobús lanzadera."
+actividades:
+  - t: "Visita guiada por Medina Azahara"
+    u: "https://www.civitatis.com/es/cordoba/visita-guiada-medina-azahara/"
+  - t: "Tour nocturno por Medina Azahara"
+    u: "https://www.civitatis.com/es/cordoba/tour-nocturno-medina-azahara/"
 ---
 A las afueras de **Córdoba** hay una ciudad entera que fue la más lujosa de Europa... y que solo duró **70 años**. **Medina Azahara** fue la capital de los califas de al-Ándalus, y hoy es **Patrimonio de la Humanidad**.
 
@@ -46,6 +51,9 @@ Te cuento su historia y cómo organizar la visita (ojo, que no se llega en coche
 </ol>
 
 <div class="guide__howto"><h3>El Centro de Visitantes</h3><p>La visita empieza en el <strong>Centro de Visitantes</strong>, con un museo y un audiovisual que te ayudan a imaginar cómo era la ciudad. Desde allí sale el autobús lanzadera hasta el yacimiento.</p></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Medina Azahara</h2></div>
 <div class="guide__howto"><p>Desde <strong>Córdoba</strong> sale un <strong>autobús turístico</strong> hasta el Centro de Visitantes. Si vas en coche, aparcas en el Centro de Visitantes y desde allí subes al yacimiento en el <strong>autobús lanzadera</strong>: no se puede llegar en coche hasta las ruinas.</p><p>Desde el centro de Córdoba son unos 20 minutos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Centro%20de%20Visitantes%20Medina%20Azahara" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

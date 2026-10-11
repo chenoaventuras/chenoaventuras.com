@@ -28,6 +28,13 @@ faq:
     a: "Se celebra en julio, durante varios días, con un escenario junto al embalse."
   - q: "¿Cómo llegar a Lanuza?"
     a: "En el Valle de Tena (Huesca), a un par de minutos de Sallent de Gállego por la A-136."
+actividades:
+  - t: "Barranquismo en el Pirineo aragonés desde Biescas"
+    u: "https://www.civitatis.com/es/biescas/barranquismo-pirineo-aragones/"
+  - t: "Vía ferrata en el valle de Tena"
+    u: "https://www.civitatis.com/es/biescas/via-ferrata-valle-tena/"
+  - t: "Panticosa: parapente en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
 ---
 Rodeado de montañas y con un embalse de aguas turquesas a sus pies, **Lanuza** tiene una de esas historias que cuesta creer hasta que se conoce entera: un pueblo que quedó despoblado por completo y que, décadas después, sus propios vecinos consiguieron devolverle la vida.
 
@@ -55,6 +62,9 @@ Para mí es el pueblo más bonito de todo el Pirineo Aragonés, y te lo enseño 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Lanuza en fotos</h2></div>
 <div class="gallery"><figure><img src="/assets/img/instagram/18153484630375383.webp" alt="Lanuza con la Peña Foratata al fondo" loading="lazy" decoding="async" /><figcaption>La iglesia y los tejados de pizarra, con la Peña Foratata</figcaption></figure><figure><img src="/assets/img/instagram/18128755531437170.webp" alt="Vista aérea de Lanuza y su embalse" loading="lazy" decoding="async" /><figcaption>El pueblo entero junto al embalse</figcaption></figure><figure><img src="/assets/img/instagram/18066904559472018.webp" alt="Presa del embalse de Lanuza" loading="lazy" decoding="async" /><figcaption>La presa de Lanuza, impresionante desde arriba</figcaption></figure></div>
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DLDcnWHInGr/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver mi reel de la presa</a></p>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Lanuza</h2></div>
 <div class="guide__howto"><p>Lanuza está en el Valle de Tena, a un par de minutos de <strong>Sallent de Gállego</strong> por la A-136. Se aparca a la entrada del pueblo y se recorre andando.</p><p>Además de pasear por sus calles, el embalse permite practicar actividades acuáticas o simplemente sentarte a mirar el paisaje.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Lanuza%2C+Huesca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Lanuza en Google Maps</a></div></div>

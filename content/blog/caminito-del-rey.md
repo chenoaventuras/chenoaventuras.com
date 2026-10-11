@@ -31,6 +31,11 @@ faq:
     a: "Solo si quedan plazas en la taquilla del acceso norte. En temporada alta se agotan, así que mejor reservar en la web oficial."
   - q: "¿Se puede hacer el Caminito del Rey sin guía?"
     a: "Sí, la entrada general (10 €) es por libre. Si quieres que te lo cuenten, hay visita guiada oficial por 18 €."
+actividades:
+  - t: "Visita guiada por el Caminito del Rey (Ardales)"
+    u: "https://www.civitatis.com/es/ardales/visita-guiada-caminito-rey/"
+  - t: "Caminito del Rey: todas las entradas y tours"
+    u: "https://www.getyourguide.es/caminito-del-rey-l89646/"
 ---
 Durante años tuvo fama de ser **el camino más peligroso del mundo**. Hoy el **Caminito del Rey** es una pasarela segura colgada en las paredes del Desfiladero de los Gaitanes, en Málaga, a unos 100 metros sobre el río Guadalhorce. Y sigue siendo una de esas experiencias que te dejan con la boca abierta en cada curva.
 
@@ -57,6 +62,9 @@ Aquí te cuento cuánto cuestan las entradas, cómo es el recorrido, qué tienes
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/gaitanes.webp" alt="Desfiladero de los Gaitanes" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Desfiladero de los Gaitanes</h3><p>El tramo final y el más espectacular: paredes de más de 300 metros y, en algunos puntos, menos de 10 de ancho.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caminito-del-rey/panoramica.webp" alt="Vista panorámica del Desfiladero de los Gaitanes" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Al final del recorrido, el cañón se abre y ves todo el desfiladero desde arriba.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Caminito del Rey</h2></div>
 <div class="guide__howto"><p>Está a <strong>menos de 60 km de Málaga</strong>. Por carretera se va por la <strong>A-357</strong> hasta el cruce de Ardales y luego por la <strong>MA-5403</strong>. También hay <strong>tren regional</strong> de Renfe hasta la estación de <strong>El Chorro</strong>, que es donde termina la ruta.</p><p>Lo más cómodo es dejar el coche en el <strong>parking del Centro de Recepción de Visitantes</strong> (2 €/día; llega al menos una hora antes). Desde allí, el <strong>bus lanzadera</strong> (2,50 €, solo en efectivo si lo pagas al subir) te lleva al inicio. El billete vale para todo el día, así que al terminar puedes volver al coche con él.</p><p>Del parking a la entrada norte hay dos accesos a pie: un <strong>túnel de 1,5 km</strong> (unos 20 minutos) o la <strong>senda de Gaitanejo, de 2,7 km</strong> (unos 50 minutos).</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=36.91456538493755,-4.8071835875446105" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.caminitodelrey.info/es/entradas/comprar" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Comprar entradas oficiales</a></div></div>

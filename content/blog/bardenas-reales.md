@@ -27,6 +27,11 @@ faq:
     a: "La entrada más habitual es desde Arguedas, donde está el Centro de Información. Está a unos 15 minutos de Tudela y a una hora y cuarto de Pamplona o Zaragoza."
   - q: "¿Hay que reservar para ir a las Bardenas Reales?"
     a: "No: la entrada es gratis y no hace falta reserva. Abre desde las 8:00 hasta la puesta de sol."
+actividades:
+  - t: "Tour en todoterreno por las Bardenas Reales desde Arguedas"
+    u: "https://www.civitatis.com/es/arguedas/tour-4x4-bardenas-reales/"
+  - t: "Tour en buggy por las Bardenas Reales desde Tudela"
+    u: "https://www.civitatis.com/es/tudela/tour-buggy-bardenas-reales/"
 ---
 Llanuras de arcilla agrietada, cabezos que parecen mesas gigantes y una chimenea de roca en equilibrio imposible. Las **Bardenas Reales** son un paisaje semidesértico en pleno sur de Navarra, tan marciano que lo han usado de plató **Juego de Tronos** y hasta una película de James Bond.
 
@@ -51,6 +56,9 @@ Se pueden recorrer en coche, en bici o a pie, pero tienen sus normas (y un polí
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bardenas-reales/refugio.webp" alt="Refugio de pastores en las Bardenas Reales" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las cabañas de pastores</h3><p>Pequeñas construcciones de piedra y adobe que recuerdan que esto fue, y sigue siendo, tierra de pastoreo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bardenas-reales/blanca.webp" alt="Llanura de la Bardena Blanca" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las llanuras</h3><p>Kilómetros de tierra agrietada donde el horizonte parece no acabar nunca.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y cómo recorrerlas</h2></div>
 <div class="guide__howto"><p>La entrada más habitual es desde <strong>Arguedas</strong>, donde está el <strong>Centro de Información</strong> del parque. Está a unos 15 minutos de <strong>Tudela</strong> y a una hora y cuarto de Pamplona o Zaragoza.</p><p>Puedes recorrerlas <strong>en coche</strong> por la pista perimetral de la Bardena Blanca, en <strong>bici</strong> o a pie por los caminos señalizados. También hay empresas que organizan rutas en 4x4, buggy o bici eléctrica.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Centro+de+Información+Bardenas+Reales" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://bardenasreales.es/avisos-y-recomendaciones/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Avisos y cortes de caminos</a></div></div>

@@ -25,6 +25,9 @@ faq:
     a: "En el nordeste de Segovia, entre Sepúlveda y el embalse de Burgomillodo, a hora y media de Madrid."
   - q: "¿Cuánto cuesta visitar las Hoces del Duratón?"
     a: "Es gratis. Para San Frutos, ve hasta Villaseca, sigue la pista de 4 km hasta el aparcamiento y camina unos 20 minutos."
+actividades:
+  - t: "Alquiler de kayak en las Hoces del Duratón"
+    u: "https://www.civitatis.com/es/san-miguel-de-bernuy/alquiler-kayak-hoces-duraton/"
 ---
 Un río que serpentea en curvas imposibles al fondo de un cañón, cientos de **buitres** planeando a la altura de tus ojos y, en lo alto de un meandro, las ruinas de un priorato románico al borde del precipicio. Así son las **Hoces del Duratón**.
 
@@ -49,6 +52,9 @@ A una hora y media de Madrid, es uno de los paisajes más bestias del centro de 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hoces-del-duraton/kayak.webp" alt="Kayak en el río Duratón" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>En kayak</h3><p>Remar por el fondo del cañón es otra forma de verlo. Se hace con empresas autorizadas y fuera de la época de cría.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hoces-del-duraton/sepulveda.webp" alt="Sepúlveda, Segovia" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Sepúlveda</h3><p>Pueblo medieval colgado sobre el río, con la Casa del Parque y fama por su cordero asado.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a las Hoces del Duratón</h2></div>
 <div class="guide__howto"><p>Desde <strong>Madrid</strong>, por la A-1 hasta Cerezo de Abajo y luego hacia <strong>Sepúlveda</strong> (1 h 30). Para San Frutos, ve hasta <strong>Villaseca</strong> y toma la pista de unos 4 km hasta el aparcamiento de San Frutos.</p><p>Desde el aparcamiento, un paseo de unos 20 minutos te deja en la ermita. Pasa antes por la <strong>Casa del Parque</strong> en Sepúlveda para informarte de sendas y restricciones.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Ermita%20de%20San%20Frutos%2C%20Segovia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

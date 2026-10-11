@@ -23,6 +23,9 @@ faq:
     a: "Unas 3 horas en total, con paradas en la Cueva de los Monigotes y la Cueva de las Nutrias."
   - q: "¿Qué animales se ven en el Cañón de Almadenes?"
     a: "Tortugas, garzas, buitres y, con suerte, alguna nutria."
+actividades:
+  - t: "Rafting en el Cañón de Almadenes + Cueva del Puerto"
+    u: "https://www.getyourguide.es/calasparra-l178427/calasparra-tour-de-rafting-en-el-canon-de-almadenes-y-cueva-del-puerto-t425787/"
 ---
 Entre Cieza y Calasparra, el río Segura se abre paso entre paredes de roca de hasta 150 metros de altura, en uno de los espacios naturales más espectaculares de la Región de Murcia. Recorrerlo en barca, con calma y sin apenas dificultad técnica, es de esos planes que sorprenden a cualquiera.
 
@@ -43,6 +46,9 @@ El rafting turístico tiene un precio desde **18€ por persona**, aunque suele 
 ## Duración y dificultad
 
 La actividad completa dura en torno a **3 horas** y tiene una dificultad muy baja, apta para familias con niños y para quienes nunca han hecho rafting. La mejor época para practicarlo es primavera y verano, cuando el caudal y la temperatura del agua acompañan mejor.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

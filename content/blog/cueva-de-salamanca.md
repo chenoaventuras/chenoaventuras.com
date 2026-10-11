@@ -25,6 +25,9 @@ faq:
     a: "En el casco histórico, en la plaza del Padre Jerónimo Muñoz, junto a la Torre de Villena."
   - q: "¿Qué horario tiene la Cueva de Salamanca?"
     a: "Se visita gratis en un horario muy amplio, y en 15 minutos la has visto."
+actividades:
+  - t: "Free tour de las leyendas de Salamanca"
+    u: "https://www.civitatis.com/es/salamanca/free-tour-misterios-leyendas/"
 ---
 En una cripta de Salamanca, dice la leyenda, el mismísimo **diablo** daba clases de magia negra. Siete alumnos, siete años… y uno de ellos se quedaba con él para siempre como pago.
 
@@ -49,6 +52,9 @@ La **Cueva de Salamanca** existe, se puede visitar, y es el punto de partida per
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cueva-de-salamanca/cielo.webp" alt="Cielo de Salamanca en las Escuelas Menores" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El Cielo de Salamanca</h3><p>Una pintura del siglo XV con constelaciones y signos del zodiaco en las Escuelas Menores.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cueva-de-salamanca/celestina.webp" alt="Huerto de Calixto y Melibea en Salamanca" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Huerto de Calixto y Melibea</h3><p>El jardín donde la tradición sitúa los amores de La Celestina, junto a la muralla y con vistas al río.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Salamanca</h2></div>
 <div class="guide__howto"><p>Salamanca está a unas <strong>2 horas y media de Madrid</strong> por la A-50 o la A-62, y también se llega en tren y autobús.</p><p>Deja el coche en un aparcamiento del centro: el casco histórico se recorre a pie. La cueva está a unos 10 minutos de la Plaza Mayor.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cueva%20de%20Salamanca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -22,6 +22,9 @@ faq:
     a: "El Palacio de Sobrellano, el cementerio con el ángel exterminador, la Universidad Pontificia, el casco antiguo y la playa."
   - q: "¿A cuánto está Comillas de Santander?"
     a: "A unos 50 km por la autovía A-8, unos 40 minutos en coche."
+actividades:
+  - t: "Visita guiada por Comillas + Capricho de Gaudí"
+    u: "https://www.civitatis.com/es/comillas/visita-guiada-comillas-capricho-gaudi/"
 ---
 Un pueblo marinero de Cantabria con una **casa de Gaudí** cubierta de girasoles, un palacio neogótico, un ángel gigante vigilando un cementerio en ruinas y una universidad que parece un castillo. **Comillas** es el pueblo modernista por excelencia del norte, y además tiene playa.
 
@@ -48,6 +51,9 @@ Te cuento qué ver, cuánto cuesta El Capricho y algunas curiosidades 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/comillas-que-ver/cementerio.webp" alt="Cementerio de Comillas con el ángel exterminador" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El cementerio</h3><p>Ruinas góticas, panteones modernistas y el ángel de Llimona en lo alto.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/comillas-que-ver/seminario.webp" alt="Antiguo Seminario Pontificio de Comillas" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La Universidad Pontificia</h3><p>El antiguo seminario domina el pueblo desde la colina: un edificio enorme que parece un castillo.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Comillas</h2></div>
 <div class="guide__howto"><p>Está en la costa occidental de <strong>Cantabria</strong>, a unos 45 minutos en coche de <strong>Santander</strong> y a 15 de <strong>San Vicente de la Barquera</strong>.</p><p>El Capricho y el Palacio de Sobrellano están en la parte alta del pueblo, junto a un aparcamiento. El centro y la playa se recorren cómodamente andando.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=El+Capricho+de+Gaudí+Comillas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.elcaprichodegaudi.com/horarios-tarifas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Entradas de El Capricho</a></div></div>

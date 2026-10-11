@@ -11,6 +11,9 @@ tags:
   - Actividades
   - Cataluña
 wide: true
+actividades:
+  - t: "Alquiler de kayak en el Congost de Mont-rebei"
+    u: "https://www.getyourguide.es/barcelona-l45/barcelona-kayak-rental-in-the-mont-rebei-gorge-t1017662/"
 ---
 Paredes de **500 metros** de altura, un río de color turquesa y un camino **excavado en la roca** colgado sobre el vacío. El **Congost de Mont-rebei**, en la sierra del **Montsec**, es uno de los desfiladeros más espectaculares de España, y uno de los pocos que no está atravesado por ninguna carretera.
 
@@ -34,6 +37,9 @@ Te cuento la ruta, cómo reservar parking, cómo hacerlo en kayak y la situació
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/congost-de-mont-rebei/montfalco2.webp" alt="Embalse junto a las pasarelas de Montfalcó" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Lado aragonés</h3><p>El embalse de Canelles visto desde la zona de Montfalcó.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/congost-de-mont-rebei/montfalco.webp" alt="Pasarelas de Montfalcó en la pared" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Pasarelas de Montfalcó</h3><p>Cerradas desde agosto de 2026 por un desprendimiento. Consulta su estado.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Mont-rebei</h2></div>
 <div class="guide__howto"><p>Al parking de <strong>La Masieta</strong> se llega desde <strong>Àger</strong> o desde <strong>Sant Esteve de la Sarga</strong> (Lleida). Desde Lleida son unas 1 h 30 min; desde Barcelona, unas 2 h 45 min.</p><p>El lado aragonés (Montfalcó) se accede desde <strong>Viacamp</strong> (Huesca), con parking gratuito, pero mientras sigan cerradas las pasarelas la ruta clásica por ese lado no se puede hacer.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Aparcament%20de%20La%20Masieta%2C%20Congost%20de%20Mont-rebei" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

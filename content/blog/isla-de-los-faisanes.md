@@ -27,6 +27,9 @@ faq:
     a: "De febrero a julio. De agosto a enero es francesa."
   - q: "¿Desde dónde se ve la Isla de los Faisanes?"
     a: "Desde la orilla del Bidasoa, en el barrio de Behobia (Irun). No se puede entrar por libre."
+actividades:
+  - t: "Free tour por Hondarribia"
+    u: "https://www.civitatis.com/es/hondarribia/free-tour-hondarribia/"
 ---
 En el río Bidasoa, entre **Irun** y **Hendaya**, hay una isla diminuta que **cambia de país cada seis meses**: de febrero a julio es española y de agosto a enero, francesa. Es la **Isla de los Faisanes**, el condominio más pequeño del mundo.
 
@@ -51,6 +54,9 @@ Y aquí se firmó la paz entre España y Francia en 1659. Te lo cuento 👇
 </ol>
 
 <div class="guide__howto"><h3>¿Se puede visitar?</h3><p>Por libre, no. La isla está cerrada al público y solo se abre de forma excepcional en visitas guiadas que organizan alguna vez las oficinas de turismo de <strong>Irun</strong> y <strong>Hendaya</strong>. Si te interesa, pregunta allí.</p></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Isla de los Faisanes</h2></div>
 <div class="guide__howto"><p>Ve a <strong>Behobia</strong> (Irun), junto al puente internacional. Desde el paseo del río Bidasoa, en el lado español, se ve la isla a pocos metros. También se ve desde el lado francés.</p><p>Desde San Sebastián son unos 20 minutos en coche o en el Topo (tren) hasta Irun.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Isla%20de%20los%20Faisanes%2C%20Irun" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

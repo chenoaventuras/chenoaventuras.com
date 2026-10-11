@@ -23,6 +23,9 @@ faq:
     a: "En Güímar, en el sureste de Tenerife, a unos 25 km de Santa Cruz."
   - q: "¿Cómo llegar a las Pirámides de Güímar?"
     a: "En coche: están en Güímar, en el sureste de Tenerife, a unos 25 km de Santa Cruz."
+actividades:
+  - t: "Entrada a las Pirámides de Güímar"
+    u: "https://www.civitatis.com/es/guimar/entrada-piramides-guimar/"
 ---
 En **Tenerife** hay **pirámides**. Seis, de piedra volcánica negra y con escalones, en el pueblo de **Güímar**. Un explorador famoso pensó que tenían relación con las de Egipto y México... y los arqueólogos dicen otra cosa.
 
@@ -47,6 +50,9 @@ Te cuento el misterio y cómo visitarlas 👇
 </ol>
 
 <div class="guide__howto"><h3>El museo y el jardín venenoso</h3><p>El parque tiene un museo sobre Heyerdahl y las culturas antiguas, y un jardín botánico con una zona de <strong>plantas venenosas</strong> de todo el mundo (solo para mirar, claro).</p></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a las Pirámides de Güímar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Santa Cruz de Tenerife</strong>, por la autopista TF-1 hacia el sur hasta la salida de Güímar (unos 25 minutos). El parque tiene aparcamiento.</p><p>Desde el sur de la isla (Los Cristianos) son unos 45 minutos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pir%C3%A1mides%20de%20G%C3%BC%C3%ADmar" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

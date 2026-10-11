@@ -22,6 +22,11 @@ faq:
     a: "Recorrer la muralla, perderse en el laberinto y, en verano, alquilar una canoa en el río Lozoya."
   - q: "¿Por qué hay un museo de Picasso en Buitrago?"
     a: "Porque Picasso era amigo de Eugenio Arias, el barbero del pueblo, y esa amistad dio forma a la colección que hoy se visita gratis."
+actividades:
+  - t: "Free tour por Buitrago del Lozoya"
+    u: "https://www.civitatis.com/es/buitrago-lozoya/free-tour-buitrago-lozoya/"
+  - t: "Alquiler de kayak en el embalse de Riosequillo"
+    u: "https://www.civitatis.com/es/pinilla-de-buitrago/alquiler-kayak-embalse-riosequillo/"
 ---
 A poco más de una hora de Madrid capital hay un pueblo que conserva algo que ningún otro de la comunidad puede presumir: su muralla medieval completa, casi abrazada por un río. Se llama Buitrago del Lozoya, y es de esas escapadas que no hace falta planear con meses de antelación.
 
@@ -42,6 +47,9 @@ El **río Lozoya** rodea el pueblo y crea un paisaje perfecto para pasear, senta
 ## Cuánto cuesta la visita
 
 Pasear por el pueblo, el museo y buena parte de la muralla es gratuito. Si quieres acceder a la zona de la muralla con armas de asedio, la entrada cuesta 2€ (1€ para mayores de 65 años y gratis para menores de 12). La iglesia también es gratuita, aunque subir al campanario tiene un coste simbólico de 1€.
+
+
+<!--actividades-->
 
 ## Cómo llegar a Buitrago del Lozoya
 

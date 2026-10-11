@@ -21,6 +21,11 @@ faq:
     a: "En tren de Cercanías desde Madrid, o en coche por la A-2."
   - q: "¿Cuál es la mejor hora para ver el Mercado Cervantino?"
     a: "Por la mañana, cuando hay menos gente. Para el torneo, ve con tiempo si quieres buen sitio."
+actividades:
+  - t: "Visita guiada por Alcalá de Henares"
+    u: "https://www.civitatis.com/es/alcala-de-henares/visita-guiada-alcala-de-henares/"
+  - t: "Free tour de Miguel de Cervantes en Alcalá de Henares"
+    u: "https://www.civitatis.com/es/alcala-de-henares/ruta-cervantes/"
 ---
 Una vez al año, el casco histórico de Alcalá de Henares retrocede varios siglos: puestos ambientados, oficios de época y, como colofón, un torneo de justas medievales que reúne a caballeros a caballo delante de cientos de espectadores. Es el Mercado Cervantino, y es de esos planes que hay que vivir al menos una vez.
 
@@ -41,6 +46,9 @@ El Mercado Cervantino se celebra habitualmente a **principios o mediados de octu
 ## Consejos para la visita
 
 Al ser un evento multitudinario, conviene ir con tiempo si quieres conseguir buen sitio para el torneo, y aprovechar las horas de menos gente (por la mañana) para recorrer el mercado con más tranquilidad. Alcalá de Henares, además, merece una vuelta por su universidad y su casco histórico, Patrimonio de la Humanidad, aprovechando el viaje.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

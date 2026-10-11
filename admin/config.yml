@@ -65,6 +65,14 @@ collections:
           default: false,
         }
       - { name: faqTitulo, label: 'Título de las preguntas frecuentes', widget: string, required: false, hint: 'Opcional. Por defecto: «Dudas sobre <lugar>».' }
+      - name: actividades
+        label: 'Actividades recomendadas (Civitatis / GetYourGuide)'
+        widget: list
+        required: false
+        hint: 'Opcional. Pon el enlace limpio de la actividad: el código de afiliado se añade solo.'
+        fields:
+          - { name: t, label: Nombre de la actividad, widget: string }
+          - { name: u, label: Enlace (civitatis.com o getyourguide.es), widget: string }
       - name: faq
         label: 'Preguntas frecuentes (al final del post)'
         widget: list

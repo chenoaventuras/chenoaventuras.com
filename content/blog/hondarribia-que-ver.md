@@ -22,6 +22,11 @@ faq:
     a: "Medio día para el pueblo; un día completo si sumas una ruta por Jaizkibel."
   - q: "¿A cuánto está Hondarribia de San Sebastián?"
     a: "A unos 25 minutos en coche. Está en la desembocadura del Bidasoa, frente a Hendaya."
+actividades:
+  - t: "Tour en kayak por Hondarribia"
+    u: "https://www.civitatis.com/es/hondarribia/tour-kayak-hondarribia/"
+  - t: "Free tour por Hondarribia"
+    u: "https://www.civitatis.com/es/hondarribia/free-tour-hondarribia/"
 ---
 Un casco medieval amurallado en lo alto, un barrio de pescadores con balcones de colores abajo y, al otro lado de la bahía, Francia. **Hondarribia** es uno de los pueblos más bonitos de la costa vasca, y la puerta de entrada a **Jaizkibel**, uno de los montes con mejores vistas del Cantábrico.
 
@@ -46,6 +51,9 @@ Te cuento qué ver y qué ruta hacer 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hondarribia-que-ver/faro.webp" alt="Faro de Higer en Hondarribia" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El faro de Higer</h3><p>En el Cabo de Higer, el punto más al norte de Gipuzkoa. Desde aquí empiezan rutas por la costa de Jaizkibel.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hondarribia-que-ver/plaza.webp" alt="Plaza de Armas de Hondarribia con el castillo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La Plaza de Armas</h3><p>Con el castillo-parador a un lado y casas con balcones de colores al otro.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Hondarribia</h2></div>
 <div class="guide__howto"><p>Desde <strong>San Sebastián</strong> se llega en unos 25 minutos en coche o en autobús. El aeropuerto de San Sebastián está en el propio Hondarribia.</p><p>Aparca en la parte baja, cerca de La Marina, y sube andando al casco antiguo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Plaza+de+Armas+Hondarribia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Faro+de+Higer" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Faro de Higer</a></div></div>

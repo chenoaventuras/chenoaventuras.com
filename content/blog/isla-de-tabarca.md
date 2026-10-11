@@ -23,6 +23,11 @@ faq:
     a: "Un día es suficiente para recorrerla, bañarte y comer. Si quieres vivirla tranquila, quédate a dormir."
   - q: "¿Cuánto se tarda en llegar a Tabarca?"
     a: "Desde Santa Pola, el trayecto más corto, unos 25-30 minutos en barco. También hay barcos desde Alicante."
+actividades:
+  - t: "Excursión a Tabarca en barco desde Santa Pola"
+    u: "https://www.civitatis.com/es/santa-pola/excursion-tabarca-barco/"
+  - t: "Excursión a Tabarca en barco + snorkel desde Santa Pola"
+    u: "https://www.civitatis.com/es/santa-pola/excursion-tabarca-snorkel/"
 ---
 Una isla pequeñita, plana, con un pueblo amurallado, un faro y unas aguas tan claras que fue la **primera reserva marina de España**. **Tabarca** es la única isla habitada de la Comunidad Valenciana y uno de los mejores sitios del Mediterráneo para hacer **snorkel** sin necesidad de barco propio.
 
@@ -47,6 +52,9 @@ Te cuento cómo llegar, dónde meterte al agua y qué ver en la isla 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/isla-de-tabarca/faro.webp" alt="Faro de la isla de Tabarca" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El faro</h3><p>En la parte deshabitada de la isla, un camino lleva al faro entre vegetación de matorral y gaviotas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/isla-de-tabarca/camino.webp" alt="Camino junto al mar en la isla de Tabarca" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El campo</h3><p>La mitad este de la isla es campo abierto: ideal para pasear con el mar a ambos lados.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Tabarca</h2></div>
 <div class="guide__howto"><p>Lo más rápido es salir desde el <strong>puerto de Santa Pola</strong>, con barcos frecuentes durante todo el año (más en verano). Desde el <strong>puerto de Alicante</strong> el trayecto es más largo, pero cómodo si te alojas en la ciudad.</p><p>Algunas navieras ofrecen barcos con <strong>fondo de cristal</strong> para ver el fondo marino durante el trayecto. Compra la vuelta con hora reservada en verano.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Puerto+de+Santa+Pola" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Puerto de Santa Pola</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Isla+de+Tabarca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Isla de Tabarca</a></div></div>

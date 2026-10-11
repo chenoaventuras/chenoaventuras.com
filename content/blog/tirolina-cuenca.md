@@ -23,6 +23,9 @@ faq:
     a: "El vuelo dura segundos, pero con la charla de seguridad y la espera cuenta 30-45 minutos en total."
   - q: "¿Hay límite de peso en la tirolina de Cuenca?"
     a: "Sí, hay que pesar entre 35 y 120 kg."
+actividades:
+  - t: "Tour de Cuenca al completo con entradas"
+    u: "https://www.civitatis.com/es/cuenca/visita-guiada-cuenca-completa/"
 ---
 Pocas tirolinas del mundo tienen un decorado como este: la Hoz del Huécar por debajo y las Casas Colgadas de Cuenca asomando al fondo, como telón de fondo de un vuelo de pocos segundos que se recuerda mucho más tiempo.
 
@@ -43,6 +46,9 @@ La actividad en sí dura apenas unos segundos de vuelo, pero contando la explica
 ## Qué más ver en la zona
 
 Aprovechando la visita, merece la pena recorrer las **Casas Colgadas**, el Puente de San Pablo (con vistas espectaculares a ambos cañones) y el propio casco histórico de Cuenca, declarado Patrimonio de la Humanidad por la UNESCO.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

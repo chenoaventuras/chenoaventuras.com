@@ -23,6 +23,11 @@ faq:
     a: "Hay un banco de azulejos dedicado a cada provincia española de la época, con su escudo, su mapa y una escena histórica."
   - q: "¿Quién construyó la Plaza de España?"
     a: "El arquitecto sevillano Aníbal González, para la Exposición Iberoamericana de 1929."
+actividades:
+  - t: "Visita guiada por la Plaza de España y el Parque de María Luisa"
+    u: "https://www.civitatis.com/es/sevilla/visita-guiada-parque-maria-luisa/"
+  - t: "Paseo en barco por Sevilla con guía"
+    u: "https://www.civitatis.com/es/sevilla/paseo-barco-sevilla-guia/"
 ---
 Hay sitios que salen en todas las fotos de Sevilla, y la **Plaza de España** es el número uno. Un semicírculo enorme de ladrillo y azulejo, con torres, puentes, un canal donde puedes remar en barca… y tanto aire de palacio de cuento que **hasta Star Wars la eligió para rodar**.
 
@@ -47,6 +52,9 @@ Te cuento sus curiosidades, qué no te puedes perder y lo que tienes que saber a
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/plaza-de-espana-sevilla/torre.webp" alt="Torre de la Plaza de España de Sevilla" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las torres</h3><p>Dos torres de estilo barroco cierran la plaza por los extremos. Se ven desde todo el parque de María Luisa.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/plaza-de-espana-sevilla/fachada.webp" alt="Edificio central de la Plaza de España" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El edificio central</h3><p>Hoy alberga dependencias oficiales, pero su fachada de ladrillo y cerámica es la foto más clásica de Sevilla.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Plaza de España</h2></div>
 <div class="guide__howto"><p>Está junto al <strong>Parque de María Luisa</strong>, a unos 15-20 minutos andando desde la Catedral. También puedes llegar en <strong>metro</strong> (parada Prado de San Sebastián) o en el <strong>tranvía</strong> hasta Prado.</p><p>Lo ideal es combinarla con un paseo por el parque de María Luisa, que está justo al lado.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Plaza+de+España+Sevilla" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

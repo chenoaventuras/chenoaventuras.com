@@ -24,6 +24,13 @@ faq:
     a: "A menos de una hora: en coche por la A-4, en tren de Cercanías o, en primavera y otoño, en el histórico Tren de la Fresa."
   - q: "¿Cuánto se tarda en ver el Palacio Real de Aranjuez?"
     a: "Cuenta un par de horas para el palacio y otro buen rato para pasear por los jardines, que son gratis."
+actividades:
+  - t: "Visita guiada por el Palacio Real de Aranjuez"
+    u: "https://www.civitatis.com/es/aranjuez/visita-guiada-palacio-aranjuez/"
+  - t: "Free tour por Aranjuez"
+    u: "https://www.civitatis.com/es/aranjuez/free-tour-aranjuez/"
+  - t: "Paseo en barco por Aranjuez"
+    u: "https://www.civitatis.com/es/aranjuez/paseo-barco-aranjuez/"
 ---
 Un palacio real rodeado de jardines, fuentes y bosques junto al río Tajo, a menos de una hora de Madrid. **Aranjuez** fue durante siglos la residencia de primavera de los reyes de España, y hoy su paisaje cultural es **Patrimonio de la Humanidad**.
 
@@ -50,6 +57,9 @@ Y para llegar hay una forma de cuento: el **Tren de la Fresa**, un tren históri
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aranjuez-que-ver/labrador.webp" alt="Real Casa del Labrador en Aranjuez" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Casa del Labrador</h3><p>Un palacete de recreo con interiores lujosísimos. Se visita en grupos reducidos.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aranjuez-que-ver/tren.webp" alt="Locomotora de vapor del Tren de la Fresa" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Tren de la Fresa</h3><p>Vagones de madera, azafatas de época y fresas de Aranjuez durante el viaje.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Aranjuez</h2></div>
 <div class="guide__howto"><p>En <strong>tren de Cercanías</strong> (C-3) desde Atocha se llega en unos 45 minutos. En coche, por la A-4, en unos 45 minutos desde Madrid.</p><p>Desde la estación se va andando al palacio en unos 10 minutos. Para recorrer los jardines grandes, lo mejor es alquilar una bici o coger el trenecito turístico.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Palacio+Real+de+Aranjuez" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://tickets.patrimonionacional.es/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Entradas Patrimonio Nacional</a></div></div>

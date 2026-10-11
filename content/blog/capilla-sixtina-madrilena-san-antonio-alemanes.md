@@ -23,6 +23,11 @@ faq:
     a: "También da acceso al cercano Monasterio de San Plácido, con audioguía incluida."
   - q: "¿Cuándo ir para que haya poca gente?"
     a: "Entre semana, a primera hora o a mediodía."
+actividades:
+  - t: "Entrada combinada a San Antonio de los Alemanes y Monasterio de San Plácido"
+    u: "https://www.getyourguide.es/madrid-l46/entrada-combinada-a-san-antonio-de-los-alemanes-y-monasterio-de-san-placido-t1103055/"
+  - t: "Free tour por Chueca y Malasaña (incluye San Antonio de los Alemanes)"
+    u: "https://www.civitatis.com/es/madrid/free-tour-chueca-malasana/"
 ---
 Por fuera es una iglesia más entre las calles de Malasaña. Por dentro, es de esos sitios donde te quedas mirando al techo durante varios minutos sin darte cuenta del tiempo que pasa. Así es la iglesia de San Antonio de los Alemanes, conocida como la "Capilla Sixtina madrileña".
 
@@ -49,6 +54,9 @@ El billete de acceso a la iglesia incluye también la visita al cercano **Monast
 Si quieres disfrutarla con calma, ve entre semana y a primera hora o a mediodía: es cuando menos gente suele haber. Ten en cuenta que el impacto está en el interior, no en la fachada, así que desde fuera puede parecer una iglesia cualquiera. Sigue siendo un espacio de culto activo, así que conviene mantener el silencio como en cualquier otra iglesia.
 
 Si te gusta la fotografía de interiores, pocos sitios en Madrid dan tanto juego como este.
+
+
+<!--actividades-->
 
 ## Cómo llegar a San Antonio de los Alemanes
 

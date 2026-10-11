@@ -22,6 +22,9 @@ faq:
     a: "Sí, desde el casco antiguo, aunque es una cuesta exigente. También se puede subir en coche o en el trenecito turístico."
   - q: "¿Cómo llegar a Xàtiva desde Valencia?"
     a: "En coche, en unos 45 minutos, o en tren de Cercanías desde Valencia. Al castillo puedes subir andando, en coche o en el trenecito turístico."
+actividades:
+  - t: "Visita al castillo de Xàtiva"
+    u: "https://www.getyourguide.es/valencia-l49/visita-al-castell-de-xativa-t1192801/"
 ---
 Un castillo gigantesco que recorre la cresta de una sierra, una ciudad con casi mil fuentes y un museo donde un **rey cuelga boca abajo** desde hace décadas. **Xàtiva** tiene historia de sobra: aquí nacieron dos papas Borja y aquí se fabricó el primer papel de Europa.
 
@@ -46,6 +49,9 @@ Te cuento qué ver y cómo organizar la subida al castillo 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/xativa-que-ver/subida.webp" alt="Subida al castillo mayor de Xàtiva" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La subida</h3><p>Escaleras, rampas y jardines: la subida ya es parte de la aventura.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/xativa-que-ver/vistas.webp" alt="Vista de Xàtiva y el castillo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La ciudad a sus pies</h3><p>Desde arriba ves la Seu, el casco antiguo y la huerta valenciana.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Xàtiva</h2></div>
 <div class="guide__howto"><p>Desde <strong>Valencia</strong> se llega en unos 50 minutos en coche por la A-7 o en <strong>tren de Cercanías</strong>. Desde Alicante, en algo más de una hora.</p><p>El casco antiguo se recorre a pie. Para subir al castillo, valora el trenecito o el coche si vas con calor o niños.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castell+de+Xàtiva" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.xativaturisme.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Turismo de Xàtiva (entradas)</a></div></div>

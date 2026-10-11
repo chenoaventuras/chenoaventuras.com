@@ -475,6 +475,19 @@ p { margin: 0 0 1em; }
   margin-top: .4em; --btn-bg: var(--gold); --btn-fg: var(--night); border-color: var(--gold);
 }
 .article__callout--booking a.btn:hover { background: var(--gold-bright); border-color: var(--gold-bright); }
+/* actividades recomendadas (afiliados Civitatis / GetYourGuide) */
+.article__body .actbox { list-style: none; padding: 0; margin: 0 auto 14px; max-width: 68ch; display: grid; gap: 10px; }
+.article__body .actbox li { margin: 0; }
+.article__body .actbox a { display: flex; align-items: center; gap: 12px; padding: 14px 16px; background: var(--white); border-radius: 12px; box-shadow: var(--shadow-sm); text-decoration: none; color: var(--night); border-left: 4px solid var(--gold); transition: transform .15s ease, box-shadow .15s ease; }
+.article__body .actbox a:hover { transform: translateY(-1px); box-shadow: var(--shadow-md, var(--shadow-sm)); }
+.actbox__plat { flex: none; font-size: .72rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; padding: 4px 8px; border-radius: 999px; color: #fff; }
+.actbox__plat--civ { background: #e2004f; }
+.actbox__plat--gyg { background: #ff5533; }
+.actbox__name { flex: 1; font-family: var(--font-head); font-weight: 600; font-size: 1rem; line-height: 1.35; }
+.actbox__go { flex: none; font-weight: 700; color: var(--gold-dark, var(--night)); font-size: .92rem; white-space: nowrap; }
+.article__body .actbox__code { max-width: 68ch; margin: 0 auto 6px; font-size: .98rem; }
+.article__body .actbox__note { max-width: 68ch; margin: 0 auto 32px; font-size: .82rem; color: var(--ink-mute); }
+@media (max-width: 560px) { .article__body .actbox a { flex-wrap: wrap; gap: 6px 10px; } .actbox__name { flex-basis: 100%; order: 2; } .actbox__go { order: 3; } }
 /* ---------- Guías (posts con wide: true) ---------- */
 .article__body--wide { max-width: none; }
 .article__body--wide > p { max-width: 68ch; margin-inline: auto; }

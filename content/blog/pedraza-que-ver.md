@@ -22,6 +22,9 @@ faq:
     a: "Se recorre en pocas horas, así que encaja bien en una escapada de un día."
   - q: "¿Se puede visitar la cárcel de Pedraza?"
     a: "Sí, es una de las pocas cárceles medievales de España que se pueden visitar, con celdas y objetos de la época."
+actividades:
+  - t: "Tour privado por Pedraza"
+    u: "https://www.civitatis.com/es/pedraza/tour-privado-pedraza/"
 ---
 Hay pueblos a los que entras por varias calles y pueblos a los que solo se entra por un sitio. Pedraza es de los segundos, y esa sola puerta ya dice mucho de lo bien conservada que está esta villa medieval de Segovia.
 
@@ -48,6 +51,9 @@ Muy cerca del castillo se encuentra la **iglesia de San Juan Bautista**, uno de 
 ## La Noche de las Velas, el momento más mágico para visitarla
 
 Si puedes elegir cuándo ir, resérvate los dos primeros sábados de julio para la **Noche de las Velas**: miles de velas iluminan las calles de Pedraza y la convierten, según quienes la han vivido, en uno de los planes más especiales de toda España. El resto del año, la villa conserva ese mismo encanto de piedra y calles vacías, solo que con menos velas y menos gente.
+
+
+<!--actividades-->
 
 ## Cómo llegar a Pedraza
 

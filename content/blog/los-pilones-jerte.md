@@ -22,6 +22,11 @@ faq:
     a: "No, la ruta es gratuita y el aparcamiento junto al Centro de Interpretación también."
   - q: "¿Dónde empieza la ruta de Los Pilones?"
     a: "En el Centro de Interpretación de la Garganta de los Infiernos, junto al pueblo de Jerte (Cáceres). Desde allí son unos 3 km fáciles hasta las pozas."
+actividades:
+  - t: "Tour en 4x4 por la Garganta de los Infiernos y Los Pilones"
+    u: "https://www.civitatis.com/es/jerte/tour-4x4-garganta-infiernos/"
+  - t: "Tour en 4x4 por el Valle del Jerte + recogida de cerezas"
+    u: "https://www.civitatis.com/es/jerte/tour-4x4-jerte-recogida-cerezas/"
 ---
 Imagina un río de agua cristalina que ha ido excavando el granito hasta dejarlo pulido como si fuera mármol, formando **pozas redondas** una detrás de otra. Eso son **Los Pilones**, en la Reserva Natural de la Garganta de los Infiernos, en el Valle del Jerte.
 
@@ -46,6 +51,9 @@ Se llega con una ruta corta y fácil, y en verano es una de las mejores piscinas
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/los-pilones-jerte/agua.webp" alt="Agua bajando entre rocas en la Garganta de los Infiernos" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El agua</h3><p>Fría incluso en agosto, viene directa de la sierra. Perfecta para refrescarse tras la caminata.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/los-pilones-jerte/cerezos.webp" alt="Cerezos en flor en el Valle del Jerte" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los cerezos en flor</h3><p>En primavera, el valle entero se cubre de blanco. En junio y julio, de cerezas.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Los Pilones</h2></div>
 <div class="guide__howto"><p>La ruta sale del <strong>Centro de Interpretación de la Reserva Natural Garganta de los Infiernos</strong>, entre Jerte y Cabezuela del Valle, junto a la N-110. Desde Plasencia se tarda unos 40 minutos.</p><p>Hay aparcamiento junto al centro. En verano y fines de semana se llena pronto: llega a primera hora.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Centro+de+Interpretación+Garganta+de+los+Infiernos" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

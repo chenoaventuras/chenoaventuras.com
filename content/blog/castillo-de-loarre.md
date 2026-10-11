@@ -25,6 +25,9 @@ faq:
     a: "Son unos 35 km, unos 40 minutos en coche. Desde el pueblo de Loarre, una carretera sube 5 km hasta el aparcamiento del castillo."
   - q: "¿Qué horario tiene el castillo de Loarre?"
     a: "Cambia según la temporada y suele cerrar los lunes en temporada baja: consulta su web antes de ir."
+actividades:
+  - t: "Vuelo en parapente por Huesca y el Pirineo desde Loarre"
+    u: "https://www.civitatis.com/es/loarre/vuelo-parapente-huesca/"
 ---
 Mil años en lo alto de una peña, murallas con torres redondas, una iglesia románica dentro del recinto y unas vistas que llegan hasta el horizonte. El **castillo de Loarre** es tan de película que **Ridley Scott** lo eligió para rodar *El reino de los cielos*.
 
@@ -49,6 +52,9 @@ Está considerado uno de los castillos románicos mejor conservados de Europa, y
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-loarre/torre-reina.webp" alt="Torre de la Reina en el castillo de Loarre" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La torre de la Reina</h3><p>Con sus ventanas geminadas, una de las partes más antiguas del castillo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-loarre/vistas.webp" alt="Vistas desde el castillo de Loarre" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las vistas</h3><p>La llanura de la Hoya de Huesca a tus pies. Al atardecer, la piedra del castillo se pone dorada.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Loarre</h2></div>
 <div class="guide__howto"><p>Desde <strong>Huesca</strong>, toma la A-132 hacia Ayerbe y desvíate hacia <strong>Loarre</strong>. Desde el pueblo, una carretera sube unos 5 km hasta el aparcamiento del castillo.</p><p>También se puede subir andando desde el pueblo de Loarre por un sendero señalizado (algo menos de una hora, con desnivel).</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castillo%20de%20Loarre" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

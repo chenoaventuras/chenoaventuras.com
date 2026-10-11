@@ -11,6 +11,9 @@ tags:
   - Actividades
   - Canarias
 wide: true
+actividades:
+  - t: "Excursión al volcán Tajogaite"
+    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
 ---
 Bosques de laurisilva, un cráter gigante lleno de pinos, volcanes recién nacidos, piscinas naturales en la lava y uno de los **mejores cielos del mundo** para ver estrellas. **La Palma**, la **«Isla Bonita»**, es toda ella Reserva de la Biosfera.
 
@@ -44,6 +47,9 @@ Te dejo **12 planes imprescindibles**, con los accesos y reservas actualizados, 
 
 <div class="guide__head"><span class="eyebrow">Ruta</span><h2>La Palma en 5 o 7 días</h2></div>
 <p><strong>5 días:</strong> 1) Santa Cruz y Playa de Nogales. 2) Caldera de Taburiente (ruta Los Brecitos). 3) Roque de los Muchachos y atardecer. 4) Fuencaliente: volcanes, salinas y faros. 5) Los Tilos y el Charco Azul.</p><p><strong>7 días:</strong> añade la Ruta de los Volcanes, una excursión guiada al Tajogaite y una noche de estrellas con telescopio.</p>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y moverse por La Palma</h2></div>
 <div class="guide__howto"><p>El aeropuerto está al este, junto a Santa Cruz. Hay vuelos directos desde varias ciudades de la península y conexiones con Tenerife. También hay ferry desde Tenerife.</p><p>Alquila coche: la isla es montañosa y cruzarla lleva tiempo. El túnel de la cumbre une el este y el oeste.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Mirador%20de%20La%20Cumbrecita%2C%20El%20Paso%2C%20La%20Palma" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Mirador de La Cumbrecita</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Roque%20de%20los%20Muchachos%2C%20La%20Palma" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Roque de los Muchachos</a></div></div>

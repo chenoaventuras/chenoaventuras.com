@@ -25,6 +25,9 @@ faq:
     a: "Está en la calle de Alcalá, en el barrio de Ventas, y tiene metro propio: Ventas, líneas 2 y 5."
   - q: "¿Cuánta gente cabe en Las Ventas?"
     a: "Casi 24.000 personas: es la plaza de toros más grande de España."
+actividades:
+  - t: "Tour de Las Ventas"
+    u: "https://www.civitatis.com/es/madrid/tour-las-ventas/"
 ---
 El **2 de julio de 1965**, en plena Beatlemanía, **John, Paul, George y Ringo** se subieron a un escenario en la **plaza de toros de Las Ventas** de Madrid. Al día siguiente tocaron en Barcelona. Fueron **los únicos conciertos de los Beatles en España**.
 
@@ -46,6 +49,9 @@ Te cuento cómo fue aquella noche y cómo visitar hoy la plaza 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/beatles-las-ventas/portada.webp" alt="Puerta Grande de Las Ventas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La fachada neomudéjar</h3><p>Ladrillo y azulejos: una de las fachadas más fotografiadas de Madrid.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/beatles-las-ventas/ventas2.webp" alt="Interior de la plaza de Las Ventas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El ruedo</h3><p>Donde en 1965 se montó el escenario de los Beatles.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Las Ventas</h2></div>
 <div class="guide__howto"><p>En <strong>metro</strong>, parada Ventas (líneas 2 y 5), justo enfrente de la plaza.</p><p>En coche, mejor evitar los días de festejos o conciertos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Plaza%20de%20toros%20de%20Las%20Ventas%2C%20Madrid" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

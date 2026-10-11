@@ -25,6 +25,9 @@ faq:
     a: "En unas 2 horas y media: por la A-4 hasta Manzanares y luego hacia Ruidera."
   - q: "¿Dónde están las Lagunas de Ruidera?"
     a: "Entre Ciudad Real y Albacete, alrededor de los pueblos de Ruidera y Ossa de Montiel."
+actividades:
+  - t: "Tour en kayak por las lagunas de San Pedro y Tinaja"
+    u: "https://www.civitatis.com/es/ossa-de-montiel/kayak-lagunas-san-pedro-tinaja/"
 ---
 En mitad de la llanura manchega, de repente, aparece un rosario de **quince lagunas de agua turquesa** unidas por cascadas, rodeadas de pinos y sabinas. Las **Lagunas de Ruidera** son un auténtico oasis en el interior de España, y en verano se convierten en una de las mejores «playas» de interior.
 
@@ -49,6 +52,9 @@ Te cuento dónde bañarte, qué actividades hacer y qué rincones no te puedes p
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lagunas-de-ruidera/agua.webp" alt="Personas nadando en las Lagunas de Ruidera" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Kayak y paddle surf</h3><p>Recorrer las lagunas remando es la mejor forma de descubrir rincones a los que no se llega a pie.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lagunas-de-ruidera/molino.webp" alt="Antiguo molino junto a las Lagunas de Ruidera" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los antiguos molinos</h3><p>Restos de molinos y batanes que aprovechaban la fuerza del agua entre laguna y laguna.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a las Lagunas de Ruidera</h2></div>
 <div class="guide__howto"><p>Desde Madrid se llega en unas 2 horas y media por la A-4 hasta Manzanares y luego hacia Ruidera. Desde Albacete se tarda alrededor de una hora por Ossa de Montiel.</p><p>Una carretera recorre las lagunas de punta a punta, con <strong>aparcamientos</strong> junto a las zonas de baño y los miradores. En verano, ve temprano: se llenan.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Lagunas+de+Ruidera" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

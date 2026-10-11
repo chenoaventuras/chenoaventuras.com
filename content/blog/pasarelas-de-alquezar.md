@@ -22,6 +22,9 @@ faq:
     a: "La colegiata y el castillo, sus calles empedradas y las pasarelas sobre el río Vero."
   - q: "¿Cómo llegar a Alquézar?"
     a: "En coche: está en el Somontano (Huesca), a unos 25 minutos de Barbastro y 45 de Huesca."
+actividades:
+  - t: "Barranquismo de un día en la Sierra de Guara"
+    u: "https://www.getyourguide.es/las-almunias-l200630/canyoning-day-trip-in-sierra-de-guara-t632167/"
 ---
 Pasarelas metálicas colgadas de la roca, un río de aguas turquesas por debajo y, al final, uno de los pueblos más bonitos de España. Las **Pasarelas de Alquézar** son la ruta más popular de la Sierra de Guara, y con razón.
 
@@ -46,6 +49,9 @@ Te cuento cómo hacerla y qué ver en **Alquézar** antes o después 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/pueblo.webp" alt="Calles de Alquézar" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El pueblo</h3><p>Calles empedradas, casas de piedra y soportales. Considerado uno de los pueblos más bonitos de España.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/barranquismo.webp" alt="Barranquismo en la Sierra de Guara" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Barranquismo en Guara</h3><p>Si quieres más aventura, contrata un descenso de barranco con guía. Hay para principiantes.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Alquézar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Huesca</strong>, por la A-22 hacia Barbastro y el desvío a Alquézar (unos 45 minutos). Desde Barbastro, 25 minutos.</p><p>Deja el coche en los <strong>aparcamientos de la entrada</strong> del pueblo. La ruta de las pasarelas sale del mismo Alquézar, y la entrada se compra online o en el pueblo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pasarelas%20de%20Alqu%C3%A9zar" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

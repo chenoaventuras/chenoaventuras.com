@@ -24,6 +24,11 @@ faq:
     a: "El artista canario César Manrique, que mezcló piscinas de agua salada, jardines, cascadas y esculturas volcánicas."
   - q: "¿Qué zonas tiene el Lago Martiánez?"
     a: "Tres: El Lago (la piscina grande con islas), Los Alisios (más tranquila) y las Piscinas de San Telmo (más pequeñas y resguardadas)."
+actividades:
+  - t: "Lago Martiánez: entradas y tours"
+    u: "https://www.getyourguide.es/lago-martianez-l158961/"
+  - t: "Puerto de la Cruz: tour a pie de 1,5 horas"
+    u: "https://www.getyourguide.es/puerto-de-la-cruz-espagne-l4994/1-a-2-heures-de-marche-a-travers-puerto-de-la-cruz-tenerife-t795398/"
 ---
 En Puerto de la Cruz, Tenerife, el arte y el océano Atlántico se fusionan en un complejo de piscinas de agua salada diseñado por uno de los grandes nombres de la arquitectura canaria: César Manrique. Se llama Lago Martiánez, y es mucho más que unas simples piscinas.
 
@@ -40,6 +45,9 @@ El recinto se divide en tres espacios: **El Lago**, la zona central y más grand
 ## Horario y tarifas
 
 Del 1 de julio al 30 de septiembre, el horario es de 10:00 a 19:00h; el resto del año, de 10:00 a 18:00h. La entrada cuesta 5,50€ para adultos y 2,50€ para niños hasta 10 años, con descuentos especiales para residentes (3€ adultos, 1,50€ niños). Todas las entradas incluyen tumbona.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

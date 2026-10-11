@@ -23,6 +23,9 @@ faq:
     a: "No. Está dentro de un parque natural y el baño está prohibido para proteger el ecosistema."
   - q: "¿Cómo llegar a la Laguna Negra desde Soria?"
     a: "En coche hasta Vinuesa (una hora desde Soria) y de allí unos 18 km hasta el aparcamiento. Los últimos 2 km se hacen a pie o en autobús lanzadera."
+actividades:
+  - t: "Raquetas de nieve por la sierra de Urbión desde Vinuesa"
+    u: "https://www.civitatis.com/es/vinuesa/paseo-raquetas-nieve-sierra-urbion/"
 ---
 Agua oscura como la tinta, un paredón de roca de casi 200 metros y un bosque de pinos que la rodea. La **Laguna Negra** parece sacada de un cuento de terror… y es que de un cuento salió: aquí ambientó **Antonio Machado** su crimen más famoso.
 
@@ -47,6 +50,9 @@ Cuentan que no tiene fondo y que está conectada con el mar. Yo no me metería a
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/urbion.webp" alt="Picos de Urbión" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los Picos de Urbión</h3><p>Desde la laguna sale la ruta a los <strong>Picos de Urbión</strong> (2.228 m), pasando por la Laguna Larga. Allí cerca nace el <strong>río Duero</strong>.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/vinuesa.webp" alt="Vinuesa, pueblo serrano de Soria" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Vinuesa</h3><p>El pueblo de la puerta del parque: casonas de piedra, la Casa del Parque y el embalse de la Cuerda del Pozo muy cerca.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Laguna Negra</h2></div>
 <div class="guide__howto"><p>Desde <strong>Soria</strong>, toma la N-234 hacia Burgos y desvíate a <strong>Vinuesa</strong>. Desde allí, una carretera de montaña sube unos 18 km por el pinar hasta el aparcamiento del <strong>Paso de la Serrá</strong>.</p><p>En las épocas de más visitas no se puede subir en coche hasta la laguna: hay que dejarlo en el Paso de la Serrá y hacer los últimos <strong>2 km</strong> a pie (unos 30 minutos por una senda junto a la carretera) o en el <strong>autobús lanzadera</strong>. En invierno la carretera puede cerrarse por nieve o hielo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laguna%20Negra%2C%20Vinuesa%2C%20Soria" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

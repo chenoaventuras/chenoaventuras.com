@@ -22,6 +22,9 @@ faq:
     a: "Junto al pueblo de Orellán, frente a Las Médulas. Se llega en coche y se termina a pie."
   - q: "¿Cuánto se tarda en ver Las Médulas?"
     a: "Medio día da para una ruta a pie y subir al Mirador de Orellán."
+actividades:
+  - t: "Visitas guiadas y actividades en Las Médulas"
+    u: "https://www.civitatis.com/es/las-medulas/"
 ---
 Picos rojos que parecen de otro planeta, castaños centenarios y galerías excavadas en la montaña. **Las Médulas** no son naturales: son lo que quedó de la **mayor mina de oro del Imperio romano**.
 
@@ -46,6 +49,9 @@ Te cuento cómo llegar, qué ruta hacer y desde dónde se ve mejor 👇
 </ol>
 
 <div class="guide__howto"><h3>El lago de Carucedo</h3><p>Muy cerca está el <strong>lago de Carucedo</strong>, formado en parte por los restos de la mina. Buen sitio para descansar después de la ruta.</p></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Las Médulas</h2></div>
 <div class="guide__howto"><p>Desde <strong>Ponferrada</strong>, por la N-536 hacia Carucedo y luego el desvío a Las Médulas (unos 30 minutos). Hay aparcamiento a la entrada del pueblo.</p><p>Al <strong>Mirador de Orellán</strong> se llega en coche desde el pueblo de Orellán, y los últimos metros a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Las%20M%C3%A9dulas%2C%20Le%C3%B3n" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -24,6 +24,13 @@ faq:
     a: "A unos 35-40 minutos en coche por la A-1512."
   - q: "¿Cómo llegar a Albarracín desde Valencia o Zaragoza?"
     a: "En coche, en unas dos horas y media desde cualquiera de las dos."
+actividades:
+  - t: "Visita guiada por Albarracín"
+    u: "https://www.civitatis.com/es/albarracin/visita-guiada-albarracin/"
+  - t: "Visita guiada por el Castillo de Albarracín"
+    u: "https://www.civitatis.com/es/albarracin/visita-guiada-castillo-albarracin/"
+  - t: "Albarracín: secretos y leyendas"
+    u: "https://www.getyourguide.es/albarracin-l144270/albarracin-secrets-and-legends-t474783/"
 ---
 Casas de color rosado colgadas sobre una hoz del río, callejuelas tan estrechas que los aleros casi se tocan y una muralla que trepa por la montaña. **Albarracín** parece un decorado medieval, pero es un pueblo de verdad, y uno de los más bonitos de España.
 
@@ -48,6 +55,9 @@ Y a 15 minutos tienes los **Pinares de Rodeno**: rocas rojas, pinturas rupestres
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/albarracin-que-ver/rio.webp" alt="Paseo junto al río Guadalaviar en Albarracín" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El paseo del río</h3><p>Un sendero rodea el pueblo junto al río Guadalaviar, con pasarelas y un pequeño túnel excavado en la roca.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/albarracin-que-ver/rodeno.webp" alt="Roca con forma de seta en los Pinares de Rodeno" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los Pinares de Rodeno</h3><p>Rocas rojas entre pinos, abrigos con pinturas rupestres y bloques de arenisca famosos entre escaladores de todo el mundo.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Albarracín</h2></div>
 <div class="guide__howto"><p>Desde <strong>Teruel</strong>, en unos 35-40 minutos por la <strong>A-1512</strong>. Desde Valencia o Zaragoza son unas dos horas y media.</p><p>Deja el coche en los <strong>aparcamientos de la entrada</strong> del pueblo: el casco antiguo es peatonal en la práctica y muy empinado. Los <strong>Pinares de Rodeno</strong> están a unos 15 minutos en coche, con aparcamientos junto a las rutas señalizadas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Albarracín" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

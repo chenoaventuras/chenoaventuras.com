@@ -24,6 +24,13 @@ faq:
     a: "Está en la Costa Blanca, a unos 45 minutos del aeropuerto de Alicante. Desde Alicante también llega el TRAM."
   - q: "¿Cuánto mide el Intempo de Benidorm?"
     a: "Más de 190 metros: es el rascacielos más alto de la ciudad."
+actividades:
+  - t: "Free tour por Benidorm"
+    u: "https://www.civitatis.com/es/benidorm/free-tour-benidorm/"
+  - t: "Tour en moto de agua por Benidorm"
+    u: "https://www.civitatis.com/es/benidorm/tour-moto-agua-benidorm/"
+  - t: "Benidorm: parasailing con vistas al skyline"
+    u: "https://www.getyourguide.es/benidorm-l2317/benidorm-passeio-de-barco-parapente-com-vista-para-a-costa-blanca-t445685/"
 ---
 La llaman la **«Nueva York del Mediterráneo»**, y no es exagerado: **Benidorm** es la **ciudad con más rascacielos por habitante del mundo** y la segunda con más rascacielos por kilómetro cuadrado, solo detrás de Nueva York.
 
@@ -45,6 +52,9 @@ Te cuento por qué un pueblo de pescadores acabó así y dónde ver su skyline �
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/benidorm-rascacielos/portada.webp" alt="Skyline de Benidorm al atardecer" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El skyline al atardecer</h3><p>Desde lejos, al caer el sol, parece Manhattan.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/benidorm-rascacielos/playa.webp" alt="Mirador junto al mar en Benidorm" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Cruz de Benidorm</h3><p>Sube a la cruz de la Serra Gelada: la mejor vista de todo el skyline y las playas.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Benidorm</h2></div>
 <div class="guide__howto"><p>Desde <strong>Alicante</strong>, unos 45 minutos por la AP-7 o la N-332. También llega el <strong>TRAM</strong> (línea 1) desde Alicante.</p><p>Dentro de la ciudad, lo mejor es moverse andando por el paseo marítimo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Balc%C3%B3n%20del%20Mediterr%C3%A1neo%2C%20Benidorm" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

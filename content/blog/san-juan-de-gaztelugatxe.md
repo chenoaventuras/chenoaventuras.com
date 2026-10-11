@@ -24,6 +24,9 @@ faq:
     a: "Sí, en la séptima temporada fue Rocadragón, el hogar de Daenerys Targaryen."
   - q: "¿Se puede ir en coche a San Juan de Gaztelugatxe?"
     a: "Hasta el aparcamiento junto a la carretera, sí. Desde allí se baja andando: casi 3 km ida y vuelta, unos 75 minutos."
+actividades:
+  - t: "Paseo en barco a San Juan de Gaztelugatxe desde Bermeo"
+    u: "https://www.civitatis.com/es/bermeo/paseo-barco-san-juan-gaztelugatxe/"
 ---
 Un islote unido a la costa por un puente de piedra, un camino en zigzag de **241 escalones** y, arriba del todo, una pequeña ermita con una campana que todo el mundo toca tres veces. **San Juan de Gaztelugatxe** es uno de los paisajes más famosos de la costa vasca… y desde que salió en **Juego de Tronos**, más todavía.
 
@@ -48,6 +51,9 @@ La visita es gratis, pero hay días en los que **tienes que reservar**. Te cuent
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/arco.webp" alt="Arco natural de roca en San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los arcos de roca</h3><p>El mar ha horadado la roca del islote formando arcos naturales que se ven desde el camino.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/aketx.webp" alt="Islote de Aketx frente a Gaztelugatxe" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El islote de Aketx</h3><p>Frente a Gaztelugatxe está Aketx, un islote que es refugio de aves marinas.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a San Juan de Gaztelugatxe</h2></div>
 <div class="guide__howto"><p>Está entre <strong>Bakio y Bermeo</strong>, en la costa de Bizkaia, a unos 40 minutos en coche de <strong>Bilbao</strong>. Arriba, en la carretera, hay varias zonas de aparcamiento desde las que se baja a pie.</p><p>En verano funciona un <strong>autobús gratuito</strong> desde Bakio y desde Bermeo hasta el acceso. Si vas con reserva, llega con margen: el aparcamiento se llena.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=San+Juan+de+Gaztelugatxe" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.tiketa.eus/gaztelugatxe/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Reservar entrada gratuita</a></div></div>

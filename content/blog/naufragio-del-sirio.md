@@ -21,6 +21,11 @@ faq:
     a: "Sí, con permiso de la reserva marina y nivel avanzado: está a 40-55 metros."
   - q: "¿Quién fue Vicente Buigues?"
     a: "El patrón de la barca Joven Miguel, que rescató a unas 400 personas."
+actividades:
+  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Kayak y snorkel en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 ---
 Seis años antes del Titanic, el Mediterráneo vivió su propia tragedia. El **4 de agosto de 1906**, el transatlántico italiano **Sirio** chocó contra unas rocas frente a **Cabo de Palos**. Iba lleno de emigrantes rumbo a América.
 
@@ -43,6 +48,9 @@ Te cuento qué pasó, los héroes de la historia y dónde descansan sus restos �
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/naufragio-del-sirio/hormigas.webp" alt="Islas Hormigas desde Cabo de Palos" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las Islas Hormigas</h3><p>El naufragio fue entre el cabo y estas islas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/naufragio-del-sirio/faro.webp" alt="Faro de Cabo de Palos" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El faro</h3><p>Ya existía en 1906 y avisaba del peligro de los bajos.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Cabo de Palos</h2></div>
 <div class="guide__howto"><p>Desde <strong>Cartagena</strong>, unos 30 minutos por la RM-12. Desde Murcia, unos 50 minutos.</p><p>El monumento al Sirio y el faro están junto al puerto de Cabo de Palos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Faro%20de%20Cabo%20de%20Palos" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

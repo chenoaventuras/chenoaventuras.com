@@ -24,6 +24,9 @@ faq:
     a: "En coche: está en la Garrotxa, a unos 30 minutos de Girona y a hora y media de Barcelona."
   - q: "¿Es gratis visitar Besalú?"
     a: "Pasear y cruzar el puente, sí. El miqvé y algunos monumentos se visitan a través de la Oficina de Turismo."
+actividades:
+  - t: "Vuelo en globo sobre los volcanes de la Garrotxa"
+    u: "https://www.getyourguide.es/costa-brava-l473/vuelo-en-globo-sobre-los-volcanes-de-la-costa-brava-desde-santa-pau-t35210/"
 ---
 Un puente de piedra en zigzag con una torre fortificada en medio, un río tranquilo a sus pies y un pueblo medieval casi intacto al otro lado. **Besalú** es de esos sitios que parecen sacados de una película de caballeros, y además guarda un tesoro que muy pocos lugares de Europa conservan: un **baño ritual judío** de la Edad Media.
 
@@ -48,6 +51,9 @@ Te cuento qué ver y cómo combinarlo con la zona volcánica de la Garrotxa 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/noche.webp" alt="Rincón de Besalú iluminado de noche" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Besalú de noche</h3><p>Cuando se van los visitantes de día, el pueblo iluminado tiene un encanto especial.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/castellfollit.webp" alt="Castellfollit de la Roca sobre su risco de basalto" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Castellfollit de la Roca</h3><p>A 15 minutos, un pueblo encaramado sobre un acantilado de basalto de unos 50 metros. Puro paisaje volcánico.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Besalú</h2></div>
 <div class="guide__howto"><p>Desde <strong>Girona</strong> se llega en unos 30 minutos por la carretera de Olot (C-66). Desde <strong>Barcelona</strong>, en torno a hora y media por la AP-7.</p><p>Hay aparcamientos a la entrada del pueblo, junto al río. El casco histórico se recorre a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pont+de+Besalú" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

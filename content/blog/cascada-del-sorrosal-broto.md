@@ -30,6 +30,9 @@ faq:
     a: "En primavera, con el deshielo. En pleno verano el caudal puede bajar bastante."
   - q: "¿Cómo llegar a Broto?"
     a: "Está en el Pirineo de Huesca, a unos 5 km de Torla, en la carretera hacia el Parque Nacional de Ordesa."
+actividades:
+  - t: "Vía ferrata del Sorrosal desde Torla-Ordesa"
+    u: "https://www.civitatis.com/es/torla-ordesa/via-ferrata-sorrosal/"
 ---
 Una cascada de unos **80 metros** cayendo en dos saltos… a **5 minutos andando del pueblo**. La **Cascada del Sorrosal**, en **Broto**, es probablemente la cascada más fácil de ver de todo el Pirineo Aragonés, y una de las más espectaculares.
 
@@ -54,6 +57,9 @@ Y si quieres verla desde dentro, tiene una **vía ferrata** pegada al agua que y
 <p>Yo la hice con guía y fue de lo mejor del viaje. Puedes reservarla <a href="https://gyg.me/yTLuLVWW" target="_blank" rel="noopener"><strong>aquí</strong></a> con mi código de descuento <strong>CHENOAVENTURAS5</strong>.</p>
 <div class="gallery"><figure><img src="/assets/img/instagram/18105060155170195.webp" alt="Cheno en la vía ferrata del Sorrosal" loading="lazy" decoding="async" /><figcaption>Yo en plena vía ferrata del Sorrosal</figcaption></figure><figure><img src="/assets/img/blog/pirineo/sorrosal-barranco.webp" alt="Barranco del Sorrosal en Broto" loading="lazy" decoding="async" /><figcaption>El barranco del Sorrosal, junto a Broto</figcaption></figure><figure><img src="/assets/img/blog/pirineo/sorrosal-2.webp" alt="Cascada del Sorrosal en primavera" loading="lazy" decoding="async" /><figcaption>La cascada con mucho caudal en primavera</figcaption></figure></div>
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DbJOEm5AwgJ/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver mi reel de la vía ferrata</a></p>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Cascada del Sorrosal</h2></div>
 <div class="guide__howto"><p>La cascada está en el mismo <strong>Broto</strong>, a 5 km de Torla, en la carretera hacia Ordesa. Aparca en el pueblo y sigue las indicaciones hacia la cascada: en unos 5 minutos estás debajo.</p><p>Encaja perfecto con la <a href='/blog/ruta-cola-de-caballo-ordesa.html'>ruta a la Cola de Caballo</a> o una visita a Torla el mismo día.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cascada+del+Sorrosal%2C+Broto" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cascada del Sorrosal en Google Maps</a></div></div>

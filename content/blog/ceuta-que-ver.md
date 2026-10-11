@@ -24,6 +24,13 @@ faq:
     a: "Sí, en el ferry desde Algeciras puedes llevar el coche. La travesía dura alrededor de una hora."
   - q: "¿Cuántos días hacen falta para ver Ceuta?"
     a: "Un día da para lo principal. Si quieres hacer kayak, rutas o snorkel, mejor un fin de semana."
+actividades:
+  - t: "Alquiler de kayak en Ceuta (foso de las Murallas Reales)"
+    u: "https://www.civitatis.com/es/ceuta/alquiler-kayak-ceuta/"
+  - t: "Paseo en barco por la bahía de Ceuta"
+    u: "https://www.civitatis.com/es/ceuta/paseo-barco-ceuta/"
+  - t: "Free tour de los misterios y leyendas de Ceuta"
+    u: "https://www.civitatis.com/es/ceuta/free-tour-misterios-leyendas-ceuta/"
 ---
 Una ciudad española en el norte de África, entre el Mediterráneo y el Atlántico, con murallas que se recorren **en kayak** por un foso de agua de mar. **Ceuta** sorprende a casi todo el que llega: fortalezas, calas, un monte con vistas al Estrecho y la silueta de la **Mujer Muerta** en el horizonte.
 
@@ -48,6 +55,9 @@ Te cuento qué ver y qué aventuras hacer 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ceuta-que-ver/parque.webp" alt="Parque Marítimo del Mediterráneo en Ceuta" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El Parque Marítimo</h3><p>Piscinas de agua de mar y lagos diseñados por César Manrique, el artista de Lanzarote.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ceuta-que-ver/mujer.webp" alt="La Mujer Muerta, el monte Jebel Musa en Marruecos" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La Mujer Muerta</h3><p>Desde la costa oeste de Ceuta se ve su silueta tumbada. La foto clásica es al atardecer.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Ceuta</h2></div>
 <div class="guide__howto"><p>Los <strong>ferris desde Algeciras</strong> salen varias veces al día y tardan alrededor de una hora. Puedes llevar el coche o ir a pie y moverte en autobús o taxi.</p><p>En helicóptero hay vuelos regulares desde Málaga y Algeciras: rápidos, pero más caros.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Murallas+Reales+Ceuta" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

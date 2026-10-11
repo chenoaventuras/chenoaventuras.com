@@ -29,6 +29,13 @@ faq:
     a: "Entre junio y octubre, cuando normalmente no hay nieve. Sal temprano para evitar las tormentas de tarde en verano."
   - q: "¿Dónde está el Valle de Tena?"
     a: "En el Pirineo de Huesca, a lo largo del río Gállego, con pueblos como Sallent de Gállego, Formigal, Lanuza y Panticosa."
+actividades:
+  - t: "Barranquismo en el Pirineo aragonés desde Biescas"
+    u: "https://www.civitatis.com/es/biescas/barranquismo-pirineo-aragones/"
+  - t: "Vía ferrata en el valle de Tena"
+    u: "https://www.civitatis.com/es/biescas/via-ferrata-valle-tena/"
+  - t: "Panticosa: parapente en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
 ---
 Un lago de alta montaña que refleja un pico puntiagudo y, al fondo, la silueta del **Midi d'Ossau** ya en Francia: la postal de los **ibones de Anayet** es de las más famosas de todo el Pirineo. Y lo mejor es que se llega con una ruta asequible desde **Formigal**, en el Valle de Tena.
 
@@ -51,6 +58,9 @@ La foto de portada es mía, dando saltos de alegría al llegar arriba (literalme
 <p>La ruta sale del <strong>Corral de las Mulas</strong>, en la carretera del Portalet, muy cerca de Formigal. Sigue las marcas del GR-11 y sube por el barranco de Culivillas, al principio por pradera y luego por terreno más pedregoso, hasta un rellano donde aparecen de golpe los <strong>ibones de Anayet</strong>, con el pico reflejado en el agua.</p>
 <div class="guide__legend"><h3>🌋 Un pico que fue volcán</h3><p>El <strong>pico Anayet</strong> (unos 2.545 m) es de origen volcánico, algo rarísimo en el Pirineo: por eso su roca oscura y su forma de cuerno contrastan tanto con las montañas de alrededor. Desde los ibones verás también el <strong>Midi d'Ossau</strong>, al otro lado de la frontera.</p></div>
 <div class="gallery"><figure><img src="/assets/img/blog/pirineo/anayet-ibones.webp" alt="Ibón de Anayet con el pico Anayet" loading="lazy" decoding="async" /><figcaption>El pico Anayet reflejado en el ibón</figcaption></figure><figure><img src="/assets/img/blog/pirineo/anayet-grande.webp" alt="Ibón grande de Anayet con el Midi d&#x27;Ossau" loading="lazy" decoding="async" /><figcaption>El Midi d'Ossau al fondo, ya en Francia</figcaption></figure></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al inicio de la ruta</h2></div>
 <div class="guide__howto"><p>Desde <strong>Sallent de Gállego</strong> o Formigal, sigue la carretera A-136 hacia el Portalet. El punto de inicio es el <strong>Corral de las Mulas</strong>, donde hay espacio para aparcar.</p><p>En invierno la zona está nevada y la ruta cambia por completo: solo con raquetas o esquís y con experiencia en montaña invernal.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Corral+de+las+Mulas%2C+Formigal" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Corral de las Mulas en Google Maps</a></div></div>

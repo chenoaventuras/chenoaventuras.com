@@ -23,6 +23,9 @@ faq:
     a: "Egipto lo regaló a España en 1968 por su ayuda para salvar los templos de Nubia de la presa de Asuán."
   - q: "¿Dónde está el Templo de Debod?"
     a: "En el Parque del Oeste de Madrid, junto a Plaza de España, en la calle Ferraz."
+actividades:
+  - t: "Madrid imprescindible con atardecer en el Templo de Debod"
+    u: "https://www.getyourguide.es/madrid-l46/madrid-must-see-with-atardeder-at-the-debod-temple-t810561/"
 ---
 Tiene más de **2.000 años**, viene de las orillas del **Nilo** y está en pleno centro de **Madrid**. El **Templo de Debod** es un templo egipcio auténtico, piedra a piedra, y su atardecer es uno de los más famosos de la ciudad.
 
@@ -45,6 +48,9 @@ Te cuento su historia y cómo visitarlo (también por dentro) 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/templo-de-debod/noche.webp" alt="Templo de Debod iluminado de noche" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>De noche</h3><p>Con la iluminación, otro templo distinto.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/templo-de-debod/torre.webp" alt="Templo de Debod con la Torre de Madrid" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Desde el mirador del parque ves la Casa de Campo, el Palacio Real y la Almudena.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Templo de Debod</h2></div>
 <div class="guide__howto"><p>En <strong>metro</strong>, paradas Plaza de España o Ventura Rodríguez, a 5 minutos andando. Muchas líneas de autobús paran en Plaza de España y en la calle Ferraz.</p><p>En coche, mejor aparcar en un parking público de la zona: en superficie es zona SER.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Templo%20de%20Debod%2C%20Madrid" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -22,6 +22,9 @@ faq:
     a: "Las Fuentes del Marqués, Moratalla, el Cañón de Almadenes y la Cueva del Puerto en Calasparra."
   - q: "¿Cómo llegar a Caravaca de la Cruz?"
     a: "En coche: está en el noroeste de la Región de Murcia, a una hora de Murcia capital."
+actividades:
+  - t: "Visita guiada por Caravaca de la Cruz"
+    u: "https://www.civitatis.com/es/caravaca-de-la-cruz/visita-guiada-caravaca-cruz/"
 ---
 Un castillo en lo alto de un cerro con una basílica barroca dentro, un casco antiguo de calles empinadas y una de las fiestas más espectaculares de España, con **caballos enjaezados con mantos bordados** subiendo a toda velocidad la cuesta del castillo. **Caravaca de la Cruz** es una de las cinco **ciudades santas** del cristianismo y el gran tesoro del noroeste de Murcia.
 
@@ -46,6 +49,9 @@ Te cuento qué ver y cuándo ir 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/caballo.webp" alt="Manto bordado de los Caballos del Vino en el museo" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El museo de los Caballos del Vino</h3><p>Mantos bordados con miles de piezas: auténticas obras de arte que tardan años en hacerse.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caravaca-de-la-cruz/toros.webp" alt="Plaza de toros de Caravaca de la Cruz" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La plaza de toros</h3><p>De estilo neomudéjar y color rojo intenso, una de las más llamativas de España.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Caravaca</h2></div>
 <div class="guide__howto"><p>Desde <strong>Murcia</strong> se llega en una hora por la autovía del Noroeste (RM-15). Desde Granada o Albacete, en unas dos horas.</p><p>Aparca en la zona baja y sube a pie al castillo, o usa los aparcamientos señalizados cerca de la cuesta.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Basílica+de+la+Vera+Cruz+Caravaca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Fuentes+del+Marqués+Caravaca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Fuentes del Marqués</a></div></div>

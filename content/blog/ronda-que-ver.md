@@ -22,6 +22,9 @@ faq:
     a: "Desde abajo, en los caminos que bajan hacia los antiguos molinos, y desde los miradores de los jardines junto al Tajo."
   - q: "¿A cuánto está Ronda de Málaga?"
     a: "A cerca de hora y media en coche de Málaga capital o de la Costa del Sol."
+actividades:
+  - t: "Free tour por Ronda"
+    u: "https://www.civitatis.com/es/ronda/free-tour-ronda/"
 ---
 Una ciudad partida en dos por un tajo de casi **100 metros de profundidad**, unida por un puente que parece imposible y con casas colgadas literalmente al borde del precipicio. **Ronda** es una de esas ciudades que se te quedan grabadas a la primera.
 
@@ -46,6 +49,9 @@ Te cuento qué ver, cómo hacer la mejor foto del Puente Nuevo (desde abajo) y a
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ronda-que-ver/toros.webp" alt="Plaza de toros de Ronda" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La plaza de toros</h3><p>Una de las más antiguas de España y cuna del toreo a pie. Se visita por dentro, con museo incluido.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ronda-que-ver/noche.webp" alt="Puente Nuevo de Ronda iluminado de noche" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Ronda de noche</h3><p>Cuando se iluminan el puente y el Tajo, la ciudad cambia por completo. Si duermes allí, no te lo pierdas.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Ronda</h2></div>
 <div class="guide__howto"><p>En <strong>coche</strong> se llega desde Málaga o Marbella por carreteras de montaña con muy buenas vistas. Lo mejor es dejar el coche en uno de los <strong>aparcamientos públicos</strong> del centro y moverte andando.</p><p>Ronda también tiene <strong>estación de tren</strong> y autobuses desde Málaga, Sevilla y la Costa del Sol.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Puente+Nuevo+Ronda" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

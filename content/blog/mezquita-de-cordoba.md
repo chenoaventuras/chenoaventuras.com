@@ -25,6 +25,11 @@ faq:
     a: "Tras la conquista cristiana de Córdoba en 1236 la mezquita se consagró como catedral, y en el siglo XVI se construyó en su centro una gran nave renacentista."
   - q: "¿Qué horario tiene la Mezquita de Córdoba?"
     a: "La visita general suele ser de 10:00 a 19:00, pero cambia según el día y las celebraciones: confírmalo en la web oficial."
+actividades:
+  - t: "Visita guiada por la Mezquita de Córdoba"
+    u: "https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-cordoba/"
+  - t: "Entradas a la Mezquita-Catedral con audioguía"
+    u: "https://www.civitatis.com/es/cordoba/entradas-mezquita-cordoba/"
 ---
 Entras y, de repente, estás en un **bosque de columnas** con arcos rojos y blancos que se repiten hasta donde alcanza la vista. Y cuando crees que ya lo has visto todo, en mitad de la mezquita aparece… **una catedral renacentista**. La **Mezquita-Catedral de Córdoba** es uno de los monumentos más alucinantes del mundo, y no es ninguna exageración.
 
@@ -51,6 +56,9 @@ Te cuento cuánto cuesta, cómo entrar gratis y las curiosidades que no te puede
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mezquita-de-cordoba/patio.webp" alt="Patio de los Naranjos de la Mezquita de Córdoba" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El Patio de los Naranjos</h3><p>El patio de entrada, con sus naranjos y fuentes. Se puede pasear por él sin entrada.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mezquita-de-cordoba/puente.webp" alt="Puente romano y Mezquita-Catedral de Córdoba" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La vista desde el puente romano</h3><p>Al atardecer, cruza el puente romano: la mezquita y su torre se ven sobre el Guadalquivir.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Mezquita</h2></div>
 <div class="guide__howto"><p>Está en pleno <strong>casco histórico de Córdoba</strong>, en la calle Cardenal Herrero, junto al puente romano. Desde la estación de tren y autobús se llega en unos 20-25 minutos andando.</p><p>En autobús urbano, la parada más cercana es <strong>«Puerta del Puente»</strong> (líneas 3 y 12). Si vas en coche, deja el coche en un aparcamiento fuera de la judería: dentro las calles son estrechas y con acceso restringido.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Mezquita-Catedral+de+Córdoba" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Entradas oficiales</a></div></div>

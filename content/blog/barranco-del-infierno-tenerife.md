@@ -25,6 +25,9 @@ faq:
     a: "En Adeje, en el sur de Tenerife. La ruta sale del casco antiguo del pueblo."
   - q: "¿Dónde aparcar para el Barranco del Infierno?"
     a: "El aparcamiento junto a la salida es pequeño: mejor deja el coche en el pueblo de Adeje y sube andando."
+actividades:
+  - t: "Barranco del Infierno: entradas y tours"
+    u: "https://www.getyourguide.es/barranco-del-infierno-l191750/"
 ---
 Con ese nombre, uno espera algo terrible, pero lo que hay al final es lo contrario: un rincón fresco y verde con una **cascada** cayendo entre paredes de roca, en pleno sur seco de Tenerife.
 
@@ -48,6 +51,9 @@ El **Barranco del Infierno** es una de las rutas más famosas de la isla, con pl
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/barranco-del-infierno-tenerife/cascada.webp" alt="Cascada del Barranco del Infierno" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La cascada</h3><p>El premio final: un salto de agua que cae entre las paredes del fondo. El caudal depende de las lluvias del año.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/barranco-del-infierno-tenerife/adeje.webp" alt="Casco antiguo de Adeje" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El casco de Adeje</h3><p>Al acabar, pasea por la calle Grande, la iglesia de Santa Úrsula y la Casa Fuerte. Hay sitios para comer bien.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a el Barranco del Infierno</h2></div>
 <div class="guide__howto"><p>Desde <strong>Costa Adeje</strong> o <strong>Los Cristianos</strong>, en 10-20 minutos en coche hasta el casco de Adeje. La ruta empieza al final de la calle de los Molinos, por encima del pueblo.</p><p>El aparcamiento junto a la salida es pequeño: mejor dejar el coche en el pueblo y subir andando. Hay que llegar <strong>15 minutos antes</strong> de la hora de tu reserva.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Barranco%20del%20Infierno%2C%20Adeje" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

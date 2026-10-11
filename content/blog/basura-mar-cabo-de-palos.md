@@ -26,6 +26,11 @@ faq:
     a: "España es el país de la UE que más plástico vierte al mar, con cifras que rondan las 126 toneladas al día."
   - q: "¿Se puede pescar en Cabo de Palos?"
     a: "Dentro de la Reserva Marina hay zonas protegidas con limitaciones a la pesca; en la reserva integral de las Islas Hormigas está prohibida. Consulta la normativa antes de ir."
+actividades:
+  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Kayak y snorkel en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 ---
 Iba metiendo la GoPro entre las rocas de [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) buscando pulpos y peces de colores, y en vez de eso me encontré con algo que no debería sorprenderme tanto a estas alturas: bolsas, restos de plástico y trozos de basura enredados entre la posidonia. El mar no es un cubo donde tirar lo que sobra, aunque a veces lo parezca. Puedes ver el [vídeo completo en Instagram](https://www.instagram.com/reel/Ddo7BVURiEb/).
 

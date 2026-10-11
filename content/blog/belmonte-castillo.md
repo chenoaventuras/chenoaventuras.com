@@ -26,6 +26,9 @@ faq:
     a: "En Belmonte, al sur de la provincia de Cuenca, a unos 90 minutos de Cuenca capital y a unas dos horas de Madrid."
   - q: "¿Cuánto dura la visita al Castillo de Belmonte?"
     a: "Una hora y media, por libre y con audioguía. Ojo: cierra los lunes."
+actividades:
+  - t: "Entrada al castillo de Belmonte"
+    u: "https://www.civitatis.com/es/belmonte/entrada-castillo-belmonte/"
 ---
 Torres redondas, murallas almenadas que bajan hasta el pueblo y un patio que parece esperar a que aparezcan los caballeros. El **Castillo de Belmonte**, en Cuenca, es uno de los castillos medievales **mejor conservados de España**, y por eso aparece en películas y acoge torneos de combate medieval.
 
@@ -50,6 +53,9 @@ Te cuento qué ver y algunas curiosidades que lo hacen único 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/belmonte-castillo/alcoba.webp" alt="Dormitorio ambientado en el castillo de Belmonte" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las salas ambientadas</h3><p>Dormitorios y salones recreados para entender cómo se vivía en el castillo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/belmonte-castillo/noche.webp" alt="Castillo de Belmonte iluminado de noche" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>De noche</h3><p>Iluminado, el castillo sobre el cerro de San Cristóbal es una estampa espectacular.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Belmonte</h2></div>
 <div class="guide__howto"><p>Desde <strong>Madrid</strong>, unas dos horas por la A-3 y la N-420. Desde <strong>Cuenca</strong>, alrededor de una hora y media.</p><p>Hay aparcamiento junto al castillo, en lo alto del cerro. El pueblo, con su colegiata, merece un paseo después.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castillo+de+Belmonte" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

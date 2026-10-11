@@ -27,6 +27,11 @@ faq:
     a: "En el norte de Lanzarote, en el municipio de Haría, a unos 30 km de Arrecife. La Cueva de los Verdes está a solo 1 km."
   - q: "¿Hay que pagar para entrar a los Jameos del Agua?"
     a: "Sí, los Jameos y la Cueva de los Verdes son de pago (Centros Turísticos del Cabildo de Lanzarote)."
+actividades:
+  - t: "Jameos del Agua: entradas y tours"
+    u: "https://www.getyourguide.es/jameos-del-agua-l135002/"
+  - t: "Cueva de los Verdes: entradas"
+    u: "https://www.getyourguide.es/cueva-de-los-verdes-l83810/tickets-de-entrada-tc123/"
 ---
 Hace miles de años, el **volcán de La Corona** escupió un río de lava que corrió hasta el mar y dejó un túnel de varios kilómetros. Hoy, en ese túnel, puedes visitar dos de los lugares más impresionantes de **Lanzarote**: los **Jameos del Agua** y la **Cueva de los Verdes**.
 
@@ -52,6 +57,9 @@ Están a 1 km uno del otro, así que mejor verlos juntos 👇
 </ol>
 
 <div class="guide__howto"><h3>El secreto de la Cueva de los Verdes</h3><p>Al final de la visita hay una <strong>sorpresa</strong> que los guías piden no contar. Solo te digo: no hagas spoilers cuando salgas 😉.</p></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a los Jameos del Agua y la Cueva de los Verdes</h2></div>
 <div class="guide__howto"><p>Desde <strong>Arrecife</strong>, por la LZ-1 hacia el norte hasta Arrieta y luego hacia Órzola. Son unos 30 minutos. Los dos centros tienen aparcamiento y están a 1 km entre sí.</p><p>Hay autobuses (guaguas) al norte de la isla, pero con poca frecuencia: mejor coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Jameos%20del%20Agua%2C%20Lanzarote" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

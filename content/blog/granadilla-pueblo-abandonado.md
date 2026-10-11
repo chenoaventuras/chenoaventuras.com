@@ -24,6 +24,11 @@ faq:
     a: "En coche: está junto al embalse de Gabriel y Galán, en el norte de Cáceres, a unos 35 minutos de Plasencia."
   - q: "¿Cuánto cuesta visitar Granadilla?"
     a: "Es gratis, pero tiene horario de visita y cierra algunos días: consúltalo antes de ir."
+actividades:
+  - t: "Free tour por Granadilla"
+    u: "https://www.civitatis.com/es/granadilla/free-tour-granadilla/"
+  - t: "Excursión a Granadilla en barco"
+    u: "https://www.civitatis.com/es/guijo-de-granadilla/excursion-granadilla-barco/"
 ---
 Un pueblo con **muralla**, **castillo** y casas de colores... y sin vecinos. **Granadilla**, en el norte de Cáceres, fue **desalojado** en los años 60 porque iba a quedar bajo un pantano. Lo curioso es que **el agua nunca llegó a cubrirlo**.
 
@@ -45,6 +50,9 @@ Te cuento su historia, cómo lo están recuperando y cómo visitarlo 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/granadilla-pueblo-abandonado/panoramica.webp" alt="Muralla y casas de Granadilla" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La muralla</h3><p>Se puede recorrer casi entera por el adarve.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/granadilla-pueblo-abandonado/portada.webp" alt="Embalse de Gabriel y Galán desde Granadilla" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El pantano</h3><p>El agua que nunca llegó: rodea el pueblo por casi todos lados.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Granadilla</h2></div>
 <div class="guide__howto"><p>Desde <strong>Plasencia</strong>, unos 35 minutos hacia Zarza de Granadilla y luego por la carretera del embalse.</p><p>Se deja el coche en el aparcamiento junto a la puerta de la muralla.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Granadilla%2C%20Zarza%20de%20Granadilla%2C%20C%C3%A1ceres" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

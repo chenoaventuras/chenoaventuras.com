@@ -24,6 +24,13 @@ faq:
     a: "En coche, a unos 40 minutos de Almería capital. En verano, para Mónsul y Genoveses, hay lanzadera desde San José."
   - q: "¿Cuántos días hacen falta para ver Cabo de Gata?"
     a: "Como mínimo un día, pero para ver bien sus calas mejor 2-3 días."
+actividades:
+  - t: "Paseo en barco por el Cabo de Gata desde San José"
+    u: "https://www.civitatis.com/es/san-jose-espana/paseo-barco-cabo-gata/"
+  - t: "Cabo de Gata: kayak y snorkel en el Parque Natural"
+    u: "https://www.getyourguide.es/cabo-de-gata-nijar-natural-park-l96730/cabo-de-gata-natural-park-kayaking-snorkeling-t219321/"
+  - t: "Tour en 4x4 por Cabo de Gata desde San José"
+    u: "https://www.civitatis.com/es/san-jose-espana/tour-4x4-cabo-gata/"
 ---
 Playas vírgenes entre volcanes, agua transparente y paisajes de desierto que parecen de otro planeta. **Cabo de Gata** es el último gran tramo de costa salvaje del Mediterráneo español.
 
@@ -48,6 +55,9 @@ En la playa de **Mónsul** rodaron una escena de *Indiana Jones*, y en el faro h
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-de-gata-que-ver/san-pedro.webp" alt="Cala de San Pedro en Cabo de Gata" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Cala de San Pedro</h3><p>Solo se llega andando o en barco. Una cala escondida con un castillo en ruinas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-de-gata-que-ver/salinas.webp" alt="Flamencos en las Salinas de Cabo de Gata" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las Salinas</h3><p>Lagunas donde se ven flamencos casi todo el año, con la iglesia de La Almadraba de fondo.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Cabo de Gata</h2></div>
 <div class="guide__howto"><p>Desde <strong>Almería</strong>, por la autovía y luego hacia <strong>San José</strong> (unos 40 minutos). Para el faro, sigue la carretera de la costa desde Retamar.</p><p>En <strong>verano</strong>, el acceso en coche a Genoveses y Mónsul está limitado y se paga aparcamiento. Hay un <strong>autobús lanzadera</strong> desde San José. Fuera de temporada, se llega en coche sin problema.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa%20de%20M%C3%B3nsul" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

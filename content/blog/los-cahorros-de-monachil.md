@@ -27,6 +27,9 @@ faq:
     a: "En el pueblo de Monachil, a unos 20-30 minutos en coche de Granada."
   - q: "¿Dónde aparcar para Los Cahorros?"
     a: "En el aparcamiento de tierra del inicio de la ruta, que es gratis."
+actividades:
+  - t: "Senderismo por los Cahorros de Monachil"
+    u: "https://www.civitatis.com/es/granada/senderismo-cahorros-monachil/"
 ---
 A solo 20 minutos de Granada, el río Monachil se cuela por un cañón de roca caliza tan estrecho que en algunos tramos tienes que **agacharte para pasar**. Esa es la ruta de **Los Cahorros**: puentes colgantes que se balancean sobre el río, pasarelas pegadas a la pared y paredes verticales donde casi siempre verás a alguien escalando.
 
@@ -51,6 +54,9 @@ Es gratis, no hay que reservar y es apta para casi todo el mundo. Te cuento cóm
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/los-cahorros-de-monachil/roca.webp" alt="Grandes paredes de roca caliza en Los Cahorros" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las paredes de caliza</h3><p>Bloques enormes y techos de roca que el agua ha ido tallando durante miles de años.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/los-cahorros-de-monachil/vistas.webp" alt="Vistas del cañón del río Monachil" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las vistas desde arriba</h3><p>En la vuelta circular, el camino sube por la ladera y ves el cañón entero desde arriba.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Los Cahorros</h2></div>
 <div class="guide__howto"><p>La ruta empieza en el pueblo de <strong>Monachil</strong>, a unos <strong>20-30 minutos en coche de Granada</strong>. Cruza el pueblo y sigue las indicaciones de «Los Cahorros» hasta el final de la calle, donde hay una <strong>explanada de tierra gratuita</strong> para aparcar junto al panel de inicio.</p><p>Ese aparcamiento es pequeño y <strong>se llena pronto los fines de semana</strong>, sobre todo en primavera y otoño. Si llega a estar lleno, tendrás que dejar el coche en el pueblo y caminar un poco más.</p><p>También puedes ir en <strong>autobús metropolitano</strong> desde Granada hasta Monachil pueblo. Consulta líneas y horarios en la web del Consorcio de Transportes de Granada.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Los+Cahorros+de+Monachil" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://ctagr.es/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Autobuses a Monachil</a></div></div>

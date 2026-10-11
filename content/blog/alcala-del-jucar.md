@@ -24,6 +24,11 @@ faq:
     a: "En coche: está a unos 50 minutos de Albacete y a hora y media de Valencia."
   - q: "¿Qué hacer en Alcalá del Júcar con niños?"
     a: "Entrar en las cuevas que atraviesan la montaña, subir al castillo y, en verano, bañarse en la playa fluvial."
+actividades:
+  - t: "Visita guiada por Alcalá del Júcar"
+    u: "https://www.civitatis.com/es/alcala-del-jucar/visita-guiada-alcala-jucar/"
+  - t: "Alcalá del Júcar: vuelo en globo al amanecer (y resto de actividades)"
+    u: "https://www.getyourguide.es/alcala-del-jucar-l218606/"
 ---
 Casas blancas encaramadas a una pared de roca, un castillo coronándolo todo y un río verde esmeralda a sus pies. **Alcalá del Júcar** parece un pueblo colgado de la hoz que ha abierto el río Júcar en plena Manchuela de Albacete.
 
@@ -48,6 +53,9 @@ Y lo mejor está dentro de la roca: **cuevas que atraviesan la montaña de lado 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/alcala-del-jucar/hoz.webp" alt="La hoz del Júcar vista desde lo alto" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La hoz del Júcar</h3><p>El río ha excavado un cañón de paredes calizas que se puede recorrer en coche o a pie entre Alcalá y otros pueblos de la zona.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/alcala-del-jucar/noche.webp" alt="Alcalá del Júcar iluminado de noche" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>De noche</h3><p>Con el castillo y las casas iluminadas, el pueblo parece un belén.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Alcalá del Júcar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Albacete</strong> se llega en unos 50 minutos y desde <strong>Valencia</strong> en algo menos de hora y media. La carretera baja a la hoz con curvas y vistas espectaculares.</p><p>Aparca abajo, junto al río: el pueblo se recorre a pie y sus calles son muy estrechas y empinadas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Alcalá+del+Júcar" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

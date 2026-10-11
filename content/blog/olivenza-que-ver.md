@@ -22,6 +22,9 @@ faq:
     a: "Medio día es suficiente para lo principal."
   - q: "¿A cuánto está Olivenza de Badajoz?"
     a: "A unos 25 minutos en coche, en la misma frontera con Portugal."
+actividades:
+  - t: "Visita guiada por Olivenza"
+    u: "https://www.civitatis.com/es/olivenza/visita-guiada-olivenza/"
 ---
 Calles blancas con nombres en dos idiomas, azulejos azules en las iglesias, columnas retorcidas como cuerdas de barco… y todo eso en Badajoz. **Olivenza** fue **portuguesa durante cinco siglos**, y todavía se nota en cada rincón.
 
@@ -46,6 +49,9 @@ Te cuento su curiosa historia y qué ver en uno de los pueblos más bonitos de E
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/olivenza-que-ver/calle.webp" alt="Antigua panadería del rey en Olivenza" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los edificios históricos</h3><p>Antiguos cuarteles, la panadería real y casas señoriales encaladas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/olivenza-que-ver/muralla.webp" alt="Maqueta de la muralla abaluartada de Olivenza" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La muralla abaluartada</h3><p>Olivenza estuvo rodeada por una muralla en forma de estrella. Aún se conservan tramos y la Puerta del Calvario.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Olivenza</h2></div>
 <div class="guide__howto"><p>Desde <strong>Badajoz</strong>, unos 25 minutos por la EX-107. Desde Mérida, alrededor de una hora.</p><p>El centro es pequeño y se recorre a pie; aparca en las calles de alrededor del castillo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castillo+de+Olivenza" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

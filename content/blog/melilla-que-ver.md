@@ -22,6 +22,11 @@ faq:
     a: "Porque la ciudad creció a principios del siglo XX, cuando el arquitecto Enrique Nieto, que había trabajado con Gaudí, diseñó muchos de sus edificios."
   - q: "¿Se puede ir a Melilla en coche?"
     a: "Sí, en el ferry desde Málaga, Almería o Motril puedes llevar el coche."
+actividades:
+  - t: "Visita guiada por la ciudadela de Melilla la Vieja"
+    u: "https://www.civitatis.com/es/melilla/visita-guiada-melilla-vieja/"
+  - t: "Tour por la Melilla modernista"
+    u: "https://www.civitatis.com/es/melilla/tour-melilla-modernista/"
 ---
 Una ciudadela amurallada encaramada a un acantilado sobre el Mediterráneo, túneles excavados en la roca que llegan hasta el mar y, a pocos pasos, calles llenas de fachadas **modernistas** de colores. **Melilla** es una de las ciudades más sorprendentes y desconocidas de España.
 
@@ -46,6 +51,9 @@ Te cuento qué ver en una escapada 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/melilla-que-ver/modernismo.webp" alt="Edificio modernista en el ensanche de Melilla" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los detalles</h3><p>Miradores, cúpulas, relieves florales… cada edificio tiene algo que mirar.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/melilla-que-ver/acantilado.webp" alt="Muralla de Melilla la Vieja sobre la playa" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las murallas sobre el mar</h3><p>Los acantilados y las murallas forman una de las imágenes más bonitas de la ciudad.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Melilla</h2></div>
 <div class="guide__howto"><p>Hay <strong>vuelos</strong> directos desde Málaga, Madrid y otras ciudades, y <strong>ferris</strong> desde Málaga, Almería y Motril (el trayecto en barco dura varias horas).</p><p>La ciudad se recorre a pie: Melilla la Vieja y el centro modernista están muy cerca.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Melilla+la+Vieja" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

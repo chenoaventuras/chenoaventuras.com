@@ -28,6 +28,13 @@ faq:
     a: "Para la ciudad no, se recorre a pie. Para la Serranía (Ciudad Encantada, Nacimiento del río Cuervo…) sí lo necesitas."
   - q: "¿Cuántos días hacen falta para ver Cuenca?"
     a: "Con 3 días ves la ciudad, haces alguna aventura y recorres la Serranía, como en mi ruta de esta guía."
+actividades:
+  - t: "Free tour por Cuenca"
+    u: "https://www.civitatis.com/es/cuenca/free-tour-cuenca/"
+  - t: "Tour de los misterios y leyendas de Cuenca"
+    u: "https://www.civitatis.com/es/cuenca/tour-misterios-leyendas/"
+  - t: "Visita guiada por la Ciudad Encantada"
+    u: "https://www.civitatis.com/es/cuenca/visita-guiada-ciudad-encantada/"
 ---
 Cuenca es de esos sitios a los que vas por las **Casas Colgadas** y vuelves hablando de todo lo demás. Una ciudad Patrimonio de la Humanidad colgada entre dos hoces, y a veinte minutos, una Serranía llena de cañones, lagunas y rocas con formas imposibles.
 

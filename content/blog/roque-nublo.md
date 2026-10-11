@@ -23,6 +23,9 @@ faq:
     a: "El monolito mide unos 80 metros y su base está a más de 1.800 metros sobre el nivel del mar."
   - q: "¿Hay que pagar para subir al Roque Nublo?"
     a: "La reserva es obligatoria en horario de día. Hay que aparcar en Cruz de Los Llanos o en Tejeda y llegar en guagua lanzadera o a pie."
+actividades:
+  - t: "Senderismo por el Roque Nublo"
+    u: "https://www.civitatis.com/es/tejeda/senderismo-roque-nublo/"
 ---
 Un monolito de roca volcánica de unos **80 metros** plantado en lo alto de la isla, a más de 1.800 metros de altura, con el **Teide** asomando sobre el mar de nubes. El **Roque Nublo** es el símbolo de Gran Canaria y una de las excursiones más bonitas de Canarias.
 
@@ -47,6 +50,9 @@ Desde 2025 subir tiene sus normas: hay **reserva obligatoria** en horario de dí
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/roque-nublo/portada.webp" alt="Roque Nublo a contraluz entre pinos" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los pinares</h3><p>La ruta cruza pinar canario, el árbol que resiste el fuego y que viste las cumbres de la isla.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/roque-nublo/barranco.webp" alt="Roque Nublo sobre el Barranco de Tejeda" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Barranco de Tejeda</h3><p>La gran caldera de Tejeda se abre a los pies del Roque. Unamuno la describió como una «tempestad petrificada».</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Roque Nublo</h2></div>
 <div class="guide__howto"><p>El sendero empieza en la <strong>Degollada de La Goleta</strong>, en la carretera entre Ayacata y Los Pechos, en el centro de Gran Canaria.</p><p>Como ya no se puede aparcar allí, deja el coche en <strong>Cruz de Los Llanos</strong> (desde allí la guagua lanzadera tarda unos 10 minutos) o en <strong>Tejeda</strong>. La línea de guagua que conecta con el Roque también tiene servicio desde el sur de la isla.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Degollada+de+La+Goleta" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://reservasroquenublo.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Reserva oficial</a></div></div>

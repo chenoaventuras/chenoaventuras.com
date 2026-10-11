@@ -23,6 +23,9 @@ faq:
     a: "Por tu cuenta en coche o con una de las excursiones organizadas que salen cada día desde la ciudad."
   - q: "¿Hay monos en las cascadas de Ouzoud?"
     a: "Sí, monos de Berbería en libertad. Obsérvalos sin darles de comer ni acercarte demasiado."
+actividades:
+  - t: "Excursión a las Cascadas de Ouzoud desde Marrakech"
+    u: "https://www.civitatis.com/es/marrakech/excursion-cascadas-ouzoud/"
 ---
 En pleno Atlas Medio marroquí, a poco más de dos horas de Marrakech, el agua se despeña casi 100 metros entre paredes de roca ocre, creando uno de los paisajes más espectaculares de todo Marruecos. Son las Cascadas de Ouzoud, y si estás por la zona, merecen una excursión de un día entero.
 
@@ -43,6 +46,9 @@ Una de las sorpresas de Ouzoud es la presencia de **monos de Berbería** viviend
 ## Cómo visitar las cascadas
 
 Existen varios senderos que permiten bajar hasta la base de las cascadas y verlas desde distintos ángulos, y también es posible contratar pequeñas embarcaciones que se acercan hasta el pie del salto de agua para sentir de cerca la fuerza de la corriente. La mayoría de las excursiones desde Marrakech incluyen tiempo libre tanto para caminar por los miradores superiores como para bajar hasta el agua.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

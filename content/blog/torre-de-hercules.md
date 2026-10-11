@@ -23,6 +23,11 @@ faq:
     a: "De finales del siglo I o principios del II, de época romana. El exterior es de una restauración del siglo XVIII."
   - q: "¿Cómo llegar a la Torre de Hércules?"
     a: "Desde el centro de A Coruña, andando por el paseo marítimo (30-40 minutos) o en autobús urbano. En coche hay aparcamiento alrededor del parque, que se llena en verano."
+actividades:
+  - t: "Free tour por el Parque Escultórico de la Torre de Hércules"
+    u: "https://www.civitatis.com/es/la-coruna/free-tour-torre-hercules/"
+  - t: "Torre de Hércules: actividades y entradas"
+    u: "https://www.civitatis.com/es/la-coruna/torre-hercules/"
 ---
 Lleva casi **2.000 años** avisando a los barcos. La **Torre de Hércules**, en A Coruña, es el **único faro romano del mundo que sigue funcionando**, y el más antiguo en uso. Es Patrimonio de la Humanidad desde 2009.
 
@@ -45,6 +50,9 @@ Te cuento por qué se llama así, qué queda de la torre romana y cómo subir ha
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/torre-de-hercules/menhires.webp" alt="Los Menhires del parque de la Torre de Hércules" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los Menhires</h3><p>Piedras con agujeros que enmarcan el mar. Al atardecer son una de las fotos más bonitas de A Coruña.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/torre-de-hercules/portada.webp" alt="Vista de la península de la Torre de Hércules" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El paseo marítimo</h3><p>Rodea la península a pie o en bici: verás la torre desde todos los ángulos y la Rosa de los Vientos en el suelo.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Torre de Hércules</h2></div>
 <div class="guide__howto"><p>Desde el centro de A Coruña puedes ir <strong>andando por el paseo marítimo</strong> (unos 30-40 minutos) o en los autobuses urbanos que paran junto al parque.</p><p>En coche hay aparcamiento en los alrededores del parque, que se llena en verano y fines de semana.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Torre%20de%20H%C3%A9rcules%2C%20A%20Coru%C3%B1a" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -25,6 +25,9 @@ faq:
     a: "Sí, la barquilla colgada lleva coches y personas de una orilla a otra. También puedes cruzar a pie por arriba, a 45 metros de altura."
   - q: "¿Dónde está el Puente de Vizcaya?"
     a: "Une Portugalete y Las Arenas (Getxo), a ambos lados de la ría de Bilbao."
+actividades:
+  - t: "Puente de Vizcaya: entradas y tours"
+    u: "https://www.getyourguide.es/puente-vizcaya-l147791/"
 ---
 Ni se levanta ni tiene carretera: el **Puente de Vizcaya** cruza la ría con una **barquilla colgada** que lleva coches y personas de una orilla a otra. Fue el **primer puente transbordador del mundo** y es Patrimonio de la Humanidad.
 
@@ -47,6 +50,9 @@ Además, puedes cruzarlo por arriba, a 45 metros de altura. Te cuento precios y 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puente-de-vizcaya/portugalete.webp" alt="Portugalete desde el Puente de Vizcaya" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Portugalete</h3><p>Casco histórico en cuesta con la basílica de Santa María.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puente-de-vizcaya/ria.webp" alt="Puente de Vizcaya sobre la ría" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las Arenas y Getxo</h3><p>Al otro lado, paseo marítimo y casas señoriales hasta el Puerto Viejo de Algorta.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Puente de Vizcaya</h2></div>
 <div class="guide__howto"><p>En <strong>metro de Bilbao</strong>, parada Portugalete (lado izquierdo) o Areeta (lado de Getxo), a pocos minutos andando del puente.</p><p>En coche puedes cruzar en la barquilla pagando el billete del vehículo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Puente%20de%20Vizcaya%2C%20Portugalete" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

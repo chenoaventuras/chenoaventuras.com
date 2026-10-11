@@ -22,6 +22,9 @@ faq:
     a: "Su origen es andalusí, pero los templarios lo transformaron en una gran fortaleza a partir del siglo XII."
   - q: "¿Cómo llegar a Miravet?"
     a: "En coche: está en la Ribera d'Ebre (Tarragona), a una hora de Tarragona y a dos de Barcelona."
+actividades:
+  - t: "Tour en kayak por el río Ebro hacia Miravet"
+    u: "https://www.civitatis.com/es/mora-la-nueva/tour-kayak-rio-ebro/"
 ---
 Un pueblo de casas de piedra colgado de un risco, un **castillo templario** coronándolo y el río **Ebro** pasando tranquilo a sus pies. **Miravet** es una de las postales más bonitas de Cataluña, y tiene algo que ya casi no existe: una **barca que cruza el río tirada por un cable**, sin motor, empujada solo por la corriente.
 
@@ -46,6 +49,9 @@ Te cuento qué ver y cómo vivir este rincón de las Terres de l'Ebre 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/miravet/iglesia.webp" alt="Iglesia vieja de Miravet" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La iglesia vieja</h3><p>En lo alto del pueblo, con un mirador sobre el meandro del Ebro.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/miravet/ceramica.webp" alt="Botijo de cerámica tradicional de Miravet" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La cerámica</h3><p>Llévate un botijo de Miravet: los alfareros siguen trabajando en el pueblo.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Miravet</h2></div>
 <div class="guide__howto"><p>Desde la <strong>AP-7</strong> o la N-420 se llega en una hora desde Tarragona. Si vienes por la C-12, en la otra orilla, puedes cruzar con el <strong>pas de barca</strong>.</p><p>Al castillo se sube en coche por una carretera que rodea el pueblo; también se puede subir andando desde el casco viejo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castell+de+Miravet" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

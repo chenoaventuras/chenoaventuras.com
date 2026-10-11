@@ -11,6 +11,11 @@ tags:
   - Pueblos
   - Aragón
 wide: true
+actividades:
+  - t: "Visita guiada por Valderrobres"
+    u: "https://www.civitatis.com/es/valderrobres/visita-guiada-valderrobres/"
+  - t: "Visita guiada por la Cueva del Agua de Fuentespalda"
+    u: "https://www.civitatis.com/es/fuentespalda/visita-guiada-cueva-agua/"
 ---
 La llaman la **«Toscana española»**: colinas de olivos y almendros, pueblos medievales de piedra dorada y ríos de agua verde llenos de **pozas**. El **Matarraña**, en el rincón noreste de Teruel, es una de las comarcas más bonitas de España.
 
@@ -35,6 +40,9 @@ Te cuento los pueblos imprescindibles, las mejores pozas, cómo reservar el **Pa
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/que-ver-en-matarrana/fresneda.webp" alt="Vista de La Fresneda" loading="lazy" decoding="async" /><span class="gcard__n">08</span></div><div class="gcard__body"><h3>La Fresneda</h3><p>Plaza mayor con ayuntamiento renacentista, cárcel medieval y el Palacio de la Encomienda.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/que-ver-en-matarrana/penarroya.webp" alt="Santuario de la Virgen de la Fuente en Peñarroya de Tastavins" loading="lazy" decoding="async" /><span class="gcard__n">09</span></div><div class="gcard__body"><h3>Peñarroya de Tastavins</h3><p>Pueblo de montaña con el santuario de la Virgen de la Fuente junto al río. Desde aquí se sube al Tossal dels Tres Reis.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Pozas</span><h2>Las pozas del Matarraña</h2></div>
 <p>El río Matarraña y sus afluentes (Ulldemó, Tastavins, Algars) forman decenas de pozas de agua fría y transparente. Las más conocidas están en <strong>Beceite</strong>: <strong>La Pesquera</strong>, una sucesión de pozas junto a una pista, y el <strong>Toll del Vidre</strong>.</p><div class="guide__legend"><h3>🚗 La Pesquera en verano</h3><p>Del <strong>21 de junio al 31 de agosto</strong> el acceso en coche a La Pesquera tiene <strong>parking obligatorio de pago</strong>. Ve temprano: se llena.</p></div><div class="guide__legend"><h3>🌿 Cuida el río</h3><p>Son espacios naturales protegidos: no dejes nada, no uses jabones ni cremas antes de bañarte y no muevas piedras para hacer represas.</p></div>

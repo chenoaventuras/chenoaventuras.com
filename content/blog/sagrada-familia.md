@@ -23,6 +23,11 @@ faq:
     a: "Sí, es muy recomendable comprarlas online con antelación."
   - q: "¿Cómo llegar a la Sagrada Familia?"
     a: "En metro: tiene parada propia, Sagrada Família (líneas 2 y 5), en el barrio del Eixample."
+actividades:
+  - t: "Visita guiada a la Sagrada Familia"
+    u: "https://www.civitatis.com/es/barcelona/visita-guiada-sagrada-familia/"
+  - t: "Tour por la Sagrada Familia con subida a las torres"
+    u: "https://www.civitatis.com/es/barcelona/visita-sagrada-familia-torres/"
 ---
 Lleva en obras desde **1882** y aún no está terminada, pero ya tiene un récord: desde el **30 de octubre de 2025**, la **Sagrada Familia** de Barcelona es la **iglesia más alta del mundo**.
 
@@ -44,6 +49,9 @@ Te cuento cómo lo consiguió, sus curiosidades y cómo visitarla sin quedarte s
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/sagrada-familia/nave.webp" alt="Interior de la Sagrada Familia con columnas como árboles" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El interior</h3><p>El bosque de columnas y las vidrieras. Ve por la tarde para la luz más cálida.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/sagrada-familia/portada.webp" alt="Torres de la Sagrada Familia" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las torres</h3><p>Se puede subir a algunas con entrada especial. Vistas de toda Barcelona.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Sagrada Familia</h2></div>
 <div class="guide__howto"><p>En metro, parada <strong>Sagrada Família</strong> (líneas L2 y L5). También hay muchos autobuses.</p><p>En coche es mejor no ir: el aparcamiento en la zona es caro y difícil.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sagrada%20Familia%2C%20Barcelona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -21,6 +21,9 @@ faq:
     a: "La imagen de la Virgen de Covadonga, la Santina, y el sepulcro de Pelayo, el primer rey de Asturias."
   - q: "¿Qué dice la leyenda de la fuente de Covadonga?"
     a: "Según el dicho popular, «la moza que bebe en la fuente, se casa en el año»."
+actividades:
+  - t: "Excursión a los lagos de Covadonga en grupo reducido"
+    u: "https://www.civitatis.com/es/cangas-onis/excursion-lagos-covadonga/"
 ---
 Una cueva colgada en la roca con una cascada saliendo justo debajo, una basílica de piedra rosa en mitad de las montañas y, doce kilómetros más arriba, dos lagos glaciares con vacas pastando en la orilla. **Covadonga** es uno de esos lugares que se han contado tantas veces que parecen leyenda.
 
@@ -45,6 +48,9 @@ Y en parte lo son: aquí empieza, según la tradición, la historia de España t
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/ercina.webp" alt="Lago Ercina con los Picos de Europa al fondo" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El lago Ercina</h3><p>Muy cerca del Enol, con los Picos de Europa de fondo. Una ruta circular corta une los dos lagos y pasa por las antiguas minas de Buferrera.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/mirador.webp" alt="Vistas desde el Mirador de la Reina" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Mirador de la Reina</h3><p>En la carretera de subida a los Lagos. Vistas hacia la costa y, muchos días, por encima de las nubes.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Covadonga</h2></div>
 <div class="guide__howto"><p>Desde <strong>Cangas de Onís</strong>, en unos 15 minutos por la AS-262. Covadonga tiene aparcamiento, aunque en temporada alta se llena pronto.</p><p>Para los <strong>Lagos</strong>, en las fechas de más afluencia (gran parte de junio a octubre, Semana Santa, puentes y algunos fines de semana) el acceso en coche particular por la carretera CO-4 está restringido y se sube en <strong>autobús</strong> desde Cangas de Onís y otros aparcamientos disuasorios. Consulta el calendario en la web de Turismo Asturias antes de ir.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Santuario%20de%20Covadonga" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -23,6 +23,9 @@ faq:
     a: "Ocho apellidos vascos."
   - q: "¿Cómo llegar a la playa de Itzurun en Zumaia?"
     a: "Desde San Sebastián, unos 30 minutos por la AP-8. La playa está junto al casco de Zumaia, al lado de la ermita de San Telmo."
+actividades:
+  - t: "Paseo en barco por el Flysch de Zumaia (corto)"
+    u: "https://www.civitatis.com/es/zumaia/paseo-barco-flysch-zumaia/"
 ---
 Si has visto **Juego de Tronos**, ya has estado en **Zumaia**. Su playa de **Itzurun** fue la costa de **Rocadragón** en la séptima temporada. Pero lo más alucinante no es la serie: son sus acantilados de **flysch**, capas de roca que cuentan **millones de años** de historia de la Tierra.
 
@@ -44,6 +47,9 @@ Te cuento qué ver, cuándo ir según la marea y dónde está la ermita de pelí
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zumaia-juego-de-tronos/ermita.webp" alt="Ermita de San Telmo en Zumaia" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Ermita de San Telmo</h3><p>Encima del acantilado. La foto más famosa de Zumaia.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zumaia-juego-de-tronos/playa.webp" alt="Playa de Itzurun con marea baja" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La rasa mareal</h3><p>Con marea baja aparecen las placas de roca: camina con cuidado, resbalan.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Zumaia</h2></div>
 <div class="guide__howto"><p>Desde <strong>San Sebastián</strong>, unos 30 minutos por la AP-8. También llega el tren Euskotren.</p><p>La playa de Itzurun está junto al centro del pueblo, se llega andando.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa%20de%20Itzurun%2C%20Zumaia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

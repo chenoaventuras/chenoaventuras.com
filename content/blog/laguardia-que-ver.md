@@ -22,6 +22,9 @@ faq:
     a: "Las lagunas de Carralogroño y Musco, dólmenes como El Sotillo o La Hechicera, y bodegas de la Rioja Alavesa."
   - q: "¿Dónde está Laguardia?"
     a: "En la Rioja Alavesa, a solo 15-20 minutos de Logroño y a unos 45 de Vitoria."
+actividades:
+  - t: "Tour por Laguardia + visita a una bodega con cata"
+    u: "https://www.civitatis.com/es/laguardia/tour-laguardia-visita-bodega-cata/"
 ---
 Un pueblo amurallado en lo alto de una colina, rodeado de viñedos… y con una curiosidad que lo hace único: **no pueden entrar coches porque debajo de sus calles hay cientos de bodegas excavadas en la roca**. Bienvenido a **Laguardia**, la capital de la Rioja Alavesa.
 
@@ -46,6 +49,9 @@ Te cuento qué ver, desde el pórtico que conserva sus colores medievales hasta 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguardia-que-ver/laguna.webp" alt="Laguna de Carralogroño en Laguardia" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las lagunas</h3><p>A las afueras hay varias lagunas protegidas, como Carralogroño, con un paseo fácil para ver aves.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguardia-que-ver/dolmen.webp" alt="Dolmen de El Sotillo en Laguardia" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los dólmenes</h3><p>La zona está llena de dólmenes prehistóricos, como El Sotillo o La Hechicera, entre viñedos.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Laguardia</h2></div>
 <div class="guide__howto"><p>Desde <strong>Logroño</strong> se llega en unos 15-20 minutos por la A-124. Desde <strong>Vitoria</strong>, en unos 45 minutos cruzando el puerto de Herrera, con un mirador espectacular sobre la Rioja Alavesa.</p><p>Aparca en los <strong>aparcamientos junto a la muralla</strong>: el centro es peatonal.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laguardia+Álava" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

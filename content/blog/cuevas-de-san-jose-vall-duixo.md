@@ -25,6 +25,9 @@ faq:
     a: "En temporada alta, sí. Si no quedan plazas online, cada día se venden unas pocas entradas en taquilla."
   - q: "¿Qué temperatura hace dentro de las Cuevas de San José?"
     a: "Unos 20 °C constantes todo el año, así que es buen plan tanto en invierno como en verano."
+actividades:
+  - t: "Coves de Sant Josep: entradas y tours"
+    u: "https://www.getyourguide.es/cuevas-de-sant-josep-l167977/"
 ---
 Bajo la Vall d'Uixó, en Castellón, corre un río subterráneo que se puede recorrer en barca: el más largo de Europa que admite navegación. Rodeado de formaciones que han tardado miles de años en formarse, es uno de esos planes que combinan aventura y naturaleza bajo tierra.
 
@@ -49,6 +52,9 @@ Se puede visitar durante todo el año, aunque primavera y otoño son las mejores
 ## Accesibilidad
 
 La visita es apta para todos los públicos y cuenta con accesibilidad para personas con movilidad reducida, algo poco habitual en este tipo de cuevas.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

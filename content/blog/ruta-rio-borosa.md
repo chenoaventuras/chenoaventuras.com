@@ -25,6 +25,11 @@ faq:
     a: "Es un sendero del parque natural; si vas con perro, llévalo siempre atado y respeta la normativa del parque."
   - q: "¿Dónde empieza la ruta del río Borosa?"
     a: "Junto a la piscifactoría del río Borosa, cerca del Centro de Visitantes Torre del Vinagre, en la Sierra de Cazorla (Jaén)."
+actividades:
+  - t: "Tour por el Parque Natural de las Sierras de Cazorla (río Borosa)"
+    u: "https://www.civitatis.com/es/cazorla/tour-sierras-cazorla/"
+  - t: "Visita guiada por Cazorla + cata de aceite"
+    u: "https://www.civitatis.com/es/cazorla/visita-guiada-cazorla-cata-aceite/"
 ---
 Agua turquesa, pasarelas de madera encajadas entre paredes de roca, cascadas y hasta **túneles excavados en la montaña**. La **ruta del río Borosa** es probablemente el sendero más famoso del Parque Natural de las Sierras de Cazorla, Segura y Las Villas, y es de esas rutas que van mejorando a cada kilómetro.
 
@@ -49,6 +54,9 @@ Lo mejor es que la puedes adaptar: desde un paseo de un par de horas hasta un d�
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-rio-borosa/tunel.webp" alt="Túnel excavado en la roca en la ruta del Borosa" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los túneles</h3><p>En la parte alta se cruzan túneles excavados para el canal. Algunos son largos: lleva frontal o linterna.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-rio-borosa/pliegue.webp" alt="Pliegue geológico del río Borosa" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El pliegue del Borosa</h3><p>Las capas de roca dobladas son un regalo para los amantes de la geología.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al río Borosa</h2></div>
 <div class="guide__howto"><p>La ruta empieza junto a la <strong>antigua piscifactoría del río Borosa</strong>, en el desvío de la carretera <strong>A-319</strong> pasado el Centro de Visitantes de la <strong>Torre del Vinagre</strong>, en pleno parque natural.</p><p>Hay zona de aparcamiento al inicio, pero en puentes y fines de semana de primavera y otoño se llena pronto. El pueblo grande más cercano para dormir es <strong>Cazorla</strong>, aunque hay alojamientos más cerca, en la zona de Coto Ríos y Arroyo Frío.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sendero+del+Río+Borosa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

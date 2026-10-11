@@ -25,6 +25,9 @@ faq:
     a: "En el Parque Natural del Cap de Creus (Girona), a unos 8 km de Cadaqués."
   - q: "¿Hay que pagar para ir al Cabo de Creus?"
     a: "El parque y el faro son gratis. Solo pagas la lanzadera si vas en verano, cuando la carretera tiene acceso restringido."
+actividades:
+  - t: "Paseo en catamarán por el Cabo de Creus desde Rosas"
+    u: "https://www.civitatis.com/es/rosas/paseo-catamaran-cabo-creus/"
 ---
 Es el primer sitio de la península donde sale el sol. El **Cabo de Creus**, en Girona, es el **punto más oriental de la península ibérica**: un paisaje de rocas retorcidas por el viento que obsesionaba a **Salvador Dalí**.
 
@@ -46,6 +49,9 @@ Te cuento qué ver, cómo llegar desde Cadaqués y el truco para ver el amanecer
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-de-creus/tudela.webp" alt="Rocas del Paratge de Tudela en el Cap de Creus" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Paratge de Tudela</h3><p>La ruta de las rocas con formas: busca el camello y el águila.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-de-creus/portada.webp" alt="Vista panorámica del faro del Cap de Creus" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las calas</h3><p>Calas de agua transparente que solo se alcanzan a pie o en kayak.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Cap de Creus</h2></div>
 <div class="guide__howto"><p>Desde <strong>Cadaqués</strong>, sigue la carretera GIV-6141 hacia el faro: unos 8 km. En verano, mira si hay restricciones y lanzadera.</p><p>Desde Barcelona son unas 2 horas y cuarto en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Far%20de%20Cap%20de%20Creus" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

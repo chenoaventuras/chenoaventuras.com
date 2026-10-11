@@ -23,6 +23,9 @@ faq:
     a: "Por la torre faro romana de Quinto Servilio Cepión, la Turris Caepionis."
   - q: "¿Dónde está el faro de Chipiona?"
     a: "En la Punta del Perro, en Chipiona (Cádiz), a unos 30 minutos de Jerez y de Sanlúcar."
+actividades:
+  - t: "Actividades en Chipiona"
+    u: "https://www.civitatis.com/es/chipiona/"
 ---
 En la punta de Chipiona, donde el Guadalquivir se junta con el Atlántico, hay un faro de **62 metros**. Es el **faro más alto de España** y uno de los más altos del mundo.
 
@@ -44,6 +47,9 @@ Te cuento por qué está aquí, su curiosa conexión con los romanos y qué hace
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-chipiona/atardecer.webp" alt="Playa y faro de Chipiona" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las playas</h3><p>Chipiona tiene kilómetros de arena. Desde la playa el faro sale en todas las fotos.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-chipiona/regla.webp" alt="Playa de Regla en Chipiona" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Playa de Regla</h3><p>La más famosa del pueblo, junto al santuario de la Virgen de Regla.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al faro de Chipiona</h2></div>
 <div class="guide__howto"><p>Desde <strong>Jerez de la Frontera</strong> son unos 35 km por la A-480. Desde <strong>Sanlúcar de Barrameda</strong>, unos 10 km.</p><p>El faro está al final del paseo marítimo, se llega andando desde el centro del pueblo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Faro%20de%20Chipiona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

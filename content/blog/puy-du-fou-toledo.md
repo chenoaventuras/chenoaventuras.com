@@ -23,6 +23,9 @@ faq:
     a: "El espectáculo nocturno, con luces, sonido y efectos especiales: es el gran cierre del día y no te lo deberías perder."
   - q: "¿Cuándo es mejor ir a Puy du Fou España?"
     a: "En primavera y verano, cuando los espectáculos al aire libre se disfrutan mejor."
+actividades:
+  - t: "Entrada a Puy du Fou España + El Sueño de Toledo"
+    u: "https://www.civitatis.com/es/toledo/entrada-puy-fou-sueno-toledo/"
 ---
 Hay parques temáticos con atracciones, y luego está Puy du Fou, donde el protagonista es el espectáculo en vivo: batallas medievales, danzas tradicionales y una puesta en escena que está a otro nivel de lo habitual.
 
@@ -47,6 +50,9 @@ Las entradas de un día con espectáculo nocturno incluido rondan los **70€**,
 ## Accesibilidad
 
 El recinto cuenta con caminos adaptados y zonas pensadas para disfrutar sin prisas, por lo que es una visita accesible para todos los públicos.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

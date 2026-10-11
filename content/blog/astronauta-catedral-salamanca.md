@@ -27,6 +27,13 @@ faq:
     a: "En pleno casco histórico, a unos 3 minutos andando de la Universidad. El astronauta está en la Puerta de Ramos, la que da a la plaza de Anaya."
   - q: "¿Cuánto se tarda en encontrar el astronauta y la rana?"
     a: "Media hora para los dos. Si entras a visitar la catedral y la Universidad por dentro, cuenta una mañana."
+actividades:
+  - t: "Free tour por Salamanca"
+    u: "https://www.civitatis.com/es/salamanca/free-tour-salamanca/"
+  - t: "Salamanca: entrada a la catedral con audioguía"
+    u: "https://www.getyourguide.es/salamanca-l1637/salamanca-cathedral-of-salamanca-ticket-with-audio-guide-t478516/"
+  - t: "Visita guiada a la Universidad de Salamanca"
+    u: "https://www.getyourguide.es/salamanca-l1637/visita-guiada-a-la-universidad-de-salamanca-en-espanol-t953643/"
 ---
 En una catedral del siglo XVI hay un **astronauta** tallado en piedra, con su escafandra y todo. No es un viajero en el tiempo: es una de las curiosidades más famosas de **Salamanca**, junto a la **rana** de la fachada de la Universidad.
 
@@ -51,6 +58,9 @@ Te cuento dónde está cada uno y su historia 👇
 </ol>
 
 <div class="guide__howto"><h3>Y la Cueva de Salamanca</h3><p>Si te gustan las leyendas, a 10 minutos está la <strong>Cueva de Salamanca</strong>, donde según la tradición el diablo daba clases de magia a siete alumnos. Te lo cuento en <a href="/blog/cueva-de-salamanca.html">este post</a>.</p></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Salamanca</h2></div>
 <div class="guide__howto"><p>La Catedral y la Universidad están en pleno casco histórico de <strong>Salamanca</strong>, a 5 minutos de la Plaza Mayor. Lo mejor es aparcar fuera del centro y caminar.</p><p>Desde <strong>Madrid</strong> hay unos 210 km (2 h 15 min por la A-50) y también tren directo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Puerta%20de%20Ramos%2C%20Catedral%20Nueva%20de%20Salamanca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

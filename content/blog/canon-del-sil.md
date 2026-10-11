@@ -25,6 +25,9 @@ faq:
     a: "En la Ribeira Sacra, entre las provincias de Ourense y Lugo, a unos 30-45 minutos de Ourense ciudad y de Monforte de Lemos."
   - q: "¿Es buen plan el Cañón del Sil con niños?"
     a: "Sí: el paseo en catamarán es tranquilo y los miradores tienen acceso fácil en coche."
+actividades:
+  - t: "Paseo en barco por los cañones del Sil (Castro Caldelas)"
+    u: "https://www.civitatis.com/es/castro-caldelas/paseo-barco-canones-sil/"
 ---
 Paredes de granito de cientos de metros cayendo al río, laderas cubiertas de **viñedos en terrazas** que parecen imposibles de trabajar y monasterios escondidos entre bosques. El **Cañón del Sil**, en la Ribeira Sacra, es uno de los paisajes más impresionantes de Galicia.
 
@@ -49,6 +52,9 @@ La mejor forma de verlo es desde dos sitios: **desde el río, en catamarán**, y
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/canon-del-sil/niebla.webp" alt="Aldea de la Ribeira Sacra entre la niebla" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las aldeas</h3><p>Pequeños pueblos de piedra colgados en las laderas, entre viñas y castaños.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/canon-del-sil/monasterio.webp" alt="Monasterio de Santo Estevo de Ribas de Sil" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Santo Estevo</h3><p>Un monasterio benedictino con tres claustros, hoy Parador, sobre el cañón.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Cañón del Sil</h2></div>
 <div class="guide__howto"><p>Desde <strong>Ourense</strong>, unos 30-45 minutos en coche hacia Nogueira de Ramuín (Santo Estevo) o Parada de Sil. Desde <strong>Lugo</strong> se llega por Monforte de Lemos y Sober.</p><p>Las carreteras son estrechas y con muchas curvas: tómatelo con calma y para en cada mirador.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Mosteiro+de+Santo+Estevo+de+Ribas+de+Sil" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Santo Estevo en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Balcones+de+Madrid+Parada+de+Sil" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Balcones de Madrid</a></div></div>

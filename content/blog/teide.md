@@ -26,6 +26,11 @@ faq:
     a: "3.715 metros sobre el nivel del mar: es el pico más alto de España."
   - q: "¿Se puede subir al Teide en coche?"
     a: "Hasta la base del teleférico, sí, por la carretera del Parque Nacional. Desde ahí se sigue en teleférico o a pie."
+actividades:
+  - t: "Teleférico del Teide: entradas"
+    u: "https://www.getyourguide.es/teide-cable-car-l36141/"
+  - t: "Teleférico del Teide + senderismo al pico"
+    u: "https://www.civitatis.com/es/puerto-de-la-cruz/entrada-teleferico-teide-senderismo-pico/"
 ---
 Con sus **3.715 metros**, el **Teide** es el pico más alto de España y uno de los volcanes más impresionantes del mundo. Subir hasta arriba, con el olor a azufre de las fumarolas y un mar de nubes bajo tus pies, es una de esas experiencias que hay que vivir al menos una vez.
 
@@ -52,6 +57,9 @@ Pero llegar al cráter no es tan simple como coger el teleférico: hace falta un
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/sendero.webp" alt="Sendero de lava en el Parque Nacional del Teide" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los senderos de lava</h3><p>Coladas de lava, piedra pómez y volcanes por todas partes. Hay rutas para todos los niveles.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/teide/pinar.webp" alt="Pinar canario con el Teide al fondo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El pinar canario</h3><p>Subiendo hacia el parque cruzas bosques de pino canario, un árbol capaz de rebrotar tras los incendios.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo subir al Teide</h2></div>
 <div class="guide__howto"><p><strong>Opción 1, teleférico + permiso:</strong> subes en teleférico hasta La Rambleta y, con tu reserva para el sendero Telesforo Bravo, haces el último tramo hasta el cráter (unos 40 minutos de ida, con mucha altura).</p><p><strong>Opción 2, a pie por Montaña Blanca:</strong> una ruta larga y exigente desde la carretera, con unos 1.300 metros de desnivel. Se puede dividir durmiendo en el <strong>refugio de Altavista</strong>; desde 2026 el sendero de Montaña Blanca también tiene tasa para no residentes.</p><p>El parque está a una hora larga en coche desde el sur o el norte de Tenerife. Hay aparcamientos junto al teleférico y en los Roques de García, pero se llenan pronto.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Teleférico+del+Teide" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Teleférico en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.reservasparquesnacionales.es/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Reserva del permiso (Parques Nacionales)</a></div></div>

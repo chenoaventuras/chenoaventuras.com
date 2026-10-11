@@ -22,6 +22,11 @@ faq:
     a: "Desde finales de octubre hasta el 2 de noviembre. Consulta el programa de cada año en la web del Ayuntamiento de Soria."
   - q: "¿Se puede subir al Monte de las Ánimas?"
     a: "Sí, hay senderos que suben desde la zona de San Juan de Duero, con vistas a la ciudad."
+actividades:
+  - t: "Tour de los misterios y leyendas de Soria"
+    u: "https://www.civitatis.com/es/soria/tour-misterios-leyendas/"
+  - t: "Tour de Soria al completo con entradas"
+    u: "https://www.civitatis.com/es/soria/tour-soria-completo/"
 ---
 La noche de Difuntos, en Soria, las campanas doblan solas y los muertos salen del monte. Eso cuenta **Gustavo Adolfo Bécquer** en *El Monte de las Ánimas*, la leyenda de miedo más famosa de la literatura española.
 
@@ -46,6 +51,9 @@ Y el monte existe: está al otro lado del Duero, y cada año la ciudad celebra *
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monte-de-las-animas-soria/san-saturio.webp" alt="Ermita de San Saturio en Soria" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La ermita de San Saturio</h3><p>Colgada en la roca sobre el río y construida sobre una cueva donde vivió el santo patrón de Soria.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monte-de-las-animas-soria/festival.webp" alt="Festival de las Ánimas en Soria" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Festival de las Ánimas</h3><p>Desde finales de octubre hasta el 2 de noviembre: lectura de la leyenda, desfiles, teatro y la ciudad entregada a sus ánimas.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Soria</h2></div>
 <div class="guide__howto"><p>Soria está a unas <strong>2 horas y media de Madrid</strong> por la A-15. Deja el coche en el centro y baja andando hasta el <strong>puente de piedra</strong> sobre el Duero.</p><p>Al otro lado del puente están San Juan de Duero y la falda del monte. El paseo de San Saturio sale de San Polo y sigue el río hasta la ermita.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Arcos%20de%20San%20Juan%20de%20Duero%2C%20Soria" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

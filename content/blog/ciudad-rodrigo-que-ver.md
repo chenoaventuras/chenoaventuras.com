@@ -24,6 +24,11 @@ faq:
     a: "A una hora por la A-62, y a menos de media hora de Portugal."
   - q: "¿Cuánto se tarda en ver Ciudad Rodrigo?"
     a: "Medio día para la muralla, la catedral y la Plaza Mayor. Un día si entras en museos y paseas junto al río Águeda."
+actividades:
+  - t: "Free tour por Ciudad Rodrigo"
+    u: "https://www.civitatis.com/es/ciudad-rodrigo/free-tour-ciudad-rodrigo/"
+  - t: "Tour de la invasión napoleónica de Ciudad Rodrigo"
+    u: "https://www.civitatis.com/es/ciudad-rodrigo/tour-invasion-napoleonica-ciudad-rodrigo/"
 ---
 Una ciudad entera rodeada de murallas por las que puedes **pasear por arriba**, una catedral que todavía lleva **marcas de cañonazos** de la Guerra de la Independencia y un castillo junto al río donde se puede dormir. **Ciudad Rodrigo** es una joya escondida en la frontera con Portugal.
 
@@ -48,6 +53,9 @@ Te cuento qué ver y por qué su carnaval es de los más especiales de España �
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/plaza.webp" alt="Plaza Mayor de Ciudad Rodrigo" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Plaza Mayor</h3><p>Con el Ayuntamiento porticado. En Carnaval, se convierte en plaza de toros.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/palacio.webp" alt="Fachada de un palacio en Ciudad Rodrigo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los palacios</h3><p>Casas nobles y palacios renacentistas por todo el casco histórico.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Ciudad Rodrigo</h2></div>
 <div class="guide__howto"><p>Desde <strong>Salamanca</strong>, una hora por la autovía A-62. Desde Madrid son unas tres horas.</p><p>Aparca fuera de la muralla, junto a alguna de sus puertas, y recorre el casco a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Catedral+de+Ciudad+Rodrigo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

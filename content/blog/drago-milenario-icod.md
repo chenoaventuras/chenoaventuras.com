@@ -23,6 +23,9 @@ faq:
     a: "La resina roja que sale del tronco. Se ha usado como medicina y tinte."
   - q: "¿Cómo llegar al Drago Milenario?"
     a: "Está en Icod de los Vinos, en el norte de Tenerife, a unos 50 minutos en coche de Santa Cruz. Se ve desde la plaza de la iglesia."
+actividades:
+  - t: "Parque del Drago: entradas y tours"
+    u: "https://www.getyourguide.es/parque-del-drago-l166097/"
 ---
 Parece un árbol sacado de la época de los dinosaurios. El **Drago Milenario** de Icod de los Vinos, en Tenerife, es el **drago más grande y longevo conocido del mundo**: unos **18 metros** de alto y 20 de perímetro en la base.
 
@@ -44,6 +47,9 @@ Te cuento su edad real (no es tan «milenario» como dice el nombre), sus leyend
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/drago-milenario-icod/tronco.webp" alt="Drago Milenario junto a una palmera" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Parque del Drago</h3><p>Un jardín de plantas canarias alrededor del árbol, con un sendero y una cueva.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/drago-milenario-icod/icod.webp" alt="Drago visto desde Icod de los Vinos" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Desde la plaza</h3><p>La foto gratis: desde la plaza de la iglesia de San Marcos se ve entero.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Drago</h2></div>
 <div class="guide__howto"><p>Desde <strong>Puerto de la Cruz</strong>, unos 25 minutos por la TF-5 hacia Icod. Desde Santa Cruz o La Laguna, unos 50 minutos.</p><p>Hay aparcamientos de pago y algunos gratuitos en el pueblo; el Drago está en el centro.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Drago%20Milenario%2C%20Icod%20de%20los%20Vinos" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

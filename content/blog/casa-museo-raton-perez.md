@@ -21,6 +21,9 @@ faq:
     a: "Sí, hay una casita-museo en el mismo edificio, con entrada barata."
   - q: "¿Hay una placa?"
     a: "Sí, el Ayuntamiento de Madrid colocó una placa en la fachada."
+actividades:
+  - t: "Tour por Madrid para familias"
+    u: "https://www.civitatis.com/es/madrid/tour-madrid-familias/"
 ---
 Si alguna vez te preguntaste dónde vive el **Ratoncito Pérez**, la respuesta es: en la **calle del Arenal, 8**, de Madrid, a dos minutos de la Puerta del Sol. Hasta tiene una **placa oficial** del Ayuntamiento.
 
@@ -41,6 +44,9 @@ Te cuento de dónde sale el cuento y cómo visitar su casita-museo 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/casa-museo-raton-perez/portada.webp" alt="Entrada de la Casita Museo del Ratón Pérez" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La casita-museo</h3><p>Una pequeña casa con la familia Pérez, cartas de niños y la historia del cuento.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/casa-museo-raton-perez/arenal2.webp" alt="Calle del Arenal de Madrid" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La calle del Arenal</h3><p>Busca la placa en el número 8: el ratón vive aquí.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>En metro, paradas <strong>Sol</strong> u <strong>Ópera</strong>, a dos minutos andando.</p><p>Está en pleno centro, ideal para combinar con un paseo por el Madrid de los Austrias.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Calle%20del%20Arenal%208%2C%20Madrid" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

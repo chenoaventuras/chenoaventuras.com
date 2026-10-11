@@ -25,6 +25,9 @@ faq:
     a: "Sí, una carretera sube hasta lo alto del cerro, aunque también se puede subir andando desde el pueblo."
   - q: "¿A cuánto está Consuegra de Toledo?"
     a: "A unos 45 minutos en coche. Desde Madrid, algo más de hora y media."
+actividades:
+  - t: "Visita guiada por Consuegra"
+    u: "https://www.civitatis.com/es/consuegra/visita-guiada-consuegra/"
 ---
 Doce molinos blancos alineados en lo alto de un cerro, con un castillo medieval en medio y toda la llanura manchega a sus pies. Si alguna vez has imaginado a don Quijote cargando contra los gigantes, la imagen que tienes en la cabeza se parece mucho a **Consuegra**.
 
@@ -49,6 +52,9 @@ Te cuento qué ver, qué molinos se pueden visitar por dentro y cuándo ir para 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/atardecer.webp" alt="Molinos y castillo de Consuegra al atardecer" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El atardecer</h3><p>El momento mágico: los molinos se vuelven siluetas y el pueblo empieza a encender sus luces.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/noche.webp" alt="Molinos de La Mancha de noche" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>De noche</h3><p>Con los molinos iluminados y el cielo limpio de La Mancha, es otra visita completamente distinta.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Consuegra</h2></div>
 <div class="guide__howto"><p>Desde <strong>Madrid</strong> se llega en algo más de hora y media por la A-4 (salida Madridejos) o por la autovía de Toledo. Desde <strong>Toledo</strong>, en unos 45 minutos.</p><p>Se puede subir en coche hasta el cerro, donde hay sitio para aparcar, o andando desde el pueblo por las calles que suben hacia los molinos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Molinos+de+Consuegra" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

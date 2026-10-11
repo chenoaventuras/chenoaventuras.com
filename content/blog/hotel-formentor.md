@@ -21,6 +21,9 @@ faq:
     a: "Sí, reabrió en 2025 como Four Seasons tras una gran reforma."
   - q: "¿Cómo llegar a Formentor?"
     a: "Desde Port de Pollença por la Ma-2210; en verano hay restricciones de tráfico."
+actividades:
+  - t: "Excursión en barco a Formentor desde Alcudia"
+    u: "https://www.civitatis.com/es/alcudia/excursion-barco-formentor/"
 ---
 En una playa de pinos y agua turquesa al norte de **Mallorca** hay un hotel con más historias que habitaciones. El **Hotel Formentor**, abierto en **1929**, recibió a **Charles Chaplin**, **Winston Churchill**, **Audrey Hepburn**, **John Wayne** y a **Grace Kelly** con el príncipe Rainiero.
 
@@ -42,6 +45,9 @@ Te cuento su historia y cómo disfrutar de la península de Formentor aunque no 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hotel-formentor/terraza.webp" alt="Terraza histórica del Hotel Formentor" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La terraza</h3><p>Donde se tomaban el café las celebridades de la época.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/hotel-formentor/colomer.webp" alt="Mirador del Mal Pas e islote del Colomer" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Mirador del Colomer</h3><p>Acantilados de 200 metros y el islote del Colomer. Imprescindible.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Formentor</h2></div>
 <div class="guide__howto"><p>Desde <strong>Port de Pollença</strong>, por la carretera Ma-2210 hacia el Cap de Formentor: unos 20 minutos hasta la playa.</p><p>En verano, consulta las restricciones de tráfico y los autobuses lanzadera.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Platja%20de%20Formentor%2C%20Mallorca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

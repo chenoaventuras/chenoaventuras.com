@@ -20,6 +20,13 @@ faq:
     a: "Con 2-3 horas recorres con calma todo el casco histórico."
   - q: "¿Es gratis subir al castillo de Osma?"
     a: "Sí: el casco histórico y la subida al castillo son gratuitos, y las vistas compensan la pequeña caminata."
+actividades:
+  - t: "Tour panorámico por El Burgo de Osma"
+    u: "https://www.civitatis.com/es/el-burgo-de-osma/tour-panoramico-burgo-osma/"
+  - t: "Entrada a la catedral de El Burgo de Osma"
+    u: "https://www.getyourguide.es/burgo-de-osma-l245357/entrance-to-the-cathedral-of-burgo-de-osma-t1111641/"
+  - t: "Entrada al balneario Castilla Termal Burgo de Osma"
+    u: "https://www.civitatis.com/es/el-burgo-de-osma/entrada-castilla-termal-burgo-osma/"
 ---
 Hay pueblos que crecieron alrededor de un castillo, y otros que crecieron alrededor de una catedral. El Burgo de Osma es de los segundos: durante siglos fue una importante ciudad episcopal, y ese pasado se nota en cada esquina de su casco histórico.
 
@@ -42,6 +49,9 @@ Otro edificio con historia es la antigua **Universidad de Santa Catalina**, fund
 Parte de las **antiguas murallas** que protegían la ciudad todavía se mantienen en pie, recordando el papel defensivo que tuvo El Burgo de Osma durante la Edad Media. En el centro, la **Plaza Mayor porticada** es el punto de referencia para empezar (o terminar) cualquier paseo por el pueblo.
 
 Y si quieres las mejores vistas, sube al **Castillo de Osma**, entre El Burgo de Osma y Osma: el acceso al casco histórico y la subida al castillo son gratuitos, y la panorámica compensa de sobra la pequeña caminata.
+
+
+<!--actividades-->
 
 ## Cómo llegar a El Burgo de Osma
 

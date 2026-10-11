@@ -25,6 +25,9 @@ faq:
     a: "Ir y volver a la ermita de San Bartolomé lleva 1-2 horas por un paseo llano. Si recorres más cañón, cuenta medio día."
   - q: "¿Cómo llegar al Cañón del Río Lobos?"
     a: "La entrada más usada es por Ucero, a 15 minutos de El Burgo de Osma. Desde allí, sigue la carretera del parque hasta los aparcamientos señalizados."
+actividades:
+  - t: "Actividades en Ucero (Cañón del Río Lobos)"
+    u: "https://www.civitatis.com/es/ucero/"
 ---
 Paredes de roca de cien metros, buitres planeando por encima de tu cabeza y, en mitad del cañón, una **ermita templaria** pegada a la pared. Dicen que está justo a medio camino entre los dos extremos de la península, en el **centro del mundo**.
 
@@ -48,6 +51,9 @@ El **Cañón del Río Lobos** es uno de los rincones más mágicos de Soria 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/canon-del-rio-lobos/buitres.webp" alt="Buitres leonados en el Cañón del Río Lobos" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los buitres</h3><p>Hay una gran colonia de buitres leonados. Mira hacia arriba: siempre hay alguno planeando.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/canon-del-rio-lobos/ucero.webp" alt="Castillo de Ucero" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Ucero y su castillo</h3><p>La puerta del parque, con un castillo en lo alto. Desde el mirador ves la entrada del cañón.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a el Cañón del Río Lobos</h2></div>
 <div class="guide__howto"><p>Desde <strong>El Burgo de Osma</strong>, en unos 15 minutos por la SO-920 hasta <strong>Ucero</strong>. Desde allí, sigue la carretera del parque hasta las zonas de aparcamiento señalizadas.</p><p>Desde el aparcamiento más cercano, un paseo llano por el fondo del cañón te deja en la ermita. Pasa también por la Casa del Parque, donde informan de rutas y del estado de los accesos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Ermita%20de%20San%20Bartolom%C3%A9%2C%20Ucero" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

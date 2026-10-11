@@ -25,6 +25,9 @@ faq:
     a: "Está en una colina de Benalmádena, a unos 20 km de Málaga. Lo más cómodo es ir en coche."
   - q: "¿Cuánto se tarda en visitar el Castillo de Colomares?"
     a: "Unos 45 minutos."
+actividades:
+  - t: "Benalmádena: tour por el Castillo de Colomares con entrada"
+    u: "https://www.getyourguide.es/benalmadena-l429/zamek-colomares-wejscie-i-interpretacja-t470967/"
 ---
 Románico, gótico, mudéjar y bizantino, todo mezclado en el mismo edificio. El **Castillo de Colomares**, en Benalmádena, es un monumento a **Cristóbal Colón** que levantaron a mano un médico y dos albañiles. Y dentro tiene la que dicen que es **la iglesia más pequeña del mundo**.
 
@@ -47,6 +50,9 @@ Te cuento su historia y cómo visitarlo 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-colomares/detalles.webp" alt="Detalles del Castillo de Colomares" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los detalles</h3><p>Barcos, escudos, figuras... Fíjate en la decoración de cada fachada.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-colomares/estupa.webp" alt="Estupa de Benalmádena" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Estupa de Benalmádena</h3><p>Muy cerca está la estupa budista más grande de Occidente, con vistas al mar.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Castillo de Colomares</h2></div>
 <div class="guide__howto"><p>Desde <strong>Málaga</strong>, por la A-7 hasta Benalmádena y luego hacia Benalmádena Pueblo. El castillo está en la carretera que sube al pueblo, con aparcamiento cerca.</p><p>Desde la costa (Arroyo de la Miel) son 10 minutos en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castillo%20Monumento%20Colomares%2C%20Benalm%C3%A1dena" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -25,6 +25,9 @@ faq:
     a: "En coche hasta el aparcamiento de Monte Santiago (Burgos), junto al puerto de Orduña. Desde allí son 30-40 minutos andando por una pista fácil."
   - q: "¿Se puede llegar en coche al Salto del Nervión?"
     a: "Hasta el mirador no: dejas el coche en Monte Santiago y caminas 30-40 minutos."
+actividades:
+  - t: "Actividades en Orduña"
+    u: "https://www.civitatis.com/es/orduna/"
 ---
 Entre **Álava y Burgos** hay un cortado donde el río Nervión se lanza al vacío desde **222 metros**. Es el **Salto del Nervión**, la **cascada más alta de la península ibérica**.
 
@@ -46,6 +49,9 @@ Pero tiene truco: no siempre lleva agua. Te cuento cuándo ir y cómo llegar al 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salto-del-nervion/hayedo.webp" alt="Hayedo de Monte Santiago" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El hayedo</h3><p>La ruta pasa por un bosque de hayas precioso, sobre todo en otoño.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salto-del-nervion/portada.webp" alt="Salto del Nervión con agua" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El mirador</h3><p>Una plataforma que vuela sobre el precipicio. No apta para quien tenga vértigo.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Salto del Nervión</h2></div>
 <div class="guide__howto"><p>Lo más fácil es ir al <strong>aparcamiento de Monte Santiago</strong> (Burgos), subiendo el puerto de Orduña desde Orduña o desde Berberana.</p><p>Desde el aparcamiento, sigue la pista señalizada: unos <strong>2 km</strong> llanos hasta el mirador. También hay una ruta más dura desde Délica (Álava) por abajo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Mirador%20del%20Salto%20del%20Nervi%C3%B3n%2C%20Monte%20Santiago" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

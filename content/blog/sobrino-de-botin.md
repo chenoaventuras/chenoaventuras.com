@@ -21,6 +21,9 @@ faq:
     a: "Cocina castellana; lo más famoso es el cochinillo y el cordero asados en horno de leña."
   - q: "¿Hace falta reservar?"
     a: "Es muy recomendable, sobre todo en fines de semana y temporada alta."
+actividades:
+  - t: "Madrid: tapas, tabernas e historia"
+    u: "https://www.getyourguide.es/madrid-l46/madrid-tapas-taverns-history-tour-t288860/"
 ---
 En la calle Cuchilleros, a dos pasos de la Plaza Mayor, hay un restaurante que aparece en el **Libro Guinness de los Récords** como el **más antiguo del mundo**. Se llama **Sobrino de Botín** y dice tener el horno encendido desde **1725**.
 
@@ -42,6 +45,9 @@ Te cuento su historia, las leyendas que lo rodean y qué pedir si te sientas a c
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/sobrino-de-botin/portada.webp" alt="Entrada del restaurante Sobrino de Botín" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El horno y las bodegas</h3><p>Dentro hay varios pisos y una bodega en el sótano. Pide ver el horno de leña si pasas por la cocina.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/sobrino-de-botin/cuchilleros.webp" alt="Arco de Cuchilleros en Madrid" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Arco de Cuchilleros</h3><p>La escalera que baja desde la Plaza Mayor. Llena de mesones y cuevas tradicionales.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Botín</h2></div>
 <div class="guide__howto"><p>Las paradas de metro más cercanas son <strong>Sol</strong>, <strong>Ópera</strong> y <strong>La Latina</strong>, todas a menos de 10 minutos andando.</p><p>Desde la Plaza Mayor, sal por el Arco de Cuchilleros y baja la escalera: el restaurante está a pocos metros.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sobrino%20de%20Bot%C3%ADn%2C%20Calle%20de%20Cuchilleros%2017%2C%20Madrid" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

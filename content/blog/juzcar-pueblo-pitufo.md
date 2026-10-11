@@ -24,6 +24,11 @@ faq:
     a: "En coche: está en el Valle del Genal, a unos 25 km de Ronda (Málaga)."
   - q: "¿Merece la pena ir a Júzcar con niños?"
     a: "Sí, les encanta ver un pueblo entero pintado de azul. Es pequeño y en una o dos horas lo recorres."
+actividades:
+  - t: "Barranquismo en la Sima del Diablo desde Júzcar"
+    u: "https://www.civitatis.com/es/juzcar/barranquismo-sima-diablo/"
+  - t: "Vía ferrata de Atajate (Valle del Genal)"
+    u: "https://www.getyourguide.es/andalusia-l68/atajate-via-ferrata-guided-climbing-t586103/"
 ---
 En la Serranía de Ronda todos los pueblos son blancos... menos uno. **Júzcar** es **azul**. En **2011** se pintó entero para el estreno mundial de la película de **Los Pitufos**, y a los vecinos les gustó tanto que decidieron quedarse así.
 
@@ -45,6 +50,9 @@ Te cuento cómo pasó, por qué ya no puede llamarse «pueblo pitufo» y qué ve
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/juzcar-pueblo-pitufo/portada.webp" alt="Júzcar entre castaños" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Entre castaños</h3><p>El pueblo está rodeado del bosque de castaños del Genal. En otoño se pone dorado.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/juzcar-pueblo-pitufo/a.webp" alt="Vista de Júzcar en el valle del Genal" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Desde la carretera</h3><p>La mancha azul entre el verde del valle se ve desde lejos.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Júzcar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Ronda</strong>, unos 35 minutos por la A-397 y la MA-7306, una carretera de curvas.</p><p>Desde Málaga capital, alrededor de 2 horas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=J%C3%BAzcar%2C%20M%C3%A1laga" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

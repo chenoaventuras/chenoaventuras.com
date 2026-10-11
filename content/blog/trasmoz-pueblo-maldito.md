@@ -22,6 +22,9 @@ faq:
     a: "Se celebra en julio. Consulta las fechas exactas con el ayuntamiento."
   - q: "¿Cómo llegar a Trasmoz desde Zaragoza?"
     a: "En coche, en una hora. Está en las faldas del Moncayo, a unos 20 km de Tarazona."
+actividades:
+  - t: "Castillo de Trasmoz: tours"
+    u: "https://www.getyourguide.es/castillo-de-trasmoz-l215408/"
 ---
 Hay pueblos con leyenda y luego está **Trasmoz**. Un pueblecito del Moncayo, con apenas unas decenas de vecinos, que lleva siglos **excomulgado y maldito por la Iglesia**. Y la maldición, dicen, sigue en vigor.
 
@@ -45,6 +48,9 @@ Brujas, un castillo en ruinas y un poeta que se inspiró en todo ello. Te cuento
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/trasmoz-pueblo-maldito/veruela.webp" alt="Monasterio de Veruela" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Monasterio de Veruela</h3><p>A unos 5 km: el monasterio cisterciense que excomulgó al pueblo y donde Bécquer escribió sus cartas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/trasmoz-pueblo-maldito/tarazona.webp" alt="Tarazona" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Tarazona</h3><p>A unos 20 minutos: la catedral, las casas colgadas y la plaza de toros vieja convertida en viviendas.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Trasmoz</h2></div>
 <div class="guide__howto"><p>Desde <strong>Zaragoza</strong>, por la AP-68 o la N-232 hacia Tarazona y luego hacia Vera de Moncayo. Trasmoz está a pocos kilómetros, subiendo hacia el Moncayo.</p><p>Se aparca sin problema en la entrada del pueblo. Al castillo se sube andando en pocos minutos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Trasmoz%2C%20Zaragoza" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

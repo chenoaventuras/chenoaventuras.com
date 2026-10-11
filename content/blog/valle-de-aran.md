@@ -23,6 +23,9 @@ faq:
     a: "Porque sus aguas van al río Garona, que desemboca en el Atlántico, a diferencia del resto de ríos de Cataluña, que van al Mediterráneo."
   - q: "¿Cómo llegar al Valle de Arán desde Barcelona?"
     a: "En coche, en unas 4 horas, entrando por el túnel de Vielha."
+actividades:
+  - t: "Tour en 4x4 por el Valle de Arán: fauna, flora y paisajes"
+    u: "https://www.getyourguide.es/vielha-l218675/4x4-sightseeing-tour-in-valle-d-aran-wildlife-flora-and-alpine-landscapes-t838426/"
 ---
 Un valle verde en pleno Pirineo donde los ríos corren hacia el Atlántico, se habla su propia lengua y cada pueblo tiene su iglesia románica de piedra. El **Valle de Arán** es mucho más que Baqueira: es cascadas, bosques, pueblos con tejados de pizarra y rutas para todos los niveles.
 
@@ -47,6 +50,9 @@ Te cuento los rincones imprescindibles y qué aventuras hacer según la época �
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/valle-de-aran/montgarri.webp" alt="Santuario de Montgarri en el Valle de Arán" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Montgarri</h3><p>Un santuario y un pueblo abandonado en mitad de una pradera, al final de una pista. En invierno se llega con raquetas o esquí de fondo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/valle-de-aran/artiga.webp" alt="Río en la Artiga de Lin" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los ríos</h3><p>El valle está lleno de torrentes: además de pasear junto a ellos, en temporada se hace rafting en el Garona.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Valle de Arán</h2></div>
 <div class="guide__howto"><p>Desde <strong>Lleida</strong> se llega en unas dos horas y media por la N-230 y el <strong>túnel de Vielha</strong>. Desde Barcelona son unas cuatro horas. En invierno, revisa el estado del puerto de la Bonaigua si entras por el este.</p><p>Para moverte por el valle necesitas coche; a algunas zonas, como la Artiga de Lin en verano, se accede con aparcamiento regulado o lanzadera.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Vielha" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -25,6 +25,9 @@ faq:
     a: "Alrededor de una hora."
   - q: "¿Cómo llegar al Monasterio de Yuste?"
     a: "En coche hasta Cuacos de Yuste, en La Vera (Cáceres), a unos 45 minutos de Plasencia."
+actividades:
+  - t: "Tour privado por el monasterio de Yuste"
+    u: "https://www.civitatis.com/es/cuacos-de-yuste/tour-privado-monasterio-yuste/"
 ---
 Gobernó medio mundo: España, Alemania, los Países Bajos, Italia y América. Y para sus últimos años eligió un rincón tranquilo de **La Vera** (Cáceres): el **Monasterio de Yuste**. Aquí vivió **Carlos V** entre 1557 y 1558, y aquí murió.
 
@@ -46,6 +49,9 @@ Te cuento cómo vivía el emperador retirado y qué ver hoy 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-yuste/m12.webp" alt="Entrada al Monasterio de Yuste entre árboles" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La casa del emperador</h3><p>Su dormitorio, el comedor y la silla con la que le trasladaban por la gota.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-de-yuste/cuacos.webp" alt="Plaza Mayor de Cuacos de Yuste" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Cuacos de Yuste</h3><p>Un pueblo con soportales y casas de entramado de madera.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Yuste</h2></div>
 <div class="guide__howto"><p>Desde <strong>Plasencia</strong>, unos 45 minutos por la EX-203 hacia Jaraíz de la Vera y Cuacos de Yuste.</p><p>El monasterio está a 2 km de Cuacos, con aparcamiento.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Monasterio%20de%20Yuste%2C%20Cuacos%20de%20Yuste" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

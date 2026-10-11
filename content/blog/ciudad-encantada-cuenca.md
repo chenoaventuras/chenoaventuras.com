@@ -30,6 +30,9 @@ faq:
     a: "A unos 35 km, entre 35 y 40 minutos en coche por la carretera de Villalba de la Sierra."
   - q: "¿Dónde aparcar en la Ciudad Encantada?"
     a: "Tiene aparcamiento gratuito junto a la entrada."
+actividades:
+  - t: "Visita guiada por la Ciudad Encantada"
+    u: "https://www.civitatis.com/es/cuenca/visita-guiada-ciudad-encantada/"
 ---
 Imagina un bosque de pinos donde, entre los árboles, aparecen setas gigantes, barcos, osos y caras humanas… pero todo de piedra. Eso es la **Ciudad Encantada de Cuenca**: un laberinto de rocas que el agua, el viento y el hielo llevan millones de años esculpiendo, a media hora de la ciudad.
 
@@ -66,6 +69,9 @@ Es una de las visitas imprescindibles de la **Serranía de Cuenca** y se hace en
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-amantes-teruel.webp" alt="Los Amantes de Teruel, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">08</span></div><div class="gcard__body"><h3>Los Amantes de Teruel</h3><p>Dos rocas que casi se tocan, como los amantes de la famosa leyenda.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-convento.webp" alt="El Convento, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">09</span></div><div class="gcard__body"><h3>El Convento</h3><p>Una gran pared de roca con aberturas que recuerdan a la entrada de un viejo convento.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Ciudad Encantada</h2></div>
 <div class="guide__howto"><p>Está en el término de <strong>Valdecabras</strong>, a unos <strong>35 km de Cuenca</strong> (unos 35-40 minutos en coche). Se va por la carretera de Villalba de la Sierra, la misma del mirador del Ventano del Diablo, así que puedes parar de camino.</p><p>Arriba hay <strong>aparcamiento gratuito</strong> junto a la taquilla.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Ciudad+Encantada%2C+Cuenca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.ciudadencantada.es/es/horarios" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Horarios oficiales</a></div></div>

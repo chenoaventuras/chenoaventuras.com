@@ -22,6 +22,9 @@ faq:
     a: "Del acuífero de Calasparra: el agua queda atrapada a unos 200 metros de profundidad y aquí brota con fuerza."
   - q: "¿Cuándo ir a la Fuente del Gorgotón?"
     a: "En primavera u otoño. En verano el sitio, que es pequeño, se llena con facilidad."
+actividades:
+  - t: "Rafting en el Cañón de Almadenes (Cieza-Calasparra)"
+    u: "https://www.getyourguide.es/murcia-l3484/murcia-almadenes-canyon-rafting-with-monigotes-cave-visit-t385327/"
 ---
 Junto al río Segura, en pleno campo de Cieza, hay un rincón donde el agua sale con fuerza desde las profundidades de la tierra, rodeado de vegetación y silencio. Se llama Fuente del Gorgotón, y es una de esas paradas sencillas que merecen la pena solo por lo tranquilo que resulta el lugar.
 
@@ -46,6 +49,9 @@ La primavera y el otoño son las estaciones más recomendables, con temperaturas
 ## Accesibilidad
 
 El terreno puede ser algo irregular en ciertos tramos, por lo que no es un lugar accesible para sillas de ruedas, aunque sí apto para todas las edades con calzado adecuado.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

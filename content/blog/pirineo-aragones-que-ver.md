@@ -31,6 +31,13 @@ faq:
     a: "En temporada alta no: hay que aparcar en Torla y subir en el autobús lanzadera hasta la Pradera de Ordesa. Fuera de esas fechas se puede subir en coche hasta llenar el aparcamiento."
   - q: "¿Qué hacer en el Pirineo Aragonés con niños?"
     a: "Las Pasarelas de Panticosa, la Cascada del Sorrosal en Broto, pasear por Aínsa o Lanuza y rutas fáciles como la del Ibón de Anayet en verano."
+actividades:
+  - t: "Vía ferrata del Sorrosal desde Torla-Ordesa"
+    u: "https://www.civitatis.com/es/torla-ordesa/via-ferrata-sorrosal/"
+  - t: "Barranquismo en el Pirineo aragonés desde Biescas"
+    u: "https://www.civitatis.com/es/biescas/barranquismo-pirineo-aragones/"
+  - t: "Panticosa: parapente en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
 ---
 Si tuviera que recomendar **una sola escapada de montaña en España**, el **Pirineo Aragonés** estaría siempre en la conversación. Ibones de alta montaña, pueblos de piedra, cascadas a cada curva, una estación de tren con historia de espías y la que para mí es la ruta más bonita del país: la de la Cola de Caballo en Ordesa.
 
@@ -98,6 +105,9 @@ He ido zona por zona y aquí te dejo todo lo que he visto y lo que no te puedes 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pirineo/alquezar.webp" alt="Alquézar, Pirineo Aragonés" loading="lazy" decoding="async" /><span class="gcard__n">29</span></div><div class="gcard__body"><h3>Alquézar</h3><p class="gcard__meta"><span class="gcard__price">Pueblo</span><span class="gcard__age">Sierra de Guara</span></p><p>Una colegiata y un castillo encaramados a la roca sobre el río Vero, y sus famosas pasarelas. Merece el desvío.</p><p class="gcard__links"><a class="gbtn " href="https://www.google.com/maps/search/?api=1&query=Alqu%C3%A9zar" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar</a></p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/instagram/18167547529344269.webp" alt="Buitres en la Sierra de Guara, Pirineo Aragonés" loading="lazy" decoding="async" /><span class="gcard__n">30</span></div><div class="gcard__body"><h3>Buitres en la Sierra de Guara</h3><p class="gcard__meta"><span class="gcard__price">Actividad</span><span class="gcard__age">Única en España</span></p><p>Ver de cerca a decenas de buitres en libertad. Ojo: ahora mismo la actividad está paralizada, confírmalo antes de ir.</p><p class="gcard__links"><a class="gbtn gbtn--reel" href="/blog/avistamiento-de-buitres-sierra-de-guara.html">Leer más</a></p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>La mejor época para el Pirineo</h2></div>
 <div class="guide__tips">

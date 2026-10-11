@@ -35,6 +35,9 @@ faq:
     a: "En Canfranc-Estación, en el Pirineo de Huesca, muy cerca de la frontera con Francia."
   - q: "¿Cuánto se tarda en ver la Estación de Canfranc?"
     a: "Unos 40 minutos recorriéndola por tu cuenta."
+actividades:
+  - t: "Visita guiada por la estación de tren de Canfranc"
+    u: "https://www.civitatis.com/es/canfranc-estacion/visita-guiada-estacion-canfranc/"
 ---
 En pleno Pirineo oscense hay una estación de tren que parece sacada de otro país: fachadas monumentales, un pasado ligado a **espías y contrabando**, y una historia de abandono y resurrección que la convierte en una de las paradas más sorprendentes de la zona.
 
@@ -62,6 +65,9 @@ Así es la **Estación Internacional de Canfranc** en mi vídeo 👇
 
 <div class="guide__head"><span class="eyebrow">La estación</span><h2>Canfranc en fotos</h2></div>
 <div class="gallery"><figure><img src="/assets/img/blog/pirineo/canfranc-fachada.webp" alt="Fachada de la Estación Internacional de Canfranc" loading="lazy" decoding="async" /><figcaption>La fachada monumental, de más de 200 metros</figcaption></figure><figure><img src="/assets/img/blog/pirineo/canfranc-puerta.webp" alt="Entrada principal de la Estación de Canfranc" loading="lazy" decoding="async" /><figcaption>La entrada principal, con las montañas detrás</figcaption></figure><figure><img src="/assets/img/instagram/18060356315252624.webp" alt="Vías antiguas de la Estación de Canfranc" loading="lazy" decoding="async" /><figcaption>Las vías antiguas frente a la estación</figcaption></figure></div>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Estación de Canfranc</h2></div>
 <div class="guide__howto"><p>Está en <strong>Canfranc-Estación</strong>, en la N-330 hacia el túnel de Somport, a unos 15-20 minutos de <strong>Jaca</strong>. También se puede llegar en tren desde Zaragoza.</p><p>Aprovecha el viaje para ver la Ciudadela de Jaca o el Monasterio de San Juan de la Peña.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Estaci%C3%B3n+Internacional+de+Canfranc" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Estación de Canfranc en Google Maps</a></div></div>

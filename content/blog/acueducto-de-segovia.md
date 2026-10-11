@@ -28,6 +28,11 @@ faq:
     a: "En AVE en menos de media hora hasta Segovia-Guiomar, y de allí en autobús urbano al Acueducto. En coche, algo más de una hora por la AP-6/AP-61."
   - q: "¿Dónde aparcar cerca del Acueducto de Segovia?"
     a: "En los aparcamientos cercanos al Acueducto o en las afueras: el centro se recorre mejor a pie."
+actividades:
+  - t: "Free tour por Segovia"
+    u: "https://www.civitatis.com/es/segovia/free-tour-segovia/"
+  - t: "Tour de los misterios y leyendas de Segovia"
+    u: "https://www.civitatis.com/es/segovia/tour-misterios-leyendas-segovia/"
 ---
 Más de 160 arcos de granito, casi 30 metros de altura en su punto más alto y **ni una gota de argamasa** sujetando sus piedras. El **Acueducto de Segovia** lleva unos 2.000 años en pie, y es solo el principio: en la misma ciudad tienes un **Alcázar de cuento** y una de las catedrales más bonitas de España.
 
@@ -52,6 +57,9 @@ Te cuento qué ver, las mejores vistas y algunos trucos para la visita 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/catedral.webp" alt="Catedral de Segovia iluminada de noche" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La catedral</h3><p>La llaman «la dama de las catedrales». Fue de las últimas catedrales góticas que se construyeron en España.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/acueducto-de-segovia/panoramica.webp" alt="Vista panorámica de Segovia con la catedral" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los miradores</h3><p>Para la foto de la ciudad entera, ve a la pradera de San Marcos o al mirador de la Canaleja.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Segovia</h2></div>
 <div class="guide__howto"><p>En <strong>AVE</strong> desde Madrid tardas menos de media hora hasta la estación de Segovia-Guiomar; desde allí hay autobuses urbanos al Acueducto. En coche, algo más de una hora por la AP-6/AP-61.</p><p>El centro es para recorrerlo a pie: deja el coche en un aparcamiento cerca del Acueducto o en las afueras.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Acueducto+de+Segovia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.alcazardesegovia.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Horarios del Alcázar</a></div></div>

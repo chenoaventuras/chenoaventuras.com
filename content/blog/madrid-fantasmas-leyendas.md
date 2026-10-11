@@ -21,6 +21,9 @@ faq:
     a: "No, es un edificio oficial y solo se ve por fuera, en la plaza del Rey."
   - q: "¿Por qué se llama así la calle de la Cabeza?"
     a: "Por una leyenda: un hombre compró una cabeza de cordero y, al llegar a casa, se convirtió en la cabeza de la persona a la que había asesinado."
+actividades:
+  - t: "Free tour de los fantasmas de Madrid"
+    u: "https://www.civitatis.com/es/madrid/tour-fantasmas-madrid/"
 ---
 Madrid tiene un lado oscuro que no sale en las guías: palacios con niñas que lloran por la noche, damas de blanco que pasean por los tejados y una calle que se llama así por una cabeza que nadie quería ver.
 
@@ -44,6 +47,9 @@ Te propongo una **ruta de fantasmas por el centro de Madrid**, perfecta para Hal
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/madrid-fantasmas-leyendas/cabeza.webp" alt="Calle de la Cabeza en Madrid" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La calle de la Cabeza</h3><p>En Lavapiés. Su nombre viene de la leyenda de un criminal que compró una cabeza de cordero… y al llegar a casa era la cabeza de su víctima.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/madrid-fantasmas-leyendas/ruta.webp" alt="Ruta nocturna de fantasmas por Madrid" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las rutas nocturnas</h3><p>Hay rutas guiadas de leyendas y fantasmas por el Madrid de los Austrias. En Halloween, con más ambiente que nunca.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a el Madrid de los fantasmas</h2></div>
 <div class="guide__howto"><p>Empieza en <strong>Cibeles</strong> (metro Banco de España), con el Palacio de Linares. Desde allí, por Alcalá y la Gran Vía, llegas a la <strong>plaza del Rey</strong> en unos 10 minutos.</p><p>Para la calle de la Cabeza, baja hacia <strong>Lavapiés</strong> por Tirso de Molina (unos 20 minutos andando). Toda la ruta se hace a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Palacio%20de%20Linares%2C%20Madrid" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

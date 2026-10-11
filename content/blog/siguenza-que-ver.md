@@ -22,6 +22,9 @@ faq:
     a: "El Barranco del río Dulce, entre Pelegrina y La Cabrera, con el mirador de Félix Rodríguez de la Fuente."
   - q: "¿A cuánto está Sigüenza de Madrid?"
     a: "A una hora y media en coche por la A-2. En primavera y otoño también puedes ir en el Tren Medieval."
+actividades:
+  - t: "Tour privado por Sigüenza"
+    u: "https://www.civitatis.com/es/siguenza/tour-privado-siguenza/"
 ---
 Una ciudad medieval de piedra rojiza, con una **catedral que parece una fortaleza** y un **castillo donde se puede dormir**. **Sigüenza** es de esas escapadas perfectas desde Madrid, y a pocos kilómetros tienes el **Barranco del río Dulce**, el paisaje donde Félix Rodríguez de la Fuente grabó parte de «El Hombre y la Tierra».
 
@@ -46,6 +49,9 @@ Te cuento qué ver y cómo combinar historia y naturaleza 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/siguenza-que-ver/noche.webp" alt="Sigüenza al atardecer" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Plaza Mayor y el casco</h3><p>Soportales, casas nobles y la calle Mayor, una de las cuestas más bonitas de Castilla.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/siguenza-que-ver/dulce.webp" alt="Barranco del río Dulce" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Barranco del río Dulce</h3><p>Un cañón de paredes de caliza con buitres, rutas a pie y el mirador de Félix Rodríguez de la Fuente.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Sigüenza</h2></div>
 <div class="guide__howto"><p>Desde Madrid se llega en algo menos de dos horas por la A-2 o en <strong>tren regional</strong> desde Chamartín. El casco histórico se recorre a pie.</p><p>El <strong>Barranco del río Dulce</strong> está a unos 15-20 minutos en coche, entre Pelegrina y Aragosa, con aparcamientos en los puntos de inicio de las rutas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Catedral+de+Sigüenza" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Mirador+Félix+Rodríguez+de+la+Fuente+Pelegrina" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Mirador de Félix Rodríguez de la Fuente</a></div></div>

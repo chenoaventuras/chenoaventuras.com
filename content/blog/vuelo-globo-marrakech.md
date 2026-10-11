@@ -21,6 +21,9 @@ faq:
     a: "De madrugada, todavía de noche, para despegar al amanecer."
   - q: "¿Quién no puede hacer el vuelo en globo?"
     a: "No se recomienda a embarazadas, personas con mal de altura o con problemas graves de espalda."
+actividades:
+  - t: "Paseo en globo por el norte de Marrakech"
+    u: "https://www.civitatis.com/es/marrakech/paseo-globo/"
 ---
 Empezar el día en total silencio, flotando sobre el desierto mientras sale el sol y la cordillera del Atlas se ilumina al fondo, es de esas experiencias que cuestan de describir con palabras. El vuelo en globo aerostático sobre Marrakech es justamente eso.
 

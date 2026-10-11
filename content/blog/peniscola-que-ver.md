@@ -22,6 +22,11 @@ faq:
     a: "Por el Papa Luna, Benedicto XIII, que se negó a renunciar al papado y se refugió en el castillo de Peñíscola hasta su muerte."
   - q: "¿A cuánto está Peñíscola de Valencia?"
     a: "A hora y media en coche. Está en el norte de Castellón, en la Costa del Azahar, a unas dos horas de Tarragona."
+actividades:
+  - t: "Visita guiada por Peñíscola y el Castillo del Papa Luna"
+    u: "https://www.civitatis.com/es/peniscola/visita-guiada-peniscola/"
+  - t: "Tour por Peñíscola con Indiana Jones"
+    u: "https://www.civitatis.com/es/peniscola/tour-santo-grial-indiana-jones/"
 ---
 Un peñón rodeado de mar casi por completo, con casas blancas trepando por la roca, murallas y un castillo templario en lo alto. **Peñíscola** es uno de los pueblos costeros más bonitos del Mediterráneo, y tiene historia de película: aquí vivió un papa «rebelde» y aquí se rodó **Juego de Tronos**.
 
@@ -46,6 +51,9 @@ Te cuento qué ver, sus curiosidades y una ruta de costa salvaje a pocos minutos
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/peniscola-que-ver/faro.webp" alt="Faro de Peñíscola" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El faro</h3><p>Junto al castillo, con un mirador sobre el mar abierto.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/peniscola-que-ver/irta.webp" alt="Costa virgen de la Serra d'Irta" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La Serra d'Irta</h3><p>Al sur del pueblo empieza uno de los últimos tramos de costa virgen del Mediterráneo: calas, torres vigía y senderos.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Peñíscola</h2></div>
 <div class="guide__howto"><p>Desde la <strong>AP-7</strong> se llega en pocos minutos (salida Peñíscola-Benicarló). La estación de tren más cercana es <strong>Benicarló-Peñíscola</strong>, conectada con el pueblo por autobús.</p><p>En verano el tráfico es intenso: aparca en los parkings de la entrada y entra a pie al casco antiguo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castillo+de+Peñíscola" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

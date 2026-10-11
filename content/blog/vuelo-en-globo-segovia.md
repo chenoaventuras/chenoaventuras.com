@@ -23,6 +23,9 @@ faq:
     a: "Ropa cómoda, calzado cerrado y algo de abrigo, porque se vuela al amanecer y hace fresco."
   - q: "¿Dónde sale el globo en Segovia?"
     a: "El punto de encuentro suele estar frente al hospital de Segovia; te dan la ubicación exacta al reservar."
+actividades:
+  - t: "Segovia: vuelo en globo con picnic y cava"
+    u: "https://www.getyourguide.es/segovia-l1694/segovia-vuelo-en-globo-aerostatico-con-comida-y-cava-t406164/"
 ---
 Ver el acueducto romano, el Alcázar y la catedral de Segovia desde el aire, flotando en silencio sobre la ciudad, es una experiencia que mezcla aventura, vistas espectaculares y una sensación de libertad difícil de igualar desde tierra.
 
@@ -47,6 +50,9 @@ Se puede volar durante todo el año, aunque los meses de primavera a otoño ofre
 ## Qué llevar
 
 Conviene llevar ropa cómoda, calzado cerrado (nada de tacones) y algo de abrigo según la temporada, ya que se vuela al amanecer y puede hacer fresco. La cámara o el móvil bien cargados son imprescindibles: las vistas desde el globo dan para grabar mucho.
+
+
+<!--actividades-->
 
 ## Cómo llegar
 

@@ -22,6 +22,9 @@ faq:
     a: "Puestos de artesanía y comida, luchas medievales y teatro en la Plaza Mayor, pasacalles con músicos y actividades para niños."
   - q: "¿Cómo llegar a Chinchón desde Madrid?"
     a: "En coche, a unos 45 km al sureste de la capital, con aparcamientos habilitados. También hay transporte público."
+actividades:
+  - t: "Free tour por Chinchón"
+    u: "https://www.civitatis.com/es/chinchon/free-tour-chinchon/"
 ---
 [Chinchón](/blog/chinchon-castillo-de-noche.html) ya es, de por sí, uno de los pueblos más bonitos de la Comunidad de Madrid. Pero una vez al año, sus calles empedradas y su mítica Plaza Mayor retroceden varios siglos para acoger caballeros, juglares y artesanos: es el Mercado Medieval de Chinchón.
 
@@ -38,6 +41,9 @@ El Mercado Medieval de Chinchón se organiza normalmente durante el mes de **feb
 ## Precio y qué llevar
 
 El acceso al mercado es **gratuito**; solo pagas si decides comprar algo de gastronomía o productos de artesanía. Eso sí, si quieres verlo todo, vas a caminar bastante, así que un calzado cómodo es casi obligatorio.
+
+
+<!--actividades-->
 
 ## Cómo llegar a Chinchón
 

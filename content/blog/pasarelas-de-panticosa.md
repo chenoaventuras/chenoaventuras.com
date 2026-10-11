@@ -31,6 +31,13 @@ faq:
     a: "No, no se permiten mascotas, carritos ni mochilas grandes."
   - q: "¿Cómo llegar a Panticosa?"
     a: "En coche por el Valle de Tena (Huesca), a unos 40 minutos de Jaca y algo más de una hora de Huesca."
+actividades:
+  - t: "Barranquismo en el Pirineo aragonés desde Biescas"
+    u: "https://www.civitatis.com/es/biescas/barranquismo-pirineo-aragones/"
+  - t: "Vía ferrata en el valle de Tena"
+    u: "https://www.civitatis.com/es/biescas/via-ferrata-valle-tena/"
+  - t: "Panticosa: parapente en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
 ---
 Puentes colgantes sobre el **río Caldarés**, rodeados de montañas y desfiladeros, con vistas que dan algo de vértigo incluso a quien no suele tenerlo: así son las **Pasarelas de Panticosa**, una de las rutas más espectaculares y accesibles del <a href="/blog/pirineo-aragones-que-ver.html">Pirineo Aragonés</a>.
 
@@ -55,6 +62,9 @@ Te las enseño en vídeo 👇
 <p>El recorrido es <strong>circular</strong>: cruzas varias pasarelas colgadas sobre el río Caldarés, subes hasta el <strong>mirador O Calvé</strong>, con vistas de todo el pueblo de Panticosa y los picos, y vuelves por un sendero distinto. En total, una hora aproximadamente. Es fácil y apta para casi todo el mundo, siempre que lleves calzado adecuado y no tengas vértigo severo, porque algunos tramos son bastante aéreos.</p>
 <div class="gallery"><figure><img src="/assets/img/instagram/18131174488538752.webp" alt="Pasarelas de Panticosa sobre el río Caldarés" loading="lazy" decoding="async" /><figcaption>Las pasarelas colgadas sobre el Caldarés</figcaption></figure><figure><img src="/assets/img/blog/pirineo/o-calve.webp" alt="Vista de Panticosa desde el mirador O Calvé" loading="lazy" decoding="async" /><figcaption>Panticosa desde el mirador O Calvé</figcaption></figure><figure><img src="/assets/img/instagram/18083007532755376.webp" alt="Cheno en las Pasarelas de Panticosa" loading="lazy" decoding="async" /><figcaption>Yo, disfrutando de las vistas del valle</figcaption></figure></div>
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DLqFIBcIvUc/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver mi otro reel de Panticosa</a></p>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a las Pasarelas de Panticosa</h2></div>
 <div class="guide__howto"><p>Las pasarelas salen del propio pueblo de <strong>Panticosa</strong>, en el Valle de Tena. Aparca en el pueblo y sigue las indicaciones hasta la máquina de tickets del inicio.</p><p>No hay fuentes en el recorrido: lleva la botella llena.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pasarelas+de+Panticosa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Panticosa en Google Maps</a></div></div>

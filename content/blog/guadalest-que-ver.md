@@ -23,6 +23,9 @@ faq:
     a: "Antes de las 10:00 o después de las 16:00: recibe más de dos millones de visitas al año y a esas horas hay mucha menos gente."
   - q: "¿Qué ver en Guadalest?"
     a: "El castillo de San José y su túnel en la roca, el embalse turquesa, el casco antiguo y sus museos curiosos, como el de microminiaturas."
+actividades:
+  - t: "Tour privado por Guadalest"
+    u: "https://www.civitatis.com/es/guadalest/tour-privado-guadalest/"
 ---
 Hay pueblos bonitos, y luego está Guadalest, que parece dibujado a propósito para que se te caiga el móvil al suelo de tanto hacer fotos. Encajado entre las sierras de Aitana y Xortá, con un peñón rocoso partido en dos y un embalse de un azul turquesa casi de mentira a sus pies, entiendo perfectamente por qué es de los pueblos con más visitas de toda España a pesar de tener poco más de 200 vecinos.
 
@@ -38,6 +41,9 @@ Guadalest tiene origen musulmán, y su castillo —el Castell de Guadalest, o ca
 - **El embalse de Guadalest**, ese azul turquesa que ves en todas las fotos. Está justo debajo del casco antiguo y es, para mí, el rincón más fotogénico de todo el pueblo.
 - **El casco antiguo**, con sus calles empedradas y el barrio de El Arrabal conectado con el Castell por el túnel de roca.
 - **Los museos**, que aquí son casi una atracción en sí misma: microminiaturas, microgigante, etnológico, vehículos históricos, saleros y pimenteros, belenes y casas de muñecas, e incluso uno de instrumentos de tortura medievales.
+
+
+<!--actividades-->
 
 ## Cómo llegar a Guadalest
 

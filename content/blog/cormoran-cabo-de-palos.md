@@ -21,6 +21,11 @@ faq:
     a: "Puede bajar a más de 30-40 metros y aguantar más de un minuto bajo el agua persiguiendo peces."
   - q: "¿Por qué hay cormoranes blancos y negros?"
     a: "Es cuestión de edad: los jóvenes tienen el pecho y el vientre casi blancos y los adultos son de un negro brillante."
+actividades:
+  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Kayak y snorkel en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 ---
 Grabando en las rocas de [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) me crucé con uno de esos animales que a primera vista parecen de lo más tranquilo del mundo: un pájaro negro posado en una roca, sin hacer mucho más. Y sin embargo, en cuanto se tira al agua, el cormorán se convierte en uno de los mejores buceadores de toda la fauna española.
 

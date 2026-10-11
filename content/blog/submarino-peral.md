@@ -21,6 +21,9 @@ faq:
     a: "Un marino e inventor nacido en Cartagena en 1851."
   - q: "¿Por qué no se siguió fabricando?"
     a: "Se abandonó por desconfianza y motivos políticos, pese a sus buenas pruebas."
+actividades:
+  - t: "Free tour por Cartagena"
+    u: "https://www.civitatis.com/es/cartagena/free-tour-cartagena/"
 ---
 En 1888, en San Fernando (Cádiz), se botó un invento que se adelantó a su tiempo: el **submarino de Isaac Peral**, el **primer submarino totalmente eléctrico del mundo** y armado con torpedos.
 
@@ -42,6 +45,9 @@ Te cuento su historia, por qué no siguió adelante y dónde verlo hoy en Cartag
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/submarino-peral/interior.webp" alt="Interior del Submarino Peral" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El interior</h3><p>Baterías, motores y poco espacio: así navegaba la tripulación.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/submarino-peral/portada.webp" alt="Submarino Peral expuesto en el puerto de Cartagena" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Su antigua casa</h3><p>Así se veía en el paseo del puerto, antes de entrar al museo.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Museo Naval</h2></div>
 <div class="guide__howto"><p>Está en el <strong>paseo Alfonso XII</strong>, junto al puerto de Cartagena, a pocos minutos andando del centro.</p><p>Si vienes en coche, hay aparcamientos públicos en el puerto.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Museo%20Naval%20de%20Cartagena" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

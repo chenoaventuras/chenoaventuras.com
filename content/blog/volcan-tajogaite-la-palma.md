@@ -23,6 +23,9 @@ faq:
     a: "Es el nombre que los vecinos daban a esa zona de la montaña."
   - q: "¿Cuánto duró la erupción del volcán de La Palma?"
     a: "85 días, entre septiembre y diciembre de 2021."
+actividades:
+  - t: "Excursión al volcán Tajogaite"
+    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
 ---
 Entre septiembre y diciembre de **2021**, el volcán de **Tajogaite** estuvo **85 días** en erupción en La Palma. La lava llegó al mar y formó **plataformas nuevas**, las **fajanas**: el **terreno más joven de España**.
 
@@ -44,6 +47,9 @@ Te cuento qué pasó, cómo está ahora y cómo verlo con respeto 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/volcan-tajogaite-la-palma/erupcion.webp" alt="Erupción del volcán de La Palma en 2021" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La erupción</h3><p>Durante semanas, la columna de humo y ceniza se vio desde toda la isla.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/volcan-tajogaite-la-palma/casas.webp" alt="Casas en el campo de lava de La Palma" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El mar de lava</h3><p>Kilómetros de lava negra donde antes había casas, plataneras y carreteras.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Santa Cruz de La Palma</strong>, unos 40 minutos hasta El Paso y Los Llanos de Aridane.</p><p>Hay miradores y rutas guiadas. Infórmate en las oficinas de turismo antes de ir: los accesos cambian.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Volc%C3%A1n%20Tajogaite%2C%20El%20Paso%2C%20La%20Palma" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Ver en Google Maps</a></div></div>

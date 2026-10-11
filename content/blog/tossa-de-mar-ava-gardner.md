@@ -22,6 +22,9 @@ faq:
     a: "La playa Gran, el faro, el camino de ronda y sus calas."
   - q: "¿Cómo llegar a Tossa de Mar desde Barcelona?"
     a: "En coche, en 1 hora y cuarto por la C-32 y Lloret de Mar."
+actividades:
+  - t: "Tossa de Mar: kayak guiado y snorkel"
+    u: "https://www.getyourguide.es/tossa-de-mar-l90930/tossa-de-mar-excursion-guiada-en-kayak-y-snorkel-t475482/"
 ---
 En **1950** llegó a un pequeño pueblo de la Costa Brava la actriz más famosa del momento: **Ava Gardner**. Venía a rodar *Pandora y el holandés errante* con James Mason. Desde entonces, **Tossa de Mar** tiene una **estatua** suya mirando al mar.
 
@@ -43,6 +46,9 @@ Te cuento la historia y qué ver en su espectacular **Vila Vella** amurallada �
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/muralla.webp" alt="Murallas y torre de la Vila Vella de Tossa" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las murallas</h3><p>Entra por el portal y sube entre torres medievales.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/portada.webp" alt="Vista de Tossa de Mar desde la Vila Vella" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El mirador</h3><p>Desde la iglesia vieja y el faro, vistas de toda la bahía.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Tossa de Mar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Barcelona</strong>, 1 hora y cuarto por la C-32 y Lloret. Desde Girona, unos 45 minutos.</p><p>En verano el aparcamiento es complicado: llega pronto.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Vila%20Vella%2C%20Tossa%20de%20Mar" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

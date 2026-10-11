@@ -23,6 +23,11 @@ faq:
     a: "No, es peligroso y no está permitido."
   - q: "¿Cómo llegar al barco Telamon?"
     a: "Ve a la costa de Las Caletas, entre Arrecife y Costa Teguise. Desde la Avenida de los Corales lo ves desde la orilla."
+actividades:
+  - t: "Excursión a La Graciosa + paseo en velero"
+    u: "https://www.civitatis.com/es/orzola/excursion-isla-graciosa/"
+  - t: "Lanzarote: catamarán a las playas de Papagayo"
+    u: "https://www.getyourguide.es/lanzarote-l421/luxury-catamaran-cruise-to-the-papagayo-beaches-t86426/"
 ---
 Entre Arrecife y Costa Teguise hay un barco oxidado que parece salido de una película de piratas. Es el **Telamon**, encallado frente a la costa de **Lanzarote** desde **1981**.
 
@@ -44,6 +49,9 @@ Te cuento su historia y dónde hacer la mejor foto del «barco fantasma» 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/barco-telamon-lanzarote/c.webp" alt="Casco oxidado del Telamon" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El óxido</h3><p>De cerca se ven las capas de óxido y la cubierta rota.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/barco-telamon-lanzarote/a.webp" alt="Telamon con el mar en calma" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Con mar en calma</h3><p>Con poco oleaje se refleja en el agua.</p></div></li>
 </ol>
+
+
+<!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Telamon</h2></div>
 <div class="guide__howto"><p>Desde <strong>Arrecife</strong>, unos 10 minutos en coche hacia Costa Teguise. Aparca en la zona de Las Caletas o en la Avenida de los Corales.</p><p>Se ve desde el paseo y las rocas de la costa.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Barco%20Telamon%2C%20Costa%20Teguise%2C%20Lanzarote" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
