@@ -1,7 +1,7 @@
 ---
 title: 'Qué ver en Mallorca: calas, la Serra de Tramuntana y Palma'
 seoTitle: 'Qué ver en Mallorca: 11 lugares imprescindibles y ruta'
-date: 2026-10-12T09:40:00.000Z
+date: 2026-10-11T19:40:00.000Z
 lugar: 'Mallorca'
 lat: 39.6953
 lng: 3.0176

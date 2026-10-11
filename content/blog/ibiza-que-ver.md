@@ -1,7 +1,7 @@
 ---
 title: 'Qué ver en Ibiza: calas, Es Vedrà y Dalt Vila, la Ibiza tranquila'
 seoTitle: 'Qué ver en Ibiza: calas, Es Vedrà, Dalt Vila y atardeceres'
-date: 2026-10-12T09:50:00.000Z
+date: 2026-10-11T19:50:00.000Z
 lugar: 'Ibiza'
 lat: 38.9067
 lng: 1.4206

@@ -1,7 +1,7 @@
 ---
 title: 'Qué ver en Gran Canaria: el continente en miniatura'
 seoTitle: 'Qué ver en Gran Canaria: 11 lugares imprescindibles y ruta'
-date: 2026-10-12T09:20:00.000Z
+date: 2026-10-11T19:20:00.000Z
 lugar: 'Gran Canaria'
 lat: 27.9202
 lng: -15.5474

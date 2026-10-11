@@ -1,7 +1,7 @@
 ---
 title: 'Qué ver en Lanzarote: volcanes, playas y la isla de César Manrique'
 seoTitle: 'Qué ver en Lanzarote: 13 lugares imprescindibles y ruta'
-date: 2026-10-12T09:00:00.000Z
+date: 2026-10-11T19:00:00.000Z
 lugar: 'Lanzarote'
 lat: 29.0469
 lng: -13.5899

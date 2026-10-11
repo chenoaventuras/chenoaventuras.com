@@ -1,7 +1,7 @@
 ---
 title: 'Qué ver en Fuerteventura: dunas, playas infinitas y volcanes'
 seoTitle: 'Qué ver en Fuerteventura: 11 lugares imprescindibles y ruta'
-date: 2026-10-12T09:10:00.000Z
+date: 2026-10-11T19:10:00.000Z
 lugar: 'Fuerteventura'
 lat: 28.3587
 lng: -14.0537

@@ -1,7 +1,7 @@
 ---
 title: 'Qué ver en Tenerife: del Teide a Anaga, de norte a sur'
 seoTitle: 'Qué ver en Tenerife: 16 lugares imprescindibles y ruta'
-date: 2026-10-12T09:30:00.000Z
+date: 2026-10-11T19:30:00.000Z
 lugar: 'Tenerife'
 lat: 28.2916
 lng: -16.6291
