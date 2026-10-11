@@ -128,7 +128,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261008"></script>
+  <script src="/assets/js/main.js?v=20261012"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog" }) {
@@ -633,12 +633,12 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
         .join("")}</div>`
     : "";
 
-  const body = `    <article class="article">
+  const body = `    <article class="article" data-post="${esc(p.lugar || p.title.split(":")[0])}">
       <section class="pagehead pagehead--blog torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
         ${heroMedia}
         <div class="pagehead__inner container">
           <p class="article__meta article__meta--nav">
-            <a href="/blog.html">&larr; Blog</a>
+            <a href="/blog.html" data-back-link>&larr; Blog</a>
             ${nextPost ? `<a href="/blog/${nextPost.slug}.html" class="article__next" title="${esc(nextPost.title)}">Siguiente &rarr;</a>` : ""}
           </p>
           <h1>${esc(p.title)}</h1>

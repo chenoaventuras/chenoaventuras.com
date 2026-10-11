@@ -830,3 +830,43 @@
     });
   })();
 })();
+
+/* ---------- Volver al post anterior ----------
+   Si llegas a un post desde otro post del blog (p. ej. de «Qué ver en Tenerife» al Arco de Tajao),
+   el enlace «← Blog» pasa a «← Volver a Tenerife» y aparece un botón flotante al bajar.
+   Usa el «atrás» del navegador para volver al mismo punto de la página. */
+(function () {
+  var art = document.querySelector("article[data-post]");
+  if (!art) return;
+  var KEY = "chenoPrevPost";
+  var prev = null;
+  try { prev = JSON.parse(sessionStorage.getItem(KEY) || "null"); } catch (e) {}
+  try { sessionStorage.setItem(KEY, JSON.stringify({ url: location.pathname, title: art.getAttribute("data-post") })); } catch (e) {}
+
+  var ref = null;
+  try { ref = document.referrer ? new URL(document.referrer) : null; } catch (e) {}
+  var norm = function (u) { return u.replace(/\.html$/, "").replace(/\/$/, ""); };
+  if (!prev || !ref || ref.origin !== location.origin) return;
+  if (norm(ref.pathname) !== norm(prev.url) || norm(prev.url) === norm(location.pathname)) return;
+
+  var label = "Volver a " + prev.title;
+  var goBack = function (ev) {
+    if (history.length > 1) { ev.preventDefault(); history.back(); }
+  };
+  var top = document.querySelector("[data-back-link]");
+  if (top) {
+    top.href = prev.url;
+    top.textContent = "← " + label;
+    top.classList.add("article__back");
+    top.addEventListener("click", goBack);
+  }
+  var fab = document.createElement("a");
+  fab.className = "backfab";
+  fab.href = prev.url;
+  fab.innerHTML = '<span aria-hidden="true">←</span> ' + label.replace(/[<>&]/g, "");
+  fab.addEventListener("click", goBack);
+  document.body.appendChild(fab);
+  var onScroll = function () { fab.classList.toggle("is-visible", window.scrollY > 500); };
+  window.addEventListener("scroll", onScroll, { passive: true });
+  onScroll();
+})();
