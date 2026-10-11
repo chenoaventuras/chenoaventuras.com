@@ -907,8 +907,8 @@
     const W = stage.clientWidth, H = stage.clientHeight, side = Math.round(Math.min(W * 0.95, H * 1.08, 620));
     cam.style.width = cam.style.height = side + "px";
     const cw = side, ch = side;
-    // En reposo, las botas quedan apoyadas cerca del borde inferior, con algo de sombra (86,8 % de la ilustración).
-    if (!zoom) { cam.style.transform = `translate(${-cw / 2}px, ${H / 2 - ch * 0.868}px) scale(1)`; return; }
+    // En reposo, las botas quedan apoyadas cerca del borde inferior, con algo de sombra (85,8 % de la ilustración).
+    if (!zoom) { cam.style.transform = `translate(${-cw / 2}px, ${H / 2 - ch * 0.858}px) scale(1)`; return; }
     const sx = screen.offsetLeft, sy = screen.offsetTop, sw = screen.offsetWidth, sh = screen.offsetHeight;
     const s = Math.min(W * 0.96 / sw, H * 0.96 / sh);
     // la cámara está anclada en el centro del escenario: llevamos el centro de la pantalla allí
