@@ -24,6 +24,8 @@ faq:
     a: "En coche: está en la Sierra de Cádiz, a unos 30 minutos de Ronda, dentro del Parque Natural Sierra de Grazalema."
   - q: "¿Cuánto llueve en Grazalema?"
     a: "Casi 2.000 litros por metro cuadrado al año de media, más que en muchos sitios de Galicia."
+  - q: "¿Cuándo es el Lunes del Toro de Grazalema?"
+    a: "El lunes siguiente al 16 de julio, dentro de las fiestas de la Virgen del Carmen."
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
@@ -47,6 +49,9 @@ Te cuento por qué llueve tanto, el bosque «de la época del hielo» que escond
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/grazalema/pinsapar.webp" alt="Bosque de pinsapos en la Sierra de Grazalema" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Pinsapar</h3><p>Una ruta de unos 12 km por el bosque de pinsapos. Con permiso.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/grazalema/arcoiris.webp" alt="Arcoíris sobre la Sierra de Grazalema" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La sierra</h3><p>Con tanta lluvia, los arcoíris y las nubes bajas son habituales.</p></div></li>
 </ol>
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Grazalema</h2></div>
+<div class="guide__legend"><h3>🐂 Lunes del Toro de Cuerda</h3><p>El <strong>lunes siguiente al 16 de julio</strong>, dentro de las fiestas de la Virgen del Carmen, se sueltan toros atados con una <strong>larga cuerda</strong> por las calles del casco, y los mozos los guían y los torean. Es una tradición muy antigua y está declarada <strong>Bien de Interés Cultural</strong> por la Junta de Andalucía.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Grazalema</h2></div>
 <div class="guide__howto"><p>Desde <strong>Ronda</strong>, unos 30 minutos por la A-372. Desde Sevilla o Jerez, alrededor de 1 hora y media.</p><p>La subida por el puerto del Boyar desde Zahara es espectacular.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Grazalema%2C%20C%C3%A1diz" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

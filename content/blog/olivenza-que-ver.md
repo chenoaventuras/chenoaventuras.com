@@ -22,6 +22,8 @@ faq:
     a: "Medio día es suficiente para lo principal."
   - q: "¿A cuánto está Olivenza de Badajoz?"
     a: "A unos 25 minutos en coche, en la misma frontera con Portugal."
+  - q: "¿Cuándo es la Feria del Toro de Olivenza?"
+    a: "A principios de marzo. Es la primera gran feria taurina de la temporada en España."
 actividades:
   - t: "Visita guiada por Olivenza"
     u: "https://www.civitatis.com/es/olivenza/visita-guiada-olivenza/"
@@ -52,6 +54,9 @@ Te cuento su curiosa historia y qué ver en uno de los pueblos más bonitos de E
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/olivenza-que-ver/muralla.webp" alt="Maqueta de la muralla abaluartada de Olivenza" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La muralla abaluartada</h3><p>Olivenza estuvo rodeada por una muralla en forma de estrella. Aún se conservan tramos y la Puerta del Calvario.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Olivenza</h2></div>
+<div class="guide__legend"><h3>🐂 Feria del Toro</h3><p>A <strong>principios de marzo</strong>, Olivenza abre la temporada taurina de España con su <strong>Feria del Toro</strong>, que atrae a aficionados de España y Portugal. Junto a ella se celebra la Feria del Toro Ibérico, con charlas y exposiciones. Esos días el pueblo cambia por completo de ambiente.</p></div>
 
 <!--actividades-->
 

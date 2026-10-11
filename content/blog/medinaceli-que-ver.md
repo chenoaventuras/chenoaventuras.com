@@ -22,6 +22,8 @@ faq:
     a: "Sigüenza, a menos de media hora, y el Barranco del río Dulce."
   - q: "¿A cuánto está Medinaceli de Madrid?"
     a: "A algo más de hora y media por la A-2, y a dos horas de Zaragoza. Está en el sur de Soria."
+  - q: "¿Cuándo es el Toro Jubilo de Medinaceli?"
+    a: "En noviembre, el sábado más cercano al 13, durante las fiestas de los Cuerpos Santos."
 ---
 Seguro que lo has visto cientos de veces sin saberlo: el arco que aparece en las **señales marrones de monumentos** de las carreteras españolas está inspirado en uno real. Está en **Medinaceli**, un pueblo de piedra en lo alto de un cerro de Soria, y es el **único arco romano de tres vanos** que se conserva en España.
 
@@ -46,6 +48,9 @@ Te cuento qué ver en uno de los pueblos más bonitos de Castilla 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medinaceli-que-ver/fuente.webp" alt="Fuente de la Canal en Medinaceli" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Fuente de la Canal</h3><p>Una antigua fuente a las afueras, en el camino que sube al pueblo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medinaceli-que-ver/valle.webp" alt="Vista del valle del Jalón desde Medinaceli" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Asómate desde los miradores sobre el valle del Jalón y los páramos sorianos.</p></div></li>
 </ol>
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Medinaceli</h2></div>
+<div class="guide__legend"><h3>🔥 Toro Jubilo</h3><p>En <strong>noviembre</strong>, el sábado más cercano al 13, durante las fiestas de los Cuerpos Santos, se celebra el <strong>Toro Jubilo</strong>: un toro con bolas de fuego en los cuernos recorre de noche un ruedo improvisado en la Plaza Mayor. Hay documentos de la fiesta desde el siglo XVI y en 2026 la Junta de Castilla y León la declaró bien cultural inmaterial. Es también una fiesta <strong>muy polémica</strong>, con protestas de asociaciones animalistas.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Medinaceli</h2></div>
 <div class="guide__howto"><p>Desde la <strong>A-2</strong> (Madrid-Zaragoza) hay una salida directa. El pueblo histórico está arriba, en el cerro; abajo, junto a la autovía, está la parte nueva.</p><p>Sube en coche al pueblo alto y aparca en la entrada, junto al arco.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Arco+romano+Medinaceli" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

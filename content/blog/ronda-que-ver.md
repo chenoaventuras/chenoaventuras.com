@@ -22,6 +22,8 @@ faq:
     a: "Desde abajo, en los caminos que bajan hacia los antiguos molinos, y desde los miradores de los jardines junto al Tajo."
   - q: "¿A cuánto está Ronda de Málaga?"
     a: "A cerca de hora y media en coche de Málaga capital o de la Costa del Sol."
+  - q: "¿Cuándo es la Corrida Goyesca de Ronda?"
+    a: "A principios de septiembre, durante la Feria de Pedro Romero. Las fechas se publican cada año en verano."
 actividades:
   - t: "Free tour por Ronda"
     u: "https://www.civitatis.com/es/ronda/free-tour-ronda/"
@@ -52,6 +54,9 @@ Te cuento qué ver, cómo hacer la mejor foto del Puente Nuevo (desde abajo) y a
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ronda-que-ver/noche.webp" alt="Puente Nuevo de Ronda iluminado de noche" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Ronda de noche</h3><p>Cuando se iluminan el puente y el Tajo, la ciudad cambia por completo. Si duermes allí, no te lo pierdas.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Ronda</h2></div>
+<div class="guide__legend"><h3>🎨 Feria de Pedro Romero y Corrida Goyesca</h3><p>A <strong>principios de septiembre</strong> se celebra la Feria de Pedro Romero, en honor al torero rondeño. Su acto más famoso es la <strong>Corrida Goyesca</strong>, en la que los toreros visten trajes del siglo XVIII como los que pintó <strong>Goya</strong>. Se celebra desde 1954 en la plaza de toros de Ronda, una de las más antiguas de España. La feria tiene además desfile histórico de carruajes, flamenco y casetas.</p></div>
 
 <!--actividades-->
 

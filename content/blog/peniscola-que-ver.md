@@ -22,6 +22,8 @@ faq:
     a: "Por el Papa Luna, Benedicto XIII, que se negó a renunciar al papado y se refugió en el castillo de Peñíscola hasta su muerte."
   - q: "¿A cuánto está Peñíscola de Valencia?"
     a: "A hora y media en coche. Está en el norte de Castellón, en la Costa del Azahar, a unas dos horas de Tarragona."
+  - q: "¿Cuándo son las fiestas de Peñíscola?"
+    a: "En septiembre, desde el día 7, en honor a la Virgen de la Ermitana. Son de Interés Turístico Nacional."
 actividades:
   - t: "Visita guiada por Peñíscola y el Castillo del Papa Luna"
     u: "https://www.civitatis.com/es/peniscola/visita-guiada-peniscola/"
@@ -54,6 +56,9 @@ Te cuento qué ver, sus curiosidades y una ruta de costa salvaje a pocos minutos
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/peniscola-que-ver/irta.webp" alt="Costa virgen de la Serra d'Irta" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La Serra d'Irta</h3><p>Al sur del pueblo empieza uno de los últimos tramos de costa virgen del Mediterráneo: calas, torres vigía y senderos.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Peñíscola</h2></div>
+<div class="guide__legend"><h3>🎉 Fiestas de la Virgen de la Ermitana</h3><p>En <strong>septiembre</strong> (desde el día 7 y durante unos diez días), Peñíscola celebra sus fiestas patronales, de <strong>Interés Turístico Nacional</strong>. Lo más especial son las <strong>danzas</strong> tradicionales, de origen guerrero y agrícola, que terminan con una torre humana. Hay además desfiles de <strong>Moros y Cristianos</strong>, fuegos artificiales y sueltas de vaquillas.</p></div>
 
 <!--actividades-->
 

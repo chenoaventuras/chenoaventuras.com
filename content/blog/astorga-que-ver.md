@@ -24,6 +24,8 @@ faq:
     a: "A unos 45 minutos en coche por la autovía."
   - q: "¿Cómo se come el cocido maragato?"
     a: "Al revés: primero las carnes, luego los garbanzos y las verduras, y al final la sopa."
+  - q: "¿Qué fiestas se celebran en Astorga?"
+    a: "La Semana Santa (Interés Turístico Nacional), Astures y Romanos a finales de julio (Interés Turístico Regional) y las fiestas de Santa Marta a finales de agosto."
 actividades:
   - t: "Visita guiada por el Palacio Episcopal (Gaudí) de Astorga"
     u: "https://www.civitatis.com/es/astorga/visita-guiada-palacio-episcopal-astorga/"
@@ -54,6 +56,9 @@ Te cuento qué ver, qué comer (spoiler: el cocido se come al revés) y qué pue
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/astorga-que-ver/castrillo.webp" alt="Calle empedrada de Castrillo de los Polvazares" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Castrillo de los Polvazares</h3><p>A 5 km, un pueblo maragato de piedra rojiza que parece detenido en el tiempo. Ideal para comer cocido.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Astorga</h2></div>
+<div class="guide__legend"><h3>✝️ Semana Santa</h3><p>Declarada de <strong>Interés Turístico Nacional</strong>. Salen ocho cofradías con unos 40 pasos. No te pierdas el <strong>Viernes Santo</strong>, con la procesión del Encuentro y la tradicional carrera de San Juanín, y el Desenclavo en la Plaza Mayor.</p></div><div class="guide__legend"><h3>🏛️ Astures y Romanos</h3><p>A <strong>finales de julio</strong>, la ciudad recuerda su pasado más antiguo: campamento romano, poblado astur, mercado y hasta <strong>circo romano</strong>. Es de <strong>Interés Turístico Regional</strong> desde 2011.</p></div><div class="guide__legend"><h3>📅 Santa Marta</h3><p>Las fiestas patronales, a <strong>finales de agosto</strong>, con teatro de calle (certamen Ars Via) y conciertos.</p></div>
 
 <!--actividades-->
 

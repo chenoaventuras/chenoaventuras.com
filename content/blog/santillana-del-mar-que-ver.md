@@ -22,6 +22,8 @@ faq:
     a: "En los aparcamientos de la entrada del pueblo. El casco histórico es peatonal."
   - q: "¿A cuánto está Santillana del Mar de Santander?"
     a: "A unos 30 km, media hora en coche por la A-67 hacia Torrelavega."
+  - q: "¿Cuándo son las fiestas de Santillana del Mar?"
+    a: "A finales de junio, en honor a Santa Juliana, con el baile tradicional de los picayos."
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
@@ -48,6 +50,9 @@ Casonas con escudos, balcones de madera llenos de flores, una colegiata románic
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/santillana-del-mar-que-ver/altamira.webp" alt="Réplica de las pinturas de la Cueva de Altamira" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Neocueva de Altamira</h3><p>La réplica exacta de la cueva original y sus bisontes, junto al Museo de Altamira, a 2 km del pueblo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/santillana-del-mar-que-ver/quesada.webp" alt="Leche con bizcocho y quesada en Santillana del Mar" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La merienda</h3><p>Un vaso de leche con bizcocho o una quesada pasiega en cualquier rincón del pueblo. Es tradición.</p></div></li>
 </ol>
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Santillana del Mar</h2></div>
+<div class="guide__legend"><h3>💃 Santa Juliana</h3><p>A <strong>finales de junio</strong>, cinco días de fiesta en honor a la patrona. Lo más especial es el baile de los <strong>picayos</strong>, una danza que solo se baila en Santillana, además de gigantes y cabezudos, procesión y verbenas.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Santillana del Mar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Santander</strong>, por la A-67 hacia Torrelavega y la salida hacia Santillana del Mar. Hay <strong>aparcamientos de pago</strong> en la entrada del pueblo: el casco histórico es peatonal.</p><p>El <strong>Museo de Altamira</strong> está a unos 2 km, con aparcamiento gratuito. Cierra los lunes y en temporada alta conviene reservar.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Santillana%20del%20Mar%2C%20Cantabria" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

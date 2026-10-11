@@ -22,6 +22,8 @@ faq:
     a: "Se recorre en pocas horas, así que encaja bien en una escapada de un día."
   - q: "¿Se puede visitar la cárcel de Pedraza?"
     a: "Sí, es una de las pocas cárceles medievales de España que se pueden visitar, con celdas y objetos de la época."
+  - q: "¿Cuándo son los Conciertos de las Velas de Pedraza?"
+    a: "Los dos primeros sábados de julio. El pueblo se ilumina con miles de velas y hay concierto en la explanada del castillo."
 actividades:
   - t: "Tour privado por Pedraza"
     u: "https://www.civitatis.com/es/pedraza/tour-privado-pedraza/"
@@ -54,6 +56,12 @@ Muy cerca del castillo se encuentra la **iglesia de San Juan Bautista**, uno de 
 
 Si puedes elegir cuándo ir, resérvate los dos primeros sábados de julio para la **Noche de las Velas**: miles de velas iluminan las calles de Pedraza y la convierten, según quienes la han vivido, en uno de los planes más especiales de toda España. El resto del año, la villa conserva ese mismo encanto de piedra y calles vacías, solo que con menos velas y menos gente.
 
+
+## Fiestas de Pedraza
+
+**🕯️ Conciertos de las Velas.** Los <strong>dos primeros sábados de julio</strong>, Pedraza apaga las luces y se ilumina solo con <strong>miles de velas</strong> en calles, ventanas y balcones. A las 22:00, en la explanada del castillo, hay un concierto de música clásica. Es la noche más mágica del año en el pueblo, y el resto de visitantes pasea a la luz de las velas aunque no tenga entrada.
+
+> **Mi consejo:** Para los Conciertos de las Velas, compra la entrada del concierto y reserva cena y alojamiento con meses de antelación: se agota todo.
 
 <!--actividades-->
 

@@ -22,6 +22,8 @@ faq:
     a: "Las lagunas de Carralogroño y Musco, dólmenes como El Sotillo o La Hechicera, y bodegas de la Rioja Alavesa."
   - q: "¿Dónde está Laguardia?"
     a: "En la Rioja Alavesa, a solo 15-20 minutos de Logroño y a unos 45 de Vitoria."
+  - q: "¿Cuándo son las fiestas de Laguardia?"
+    a: "Del 23 al 29 de junio, por San Juan y San Pedro. En mayo se celebra además el Día del Gaitero."
 actividades:
   - t: "Tour por Laguardia + visita a una bodega con cata"
     u: "https://www.civitatis.com/es/laguardia/tour-laguardia-visita-bodega-cata/"
@@ -52,6 +54,9 @@ Te cuento qué ver, desde el pórtico que conserva sus colores medievales hasta 
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguardia-que-ver/dolmen.webp" alt="Dolmen de El Sotillo en Laguardia" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los dólmenes</h3><p>La zona está llena de dólmenes prehistóricos, como El Sotillo o La Hechicera, entre viñedos.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Laguardia</h2></div>
+<div class="guide__legend"><h3>💃 San Juan y el Cachimorro</h3><p>Las fiestas patronales, del <strong>23 al 29 de junio</strong>. Lo más típico: el <strong>Cachimorro</strong>, un personaje tradicional, recorre las calles con los danzantes hasta el ayuntamiento, acompañado del alcalde.</p></div><div class="guide__legend"><h3>🎶 Día del Gaitero</h3><p>En <strong>mayo</strong>, desde 1975, bandas de gaita de todo el País Vasco y Navarra llenan las calles de música.</p></div>
 
 <!--actividades-->
 

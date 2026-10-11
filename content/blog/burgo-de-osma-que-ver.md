@@ -20,6 +20,8 @@ faq:
     a: "Con 2-3 horas recorres con calma todo el casco histórico."
   - q: "¿Es gratis subir al castillo de Osma?"
     a: "Sí: el casco histórico y la subida al castillo son gratuitos, y las vistas compensan la pequeña caminata."
+  - q: "¿Cuándo son las Jornadas de la Matanza de El Burgo de Osma?"
+    a: "Los sábados de invierno, aproximadamente de enero a marzo. Hay que reservar con mucha antelación."
 actividades:
   - t: "Tour panorámico por El Burgo de Osma"
     u: "https://www.civitatis.com/es/el-burgo-de-osma/tour-panoramico-burgo-osma/"
@@ -52,6 +54,10 @@ Parte de las **antiguas murallas** que protegían la ciudad todavía se mantiene
 
 Y si quieres las mejores vistas, sube al **Castillo de Osma**, entre El Burgo de Osma y Osma: el acceso al casco histórico y la subida al castillo son gratuitos, y la panorámica compensa de sobra la pequeña caminata.
 
+
+## Fiestas de El Burgo de Osma
+
+**🐖 Jornadas de la Matanza.** Desde <strong>1974</strong>, los sábados de <strong>invierno</strong> (más o menos de enero a marzo), el restaurante Virrey Palafox hace una <strong>matanza tradicional</strong> a la vista de todos y después sirve un banquete con todos los productos del cerdo. Es <strong>Fiesta de Interés Turístico Regional</strong> y hay que <strong>reservar con muchísima antelación</strong>.
 
 <!--actividades-->
 

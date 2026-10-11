@@ -22,6 +22,8 @@ faq:
     a: "Su origen es andalusí, pero los templarios lo transformaron en una gran fortaleza a partir del siglo XII."
   - q: "¿Cómo llegar a Miravet?"
     a: "En coche: está en la Ribera d'Ebre (Tarragona), a una hora de Tarragona y a dos de Barcelona."
+  - q: "¿Qué fiesta típica tiene Miravet?"
+    a: "La Fira Miravet, que une la fiesta de la cereza y la feria de alfareros. En agosto, las fiestas de Sant Domingo."
 actividades:
   - t: "Tour en kayak por el río Ebro hacia Miravet"
     u: "https://www.civitatis.com/es/mora-la-nueva/tour-kayak-rio-ebro/"
@@ -52,6 +54,9 @@ Te cuento qué ver y cómo vivir este rincón de las Terres de l'Ebre 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/miravet/ceramica.webp" alt="Botijo de cerámica tradicional de Miravet" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La cerámica</h3><p>Llévate un botijo de Miravet: los alfareros siguen trabajando en el pueblo.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Miravet</h2></div>
+<div class="guide__legend"><h3>🍒 Fira Miravet</h3><p>Miravet es tierra de <strong>cerezas</strong> y de <strong>alfareros</strong>. Durante años celebró la Festa de la Cirera y la Fira dels Canterers, y desde 2025 se unen en una sola feria, la <strong>Fira Miravet</strong>, con cerámica tradicional, cerezas y actividades. En agosto, las fiestas de Sant Domingo, patrón de los alfareros.</p></div>
 
 <!--actividades-->
 

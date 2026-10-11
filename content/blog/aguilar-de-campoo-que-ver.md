@@ -22,6 +22,8 @@ faq:
     a: "La subida al castillo, el paseo junto al embalse y el puente medieval son fáciles y gustan a todas las edades: la visita es de dificultad baja y apta para todos."
   - q: "¿Por qué Aguilar de Campoo es el pueblo de las galletas?"
     a: "Porque lleva generaciones fabricándolas, primero con Fontaneda y hoy con Gullón. Ese pasado galletero forma parte de la identidad del pueblo."
+  - q: "¿Qué es el Carnaval de la Galleta de Aguilar de Campoo?"
+    a: "El carnaval de Aguilar de Campoo, capital de la galleta, declarado de Interés Turístico de Castilla y León."
 ---
 Todo el mundo conoce Aguilar de Campoo por sus galletas, pero quien solo se queda con eso se pierde uno de los pueblos más completos que hay para visitar en la Montaña Palentina: castillo, románico, un embalse y un casco histórico que da para todo un día.
 
@@ -46,6 +48,10 @@ El **embalse de Aguilar** ofrece uno de los paisajes más bonitos del pueblo, co
 ## La tradición galletera que le da nombre
 
 Aguilar de Campoo lleva ligado a la fabricación de galletas desde hace generaciones, primero con Fontaneda y hoy con Gullón, y ese pasado industrial es parte fundamental de la identidad del pueblo, aunque como has visto, es solo una parte de todo lo que tiene para ofrecer.
+
+## Fiestas de Aguilar de Campoo
+
+**🍪 Carnaval de la Galleta.** Aguilar es la <strong>capital de la galleta</strong> (aquí está una de las fábricas más famosas de España), y su carnaval lo celebra: el <strong>Carnaval de la Galleta</strong> está declarado de <strong>Interés Turístico de Castilla y León</strong>. Comparsas, disfraces y, como no, galletas.
 
 ## Cómo llegar y cuánto tiempo dedicarle
 

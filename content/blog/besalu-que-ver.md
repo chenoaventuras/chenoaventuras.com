@@ -24,6 +24,8 @@ faq:
     a: "En coche: está en la Garrotxa, a unos 30 minutos de Girona y a hora y media de Barcelona."
   - q: "¿Es gratis visitar Besalú?"
     a: "Pasear y cruzar el puente, sí. El miqvé y algunos monumentos se visitan a través de la Oficina de Turismo."
+  - q: "¿Cuándo es la fiesta medieval de Besalú?"
+    a: "A finales de agosto o principios de septiembre, durante un fin de semana. Las fechas cambian cada año."
 actividades:
   - t: "Vuelo en globo sobre los volcanes de la Garrotxa"
     u: "https://www.getyourguide.es/costa-brava-l473/vuelo-en-globo-sobre-los-volcanes-de-la-costa-brava-desde-santa-pau-t35210/"
@@ -54,6 +56,9 @@ Te cuento qué ver y cómo combinarlo con la zona volcánica de la Garrotxa 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/castellfollit.webp" alt="Castellfollit de la Roca sobre su risco de basalto" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Castellfollit de la Roca</h3><p>A 15 minutos, un pueblo encaramado sobre un acantilado de basalto de unos 50 metros. Puro paisaje volcánico.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Besalú</h2></div>
+<div class="guide__legend"><h3>🛡️ Besalú Medieval</h3><p>Cada año, a <strong>finales de agosto o principios de septiembre</strong>, el pueblo celebra su <strong>fiesta medieval</strong>: puestos de hidromiel, especias, quesos y embutidos, artesanos trabajando en la calle, <strong>torneos y combates</strong> y oficios de la época. Con el puente románico de fondo, el decorado es perfecto. Confirma las fechas con el Ayuntamiento.</p></div>
 
 <!--actividades-->
 

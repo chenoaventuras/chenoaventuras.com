@@ -22,6 +22,8 @@ faq:
     a: "El Barranco del río Dulce, entre Pelegrina y La Cabrera, con el mirador de Félix Rodríguez de la Fuente."
   - q: "¿A cuánto está Sigüenza de Madrid?"
     a: "A una hora y media en coche por la A-2. En primavera y otoño también puedes ir en el Tren Medieval."
+  - q: "¿Cuándo son las Jornadas Medievales de Sigüenza?"
+    a: "El segundo fin de semana de julio. Son Fiesta de Interés Turístico Regional desde 2024."
 actividades:
   - t: "Tour privado por Sigüenza"
     u: "https://www.civitatis.com/es/siguenza/tour-privado-siguenza/"
@@ -50,6 +52,9 @@ Te cuento qué ver y cómo combinar historia y naturaleza 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/siguenza-que-ver/dulce.webp" alt="Barranco del río Dulce" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Barranco del río Dulce</h3><p>Un cañón de paredes de caliza con buitres, rutas a pie y el mirador de Félix Rodríguez de la Fuente.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Sigüenza</h2></div>
+<div class="guide__legend"><h3>🛡️ Jornadas Medievales</h3><p>El <strong>segundo fin de semana de julio</strong>, Sigüenza recuerda el cautiverio de la reina <strong>doña Blanca de Borbón</strong> en su castillo. Hay mercado con más de 100 puestos, cetrería, combates y teatro de calle, y por la noche el barrio de las Travesañas se ilumina con <strong>antorchas</strong>. Desde 2024 es <strong>Fiesta de Interés Turístico Regional</strong>.</p></div>
 
 <!--actividades-->
 

@@ -20,6 +20,8 @@ faq:
     a: "Sí, suele abrir por la mañana y por la tarde, pero el horario cambia: compruébalo el mismo día si quieres entrar."
   - q: "¿Por qué Altea está construida en lo alto?"
     a: "Para protegerse de los ataques de los piratas berberiscos: por eso el casco antiguo creció hacia arriba y no pegado a la orilla."
+  - q: "¿Cuándo es el Castell de l'Olla de Altea?"
+    a: "El sábado más cercano a San Lorenzo (10 de agosto). Son fuegos artificiales lanzados desde el mar, de Interés Turístico Autonómico."
 guia: /assets/guias/guia-costa-blanca-chenoaventuras.pdf
 guiaTitulo: 'Guía Costa Blanca en PDF'
 ---
@@ -50,6 +52,14 @@ Altea conserva algo que ya es raro en esta parte de la costa: sus playas son de 
 ## El Castell de l'Olla, si coincides con las fechas
 
 Si tu visita cae a primeros de agosto, puede que tengas suerte: es cuando se celebra el **Castell de l'Olla**, un espectáculo de fuegos artificiales que se dispara literalmente sobre el mar y que reúne cada año a miles de personas, tanto desde tierra como desde barcos y embarcaciones frente a la costa. Si no coincide, no pasa nada — Altea da para un buen plan en cualquier época del año.
+
+## Fiestas de Altea
+
+**🎆 Castell de l'Olla.** El <strong>sábado más cercano al 10 de agosto</strong> (San Lorenzo), la cala de l'Olla se llena de gente para ver un espectáculo de <strong>fuegos artificiales lanzados desde el mar</strong>, desde plataformas flotantes frente a la costa. Reúne a decenas de miles de personas y es <strong>Fiesta de Interés Turístico Autonómico</strong>. Lo mejor: verlo desde la playa o desde una barca.
+
+**⚔️ Moros y Cristianos.** A finales de <strong>septiembre</strong>, en honor a San Blas, con las espectaculares <strong>entradas mora y cristiana</strong> por las calles, embajadas, mascletás y verbenas. Se celebran desde 1979.
+
+> **Mi consejo:** Para el Castell de l'Olla, llega a la playa por la tarde con toalla y algo de cena: se llena muchísimo.
 
 ## Cómo llegar y cuándo ir
 

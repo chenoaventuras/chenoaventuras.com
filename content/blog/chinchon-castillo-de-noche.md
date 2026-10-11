@@ -25,6 +25,8 @@ faq:
     a: "La Plaza Mayor, el castillo de los Condes, la iglesia de la Asunción con un cuadro de Goya, la Torre del Reloj y el Parador."
   - q: "¿Qué película se rodó en la Plaza Mayor de Chinchón?"
     a: "Entre otras, La vuelta al mundo en 80 días (1956)."
+  - q: "¿Cuándo es la Pasión de Chinchón?"
+    a: "El Sábado Santo por la noche, en la Plaza Mayor. Es de Interés Turístico Nacional."
 actividades:
   - t: "Free tour por Chinchón"
     u: "https://www.civitatis.com/es/chinchon/free-tour-chinchon/"
@@ -70,6 +72,14 @@ Hoy sigue en pie, con sus **gruesos muros**, el **foso**, la **portada con el es
 ## Por qué ir de noche
 
 Sin las aglomeraciones del fin de semana, Chinchón de noche se disfruta de otra manera: calles empedradas en silencio, la plaza sin agobios y el castillo iluminado. Es un plan ideal si ya lo conoces de día y quieres verlo con otros ojos, o si te quedas a dormir.
+
+## Fiestas de Chinchón
+
+**✝️ La Pasión de Chinchón.** El <strong>Sábado Santo</strong> por la noche, más de 200 vecinos representan la <strong>Pasión</strong> usando la Plaza Mayor y sus balcones como escenario. Es la Pasión más antigua de la Comunidad de Madrid (desde 1963) y la única con la declaración de <strong>Interés Turístico Nacional</strong>.
+
+**🛡️ Mercado Medieval.** En <strong>febrero</strong>, con justas, antorchas y artesanos. Te lo cuento en <a href="/blog/mercado-medieval-chinchon.html">este post</a>.
+
+> **Mi consejo:** En Semana Santa los alojamientos de Chinchón se llenan: reserva con tiempo si quieres ver la Pasión.
 
 <!--actividades-->
 

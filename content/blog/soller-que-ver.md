@@ -22,6 +22,8 @@ faq:
     a: "Sí, si te gustan los trenes históricos y el paisaje: sus vagones de madera de 1912 y el paso por la sierra son una experiencia única."
   - q: "¿Cómo llegar a Sóller desde Palma?"
     a: "En el histórico tren de madera, que cruza la sierra por túneles, o en coche por carretera."
+  - q: "¿Cuándo es Es Firó de Sóller?"
+    a: "El lunes después del segundo domingo de mayo, con actos durante cuatro días en Sóller y el Port de Sóller."
 actividades:
   - t: "Tren a Sóller y paseo en barco a Sa Calobra desde Palma"
     u: "https://www.civitatis.com/es/palma-mallorca/excursion-soller-sa-calobra/"
@@ -52,6 +54,9 @@ Te cuento qué ver, cómo llegar en el tren y qué ruta hacer por la Serra de Tr
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/soller-que-ver/valle.webp" alt="Vista del valle de Sóller desde la carretera de montaña" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La Serra de Tramuntana</h3><p>Patrimonio de la Humanidad. Desde Sóller salen rutas como el barranc de Biniaraix, con miles de escalones de piedra seca.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Sóller</h2></div>
+<div class="guide__legend"><h3>⚔️ Es Firó</h3><p>El <strong>lunes después del segundo domingo de mayo</strong>, Sóller recuerda cómo sus vecinos rechazaron el ataque de unos <strong>corsarios</strong> en 1561. Es una batalla de <strong>moros y cristianos</strong> muy viva: desembarco de los «moros» en el puerto, combates por las calles y la plaza, y una gran batalla en la playa. Cientos de vecinos participan disfrazados, con trabucos de pólvora.</p></div><p><strong>Mi consejo:</strong> Si vas a Es Firó, ponte ropa que se pueda manchar y deja el móvil a buen recaudo: hay mucha pólvora y empujones.</p>
 
 <!--actividades-->
 

@@ -22,6 +22,8 @@ faq:
     a: "La playa Gran, el faro, el camino de ronda y sus calas."
   - q: "¿Cómo llegar a Tossa de Mar desde Barcelona?"
     a: "En coche, en 1 hora y cuarto por la C-32 y Lloret de Mar."
+  - q: "¿Qué es el Pelegrí de Tossa?"
+    a: "Una peregrinación a pie de 40 km que se hace cada 20 de enero desde Tossa de Mar hasta Santa Coloma de Farners, por un voto a San Sebastián de hace más de 500 años."
 actividades:
   - t: "Tossa de Mar: kayak guiado y snorkel"
     u: "https://www.getyourguide.es/tossa-de-mar-l90930/tossa-de-mar-excursion-guiada-en-kayak-y-snorkel-t475482/"
@@ -49,6 +51,9 @@ Te cuento la historia y qué ver en su espectacular **Vila Vella** amurallada �
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/portada.webp" alt="Vista de Tossa de Mar desde la Vila Vella" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El mirador</h3><p>Desde la iglesia vieja y el faro, vistas de toda la bahía.</p></div></li>
 </ol>
 
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Tossa de Mar</h2></div>
+<div class="guide__legend"><h3>🚶 El Pelegrí de Tossa</h3><p>Cada <strong>20 de enero</strong>, desde hace más de 500 años, un vecino de Tossa hace a pie los <strong>40 km</strong> hasta Santa Coloma de Farners para cumplir el voto que el pueblo hizo a San Sebastián durante una epidemia de peste. Cientos de personas lo acompañan, y la identidad del <strong>Pelegrí</strong> se desvela esa misma mañana en misa.</p></div>
 
 <!--actividades-->
 
