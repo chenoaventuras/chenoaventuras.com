@@ -24,7 +24,7 @@
   .esc__cam { position: absolute; left: 50%; top: 50%; width: 400px; height: 400px; transform-origin: 0 0; transition: transform 1.3s cubic-bezier(.65,0,.25,1); }
   .esc__cam img { position: absolute; inset: 0; width: 100%; height: 100%; }
   .esc__screen { position: absolute; left: 44.4%; top: 15.2%; width: 35.7%; height: 24.1%; background: #fbfaf7; overflow: hidden; }
-  .esc__screen svg.esmap { position: absolute; inset: 4%; width: 92%; height: 92%; }
+  .esc__screen svg.esmap { position: absolute; inset: 0; width: 100%; height: 100%; }
   .esmap path { fill: #d8d3c8; stroke: #fff; stroke-width: 1.2; vector-effect: non-scaling-stroke; transition: fill .5s, opacity .5s; cursor: pointer; }
   .esmap path:hover { fill: #c3bba9; }
   .esmap .esmap__can-box { fill: none; stroke: #b9b2a4; stroke-dasharray: 4 4; }
@@ -36,12 +36,12 @@
   .esc__tag.on { opacity: 1; }
   .esc__back { position: absolute; top: 14px; right: 14px; z-index: 3; font: 600 12px var(--font-head); border: 1px solid var(--line); background: #fff; border-radius: 99px; padding: 6px 12px; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity .4s; }
   .esc.zoom .esc__back { opacity: 1; pointer-events: auto; }
-  /* Dibujos de fondo que van pasando */
+  /* Fotos de fondo que van pasando (de la propia web) */
   .dibujos { position: absolute; inset: 0; pointer-events: none; }
-  .dibujos svg { position: absolute; left: 50%; bottom: 4%; width: 120%; transform: translateX(-50%); opacity: 0; transition: opacity 1.6s ease; }
-  .dibujos svg.on { opacity: 1; }
-  .dibujos g { fill: none; stroke: #c9c3b4; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
-  .dibujos__name { position: absolute; left: 16px; bottom: 12px; font: 600 11px var(--font-head); letter-spacing: .14em; text-transform: uppercase; color: #b3ac9c; transition: opacity .6s; }
+  .dibujos img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transform: scale(1.06); transition: opacity 1.6s ease, transform 6s linear; }
+  .dibujos img.on { opacity: 1; transform: scale(1); }
+  .dibujos::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(255,255,255,.15), rgba(255,255,255,.45) 70%, rgba(255,255,255,.6)); }
+  .dibujos__name { position: absolute; right: 16px; bottom: 14px; z-index: 2; font: 600 11px var(--font-head); letter-spacing: .14em; text-transform: uppercase; color: #fff; text-shadow: 0 1px 6px rgba(0,0,0,.5); transition: opacity .6s; }
   .esc.zoom .dibujos, .esc.zoom .dibujos__name { opacity: 0; transition: opacity .5s; }
 
   /* ---------- Carné de piloto colgando de una cinta ---------- */
@@ -84,12 +84,14 @@
       </div>
       <div class="esc__stage">
         <div class="dibujos" aria-hidden="true">
-<svg viewBox="0 0 400 200" data-name="Molinos de Consuegra"><g><path d="M0 170 Q80 140 160 150 T320 140 T400 160"/><path d="M79.0 152 L82.0 106 L98.0 106 L101.0 152"/><path d="M80.0 106 L90 90 L100.0 106"/><rect x="87" y="138" width="6" height="14"/><path d="M99.0 102 L133.0 76"/><path d="M110.9 92.9 L126.62 71.17999999999999 L133.0 76"/><path d="M99.0 102 L73.0 68"/><path d="M89.9 90.1 L68.17999999999999 74.38 L73.0 68"/><path d="M99.0 102 L65.0 128"/><path d="M87.1 111.1 L71.38 132.82 L65.0 128"/><path d="M99.0 102 L125.0 136"/><path d="M108.1 113.9 L129.82 129.62 L125.0 136"/><path d="M189.0 146 L192.0 100 L208.0 100 L211.0 146"/><path d="M190.0 100 L200 84 L210.0 100"/><rect x="197" y="132" width="6" height="14"/><path d="M209.0 96 L243.0 70"/><path d="M220.9 86.9 L236.62 65.17999999999999 L243.0 70"/><path d="M209.0 96 L183.0 62"/><path d="M199.9 84.1 L178.18 68.38 L183.0 62"/><path d="M209.0 96 L175.0 122"/><path d="M197.1 105.1 L181.38 126.82000000000001 L175.0 122"/><path d="M209.0 96 L235.0 130"/><path d="M218.1 107.9 L239.82 123.62 L235.0 130"/><path d="M289.0 144 L292.0 98 L308.0 98 L311.0 144"/><path d="M290.0 98 L300 82 L310.0 98"/><rect x="297" y="130" width="6" height="14"/><path d="M309.0 94 L343.0 68"/><path d="M320.9 84.9 L336.62 63.18 L343.0 68"/><path d="M309.0 94 L283.0 60"/><path d="M299.9 82.1 L278.18 66.38 L283.0 60"/><path d="M309.0 94 L275.0 120"/><path d="M297.1 103.1 L281.38 124.82000000000001 L275.0 120"/><path d="M309.0 94 L335.0 128"/><path d="M318.1 105.9 L339.82 121.62 L335.0 128"/></g></svg>
-<svg viewBox="0 0 400 200" data-name="Acueducto de Segovia"><g><path d="M20 190 V120 A14 14 0 0 1 48 120 V190"/><path d="M60 190 V120 A14 14 0 0 1 88 120 V190"/><path d="M100 190 V120 A14 14 0 0 1 128 120 V190"/><path d="M140 190 V120 A14 14 0 0 1 168 120 V190"/><path d="M180 190 V120 A14 14 0 0 1 208 120 V190"/><path d="M220 190 V120 A14 14 0 0 1 248 120 V190"/><path d="M260 190 V120 A14 14 0 0 1 288 120 V190"/><path d="M300 190 V120 A14 14 0 0 1 328 120 V190"/><path d="M340 190 V120 A14 14 0 0 1 368 120 V190"/><path d="M20 104 V80 A7 7 0 0 1 34 80 V104"/><path d="M40 104 V80 A7 7 0 0 1 54 80 V104"/><path d="M60 104 V80 A7 7 0 0 1 74 80 V104"/><path d="M80 104 V80 A7 7 0 0 1 94 80 V104"/><path d="M100 104 V80 A7 7 0 0 1 114 80 V104"/><path d="M120 104 V80 A7 7 0 0 1 134 80 V104"/><path d="M140 104 V80 A7 7 0 0 1 154 80 V104"/><path d="M160 104 V80 A7 7 0 0 1 174 80 V104"/><path d="M180 104 V80 A7 7 0 0 1 194 80 V104"/><path d="M200 104 V80 A7 7 0 0 1 214 80 V104"/><path d="M220 104 V80 A7 7 0 0 1 234 80 V104"/><path d="M240 104 V80 A7 7 0 0 1 254 80 V104"/><path d="M260 104 V80 A7 7 0 0 1 274 80 V104"/><path d="M280 104 V80 A7 7 0 0 1 294 80 V104"/><path d="M300 104 V80 A7 7 0 0 1 314 80 V104"/><path d="M320 104 V80 A7 7 0 0 1 334 80 V104"/><path d="M340 104 V80 A7 7 0 0 1 354 80 V104"/><path d="M360 104 V80 A7 7 0 0 1 374 80 V104"/><path d="M10 106 H392 M10 112 H392 M10 74 H392 M0 192 H400"/><path d="M20 66 l8 -10 l8 10 M300 70 l10-14 l10 14"/></g></svg>
-<svg viewBox="0 0 400 200" data-name="El Teide"><g><path d="M0 185 L120 120 L170 50 Q185 38 200 50 L250 115 L400 180"/><path d="M155 72 L170 50 Q185 38 200 50 L214 68 L203 62 L193 72 L182 60 L170 70 Z"/><path d="M40 60 q12 -14 26 -4 q10 -12 24 0 q14 0 12 12 H38 q-8 -4 2 -8 Z"/><path d="M280 40 q10 -10 22 -2 q12 -6 18 6 H276 Z"/><path d="M0 192 Q100 175 200 190 T400 186"/></g></svg>
-<svg viewBox="0 0 400 200" data-name="Sagrada Familia"><g><path d="M140 190 V80 L148 40 L156 80 V190"/><circle cx="148" cy="36" r="3"/><path d="M144 90 H152"/><path d="M144 104 H152"/><path d="M144 118 H152"/><path d="M144 132 H152"/><path d="M144 146 H152"/><path d="M144 160 H152"/><path d="M144 174 H152"/><path d="M165 190 V65 L173 25 L181 65 V190"/><circle cx="173" cy="21" r="3"/><path d="M169 75 H177"/><path d="M169 89 H177"/><path d="M169 103 H177"/><path d="M169 117 H177"/><path d="M169 131 H177"/><path d="M169 145 H177"/><path d="M169 159 H177"/><path d="M169 173 H177"/><path d="M190 190 V50 L198 10 L206 50 V190"/><circle cx="198" cy="6" r="3"/><path d="M194 60 H202"/><path d="M194 74 H202"/><path d="M194 88 H202"/><path d="M194 102 H202"/><path d="M194 116 H202"/><path d="M194 130 H202"/><path d="M194 144 H202"/><path d="M194 158 H202"/><path d="M194 172 H202"/><path d="M215 190 V62 L223 22 L231 62 V190"/><circle cx="223" cy="18" r="3"/><path d="M219 72 H227"/><path d="M219 86 H227"/><path d="M219 100 H227"/><path d="M219 114 H227"/><path d="M219 128 H227"/><path d="M219 142 H227"/><path d="M219 156 H227"/><path d="M219 170 H227"/><path d="M219 184 H227"/><path d="M240 190 V78 L248 38 L256 78 V190"/><circle cx="248" cy="34" r="3"/><path d="M244 88 H252"/><path d="M244 102 H252"/><path d="M244 116 H252"/><path d="M244 130 H252"/><path d="M244 144 H252"/><path d="M244 158 H252"/><path d="M244 172 H252"/><path d="M265 190 V100 L273 60 L281 100 V190"/><circle cx="273" cy="56" r="3"/><path d="M269 110 H277"/><path d="M269 124 H277"/><path d="M269 138 H277"/><path d="M269 152 H277"/><path d="M269 166 H277"/><path d="M269 180 H277"/><path d="M110 190 V140 H300 V190 M100 192 H320 M60 192 h30 M330 192 h40"/><path d="M190 190 v-24 a10 10 0 0 1 20 0 v24"/></g></svg>
-<svg viewBox="0 0 400 200" data-name="Pirineo aragonés"><g><path d="M0 120 L60 70 L95 100 L150 30 L178 60 L205 45 L260 110 L320 60 L400 115"/><path d="M140 44 L150 30 L160 46 L152 42 Z"/><path d="M0 150 Q100 135 200 150 T400 145"/><path d="M20 165 h60 M140 170 h80 M260 162 h70"/><path d="M300 150 V112 L308 100 L316 112 V150 M296 150 H330 V130 H316"/><circle cx="308" cy="120" r="2"/></g></svg>
-<svg viewBox="0 0 400 200" data-name="Una cala de Menorca"><g><circle cx="320" cy="50" r="22"/><path d="M0 60 Q40 40 70 70 L100 120 Q120 150 90 190 H0 Z"/><path d="M400 80 Q360 70 340 100 L310 150 Q300 175 330 190 H400"/><path d="M110 150 q15 -8 30 0 t30 0 t30 0 t30 0 t30 0 M130 170 q15 -8 30 0 t30 0 t30 0 t30 0 M120 130 q12 -6 24 0 t24 0 t24 0 t24 0"/><path d="M200 100 l10 -6 l-2 10 Z M206 94 V112 M196 112 h22"/></g></svg>
+<img src="assets/img/hero.webp" alt="" data-name="Lanuza · Pirineo aragonés" loading="lazy" decoding="async" />
+<img src="assets/img/blog/consuegra-molinos/portada.webp" alt="" data-name="Molinos de Consuegra" loading="lazy" decoding="async" />
+<img src="assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="" data-name="San Juan de Gaztelugatxe" loading="lazy" decoding="async" />
+<img src="assets/img/hero-altea.webp" alt="" data-name="Altea · Costa Blanca" loading="lazy" decoding="async" />
+<img src="assets/img/blog/ronda-que-ver/portada.webp" alt="" data-name="Ronda" loading="lazy" decoding="async" />
+<img src="assets/img/blog/mallorca-que-ver/portada.webp" alt="" data-name="Mallorca" loading="lazy" decoding="async" />
+<img src="assets/img/blog/acueducto-de-segovia/acueducto.webp" alt="" data-name="Acueducto de Segovia" loading="lazy" decoding="async" />
+<img src="assets/img/blog/islas-cies/portada.webp" alt="" data-name="Islas Cíes" loading="lazy" decoding="async" />
 </div>
         <span class="dibujos__name" data-dib-name></span>
         <div class="esc__cam" data-cam>
@@ -157,16 +159,25 @@
     cam.style.transform = `translate(${tx}px, ${ty}px) scale(${s})`;
   }
   // El mapa se acerca animando su viewBox, con la misma duración y curva que la cámara.
-  let vb = [0, 0, 800, 640], anim = 0;
+  // Encaje: el mapa entero centrado en la pantalla del ordenador, con el mismo margen por todos lados.
+  const ratio = () => screen.offsetWidth / screen.offsetHeight || 1.5;
+  function fit(x0, y0, x1, y1, pad) {
+    let w = (x1 - x0) * pad, h = (y1 - y0) * pad, r = ratio();
+    if (w / h > r) h = w / r; else w = h * r;
+    return [(x0 + x1) / 2 - w / 2, (y0 + y1) / 2 - h / 2, w, h];
+  }
+  const all = map.getBBox();
+  const FULL = () => fit(all.x, all.y, all.x + all.width, all.y + all.height, 1.12);
+  let vb = FULL(), anim = 0;
+  map.setAttribute("viewBox", vb.join(" "));
   const ease = (t) => t < .5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
   function zoomMap(paths) {
-    let to = [0, 0, 800, 640];
+    let to = FULL();
     if (paths.length) {
       let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9;
       paths.forEach((p) => { const b = p.getBBox(); x0 = Math.min(x0, b.x); y0 = Math.min(y0, b.y); x1 = Math.max(x1, b.x + b.width); y1 = Math.max(y1, b.y + b.height); });
-      let w = Math.max(x1 - x0, 90) * 1.6, h = Math.max(y1 - y0, 72) * 1.6;
-      if (w / h > 1.25) h = w / 1.25; else w = h * 1.25;
-      to = [(x0 + x1) / 2 - w / 2, (y0 + y1) / 2 - h / 2, w, h];
+      const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2, hw = Math.max(x1 - x0, 90) / 2, hh = Math.max(y1 - y0, 72) / 2;
+      to = fit(cx - hw, cy - hh, cx + hw, cy + hh, 1.6);
     }
     const from = vb.slice(), t0 = performance.now(), id = ++anim;
     (function frame(now) {
@@ -191,7 +202,7 @@
     const name = p || (zona ? zona.l || zona.v : "España");
     count.innerHTML = `<b>${n}</b> planes en ${name}`;
     tag.textContent = "📍 " + name; tag.classList.toggle("on", !!c);
-    const qs = new URLSearchParams(); if (c) qs.set("region", c); if (p) qs.set("provincia", p);
+    const qs = new URLSearchParams(); if (c) qs.set("comunidad", c); if (p) qs.set("provincia", p);
     go.href = "/blog" + (qs.toString() ? "?" + qs : "");
     box.classList.toggle("zoom", !!c);
     camera(!!c); zoomMap(sel);
@@ -207,13 +218,14 @@
   });
   box.querySelector("[data-back]").addEventListener("click", () => { zs.value = ""; fillProv(); paint(); });
   window.addEventListener("resize", () => camera(!!zs.value));
-  fillProv(); paint();
+  cam.style.transition = "none"; fillProv(); paint(); cam.offsetWidth; cam.style.transition = "";
 
   // Dibujos de fondo
-  const dibs = [...box.querySelectorAll(".dibujos svg")], dn = box.querySelector("[data-dib-name]");
+  const dibs = [...box.querySelectorAll(".dibujos img")], dn = box.querySelector("[data-dib-name]");
   let k = 0;
   function nextDib() { dibs.forEach((d, i) => d.classList.toggle("on", i === k)); dn.textContent = dibs[k].dataset.name; k = (k + 1) % dibs.length; }
-  nextDib(); setInterval(nextDib, 4000);
+  dibs.forEach((d) => (d.loading = "eager"));
+  nextDib(); setInterval(nextDib, 5000);
 })();
 
 /* ---------- Carné colgando: cuerda con física sencilla (verlet) ---------- */
