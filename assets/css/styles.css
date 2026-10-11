@@ -2045,6 +2045,31 @@ p { margin: 0 0 1em; }
 .esc__alt { margin: 12px 0 0; font-size: .9rem; color: rgba(255,255,255,.8); }
 .esc__alt a { color: var(--gold-soft); }
 
+/* ---------- Contacto: carné de piloto de dron colgando de una cinta (se arrastra y se gira) ---------- */
+.lan { position: relative; height: 560px; overflow: hidden; user-select: none; }
+.lan svg.lan__strap { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.lan__card { position: absolute; left: 0; top: 0; width: 220px; height: 300px; transform-origin: 110px 0; cursor: grab; perspective: 900px; touch-action: none; }
+.lan__card:active { cursor: grabbing; }
+.lan__inner { position: relative; width: 100%; height: 100%; transform-style: preserve-3d; transition: transform .7s cubic-bezier(.4,0,.2,1); }
+.lan__card.flip .lan__inner { transform: rotateY(180deg); }
+.lan__face { position: absolute; inset: 0; border-radius: 16px; backface-visibility: hidden; -webkit-backface-visibility: hidden; box-shadow: 0 18px 40px rgba(20,25,20,.25); overflow: hidden; }
+.lan__front { background: #fff; color: var(--ink); padding: 34px 18px 16px; display: flex; flex-direction: column; }
+.lan__back { background: var(--teal-deep); color: #fff; transform: rotateY(180deg); display: grid; place-items: center; text-align: center; }
+.lan__hole { position: absolute; top: 12px; left: 50%; width: 46px; height: 9px; margin-left: -23px; border-radius: 9px; background: var(--paper); box-shadow: inset 0 1px 3px rgba(0,0,0,.3); }
+.lan__top { display: flex; justify-content: space-between; align-items: center; font: 700 10px var(--font-head); letter-spacing: .18em; color: var(--olive-dark); }
+.lan__photo { width: 84px; height: 84px; border-radius: 12px; object-fit: cover; margin: 14px 0 10px; }
+.lan__cat { font: 900 46px/1 var(--font-display); letter-spacing: -.02em; }
+.lan__cat span { color: var(--olive); }
+.lan__name { font: 600 15px var(--font-head); margin-top: 6px; }
+.lan__meta { font: 500 11px var(--font-body); color: var(--ink-mute); margin-top: 2px; }
+.lan__foot { margin-top: auto; display: flex; justify-content: space-between; align-items: flex-end; font: 600 9px var(--font-head); letter-spacing: .12em; text-transform: uppercase; color: var(--ink-mute); border-top: 1px dashed var(--line); padding-top: 8px; }
+.lan__hint { position: absolute; right: 18px; bottom: 14px; font: 600 12px var(--font-head); color: var(--olive-dark); }
+.lan__brand { font: 900 28px/1 var(--font-display); }
+.lan__brand small { display: block; font: 600 10px var(--font-head); letter-spacing: .3em; margin-top: 6px; color: var(--gold-soft); }
+
+.licencia__grid { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(24px, 4vw, 56px); align-items: center; }
+@media (max-width: 760px) { .licencia__grid { grid-template-columns: 1fr; } .lan { height: 480px; } }
+
 /* Llegada desde el buscador de escapadas (la marca main.js). */
 html.cheno-fade { background: var(--paper); }
 html.cheno-fade body { animation: chenoFade .7s ease both; }

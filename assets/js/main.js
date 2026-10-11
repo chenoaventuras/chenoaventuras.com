@@ -1093,3 +1093,49 @@
   }, { passive: true });
   update();
 })();
+
+/* ---------- Contacto: carné de piloto colgando de una cinta ----------
+   Cuerda con física sencilla (verlet): se arrastra, rebota y con un clic se da la vuelta. */
+(function () {
+  const root = document.querySelector("[data-lan]");
+  if (!root) return;
+  const card = root.querySelector("[data-card]"), path = root.querySelector("#strapPath");
+  const N = 9, SEG = 30, G = 0.6, DAMP = 0.985;
+  let W = root.clientWidth, ax = W / 2, ay = -10;
+  const pts = Array.from({ length: N }, (_, i) => ({ x: ax + i * 6, y: ay + i * SEG, px: ax + i * 6 - 18, py: ay + i * SEG }));
+  let drag = null, angle = 0, av = 0, moved = 0;
+  function step() {
+    W = root.clientWidth; ax = W / 2;
+    for (let i = 1; i < N; i++) {
+      const p = pts[i];
+      if (drag && i === N - 1) { p.px = p.x; p.py = p.y; p.x += (drag.x - p.x) * .5; p.y += (drag.y - p.y) * .5; continue; }
+      const vx = (p.x - p.px) * DAMP, vy = (p.y - p.py) * DAMP;
+      p.px = p.x; p.py = p.y; p.x += vx; p.y += vy + G;
+    }
+    pts[0].x = ax; pts[0].y = ay;
+    for (let it = 0; it < 12; it++) {
+      for (let i = 0; i < N - 1; i++) {
+        const a = pts[i], b = pts[i + 1], dx = b.x - a.x, dy = b.y - a.y, d = Math.hypot(dx, dy) || 1, diff = (d - SEG) / d;
+        if (i === 0) { b.x -= dx * diff; b.y -= dy * diff; }
+        else if (drag && i + 1 === N - 1) { a.x += dx * diff; a.y += dy * diff; }
+        else { a.x += dx * diff * .5; a.y += dy * diff * .5; b.x -= dx * diff * .5; b.y -= dy * diff * .5; }
+      }
+      pts[0].x = ax; pts[0].y = ay;
+    }
+    const e = pts[N - 1], q = pts[N - 2];
+    const target = Math.atan2(e.x - q.x, e.y - q.y) * -1;
+    av = av * 0.86 + (target - angle) * 0.12; angle += av;
+    const vx = e.x - e.px;
+    card.style.transform = `translate(${e.x - 110}px, ${e.y - 8}px) rotate(${angle}rad) rotateY(${Math.max(-35, Math.min(35, vx * 2.2))}deg)`;
+    let d = `M ${pts[0].x} ${pts[0].y}`;
+    for (let i = 1; i < N - 1; i++) { const m = pts[i], n = pts[i + 1]; d += ` Q ${m.x} ${m.y} ${(m.x + n.x) / 2} ${(m.y + n.y) / 2}`; }
+    d += ` L ${e.x} ${e.y}`;
+    path.setAttribute("d", d);
+    requestAnimationFrame(step);
+  }
+  function pos(ev) { const r = root.getBoundingClientRect(); return { x: ev.clientX - r.left, y: ev.clientY - r.top + 8 }; }
+  card.addEventListener("pointerdown", (ev) => { drag = pos(ev); moved = 0; card.setPointerCapture(ev.pointerId); });
+  card.addEventListener("pointermove", (ev) => { if (!drag) return; const p = pos(ev); moved += Math.abs(p.x - drag.x) + Math.abs(p.y - drag.y); drag = p; });
+  card.addEventListener("pointerup", () => { if (moved < 6) card.classList.toggle("flip"); drag = null; });
+  requestAnimationFrame(step);
+})();
