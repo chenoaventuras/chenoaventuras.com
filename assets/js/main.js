@@ -889,7 +889,7 @@
   const TODO = { Canarias: "Todas las islas", "Islas Baleares": "Todas las islas", "Aragón": "Todo Aragón", "País Vasco": "Todo el País Vasco" };
   const box = document.querySelector("[data-esc]");
   if (!box || !window.fetch) return;
-  const [z, svg] = await Promise.all([fetch("/assets/data/zonas.json", { cache: "no-cache" }).then(r => r.json()), fetch("/assets/data/mapa-espana.svg?v=2").then(r => r.text())]);
+  const [z, svg] = await Promise.all([fetch("/assets/data/zonas.json", { cache: "no-cache" }).then(r => r.json()), fetch("/assets/data/mapa-espana.svg?v=3").then(r => r.text())]);
   box.querySelector("[data-map]").innerHTML = svg;
   const map = box.querySelector("svg.esmap"), cam = box.querySelector("[data-cam]"), screen = box.querySelector("[data-screen]"), stage = box.querySelector(".esc__stage");
   const zs = box.querySelector("[data-zona]"), ps = box.querySelector("[data-prov]");

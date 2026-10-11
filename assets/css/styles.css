@@ -2010,7 +2010,7 @@ p { margin: 0 0 1em; }
 .esc__screen svg.esmap { position: absolute; inset: 0; width: 100%; height: 100%; }
 .esmap path { fill: #d8d3c8; stroke: #fff; stroke-width: 1.2; vector-effect: non-scaling-stroke; transition: fill .5s, opacity .5s; cursor: pointer; }
 .esmap path:hover { fill: #c3bba9; }
-.esmap .esmap__can-box { fill: none; stroke: #6f9cc0; stroke-dasharray: 4 4; }
+.esmap .esmap__can-box { fill: #a9cfe8; stroke: #6f9cc0; stroke-dasharray: 4 4; }
 .esmap.has-sel path { opacity: .45; }
 .esmap.has-sel path.is-c { opacity: 1; fill: var(--olive-bright); }
 .esmap.has-sel path.is-p { opacity: 1; fill: var(--gold); }
