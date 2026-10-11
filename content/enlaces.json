@@ -741,5 +741,18 @@
   ],
   "pecio-naranjito-cabo-de-palos": [
     "Naranjito"
+  ],
+  "granada-que-ver": [
+    "Granada",
+    "Alhambra",
+    "Albaicín"
+  ],
+  "valencia-que-ver": [
+    "Ciudad de las Artes y las Ciencias",
+    "Albufera"
+  ],
+  "ubeda-baeza-que-ver": [
+    "Úbeda",
+    "Baeza"
   ]
 }
