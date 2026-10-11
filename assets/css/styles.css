@@ -430,6 +430,7 @@ p { margin: 0 0 1em; }
 
 .article__body {
   max-width: 68ch;
+  margin-inline: auto;
   font-size: 1.08rem;
   line-height: 1.75;
   color: var(--ink);
