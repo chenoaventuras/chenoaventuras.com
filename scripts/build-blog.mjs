@@ -498,7 +498,7 @@ function faqBox(p) {
   if (!p.faq.length) return "";
   const title = p.faqTitulo || `Dudas sobre ${p.lugar || p.title}`;
   return `
-<div class="guide__head" id="preguntas-frecuentes"><span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">🙋</span><span>Preguntas frecuentes</span></span><h2>${esc(title)}</h2></div>
+<div class="guide__head" id="preguntas-frecuentes"><span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">❓</span><span>Preguntas frecuentes</span></span><h2>${esc(title)}</h2></div>
 <div class="faq">${p.faq.map((f) => `<details><summary>${esc(f.q)}</summary><p>${marked.parseInline(f.a)}</p></details>`).join("")}</div>
 `;
 }
