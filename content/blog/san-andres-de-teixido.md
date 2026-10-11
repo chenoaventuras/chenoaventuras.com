@@ -1,7 +1,7 @@
 ---
 title: 'San Andrés de Teixido: vai de morto quen non foi de vivo'
 seoTitle: 'San Andrés de Teixido: leyenda, rituales y acantilados'
-date: 2026-10-11T08:00:00.000Z
+date: 2026-10-11T09:00:00.000Z
 lugar: 'San Andrés de Teixido'
 lat: 43.7128
 lng: -7.9993
@@ -11,7 +11,6 @@ tags:
   - Spots
   - Galicia
 wide: true
-draft: true
 faq:
   - q: "¿Qué significa «vai de morto quen non foi de vivo»?"
     a: "Que quien no vaya a San Andrés de Teixido en vida, irá después de muerto, reencarnado en un animal pequeño como una lagartija o un sapo."
@@ -40,10 +39,9 @@ Así que mejor ir ahora, que además el paisaje es de los más bestias de Españ
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-andres-de-teixido/santuario.webp" alt="Santuario de San Andrés de Teixido sobre el mar" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El santuario</h3><p>Una iglesia pequeña de piedra, en una ladera que cae al mar. Dentro, exvotos y cirios de quienes vienen a cumplir promesas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-andres-de-teixido/aldea.webp" alt="Aldea de San Andrés de Teixido" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La aldea</h3><p>Casas de piedra, cuatro puestos de recuerdos con sanandresiños y ramilletes de herba de namorar, y vistas al Atlántico.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-andres-de-teixido/fuente.webp" alt="Fuente de los tres caños en San Andrés de Teixido" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La fuente de los tres caños</h3><p>Bajando desde el santuario. La miga de pan, el deseo… y que flote.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-andres-de-teixido/herbeira.webp" alt="Acantilados de Vixía Herbeira" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los acantilados de Herbeira</h3><p>La Vixía Herbeira se levanta unos 600 metros sobre el mar: de los acantilados más altos de la Europa continental.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-andres-de-teixido/garita.webp" alt="Garita de Herbeira" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Garita de Herbeira</h3><p>Una antigua garita de vigilancia en lo alto de la sierra, con vistas a Teixido y a toda la costa. Imprescindible con buen tiempo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-andres-de-teixido/cedeira.webp" alt="Puerto de Cedeira" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Cedeira</h3><p>La villa marinera de la ría, con playa, puerto y percebes de los acantilados de la Capelada.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-andres-de-teixido/herbeira.webp" alt="Acantilados de Vixía Herbeira" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los acantilados de Herbeira</h3><p>La Vixía Herbeira se levanta unos 600 metros sobre el mar: de los acantilados más altos de la Europa continental.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-andres-de-teixido/garita.webp" alt="Garita de Herbeira" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Garita de Herbeira</h3><p>Una antigua garita de vigilancia en lo alto de la sierra, con vistas a Teixido y a toda la costa. Imprescindible con buen tiempo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/san-andres-de-teixido/cedeira.webp" alt="Puerto de Cedeira" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Cedeira</h3><p>La villa marinera de la ría, con playa, puerto y percebes de los acantilados de la Capelada.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a San Andrés de Teixido</h2></div>
@@ -55,4 +53,4 @@ Así que mejor ir ahora, que además el paisaje es de los más bestias de Españ
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ASanto-Andre-de-Teixido-IMG_0347-a.jpg" target="_blank" rel="noopener">Christof46</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3A2014._Igrexa_de_Santo_Andr%C3%A9_de_Teixido._Cedeira._Galiza._Tx10.jpg" target="_blank" rel="noopener">Luis Miguel Bugallo Sánchez (Lmbuga)</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3A2014._Santo_Andr%C3%A9_de_Teixido._Cedeira._Galiza._Tx02.jpg" target="_blank" rel="noopener">Luis Miguel Bugallo Sánchez (Lmbuga)</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AAcantilados_de_Vix%C3%ADa_Herbeira_-_panoramio_%281%29.jpg" target="_blank" rel="noopener">carrodeguas</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AGarita_de_Herbeira.jpg" target="_blank" rel="noopener">Onioram</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACedeiraPuerto_2014-09.jpg" target="_blank" rel="noopener">Mussklprozz</a> (CC BY-SA 4.0).</p>

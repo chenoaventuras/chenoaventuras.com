@@ -1,7 +1,7 @@
 ---
 title: 'Cueva de las Brujas de Zugarramurdi: leyenda y visita'
 seoTitle: 'Cueva de las Brujas de Zugarramurdi: qué ver y precios'
-date: 2026-10-11T08:00:00.000Z
+date: 2026-10-11T09:00:00.000Z
 lugar: 'Zugarramurdi'
 lat: 43.2696
 lng: -1.5426
@@ -11,7 +11,6 @@ tags:
   - Pueblos
   - Navarra
 wide: true
-draft: true
 faq:
   - q: "¿Qué es un akelarre?"
     a: "Viene del euskera aker (macho cabrío) y larre (prado). Era el nombre de las supuestas reuniones nocturnas de brujas con el diablo."
@@ -19,6 +18,8 @@ faq:
     a: "Varios vecinos de Zugarramurdi y la comarca fueron acusados de brujería y juzgados por la Inquisición en el auto de fe de Logroño de 1610. Algunos murieron en la hoguera y otros en prisión."
   - q: "¿Cuánto cuesta la entrada a la Cueva de las Brujas?"
     a: "La cueva y el Museo de las Brujas tienen entrada por separado, de unos 6,50 € cada una para adultos, con descuento si compras las dos. Conviene reservar online."
+  - q: "¿Qué es el Zikiro Jate de Zugarramurdi?"
+    a: "Es la comida popular que se celebra cada 18 de agosto, último día de las fiestas patronales (del 14 al 18 de agosto): unas 800 personas comen dentro de la Cueva de las Brujas cordero asado durante horas en estacas de avellano alrededor del fuego. Se celebra desde 1911 y las entradas se agotan en minutos."
   - q: "¿Qué ver cerca de Zugarramurdi?"
     a: "Las Cuevas de Urdax, a 4 km, y los pueblos del Valle de Baztán como Elizondo o Arizkun. También las cuevas de Sare, al otro lado de la frontera."
 ---
@@ -39,12 +40,15 @@ Hoy puedes recorrer la cueva donde supuestamente se celebraban los **akelarres**
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Zugarramurdi</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuevas-de-zugarramurdi/cueva.webp" alt="Interior de la Cueva de las Brujas de Zugarramurdi" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Cueva de las Brujas</h3><p>Un gran túnel natural excavado por la regata <em>Infernuko Erreka</em> («arroyo del infierno»). Se recorre por un sendero que sube y baja entre bóvedas de piedra.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuevas-de-zugarramurdi/akelarre.webp" alt="Prado junto a la cueva de Zugarramurdi" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El prado del akelarre</h3><p>La explanada junto a la cueva, donde la tradición sitúa las reuniones nocturnas. Cada 18 de agosto se celebra allí el <em>Zikiro Jate</em>, con carnero asado.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuevas-de-zugarramurdi/akelarre.webp" alt="Zugarramurdi visto desde la Cueva de las Brujas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El prado del akelarre</h3><p>La explanada junto a la cueva, donde la tradición sitúa las reuniones nocturnas. Muy cerca, dentro de la cueva, se celebra cada 18 de agosto el <em>Zikiro Jate</em>.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuevas-de-zugarramurdi/museo.webp" alt="Museo de las Brujas de Zugarramurdi" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Museo de las Brujas</h3><p>En un antiguo hospital del pueblo. Explica cómo se construyó el mito de la bruja y cómo fue el proceso de 1610. Imprescindible antes o después de la cueva.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuevas-de-zugarramurdi/pueblo.webp" alt="Caseríos blancos de Zugarramurdi" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El pueblo</h3><p>Caseríos blancos con contraventanas de colores, prados verdes y la iglesia de la Asunción. Un paseo corto y muy tranquilo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuevas-de-zugarramurdi/urdax.webp" alt="Cuevas de Urdax" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las Cuevas de Urdax</h3><p>A unos 4 km, en Urdazubi/Urdax: cuevas con estalactitas y estalagmitas que se visitan con guía. Combinan perfecto con Zugarramurdi.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuevas-de-zugarramurdi/baztan.webp" alt="Valle de Baztán" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Valle de Baztán</h3><p>Pueblos como Elizondo o Arizkun, caseríos blasonados y bosques de cuento a media hora. Aquí se ambienta la Trilogía del Baztán.</p></div></li>
 </ol>
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>El Zikiro Jate: una comida dentro de la cueva</h2></div>
+<p>Cada <strong>18 de agosto</strong>, último día de las fiestas patronales de Zugarramurdi (del 14 al 18 de agosto), la Cueva de las Brujas se convierte en el comedor más curioso de Navarra. Es el <strong>Zikiro Jate</strong>: unas <strong>800 personas</strong> comen dentro de la cueva cordero asado durante horas en estacas de avellano clavadas alrededor del fuego.</p><div class="guide__legend"><h3>🔥 Desde 1911</h3><p>La tradición se celebra desde <strong>1911</strong> y es tan popular que <strong>las entradas se agotan en minutos</strong>. Si quieres ir, está atento a la fecha de venta y no lo dejes para el último momento.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Zugarramurdi</h2></div>
 <div class="guide__howto"><p>Desde <strong>Pamplona</strong>, toma la N-121-A hacia Francia y la N-121-B por el Valle de Baztán hasta <strong>Urdax</strong>. Desde allí, una carretera corta sube a Zugarramurdi. Desde San Sebastián se llega en algo más de una hora.</p><p>Hay <strong>aparcamiento</strong> en la entrada del pueblo y junto a la cueva. La cueva tiene suelo irregular y puede resbalar: lleva calzado que agarre bien.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cueva%20de%20las%20Brujas%2C%20Zugarramurdi" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
@@ -57,4 +61,4 @@ Hoy puedes recorrer la cueva donde supuestamente se celebraban los **akelarres**
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Los precios y horarios de la cueva y del museo cambian según la temporada: consúltalos en su web oficial antes de ir.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Los precios y horarios de la cueva y del museo cambian según la temporada: consúltalos en su web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACuevas_de_Zugarramurdi_%283%29.jpg" target="_blank" rel="noopener">Alberto-g-rovi</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACuevas_de_Zugarramurdi_%287%29.jpg" target="_blank" rel="noopener">Alberto-g-rovi</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AZugarramurdi_-_vue.jpg" target="_blank" rel="noopener">A1AA1A</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMuseo_de_las_Brujas_%285%29.jpg" target="_blank" rel="noopener">Alberto-g-rovi</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AZugarramurdi_-_Maison.jpg" target="_blank" rel="noopener">A1AA1A</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACuevaIkaburuUrdax.jpg" target="_blank" rel="noopener">Javier martinlo</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3AValle_de_Baztan_%281%29.jpg" target="_blank" rel="noopener">Alberto-g-rovi</a> (CC BY 3.0).</p>

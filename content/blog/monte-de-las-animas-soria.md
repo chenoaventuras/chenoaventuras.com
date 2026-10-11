@@ -1,7 +1,7 @@
 ---
 title: 'El Monte de las Ánimas: la leyenda de Bécquer en Soria'
 seoTitle: 'Monte de las Ánimas (Soria): leyenda de Bécquer y ruta'
-date: 2026-10-15T08:00:00.000Z
+date: 2026-10-11T09:00:00.000Z
 lugar: 'Monte de las Ánimas'
 lat: 41.7667
 lng: -2.4558
@@ -11,7 +11,6 @@ tags:
   - Spots
   - Castilla y León
 wide: true
-draft: true
 faqTitulo: "Dudas sobre Soria"
 faq:
   - q: "¿Dónde está el Monte de las Ánimas?"
@@ -49,7 +48,6 @@ Y el monte existe: está al otro lado del Duero, y cada año la ciudad celebra *
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monte-de-las-animas-soria/san-polo.webp" alt="San Polo en Soria" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>San Polo</h3><p>Un edificio medieval a orillas del Duero que la tradición atribuye a los templarios, los caballeros de la leyenda de Bécquer.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monte-de-las-animas-soria/paseo.webp" alt="Paseo de San Saturio junto al Duero" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El paseo del Duero</h3><p>El camino junto al río que tanto paseaban Bécquer y Machado, entre chopos que en otoño se vuelven amarillos.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monte-de-las-animas-soria/san-saturio.webp" alt="Ermita de San Saturio en Soria" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La ermita de San Saturio</h3><p>Colgada en la roca sobre el río y construida sobre una cueva donde vivió el santo patrón de Soria.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monte-de-las-animas-soria/festival.webp" alt="Festival de las Ánimas en Soria" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Festival de las Ánimas</h3><p>Desde finales de octubre hasta el 2 de noviembre: lectura de la leyenda, desfiles, teatro y la ciudad entregada a sus ánimas.</p></div></li>
 </ol>
 
 
@@ -64,4 +62,4 @@ Y el monte existe: está al otro lado del Duero, y cada año la ciudad celebra *
 
 <div class="guide__cta"><h2>¿Te atreves con más lugares de miedo?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta el programa del Festival de las Ánimas y los horarios de San Juan de Duero en la web del Ayuntamiento de Soria.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta el programa del Festival de las Ánimas y los horarios de San Juan de Duero en la web del Ayuntamiento de Soria. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AErmita_de_San_Saturio%2C_Soria%2C_Espa%C3%B1a%2C_2017-05-26%2C_DD_34.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AEl_monte_de_las_%C3%A1nimas_y_San_Juan_de_Duero.jpg" target="_blank" rel="noopener">José Luis Filpo Cabana</a> (CC BY 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AClaustro_de_San_Juan_de_Duero._Arcos_t%C3%BAmidos.jpg" target="_blank" rel="noopener">José Luis Filpo Cabana</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASoria_-_Antiguo_Monasterio_de_San_Polo_2.JPG" target="_blank" rel="noopener">Zarateman</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3APaseo_del_Duero_a_la_sombra_-_panoramio.jpg" target="_blank" rel="noopener">Wamba Wambez</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AErmita_de_San_Saturio%2C_Soria%2C_Espa%C3%B1a%2C_2017-05-26%2C_DD_32.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0).</p>

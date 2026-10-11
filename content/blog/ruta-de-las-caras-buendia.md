@@ -1,15 +1,16 @@
 ---
 title: 'Ruta de las Caras: los rostros tallados en la roca de Cuenca'
 seoTitle: 'Ruta de las Caras (Buendía, Cuenca): qué ver y cómo llegar'
-date: 2026-10-20T08:00:00.000Z
+date: 2026-10-11T09:00:00.000Z
 lugar: 'Ruta de las Caras'
+lat: 40.3818
+lng: -2.7612
 excerpt: 'La Ruta de las Caras de Buendía (Cuenca): rostros gigantes tallados en la roca en mitad de un pinar junto al embalse. Cómo llegar, qué ver y su aire de misterio.'
 cover: /assets/img/blog/ruta-de-las-caras-buendia/portada.webp
 tags:
   - Spots
   - Castilla-La Mancha
 wide: true
-draft: true
 faqTitulo: "Dudas sobre la Ruta de las Caras"
 faq:
   - q: "¿Quién hizo la Ruta de las Caras?"
@@ -37,8 +38,8 @@ La **Ruta de las Caras** es uno de los paseos más curiosos de Cuenca, con un ai
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la Ruta de las Caras</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-las-caras-buendia/virgen.webp" alt="Virgen tallada en la roca en la Ruta de las Caras" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Virgen</h3><p>Una de las caras más grandes y conocidas, tallada en una gran roca.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-las-caras-buendia/beethoven.webp" alt="Cara de Beethoven en la Ruta de las Caras" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Beethoven</h3><p>El músico, tallado en la piedra en mitad del pinar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-las-caras-buendia/krishna.webp" alt="Escultura de Krishna en la Ruta de las Caras" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Krishna</h3><p>Una de las esculturas más grandes del camino: unos 4 metros tallados en roca arenisca.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-las-caras-buendia/dama-del-pantano.webp" alt="Escultura de la Dama del Pantano en la Ruta de las Caras" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Dama del Pantano</h3><p>Un rostro de mujer esculpido en la roca, asomado al embalse.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-las-caras-buendia/chaman.webp" alt="Cara de chamán tallada en la roca en Buendía" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los rostros místicos</h3><p>Chamanes, deidades y rostros de culturas lejanas repartidos por el camino.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-las-caras-buendia/pinar.webp" alt="Pinar de la Ruta de las Caras" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El pinar</h3><p>Un sendero fácil entre pinos y rocas, perfecto para ir buscando caras.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-las-caras-buendia/embalse.webp" alt="Embalse de Buendía" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El embalse de Buendía</h3><p>El agua aparece entre los árboles. Al atardecer, con la luz rasante, es precioso.</p></div></li>
@@ -53,4 +54,4 @@ La **Ruta de las Caras** es uno de los paseos más curiosos de Cuenca, con un ai
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta el estado del aparcamiento y del acceso con el Ayuntamiento de Buendía.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta el estado del aparcamiento y del acceso con el Ayuntamiento de Buendía. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ARuta_de_las_Caras%2C_Cuenca%2C_Espa%C3%B1a%2C_2017-01-03%2C_DD_47-49_HDR.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AKrishna_%2C_noche_-_Ruta_de_las_Caras.jpg" target="_blank" rel="noopener">Asoka</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ADama_del_Pantano_%2C_noche_-_Ruta_de_las_Caras.jpg" target="_blank" rel="noopener">Asoka</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AEscultura_Maitreya_-_RUTA_DE_LAS_CARAS.jpg" target="_blank" rel="noopener">Asoka</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ARuta_de_las_Caras%2C_Cuenca%2C_Espa%C3%B1a%2C_2017-01-03%2C_DD_64.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AEmbalse_de_Buend%C3%ADa_2.JPG" target="_blank" rel="noopener">Aitor Fdez-Ceballos</a> (CC BY-SA 4.0).</p>

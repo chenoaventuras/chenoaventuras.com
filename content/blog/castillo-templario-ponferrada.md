@@ -1,7 +1,7 @@
 ---
 title: 'Castillo de los Templarios de Ponferrada: historia y visita'
 seoTitle: 'Castillo Templario de Ponferrada: precio, horario y leyenda'
-date: 2026-10-11T08:00:00.000Z
+date: 2026-10-11T09:00:00.000Z
 lugar: 'Ponferrada'
 lat: 42.5432
 lng: -6.5934
@@ -11,7 +11,6 @@ tags:
   - Spots
   - Castilla y León
 wide: true
-draft: true
 faq:
   - q: "¿Cuánto cuesta entrar al Castillo de Ponferrada?"
     a: "La entrada general cuesta unos 6 €, con tarifa reducida para jóvenes, estudiantes y mayores. Consulta los precios actualizados en la web municipal."
@@ -43,9 +42,8 @@ Además, Ponferrada es la puerta de entrada a **Las Médulas**, otro de los pais
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-templario-ponferrada/castillo.webp" alt="Castillo de los Templarios de Ponferrada" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El castillo</h3><p>La fachada con el puente levadizo y las torres. Es la foto más famosa de El Bierzo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-templario-ponferrada/murallas.webp" alt="Murallas del castillo de Ponferrada" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las murallas y torres</h3><p>Se puede recorrer el adarve y subir a varias torres con vistas a la ciudad y a las montañas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-templario-ponferrada/biblioteca.webp" alt="Biblioteca Templaria del castillo de Ponferrada" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Biblioteca Templaria</h3><p>Dentro del castillo, con facsímiles de códices y libros antiguos como el Libro de Horas o el Beato.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-templario-ponferrada/encina.webp" alt="Basílica de la Virgen de la Encina en Ponferrada" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Basílica de la Encina</h3><p>A pocos pasos del castillo, en el casco antiguo. Aquí está la Virgen que, según la leyenda, encontraron los templarios.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-templario-ponferrada/medulas.webp" alt="Paisaje de Las Médulas" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las Médulas</h3><p>A unos 20 km: montañas rojas excavadas por los romanos para sacar oro. Patrimonio de la Humanidad e imprescindible.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-templario-ponferrada/encina.webp" alt="Basílica de la Virgen de la Encina en Ponferrada" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Basílica de la Encina</h3><p>A pocos pasos del castillo, en el casco antiguo. Aquí está la Virgen que, según la leyenda, encontraron los templarios.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-templario-ponferrada/medulas.webp" alt="Paisaje de Las Médulas" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las Médulas</h3><p>A unos 20 km: montañas rojas excavadas por los romanos para sacar oro. Patrimonio de la Humanidad e imprescindible.</p></div></li>
 </ol>
 
 
@@ -62,4 +60,4 @@ Además, Ponferrada es la puerta de entrada a **Las Médulas**, otro de los pais
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios del castillo en la web del Ayuntamiento de Ponferrada antes de ir.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios y precios del castillo en la web del Ayuntamiento de Ponferrada antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_los_Templarios_de_Ponferrada.jpg" target="_blank" rel="noopener">Fogar Mozárabe</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_los_Templarios_%2849520612783%29.jpg" target="_blank" rel="noopener">Gabriel Fdez.</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_los_Templarios_%2851231073433%29.jpg" target="_blank" rel="noopener">Gabriel Fdez.</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Encina_%28Ponferrada%29._Campanario.jpg" target="_blank" rel="noopener">José Luis Filpo Cabana</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3APanor%C3%A1mica_de_Las_M%C3%A9dulas.jpg" target="_blank" rel="noopener">Rafael Ibáñez Fernández</a> (CC BY-SA 3.0).</p>

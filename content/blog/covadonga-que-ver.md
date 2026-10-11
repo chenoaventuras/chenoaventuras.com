@@ -1,7 +1,7 @@
 ---
 title: 'Qué ver en Covadonga: la Santa Cueva, la basílica y los Lagos'
 seoTitle: 'Qué ver en Covadonga: Santa Cueva, basílica y Lagos'
-date: 2026-10-11T08:00:00.000Z
+date: 2026-10-11T09:00:00.000Z
 lugar: 'Covadonga'
 lat: 43.3083
 lng: -5.0561
@@ -11,7 +11,6 @@ tags:
   - Spots
   - Asturias
 wide: true
-draft: true
 faq:
   - q: "¿Se puede subir en coche a los Lagos de Covadonga?"
     a: "Depende de la fecha. En temporada alta, Semana Santa y puentes el acceso en coche particular está restringido y se sube en autobús. Fuera de esas fechas, sí se puede subir en coche."
@@ -43,10 +42,9 @@ Y en parte lo son: aquí empieza, según la tradición, la historia de España t
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/santa-cueva.webp" alt="Santa Cueva de Covadonga sobre la cascada" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Santa Cueva</h3><p>La capilla con la Virgen de Covadonga, <strong>la Santina</strong>, y el sepulcro de Pelayo, encajada en la roca. Debajo cae la cascada a un pozo lleno de monedas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/basilica.webp" alt="Basílica de Covadonga de piedra rosa" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La basílica</h3><p>Neorrománica, de finales del siglo XIX y construida con caliza rosada. Con las montañas detrás, es la foto más famosa de Asturias.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/fuente.webp" alt="Fuente de los siete caños en Covadonga" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La fuente de los siete caños</h3><p>Junto al pozo de la cascada, al pie de la cueva. Bebe si te atreves con la leyenda 😉</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/enol.webp" alt="Lago Enol en los Lagos de Covadonga" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El lago Enol</h3><p>El primero de los Lagos, a unos 1.000 metros. Vacas, montañas y, si tienes suerte, un mar de nubes por debajo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/ercina.webp" alt="Lago Ercina con los Picos de Europa al fondo" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El lago Ercina</h3><p>Muy cerca del Enol, con los Picos de Europa de fondo. Una ruta circular corta une los dos lagos y pasa por las antiguas minas de Buferrera.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/mirador.webp" alt="Vistas desde el Mirador de la Reina" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El Mirador de la Reina</h3><p>En la carretera de subida a los Lagos. Vistas hacia la costa y, muchos días, por encima de las nubes.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/enol.webp" alt="Lago Enol en los Lagos de Covadonga" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El lago Enol</h3><p>El primero de los Lagos, a unos 1.000 metros. Vacas, montañas y, si tienes suerte, un mar de nubes por debajo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/ercina.webp" alt="Lago Ercina con los Picos de Europa al fondo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El lago Ercina</h3><p>Muy cerca del Enol, con los Picos de Europa de fondo. Una ruta circular corta une los dos lagos y pasa por las antiguas minas de Buferrera.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/covadonga-que-ver/mirador.webp" alt="Vistas desde el Mirador de la Reina" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El Mirador de la Reina</h3><p>En la carretera de subida a los Lagos. Vistas hacia la costa y, muchos días, por encima de las nubes.</p></div></li>
 </ol>
 
 
@@ -61,4 +59,4 @@ Y en parte lo son: aquí empieza, según la tradición, la historia de España t
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Las fechas de restricción de acceso a los Lagos y los horarios del autobús cambian cada año: consúltalos en Turismo Asturias.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Las fechas de restricción de acceso a los Lagos y los horarios del autobús cambian cada año: consúltalos en Turismo Asturias. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ABas%C3%ADlica_de_Santa_Mar%C3%ADa_la_Real_de_Covadonga_-_Covadonga%2C_Cangas_de_On%C3%ADs%2C_Spain_-_July_23%2C_2024.jpg" target="_blank" rel="noopener">Giorgio Galeotti</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACovadonga_-_Cueva_santa_y_cascada.jpg" target="_blank" rel="noopener">Ecelan</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACovadonga%2C_basilica_03.jpg" target="_blank" rel="noopener">Luis Fermín TURIEL PEREDO</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACovadonga_-_Lago_Enol_11.jpg" target="_blank" rel="noopener">Zarateman</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ALago_Ercina_2015.jpg" target="_blank" rel="noopener">Himarerme</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AVistas_lagos_de_covadonga_15.jpg" target="_blank" rel="noopener">Luis Parra Rubio</a> (CC BY-SA 4.0).</p>
