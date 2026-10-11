@@ -2137,3 +2137,8 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 }
 @keyframes igLuz { to { --ig-giro: 360deg; } }
 @media (prefers-reduced-motion: reduce) { .nav__social a[aria-label="Instagram"]::before { animation: none; } }
+/* Barra de arriba: mini zoom al pasar el ratón por los nombres. */
+@media (hover: hover) {
+  .nav__links li:not(.nav__social) a { display: inline-block; transition: opacity .2s, transform .25s cubic-bezier(.34,1.56,.64,1); }
+  .nav__links li:not(.nav__social) a:hover { transform: scale(1.12); }
+}
