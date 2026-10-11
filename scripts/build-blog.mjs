@@ -161,7 +161,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261011d" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261011e" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -376,7 +376,7 @@ function nearbyBox(list, current) {
   const name = (q) => (q.lugar && q.lugar !== current.lugar && lugares.filter((l) => l === q.lugar).length === 1 ? q.lugar : q.title.split(":")[0]);
   const dist = (km) => (km < 1 ? "al lado" : `a ${km < 10 ? km.toFixed(1).replace(".", ",") : Math.round(km)} km`);
   return `<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
-<ul class="nearby">${list
+<ul class="nearby" style="--n:${list.length}">${list
     .map(({ q, km }) => `<li><a href="/blog/${q.slug}.html"><img src="${esc(thumbOf(q.cover))}" alt="${esc(name(q))}" loading="lazy" decoding="async" /><span>${esc(name(q))}<small>${dist(km)}</small></span></a></li>`)
     .join("")}</ul>
 `;

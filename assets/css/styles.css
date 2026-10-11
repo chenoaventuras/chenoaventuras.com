@@ -582,6 +582,8 @@ p { margin: 0 0 1em; }
 .article__body .gallery figcaption { padding: 10px 14px 12px; font-size: .86rem; line-height: 1.45; color: var(--ink-soft); }
 .article__body--wide > .guide__legend { margin-top: 24px; }
 .guide__howto { max-width: 68ch; margin: 0 auto; background: var(--white); border-radius: var(--radius); padding: 20px 24px; box-shadow: var(--shadow-sm); }
+/* que los recuadros no se peguen a lo que tienen encima (tarjetas, otro recuadro, texto) */
+.article__body :is(.guide__grid, .guide__tips, .guide__legend, .guide__howto, p, ul, ol, .faq) + :is(.guide__legend, .guide__howto) { margin-top: 24px; }
 .article__body .guide__howto p { margin: 0 0 .8em; }
 .article__body .faq { max-width: 68ch; margin: 0 auto 32px; display: grid; gap: 10px; }
 .article__body .faq details { background: var(--white); border-radius: 12px; box-shadow: var(--shadow-sm); padding: 0 18px; }
@@ -590,7 +592,7 @@ p { margin: 0 0 1em; }
 .article__body .faq summary::after { content: "+"; position: absolute; right: 0; top: 10px; font-size: 1.4rem; color: var(--gold-dark); }
 .article__body .faq details[open] summary::after { content: "–"; }
 .article__body .faq details p { margin: 0 0 14px; color: var(--ink-soft); font-size: .98rem; }
-.article__body .nearby { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; }
+.article__body .nearby { --n: 3; list-style: none; padding: 0; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 14px; max-width: calc(var(--n) * 300px + (var(--n) - 1) * 14px); }
 .article__body .nearby li { margin: 0; }
 .article__body .nearby a { display: block; position: relative; border-radius: var(--radius); overflow: hidden; aspect-ratio: 4 / 3; text-decoration: none; box-shadow: var(--shadow-sm); }
 .article__body .nearby img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; margin: 0; border-radius: 0; box-shadow: none; transition: transform .4s ease; }

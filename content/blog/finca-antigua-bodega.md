@@ -6,7 +6,7 @@ lugar: 'Finca Antigua'
 lat: 39.6058
 lng: -2.9049
 excerpt: 'Visita a la bodega Finca Antigua en Los Hinojosos (Cuenca) con @conbuenvino: cata de viura, crianza y moscatel, paseo por los viñedos y cómo reservar.'
-cover: /assets/img/blog/finca-antigua-bodega/portada.webp
+cover: /assets/img/blog/finca-antigua-bodega/depositos.webp
 tags:
   - Actividades
   - Castilla-La Mancha
