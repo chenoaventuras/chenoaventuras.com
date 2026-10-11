@@ -1024,9 +1024,12 @@
       zoomBox(a - ex, b - ey, cc + ex, d + ey);
     } else zoomMap(sel);
   }
-  zs.addEventListener("change", () => { fillProv(); paint(); });
-  ps.addEventListener("change", paint);
-  if (ts) ts.addEventListener("change", paint);
+  // Cada vez que eliges algo, Cheno teclea.
+  const mano = box.querySelector("[data-mano]");
+  const teclear = () => { if (!mano) return; mano.classList.remove("tecleo"); void mano.offsetWidth; mano.classList.add("tecleo"); };
+  zs.addEventListener("change", () => { teclear(); fillProv(); paint(); });
+  ps.addEventListener("change", () => { teclear(); paint(); });
+  if (ts) ts.addEventListener("change", () => { teclear(); paint(); });
   map.addEventListener("click", (e) => {
     const el = e.target.closest("path[data-c]"); if (!el) return;
     const zona = z.zonas.find((x) => x.v === el.dataset.c); if (!zona) return;
@@ -1041,6 +1044,7 @@
   go.addEventListener("click", (ev) => {
     if (ev.metaKey || ev.ctrlKey || ev.shiftKey) return;
     ev.preventDefault();
+    teclear();
     const href = go.href;
     if (!zs.value) { box.classList.add("zoom"); camera(true); }
     const r = screen.getBoundingClientRect();
