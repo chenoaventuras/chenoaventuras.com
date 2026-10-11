@@ -1989,7 +1989,8 @@ p { margin: 0 0 1em; }
 .esc .title { color: #fff; }
 .esc .title .accent { color: var(--gold-soft); }
 .esc .eyebrow { color: var(--gold-soft); }
-.esc .btn { background: var(--gold); border-color: var(--gold); color: var(--ink); }
+.esc .btn, .hero .btn { background: var(--gold); border-color: var(--gold); color: var(--ink); }
+.hero .btn:hover { background: var(--gold-bright); border-color: var(--gold-bright); color: var(--ink); }
 .esc__stage { position: relative; min-height: 420px; align-self: stretch; }
 .esc__view { position: absolute; inset: 0 0 -2px; overflow: hidden; }
 /* La mano de Cheno: teclea cada vez que eliges algo en el buscador. */
