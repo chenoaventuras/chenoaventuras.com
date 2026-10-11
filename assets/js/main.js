@@ -1222,13 +1222,3 @@
   } else { visible = true; raf = requestAnimationFrame(bucle); }
 })()
 ;
-
-/* ---------- Barra de arriba: el brillo de los botones de cristal sigue al ratón ---------- */
-document.querySelectorAll(".nav__links li:not(.nav__social) a").forEach(function (a) {
-  a.addEventListener("pointermove", function (e) {
-    var r = a.getBoundingClientRect();
-    a.style.setProperty("--mx", ((e.clientX - r.left) / r.width * 100).toFixed(1) + "%");
-    a.style.setProperty("--my", ((e.clientY - r.top) / r.height * 100).toFixed(1) + "%");
-  });
-});
-
