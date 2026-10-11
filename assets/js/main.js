@@ -9,6 +9,14 @@
 (function () {
   "use strict";
 
+  // Llegada desde el buscador de escapadas: la página aparece fundiéndose.
+  try {
+    if (sessionStorage.getItem("chenoFade")) {
+      sessionStorage.removeItem("chenoFade");
+      document.documentElement.classList.add("cheno-fade");
+    }
+  } catch (e) {}
+
   document.documentElement.classList.add("js");
 
   /* ---------- Menú móvil ---------- */

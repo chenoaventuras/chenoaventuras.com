@@ -1992,3 +1992,8 @@ p { margin: 0 0 1em; }
 @media (max-width: 760px) { .escapada__box { grid-template-columns: 1fr; } .escapada__form { grid-template-columns: 1fr; } }
 .escapada__box .title .accent { color: var(--gold-soft); }
 .escapada__field select:disabled { opacity: .6; }
+
+/* Llegada desde el buscador de escapadas (la marca main.js). */
+html.cheno-fade { background: var(--paper); }
+html.cheno-fade body { animation: chenoFade .7s ease both; }
+@keyframes chenoFade { from { opacity: 0; } to { opacity: 1; } }

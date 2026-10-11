@@ -863,6 +863,8 @@ const ISLAS = {
 };
 const ISLAS_ORDEN = { Canarias: ["Lanzarote", "La Graciosa", "Fuerteventura", "Gran Canaria", "Tenerife", "La Gomera", "La Palma", "El Hierro"], "Islas Baleares": ["Mallorca", "Menorca", "Ibiza", "Formentera"] };
 const REGION_LABEL = { Canarias: "Islas Canarias" };
+// Comunidades y ciudades autónomas de España (lo demás es un destino de fuera).
+const ESPANA = new Set(["Andalucía", "Aragón", "Asturias", "Canarias", "Cantabria", "Castilla y León", "Castilla-La Mancha", "Cataluña", "Ceuta", "Comunidad de Madrid", "Comunidad Valenciana", "Extremadura", "Galicia", "Islas Baleares", "La Rioja", "Melilla", "Navarra", "País Vasco", "Región de Murcia"]);
 function islaOf(region, la, ln) {
   const list = ISLAS[region];
   if (!list || la === null || ln === null) return "";
@@ -1116,6 +1118,13 @@ function renderSitemap(posts, destinos = []) {
 
 /* ---------- build ---------- */
 const posts = readPosts();
+// Posts fuera de España sin etiqueta de zona (p. ej. Marruecos): se les pone su país
+// para que salgan en los filtros del blog y en el buscador de escapadas.
+for (const p of posts) {
+  if (p.lat === null || p.tags.includes("Descuentos") || p.tags.some((t) => !TAG_TYPES.includes(t))) continue;
+  const r = regionOf(p);
+  if (r === "Marruecos") p.tags.push(r);
+}
 const destinos = readDestinos(posts);
 const destinoOf = (p) => destinos.find((d) => d.slug === p.destino) || null;
 
@@ -1153,7 +1162,9 @@ mkdirSync(join(ROOT, "assets", "data"), { recursive: true });
       const provs = [...new Set(ps.map(provOf).filter(Boolean))]
         .map((v) => ({ v, n: ps.filter((p) => provOf(p) === v).length }))
         .sort((a, b) => (ISLAS_ORDEN[t] ? ISLAS_ORDEN[t].indexOf(a.v) - ISLAS_ORDEN[t].indexOf(b.v) : a.v.localeCompare(b.v, "es")));
-      return { v: t, l: REGION_LABEL[t] || t, n: ps.length, provs };
+      const fuera = !ESPANA.has(t) && ps.filter((p) => p.lat !== null);
+      const ext = fuera && fuera.length ? { lat: +(fuera.reduce((a, p) => a + p.lat, 0) / fuera.length).toFixed(3), lng: +(fuera.reduce((a, p) => a + p.lng, 0) / fuera.length).toFixed(3) } : undefined;
+      return { v: t, l: REGION_LABEL[t] || t, n: ps.length, provs: ext ? [] : provs, ext };
     })
     .sort((a, b) => a.l.localeCompare(b.l, "es"));
   const tipos = TAG_TYPES.filter((t) => t !== "Descuentos").map((t) => ({ v: t, n: count(t) })).filter((x) => x.n);

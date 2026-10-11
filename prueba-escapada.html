@@ -24,10 +24,11 @@
   .esc .title .accent { color: var(--gold-soft); }
   .esc .eyebrow { color: var(--gold-soft); }
   .esc .btn { background: var(--gold); border-color: var(--gold); color: var(--ink); }
-  .esc__stage { position: relative; overflow: hidden; min-height: 420px; }
+  .esc__stage { position: relative; min-height: 420px; }
+  .esc__view { position: absolute; inset: 0; overflow: hidden; }
   .esc__cam { position: absolute; left: 50%; top: 50%; width: 400px; height: 400px; transform-origin: 0 0; transition: transform 1.3s cubic-bezier(.65,0,.25,1); }
   .esc__cam img { position: absolute; inset: 0; width: 100%; height: 100%; }
-  .esc__screen { position: absolute; left: 44.5%; top: 15.6%; width: 37.1%; height: 23%; background: #fbfaf7; overflow: hidden; }
+  .esc__screen { position: absolute; left: 44.5%; top: 15.6%; width: 37.1%; height: 24.4%; background: #fbfaf7; overflow: hidden; }
   .esc__screen svg.esmap { position: absolute; inset: 0; width: 100%; height: 100%; }
   .esmap path { fill: #d8d3c8; stroke: #fff; stroke-width: 1.2; vector-effect: non-scaling-stroke; transition: fill .5s, opacity .5s; cursor: pointer; }
   .esmap path:hover { fill: #c3bba9; }
@@ -35,7 +36,8 @@
   .esmap.has-sel path { opacity: .45; }
   .esmap.has-sel path.is-c { opacity: 1; fill: var(--olive-bright); }
   .esmap.has-sel path.is-p { opacity: 1; fill: var(--gold); }
-  .esmap .esmap__can-box { opacity: 1 !important; }
+  .esmap .esmap__can-box { opacity: 1 !important; transition: opacity .4s; }
+  .esmap.ext .esmap__can-box { opacity: 0 !important; }
   .esc__tag { position: absolute; left: 16px; bottom: 14px; z-index: 3; font: 700 13px var(--font-head); background: var(--ink); color: #fff; padding: 6px 12px; border-radius: 99px; opacity: 0; transition: opacity .4s .9s; }
   .esc__tag.on { opacity: 1; }
   .esc__back { position: absolute; top: 14px; right: 14px; z-index: 3; font: 600 12px var(--font-head); border: 1px solid var(--line); background: #fff; border-radius: 99px; padding: 6px 12px; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity .4s; }
@@ -70,7 +72,21 @@
   .lan__brand { font: 900 28px/1 var(--font-display); }
   .lan__brand small { display: block; font: 600 10px var(--font-head); letter-spacing: .3em; margin-top: 6px; color: var(--gold-soft); }
 
-  @media (max-width: 860px) { .esc { grid-template-columns: 1fr; } .esc__stage { min-height: 360px; } }
+  @media (max-width: 860px) {
+    .esc { grid-template-columns: 1fr; }
+    .esc__form { padding-bottom: 0; }
+    .esc__stage { min-height: 400px; }
+    .dibujos { top: -52px; }
+  }
+  /* Avión hacia destinos de fuera de España */
+  .esmap .ruta { fill: none; stroke: var(--gold-dark); stroke-width: .8; stroke-dasharray: 3 3; vector-effect: non-scaling-stroke; stroke-linecap: round; }
+  .esmap .avion { fill: var(--teal-deep); stroke: none; }
+  .esmap.has-sel path.ruta, .esmap.has-sel path.avion { opacity: 1; }
+  .esmap .destino circle { fill: var(--gold); stroke: #fff; stroke-width: .6; vector-effect: non-scaling-stroke; }
+  .esmap .destino text { font: 700 26px var(--font-head); fill: var(--ink); paint-order: stroke; stroke: #fbfaf7; stroke-width: 6px; }
+  /* Transición al pulsar «Ver planes» */
+  .esc-veil { position: fixed; inset: 0; background: var(--paper); opacity: 0; pointer-events: none; z-index: 999; transition: opacity .45s ease; }
+  .esc-veil.on { opacity: 1; }
 </style>
 </head>
 <body>
@@ -98,10 +114,10 @@
 <img src="assets/img/blog/islas-cies/portada.webp" alt="" data-name="Islas Cíes" loading="lazy" decoding="async" />
 </div>
         <span class="dibujos__name" data-dib-name></span>
-        <div class="esc__cam" data-cam>
+        <div class="esc__view"><div class="esc__cam" data-cam>
           <img src="assets/img/escapada-escritorio.png" alt="Cheno en su escritorio planificando una escapada" width="1000" height="1000" />
           <div class="esc__screen" data-screen><div data-map></div></div>
-        </div>
+        </div></div>
         <span class="esc__tag" data-tag></span>
         <button class="esc__back" type="button" data-back>← Toda España</button>
       </div>
@@ -176,6 +192,7 @@
   let vb = FULL(), anim = 0;
   map.setAttribute("viewBox", vb.join(" "));
   const ease = (t) => t < .5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+  function zoomBox(x0, y0, x1, y1) { animarVB(fit(x0, y0, x1, y1, 1)); }
   function zoomMap(paths) {
     let to = FULL();
     if (paths.length) {
@@ -184,6 +201,9 @@
       const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2, hw = Math.max(x1 - x0, 90) / 2, hh = Math.max(y1 - y0, 72) / 2;
       to = fit(cx - hw, cy - hh, cx + hw, cy + hh, 1.6);
     }
+    animarVB(to);
+  }
+  function animarVB(to) {
     const from = vb.slice(), t0 = performance.now(), id = ++anim;
     (function frame(now) {
       if (id !== anim) return;
@@ -192,6 +212,53 @@
       map.setAttribute("viewBox", vb.map((v) => v.toFixed(1)).join(" "));
       if (t < 1) requestAnimationFrame(frame);
     })(t0);
+  }
+  // Proyección aproximada (lat/lng → mapa) guardada en el SVG.
+  const PX = map.dataset.px.split(",").map(Number), PY = map.dataset.py.split(",").map(Number);
+  const proj = (la, ln) => { const f = [1, ln, la, ln * ln, la * la, ln * la]; return [f.reduce((a, v, i) => a + v * PX[i], 0), f.reduce((a, v, i) => a + v * PY[i], 0)]; };
+  const NS = "http://www.w3.org/2000/svg";
+  let vuelo = null;
+  function volar(zona) {
+    map.querySelectorAll(".ruta,.avion,.destino").forEach((n) => n.remove());
+    cancelAnimationFrame(vuelo);
+    if (!zona || !zona.ext) return null;
+    const [x0, y0] = proj(40.42, -3.7); // Madrid
+    let [x1, y1] = proj(zona.ext.lat, zona.ext.lng);
+    const lejos = zona.ext.lat < 20 || zona.ext.lat > 50 || zona.ext.lng < -25 || zona.ext.lng > 20;
+    if (lejos) { // muy lejos: el avión sale por el borde en esa dirección
+      const ang = Math.atan2(-(zona.ext.lat - 40.42), zona.ext.lng + 3.7);
+      x1 = x0 + Math.cos(ang) * 900; y1 = y0 + Math.sin(ang) * 900;
+    }
+    const mx = (x0 + x1) / 2, my = (y0 + y1) / 2, len = Math.hypot(x1 - x0, y1 - y0);
+    const cx = mx + (y1 - y0) * 0.25, cy = my - (x1 - x0) * 0.25 - len * 0.1;
+    const ruta = document.createElementNS(NS, "path");
+    ruta.setAttribute("class", "ruta");
+    map.appendChild(ruta);
+    // Punto y tramo de la curva hasta t (de Casteljau), para que la estela vaya apareciendo tras el avión.
+    const B = (t) => [(1 - t) * (1 - t) * x0 + 2 * (1 - t) * t * cx + t * t * x1, (1 - t) * (1 - t) * y0 + 2 * (1 - t) * t * cy + t * t * y1];
+    const tramo = (t) => { const qx = x0 + (cx - x0) * t, qy = y0 + (cy - y0) * t, [ex, ey] = B(t); return `M${x0} ${y0} Q${qx} ${qy} ${ex} ${ey}`; };
+    const avion = document.createElementNS(NS, "path");
+    avion.setAttribute("class", "avion");
+    avion.setAttribute("d", "M14 0 L4 -2 L-2 -10 L-5 -10 L-1 -2 L-8 -1.5 L-11 -5 L-13 -5 L-11 0 L-13 5 L-11 5 L-8 1.5 L-1 2 L-5 10 L-2 10 L4 2 Z");
+    map.appendChild(avion);
+    const k = Math.max(len, 300) / 150;
+    let dest = null;
+    if (!lejos) {
+      dest = document.createElementNS(NS, "g"); dest.setAttribute("class", "destino"); dest.style.opacity = 0;
+      dest.innerHTML = `<circle cx="${x1}" cy="${y1}" r="9"/><text x="${x1 + 14}" y="${y1 + 8}">${zona.l || zona.v}</text>`;
+      map.appendChild(dest);
+    }
+    const t0 = performance.now() + 900, D = 1800;
+    (function frame(now) {
+      const t = Math.max(0, Math.min(1, (now - t0) / D)), e = ease(t);
+      ruta.setAttribute("d", tramo(e));
+      const [px, py] = B(e), [qx, qy] = B(Math.min(1, e + .01));
+      const a = Math.atan2(qy - py, qx - px) * 180 / Math.PI;
+      avion.setAttribute("transform", `translate(${px} ${py}) rotate(${a}) scale(${k})`);
+      if (t >= 1 && dest) dest.style.transition = "opacity .5s", dest.style.opacity = 1;
+      if (t < 1) vuelo = requestAnimationFrame(frame);
+    })(performance.now());
+    return lejos ? [x0, y0, x0, y0] : [Math.min(x0, x1), Math.min(y0, y1), Math.max(x0, x1), Math.max(y0, y1)];
   }
   function paint() {
     const c = zs.value, p = ps.value;
@@ -210,7 +277,13 @@
     const qs = new URLSearchParams(); if (c) qs.set("comunidad", c); if (p) qs.set("provincia", p);
     go.href = "/blog" + (qs.toString() ? "?" + qs : "");
     box.classList.toggle("zoom", !!c);
-    camera(!!c); zoomMap(sel);
+    camera(!!c);
+    map.classList.toggle("ext", !!(zona && zona.ext));
+    const caja = volar(zona);
+    if (caja) { // destino de fuera: encuadre que incluye Madrid y el destino
+      const [a, b, cc, d] = caja, ex = Math.max(cc - a, 200) * .3, ey = Math.max(d - b, 160) * .3;
+      zoomBox(a - ex, b - ey, cc + ex, d + ey);
+    } else zoomMap(sel);
   }
   zs.addEventListener("change", () => { fillProv(); paint(); });
   ps.addEventListener("change", paint);
@@ -223,6 +296,27 @@
   });
   box.querySelector("[data-back]").addEventListener("click", () => { zs.value = ""; fillProv(); paint(); });
   window.addEventListener("resize", () => camera(!!zs.value));
+  // «Ver planes»: la cámara entra del todo en la pantalla y se funde con la página siguiente.
+  const veil = document.createElement("div"); veil.className = "esc-veil"; document.body.appendChild(veil);
+  go.addEventListener("click", (ev) => {
+    if (ev.metaKey || ev.ctrlKey || ev.shiftKey) return;
+    ev.preventDefault();
+    const href = go.href;
+    if (!zs.value) { box.classList.add("zoom"); camera(true); }
+    const r = screen.getBoundingClientRect();
+    const k = Math.max(innerWidth / r.width, innerHeight / r.height) * 1.15;
+    setTimeout(() => {
+      stage.style.overflow = "visible"; box.style.overflow = "visible"; box.style.zIndex = 50;
+      const form = box.querySelector(".esc__form"); form.style.transition = "opacity .3s"; form.style.opacity = 0; stage.style.zIndex = 3;
+      const sr = screen.getBoundingClientRect(), dx = innerWidth / 2 - (sr.left + sr.width / 2), dy = innerHeight / 2 - (sr.top + sr.height / 2);
+      stage.style.transition = "transform .9s cubic-bezier(.65,0,.25,1)";
+      stage.style.transformOrigin = `${sr.left + sr.width / 2 - stage.getBoundingClientRect().left}px ${sr.top + sr.height / 2 - stage.getBoundingClientRect().top}px`;
+      stage.style.transform = `translate(${dx}px, ${dy}px) scale(${Math.max(innerWidth / sr.width, innerHeight / sr.height) * 1.1})`;
+      setTimeout(() => veil.classList.add("on"), 550);
+      setTimeout(() => { try { sessionStorage.setItem("chenoFade", "1"); } catch (e) {} location.href = href; }, 1000);
+    }, zs.value ? 0 : 1300);
+  });
+  window.addEventListener("pageshow", (ev) => { if (!ev.persisted) return; veil.classList.remove("on"); stage.style.transform = ""; stage.style.transition = ""; box.querySelector(".esc__form").style.opacity = ""; });
   cam.style.transition = "none"; fillProv(); paint(); cam.offsetWidth; cam.style.transition = "";
 
   // Dibujos de fondo
