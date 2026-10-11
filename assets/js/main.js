@@ -888,7 +888,7 @@
     prov.innerHTML = "";
     var o0 = document.createElement("option");
     o0.value = "";
-    o0.textContent = z ? (TODO[z.v] || "Toda " + z.v) + " (" + z.n + ")" : "Elige antes la zona";
+    o0.textContent = z ? (TODO[z.v] || "Toda " + (z.l || z.v)) + " (" + z.n + ")" : "Elige antes la zona";
     prov.appendChild(o0);
     if (z && z.provs) {
       z.provs.forEach(function (p) {
@@ -905,7 +905,7 @@
     list.forEach(function (x) {
       var o = document.createElement("option");
       o.value = x.v;
-      o.textContent = x.v + " (" + x.n + ")";
+      o.textContent = (x.l || x.v) + " (" + x.n + ")";
       sel.appendChild(o);
     });
   }

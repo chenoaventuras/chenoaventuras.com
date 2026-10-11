@@ -127,7 +127,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261012d"></script>
+  <script src="/assets/js/main.js?v=20261012e"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog" }) {
@@ -331,7 +331,7 @@ function provOf(p) {
 
 function blogCard(p, { level = 2, search = false, eager = false } = {}) {
   const attrs = search
-    ? ` data-tags="${esc(p.tags.join("|"))}" data-prov="${esc(provOf(p))}" data-search="${esc(norm([p.title, p.excerpt, p.tags.join(" "), provOf(p)].join(" ")))}"`
+    ? ` data-tags="${esc(p.tags.join("|"))}" data-prov="${esc(provOf(p))}" data-search="${esc(norm([p.title, p.excerpt, p.tags.map((x) => REGION_LABEL[x] || x).join(" "), provOf(p)].join(" ")))}"`
     : "";
   return `          <a class="blogcard reveal" href="/blog/${p.slug}.html"${attrs}>
             ${
@@ -633,7 +633,7 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
     ? `<div class="article__tags">${p.tags
         .map((t) => {
           const c = tagColorMap.get(t) || { bg: "#4a5568", fg: "#ffffff" };
-          return `<span class="tagchip" style="background:${c.bg};color:${c.fg}">${esc(t)}</span>`;
+          return `<span class="tagchip" style="background:${c.bg};color:${c.fg}">${esc(REGION_LABEL[t] || t)}</span>`;
         })
         .join("")}</div>`
     : "";
@@ -694,10 +694,10 @@ function renderIndex(posts, destinos = []) {
   // Pueblos…), solo con las etiquetas que de verdad tienen posts.
   const allTags = [...new Set(posts.flatMap((p) => p.tags))];
   const typeTags = TAG_TYPES.filter((t) => allTags.includes(t));
-  const regionTags = allTags.filter((t) => !TAG_TYPES.includes(t)).sort((a, b) => a.localeCompare(b, "es"));
+  const regionTags = allTags.filter((t) => !TAG_TYPES.includes(t)).sort((a, b) => (REGION_LABEL[a] || a).localeCompare(REGION_LABEL[b] || b, "es"));
   // Sugerencias del buscador: comunidades, provincias/islas y el nombre corto de cada lugar
   const sugerencias = [...new Set([
-    ...regionTags,
+    ...regionTags.map((t) => REGION_LABEL[t] || t),
     ...posts.map(provOf).filter(Boolean),
     ...posts.filter((p) => p.tags.length && !p.tags.includes("Descuentos")).map((p) => p.lugar || p.title.split(":")[0].trim()),
   ])].sort((a, b) => a.localeCompare(b, "es"));
@@ -712,7 +712,7 @@ function renderIndex(posts, destinos = []) {
             <label for="blog-region">Filtrar por</label>
             ${regionTags.length ? `<select id="blog-region" aria-label="Comunidad autónoma">
               <option value="">Todas las comunidades</option>
-              ${regionTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}
+              ${regionTags.map((t) => `<option value="${esc(t)}">${esc(REGION_LABEL[t] || t)}</option>`).join("")}
             </select>
             <select id="blog-prov" aria-label="Provincia o isla" hidden><option value="">Toda la zona</option></select>` : ""}
             ${typeTags.length ? `<select id="blog-type" aria-label="Tipo de post">
@@ -896,7 +896,7 @@ function renderMap(posts, destinos = []) {
     lng: p.lng,
   }));
   const json = JSON.stringify(data).replace(/</g, "\\u003c");
-  const regions = [...new Set(data.map((d) => d.region))].sort((a, b) => a.localeCompare(b, "es"));
+  const regions = [...new Set(data.map((d) => d.region))].sort((a, b) => (REGION_LABEL[a] || a).localeCompare(REGION_LABEL[b] || b, "es"));
   const types = MAP_TYPES.filter((t) => data.some((d) => d.type === t));
 
   // Lista visual: una tarjeta por comunidad con su bandera y puntos con el nombre corto del lugar.
@@ -960,7 +960,7 @@ ${types.map((t) => `            <button type="button" class="mapchip" data-map-t
             <label for="map-region" class="sr-only">Comunidad o zona</label>
             <select id="map-region" aria-label="Comunidad o zona">
               <option value="">Todas las zonas</option>
-${regions.map((r) => `              <option value="${esc(r)}">${esc(r)}</option>`).join("\n")}
+${regions.map((r) => `              <option value="${esc(r)}">${esc(REGION_LABEL[r] || r)}</option>`).join("\n")}
             </select>
             <span class="mapbar__count" id="map-count" aria-live="polite"></span>
           </div>
@@ -1154,9 +1154,9 @@ mkdirSync(join(ROOT, "assets", "data"), { recursive: true });
       const provs = [...new Set(ps.map(provOf).filter(Boolean))]
         .map((v) => ({ v, n: ps.filter((p) => provOf(p) === v).length }))
         .sort((a, b) => (ISLAS_ORDEN[t] ? ISLAS_ORDEN[t].indexOf(a.v) - ISLAS_ORDEN[t].indexOf(b.v) : a.v.localeCompare(b.v, "es")));
-      return { v: t, n: ps.length, provs };
+      return { v: t, l: REGION_LABEL[t] || t, n: ps.length, provs };
     })
-    .sort((a, b) => a.v.localeCompare(b.v, "es"));
+    .sort((a, b) => a.l.localeCompare(b.l, "es"));
   const tipos = TAG_TYPES.filter((t) => t !== "Descuentos").map((t) => ({ v: t, n: count(t) })).filter((x) => x.n);
   writeFileSync(join(ROOT, "assets", "data", "zonas.json"), JSON.stringify({ zonas, tipos, total: visibles.length }));
 }
