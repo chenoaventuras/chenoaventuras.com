@@ -2123,3 +2123,14 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .site-footer .footer-cielo { position: absolute; inset: 0; width: 100%; height: 100%; display: block; pointer-events: none; z-index: 0; }
 .site-footer.has-cielo > * { position: relative; z-index: 1; }
 .site-footer.has-cielo > .footer-cielo { position: absolute; z-index: 0; }
+
+/* Barra de arriba: el icono de Instagram lanza destellos para llamar la atención. */
+.nav__social a[aria-label="Instagram"] { position: relative; overflow: visible; border: 1.5px solid transparent; background: linear-gradient(var(--ig-fondo, transparent), var(--ig-fondo, transparent)) padding-box, linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5) border-box; animation: igBrillo 3s ease-in-out infinite; }
+.nav__social a[aria-label="Instagram"]:hover { --ig-fondo: #fff; }
+.nav__social a[aria-label="Instagram"]::before,
+.nav__social a[aria-label="Instagram"]::after { content: "✦"; position: absolute; color: #fff6c9; font-size: 11px; line-height: 1; pointer-events: none; text-shadow: 0 0 6px rgba(255,220,120,.95); opacity: 0; }
+.nav__social a[aria-label="Instagram"]::before { top: -7px; right: -6px; animation: igDestello 2.4s ease-in-out infinite; }
+.nav__social a[aria-label="Instagram"]::after { bottom: -6px; left: -7px; font-size: 8px; animation: igDestello 2.4s ease-in-out 1.2s infinite; }
+@keyframes igDestello { 0%, 100% { opacity: 0; transform: scale(.3) rotate(0deg); } 40% { opacity: 1; transform: scale(1.15) rotate(45deg); } 60% { opacity: .9; transform: scale(1) rotate(60deg); } }
+@keyframes igBrillo { 0%, 100% { box-shadow: 0 0 0 0 rgba(214,41,118,0); } 50% { box-shadow: 0 0 12px 2px rgba(214,41,118,.55); } }
+@media (prefers-reduced-motion: reduce) { .nav__social a[aria-label="Instagram"], .nav__social a[aria-label="Instagram"]::before, .nav__social a[aria-label="Instagram"]::after { animation: none; } }
