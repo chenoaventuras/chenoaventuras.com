@@ -896,10 +896,10 @@
   const ts = box.querySelector("[data-tipo]");
   const count = box.querySelector("[data-count]"), go = box.querySelector("[data-go]"), tag = box.querySelector("[data-tag]");
   zs.innerHTML = '<option value="">Cualquier zona</option>' + z.zonas.map((x) => `<option value="${x.v}">${x.l || x.v}</option>`).join("");
-  if (ts) ts.innerHTML = '<option value="">De todo</option>' + (z.tipos || []).map((x) => `<option value="${x.v}">${x.v} (${x.n})</option>`).join("");
+  if (ts) ts.innerHTML = '<option value="">De todo</option>' + (z.tipos || []).map((x) => `<option value="${x.v}">${x.v}</option>`).join("");
   function fillProv() {
     const zona = z.zonas.find((x) => x.v === zs.value);
-    ps.innerHTML = zona ? `<option value="">${TODO[zona.v] || "Toda " + (zona.l || zona.v)}</option>` + zona.provs.map((p) => `<option value="${p.v}">${p.v} (${p.n})</option>`).join("") : '<option value="">Elige antes la zona</option>';
+    ps.innerHTML = zona ? `<option value="">${TODO[zona.v] || "Toda " + (zona.l || zona.v)}</option>` + zona.provs.map((p) => `<option value="${p.v}">${p.v}</option>`).join("") : '<option value="">Elige antes la zona</option>';
     ps.disabled = !zona || zona.provs.length < 2;
   }
   // Cámara: en reposo centra el escritorio; con zona elegida, la pantalla llena el escenario.

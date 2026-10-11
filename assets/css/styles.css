@@ -1990,8 +1990,8 @@ p { margin: 0 0 1em; }
 .esc .title .accent { color: var(--gold-soft); }
 .esc .eyebrow { color: var(--gold-soft); }
 .esc .btn { background: var(--gold); border-color: var(--gold); color: var(--ink); }
-.esc__stage { position: relative; min-height: 420px; }
-.esc__view { position: absolute; inset: 0; overflow: hidden; }
+.esc__stage { position: relative; min-height: 420px; align-self: stretch; }
+.esc__view { position: absolute; inset: 0 0 -2px; overflow: hidden; }
 /* La mano de Cheno: teclea cada vez que eliges algo en el buscador. */
 .esc__cam .esc__mano { position: absolute; inset: auto; left: 52.63%; top: 40.27%; width: 9.97%; height: 6.78%; transform-origin: 15% 70%; pointer-events: none; }
 .esc__cam .esc__mano.tecleo { animation: tecleo .55s ease-in-out; }
@@ -2024,12 +2024,12 @@ p { margin: 0 0 1em; }
 .esc__back { position: absolute; top: 14px; right: 14px; z-index: 3; font: 600 12px var(--font-head); border: 1px solid var(--line); background: #fff; border-radius: 99px; padding: 6px 12px; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity .4s; }
 .esc.zoom .esc__back { opacity: 1; pointer-events: auto; }
 /* Fotos de fondo que van pasando (de la propia web) */
-.dibujos { position: absolute; inset: 0; pointer-events: none; -webkit-mask: linear-gradient(transparent, #000 38%); mask: linear-gradient(transparent, #000 38%); }
+.dibujos { position: absolute; inset: 0 0 -2px; pointer-events: none; -webkit-mask: linear-gradient(transparent, #000 38%); mask: linear-gradient(transparent, #000 38%); }
 .dibujos img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transform: scale(1.06); transition: opacity 1.6s ease, transform 6s linear; }
 .dibujos img.on { opacity: 1; transform: scale(1); }
 .dibujos::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(39,76,120,.5), rgba(39,76,120,0) 60%); }
 .dibujos__name { position: absolute; right: 16px; bottom: 14px; z-index: 2; font: 600 11px var(--font-head); letter-spacing: .14em; text-transform: uppercase; color: #fff; text-shadow: 0 1px 6px rgba(0,0,0,.5); transition: opacity .6s; }
-.esc.zoom .dibujos, .esc.zoom .dibujos__name { opacity: 0; transition: opacity .5s; }
+.esc.zoom .dibujos__name { opacity: 0; transition: opacity .5s; }
 
 @media (min-width: 861px) {
   .esc { grid-template-columns: 1fr 1fr; }
@@ -2040,7 +2040,7 @@ p { margin: 0 0 1em; }
 @media (max-width: 860px) {
   .esc { grid-template-columns: 1fr; }
   .esc__form { padding-bottom: 0; }
-  .esc__stage { min-height: 400px; }
+  .esc__stage { min-height: 330px; }
   .dibujos { top: -52px; }
 }
 /* Avión hacia destinos de fuera de España */
