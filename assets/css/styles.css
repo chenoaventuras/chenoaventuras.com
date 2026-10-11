@@ -768,7 +768,7 @@ p { margin: 0 0 1em; }
 .placecard__body h3 { font-family: var(--font-head); text-transform: uppercase; font-size: 1.15rem; letter-spacing: .03em; margin: 0; }
 .placecard__body span { font-size: .86rem; line-height: 1.35; color: rgba(255,255,255,.8); }
 
-/* Feed completo de Instagram (aventuras.html): siempre de 3 en 3 en escritorio. */
+/* Feed de Instagram: siempre de 3 en 3 en escritorio. */
 .cardgrid--ig { grid-template-columns: repeat(3, 1fr); }
 @media (max-width: 1024px) { .cardgrid--ig { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 640px) { .cardgrid--ig { grid-template-columns: repeat(2, 1fr); gap: 12px; } }

@@ -64,8 +64,10 @@
     }
   ],
   "redirects": [
-    { "source": "/destinos", "destination": "/aventuras.html", "permanent": true },
-    { "source": "/destinos.html", "destination": "/aventuras.html", "permanent": true },
+    { "source": "/aventuras", "destination": "https://www.instagram.com/chenoaventuras/", "permanent": true },
+    { "source": "/aventuras.html", "destination": "https://www.instagram.com/chenoaventuras/", "permanent": true },
+    { "source": "/destinos", "destination": "/blog.html", "permanent": true },
+    { "source": "/destinos.html", "destination": "/blog.html", "permanent": true },
     { "source": "/sobre-mi", "destination": "/contacto.html", "permanent": true },
     { "source": "/sobre-mi.html", "destination": "/contacto.html", "permanent": true },
     { "source": "/blog/2026-09-11-altea-que-ver-costa-blanca.html", "destination": "/blog/altea-que-ver-costa-blanca.html", "permanent": true },
