@@ -2048,22 +2048,33 @@ p { margin: 0 0 1em; }
 /* ---------- Contacto: carné de piloto de dron colgando de una cinta (se arrastra y se gira) ---------- */
 .lan { position: relative; z-index: 1; height: 470px; user-select: none; }
 .lan svg.lan__strap { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; overflow: visible; }
-.lan__card { position: absolute; left: 0; top: 0; width: 220px; height: 300px; transform-origin: 110px 0; cursor: grab; perspective: 900px; touch-action: none; }
+.lan__card { position: absolute; left: 0; top: 0; width: 220px; height: 322px; transform-origin: 110px 0; cursor: grab; perspective: 900px; touch-action: none; }
 .lan__card:active { cursor: grabbing; }
 .lan__inner { position: relative; width: 100%; height: 100%; transform-style: preserve-3d; transition: transform .7s cubic-bezier(.4,0,.2,1); }
 .lan__card.flip .lan__inner { transform: rotateY(180deg); }
 .lan__face { position: absolute; inset: 0; border-radius: 16px; backface-visibility: hidden; -webkit-backface-visibility: hidden; box-shadow: 0 18px 40px rgba(20,25,20,.25); overflow: hidden; }
-.lan__front { background: #fff; color: var(--ink); padding: 34px 18px 16px; display: flex; flex-direction: column; }
+.lan__front { background: #fff; color: #1d2733; padding: 26px 14px 12px; display: flex; flex-direction: column; }
 .lan__back { background: var(--teal-deep); color: #fff; transform: rotateY(180deg); display: grid; place-items: center; text-align: center; }
 .lan__hole { position: absolute; top: 12px; left: 50%; width: 46px; height: 9px; margin-left: -23px; border-radius: 9px; background: var(--paper); box-shadow: inset 0 1px 3px rgba(0,0,0,.3); }
-.lan__top { display: flex; justify-content: space-between; align-items: center; font: 700 10px var(--font-head); letter-spacing: .18em; color: var(--olive-dark); }
-.lan__photo { width: 84px; height: 84px; border-radius: 12px; object-fit: cover; margin: 14px 0 10px; }
-.lan__cat { font: 900 46px/1 var(--font-display); letter-spacing: -.02em; }
-.lan__cat span { color: var(--olive); }
-.lan__name { font: 600 15px var(--font-head); margin-top: 6px; }
-.lan__meta { font: 500 11px var(--font-body); color: var(--ink-mute); margin-top: 2px; }
-.lan__foot { margin-top: auto; display: flex; justify-content: space-between; align-items: flex-end; font: 600 9px var(--font-head); letter-spacing: .12em; text-transform: uppercase; color: var(--ink-mute); border-top: 1px dashed var(--line); padding-top: 8px; }
-.lan__hint { position: absolute; right: 18px; bottom: 14px; font: 600 12px var(--font-head); color: var(--olive-dark); }
+.lan__top { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.lan__eu svg { width: 40px; height: 28px; display: block; background: #1e3c8c; border-radius: 2px; }
+.lan__eu text { font: 700 8px var(--font-head); fill: #fff; }
+.lan__easa { text-align: right; color: #0a5cab; line-height: 1; }
+.lan__easa b { font: 900 22px/1 var(--font-display); letter-spacing: .02em; display: block; }
+.lan__easa small { font: 500 6.5px var(--font-body); display: block; margin-top: 2px; }
+.lan__who { display: flex; align-items: center; gap: 10px; margin: 12px 0 2px; }
+.lan__photo { width: 56px; height: 56px; border-radius: 10px; object-fit: cover; }
+.lan__name { font: 700 17px var(--font-head); }
+.lan__meta { font: 600 9px var(--font-head); letter-spacing: .16em; text-transform: uppercase; color: #0a5cab; }
+.lan__drone { width: 84px; height: auto; align-self: center; margin: 2px 0 0; pointer-events: none; }
+.lan__prueba { font: 500 10.5px/1.3 var(--font-body); text-align: center; margin: 4px 0 0; color: #333; }
+.lan__foot { margin-top: auto; display: flex; justify-content: space-between; align-items: flex-end; }
+.lan__aesa { color: #12425e; line-height: 1; }
+.lan__aesa b { font: 900 18px/1 var(--font-display); letter-spacing: .08em; display: block; }
+.lan__aesa small { font: 700 5.5px var(--font-head); letter-spacing: .04em; text-transform: uppercase; display: block; margin-top: 2px; max-width: 90px; }
+.lan__cat { background: #f26b63; color: #fff; padding: 5px 8px; border-radius: 2px; text-align: left; line-height: 1; box-shadow: 3px 3px 0 #c9c9c9; }
+.lan__cat b { font: 800 13px/1 var(--font-head); display: block; }
+.lan__cat small { font: 700 6.5px var(--font-head); text-transform: uppercase; letter-spacing: .04em; display: block; margin-top: 2px; }
 .lan__brand { font: 900 28px/1 var(--font-display); }
 .lan__brand small { display: block; font: 600 10px var(--font-head); letter-spacing: .3em; margin-top: 6px; color: var(--gold-soft); }
 
