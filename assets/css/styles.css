@@ -214,6 +214,22 @@ p { margin: 0 0 1em; }
   background-image: url("../img/edges/torn-dark.svg");
 }
 
+/* Borde de acuarela: la foto se deshace en manchas de pintura hacia el papel. */
+.hero.acuarela-bottom, .acuarela-bottom { --acu: clamp(150px, 16vw, 260px); background: linear-gradient(var(--teal-deep) 0 60%, var(--paper) 60%); padding-bottom: calc(var(--acu) * .75); }
+.acuarela-bottom .hero__media,
+.acuarela-bottom .hero__portrait {
+  -webkit-mask: linear-gradient(#000, #000) top / 100% calc(100% - var(--acu) + 2px) no-repeat, url("../img/edges/acuarela-mascara.svg") bottom / 100% var(--acu) no-repeat;
+          mask: linear-gradient(#000, #000) top / 100% calc(100% - var(--acu) + 2px) no-repeat, url("../img/edges/acuarela-mascara.svg") bottom / 100% var(--acu) no-repeat;
+}
+.acuarela-bottom::after {
+  height: var(--acu); bottom: 0;
+  background: url("../img/edges/acuarela.svg") no-repeat bottom center / 100% 100%;
+}
+
+/* Profundidad al bajar (la mueve main.js; sin JS o con movimiento reducido, quieto). */
+[data-parallax] .hero__media img { transform: translate3d(0, var(--py, 0), 0) scale(var(--ps, 1)); will-change: transform; }
+[data-parallax] .hero__inner { will-change: opacity, transform; }
+
 /* =========================================================================
    HEADER / NAV
    ========================================================================= */

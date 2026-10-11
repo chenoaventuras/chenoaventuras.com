@@ -928,4 +928,31 @@
     var qs = ps.toString();
     location.href = "/blog" + (qs ? "?" + qs : "");
   });
+
+  /* ---------- Portada: profundidad al bajar (parallax) ---------- */
+  (function () {
+    var hero = document.querySelector("[data-parallax]");
+    if (!hero || (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) return;
+    var media = hero.querySelector(".hero__media");
+    var inner = hero.querySelector(".hero__inner");
+    var ticking = false;
+    function update() {
+      ticking = false;
+      var h = hero.offsetHeight || 1;
+      var y = Math.min(window.scrollY, h);
+      // Se mueven las fotos, no su contenedor: así el borde de acuarela (máscara del contenedor) se queda quieto.
+      if (media) {
+        media.style.setProperty("--py", (y * 0.4).toFixed(1) + "px");
+        media.style.setProperty("--ps", (1 + y / h * 0.08).toFixed(3));
+      }
+      if (inner) {
+        inner.style.transform = "translate3d(0," + (y * 0.15).toFixed(1) + "px,0)";
+        inner.style.opacity = Math.max(0, 1 - y / (h * 0.75)).toFixed(3);
+      }
+    }
+    window.addEventListener("scroll", function () {
+      if (!ticking) { ticking = true; requestAnimationFrame(update); }
+    }, { passive: true });
+    update();
+  })();
 })();
