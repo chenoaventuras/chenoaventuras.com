@@ -1,0 +1,180 @@
+name: Posts diarios de la zona con menos contenido (Claude Code)
+
+# Lo dispara cada día posts-diarios-trigger.yml (15:00 hora de España).
+# Elige la provincia o isla con menos posts (scripts/zona-del-dia.mjs) y
+# Claude Code escribe y publica directamente al menos 5 posts nuevos de
+# lugares que la gente busca allí, con fotos de Wikimedia Commons.
+# Los restaurantes («¿Dónde comer?») no se ponen aquí: los añade la tarea
+# local de cada 2 meses. Las guías PDF se regeneran al terminar la siguiente
+# sesión local (scripts/sesion.sh terminar).
+on:
+  repository_dispatch:
+    types: [posts-diarios]
+
+permissions:
+  contents: write
+  id-token: write   # lo necesita anthropics/claude-code-action para su token OIDC interno
+
+concurrency:
+  group: posts-diarios
+  cancel-in-progress: false
+
+jobs:
+  posts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - name: Instalar cwebp
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq webp
+
+      - name: Zona de hoy
+        id: zona
+        run: |
+          npm run build > /dev/null
+          node scripts/zona-del-dia.mjs > /tmp/zona.json
+          cat /tmp/zona.json
+          echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Escribir los posts con Claude Code
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: |
+            --allowedTools Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(curl:*),Bash(mkdir:*),Bash(ls:*),Bash(file:*),Bash(node scripts/zona-del-dia.mjs:*),Bash(npm run build:*)
+            --max-turns 400
+          prompt: |
+            Hoy es ${{ steps.zona.outputs.date }}. Eres quien escribe el blog de
+            chenoaventuras.com (viajes por España: pueblos, rutas, playas, cuevas,
+            spots y curiosidades). No toques git: solo lee y escribe ficheros.
+
+            OBJETIVO: rellenar de contenido la zona con menos posts. Lee
+            /tmp/zona.json: tiene la zona de hoy ("zona"), su provincia oficial,
+            la etiqueta de comunidad ("comunidadTag"), los posts que ya hay allí
+            ("postsYaPublicados"), y la guía PDF que les toca ("guia" y
+            "guiaTitulo").
+
+            1. INVESTIGA con WebSearch qué busca la gente de esa zona: «qué ver en
+               <zona>», «pueblos bonitos de <zona>», «rutas de senderismo en
+               <zona>», «playas/calas de <zona>», «cuevas en <zona>», «miradores»,
+               «curiosidades de <zona>», «planes en <zona>». Haz una lista de los
+               lugares concretos más buscados e interesantes que NO tengan ya post.
+               Para no duplicar, comprueba también con Grep en content/blog/ (por
+               el nombre del lugar) y en content/enlaces.json.
+
+            2. ESCRIBE COMO MÍNIMO 5 POSTS (uno por lugar), del más buscado al
+               menos. Si quedan lugares de verdad interesantes, sigue escribiendo
+               más, uno tras otro, mientras te queden turnos: es mejor que haya
+               más contenido, pero nunca rellenes con lugares flojos. Si la zona
+               se queda sin lugares buenos antes de llegar a 5, sigue con la
+               primera zona de "siguientes" en /tmp/zona.json (ejecuta
+               `node scripts/zona-del-dia.mjs --ranking` si te hace falta, y saca
+               su comunidad y guía de los posts que ya existan allí).
+
+            3. FORMATO. Antes de escribir el primero, lee enteros dos posts de
+               ejemplo y copia su estructura, su estilo y su HTML (bloques
+               guide__head con eyebrow, guide__tips, guide__howto, guide__plan
+               «Consejos de Cheno», FAQ, guide__cta y guide__note final con
+               créditos de fotos): content/blog/covarrubias-que-ver.md (pueblo) y
+               content/blog/acueducto-de-segovia.md (monumento/spot). Cada post
+               es content/blog/<slug>.md, slug corto sin acentos con guiones (por
+               ejemplo «<lugar>-que-ver»), único. Frontmatter:
+                 title, seoTitle (≤ 60 caracteres, palabra clave al principio),
+                 date: ${{ steps.zona.outputs.date }}T13:00:00.000Z
+                 lugar, lat, lng (coordenadas verificadas del lugar),
+                 provincia: la provincia oficial (de /tmp/zona.json),
+                 excerpt (≤ 155 caracteres),
+                 cover: /assets/img/blog/<slug>/portada.jpg
+                 tags: un tipo (Pueblos, Spots, Actividades o Curiosidades;
+                   Curiosidades solo para rarezas, no para lugares visitables)
+                   y después la comunidadTag exacta,
+                 wide: true,
+                 faq: 6-8 preguntas reales que se hace la gente, con respuestas
+                   cortas y correctas,
+                 actividades: (opcional, ver punto 5),
+                 guia y guiaTitulo: los de /tmp/zona.json.
+               NO pongas draft (se publica directamente) ni el campo comer.
+
+            4. FOTOS: solo de Wikimedia Commons con licencia libre (CC BY, CC
+               BY-SA, CC0 o dominio público), entre 4 y 8 por post, del propio
+               lugar. Busca con la API, por ejemplo:
+                 curl -s -A "ChenoaventurasBot/1.0 (chenoaventuras.com)" "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrsearch=<lugar>&gsrlimit=20&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=1600&format=json"
+               Elige fotos bonitas, horizontales y de buena calidad. Descarga la
+               miniatura de 1600 px (thumburl) con curl -L y el mismo -A en
+               assets/img/blog/<slug>/<nombre-corto>.jpg (portada.jpg para la
+               portada) y comprueba con `file` que es una imagen JPEG/PNG de
+               verdad. Pon cada foto en el cuerpo con <img> o Markdown como en
+               los ejemplos, con un alt descriptivo, y en la guide__note final
+               acredita cada una: enlace a su página de Commons, autor y licencia
+               (sácalos de extmetadata: Artist y LicenseShortName). Si un lugar no
+               tiene fotos libres decentes, no escribas ese post y pasa al
+               siguiente.
+
+            5. ACTIVIDADES (opcional): como mucho 3 por post, solo de Civitatis
+               (civitatis.com/es/...) o GetYourGuide (getyourguide.es), de ese
+               lugar o muy cerca (nunca excursiones desde ciudades lejanas),
+               eligiendo las más reservadas, no las más baratas. Comprueba con
+               WebFetch que la URL existe y es esa actividad. Formato:
+                 actividades:
+                   - t: "<nombre de la actividad>"
+                     u: "<URL limpia, sin parámetros>"
+               (los parámetros de afiliado los añade la web sola). Si no
+               encuentras ninguna buena, omite el campo.
+
+            6. ENLACES AUTOMÁTICOS: añade cada post nuevo a content/enlaces.json
+               ("<slug>": ["<nombre del lugar>"]), respetando el formato JSON y
+               sin quitar nada.
+
+            7. CONTENIDO: español de España, tono cercano y aventurero de Cheno
+               (como si se lo contaras a un amigo), con rigor. 800-1300 palabras
+               por post, estructurado en lo que la gente busca de verdad: qué ver,
+               rutas, cómo llegar, dónde aparcar, mejor época, consejos, fiestas
+               famosas si las hay (verificadas). Enlaza 2-3 posts existentes
+               relacionados con [texto](/blog/<slug>.html). Incluye un enlace a
+               Google Maps en «Cómo llegar»
+               (https://www.google.com/maps/search/?api=1&query=<lugar>). NUNCA
+               inventes datos: horarios, precios, distancias y fechas solo si los
+               has comprobado, y de forma orientativa. No copies frases de otras
+               webs. En la guide__note pon «Información consultada en <mes> de
+               <año>».
+
+            8. Cuando acabes cada post, ejecuta `npm run build` y corrige
+               cualquier error antes de seguir con el siguiente.
+
+            Al terminar, escribe un resumen corto: zona, posts creados y lugares
+            descartados (y por qué).
+
+      - name: Convertir fotos a WebP y comprobar que compila
+        run: |
+          node scripts/optimize-images.mjs
+          npm run build
+
+      - name: Commit y push de los posts nuevos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git add content/blog content/enlaces.json assets/img/blog
+          if git diff --cached --quiet; then
+            echo "No se ha creado ningún post."
+            exit 0
+          fi
+          ZONA=$(node -p 'require("/tmp/zona.json").zona')
+          N=$(git diff --cached --name-only --diff-filter=A -- content/blog | wc -l)
+          git config user.name  "cheno-bot"
+          git config user.email "chenoaventuras@gmail.com"
+          git commit -m "Blog: ${N} posts nuevos de ${ZONA} (automático)"
+          for i in 1 2 3 4 5; do
+            if git push; then break; fi
+            echo "Push rechazado, reintentando ($i)..."
+            sleep $((5 + RANDOM % 10))
+            git fetch origin main
+            git rebase origin/main
+          done

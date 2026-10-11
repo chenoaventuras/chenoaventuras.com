@@ -1,0 +1,21 @@
+name: Disparo diario de posts nuevos por zona
+
+# No usa IA: solo dispara cada día, a las 15:00 hora de España, el workflow
+# posts-diarios.yml (que sí llama a Claude Code) con un "repository_dispatch",
+# igual que auto-blog-draft-trigger.yml.
+on:
+  schedule:
+    - cron: "0 13 * 4-10 *"       # 15:00 CEST (horario de verano, abr-oct)
+    - cron: "0 14 * 1-3,11-12 *"  # 15:00 CET  (horario de invierno, nov-mar)
+  workflow_dispatch: {}           # para probarlo a mano desde la pestaña Actions
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Disparar posts-diarios.yml
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh api "repos/${{ github.repository }}/dispatches" \
+            -f event_type=posts-diarios

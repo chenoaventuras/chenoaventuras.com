@@ -1158,6 +1158,14 @@ mkdirSync(join(ROOT, "assets", "data"), { recursive: true });
     .sort((a, b) => a.l.localeCompare(b.l, "es"));
   const tipos = TAG_TYPES.filter((t) => t !== "Descuentos").map((t) => ({ v: t, n: count(t) })).filter((x) => x.n);
   writeFileSync(join(ROOT, "assets", "data", "zonas.json"), JSON.stringify({ zonas, tipos, total: visibles.length }));
+  // Cobertura por provincia/isla (la usa scripts/zona-del-dia.mjs para los posts diarios automáticos).
+  const cobertura = {};
+  for (const p of visibles) {
+    const k = provOf(p);
+    if (!k) continue;
+    (cobertura[k] ||= { comunidad: regionOf(p), posts: [] }).posts.push({ slug: p.slug, title: p.title, lugar: p.lugar || "", guia: p.guia || "" });
+  }
+  writeFileSync(join(ROOT, "assets", "data", "cobertura.json"), JSON.stringify(cobertura, null, 1));
 }
 writeFileSync(join(ROOT, "mapa.html"), renderMap(posts, destinos));
 writeFileSync(join(ROOT, "sitemap.xml"), renderSitemap(posts, destinos));
