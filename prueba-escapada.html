@@ -28,7 +28,9 @@
   .esc__view { position: absolute; inset: 0; overflow: hidden; }
   .esc__cam { position: absolute; left: 50%; top: 50%; width: 400px; height: 400px; transform-origin: 0 0; transition: transform 1.3s cubic-bezier(.65,0,.25,1); }
   .esc__cam img { position: absolute; inset: 0; width: 100%; height: 100%; }
-  .esc__screen { position: absolute; left: 44.5%; top: 15.6%; width: 37.1%; height: 24.4%; background: #fbfaf7; overflow: hidden; }
+  /* Monitor dibujado encima del de la ilustración: marco uniforme y pantalla bien cuadrada. */
+  .esc__screen { position: absolute; left: 43.38%; top: 14.6%; width: 39.4%; height: 25.8%; background: #1d1f23; border-radius: 3px; }
+  .esc__glass { position: absolute; left: 2.6%; top: 3.8%; right: 4.2%; bottom: 4.6%; background: #fbfaf7; overflow: hidden; border-radius: 1px; }
   .esc__screen svg.esmap { position: absolute; inset: 0; width: 100%; height: 100%; }
   .esmap path { fill: #d8d3c8; stroke: #fff; stroke-width: 1.2; vector-effect: non-scaling-stroke; transition: fill .5s, opacity .5s; cursor: pointer; }
   .esmap path:hover { fill: #c3bba9; }
@@ -75,6 +77,11 @@
   .lan__brand { font: 900 28px/1 var(--font-display); }
   .lan__brand small { display: block; font: 600 10px var(--font-head); letter-spacing: .3em; margin-top: 6px; color: var(--gold-soft); }
 
+  @media (min-width: 861px) {
+    .esc { grid-template-columns: 1.25fr 1fr; }
+    .esc__stage { order: -1; }
+    .dibujos { -webkit-mask: linear-gradient(to left, transparent, #000 30%); mask: linear-gradient(to left, transparent, #000 30%); }
+  }
   @media (max-width: 860px) {
     .esc { grid-template-columns: 1fr; }
     .esc__form { padding-bottom: 0; }
@@ -119,7 +126,7 @@
         <span class="dibujos__name" data-dib-name></span>
         <div class="esc__view"><div class="esc__cam" data-cam>
           <img src="assets/img/escapada-escritorio.png" alt="Cheno en su escritorio planificando una escapada" width="1000" height="1000" />
-          <div class="esc__screen" data-screen><div data-map></div></div>
+          <div class="esc__screen" data-screen><div class="esc__glass" data-glass><div data-map></div></div></div>
         </div></div>
         <span class="esc__tag" data-tag></span>
         <button class="esc__back" type="button" data-back>← Toda España</button>
@@ -158,7 +165,7 @@
 (async function () {
   const TODO = { Canarias: "Todas las islas", "Islas Baleares": "Todas las islas", "Aragón": "Todo Aragón", "País Vasco": "Todo el País Vasco" };
   const box = document.querySelector("[data-esc]");
-  const [z, svg] = await Promise.all([fetch("/assets/data/zonas.json").then(r => r.json()), fetch("/assets/data/mapa-espana.svg").then(r => r.text())]);
+  const [z, svg] = await Promise.all([fetch("/assets/data/zonas.json?v=" + Date.now()).then(r => r.json()), fetch("/assets/data/mapa-espana.svg?v=" + Date.now()).then(r => r.text())]);
   box.querySelector("[data-map]").innerHTML = svg;
   const map = box.querySelector("svg.esmap"), cam = box.querySelector("[data-cam]"), screen = box.querySelector("[data-screen]"), stage = box.querySelector(".esc__stage");
   const zs = box.querySelector("[data-zona]"), ps = box.querySelector("[data-prov]");
@@ -184,7 +191,8 @@
   }
   // El mapa se acerca animando su viewBox, con la misma duración y curva que la cámara.
   // Encaje: el mapa entero centrado en la pantalla del ordenador, con el mismo margen por todos lados.
-  const ratio = () => screen.offsetWidth / screen.offsetHeight || 1.5;
+  const glass = box.querySelector("[data-glass]");
+  const ratio = () => glass.offsetWidth / glass.offsetHeight || 1.5;
   function fit(x0, y0, x1, y1, pad) {
     let w = (x1 - x0) * pad, h = (y1 - y0) * pad, r = ratio();
     if (w / h > r) h = w / r; else w = h * r;
