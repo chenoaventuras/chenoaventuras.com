@@ -51,9 +51,6 @@ Te cuento cómo fue y qué se ve cuando baja el agua 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/canon-del-sil.html"><img src="/assets/img/blog/canon-del-sil/portada.webp" alt="Cañón del Sil" loading="lazy" decoding="async" /><span>Cañón del Sil</span></a></li><li><a href="/blog/fuente-del-vino-irache.html"><img src="/assets/img/blog/fuente-del-vino-irache/portada.webp" alt="Fuente del vino de Irache" loading="lazy" decoding="async" /><span>Fuente del vino de Irache</span></a></li><li><a href="/blog/torre-de-hercules.html"><img src="/assets/img/blog/torre-de-hercules/atardecer.webp" alt="Torre de Hércules" loading="lazy" decoding="async" /><span>Torre de Hércules</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3APortomarinVistas.jpg" target="_blank" rel="noopener">Satna</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AIglesia_de_San_Nicol%C3%A1s%2C_Puertomar%C3%ADn%2C_Camino_de_Santiago%2C_Lugo%2C_Espa%C3%B1a%2C_2015-09-19%2C_DD_15-17_HDR.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APortomar%C3%ADn%2C_R%C3%ADo_Mi%C3%B1o%2C_Galiza.jpg" target="_blank" rel="noopener">José Antonio Gil Martínez</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APortomar%C3%ADn_03-21c.jpg" target="_blank" rel="noopener">Lameiro</a> (CC BY-SA 4.0).</p>

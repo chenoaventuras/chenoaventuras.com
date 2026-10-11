@@ -54,9 +54,6 @@ Te cuento cómo fue aquella noche y cómo visitar hoy la plaza 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/sobrino-de-botin.html"><img src="/assets/img/blog/sobrino-de-botin/interior.webp" alt="Sobrino de Botín" loading="lazy" decoding="async" /><span>Sobrino de Botín</span></a></li><li><a href="/blog/casa-museo-raton-perez.html"><img src="/assets/img/blog/casa-museo-raton-perez/portada.webp" alt="Casa del Ratón Pérez" loading="lazy" decoding="async" /><span>Casa del Ratón Pérez</span></a></li><li><a href="/blog/torre-de-cristal-madrid.html"><img src="/assets/img/blog/torre-de-cristal-madrid/cuatro.webp" alt="Torre de Cristal" loading="lazy" decoding="async" /><span>Torre de Cristal</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3APlaza_de_Toros_de_Las_Ventas_-_Madrid_01.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABeatles_ad_1965_just_the_beatles_crop.jpg" target="_blank" rel="noopener">EMI</a> (Public domain) · <a href="https://commons.wikimedia.org/wiki/File%3APlaza_de_Toros_de_Las_Ventas_%28Madrid%29_04.jpg" target="_blank" rel="noopener">Luis García (Zaqarbal)</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3APlaza_de_Toros_de_Las_Ventas.JPG" target="_blank" rel="noopener">MarcusObal</a> (CC BY-SA 3.0).</p>

@@ -52,9 +52,6 @@ Te cuento cómo una isla se convirtió en península por un terremoto y si se pu
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/melilla-que-ver.html"><img src="/assets/img/blog/melilla-que-ver/acantilado.webp" alt="Melilla" loading="lazy" decoding="async" /><span>Melilla</span></a></li><li><a href="/blog/ceuta-que-ver.html"><img src="/assets/img/blog/ceuta-que-ver/portada.webp" alt="Ceuta" loading="lazy" decoding="async" /><span>Ceuta</span></a></li><li><a href="/blog/punta-de-tarifa.html"><img src="/assets/img/blog/punta-de-tarifa/faro.webp" alt="Punta de Tarifa" loading="lazy" decoding="async" /><span>Punta de Tarifa</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3APe%C3%B1%C3%B3n_de_V%C3%A9lez_de_la_Gomera_57.jpg" target="_blank" rel="noopener">MONUMENTA</a> (CC BY-SA 4.0).</p>

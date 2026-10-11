@@ -58,9 +58,6 @@ Te cuento qué ver y algunas curiosidades que lo hacen único 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más Cuenca</span><h2>Sigue por Cuenca</h2></div>
-<ul class="nearby"><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Guía de Cuenca" loading="lazy" decoding="async" /><span>Guía de Cuenca</span></a></li><li><a href="/blog/ciudad-encantada-cuenca.html"><img src="/assets/img/blog/cuenca/ciudad-encantada.webp" alt="Ciudad Encantada" loading="lazy" decoding="async" /><span>Ciudad Encantada</span></a></li><li><a href="/blog/consuegra-molinos.html"><img src="/assets/img/blog/consuegra-molinos/portada.webp" alt="Molinos de Consuegra" loading="lazy" decoding="async" /><span>Molinos de Consuegra</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Consulta horarios, precio y agenda de eventos en la web oficial del Castillo de Belmonte. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_Belmonte%2C_Cuenca.jpg" target="_blank" rel="noopener">Jose Luis Filpo Cabana</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABelmonte_-_Castillo_de_Belmonte_02_2015-11-19.jpg" target="_blank" rel="noopener">Rafa Esteve</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABelmonte-PM_65437.jpg" target="_blank" rel="noopener">PMRMaeyaert</a> (CC BY-SA 3.0 es).</p>

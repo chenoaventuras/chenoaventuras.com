@@ -53,9 +53,6 @@ Te cuento por qué llueve tanto, el bosque «de la época del hielo» que escond
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/faro-de-chipiona.html"><img src="/assets/img/blog/faro-de-chipiona/portada.webp" alt="Faro de Chipiona" loading="lazy" decoding="async" /><span>Faro de Chipiona</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AGrazalema%2C_panor%C3%A1mica_desde_A-372.jpg" target="_blank" rel="noopener">Malopez 21</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AGrazalema-plaza-ayuntamiento.jpg" target="_blank" rel="noopener">El Pantera</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABosque_de_Abies_pinsapo_-_Parque_Natural_de_la_Sierra_de_Grazalema.jpg" target="_blank" rel="noopener">Ángel Regatero</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AArcoiris_sobre_el_Pinsapar.jpg" target="_blank" rel="noopener">Davidruiz91</a> (CC BY-SA 4.0).</p>

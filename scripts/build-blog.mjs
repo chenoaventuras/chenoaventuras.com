@@ -161,7 +161,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261011c" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261011d" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -339,14 +339,53 @@ function kmBetween(a, b) {
   return 2 * R * Math.asin(Math.sqrt(x));
 }
 
+// «Más planes cerca»: los lugares publicados más cercanos de verdad, por
+// distancia en línea recta. Hasta 3 a menos de 100 km; si no llega a 2, se
+// amplía a 150 km. Si no hay ninguno (islas, Marruecos…), no se muestra.
+function nearbyPosts(p, posts) {
+  if (p.lat === null || p.lng === null) return [];
+  const all = posts
+    .filter((q) => q.slug !== p.slug && q.lat !== null && q.lng !== null && !q.tags.includes("Descuentos"))
+    .map((q) => ({ q, km: kmBetween(p, q) }))
+    .sort((a, b) => a.km - b.km);
+  // en las islas (Canarias, Baleares) solo la misma isla: nada de cruzar el mar
+  if (isIsland(p)) return all.filter((x) => x.km <= 60).slice(0, 3);
+  const near = all.filter((x) => x.km <= 100).slice(0, 3);
+  return near.length >= 2 ? near : all.filter((x) => x.km <= 150).slice(0, 3);
+}
+function isIsland(p) {
+  const canarias = p.lng < -12 && p.lat < 30;
+  const baleares = p.lng > 1.1 && p.lng < 4.5 && p.lat > 38.6 && p.lat < 40.2;
+  return canarias || baleares;
+}
+
+function withNearby(body, box) {
+  if (!box) return body;
+  const i = body.indexOf('<div class="guide__cta">');
+  return i === -1 ? body + "\n" + box : body.slice(0, i) + box + "\n" + body.slice(i);
+}
+
+function nearbyBox(list, current) {
+  if (!list.length) return "";
+  // nombre corto (el «lugar»); si se repite entre las tarjetas, el título del post
+  const lugares = list.map(({ q }) => q.lugar);
+  const name = (q) => (q.lugar && q.lugar !== current.lugar && lugares.filter((l) => l === q.lugar).length === 1 ? q.lugar : q.title.split(":")[0]);
+  const dist = (km) => (km < 1 ? "al lado" : `a ${km < 10 ? km.toFixed(1).replace(".", ",") : Math.round(km)} km`);
+  return `<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
+<ul class="nearby">${list
+    .map(({ q, km }) => `<li><a href="/blog/${q.slug}.html"><img src="${esc(thumbOf(q.cover))}" alt="${esc(name(q))}" loading="lazy" decoding="async" /><span>${esc(name(q))}<small>${dist(km)}</small></span></a></li>`)
+    .join("")}</ul>
+`;
+}
+
 // misma comunidad > cerca en el mapa > mismo tipo; los descuentos solo salen
 // como relacionados de otro descuento.
-function relatedPosts(p, posts, n = 3) {
+function relatedPosts(p, posts, n = 3, skip = []) {
   const region = p.tags.find((t) => !TAG_TYPES.includes(t));
   const type = p.tags.find((t) => TAG_TYPES.includes(t));
   const isDisc = p.tags.includes("Descuentos");
   return posts
-    .filter((q) => q.slug !== p.slug && q.tags.length && q.tags.includes("Descuentos") === isDisc)
+    .filter((q) => q.slug !== p.slug && !skip.includes(q.slug) && q.tags.length && q.tags.includes("Descuentos") === isDisc)
     .map((q) => {
       let score = 0;
       if (region && q.tags.includes(region)) score += 3;
@@ -408,7 +447,7 @@ function faqBox(p) {
 `;
 }
 
-function renderPost(p, tagColorMap, nextPost, related = [], destino = null) {
+function renderPost(p, tagColorMap, nextPost, related = [], destino = null, nearby = []) {
   const coverAbs = p.cover ? (p.cover.startsWith("http") ? p.cover : SITE + p.cover) : "";
   const regionTag = p.tags.find((t) => !TAG_TYPES.includes(t));
   const jsonld = JSON.stringify(
@@ -514,7 +553,7 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null) {
       <section class="section">
         <div class="container">
 ${p.html.includes("<!--guia-->") ? "" : guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
-${(p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", () => guideBox(p)).replace("<!--faq-->", () => carBox(p) + faqBox(p))}
+${withNearby((p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", () => guideBox(p)).replace("<!--faq-->", () => carBox(p) + faqBox(p)), nearbyBox(nearby, p))}
           </div>
 ${authorBox()}${
   related.length
@@ -931,7 +970,8 @@ mkdirSync(OUT_DIR, { recursive: true });
 for (let i = 0; i < posts.length; i++) {
   const p = posts[i];
   const nextPost = posts[i + 1] || null;
-  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap, nextPost, relatedPosts(p, posts), destinoOf(p)));
+  const nearby = nearbyPosts(p, posts);
+  writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap, nextPost, relatedPosts(p, posts, 3, nearby.map((x) => x.q.slug)), destinoOf(p), nearby));
 }
 rmSync(DEST_DIR, { recursive: true, force: true });
 mkdirSync(DEST_DIR, { recursive: true });

@@ -50,9 +50,6 @@ Te cuento su historia, cómo conseguir entrada (se agotan) y qué ver 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/cabo-de-creus.html"><img src="/assets/img/blog/cabo-de-creus/paisaje.webp" alt="Cabo de Creus" loading="lazy" decoding="async" /><span>Cabo de Creus</span></a></li><li><a href="/blog/tossa-de-mar-ava-gardner.html"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/castillo.webp" alt="Tossa de Mar" loading="lazy" decoding="async" /><span>Tossa de Mar</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACasa_Salvador_Dal%C3%AD_Portlligat.JPG" target="_blank" rel="noopener">CGE</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACasa_Salvador_Dal%C3%AD_de_Portlligat_%28Cadaqu%C3%A9s%29_-_1.jpg" target="_blank" rel="noopener">ferran pestaña</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APortlligat_-_Dali_-_Zypresse_im_Boot.jpg" target="_blank" rel="noopener">Genet (Diskussion)</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APort_Lligat%2C_Cadaqu%C3%A9s_%28Gerona%29_-_panoramio_%282%29.jpg" target="_blank" rel="noopener">velomartinez</a> (CC BY-SA 3.0).</p>

@@ -56,9 +56,6 @@ El **Barranco del Infierno** es una de las rutas más famosas de la isla, con pl
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Tenerife</h2></div>
-<ul class="nearby"><li><a href="/blog/teide.html"><img src="/assets/img/blog/teide/portada.webp" alt="Teide" loading="lazy" decoding="async" /><span>Teide</span></a></li><li><a href="/blog/mirador-de-chipeque-tenerife.html"><img src="/assets/img/instagram/18075135229685841.webp" alt="Mirador de Chipeque" loading="lazy" decoding="async" /><span>Mirador de Chipeque</span></a></li><li><a href="/blog/arco-de-tajao-tenerife.html"><img src="/assets/img/instagram/18124723345426528.webp" alt="Arco de Tajao" loading="lazy" decoding="async" /><span>Arco de Tajao</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Las plazas, precios y horarios cambian según la temporada: consúltalos en la web oficial del Barranco del Infierno antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ABarranco_del_Infierno_-_Tenerife_-_08.jpg" target="_blank" rel="noopener">Ronny Siegel</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABarranco_del_Infierno_9.JPG" target="_blank" rel="noopener">Fujnky</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AESP_Tenerife%2C_Adeje%2C_Iglesia_de_Santa_%C3%9Arsula_0001.jpg" target="_blank" rel="noopener">-wuppertaler</a> (CC BY 4.0).</p>

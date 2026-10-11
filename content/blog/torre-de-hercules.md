@@ -53,9 +53,6 @@ Te cuento por qué se llama así, qué queda de la torre romana y cómo subir ha
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/fervenza-do-ezaro.html"><img src="/assets/img/blog/fervenza-do-ezaro/portada.webp" alt="Fervenza do Ézaro" loading="lazy" decoding="async" /><span>Fervenza do Ézaro</span></a></li><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li><li><a href="/blog/canon-del-sil.html"><img src="/assets/img/blog/canon-del-sil/portada.webp" alt="Cañón del Sil" loading="lazy" decoding="async" /><span>Cañón del Sil</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ATorre_de_H%C3%A9rcules%2C_La_Coru%C3%B1a%2C_Espa%C3%B1a%2C_2015-09-24%2C_DD_12-15_PAN.JPG" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AA_coruna_torre_de_hercules_sunset_edit.jpg" target="_blank" rel="noopener">Alessio Damato</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AEstatua_de_Breog%C3%A1n_y_Torre_de_H%C3%A9rcules.003_-_A_Coru%C3%B1a.jpg" target="_blank" rel="noopener">Fernando Losada Rodríguez</a> (CC BY-SA 4.0).</p>

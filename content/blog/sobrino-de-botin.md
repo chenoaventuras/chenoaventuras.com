@@ -50,9 +50,6 @@ Te cuento su historia, las leyendas que lo rodean y qué pedir si te sientas a c
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/madrid-fantasmas-leyendas.html"><img src="/assets/img/blog/madrid-fantasmas-leyendas/portada.webp" alt="Madrid de fantasmas" loading="lazy" decoding="async" /><span>Madrid de fantasmas</span></a></li><li><a href="/blog/capilla-sixtina-madrilena-san-antonio-alemanes.html"><img src="/assets/img/instagram/18083171645586039.webp" alt="San Antonio de los Alemanes" loading="lazy" decoding="async" /><span>San Antonio de los Alemanes</span></a></li><li><a href="/blog/templo-de-debod.html"><img src="/assets/img/blog/templo-de-debod/portada.webp" alt="Templo de Debod" loading="lazy" decoding="async" /><span>Templo de Debod</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ASobrino_de_Bot%C3%ADn_Restaurant.jpg" target="_blank" rel="noopener">Renek78</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3A2014_-_Sobrino_de_Bot%C3%ADn_%28Casa_Bot%C3%ADn%29_Restaurant%2C_Madrid%2C_Spain_%28_Ank_Kumar_%29_03.jpg" target="_blank" rel="noopener">Ank Kumar</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AArco_de_Cuchilleros_%28Madrid%29_01.jpg" target="_blank" rel="noopener">Luis García (Zaqarbal)</a> (CC BY-SA 3.0).</p>

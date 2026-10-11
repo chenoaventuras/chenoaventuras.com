@@ -65,9 +65,6 @@ Aquí te cuento cuánto cuestan las entradas, cómo es el recorrido, qué tienes
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más aventuras</span><h2>Si te gustan las pasarelas…</h2></div>
-<ul class="nearby"><li><a href="/blog/pasarelas-de-panticosa.html"><img src="/assets/img/instagram/18131174488538752.webp" alt="Pasarelas de Panticosa" loading="lazy" decoding="async" /><span>Pasarelas de Panticosa</span></a></li><li><a href="/blog/via-ferrata-ventano-del-diablo.html"><img src="/assets/img/instagram/18046706486419072.webp" alt="Vía ferrata del Ventano del Diablo" loading="lazy" decoding="async" /><span>Vía ferrata del Ventano del Diablo</span></a></li><li><a href="/blog/barranquismo-en-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Barranquismo en Cuenca" loading="lazy" decoding="async" /><span>Barranquismo en Cuenca</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Datos consultados en octubre de 2026 en la web oficial del Caminito del Rey; pueden cambiar, así que confírmalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACaminito_del_Rey%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-18%2C_DD_30.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0).</p>

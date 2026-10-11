@@ -51,9 +51,6 @@ Te cuento la historia y qué ver en su espectacular **Vila Vella** amurallada �
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/cabo-de-creus.html"><img src="/assets/img/blog/cabo-de-creus/paisaje.webp" alt="Cabo de Creus" loading="lazy" decoding="async" /><span>Cabo de Creus</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li><li><a href="/blog/sagrada-familia.html"><img src="/assets/img/blog/sagrada-familia/portada.webp" alt="Sagrada Familia" loading="lazy" decoding="async" /><span>Sagrada Familia</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACosta_Brava_-_Tossa_de_Mar_-_La_Vila_Vella_-_Carni_del_Far_-_Panorama_View_from_Esgl%C3%A9sia_vella_de_Sant_Vicen%C3%A7_on_Tossa_de_Mar%2C_Platja_Gran%2C_Town_walls%2C_Torre_d%27en_Joan%C3%A0s_%26_Mediterranean_Sea_08.jpg" target="_blank" rel="noopener">Txllxt TxllxT</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATossa%2C_Ava_Gardner_como_Pandora.jpg" target="_blank" rel="noopener">Czeva</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AWLM_-_2020_-_Castillo_de_Tosa_de_Mar.jpg" target="_blank" rel="noopener">Moahim</a> (CC BY-SA 4.0).</p>

@@ -52,9 +52,6 @@ Te cuento la historia de la película y qué queda de ella en el pueblo 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/buitrago-del-lozoya-que-ver.html"><img src="/assets/img/instagram/18567364960036817.webp" alt="Buitrago del Lozoya" loading="lazy" decoding="async" /><span>Buitrago del Lozoya</span></a></li><li><a href="/blog/hayedo-de-montejo.html"><img src="/assets/img/blog/hayedo-de-montejo/portada.webp" alt="Hayedo de Montejo" loading="lazy" decoding="async" /><span>Hayedo de Montejo</span></a></li><li><a href="/blog/fresnedillas-apolo-11.html"><img src="/assets/img/blog/fresnedillas-apolo-11/portada.webp" alt="Fresnedillas y la Luna" loading="lazy" decoding="async" /><span>Fresnedillas y la Luna</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AGuadalix_de_la_Sierra.jpg" target="_blank" rel="noopener">Garcellor</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AEscultura_conmemorativa_de_Bienvenido%2C_Mister_Marshall.jpg" target="_blank" rel="noopener">Almuest</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APlaca_Bienvenido_Mr_Marshall_Guadalix_de_la_Sierra.JPG" target="_blank" rel="noopener">Cruccone</a> (CC BY 3.0).</p>

@@ -50,9 +50,6 @@ Te cuento cómo verlo y por qué esta zona es un museo de olivos milenarios al a
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/peniscola-que-ver.html"><img src="/assets/img/blog/peniscola-que-ver/portada.webp" alt="Peñíscola" loading="lazy" decoding="async" /><span>Peñíscola</span></a></li><li><a href="/blog/miravet.html"><img src="/assets/img/blog/miravet/portada.webp" alt="Miravet" loading="lazy" decoding="async" /><span>Miravet</span></a></li><li><a href="/blog/montblanc-que-ver.html"><img src="/assets/img/blog/montblanc-que-ver/portada.webp" alt="Montblanc" loading="lazy" decoding="async" /><span>Montblanc</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AOlivenbaum_La_Farga_de_l%27Arion_I_in_Ulldecona%2C_Spanien.jpg" target="_blank" rel="noopener">Gordito1869</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AUlldecona_-_Farga_de_l%27Arion_1.JPG" target="_blank" rel="noopener">Herodotptlomeu</a> (CC BY-SA 3.0).</p>

@@ -55,9 +55,6 @@ Te cuento cómo hacerla sin morir en el intento (y cómo volver, que es la gran 
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el norte</h2></div>
-<ul class="nearby"><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/cudillero-que-ver.html"><img src="/assets/img/blog/cudillero-que-ver/portada.webp" alt="Cudillero" loading="lazy" decoding="async" /><span>Cudillero</span></a></li><li><a href="/blog/partenon-de-las-fraguas-cantabria.html"><img src="/assets/img/instagram/18073249217294344.webp" alt="Las Fraguas" loading="lazy" decoding="async" /><span>Las Fraguas</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Consulta el estado del camino y las opciones de transporte de vuelta en el Parque Nacional de los Picos de Europa. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ARuta_del_cares_%2814072443456%29.jpg" target="_blank" rel="noopener">Javier Mendia García from leioa</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AS00_060_Garganta_de_Cares.jpg" target="_blank" rel="noopener">Falk2</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AFunicular_de_Bulnes_Ago_2020.jpeg" target="_blank" rel="noopener">Robot8A</a> (CC BY-SA 4.0).</p>

@@ -55,9 +55,6 @@ Lo primero que todo el mundo pregunta es si se puede bañar. Te lo cuento 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
-<ul class="nearby"><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.webp" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Cabo de Palos" loading="lazy" decoding="async" /><span>Cabo de Palos</span></a></li><li><a href="/blog/fuente-del-gorgoton-cieza.html"><img src="/assets/img/instagram/17940241613914417.webp" alt="Cieza" loading="lazy" decoding="async" /><span>Cieza</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Respeta las normas del Parque Natural de las Lagunas de La Mata y Torrevieja. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AConcentraci%C3%B3n_de_sal_en_la_orilla%2C_Torrevieja.jpg" target="_blank" rel="noopener">Moisés Pastor</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3ATorrevieja%2C_Lagune_Rose.jpg" target="_blank" rel="noopener">Medjellel</a> (CC BY 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASalinas_de_Torrevieja_-_Torrevieja%2C_Spain_2024-02-04.jpg" target="_blank" rel="noopener">Ryan Hodnett</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASalt_Bubbles_-_Torrevieja%2C_Spain_2024-02-04_%2801%29.jpg" target="_blank" rel="noopener">Ryan Hodnett</a> (CC BY-SA 4.0).</p>

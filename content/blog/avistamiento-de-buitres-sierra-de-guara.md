@@ -65,9 +65,6 @@ Te lo enseño en vídeo 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando el Pirineo</h2></div>
-<ul class="nearby"><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Qué ver en Aínsa" loading="lazy" decoding="async" /><span>Qué ver en Aínsa</span></a></li><li><a href="/blog/cascada-del-sorrosal-broto.html"><img src="/assets/img/instagram/17998790027794852.webp" alt="Cascada del Sorrosal" loading="lazy" decoding="async" /><span>Cascada del Sorrosal</span></a></li><li><a href="/blog/ruta-cola-de-caballo-ordesa.html"><img src="/assets/img/instagram/18124961662670705.webp" alt="Ruta a la Cola de Caballo" loading="lazy" decoding="async" /><span>Ruta a la Cola de Caballo</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te vas al Pirineo?</h2><p>En mi guía completa tienes los pueblos, rutas, cascadas e ibones del Pirineo Aragonés, zona por zona.</p><a class="btn guide__btn" href="/blog/pirineo-aragones-que-ver.html">Ver la guía del Pirineo</a><a class="btn btn--ghost guide__dl guide__dl--cta" href="#guia-gratis">📱 Recibir la guía PDF</a><p class="guide__follow">Y si te gustan estos planes, sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>.</p></div>
 
 <p class="guide__note">Datos consultados en octubre de 2026 en fuentes oficiales; pueden cambiar, así que confírmalos antes de ir. Fotos de Chenoaventuras. </p>

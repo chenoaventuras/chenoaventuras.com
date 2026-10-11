@@ -54,9 +54,6 @@ Te cuento cómo vivía el emperador retirado y qué ver hoy 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/granadilla-pueblo-abandonado.html"><img src="/assets/img/blog/granadilla-pueblo-abandonado/pueblo.webp" alt="Granadilla" loading="lazy" decoding="async" /><span>Granadilla</span></a></li><li><a href="/blog/los-pilones-jerte.html"><img src="/assets/img/blog/los-pilones-jerte/portada.webp" alt="Los Pilones" loading="lazy" decoding="async" /><span>Los Pilones</span></a></li><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AClaustro_renacentista_del_monasterio_de_Yuste%2C_C%C3%A1ceres.jpg" target="_blank" rel="noopener">Alonso de Mendoza</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACuacos_de_Yuste_-_Monasterio_de_San_Jer%C3%B3nimo_de_Yuste_12.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3ACuacos_de_Yuste-plaza_mayor-%28DavidDaguerro%29.JPG" target="_blank" rel="noopener">DavidDaguerro de Madrid</a> (CC BY-SA 4.0).</p>

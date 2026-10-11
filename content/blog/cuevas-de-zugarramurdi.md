@@ -55,9 +55,6 @@ Hoy puedes recorrer la cueva donde supuestamente se celebraban los **akelarres**
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el norte</h2></div>
-<ul class="nearby"><li><a href="/blog/bardenas-reales.html"><img src="/assets/img/blog/bardenas-reales/portada.webp" alt="Bardenas Reales" loading="lazy" decoding="async" /><span>Bardenas Reales</span></a></li><li><a href="/blog/hondarribia-que-ver.html"><img src="/assets/img/blog/hondarribia-que-ver/plaza.webp" alt="Hondarribia" loading="lazy" decoding="async" /><span>Hondarribia</span></a></li><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Los precios y horarios de la cueva y del museo cambian según la temporada: consúltalos en su web oficial antes de ir.</p>

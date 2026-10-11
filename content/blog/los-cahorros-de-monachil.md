@@ -59,9 +59,6 @@ Es gratis, no hay que reservar y es apta para casi todo el mundo. Te cuento cóm
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más aventuras</span><h2>Si te gustan los puentes colgantes…</h2></div>
-<ul class="nearby"><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/pasarelas-de-panticosa.html"><img src="/assets/img/instagram/18131174488538752.webp" alt="Pasarelas de Panticosa" loading="lazy" decoding="async" /><span>Pasarelas de Panticosa</span></a></li><li><a href="/blog/senda-de-los-cazadores-ordesa.html"><img src="/assets/img/blog/pirineo/calcilarruego.webp" alt="Senda de los Cazadores" loading="lazy" decoding="async" /><span>Senda de los Cazadores</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Datos consultados en octubre de 2026; las distancias varían según la variante de la ruta. Confirma el estado del sendero antes de ir, sobre todo tras lluvias fuertes. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACahorros_de_Monachil_%2815061056206%29.jpg" target="_blank" rel="noopener">Por los caminos de Málaga</a> (CC BY 2.0).</p>

@@ -54,9 +54,6 @@ Te cuento su curiosa historia y qué ver en uno de los pueblos más bonitos de E
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más interior</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li><li><a href="/blog/los-pilones-jerte.html"><img src="/assets/img/blog/los-pilones-jerte/portada.webp" alt="Los Pilones" loading="lazy" decoding="async" /><span>Los Pilones</span></a></li><li><a href="/blog/ciudad-rodrigo-que-ver.html"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/portada.webp" alt="Ciudad Rodrigo" loading="lazy" decoding="async" /><span>Ciudad Rodrigo</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AIglesia_de_Santa_Mar%C3%ADa_Magdalena_desde_el_Castillo_de_Olivenza.jpg" target="_blank" rel="noopener">Axel Cotón Gutiérrez</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AIglesia_de_Santa_Mar%C3%ADa_Magdalena_%28Olivenza%29._Capilla_mayor.jpg" target="_blank" rel="noopener">José Luis Filpo Cabana</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_Olivenza.jpg" target="_blank" rel="noopener">User:Alfons024</a> (Public domain) · <a href="https://commons.wikimedia.org/wiki/File%3A20230212_160839_Olivenza.jpg" target="_blank" rel="noopener">80kmh</a> (CC BY 4.0).</p>

@@ -54,9 +54,6 @@ Y el monte existe: está al otro lado del Duero, y cada año la ciudad celebra *
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
-<ul class="nearby"><li><a href="/blog/burgo-de-osma-que-ver.html"><img src="/assets/img/instagram/18092599556079124.webp" alt="El Burgo de Osma" loading="lazy" decoding="async" /><span>El Burgo de Osma</span></a></li><li><a href="/blog/medinaceli-que-ver.html"><img src="/assets/img/blog/medinaceli-que-ver/portada.webp" alt="Medinaceli" loading="lazy" decoding="async" /><span>Medinaceli</span></a></li><li><a href="/blog/siguenza-que-ver.html"><img src="/assets/img/blog/siguenza-que-ver/portada.webp" alt="Sigüenza" loading="lazy" decoding="async" /><span>Sigüenza</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te atreves con más lugares de miedo?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Consulta el programa del Festival de las Ánimas y los horarios de San Juan de Duero en la web del Ayuntamiento de Soria.</p>

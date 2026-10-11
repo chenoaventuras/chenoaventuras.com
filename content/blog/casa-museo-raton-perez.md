@@ -49,9 +49,6 @@ Te cuento de dónde sale el cuento y cómo visitar su casita-museo 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/sobrino-de-botin.html"><img src="/assets/img/blog/sobrino-de-botin/interior.webp" alt="Sobrino de Botín" loading="lazy" decoding="async" /><span>Sobrino de Botín</span></a></li><li><a href="/blog/madrid-fantasmas-leyendas.html"><img src="/assets/img/blog/madrid-fantasmas-leyendas/portada.webp" alt="Madrid de fantasmas" loading="lazy" decoding="async" /><span>Madrid de fantasmas</span></a></li><li><a href="/blog/beatles-las-ventas.html"><img src="/assets/img/blog/beatles-las-ventas/ventas.webp" alt="Los Beatles en Las Ventas" loading="lazy" decoding="async" /><span>Los Beatles en Las Ventas</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AMadrid_-_Casita-Museo_del_Rat%C3%B3n_P%C3%A9rez_%28Arenal_8%29.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3ACalle_del_Arenal_%28Madrid%29_02.jpg" target="_blank" rel="noopener">Darío Álvarez from Madrid (Spain)</a> (CC BY 2.0).</p>

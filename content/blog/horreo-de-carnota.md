@@ -52,9 +52,6 @@ Te cuento su historia, la pelea entre pueblos por tener el hórreo más largo y 
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/fervenza-do-ezaro.html"><img src="/assets/img/blog/fervenza-do-ezaro/portada.webp" alt="Fervenza do Ézaro" loading="lazy" decoding="async" /><span>Fervenza do Ézaro</span></a></li><li><a href="/blog/torre-de-hercules.html"><img src="/assets/img/blog/torre-de-hercules/atardecer.webp" alt="Torre de Hércules" loading="lazy" decoding="async" /><span>Torre de Hércules</span></a></li><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3A2015._H%C3%B3rreo_de_Carnota._Carnota._Galiza.jpg" target="_blank" rel="noopener">Luis Miguel Bugallo Sánchez (Lmbuga)</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AEl_h%C3%B3rreo_de_Carnota_en_Galicia.jpg" target="_blank" rel="noopener">Erik Albers</a> (CC0).</p>

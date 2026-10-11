@@ -54,9 +54,6 @@ Te cuento qué ver y cómo combinar historia y naturaleza 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más Castilla-La Mancha</span><h2>Sigue por Castilla-La Mancha</h2></div>
-<ul class="nearby"><li><a href="/blog/consuegra-molinos.html"><img src="/assets/img/blog/consuegra-molinos/portada.webp" alt="Molinos de Consuegra" loading="lazy" decoding="async" /><span>Molinos de Consuegra</span></a></li><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Guía de Cuenca" loading="lazy" decoding="async" /><span>Guía de Cuenca</span></a></li><li><a href="/blog/alcala-del-jucar.html"><img src="/assets/img/blog/alcala-del-jucar/portada.webp" alt="Alcalá del Júcar" loading="lazy" decoding="async" /><span>Alcalá del Júcar</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Consulta horarios de la catedral y fechas del Tren Medieval antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ASig%C3%BCenza_%28Guadalajara%29.JPG" target="_blank" rel="noopener">José Ibáñez</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AThe_sepulcher_of_El_Doncel_de_Sig%C3%BCenza.jpg" target="_blank" rel="noopener">Stch2022</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3ABarranco_del_r%C3%ADo_Dulce_-_01.jpg" target="_blank" rel="noopener">Carlos Delgado</a> (CC BY-SA 3.0 es).</p>

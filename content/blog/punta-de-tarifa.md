@@ -52,9 +52,6 @@ Te cuento cómo llegar al cartel de los dos mares y qué más hacer en Tarifa �
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/ceuta-que-ver.html"><img src="/assets/img/blog/ceuta-que-ver/portada.webp" alt="Ceuta" loading="lazy" decoding="async" /><span>Ceuta</span></a></li><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AFaro%2C_Isla_de_las_Palomas%2C_Tarifa%2C_Espa%C3%B1a%2C_2015.JPG" target="_blank" rel="noopener">Benjamín Núñez González</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AAtl%C3%A1ntico_Punta_Tarifa.JPG" target="_blank" rel="noopener">Karton82</a> (CC BY-SA 4.0).</p>

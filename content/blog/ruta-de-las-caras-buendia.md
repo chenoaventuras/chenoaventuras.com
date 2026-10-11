@@ -51,9 +51,6 @@ La **Ruta de las Caras** es uno de los paseos más curiosos de Cuenca, con un ai
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
-<ul class="nearby"><li><a href="/blog/guia-cuenca.html"><img src="/assets/img/instagram/17884520457664154.webp" alt="Cuenca" loading="lazy" decoding="async" /><span>Cuenca</span></a></li><li><a href="/blog/ciudad-encantada-cuenca.html"><img src="/assets/img/blog/cuenca/ciudad-encantada.webp" alt="Ciudad Encantada" loading="lazy" decoding="async" /><span>Ciudad Encantada</span></a></li><li><a href="/blog/siguenza-que-ver.html"><img src="/assets/img/blog/siguenza-que-ver/portada.webp" alt="Sigüenza" loading="lazy" decoding="async" /><span>Sigüenza</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Consulta el estado del aparcamiento y del acceso con el Ayuntamiento de Buendía.</p>

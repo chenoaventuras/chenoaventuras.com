@@ -52,9 +52,6 @@ Te cuento qué pasó, cómo está ahora y cómo verlo con respeto 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/teide.html"><img src="/assets/img/blog/teide/portada.webp" alt="Teide" loading="lazy" decoding="async" /><span>Teide</span></a></li><li><a href="/blog/drago-milenario-icod.html"><img src="/assets/img/blog/drago-milenario-icod/drago.webp" alt="Drago Milenario" loading="lazy" decoding="async" /><span>Drago Milenario</span></a></li><li><a href="/blog/roque-nublo.html"><img src="/assets/img/blog/roque-nublo/teide.webp" alt="Roque Nublo" loading="lazy" decoding="async" /><span>Roque Nublo</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AVulkan_Tajogaite_-_La_Palma.jpg" target="_blank" rel="noopener">Rolfcosar</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3A2021_La_Palma_eruption_11.jpg" target="_blank" rel="noopener">Eduardo Robaina</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATajogaite_Volcanic_Cone_on_La_Palma_in_Canary_Islands_after_2021_Eruption.jpg" target="_blank" rel="noopener">Marc Campeny, Inmaculada Menéndez, Jordi Ibáñez‑Insa, Jesús </a> (CC BY 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AHouses_in_lava_field_from_2021_Cumbre_Vieja_volcanic_eruption%2C_La_Palma.jpg" target="_blank" rel="noopener">Gerda Arendt</a> (CC0).</p>

@@ -57,9 +57,6 @@ Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cóm
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más Burgos</span><h2>Sigue por el norte de Burgos</h2></div>
-<ul class="nearby"><li><a href="/blog/merindades-burgos-que-ver.html"><img src="/assets/img/instagram/18077362268036595.webp" alt="Las Merindades" loading="lazy" decoding="async" /><span>Las Merindades</span></a></li><li><a href="/blog/nido-ciguena-mas-famoso-espana.html"><img src="/assets/img/instagram/18314157211262082.webp" alt="El nido de cigüeña más famoso" loading="lazy" decoding="async" /><span>El nido de cigüeña más famoso</span></a></li><li><a href="/blog/territorio-artlanza-burgos.html"><img src="/assets/img/instagram/18047661281545002.webp" alt="Territorio Artlanza" loading="lazy" decoding="async" /><span>Territorio Artlanza</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. El caudal de la cascada depende de las lluvias. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AOrbaneja_del_Castillo_-_026_%2836692085606%29.jpg" target="_blank" rel="noopener">Luis Rogelio HM</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AOrbanejaDelCastilloDesdeElEste_6222627---_6222632.jpg" target="_blank" rel="noopener">Rowanwindwhistler</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMini_cascadas_en_Orbaneja_del_Castillo.JPG" target="_blank" rel="noopener">Vanessa Herrrero</a> (CC BY-SA 3.0 es).</p>

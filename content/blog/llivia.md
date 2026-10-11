@@ -51,9 +51,6 @@ Te cuento cómo pasó, qué es la carretera «neutral» y la farmacia medieval q
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li><li><a href="/blog/cabo-de-creus.html"><img src="/assets/img/blog/cabo-de-creus/paisaje.webp" alt="Cabo de Creus" loading="lazy" decoding="async" /><span>Cabo de Creus</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AVista_de_Ll%C3%ADvia_2022.jpg" target="_blank" rel="noopener">Medol</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ALl%C3%ADvia_-_P1100391.jpg" target="_blank" rel="noopener">Pere López Brosa</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AFarmacia_Esteva_%283%29.jpg" target="_blank" rel="noopener">Alberto-g-rovi</a> (CC BY 3.0).</p>

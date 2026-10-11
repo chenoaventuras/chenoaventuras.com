@@ -53,9 +53,6 @@ Te cuento su historia, cómo lo están recuperando y cómo visitarlo 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/hervas-que-ver.html"><img src="/assets/img/blog/hervas-que-ver/portada.webp" alt="Hervás" loading="lazy" decoding="async" /><span>Hervás</span></a></li><li><a href="/blog/los-pilones-jerte.html"><img src="/assets/img/blog/los-pilones-jerte/portada.webp" alt="Los Pilones" loading="lazy" decoding="async" /><span>Los Pilones</span></a></li><li><a href="/blog/ciudad-rodrigo-que-ver.html"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/portada.webp" alt="Ciudad Rodrigo" loading="lazy" decoding="async" /><span>Ciudad Rodrigo</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AVista_de_Granadilla_y_Embalse_de_Gabriel_y_Gal%C3%A1n_desde_el_castillo.jpg" target="_blank" rel="noopener">Mpozod</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AGranadilla_Town.jpg" target="_blank" rel="noopener">Abarrajon</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_Granadilla%2C_caceres%2C_spain.jpg" target="_blank" rel="noopener">Fernando Ortega Valín</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3APanor%C3%A1mica_%2813_de_agosto_de_2014%2C_Granadilla%29.JPG" target="_blank" rel="noopener">Discasto</a> (CC BY-SA 3.0 es).</p>

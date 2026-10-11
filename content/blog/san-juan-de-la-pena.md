@@ -54,9 +54,6 @@ Pocos sitios de España juntan tanta leyenda en tan poco espacio 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el Pirineo</h2></div>
-<ul class="nearby"><li><a href="/blog/estacion-de-canfranc.html"><img src="/assets/img/instagram/18060356315252624.webp" alt="Estación de Canfranc" loading="lazy" decoding="async" /><span>Estación de Canfranc</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Pirineo Aragonés" loading="lazy" decoding="async" /><span>Pirineo Aragonés</span></a></li><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Aínsa" loading="lazy" decoding="async" /><span>Aínsa</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. El monasterio estaba cerrado tras el incendio de agosto de 2026: comprueba su estado, horarios y precios en Turismo de Aragón antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AReal_Monasterio_de_San_Juan_de_la_Pe%C3%B1a%2C_Huesca%2C_Espa%C3%B1a%2C_2023-01-05%2C_DD_63-65_HDR.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASan_Juan_de_la_Pe%C3%B1a_-_Monasterio_Viejo_06.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3APante%C3%B3n_de_Reyes._Monasterio_de_San_Juan_de_la_Pe%C3%B1a.jpg" target="_blank" rel="noopener">Kent Wang</a> (CC BY 4.0).</p>

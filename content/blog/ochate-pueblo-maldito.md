@@ -52,9 +52,6 @@ Se llega andando, entre robles, y lo que queda impone 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
-<ul class="nearby"><li><a href="/blog/laguardia-que-ver.html"><img src="/assets/img/blog/laguardia-que-ver/portada.webp" alt="Laguardia" loading="lazy" decoding="async" /><span>Laguardia</span></a></li><li><a href="/blog/haro-que-ver.html"><img src="/assets/img/blog/haro-que-ver/portada.webp" alt="Haro" loading="lazy" decoding="async" /><span>Haro</span></a></li><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te atreves con más lugares de miedo?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Las ruinas están en mal estado: no entres en los edificios y respeta el entorno. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AOtxate_-_Ruinas_04.jpg" target="_blank" rel="noopener">Basotxerri</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AErmita_de_San_Vicentejo.JPG" target="_blank" rel="noopener">Eltitomac</a> (CC BY-SA 3.0).</p>

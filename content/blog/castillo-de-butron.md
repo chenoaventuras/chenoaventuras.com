@@ -54,9 +54,6 @@ Ahora tiene nuevos dueños y se está restaurando. Te cuento qué se puede ver y
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
-<ul class="nearby"><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li><li><a href="/blog/puente-de-vizcaya.html"><img src="/assets/img/blog/puente-de-vizcaya/portada.webp" alt="Puente de Vizcaya" loading="lazy" decoding="async" /><span>Puente de Vizcaya</span></a></li><li><a href="/blog/bosque-de-oma.html"><img src="/assets/img/blog/bosque-de-oma/portada.webp" alt="Bosque de Oma" loading="lazy" decoding="async" /><span>Bosque de Oma</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026.  Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_Butr%C3%B3n%2C_Vizcaya.jpg" target="_blank" rel="noopener">aherrero</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_Butr%C3%B3n_%28Gatika%29.jpg" target="_blank" rel="noopener">Juliaaaperezz</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACastillo_de_Butr%C3%B3n_-_Flickr_-_santi.arconada.jpg" target="_blank" rel="noopener">Santi P.A. from Getafe, España</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3AButroeko_gaztelua.jpg" target="_blank" rel="noopener">Ander Abadia Zallo</a> (CC BY-SA 4.0).</p>

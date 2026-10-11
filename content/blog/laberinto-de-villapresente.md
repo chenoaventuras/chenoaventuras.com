@@ -51,9 +51,6 @@ Te cuento cómo es, cuánto se tarda en salir y por qué es un plan perfecto par
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/santillana-del-mar-que-ver.html"><img src="/assets/img/blog/santillana-del-mar-que-ver/portada.webp" alt="Santillana del Mar" loading="lazy" decoding="async" /><span>Santillana del Mar</span></a></li><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/bosque-de-secuoyas-cabezon-de-la-sal.html"><img src="/assets/img/blog/bosque-de-secuoyas-cabezon-de-la-sal/portada.webp" alt="Bosque de Secuoyas" loading="lazy" decoding="async" /><span>Bosque de Secuoyas</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ALaberinto_De_Villapresente.jpg" target="_blank" rel="noopener">MariquillaColorinchi</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ALaberinto-de-villapresente-1-1814325876.jpg" target="_blank" rel="noopener">Wikika208</a> (CC BY-SA 4.0).</p>

@@ -52,9 +52,6 @@ Te cuento sus curiosidades y dónde hacer las mejores fotos de las Cuatro Torres
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/templo-de-debod.html"><img src="/assets/img/blog/templo-de-debod/portada.webp" alt="Templo de Debod" loading="lazy" decoding="async" /><span>Templo de Debod</span></a></li><li><a href="/blog/madrid-fantasmas-leyendas.html"><img src="/assets/img/blog/madrid-fantasmas-leyendas/portada.webp" alt="Madrid de fantasmas" loading="lazy" decoding="async" /><span>Madrid de fantasmas</span></a></li><li><a href="/blog/buitrago-del-lozoya-que-ver.html"><img src="/assets/img/instagram/18567364960036817.webp" alt="Buitrago del Lozoya" loading="lazy" decoding="async" /><span>Buitrago del Lozoya</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ATorre_de_Cristal_%28Madrid%29_-_03.jpg" target="_blank" rel="noopener">Carlos Delgado</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMadrid_-_CTBA%2C_Torre_Espacio%2C_Torre_de_Cristal_y_Torre_PwC.JPG" target="_blank" rel="noopener">Zarateman</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ANightCTBA.jpg" target="_blank" rel="noopener">Elfodelbosque</a> (CC BY-SA 4.0).</p>

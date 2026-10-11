@@ -53,9 +53,6 @@ Así que mejor ir ahora, que además el paisaje es de los más bestias de Españ
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en Galicia</h2></div>
-<ul class="nearby"><li><a href="/blog/playa-de-las-catedrales.html"><img src="/assets/img/blog/playa-de-las-catedrales/portada.webp" alt="Playa de las Catedrales" loading="lazy" decoding="async" /><span>Playa de las Catedrales</span></a></li><li><a href="/blog/fervenza-do-ezaro.html"><img src="/assets/img/blog/fervenza-do-ezaro/portada.webp" alt="Fervenza do Ézaro" loading="lazy" decoding="async" /><span>Fervenza do Ézaro</span></a></li><li><a href="/blog/islas-cies.html"><img src="/assets/img/blog/islas-cies/portada.webp" alt="Islas Cíes" loading="lazy" decoding="async" /><span>Islas Cíes</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026.</p>

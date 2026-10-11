@@ -54,9 +54,6 @@ Te cuento cómo ha llegado a esto y qué te vas a encontrar si vas 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
-<ul class="nearby"><li><a href="/blog/cueva-de-hercules-toledo.html"><img src="/assets/img/blog/cueva-de-hercules-toledo/portada.webp" alt="Cueva de Hércules" loading="lazy" decoding="async" /><span>Cueva de Hércules</span></a></li><li><a href="/blog/piedra-del-rey-moro-toledo.html"><img src="/assets/img/instagram/18067189766151364.webp" alt="Toledo" loading="lazy" decoding="async" /><span>Toledo</span></a></li><li><a href="/blog/puy-du-fou-toledo.html"><img src="/assets/img/instagram/18066740699149373.webp" alt="Puy du Fou España" loading="lazy" decoding="async" /><span>Puy du Fou España</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Datos de población del INE (2025). Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AIll%C3%A1n_de_Vacas_2.jpg" target="_blank" rel="noopener">LBM1948</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AIll%C3%A1n_de_Vacas_1.jpg" target="_blank" rel="noopener">LBM1948</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AIll%C3%A1n_de_Vacas_02.jpg" target="_blank" rel="noopener">Rodelar</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AIll%C3%A1n_de_Vacas_07.jpg" target="_blank" rel="noopener">Rodelar</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AIll%C3%A1n_de_Vacas%2C_cementerio.jpg" target="_blank" rel="noopener">Rodelar</a> (CC BY-SA 4.0).</p>

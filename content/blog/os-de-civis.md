@@ -54,9 +54,6 @@ Es lo que se llama un *pene-enclave*. Te cuento cómo es y cómo visitarlo 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
-<ul class="nearby"><li><a href="/blog/valle-de-aran.html"><img src="/assets/img/blog/valle-de-aran/artiga.webp" alt="Valle de Arán" loading="lazy" decoding="async" /><span>Valle de Arán</span></a></li><li><a href="/blog/ainsa-que-ver.html"><img src="/assets/img/blog/pirineo/ainsa.webp" alt="Aínsa" loading="lazy" decoding="async" /><span>Aínsa</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026.  Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AVista_Os_de_Civ%C3%ADs.jpg" target="_blank" rel="noopener">Bloguer</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AOs_de_Civis.jpg" target="_blank" rel="noopener">Beusson</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AOs_de_Civis_-_restaurants_DSCN9824-WCM.jpg" target="_blank" rel="noopener">Algont</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMasia_d%27Os_de_Civ%C3%ADs.JPG" target="_blank" rel="noopener">Àlex</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AUnimog_a_Os_de_Civ%C3%ADs.jpg" target="_blank" rel="noopener">AlbertRA</a> (CC BY-SA 4.0).</p>

@@ -60,9 +60,6 @@ Pero llegar al cráter no es tan simple como coger el teleférico: hace falta un
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más Tenerife</span><h2>Sigue por Tenerife</h2></div>
-<ul class="nearby"><li><a href="/blog/mirador-de-chipeque-tenerife.html"><img src="/assets/img/instagram/18075135229685841.webp" alt="Mirador de Chipeque" loading="lazy" decoding="async" /><span>Mirador de Chipeque</span></a></li><li><a href="/blog/arco-de-tajao-tenerife.html"><img src="/assets/img/instagram/18124723345426528.webp" alt="Arco de Tajao" loading="lazy" decoding="async" /><span>Arco de Tajao</span></a></li><li><a href="/blog/lago-martianez-puerto-de-la-cruz.html"><img src="/assets/img/instagram/17940651440967325.webp" alt="Lago Martiánez" loading="lazy" decoding="async" /><span>Lago Martiánez</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Datos consultados en octubre de 2026. Las tasas y cupos del Parque Nacional del Teide se actualizan con frecuencia: consúltalos en la web oficial de reservas antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ATeide_Roques_de_Garcia.jpg" target="_blank" rel="noopener">Ingo Mehling</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3A20250704_Teide_02.jpg" target="_blank" rel="noopener">Flocci Nivis</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATel%C3%A9ferico_del_Teide_01.jpg" target="_blank" rel="noopener">H. Zell</a> (CC BY-SA 3.0).</p>

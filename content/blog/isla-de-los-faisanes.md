@@ -59,9 +59,6 @@ Y aquí se firmó la paz entre España y Francia en 1659. Te lo cuento 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
-<ul class="nearby"><li><a href="/blog/hondarribia-que-ver.html"><img src="/assets/img/blog/hondarribia-que-ver/plaza.webp" alt="Hondarribia" loading="lazy" decoding="async" /><span>Hondarribia</span></a></li><li><a href="/blog/guia-monte-igueldo.html"><img src="/assets/img/blog/monte-igueldo/portada-rio-misterioso-cheno.webp" alt="Monte Igueldo" loading="lazy" decoding="async" /><span>Monte Igueldo</span></a></li><li><a href="/blog/selva-de-irati.html"><img src="/assets/img/blog/selva-de-irati/portada.webp" alt="Selva de Irati" loading="lazy" decoding="async" /><span>Selva de Irati</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026.  Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AKonpantzia_-_Behobia_%282025%29_1.jpg" target="_blank" rel="noopener">Iñaki LL</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AIrun_-_Isla_de_los_Faisanes_sobre_el_r%C3%ADo_Bisasoa_01.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3AKonpantzia_-_Behobia_%282025%29_2.jpg" target="_blank" rel="noopener">Iñaki LL</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABidasoa_-_Konpantzia_uhartea_3.jpg" target="_blank" rel="noopener">Iñaki LL</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AFontarrabie_depuis_Hendaye_2012.jpg" target="_blank" rel="noopener">JLPC</a> (CC BY-SA 3.0).</p>

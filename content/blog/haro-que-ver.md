@@ -54,9 +54,6 @@ Te cuento qué ver, cómo visitar sus bodegas y alguna curiosidad que no conoce 
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Cerca de Haro</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/laguardia-que-ver.html"><img src="/assets/img/blog/laguardia-que-ver/portada.webp" alt="Laguardia" loading="lazy" decoding="async" /><span>Laguardia</span></a></li><li><a href="/blog/cuzcurrita-rio-tiron-que-ver.html"><img src="/assets/img/instagram/17886987651509054.webp" alt="Cuzcurrita de Río Tirón" loading="lazy" decoding="async" /><span>Cuzcurrita de Río Tirón</span></a></li><li><a href="/blog/merindades-burgos-que-ver.html"><img src="/assets/img/instagram/18077362268036595.webp" alt="Las Merindades" loading="lazy" decoding="async" /><span>Las Merindades</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Los horarios y precios de las visitas cambian según la bodega: consúltalos en sus webs. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3APlaza_Mayor_de_Haro.jpg" target="_blank" rel="noopener">David Martin</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AHaro_-_Bodegas_Bilba%C3%ADnas_2.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3AParaje_de_los_Riscos_de_Bilibio_-_Haro.jpg" target="_blank" rel="noopener">BigSus</a> (CC BY 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3ASt_Thomas_church_in_Haro_%283%29.jpg" target="_blank" rel="noopener">Krzysztof Golik</a> (CC BY-SA 4.0).</p>

@@ -53,9 +53,6 @@ Te cuento su historia y en qué se ha convertido 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/lagunas-de-ruidera.html"><img src="/assets/img/blog/lagunas-de-ruidera/portada.webp" alt="Lagunas de Ruidera" loading="lazy" decoding="async" /><span>Lagunas de Ruidera</span></a></li><li><a href="/blog/consuegra-molinos.html"><img src="/assets/img/blog/consuegra-molinos/portada.webp" alt="Molinos de Consuegra" loading="lazy" decoding="async" /><span>Molinos de Consuegra</span></a></li><li><a href="/blog/belmonte-castillo.html"><img src="/assets/img/blog/belmonte-castillo/portada.webp" alt="Castillo de Belmonte" loading="lazy" decoding="async" /><span>Castillo de Belmonte</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACiudad_Real_Central_Airport_3.jpg" target="_blank" rel="noopener">kallerna</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATorre_de_control_del_aeropuerto_de_Ciudad_Real._01.jpg" target="_blank" rel="noopener">19Tarrestnom65</a> (CC BY-SA 4.0).</p>

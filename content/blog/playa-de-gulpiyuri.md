@@ -53,9 +53,6 @@ El truco está en la marea. Te cuento cuándo ir para verla con agua 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el norte</h2></div>
-<ul class="nearby"><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/cudillero-que-ver.html"><img src="/assets/img/blog/cudillero-que-ver/portada.webp" alt="Cudillero" loading="lazy" decoding="async" /><span>Cudillero</span></a></li><li><a href="/blog/partenon-de-las-fraguas-cantabria.html"><img src="/assets/img/instagram/18073249217294344.webp" alt="Las Fraguas" loading="lazy" decoding="async" /><span>Las Fraguas</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Consulta la tabla de mareas de Llanes antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AGulpiyuri.jpg" target="_blank" rel="noopener">Ramon Diaz</a> (Public domain) · <a href="https://commons.wikimedia.org/wiki/File%3APlaya_de_Gulpiyuri_-_panoramio.jpg" target="_blank" rel="noopener">Fernando Vázquez</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AGulpiyuri_spiaggia.jpg" target="_blank" rel="noopener">Franciaio</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3APlaya_de_San_Antolin.jpg" target="_blank" rel="noopener">J.L. Maral</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACubos_de_la_memoria_%28Llanes%29.jpg" target="_blank" rel="noopener">Pedro M. Martinez Corada</a> (CC BY-SA 3.0).</p>

@@ -55,9 +55,6 @@ Te cuento los rincones imprescindibles y qué aventuras hacer según la época �
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más Pirineo</span><h2>Más Pirineo</h2></div>
-<ul class="nearby"><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Pirineo Aragonés" loading="lazy" decoding="async" /><span>Pirineo Aragonés</span></a></li><li><a href="/blog/ibon-de-anayet.html"><img src="/assets/img/blog/pirineo/anayet.webp" alt="Ibón de Anayet" loading="lazy" decoding="async" /><span>Ibón de Anayet</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Algunos accesos se regulan en temporada alta: consulta la web de turismo del Valle de Arán antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AVIELHA_-_VAL_D%27ARAN_-_IB-399.JPG" target="_blank" rel="noopener">Isidre blanc</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AEth_Saut_deth_Pish.jpg" target="_blank" rel="noopener">Isidro Jabato</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AArtiga_de_Lin_2.jpg" target="_blank" rel="noopener">Mikipons</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ANucleo_antiguo_de_Salard%C3%BA.jpg" target="_blank" rel="noopener">Alberto-g-rovi</a> (CC BY-SA 4.0).</p>

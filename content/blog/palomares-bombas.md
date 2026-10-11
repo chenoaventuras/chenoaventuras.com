@@ -51,9 +51,6 @@ Te cuento qué pasó, la búsqueda de la bomba perdida y el baño más famoso de
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/cabo-de-gata-que-ver.html"><img src="/assets/img/blog/cabo-de-gata-que-ver/portada.webp" alt="Cabo de Gata" loading="lazy" decoding="async" /><span>Cabo de Gata</span></a></li><li><a href="/blog/desierto-de-tabernas.html"><img src="/assets/img/blog/desierto-de-tabernas/portada.webp" alt="Desierto de Tabernas" loading="lazy" decoding="async" /><span>Desierto de Tabernas</span></a></li><li><a href="/blog/naufragio-del-sirio.html"><img src="/assets/img/blog/naufragio-del-sirio/portada.webp" alt="Naufragio del Sirio" loading="lazy" decoding="async" /><span>Naufragio del Sirio</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3APalomares-2.jpg" target="_blank" rel="noopener">Casto Lozano y Satur González</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATorre_Palomares.jpg" target="_blank" rel="noopener">Schumi4ever</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AB28_nuclear_bomb%2C_National_Museum_of_Nuclear_Science_%26_History.JPG" target="_blank" rel="noopener">byteboy</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AEntrada_a_Palomares.jpg" target="_blank" rel="noopener">José Guerrero Rodrríguez</a> (CC BY-SA 3.0).</p>

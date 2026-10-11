@@ -53,9 +53,6 @@ Te cuento cómo pasó, por qué ya no puede llamarse «pueblo pitufo» y qué ve
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/ronda-que-ver.html"><img src="/assets/img/blog/ronda-que-ver/portada.webp" alt="Ronda" loading="lazy" decoding="async" /><span>Ronda</span></a></li><li><a href="/blog/setenil-de-las-bodegas-que-ver.html"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/portada.webp" alt="Setenil de las Bodegas" loading="lazy" decoding="async" /><span>Setenil de las Bodegas</span></a></li><li><a href="/blog/grazalema.html"><img src="/assets/img/blog/grazalema/portada.webp" alt="Grazalema" loading="lazy" decoding="async" /><span>Grazalema</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AJ%C3%BAzcar%2C_Spain_%28_The_BLUE_SMURF_TOWN%29.JPG" target="_blank" rel="noopener">Jordi Hernandes</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AJ%C3%BAzcar_M%C3%A1laga_Andalusia_Spain_smurf_town.jpg" target="_blank" rel="noopener">manuelfloresv</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ADSC06879-Juzcar-Malaga.jpg" target="_blank" rel="noopener">Rafael Tello</a> (CC BY-SA 4.0).</p>

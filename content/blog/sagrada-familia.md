@@ -52,9 +52,6 @@ Te cuento cómo lo consiguió, sus curiosidades y cómo visitarla sin quedarte s
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/bunkers-del-carmel.html"><img src="/assets/img/blog/bunkers-del-carmel/portada.webp" alt="Búnkers del Carmel" loading="lazy" decoding="async" /><span>Búnkers del Carmel</span></a></li><li><a href="/blog/montserrat.html"><img src="/assets/img/blog/montserrat/agujas.webp" alt="Montserrat" loading="lazy" decoding="async" /><span>Montserrat</span></a></li><li><a href="/blog/besalu-que-ver.html"><img src="/assets/img/blog/besalu-que-ver/portada.webp" alt="Besalú" loading="lazy" decoding="async" /><span>Besalú</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ASagrada_Familia_03.jpg" target="_blank" rel="noopener">Bernard Gagnon</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASagrada_Fam%C3%ADlia_Nativity_Fa%C3%A7ade_from_Ground%2C_Barcelona%2C_2023.jpg" target="_blank" rel="noopener">Julian Lupyan</a> (CC0).</p>

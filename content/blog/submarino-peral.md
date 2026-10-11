@@ -50,9 +50,6 @@ Te cuento su historia, por qué no siguió adelante y dónde verlo hoy en Cartag
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/bateria-castillitos-cartagena.html"><img src="/assets/img/destinos/bateria-castillitos.webp" alt="Batería de Castillitos" loading="lazy" decoding="async" /><span>Batería de Castillitos</span></a></li><li><a href="/blog/naufragio-del-sirio.html"><img src="/assets/img/blog/naufragio-del-sirio/portada.webp" alt="Naufragio del Sirio" loading="lazy" decoding="async" /><span>Naufragio del Sirio</span></a></li><li><a href="/blog/snorkel-cabo-de-palos.html"><img src="/assets/img/instagram/18131038921826962.webp" alt="Snorkel en Cabo de Palos" loading="lazy" decoding="async" /><span>Snorkel en Cabo de Palos</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ASubmarino_Peral_01.jpg" target="_blank" rel="noopener">Tordo12</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASubmarino_peral_interior.JPG" target="_blank" rel="noopener">MdeVicente</a> (CC0).</p>

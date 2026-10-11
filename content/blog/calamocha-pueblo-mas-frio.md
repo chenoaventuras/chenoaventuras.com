@@ -52,9 +52,6 @@ Te cuento qué es el «triángulo del frío», por qué en verano se está tan b
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/albarracin-que-ver.html"><img src="/assets/img/blog/albarracin-que-ver/portada.webp" alt="Albarracín" loading="lazy" decoding="async" /><span>Albarracín</span></a></li><li><a href="/blog/amantes-de-teruel.html"><img src="/assets/img/blog/amantes-de-teruel/portada.webp" alt="Amantes de Teruel" loading="lazy" decoding="async" /><span>Amantes de Teruel</span></a></li><li><a href="/blog/belchite-pueblo-viejo.html"><img src="/assets/img/blog/belchite-pueblo-viejo/portada.webp" alt="Belchite" loading="lazy" decoding="async" /><span>Belchite</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ANevada_Calamocha_2012.JPG" target="_blank" rel="noopener">Jomora94</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACalamocha_-_Puente_romano_sobre_el_r%C3%ADo_Jiloca_1.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3AMolina_de_Arag%C3%B3n%2C_Guadalajara%2C_Espa%C3%B1a%2C_2016-01-05%2C_DD_15.JPG" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMolina_de_Aragon%2C_Castillo.jpg" target="_blank" rel="noopener">Malopez 21</a> (CC BY-SA 4.0).</p>

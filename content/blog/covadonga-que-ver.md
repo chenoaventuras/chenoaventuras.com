@@ -53,9 +53,6 @@ Y en parte lo son: aquí empieza, según la tradición, la historia de España t
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes en el norte</h2></div>
-<ul class="nearby"><li><a href="/blog/cudillero-que-ver.html"><img src="/assets/img/blog/cudillero-que-ver/portada.webp" alt="Cudillero" loading="lazy" decoding="async" /><span>Cudillero</span></a></li><li><a href="/blog/comillas-que-ver.html"><img src="/assets/img/blog/comillas-que-ver/portada.webp" alt="Comillas" loading="lazy" decoding="async" /><span>Comillas</span></a></li><li><a href="/blog/partenon-de-las-fraguas-cantabria.html"><img src="/assets/img/instagram/18073249217294344.webp" alt="Las Fraguas" loading="lazy" decoding="async" /><span>Las Fraguas</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Las fechas de restricción de acceso a los Lagos y los horarios del autobús cambian cada año: consúltalos en Turismo Asturias.</p>

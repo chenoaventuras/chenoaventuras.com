@@ -54,9 +54,6 @@ Te cuento qué ver, el origen de su curioso nombre y cómo llegar 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando el sur</h2></div>
-<ul class="nearby"><li><a href="/blog/caminito-del-rey.html"><img src="/assets/img/blog/caminito-del-rey/portada.webp" alt="Caminito del Rey" loading="lazy" decoding="async" /><span>Caminito del Rey</span></a></li><li><a href="/blog/los-cahorros-de-monachil.html"><img src="/assets/img/blog/los-cahorros-de-monachil/portada.webp" alt="Los Cahorros de Monachil" loading="lazy" decoding="async" /><span>Los Cahorros de Monachil</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026; confirma horarios y precios de la Torre del Homenaje en la Oficina de Turismo de Setenil. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ASetenil_de_las_Bodegas%2C_2023_%2810%29.jpg" target="_blank" rel="noopener">Draceane</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASetenil_de_las_Bodegas_-_006_%2830708389305%29.jpg" target="_blank" rel="noopener">Luis Rogelio HM</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASetenil_de_las_Bodegas_-_Wallpaper.jpg" target="_blank" rel="noopener">Wiki2Fred</a> (CC BY-SA 4.0).</p>

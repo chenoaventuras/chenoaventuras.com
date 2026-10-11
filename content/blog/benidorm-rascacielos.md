@@ -53,9 +53,6 @@ Te cuento por qué un pueblo de pescadores acabó así y dónde ver su skyline �
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/altea-que-ver-costa-blanca.html"><img src="/assets/img/blog/uploads/altea-horizontal.webp" alt="Altea" loading="lazy" decoding="async" /><span>Altea</span></a></li><li><a href="/blog/guadalest-que-ver.html"><img src="/assets/img/instagram/18096219011376691.webp" alt="Guadalest" loading="lazy" decoding="async" /><span>Guadalest</span></a></li><li><a href="/blog/isla-de-tabarca.html"><img src="/assets/img/blog/isla-de-tabarca/portada.webp" alt="Isla de Tabarca" loading="lazy" decoding="async" /><span>Isla de Tabarca</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ABenidorm%2C_skyline_al_atardecer.jpg" target="_blank" rel="noopener">Rodelar</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASkyline_Benidorm_-_18_Planta_-_Port_Benidorm_Hotel_%26_Spa.jpg" target="_blank" rel="noopener">Francesc Fort</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABenidorm_-_Balc%C3%B3n_del_Mediterr%C3%A1neo_1.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3ABenidorm_%282023-02-17%29_03.jpg" target="_blank" rel="noopener">Simon Cobb</a> (CC0).</p>

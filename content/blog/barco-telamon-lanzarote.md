@@ -52,9 +52,6 @@ Te cuento su historia y dónde hacer la mejor foto del «barco fantasma» 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/jameos-del-agua-cueva-de-los-verdes.html"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/portada.webp" alt="Jameos del Agua" loading="lazy" decoding="async" /><span>Jameos del Agua</span></a></li><li><a href="/blog/american-star-fuerteventura.html"><img src="/assets/img/blog/american-star-fuerteventura/portada.webp" alt="American Star" loading="lazy" decoding="async" /><span>American Star</span></a></li><li><a href="/blog/drago-milenario-icod.html"><img src="/assets/img/blog/drago-milenario-icod/drago.webp" alt="Drago Milenario" loading="lazy" decoding="async" /><span>Drago Milenario</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3A%27Telamon%27_wreck_Lanzarote_1802_05_%2853226369539%29.jpg" target="_blank" rel="noopener">Industrial Wales</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3A2008-12-15_Lanzarote_Wreck.jpg" target="_blank" rel="noopener">Gernot Keller, London (www.gernot-keller.com)</a> (CC BY-SA 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3ATeguise_-_Avenida_de_los_Corales_-_Temple_Hall_06_ies.jpg" target="_blank" rel="noopener">Frank Vincentz</a> (CC BY-SA 3.0).</p>

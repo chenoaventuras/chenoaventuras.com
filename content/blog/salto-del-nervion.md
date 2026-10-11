@@ -54,9 +54,6 @@ Pero tiene truco: no siempre lleva agua. Te cuento cuándo ir y cómo llegar al 
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/merindades-burgos-que-ver.html"><img src="/assets/img/instagram/18077362268036595.webp" alt="Las Merindades" loading="lazy" decoding="async" /><span>Las Merindades</span></a></li><li><a href="/blog/orbaneja-del-castillo.html"><img src="/assets/img/instagram/18093513218481944.webp" alt="Orbaneja del Castillo" loading="lazy" decoding="async" /><span>Orbaneja del Castillo</span></a></li><li><a href="/blog/puente-de-vizcaya.html"><img src="/assets/img/blog/puente-de-vizcaya/portada.webp" alt="Puente de Vizcaya" loading="lazy" decoding="async" /><span>Puente de Vizcaya</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios y precios pueden cambiar: consúltalos en la web oficial antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ASalto_del_R%C3%ADo_Nervi%C3%B3n.jpg" target="_blank" rel="noopener">Hibiscus7</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ASalto_del_Nervion_0001.jpg" target="_blank" rel="noopener">Dieglop</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ABeech_forest_in_Monte_Santiago_natural_Monument%2C_Burgos_%28Spain%29.jpg" target="_blank" rel="noopener">Heparina1985</a> (CC BY-SA 4.0).</p>

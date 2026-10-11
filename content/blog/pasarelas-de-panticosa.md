@@ -63,9 +63,6 @@ Te las enseño en vídeo 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Sigue explorando el Valle de Tena</h2></div>
-<ul class="nearby"><li><a href="/blog/balneario-de-panticosa.html"><img src="/assets/img/instagram/18057693635513557.webp" alt="Balneario de Panticosa" loading="lazy" decoding="async" /><span>Balneario de Panticosa</span></a></li><li><a href="/blog/lanuza-pueblo-embalse-huesca.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Lanuza" loading="lazy" decoding="async" /><span>Lanuza</span></a></li><li><a href="/blog/ibon-de-anayet.html"><img src="/assets/img/blog/pirineo/anayet.webp" alt="Ibón de Anayet" loading="lazy" decoding="async" /><span>Ibón de Anayet</span></a></li><li><a href="/blog/pirineo-aragones-que-ver.html"><img src="/assets/img/instagram/17908806873244673.webp" alt="Mi guía completa del Pirineo Aragonés" loading="lazy" decoding="async" /><span>Mi guía completa del Pirineo Aragonés</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te vas al Pirineo?</h2><p>En mi guía completa tienes los pueblos, rutas, cascadas e ibones del Pirineo Aragonés, zona por zona.</p><a class="btn guide__btn" href="/blog/pirineo-aragones-que-ver.html">Ver la guía del Pirineo</a><a class="btn btn--ghost guide__dl guide__dl--cta" href="#guia-gratis">📱 Recibir la guía PDF</a><p class="guide__follow">Y si te gustan estos planes, sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>.</p></div>
 
 <p class="guide__note">Datos consultados en octubre de 2026 en fuentes oficiales; pueden cambiar, así que confírmalos antes de ir. Fotos de Chenoaventuras. </p>

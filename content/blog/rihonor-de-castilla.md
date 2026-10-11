@@ -51,9 +51,6 @@ Te cuento cómo es, cómo se llaman las dos mitades y qué ver allí 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/puebla-de-sanabria.html"><img src="/assets/img/blog/puebla-de-sanabria/portada.webp" alt="Puebla de Sanabria" loading="lazy" decoding="async" /><span>Puebla de Sanabria</span></a></li><li><a href="/blog/astorga-que-ver.html"><img src="/assets/img/blog/astorga-que-ver/portada.webp" alt="Astorga" loading="lazy" decoding="async" /><span>Astorga</span></a></li><li><a href="/blog/uruena-que-ver.html"><img src="/assets/img/blog/uruena-que-ver/muralla.webp" alt="Urueña" loading="lazy" decoding="async" /><span>Urueña</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3A007422_-_Espa%C3%B1a-Portugal_%288735025539%29.jpg" target="_blank" rel="noopener">M.Peinado from Alcalá de Henares, España</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3ARihonor_de_Castilla_%28pormenor_do_rio%29.JPG" target="_blank" rel="noopener">Adrião</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ARio_de_onor.JPG" target="_blank" rel="noopener">Adrião</a> (CC BY 3.0).</p>

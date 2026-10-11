@@ -52,9 +52,6 @@ Te cuento qué ver, cuándo ir según la marea y dónde está la ermita de pelí
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Sigue explorando</h2></div>
-<ul class="nearby"><li><a href="/blog/san-juan-de-gaztelugatxe.html"><img src="/assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="San Juan de Gaztelugatxe" loading="lazy" decoding="async" /><span>San Juan de Gaztelugatxe</span></a></li><li><a href="/blog/hondarribia-que-ver.html"><img src="/assets/img/blog/hondarribia-que-ver/plaza.webp" alt="Hondarribia" loading="lazy" decoding="async" /><span>Hondarribia</span></a></li><li><a href="/blog/guia-monte-igueldo.html"><img src="/assets/img/blog/monte-igueldo/portada-rio-misterioso-cheno.webp" alt="Monte Igueldo" loading="lazy" decoding="async" /><span>Monte Igueldo</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AZumaia_Itzurun_5.JPG" target="_blank" rel="noopener">Txo</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AErmita_de_San_Telmo_%28Zumaia%29.jpg" target="_blank" rel="noopener">Simoncio</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AErmita_San_Telmo_Zumaia_Flyshes_%28152842641%29.jpeg" target="_blank" rel="noopener">Isaac Farrè Rico</a> (CC BY 3.0).</p>

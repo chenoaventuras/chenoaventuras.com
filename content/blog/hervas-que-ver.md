@@ -54,9 +54,6 @@ Te cuento qué ver y qué rutas hacer por el Valle del Ambroz 👇
 
 <!--faq-->
 
-<div class="guide__head"><span class="eyebrow">Más interior</span><h2>Más pueblos con encanto</h2></div>
-<ul class="nearby"><li><a href="/blog/albarracin-que-ver.html"><img src="/assets/img/blog/albarracin-que-ver/portada.webp" alt="Albarracín" loading="lazy" decoding="async" /><span>Albarracín</span></a></li><li><a href="/blog/sierra-de-gredos.html"><img src="/assets/img/blog/sierra-de-gredos/portada.webp" alt="Laguna Grande de Gredos" loading="lazy" decoding="async" /><span>Laguna Grande de Gredos</span></a></li><li><a href="/blog/astorga-que-ver.html"><img src="/assets/img/blog/astorga-que-ver/portada.webp" alt="Astorga" loading="lazy" decoding="async" /><span>Astorga</span></a></li></ul>
-
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
 <p class="guide__note">Información consultada en octubre de 2026. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AHerv%C3%A1s_%28C%C3%A1ceres%29_-_2024.jpg" target="_blank" rel="noopener">Makoki20</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3AHERVAS%2C_BARRIO_JUDIO.jpg" target="_blank" rel="noopener">MRuedaC</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AHerv%C3%A1s%2C_Barrio_Jud%C3%ADo-1.JPG" target="_blank" rel="noopener">Jesusccastillo</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3AHervas_Caceres-_Barrio_Judio_2_Luis_Pita.jpg" target="_blank" rel="noopener">Luis Pita Moreno</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3AHerv%C3%A1s%2C_C%C3%A1ceres_45.jpg" target="_blank" rel="noopener">Leyendasdesevilla</a> (CC BY-SA 4.0).</p>
