@@ -7,7 +7,7 @@ provincia: Ciudad Real
 lat: 38.8890
 lng: -3.7110
 excerpt: 'Qué ver en Almagro (Ciudad Real): el Corral de Comedias del siglo XVII, la plaza Mayor de galerías verdes, el Festival de Teatro Clásico, las berenjenas y escapadas cerca.'
-cover: /assets/img/blog/almagro-que-ver/portada.jpg
+cover: /assets/img/blog/almagro-que-ver/portada.webp
 tags:
   - Pueblos
   - Castilla-La Mancha
@@ -45,7 +45,7 @@ Y no es lo único. Este pueblo de Ciudad Real tiene una de las plazas mayores m�
 </div>
 
 <div class="guide__head"><span class="eyebrow">La joya</span><h2>El Corral de Comedias</h2></div>
-<p><img src="/assets/img/blog/almagro-que-ver/corral2.jpg" alt="Patio y galerías de madera del Corral de Comedias de Almagro" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/almagro-que-ver/corral2.webp" alt="Patio y galerías de madera del Corral de Comedias de Almagro" loading="lazy" decoding="async" /></p>
 <p>Se construyó en <strong>1628</strong>, en pleno Siglo de Oro, cuando las obras de Lope de Vega, Calderón y Tirso de Molina llenaban los patios de toda España. Es un patio rectangular rodeado de galerías de madera pintadas de rojo, con el escenario al fondo y un pozo en medio.</p>
 <p>Lo curioso es que estuvo <strong>olvidado durante siglos</strong>. Dejó de usarse como teatro, se convirtió en posada y nadie sabía lo que escondía hasta que en <strong>1950</strong>, durante unas obras, apareció bajo los añadidos. Se restauró, y hoy es el único corral de comedias de la época que se conserva <strong>completo y en su estado original</strong> y en el que se siguen haciendo funciones.</p>
 <div class="guide__legend"><h3>🎭 Así se iba al teatro en el siglo XVII</h3><p>Cada zona tenía su público. En el patio, de pie, estaban los <strong>mosqueteros</strong>, los hombres del pueblo llano, que eran los que hacían triunfar o hundir una obra a base de aplausos o abucheos. Las mujeres iban a la <strong>cazuela</strong>, una galería separada. Y los nobles y autoridades veían la función desde los <strong>aposentos</strong>, palcos con celosías. En la visita te lo explican, y hay <strong>visitas teatralizadas</strong> que son muy divertidas.</p></div>
@@ -53,10 +53,10 @@ Y no es lo único. Este pueblo de Ciudad Real tiene una de las plazas mayores m�
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Almagro</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/almagro-que-ver/portada.jpg" alt="Galerías verdes de la plaza Mayor de Almagro" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La plaza Mayor</h3><p>Alargada, con soportales sobre columnas de piedra y dos pisos de <strong>galerías acristaladas pintadas de verde</strong>. De las plazas más originales de España. Siéntate en una terraza a mirarla.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/almagro-que-ver/corral.jpg" alt="Entrada al Corral de Comedias en la plaza Mayor de Almagro" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La entrada al Corral</h3><p>Pasa desapercibida entre las casas de la plaza: una fachada con balcones que esconde el patio de comedias. Por fuera nadie diría lo que hay detrás.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/almagro-que-ver/plaza-ayuntamiento.jpg" alt="Plaza Mayor y ayuntamiento de Almagro" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El ayuntamiento y el Palacio Maestral</h3><p>Almagro fue sede de la poderosa <strong>Orden de Calatrava</strong>. En el antiguo palacio de sus maestres está el <strong>Museo Nacional del Teatro</strong>, con trajes, maquetas y escenografías.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/almagro-que-ver/calle.jpg" alt="Calle encalada del casco histórico de Almagro" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Sus calles y palacios</h3><p>Casas encaladas con rejas, portadas blasonadas y palacios de los siglos XVI y XVII. Fíjate en los escudos: muchas casas eran de nobles y caballeros de Calatrava.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/almagro-que-ver/portada.webp" alt="Galerías verdes de la plaza Mayor de Almagro" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La plaza Mayor</h3><p>Alargada, con soportales sobre columnas de piedra y dos pisos de <strong>galerías acristaladas pintadas de verde</strong>. De las plazas más originales de España. Siéntate en una terraza a mirarla.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/almagro-que-ver/corral.webp" alt="Entrada al Corral de Comedias en la plaza Mayor de Almagro" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La entrada al Corral</h3><p>Pasa desapercibida entre las casas de la plaza: una fachada con balcones que esconde el patio de comedias. Por fuera nadie diría lo que hay detrás.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/almagro-que-ver/plaza-ayuntamiento.webp" alt="Plaza Mayor y ayuntamiento de Almagro" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El ayuntamiento y el Palacio Maestral</h3><p>Almagro fue sede de la poderosa <strong>Orden de Calatrava</strong>. En el antiguo palacio de sus maestres está el <strong>Museo Nacional del Teatro</strong>, con trajes, maquetas y escenografías.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/almagro-que-ver/calle.webp" alt="Calle encalada del casco histórico de Almagro" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Sus calles y palacios</h3><p>Casas encaladas con rejas, portadas blasonadas y palacios de los siglos XVI y XVII. Fíjate en los escudos: muchas casas eran de nobles y caballeros de Calatrava.</p></div></li>
 </ol>
 <p>Además, no te pierdas:</p>
 <ul>
@@ -71,7 +71,7 @@ Y no es lo único. Este pueblo de Ciudad Real tiene una de las plazas mayores m�
 <p>Ver una obra de Lope o Calderón al aire libre, en el mismo patio donde se representaban hace casi 400 años, es una experiencia única. Las entradas para el Corral vuelan: cómpralas en cuanto salga la programación, y reserva alojamiento con mucha antelación.</p>
 
 <div class="guide__head"><span class="eyebrow">Comer</span><h2>Berenjenas de Almagro y cocina manchega</h2></div>
-<p><img src="/assets/img/blog/almagro-que-ver/berenjenas.jpg" alt="Berenjenas de Almagro aliñadas en un puesto" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/almagro-que-ver/berenjenas.webp" alt="Berenjenas de Almagro aliñadas en un puesto" loading="lazy" decoding="async" /></p>
 <p>Las <strong>berenjenas de Almagro</strong> son pequeñas, se cuecen y se aliñan con vinagre, aceite, comino, pimentón, ajo e hinojo, y se sirven atravesadas con un trozo de pimiento. Tienen <strong>Indicación Geográfica Protegida</strong> y las verás en todas las tiendas y bares. Pide unas de aperitivo y llévate un tarro.</p>
 <p>En la mesa, la cocina manchega de siempre: <strong>pisto</strong>, <strong>migas</strong>, <strong>gachas</strong>, <strong>duelos y quebrantos</strong> (huevos con chorizo y tocino, los que comía Don Quijote los sábados), <strong>queso manchego</strong> y vino de Valdepeñas, que está al lado.</p>
 
@@ -79,7 +79,7 @@ Y no es lo único. Este pueblo de Ciudad Real tiene una de las plazas mayores m�
 <div class="guide__howto"><p><strong>En coche:</strong> desde Madrid son unos 200 km por la A-4 hasta Manzanares y después hacia Almagro (unas 2 horas). Desde Ciudad Real, 23 km (unos 25 minutos).</p><p><strong>En tren:</strong> AVE desde Madrid hasta Ciudad Real (alrededor de una hora) y desde allí autobús o taxi. Almagro también tiene estación de tren regional.</p><p><strong>Dónde aparcar:</strong> el casco histórico es pequeño. Deja el coche en las calles de alrededor o en los aparcamientos de la periferia, y en cinco minutos andando estás en la plaza.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Corral%20de%20Comedias%2C%20Almagro" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__head"><span class="eyebrow">Cerca</span><h2>Qué ver cerca de Almagro</h2></div>
-<p><img src="/assets/img/blog/almagro-que-ver/calatrava.jpg" alt="Castillo-convento de Calatrava la Nueva sobre un cerro" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/almagro-que-ver/calatrava.webp" alt="Castillo-convento de Calatrava la Nueva sobre un cerro" loading="lazy" decoding="async" /></p>
 <ul>
 <li><strong>Calatrava la Nueva</strong> (a unos 30 km): un castillo-convento enorme en lo alto de un cerro, la sede de la Orden de Calatrava. Las vistas del Campo de Calatrava son espectaculares. Enfrente quedan los restos del castillo de Salvatierra.</li>
 <li><strong>Los volcanes del Campo de Calatrava</strong>: aunque no lo parezca, esta zona está llena de volcanes apagados y lagunas en sus cráteres. Es uno de los campos volcánicos más grandes de la península.</li>
