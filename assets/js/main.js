@@ -414,8 +414,6 @@
       img.height = 600;
       var body = document.createElement("div");
       body.className = "placecard__body";
-      var h3 = document.createElement("h3");
-      h3.textContent = p.type === "VIDEO" || p.type === "REEL" ? "Reel" : "Publicación";
       var span = document.createElement("span");
       var caption = "Ver en Instagram";
       if (p.caption) {
@@ -424,7 +422,6 @@
           : p.caption.replace(/\s+/g, " ").slice(0, 60) + "…";
       }
       span.textContent = caption;
-      body.appendChild(h3);
       body.appendChild(span);
       a.appendChild(img);
       a.appendChild(body);
