@@ -1957,3 +1957,18 @@ p { margin: 0 0 1em; }
 .backfab { position: fixed; left: 16px; bottom: 16px; z-index: 60; display: inline-flex; align-items: center; gap: 6px; max-width: calc(100vw - 32px); padding: 10px 16px; border-radius: 999px; background: var(--night); color: #fff; font-family: var(--font-head); font-weight: 600; font-size: .9rem; text-decoration: none; box-shadow: 0 6px 20px rgba(0,0,0,.25); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; opacity: 0; transform: translateY(12px); pointer-events: none; transition: opacity .2s ease, transform .2s ease; }
 .backfab.is-visible { opacity: 1; transform: none; pointer-events: auto; }
 .backfab:hover { background: var(--gold); color: var(--night); }
+
+/* ---------- Portada: buscador de escapadas ---------- */
+.escapada__box { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); gap: clamp(20px, 4vw, 48px); align-items: center; background: var(--night); color: #fff; border-radius: var(--radius); padding: clamp(24px, 4vw, 44px); }
+.escapada__box .title { color: #fff; }
+.escapada__box .eyebrow { color: var(--gold-soft); }
+.escapada__text p { color: rgba(255,255,255,.85); margin: .6em 0 0; }
+.escapada__form { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.escapada__field { display: flex; flex-direction: column; gap: 6px; font-size: .78rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--gold-soft); }
+.escapada__field--wide { grid-column: 1 / -1; }
+.escapada__field select, .escapada__field input { font: inherit; font-size: 1rem; font-weight: 400; letter-spacing: 0; text-transform: none; padding: 12px 14px; border-radius: 10px; border: 0; background: #fff; color: var(--night); width: 100%; }
+.escapada__form .btn { grid-column: 1 / -1; justify-self: start; }
+.escapada__alt { grid-column: 1 / -1; margin: 0; font-size: .9rem; color: rgba(255,255,255,.8); }
+.escapada__alt a { color: var(--gold-soft); }
+@media (max-width: 760px) { .escapada__box { grid-template-columns: 1fr; } .escapada__form { grid-template-columns: 1fr; } }
+.escapada__box .title .accent { color: var(--gold-soft); }

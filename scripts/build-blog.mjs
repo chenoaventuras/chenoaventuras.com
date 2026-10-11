@@ -127,7 +127,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261012b"></script>
+  <script src="/assets/js/main.js?v=20261012c"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog" }) {
@@ -1111,18 +1111,17 @@ rmSync(DEST_DIR, { recursive: true, force: true });
 mkdirSync(DEST_DIR, { recursive: true });
 for (const d of destinos) writeFileSync(join(DEST_DIR, `${d.slug}.html`), renderDestino(d));
 writeFileSync(join(ROOT, "blog.html"), renderIndex(posts, destinos));
-// Portada: los 6 últimos posts (lugares) para el bloque «Del blog».
+// Portada: buscador «¿Organizamos tu siguiente escapada?» (comunidades y tipos con nº de posts).
 mkdirSync(join(ROOT, "assets", "data"), { recursive: true });
-writeFileSync(
-  join(ROOT, "assets", "data", "ultimos-posts.json"),
-  JSON.stringify(
-    [...posts]
-      .filter((p) => p.cover && p.lat !== null && new Date(p.date) <= new Date() && p.tags.some((t) => TAG_TYPES.includes(t) && t !== "Descuentos"))
-      .sort((a, b) => new Date(b.date) - new Date(a.date))
-      .slice(0, 6)
-      .map((p) => ({ url: `/blog/${p.slug}.html`, title: p.title.split(":")[0].trim(), excerpt: p.excerpt, cover: thumbOf(p.cover), tag: p.tags.find((t) => TAG_TYPES.includes(t)) || "" }))
-  )
-);
+{
+  const visibles = posts.filter((p) => p.tags.length && !p.tags.includes("Descuentos"));
+  const count = (tag) => visibles.filter((p) => p.tags.includes(tag)).length;
+  const zonas = [...new Set(visibles.flatMap((p) => p.tags).filter((t) => !TAG_TYPES.includes(t)))]
+    .map((t) => ({ v: t, n: count(t) }))
+    .sort((a, b) => a.v.localeCompare(b.v, "es"));
+  const tipos = TAG_TYPES.filter((t) => t !== "Descuentos").map((t) => ({ v: t, n: count(t) })).filter((x) => x.n);
+  writeFileSync(join(ROOT, "assets", "data", "zonas.json"), JSON.stringify({ zonas, tipos, total: visibles.length }));
+}
 writeFileSync(join(ROOT, "mapa.html"), renderMap(posts, destinos));
 writeFileSync(join(ROOT, "sitemap.xml"), renderSitemap(posts, destinos));
 

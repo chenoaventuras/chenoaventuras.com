@@ -871,39 +871,37 @@
   onScroll();
 })();
 
-/* ---------- Portada: últimos posts del blog ----------
-   Lee assets/data/ultimos-posts.json (lo genera scripts/build-blog.mjs en cada despliegue). */
+/* ---------- Portada: buscador de escapadas ----------
+   Rellena los desplegables con assets/data/zonas.json (lo genera scripts/build-blog.mjs)
+   y envía al blog filtrado: blog.html?comunidad=…&tipo=…&q=… */
 (function () {
-  var wrap = document.querySelector("[data-blog-latest]");
-  if (!wrap) return;
-  fetch("/assets/data/ultimos-posts.json", { cache: "no-cache" })
+  var form = document.querySelector("[data-escapada]");
+  if (!form) return;
+  var zona = form.querySelector("[data-escapada-zona]");
+  var tipo = form.querySelector("[data-escapada-tipo]");
+  function fill(sel, list) {
+    list.forEach(function (x) {
+      var o = document.createElement("option");
+      o.value = x.v;
+      o.textContent = x.v + " (" + x.n + ")";
+      sel.appendChild(o);
+    });
+  }
+  fetch("/assets/data/zonas.json", { cache: "no-cache" })
     .then(function (r) { return r.ok ? r.json() : null; })
-    .then(function (posts) {
-      if (!Array.isArray(posts) || !posts.length) return;
-      wrap.innerHTML = "";
-      posts.slice(0, 4).forEach(function (p) {
-        var a = document.createElement("a");
-        a.className = "placecard";
-        a.href = p.url;
-        var img = document.createElement("img");
-        img.src = p.cover;
-        img.alt = p.title;
-        img.loading = "lazy";
-        img.decoding = "async";
-        img.width = 354;
-        img.height = 196;
-        var body = document.createElement("div");
-        body.className = "placecard__body";
-        var h3 = document.createElement("h3");
-        h3.textContent = p.title;
-        var span = document.createElement("span");
-        span.textContent = p.tag ? p.tag + " · Leer el post" : "Leer el post";
-        body.appendChild(h3);
-        body.appendChild(span);
-        a.appendChild(img);
-        a.appendChild(body);
-        wrap.appendChild(a);
-      });
+    .then(function (d) {
+      if (!d) return;
+      if (zona && d.zonas) fill(zona, d.zonas);
+      if (tipo && d.tipos) fill(tipo, d.tipos);
     })
     .catch(function () {});
+  form.addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    var ps = new URLSearchParams();
+    Array.prototype.forEach.call(form.elements, function (el) {
+      if (el.name && el.value && el.value.trim()) ps.set(el.name, el.value.trim());
+    });
+    var qs = ps.toString();
+    location.href = "/blog" + (qs ? "?" + qs : "");
+  });
 })();

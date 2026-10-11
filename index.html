@@ -129,23 +129,6 @@
     </section>
 
     <!-- ============ DESCUENTOS ============ -->
-    <!-- ============ DEL BLOG (últimos posts, desde assets/data/ultimos-posts.json) ============ -->
-    <section class="section" style="padding-bottom:clamp(18px,2.2vw,28px);">
-      <div class="container">
-        <div class="destacados__head">
-          <div>
-            <span class="eyebrow">Del blog</span>
-            <h2 class="title">Ideas para tu <span class="accent">próxima escapada</span></h2>
-          </div>
-          <a class="btn btn--ghost" href="blog.html">Ver todo el blog</a>
-        </div>
-        <div class="cardgrid" data-blog-latest>
-          <a class="placecard" href="blog.html"><div class="placecard__body"><h3>Rutas, pueblos y curiosidades</h3><span>Entra en el blog</span></div></a>
-        </div>
-        <p class="center" style="margin-top:32px;"><a class="btn" href="blog.html">Explorar el blog</a></p>
-      </div>
-    </section>
-
     <section class="section" style="padding-bottom:clamp(18px,2.2vw,28px);">
       <div class="container">
         <span class="eyebrow">Descuentos para aventureros</span>
@@ -219,6 +202,32 @@
     </section>
 
     <!-- ============ ÚLTIMAS PUBLICACIONES (Instagram) ============ -->
+    <!-- ============ BUSCADOR DE ESCAPADAS (opciones desde assets/data/zonas.json) ============ -->
+    <section class="section escapada">
+      <div class="container">
+        <div class="escapada__box">
+          <div class="escapada__text">
+            <span class="eyebrow">Del blog</span>
+            <h2 class="title">¿Organizamos tu <span class="accent">siguiente escapada?</span></h2>
+            <p>Elige la zona en la que estás pensando y te enseño todo lo que tengo por allí: pueblos, rutas, playas, cuevas y curiosidades.</p>
+          </div>
+          <form class="escapada__form" action="blog.html" method="get" data-escapada>
+            <label class="escapada__field"><span>¿Dónde?</span>
+              <select name="comunidad" data-escapada-zona><option value="">Cualquier zona</option></select>
+            </label>
+            <label class="escapada__field"><span>¿Qué te apetece?</span>
+              <select name="tipo" data-escapada-tipo><option value="">De todo</option></select>
+            </label>
+            <label class="escapada__field escapada__field--wide"><span>O busca un sitio</span>
+              <input type="search" name="q" placeholder="Tenerife, cascadas, snorkel…" autocomplete="off" />
+            </label>
+            <button class="btn" type="submit">Ver planes</button>
+            <p class="escapada__alt">¿Prefieres verlo en el mapa? <a href="mapa.html">Abre el mapa de aventuras</a>.</p>
+          </form>
+        </div>
+      </div>
+    </section>
+
     <section class="section" style="padding-top:clamp(18px,2.2vw,28px);">
       <div class="container">
         <div class="destacados__head">
@@ -363,7 +372,7 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js?v=20261012b"></script>
+  <script src="assets/js/main.js?v=20261012c"></script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
