@@ -12,18 +12,22 @@
   .demo { padding: clamp(40px, 6vw, 80px) 0; border-bottom: 1px dashed var(--line); }
 
   /* ---------- Buscador: la cámara entra en la pantalla ---------- */
-  .esc { position: relative; background: #fff; border-radius: 24px; overflow: hidden; display: grid; grid-template-columns: 1fr 1.25fr; min-height: 480px; }
+  .esc { position: relative; background: var(--night); color: #fff; border-radius: 24px; overflow: hidden; display: grid; grid-template-columns: 1fr 1.25fr; min-height: 480px; }
   .esc__form { padding: clamp(24px, 4vw, 48px); position: relative; z-index: 2; }
   .f-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-  .f-field label { display: block; font: 600 12px var(--font-head); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 6px; }
+  .f-field label { display: block; font: 600 12px var(--font-head); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 6px; color: var(--gold-soft); }
   .f-field select { width: 100%; padding: 13px 14px; border-radius: 10px; border: 1px solid var(--line); font: 500 15px var(--font-body); background: #fff; color: var(--ink); }
   .f-field select:disabled { opacity: .55; }
-  .f-count { font: 600 14px var(--font-head); margin: 14px 0; color: var(--olive-dark); min-height: 1.4em; }
-  .f-count b { font-size: 1.6em; color: var(--ink); }
+  .f-count { font: 600 14px var(--font-head); margin: 14px 0; color: var(--gold-soft); min-height: 1.4em; }
+  .f-count b { font-size: 1.6em; color: #fff; }
+  .esc .title { color: #fff; }
+  .esc .title .accent { color: var(--gold-soft); }
+  .esc .eyebrow { color: var(--gold-soft); }
+  .esc .btn { background: var(--gold); border-color: var(--gold); color: var(--ink); }
   .esc__stage { position: relative; overflow: hidden; min-height: 420px; }
   .esc__cam { position: absolute; left: 50%; top: 50%; width: 400px; height: 400px; transform-origin: 0 0; transition: transform 1.3s cubic-bezier(.65,0,.25,1); }
   .esc__cam img { position: absolute; inset: 0; width: 100%; height: 100%; }
-  .esc__screen { position: absolute; left: 44.4%; top: 15.2%; width: 35.7%; height: 24.1%; background: #fbfaf7; overflow: hidden; }
+  .esc__screen { position: absolute; left: 44.5%; top: 15.6%; width: 35.5%; height: 23%; background: #fbfaf7; overflow: hidden; }
   .esc__screen svg.esmap { position: absolute; inset: 0; width: 100%; height: 100%; }
   .esmap path { fill: #d8d3c8; stroke: #fff; stroke-width: 1.2; vector-effect: non-scaling-stroke; transition: fill .5s, opacity .5s; cursor: pointer; }
   .esmap path:hover { fill: #c3bba9; }
@@ -37,10 +41,10 @@
   .esc__back { position: absolute; top: 14px; right: 14px; z-index: 3; font: 600 12px var(--font-head); border: 1px solid var(--line); background: #fff; border-radius: 99px; padding: 6px 12px; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity .4s; }
   .esc.zoom .esc__back { opacity: 1; pointer-events: auto; }
   /* Fotos de fondo que van pasando (de la propia web) */
-  .dibujos { position: absolute; inset: 0; pointer-events: none; }
+  .dibujos { position: absolute; inset: 0; pointer-events: none; -webkit-mask: linear-gradient(transparent, #000 38%); mask: linear-gradient(transparent, #000 38%); }
   .dibujos img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transform: scale(1.06); transition: opacity 1.6s ease, transform 6s linear; }
   .dibujos img.on { opacity: 1; transform: scale(1); }
-  .dibujos::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(255,255,255,.15), rgba(255,255,255,.45) 70%, rgba(255,255,255,.6)); }
+  .dibujos::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(39,76,120,.5), rgba(39,76,120,0) 60%); }
   .dibujos__name { position: absolute; right: 16px; bottom: 14px; z-index: 2; font: 600 11px var(--font-head); letter-spacing: .14em; text-transform: uppercase; color: #fff; text-shadow: 0 1px 6px rgba(0,0,0,.5); transition: opacity .6s; }
   .esc.zoom .dibujos, .esc.zoom .dibujos__name { opacity: 0; transition: opacity .5s; }
 
@@ -148,10 +152,11 @@
   }
   // Cámara: en reposo centra el escritorio; con zona elegida, la pantalla llena el escenario.
   function camera(zoom) {
-    const W = stage.clientWidth, H = stage.clientHeight, side = Math.round(Math.min(W * 0.95, H * 1.02, 600));
+    const W = stage.clientWidth, H = stage.clientHeight, side = Math.round(Math.min(W * 0.95, H * 1.08, 620));
     cam.style.width = cam.style.height = side + "px";
     const cw = side, ch = side;
-    if (!zoom) { cam.style.transform = `translate(${-cw / 2}px, ${-ch / 2}px) scale(1)`; return; }
+    // En reposo, los pies (sombra del suelo, al 87 % de la ilustración) tocan el borde inferior.
+    if (!zoom) { cam.style.transform = `translate(${-cw / 2}px, ${H / 2 - ch * 0.87}px) scale(1)`; return; }
     const sx = screen.offsetLeft, sy = screen.offsetTop, sw = screen.offsetWidth, sh = screen.offsetHeight;
     const s = Math.min(W * 0.96 / sw, H * 0.96 / sh);
     // la cámara está anclada en el centro del escenario: llevamos el centro de la pantalla allí
@@ -167,7 +172,7 @@
     return [(x0 + x1) / 2 - w / 2, (y0 + y1) / 2 - h / 2, w, h];
   }
   const all = map.getBBox();
-  const FULL = () => fit(all.x, all.y, all.x + all.width, all.y + all.height, 1.12);
+  const FULL = () => fit(all.x, all.y, all.x + all.width, all.y + all.height, 1.32);
   let vb = FULL(), anim = 0;
   map.setAttribute("viewBox", vb.join(" "));
   const ease = (t) => t < .5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
