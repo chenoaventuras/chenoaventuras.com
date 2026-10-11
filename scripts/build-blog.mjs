@@ -160,7 +160,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261011f" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261011g" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -385,7 +385,7 @@ function nearbyBox(list, current) {
   const lugares = list.map(({ q }) => q.lugar);
   const name = (q) => (q.lugar && q.lugar !== current.lugar && lugares.filter((l) => l === q.lugar).length === 1 ? q.lugar : q.title.split(":")[0]);
   const dist = (km) => (km < 1 ? "al lado" : `a ${km < 10 ? km.toFixed(1).replace(".", ",") : Math.round(km)} km`);
-  return `<div class="guide__head"><span class="eyebrow">Sigue explorando</span><h2>Más planes cerca</h2></div>
+  return `<div class="guide__head"><span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">🧭</span><span>Sigue explorando</span></span><h2>Más planes cerca</h2></div>
 <ul class="nearby" style="--n:${list.length}">${list
     .map(({ q, km }) => `<li><a href="/blog/${q.slug}.html"><img src="${esc(thumbOf(q.cover))}" alt="${esc(name(q))}" loading="lazy" decoding="async" /><span>${esc(name(q))}<small>${dist(km)}</small></span></a></li>`)
     .join("")}</ul>
@@ -469,7 +469,7 @@ function activitiesBox(p) {
   const items = p.actividades.map((a) => ({ ...a, ...affLink(a.u) }));
   const hasGyg = items.some((a) => a.plat === "GetYourGuide");
   return `
-<div class="guide__head" id="actividades"><span class="eyebrow">Planes para reservar</span><h2>Actividades recomendadas</h2></div>
+<div class="guide__head" id="actividades"><span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">🎟️</span><span>Planes para reservar</span></span><h2>Actividades recomendadas</h2></div>
 <ul class="actbox">${items
     .map(
       (a) => `<li><a href="${esc(a.href)}" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--${a.plat === "Civitatis" ? "civ" : "gyg"}">${esc(a.plat)}</span><span class="actbox__name">${esc(a.t)}</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li>`
@@ -484,7 +484,7 @@ function eatBox(p) {
   const num = (x, d = 0) => x.toLocaleString("es-ES", { minimumFractionDigits: d, maximumFractionDigits: d });
   const maps = (c) => c.u || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([c.n, c.d, p.lugar].filter(Boolean).join(", "))}`;
   return `
-<div class="guide__head" id="donde-comer"><span class="eyebrow">Dónde comer</span><h2>¿Dónde comer en ${esc(p.lugar || p.title.split(":")[0])}?</h2><p>Restaurantes con las mejores opiniones de la zona.</p></div>
+<div class="guide__head" id="donde-comer"><span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">🍽️</span><span>Dónde comer</span></span><h2>¿Dónde comer en ${esc(p.lugar || p.title.split(":")[0])}?</h2><p>Restaurantes con las mejores opiniones de la zona.</p></div>
 <ul class="eatbox">${p.comer
     .map(
       (c) => `<li><h3>${esc(c.n)}</h3>${c.r ? `<p class="eatbox__rate">⭐ ${num(c.r, 1)}${c.o ? ` <span>(${num(c.o)} opiniones)</span>` : ""}</p>` : ""}${c.t ? `<p class="eatbox__type">${esc(c.t)}</p>` : ""}${c.d ? `<p class="eatbox__addr">${esc(c.d)}</p>` : ""}<a class="eatbox__go" href="${esc(maps(c))}" target="_blank" rel="noopener">Ver en Google Maps &rarr;</a></li>`
@@ -498,7 +498,7 @@ function faqBox(p) {
   if (!p.faq.length) return "";
   const title = p.faqTitulo || `Dudas sobre ${p.lugar || p.title}`;
   return `
-<div class="guide__head" id="preguntas-frecuentes"><span class="eyebrow">Preguntas frecuentes</span><h2>${esc(title)}</h2></div>
+<div class="guide__head" id="preguntas-frecuentes"><span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">🙋</span><span>Preguntas frecuentes</span></span><h2>${esc(title)}</h2></div>
 <div class="faq">${p.faq.map((f) => `<details><summary>${esc(f.q)}</summary><p>${marked.parseInline(f.a)}</p></details>`).join("")}</div>
 `;
 }
@@ -727,7 +727,7 @@ function renderIndex(posts, destinos = []) {
 
   const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
-        <span class="eyebrow" style="color:var(--gold-soft)">Blog</span>
+        <span class="eyebrow" style="color:var(--gold-soft)"><span class="eyebrow__emoji" aria-hidden="true">✍️</span><span>Blog</span></span>
         <h1>Historias del camino</h1>
         <p>Rutas, consejos y rincones de España contados con calma por Chenoaventuras.</p>
       </div>
@@ -943,7 +943,7 @@ function renderMap(posts, destinos = []) {
 
   const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
-        <span class="eyebrow" style="color:var(--gold-soft)">Mapa</span>
+        <span class="eyebrow" style="color:var(--gold-soft)"><span class="eyebrow__emoji" aria-hidden="true">🗺️</span><span>Mapa</span></span>
         <h1>Mapa de aventuras</h1>
         <p>Todos los lugares de los que te he hablado, en un solo mapa. Toca un punto y descubre el artículo.</p>
       </div>
@@ -1050,7 +1050,7 @@ function renderDestino(d) {
   );
   const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
-        <span class="eyebrow" style="color:var(--gold-soft)">Destino</span>
+        <span class="eyebrow" style="color:var(--gold-soft)"><span class="eyebrow__emoji" aria-hidden="true">📍</span><span>Destino</span></span>
         <h1>${esc(d.title)}</h1>
         <p>${esc(d.description)}</p>
       </div>

@@ -14,7 +14,7 @@
   <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicon-96.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/favicon-192.png" />
   <link rel="apple-touch-icon" href="/assets/img/favicon-180.png" />
-  <link rel="stylesheet" href="assets/css/styles.css?v=20261011f" />
+  <link rel="stylesheet" href="assets/css/styles.css?v=20261011g" />
   <script>
     document.documentElement.classList.add("js");
     (function () {
@@ -154,7 +154,7 @@
   <main>
     <section class="pagehead g404 torn-bottom" data-g404>
       <div class="pagehead__inner container g404__inner">
-        <span class="eyebrow" data-g404-eyebrow>Error 404</span>
+        <span class="eyebrow" data-g404-eyebrow><span class="eyebrow__emoji" aria-hidden="true">🧭</span><span>Error 404</span></span>
         <h1 data-g404-title>Página<br />no encontrada</h1>
         <p class="lead" data-g404-lead>Esta página no existe o se movió de sitio. Ya que estás aquí, ayuda a Cheno a cruzar el país saltando obstáculos.</p>
         <script>
@@ -165,7 +165,7 @@
             var eb = document.querySelector("[data-g404-eyebrow]");
             var ti = document.querySelector("[data-g404-title]");
             var le = document.querySelector("[data-g404-lead]");
-            if (eb) eb.textContent = "Minijuego";
+            if (eb) eb.innerHTML = '<span class="eyebrow__emoji" aria-hidden="true">🎮</span><span>Minijuego</span>';
             if (ti) ti.textContent = "¡Nos vamos de ruta!";
             if (le) le.innerHTML = "Cheno se ha propuesto recorrer España para descubrir todo lo que esconde. Ayúdalo a seguir avanzando, esquiva los obstáculos y recorre todo lo que puedas.<br><br><strong>¿Tienes lo necesario para llegar al TOP 5? 👀</strong>";
           })();

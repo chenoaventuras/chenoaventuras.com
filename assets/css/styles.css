@@ -138,6 +138,9 @@ p { margin: 0 0 1em; }
   opacity: .6;
 }
 .eyebrow--center { justify-content: center; }
+/* Emoji delante del título pequeño: sustituye a la rayita. */
+.eyebrow:has(.eyebrow__emoji)::before { display: none; }
+.eyebrow__emoji { font-size: 1.35em; letter-spacing: 0; line-height: 1; display: inline-block; transform: rotate(-6deg); }
 
 .title {
   font-family: var(--font-display);
