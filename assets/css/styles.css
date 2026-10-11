@@ -1977,21 +1977,73 @@ p { margin: 0 0 1em; }
 .backfab.is-visible { opacity: 1; transform: none; pointer-events: auto; }
 .backfab:hover { background: var(--gold); color: var(--night); }
 
-/* ---------- Portada: buscador de escapadas ---------- */
-.escapada__box { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); gap: clamp(20px, 4vw, 48px); align-items: center; background: var(--night); color: #fff; border-radius: var(--radius); padding: clamp(24px, 4vw, 44px); }
-.escapada__box .title { color: #fff; }
-.escapada__box .eyebrow { color: var(--gold-soft); }
-.escapada__text p { color: rgba(255,255,255,.85); margin: .6em 0 0; }
-.escapada__form { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-.escapada__field { display: flex; flex-direction: column; gap: 6px; font-size: .78rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--gold-soft); }
-.escapada__field--wide { grid-column: 1 / -1; }
-.escapada__field select, .escapada__field input { font: inherit; font-size: 1rem; font-weight: 400; letter-spacing: 0; text-transform: none; padding: 12px 14px; border-radius: 10px; border: 0; background: #fff; color: var(--night); width: 100%; }
-.escapada__form .btn { grid-column: 1 / -1; justify-self: start; }
-.escapada__alt { grid-column: 1 / -1; margin: 0; font-size: .9rem; color: rgba(255,255,255,.8); }
-.escapada__alt a { color: var(--gold-soft); }
-@media (max-width: 760px) { .escapada__box { grid-template-columns: 1fr; } .escapada__form { grid-template-columns: 1fr; } }
-.escapada__box .title .accent { color: var(--gold-soft); }
-.escapada__field select:disabled { opacity: .6; }
+/* ---------- Portada: buscador de escapadas (la cámara entra en la pantalla del ordenador) ---------- */
+.esc { position: relative; background: var(--night); color: #fff; border-radius: 24px; overflow: hidden; display: grid; grid-template-columns: 1fr 1.25fr; min-height: 480px; }
+.esc__form { padding: clamp(24px, 4vw, 48px); position: relative; z-index: 2; }
+.esc .f-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.esc .f-field label { display: block; font: 600 12px var(--font-head); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 6px; color: var(--gold-soft); }
+.esc .f-field select { width: 100%; padding: 13px 14px; border-radius: 10px; border: 1px solid var(--line); font: 500 15px var(--font-body); background: #fff; color: var(--ink); }
+.esc .f-field select:disabled { opacity: .55; }
+.esc .f-count { font: 600 14px var(--font-head); margin: 14px 0; color: var(--gold-soft); min-height: 1.4em; }
+.esc .f-count b { font-size: 1.6em; color: #fff; }
+.esc .title { color: #fff; }
+.esc .title .accent { color: var(--gold-soft); }
+.esc .eyebrow { color: var(--gold-soft); }
+.esc .btn { background: var(--gold); border-color: var(--gold); color: var(--ink); }
+.esc__stage { position: relative; min-height: 420px; }
+.esc__view { position: absolute; inset: 0; overflow: hidden; }
+.esc__cam { position: absolute; left: 50%; top: 50%; width: 400px; height: 400px; transform-origin: 0 0; transition: transform 1.3s cubic-bezier(.65,0,.25,1); }
+.esc__cam img { position: absolute; inset: 0; width: 100%; height: 100%; }
+/* Monitor dibujado encima del de la ilustración: marco uniforme y pantalla bien cuadrada. */
+.esc__screen { position: absolute; left: 43.38%; top: 14.6%; width: 39.4%; height: 25.8%; background: #1d1f23; border-radius: 3px; }
+.esc__glass { position: absolute; left: 2.6%; top: 3.8%; right: 4.2%; bottom: 4.6%; background: #fbfaf7; overflow: hidden; border-radius: 1px; }
+.esc__screen svg.esmap { position: absolute; inset: 0; width: 100%; height: 100%; }
+.esmap path { fill: #d8d3c8; stroke: #fff; stroke-width: 1.2; vector-effect: non-scaling-stroke; transition: fill .5s, opacity .5s; cursor: pointer; }
+.esmap path:hover { fill: #c3bba9; }
+.esmap .esmap__can-box { fill: none; stroke: #b9b2a4; stroke-dasharray: 4 4; }
+.esmap.has-sel path { opacity: .45; }
+.esmap.has-sel path.is-c { opacity: 1; fill: var(--olive-bright); }
+.esmap.has-sel path.is-p { opacity: 1; fill: var(--gold); }
+.esmap .esmap__can-box { opacity: 1 !important; transition: opacity .4s; }
+.esmap .esmap__mundo path { fill: #ebe7de; stroke: #fff; opacity: 1 !important; cursor: default; }
+.esmap .esmap__mundo path:hover { fill: #ebe7de; }
+.esmap .esmap__mundo path.is-c { fill: var(--olive-bright); }
+.esmap.ext .esmap__can-box { opacity: 0 !important; }
+.esc__tag { position: absolute; left: 16px; bottom: 14px; z-index: 3; font: 700 13px var(--font-head); background: var(--ink); color: #fff; padding: 6px 12px; border-radius: 99px; opacity: 0; transition: opacity .4s .9s; }
+.esc__tag.on { opacity: 1; }
+.esc__back { position: absolute; top: 14px; right: 14px; z-index: 3; font: 600 12px var(--font-head); border: 1px solid var(--line); background: #fff; border-radius: 99px; padding: 6px 12px; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity .4s; }
+.esc.zoom .esc__back { opacity: 1; pointer-events: auto; }
+/* Fotos de fondo que van pasando (de la propia web) */
+.dibujos { position: absolute; inset: 0; pointer-events: none; -webkit-mask: linear-gradient(transparent, #000 38%); mask: linear-gradient(transparent, #000 38%); }
+.dibujos img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transform: scale(1.06); transition: opacity 1.6s ease, transform 6s linear; }
+.dibujos img.on { opacity: 1; transform: scale(1); }
+.dibujos::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(39,76,120,.5), rgba(39,76,120,0) 60%); }
+.dibujos__name { position: absolute; right: 16px; bottom: 14px; z-index: 2; font: 600 11px var(--font-head); letter-spacing: .14em; text-transform: uppercase; color: #fff; text-shadow: 0 1px 6px rgba(0,0,0,.5); transition: opacity .6s; }
+.esc.zoom .dibujos, .esc.zoom .dibujos__name { opacity: 0; transition: opacity .5s; }
+
+@media (min-width: 861px) {
+  .esc { grid-template-columns: 1.25fr 1fr; }
+  .esc__stage { order: -1; }
+  .dibujos { -webkit-mask: linear-gradient(to left, transparent, #000 30%); mask: linear-gradient(to left, transparent, #000 30%); }
+}
+@media (max-width: 860px) {
+  .esc { grid-template-columns: 1fr; }
+  .esc__form { padding-bottom: 0; }
+  .esc__stage { min-height: 400px; }
+  .dibujos { top: -52px; }
+}
+/* Avión hacia destinos de fuera de España */
+.esmap .ruta { fill: none; stroke: var(--gold-dark); stroke-width: .8; stroke-dasharray: 3 3; vector-effect: non-scaling-stroke; stroke-linecap: round; }
+.esmap .avion { fill: var(--teal-deep); stroke: none; }
+.esmap.has-sel path.ruta, .esmap.has-sel path.avion { opacity: 1; }
+.esmap .destino circle { fill: var(--gold); stroke: #fff; stroke-width: .6; vector-effect: non-scaling-stroke; }
+.esmap .destino text { font: 700 26px var(--font-head); fill: var(--ink); paint-order: stroke; stroke: #fbfaf7; stroke-width: 6px; }
+/* Transición al pulsar «Ver planes» */
+.esc-veil { position: fixed; inset: 0; background: var(--paper); opacity: 0; pointer-events: none; z-index: 999; transition: opacity .45s ease; }
+.esc-veil.on { opacity: 1; }
+.esc .f-field--wide { grid-column: 1 / -1; }
+.esc__alt { margin: 12px 0 0; font-size: .9rem; color: rgba(255,255,255,.8); }
+.esc__alt a { color: var(--gold-soft); }
 
 /* Llegada desde el buscador de escapadas (la marca main.js). */
 html.cheno-fade { background: var(--paper); }

@@ -26,7 +26,7 @@
   <meta name="twitter:title" content="Chenoaventuras | Descubre nuevos destinos 🌎" />
   <meta name="twitter:description" content="Chenoaventuras (@chenoaventuras): rutas, destinos y curiosidades de viaje reales por España y más allá. Contenido de viajes para gente aventurera." />
   <meta name="twitter:image" content="https://www.chenoaventuras.com/assets/img/og-portada.jpg" />
-  <link rel="stylesheet" href="assets/css/styles.css?v=20261011g" />
+  <link rel="stylesheet" href="assets/css/styles.css?v=20261012a" />
   <script>document.documentElement.classList.add("js");</script>
   <script type="application/ld+json">
   {
@@ -205,27 +205,36 @@
     <!-- ============ BUSCADOR DE ESCAPADAS (opciones desde assets/data/zonas.json) ============ -->
     <section class="section escapada">
       <div class="container">
-        <div class="escapada__box">
-          <div class="escapada__text">
-            <span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">✍️</span><span>Del blog</span></span>
-            <h2 class="title">¿Organizamos tu <span class="accent">siguiente escapada?</span></h2>
-            <p>Elige la zona en la que estás pensando, afina por provincia o isla y te enseño todo lo que puedes hacer por allí: pueblos, rutas, playas, cuevas y curiosidades.</p>
-          </div>
-          <form class="escapada__form" action="blog.html" method="get" data-escapada>
-            <label class="escapada__field"><span>¿Dónde?</span>
-              <select name="comunidad" data-escapada-zona><option value="">Cualquier zona</option></select>
-            </label>
-            <label class="escapada__field"><span>¿Qué provincia o isla?</span>
-              <select name="provincia" data-escapada-prov disabled><option value="">Elige antes la zona</option></select>
-            </label>
-            <label class="escapada__field escapada__field--wide"><span>¿Qué te apetece?</span>
-              <select name="tipo" data-escapada-tipo><option value="">De todo</option></select>
-            </label>
-
-            <button class="btn" type="submit">Ver planes</button>
-            <p class="escapada__alt">¿Prefieres verlo en el mapa? <a href="mapa.html">Abre el mapa de aventuras</a>.</p>
-          </form>
-        </div>
+        <div class="esc" data-esc>
+      <div class="esc__form">
+        <span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">✍️</span><span>Del blog</span></span>
+        <h2 class="title">¿Organizamos tu <span class="accent">siguiente escapada?</span></h2>
+        <div class="f-row"><div class="f-field"><label for="z">¿Dónde?</label><select id="z" data-zona></select></div><div class="f-field"><label for="p">¿Provincia o isla?</label><select id="p" data-prov disabled></select></div></div>
+        <div class="f-row"><div class="f-field f-field--wide"><label for="t">¿Qué te apetece?</label><select id="t" data-tipo></select></div></div>
+        <div class="f-count" data-count></div>
+        <a class="btn" data-go href="/blog">Ver planes</a>
+        <p class="esc__alt">¿Prefieres verlo en el mapa? <a href="mapa.html">Abre el mapa de aventuras</a>.</p>
+      </div>
+      <div class="esc__stage">
+        <div class="dibujos" aria-hidden="true">
+<img src="assets/img/hero.webp" alt="" data-name="Lanuza · Pirineo aragonés" loading="lazy" decoding="async" />
+<img src="assets/img/blog/consuegra-molinos/portada.webp" alt="" data-name="Molinos de Consuegra" loading="lazy" decoding="async" />
+<img src="assets/img/blog/san-juan-de-gaztelugatxe/portada.webp" alt="" data-name="San Juan de Gaztelugatxe" loading="lazy" decoding="async" />
+<img src="assets/img/hero-altea.webp" alt="" data-name="Altea · Costa Blanca" loading="lazy" decoding="async" />
+<img src="assets/img/blog/ronda-que-ver/portada.webp" alt="" data-name="Ronda" loading="lazy" decoding="async" />
+<img src="assets/img/blog/mallorca-que-ver/portada.webp" alt="" data-name="Mallorca" loading="lazy" decoding="async" />
+<img src="assets/img/blog/acueducto-de-segovia/acueducto.webp" alt="" data-name="Acueducto de Segovia" loading="lazy" decoding="async" />
+<img src="assets/img/blog/islas-cies/portada.webp" alt="" data-name="Islas Cíes" loading="lazy" decoding="async" />
+</div>
+        <span class="dibujos__name" data-dib-name></span>
+        <div class="esc__view"><div class="esc__cam" data-cam>
+          <img src="assets/img/escapada-escritorio.png" alt="Cheno en su escritorio planificando una escapada" width="1000" height="1000" />
+          <div class="esc__screen" data-screen><div class="esc__glass" data-glass><div data-map></div></div></div>
+        </div></div>
+        <span class="esc__tag" data-tag></span>
+        <button class="esc__back" type="button" data-back>← Toda España</button>
+      </div>
+    </div>
       </div>
     </section>
 
@@ -372,7 +381,7 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js?v=20261012f"></script>
+  <script src="assets/js/main.js?v=20261012g"></script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

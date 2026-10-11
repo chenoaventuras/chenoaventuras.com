@@ -881,86 +881,215 @@
 })();
 
 /* ---------- Portada: buscador de escapadas ----------
-   Rellena los desplegables con assets/data/zonas.json (lo genera scripts/build-blog.mjs)
-   y envía al blog filtrado: blog.html?comunidad=…&tipo=…&q=… */
-(function () {
-  var form = document.querySelector("[data-escapada]");
-  if (!form) return;
-  var zona = form.querySelector("[data-escapada-zona]");
-  var tipo = form.querySelector("[data-escapada-tipo]");
-  var prov = form.querySelector("[data-escapada-prov]");
-  var TODO = { "Canarias": "Todas las islas", "Islas Baleares": "Todas las islas", "Aragón": "Todo Aragón", "País Vasco": "Todo el País Vasco" };
-  var data = null;
+   La ilustración de Cheno en su escritorio: al elegir zona, la cámara entra en la pantalla
+   y el mapa (assets/data/mapa-espana.svg) se acerca a la zona; fuera de España, un avión
+   vuela desde Madrid. «Ver planes» lleva al blog filtrado con un zoom a la pantalla.
+   Datos: assets/data/zonas.json (lo genera scripts/build-blog.mjs). */
+(async function () {
+  const TODO = { Canarias: "Todas las islas", "Islas Baleares": "Todas las islas", "Aragón": "Todo Aragón", "País Vasco": "Todo el País Vasco" };
+  const box = document.querySelector("[data-esc]");
+  if (!box || !window.fetch) return;
+  const [z, svg] = await Promise.all([fetch("/assets/data/zonas.json", { cache: "no-cache" }).then(r => r.json()), fetch("/assets/data/mapa-espana.svg?v=2").then(r => r.text())]);
+  box.querySelector("[data-map]").innerHTML = svg;
+  const map = box.querySelector("svg.esmap"), cam = box.querySelector("[data-cam]"), screen = box.querySelector("[data-screen]"), stage = box.querySelector(".esc__stage");
+  const zs = box.querySelector("[data-zona]"), ps = box.querySelector("[data-prov]");
+  const ts = box.querySelector("[data-tipo]");
+  const count = box.querySelector("[data-count]"), go = box.querySelector("[data-go]"), tag = box.querySelector("[data-tag]");
+  zs.innerHTML = '<option value="">Cualquier zona</option>' + z.zonas.map((x) => `<option value="${x.v}">${x.l || x.v}</option>`).join("");
+  if (ts) ts.innerHTML = '<option value="">De todo</option>' + (z.tipos || []).map((x) => `<option value="${x.v}">${x.v} (${x.n})</option>`).join("");
   function fillProv() {
-    if (!prov) return;
-    var z = data && data.zonas ? data.zonas.filter(function (x) { return x.v === zona.value; })[0] : null;
-    prov.innerHTML = "";
-    var o0 = document.createElement("option");
-    o0.value = "";
-    o0.textContent = z ? (TODO[z.v] || "Toda " + (z.l || z.v)) + " (" + z.n + ")" : "Elige antes la zona";
-    prov.appendChild(o0);
-    if (z && z.provs) {
-      z.provs.forEach(function (p) {
-        var o = document.createElement("option");
-        o.value = p.v;
-        o.textContent = p.v + " (" + p.n + ")";
-        prov.appendChild(o);
-      });
+    const zona = z.zonas.find((x) => x.v === zs.value);
+    ps.innerHTML = zona ? `<option value="">${TODO[zona.v] || "Toda " + (zona.l || zona.v)}</option>` + zona.provs.map((p) => `<option value="${p.v}">${p.v} (${p.n})</option>`).join("") : '<option value="">Elige antes la zona</option>';
+    ps.disabled = !zona || zona.provs.length < 2;
+  }
+  // Cámara: en reposo centra el escritorio; con zona elegida, la pantalla llena el escenario.
+  function camera(zoom) {
+    const W = stage.clientWidth, H = stage.clientHeight, side = Math.round(Math.min(W * 0.95, H * 1.08, 620));
+    cam.style.width = cam.style.height = side + "px";
+    const cw = side, ch = side;
+    // En reposo, los pies (sombra del suelo, al 87 % de la ilustración) tocan el borde inferior.
+    if (!zoom) { cam.style.transform = `translate(${-cw / 2}px, ${H / 2 - ch * 0.87}px) scale(1)`; return; }
+    const sx = screen.offsetLeft, sy = screen.offsetTop, sw = screen.offsetWidth, sh = screen.offsetHeight;
+    const s = Math.min(W * 0.96 / sw, H * 0.96 / sh);
+    // la cámara está anclada en el centro del escenario: llevamos el centro de la pantalla allí
+    const tx = -(sx + sw / 2) * s, ty = -(sy + sh / 2) * s;
+    cam.style.transform = `translate(${tx}px, ${ty}px) scale(${s})`;
+  }
+  // El mapa se acerca animando su viewBox, con la misma duración y curva que la cámara.
+  // Encaje: el mapa entero centrado en la pantalla del ordenador, con el mismo margen por todos lados.
+  const glass = box.querySelector("[data-glass]");
+  const ratio = () => glass.offsetWidth / glass.offsetHeight || 1.5;
+  function fit(x0, y0, x1, y1, pad) {
+    let w = (x1 - x0) * pad, h = (y1 - y0) * pad, r = ratio();
+    if (w / h > r) h = w / r; else w = h * r;
+    return [(x0 + x1) / 2 - w / 2, (y0 + y1) / 2 - h / 2, w, h];
+  }
+  // Encaje inicial: solo España (no los países vecinos de fondo).
+  const all = (() => { let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9; map.querySelectorAll("path[data-c]").forEach((p) => { const b = p.getBBox(); x0 = Math.min(x0, b.x); y0 = Math.min(y0, b.y); x1 = Math.max(x1, b.x + b.width); y1 = Math.max(y1, b.y + b.height); }); return { x: x0, y: y0, width: x1 - x0, height: y1 - y0 }; })();
+  const FULL = () => fit(all.x, all.y, all.x + all.width, all.y + all.height, 1.32);
+  let vb = FULL(), anim = 0;
+  map.setAttribute("viewBox", vb.join(" "));
+  const ease = (t) => t < .5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+  function zoomBox(x0, y0, x1, y1) { animarVB(fit(x0, y0, x1, y1, 1)); }
+  function zoomMap(paths) {
+    let to = FULL();
+    if (paths.length) {
+      let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9;
+      paths.forEach((p) => { const b = p.getBBox(); x0 = Math.min(x0, b.x); y0 = Math.min(y0, b.y); x1 = Math.max(x1, b.x + b.width); y1 = Math.max(y1, b.y + b.height); });
+      const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2, hw = Math.max(x1 - x0, 90) / 2, hh = Math.max(y1 - y0, 72) / 2;
+      to = fit(cx - hw, cy - hh, cx + hw, cy + hh, 1.6);
     }
-    prov.disabled = !z || !z.provs || z.provs.length < 2;
+    animarVB(to);
   }
-  if (zona) zona.addEventListener("change", fillProv);
-  function fill(sel, list) {
-    list.forEach(function (x) {
-      var o = document.createElement("option");
-      o.value = x.v;
-      o.textContent = (x.l || x.v) + " (" + x.n + ")";
-      sel.appendChild(o);
-    });
+  function animarVB(to) {
+    const from = vb.slice(), t0 = performance.now(), id = ++anim;
+    (function frame(now) {
+      if (id !== anim) return;
+      const t = Math.min(1, (now - t0) / 1300), e = ease(t);
+      vb = from.map((v, i) => v + (to[i] - v) * e);
+      map.setAttribute("viewBox", vb.map((v) => v.toFixed(1)).join(" "));
+      if (t < 1) requestAnimationFrame(frame);
+    })(t0);
   }
-  fetch("/assets/data/zonas.json", { cache: "no-cache" })
-    .then(function (r) { return r.ok ? r.json() : null; })
-    .then(function (d) {
-      if (!d) return;
-      data = d;
-      if (zona && d.zonas) fill(zona, d.zonas);
-      if (tipo && d.tipos) fill(tipo, d.tipos);
-    })
-    .catch(function () {});
-  form.addEventListener("submit", function (ev) {
-    ev.preventDefault();
-    var ps = new URLSearchParams();
-    Array.prototype.forEach.call(form.elements, function (el) {
-      if (el.name && !el.disabled && el.value && el.value.trim()) ps.set(el.name, el.value.trim());
+  // Proyección aproximada (lat/lng → mapa) guardada en el SVG.
+  const PX = map.dataset.px.split(",").map(Number), PY = map.dataset.py.split(",").map(Number);
+  const proj = (la, ln) => { const f = [1, ln, la, ln * ln, la * la, ln * la]; return [f.reduce((a, v, i) => a + v * PX[i], 0), f.reduce((a, v, i) => a + v * PY[i], 0)]; };
+  const NS = "http://www.w3.org/2000/svg";
+  let vuelo = null;
+  function volar(zona) {
+    map.querySelectorAll(".ruta,.avion,.destino").forEach((n) => n.remove());
+    cancelAnimationFrame(vuelo);
+    if (!zona || !zona.ext) return null;
+    const [x0, y0] = proj(40.42, -3.7); // Madrid
+    let [x1, y1] = proj(zona.ext.lat, zona.ext.lng);
+    const lejos = zona.ext.lat < 20 || zona.ext.lat > 50 || zona.ext.lng < -25 || zona.ext.lng > 20;
+    if (lejos) { // muy lejos: el avión sale por el borde en esa dirección
+      const ang = Math.atan2(-(zona.ext.lat - 40.42), zona.ext.lng + 3.7);
+      x1 = x0 + Math.cos(ang) * 900; y1 = y0 + Math.sin(ang) * 900;
+    }
+    const mx = (x0 + x1) / 2, my = (y0 + y1) / 2, len = Math.hypot(x1 - x0, y1 - y0);
+    const cx = mx + (y1 - y0) * 0.25, cy = my - (x1 - x0) * 0.25 - len * 0.1;
+    const ruta = document.createElementNS(NS, "path");
+    ruta.setAttribute("class", "ruta");
+    map.appendChild(ruta);
+    // Punto y tramo de la curva hasta t (de Casteljau), para que la estela vaya apareciendo tras el avión.
+    const B = (t) => [(1 - t) * (1 - t) * x0 + 2 * (1 - t) * t * cx + t * t * x1, (1 - t) * (1 - t) * y0 + 2 * (1 - t) * t * cy + t * t * y1];
+    const tramo = (t) => { const qx = x0 + (cx - x0) * t, qy = y0 + (cy - y0) * t, [ex, ey] = B(t); return `M${x0} ${y0} Q${qx} ${qy} ${ex} ${ey}`; };
+    const avion = document.createElementNS(NS, "path");
+    avion.setAttribute("class", "avion");
+    avion.setAttribute("d", "M14 0 L4 -2 L-2 -10 L-5 -10 L-1 -2 L-8 -1.5 L-11 -5 L-13 -5 L-11 0 L-13 5 L-11 5 L-8 1.5 L-1 2 L-5 10 L-2 10 L4 2 Z");
+    map.appendChild(avion);
+    const k = Math.max(len, 300) / 150;
+    let dest = null;
+    if (!lejos) {
+      dest = document.createElementNS(NS, "g"); dest.setAttribute("class", "destino"); dest.style.opacity = 0;
+      dest.innerHTML = `<circle cx="${x1}" cy="${y1}" r="9"/><text x="${x1 + 14}" y="${y1 + 8}">${zona.l || zona.v}</text>`;
+      map.appendChild(dest);
+    }
+    const t0 = performance.now() + 900, D = 1800;
+    (function frame(now) {
+      const t = Math.max(0, Math.min(1, (now - t0) / D)), e = ease(t);
+      ruta.setAttribute("d", tramo(e));
+      const [px, py] = B(e), [qx, qy] = B(Math.min(1, e + .01));
+      const a = Math.atan2(qy - py, qx - px) * 180 / Math.PI;
+      avion.setAttribute("transform", `translate(${px} ${py}) rotate(${a}) scale(${k})`);
+      if (t >= 1 && dest) dest.style.transition = "opacity .5s", dest.style.opacity = 1;
+      if (t < 1) vuelo = requestAnimationFrame(frame);
+    })(performance.now());
+    return lejos ? [x0, y0, x0, y0] : [Math.min(x0, x1), Math.min(y0, y1), Math.max(x0, x1), Math.max(y0, y1)];
+  }
+  function paint() {
+    const c = zs.value, p = ps.value;
+    map.classList.toggle("has-sel", !!c);
+    const sel = [];
+    map.querySelectorAll("path[data-c]").forEach((el) => {
+      const isC = el.dataset.c === c, isP = !!p && el.dataset.p === p;
+      el.classList.toggle("is-c", isC && !isP); el.classList.toggle("is-p", isP);
+      if (isP || (isC && !p)) sel.push(el);
     });
-    var qs = ps.toString();
-    location.href = "/blog" + (qs ? "?" + qs : "");
+    map.querySelectorAll("path[data-pais]").forEach((el) => el.classList.toggle("is-c", el.dataset.pais === c));
+    const zona = z.zonas.find((x) => x.v === c);
+    const n = !zona ? z.total : p ? (zona.provs.find((x) => x.v === p) || {}).n : zona.n;
+    const name = p || (zona ? zona.l || zona.v : "España");
+    count.innerHTML = `<b>${n}</b> planes en ${name}`;
+    tag.textContent = "📍 " + name; tag.classList.toggle("on", !!c);
+    const qs = new URLSearchParams(); if (c) qs.set("comunidad", c); if (p) qs.set("provincia", p); if (ts && ts.value) qs.set("tipo", ts.value);
+    go.href = "/blog" + (qs.toString() ? "?" + qs : "");
+    box.classList.toggle("zoom", !!c);
+    camera(!!c);
+    map.classList.toggle("ext", !!(zona && zona.ext));
+    const caja = volar(zona);
+    if (caja) { // destino de fuera: encuadre que incluye Madrid y el destino
+      const [a, b, cc, d] = caja, ex = Math.max(cc - a, 200) * .3, ey = Math.max(d - b, 160) * .3;
+      zoomBox(a - ex, b - ey, cc + ex, d + ey);
+    } else zoomMap(sel);
+  }
+  zs.addEventListener("change", () => { fillProv(); paint(); });
+  ps.addEventListener("change", paint);
+  if (ts) ts.addEventListener("change", paint);
+  map.addEventListener("click", (e) => {
+    const el = e.target.closest("path[data-c]"); if (!el) return;
+    const zona = z.zonas.find((x) => x.v === el.dataset.c); if (!zona) return;
+    if (zs.value === zona.v && zona.provs.some((p) => p.v === el.dataset.p)) ps.value = el.dataset.p;
+    else { zs.value = zona.v; fillProv(); }
+    paint();
   });
+  box.querySelector("[data-back]").addEventListener("click", () => { zs.value = ""; fillProv(); paint(); });
+  window.addEventListener("resize", () => camera(!!zs.value));
+  // «Ver planes»: la cámara entra del todo en la pantalla y se funde con la página siguiente.
+  const veil = document.createElement("div"); veil.className = "esc-veil"; document.body.appendChild(veil);
+  go.addEventListener("click", (ev) => {
+    if (ev.metaKey || ev.ctrlKey || ev.shiftKey) return;
+    ev.preventDefault();
+    const href = go.href;
+    if (!zs.value) { box.classList.add("zoom"); camera(true); }
+    const r = screen.getBoundingClientRect();
+    const k = Math.max(innerWidth / r.width, innerHeight / r.height) * 1.15;
+    setTimeout(() => {
+      stage.style.overflow = "visible"; box.style.overflow = "visible"; box.style.zIndex = 50;
+      const form = box.querySelector(".esc__form"); form.style.transition = "opacity .3s"; form.style.opacity = 0; stage.style.zIndex = 3;
+      const sr = screen.getBoundingClientRect(), dx = innerWidth / 2 - (sr.left + sr.width / 2), dy = innerHeight / 2 - (sr.top + sr.height / 2);
+      stage.style.transition = "transform .9s cubic-bezier(.65,0,.25,1)";
+      stage.style.transformOrigin = `${sr.left + sr.width / 2 - stage.getBoundingClientRect().left}px ${sr.top + sr.height / 2 - stage.getBoundingClientRect().top}px`;
+      stage.style.transform = `translate(${dx}px, ${dy}px) scale(${Math.max(innerWidth / sr.width, innerHeight / sr.height) * 1.1})`;
+      setTimeout(() => veil.classList.add("on"), 550);
+      setTimeout(() => { try { sessionStorage.setItem("chenoFade", "1"); } catch (e) {} location.href = href; }, 1000);
+    }, zs.value ? 0 : 1300);
+  });
+  window.addEventListener("pageshow", (ev) => { if (!ev.persisted) return; veil.classList.remove("on"); stage.style.transform = ""; stage.style.transition = ""; box.querySelector(".esc__form").style.opacity = ""; });
+  cam.style.transition = "none"; fillProv(); paint(); cam.offsetWidth; cam.style.transition = "";
 
-  /* ---------- Portada: profundidad al bajar (parallax) ---------- */
-  (function () {
-    var hero = document.querySelector("[data-parallax]");
-    if (!hero || (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) return;
-    var media = hero.querySelector(".hero__media");
-    var inner = hero.querySelector(".hero__inner");
-    var ticking = false;
-    function update() {
-      ticking = false;
-      var h = hero.offsetHeight || 1;
-      var y = Math.min(window.scrollY, h);
-      // Se mueven las fotos, no su contenedor: así el borde de acuarela (máscara del contenedor) se queda quieto.
-      if (media) {
-        media.style.setProperty("--py", (y * 0.4).toFixed(1) + "px");
-        media.style.setProperty("--ps", (1 + y / h * 0.08).toFixed(3));
-      }
-      if (inner) {
-        inner.style.transform = "translate3d(0," + (y * 0.15).toFixed(1) + "px,0)";
-        inner.style.opacity = Math.max(0, 1 - y / (h * 0.75)).toFixed(3);
-      }
+  // Dibujos de fondo
+  const dibs = [...box.querySelectorAll(".dibujos img")], dn = box.querySelector("[data-dib-name]");
+  let k = 0;
+  function nextDib() { dibs.forEach((d, i) => d.classList.toggle("on", i === k)); dn.textContent = dibs[k].dataset.name; k = (k + 1) % dibs.length; }
+  dibs.forEach((d) => (d.loading = "eager"));
+  nextDib(); setInterval(nextDib, 5000);
+})();
+
+/* ---------- Portada: profundidad al bajar (parallax) ---------- */
+(function () {
+  var hero = document.querySelector("[data-parallax]");
+  if (!hero || (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) return;
+  var media = hero.querySelector(".hero__media");
+  var inner = hero.querySelector(".hero__inner");
+  var ticking = false;
+  function update() {
+    ticking = false;
+    var h = hero.offsetHeight || 1;
+    var y = Math.min(window.scrollY, h);
+    // Se mueven las fotos, no su contenedor: así el borde de acuarela (máscara del contenedor) se queda quieto.
+    if (media) {
+      media.style.setProperty("--py", (y * 0.4).toFixed(1) + "px");
+      media.style.setProperty("--ps", (1 + y / h * 0.08).toFixed(3));
     }
-    window.addEventListener("scroll", function () {
-      if (!ticking) { ticking = true; requestAnimationFrame(update); }
-    }, { passive: true });
-    update();
-  })();
+    if (inner) {
+      inner.style.transform = "translate3d(0," + (y * 0.15).toFixed(1) + "px,0)";
+      inner.style.opacity = Math.max(0, 1 - y / (h * 0.75)).toFixed(3);
+    }
+  }
+  window.addEventListener("scroll", function () {
+    if (!ticking) { ticking = true; requestAnimationFrame(update); }
+  }, { passive: true });
+  update();
 })();
