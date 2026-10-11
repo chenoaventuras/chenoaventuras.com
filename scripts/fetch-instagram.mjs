@@ -96,7 +96,16 @@ const HIDE_FROM_HOME = [
   "Ddo7BVURiEb", // NO HAGAS ESTO (basura en el mar)
   "DdozPGTt96i", // Snorkel en Cabo de Palos (duplicado)
   "DddcskJBp27", // Medusa huevo frito (duplicado)
+  "DePi4NbR66I", // Río Misterioso del Monte Igueldo (repite la barca)
 ];
+/** Encuadre de la miniatura cuadrada (object-position) para que se vea lo importante. */
+const FOCUS = {
+  "DeRNFLzxO23": "50% 22%", // Mercado Cervantino: que se vea la cara del caballero
+};
+const focusOf = (m) => {
+  const code = Object.keys(FOCUS).find((c) => (m.permalink || "").includes("/" + c + "/"));
+  return code ? FOCUS[code] : null;
+};
 const isHiddenFromHome = (m) =>
   HIDE_FROM_HOME.some((code) => (m.permalink || "").includes("/" + code + "/"));
 
@@ -183,6 +192,7 @@ for (const m of visibles.slice(0, LIMIT)) {
     timestamp: m.timestamp || null,
     ...(existsSync(join(IMG_DIR, `${m.id}-640.webp`)) ? { thumb: `assets/img/instagram/${m.id}-640.webp` } : {}),
     ...(isHiddenFromHome(m) ? { home: false } : {}),
+    ...(focusOf(m) ? { pos: focusOf(m) } : {}),
   });
 }
 

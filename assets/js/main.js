@@ -399,6 +399,7 @@
       img.alt = p.caption
         ? p.caption.replace(/\s+/g, " ").slice(0, 100)
         : "Publicación de Chenoaventuras en Instagram";
+      if (p.pos) img.style.objectPosition = p.pos;
       img.loading = "lazy";
       img.decoding = "async";
       img.width = 600;
