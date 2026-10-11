@@ -1171,3 +1171,49 @@
   }, { passive: true });
 })();
 
+/* ---------- Pie de página: cielo con nubes (shader WebGL propio) ----------
+   Azul profundo con nubes de ruido fractal que se desplazan despacio, para que el
+   texto blanco se lea bien. Solo se anima cuando el pie está a la vista. */
+(function () {
+  var foot = document.querySelector(".site-footer");
+  if (!foot) return;
+  var cv = document.createElement("canvas"); cv.className = "footer-cielo"; cv.setAttribute("aria-hidden", "true");
+  var gl = cv.getContext("webgl", { antialias: false, alpha: false, preserveDrawingBuffer: true });
+  if (!gl) return;
+  var fs = [
+    "precision mediump float;uniform vec2 r;uniform float t;",
+    "float h(vec2 p){return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453);}",
+    "float n(vec2 p){vec2 i=floor(p),f=fract(p);f=f*f*(3.-2.*f);return mix(mix(h(i),h(i+vec2(1,0)),f.x),mix(h(i+vec2(0,1)),h(i+vec2(1,1)),f.x),f.y);}",
+    "float fbm(vec2 p){float v=0.,a=.5;mat2 m=mat2(1.6,1.2,-1.2,1.6);for(int i=0;i<6;i++){v+=a*n(p);p=m*p;a*=.5;}return v;}",
+    "void main(){vec2 uv=gl_FragCoord.xy/r;vec2 p=uv*vec2(r.x/r.y,1.)*1.8;",
+    "vec2 w=vec2(t*.02,t*.007);float q=fbm(p+w);float c=fbm(p*1.3+vec2(q*1.6)+w*1.7-vec2(t*.012,0.));",
+    "c=smoothstep(.5,.85,c);",
+    "vec3 top=vec3(.17,.33,.55),bot=vec3(.12,.24,.40);vec3 sky=mix(bot,top,uv.y);",
+    "float g=(h(gl_FragCoord.xy+t)-.5)*.02;",
+    "gl_FragColor=vec4(mix(sky,vec3(.86,.91,.97),c*.42)+g,1.);}"
+  ].join("");
+  function sh(type, src) { var s = gl.createShader(type); gl.shaderSource(s, src); gl.compileShader(s); return s; }
+  var pr = gl.createProgram();
+  gl.attachShader(pr, sh(gl.VERTEX_SHADER, "attribute vec2 p;void main(){gl_Position=vec4(p,0.,1.);}")); gl.attachShader(pr, sh(gl.FRAGMENT_SHADER, fs)); gl.linkProgram(pr);
+  if (!gl.getProgramParameter(pr, gl.LINK_STATUS)) return;
+  foot.insertBefore(cv, foot.firstChild); foot.classList.add("has-cielo");
+  gl.useProgram(pr);
+  gl.bindBuffer(gl.ARRAY_BUFFER, gl.createBuffer());
+  gl.bufferData(gl.ARRAY_BUFFER, new Float32Array([-1, -1, 1, -1, -1, 1, 1, 1]), gl.STATIC_DRAW);
+  var loc = gl.getAttribLocation(pr, "p"); gl.enableVertexAttribArray(loc); gl.vertexAttribPointer(loc, 2, gl.FLOAT, false, 0, 0);
+  var uR = gl.getUniformLocation(pr, "r"), uT = gl.getUniformLocation(pr, "t");
+  var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var t0 = performance.now(), last = 0, visible = false, raf = 0;
+  function dibuja(now) {
+    var w = Math.round(foot.clientWidth * .5), hh = Math.round(foot.clientHeight * .5);
+    if (cv.width !== w || cv.height !== hh) { cv.width = w; cv.height = hh; gl.viewport(0, 0, w, hh); }
+    gl.uniform2f(uR, w, hh); gl.uniform1f(uT, (now - t0) / 1000 + 25); gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);
+  }
+  function bucle(now) { raf = 0; if (!visible) return; if (now - last > 33) { last = now; dibuja(now); } raf = requestAnimationFrame(bucle); }
+  dibuja(performance.now());
+  if (reduce) { window.addEventListener("resize", function () { dibuja(performance.now()); }); return; }
+  if ("IntersectionObserver" in window) {
+    new IntersectionObserver(function (es) { visible = es[0].isIntersecting; if (visible && !raf) raf = requestAnimationFrame(bucle); }).observe(foot);
+  } else { visible = true; raf = requestAnimationFrame(bucle); }
+})();
+
