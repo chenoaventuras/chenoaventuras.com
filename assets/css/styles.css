@@ -173,8 +173,8 @@ p { margin: 0 0 1em; }
 
 /* ---------- Buttons ---------- */
 .btn {
-  --btn-bg: var(--olive-dark);
-  --btn-fg: #fff;
+  --btn-bg: var(--gold);
+  --btn-fg: var(--ink);
   display: inline-flex; align-items: center; gap: .6em;
   padding: .85em 1.6em;
   background: var(--btn-bg);
@@ -188,7 +188,7 @@ p { margin: 0 0 1em; }
   border-radius: 4px;
   transition: transform .15s ease, background .2s ease, color .2s ease;
 }
-.btn:hover { transform: translateY(-2px); background: var(--olive-dark); border-color: var(--olive-dark); }
+.btn:hover { transform: translateY(-2px); background: var(--gold-bright); border-color: var(--gold-bright); }
 .btn--ghost { --btn-bg: transparent; --btn-fg: var(--ink); border-color: currentColor; }
 .btn--ghost:hover { background: var(--ink); --btn-fg: #fff; border-color: var(--ink); }
 .btn--light { --btn-bg: transparent; --btn-fg: #fff; border-color: rgba(255,255,255,.6); }
@@ -352,7 +352,7 @@ p { margin: 0 0 1em; }
 .hero__portrait {
   position: absolute; right: 0; bottom: 0; z-index: 2;
   width: 42%; height: 94%; max-width: 620px;
-  background: url("../img/cheno-recorte.webp") no-repeat bottom right;
+  background: url("../img/cheno-recorte.webp?v=2") no-repeat bottom right;
   background-size: contain;
   filter: drop-shadow(-16px 6px 34px rgba(0, 0, 0, .45));
   pointer-events: none; display: none;
