@@ -879,6 +879,28 @@
   if (!form) return;
   var zona = form.querySelector("[data-escapada-zona]");
   var tipo = form.querySelector("[data-escapada-tipo]");
+  var prov = form.querySelector("[data-escapada-prov]");
+  var TODO = { "Canarias": "Todas las islas", "Islas Baleares": "Todas las islas", "Aragón": "Todo Aragón", "País Vasco": "Todo el País Vasco" };
+  var data = null;
+  function fillProv() {
+    if (!prov) return;
+    var z = data && data.zonas ? data.zonas.filter(function (x) { return x.v === zona.value; })[0] : null;
+    prov.innerHTML = "";
+    var o0 = document.createElement("option");
+    o0.value = "";
+    o0.textContent = z ? (TODO[z.v] || "Toda " + z.v) + " (" + z.n + ")" : "Elige antes la zona";
+    prov.appendChild(o0);
+    if (z && z.provs) {
+      z.provs.forEach(function (p) {
+        var o = document.createElement("option");
+        o.value = p.v;
+        o.textContent = p.v + " (" + p.n + ")";
+        prov.appendChild(o);
+      });
+    }
+    prov.disabled = !z || !z.provs || z.provs.length < 2;
+  }
+  if (zona) zona.addEventListener("change", fillProv);
   function fill(sel, list) {
     list.forEach(function (x) {
       var o = document.createElement("option");
@@ -891,6 +913,7 @@
     .then(function (r) { return r.ok ? r.json() : null; })
     .then(function (d) {
       if (!d) return;
+      data = d;
       if (zona && d.zonas) fill(zona, d.zonas);
       if (tipo && d.tipos) fill(tipo, d.tipos);
     })
@@ -899,7 +922,7 @@
     ev.preventDefault();
     var ps = new URLSearchParams();
     Array.prototype.forEach.call(form.elements, function (el) {
-      if (el.name && el.value && el.value.trim()) ps.set(el.name, el.value.trim());
+      if (el.name && !el.disabled && el.value && el.value.trim()) ps.set(el.name, el.value.trim());
     });
     var qs = ps.toString();
     location.href = "/blog" + (qs ? "?" + qs : "");

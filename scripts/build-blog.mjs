@@ -127,7 +127,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261012c"></script>
+  <script src="/assets/js/main.js?v=20261012d"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog" }) {
@@ -323,9 +323,15 @@ function thumbOf(cover) {
   return existsSync(join(ROOT, t.slice(1))) ? t : cover;
 }
 
+function provOf(p) {
+  const r = regionOf(p);
+  if (ISLAS[r]) return islaOf(r, p.lat, p.lng);
+  return p.provincia || PROVINCIAS[p.slug] || "";
+}
+
 function blogCard(p, { level = 2, search = false, eager = false } = {}) {
   const attrs = search
-    ? ` data-tags="${esc(p.tags.join("|"))}" data-search="${esc(norm([p.title, p.excerpt, p.tags.join(" ")].join(" ")))}"`
+    ? ` data-tags="${esc(p.tags.join("|"))}" data-prov="${esc(provOf(p))}" data-search="${esc(norm([p.title, p.excerpt, p.tags.join(" "), provOf(p)].join(" ")))}"`
     : "";
   return `          <a class="blogcard reveal" href="/blog/${p.slug}.html"${attrs}>
             ${
@@ -689,9 +695,16 @@ function renderIndex(posts, destinos = []) {
   const allTags = [...new Set(posts.flatMap((p) => p.tags))];
   const typeTags = TAG_TYPES.filter((t) => allTags.includes(t));
   const regionTags = allTags.filter((t) => !TAG_TYPES.includes(t)).sort((a, b) => a.localeCompare(b, "es"));
+  // Sugerencias del buscador: comunidades, provincias/islas y el nombre corto de cada lugar
+  const sugerencias = [...new Set([
+    ...regionTags,
+    ...posts.map(provOf).filter(Boolean),
+    ...posts.filter((p) => p.tags.length && !p.tags.includes("Descuentos")).map((p) => p.lugar || p.title.split(":")[0].trim()),
+  ])].sort((a, b) => a.localeCompare(b, "es"));
   const filterBar = `        <div class="blogfilter">
           <div class="blogfilter__search">
-            <input id="blog-search" type="search" placeholder="Buscar: Cuenca, snorkel, cascada…" aria-label="Buscar en el blog" autocomplete="off" />
+            <input id="blog-search" type="search" placeholder="Buscar: Cuenca, snorkel, cascada…" aria-label="Buscar en el blog" autocomplete="off" list="blog-sugerencias" />
+            <datalist id="blog-sugerencias">${sugerencias.map((s) => `<option value="${esc(s)}"></option>`).join("")}</datalist>
           </div>
           ${
             typeTags.length || regionTags.length
@@ -700,7 +713,8 @@ function renderIndex(posts, destinos = []) {
             ${regionTags.length ? `<select id="blog-region" aria-label="Comunidad autónoma">
               <option value="">Todas las comunidades</option>
               ${regionTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}
-            </select>` : ""}
+            </select>
+            <select id="blog-prov" aria-label="Provincia o isla" hidden><option value="">Toda la zona</option></select>` : ""}
             ${typeTags.length ? `<select id="blog-type" aria-label="Tipo de post">
               <option value="">Todos los tipos</option>
               ${typeTags.map((t) => `<option value="${esc(t)}">${esc(t)}</option>`).join("")}
@@ -727,6 +741,7 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
     <script>
       (function () {
         var reg = document.getElementById("blog-region");
+        var prov = document.getElementById("blog-prov");
         var typ = document.getElementById("blog-type");
         var q = document.getElementById("blog-search");
         if (!reg && !typ && !q) return;
@@ -748,25 +763,40 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
             o.disabled = n === 0 && select.value !== o.value;
           });
         }
+        var TODO = { "Canarias": "Todas las islas", "Islas Baleares": "Todas las islas", "Aragón": "Todo Aragón", "País Vasco": "Todo el País Vasco" };
+        function fillProv(keep) {
+          if (!prov) return;
+          var r = reg ? reg.value : "";
+          var seen = {};
+          cards.forEach(function (c) { var p = c.getAttribute("data-prov"); if (r && p && has(c, r)) seen[p] = (seen[p] || 0) + 1; });
+          var names = Object.keys(seen).sort(function (a, b) { return a.localeCompare(b, "es"); });
+          prov.innerHTML = "";
+          var o0 = document.createElement("option"); o0.value = ""; o0.textContent = TODO[r] || ("Toda " + r); prov.appendChild(o0);
+          names.forEach(function (n) { var o = document.createElement("option"); o.value = n; o.textContent = n + " (" + seen[n] + ")"; prov.appendChild(o); });
+          prov.hidden = names.length < 2;
+          if (keep && seen[keep]) prov.value = keep;
+        }
         function apply(updateUrl) {
           var r = reg ? reg.value : "";
+          var pv = prov && !prov.hidden ? prov.value : "";
           var t = typ ? typ.value : "";
           var terms = q ? norm(q.value).split(/\s+/).filter(Boolean) : [];
           var visible = 0;
           cards.forEach(function (c) {
             var hay = c.getAttribute("data-search") || "";
-            var show = has(c, r) && has(c, t) && terms.every(function (x) { return hay.indexOf(x) !== -1; });
+            var show = has(c, r) && has(c, t) && (!pv || c.getAttribute("data-prov") === pv) && terms.every(function (x) { return hay.indexOf(x) !== -1; });
             c.hidden = !show;
             if (show) visible++;
           });
           counts(reg, typ);
           counts(typ, reg);
           if (emptyMsg) emptyMsg.hidden = visible !== 0;
-          if (countEl) countEl.textContent = (r || t || terms.length) ? visible + (visible === 1 ? " artículo" : " artículos") : "";
+          if (countEl) countEl.textContent = (r || t || pv || terms.length) ? visible + (visible === 1 ? " artículo" : " artículos") : "";
           if (updateUrl && window.history && history.replaceState) {
             var ps = new URLSearchParams();
             if (q && q.value.trim()) ps.set("q", q.value.trim());
             if (r) ps.set("comunidad", r);
+            if (pv) ps.set("provincia", pv);
             if (t) ps.set("tipo", t);
             var qs = ps.toString();
             history.replaceState(null, "", location.pathname + (qs ? "?" + qs : ""));
@@ -784,7 +814,9 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
         // enlaces antiguos con ?tag=: puede ser una comunidad o un tipo
         if (params.get("tag") && !pick(reg, params.get("tag"))) pick(typ, params.get("tag"));
         if (q && params.get("q")) q.value = params.get("q");
-        if (reg) reg.addEventListener("change", function () { apply(true); });
+        fillProv(params.get("provincia"));
+        if (reg) reg.addEventListener("change", function () { fillProv(""); apply(true); });
+        if (prov) prov.addEventListener("change", function () { apply(true); });
         if (typ) typ.addEventListener("change", function () { apply(true); });
         if (q) q.addEventListener("input", function () { apply(true); });
         apply(false);
@@ -1117,7 +1149,13 @@ mkdirSync(join(ROOT, "assets", "data"), { recursive: true });
   const visibles = posts.filter((p) => p.tags.length && !p.tags.includes("Descuentos"));
   const count = (tag) => visibles.filter((p) => p.tags.includes(tag)).length;
   const zonas = [...new Set(visibles.flatMap((p) => p.tags).filter((t) => !TAG_TYPES.includes(t)))]
-    .map((t) => ({ v: t, n: count(t) }))
+    .map((t) => {
+      const ps = visibles.filter((p) => p.tags.includes(t));
+      const provs = [...new Set(ps.map(provOf).filter(Boolean))]
+        .map((v) => ({ v, n: ps.filter((p) => provOf(p) === v).length }))
+        .sort((a, b) => (ISLAS_ORDEN[t] ? ISLAS_ORDEN[t].indexOf(a.v) - ISLAS_ORDEN[t].indexOf(b.v) : a.v.localeCompare(b.v, "es")));
+      return { v: t, n: ps.length, provs };
+    })
     .sort((a, b) => a.v.localeCompare(b.v, "es"));
   const tipos = TAG_TYPES.filter((t) => t !== "Descuentos").map((t) => ({ v: t, n: count(t) })).filter((x) => x.n);
   writeFileSync(join(ROOT, "assets", "data", "zonas.json"), JSON.stringify({ zonas, tipos, total: visibles.length }));

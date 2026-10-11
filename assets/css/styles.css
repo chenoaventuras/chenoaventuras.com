@@ -1972,3 +1972,4 @@ p { margin: 0 0 1em; }
 .escapada__alt a { color: var(--gold-soft); }
 @media (max-width: 760px) { .escapada__box { grid-template-columns: 1fr; } .escapada__form { grid-template-columns: 1fr; } }
 .escapada__box .title .accent { color: var(--gold-soft); }
+.escapada__field select:disabled { opacity: .6; }

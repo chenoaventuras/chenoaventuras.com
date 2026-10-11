@@ -209,18 +209,19 @@
           <div class="escapada__text">
             <span class="eyebrow">Del blog</span>
             <h2 class="title">¿Organizamos tu <span class="accent">siguiente escapada?</span></h2>
-            <p>Elige la zona en la que estás pensando y te enseño todo lo que tengo por allí: pueblos, rutas, playas, cuevas y curiosidades.</p>
+            <p>Elige la zona en la que estás pensando, afina por provincia o isla y te enseño todo lo que tengo por allí: pueblos, rutas, playas, cuevas y curiosidades.</p>
           </div>
           <form class="escapada__form" action="blog.html" method="get" data-escapada>
             <label class="escapada__field"><span>¿Dónde?</span>
               <select name="comunidad" data-escapada-zona><option value="">Cualquier zona</option></select>
             </label>
-            <label class="escapada__field"><span>¿Qué te apetece?</span>
+            <label class="escapada__field"><span>¿Qué provincia o isla?</span>
+              <select name="provincia" data-escapada-prov disabled><option value="">Elige antes la zona</option></select>
+            </label>
+            <label class="escapada__field escapada__field--wide"><span>¿Qué te apetece?</span>
               <select name="tipo" data-escapada-tipo><option value="">De todo</option></select>
             </label>
-            <label class="escapada__field escapada__field--wide"><span>O busca un sitio</span>
-              <input type="search" name="q" placeholder="Tenerife, cascadas, snorkel…" autocomplete="off" />
-            </label>
+
             <button class="btn" type="submit">Ver planes</button>
             <p class="escapada__alt">¿Prefieres verlo en el mapa? <a href="mapa.html">Abre el mapa de aventuras</a>.</p>
           </form>
@@ -372,7 +373,7 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js?v=20261012c"></script>
+  <script src="assets/js/main.js?v=20261012d"></script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
