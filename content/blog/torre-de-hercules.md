@@ -28,6 +28,8 @@ actividades:
     u: "https://www.civitatis.com/es/la-coruna/free-tour-torre-hercules/"
   - t: "Torre de Hércules: actividades y entradas"
     u: "https://www.civitatis.com/es/la-coruna/torre-hercules/"
+guia: /assets/guias/guia-galicia-chenoaventuras.pdf
+guiaTitulo: 'Guía Galicia en PDF'
 ---
 Lleva casi **2.000 años** avisando a los barcos. La **Torre de Hércules**, en A Coruña, es el **único faro romano del mundo que sigue funcionando**, y el más antiguo en uso. Es Patrimonio de la Humanidad desde 2009.
 

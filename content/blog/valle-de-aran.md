@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Tour en 4x4 por el Valle de Arán: fauna, flora y paisajes"
     u: "https://www.getyourguide.es/vielha-l218675/4x4-sightseeing-tour-in-valle-d-aran-wildlife-flora-and-alpine-landscapes-t838426/"
+guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
+guiaTitulo: 'Guía Cataluña en PDF'
 ---
 Un valle verde en pleno Pirineo donde los ríos corren hacia el Atlántico, se habla su propia lengua y cada pueblo tiene su iglesia románica de piedra. El **Valle de Arán** es mucho más que Baqueira: es cascadas, bosques, pueblos con tejados de pizarra y rutas para todos los niveles.
 

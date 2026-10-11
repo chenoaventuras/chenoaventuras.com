@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Free tour de las leyendas de Salamanca"
     u: "https://www.civitatis.com/es/salamanca/free-tour-misterios-leyendas/"
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 En una cripta de Salamanca, dice la leyenda, el mismísimo **diablo** daba clases de magia negra. Siete alumnos, siete años… y uno de ellos se quedaba con él para siempre como pago.
 

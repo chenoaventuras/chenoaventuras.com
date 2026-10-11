@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Tour privado por el monasterio de Yuste"
     u: "https://www.civitatis.com/es/cuacos-de-yuste/tour-privado-monasterio-yuste/"
+guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
+guiaTitulo: 'Guía Norte de Extremadura en PDF'
 ---
 Gobernó medio mundo: España, Alemania, los Países Bajos, Italia y América. Y para sus últimos años eligió un rincón tranquilo de **La Vera** (Cáceres): el **Monasterio de Yuste**. Aquí vivió **Carlos V** entre 1557 y 1558, y aquí murió.
 

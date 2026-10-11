@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Tour de Las Ventas"
     u: "https://www.civitatis.com/es/madrid/tour-las-ventas/"
+guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
+guiaTitulo: 'Guía Madrid curioso en PDF'
 ---
 El **2 de julio de 1965**, en plena Beatlemanía, **John, Paul, George y Ringo** se subieron a un escenario en la **plaza de toros de Las Ventas** de Madrid. Al día siguiente tocaron en Barcelona. Fueron **los únicos conciertos de los Beatles en España**.
 

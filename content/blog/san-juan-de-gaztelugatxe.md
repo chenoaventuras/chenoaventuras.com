@@ -27,6 +27,8 @@ faq:
 actividades:
   - t: "Paseo en barco a San Juan de Gaztelugatxe desde Bermeo"
     u: "https://www.civitatis.com/es/bermeo/paseo-barco-san-juan-gaztelugatxe/"
+guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
+guiaTitulo: 'Guía País Vasco en PDF'
 ---
 Un islote unido a la costa por un puente de piedra, un camino en zigzag de **241 escalones** y, arriba del todo, una pequeña ermita con una campana que todo el mundo toca tres veces. **San Juan de Gaztelugatxe** es uno de los paisajes más famosos de la costa vasca… y desde que salió en **Juego de Tronos**, más todavía.
 

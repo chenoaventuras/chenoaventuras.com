@@ -24,6 +24,8 @@ faq:
 actividades:
   - t: "Free tour de los fantasmas de Madrid"
     u: "https://www.civitatis.com/es/madrid/tour-fantasmas-madrid/"
+guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
+guiaTitulo: 'Guía Madrid curioso en PDF'
 ---
 Madrid tiene un lado oscuro que no sale en las guías: palacios con niñas que lloran por la noche, damas de blanco que pasean por los tejados y una calle que se llama así por una cabeza que nadie quería ver.
 

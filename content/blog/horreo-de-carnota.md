@@ -23,6 +23,8 @@ faq:
     a: "La playa de Carnota, el Monte Pindo, la Fervenza do Ézaro y el hórreo de Lira."
   - q: "¿Dónde está el hórreo de Carnota?"
     a: "En Carnota (A Coruña), junto a la iglesia de Santa Comba, en la Costa da Morte. A 5 km tienes el hórreo de Lira."
+guia: /assets/guias/guia-galicia-chenoaventuras.pdf
+guiaTitulo: 'Guía Galicia en PDF'
 ---
 Un granero de piedra de **casi 35 metros**, levantado sobre decenas de patas de piedra, junto a una iglesia. El **hórreo de Carnota** es uno de los más largos de Galicia y **Monumento Nacional**.
 

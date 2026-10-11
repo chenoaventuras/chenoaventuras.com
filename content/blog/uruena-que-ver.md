@@ -22,6 +22,8 @@ faq:
     a: "En fin de semana o festivo, cuando abren más librerías y museos."
   - q: "¿Cómo llegar a Urueña?"
     a: "En coche, junto a la A-6: está a unos 50 minutos de Valladolid y a unas dos horas de Madrid."
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 Un pueblo de unos 200 habitantes, encerrado en una muralla medieval en lo alto de un páramo… y con **más librerías que bares**. **Urueña** es la primera **Villa del Libro** de España, y pasear por sus calles es como entrar en una biblioteca al aire libre.
 

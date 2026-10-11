@@ -26,6 +26,8 @@ actividades:
     u: "https://www.civitatis.com/es/toledo/tour-toledo-misterioso/"
   - t: "Tour de las leyendas de Toledo + Cuevas del Alcaná"
     u: "https://www.civitatis.com/es/toledo/tour-leyendas-toledo/"
+guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo y La Mancha en PDF'
 ---
 Junto al Tajo, en pleno valle que rodea Toledo, hay una roca solitaria que carga con una de las leyendas más dramáticas de la ciudad. Se llama la Piedra del Rey Moro, y su historia es tan interesante como las vistas que ofrece.
 

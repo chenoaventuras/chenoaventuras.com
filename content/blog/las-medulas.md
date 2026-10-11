@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Visitas guiadas y actividades en Las Médulas"
     u: "https://www.civitatis.com/es/las-medulas/"
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 Picos rojos que parecen de otro planeta, castaños centenarios y galerías excavadas en la montaña. **Las Médulas** no son naturales: son lo que quedó de la **mayor mina de oro del Imperio romano**.
 

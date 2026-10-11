@@ -24,6 +24,8 @@ faq:
     a: "No, la visita es libre y gratuita, sin entrada ni reserva."
   - q: "¿Cuál es la mejor hora para ir al Arco de Tajao?"
     a: "Al amanecer o al atardecer: hace menos calor y la luz sobre la roca es mucho más bonita."
+guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
+guiaTitulo: 'Guía Tenerife en PDF'
 ---
 En el sur de Tenerife, la erosión ha tallado durante miles de años una formación rocosa que parece sacada de otro planeta: un arco volcánico de piedra basáltica que se ha convertido en uno de los rincones más fotogénicos de la isla.
 

@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Paseo en barco por los cañones del Sil (Castro Caldelas)"
     u: "https://www.civitatis.com/es/castro-caldelas/paseo-barco-canones-sil/"
+guia: /assets/guias/guia-galicia-chenoaventuras.pdf
+guiaTitulo: 'Guía Galicia en PDF'
 ---
 Paredes de granito de cientos de metros cayendo al río, laderas cubiertas de **viñedos en terrazas** que parecen imposibles de trabajar y monasterios escondidos entre bosques. El **Cañón del Sil**, en la Ribeira Sacra, es uno de los paisajes más impresionantes de Galicia.
 

@@ -24,6 +24,8 @@ faq:
 actividades:
   - t: "Excursión a Essaouira desde Marrakech"
     u: "https://www.civitatis.com/es/marrakech/excursion-essaouira/"
+guia: /assets/guias/guia-marrakech-chenoaventuras.pdf
+guiaTitulo: 'Guía Marrakech y alrededores en PDF'
 ---
 No es un decorado para turistas, es trabajo puro cada mañana desde hace décadas. El mercado de pescado del puerto de Essaouira, en Marruecos, funciona igual que siempre: las barcas llegan, el pescado se sube a las mesas y empieza la subasta, sin filtros ni artificios.
 

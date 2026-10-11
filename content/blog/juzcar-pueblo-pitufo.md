@@ -29,6 +29,8 @@ actividades:
     u: "https://www.civitatis.com/es/juzcar/barranquismo-sima-diablo/"
   - t: "Vía ferrata de Atajate (Valle del Genal)"
     u: "https://www.getyourguide.es/andalusia-l68/atajate-via-ferrata-guided-climbing-t586103/"
+guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
 En la Serranía de Ronda todos los pueblos son blancos... menos uno. **Júzcar** es **azul**. En **2011** se pintó entero para el estreno mundial de la película de **Los Pitufos**, y a los vecinos les gustó tanto que decidieron quedarse así.
 

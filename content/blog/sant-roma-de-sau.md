@@ -22,6 +22,8 @@ faq:
     a: "En Vilanova de Sau (Osona), a unos 25 minutos de Vic."
   - q: "¿Cómo llegar a Sant Romà de Sau?"
     a: "En coche hasta Vilanova de Sau (Osona, Barcelona), a unos 25 minutos de Vic."
+guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
+guiaTitulo: 'Guía Cataluña en PDF'
 ---
 En medio del pantano de **Sau** (Barcelona) asoma un **campanario románico**. Es lo que queda de **Sant Romà de Sau**, un pueblo que quedó bajo el agua en los años 60. Según llueva más o menos, la torre aparece entera, a medias... o se puede llegar andando hasta ella.
 

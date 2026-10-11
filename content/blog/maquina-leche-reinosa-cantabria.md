@@ -20,6 +20,8 @@ faq:
     a: "Sí. Es leche de vacas de la zona, sin aditivos, y pasa por pasteurización antes de llegar a la máquina."
   - q: "¿Qué ver cerca de Reinosa?"
     a: "Muy cerca tienes Aguilar de Campoo y el Partenón de Las Fraguas, dos paradas que encajan en la misma escapada."
+guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
 Hay curiosidades que descubres por casualidad y que te sorprenden más de lo que esperabas. En Reinosa, Cantabria, hay una máquina que dispensa leche recién ordeñada de las vacas como si fuera una fuente de agua pública.
 

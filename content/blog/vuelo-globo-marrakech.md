@@ -24,6 +24,8 @@ faq:
 actividades:
   - t: "Paseo en globo por el norte de Marrakech"
     u: "https://www.civitatis.com/es/marrakech/paseo-globo/"
+guia: /assets/guias/guia-marrakech-chenoaventuras.pdf
+guiaTitulo: 'Guía Marrakech y alrededores en PDF'
 ---
 Empezar el día en total silencio, flotando sobre el desierto mientras sale el sol y la cordillera del Atlas se ilumina al fondo, es de esas experiencias que cuestan de describir con palabras. El vuelo en globo aerostático sobre Marrakech es justamente eso.
 

@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Visita guiada por Comillas + Capricho de Gaudí"
     u: "https://www.civitatis.com/es/comillas/visita-guiada-comillas-capricho-gaudi/"
+guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
 Un pueblo marinero de Cantabria con una **casa de Gaudí** cubierta de girasoles, un palacio neogótico, un ángel gigante vigilando un cementerio en ruinas y una universidad que parece un castillo. **Comillas** es el pueblo modernista por excelencia del norte, y además tiene playa.
 

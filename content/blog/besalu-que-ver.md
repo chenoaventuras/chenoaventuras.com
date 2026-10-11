@@ -27,6 +27,8 @@ faq:
 actividades:
   - t: "Vuelo en globo sobre los volcanes de la Garrotxa"
     u: "https://www.getyourguide.es/costa-brava-l473/vuelo-en-globo-sobre-los-volcanes-de-la-costa-brava-desde-santa-pau-t35210/"
+guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
+guiaTitulo: 'Guía Cataluña en PDF'
 ---
 Un puente de piedra en zigzag con una torre fortificada en medio, un río tranquilo a sus pies y un pueblo medieval casi intacto al otro lado. **Besalú** es de esos sitios que parecen sacados de una película de caballeros, y además guarda un tesoro que muy pocos lugares de Europa conservan: un **baño ritual judío** de la Edad Media.
 

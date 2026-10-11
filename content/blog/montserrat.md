@@ -22,6 +22,8 @@ faq:
     a: "Sant Jeroni, al que se llega por un sendero desde el funicular de Sant Joan."
   - q: "¿Se puede ir a Montserrat en coche?"
     a: "Sí, puedes subir en coche hasta el aparcamiento del monasterio. Está a unos 60 km de Barcelona, una hora."
+guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
+guiaTitulo: 'Guía Cataluña en PDF'
 ---
 Una montaña de roca con forma de sierra, llena de agujas gigantes, y encajado en ella a 700 metros de altura, un monasterio con mil años de historia. **Montserrat** es la gran escapada desde Barcelona: un sitio para devotos de la **Moreneta**, para amantes del senderismo y para escaladores de todo el mundo.
 

@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Rafting en el Cañón de Almadenes (Cieza-Calasparra)"
     u: "https://www.getyourguide.es/murcia-l3484/murcia-almadenes-canyon-rafting-with-monigotes-cave-visit-t385327/"
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Junto al río Segura, en pleno campo de Cieza, hay un rincón donde el agua sale con fuerza desde las profundidades de la tierra, rodeado de vegetación y silencio. Se llama Fuente del Gorgotón, y es una de esas paradas sencillas que merecen la pena solo por lo tranquilo que resulta el lugar.
 

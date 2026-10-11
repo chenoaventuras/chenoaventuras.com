@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Visita guiada por Caravaca de la Cruz"
     u: "https://www.civitatis.com/es/caravaca-de-la-cruz/visita-guiada-caravaca-cruz/"
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Un castillo en lo alto de un cerro con una basílica barroca dentro, un casco antiguo de calles empinadas y una de las fiestas más espectaculares de España, con **caballos enjaezados con mantos bordados** subiendo a toda velocidad la cuesta del castillo. **Caravaca de la Cruz** es una de las cinco **ciudades santas** del cristianismo y el gran tesoro del noroeste de Murcia.
 

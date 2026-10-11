@@ -28,6 +28,8 @@ actividades:
     u: "https://www.getyourguide.es/calasparra-l178427/calasparra-entrada-a-la-cueva-del-puerto-con-visita-guiada-t429157/"
   - t: "Rafting en el Cañón de Almadenes + Cueva del Puerto"
     u: "https://www.getyourguide.es/calasparra-l178427/calasparra-tour-de-rafting-en-el-canon-de-almadenes-y-cueva-del-puerto-t425787/"
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Bajo tierra, a pocos kilómetros de Calasparra, se esconde un tesoro geológico formado durante millones de años: estalactitas, estalagmitas y, lo más singular, dos salas donde los minerales brillan en la oscuridad. Es la Cueva del Puerto, y es única en toda Europa por ese motivo.
 

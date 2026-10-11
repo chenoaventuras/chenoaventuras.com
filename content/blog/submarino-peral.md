@@ -24,6 +24,8 @@ faq:
 actividades:
   - t: "Free tour por Cartagena"
     u: "https://www.civitatis.com/es/cartagena/free-tour-cartagena/"
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 En 1888, en San Fernando (Cádiz), se botó un invento que se adelantó a su tiempo: el **submarino de Isaac Peral**, el **primer submarino totalmente eléctrico del mundo** y armado con torpedos.
 

@@ -31,6 +31,8 @@ actividades:
     u: "https://www.getyourguide.es/teide-cable-car-l36141/"
   - t: "Teleférico del Teide + senderismo al pico"
     u: "https://www.civitatis.com/es/puerto-de-la-cruz/entrada-teleferico-teide-senderismo-pico/"
+guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
+guiaTitulo: 'Guía Tenerife en PDF'
 ---
 Con sus **3.715 metros**, el **Teide** es el pico más alto de España y uno de los volcanes más impresionantes del mundo. Subir hasta arriba, con el olor a azufre de las fumarolas y un mar de nubes bajo tus pies, es una de esas experiencias que hay que vivir al menos una vez.
 

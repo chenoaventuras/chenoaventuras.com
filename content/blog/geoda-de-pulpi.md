@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Tour por Oleo Almanzora, Sala Negra, Mina Rica y Geoda de Pulpí"
     u: "https://www.civitatis.com/es/pulpi/tour-mina-rica-geoda-pulpi/"
+guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía oriental en PDF'
 ---
 Imagina una cueva forrada de **cristales transparentes de hasta 2 metros**, como si estuvieras dentro de un diamante. Existe, está en **Almería** y se puede visitar: es la **Geoda de Pulpí**, una de las más grandes del mundo.
 

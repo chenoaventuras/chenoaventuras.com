@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Benalmádena: tour por el Castillo de Colomares con entrada"
     u: "https://www.getyourguide.es/benalmadena-l429/zamek-colomares-wejscie-i-interpretacja-t470967/"
+guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
 Románico, gótico, mudéjar y bizantino, todo mezclado en el mismo edificio. El **Castillo de Colomares**, en Benalmádena, es un monumento a **Cristóbal Colón** que levantaron a mano un médico y dos albañiles. Y dentro tiene la que dicen que es **la iglesia más pequeña del mundo**.
 

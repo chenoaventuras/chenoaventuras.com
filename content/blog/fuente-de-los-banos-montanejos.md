@@ -23,6 +23,8 @@ faq:
     a: "De 9:00 a 18:00 h."
   - q: "¿Es peligroso bañarse en la Fuente de los Baños?"
     a: "La visita es fácil, pero hay zonas de unos 2,5 metros de profundidad con pocos apoyos: si te alejas de la orilla, tienes que saber nadar. Lleva escarpines, el fondo es de piedra."
+guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Castellón y Valencia en PDF'
 ---
 En Montanejos, Castellón, hay una fuente cuyas aguas termales mantienen una temperatura cálida y constante durante todo el año, sin importar la estación. Es la Fuente de los Baños, y es uno de esos planes de baño que se pueden disfrutar incluso cuando en el resto de España hace frío.
 

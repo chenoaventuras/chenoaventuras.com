@@ -29,6 +29,8 @@ actividades:
     u: "https://www.getyourguide.es/lago-martianez-l158961/"
   - t: "Puerto de la Cruz: tour a pie de 1,5 horas"
     u: "https://www.getyourguide.es/puerto-de-la-cruz-espagne-l4994/1-a-2-heures-de-marche-a-travers-puerto-de-la-cruz-tenerife-t795398/"
+guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
+guiaTitulo: 'Guía Tenerife en PDF'
 ---
 En Puerto de la Cruz, Tenerife, el arte y el océano Atlántico se fusionan en un complejo de piscinas de agua salada diseñado por uno de los grandes nombres de la arquitectura canaria: César Manrique. Se llama Lago Martiánez, y es mucho más que unas simples piscinas.
 

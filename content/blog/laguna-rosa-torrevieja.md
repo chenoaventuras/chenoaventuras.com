@@ -23,6 +23,8 @@ faq:
     a: "Nada: se ve gratis desde los caminos del Parque Natural."
   - q: "¿Dónde ver la Laguna Rosa de Torrevieja?"
     a: "Desde los caminos del Parque Natural. El punto más conocido está en la zona de las salinas, con un pequeño aparcamiento de tierra."
+guia: /assets/guias/guia-costa-blanca-chenoaventuras.pdf
+guiaTitulo: 'Guía Costa Blanca en PDF'
 ---
 Agua de color **rosa chicle**, montañas de sal blanca y flamencos al fondo. La **Laguna Rosa de Torrevieja** es uno de esos sitios que parecen editados... y no lo están.
 

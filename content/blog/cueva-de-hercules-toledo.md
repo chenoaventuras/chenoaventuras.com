@@ -30,6 +30,8 @@ actividades:
     u: "https://www.civitatis.com/es/toledo/tour-toledo-misterioso/"
   - t: "Tour de las leyendas de Toledo + Cuevas del Alcaná"
     u: "https://www.civitatis.com/es/toledo/tour-leyendas-toledo/"
+guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo y La Mancha en PDF'
 ---
 Bajo las calles de Toledo hay una cueva cerrada con candados. Cada rey visigodo debía añadir uno nuevo, porque el día que alguien la abriera llegaría la desgracia. Hasta que el rey **don Rodrigo** no pudo resistir la curiosidad.
 

@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Asturias: paddle surf por el río Cares"
     u: "https://www.getyourguide.es/leon-spain-l144127/picos-de-europa-cares-deva-river-sup-tour-t710556/"
+guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
 Un camino excavado en la roca, colgado sobre un precipicio, con el río Cares turquesa allá abajo y paredes de mil metros a los lados. La **Ruta del Cares** es probablemente la ruta de senderismo más famosa de España, y la llaman **la garganta divina**.
 

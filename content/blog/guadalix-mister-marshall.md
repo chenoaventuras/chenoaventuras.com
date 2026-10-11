@@ -23,6 +23,8 @@ faq:
     a: "Sí, una escultura homenaje con el cartel de bienvenida y una placa dedicada a Berlanga."
   - q: "¿Cómo llegar a Guadalix de la Sierra desde Madrid?"
     a: "En coche por la A-1, en unos 45 minutos (unos 50 km)."
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 «Americanos, os recibimos con alegría...». La canción más famosa del cine español sonó por primera vez en las calles de **Guadalix de la Sierra**, a 50 km de Madrid. Aquí rodó **Luis García Berlanga** en 1952 *¡Bienvenido, Mister Marshall!*, una de las mejores películas españolas de la historia.
 

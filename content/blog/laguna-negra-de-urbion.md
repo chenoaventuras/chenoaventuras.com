@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Raquetas de nieve por la sierra de Urbión desde Vinuesa"
     u: "https://www.civitatis.com/es/vinuesa/paseo-raquetas-nieve-sierra-urbion/"
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 Agua oscura como la tinta, un paredón de roca de casi 200 metros y un bosque de pinos que la rodea. La **Laguna Negra** parece sacada de un cuento de terror… y es que de un cuento salió: aquí ambientó **Antonio Machado** su crimen más famoso.
 

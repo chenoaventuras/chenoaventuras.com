@@ -23,6 +23,8 @@ faq:
     a: "En primavera, con el deshielo, o tras lluvias fuertes. En verano baja muy poco caudal."
   - q: "¿Cuánto mide la Chorrera de los Litueros?"
     a: "Unos 40 metros sumando todos sus saltos escalonados."
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 En la Sierra de Guadarrama, justo donde nace el río Duratón, el agua se despeña en varios saltos escalonados que en conjunto suman unos 40 metros de caída. Es la Chorrera de los Litueros, uno de esos rincones que cambian por completo según la época del año en la que la visites.
 

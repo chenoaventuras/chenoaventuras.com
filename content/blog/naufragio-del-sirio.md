@@ -26,6 +26,8 @@ actividades:
     u: "https://www.civitatis.com/es/cabo-de-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Seis años antes del Titanic, el Mediterráneo vivió su propia tragedia. El **4 de agosto de 1906**, el transatlántico italiano **Sirio** chocó contra unas rocas frente a **Cabo de Palos**. Iba lleno de emigrantes rumbo a América.
 

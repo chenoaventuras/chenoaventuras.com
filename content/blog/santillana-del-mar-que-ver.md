@@ -22,6 +22,8 @@ faq:
     a: "En los aparcamientos de la entrada del pueblo. El casco histórico es peatonal."
   - q: "¿A cuánto está Santillana del Mar de Santander?"
     a: "A unos 30 km, media hora en coche por la A-67 hacia Torrelavega."
+guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
 Dicen que **Santillana del Mar** es la villa de las tres mentiras: **ni es santa, ni es llana, ni tiene mar**. Y aun así es uno de los pueblos más buscados de España, y en cuanto pisas sus calles empedradas entiendes por qué.
 

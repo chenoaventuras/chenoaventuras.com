@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Entrada a las Pirámides de Güímar"
     u: "https://www.civitatis.com/es/guimar/entrada-piramides-guimar/"
+guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
+guiaTitulo: 'Guía Tenerife en PDF'
 ---
 En **Tenerife** hay **pirámides**. Seis, de piedra volcánica negra y con escalones, en el pueblo de **Güímar**. Un explorador famoso pensó que tenían relación con las de Egipto y México... y los arqueólogos dicen otra cosa.
 

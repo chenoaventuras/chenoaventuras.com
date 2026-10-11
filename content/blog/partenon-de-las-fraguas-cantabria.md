@@ -23,6 +23,8 @@ faq:
     a: "«Los otros», con Nicole Kidman: aparece el Palacio de los Hornillos, muy cerca de la iglesia."
   - q: "¿Cuándo se construyó la iglesia de San Jorge de Las Fraguas?"
     a: "En 1890, inspirada en los templos griegos, con 40 columnas corintias."
+guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
 Entre montañas y prados del Valle de Iguña, en Cantabria, hay un edificio que parece haberse teletransportado directamente desde Grecia. Lo llaman el "Partenón cántabro", y es uno de los rincones neoclásicos más sorprendentes del norte de España.
 

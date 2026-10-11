@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Tour en kayak por el río Ebro hacia Miravet"
     u: "https://www.civitatis.com/es/mora-la-nueva/tour-kayak-rio-ebro/"
+guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
+guiaTitulo: 'Guía Cataluña en PDF'
 ---
 Un pueblo de casas de piedra colgado de un risco, un **castillo templario** coronándolo y el río **Ebro** pasando tranquilo a sus pies. **Miravet** es una de las postales más bonitas de Cataluña, y tiene algo que ya casi no existe: una **barca que cruza el río tirada por un cable**, sin motor, empujada solo por la corriente.
 

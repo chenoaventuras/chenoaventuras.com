@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Tossa de Mar: kayak guiado y snorkel"
     u: "https://www.getyourguide.es/tossa-de-mar-l90930/tossa-de-mar-excursion-guiada-en-kayak-y-snorkel-t475482/"
+guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
+guiaTitulo: 'Guía Cataluña en PDF'
 ---
 En **1950** llegó a un pequeño pueblo de la Costa Brava la actriz más famosa del momento: **Ava Gardner**. Venía a rodar *Pandora y el holandés errante* con James Mason. Desde entonces, **Tossa de Mar** tiene una **estatua** suya mirando al mar.
 

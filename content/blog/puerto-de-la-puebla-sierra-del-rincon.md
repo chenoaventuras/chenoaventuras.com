@@ -23,6 +23,8 @@ faq:
     a: "En otoño, cuando las hayas cambian de color."
   - q: "¿Se puede pasar el Puerto de la Puebla en invierno?"
     a: "Sí, pero con precaución en días de mucha nieve."
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 En el extremo nororiental de la Comunidad de Madrid, la Sierra del Rincón esconde un paso de montaña que conecta tres pueblos completamente distintos entre sí, cada uno con su propio motivo para visitarlo. Se llama Puerto de la Puebla, y es tan bonito recorrerlo en coche como parar en cada uno de sus extremos.
 

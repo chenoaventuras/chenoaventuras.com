@@ -29,6 +29,8 @@ actividades:
     u: "https://www.civitatis.com/es/ciudad-rodrigo/free-tour-ciudad-rodrigo/"
   - t: "Tour de la invasión napoleónica de Ciudad Rodrigo"
     u: "https://www.civitatis.com/es/ciudad-rodrigo/tour-invasion-napoleonica-ciudad-rodrigo/"
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 Una ciudad entera rodeada de murallas por las que puedes **pasear por arriba**, una catedral que todavía lleva **marcas de cañonazos** de la Guerra de la Independencia y un castillo junto al río donde se puede dormir. **Ciudad Rodrigo** es una joya escondida en la frontera con Portugal.
 

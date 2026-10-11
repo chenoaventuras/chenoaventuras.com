@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Castillo de Trasmoz: tours"
     u: "https://www.getyourguide.es/castillo-de-trasmoz-l215408/"
+guia: /assets/guias/guia-aragon-chenoaventuras.pdf
+guiaTitulo: 'Guía Aragón en PDF'
 ---
 Hay pueblos con leyenda y luego está **Trasmoz**. Un pueblecito del Moncayo, con apenas unas decenas de vecinos, que lleva siglos **excomulgado y maldito por la Iglesia**. Y la maldición, dicen, sigue en vigor.
 

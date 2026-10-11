@@ -30,6 +30,8 @@ actividades:
     u: "https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-cordoba/"
   - t: "Entradas a la Mezquita-Catedral con audioguía"
     u: "https://www.civitatis.com/es/cordoba/entradas-mezquita-cordoba/"
+guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
 Entras y, de repente, estás en un **bosque de columnas** con arcos rojos y blancos que se repiten hasta donde alcanza la vista. Y cuando crees que ya lo has visto todo, en mitad de la mezquita aparece… **una catedral renacentista**. La **Mezquita-Catedral de Córdoba** es uno de los monumentos más alucinantes del mundo, y no es ninguna exageración.
 

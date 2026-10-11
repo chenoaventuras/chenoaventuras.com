@@ -25,6 +25,8 @@ faq:
     a: "Desde febrero de 2026 está cerrada por dentro hasta que se arreglen las licencias. Por fuera se puede ver."
   - q: "¿Cómo llegar a la Catedral de Justo?"
     a: "Está en Mejorada del Campo, a unos 20 km del centro de Madrid."
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 A 20 km de Madrid hay una catedral que no levantó ningún obispo ni ningún arquitecto: la hizo **Justo Gallego**, un hombre que empezó en 1961 y siguió trabajando **durante 60 años**, casi siempre solo, con ladrillos sobrantes, bidones y ruedas de bicicleta.
 

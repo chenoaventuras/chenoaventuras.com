@@ -22,6 +22,8 @@ faq:
     a: "Hay terrenos vallados con restos de plutonio pendientes de limpieza."
   - q: "¿Dónde está Palomares?"
     a: "En el municipio de Cuevas del Almanzora (Almería), a pocos minutos de las playas de Vera y Mojácar."
+guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía oriental en PDF'
 ---
 El **17 de enero de 1966**, un bombardero B-52 y un avión cisterna de Estados Unidos chocaron en el cielo de **Palomares** (Almería). Cayeron **cuatro bombas termonucleares**. Ninguna explotó, pero la historia es de película.
 

@@ -34,6 +34,8 @@ actividades:
     u: "https://www.getyourguide.es/salamanca-l1637/salamanca-cathedral-of-salamanca-ticket-with-audio-guide-t478516/"
   - t: "Visita guiada a la Universidad de Salamanca"
     u: "https://www.getyourguide.es/salamanca-l1637/visita-guiada-a-la-universidad-de-salamanca-en-espanol-t953643/"
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 En una catedral del siglo XVI hay un **astronauta** tallado en piedra, con su escafandra y todo. No es un viajero en el tiempo: es una de las curiosidades más famosas de **Salamanca**, junto a la **rana** de la fachada de la Universidad.
 

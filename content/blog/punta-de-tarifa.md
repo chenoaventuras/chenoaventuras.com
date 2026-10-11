@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Avistamiento de cetáceos en Tarifa"
     u: "https://www.civitatis.com/es/tarifa/avistamiento-cetaceos/"
+guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
 A un lado, el **Atlántico**. Al otro, el **Mediterráneo**. Y enfrente, a solo **14 km**, **África**. La **Punta de Tarifa** es el **punto más al sur de la Europa continental**.
 

@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Entrada a Puy du Fou España + El Sueño de Toledo"
     u: "https://www.civitatis.com/es/toledo/entrada-puy-fou-sueno-toledo/"
+guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo y La Mancha en PDF'
 ---
 Hay parques temáticos con atracciones, y luego está Puy du Fou, donde el protagonista es el espectáculo en vivo: batallas medievales, danzas tradicionales y una puesta en escena que está a otro nivel de lo habitual.
 

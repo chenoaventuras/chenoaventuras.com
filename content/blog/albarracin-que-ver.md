@@ -31,6 +31,8 @@ actividades:
     u: "https://www.civitatis.com/es/albarracin/visita-guiada-castillo-albarracin/"
   - t: "Albarracín: secretos y leyendas"
     u: "https://www.getyourguide.es/albarracin-l144270/albarracin-secrets-and-legends-t474783/"
+guia: /assets/guias/guia-aragon-chenoaventuras.pdf
+guiaTitulo: 'Guía Aragón en PDF'
 ---
 Casas de color rosado colgadas sobre una hoz del río, callejuelas tan estrechas que los aleros casi se tocan y una muralla que trepa por la montaña. **Albarracín** parece un decorado medieval, pero es un pueblo de verdad, y uno de los más bonitos de España.
 

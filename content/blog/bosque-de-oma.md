@@ -30,6 +30,8 @@ actividades:
     u: "https://www.civitatis.com/es/bermeo/paseo-barco-costa-urdaibai/"
   - t: "Gernika: tour a pie «Guerra y paz»"
     u: "https://www.getyourguide.es/guernica-l7936/tour-a-piedi-di-gernika-guerra-e-pace-t459126/"
+guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
+guiaTitulo: 'Guía País Vasco en PDF'
 ---
 Árboles con ojos, rayas de colores y figuras que solo aparecen si te colocas en el sitio justo. El **Bosque de Oma**, en Urdaibai, es una obra de arte **pintada sobre un bosque** por el escultor vasco **Agustín Ibarrola**.
 

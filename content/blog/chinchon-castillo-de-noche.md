@@ -24,6 +24,8 @@ faq:
 actividades:
   - t: "Free tour por Chinchón"
     u: "https://www.civitatis.com/es/chinchon/free-tour-chinchon/"
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 De día, Chinchón es uno de los pueblos con más ambiente de toda la Comunidad de Madrid. De noche, con la Plaza Mayor iluminada y las calles mucho más tranquilas, cambia completamente de personalidad, y el protagonista pasa a ser el castillo que vigila el pueblo desde lo alto.
 

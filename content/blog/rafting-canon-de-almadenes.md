@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Rafting en el Cañón de Almadenes + Cueva del Puerto"
     u: "https://www.getyourguide.es/calasparra-l178427/calasparra-tour-de-rafting-en-el-canon-de-almadenes-y-cueva-del-puerto-t425787/"
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Entre Cieza y Calasparra, el río Segura se abre paso entre paredes de roca de hasta 150 metros de altura, en uno de los espacios naturales más espectaculares de la Región de Murcia. Recorrerlo en barca, con calma y sin apenas dificultad técnica, es de esos planes que sorprenden a cualquiera.
 

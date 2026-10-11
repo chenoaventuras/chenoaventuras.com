@@ -22,6 +22,8 @@ faq:
     a: "Sí, hay tramos que se pueden recorrer por arriba."
   - q: "¿Cómo llegar a Montblanc?"
     a: "En coche: está en la Conca de Barberà, a unos 40 minutos de Tarragona y una hora y cuarto de Barcelona."
+guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
+guiaTitulo: 'Guía Cataluña en PDF'
 ---
 Una muralla medieval casi intacta, torres, portales y un casco antiguo que parece detenido en el siglo XIV. Y, según la tradición, justo delante de esos muros **Sant Jordi** se enfrentó al **dragón**.
 

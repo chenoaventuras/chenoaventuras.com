@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Monasterio de Piedra: entradas y tours"
     u: "https://www.getyourguide.es/monasterio-de-piedra-l97105/"
+guia: /assets/guias/guia-aragon-chenoaventuras.pdf
+guiaTitulo: 'Guía Aragón en PDF'
 ---
 Imagina un parque lleno de **cascadas**, lagos, cuevas y pasarelas, donde el agua aparece por todas partes, y en medio, un **monasterio cisterciense del siglo XII**. Eso es el **Monasterio de Piedra**, en Zaragoza, uno de los paisajes de agua más espectaculares de España.
 

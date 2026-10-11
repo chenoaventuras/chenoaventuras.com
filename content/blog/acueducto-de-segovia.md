@@ -33,6 +33,8 @@ actividades:
     u: "https://www.civitatis.com/es/segovia/free-tour-segovia/"
   - t: "Tour de los misterios y leyendas de Segovia"
     u: "https://www.civitatis.com/es/segovia/tour-misterios-leyendas-segovia/"
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 Más de 160 arcos de granito, casi 30 metros de altura en su punto más alto y **ni una gota de argamasa** sujetando sus piedras. El **Acueducto de Segovia** lleva unos 2.000 años en pie, y es solo el principio: en la misma ciudad tienes un **Alcázar de cuento** y una de las catedrales más bonitas de España.
 

@@ -38,6 +38,8 @@ actividades:
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
   - t: "Visita guiada al faro de Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/visita-guiada-faro-cabo-palos/"
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Metí la cabeza bajo el agua en Cabo de Palos sin esperar gran cosa, la verdad, y en menos de cinco minutos ya tenía alrededor un puñado de peces, un fondo de roca lleno de vida y una pradera de posidonia que no tiene nada que envidiar a según qué destinos "exóticos". Y cuando empecé a moverme entre sus distintas calas me di cuenta de lo diferente que puede ser el fondo de un lado a otro del mismo cabo. Puedes ver el [vídeo completo en Instagram](https://www.instagram.com/reel/Ddo2u7rxbIc/).
 

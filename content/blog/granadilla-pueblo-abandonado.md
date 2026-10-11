@@ -29,6 +29,8 @@ actividades:
     u: "https://www.civitatis.com/es/granadilla/free-tour-granadilla/"
   - t: "Excursión a Granadilla en barco"
     u: "https://www.civitatis.com/es/guijo-de-granadilla/excursion-granadilla-barco/"
+guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
+guiaTitulo: 'Guía Norte de Extremadura en PDF'
 ---
 Un pueblo con **muralla**, **castillo** y casas de colores... y sin vecinos. **Granadilla**, en el norte de Cáceres, fue **desalojado** en los años 60 porque iba a quedar bajo un pantano. Lo curioso es que **el agua nunca llegó a cubrirlo**.
 

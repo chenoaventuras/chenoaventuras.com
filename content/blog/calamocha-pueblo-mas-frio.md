@@ -23,6 +23,8 @@ faq:
     a: "De día sí, pero las noches son frescas."
   - q: "¿Dónde está Calamocha?"
     a: "En el valle del Jiloca (Teruel), a medio camino entre Teruel y Zaragoza, junto a la A-23."
+guia: /assets/guias/guia-aragon-chenoaventuras.pdf
+guiaTitulo: 'Guía Aragón en PDF'
 ---
 El **17 de diciembre de 1963**, el termómetro de **Calamocha** (Teruel) marcó **30 grados bajo cero**. Este pueblo del valle del Jiloca es famoso porque muchas noches de invierno tiene **la temperatura más baja de España**.
 

@@ -24,6 +24,8 @@ faq:
     a: "En coche: está en la Sierra de Cádiz, a unos 30 minutos de Ronda, dentro del Parque Natural Sierra de Grazalema."
   - q: "¿Cuánto llueve en Grazalema?"
     a: "Casi 2.000 litros por metro cuadrado al año de media, más que en muchos sitios de Galicia."
+guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
 En plena Andalucía hay un pueblo blanco donde llueve **más que en muchos sitios de Galicia**. **Grazalema** (Cádiz) recoge de media casi **2.000 litros por metro cuadrado al año**: es el lugar más lluvioso de Andalucía y de toda la mitad sur de la península.
 

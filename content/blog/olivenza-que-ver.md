@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Visita guiada por Olivenza"
     u: "https://www.civitatis.com/es/olivenza/visita-guiada-olivenza/"
+guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
+guiaTitulo: 'Guía Norte de Extremadura en PDF'
 ---
 Calles blancas con nombres en dos idiomas, azulejos azules en las iglesias, columnas retorcidas como cuerdas de barco… y todo eso en Badajoz. **Olivenza** fue **portuguesa durante cinco siglos**, y todavía se nota en cada rincón.
 

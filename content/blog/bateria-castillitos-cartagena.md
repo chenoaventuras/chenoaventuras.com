@@ -31,6 +31,8 @@ faq:
     a: "Hay un aparcamiento gratuito al final de la carretera, junto a la batería."
   - q: "¿Dónde está la Batería de Castillitos?"
     a: "En Cabo Tiñoso, en Cartagena (Región de Murcia), al borde de un acantilado a 250 metros sobre el mar."
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Hay sitios que sorprenden por las vistas, otros por la historia, y luego está la **Batería de Castillitos**, en Cabo Tiñoso (Cartagena), que te da las dos cosas a la vez y encima con unos cañones que parecen sacados de una peli. Un castillo de cuento al borde de un acantilado, con el Mediterráneo a 250 metros por debajo.
 

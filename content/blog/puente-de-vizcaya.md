@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Puente de Vizcaya: entradas y tours"
     u: "https://www.getyourguide.es/puente-vizcaya-l147791/"
+guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
+guiaTitulo: 'Guía País Vasco en PDF'
 ---
 Ni se levanta ni tiene carretera: el **Puente de Vizcaya** cruza la ría con una **barquilla colgada** que lleva coches y personas de una orilla a otra. Fue el **primer puente transbordador del mundo** y es Patrimonio de la Humanidad.
 

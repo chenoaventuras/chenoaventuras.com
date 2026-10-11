@@ -23,6 +23,8 @@ faq:
     a: "Al final del Paseo de la Castellana, junto a la estación de Chamartín."
   - q: "¿Dónde está la Torre de Cristal?"
     a: "En las Cuatro Torres, al norte del Paseo de la Castellana (Madrid). La parada de metro más cercana es Begoña."
+guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
+guiaTitulo: 'Guía Madrid curioso en PDF'
 ---
 Al norte de la Castellana hay cuatro gigantes que se ven desde casi todo Madrid. El más alto es la **Torre de Cristal**: **249 metros** y **50 plantas**. Es el **edificio más alto de España** y uno de los más altos de la Unión Europea.
 

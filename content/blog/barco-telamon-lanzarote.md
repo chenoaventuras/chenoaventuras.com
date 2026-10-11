@@ -28,6 +28,8 @@ actividades:
     u: "https://www.civitatis.com/es/orzola/excursion-isla-graciosa/"
   - t: "Lanzarote: catamarán a las playas de Papagayo"
     u: "https://www.getyourguide.es/lanzarote-l421/luxury-catamaran-cruise-to-the-papagayo-beaches-t86426/"
+guia: /assets/guias/guia-canarias-chenoaventuras.pdf
+guiaTitulo: 'Guía Canarias en PDF'
 ---
 Entre Arrecife y Costa Teguise hay un barco oxidado que parece salido de una película de piratas. Es el **Telamon**, encallado frente a la costa de **Lanzarote** desde **1981**.
 

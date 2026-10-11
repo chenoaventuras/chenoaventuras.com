@@ -23,6 +23,8 @@ faq:
     a: "No siempre; algunos meses de invierno cierra. Consulta su web."
   - q: "¿Es buen plan el Laberinto de Villapresente con niños?"
     a: "Sí, les encanta y es un buen plan de medio día, combinado con Santillana del Mar."
+guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
 Más de **5 kilómetros** de pasillos entre muros de ciprés de **2,5 metros** de alto. El **Laberinto de Villapresente**, en Cantabria, es el **laberinto vegetal más grande de España**.
 

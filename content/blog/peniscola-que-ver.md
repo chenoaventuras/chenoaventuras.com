@@ -27,6 +27,8 @@ actividades:
     u: "https://www.civitatis.com/es/peniscola/visita-guiada-peniscola/"
   - t: "Tour por Peñíscola con Indiana Jones"
     u: "https://www.civitatis.com/es/peniscola/tour-santo-grial-indiana-jones/"
+guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Castellón y Valencia en PDF'
 ---
 Un peñón rodeado de mar casi por completo, con casas blancas trepando por la roca, murallas y un castillo templario en lo alto. **Peñíscola** es uno de los pueblos costeros más bonitos del Mediterráneo, y tiene historia de película: aquí vivió un papa «rebelde» y aquí se rodó **Juego de Tronos**.
 

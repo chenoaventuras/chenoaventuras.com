@@ -25,6 +25,8 @@ faq:
     a: "Las rutas por el interior del hayedo funcionan con reserva previa. En otoño las plazas se agotan rápido, así que resérvalas con tiempo."
   - q: "¿Cómo llegar al Hayedo de Montejo?"
     a: "En coche hasta Montejo de la Sierra, en la Sierra del Rincón, a unos 100 km de Madrid por la A-1."
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 A una hora y poco de Madrid hay un bosque de hayas que es **Patrimonio de la Humanidad**. Uno de los hayedos más al sur de Europa, escondido en la Sierra del Rincón, y en otoño se convierte en un espectáculo de amarillos y rojos.
 

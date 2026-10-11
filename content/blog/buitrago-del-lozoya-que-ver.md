@@ -27,6 +27,8 @@ actividades:
     u: "https://www.civitatis.com/es/buitrago-lozoya/free-tour-buitrago-lozoya/"
   - t: "Alquiler de kayak en el embalse de Riosequillo"
     u: "https://www.civitatis.com/es/pinilla-de-buitrago/alquiler-kayak-embalse-riosequillo/"
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 A poco más de una hora de Madrid capital hay un pueblo que conserva algo que ningún otro de la comunidad puede presumir: su muralla medieval completa, casi abrazada por un río. Se llama Buitrago del Lozoya, y es de esas escapadas que no hace falta planear con meses de antelación.
 

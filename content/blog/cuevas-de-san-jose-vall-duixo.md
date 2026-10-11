@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Coves de Sant Josep: entradas y tours"
     u: "https://www.getyourguide.es/cuevas-de-sant-josep-l167977/"
+guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Castellón y Valencia en PDF'
 ---
 Bajo la Vall d'Uixó, en Castellón, corre un río subterráneo que se puede recorrer en barca: el más largo de Europa que admite navegación. Rodeado de formaciones que han tardado miles de años en formarse, es uno de esos planes que combinan aventura y naturaleza bajo tierra.
 

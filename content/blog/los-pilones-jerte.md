@@ -27,6 +27,8 @@ actividades:
     u: "https://www.civitatis.com/es/jerte/tour-4x4-garganta-infiernos/"
   - t: "Tour en 4x4 por el Valle del Jerte + recogida de cerezas"
     u: "https://www.civitatis.com/es/jerte/tour-4x4-jerte-recogida-cerezas/"
+guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
+guiaTitulo: 'Guía Norte de Extremadura en PDF'
 ---
 Imagina un río de agua cristalina que ha ido excavando el granito hasta dejarlo pulido como si fuera mármol, formando **pozas redondas** una detrás de otra. Eso son **Los Pilones**, en la Reserva Natural de la Garganta de los Infiernos, en el Valle del Jerte.
 

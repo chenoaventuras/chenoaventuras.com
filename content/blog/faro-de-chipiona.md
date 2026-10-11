@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Actividades en Chipiona"
     u: "https://www.civitatis.com/es/chipiona/"
+guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
 En la punta de Chipiona, donde el Guadalquivir se junta con el Atlántico, hay un faro de **62 metros**. Es el **faro más alto de España** y uno de los más altos del mundo.
 

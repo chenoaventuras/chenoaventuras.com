@@ -22,6 +22,8 @@ faq:
     a: "No, se cruza libremente."
   - q: "¿Cómo llegar a Llívia?"
     a: "Desde Puigcerdà, a unos 6 km, por una carretera que cruza territorio francés sin controles."
+guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
+guiaTitulo: 'Guía Cataluña en PDF'
 ---
 Para llegar a **Llívia** desde España tienes que **pasar por Francia**. Este pueblo de la Cerdanya (Girona) está **totalmente rodeado de territorio francés**: es un enclave, una isla de España dentro de otro país.
 

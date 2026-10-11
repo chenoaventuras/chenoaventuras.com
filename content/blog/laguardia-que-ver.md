@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Tour por Laguardia + visita a una bodega con cata"
     u: "https://www.civitatis.com/es/laguardia/tour-laguardia-visita-bodega-cata/"
+guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
+guiaTitulo: 'Guía País Vasco en PDF'
 ---
 Un pueblo amurallado en lo alto de una colina, rodeado de viñedos… y con una curiosidad que lo hace único: **no pueden entrar coches porque debajo de sus calles hay cientos de bodegas excavadas en la roca**. Bienvenido a **Laguardia**, la capital de la Rioja Alavesa.
 

@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Paseo en barco por el Flysch de Zumaia (corto)"
     u: "https://www.civitatis.com/es/zumaia/paseo-barco-flysch-zumaia/"
+guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
+guiaTitulo: 'Guía País Vasco en PDF'
 ---
 Si has visto **Juego de Tronos**, ya has estado en **Zumaia**. Su playa de **Itzurun** fue la costa de **Rocadragón** en la séptima temporada. Pero lo más alucinante no es la serie: son sus acantilados de **flysch**, capas de roca que cuentan **millones de años** de historia de la Tierra.
 

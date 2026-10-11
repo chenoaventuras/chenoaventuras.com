@@ -23,6 +23,8 @@ faq:
     a: "No es recomendable: el agua es muy ácida y tiene metales."
   - q: "¿Dónde ver el Río Tinto?"
     a: "En la comarca de Riotinto (Huelva): desde el Tren Minero que sale de Minas de Riotinto, en la Corta Atalaya o en Peña de Hierro, cerca de Nerva."
+guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
 Agua roja como el vino, orillas naranjas y ocres, y ni un pez. El **Río Tinto**, en Huelva, parece de otro planeta... y por eso la **NASA** lo ha usado para estudiar cómo podría ser la vida en **Marte**.
 

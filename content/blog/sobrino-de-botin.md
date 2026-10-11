@@ -24,6 +24,8 @@ faq:
 actividades:
   - t: "Madrid: tapas, tabernas e historia"
     u: "https://www.getyourguide.es/madrid-l46/madrid-tapas-taverns-history-tour-t288860/"
+guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
+guiaTitulo: 'Guía Madrid curioso en PDF'
 ---
 En la calle Cuchilleros, a dos pasos de la Plaza Mayor, hay un restaurante que aparece en el **Libro Guinness de los Récords** como el **más antiguo del mundo**. Se llama **Sobrino de Botín** y dice tener el horno encendido desde **1725**.
 

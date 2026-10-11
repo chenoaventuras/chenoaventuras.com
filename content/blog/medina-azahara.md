@@ -27,6 +27,8 @@ actividades:
     u: "https://www.civitatis.com/es/cordoba/visita-guiada-medina-azahara/"
   - t: "Tour nocturno por Medina Azahara"
     u: "https://www.civitatis.com/es/cordoba/tour-nocturno-medina-azahara/"
+guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
 A las afueras de **Córdoba** hay una ciudad entera que fue la más lujosa de Europa... y que solo duró **70 años**. **Medina Azahara** fue la capital de los califas de al-Ándalus, y hoy es **Patrimonio de la Humanidad**.
 

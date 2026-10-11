@@ -30,6 +30,8 @@ actividades:
     u: "https://www.civitatis.com/es/sevilla/visita-guiada-catedral-sevilla/"
   - t: "Catedral y Giralda: entrada con audioguía"
     u: "https://www.getyourguide.es/sevilla-l48/ticket-de-acceso-a-la-catedral-y-la-giralda-con-audioguia-t1014366/"
+guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía occidental en PDF'
 ---
 En 1988 el **Libro Guinness** la reconoció como la **catedral con mayor superficie del mundo**. La **Catedral de Sevilla** es la catedral gótica más grande del planeta y uno de los monumentos más visitados de España.
 

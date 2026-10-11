@@ -26,6 +26,8 @@ actividades:
     u: "https://www.civitatis.com/es/alcala-de-henares/visita-guiada-alcala-de-henares/"
   - t: "Free tour de Miguel de Cervantes en Alcalá de Henares"
     u: "https://www.civitatis.com/es/alcala-de-henares/ruta-cervantes/"
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 Una vez al año, el casco histórico de Alcalá de Henares retrocede varios siglos: puestos ambientados, oficios de época y, como colofón, un torneo de justas medievales que reúne a caballeros a caballo delante de cientos de espectadores. Es el Mercado Cervantino, y es de esos planes que hay que vivir al menos una vez.
 

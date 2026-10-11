@@ -23,6 +23,8 @@ faq:
     a: "El monte Pindo, el cabo de Fisterra, Muxía y el resto de la Costa da Morte."
   - q: "¿Dónde está la Fervenza do Ézaro?"
     a: "En Ézaro, en el concello de Dumbría (A Coruña), en plena Costa da Morte, a los pies del monte Pindo y a media hora de Fisterra."
+guia: /assets/guias/guia-galicia-chenoaventuras.pdf
+guiaTitulo: 'Guía Galicia en PDF'
 ---
 Un río que, en vez de llegar tranquilo al mar, se lanza al vacío por una pared de granito de unos **40 metros** y cae directamente al océano. Eso es la **Fervenza do Ézaro**, en la Costa da Morte, y se dice que es la **única cascada de Europa que desemboca en el mar**.
 

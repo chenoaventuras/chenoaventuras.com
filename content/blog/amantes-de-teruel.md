@@ -33,6 +33,8 @@ actividades:
     u: "https://www.civitatis.com/es/teruel/tour-nocturno-teruel/"
   - t: "Teruel: tour guiado por la catedral y el Museo de Arte Sacro"
     u: "https://www.getyourguide.es/teruel-l99909/teruel-guided-tour-to-the-cathedral-museum-of-sacred-art-t1244524/"
+guia: /assets/guias/guia-aragon-chenoaventuras.pdf
+guiaTitulo: 'Guía Aragón en PDF'
 ---
 Mucho antes de que Shakespeare escribiera *Romeo y Julieta*, Teruel ya tenía su propia historia de amor trágico. **Isabel y Diego** murieron de amor en el siglo XIII, y hoy descansan juntos en un mausoleo donde sus manos casi se tocan.
 

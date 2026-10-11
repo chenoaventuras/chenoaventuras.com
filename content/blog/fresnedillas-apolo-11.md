@@ -23,6 +23,8 @@ faq:
     a: "En el oeste de la Comunidad de Madrid, a unos 50 km de la capital."
   - q: "¿Cómo llegar a Fresnedillas de la Oliva desde Madrid?"
     a: "En coche: está en el oeste de la Comunidad de Madrid, a unos 50 km de la capital, cerca de Robledo de Chavela."
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 En julio de 1969, mientras el mundo miraba la Luna, unas antenas en un pueblo de la sierra de Madrid estaban trabajando. Junto a **Fresnedillas de la Oliva** funcionaba una **estación de seguimiento de la NASA** que ayudó a comunicar con las misiones **Apolo**.
 

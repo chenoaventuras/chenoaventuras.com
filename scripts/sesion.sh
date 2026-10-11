@@ -51,6 +51,14 @@ case "$cmd" in
     if ! git rebase origin/main; then
       echo; echo "Conflicto al ponerlo al día con main. Resuélvelo (git status), haz 'git rebase --continue' y repite este comando."; exit 1
     fi
+    # Guías PDF por zonas: si ha cambiado algo de sus posts (fotos, textos…), se rehacen y van a Drive
+    if [ -f scripts/guias/gen.py ]; then
+      python3 scripts/guias/gen.py --changed --drive || echo "Aviso: no se pudieron regenerar las guías."
+      if [ -n "$(git status --porcelain -- assets/guias scripts/guias/manifest.json api/_guias-zonas.mjs content/blog)" ]; then
+        git add assets/guias scripts/guias/manifest.json api/_guias-zonas.mjs content/blog
+        git commit -q -m "Guías PDF por zonas actualizadas"
+      fi
+    fi
     git push origin HEAD:main
     echo "Subido a main. Si ya no la necesitas: scripts/sesion.sh limpiar $(basename "$top")"
     ;;

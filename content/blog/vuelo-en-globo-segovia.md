@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Segovia: vuelo en globo con picnic y cava"
     u: "https://www.getyourguide.es/segovia-l1694/segovia-vuelo-en-globo-aerostatico-con-comida-y-cava-t406164/"
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 Ver el acueducto romano, el Alcázar y la catedral de Segovia desde el aire, flotando en silencio sobre la ciudad, es una experiencia que mezcla aventura, vistas espectaculares y una sensación de libertad difícil de igualar desde tierra.
 

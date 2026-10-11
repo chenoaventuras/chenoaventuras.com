@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Actividades en Orduña"
     u: "https://www.civitatis.com/es/orduna/"
+guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
+guiaTitulo: 'Guía País Vasco en PDF'
 ---
 Entre **Álava y Burgos** hay un cortado donde el río Nervión se lanza al vacío desde **222 metros**. Es el **Salto del Nervión**, la **cascada más alta de la península ibérica**.
 

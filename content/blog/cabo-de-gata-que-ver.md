@@ -31,6 +31,8 @@ actividades:
     u: "https://www.getyourguide.es/cabo-de-gata-nijar-natural-park-l96730/cabo-de-gata-natural-park-kayaking-snorkeling-t219321/"
   - t: "Tour en 4x4 por Cabo de Gata desde San José"
     u: "https://www.civitatis.com/es/san-jose-espana/tour-4x4-cabo-gata/"
+guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía oriental en PDF'
 ---
 Playas vírgenes entre volcanes, agua transparente y paisajes de desierto que parecen de otro planeta. **Cabo de Gata** es el último gran tramo de costa salvaje del Mediterráneo español.
 

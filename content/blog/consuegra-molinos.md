@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Visita guiada por Consuegra"
     u: "https://www.civitatis.com/es/consuegra/visita-guiada-consuegra/"
+guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo y La Mancha en PDF'
 ---
 Doce molinos blancos alineados en lo alto de un cerro, con un castillo medieval en medio y toda la llanura manchega a sus pies. Si alguna vez has imaginado a don Quijote cargando contra los gigantes, la imagen que tienes en la cabeza se parece mucho a **Consuegra**.
 

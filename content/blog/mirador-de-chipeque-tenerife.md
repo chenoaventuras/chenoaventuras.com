@@ -25,6 +25,8 @@ faq:
 actividades:
   - t: "Mirador de Chipeque: tours al atardecer y estrellas"
     u: "https://www.getyourguide.es/mirador-de-chipeque-l134182/"
+guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
+guiaTitulo: 'Guía Tenerife en PDF'
 ---
 A más de 1.800 metros de altitud, en pleno interior de Tenerife, hay un mirador que muchos ni siquiera conocen a pesar de ofrecer una de las mejores vistas de toda la isla: el Teide, un mar de nubes y, en días claros, hasta la silueta de La Palma en el horizonte.
 

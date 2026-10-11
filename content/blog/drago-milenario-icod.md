@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Parque del Drago: entradas y tours"
     u: "https://www.getyourguide.es/parque-del-drago-l166097/"
+guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
+guiaTitulo: 'Guía Tenerife en PDF'
 ---
 Parece un árbol sacado de la época de los dinosaurios. El **Drago Milenario** de Icod de los Vinos, en Tenerife, es el **drago más grande y longevo conocido del mundo**: unos **18 metros** de alto y 20 de perímetro en la base.
 

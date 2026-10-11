@@ -28,6 +28,8 @@ actividades:
     u: "https://www.civitatis.com/es/barcelona/visita-guiada-sagrada-familia/"
   - t: "Tour por la Sagrada Familia con subida a las torres"
     u: "https://www.civitatis.com/es/barcelona/visita-sagrada-familia-torres/"
+guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
+guiaTitulo: 'Guía Cataluña en PDF'
 ---
 Lleva en obras desde **1882** y aún no está terminada, pero ya tiene un récord: desde el **30 de octubre de 2025**, la **Sagrada Familia** de Barcelona es la **iglesia más alta del mundo**.
 

@@ -5,6 +5,8 @@
  * Variable de entorno en Vercel:
  *   BREVO_API_KEY
  */
+import { ZONE_GUIDES } from "./_guias-zonas.mjs";
+
 const LIST_ID = 3; // "Newsletter Web" en Brevo
 const SITE = "https://www.chenoaventuras.com";
 // Remitente de los correos a suscriptores. Para que no caigan en spam hay que
@@ -16,6 +18,7 @@ const OWNER_EMAIL = "chenoaventuras@gmail.com";
 // Guías en PDF: valor de "source" del formulario -> título y archivo.
 // "extra" (opcional): más PDFs que se envían en el mismo correo.
 const GUIDES = {
+  ...ZONE_GUIDES, // guías por zonas (scripts/guias/gen.py)
   "guia-monte-igueldo": { title: "Guía del Monte Igueldo", file: "/assets/guias/guia-monte-igueldo-chenoaventuras.pdf" },
   "guia-cuenca": { title: "Guía de Cuenca", file: "/assets/guias/guia-cuenca-chenoaventuras.pdf" },
   "ciudad-encantada-cuenca": { title: "Guía de Cuenca", file: "/assets/guias/guia-cuenca-chenoaventuras.pdf" },

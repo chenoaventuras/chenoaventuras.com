@@ -31,6 +31,8 @@ actividades:
     u: "https://www.civitatis.com/es/aranjuez/free-tour-aranjuez/"
   - t: "Paseo en barco por Aranjuez"
     u: "https://www.civitatis.com/es/aranjuez/paseo-barco-aranjuez/"
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 Un palacio real rodeado de jardines, fuentes y bosques junto al río Tajo, a menos de una hora de Madrid. **Aranjuez** fue durante siglos la residencia de primavera de los reyes de España, y hoy su paisaje cultural es **Patrimonio de la Humanidad**.
 

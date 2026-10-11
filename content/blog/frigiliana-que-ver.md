@@ -22,6 +22,8 @@ faq:
     a: "Unos 6 km, unos 10 minutos en coche. También hay autobús."
   - q: "¿A cuánto está Frigiliana de Málaga?"
     a: "A una hora en coche. Desde Nerja son solo 6 km."
+guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
+guiaTitulo: 'Guía Andalucía oriental en PDF'
 ---
 Casas blancas encaladas, macetas azules, calles empinadas que se retuercen ladera arriba y el Mediterráneo al fondo. **Frigiliana** es uno de los pueblos más buscados de España y tiene una historia que muy poca gente conoce.
 

@@ -27,6 +27,8 @@ actividades:
     u: "https://www.getyourguide.es/burgo-de-osma-l245357/entrance-to-the-cathedral-of-burgo-de-osma-t1111641/"
   - t: "Entrada al balneario Castilla Termal Burgo de Osma"
     u: "https://www.civitatis.com/es/el-burgo-de-osma/entrada-castilla-termal-burgo-osma/"
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 Hay pueblos que crecieron alrededor de un castillo, y otros que crecieron alrededor de una catedral. El Burgo de Osma es de los segundos: durante siglos fue una importante ciudad episcopal, y ese pasado se nota en cada esquina de su casco histórico.
 

@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Actividades en Ucero (Cañón del Río Lobos)"
     u: "https://www.civitatis.com/es/ucero/"
+guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castilla y León en PDF'
 ---
 Paredes de roca de cien metros, buitres planeando por encima de tu cabeza y, en mitad del cañón, una **ermita templaria** pegada a la pared. Dicen que está justo a medio camino entre los dos extremos de la península, en el **centro del mundo**.
 

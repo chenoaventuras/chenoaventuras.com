@@ -28,6 +28,8 @@ actividades:
     u: "https://www.getyourguide.es/madrid-l46/entrada-combinada-a-san-antonio-de-los-alemanes-y-monasterio-de-san-placido-t1103055/"
   - t: "Free tour por Chueca y Malasaña (incluye San Antonio de los Alemanes)"
     u: "https://www.civitatis.com/es/madrid/free-tour-chueca-malasana/"
+guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
+guiaTitulo: 'Guía Madrid curioso en PDF'
 ---
 Por fuera es una iglesia más entre las calles de Malasaña. Por dentro, es de esos sitios donde te quedas mirando al techo durante varios minutos sin darte cuenta del tiempo que pasa. Así es la iglesia de San Antonio de los Alemanes, conocida como la "Capilla Sixtina madrileña".
 

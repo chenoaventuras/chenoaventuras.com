@@ -26,6 +26,8 @@ faq:
 actividades:
   - t: "Excursión a las Cascadas de Ouzoud desde Marrakech"
     u: "https://www.civitatis.com/es/marrakech/excursion-cascadas-ouzoud/"
+guia: /assets/guias/guia-marrakech-chenoaventuras.pdf
+guiaTitulo: 'Guía Marrakech y alrededores en PDF'
 ---
 En pleno Atlas Medio marroquí, a poco más de dos horas de Marrakech, el agua se despeña casi 100 metros entre paredes de roca ocre, creando uno de los paisajes más espectaculares de todo Marruecos. Son las Cascadas de Ouzoud, y si estás por la zona, merecen una excursión de un día entero.
 

@@ -24,6 +24,8 @@ faq:
 actividades:
   - t: "Tour por Madrid para familias"
     u: "https://www.civitatis.com/es/madrid/tour-madrid-familias/"
+guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
+guiaTitulo: 'Guía Madrid curioso en PDF'
 ---
 Si alguna vez te preguntaste dónde vive el **Ratoncito Pérez**, la respuesta es: en la **calle del Arenal, 8**, de Madrid, a dos minutos de la Puerta del Sol. Hasta tiene una **placa oficial** del Ayuntamiento.
 

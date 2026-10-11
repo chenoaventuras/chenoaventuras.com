@@ -21,6 +21,8 @@ faq:
     a: "A pie, en unos 10 minutos desde Naves o desde la playa de San Antolín, en Llanes."
   - q: "¿Se puede bañar en Gulpiyuri?"
     a: "Sí, con marea alta. No tiene servicios ni socorristas, así que ten cuidado."
+guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
 Una playa de arena fina, con olas y agua salada… en mitad de un prado verde, sin el mar a la vista. **Gulpiyuri** es una de las rarezas más bonitas de España: una **playa interior** de apenas 50 metros.
 

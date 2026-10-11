@@ -28,6 +28,8 @@ faq:
 actividades:
   - t: "Barranco del Infierno: entradas y tours"
     u: "https://www.getyourguide.es/barranco-del-infierno-l191750/"
+guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
+guiaTitulo: 'Guía Tenerife en PDF'
 ---
 Con ese nombre, uno espera algo terrible, pero lo que hay al final es lo contrario: un rincón fresco y verde con una **cascada** cayendo entre paredes de roca, en pleno sur seco de Tenerife.
 
