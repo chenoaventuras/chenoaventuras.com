@@ -1981,7 +1981,8 @@ p { margin: 0 0 1em; }
 .esc { position: relative; background: var(--night); color: #fff; border-radius: 24px; overflow: hidden; display: grid; grid-template-columns: 1fr 1.25fr; min-height: 480px; }
 .esc__form { padding: clamp(24px, 4vw, 48px); position: relative; z-index: 2; }
 .esc .f-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-.esc .f-field label { display: block; font: 600 12px var(--font-head); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 6px; color: var(--gold-soft); }
+.esc .f-row + .f-row { margin-top: 10px; }
+.esc .f-field label { display: block; font: 600 12px var(--font-head); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 10px; color: var(--gold-soft); }
 .esc .f-field select { width: 100%; padding: 13px 14px; border-radius: 10px; border: 1px solid var(--line); font: 500 15px var(--font-body); background: #fff; color: var(--ink); }
 .esc .f-field select:disabled { opacity: .55; }
 .esc .f-count { font: 600 14px var(--font-head); margin: 14px 0; color: var(--gold-soft); min-height: 1.4em; }
