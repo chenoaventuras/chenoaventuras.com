@@ -2127,8 +2127,8 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Barra de arriba: una luz recorre el borde del icono de Instagram para llamar la atención. */
 @property --ig-giro { syntax: "<angle>"; inherits: false; initial-value: 0deg; }
-.nav__social a[aria-label="Instagram"] { position: relative; overflow: visible; }
-.nav__social a[aria-label="Instagram"]::before {
+.nav__social a[aria-label="Instagram"], .footer-social a[aria-label="Instagram"] { position: relative; overflow: visible; }
+.nav__social a[aria-label="Instagram"]::before, .footer-social a[aria-label="Instagram"]::before {
   content: ""; position: absolute; inset: -1px; border-radius: 7px; padding: 2px; pointer-events: none;
   background: conic-gradient(from var(--ig-giro), transparent 0deg 200deg, rgba(255,236,180,.5) 270deg, #fff 330deg, #fff 345deg, transparent 360deg);
   -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor;
@@ -2137,7 +2137,9 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
   animation: igLuz 2.6s linear infinite;
 }
 @keyframes igLuz { to { --ig-giro: 360deg; } }
-@media (prefers-reduced-motion: reduce) { .nav__social a[aria-label="Instagram"]::before { animation: none; } }
+@media (prefers-reduced-motion: reduce) { .nav__social a[aria-label="Instagram"]::before, .footer-social a[aria-label="Instagram"]::before { animation: none; } }
+/* Pie: la «f» de Facebook se veía muy pequeña. */
+.footer-social a[aria-label="Facebook"] svg { width: 22px; height: 22px; }
 /* Barra de arriba: mini zoom al pasar el ratón por los nombres. */
 @media (hover: hover) {
   .nav__links li:not(.nav__social) a { display: inline-block; transition: opacity .2s, transform .25s cubic-bezier(.34,1.56,.64,1); }
