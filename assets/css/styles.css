@@ -2024,7 +2024,8 @@ p { margin: 0 0 1em; }
 @media (min-width: 861px) {
   .esc { grid-template-columns: 1fr 1fr; }
   .esc__stage { order: -1; }
-  .dibujos { -webkit-mask: linear-gradient(to left, transparent, #000 30%); mask: linear-gradient(to left, transparent, #000 30%); }
+  /* La foto se funde suave (curva, no línea recta) y el azul queda entero bajo el texto. */
+  .dibujos { -webkit-mask: linear-gradient(to left, transparent 0%, rgba(0,0,0,.03) 5%, rgba(0,0,0,.1) 10%, rgba(0,0,0,.22) 15%, rgba(0,0,0,.38) 20%, rgba(0,0,0,.56) 25%, rgba(0,0,0,.72) 30%, rgba(0,0,0,.85) 35%, rgba(0,0,0,.94) 40%, #000 46%); mask: linear-gradient(to left, transparent 0%, rgba(0,0,0,.03) 5%, rgba(0,0,0,.1) 10%, rgba(0,0,0,.22) 15%, rgba(0,0,0,.38) 20%, rgba(0,0,0,.56) 25%, rgba(0,0,0,.72) 30%, rgba(0,0,0,.85) 35%, rgba(0,0,0,.94) 40%, #000 46%); }
 }
 @media (max-width: 860px) {
   .esc { grid-template-columns: 1fr; }
