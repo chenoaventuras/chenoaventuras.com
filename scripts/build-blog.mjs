@@ -478,6 +478,53 @@ function faqBox(p) {
 `;
 }
 
+// Enlaces internos automáticos: la primera vez que un post nombra un lugar
+// que tiene post propio (content/enlaces.json), se enlaza. Un enlace por
+// destino, máximo LINK_MAX por post, nunca dentro de títulos ni de otros enlaces.
+const LINK_MAX = 8;
+const LINK_SKIP = new Set(["a", "h1", "h2", "h3", "h4", "h5", "h6", "script", "style", "figcaption", "button", "summary"]);
+function loadLinkMap(posts) {
+  const f = join(ROOT, "content", "enlaces.json");
+  if (!existsSync(f)) return [];
+  const published = new Set(posts.map((p) => p.slug));
+  const reEsc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return Object.entries(JSON.parse(readFileSync(f, "utf8")))
+    .filter(([slug]) => published.has(slug))
+    .flatMap(([slug, phrases]) => phrases.map((ph) => ({ slug, re: new RegExp(`(?<![\\p{L}\\p{N}])${reEsc(ph)}(?![\\p{L}\\p{N}])`, "u"), len: ph.length })));
+}
+function autoLink(html, self, map) {
+  // los destinos que el post ya enlaza a mano no se repiten
+  const used = new Set([self, ...[...html.matchAll(/href="\/blog\/([a-z0-9-]+)\.html/g)].map((m) => m[1])]);
+  let count = 0;
+  const stack = [];
+  return html.replace(/(<[^>]+>)|([^<]+)/g, (m, tag, text) => {
+    if (tag) {
+      const t = tag.match(/^<(\/?)([a-zA-Z0-9]+)/);
+      if (t && !tag.endsWith("/>")) {
+        const name = t[2].toLowerCase();
+        if (t[1]) { const i = stack.findLastIndex((s) => s.name === name); if (i !== -1) stack.length = i; }
+        else if (!/^(br|img|hr|input|meta|link|source|wbr)$/.test(name)) stack.push({ name, skip: LINK_SKIP.has(name) || /class="[^"]*(eyebrow|guide__head)/.test(tag) });
+      }
+      return tag;
+    }
+    if (count >= LINK_MAX || stack.some((s) => s.skip)) return text;
+    let out = "", rest = text;
+    while (count < LINK_MAX) {
+      let best = null;
+      for (const e of map) {
+        if (used.has(e.slug)) continue;
+        const r = e.re.exec(rest);
+        if (r && (!best || r.index < best.i || (r.index === best.i && e.len > best.len))) best = { i: r.index, len: r[0].length, slug: e.slug, s: r[0] };
+      }
+      if (!best) break;
+      used.add(best.slug); count++;
+      out += rest.slice(0, best.i) + `<a href="/blog/${best.slug}.html">${best.s}</a>`;
+      rest = rest.slice(best.i + best.len);
+    }
+    return out + rest;
+  });
+}
+
 function renderPost(p, tagColorMap, nextPost, related = [], destino = null, nearby = []) {
   const coverAbs = p.cover ? (p.cover.startsWith("http") ? p.cover : SITE + p.cover) : "";
   const regionTag = p.tags.find((t) => !TAG_TYPES.includes(t));
@@ -998,8 +1045,10 @@ const tagColorMap = buildTagColorMap(orderedTags);
 
 rmSync(OUT_DIR, { recursive: true, force: true });
 mkdirSync(OUT_DIR, { recursive: true });
+const linkMap = loadLinkMap(posts);
 for (let i = 0; i < posts.length; i++) {
   const p = posts[i];
+  p.html = autoLink(p.html, p.slug, linkMap);
   const nextPost = posts[i + 1] || null;
   const nearby = nearbyPosts(p, posts);
   writeFileSync(join(OUT_DIR, `${p.slug}.html`), renderPost(p, tagColorMap, nextPost, relatedPosts(p, posts, 3, nearby.map((x) => x.q.slug)), destinoOf(p), nearby));
