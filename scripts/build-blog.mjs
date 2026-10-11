@@ -21,7 +21,7 @@ const SITE = "https://www.chenoaventuras.com";
 const CONTENT_DIR = join(ROOT, "content", "blog");
 const OUT_DIR = join(ROOT, "blog");
 const DEST_DIR = join(ROOT, "destinos");
-const OG_DEFAULT = SITE + "/assets/img/og-default.jpg";
+const OG_DEFAULT = SITE + "/assets/img/og-portada.jpg";
 const TAG_TYPES = ["Curiosidades", "Actividades", "Pueblos", "Spots", "Descuentos"]; // el resto de tags de un post son comunidades autónomas
 
 // color de cada etiqueta del blog: un tono distinto por tag, sin repetir nunca
