@@ -1164,8 +1164,8 @@
     pupilas.forEach(function (b) {
       var r = b.parentNode.getBoundingClientRect();
       var cx = r.left + r.width / 2, cy = r.top + r.height / 2;
-      var a = Math.atan2(my - cy, mx - cx), d = Math.min(4, Math.hypot(mx - cx, my - cy) / 25);
-      b.style.transform = "translate(" + (Math.cos(a) * d).toFixed(1) + "px," + (Math.sin(a) * d).toFixed(1) + "px)";
+      var a = Math.atan2(my - cy, mx - cx), d = Math.min(3.2, Math.hypot(mx - cx, my - cy) / 25);
+      b.style.transform = "translate(" + (Math.cos(a) * d * .8).toFixed(1) + "px," + (Math.sin(a) * d * 1.2).toFixed(1) + "px)";
     });
   }
   document.addEventListener("pointermove", function (e) {
