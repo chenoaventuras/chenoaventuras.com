@@ -1222,3 +1222,28 @@
   } else { visible = true; raf = requestAnimationFrame(bucle); }
 })()
 ;
+
+/* ---------- Textos que entran al hacer scroll ----------
+   Antetítulos desde la izquierda, títulos desde arriba, párrafos desde abajo y botones con
+   un pequeño zoom. Solo fuera de la portada grande y de bloques que ya tienen su animación. */
+(function () {
+  if (!("IntersectionObserver" in window) || (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) return;
+  var main = document.querySelector("main");
+  if (!main) return;
+  var tipos = [[".eyebrow", "izq"], [".title", "baja"], [".lead", "sube"], [".section .container > p", "sube"], [".btn", "zoom"]];
+  var lista = [];
+  tipos.forEach(function (t) {
+    main.querySelectorAll(t[0]).forEach(function (el) {
+      if (el.closest(".hero, .reveal, .anim, .esc, .deal, .placecard, .blogcard, .article__body, [data-anim-no]") || el.classList.contains("anim")) return;
+      el.classList.add("anim", "anim--" + t[1]); lista.push(el);
+    });
+  });
+  // Pequeño escalonado entre los textos de un mismo bloque.
+  var porPadre = new Map();
+  lista.forEach(function (el) { var k = el.parentElement, n = porPadre.get(k) || 0; el.style.setProperty("--anim-d", (n * .09).toFixed(2) + "s"); porPadre.set(k, n + 1); });
+  var io = new IntersectionObserver(function (es) {
+    es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add("is-in"); io.unobserve(e.target); } });
+  }, { threshold: .15, rootMargin: "0px 0px -6% 0px" });
+  lista.forEach(function (el) { io.observe(el); });
+})();
+
