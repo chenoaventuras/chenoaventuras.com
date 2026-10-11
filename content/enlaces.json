@@ -97,10 +97,6 @@
   "cabo-de-gata-que-ver": [
     "Cabo de Gata"
   ],
-  "caceres-que-ver": [
-    "Ciudad Monumental de Cáceres",
-    "Cáceres"
-  ],
   "calamocha-pueblo-mas-frio": [
     "Calamocha"
   ],
@@ -224,13 +220,6 @@
     "Drago Milenario",
     "Icod de los Vinos"
   ],
-  "dunas-de-maspalomas": [
-    "Dunas de Maspalomas",
-    "Maspalomas"
-  ],
-  "el-hierro-que-ver": [
-    "El Hierro"
-  ],
   "estacion-de-canfranc": [
     "Estación de Canfranc",
     "estación de Canfranc",
@@ -244,9 +233,6 @@
   "fervenza-do-ezaro": [
     "Fervenza do Ézaro",
     "Ézaro"
-  ],
-  "formentera-que-ver": [
-    "Formentera"
   ],
   "fresnedillas-apolo-11": [
     "Fresnedillas"
@@ -283,10 +269,6 @@
   "guadalix-mister-marshall": [
     "Guadalix de la Sierra",
     "Mister Marshall"
-  ],
-  "guadalupe-que-ver": [
-    "Monasterio de Guadalupe",
-    "Guadalupe"
   ],
   "guia-cuenca": [
     "Cuenca"
@@ -327,12 +309,6 @@
   "illan-de-vacas": [
     "Illán de Vacas"
   ],
-  "isla-de-lobos-dunas-corralejo": [
-    "Isla de Lobos",
-    "isla de Lobos",
-    "Dunas de Corralejo",
-    "Corralejo"
-  ],
   "isla-de-los-faisanes": [
     "Isla de los Faisanes",
     "isla de los Faisanes"
@@ -353,13 +329,6 @@
   ],
   "juzcar-pueblo-pitufo": [
     "Júzcar"
-  ],
-  "la-gomera-que-ver": [
-    "La Gomera",
-    "Garajonay"
-  ],
-  "la-graciosa": [
-    "La Graciosa"
   ],
   "laberinto-de-villapresente": [
     "Villapresente"
@@ -394,14 +363,8 @@
   "las-medulas": [
     "Las Médulas"
   ],
-  "lerma-que-ver": [
-    "Lerma"
-  ],
   "llivia": [
     "Llívia"
-  ],
-  "los-barruecos": [
-    "Los Barruecos"
   ],
   "los-cahorros-de-monachil": [
     "Cahorros de Monachil",
@@ -413,9 +376,6 @@
   ],
   "madrid-fantasmas-leyendas": [
     "Palacio de Linares"
-  ],
-  "meandro-del-melero": [
-    "Meandro del Melero"
   ],
   "medina-azahara": [
     "Medina Azahara"
@@ -430,18 +390,12 @@
   "melilla-que-ver": [
     "Melilla"
   ],
-  "menorca-calas": [
-    "Menorca"
-  ],
   "mercado-cervantino-alcala-de-henares": [
     "Mercado Cervantino",
     "Alcalá de Henares"
   ],
   "mercado-pescado-essaouira": [
     "Essaouira"
-  ],
-  "merida-que-ver": [
-    "Mérida"
   ],
   "merindades-burgos-que-ver": [
     "Las Merindades",
@@ -467,9 +421,6 @@
     "Monasterio de Yuste",
     "monasterio de Yuste",
     "Yuste"
-  ],
-  "monfrague": [
-    "Monfragüe"
   ],
   "montblanc-que-ver": [
     "Montblanc"
@@ -510,9 +461,6 @@
   "pasarelas-de-panticosa": [
     "Pasarelas de Panticosa",
     "pasarelas de Panticosa"
-  ],
-  "pecio-naranjito-cabo-de-palos": [
-    "Naranjito"
   ],
   "pedraza-que-ver": [
     "Pedraza"
@@ -673,10 +621,6 @@
   "territorio-artlanza-burgos": [
     "Artlanza"
   ],
-  "timanfaya": [
-    "Timanfaya",
-    "Montañas del Fuego"
-  ],
   "tirolina-cuenca": [
     "tirolina de Cuenca",
     "Tirolina de Cuenca"
@@ -693,9 +637,6 @@
   "trasmoz-pueblo-maldito": [
     "Trasmoz"
   ],
-  "trujillo-que-ver": [
-    "Trujillo"
-  ],
   "uruena-que-ver": [
     "Urueña"
   ],
@@ -710,18 +651,77 @@
   "volcan-tajogaite-la-palma": [
     "Tajogaite"
   ],
-  "vuelo-en-globo-segovia": [
-    "globo sobre Segovia",
-    "globo en Segovia"
-  ],
   "vuelo-globo-marrakech": [
     "globo sobre Marrakech",
     "globo en Marrakech"
+  ],
+  "vuelo-en-globo-segovia": [
+    "globo sobre Segovia",
+    "globo en Segovia"
   ],
   "xativa-que-ver": [
     "Xàtiva"
   ],
   "zumaia-juego-de-tronos": [
     "Zumaia"
+  ],
+  "caceres-que-ver": [
+    "Ciudad Monumental de Cáceres",
+    "Cáceres"
+  ],
+  "trujillo-que-ver": [
+    "Trujillo"
+  ],
+  "merida-que-ver": [
+    "Mérida"
+  ],
+  "monfrague": [
+    "Monfragüe"
+  ],
+  "guadalupe-que-ver": [
+    "Monasterio de Guadalupe",
+    "Guadalupe"
+  ],
+  "meandro-del-melero": [
+    "Meandro del Melero"
+  ],
+  "los-barruecos": [
+    "Los Barruecos"
+  ],
+  "el-hierro-que-ver": [
+    "El Hierro"
+  ],
+  "la-gomera-que-ver": [
+    "La Gomera",
+    "Garajonay"
+  ],
+  "la-graciosa": [
+    "La Graciosa"
+  ],
+  "timanfaya": [
+    "Timanfaya",
+    "Montañas del Fuego"
+  ],
+  "isla-de-lobos-dunas-corralejo": [
+    "Isla de Lobos",
+    "isla de Lobos",
+    "Dunas de Corralejo",
+    "Corralejo"
+  ],
+  "dunas-de-maspalomas": [
+    "Dunas de Maspalomas",
+    "Maspalomas"
+  ],
+  "menorca-calas": [
+    "Menorca"
+  ],
+  "formentera-que-ver": [
+    "Formentera"
+  ],
+  "lerma-que-ver": [
+    "Lerma"
+  ],
+  "pecio-naranjito-cabo-de-palos": [
+    "Naranjito"
   ]
 }
