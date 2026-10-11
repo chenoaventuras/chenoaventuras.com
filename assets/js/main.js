@@ -1152,3 +1152,25 @@
   window.addEventListener("blur", () => { drag = null; });
   requestAnimationFrame(step);
 })();
+
+/* ---------- Botón «Ver perfil»: los ojos siguen al ratón ---------- */
+(function () {
+  var btn = document.querySelector("[data-ojos]");
+  if (!btn) return;
+  var pupilas = btn.querySelectorAll(".ojos b");
+  var raf = 0, mx = 0, my = 0;
+  function mirar() {
+    raf = 0;
+    pupilas.forEach(function (b) {
+      var r = b.parentNode.getBoundingClientRect();
+      var cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+      var a = Math.atan2(my - cy, mx - cx), d = Math.min(4, Math.hypot(mx - cx, my - cy) / 25);
+      b.style.transform = "translate(" + (Math.cos(a) * d).toFixed(1) + "px," + (Math.sin(a) * d).toFixed(1) + "px)";
+    });
+  }
+  document.addEventListener("pointermove", function (e) {
+    mx = e.clientX; my = e.clientY;
+    if (!raf) raf = requestAnimationFrame(mirar);
+  }, { passive: true });
+})();
+
