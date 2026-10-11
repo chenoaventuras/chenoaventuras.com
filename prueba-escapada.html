@@ -37,6 +37,9 @@
   .esmap.has-sel path.is-c { opacity: 1; fill: var(--olive-bright); }
   .esmap.has-sel path.is-p { opacity: 1; fill: var(--gold); }
   .esmap .esmap__can-box { opacity: 1 !important; transition: opacity .4s; }
+  .esmap .esmap__mundo path { fill: #ebe7de; stroke: #fff; opacity: 1 !important; cursor: default; }
+  .esmap .esmap__mundo path:hover { fill: #ebe7de; }
+  .esmap .esmap__mundo path.is-c { fill: var(--olive-bright); }
   .esmap.ext .esmap__can-box { opacity: 0 !important; }
   .esc__tag { position: absolute; left: 16px; bottom: 14px; z-index: 3; font: 700 13px var(--font-head); background: var(--ink); color: #fff; padding: 6px 12px; border-radius: 99px; opacity: 0; transition: opacity .4s .9s; }
   .esc__tag.on { opacity: 1; }
@@ -187,7 +190,8 @@
     if (w / h > r) h = w / r; else w = h * r;
     return [(x0 + x1) / 2 - w / 2, (y0 + y1) / 2 - h / 2, w, h];
   }
-  const all = map.getBBox();
+  // Encaje inicial: solo España (no los países vecinos de fondo).
+  const all = (() => { let x0 = 1e9, y0 = 1e9, x1 = -1e9, y1 = -1e9; map.querySelectorAll("path[data-c]").forEach((p) => { const b = p.getBBox(); x0 = Math.min(x0, b.x); y0 = Math.min(y0, b.y); x1 = Math.max(x1, b.x + b.width); y1 = Math.max(y1, b.y + b.height); }); return { x: x0, y: y0, width: x1 - x0, height: y1 - y0 }; })();
   const FULL = () => fit(all.x, all.y, all.x + all.width, all.y + all.height, 1.32);
   let vb = FULL(), anim = 0;
   map.setAttribute("viewBox", vb.join(" "));
@@ -269,6 +273,7 @@
       el.classList.toggle("is-c", isC && !isP); el.classList.toggle("is-p", isP);
       if (isP || (isC && !p)) sel.push(el);
     });
+    map.querySelectorAll("path[data-pais]").forEach((el) => el.classList.toggle("is-c", el.dataset.pais === c));
     const zona = z.zonas.find((x) => x.v === c);
     const n = !zona ? z.total : p ? (zona.provs.find((x) => x.v === p) || {}).n : zona.n;
     const name = p || (zona ? zona.l || zona.v : "España");
