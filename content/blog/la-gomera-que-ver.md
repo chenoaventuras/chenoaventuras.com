@@ -32,18 +32,21 @@ actividades:
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
 comer:
-  - n: "Terraza Restaurante Los Telares"
-    r: 4.7
-    o: 2734
+  - n: "Bar Restaurante Los Leones"
+    r: 4.6
+    o: 655
     t: "Restaurante de cocina española"
-  - n: "Bar Cafetería Arcilia"
-    r: 4.7
-    o: 300
+    d: "C. de Ruiz de Padrón, 114 (San Sebastián)"
+  - n: "Restaurante Ambigú"
+    r: 4.6
+    o: 617
     t: "Restaurante de cocina española"
-  - n: "Tasca Telémaco"
-    r: 4.5
-    o: 995
-    d: "Pl. de la Encarnación, 2"
+    d: "Plaza de las Américas, 12 (San Sebastián)"
+  - n: "Larrife Restaurante"
+    r: 4.8
+    o: 217
+    t: "Restaurante de alta cocina"
+    d: "C. Lomo del Clavo, 188 (San Sebastián)"
 comerFecha: "octubre de 2026"
 ---
 Un bosque húmedo y lleno de musgo que parece sacado de un cuento, barrancos enormes, pueblos colgados en terrazas y un idioma silbado que se oye de un lado a otro del valle. **La Gomera** es la isla más verde y montañosa de Canarias.
@@ -68,6 +71,10 @@ Está a menos de una hora en ferry desde Tenerife, así que se puede ver incluso
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/la-gomera-que-ver/valle.webp" alt="Valle Gran Rey en La Gomera" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Valle Gran Rey</h3><p>Un barranco de palmeras y terrazas que baja hasta el mar. Abajo hay playas y buenos atardeceres.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/la-gomera-que-ver/playa.webp" alt="Playa de Valle Gran Rey" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las playas del oeste</h3><p>Arena oscura y mar abierto. Perfectas para ver la puesta de sol después de un día de rutas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/la-gomera-que-ver/sansebastian.webp" alt="San Sebastián de La Gomera con el Teide al fondo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>San Sebastián</h3><p>La capital, con la Torre del Conde y la iglesia de la Asunción. En días claros, el Teide asoma al fondo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/la-gomera-que-ver/agulo.webp" alt="Agulo en La Gomera" loading="lazy" decoding="async" /><span class="gcard__n">07</span></div><div class="gcard__body"><h3>Agulo</h3><p>Uno de los pueblos más bonitos de Canarias: casas de colores en terrazas sobre el mar, con el Teide enfrente.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/la-gomera-que-ver/hermigua.webp" alt="Valle de Hermigua en La Gomera" loading="lazy" decoding="async" /><span class="gcard__n">08</span></div><div class="gcard__body"><h3>Hermigua</h3><p>Un valle verde de plataneras que baja hasta una playa de arena negra y unas piscinas naturales junto al mar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/la-gomera-que-ver/roquecano.webp" alt="Roque Cano en Vallehermoso" loading="lazy" decoding="async" /><span class="gcard__n">09</span></div><div class="gcard__body"><h3>Vallehermoso y el Roque Cano</h3><p>Un pueblo tranquilo del norte vigilado por un enorme roque volcánico. Cerca está la playa de Vallehermoso.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/la-gomera-que-ver/epina.webp" alt="Chorros de Epina en La Gomera" loading="lazy" decoding="async" /><span class="gcard__n">10</span></div><div class="gcard__body"><h3>Los Chorros de Epina</h3><p>Siete caños de agua en el bosque, con leyenda: dicen que beber de unos u otros trae suerte en el amor.</p></div></li>
 </ol>
 
 
@@ -76,10 +83,10 @@ Está a menos de una hora en ferry desde Tenerife, así que se puede ver incluso
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a La Gomera</h2></div>
 <div class="guide__howto"><p>En <strong>ferry</strong> desde el puerto de Los Cristianos, en el sur de Tenerife. Hay varias salidas al día.</p><p>Puedes llevar el coche en el ferry o alquilar uno en San Sebastián.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=La+Gomera" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> La Gomera en Google Maps</a></div></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz una ruta por Garajonay</b>: por ejemplo, la del Alto de Garajonay, el punto más alto de la isla.</li><li><b>Ve a Los Órganos en barco</b>: es la única forma de verlos; a veces se ven delfines.</li><li><b>Escucha el silbo</b>: en algunos restaurantes y actos hacen demostraciones.</li><li><b>Prueba el almogrote</b>: una pasta de queso curado con pimienta, típica de la isla.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>La Gomera en 2 días</h2><ul><li><b>Día 1 · Norte</b>: San Sebastián, Hermigua, Agulo, Vallehermoso y los Chorros de Epina.</li><li><b>Día 2 · Centro y oeste</b>: Roque de Agando, ruta por Garajonay y tarde en Valle Gran Rey (barco a Los Órganos).</li><li><b>Si solo tienes un día</b>: Garajonay, Agando, Agulo y un mirador sobre Valle Gran Rey.</li><li><b>Mi consejo</b>: las carreteras tienen muchas curvas: calcula el doble de tiempo.</li></ul></div>
 
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ARoque_de_Agando_04.jpg" target="_blank" rel="noopener">Llez</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ARoque_Agando%2C_Parque_nacional_de_Garajonay%2C_La_Gomera%2C_Espa%C3%B1a%2C_2012-12-14%2C_DD_01.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ALos_%C3%93rganos%2C_La_Gomera_XIV.jpg" target="_blank" rel="noopener">GerritR</a> (CC BY-SA 4.0).</p>
+<p class="guide__note">Información consultada en octubre de 2026. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ARoque_de_Agando_04.jpg" target="_blank" rel="noopener">Llez</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ARoque_Agando%2C_Parque_nacional_de_Garajonay%2C_La_Gomera%2C_Espa%C3%B1a%2C_2012-12-14%2C_DD_01.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ALos_%C3%93rganos%2C_La_Gomera_XIV.jpg" target="_blank" rel="noopener">GerritR</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AHermigua_-_La_Gomera.jpg" target="_blank" rel="noopener">LG Nyqvist</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACamino_natural_de_las_costas_de_la_gomera3_258.jpg" target="_blank" rel="noopener">DivulgacionCCNN</a> (CC BY-SA 4.0).</p>

@@ -63,8 +63,30 @@ def aff(u):
     return u, ""
 
 
+def hub_cards(slug):
+    """Fichas (gcard) de un post-guía de isla/zona: [(img, nombre, texto, slug_enlazado)]."""
+    f = ROOT / "content" / "blog" / f"{slug}.md"
+    if not f.exists():
+        return []
+    out = []
+    for m in re.finditer(r'<li class="gcard[^"]*"><div class="gcard__media"><img src="([^"]+)"[^>]*/>.*?<h3>(.*?)</h3><p>(.*?)</p></div></li>', f.read_text(), re.S):
+        img, name, txt = m.groups()
+        link = re.search(r'href="/blog/([a-z0-9-]+)\.html"', txt)
+        txt = re.sub(r"\s*<a [^>]*>.*?</a>\.?", "", txt)
+        out.append((img, re.sub(r"<[^>]+>", "", name), re.sub(r"<[^>]+>", "", txt).strip(), link.group(1) if link else slug))
+    return out
+
+
 def places_of(z, posts):
-    return [s for s in z["lugares"] if s in posts]
+    """Todos los posts que entran en la guía (en zonas por secciones: el post de cada isla, sus enlazados y los extra)."""
+    if "secciones" not in z:
+        return [s for s in z["lugares"] if s in posts]
+    seen = []
+    for sec in z["secciones"]:
+        for s in [sec["hub"]] + [c[3] for c in hub_cards(sec["hub"])] + sec.get("extra", []):
+            if s in posts and s not in seen:
+                seen.append(s)
+    return seen
 
 
 def fingerprint(key, posts):
@@ -74,6 +96,10 @@ def fingerprint(key, posts):
     h.update(json.dumps(z, sort_keys=True, ensure_ascii=False).encode())
     h.update((HERE / "guia.css").read_bytes())
     h.update(pathlib.Path(__file__).read_bytes())
+    for sec in z.get("secciones", []):
+        f = ROOT / "content" / "blog" / f"{sec['hub']}.md"
+        if f.exists():
+            h.update(f.read_bytes())
     for s in places_of(z, posts) + [z["portada"]]:
         p = posts.get(s)
         if not p:
@@ -88,13 +114,13 @@ def fingerprint(key, posts):
 def build(key, posts, tmp):
     z = ZONAS[key]
 
-    def jpg(path, width=640):
+    def jpg(path, width=460):
         src = img_file(path)
         if not src:
             return path
         out = tmp / (re.sub(r"[^\w-]", "_", path.strip("/")) + f"_{width}.jpg")
         if not out.exists():
-            subprocess.run(["sips", "-Z", str(width), "-s", "format", "jpeg", "-s", "formatOptions", "72", str(src), "--out", str(out)], capture_output=True)
+            subprocess.run(["sips", "-Z", str(width), "-s", "format", "jpeg", "-s", "formatOptions", "62", str(src), "--out", str(out)], capture_output=True)
         return out.as_uri()
 
     def card(i, slug):
@@ -107,9 +133,29 @@ def build(key, posts, tmp):
                 f'<p class="gcard__links"><a class="gbtn gbtn--reel" href="https://www.chenoaventuras.com/blog/{slug}.html">Leer más</a>'
                 f'<a class="gbtn" href="https://www.google.com/maps/search/?api=1&query={q}">{PIN} Cómo llegar</a></p></div></li>')
 
+    def hcard(i, img, name, txt, link, where):
+        q = quote(f"{name}, {where}")
+        return (f'<li class="gcard"><div class="gcard__media"><img src="{jpg(img)}" alt="{e(name)}" /><span class="gcard__n">{i:02d}</span></div>'
+                f'<div class="gcard__body"><h3>{e(name)}</h3><p>{e(short(txt))}</p>'
+                f'<p class="gcard__links"><a class="gbtn gbtn--reel" href="https://www.chenoaventuras.com/blog/{link}.html">Leer más</a>'
+                f'<a class="gbtn" href="https://www.google.com/maps/search/?api=1&query={q}">{PIN} Cómo llegar</a></p></div></li>')
+
     places = places_of(z, posts)
+    if "secciones" in z:
+        blocks = []
+        for sec in z["secciones"]:
+            hc = hub_cards(sec["hub"])
+            linked = {c[3] for c in hc}
+            items = [hcard(i + 1, *c, sec["t"]) for i, c in enumerate(hc)]
+            for s in sec.get("extra", []):
+                if s in posts and s not in linked:
+                    items.append(card(len(items) + 1, s))
+            blocks.append(f'<div class="isla"><div class="guide__head"><span class="eyebrow">{e(sec.get("eyebrow", "Isla"))}</span><h2>{e(sec["t"])}</h2>'
+                          f'<p>{md(sec.get("txt", ""))}</p></div><ol class="guide__grid">{"".join(items)}</ol></div>')
+        cards_html = "".join(blocks)
+    else:
+        cards_html = '<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>' + e(z.get("titulo_lugares", "Los imprescindibles")) + '</h2></div><ol class="guide__grid">' + "".join(card(i + 1, s) for i, s in enumerate(places)) + "</ol>"
     tips = "".join(f'<div class="guide__tip"><h3>{t}</h3><p>{md(d)}</p></div>' for t, d in z["tips"])
-    cards = "".join(card(i + 1, s) for i, s in enumerate(places))
     # actividades por turnos: la mejor de cada lugar, luego las segundas… (máx. 6)
     acts, seen = [], set()
     for rnd in range(3):
@@ -139,6 +185,9 @@ def build(key, posts, tmp):
 <style>{(HERE / 'guia.css').read_text()}
 .cover img {{ object-position: {z.get('pos', 'center 45%')}; }}
 .cover h1 {{ font-size: {z.get('h1', '4.6rem')}; }}
+.isla {{ margin-top: 18px; }}
+.isla + .isla {{ break-before: page; }}
+.article__body .isla .guide__head p {{ font-size: .85rem; color: var(--ink-soft); }}
 </style></head>
 <body>
 <section class="cover">
@@ -151,8 +200,7 @@ def build(key, posts, tmp):
   <div class="intro-box">{intro}</div>
   <div class="guide__head"><span class="eyebrow">Para organizarte</span><h2>Lo básico</h2></div>
   <div class="guide__tips">{tips}</div>
-  <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>{e(z.get('titulo_lugares', 'Los imprescindibles'))}</h2></div>
-  <ol class="guide__grid">{cards}</ol>
+  {cards_html}
   {act_html}
   {plan}
   <div class="end"><h2>¿Te ha servido?</h2><p>Cada lugar tiene su post completo en <a href="https://www.chenoaventuras.com/blog.html">chenoaventuras.com</a>, y en Instagram <a href="https://www.instagram.com/chenoaventuras/">@chenoaventuras</a> te lo enseño en vídeo.</p></div>
