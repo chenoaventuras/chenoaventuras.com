@@ -2024,10 +2024,7 @@ p { margin: 0 0 1em; }
 @media (min-width: 861px) {
   .esc { grid-template-columns: 1fr 1fr; }
   .esc__stage { order: -1; }
-  /* La foto ocupa toda la caja y se funde poco a poco con el azul bajo el formulario. */
-  .dibujos { right: -100%; -webkit-mask: linear-gradient(to right, #000 0%, #000 34%, rgba(0,0,0,.85) 40%, rgba(0,0,0,.6) 46%, rgba(0,0,0,.35) 52%, rgba(0,0,0,.15) 58%, rgba(0,0,0,.04) 64%, transparent 70%); mask: linear-gradient(to right, #000 0%, #000 34%, rgba(0,0,0,.85) 40%, rgba(0,0,0,.6) 46%, rgba(0,0,0,.35) 52%, rgba(0,0,0,.15) 58%, rgba(0,0,0,.04) 64%, transparent 70%); }
-  .dibujos::after { background: linear-gradient(180deg, rgba(39,76,120,.35), rgba(39,76,120,0) 45%); }
-  .dibujos__name { right: auto; left: 16px; }
+  .dibujos { -webkit-mask: linear-gradient(to left, transparent, #000 30%); mask: linear-gradient(to left, transparent, #000 30%); }
 }
 @media (max-width: 860px) {
   .esc { grid-template-columns: 1fr; }
