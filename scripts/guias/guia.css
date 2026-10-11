@@ -169,7 +169,7 @@ body { font-size: 14px; }
 .gcard__price { font-size: .62rem; } .gcard__age { font-size: .6rem; }
 .article__body .gcard__links { margin-top: auto !important; padding-top: .5em; gap: 5px; display: flex; flex-wrap: wrap; }
 .article__body a.gbtn { font-size: .6rem; padding: .4em .7em; display: inline-flex; align-items: center; gap: 3px; }
-.acts { margin-top: 22px; }
+.acts { margin-top: 22px; break-inside: avoid; }
 .article__body .acts__list { padding: 0 !important; margin: 0 !important; }
 .article__body .acts__list li { break-inside: avoid; margin: 0; padding: 0; }
 .article__body .acts__list li::before { display: none; }

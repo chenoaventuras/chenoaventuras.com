@@ -1,190 +1,721 @@
 {
-  "acueducto-de-segovia": ["Acueducto de Segovia", "Segovia"],
-  "aguilar-de-campoo-que-ver": ["Aguilar de Campoo"],
-  "ainsa-que-ver": ["Aínsa"],
-  "albarracin-que-ver": ["Albarracín"],
-  "alcala-del-jucar": ["Alcalá del Júcar"],
-  "altea-que-ver-costa-blanca": ["Altea"],
-  "amantes-de-teruel": ["Amantes de Teruel", "Teruel"],
-  "american-star-fuerteventura": ["American Star"],
-  "aranjuez-que-ver": ["Aranjuez"],
-  "arco-de-tajao-tenerife": ["Arco de Tajao"],
-  "astorga-que-ver": ["Astorga"],
-  "avistamiento-de-buitres-sierra-de-guara": ["Sierra de Guara"],
-  "balneario-de-panticosa": ["Balneario de Panticosa"],
-  "barco-telamon-lanzarote": ["Telamon"],
-  "bardenas-reales": ["Bardenas Reales", "Bardenas"],
-  "barranco-del-infierno-tenerife": ["Barranco del Infierno"],
-  "bateria-castillitos-cartagena": ["Batería de Castillitos", "Castillitos"],
-  "beatles-las-ventas": ["Las Ventas"],
-  "belchite-pueblo-viejo": ["Belchite"],
-  "belmonte-castillo": ["Castillo de Belmonte", "Belmonte"],
-  "benidorm-rascacielos": ["Benidorm"],
-  "besalu-que-ver": ["Besalú"],
-  "bosque-de-oma": ["Bosque de Oma"],
-  "bosque-de-secuoyas-cabezon-de-la-sal": ["Bosque de secuoyas", "bosque de secuoyas", "Cabezón de la Sal"],
-  "buitrago-del-lozoya-que-ver": ["Buitrago del Lozoya", "Buitrago"],
-  "bunkers-del-carmel": ["Búnkers del Carmel", "búnkers del Carmel"],
-  "burgo-de-osma-que-ver": ["El Burgo de Osma", "Burgo de Osma"],
-  "cabo-de-creus": ["Cabo de Creus", "Cap de Creus"],
-  "cabo-de-gata-que-ver": ["Cabo de Gata"],
-  "calamocha-pueblo-mas-frio": ["Calamocha"],
-  "caminito-del-rey": ["Caminito del Rey"],
-  "canon-del-rio-lobos": ["Cañón del Río Lobos", "Cañón del río Lobos"],
-  "canon-del-sil": ["Cañón del Sil", "cañones del Sil", "Ribeira Sacra"],
-  "capilla-sixtina-madrilena-san-antonio-alemanes": ["San Antonio de los Alemanes"],
-  "caravaca-de-la-cruz": ["Caravaca de la Cruz", "Caravaca"],
-  "casa-dali-portlligat": ["Portlligat"],
-  "casa-museo-raton-perez": ["Ratón Pérez"],
-  "cascada-del-sorrosal-broto": ["Cascada del Sorrosal", "cascada del Sorrosal", "Sorrosal"],
-  "cascadas-de-ouzoud": ["Ouzoud"],
-  "castillo-de-butron": ["Castillo de Butrón", "castillo de Butrón", "Butrón"],
-  "castillo-de-colomares": ["Castillo de Colomares", "Colomares"],
-  "castillo-de-loarre": ["Castillo de Loarre", "castillo de Loarre", "Loarre"],
-  "catedral-de-justo": ["Catedral de Justo", "catedral de Justo"],
-  "catedral-de-sevilla": ["Catedral de Sevilla", "catedral de Sevilla", "Giralda"],
-  "ceuta-que-ver": ["Ceuta"],
-  "charco-verde-tobogan-rio-pelayo": ["Charco Verde", "Río Pelayo"],
-  "chinchon-castillo-de-noche": ["Chinchón"],
-  "chorrera-de-los-litueros": ["Chorrera de los Litueros", "Litueros"],
-  "ciudad-encantada-cuenca": ["Ciudad Encantada"],
-  "ciudad-rodrigo-que-ver": ["Ciudad Rodrigo"],
-  "comillas-que-ver": ["Comillas", "Capricho de Gaudí"],
-  "condado-de-trevino": ["Condado de Treviño", "Treviño"],
-  "congost-de-mont-rebei": ["Mont-rebei", "Montrebei"],
-  "consuegra-molinos": ["Consuegra"],
-  "cudillero-que-ver": ["Cudillero"],
-  "cueva-de-hercules-toledo": ["Cueva de Hércules"],
-  "cueva-de-salamanca": ["Cueva de Salamanca"],
-  "cueva-del-puerto-calasparra": ["Cueva del Puerto"],
-  "cuevas-de-san-jose-vall-duixo": ["Cuevas de San José", "cuevas de San José", "Vall d'Uixó"],
-  "cuzcurrita-rio-tiron-que-ver": ["Cuzcurrita"],
-  "desierto-de-tabernas": ["Desierto de Tabernas", "desierto de Tabernas", "Tabernas"],
-  "drago-milenario-icod": ["Drago Milenario", "Icod de los Vinos"],
-  "estacion-de-canfranc": ["Estación de Canfranc", "estación de Canfranc", "Canfranc"],
-  "faro-de-chipiona": ["Faro de Chipiona", "faro de Chipiona", "Chipiona"],
-  "fervenza-do-ezaro": ["Fervenza do Ézaro", "Ézaro"],
-  "fresnedillas-apolo-11": ["Fresnedillas"],
-  "frigiliana-que-ver": ["Frigiliana"],
-  "fuente-de-los-banos-montanejos": ["Montanejos"],
-  "fuente-del-gorgoton-cieza": ["Gorgotón"],
-  "fuente-del-vino-irache": ["Irache"],
-  "geoda-de-pulpi": ["Geoda de Pulpí", "Pulpí"],
-  "granadilla-pueblo-abandonado": ["Granadilla"],
-  "grazalema": ["Grazalema"],
-  "gruta-de-las-maravillas-aracena": ["Gruta de las Maravillas", "Aracena"],
-  "guadalest-que-ver": ["Guadalest"],
-  "guadalix-mister-marshall": ["Guadalix de la Sierra", "Mister Marshall"],
-  "guia-cuenca": ["Cuenca"],
-  "guia-monte-igueldo": ["Monte Igueldo", "Igueldo"],
-  "haro-que-ver": ["Haro"],
-  "hayedo-de-montejo": ["Hayedo de Montejo"],
-  "hervas-que-ver": ["Hervás"],
-  "hoces-del-duraton": ["Hoces del Duratón", "Duratón"],
-  "hondarribia-que-ver": ["Hondarribia"],
-  "horreo-de-carnota": ["Hórreo de Carnota", "Carnota"],
-  "hotel-formentor": ["Hotel Formentor", "Formentor"],
-  "ibon-de-anayet": ["Ibón de Anayet", "ibón de Anayet", "Anayet"],
-  "illan-de-vacas": ["Illán de Vacas"],
-  "isla-de-los-faisanes": ["Isla de los Faisanes", "isla de los Faisanes"],
-  "isla-de-tabarca": ["Isla de Tabarca", "isla de Tabarca", "Tabarca"],
-  "islas-cies": ["Islas Cíes", "islas Cíes", "Cíes"],
-  "jameos-del-agua-cueva-de-los-verdes": ["Jameos del Agua", "Cueva de los Verdes"],
-  "juzcar-pueblo-pitufo": ["Júzcar"],
-  "laberinto-de-villapresente": ["Villapresente"],
-  "lago-martianez-puerto-de-la-cruz": ["Lago Martiánez", "Martiánez"],
-  "laguardia-que-ver": ["Laguardia"],
-  "laguna-de-una-cuenca": ["Laguna de Uña", "laguna de Uña"],
-  "laguna-negra-de-urbion": ["Laguna Negra"],
-  "laguna-rosa-torrevieja": ["Laguna Rosa", "laguna Rosa", "laguna rosa"],
-  "lagunas-de-ruidera": ["Lagunas de Ruidera", "lagunas de Ruidera", "Ruidera"],
-  "lanuza-pueblo-embalse-huesca": ["Lanuza"],
-  "las-medulas": ["Las Médulas"],
-  "llivia": ["Llívia"],
-  "los-cahorros-de-monachil": ["Cahorros de Monachil", "Cahorros"],
-  "los-pilones-jerte": ["Los Pilones", "Garganta de los Infiernos"],
-  "madrid-fantasmas-leyendas": ["Palacio de Linares"],
-  "medina-azahara": ["Medina Azahara"],
-  "medinaceli-que-ver": ["Medinaceli"],
-  "medusa-huevo-frito": ["medusa huevo frito", "Medusa huevo frito"],
-  "melilla-que-ver": ["Melilla"],
-  "mercado-cervantino-alcala-de-henares": ["Mercado Cervantino", "Alcalá de Henares"],
-  "mercado-pescado-essaouira": ["Essaouira"],
-  "merindades-burgos-que-ver": ["Las Merindades", "las Merindades"],
-  "mezquita-de-cordoba": ["Mezquita de Córdoba", "Mezquita-Catedral"],
-  "mirador-de-chipeque-tenerife": ["Chipeque"],
-  "mirador-ventano-del-diablo": ["Ventano del Diablo"],
-  "miravet": ["Miravet"],
-  "monasterio-de-piedra": ["Monasterio de Piedra"],
-  "monasterio-de-yuste": ["Monasterio de Yuste", "monasterio de Yuste", "Yuste"],
-  "montblanc-que-ver": ["Montblanc"],
-  "montserrat": ["Montserrat"],
-  "nacimiento-rio-cuervo": ["Nacimiento del río Cuervo", "nacimiento del río Cuervo", "río Cuervo"],
-  "naufragio-del-sirio": ["Sirio"],
-  "ochate-pueblo-maldito": ["Ochate"],
-  "olivenza-que-ver": ["Olivenza"],
-  "orbaneja-del-castillo": ["Orbaneja del Castillo", "Orbaneja"],
-  "os-de-civis": ["Os de Civís"],
-  "palomares-bombas": ["Palomares"],
-  "partenon-de-las-fraguas-cantabria": ["Las Fraguas"],
-  "pasarelas-de-alquezar": ["Alquézar"],
-  "pasarelas-de-panticosa": ["Pasarelas de Panticosa", "pasarelas de Panticosa"],
-  "pedraza-que-ver": ["Pedraza"],
-  "peniscola-que-ver": ["Peñíscola"],
-  "penon-de-velez-de-la-gomera": ["Peñón de Vélez de la Gomera"],
-  "piedra-del-rey-moro-toledo": ["Piedra del Rey Moro"],
-  "piramides-de-guimar": ["Pirámides de Güímar", "pirámides de Güímar", "Güímar"],
-  "pirineo-aragones-que-ver": ["Pirineo aragonés", "Pirineo Aragonés"],
-  "playa-de-gulpiyuri": ["Gulpiyuri"],
-  "playa-de-las-catedrales": ["Playa de las Catedrales", "playa de las Catedrales", "playa de Las Catedrales"],
-  "plaza-de-espana-sevilla": ["Plaza de España de Sevilla"],
-  "portomarin": ["Portomarín"],
-  "puebla-de-sanabria": ["Puebla de Sanabria", "Lago de Sanabria", "lago de Sanabria"],
-  "puente-de-vizcaya": ["Puente de Vizcaya", "puente de Vizcaya"],
-  "puerto-de-la-puebla-sierra-del-rincon": ["Sierra del Rincón", "Puerto de la Puebla"],
-  "punta-de-tarifa": ["Punta de Tarifa", "Tarifa"],
-  "puy-du-fou-toledo": ["Puy du Fou"],
-  "que-hacer-en-la-palma": ["La Palma"],
-  "que-ver-en-matarrana": ["Matarraña", "Valderrobres"],
-  "rafting-canon-de-almadenes": ["Cañón de Almadenes", "cañón de Almadenes", "Almadenes"],
-  "rihonor-de-castilla": ["Rihonor"],
-  "rio-tinto": ["Río Tinto", "Riotinto"],
-  "ronda-que-ver": ["Ronda"],
-  "roque-nublo": ["Roque Nublo"],
-  "ruta-cola-de-caballo-ordesa": ["Cola de Caballo"],
-  "ruta-del-cares": ["Ruta del Cares", "ruta del Cares"],
-  "ruta-rio-borosa": ["Río Borosa", "río Borosa"],
-  "sagrada-familia": ["Sagrada Familia"],
-  "salto-del-nervion": ["Salto del Nervión"],
-  "san-juan-de-gaztelugatxe": ["San Juan de Gaztelugatxe", "Gaztelugatxe"],
-  "san-juan-de-la-pena": ["San Juan de la Peña"],
-  "sant-roma-de-sau": ["Sant Romà de Sau"],
-  "santillana-del-mar-que-ver": ["Santillana del Mar"],
-  "selva-de-irati": ["Selva de Irati", "selva de Irati"],
-  "senda-de-los-cazadores-ordesa": ["Senda de los Cazadores", "Calcilarruego"],
-  "setenil-de-las-bodegas-que-ver": ["Setenil de las Bodegas", "Setenil"],
-  "sierra-de-gredos": ["Laguna Grande de Gredos", "Sierra de Gredos"],
-  "siguenza-que-ver": ["Sigüenza"],
-  "snorkel-cabo-de-palos": ["Islas Hormigas", "Cabo de Palos"],
-  "sobrino-de-botin": ["Sobrino de Botín", "Botín"],
-  "soller-que-ver": ["Sóller"],
-  "submarino-peral": ["Submarino Peral", "submarino Peral"],
-  "teide": ["Teide"],
-  "teleferico-fuente-de": ["Fuente Dé"],
-  "templo-budista-panillo": ["Panillo"],
-  "templo-de-debod": ["Templo de Debod"],
-  "territorio-artlanza-burgos": ["Artlanza"],
-  "tirolina-cuenca": ["tirolina de Cuenca", "Tirolina de Cuenca"],
-  "torre-de-cristal-madrid": ["Torre de Cristal"],
-  "torre-de-hercules": ["Torre de Hércules"],
-  "tossa-de-mar-ava-gardner": ["Tossa de Mar"],
-  "trasmoz-pueblo-maldito": ["Trasmoz"],
-  "uruena-que-ver": ["Urueña"],
-  "valle-de-aran": ["Valle de Arán", "Val d'Aran"],
-  "via-ferrata-ventano-del-diablo": ["vía ferrata del Ventano del Diablo", "Vía Ferrata del Ventano del Diablo"],
-  "volcan-tajogaite-la-palma": ["Tajogaite"],
-  "vuelo-globo-marrakech": ["globo sobre Marrakech", "globo en Marrakech"],
-  "vuelo-en-globo-segovia": ["globo sobre Segovia", "globo en Segovia"],
-  "xativa-que-ver": ["Xàtiva"],
-  "zumaia-juego-de-tronos": ["Zumaia"]
+  "acueducto-de-segovia": [
+    "Acueducto de Segovia",
+    "Segovia"
+  ],
+  "aguilar-de-campoo-que-ver": [
+    "Aguilar de Campoo"
+  ],
+  "ainsa-que-ver": [
+    "Aínsa"
+  ],
+  "albarracin-que-ver": [
+    "Albarracín"
+  ],
+  "alcala-del-jucar": [
+    "Alcalá del Júcar"
+  ],
+  "altea-que-ver-costa-blanca": [
+    "Altea"
+  ],
+  "amantes-de-teruel": [
+    "Amantes de Teruel",
+    "Teruel"
+  ],
+  "american-star-fuerteventura": [
+    "American Star"
+  ],
+  "aranjuez-que-ver": [
+    "Aranjuez"
+  ],
+  "arco-de-tajao-tenerife": [
+    "Arco de Tajao"
+  ],
+  "astorga-que-ver": [
+    "Astorga"
+  ],
+  "avistamiento-de-buitres-sierra-de-guara": [
+    "Sierra de Guara"
+  ],
+  "balneario-de-panticosa": [
+    "Balneario de Panticosa"
+  ],
+  "barco-telamon-lanzarote": [
+    "Telamon"
+  ],
+  "bardenas-reales": [
+    "Bardenas Reales",
+    "Bardenas"
+  ],
+  "barranco-del-infierno-tenerife": [
+    "Barranco del Infierno"
+  ],
+  "bateria-castillitos-cartagena": [
+    "Batería de Castillitos",
+    "Castillitos"
+  ],
+  "beatles-las-ventas": [
+    "Las Ventas"
+  ],
+  "belchite-pueblo-viejo": [
+    "Belchite"
+  ],
+  "belmonte-castillo": [
+    "Castillo de Belmonte",
+    "Belmonte"
+  ],
+  "benidorm-rascacielos": [
+    "Benidorm"
+  ],
+  "besalu-que-ver": [
+    "Besalú"
+  ],
+  "bosque-de-oma": [
+    "Bosque de Oma"
+  ],
+  "bosque-de-secuoyas-cabezon-de-la-sal": [
+    "Bosque de secuoyas",
+    "bosque de secuoyas",
+    "Cabezón de la Sal"
+  ],
+  "buitrago-del-lozoya-que-ver": [
+    "Buitrago del Lozoya",
+    "Buitrago"
+  ],
+  "bunkers-del-carmel": [
+    "Búnkers del Carmel",
+    "búnkers del Carmel"
+  ],
+  "burgo-de-osma-que-ver": [
+    "El Burgo de Osma",
+    "Burgo de Osma"
+  ],
+  "cabo-de-creus": [
+    "Cabo de Creus",
+    "Cap de Creus"
+  ],
+  "cabo-de-gata-que-ver": [
+    "Cabo de Gata"
+  ],
+  "calamocha-pueblo-mas-frio": [
+    "Calamocha"
+  ],
+  "caminito-del-rey": [
+    "Caminito del Rey"
+  ],
+  "canon-del-rio-lobos": [
+    "Cañón del Río Lobos",
+    "Cañón del río Lobos"
+  ],
+  "canon-del-sil": [
+    "Cañón del Sil",
+    "cañones del Sil",
+    "Ribeira Sacra"
+  ],
+  "capilla-sixtina-madrilena-san-antonio-alemanes": [
+    "San Antonio de los Alemanes"
+  ],
+  "caravaca-de-la-cruz": [
+    "Caravaca de la Cruz",
+    "Caravaca"
+  ],
+  "casa-dali-portlligat": [
+    "Portlligat"
+  ],
+  "casa-museo-raton-perez": [
+    "Ratón Pérez"
+  ],
+  "cascada-del-sorrosal-broto": [
+    "Cascada del Sorrosal",
+    "cascada del Sorrosal",
+    "Sorrosal"
+  ],
+  "cascadas-de-ouzoud": [
+    "Ouzoud"
+  ],
+  "castillo-de-butron": [
+    "Castillo de Butrón",
+    "castillo de Butrón",
+    "Butrón"
+  ],
+  "castillo-de-colomares": [
+    "Castillo de Colomares",
+    "Colomares"
+  ],
+  "castillo-de-loarre": [
+    "Castillo de Loarre",
+    "castillo de Loarre",
+    "Loarre"
+  ],
+  "catedral-de-justo": [
+    "Catedral de Justo",
+    "catedral de Justo"
+  ],
+  "catedral-de-sevilla": [
+    "Catedral de Sevilla",
+    "catedral de Sevilla",
+    "Giralda"
+  ],
+  "ceuta-que-ver": [
+    "Ceuta"
+  ],
+  "charco-verde-tobogan-rio-pelayo": [
+    "Charco Verde",
+    "Río Pelayo"
+  ],
+  "chinchon-castillo-de-noche": [
+    "Chinchón"
+  ],
+  "chorrera-de-los-litueros": [
+    "Chorrera de los Litueros",
+    "Litueros"
+  ],
+  "ciudad-encantada-cuenca": [
+    "Ciudad Encantada"
+  ],
+  "ciudad-rodrigo-que-ver": [
+    "Ciudad Rodrigo"
+  ],
+  "comillas-que-ver": [
+    "Comillas",
+    "Capricho de Gaudí"
+  ],
+  "condado-de-trevino": [
+    "Condado de Treviño",
+    "Treviño"
+  ],
+  "congost-de-mont-rebei": [
+    "Mont-rebei",
+    "Montrebei"
+  ],
+  "consuegra-molinos": [
+    "Consuegra"
+  ],
+  "cudillero-que-ver": [
+    "Cudillero"
+  ],
+  "cueva-de-hercules-toledo": [
+    "Cueva de Hércules"
+  ],
+  "cueva-de-salamanca": [
+    "Cueva de Salamanca"
+  ],
+  "cueva-del-puerto-calasparra": [
+    "Cueva del Puerto"
+  ],
+  "cuevas-de-san-jose-vall-duixo": [
+    "Cuevas de San José",
+    "cuevas de San José",
+    "Vall d'Uixó"
+  ],
+  "cuzcurrita-rio-tiron-que-ver": [
+    "Cuzcurrita"
+  ],
+  "desierto-de-tabernas": [
+    "Desierto de Tabernas",
+    "desierto de Tabernas",
+    "Tabernas"
+  ],
+  "drago-milenario-icod": [
+    "Drago Milenario",
+    "Icod de los Vinos"
+  ],
+  "estacion-de-canfranc": [
+    "Estación de Canfranc",
+    "estación de Canfranc",
+    "Canfranc"
+  ],
+  "faro-de-chipiona": [
+    "Faro de Chipiona",
+    "faro de Chipiona",
+    "Chipiona"
+  ],
+  "fervenza-do-ezaro": [
+    "Fervenza do Ézaro",
+    "Ézaro"
+  ],
+  "fresnedillas-apolo-11": [
+    "Fresnedillas"
+  ],
+  "frigiliana-que-ver": [
+    "Frigiliana"
+  ],
+  "fuente-de-los-banos-montanejos": [
+    "Montanejos"
+  ],
+  "fuente-del-gorgoton-cieza": [
+    "Gorgotón"
+  ],
+  "fuente-del-vino-irache": [
+    "Irache"
+  ],
+  "geoda-de-pulpi": [
+    "Geoda de Pulpí",
+    "Pulpí"
+  ],
+  "granadilla-pueblo-abandonado": [
+    "Granadilla"
+  ],
+  "grazalema": [
+    "Grazalema"
+  ],
+  "gruta-de-las-maravillas-aracena": [
+    "Gruta de las Maravillas",
+    "Aracena"
+  ],
+  "guadalest-que-ver": [
+    "Guadalest"
+  ],
+  "guadalix-mister-marshall": [
+    "Guadalix de la Sierra",
+    "Mister Marshall"
+  ],
+  "guia-cuenca": [
+    "Cuenca"
+  ],
+  "guia-monte-igueldo": [
+    "Monte Igueldo",
+    "Igueldo"
+  ],
+  "haro-que-ver": [
+    "Haro"
+  ],
+  "hayedo-de-montejo": [
+    "Hayedo de Montejo"
+  ],
+  "hervas-que-ver": [
+    "Hervás"
+  ],
+  "hoces-del-duraton": [
+    "Hoces del Duratón",
+    "Duratón"
+  ],
+  "hondarribia-que-ver": [
+    "Hondarribia"
+  ],
+  "horreo-de-carnota": [
+    "Hórreo de Carnota",
+    "Carnota"
+  ],
+  "hotel-formentor": [
+    "Hotel Formentor",
+    "Formentor"
+  ],
+  "ibon-de-anayet": [
+    "Ibón de Anayet",
+    "ibón de Anayet",
+    "Anayet"
+  ],
+  "illan-de-vacas": [
+    "Illán de Vacas"
+  ],
+  "isla-de-los-faisanes": [
+    "Isla de los Faisanes",
+    "isla de los Faisanes"
+  ],
+  "isla-de-tabarca": [
+    "Isla de Tabarca",
+    "isla de Tabarca",
+    "Tabarca"
+  ],
+  "islas-cies": [
+    "Islas Cíes",
+    "islas Cíes",
+    "Cíes"
+  ],
+  "jameos-del-agua-cueva-de-los-verdes": [
+    "Jameos del Agua",
+    "Cueva de los Verdes"
+  ],
+  "juzcar-pueblo-pitufo": [
+    "Júzcar"
+  ],
+  "laberinto-de-villapresente": [
+    "Villapresente"
+  ],
+  "lago-martianez-puerto-de-la-cruz": [
+    "Lago Martiánez",
+    "Martiánez"
+  ],
+  "laguardia-que-ver": [
+    "Laguardia"
+  ],
+  "laguna-de-una-cuenca": [
+    "Laguna de Uña",
+    "laguna de Uña"
+  ],
+  "laguna-negra-de-urbion": [
+    "Laguna Negra"
+  ],
+  "laguna-rosa-torrevieja": [
+    "Laguna Rosa",
+    "laguna Rosa",
+    "laguna rosa"
+  ],
+  "lagunas-de-ruidera": [
+    "Lagunas de Ruidera",
+    "lagunas de Ruidera",
+    "Ruidera"
+  ],
+  "lanuza-pueblo-embalse-huesca": [
+    "Lanuza"
+  ],
+  "las-medulas": [
+    "Las Médulas"
+  ],
+  "llivia": [
+    "Llívia"
+  ],
+  "los-cahorros-de-monachil": [
+    "Cahorros de Monachil",
+    "Cahorros"
+  ],
+  "los-pilones-jerte": [
+    "Los Pilones",
+    "Garganta de los Infiernos"
+  ],
+  "madrid-fantasmas-leyendas": [
+    "Palacio de Linares"
+  ],
+  "medina-azahara": [
+    "Medina Azahara"
+  ],
+  "medinaceli-que-ver": [
+    "Medinaceli"
+  ],
+  "medusa-huevo-frito": [
+    "medusa huevo frito",
+    "Medusa huevo frito"
+  ],
+  "melilla-que-ver": [
+    "Melilla"
+  ],
+  "mercado-cervantino-alcala-de-henares": [
+    "Mercado Cervantino",
+    "Alcalá de Henares"
+  ],
+  "mercado-pescado-essaouira": [
+    "Essaouira"
+  ],
+  "merindades-burgos-que-ver": [
+    "Las Merindades",
+    "las Merindades"
+  ],
+  "mezquita-de-cordoba": [
+    "Mezquita de Córdoba",
+    "Mezquita-Catedral"
+  ],
+  "mirador-de-chipeque-tenerife": [
+    "Chipeque"
+  ],
+  "mirador-ventano-del-diablo": [
+    "Ventano del Diablo"
+  ],
+  "miravet": [
+    "Miravet"
+  ],
+  "monasterio-de-piedra": [
+    "Monasterio de Piedra"
+  ],
+  "monasterio-de-yuste": [
+    "Monasterio de Yuste",
+    "monasterio de Yuste",
+    "Yuste"
+  ],
+  "montblanc-que-ver": [
+    "Montblanc"
+  ],
+  "montserrat": [
+    "Montserrat"
+  ],
+  "nacimiento-rio-cuervo": [
+    "Nacimiento del río Cuervo",
+    "nacimiento del río Cuervo",
+    "río Cuervo"
+  ],
+  "naufragio-del-sirio": [
+    "Sirio"
+  ],
+  "ochate-pueblo-maldito": [
+    "Ochate"
+  ],
+  "olivenza-que-ver": [
+    "Olivenza"
+  ],
+  "orbaneja-del-castillo": [
+    "Orbaneja del Castillo",
+    "Orbaneja"
+  ],
+  "os-de-civis": [
+    "Os de Civís"
+  ],
+  "palomares-bombas": [
+    "Palomares"
+  ],
+  "partenon-de-las-fraguas-cantabria": [
+    "Las Fraguas"
+  ],
+  "pasarelas-de-alquezar": [
+    "Alquézar"
+  ],
+  "pasarelas-de-panticosa": [
+    "Pasarelas de Panticosa",
+    "pasarelas de Panticosa"
+  ],
+  "pedraza-que-ver": [
+    "Pedraza"
+  ],
+  "peniscola-que-ver": [
+    "Peñíscola"
+  ],
+  "penon-de-velez-de-la-gomera": [
+    "Peñón de Vélez de la Gomera"
+  ],
+  "piedra-del-rey-moro-toledo": [
+    "Piedra del Rey Moro"
+  ],
+  "piramides-de-guimar": [
+    "Pirámides de Güímar",
+    "pirámides de Güímar",
+    "Güímar"
+  ],
+  "pirineo-aragones-que-ver": [
+    "Pirineo aragonés",
+    "Pirineo Aragonés"
+  ],
+  "playa-de-gulpiyuri": [
+    "Gulpiyuri"
+  ],
+  "playa-de-las-catedrales": [
+    "Playa de las Catedrales",
+    "playa de las Catedrales",
+    "playa de Las Catedrales"
+  ],
+  "plaza-de-espana-sevilla": [
+    "Plaza de España de Sevilla"
+  ],
+  "portomarin": [
+    "Portomarín"
+  ],
+  "puebla-de-sanabria": [
+    "Puebla de Sanabria",
+    "Lago de Sanabria",
+    "lago de Sanabria"
+  ],
+  "puente-de-vizcaya": [
+    "Puente de Vizcaya",
+    "puente de Vizcaya"
+  ],
+  "puerto-de-la-puebla-sierra-del-rincon": [
+    "Sierra del Rincón",
+    "Puerto de la Puebla"
+  ],
+  "punta-de-tarifa": [
+    "Punta de Tarifa",
+    "Tarifa"
+  ],
+  "puy-du-fou-toledo": [
+    "Puy du Fou"
+  ],
+  "que-hacer-en-la-palma": [
+    "La Palma"
+  ],
+  "que-ver-en-matarrana": [
+    "Matarraña",
+    "Valderrobres"
+  ],
+  "rafting-canon-de-almadenes": [
+    "Cañón de Almadenes",
+    "cañón de Almadenes",
+    "Almadenes"
+  ],
+  "rihonor-de-castilla": [
+    "Rihonor"
+  ],
+  "rio-tinto": [
+    "Río Tinto",
+    "Riotinto"
+  ],
+  "ronda-que-ver": [
+    "Ronda"
+  ],
+  "roque-nublo": [
+    "Roque Nublo"
+  ],
+  "ruta-cola-de-caballo-ordesa": [
+    "Cola de Caballo"
+  ],
+  "ruta-del-cares": [
+    "Ruta del Cares",
+    "ruta del Cares"
+  ],
+  "ruta-rio-borosa": [
+    "Río Borosa",
+    "río Borosa"
+  ],
+  "sagrada-familia": [
+    "Sagrada Familia"
+  ],
+  "salto-del-nervion": [
+    "Salto del Nervión"
+  ],
+  "san-juan-de-gaztelugatxe": [
+    "San Juan de Gaztelugatxe",
+    "Gaztelugatxe"
+  ],
+  "san-juan-de-la-pena": [
+    "San Juan de la Peña"
+  ],
+  "sant-roma-de-sau": [
+    "Sant Romà de Sau"
+  ],
+  "santillana-del-mar-que-ver": [
+    "Santillana del Mar"
+  ],
+  "selva-de-irati": [
+    "Selva de Irati",
+    "selva de Irati"
+  ],
+  "senda-de-los-cazadores-ordesa": [
+    "Senda de los Cazadores",
+    "Calcilarruego"
+  ],
+  "setenil-de-las-bodegas-que-ver": [
+    "Setenil de las Bodegas",
+    "Setenil"
+  ],
+  "sierra-de-gredos": [
+    "Laguna Grande de Gredos",
+    "Sierra de Gredos"
+  ],
+  "siguenza-que-ver": [
+    "Sigüenza"
+  ],
+  "snorkel-cabo-de-palos": [
+    "Islas Hormigas",
+    "Cabo de Palos"
+  ],
+  "sobrino-de-botin": [
+    "Sobrino de Botín",
+    "Botín"
+  ],
+  "soller-que-ver": [
+    "Sóller"
+  ],
+  "submarino-peral": [
+    "Submarino Peral",
+    "submarino Peral"
+  ],
+  "teide": [
+    "Teide"
+  ],
+  "teleferico-fuente-de": [
+    "Fuente Dé"
+  ],
+  "templo-budista-panillo": [
+    "Panillo"
+  ],
+  "templo-de-debod": [
+    "Templo de Debod"
+  ],
+  "territorio-artlanza-burgos": [
+    "Artlanza"
+  ],
+  "tirolina-cuenca": [
+    "tirolina de Cuenca",
+    "Tirolina de Cuenca"
+  ],
+  "torre-de-cristal-madrid": [
+    "Torre de Cristal"
+  ],
+  "torre-de-hercules": [
+    "Torre de Hércules"
+  ],
+  "tossa-de-mar-ava-gardner": [
+    "Tossa de Mar"
+  ],
+  "trasmoz-pueblo-maldito": [
+    "Trasmoz"
+  ],
+  "uruena-que-ver": [
+    "Urueña"
+  ],
+  "valle-de-aran": [
+    "Valle de Arán",
+    "Val d'Aran"
+  ],
+  "via-ferrata-ventano-del-diablo": [
+    "vía ferrata del Ventano del Diablo",
+    "Vía Ferrata del Ventano del Diablo"
+  ],
+  "volcan-tajogaite-la-palma": [
+    "Tajogaite"
+  ],
+  "vuelo-globo-marrakech": [
+    "globo sobre Marrakech",
+    "globo en Marrakech"
+  ],
+  "vuelo-en-globo-segovia": [
+    "globo sobre Segovia",
+    "globo en Segovia"
+  ],
+  "xativa-que-ver": [
+    "Xàtiva"
+  ],
+  "zumaia-juego-de-tronos": [
+    "Zumaia"
+  ],
+  "caceres-que-ver": [
+    "Ciudad Monumental de Cáceres",
+    "Cáceres"
+  ],
+  "trujillo-que-ver": [
+    "Trujillo"
+  ],
+  "merida-que-ver": [
+    "Mérida"
+  ],
+  "monfrague": [
+    "Monfragüe"
+  ],
+  "guadalupe-que-ver": [
+    "Monasterio de Guadalupe",
+    "Guadalupe"
+  ],
+  "meandro-del-melero": [
+    "Meandro del Melero"
+  ],
+  "los-barruecos": [
+    "Los Barruecos"
+  ],
+  "el-hierro-que-ver": [
+    "El Hierro"
+  ],
+  "la-gomera-que-ver": [
+    "La Gomera",
+    "Garajonay"
+  ],
+  "la-graciosa": [
+    "La Graciosa"
+  ],
+  "timanfaya": [
+    "Timanfaya",
+    "Montañas del Fuego"
+  ],
+  "isla-de-lobos-dunas-corralejo": [
+    "Isla de Lobos",
+    "isla de Lobos",
+    "Dunas de Corralejo",
+    "Corralejo"
+  ],
+  "dunas-de-maspalomas": [
+    "Dunas de Maspalomas",
+    "Maspalomas"
+  ],
+  "menorca-calas": [
+    "Menorca"
+  ],
+  "formentera-que-ver": [
+    "Formentera"
+  ]
 }
