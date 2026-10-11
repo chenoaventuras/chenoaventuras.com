@@ -870,3 +870,40 @@
   window.addEventListener("scroll", onScroll, { passive: true });
   onScroll();
 })();
+
+/* ---------- Portada: últimos posts del blog ----------
+   Lee assets/data/ultimos-posts.json (lo genera scripts/build-blog.mjs en cada despliegue). */
+(function () {
+  var wrap = document.querySelector("[data-blog-latest]");
+  if (!wrap) return;
+  fetch("/assets/data/ultimos-posts.json", { cache: "no-cache" })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (posts) {
+      if (!Array.isArray(posts) || !posts.length) return;
+      wrap.innerHTML = "";
+      posts.slice(0, 4).forEach(function (p) {
+        var a = document.createElement("a");
+        a.className = "placecard";
+        a.href = p.url;
+        var img = document.createElement("img");
+        img.src = p.cover;
+        img.alt = p.title;
+        img.loading = "lazy";
+        img.decoding = "async";
+        img.width = 354;
+        img.height = 196;
+        var body = document.createElement("div");
+        body.className = "placecard__body";
+        var h3 = document.createElement("h3");
+        h3.textContent = p.title;
+        var span = document.createElement("span");
+        span.textContent = p.tag ? p.tag + " · Leer el post" : "Leer el post";
+        body.appendChild(h3);
+        body.appendChild(span);
+        a.appendChild(img);
+        a.appendChild(body);
+        wrap.appendChild(a);
+      });
+    })
+    .catch(function () {});
+})();

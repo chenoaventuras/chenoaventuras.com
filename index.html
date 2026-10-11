@@ -114,7 +114,7 @@
       <div class="hero__inner container">
         <h1 class="hero__title">¡Es hora de una<br /><span class="accent">escapada!</span></h1>
         <p class="hero__text">En Chenoaventuras comparto rutas, actividades, destinos y curiosidades de viajes para que tú también los vivas.</p>
-        <a class="btn" href="aventuras.html">Explorar aventuras</a>
+        <a class="btn" href="blog.html">Explorar el blog</a>
 
         <!-- Curiosidad rotativa: 3 datos que cambian cada día (ver main.js) -->
         <div class="curiosbar" data-curiosbar>
@@ -129,6 +129,23 @@
     </section>
 
     <!-- ============ DESCUENTOS ============ -->
+    <!-- ============ DEL BLOG (últimos posts, desde assets/data/ultimos-posts.json) ============ -->
+    <section class="section" style="padding-bottom:clamp(18px,2.2vw,28px);">
+      <div class="container">
+        <div class="destacados__head">
+          <div>
+            <span class="eyebrow">Del blog</span>
+            <h2 class="title">Ideas para tu <span class="accent">próxima escapada</span></h2>
+          </div>
+          <a class="btn btn--ghost" href="blog.html">Ver todo el blog</a>
+        </div>
+        <div class="cardgrid" data-blog-latest>
+          <a class="placecard" href="blog.html"><div class="placecard__body"><h3>Rutas, pueblos y curiosidades</h3><span>Entra en el blog</span></div></a>
+        </div>
+        <p class="center" style="margin-top:32px;"><a class="btn" href="blog.html">Explorar el blog</a></p>
+      </div>
+    </section>
+
     <section class="section" style="padding-bottom:clamp(18px,2.2vw,28px);">
       <div class="container">
         <span class="eyebrow">Descuentos para aventureros</span>
@@ -230,7 +247,7 @@
             <div class="placecard__body"><h3>Publicación reciente</h3><span>Ver en Instagram</span></div>
           </a>
         </div>
-        <p class="center" style="margin-top:32px;"><a class="btn btn--ghost" href="aventuras.html">Ver más</a></p>
+        <p class="center" style="margin-top:32px;"><a class="btn btn--ghost" href="aventuras.html">Ver más publicaciones</a></p>
       </div>
     </section>
 
@@ -314,11 +331,10 @@
         <div>
           <p class="footer-title">Explorar</p>
           <ul class="footer-links">
-            <li><a href="aventuras.html">Aventuras</a></li><li><a href="mapa.html">Mapa</a></li>
-            <li><a href="blog.html">Blog</a></li>
+            <li><a href="blog.html">Blog</a></li><li><a href="mapa.html">Mapa</a></li>
             <li><a href="equipo.html">Mi equipo</a></li>
             <li><a href="servicios.html">Servicios</a></li>
-          </ul>
+          <li><a href="aventuras.html">Instagram</a></li></ul>
         </div>
         <div>
           <p class="footer-title">Cheno</p>
@@ -347,7 +363,7 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js?v=20261008"></script>
+  <script src="assets/js/main.js?v=20261012b"></script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

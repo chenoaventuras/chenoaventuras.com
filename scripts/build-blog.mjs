@@ -120,14 +120,14 @@ const FOOTER = `
             <a href="https://www.facebook.com/Chenoaventuras" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.397 20.997v-8.196h2.765l.411-3.209h-3.176V7.548c0-.926.258-1.56 1.587-1.56h1.684V3.127A22.336 22.336 0 0 0 14.201 3c-2.444 0-4.122 1.492-4.122 4.231v2.355H7.332v3.209h2.753v8.202h3.312z"/></svg></a>
           </div>
         </div>
-        <div><p class="footer-title">Explorar</p><ul class="footer-links"><li><a href="/aventuras.html">Aventuras</a></li><li><a href="/mapa.html">Mapa</a></li><li><a href="/blog.html">Blog</a></li><li><a href="/equipo.html">Mi equipo</a></li><li><a href="/servicios.html">Servicios</a></li></ul></div>
+        <div><p class="footer-title">Explorar</p><ul class="footer-links"><li><a href="/blog.html">Blog</a></li><li><a href="/mapa.html">Mapa</a></li><li><a href="/equipo.html">Mi equipo</a></li><li><a href="/servicios.html">Servicios</a></li><li><a href="/aventuras.html">Instagram</a></li></ul></div>
         <div><p class="footer-title">Cheno</p><ul class="footer-links"><li><a href="/contacto.html">Sobre mí y contacto</a></li><li><a href="/servicios.html#dron">Vuelo con dron</a></li><li><a href="/equipo.html#descuentos">Descuentos</a></li><li><a href="/minijuego">Minijuego</a></li><li><a href="/politica-cookies.html">Política de cookies</a></li><li><a href="/politica-privacidad.html">Política de privacidad</a></li></ul></div>
         <div><p class="footer-title">Newsletter</p><p>Rutas y aventuras directas a tu correo.</p><form class="subscribe" data-demo><input type="email" placeholder="Tu email" required aria-label="Tu email" /><button class="btn btn--light" type="submit">Me apunto</button></form><p data-demo-msg hidden class="subscribe__ok">¡Vamos a la aventura!</p><p class="subscribe__legal">Al apuntarte aceptas la <a href="/politica-privacidad.html">política de privacidad</a>.</p></div>
       </div>
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261012"></script>
+  <script src="/assets/js/main.js?v=20261012b"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog" }) {
@@ -810,6 +810,34 @@ function regionOf(p) {
   return p.lat !== null && p.lat < 35.5 && p.lng > -10.5 ? "Marruecos" : "Otros destinos";
 }
 
+// Islas: en Canarias y Baleares la lista del mapa se agrupa por isla (en vez de por provincia).
+const ISLAS = {
+  Canarias: [
+    ["La Graciosa", (la, ln) => la > 29.2 && ln < -13.47],
+    ["Lanzarote", (la, ln) => la > 28.8 && ln > -14],
+    ["Fuerteventura", (la, ln) => la > 28 && la < 28.8 && ln > -14.6 && ln < -13.7],
+    ["Gran Canaria", (la, ln) => la > 27.7 && la < 28.2 && ln > -15.9 && ln < -15.3],
+    ["Tenerife", (la, ln) => la > 27.95 && la < 28.62 && ln > -16.95 && ln < -16.05],
+    ["La Gomera", (la, ln) => la > 27.95 && la < 28.25 && ln > -17.4 && ln < -17.05],
+    ["La Palma", (la, ln) => la > 28.4 && ln < -17.6],
+    ["El Hierro", (la, ln) => la < 27.9 && ln < -17.85],
+  ],
+  "Islas Baleares": [
+    ["Mallorca", (la, ln) => la > 39.2 && la < 40 && ln > 2.2 && ln < 3.5],
+    ["Menorca", (la, ln) => la > 39.75 && ln >= 3.7],
+    ["Ibiza", (la, ln) => la > 38.82 && la < 39.15 && ln < 1.7],
+    ["Formentera", (la, ln) => la <= 38.82 && ln < 1.7],
+  ],
+};
+const ISLAS_ORDEN = { Canarias: ["Lanzarote", "La Graciosa", "Fuerteventura", "Gran Canaria", "Tenerife", "La Gomera", "La Palma", "El Hierro"], "Islas Baleares": ["Mallorca", "Menorca", "Ibiza", "Formentera"] };
+const REGION_LABEL = { Canarias: "Islas Canarias" };
+function islaOf(region, la, ln) {
+  const list = ISLAS[region];
+  if (!list || la === null || ln === null) return "";
+  const hit = list.find(([, f]) => f(la, ln));
+  return hit ? hit[0] : "";
+}
+
 // Provincia de cada post: campo "provincia" del post o, si falta, content/provincias.json.
 const PROVINCIAS = (() => {
   try {
@@ -854,7 +882,14 @@ function renderMap(posts, destinos = []) {
       const items = data.filter((d) => d.region === r).sort((a, b) => a.title.localeCompare(b.title, "es"));
       const li = (d) => `<li><a href="${d.url}" title="${esc(d.title)}">${esc(shortTitle(d.title))}</a></li>`;
       const list = (arr) => `<ul class="regioncard__list">${arr.map(li).join("")}</ul>`;
-      const provs = [...new Set(items.map((d) => d.provincia).filter(Boolean))].sort((a, b) => a.localeCompare(b, "es"));
+      if (ISLAS[r]) {
+        // islas en orden geográfico y el post «Qué ver en…» de cada isla el primero
+        for (const d of items) d.provincia = islaOf(r, d.lat, d.lng) || d.provincia;
+        items.sort((a, b) => /^qué ver en/i.test(b.title) - /^qué ver en/i.test(a.title) || a.title.localeCompare(b.title, "es"));
+      }
+      const order = ISLAS_ORDEN[r] || null;
+      const provs = [...new Set(items.map((d) => d.provincia).filter(Boolean))].sort((a, b) =>
+        order ? order.indexOf(a) - order.indexOf(b) : a.localeCompare(b, "es"));
       let body;
       if (provs.length > 1) {
         const groups = provs.map((pv) => ({ name: pv, items: items.filter((d) => d.provincia === pv) }));
@@ -868,7 +903,7 @@ function renderMap(posts, destinos = []) {
       }
       const flag = flagOf(r);
       return `          <article class="regionband">
-            <header class="regioncard__head">${flag ? `<img src="${flag}" alt="" width="34" height="23" loading="lazy" decoding="async" />` : ""}<h3>${esc(r)}</h3></header>
+            <header class="regioncard__head">${flag ? `<img src="${flag}" alt="" width="34" height="23" loading="lazy" decoding="async" />` : ""}<h3>${esc(REGION_LABEL[r] || r)}</h3></header>
             <div class="regionband__body">${body}</div>
           </article>`;
     })
@@ -1076,6 +1111,18 @@ rmSync(DEST_DIR, { recursive: true, force: true });
 mkdirSync(DEST_DIR, { recursive: true });
 for (const d of destinos) writeFileSync(join(DEST_DIR, `${d.slug}.html`), renderDestino(d));
 writeFileSync(join(ROOT, "blog.html"), renderIndex(posts, destinos));
+// Portada: los 6 últimos posts (lugares) para el bloque «Del blog».
+mkdirSync(join(ROOT, "assets", "data"), { recursive: true });
+writeFileSync(
+  join(ROOT, "assets", "data", "ultimos-posts.json"),
+  JSON.stringify(
+    [...posts]
+      .filter((p) => p.cover && p.lat !== null && new Date(p.date) <= new Date() && p.tags.some((t) => TAG_TYPES.includes(t) && t !== "Descuentos"))
+      .sort((a, b) => new Date(b.date) - new Date(a.date))
+      .slice(0, 6)
+      .map((p) => ({ url: `/blog/${p.slug}.html`, title: p.title.split(":")[0].trim(), excerpt: p.excerpt, cover: thumbOf(p.cover), tag: p.tags.find((t) => TAG_TYPES.includes(t)) || "" }))
+  )
+);
 writeFileSync(join(ROOT, "mapa.html"), renderMap(posts, destinos));
 writeFileSync(join(ROOT, "sitemap.xml"), renderSitemap(posts, destinos));
 
