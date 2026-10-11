@@ -907,8 +907,8 @@
     const W = stage.clientWidth, H = stage.clientHeight, side = Math.round(Math.min(W * 0.95, H * 1.08, 620));
     cam.style.width = cam.style.height = side + "px";
     const cw = side, ch = side;
-    // En reposo, la sombra del suelo (al 89,5 % de la ilustración) tocan el borde inferior.
-    if (!zoom) { cam.style.transform = `translate(${-cw / 2}px, ${H / 2 - ch * 0.895}px) scale(1)`; return; }
+    // En reposo, la sombra del suelo (al 90 % de la ilustración) tocan el borde inferior.
+    if (!zoom) { cam.style.transform = `translate(${-cw / 2}px, ${H / 2 - ch * 0.9}px) scale(1)`; return; }
     const sx = screen.offsetLeft, sy = screen.offsetTop, sw = screen.offsetWidth, sh = screen.offsetHeight;
     const s = Math.min(W * 0.96 / sw, H * 0.96 / sh);
     // la cámara está anclada en el centro del escenario: llevamos el centro de la pantalla allí
@@ -1039,6 +1039,8 @@
   });
   box.querySelector("[data-back]").addEventListener("click", () => { zs.value = ""; fillProv(); paint(); });
   window.addEventListener("resize", () => camera(!!zs.value));
+  // Si la caja cambia de alto (fuentes o fotos que terminan de cargar), se recoloca la escena.
+  if (window.ResizeObserver) new ResizeObserver(() => { const t = cam.style.transition; cam.style.transition = "none"; camera(!!zs.value); cam.offsetWidth; cam.style.transition = t; }).observe(stage);
   // «Ver planes»: la cámara entra del todo en la pantalla y se funde con la página siguiente.
   const veil = document.createElement("div"); veil.className = "esc-veil"; document.body.appendChild(veil);
   go.addEventListener("click", (ev) => {
