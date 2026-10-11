@@ -1100,9 +1100,12 @@
   const root = document.querySelector("[data-lan]");
   if (!root) return;
   const card = root.querySelector("[data-card]"), path = root.querySelector("#strapPath");
-  const N = 9, SEG = 30, G = 0.6, DAMP = 0.985;
-  let W = root.clientWidth, ax = W / 2, ay = -10;
-  const pts = Array.from({ length: N }, (_, i) => ({ x: ax + i * 6, y: ay + i * SEG, px: ax + i * 6 - 18, py: ay + i * SEG }));
+  // Cinta corta; en el móvil, más corta todavía y el carné más pequeño.
+  const movil = window.matchMedia("(max-width: 760px)").matches;
+  const N = movil ? 5 : 6, SEG = movil ? 17 : 24, SC = movil ? .72 : 1, G = 0.6, DAMP = 0.985;
+  let W = root.clientWidth, ax = W / 2, ay = 22;
+  const hook = root.querySelector("[data-hook]"), pin = root.querySelector("[data-hook-pin]");
+  const pts = Array.from({ length: N }, (_, i) => ({ x: ax + i * 3, y: ay + i * SEG, px: ax + i * 3 - 6, py: ay + i * SEG }));
   let drag = null, angle = 0, av = 0, moved = 0;
   function step() {
     W = root.clientWidth; ax = W / 2;
@@ -1126,16 +1129,20 @@
     const target = Math.atan2(e.x - q.x, e.y - q.y) * -1;
     av = av * 0.86 + (target - angle) * 0.12; angle += av;
     const vx = e.x - e.px;
-    card.style.transform = `translate(${e.x - 110}px, ${e.y - 8}px) rotate(${angle}rad) rotateY(${Math.max(-35, Math.min(35, vx * 2.2))}deg)`;
+    card.style.transform = `translate(${e.x - 110}px, ${e.y - 8 * SC}px) rotate(${angle}rad) scale(${SC}) rotateY(${Math.max(-35, Math.min(35, vx * 2.2))}deg)`;
     let d = `M ${pts[0].x} ${pts[0].y}`;
     for (let i = 1; i < N - 1; i++) { const m = pts[i], n = pts[i + 1]; d += ` Q ${m.x} ${m.y} ${(m.x + n.x) / 2} ${(m.y + n.y) / 2}`; }
     d += ` L ${e.x} ${e.y}`;
     path.setAttribute("d", d);
+    if (hook) { hook.setAttribute("cx", ax); hook.setAttribute("cy", ay - 4); pin.setAttribute("x", ax - 3); pin.setAttribute("y", ay - 28); }
     requestAnimationFrame(step);
   }
-  function pos(ev) { const r = root.getBoundingClientRect(); return { x: ev.clientX - r.left, y: ev.clientY - r.top + 8 }; }
+  function pos(ev) { const r = root.getBoundingClientRect(); return { x: ev.clientX - r.left, y: ev.clientY - r.top + 8 * SC }; }
   card.addEventListener("pointerdown", (ev) => { drag = pos(ev); moved = 0; card.setPointerCapture(ev.pointerId); });
   card.addEventListener("pointermove", (ev) => { if (!drag) return; const p = pos(ev); moved += Math.abs(p.x - drag.x) + Math.abs(p.y - drag.y); drag = p; });
   card.addEventListener("pointerup", () => { if (moved < 6) card.classList.toggle("flip"); drag = null; });
+  // Si se pierde el puntero (sale de la ventana, cambia de pestaña…), se suelta el carné.
+  ["pointercancel", "lostpointercapture"].forEach((t) => card.addEventListener(t, () => { drag = null; }));
+  window.addEventListener("blur", () => { drag = null; });
   requestAnimationFrame(step);
 })();
