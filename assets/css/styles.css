@@ -2105,3 +2105,14 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .ojos i { position: relative; width: 13px; height: 17px; border-radius: 50%; background: #fff; box-shadow: 0 0 0 1.5px currentColor; overflow: hidden; }
 .ojos b { position: absolute; left: 50%; top: 50%; width: 7px; height: 7px; margin: -3.5px 0 0 -3.5px; border-radius: 50%; background: #111; transition: transform .12s ease-out; }
 .ojos b::after { content: ""; position: absolute; right: 1.2px; top: 1.2px; width: 2.2px; height: 2.2px; border-radius: 50%; background: #fff; }
+
+/* «Lo último en Instagram»: solo la foto; al pasar el ratón, el texto en un cuadro blanco dentro de la foto. */
+.cardgrid[data-ig-posts] .placecard { position: relative; }
+.cardgrid[data-ig-posts] .placecard__body {
+  position: absolute; left: 10px; right: 10px; bottom: 10px; z-index: 2;
+  background: rgba(255,255,255,.96); border-radius: 10px; padding: 10px 12px;
+  opacity: 0; transform: translateY(8px); transition: opacity .25s ease, transform .25s ease; pointer-events: none;
+}
+.cardgrid[data-ig-posts] .placecard:hover .placecard__body,
+.cardgrid[data-ig-posts] .placecard:focus-visible .placecard__body { opacity: 1; transform: none; }
+.cardgrid[data-ig-posts] .placecard__body span { white-space: normal; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
