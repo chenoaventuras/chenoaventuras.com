@@ -27,6 +27,22 @@ actividades:
     u: "https://www.getyourguide.es/valencia-l49/visita-al-castell-de-xativa-t1192801/"
 guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
 guiaTitulo: 'Guía Castellón y Valencia en PDF'
+comer:
+  - n: "Restaurante El Pipistrel Xàtiva"
+    r: 4.8
+    o: 411
+    t: "Restaurante italiano"
+    d: "Carrer de l'Hort de l'Almunia, 3"
+  - n: "El Buey Madurado"
+    r: 4.8
+    o: 390
+    t: "Hamburguesería"
+    d: "Carrer de la Reina, 41"
+  - n: "Restaurante El Túnel"
+    r: 4.6
+    o: 1778
+    d: "C. Portal Valencia, 22"
+comerFecha: "octubre de 2026"
 ---
 Un castillo gigantesco que recorre la cresta de una sierra, una ciudad con casi mil fuentes y un museo donde un **rey cuelga boca abajo** desde hace décadas. **Xàtiva** tiene historia de sobra: aquí nacieron dos papas Borja y aquí se fabricó el primer papel de Europa.
 

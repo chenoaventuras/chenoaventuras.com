@@ -26,6 +26,22 @@ actividades:
     u: "https://www.civitatis.com/es/madrid/tour-fantasmas-madrid/"
 guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
 guiaTitulo: 'Guía Madrid curioso en PDF'
+comer:
+  - n: "Baldoria Madrid"
+    r: 4.8
+    o: 28224
+    t: "Restaurante italiano"
+    d: "C. de José Ortega y Gasset, 100"
+  - n: "Brisket Restaurante"
+    r: 4.8
+    o: 2047
+    d: "C. de Moreto, 7"
+  - n: "Restaurante Bel Mondo"
+    r: 4.7
+    o: 51369
+    t: "Restaurante italiano"
+    d: "Calle Velázquez, 39"
+comerFecha: "octubre de 2026"
 ---
 Madrid tiene un lado oscuro que no sale en las guías: palacios con niñas que lloran por la noche, damas de blanco que pasean por los tejados y una calle que se llama así por una cabeza que nadie quería ver.
 

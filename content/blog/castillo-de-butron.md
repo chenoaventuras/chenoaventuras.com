@@ -27,6 +27,23 @@ faq:
     a: "Verlo por fuera es gratis y sin horario. El interior es privado."
 guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
 guiaTitulo: 'Guía País Vasco en PDF'
+comer:
+  - n: "Bakea"
+    r: 4.8
+    o: 245
+    t: "Restaurante de alta cocina"
+    d: "Olalde Beresia Kalea, 1"
+  - n: "Erreka Meet Point"
+    r: 4.6
+    o: 555
+    t: "Parrilla"
+    d: "Usandizaga Eresgille Kalea, 13"
+  - n: "ALBOKA Taberna"
+    r: 4.6
+    o: 530
+    t: "Bar"
+    d: "Luberrietaondo Auzategia, 48"
+comerFecha: "octubre de 2026"
 ---
 Torres, almenas y un foso, escondido entre árboles a media hora de Bilbao. El **Castillo de Butrón** parece sacado de una película de Disney, y durante años estuvo abandonado y en venta.
 

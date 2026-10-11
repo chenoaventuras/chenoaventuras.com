@@ -32,6 +32,19 @@ actividades:
     u: "https://www.civitatis.com/es/marrakech/paseo-globo/"
 guia: /assets/guias/guia-marrakech-chenoaventuras.pdf
 guiaTitulo: 'Guía Marrakech y alrededores en PDF'
+comer:
+  - n: "La Pergola"
+    r: 4.8
+    o: 40900
+    d: "4 Derb Lahbab, Riad Zitoun Lakdim"
+  - n: "Falafel Terrace & Brunch"
+    r: 4.8
+    o: 2813
+  - n: "Comptoir Darna"
+    r: 4.7
+    o: 16566
+    t: "Restaurante marroquí"
+comerFecha: "octubre de 2026"
 ---
 Empezar el día en **silencio total**, flotando sobre el desierto mientras sale el sol y la cordillera del **Atlas** se enciende al fondo. El **vuelo en globo sobre Marrakech** es una de esas experiencias que cuestan de describir con palabras... y que, comparado con Europa, sale bastante más barato.
 

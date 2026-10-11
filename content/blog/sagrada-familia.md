@@ -30,6 +30,22 @@ actividades:
     u: "https://www.civitatis.com/es/barcelona/visita-sagrada-familia-torres/"
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Micu Maku"
+    r: 4.9
+    o: 6550
+    d: "Carrer de los Castillejos, 208"
+  - n: "EdeNova Restaurant Barcelona"
+    r: 4.8
+    o: 1966
+    t: "Restaurante mediterráneo"
+    d: "Carrer del Rosselló, 209"
+  - n: "El Tastet de l'Artur"
+    r: 4.8
+    o: 1485
+    t: "Bar restaurante"
+    d: "Carrer de Lepant, 273"
+comerFecha: "octubre de 2026"
 ---
 Lleva en obras desde **1882** y aún no está terminada, pero ya tiene un récord: desde el **30 de octubre de 2025**, la **Sagrada Familia** de Barcelona es la **iglesia más alta del mundo**.
 

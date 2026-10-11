@@ -27,6 +27,23 @@ actividades:
     u: "https://www.civitatis.com/es/hervas/free-tour-nocturno-hervas/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Norte de Extremadura en PDF'
+comer:
+  - n: "Restaurante Más Que Parrilla"
+    r: 4.9
+    o: 1107
+    t: "Restaurante extremeño"
+    d: "C. Matías Pérez Marcos, 7"
+  - n: "Azacán Hervás"
+    r: 4.7
+    o: 710
+    t: "Restaurante extremeño"
+    d: "C. Asensio Neila, 1"
+  - n: "Taberna La Callejilla"
+    r: 4.6
+    o: 1701
+    t: "Bar restaurante"
+    d: "C. Rabilero, 5"
+comerFecha: "octubre de 2026"
 ---
 Calles estrechísimas, casas de entramado de madera de castaño que casi se tocan por arriba, un río de montaña cruzando el pueblo y la sierra nevada al fondo. **Hervás** tiene uno de los **barrios judíos mejor conservados de España**, y es la puerta perfecta para descubrir el norte de Extremadura.
 

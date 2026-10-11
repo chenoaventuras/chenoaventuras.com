@@ -32,6 +32,22 @@ actividades:
     u: "https://www.civitatis.com/es/toledo/tour-leyendas-toledo/"
 guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
 guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+comer:
+  - n: "Restaurante La Manuela Toledo"
+    r: 4.9
+    o: 1406
+    t: "Restaurante de cocina castellana"
+    d: "C. Taller del Moro, 5"
+  - n: "Restaurante Aqui"
+    r: 4.7
+    o: 1138
+    d: "Pl. Corral de Don Diego, 5"
+  - n: "La Cábala Restaurante"
+    r: 4.7
+    o: 860
+    t: "Restaurante de cocina europea"
+    d: "C. Sinagoga, 6"
+comerFecha: "octubre de 2026"
 ---
 En el valle del **Tajo**, frente a Toledo, hay una roca solitaria con una de las leyendas más curiosas de la ciudad: la **Piedra del Rey Moro**. El paseo hasta ella, con la ciudad entera delante, es una de las mejores formas de ver **Toledo desde fuera**.
 

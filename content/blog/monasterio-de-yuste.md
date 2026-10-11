@@ -30,6 +30,18 @@ actividades:
     u: "https://www.civitatis.com/es/cuacos-de-yuste/tour-privado-monasterio-yuste/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Norte de Extremadura en PDF'
+comer:
+  - n: "Restaurante La Fuente"
+    r: 4.8
+    o: 564
+    t: "Restaurante especializado en comida ecléctica"
+    d: "C. Chorrillo, 28"
+  - n: "Bar La Cueva"
+    r: 4.5
+    o: 1114
+    t: "Bar restaurante"
+    d: "C. Rodeo, 20"
+comerFecha: "octubre de 2026"
 ---
 Gobernó medio mundo: España, Alemania, los Países Bajos, Italia y América. Y para sus últimos años eligió un rincón tranquilo de **La Vera** (Cáceres): el **Monasterio de Yuste**. Aquí vivió **Carlos V** entre 1557 y 1558, y aquí murió.
 

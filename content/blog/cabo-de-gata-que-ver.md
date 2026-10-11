@@ -33,6 +33,16 @@ actividades:
     u: "https://www.civitatis.com/es/san-jose-espana/tour-4x4-cabo-gata/"
 guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía oriental en PDF'
+comer:
+  - n: "Restaurante Blanca Brisa Cabo de Gata"
+    r: 4.7
+    o: 1180
+    d: "Carr. Cabo de Gata, 49"
+  - n: "Restaurante El Faro"
+    r: 4.4
+    o: 1631
+    t: "Restaurante mediterráneo"
+comerFecha: "octubre de 2026"
 ---
 Playas vírgenes entre volcanes, agua transparente y paisajes de desierto que parecen de otro planeta. **Cabo de Gata** es el último gran tramo de costa salvaje del Mediterráneo español.
 

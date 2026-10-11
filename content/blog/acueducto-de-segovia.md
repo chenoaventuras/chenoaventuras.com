@@ -35,6 +35,21 @@ actividades:
     u: "https://www.civitatis.com/es/segovia/tour-misterios-leyendas-segovia/"
 guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía Castilla y León en PDF'
+comer:
+  - n: "Asador Maribel"
+    r: 4.7
+    o: 7791
+    d: "Av. Padre Claret, 16"
+  - n: "Restaurante José María"
+    r: 4.6
+    o: 19584
+    d: "C. Cronista Lecea, 11"
+  - n: "El Sitio"
+    r: 4.6
+    o: 8778
+    t: "Restaurante de cocina castellana"
+    d: "C. de la Infanta Isabel, 9"
+comerFecha: "octubre de 2026"
 ---
 Más de 160 arcos de granito, casi 30 metros de altura en su punto más alto y **ni una gota de argamasa** sujetando sus piedras. El **Acueducto de Segovia** lleva unos 2.000 años en pie, y es solo el principio: en la misma ciudad tienes un **Alcázar de cuento** y una de las catedrales más bonitas de España.
 

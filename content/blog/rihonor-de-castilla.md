@@ -22,6 +22,13 @@ faq:
     a: "En Zamora, al norte de la Sierra de la Culebra, cerca de Bragança."
   - q: "¿Cómo llegar a Rihonor de Castilla?"
     a: "Desde Puebla de Sanabria, unos 35 minutos en coche hacia Pedralba de la Pradería y luego hasta Rihonor."
+comer:
+  - n: "O Trilho de Onor"
+    r: 4.5
+    o: 272
+    t: "Restaurante familiar"
+    d: "R. da Costa 1"
+comerFecha: "octubre de 2026"
 ---
 Imagina que vas a casa de tu vecino y **cambias de país**. En **Rihonor de Castilla** (Zamora) pasa eso: el pueblo forma **un solo núcleo** con **Rio de Onor**, en Portugal. Una calle hace de frontera.
 

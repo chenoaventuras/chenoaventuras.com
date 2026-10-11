@@ -29,6 +29,22 @@ actividades:
     u: "https://www.civitatis.com/es/ronda/free-tour-ronda/"
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
+comer:
+  - n: "Restaurante Las Tablas"
+    r: 4.9
+    o: 1319
+    d: "C. Armiñán, 46"
+  - n: "Restaurante Tropicana"
+    r: 4.8
+    o: 2580
+    t: "Restaurante mediterráneo"
+    d: "C. Virgen de los Dolores, 11"
+  - n: "Puerta Grande"
+    r: 4.7
+    o: 1896
+    t: "Restaurante andaluz"
+    d: "C. Nueva, 10"
+comerFecha: "octubre de 2026"
 ---
 Una ciudad partida en dos por un tajo de casi **100 metros de profundidad**, unida por un puente que parece imposible y con casas colgadas literalmente al borde del precipicio. **Ronda** es una de esas ciudades que se te quedan grabadas a la primera.
 

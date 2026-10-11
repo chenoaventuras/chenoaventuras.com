@@ -25,6 +25,21 @@ faq:
     a: "No, el pueblo y la cascada se visitan gratis."
   - q: "¿A cuánto está Orbaneja del Castillo de Burgos?"
     a: "A algo más de una hora en coche. Está en el norte de la provincia, casi en el límite con Cantabria."
+comer:
+  - n: "Bar Mesón Valdelateja"
+    r: 4.8
+    o: 2604
+    d: "Calle Maestro Santidrian, 15"
+  - n: "Taberna Terraza El Risco"
+    r: 4.5
+    o: 844
+    t: "Taberna"
+  - n: "Restaurante La Puebla"
+    r: 4.5
+    o: 227
+    t: "Bar restaurante"
+    d: "C. de la Iglesia, 37"
+comerFecha: "octubre de 2026"
 ---
 Un pueblo de piedra encajado bajo unas peñas gigantes, en pleno cañón del Ebro… y una **cascada que nace en una cueva y baja atravesando el pueblo** hasta el río. **Orbaneja del Castillo** parece sacado de un cuento, y es uno de los pueblos más fotografiados de Burgos.
 

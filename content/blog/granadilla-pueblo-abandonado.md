@@ -31,6 +31,18 @@ actividades:
     u: "https://www.civitatis.com/es/guijo-de-granadilla/excursion-granadilla-barco/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Norte de Extremadura en PDF'
+comer:
+  - n: "Versátil"
+    r: 4.9
+    o: 2175
+    t: "Restaurante de alta cocina"
+    d: "C. el Lagar, 6"
+  - n: "Restaurante Asador El Cordel"
+    r: 4.5
+    o: 1107
+    t: "Parrilla"
+    d: "Ctra. Guijo, 4"
+comerFecha: "octubre de 2026"
 ---
 Un pueblo con **muralla**, **castillo** y casas de colores... y sin vecinos. **Granadilla**, en el norte de Cáceres, fue **desalojado** en los años 60 porque iba a quedar bajo un pantano. Lo curioso es que **el agua nunca llegó a cubrirlo**.
 

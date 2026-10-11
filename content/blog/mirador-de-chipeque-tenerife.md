@@ -33,6 +33,23 @@ actividades:
     u: "https://www.getyourguide.es/mirador-de-chipeque-l134182/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
+comer:
+  - n: "El Tinglado de Casa'Ma"
+    r: 4.8
+    o: 917
+    t: "Restaurante de cocina española"
+    d: "Carr. Provincial, 179"
+  - n: "Donde Mario"
+    r: 4.7
+    o: 1321
+    t: "Restaurante de cocina española"
+    d: "Carr. Provincial, 199"
+  - n: "Restaurante Paso del Teide"
+    r: 4.6
+    o: 1597
+    t: "Parrilla"
+    d: "TF-21, km 15"
+comerFecha: "octubre de 2026"
 ---
 A **más de 1.800 metros** de altura, en plena cumbre de Tenerife, hay un mirador que mucha gente pasa de largo camino del Teide. Es el **Mirador de Chipeque**, y desde él tienes el **Teide** de frente, el **mar de nubes** a tus pies y, en días claros, hasta la silueta de **La Palma** en el horizonte.
 

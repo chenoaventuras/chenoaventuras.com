@@ -24,6 +24,20 @@ faq:
     a: "En coche: está en la Conca de Barberà, a unos 40 minutos de Tarragona y una hora y cuarto de Barcelona."
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Cúmul"
+    r: 4.6
+    o: 414
+    d: "Carrer del Ducat, 1"
+  - n: "Rosa dels Vents"
+    r: 4.5
+    o: 526
+    d: "Carrer Poblet i Teixidó, 10"
+  - n: "Olivera"
+    r: 4.5
+    o: 517
+    d: "Ctra. d'Artesa de Segre, 3"
+comerFecha: "octubre de 2026"
 ---
 Una muralla medieval casi intacta, torres, portales y un casco antiguo que parece detenido en el siglo XIV. Y, según la tradición, justo delante de esos muros **Sant Jordi** se enfrentó al **dragón**.
 

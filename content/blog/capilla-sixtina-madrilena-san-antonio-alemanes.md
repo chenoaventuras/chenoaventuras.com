@@ -30,6 +30,21 @@ actividades:
     u: "https://www.civitatis.com/es/madrid/free-tour-chueca-malasana/"
 guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
 guiaTitulo: 'Guía Madrid curioso en PDF'
+comer:
+  - n: "Taberna de Peñalver Callao"
+    r: 4.9
+    o: 9505
+    d: "C. del Postigo de San Martín, 5"
+  - n: "Brisket Restaurante"
+    r: 4.8
+    o: 2047
+    d: "C. de Moreto, 7"
+  - n: "Restaurante Bel Mondo"
+    r: 4.7
+    o: 51369
+    t: "Restaurante italiano"
+    d: "Calle Velázquez, 39"
+comerFecha: "octubre de 2026"
 ---
 Por fuera es una iglesia más entre las calles de Malasaña. Por dentro, es de esos sitios donde te quedas mirando al techo durante varios minutos sin darte cuenta del tiempo que pasa. Así es la iglesia de San Antonio de los Alemanes, conocida como la "Capilla Sixtina madrileña".
 

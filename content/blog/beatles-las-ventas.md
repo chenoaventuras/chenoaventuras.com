@@ -30,6 +30,23 @@ actividades:
     u: "https://www.civitatis.com/es/madrid/tour-las-ventas/"
 guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
 guiaTitulo: 'Guía Madrid curioso en PDF'
+comer:
+  - n: "Baldoria Madrid"
+    r: 4.8
+    o: 28224
+    t: "Restaurante italiano"
+    d: "C. de José Ortega y Gasset, 100"
+  - n: "La Taberna de Peñalver"
+    r: 4.8
+    o: 21605
+    t: "Restaurante mediterráneo"
+    d: "C. del Conde de Peñalver, 90"
+  - n: "Arrocería Taberna del Olivo"
+    r: 4.8
+    o: 11864
+    t: "Arrocería"
+    d: "C. de José Ortega y Gasset, 98"
+comerFecha: "octubre de 2026"
 ---
 El **2 de julio de 1965**, en plena Beatlemanía, **John, Paul, George y Ringo** se subieron a un escenario en la **plaza de toros de Las Ventas** de Madrid. Al día siguiente tocaron en Barcelona. Fueron **los únicos conciertos de los Beatles en España**.
 

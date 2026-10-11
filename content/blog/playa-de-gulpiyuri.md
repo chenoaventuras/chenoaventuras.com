@@ -23,6 +23,21 @@ faq:
     a: "Sí, con marea alta. No tiene servicios ni socorristas, así que ten cuidado."
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+comer:
+  - n: "Married Cocina"
+    r: 4.8
+    o: 100
+    t: "Restaurante de alta cocina"
+    d: "Barrio Pamplona, 69"
+  - n: "Sidrería El Cabañón"
+    r: 4.3
+    o: 2948
+  - n: "Bar Sidrería Casa Raúl"
+    r: 4.3
+    o: 1068
+    t: "Restaurante asturiano"
+    d: "Plaza La Bolera, 65"
+comerFecha: "octubre de 2026"
 ---
 Una playa de arena fina, con olas y agua salada… en mitad de un prado verde, sin el mar a la vista. **Gulpiyuri** es una de las rarezas más bonitas de España: una **playa interior** de apenas 50 metros.
 

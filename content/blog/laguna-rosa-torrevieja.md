@@ -25,6 +25,20 @@ faq:
     a: "Desde los caminos del Parque Natural. El punto más conocido está en la zona de las salinas, con un pequeño aparcamiento de tierra."
 guia: /assets/guias/guia-costa-blanca-chenoaventuras.pdf
 guiaTitulo: 'Guía Costa Blanca en PDF'
+comer:
+  - n: "Restaurante - Bar Barco de sal"
+    r: 4.8
+    o: 167
+    d: "C. Caballero de Rodas, 12"
+  - n: "Chez Danne Bar Restaurante"
+    r: 4.5
+    o: 424
+    d: "C. de los Geranios, 37"
+  - n: "Restaurante Mar Y Tierra"
+    r: 4.6
+    o: 144
+    d: "C. de los Geranios, 41"
+comerFecha: "octubre de 2026"
 ---
 Agua de color **rosa chicle**, montañas de sal blanca y flamencos al fondo. La **Laguna Rosa de Torrevieja** es uno de esos sitios que parecen editados... y no lo están.
 

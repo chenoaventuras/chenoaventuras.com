@@ -233,6 +233,11 @@ function readPosts() {
       actividades: Array.isArray(data.actividades)
         ? data.actividades.filter((a) => a && a.t && a.u).map((a) => ({ t: String(a.t).trim(), u: String(a.u).trim() }))
         : [],
+      // comer: [{ n, r, o, t, d, u }] → «¿Dónde comer?» (restaurantes mejor valorados en Google Maps)
+      comer: Array.isArray(data.comer)
+        ? data.comer.filter((c) => c && c.n).map((c) => ({ n: String(c.n).trim(), r: Number(c.r) || 0, o: Number(c.o) || 0, t: c.t ? String(c.t).trim() : "", d: c.d ? String(c.d).trim() : "", u: c.u ? String(c.u).trim() : "" }))
+        : [],
+      comerFecha: data.comerFecha ? String(data.comerFecha).trim() : "",
       html,
       url: `${SITE}/blog/${slug}.html`,
     });
@@ -469,6 +474,21 @@ ${hasGyg ? `<p class="actbox__code">🎟️ En GetYourGuide usa el código <stro
 `;
 }
 
+function eatBox(p) {
+  if (!p.comer.length) return "";
+  const num = (x, d = 0) => x.toLocaleString("es-ES", { minimumFractionDigits: d, maximumFractionDigits: d });
+  const maps = (c) => c.u || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([c.n, c.d, p.lugar].filter(Boolean).join(", "))}`;
+  return `
+<div class="guide__head" id="donde-comer"><span class="eyebrow">Dónde comer</span><h2>¿Dónde comer en ${esc(p.lugar || p.title.split(":")[0])}?</h2><p>Restaurantes con las mejores opiniones de la zona.</p></div>
+<ul class="eatbox">${p.comer
+    .map(
+      (c) => `<li><h3>${esc(c.n)}</h3>${c.r ? `<p class="eatbox__rate">⭐ ${num(c.r, 1)}${c.o ? ` <span>(${num(c.o)} opiniones)</span>` : ""}</p>` : ""}${c.t ? `<p class="eatbox__type">${esc(c.t)}</p>` : ""}${c.d ? `<p class="eatbox__addr">${esc(c.d)}</p>` : ""}<a class="eatbox__go" href="${esc(maps(c))}" target="_blank" rel="noopener">Ver en Google Maps &rarr;</a></li>`
+    )
+    .join("")}</ul>
+<p class="eatbox__note">Valoraciones de Google Maps${p.comerFecha ? ` consultadas en ${esc(p.comerFecha)}` : ""}. Pueden cambiar: mira las opiniones recientes antes de ir.</p>
+`;
+}
+
 function faqBox(p) {
   if (!p.faq.length) return "";
   const title = p.faqTitulo || `Dudas sobre ${p.lugar || p.title}`;
@@ -631,7 +651,7 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
       <section class="section">
         <div class="container">
 ${p.html.includes("<!--guia-->") ? "" : guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
-${withNearby((p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", () => guideBox(p)).replace("<!--actividades-->", () => activitiesBox(p)).replace("<!--faq-->", () => (p.html.includes("<!--actividades-->") ? "" : activitiesBox(p)) + carBox(p) + faqBox(p)), nearbyBox(nearby, p))}
+${withNearby((p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", () => guideBox(p)).replace("<!--actividades-->", () => activitiesBox(p)).replace("<!--faq-->", () => (p.html.includes("<!--actividades-->") ? "" : activitiesBox(p)) + carBox(p) + eatBox(p) + faqBox(p)), nearbyBox(nearby, p))}
           </div>
 ${authorBox()}${
   related.length

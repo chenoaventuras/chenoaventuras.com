@@ -31,6 +31,22 @@ actividades:
     u: "https://www.civitatis.com/es/pinilla-de-buitrago/alquiler-kayak-embalse-riosequillo/"
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "Chulachef Burguer Gourmet"
+    r: 4.9
+    o: 1007
+    d: "C. Real, 44"
+  - n: "Pizzcolabis"
+    r: 4.7
+    o: 1203
+    t: "Pizzería"
+    d: "C. del Matadero, 4C"
+  - n: "Taberna la villa"
+    r: 4.4
+    o: 504
+    t: "Bar"
+    d: "C. de la Villa, 19"
+comerFecha: "octubre de 2026"
 ---
 A poco más de una hora de Madrid capital hay un pueblo que conserva algo que ningún otro de la comunidad puede presumir: su muralla medieval completa, casi abrazada por un río. Se llama Buitrago del Lozoya, y es de esas escapadas que no hace falta planear con meses de antelación.
 

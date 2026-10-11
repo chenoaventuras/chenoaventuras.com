@@ -37,6 +37,23 @@ actividades:
     u: "https://www.getyourguide.es/puerto-de-la-cruz-espagne-l4994/1-a-2-heures-de-marche-a-travers-puerto-de-la-cruz-tenerife-t795398/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
+comer:
+  - n: "Casa Mediterránea"
+    r: 4.8
+    o: 1492
+    t: "Restaurante mediterráneo"
+    d: "C. Benjamin J.Miranda, 5"
+  - n: "Restaurante Xauen 'Sabor andaluz'"
+    r: 4.7
+    o: 1084
+    t: "Restaurante andaluz"
+    d: "C. del Lomo, 12"
+  - n: "Restaurante Jorgen Rivera"
+    r: 4.7
+    o: 970
+    t: "Restaurante especializado en comida ecléctica"
+    d: "Pl. del Charco, 15"
+comerFecha: "octubre de 2026"
 ---
 En **Puerto de la Cruz**, al norte de Tenerife, el arte y el Atlántico se juntan en un complejo de **piscinas de agua de mar** diseñado por **César Manrique**. Se llama **Lago Martiánez**, y si buscas un plan de playa sin arena negra, con las olas rompiendo al lado y un diseño que no verás en ningún otro sitio, es aquí.
 

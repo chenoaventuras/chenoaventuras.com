@@ -28,6 +28,20 @@ faq:
 actividades:
   - t: "Vía ferrata del Sorrosal desde Torla-Ordesa"
     u: "https://www.civitatis.com/es/torla-ordesa/via-ferrata-sorrosal/"
+comer:
+  - n: "Restaurante Balcón del Pirineo Aragonés"
+    r: 4.7
+    o: 1200
+    d: "C. Vita, 48"
+  - n: "Restaurante El Duende"
+    r: 4.6
+    o: 2327
+  - n: "Bar Restaurante Atalaya"
+    r: 4.6
+    o: 740
+    t: "Bar restaurante"
+    d: "Calle A'rruata, 45"
+comerFecha: "octubre de 2026"
 ---
 Hay rutas que se ganan las vistas a pulso, y la **Senda de los Cazadores** es la reina. En solo 2 kilómetros sube más de 600 metros en zigzag desde la Pradera de Ordesa hasta el **mirador de Calcilarruego**, un balcón a casi 2.000 metros desde el que ves todo el valle de Ordesa con Monte Perdido al fondo.
 

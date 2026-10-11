@@ -33,6 +33,23 @@ actividades:
     u: "https://www.getyourguide.es/benidorm-l2317/benidorm-passeio-de-barco-parapente-com-vista-para-a-costa-blanca-t445685/"
 guia: /assets/guias/guia-costa-blanca-chenoaventuras.pdf
 guiaTitulo: 'Guía Costa Blanca en PDF'
+comer:
+  - n: "BenGen Restaurant"
+    r: 4.8
+    o: 871
+    t: "Restaurante griego"
+    d: "Av. de Madrid, 26"
+  - n: "Restaurante 22"
+    r: 4.8
+    o: 442
+    t: "Restaurante de cocina valenciana"
+    d: "C. de Roldán, 3"
+  - n: "Restaurante La Fava"
+    r: 4.7
+    o: 707
+    t: "Restaurante de cocina valenciana"
+    d: "Calle La Palma, 41"
+comerFecha: "octubre de 2026"
 ---
 La llaman la **«Nueva York del Mediterráneo»**, y no es exagerado: **Benidorm** es la **ciudad con más rascacielos por habitante del mundo** y la segunda con más rascacielos por kilómetro cuadrado, solo detrás de Nueva York.
 

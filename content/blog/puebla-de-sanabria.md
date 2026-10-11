@@ -23,6 +23,16 @@ faq:
     a: "Una leyenda que cuenta que bajo el lago hay un pueblo hundido cuyas campanas se oyen la noche de San Juan. Inspiró a Unamuno en «San Manuel Bueno, mártir»."
   - q: "¿Cómo llegar al Lago de Sanabria?"
     a: "Desde Puebla de Sanabria (Zamora) son unos 15 km por carretera, 15-20 minutos en coche."
+comer:
+  - n: "Restaurante la Terraza"
+    r: 4.5
+    o: 1570
+    t: "Restaurante de cocina castellana"
+  - n: "Bar Restaurante El Majo"
+    r: 4.4
+    o: 485
+    t: "Parrilla"
+comerFecha: "octubre de 2026"
 ---
 Un lago de origen glaciar enorme, rodeado de montañas que en invierno se cubren de nieve, con playas de arena donde bañarse en verano. El **Lago de Sanabria** es un rincón de Zamora que sorprende a todo el que llega, y a pocos kilómetros está **Puebla de Sanabria**, un pueblo medieval con castillo que es de los más bonitos de Castilla y León.
 

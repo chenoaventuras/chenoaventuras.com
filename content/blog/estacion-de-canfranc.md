@@ -38,6 +38,11 @@ faq:
 actividades:
   - t: "Visita guiada por la estación de tren de Canfranc"
     u: "https://www.civitatis.com/es/canfranc-estacion/visita-guiada-estacion-canfranc/"
+comer:
+  - n: "El Internacional"
+    r: 4.4
+    o: 195
+comerFecha: "octubre de 2026"
 ---
 En pleno Pirineo oscense hay una estación de tren que parece sacada de otro país: fachadas monumentales, un pasado ligado a **espías y contrabando**, y una historia de abandono y resurrección que la convierte en una de las paradas más sorprendentes de la zona.
 

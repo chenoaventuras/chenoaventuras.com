@@ -31,6 +31,18 @@ actividades:
     u: "https://www.civitatis.com/es/belmonte/entrada-castillo-belmonte/"
 guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
 guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+comer:
+  - n: "Casa Carlos"
+    r: 4.9
+    o: 324
+    t: "Bar restaurante"
+    d: "Calle Nueva, 2"
+  - n: "Bar Pizzería El Arco"
+    r: 4.6
+    o: 573
+    t: "Pizzería"
+    d: "C/ los Tintes, 14"
+comerFecha: "octubre de 2026"
 ---
 Torres redondas, murallas almenadas que bajan hasta el pueblo y un patio que parece esperar a que aparezcan los caballeros. El **Castillo de Belmonte**, en Cuenca, es uno de los castillos medievales **mejor conservados de España**, y por eso aparece en películas y acoge torneos de combate medieval.
 

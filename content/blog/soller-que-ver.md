@@ -29,6 +29,21 @@ actividades:
     u: "https://www.civitatis.com/es/palma-mallorca/excursion-soller-sa-calobra/"
 guia: /assets/guias/guia-baleares-chenoaventuras.pdf
 guiaTitulo: 'Guía Islas Baleares en PDF'
+comer:
+  - n: "Tres Llunes"
+    r: 4.9
+    o: 626
+    d: "Carrer de sa Lluna, 102"
+  - n: "La Romaguera Restaurant"
+    r: 4.7
+    o: 1496
+    d: "Carrer de Sa Mar, 26"
+  - n: "Miga de Nube"
+    r: 4.7
+    o: 1149
+    t: "Restaurante de brunch"
+    d: "Carrer de sa Lluna, 70"
+comerFecha: "octubre de 2026"
 ---
 Un valle lleno de **naranjos** rodeado por las montañas más altas de Mallorca, un pueblo con fachadas modernistas, un puerto en una bahía casi cerrada y, para llegar, un **tren de madera de 1912** que cruza la sierra por túneles. **Sóller** es probablemente la escapada más bonita de la isla.
 

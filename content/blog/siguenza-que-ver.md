@@ -27,6 +27,20 @@ faq:
 actividades:
   - t: "Tour privado por Sigüenza"
     u: "https://www.civitatis.com/es/siguenza/tour-privado-siguenza/"
+comer:
+  - n: "Nöla Restaurante"
+    r: 4.7
+    o: 1351
+    d: "C. Arcedianos, 20"
+  - n: "El Doncel Restaurante"
+    r: 4.7
+    o: 1203
+  - n: "El Fogaril Gastrobar"
+    r: 4.9
+    o: 320
+    t: "Bar"
+    d: "C. de Vicente Moñux, 5"
+comerFecha: "octubre de 2026"
 ---
 Una ciudad medieval de piedra rojiza, con una **catedral que parece una fortaleza** y un **castillo donde se puede dormir**. **Sigüenza** es de esas escapadas perfectas desde Madrid, y a pocos kilómetros tienes el **Barranco del río Dulce**, el paisaje donde Félix Rodríguez de la Fuente grabó parte de «El Hombre y la Tierra».
 

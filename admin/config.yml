@@ -73,6 +73,19 @@ collections:
         fields:
           - { name: t, label: Nombre de la actividad, widget: string }
           - { name: u, label: Enlace (civitatis.com o getyourguide.es), widget: string }
+      - name: comer
+        label: '¿Dónde comer? (restaurantes)'
+        widget: list
+        required: false
+        hint: 'Opcional. Restaurantes mejor valorados en Google Maps cerca del lugar.'
+        fields:
+          - { name: n, label: Nombre, widget: string }
+          - { name: r, label: Nota en Google (ej. 4.6), widget: number, value_type: float, required: false }
+          - { name: o, label: Número de opiniones, widget: number, required: false }
+          - { name: t, label: Tipo de cocina, widget: string, required: false }
+          - { name: d, label: Dirección, widget: string, required: false }
+          - { name: u, label: Enlace de Google Maps, widget: string, required: false }
+      - { name: comerFecha, label: 'Fecha de las valoraciones (ej. octubre de 2026)', widget: string, required: false }
       - name: faq
         label: 'Preguntas frecuentes (al final del post)'
         widget: list

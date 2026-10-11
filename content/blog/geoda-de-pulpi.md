@@ -30,6 +30,21 @@ actividades:
     u: "https://www.civitatis.com/es/pulpi/tour-mina-rica-geoda-pulpi/"
 guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía oriental en PDF'
+comer:
+  - n: "Come y calla"
+    r: 4.8
+    o: 87
+    d: "Av. los Antones, 58"
+  - n: "Cafe Bar La Tasca"
+    r: 4.5
+    o: 99
+    t: "Bar"
+    d: "C. el Convoy, 126"
+  - n: "Meson la cascada"
+    r: 4.4
+    o: 181
+    t: "Bar restaurante"
+comerFecha: "octubre de 2026"
 ---
 Imagina una cueva forrada de **cristales transparentes de hasta 2 metros**, como si estuvieras dentro de un diamante. Existe, está en **Almería** y se puede visitar: es la **Geoda de Pulpí**, una de las más grandes del mundo.
 

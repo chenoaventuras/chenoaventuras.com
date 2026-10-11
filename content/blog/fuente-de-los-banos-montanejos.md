@@ -27,6 +27,18 @@ faq:
     a: "En Semana Santa y verano, 3 euros online o 4,50 en taquilla entre las 10:00 y las 18:00. Fuera de ese horario y en otoño e invierno, es gratis."
 guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
 guiaTitulo: 'Guía Castellón y Valencia en PDF'
+comer:
+  - n: "Restaurante San Jaime 35"
+    r: 4.5
+    o: 1376
+    t: "Restaurante de cocina española"
+    d: "C. San Jaime, 35"
+  - n: "L'Ermita"
+    r: 4.3
+    o: 344
+    t: "Restaurante de cocina valenciana"
+    d: "C. de los Desamparados, 40"
+comerFecha: "octubre de 2026"
 ---
 En **Montanejos**, en el interior de Castellón, hay un río de aguas **cristalinas** que salen de la tierra a unos **25 °C** todo el año. Es la **Fuente de los Baños**, y bañarte aquí en pleno otoño, rodeado de paredes de roca, es uno de esos planes que no esperas encontrar tan cerca.
 

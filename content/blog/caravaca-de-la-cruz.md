@@ -27,6 +27,23 @@ actividades:
     u: "https://www.civitatis.com/es/caravaca-de-la-cruz/visita-guiada-caravaca-cruz/"
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf
 guiaTitulo: 'Guía Región de Murcia en PDF'
+comer:
+  - n: "Restaurante El casón de los reyes"
+    r: 4.6
+    o: 2566
+    t: "Restaurante de cocina española"
+    d: "Av. Ctra. de Granada, 11"
+  - n: "Restaurante Los Gemelos"
+    r: 4.5
+    o: 1740
+    t: "Restaurante de cocina española"
+    d: "Pl. Cdad. Jardín, 9"
+  - n: "La Tasca de Enfrente"
+    r: 4.7
+    o: 265
+    t: "Bar de tapas"
+    d: "Av. Miguel Espinosa, 14"
+comerFecha: "octubre de 2026"
 ---
 Un castillo en lo alto de un cerro con una basílica barroca dentro, un casco antiguo de calles empinadas y una de las fiestas más espectaculares de España, con **caballos enjaezados con mantos bordados** subiendo a toda velocidad la cuesta del castillo. **Caravaca de la Cruz** es una de las cinco **ciudades santas** del cristianismo y el gran tesoro del noroeste de Murcia.
 

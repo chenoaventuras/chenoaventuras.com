@@ -34,6 +34,20 @@ actividades:
     u: "https://www.civitatis.com/es/alcala-de-henares/ruta-cervantes/"
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "Restaurante Fino Bar"
+    r: 4.8
+    o: 3713
+    d: "C. Carmen Calzado, 15"
+  - n: "Restaurante La Zarza"
+    r: 4.8
+    o: 2623
+    d: "Pl. Rodríguez Marín, 3"
+  - n: "Ebano Gastro Experience"
+    r: 4.7
+    o: 3287
+    d: "C. San Diego, 5"
+comerFecha: "octubre de 2026"
 ---
 Una vez al año, el casco histórico de **Alcalá de Henares** viaja al siglo XVI: puestos ambientados, oficios de época, pasacalles y, como colofón, un **torneo de justas** con caballeros a caballo. Es el **Mercado Cervantino**, el mercado de época más grande de Europa según sus organizadores, y en 2026 la **Semana Cervantina** ha sido declarada **Fiesta de Interés Turístico Internacional**.
 

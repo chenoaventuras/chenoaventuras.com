@@ -26,6 +26,13 @@ actividades:
     u: "https://www.civitatis.com/es/alcudia/excursion-barco-formentor/"
 guia: /assets/guias/guia-baleares-chenoaventuras.pdf
 guiaTitulo: 'Guía Islas Baleares en PDF'
+comer:
+  - n: "Ca'n Pescador - Port de Pollença"
+    r: 4.7
+    o: 4738
+    t: "Restaurante mediterráneo"
+    d: "Passeig Vora Mar, 1"
+comerFecha: "octubre de 2026"
 ---
 En una playa de pinos y agua turquesa al norte de **Mallorca** hay un hotel con más historias que habitaciones. El **Hotel Formentor**, abierto en **1929**, recibió a **Charles Chaplin**, **Winston Churchill**, **Audrey Hepburn**, **John Wayne** y a **Grace Kelly** con el príncipe Rainiero.
 

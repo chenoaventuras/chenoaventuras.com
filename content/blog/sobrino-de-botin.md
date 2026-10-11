@@ -26,6 +26,20 @@ actividades:
     u: "https://www.getyourguide.es/madrid-l46/madrid-tapas-taverns-history-tour-t288860/"
 guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
 guiaTitulo: 'Guía Madrid curioso en PDF'
+comer:
+  - n: "Restaurante Han"
+    r: 4.9
+    o: 1106
+    d: "C. de Bordadores, 4"
+  - n: "Brisket Restaurante"
+    r: 4.8
+    o: 2047
+    d: "C. de Moreto, 7"
+  - n: "Inclán Brutal Bar"
+    r: 4.7
+    o: 20818
+    d: "C. de Álvarez Gato, 4"
+comerFecha: "octubre de 2026"
 ---
 En la calle Cuchilleros, a dos pasos de la Plaza Mayor, hay un restaurante que aparece en el **Libro Guinness de los Récords** como el **más antiguo del mundo**. Se llama **Sobrino de Botín** y dice tener el horno encendido desde **1725**.
 

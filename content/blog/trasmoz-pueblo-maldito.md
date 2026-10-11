@@ -27,6 +27,15 @@ actividades:
     u: "https://www.getyourguide.es/castillo-de-trasmoz-l215408/"
 guia: /assets/guias/guia-aragon-chenoaventuras.pdf
 guiaTitulo: 'Guía Aragón en PDF'
+comer:
+  - n: "El Hayedo de Sofía"
+    r: 4.7
+    o: 182
+  - n: "Mesón Asador Queiles"
+    r: 4.3
+    o: 926
+    d: "Av. Navarra, 18"
+comerFecha: "octubre de 2026"
 ---
 Hay pueblos con leyenda y luego está **Trasmoz**. Un pueblecito del Moncayo, con apenas unas decenas de vecinos, que lleva siglos **excomulgado y maldito por la Iglesia**. Y la maldición, dicen, sigue en vigor.
 

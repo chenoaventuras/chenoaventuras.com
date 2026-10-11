@@ -30,6 +30,12 @@ actividades:
     u: "https://www.civitatis.com/es/foz/paseo-lancha-playa-catedrales/"
 guia: /assets/guias/guia-galicia-chenoaventuras.pdf
 guiaTitulo: 'Guía Galicia en PDF'
+comer:
+  - n: "A Horta de San Roque"
+    r: 4.6
+    o: 1744
+    d: "Rúa de San Roque, 48 (Ribadeo)"
+comerFecha: "octubre de 2026"
 ---
 Arcos de roca de hasta 30 metros que parecen los arbotantes de una catedral gótica, cuevas que se atraviesan andando y pasillos de arena entre acantilados. Eso es la **Playa de las Catedrales**, en Ribadeo (Lugo)… pero ojo: **solo se puede pasear entre sus arcos con la marea baja**.
 

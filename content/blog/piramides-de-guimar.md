@@ -28,6 +28,18 @@ actividades:
     u: "https://www.civitatis.com/es/guimar/entrada-piramides-guimar/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
+comer:
+  - n: "Tasca Rincón de Tara"
+    r: 4.6
+    o: 659
+    t: "Restaurante especializado en tapas"
+    d: "C. Imeldo Seris, 2"
+  - n: "Restaurante Finca Salamanca"
+    r: 4.6
+    o: 80
+    t: "Restaurante de cocina española"
+    d: "Carr. del Puerto, 2"
+comerFecha: "octubre de 2026"
 ---
 En **Tenerife** hay **pirámides**. Seis, de piedra volcánica negra y con escalones, en el pueblo de **Güímar**. Un explorador famoso pensó que tenían relación con las de Egipto y México... y los arqueólogos dicen otra cosa.
 

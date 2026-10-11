@@ -28,6 +28,11 @@ faq:
 actividades:
   - t: "Vuelo en parapente por Huesca y el Pirineo desde Loarre"
     u: "https://www.civitatis.com/es/loarre/vuelo-parapente-huesca/"
+comer:
+  - n: "Hospedería de Loarre"
+    r: 4.5
+    o: 275
+comerFecha: "octubre de 2026"
 ---
 Mil años en lo alto de una peña, murallas con torres redondas, una iglesia románica dentro del recinto y unas vistas que llegan hasta el horizonte. El **castillo de Loarre** es tan de película que **Ridley Scott** lo eligió para rodar *El reino de los cielos*.
 

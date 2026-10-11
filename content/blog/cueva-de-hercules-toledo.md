@@ -32,6 +32,23 @@ actividades:
     u: "https://www.civitatis.com/es/toledo/tour-leyendas-toledo/"
 guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
 guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+comer:
+  - n: "Restaurante La Manuela Toledo"
+    r: 4.9
+    o: 1406
+    t: "Restaurante de cocina castellana"
+    d: "C. Taller del Moro, 5"
+  - n: "Restaurante El Peñón"
+    r: 4.7
+    o: 2867
+    t: "Bar restaurante"
+    d: "Cl. Carrera, 31"
+  - n: "Taberna Asturiana Zapico"
+    r: 4.7
+    o: 1246
+    t: "Restaurante asturiano"
+    d: "C. del Salto del Caballo, 8"
+comerFecha: "octubre de 2026"
 ---
 Bajo las calles de Toledo hay una cueva cerrada con candados. Cada rey visigodo debía añadir uno nuevo, porque el día que alguien la abriera llegaría la desgracia. Hasta que el rey **don Rodrigo** no pudo resistir la curiosidad.
 

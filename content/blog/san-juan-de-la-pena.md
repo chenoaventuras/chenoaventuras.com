@@ -20,6 +20,15 @@ faq:
     a: "El Viejo es el románico construido bajo la roca. El Nuevo es barroco, del siglo XVII, y está en la pradera de arriba, a 1,5 km."
   - q: "¿Qué reyes están enterrados en San Juan de la Peña?"
     a: "En su Panteón Real reposaban los primeros reyes de Aragón, como Ramiro I, Sancho Ramírez y Pedro I. En agosto de 2026 los restos se trasladaron al Museo de Huesca como precaución por el incendio."
+comer:
+  - n: "Espantabrujas Restaurante"
+    r: 4.5
+    o: 656
+  - n: "Restaurante O'fogaril"
+    r: 4.3
+    o: 927
+    d: "C. Baja, 6"
+comerFecha: "octubre de 2026"
 ---
 Imagina un monasterio románico metido debajo de una roca gigante, como si la montaña lo protegiera con la mano. Así es **San Juan de la Peña**, cuna del reino de Aragón, panteón de sus primeros reyes y, según la tradición, el lugar donde se guardó durante siglos el **Santo Grial**.
 

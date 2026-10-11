@@ -33,6 +33,21 @@ actividades:
     u: "https://www.getyourguide.es/murcia-l3484/murcia-almadenes-canyon-rafting-with-monigotes-cave-visit-t385327/"
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf
 guiaTitulo: 'Guía Región de Murcia en PDF'
+comer:
+  - n: "Restaurante Ganso Manso"
+    r: 4.9
+    o: 531
+    t: "Restaurante de cocina española"
+    d: "C. de los Frailes, 8"
+  - n: "Tarradellas Restaurante"
+    r: 4.7
+    o: 980
+    t: "Restaurante de cocina española"
+    d: "C. Quevedo, 21"
+  - n: "La Boca Te Lía - Cieza"
+    r: 4.8
+    o: 432
+comerFecha: "octubre de 2026"
 ---
 Junto al **río Segura**, en el campo de **Cieza**, hay un rincón donde el agua **sale a borbotones** desde las profundidades de la tierra. Se llama **Fuente del Gorgotón**, y aunque es una parada corta, tiene algo hipnótico: te quedas mirando cómo burbujea el agua sin darte cuenta del tiempo.
 

@@ -30,6 +30,22 @@ actividades:
     u: "https://www.getyourguide.es/lanzarote-l421/luxury-catamaran-cruise-to-the-papagayo-beaches-t86426/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Restaurante La Chalana Del Charco"
+    r: 4.6
+    o: 1764
+    t: "Restaurante de fusión"
+    d: "Calle Braulio de León, 2"
+  - n: "KOI"
+    r: 4.7
+    o: 533
+    t: "Restaurante especializado en fusión asiática"
+    d: "Barceló Lanzarote Active Resort, Av. del Mar, 5"
+  - n: "Restaurante Lilium Arrecife"
+    r: 4.6
+    o: 1022
+    t: "Restaurante de alta cocina"
+comerFecha: "octubre de 2026"
 ---
 Entre Arrecife y Costa Teguise hay un barco oxidado que parece salido de una película de piratas. Es el **Telamon**, encallado frente a la costa de **Lanzarote** desde **1981**.
 

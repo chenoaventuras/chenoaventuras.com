@@ -21,6 +21,22 @@ faq:
     a: "Miles: el territorio Sénia tiene la mayor concentración de olivos milenarios del mundo."
   - q: "¿Sigue dando aceitunas?"
     a: "Sí, los olivos de la finca siguen produciendo."
+comer:
+  - n: "Restaurante Les Moles"
+    r: 4.7
+    o: 1608
+    t: "Restaurante de alta cocina"
+    d: "Carr. de la Sénia, km 2"
+  - n: "Lo Paseo"
+    r: 4.7
+    o: 982
+    d: "Passeig Estació, 39"
+  - n: "Bistró Amunt"
+    r: 4.8
+    o: 214
+    t: "Restaurante de cocina catalana"
+    d: "Carretera Ulldecona, km 10"
+comerFecha: "octubre de 2026"
 ---
 En el sur de Tarragona, en **Ulldecona**, hay un olivo que se calcula que se plantó en el **año 314**, cuando el emperador **Constantino** gobernaba Roma. Se llama **La Farga de l'Arion** y es uno de los árboles más antiguos de España que sigue dando aceitunas.
 

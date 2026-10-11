@@ -24,6 +24,23 @@ faq:
     a: "En el municipio de Cuevas del Almanzora (Almería), a pocos minutos de las playas de Vera y Mojácar."
 guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía oriental en PDF'
+comer:
+  - n: "Restaurante D'Alvaro"
+    r: 4.6
+    o: 337
+    t: "Parrilla"
+    d: "C. Baria, 6"
+  - n: "El Tipico Italiano"
+    r: 4.7
+    o: 187
+    t: "Restaurante napolitano"
+    d: "Pl. de Los Conteros, 1"
+  - n: "Casa Perú Beach"
+    r: 4.5
+    o: 580
+    t: "Restaurante peruano"
+    d: "AL-7107, 49"
+comerFecha: "octubre de 2026"
 ---
 El **17 de enero de 1966**, un bombardero B-52 y un avión cisterna de Estados Unidos chocaron en el cielo de **Palomares** (Almería). Cayeron **cuatro bombas termonucleares**. Ninguna explotó, pero la historia es de película.
 

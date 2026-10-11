@@ -32,6 +32,22 @@ faq:
     a: "No es recomendable: la roca es blanda y frágil. Es mejor fotografiarlo desde abajo."
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
+comer:
+  - n: "Restaurante Delicias del Mar"
+    r: 4.7
+    o: 2804
+    t: "Marisquería"
+    d: "Av. Cabildo Insular, 5"
+  - n: "Marisquería Agua y Sal"
+    r: 4.5
+    o: 6951
+    t: "Marisquería"
+    d: "C. Callao Hondo, 22"
+  - n: "Restaurante Tajao Tabaibarril"
+    r: 4.5
+    o: 1563
+    d: "C. el Charco, 16"
+comerFecha: "octubre de 2026"
 ---
 En el sur de Tenerife, a un paso de la autopista y casi sin que nadie lo sepa, hay un arco de roca que parece sacado de otro planeta. Es el **Arco de Tajao**, y si te gustan los sitios fotogénicos y poco masificados, apúntatelo: es de esas paradas que te sacan una sonrisa.
 

@@ -23,6 +23,23 @@ faq:
     a: "A unos 15 km, unos 20 minutos en coche."
   - q: "¿Cómo llegar al Condado de Treviño?"
     a: "En coche desde Vitoria-Gasteiz, a unos 15 km. Desde la ciudad de Burgos hay más de 100 km."
+comer:
+  - n: "Taberna Dulanto"
+    r: 4.6
+    o: 666
+    t: "Taberna"
+    d: "CL-127, 19"
+  - n: "Restaurante Erre de Roca"
+    r: 4.7
+    o: 202
+    t: "Restaurante de alta cocina"
+    d: "Ctra. Treviño, 3"
+  - n: "Bar Roa"
+    r: 4.5
+    o: 704
+    t: "Bar restaurante"
+    d: "C. Mayor, 30"
+comerFecha: "octubre de 2026"
 ---
 Si miras un **mapa** de Álava verás un agujero en medio: no es Álava, es **Burgos**. El **Condado de Treviño** es un trozo de Castilla y León completamente rodeado por el País Vasco, a 15 km de **Vitoria** y a más de 100 de la ciudad de Burgos.
 

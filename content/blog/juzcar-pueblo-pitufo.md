@@ -31,6 +31,18 @@ actividades:
     u: "https://www.getyourguide.es/andalusia-l68/atajate-via-ferrata-guided-climbing-t586103/"
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
+comer:
+  - n: "Bar ParribaPabajo"
+    r: 4.5
+    o: 455
+    t: "Restaurante familiar"
+    d: "Av. Havaral, 1"
+  - n: "Bar Torricheli"
+    r: 4.3
+    o: 912
+    t: "Bar de tapas"
+    d: "Av. Havaral, 7"
+comerFecha: "octubre de 2026"
 ---
 En la Serranía de Ronda todos los pueblos son blancos... menos uno. **Júzcar** es **azul**. En **2011** se pintó entero para el estreno mundial de la película de **Los Pitufos**, y a los vecinos les gustó tanto que decidieron quedarse así.
 

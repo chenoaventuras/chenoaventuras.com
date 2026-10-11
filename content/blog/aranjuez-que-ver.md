@@ -33,6 +33,22 @@ actividades:
     u: "https://www.civitatis.com/es/aranjuez/paseo-barco-aranjuez/"
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "Restaurante El Corral de la Abuela"
+    r: 4.7
+    o: 3185
+    d: "C. de la Reina, 2"
+  - n: "Restaurante Postas Taperia"
+    r: 4.7
+    o: 1068
+    t: "Restaurante especializado en tapas"
+    d: "C. de San Antonio, 116"
+  - n: "Restaurante Esmeraldas"
+    r: 4.6
+    o: 1831
+    t: "Restaurante especializado en comida ecléctica"
+    d: "C. de la Florida, nº 4"
+comerFecha: "octubre de 2026"
 ---
 Un palacio real rodeado de jardines, fuentes y bosques junto al río Tajo, a menos de una hora de Madrid. **Aranjuez** fue durante siglos la residencia de primavera de los reyes de España, y hoy su paisaje cultural es **Patrimonio de la Humanidad**.
 

@@ -22,6 +22,16 @@ faq:
     a: "Basta con el DNI, porque pasas por la aduana de Andorra."
   - q: "¿Cómo llegar a Os de Civís?"
     a: "Por carretera desde Sant Julià de Lòria (Andorra), a unos 10 km. Es la única forma de llegar en coche."
+comer:
+  - n: "Restaurante Hotel Os de Civís"
+    r: 4.7
+    o: 1741
+    d: "Carrer Sant Julia, 13"
+  - n: "L'Era del Julià"
+    r: 4.7
+    o: 679
+    t: "Restaurante de cocina catalana"
+comerFecha: "octubre de 2026"
 ---
 Imagina vivir en España pero tener que **salir del país** cada vez que quieres ir a tu ayuntamiento. Pasa en **Os de Civís**, un pueblo de Lleida al que solo se llega por carretera **atravesando Andorra**.
 

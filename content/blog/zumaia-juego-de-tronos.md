@@ -28,6 +28,22 @@ actividades:
     u: "https://www.civitatis.com/es/zumaia/paseo-barco-flysch-zumaia/"
 guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
 guiaTitulo: 'Guía País Vasco en PDF'
+comer:
+  - n: "Muina Taberna"
+    r: 4.8
+    o: 297
+    t: "Bar restaurante"
+    d: "Eusebio Gurrutxaga Plaza, 8"
+  - n: "Restaurante XL Taberna"
+    r: 4.7
+    o: 395
+    d: "Plaza Ondartxo, 4"
+  - n: "Restaurante Idoia"
+    r: 4.5
+    o: 3614
+    t: "Bar restaurante"
+    d: "Julio Beobide Ibilbidea, 2"
+comerFecha: "octubre de 2026"
 ---
 Si has visto **Juego de Tronos**, ya has estado en **Zumaia**. Su playa de **Itzurun** fue la costa de **Rocadragón** en la séptima temporada. Pero lo más alucinante no es la serie: son sus acantilados de **flysch**, capas de roca que cuentan **millones de años** de historia de la Tierra.
 

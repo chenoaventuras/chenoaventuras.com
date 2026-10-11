@@ -31,6 +31,21 @@ faq:
 actividades:
   - t: "Monte Igueldo: entradas y tours"
     u: "https://www.getyourguide.es/monte-igueldo-l36991/"
+comer:
+  - n: "Orburu"
+    r: 4.9
+    o: 722
+    t: "Restaurante vegetariano"
+  - n: "Rekondo"
+    r: 4.7
+    o: 1573
+    d: "Igeldo Pasealekua, 57"
+  - n: "TrikuHarri Taberna Jatetxea"
+    r: 4.6
+    o: 3062
+    t: "Bar restaurante"
+    d: "Matia Kalea, 35"
+comerFecha: "octubre de 2026"
 ---
 Hay parques de atracciones más grandes, más rápidos y más modernos. Pero ninguno tiene **la bahía de La Concha a tus pies** mientras te subes a una montaña suiza de hace casi un siglo. El Monte Igueldo lleva más de un siglo divirtiendo a familias y sigue teniendo ese encanto de parque de toda la vida que ya cuesta encontrar.
 

@@ -30,6 +30,23 @@ actividades:
     u: "https://www.civitatis.com/es/rosas/paseo-catamaran-cabo-creus/"
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Celeste"
+    r: 4.8
+    o: 1717
+    t: "Restaurante italiano"
+    d: "Carrer Nou, 1"
+  - n: "El Rebost de Cadaqués"
+    r: 4.8
+    o: 600
+    t: "Restaurante de cocina catalana"
+    d: "Carrer Miquel Rosset, 13"
+  - n: "Es Balconet"
+    r: 4.6
+    o: 2750
+    t: "Restaurante mediterráneo"
+    d: "Carrer de Sant Antoni, 2"
+comerFecha: "octubre de 2026"
 ---
 Es el primer sitio de la península donde sale el sol. El **Cabo de Creus**, en Girona, es el **punto más oriental de la península ibérica**: un paisaje de rocas retorcidas por el viento que obsesionaba a **Salvador Dalí**.
 

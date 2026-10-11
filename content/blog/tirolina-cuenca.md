@@ -32,6 +32,20 @@ faq:
 actividades:
   - t: "Tour de Cuenca al completo con entradas"
     u: "https://www.civitatis.com/es/cuenca/visita-guiada-cuenca-completa/"
+comer:
+  - n: "Restaurante Casa Manzar"
+    r: 4.8
+    o: 587
+    d: "Rda. Julián Romero, 6"
+  - n: "PARANOIA Restaurante"
+    r: 4.8
+    o: 561
+    d: "C. Princesa Zaida, 13"
+  - n: "Restaurante Olea Comedor"
+    r: 4.7
+    o: 795
+    d: "Av. de Castilla-la Mancha, 3"
+comerFecha: "octubre de 2026"
 ---
 Pocas tirolinas del mundo tienen un decorado como este: la **Hoz del Huécar** bajo tus pies y las **Casas Colgadas** de Cuenca al fondo. Son unos 40 segundos de vuelo que se recuerdan mucho más tiempo. Si estás pensando en tirarte, te cuento todo lo que necesitas saber.
 

@@ -24,6 +24,17 @@ faq:
     a: "Sí, puedes subir en coche hasta el aparcamiento del monasterio. Está a unos 60 km de Barcelona, una hora."
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Restaurant Pont Del Gat"
+    r: 4.5
+    o: 2263
+    t: "Restaurante de cocina catalana"
+  - n: "Bar Restaurante Bartomeu"
+    r: 4.6
+    o: 226
+    t: "Bar restaurante"
+    d: "Carrer de Balmes, 14"
+comerFecha: "octubre de 2026"
 ---
 Una montaña de roca con forma de sierra, llena de agujas gigantes, y encajado en ella a 700 metros de altura, un monasterio con mil años de historia. **Montserrat** es la gran escapada desde Barcelona: un sitio para devotos de la **Moreneta**, para amantes del senderismo y para escaladores de todo el mundo.
 

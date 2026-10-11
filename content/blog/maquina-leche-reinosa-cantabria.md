@@ -28,6 +28,22 @@ faq:
     a: "El Nacimiento del Ebro en Fontibre, la Colegiata de Cervatos, las ruinas romanas de Julióbriga y el Embalse del Ebro."
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+comer:
+  - n: "Restaurante y Pizzería La Mole"
+    r: 4.6
+    o: 835
+    t: "Restaurante italiano"
+    d: "C. San Justo, 4"
+  - n: "Restaurante Brasería La Cabaña"
+    r: 4.5
+    o: 1285
+    d: "C. Juan José Ruano, 4"
+  - n: "Bar Restaurante El Cid"
+    r: 4.5
+    o: 241
+    t: "Bar restaurante"
+    d: "C. Ángel de los Ríos, 14"
+comerFecha: "octubre de 2026"
 ---
 Hay curiosidades que encuentras por casualidad y que te alegran el viaje. En **Reinosa**, en el corazón de Cantabria, hay una **máquina que despacha leche recién ordeñada** de vacas de la zona, como si fuera una fuente pública. Echas la moneda, pones la botella y listo.
 

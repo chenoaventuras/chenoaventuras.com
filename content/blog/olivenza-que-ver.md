@@ -29,6 +29,20 @@ actividades:
     u: "https://www.civitatis.com/es/olivenza/visita-guiada-olivenza/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Norte de Extremadura en PDF'
+comer:
+  - n: "Restaurante La rala"
+    r: 4.6
+    o: 329
+    d: "C. López de Ayala, 7"
+  - n: "Asador Tierra de Toros"
+    r: 4.4
+    o: 272
+    d: "Crt Badajoz Olivenza km 28"
+  - n: "Cafe Bar Santa María"
+    r: 4.4
+    o: 184
+    t: "Bar"
+comerFecha: "octubre de 2026"
 ---
 Calles blancas con nombres en dos idiomas, azulejos azules en las iglesias, columnas retorcidas como cuerdas de barco… y todo eso en Badajoz. **Olivenza** fue **portuguesa durante cinco siglos**, y todavía se nota en cada rincón.
 

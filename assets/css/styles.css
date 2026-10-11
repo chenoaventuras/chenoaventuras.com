@@ -489,6 +489,16 @@ p { margin: 0 0 1em; }
 .article__body .actbox__code { max-width: 68ch; margin: 0 auto 6px; font-size: .98rem; }
 .article__body .actbox__note { max-width: 68ch; margin: 0 auto 32px; font-size: .82rem; color: var(--ink-mute); }
 @media (max-width: 560px) { .article__body .actbox a { flex-wrap: wrap; gap: 6px 10px; } .actbox__name { flex-basis: 100%; order: 2; } .actbox__go { order: 3; } }
+.article__body .eatbox { list-style: none; padding: 0; margin: 0 auto 10px; max-width: 980px; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
+.article__body .eatbox li { margin: 0; background: var(--white); border-radius: 12px; box-shadow: var(--shadow-sm); padding: 16px 18px; display: flex; flex-direction: column; gap: 4px; border-top: 4px solid var(--gold); }
+.article__body .eatbox h3 { font-size: 1.05rem; color: var(--night); margin: 0 0 2px; }
+.article__body .eatbox p { margin: 0; font-size: .9rem; line-height: 1.45; }
+.article__body .eatbox__rate { font-weight: 700; color: var(--night); }
+.article__body .eatbox__rate span { font-weight: 400; color: var(--ink-mute); }
+.article__body .eatbox__type { color: var(--ink-soft); }
+.article__body .eatbox__addr { color: var(--ink-mute); font-size: .84rem; }
+.article__body a.eatbox__go { margin-top: auto; padding-top: 8px; font-weight: 700; font-size: .88rem; color: var(--gold-dark, var(--night)); text-decoration: none; }
+.article__body .eatbox__note { max-width: 68ch; margin: 0 auto 32px; font-size: .82rem; color: var(--ink-mute); text-align: center; }
 /* ---------- Guías (posts con wide: true) ---------- */
 .article__body--wide { max-width: none; }
 .article__body--wide > p { max-width: 68ch; margin-inline: auto; }

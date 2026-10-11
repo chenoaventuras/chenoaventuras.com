@@ -28,6 +28,21 @@ actividades:
     u: "https://www.getyourguide.es/leon-spain-l144127/picos-de-europa-cares-deva-river-sup-tour-t710556/"
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+comer:
+  - n: "Sidrería Casa Niembro"
+    r: 4.8
+    o: 2095
+    t: "Restaurante asturiano"
+  - n: "Bar la Fuentina"
+    r: 4.6
+    o: 738
+    t: "Bar"
+    d: "Camarmeña"
+  - n: "Bar El Carteru La Bolera"
+    r: 4.6
+    o: 469
+    d: "Tielve, 1"
+comerFecha: "octubre de 2026"
 ---
 Un camino excavado en la roca, colgado sobre un precipicio, con el río Cares turquesa allá abajo y paredes de mil metros a los lados. La **Ruta del Cares** es probablemente la ruta de senderismo más famosa de España, y la llaman **la garganta divina**.
 

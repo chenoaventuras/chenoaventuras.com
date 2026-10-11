@@ -31,6 +31,22 @@ actividades:
     u: "https://www.civitatis.com/es/ceuta/paseo-barco-ceuta/"
   - t: "Free tour de los misterios y leyendas de Ceuta"
     u: "https://www.civitatis.com/es/ceuta/free-tour-misterios-leyendas-ceuta/"
+comer:
+  - n: "Mesón Restaurante Alberto Ceuta"
+    r: 4.7
+    o: 694
+    t: "Restaurante de cocina española"
+    d: "Av. de África"
+  - n: "Luz y Brasa"
+    r: 4.7
+    o: 169
+    t: "Parrilla"
+  - n: "Restaurante Teatro Apolo"
+    r: 4.6
+    o: 187
+    t: "Restaurante mediterráneo"
+    d: "C. González de la Vega, 4"
+comerFecha: "octubre de 2026"
 ---
 Una ciudad española en el norte de África, entre el Mediterráneo y el Atlántico, con murallas que se recorren **en kayak** por un foso de agua de mar. **Ceuta** sorprende a casi todo el que llega: fortalezas, calas, un monte con vistas al Estrecho y la silueta de la **Mujer Muerta** en el horizonte.
 

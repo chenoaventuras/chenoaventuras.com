@@ -25,6 +25,20 @@ faq:
 actividades:
   - t: "Barranquismo de un día en la Sierra de Guara"
     u: "https://www.getyourguide.es/las-almunias-l200630/canyoning-day-trip-in-sierra-de-guara-t632167/"
+comer:
+  - n: "Casa Pardina"
+    r: 4.8
+    o: 1960
+    d: "C. Medio, 13"
+  - n: "Restaurante Cueva Reina"
+    r: 4.7
+    o: 1713
+    t: "Restaurante mediterráneo"
+    d: "C. Baja, 42"
+  - n: "Le Petit Bistro"
+    r: 4.6
+    o: 910
+comerFecha: "octubre de 2026"
 ---
 Pasarelas metálicas colgadas de la roca, un río de aguas turquesas por debajo y, al final, uno de los pueblos más bonitos de España. Las **Pasarelas de Alquézar** son la ruta más popular de la Sierra de Guara, y con razón.
 

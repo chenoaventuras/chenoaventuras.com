@@ -28,6 +28,21 @@ actividades:
     u: "https://www.getyourguide.es/madrid-l46/madrid-must-see-with-atardeder-at-the-debod-temple-t810561/"
 guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
 guiaTitulo: 'Guía Madrid curioso en PDF'
+comer:
+  - n: "Restaurante Han"
+    r: 4.9
+    o: 1106
+    d: "C. de Bordadores, 4"
+  - n: "Inclán Brutal Bar"
+    r: 4.7
+    o: 20818
+    d: "C. de Álvarez Gato, 4"
+  - n: "My Pasta My Art"
+    r: 4.7
+    o: 19795
+    t: "Restaurante italiano"
+    d: "C. del Espíritu Santo, 16"
+comerFecha: "octubre de 2026"
 ---
 Tiene más de **2.000 años**, viene de las orillas del **Nilo** y está en pleno centro de **Madrid**. El **Templo de Debod** es un templo egipcio auténtico, piedra a piedra, y su atardecer es uno de los más famosos de la ciudad.
 

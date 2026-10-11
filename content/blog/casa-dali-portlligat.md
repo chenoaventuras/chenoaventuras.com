@@ -28,6 +28,23 @@ actividades:
     u: "https://www.getyourguide.es/casa-museu-salvador-dali-l119690/"
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Celeste"
+    r: 4.8
+    o: 1717
+    t: "Restaurante italiano"
+    d: "Carrer Nou, 1"
+  - n: "El Rebost de Cadaqués"
+    r: 4.8
+    o: 600
+    t: "Restaurante de cocina catalana"
+    d: "Carrer Miquel Rosset, 13"
+  - n: "Restaurant Gula Cadaqués"
+    r: 4.9
+    o: 366
+    t: "Restaurante mediterráneo"
+    d: "Carrer Horta d'en Sanés, 4"
+comerFecha: "octubre de 2026"
 ---
 Unos **huevos gigantes** sobre el tejado, un **oso disecado** en la entrada y una piscina con forma de... bueno, ya lo verás. La casa de **Salvador Dalí** en **Portlligat**, junto a Cadaqués, es tan surrealista como él.
 

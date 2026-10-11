@@ -32,6 +32,22 @@ actividades:
     u: "https://www.civitatis.com/es/hondarribia/free-tour-hondarribia/"
 guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
 guiaTitulo: 'Guía País Vasco en PDF'
+comer:
+  - n: "Arroenia - cuisine Basque"
+    r: 4.7
+    o: 1012
+    t: "Restaurante vasco"
+    d: "17 Rue Iturbidea Pausu, Behobie"
+  - n: "Aranaztarra"
+    r: 4.8
+    o: 229
+    t: "Bar restaurante"
+    d: "Korrokoitz Karrika, 21"
+  - n: "Restaurante Mikel"
+    r: 4.5
+    o: 2344
+    d: "Av. Iparralde, 59"
+comerFecha: "octubre de 2026"
 ---
 En el río Bidasoa, entre **Irun** y **Hendaya**, hay una isla diminuta que **cambia de país cada seis meses**: de febrero a julio es española y de agosto a enero, francesa. Es la **Isla de los Faisanes**, el condominio más pequeño del mundo.
 

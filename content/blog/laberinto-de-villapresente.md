@@ -25,6 +25,22 @@ faq:
     a: "Sí, les encanta y es un buen plan de medio día, combinado con Santillana del Mar."
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+comer:
+  - n: "Restaurante Gran Duque"
+    r: 4.7
+    o: 2273
+    t: "Restaurante cántabro"
+    d: "C. Jesús Otero, 7"
+  - n: "Pizzería Bitinia"
+    r: 4.6
+    o: 3828
+    t: "Pizzería"
+    d: "Plaza del Rey, 3"
+  - n: "Restaurante Palacio Mijares"
+    r: 4.6
+    o: 1008
+    t: "Restaurante mediterráneo"
+comerFecha: "octubre de 2026"
 ---
 Más de **5 kilómetros** de pasillos entre muros de ciprés de **2,5 metros** de alto. El **Laberinto de Villapresente**, en Cantabria, es el **laberinto vegetal más grande de España**.
 

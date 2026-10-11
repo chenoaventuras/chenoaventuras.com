@@ -30,6 +30,22 @@ actividades:
     u: "https://www.civitatis.com/es/salamanca/free-tour-misterios-leyendas/"
 guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía Castilla y León en PDF'
+comer:
+  - n: "Restaurante Isidro"
+    r: 4.7
+    o: 3643
+    d: "C. Pozo Amarillo, 23"
+  - n: "Restaurante Corte & Cata"
+    r: 4.6
+    o: 2617
+    t: "Restaurante especializado en tapas"
+    d: "C. Serranos, 1"
+  - n: "Plaza Mayor"
+    r: 4.6
+    o: 2372
+    t: "Restaurante de cocina castellana"
+    d: "Pl. Mayor, 11"
+comerFecha: "octubre de 2026"
 ---
 En una cripta de Salamanca, dice la leyenda, el mismísimo **diablo** daba clases de magia negra. Siete alumnos, siete años… y uno de ellos se quedaba con él para siempre como pago.
 

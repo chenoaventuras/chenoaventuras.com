@@ -24,6 +24,20 @@ faq:
     a: "Cáceres y su Ciudad Monumental, a 15 minutos, y Trujillo, a menos de una hora."
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Extremadura en PDF'
+comer:
+  - n: "Los Puri 1978"
+    r: 4.5
+    o: 694
+    d: "Pl. Mayor, 15"
+  - n: "Restaurante Museo Vostell"
+    r: 4.4
+    o: 952
+    t: "Bar restaurante"
+  - n: "Bar Piper"
+    r: 4.8
+    o: 81
+    d: "C. Fajardo, 58"
+comerFecha: "octubre de 2026"
 ---
 Rocas de granito enormes, redondeadas como si alguien las hubiera colocado a mano, reflejándose en charcas tranquilas. Y encima de muchas de ellas, **nidos de cigüeña**. Son **Los Barruecos**, un Monumento Natural a solo 15 minutos de Cáceres.
 

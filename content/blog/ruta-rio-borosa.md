@@ -32,6 +32,11 @@ actividades:
     u: "https://www.civitatis.com/es/cazorla/visita-guiada-cazorla-cata-aceite/"
 guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía oriental en PDF'
+comer:
+  - n: "Chiringuito Jabalí"
+    r: 4.4
+    o: 737
+comerFecha: "octubre de 2026"
 ---
 Agua turquesa, pasarelas de madera encajadas entre paredes de roca, cascadas y hasta **túneles excavados en la montaña**. La **ruta del río Borosa** es probablemente el sendero más famoso del Parque Natural de las Sierras de Cazorla, Segura y Las Villas, y es de esas rutas que van mejorando a cada kilómetro.
 

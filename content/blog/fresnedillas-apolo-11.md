@@ -25,6 +25,21 @@ faq:
     a: "En coche: está en el oeste de la Comunidad de Madrid, a unos 50 km de la capital, cerca de Robledo de Chavela."
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "La Cantina Jaranda de Pedro"
+    r: 4.7
+    o: 284
+    d: "C. de la Iglesia, 8"
+  - n: "La Real Restaurante"
+    r: 4.7
+    o: 275
+    d: "C. de Robledo, 2"
+  - n: "Bar Amador"
+    r: 4.5
+    o: 1047
+    t: "Restaurante de comida madrileña"
+    d: "C. Real, 57"
+comerFecha: "octubre de 2026"
 ---
 En julio de 1969, mientras el mundo miraba la Luna, unas antenas en un pueblo de la sierra de Madrid estaban trabajando. Junto a **Fresnedillas de la Oliva** funcionaba una **estación de seguimiento de la NASA** que ayudó a comunicar con las misiones **Apolo**.
 

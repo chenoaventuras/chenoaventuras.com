@@ -30,6 +30,20 @@ actividades:
     u: "https://www.getyourguide.es/benalmadena-l429/zamek-colomares-wejscie-i-interpretacja-t470967/"
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
+comer:
+  - n: "Asador Restaurante Cafe Bar Casa Miguel"
+    r: 4.9
+    o: 3121
+    d: "Av. de la Constitución, 61"
+  - n: "Asador El Quebracho Parrilla Argentina"
+    r: 4.7
+    o: 2665
+    d: "Av. las Palmeras, 6"
+  - n: "EnBoca Gastrobar"
+    r: 4.7
+    o: 711
+    d: "C. San Telmo, 18"
+comerFecha: "octubre de 2026"
 ---
 Románico, gótico, mudéjar y bizantino, todo mezclado en el mismo edificio. El **Castillo de Colomares**, en Benalmádena, es un monumento a **Cristóbal Colón** que levantaron a mano un médico y dos albañiles. Y dentro tiene la que dicen que es **la iglesia más pequeña del mundo**.
 

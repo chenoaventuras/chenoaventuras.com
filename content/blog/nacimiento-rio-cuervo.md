@@ -30,6 +30,17 @@ faq:
     a: "A unos 85 km, alrededor de una hora y media en coche."
   - q: "¿Dónde está Vega del Codorno?"
     a: "En lo más alto de la Serranía de Cuenca: allí está el Nacimiento del río Cuervo, a 1 h 30 de Cuenca."
+comer:
+  - n: "Restaurante Sierra Alta"
+    r: 4.6
+    o: 1695
+    d: "CM-2106, 60"
+  - n: "Bar - Restaurante “El Rincón”"
+    r: 4.6
+    o: 724
+    t: "Bar restaurante"
+    d: "La Cueva b, 3"
+comerFecha: "octubre de 2026"
 ---
 Agua que brota de la roca entre musgo verde intenso y cae en pequeñas cascadas hasta formar un río cristalino: el **Nacimiento del río Cuervo** es uno de los rincones más bonitos de toda la provincia de Cuenca. Y en invierno, si hiela, sus cascadas se quedan congeladas como estalactitas.
 

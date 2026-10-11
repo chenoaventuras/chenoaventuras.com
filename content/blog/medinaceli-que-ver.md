@@ -24,6 +24,20 @@ faq:
     a: "A algo más de hora y media por la A-2, y a dos horas de Zaragoza. Está en el sur de Soria."
   - q: "¿Cuándo es el Toro Jubilo de Medinaceli?"
     a: "En noviembre, el sábado más cercano al 13, durante las fiestas de los Cuerpos Santos."
+comer:
+  - n: "Bavieca"
+    r: 4.5
+    o: 2380
+    d: "C. Campo de San Nicolás, 6"
+  - n: "El Aljibe"
+    r: 4.5
+    o: 2128
+    d: "C. Campo de San Nicolás, 11"
+  - n: "Restaurante Duque"
+    r: 4.5
+    o: 1345
+    d: "Av. Madrid, 29"
+comerFecha: "octubre de 2026"
 ---
 Seguro que lo has visto cientos de veces sin saberlo: el arco que aparece en las **señales marrones de monumentos** de las carreteras españolas está inspirado en uno real. Está en **Medinaceli**, un pueblo de piedra en lo alto de un cerro de Soria, y es el **único arco romano de tres vanos** que se conserva en España.
 

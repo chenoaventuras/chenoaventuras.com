@@ -29,6 +29,23 @@ faq:
     a: "Sí, la entrada al hayedo requiere reserva previa."
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "Bar El Rincón"
+    r: 4.6
+    o: 1014
+    t: "Bar restaurante"
+    d: "C. Real, 8"
+  - n: "Mesón El Hayedo"
+    r: 4.5
+    o: 1495
+    t: "Restaurante familiar"
+    d: "C. Turco, 13"
+  - n: "Restaurante Serbal"
+    r: 4.8
+    o: 105
+    t: "Restaurante de comida rural"
+    d: "C. del Rosario, 1"
+comerFecha: "octubre de 2026"
 ---
 En la esquina noreste de la Comunidad de Madrid, la **Sierra del Rincón** esconde un paso de montaña que une tres pueblos muy distintos, cada uno con su propio motivo para visitarlo. Es el **Puerto de la Puebla**, y es igual de bonito recorrerlo en coche que parar en cada uno de sus extremos.
 

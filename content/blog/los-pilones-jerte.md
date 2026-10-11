@@ -29,6 +29,22 @@ actividades:
     u: "https://www.civitatis.com/es/jerte/tour-4x4-jerte-recogida-cerezas/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Norte de Extremadura en PDF'
+comer:
+  - n: "El Siglo – Restaurante"
+    r: 4.5
+    o: 761
+    t: "Restaurante de cocina española"
+    d: "C. Gargantilla, 10"
+  - n: "Bar Libelula"
+    r: 4.7
+    o: 147
+    t: "Bar"
+    d: "Ctra. de Plasencia, 8"
+  - n: "La Cabaña del Jerte"
+    r: 4.4
+    o: 2159
+    d: "Av. Ramón y Cajal, 17"
+comerFecha: "octubre de 2026"
 ---
 Imagina un río de agua cristalina que ha ido excavando el granito hasta dejarlo pulido como si fuera mármol, formando **pozas redondas** una detrás de otra. Eso son **Los Pilones**, en la Reserva Natural de la Garganta de los Infiernos, en el Valle del Jerte.
 

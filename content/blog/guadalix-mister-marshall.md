@@ -25,6 +25,22 @@ faq:
     a: "En coche por la A-1, en unos 45 minutos (unos 50 km)."
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "la Gastroneta de Joe"
+    r: 4.8
+    o: 185
+    t: "Bar restaurante"
+    d: "Pl. Consistorial, 6"
+  - n: "Asador Junco"
+    r: 4.4
+    o: 3162
+    d: "Av. Alejandro Rubio, 101"
+  - n: "Bar restaurante chiqui"
+    r: 4.4
+    o: 1673
+    t: "Bar restaurante"
+    d: "Av. Alejandro Rubio, 14"
+comerFecha: "octubre de 2026"
 ---
 «Americanos, os recibimos con alegría...». La canción más famosa del cine español sonó por primera vez en las calles de **Guadalix de la Sierra**, a 50 km de Madrid. Aquí rodó **Luis García Berlanga** en 1952 *¡Bienvenido, Mister Marshall!*, una de las mejores películas españolas de la historia.
 

@@ -24,6 +24,23 @@ faq:
     a: "Porque lleva generaciones fabricándolas, primero con Fontaneda y hoy con Gullón. Ese pasado galletero forma parte de la identidad del pueblo."
   - q: "¿Qué es el Carnaval de la Galleta de Aguilar de Campoo?"
     a: "El carnaval de Aguilar de Campoo, capital de la galleta, declarado de Interés Turístico de Castilla y León."
+comer:
+  - n: "Restaurante La Carbonara"
+    r: 4.8
+    o: 743
+    t: "Restaurante italiano"
+    d: "Apertura: 13:30"
+  - n: "Nune Restaurante"
+    r: 4.8
+    o: 183
+    t: "Restaurante de cocina castellana"
+    d: "Pl. España, 7, 1ª Planta"
+  - n: "Restaurante El Burgalés"
+    r: 4.4
+    o: 1462
+    t: "Bar restaurante"
+    d: "C. Matias Bo. y Mier, 23"
+comerFecha: "octubre de 2026"
 ---
 Todo el mundo conoce Aguilar de Campoo por sus galletas, pero quien solo se queda con eso se pierde uno de los pueblos más completos que hay para visitar en la Montaña Palentina: castillo, románico, un embalse y un casco histórico que da para todo un día.
 

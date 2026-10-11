@@ -35,6 +35,20 @@ actividades:
     u: "https://www.civitatis.com/es/biescas/via-ferrata-valle-tena/"
   - t: "Panticosa: parapente en el Pirineo"
     u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+comer:
+  - n: "Gran Pic restaurante"
+    r: 4.8
+    o: 713
+    d: "C. Juan de Lanuza, 4"
+  - n: "Asador Casa Marton"
+    r: 4.7
+    o: 921
+    d: "Pl. Valle de Tena, 5"
+  - n: "Asador Casa Jaimico"
+    r: 4.6
+    o: 1008
+    d: "C. Espadilla, 22"
+comerFecha: "octubre de 2026"
 ---
 Rodeado de montañas y con un embalse de aguas turquesas a sus pies, **Lanuza** tiene una de esas historias que cuesta creer hasta que se conoce entera: un pueblo que quedó despoblado por completo y que, décadas después, sus propios vecinos consiguieron devolverle la vida.
 

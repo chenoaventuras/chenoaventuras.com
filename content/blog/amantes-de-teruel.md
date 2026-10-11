@@ -35,6 +35,23 @@ actividades:
     u: "https://www.getyourguide.es/teruel-l99909/teruel-guided-tour-to-the-cathedral-museum-of-sacred-art-t1244524/"
 guia: /assets/guias/guia-aragon-chenoaventuras.pdf
 guiaTitulo: 'Guía Aragón en PDF'
+comer:
+  - n: "Tachán Restaurante"
+    r: 5.0
+    o: 356
+    t: "Restaurante de alta cocina"
+    d: "C. Hartzembusch, 10"
+  - n: "Restaurante Locavore"
+    r: 4.7
+    o: 2149
+    t: "Restaurante mediterráneo"
+    d: "C. Bartolomé Esteban, 10"
+  - n: "Asador La Ronda Argentina"
+    r: 4.9
+    o: 358
+    t: "Restaurante argentino"
+    d: "Rda. de Ambeles, 36"
+comerFecha: "octubre de 2026"
 ---
 Mucho antes de que Shakespeare escribiera *Romeo y Julieta*, Teruel ya tenía su propia historia de amor trágico. **Isabel y Diego** murieron de amor en el siglo XIII, y hoy descansan juntos en un mausoleo donde sus manos casi se tocan.
 

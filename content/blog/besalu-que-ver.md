@@ -31,6 +31,23 @@ actividades:
     u: "https://www.getyourguide.es/costa-brava-l473/vuelo-en-globo-sobre-los-volcanes-de-la-costa-brava-desde-santa-pau-t35210/"
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Restaurant Pont Vell"
+    r: 4.6
+    o: 1325
+    t: "Restaurante mediterráneo"
+    d: "Carrer del Pont Vell, 24"
+  - n: "L'Alternativa"
+    r: 4.6
+    o: 622
+    t: "Restaurante especializado en comida ecléctica"
+    d: "Carrer Abat Safont, 8"
+  - n: "Restaurant Cúria Reial"
+    r: 4.5
+    o: 1881
+    t: "Restaurante de cocina catalana"
+    d: "Plaça de la Llibertat, 8"
+comerFecha: "octubre de 2026"
 ---
 Un puente de piedra en zigzag con una torre fortificada en medio, un río tranquilo a sus pies y un pueblo medieval casi intacto al otro lado. **Besalú** es de esos sitios que parecen sacados de una película de caballeros, y además guarda un tesoro que muy pocos lugares de Europa conservan: un **baño ritual judío** de la Edad Media.
 

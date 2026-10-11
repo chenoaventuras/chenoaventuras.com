@@ -33,6 +33,22 @@ faq:
 actividades:
   - t: "Vía ferrata del Sorrosal desde Torla-Ordesa"
     u: "https://www.civitatis.com/es/torla-ordesa/via-ferrata-sorrosal/"
+comer:
+  - n: "Pizzería la Tea de Broto"
+    r: 4.7
+    o: 1929
+    t: "Pizzería"
+    d: "Paseo del rio, 1"
+  - n: "Restaurante Casa Joaquín"
+    r: 4.6
+    o: 1656
+    t: "Bar restaurante"
+    d: "Av. Ordesa, 10"
+  - n: "Restaurante Mesón Sorrosal"
+    r: 4.6
+    o: 962
+    d: "Av. Ordesa, 10"
+comerFecha: "octubre de 2026"
 ---
 Una cascada de unos **80 metros** cayendo en dos saltos… a **5 minutos andando del pueblo**. La **Cascada del Sorrosal**, en **Broto**, es probablemente la cascada más fácil de ver de todo el Pirineo Aragonés, y una de las más espectaculares.
 

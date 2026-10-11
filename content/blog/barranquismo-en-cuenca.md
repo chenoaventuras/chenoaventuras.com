@@ -29,6 +29,11 @@ faq:
     a: "No, los saltos son opcionales y siempre hay otra forma de bajar."
   - q: "¿Cuándo se puede hacer barranquismo en Cuenca?"
     a: "De primavera a principios de otoño. En verano es ideal para el calor; en primavera el río lleva más agua."
+comer:
+  - n: "Restaurante Nelia"
+    r: 4.4
+    o: 1430
+comerFecha: "octubre de 2026"
 ---
 Saltos al agua, **toboganes** tallados por el río durante siglos y un cañón que no parece de Castilla-La Mancha: así es el **barranquismo en el río Júcar**, en plena **Serranía de Cuenca**. Si nunca lo has probado, es un plan perfecto para estrenarse.
 

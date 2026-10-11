@@ -28,6 +28,23 @@ actividades:
     u: "https://www.getyourguide.es/parque-del-drago-l166097/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
+comer:
+  - n: "Bonet’s Grill"
+    r: 4.8
+    o: 1775
+    t: "Parrilla"
+    d: "C. Siervo de Dios, 40"
+  - n: "El Localito"
+    r: 4.9
+    o: 444
+    t: "Restaurante italiano"
+    d: "C. los franceses, 5"
+  - n: "Tikismikis food&Drinks"
+    r: 4.8
+    o: 526
+    t: "Restaurante de fusión"
+    d: "C. de la Parada, 3"
+comerFecha: "octubre de 2026"
 ---
 Parece un árbol sacado de la época de los dinosaurios. El **Drago Milenario** de Icod de los Vinos, en Tenerife, es el **drago más grande y longevo conocido del mundo**: unos **18 metros** de alto y 20 de perímetro en la base.
 

@@ -18,6 +18,18 @@ actividades:
     u: "https://www.civitatis.com/es/fuentespalda/visita-guiada-cueva-agua/"
 guia: /assets/guias/guia-aragon-chenoaventuras.pdf
 guiaTitulo: 'Guía Aragón en PDF'
+comer:
+  - n: "Gastrobar Elías"
+    r: 4.7
+    o: 649
+    t: "Bar restaurante"
+    d: "C. San Cristóbal, 11"
+  - n: "Restaurante Baudilio"
+    r: 4.7
+    o: 437
+    t: "Restaurante de alta cocina"
+    d: "Av. Hispanidad, 43 (Valderrobres)"
+comerFecha: "octubre de 2026"
 ---
 La llaman la **«Toscana española»**: colinas de olivos y almendros, pueblos medievales de piedra dorada y ríos de agua verde llenos de **pozas**. El **Matarraña**, en el rincón noreste de Teruel, es una de las comarcas más bonitas de España.
 

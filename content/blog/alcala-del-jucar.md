@@ -29,6 +29,23 @@ actividades:
     u: "https://www.civitatis.com/es/alcala-del-jucar/visita-guiada-alcala-jucar/"
   - t: "Alcalá del Júcar: vuelo en globo al amanecer (y resto de actividades)"
     u: "https://www.getyourguide.es/alcala-del-jucar-l218606/"
+comer:
+  - n: "Restaurante El Mirador"
+    r: 4.6
+    o: 6234
+    t: "Restaurante de cocina castellana"
+    d: "Apertura: 12:00"
+  - n: "Restaurante Eliá"
+    r: 4.6
+    o: 829
+    t: "Restaurante de cocina castellana"
+    d: "Calle Berrocal, 20"
+  - n: "Restaurante Fogones El Chato"
+    r: 4.5
+    o: 3257
+    t: "Parrilla"
+    d: "C. Malvas, 18"
+comerFecha: "octubre de 2026"
 ---
 Casas blancas encaramadas a una pared de roca, un castillo coronándolo todo y un río verde esmeralda a sus pies. **Alcalá del Júcar** parece un pueblo colgado de la hoz que ha abierto el río Júcar en plena Manchuela de Albacete.
 

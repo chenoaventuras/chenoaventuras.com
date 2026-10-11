@@ -29,6 +29,17 @@ actividades:
     u: "https://www.civitatis.com/es/corralejo/excursion-isla-lobos/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Alma Brunch"
+    r: 4.6
+    o: 1918
+    t: "Restaurante de brunch"
+    d: "Av. Ntra. Sra. del Carmen, 3"
+  - n: "Restaurante Gregorio El Pescador"
+    r: 4.5
+    o: 3740
+    d: "Calle Iglesia, 11"
+comerFecha: "octubre de 2026"
 ---
 Un islote volcánico de arena blanca y agua transparente a 15 minutos en barco, y enfrente un mar de dunas que llega hasta la playa. El norte de Fuerteventura tiene dos de los paisajes más bonitos de Canarias: la **Isla de Lobos** y las **Dunas de Corralejo**.
 

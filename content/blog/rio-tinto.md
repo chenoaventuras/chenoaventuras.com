@@ -25,6 +25,21 @@ faq:
     a: "En la comarca de Riotinto (Huelva): desde el Tren Minero que sale de Minas de Riotinto, en la Corta Atalaya o en Peña de Hierro, cerca de Nerva."
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
+comer:
+  - n: "La Fábrica"
+    r: 4.5
+    o: 1816
+    t: "Restaurante familiar"
+    d: "C. Jose Nogales, 11"
+  - n: "Restaurante Club Inglés Bella Vista"
+    r: 4.7
+    o: 183
+  - n: "Cervecería La Kedá"
+    r: 4.5
+    o: 188
+    t: "Bar"
+    d: "Plaza el Minero, 8"
+comerFecha: "octubre de 2026"
 ---
 Agua roja como el vino, orillas naranjas y ocres, y ni un pez. El **Río Tinto**, en Huelva, parece de otro planeta... y por eso la **NASA** lo ha usado para estudiar cómo podría ser la vida en **Marte**.
 

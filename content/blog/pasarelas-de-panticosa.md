@@ -38,6 +38,18 @@ actividades:
     u: "https://www.civitatis.com/es/biescas/via-ferrata-valle-tena/"
   - t: "Panticosa: parapente en el Pirineo"
     u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+comer:
+  - n: "Tango Fusion Restorante"
+    r: 4.7
+    o: 388
+    t: "Restaurante de fusión"
+    d: "Pl. Zuloaga, 21"
+  - n: "Restaurante El Embalse"
+    r: 4.5
+    o: 1934
+    t: "Restaurante de cocina española"
+    d: "C. Alta, 11"
+comerFecha: "octubre de 2026"
 ---
 Puentes colgantes sobre el **río Caldarés**, rodeados de montañas y desfiladeros, con vistas que dan algo de vértigo incluso a quien no suele tenerlo: así son las **Pasarelas de Panticosa**, una de las rutas más espectaculares y accesibles del <a href="/blog/pirineo-aragones-que-ver.html">Pirineo Aragonés</a>.
 

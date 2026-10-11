@@ -33,6 +33,20 @@ faq:
 actividades:
   - t: "Vía ferrata del Sorrosal desde Torla-Ordesa"
     u: "https://www.civitatis.com/es/torla-ordesa/via-ferrata-sorrosal/"
+comer:
+  - n: "Restaurante Balcón del Pirineo Aragonés"
+    r: 4.7
+    o: 1200
+    d: "C. Vita, 48"
+  - n: "Restaurante El Duende"
+    r: 4.6
+    o: 2327
+  - n: "Bar Restaurante Atalaya"
+    r: 4.6
+    o: 740
+    t: "Bar restaurante"
+    d: "Calle A'rruata, 45"
+comerFecha: "octubre de 2026"
 ---
 Si solo vas a hacer **una ruta en el Pirineo Aragonés**, que sea esta. La **ruta a la Cola de Caballo** recorre el valle de Ordesa de punta a punta, junto al río Arazas, entre hayedos, cascadas y paredes de roca de cientos de metros, hasta llegar al circo de Soaso, donde cae la cascada más famosa del Parque Nacional.
 

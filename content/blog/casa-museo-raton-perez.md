@@ -26,6 +26,21 @@ actividades:
     u: "https://www.civitatis.com/es/madrid/tour-madrid-familias/"
 guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
 guiaTitulo: 'Guía Madrid curioso en PDF'
+comer:
+  - n: "Brisket Restaurante"
+    r: 4.8
+    o: 2047
+    d: "C. de Moreto, 7"
+  - n: "Restaurante Bel Mondo"
+    r: 4.7
+    o: 51369
+    t: "Restaurante italiano"
+    d: "Calle Velázquez, 39"
+  - n: "Inclán Brutal Bar"
+    r: 4.7
+    o: 20818
+    d: "C. de Álvarez Gato, 4"
+comerFecha: "octubre de 2026"
 ---
 Si alguna vez te preguntaste dónde vive el **Ratoncito Pérez**, la respuesta es: en la **calle del Arenal, 8**, de Madrid, a dos minutos de la Puerta del Sol. Hasta tiene una **placa oficial** del Ayuntamiento.
 

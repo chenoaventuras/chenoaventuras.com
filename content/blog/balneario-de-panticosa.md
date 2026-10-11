@@ -38,6 +38,21 @@ actividades:
     u: "https://www.getyourguide.es/balneario-de-panticosa-l204833/balneario-de-panticosa-75-thermal-circuit-tiberio-therms-t685195/"
   - t: "Panticosa: parapente en el Pirineo"
     u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+comer:
+  - n: "Restaurante Casa Patro"
+    r: 4.7
+    o: 752
+    d: "C. Mayor, 3"
+  - n: "La Brasserie"
+    r: 4.7
+    o: 440
+    t: "Parrilla"
+    d: "Carretera del balneario, km 10"
+  - n: "Tango Fusion Restorante"
+    r: 4.7
+    o: 388
+    t: "Restaurante de fusión"
+comerFecha: "octubre de 2026"
 ---
 A **1.636 metros de altitud**, rodeado de montañas, cascadas y un lago de origen glaciar, el **Balneario de Panticosa** ofrece una de las experiencias termales más completas del <a href="/blog/pirineo-aragones-que-ver.html">Pirineo Aragonés</a>, con aguas conocidas y aprovechadas ya desde tiempos romanos.
 

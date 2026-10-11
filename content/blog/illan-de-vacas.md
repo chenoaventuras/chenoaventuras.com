@@ -24,6 +24,16 @@ faq:
     a: "En coche: está en la comarca de Torrijos (Toledo), a 23 km de Talavera de la Reina y a 46 de Toledo."
 guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
 guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+comer:
+  - n: "Casa Empleitas"
+    r: 4.5
+    o: 83
+  - n: "Restaurante Café la Esquinita"
+    r: 4.3
+    o: 204
+    t: "Cafetería"
+    d: "C. Malpica, 2"
+comerFecha: "octubre de 2026"
 ---
 Tiene ayuntamiento, alcalde, iglesia y fiestas... y **8 vecinos**. **Illán de Vacas**, en Toledo, es el **municipio con menos habitantes de España** según el INE.
 

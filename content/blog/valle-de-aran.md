@@ -28,6 +28,23 @@ actividades:
     u: "https://www.getyourguide.es/vielha-l218675/4x4-sightseeing-tour-in-valle-d-aran-wildlife-flora-and-alpine-landscapes-t838426/"
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Era Coquela"
+    r: 4.7
+    o: 2019
+    t: "Restaurante de alta cocina"
+    d: "Avenguda Garona, 29 (Vielha)"
+  - n: "LaCondesa Vielha"
+    r: 4.8
+    o: 588
+    t: "Restaurante de fusión"
+    d: "Av. deth Pas d'Arró, 25 (Vielha)"
+  - n: "Restaurante Indecente"
+    r: 4.8
+    o: 557
+    t: "Parrilla"
+    d: "Av. deth Pas d'Arró, 52 (Vielha)"
+comerFecha: "octubre de 2026"
 ---
 Un valle verde en pleno Pirineo donde los ríos corren hacia el Atlántico, se habla su propia lengua y cada pueblo tiene su iglesia románica de piedra. El **Valle de Arán** es mucho más que Baqueira: es cascadas, bosques, pueblos con tejados de pizarra y rutas para todos los niveles.
 

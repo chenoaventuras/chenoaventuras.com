@@ -31,6 +31,20 @@ actividades:
     u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/senderismo-parque-garajonay/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Terraza Restaurante Los Telares"
+    r: 4.7
+    o: 2734
+    t: "Restaurante de cocina española"
+  - n: "Bar Cafetería Arcilia"
+    r: 4.7
+    o: 300
+    t: "Restaurante de cocina española"
+  - n: "Tasca Telémaco"
+    r: 4.5
+    o: 995
+    d: "Pl. de la Encarnación, 2"
+comerFecha: "octubre de 2026"
 ---
 Un bosque húmedo y lleno de musgo que parece sacado de un cuento, barrancos enormes, pueblos colgados en terrazas y un idioma silbado que se oye de un lado a otro del valle. **La Gomera** es la isla más verde y montañosa de Canarias.
 

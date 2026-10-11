@@ -28,6 +28,19 @@ actividades:
     u: "https://www.getyourguide.es/potes-l143772/camaleao-passeio-de-teleferico-fuente-de-t833575/"
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+comer:
+  - n: "Restaurante del Hostal Remoña"
+    r: 4.8
+    o: 373
+    t: "Restaurante cántabro"
+  - n: "Vicente Campo Restaurante"
+    r: 4.6
+    o: 1827
+    t: "Restaurante cántabro"
+  - n: "Parador de Fuente Dé"
+    r: 4.4
+    o: 1993
+comerFecha: "octubre de 2026"
 ---
 En **menos de 4 minutos** pasas de un valle verde a un mundo de roca a **1.823 metros**. El **teleférico de Fuente Dé**, en Picos de Europa, salva **753 metros de desnivel** en un solo tramo, sin apoyos intermedios. Es el **teleférico de tramo único más largo de Europa**.
 

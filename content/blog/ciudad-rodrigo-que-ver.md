@@ -31,6 +31,22 @@ actividades:
     u: "https://www.civitatis.com/es/ciudad-rodrigo/tour-invasion-napoleonica-ciudad-rodrigo/"
 guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía Castilla y León en PDF'
+comer:
+  - n: "Restaurante El Rodeo"
+    r: 4.7
+    o: 1187
+    t: "Restaurante de cocina castellana"
+    d: "C. Gigantes, 10"
+  - n: "La tabernita de manu"
+    r: 4.8
+    o: 252
+    t: "Restaurante familiar"
+  - n: "Mesón La Paloma"
+    r: 4.5
+    o: 3270
+    t: "Parrilla"
+    d: "C. Paloma, 3"
+comerFecha: "octubre de 2026"
 ---
 Una ciudad entera rodeada de murallas por las que puedes **pasear por arriba**, una catedral que todavía lleva **marcas de cañonazos** de la Guerra de la Independencia y un castillo junto al río donde se puede dormir. **Ciudad Rodrigo** es una joya escondida en la frontera con Portugal.
 

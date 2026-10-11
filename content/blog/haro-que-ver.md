@@ -25,6 +25,22 @@ faq:
 actividades:
   - t: "Visita a Bodegas Bilbaínas"
     u: "https://www.civitatis.com/es/haro/visita-bodegas-bilbainas/"
+comer:
+  - n: "Restaurante Alboroque Haro"
+    r: 4.9
+    o: 456
+    d: "Pl. de la Paz, 8"
+  - n: "Nublo Restaurant"
+    r: 4.7
+    o: 634
+    t: "Restaurante de alta cocina"
+    d: "Pl. San Martín, 5"
+  - n: "Restaurante El Rincón del Noble"
+    r: 4.6
+    o: 1115
+    t: "Restaurante de cocina española"
+    d: "C. Martínez Lacuesta, 11"
+comerFecha: "octubre de 2026"
 ---
 Si hay un pueblo que huele a vino, es **Haro**. Junto a la vieja estación de tren se concentran varias de las **bodegas más antiguas de La Rioja**, y cada 29 de junio miles de personas suben a los riscos de Bilibio para empaparse de tinto en la **Batalla del Vino**.
 

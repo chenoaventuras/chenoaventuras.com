@@ -27,6 +27,20 @@ actividades:
     u: "https://www.civitatis.com/es/las-medulas/"
 guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía Castilla y León en PDF'
+comer:
+  - n: "O Palleiro do Pe do Forno"
+    r: 4.8
+    o: 1293
+  - n: "Mesón Durandarte"
+    r: 4.6
+    o: 488
+    t: "Bar restaurante"
+    d: "Calle General, 10"
+  - n: "Restaurante El Lagar De Las Médulas"
+    r: 4.5
+    o: 161
+    d: "C. Leirancos, 12"
+comerFecha: "octubre de 2026"
 ---
 Picos rojos que parecen de otro planeta, castaños centenarios y galerías excavadas en la montaña. **Las Médulas** no son naturales: son lo que quedó de la **mayor mina de oro del Imperio romano**.
 

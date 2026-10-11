@@ -23,6 +23,20 @@ faq:
     a: "No, puede beber cualquiera, pero se pide un trago con moderación y no llenar botellas."
   - q: "¿Dónde está la Fuente del vino de Irache?"
     a: "En Ayegui (Navarra), junto al Monasterio de Irache, a unos 3 km de Estella en el Camino Francés."
+comer:
+  - n: "Hotel Restaurante Casa Luisa"
+    r: 4.4
+    o: 817
+  - n: "Bar el sitio"
+    r: 4.5
+    o: 96
+    t: "Bar restaurante"
+    d: "C. Merkatondoa, 16"
+  - n: "Cafetería Restaurante Camping Iratxe"
+    r: 4.4
+    o: 148
+    d: "Av. Prado de Irache, 14"
+comerFecha: "octubre de 2026"
 ---
 En el Camino de Santiago, a la salida de Estella, hay una fuente con **dos grifos**: uno de agua y otro de **vino tinto**. Gratis. Es la **Fuente del vino de Irache**, y es tan famosa que tiene hasta una **webcam** para ver en directo quién se acerca a brindar.
 

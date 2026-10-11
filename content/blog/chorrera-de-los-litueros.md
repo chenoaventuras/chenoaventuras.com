@@ -29,6 +29,18 @@ faq:
     a: "Popularmente se dice que sí, aunque oficialmente el río se forma por la unión de varios arroyos."
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "Mesón El Hayedo"
+    r: 4.5
+    o: 1495
+    t: "Restaurante familiar"
+    d: "C. Turco, 13"
+  - n: "Rincón del Cárabo"
+    r: 4.4
+    o: 423
+    t: "Restaurante de comida madrileña"
+    d: "C. Pozas, 40"
+comerFecha: "octubre de 2026"
 ---
 En la sierra de Madrid, junto al **puerto de Somosierra**, el agua se despeña en varios saltos que suman unos **40 metros** de caída. Es la **Chorrera de los Litueros**, considerada una de las cascadas más espectaculares de la Comunidad de Madrid, y lo mejor es que se llega con un paseo muy corto.
 

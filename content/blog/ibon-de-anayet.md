@@ -36,6 +36,20 @@ actividades:
     u: "https://www.civitatis.com/es/biescas/via-ferrata-valle-tena/"
   - t: "Panticosa: parapente en el Pirineo"
     u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+comer:
+  - n: "Casa Portoles"
+    r: 4.6
+    o: 106
+    t: "Restaurante de cocina española"
+  - n: "El Internacional"
+    r: 4.4
+    o: 195
+  - n: "Venta Casa Domec"
+    r: 4.4
+    o: 158
+    t: "Restaurante de cocina española"
+    d: "C. Única, 10"
+comerFecha: "octubre de 2026"
 ---
 Un lago de alta montaña que refleja un pico puntiagudo y, al fondo, la silueta del **Midi d'Ossau** ya en Francia: la postal de los **ibones de Anayet** es de las más famosas de todo el Pirineo. Y lo mejor es que se llega con una ruta asequible desde **Formigal**, en el Valle de Tena.
 

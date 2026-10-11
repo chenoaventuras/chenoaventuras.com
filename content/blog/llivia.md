@@ -24,6 +24,22 @@ faq:
     a: "Desde Puigcerdà, a unos 6 km, por una carretera que cruza territorio francés sin controles."
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Més Que Beure"
+    r: 4.8
+    o: 459
+    t: "Restaurante de cocina catalana"
+    d: "Carrer Frederic Bernades, 27"
+  - n: "Restaurant Cal Cofa"
+    r: 4.6
+    o: 4701
+    d: "Carrer Frederic Bernades, 1"
+  - n: "Restaurante Can Ventura"
+    r: 4.6
+    o: 1557
+    t: "Restaurante de cocina catalana"
+    d: "Plaça Major, 1"
+comerFecha: "octubre de 2026"
 ---
 Para llegar a **Llívia** desde España tienes que **pasar por Francia**. Este pueblo de la Cerdanya (Girona) está **totalmente rodeado de territorio francés**: es un enclave, una isla de España dentro de otro país.
 

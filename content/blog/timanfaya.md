@@ -29,6 +29,18 @@ actividades:
     u: "https://www.civitatis.com/es/yaiza/visita-guiada-salinas-janubio/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Restaurante Majo Picón"
+    r: 4.8
+    o: 1013
+    t: "Restaurante especializado en tapas"
+    d: "C. Miguel Lantigua, 18"
+  - n: "Restaurante Grill Casa Satorno"
+    r: 4.7
+    o: 1708
+    t: "Parrilla"
+    d: "Tinguatón, 24"
+comerFecha: "octubre de 2026"
 ---
 Entre 1730 y 1736, Lanzarote vivió una de las erupciones más largas de la historia: seis años de lava que cubrieron una cuarta parte de la isla. El resultado es el **Parque Nacional de Timanfaya**, un paisaje de cráteres rojos, negros y ocres que parece la superficie de Marte.
 

@@ -38,6 +38,20 @@ actividades:
     u: "https://www.getyourguide.es/caminito-del-rey-l89646/"
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
+comer:
+  - n: "La Garganta Hotel y Restaurante"
+    r: 4.4
+    o: 3741
+  - n: "Savia Restaurante"
+    r: 4.9
+    o: 89
+    t: "Restaurante mediterráneo"
+  - n: "Bar Restaurante La Ermita"
+    r: 4.3
+    o: 612
+    t: "Restaurante andaluz"
+    d: "Carretera del Chorro, 23"
+comerFecha: "octubre de 2026"
 ---
 Durante años tuvo fama de ser **el camino más peligroso del mundo**. Hoy el **Caminito del Rey** es una pasarela segura colgada en las paredes del Desfiladero de los Gaitanes, en Málaga, a unos 100 metros sobre el río Guadalhorce. Y sigue siendo una de esas experiencias que te dejan con la boca abierta en cada curva.
 

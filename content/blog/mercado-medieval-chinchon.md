@@ -31,6 +31,21 @@ faq:
 actividades:
   - t: "Free tour por Chinchón"
     u: "https://www.civitatis.com/es/chinchon/free-tour-chinchon/"
+comer:
+  - n: "Tenacitas seafood"
+    r: 4.7
+    o: 633
+    t: "Marisquería"
+    d: "Pl. Mayor, 14"
+  - n: "Restaurante Americano Monroe's"
+    r: 4.7
+    o: 289
+    d: "C. de Benito Hortelano, 34"
+  - n: "Restaurante La Casita"
+    r: 4.6
+    o: 500
+    d: "C. de los Carpinteros, 5"
+comerFecha: "octubre de 2026"
 ---
 [Chinchón](/blog/chinchon-castillo-de-noche.html) ya es, de por sí, uno de los pueblos más bonitos de la Comunidad de Madrid. Pero una vez al año, sus calles empedradas y su **Plaza Mayor** viajan varios siglos atrás para llenarse de caballeros, juglares, antorchas y artesanos: es el **Mercado Medieval de Chinchón**.
 

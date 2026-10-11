@@ -30,6 +30,23 @@ actividades:
     u: "https://www.civitatis.com/es/castro-caldelas/paseo-barco-canones-sil/"
 guia: /assets/guias/guia-galicia-chenoaventuras.pdf
 guiaTitulo: 'Guía Galicia en PDF'
+comer:
+  - n: "Restaurante O Campanario"
+    r: 4.7
+    o: 3286
+    t: "Restaurante gallego"
+    d: "Praza de Luintra, 9"
+  - n: "O recuncho de Valdomar"
+    r: 4.9
+    o: 460
+    t: "Bar"
+    d: "Cam. de Valdomar, 2"
+  - n: "Meson San Roque"
+    r: 4.3
+    o: 1070
+    t: "Restaurante gallego"
+    d: "Santo Estevo de Ribas de Sil, 7"
+comerFecha: "octubre de 2026"
 ---
 Paredes de granito de cientos de metros cayendo al río, laderas cubiertas de **viñedos en terrazas** que parecen imposibles de trabajar y monasterios escondidos entre bosques. El **Cañón del Sil**, en la Ribeira Sacra, es uno de los paisajes más impresionantes de Galicia.
 

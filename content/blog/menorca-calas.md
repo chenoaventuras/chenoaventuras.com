@@ -31,6 +31,23 @@ actividades:
     u: "https://www.civitatis.com/es/ciudadela/bautismo-buceo-menorca/"
 guia: /assets/guias/guia-baleares-chenoaventuras.pdf
 guiaTitulo: 'Guía Islas Baleares en PDF'
+comer:
+  - n: "Llucasaldent Gran"
+    r: 4.9
+    o: 180
+    t: "Restaurante mediterráneo"
+    d: "Carretera de Son Bou, 19"
+  - n: "Es Festuc"
+    r: 4.6
+    o: 462
+    t: "Restaurante especializado en tapas"
+    d: "Es Carreró, 38"
+  - n: "Cafè Des Forn"
+    r: 4.6
+    o: 277
+    t: "Cafetería"
+    d: "Carrer des Forn, 10"
+comerFecha: "octubre de 2026"
 ---
 Agua turquesa, arena blanca y pinos que llegan hasta la orilla. Las **calas del sur de Menorca** son de las más bonitas del Mediterráneo, y la isla entera es **Reserva de la Biosfera**, así que se conserva mucho más salvaje que otras.
 

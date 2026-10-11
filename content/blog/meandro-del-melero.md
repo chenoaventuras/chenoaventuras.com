@@ -24,6 +24,17 @@ faq:
     a: "Los pueblos de Las Hurdes, La Alberca y la Sierra de Francia en Salamanca, y el Valle del Ambroz con Hervás."
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Extremadura en PDF'
+comer:
+  - n: "Restaurante Los Ángeles"
+    r: 4.6
+    o: 558
+    t: "Restaurante extremeño"
+    d: "Ctra de Salamanca, 120"
+  - n: "El Rincón Hurdano Brasería"
+    r: 4.6
+    o: 218
+    d: "Av. Rocandelario, 1D"
+comerFecha: "octubre de 2026"
 ---
 El río Alagón da una vuelta tan cerrada que casi rodea por completo un monte cubierto de pinos. Visto desde arriba parece una isla en mitad del agua. Es el **Meandro del Melero**, uno de los paisajes más fotografiados de Extremadura.
 

@@ -29,6 +29,20 @@ actividades:
     u: "https://www.civitatis.com/es/maspalomas/avistamiento-delfines-ballenas/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Restaurante Parque Romántico"
+    r: 4.8
+    o: 1324
+    d: "C. Dinamarca, 4"
+  - n: "Restaurante Kilómetro 00"
+    r: 4.8
+    o: 703
+    t: "Restaurante italiano"
+  - n: "Restaurante Lola"
+    r: 4.7
+    o: 1681
+    d: "Avenida de Tirajana, 17"
+comerFecha: "octubre de 2026"
 ---
 Montañas de arena dorada que se mueven con el viento, el océano a un lado y una laguna con aves al otro. Las **Dunas de Maspalomas** son un pequeño desierto en el sur de Gran Canaria y una **Reserva Natural Especial**.
 

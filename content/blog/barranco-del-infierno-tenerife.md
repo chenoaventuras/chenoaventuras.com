@@ -30,6 +30,22 @@ actividades:
     u: "https://www.getyourguide.es/barranco-del-infierno-l191750/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
+comer:
+  - n: "Rest. Casa Juan (Adeje)"
+    r: 4.7
+    o: 2051
+    t: "Marisquería"
+    d: "Av. Viera y Clavijo, 12"
+  - n: "Restaurante España"
+    r: 4.6
+    o: 599
+    d: "C. Grande, 18"
+  - n: "Restaurante la Rambla"
+    r: 4.6
+    o: 590
+    t: "Restaurante mediterráneo"
+    d: "C. Grande, 7"
+comerFecha: "octubre de 2026"
 ---
 Con ese nombre, uno espera algo terrible, pero lo que hay al final es lo contrario: un rincón fresco y verde con una **cascada** cayendo entre paredes de roca, en pleno sur seco de Tenerife.
 

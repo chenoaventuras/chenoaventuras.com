@@ -31,6 +31,23 @@ actividades:
     u: "https://www.civitatis.com/es/guadalupe/observacion-estrellas-guadalupe/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Extremadura en PDF'
+comer:
+  - n: "Las Ánimas del Tiempo Restaurante"
+    r: 4.8
+    o: 1402
+    t: "Restaurante extremeño"
+    d: "Av. Alfonso Onceno, 16"
+  - n: "Mesón El Zaguán"
+    r: 4.6
+    o: 616
+    t: "Restaurante extremeño"
+    d: "Av. Eusebio González, 8"
+  - n: "Trattoria Polky"
+    r: 4.8
+    o: 216
+    t: "Restaurante italiano"
+    d: "C. Fray Eloy Uribe, 1"
+comerFecha: "octubre de 2026"
 ---
 Un monasterio gigantesco que parece un castillo, plantado en mitad de un pueblo de soportales y rodeado de sierras. El **Real Monasterio de Guadalupe** es **Patrimonio de la Humanidad** y uno de los lugares de peregrinación más importantes de España.
 

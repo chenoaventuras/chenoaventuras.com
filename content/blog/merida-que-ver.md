@@ -31,6 +31,21 @@ actividades:
     u: "https://www.civitatis.com/es/merida/tour-misterios-leyendas-merida/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Extremadura en PDF'
+comer:
+  - n: "Restaurante Agallas Gastro & Food"
+    r: 4.7
+    o: 2561
+    t: "Restaurante especializado en tapas"
+    d: "C. Suárez Somonte, 2"
+  - n: "Restaurante El Puchero de la Nieta"
+    r: 4.6
+    o: 2754
+    d: "C/ José Ramón Mélida, 14"
+  - n: "Restaurante Concepto"
+    r: 4.9
+    o: 200
+    d: "Calle Sagasta, 20"
+comerFecha: "octubre de 2026"
 ---
 Hace más de 2.000 años, los romanos fundaron aquí **Augusta Emerita**, una de las ciudades más importantes de Hispania. Hoy **Mérida** conserva tantos monumentos romanos que es **Patrimonio de la Humanidad** y se recorre como un museo al aire libre.
 

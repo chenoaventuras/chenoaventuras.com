@@ -31,6 +31,23 @@ faq:
 actividades:
   - t: "Raquetas de nieve por Ordesa y Monte Perdido desde Aínsa"
     u: "https://www.civitatis.com/es/ainsa/raquetas-nieve-ordesa-monte-perdido/"
+comer:
+  - n: "Callizo"
+    r: 4.7
+    o: 1459
+    t: "Restaurante de alta cocina"
+    d: "Apertura: 13:00"
+  - n: "Restaurante Sanchez"
+    r: 4.5
+    o: 451
+    t: "Restaurante de cocina española"
+    d: "Av. Sobrarbe, 10"
+  - n: "Restaurante Mora Nuei"
+    r: 4.5
+    o: 324
+    t: "Restaurante de cocina española"
+    d: "C. Portal de Abajo, 2"
+comerFecha: "octubre de 2026"
 ---
 Calles empedradas, casas de piedra, una plaza medieval con soportales y las montañas del Pirineo de fondo: **Aínsa** es de esos pueblos que parecen detenidos en el tiempo. En 2023, National Geographic lo eligió como **el pueblo más bonito de España**, y forma parte de la red de Los Pueblos Más Bonitos de España.
 

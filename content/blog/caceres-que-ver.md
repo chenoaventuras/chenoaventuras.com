@@ -31,6 +31,20 @@ actividades:
     u: "https://www.civitatis.com/es/caceres/tour-dehesa-caceres/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Extremadura en PDF'
+comer:
+  - n: "Restaurante alBalat"
+    r: 4.7
+    o: 4803
+    d: "Av. Ruta de la Plata, 4"
+  - n: "Nolasco"
+    r: 4.8
+    o: 882
+    d: "C. Adarve del Padre Rosalío, 14"
+  - n: "Borona Bistró"
+    r: 4.9
+    o: 479
+    d: "Calle Gral. Ezponda, 3"
+comerFecha: "octubre de 2026"
 ---
 Torres de piedra, palacios con escudos, calles empedradas en cuesta y ni un solo cable a la vista. La **Ciudad Monumental de Cáceres** es uno de los cascos medievales mejor conservados de Europa, y es **Patrimonio de la Humanidad** desde 1986.
 

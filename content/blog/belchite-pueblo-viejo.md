@@ -26,6 +26,16 @@ faq:
     a: "La visita guiada dura alrededor de una hora. Las entradas se compran en belchite.es."
 guia: /assets/guias/guia-aragon-chenoaventuras.pdf
 guiaTitulo: 'Guía Aragón en PDF'
+comer:
+  - n: "Restaurante Aguas Vivas"
+    r: 4.3
+    o: 1118
+    d: "C. Portal de la Villa, 24-b"
+  - n: "Bar Ernesto"
+    r: 4.3
+    o: 717
+    d: "C. San Ramón, 6"
+comerFecha: "octubre de 2026"
 ---
 Iglesias sin techo, calles llenas de escombros y fachadas agujereadas por las balas. El **Pueblo Viejo de Belchite** se quedó tal y como acabó la batalla de 1937, y lleva casi noventa años así.
 

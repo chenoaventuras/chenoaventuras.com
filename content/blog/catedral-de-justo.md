@@ -27,6 +27,22 @@ faq:
     a: "Está en Mejorada del Campo, a unos 20 km del centro de Madrid."
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "Restaurante Maure"
+    r: 4.7
+    o: 444
+    d: "C. de Aragón, 35"
+  - n: "Umami Restaurante"
+    r: 4.5
+    o: 499
+    t: "Restaurante de fusión"
+    d: "C. de Aragón, 18"
+  - n: "Restaurante El Yantar Leones"
+    r: 4.5
+    o: 459
+    t: "Taberna"
+    d: "C. del Duero, 2"
+comerFecha: "octubre de 2026"
 ---
 A 20 km de Madrid hay una catedral que no levantó ningún obispo ni ningún arquitecto: la hizo **Justo Gallego**, un hombre que empezó en 1961 y siguió trabajando **durante 60 años**, casi siempre solo, con ladrillos sobrantes, bidones y ruedas de bicicleta.
 

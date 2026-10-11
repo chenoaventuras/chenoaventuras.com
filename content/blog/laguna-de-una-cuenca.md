@@ -26,6 +26,16 @@ faq:
     a: "Para un paseo fácil, las pasarelas y la orilla. Si quieres vistas desde arriba, la ruta del Escalerón, de unos 9 km y con tramos exigentes."
   - q: "¿Qué animales se pueden ver en la Laguna de Uña?"
     a: "Patos, garzas y otras aves acuáticas, buitres leonados y negros, y en los alrededores ciervos, gamos, jabalíes y muflones."
+comer:
+  - n: "Casa Raquel"
+    r: 4.6
+    o: 644
+    d: "C. Eras Altas, 9"
+  - n: "Restaurante Agua-Riscas"
+    r: 4.5
+    o: 2198
+    d: "C. Egido, 23"
+comerFecha: "octubre de 2026"
 ---
 Aguas verdes y turquesas, pasarelas de madera entre los juncos y enormes paredes de roca alrededor: la **Laguna de Uña** es de esos sitios que no esperas encontrarte en plena **Serranía de Cuenca**. Y lo mejor es que está a solo 15 minutos de la Ciudad Encantada.
 

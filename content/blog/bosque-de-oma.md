@@ -32,6 +32,20 @@ actividades:
     u: "https://www.getyourguide.es/guernica-l7936/tour-a-piedi-di-gernika-guerra-e-pace-t459126/"
 guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
 guiaTitulo: 'Guía País Vasco en PDF'
+comer:
+  - n: "Castillo de Arteaga Hotel Restaurante"
+    r: 4.7
+    o: 922
+  - n: "Baserri Maitea"
+    r: 4.6
+    o: 1291
+    t: "Parrilla"
+  - n: "Lezika"
+    r: 4.5
+    o: 2243
+    t: "Parrilla"
+    d: "Basondo Auzoa, 8"
+comerFecha: "octubre de 2026"
 ---
 Árboles con ojos, rayas de colores y figuras que solo aparecen si te colocas en el sitio justo. El **Bosque de Oma**, en Urdaibai, es una obra de arte **pintada sobre un bosque** por el escultor vasco **Agustín Ibarrola**.
 

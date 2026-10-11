@@ -33,6 +33,12 @@ faq:
 actividades:
   - t: "Visita guiada por la Ciudad Encantada"
     u: "https://www.civitatis.com/es/cuenca/visita-guiada-ciudad-encantada/"
+comer:
+  - n: "Restaurante Agua-Riscas"
+    r: 4.5
+    o: 2198
+    d: "C. Egido, 23"
+comerFecha: "octubre de 2026"
 ---
 Imagina un bosque de pinos donde, entre los árboles, aparecen setas gigantes, barcos, osos y caras humanas… pero todo de piedra. Eso es la **Ciudad Encantada de Cuenca**: un laberinto de rocas que el agua, el viento y el hielo llevan millones de años esculpiendo, a media hora de la ciudad.
 

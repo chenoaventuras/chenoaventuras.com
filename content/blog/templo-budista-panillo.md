@@ -23,6 +23,20 @@ faq:
     a: "La Estupa de Benalmádena (Málaga), O Sel Ling en la Alpujarra (Granada) y el Palau Novella en el Garraf (Barcelona), entre otros."
   - q: "¿Cómo llegar al templo budista de Panillo?"
     a: "En coche hasta Panillo, en la Ribagorza (Huesca), muy cerca de Graus."
+comer:
+  - n: "Restaurante La Bodega de Sabores"
+    r: 4.8
+    o: 532
+    d: "C. Salamero, 6 (Graus)"
+  - n: "Restaurante Casa Portoles"
+    r: 4.8
+    o: 185
+    d: "Av. Pirineos, 12 (Graus)"
+  - n: "El Criticón Restaurante"
+    r: 4.5
+    o: 361
+    d: "Pl. Coreche, 2 (Graus)"
+comerFecha: "octubre de 2026"
 ---
 Banderas de oración al viento, una estupa blanca y un templo de colores... en **Huesca**. En el pueblecito de **Panillo**, en la Ribagorza, está **Dag Shang Kagyu**, uno de los centros budistas tibetanos más importantes de Europa.
 

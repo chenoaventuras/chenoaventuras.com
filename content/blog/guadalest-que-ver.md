@@ -28,6 +28,22 @@ actividades:
     u: "https://www.civitatis.com/es/guadalest/tour-privado-guadalest/"
 guia: /assets/guias/guia-costa-blanca-chenoaventuras.pdf
 guiaTitulo: 'Guía Costa Blanca en PDF'
+comer:
+  - n: "Restaurante Venta La Montaña"
+    r: 4.8
+    o: 2140
+    t: "Restaurante de cocina valenciana"
+    d: "Ctra. d'Alcoi, 9"
+  - n: "Mesón Ca Rafel Benimantell"
+    r: 4.7
+    o: 990
+    t: "Restaurante de cocina valenciana"
+    d: "Ctra. d'Alcoi, 13"
+  - n: "al Ras"
+    r: 4.7
+    o: 630
+    d: "Calle Sol, 12"
+comerFecha: "octubre de 2026"
 ---
 Hay pueblos bonitos, y luego está Guadalest, que parece dibujado a propósito para que se te caiga el móvil al suelo de tanto hacer fotos. Encajado entre las sierras de Aitana y Xortá, con un peñón rocoso partido en dos y un embalse de un azul turquesa casi de mentira a sus pies, entiendo perfectamente por qué es de los pueblos con más visitas de toda España a pesar de tener poco más de 200 vecinos.
 

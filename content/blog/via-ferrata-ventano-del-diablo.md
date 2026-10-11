@@ -30,6 +30,11 @@ faq:
     a: "Entre unos 45 y 70 euros por persona según la empresa, con monitor, seguro y material."
   - q: "¿Hace falta reservar la vía ferrata del Ventano?"
     a: "Sí, el acceso está regulado y hay que reservar."
+comer:
+  - n: "Restaurante Nelia"
+    r: 4.4
+    o: 1430
+comerFecha: "octubre de 2026"
 ---
 Colgado sobre la **Hoz del Júcar**, con el río corriendo decenas de metros más abajo, este recorrido de **vía ferrata** es uno de los planes de aventura más completos de la provincia de Cuenca. Se llama como el mirador natural que lo corona: el **Ventano del Diablo**.
 

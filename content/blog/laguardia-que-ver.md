@@ -29,6 +29,22 @@ actividades:
     u: "https://www.civitatis.com/es/laguardia/tour-laguardia-visita-bodega-cata/"
 guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
 guiaTitulo: 'Guía País Vasco en PDF'
+comer:
+  - n: "Restaurante SVGAR carnes a la brasa"
+    r: 4.7
+    o: 2098
+    t: "Parrilla"
+    d: "Paganos Kalea, 35"
+  - n: "Restaurante Amelibia Jatetxea"
+    r: 4.7
+    o: 1056
+    t: "Restaurante vasco"
+    d: "La Barbacana Errepidea, 14"
+  - n: "Villa Lucía - Espacio Gastronómico"
+    r: 4.6
+    o: 1780
+    t: "Parrilla"
+comerFecha: "octubre de 2026"
 ---
 Un pueblo amurallado en lo alto de una colina, rodeado de viñedos… y con una curiosidad que lo hace único: **no pueden entrar coches porque debajo de sus calles hay cientos de bodegas excavadas en la roca**. Bienvenido a **Laguardia**, la capital de la Rioja Alavesa.
 

@@ -34,6 +34,22 @@ actividades:
     u: "https://www.getyourguide.es/cuevas-de-sant-josep-l167977/"
 guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
 guiaTitulo: 'Guía Castellón y Valencia en PDF'
+comer:
+  - n: "Restaurante Monpiedra - San Isidro"
+    r: 4.8
+    o: 14651
+    t: "Restaurante de cocina valenciana"
+    d: "Avinguda Cor de Jesús, 3"
+  - n: "Restaurante El Guano"
+    r: 4.7
+    o: 1201
+    d: "Avinguda Jaume I, 59"
+  - n: "Restaurante La Bodina"
+    r: 4.7
+    o: 392
+    t: "Parrilla"
+    d: "Plaça del Mercat, 4"
+comerFecha: "octubre de 2026"
 ---
 Bajo la **Vall d'Uixó**, en Castellón, corre un **río subterráneo** que se puede recorrer **en barca**. Es el **río subterráneo navegable más largo de Europa** y uno de esos planes que gustan a todo el mundo: a los niños, a los abuelos y a los que buscan algo diferente. Y como dentro siempre hay unos 20 °C, vale tanto en pleno agosto como en enero.
 

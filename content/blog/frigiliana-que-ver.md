@@ -24,6 +24,20 @@ faq:
     a: "A una hora en coche. Desde Nerja son solo 6 km."
 guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía oriental en PDF'
+comer:
+  - n: "La Taberna del Sacristán"
+    r: 4.6
+    o: 2448
+    d: "Pl. de la Iglesia, 3"
+  - n: "El Boquetillo Street Food Bar"
+    r: 4.6
+    o: 802
+    d: "C. San Sebastián, 8"
+  - n: "Rest. Puerto Blanquillo Frigiliana"
+    r: 4.6
+    o: 667
+    d: "Av. de Andalucía, 45"
+comerFecha: "octubre de 2026"
 ---
 Casas blancas encaladas, macetas azules, calles empinadas que se retuercen ladera arriba y el Mediterráneo al fondo. **Frigiliana** es uno de los pueblos más buscados de España y tiene una historia que muy poca gente conoce.
 

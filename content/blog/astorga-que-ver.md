@@ -31,6 +31,22 @@ actividades:
     u: "https://www.civitatis.com/es/astorga/visita-guiada-palacio-episcopal-astorga/"
   - t: "Free tour por Astorga"
     u: "https://www.civitatis.com/es/astorga/free-tour-astorga/"
+comer:
+  - n: "Las Termas"
+    r: 4.8
+    o: 3935
+    t: "Restaurante de cocina castellana"
+    d: "C. Santiago, 1"
+  - n: "Restaurante Casa Maragata I"
+    r: 4.8
+    o: 2296
+    d: "C. Húsar Tiburcio, 2"
+  - n: "Diferent Astorga — Restaurante"
+    r: 4.7
+    o: 1509
+    t: "Parrilla"
+    d: "C. los Sitios, 7B"
+comerFecha: "octubre de 2026"
 ---
 Un **palacio de Gaudí** que parece un castillo de cuento, una catedral gigantesca justo al lado, murallas romanas y… un museo dedicado al **chocolate**. **Astorga** es una de esas ciudades pequeñas que sorprenden muchísimo, y además es parada clave del Camino de Santiago.
 

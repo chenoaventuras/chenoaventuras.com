@@ -27,6 +27,23 @@ actividades:
     u: "https://www.civitatis.com/es/melilla/visita-guiada-melilla-vieja/"
   - t: "Tour por la Melilla modernista"
     u: "https://www.civitatis.com/es/melilla/tour-melilla-modernista/"
+comer:
+  - n: "Restaurante Mar de Alborán"
+    r: 4.5
+    o: 637
+    t: "Restaurante de cocina española"
+    d: "C. Gral. Prim, 24"
+  - n: "L’Italia a Tavola"
+    r: 4.8
+    o: 106
+    t: "Restaurante italiano"
+    d: "C. Miguel de Cervantes, 8"
+  - n: "La Juana"
+    r: 4.6
+    o: 111
+    t: "Restaurante de cocina española"
+    d: "C/ Carlos Ramírez de Arellano, 4"
+comerFecha: "octubre de 2026"
 ---
 Una ciudadela amurallada encaramada a un acantilado sobre el Mediterráneo, túneles excavados en la roca que llegan hasta el mar y, a pocos pasos, calles llenas de fachadas **modernistas** de colores. **Melilla** es una de las ciudades más sorprendentes y desconocidas de España.
 

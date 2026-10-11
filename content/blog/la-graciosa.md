@@ -31,6 +31,17 @@ actividades:
     u: "https://www.civitatis.com/es/la-graciosa/alquiler-bicicleta-la-graciosa/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Rosa´s la lía"
+    r: 4.7
+    o: 1051
+    d: "C. Noray, 10"
+  - n: "Bar Restaurante Enriqueta"
+    r: 4.3
+    o: 2440
+    t: "Bar restaurante"
+    d: "C. Mar de Barlovento, 6"
+comerFecha: "octubre de 2026"
 ---
 Calles de arena, casas blancas, ni un semáforo y playas de agua turquesa casi vacías. **La Graciosa**, al norte de Lanzarote, es la octava isla habitada de Canarias y la más tranquila de todas: aquí **no hay carreteras asfaltadas**.
 

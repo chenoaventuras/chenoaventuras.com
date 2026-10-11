@@ -32,6 +32,21 @@ actividades:
     u: "https://www.civitatis.com/es/chinchon/free-tour-chinchon/"
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "Tenacitas seafood"
+    r: 4.7
+    o: 633
+    t: "Marisquería"
+    d: "Pl. Mayor, 14"
+  - n: "Restaurante Americano Monroe's"
+    r: 4.7
+    o: 289
+    d: "C. de Benito Hortelano, 34"
+  - n: "Restaurante La Casita"
+    r: 4.6
+    o: 500
+    d: "C. de los Carpinteros, 5"
+comerFecha: "octubre de 2026"
 ---
 De día, **Chinchón** es uno de los pueblos con más ambiente de la Comunidad de Madrid. De noche, con la **Plaza Mayor** iluminada y las calles tranquilas, cambia por completo, y el protagonista pasa a ser el **castillo** que vigila el pueblo desde lo alto.
 

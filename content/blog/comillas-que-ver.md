@@ -27,6 +27,20 @@ actividades:
     u: "https://www.civitatis.com/es/comillas/visita-guiada-comillas-capricho-gaudi/"
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+comer:
+  - n: "Restaurante Gurea"
+    r: 4.7
+    o: 1777
+  - n: "Adolfo"
+    r: 4.6
+    o: 1753
+    t: "Marisquería"
+    d: "C. las Infantas, 9"
+  - n: "La Secret"
+    r: 4.8
+    o: 255
+    d: "C. las Infantas, 19"
+comerFecha: "octubre de 2026"
 ---
 Un pueblo marinero de Cantabria con una **casa de Gaudí** cubierta de girasoles, un palacio neogótico, un ángel gigante vigilando un cementerio en ruinas y una universidad que parece un castillo. **Comillas** es el pueblo modernista por excelencia del norte, y además tiene playa.
 

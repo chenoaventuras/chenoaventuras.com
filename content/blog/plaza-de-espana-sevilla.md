@@ -30,6 +30,21 @@ actividades:
     u: "https://www.civitatis.com/es/sevilla/paseo-barco-sevilla-guia/"
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
+comer:
+  - n: "Bendala Brasería"
+    r: 4.8
+    o: 4131
+    d: "P.º de Catalina de Ribera, 4"
+  - n: "Gascona"
+    r: 4.8
+    o: 3202
+    t: "Restaurante asturiano"
+    d: "C. Castilla, 22"
+  - n: "MALQUERER Restaurante"
+    r: 4.7
+    o: 2736
+    d: "C. Reinoso, 8"
+comerFecha: "octubre de 2026"
 ---
 Hay sitios que salen en todas las fotos de Sevilla, y la **Plaza de España** es el número uno. Un semicírculo enorme de ladrillo y azulejo, con torres, puentes, un canal donde puedes remar en barca… y tanto aire de palacio de cuento que **hasta Star Wars la eligió para rodar**.
 

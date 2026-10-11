@@ -30,6 +30,23 @@ actividades:
     u: "https://www.civitatis.com/es/la-coruna/torre-hercules/"
 guia: /assets/guias/guia-galicia-chenoaventuras.pdf
 guiaTitulo: 'Guía Galicia en PDF'
+comer:
+  - n: "O Rueiro"
+    r: 4.7
+    o: 2031
+    t: "Restaurante de cocina española"
+    d: "Rúa Miguel Servet, 10"
+  - n: "Restaurante Pracer"
+    r: 4.7
+    o: 1098
+    t: "Restaurante de fusión"
+    d: "Rúa Salgado Somoza, 13"
+  - n: "Restaurante Salitre"
+    r: 4.6
+    o: 603
+    t: "Restaurante gallego"
+    d: "P.º Marítimo Alcalde Francisco Vázquez, 25"
+comerFecha: "octubre de 2026"
 ---
 Lleva casi **2.000 años** avisando a los barcos. La **Torre de Hércules**, en A Coruña, es el **único faro romano del mundo que sigue funcionando**, y el más antiguo en uso. Es Patrimonio de la Humanidad desde 2009.
 

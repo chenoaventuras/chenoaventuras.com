@@ -31,6 +31,23 @@ actividades:
     u: "https://www.civitatis.com/es/peniscola/tour-santo-grial-indiana-jones/"
 guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
 guiaTitulo: 'Guía Castellón y Valencia en PDF'
+comer:
+  - n: "Restaurante Ventdesal"
+    r: 4.8
+    o: 2304
+    t: "Restaurante mediterráneo"
+    d: "C. Príncipe, 3"
+  - n: "Restaurante El Cañar"
+    r: 4.8
+    o: 872
+    t: "Restaurante de cocina valenciana"
+    d: "Carrer del Mestre Roca, 47"
+  - n: "Restaurante Camino de Santiago"
+    r: 4.7
+    o: 2432
+    t: "Restaurante de comida sin gluten"
+    d: "Av. d'Espanya, 5"
+comerFecha: "octubre de 2026"
 ---
 Un peñón rodeado de mar casi por completo, con casas blancas trepando por la roca, murallas y un castillo templario en lo alto. **Peñíscola** es uno de los pueblos costeros más bonitos del Mediterráneo, y tiene historia de película: aquí vivió un papa «rebelde» y aquí se rodó **Juego de Tronos**.
 

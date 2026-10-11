@@ -20,6 +20,23 @@ faq:
     a: "A pie, por una ruta que sale de San Vicentejo. Lleva el track descargado y calzado de montaña."
   - q: "¿Se puede entrar en las ruinas de Ochate?"
     a: "No es recomendable: las construcciones están en muy mal estado."
+comer:
+  - n: "Taberna Dulanto"
+    r: 4.6
+    o: 666
+    t: "Taberna"
+    d: "CL-127, 19"
+  - n: "Restaurante Erre de Roca"
+    r: 4.7
+    o: 202
+    t: "Restaurante de alta cocina"
+    d: "Ctra. Treviño, 3"
+  - n: "Bar Roa"
+    r: 4.5
+    o: 704
+    t: "Bar restaurante"
+    d: "C. Mayor, 30"
+comerFecha: "octubre de 2026"
 ---
 Tres epidemias en diez años que apenas tocaron a los pueblos de alrededor, una torre de iglesia en mitad del bosque y décadas de historias sobre **luces en el cielo**. **Ochate** es probablemente el pueblo abandonado con más misterio de España.
 

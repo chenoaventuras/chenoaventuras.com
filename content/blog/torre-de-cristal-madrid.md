@@ -25,6 +25,22 @@ faq:
     a: "En las Cuatro Torres, al norte del Paseo de la Castellana (Madrid). La parada de metro más cercana es Begoña."
 guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
 guiaTitulo: 'Guía Madrid curioso en PDF'
+comer:
+  - n: "Alright"
+    r: 4.7
+    o: 5913
+    t: "Restaurante americano"
+    d: "C. de Pedro Rico, 41"
+  - n: "Casa Narcisa"
+    r: 4.7
+    o: 4026
+    d: "P.º de la Castellana, 254"
+  - n: "Taberna La Ilustración"
+    r: 4.7
+    o: 857
+    t: "Restaurante especializado en tapas"
+    d: "C. de Pedro Rico, 41"
+comerFecha: "octubre de 2026"
 ---
 Al norte de la Castellana hay cuatro gigantes que se ven desde casi todo Madrid. El más alto es la **Torre de Cristal**: **249 metros** y **50 plantas**. Es el **edificio más alto de España** y uno de los más altos de la Unión Europea.
 

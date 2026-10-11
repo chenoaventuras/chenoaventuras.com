@@ -27,6 +27,23 @@ actividades:
     u: "https://www.civitatis.com/es/valverde/free-tour-valverde/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Pizzería El Horno de Merese"
+    r: 4.7
+    o: 330
+    t: "Pizzería"
+    d: "C. Merese, 22"
+  - n: "Restaurante La Bodeguita de Fa`"
+    r: 4.6
+    o: 462
+    t: "Restaurante italiano"
+    d: "C. los Corchos, 1A"
+  - n: "Restaurante Tropical"
+    r: 4.5
+    o: 443
+    t: "Restaurante familiar"
+    d: "Cam. Merese, 45"
+comerFecha: "octubre de 2026"
 ---
 Sin grandes hoteles, sin colas y con paisajes que parecen de otro planeta. **El Hierro** es la isla más pequeña y occidental de Canarias, y durante siglos fue el **fin del mundo conocido**: por aquí pasaba el meridiano cero.
 

@@ -28,6 +28,22 @@ actividades:
     u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Restaurante Franchipani"
+    r: 4.7
+    o: 688
+    t: "Restaurante de fusión"
+    d: "Ctra. General Empalme Dos Pinos, 57"
+  - n: "Bodegón Tamanca"
+    r: 4.6
+    o: 2121
+    t: "Restaurante mediterráneo"
+    d: "LP-2, 74"
+  - n: "Bonita Gastro Restaurante"
+    r: 4.7
+    o: 337
+    d: "Calle Empalme Tajuya, 1"
+comerFecha: "octubre de 2026"
 ---
 Entre septiembre y diciembre de **2021**, el volcán de **Tajogaite** estuvo **85 días** en erupción en La Palma. La lava llegó al mar y formó **plataformas nuevas**, las **fajanas**: el **terreno más joven de España**.
 

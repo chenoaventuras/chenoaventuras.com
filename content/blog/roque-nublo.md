@@ -28,6 +28,21 @@ actividades:
     u: "https://www.civitatis.com/es/tejeda/senderismo-roque-nublo/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Bar - Restaurante Arraigo"
+    r: 4.9
+    o: 1319
+    d: "Av. de los Almendros, 29"
+  - n: "Bar Restaurante Roque Nublo"
+    r: 4.7
+    o: 869
+    t: "Bar restaurante"
+    d: "GC-608, 27, Tejeda"
+  - n: "Restaurante Gayfa"
+    r: 4.7
+    o: 452
+    d: "C. Tomás Arroyo Cardoso, 7"
+comerFecha: "octubre de 2026"
 ---
 Un monolito de roca volcánica de unos **80 metros** plantado en lo alto de la isla, a más de 1.800 metros de altura, con el **Teide** asomando sobre el mar de nubes. El **Roque Nublo** es el símbolo de Gran Canaria y una de las excursiones más bonitas de Canarias.
 

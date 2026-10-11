@@ -22,6 +22,21 @@ faq:
     a: "Con 1 o 2 días ves los ocho sitios, según el ritmo que lleves. Hace falta coche, porque están repartidos por toda la comarca."
   - q: "¿Cuál es la ciudad más pequeña de España?"
     a: "Frías, en Las Merindades: tiene título de ciudad y hasta su propio castillo."
+comer:
+  - n: "Ortiz Bar Restaurante"
+    r: 4.3
+    o: 1817
+    t: "Restaurante de cocina española"
+    d: "C. del Mercado, 19"
+  - n: "Restaurante A Fuego Lento"
+    r: 4.3
+    o: 1092
+    d: "C. del Mercado, 21"
+  - n: "Bar-Restaurante Entre Pozas"
+    r: 4.3
+    o: 683
+    d: "C. de Burgos, 23"
+comerFecha: "octubre de 2026"
 ---
 Al norte de la provincia de Burgos hay una comarca donde los pueblos se construyen bajo puentes de roca, las ermitas se excavan dentro de cuevas y hasta la ciudad más pequeña de España guarda su propio castillo. Se llama Las Merindades, y da para una escapada entera sin repetir paisaje ni una sola vez.
 

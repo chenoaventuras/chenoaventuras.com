@@ -29,6 +29,21 @@ actividades:
     u: "https://www.getyourguide.es/tossa-de-mar-l90930/tossa-de-mar-excursion-guiada-en-kayak-y-snorkel-t475482/"
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Brasas Portal"
+    r: 4.9
+    o: 554
+    t: "Restaurante argentino"
+    d: "Carrer del Portal, 4"
+  - n: "Restaurante Tursia"
+    r: 4.8
+    o: 1011
+    d: "Carrer Barcelona, 9"
+  - n: "Popa Tapas & Drinks"
+    r: 4.7
+    o: 2653
+    d: "Avinguda Sant Raimon de Penyafort, 7"
+comerFecha: "octubre de 2026"
 ---
 En **1950** llegó a un pequeño pueblo de la Costa Brava la actriz más famosa del momento: **Ava Gardner**. Venía a rodar *Pandora y el holandés errante* con James Mason. Desde entonces, **Tossa de Mar** tiene una **estatua** suya mirando al mar.
 

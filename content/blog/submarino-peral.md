@@ -26,6 +26,20 @@ actividades:
     u: "https://www.civitatis.com/es/cartagena/free-tour-cartagena/"
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf
 guiaTitulo: 'Guía Región de Murcia en PDF'
+comer:
+  - n: "Restaurante A La Brasa"
+    r: 4.7
+    o: 2137
+  - n: "Restaurante Magoga"
+    r: 4.7
+    o: 1509
+    t: "Restaurante de alta cocina"
+    d: "Plaza Dr. Vicente García Marcos, 5"
+  - n: "Canales 5 Brasserie Moderne"
+    r: 4.7
+    o: 436
+    d: "C/ Canales, 5"
+comerFecha: "octubre de 2026"
 ---
 En 1888, en San Fernando (Cádiz), se botó un invento que se adelantó a su tiempo: el **submarino de Isaac Peral**, el **primer submarino totalmente eléctrico del mundo** y armado con torpedos.
 

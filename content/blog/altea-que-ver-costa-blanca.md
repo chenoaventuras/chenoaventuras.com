@@ -24,6 +24,23 @@ faq:
     a: "El sábado más cercano a San Lorenzo (10 de agosto). Son fuegos artificiales lanzados desde el mar, de Interés Turístico Autonómico."
 guia: /assets/guias/guia-costa-blanca-chenoaventuras.pdf
 guiaTitulo: 'Guía Costa Blanca en PDF'
+comer:
+  - n: "El Negro Parrilla Restaurante"
+    r: 4.7
+    o: 2663
+    t: "Parrilla"
+    d: "C. Sta. Bárbara, 4"
+  - n: "Quel Que Quieres"
+    r: 4.8
+    o: 582
+    t: "Restaurante italiano"
+    d: "Carrer d'Alcoi, 2"
+  - n: "Restaurante Almàssera de Guillem"
+    r: 4.8
+    o: 431
+    t: "Restaurante de cocina valenciana"
+    d: "Partida el Pla de Castell, 96"
+comerFecha: "octubre de 2026"
 ---
 Hoy toca escapada a uno de los pueblos más fotografiados de la Costa Blanca: **Altea**. Casas blancas, calles empedradas que suben y bajan sin avisar, y el Mediterráneo asomando por cada esquina. Es de esos sitios que parecen sacados de una postal y que, aun así, merecen la pena en persona.
 

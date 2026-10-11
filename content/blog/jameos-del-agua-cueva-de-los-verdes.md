@@ -34,6 +34,17 @@ actividades:
     u: "https://www.getyourguide.es/cueva-de-los-verdes-l83810/tickets-de-entrada-tc123/"
 guia: /assets/guias/guia-canarias-chenoaventuras.pdf
 guiaTitulo: 'Guía Canarias en PDF'
+comer:
+  - n: "Mamma Grazia"
+    r: 4.6
+    o: 1099
+    t: "Pizzería"
+    d: "C. Cueva de los Verdes, 66"
+  - n: "Restaurante Tahoyo"
+    r: 4.5
+    o: 1621
+    d: "C. Pared del Agua, 14"
+comerFecha: "octubre de 2026"
 ---
 Hace miles de años, el **volcán de La Corona** escupió un río de lava que corrió hasta el mar y dejó un túnel de varios kilómetros. Hoy, en ese túnel, puedes visitar dos de los lugares más impresionantes de **Lanzarote**: los **Jameos del Agua** y la **Cueva de los Verdes**.
 

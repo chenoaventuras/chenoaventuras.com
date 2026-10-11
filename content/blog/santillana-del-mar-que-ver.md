@@ -26,6 +26,23 @@ faq:
     a: "A finales de junio, en honor a Santa Juliana, con el baile tradicional de los picayos."
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+comer:
+  - n: "Restaurante La Nueva Santuca"
+    r: 4.8
+    o: 807
+    t: "Restaurante cántabro"
+    d: "Bo. Arroyo, 7"
+  - n: "Restaurante Gran Duque"
+    r: 4.7
+    o: 2273
+    t: "Restaurante cántabro"
+    d: "C. Jesús Otero, 7"
+  - n: "Restaurante Celina Bonita"
+    r: 4.6
+    o: 373
+    t: "Restaurante cántabro"
+    d: "C. de la Carrera, 6"
+comerFecha: "octubre de 2026"
 ---
 Dicen que **Santillana del Mar** es la villa de las tres mentiras: **ni es santa, ni es llana, ni tiene mar**. Y aun así es uno de los pueblos más buscados de España, y en cuanto pisas sus calles empedradas entiendes por qué.
 

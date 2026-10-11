@@ -32,6 +32,20 @@ actividades:
     u: "https://www.getyourguide.es/barcelona-l45/barcelona-walking-tours-pass-gothic-gaudi-bunker-sangria-t1229168/"
 guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
 guiaTitulo: 'Guía Cataluña en PDF'
+comer:
+  - n: "Restaurante Saó BCN"
+    r: 4.7
+    o: 1134
+    d: "Carrer de Cesare Cantú, 2"
+  - n: "El Racó de Dalt"
+    r: 4.7
+    o: 380
+    t: "Restaurante de cocina catalana"
+    d: "Trav. de Dalt, 52"
+  - n: "El Tribut"
+    r: 4.5
+    o: 6387
+comerFecha: "octubre de 2026"
 ---
 Toda **Barcelona** a tus pies: la Sagrada Familia, el mar, Montjuïc y el Tibidabo, en 360 grados. Los **Búnkers del Carmel** son el mirador favorito de los barceloneses, y además son **gratis**.
 

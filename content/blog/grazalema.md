@@ -28,6 +28,23 @@ faq:
     a: "El lunes siguiente al 16 de julio, dentro de las fiestas de la Virgen del Carmen."
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
+comer:
+  - n: "Casa Martín 1920"
+    r: 4.8
+    o: 1045
+    t: "Restaurante andaluz"
+    d: "Plaza España, 18"
+  - n: "La Merina • Asador & Brasa Autóctona"
+    r: 4.8
+    o: 1010
+    t: "Parrilla"
+    d: "Avenida Juan de La rosa, 1"
+  - n: "Restaurante La cocina del Gaidovar"
+    r: 4.9
+    o: 481
+    t: "Restaurante andaluz"
+    d: "Plaza España, 5 b"
+comerFecha: "octubre de 2026"
 ---
 En plena Andalucía hay un pueblo blanco donde llueve **más que en muchos sitios de Galicia**. **Grazalema** (Cádiz) recoge de media casi **2.000 litros por metro cuadrado al año**: es el lugar más lluvioso de Andalucía y de toda la mitad sur de la península.
 

@@ -35,6 +35,20 @@ actividades:
     u: "https://www.civitatis.com/es/cuenca/tour-misterios-leyendas/"
   - t: "Visita guiada por la Ciudad Encantada"
     u: "https://www.civitatis.com/es/cuenca/visita-guiada-ciudad-encantada/"
+comer:
+  - n: "Restaurante Casa Manzar"
+    r: 4.8
+    o: 587
+    d: "Rda. Julián Romero, 6"
+  - n: "PARANOIA Restaurante"
+    r: 4.8
+    o: 561
+    d: "C. Princesa Zaida, 13"
+  - n: "Restaurante Olea Comedor"
+    r: 4.7
+    o: 795
+    d: "Av. de Castilla-la Mancha, 3"
+comerFecha: "octubre de 2026"
 ---
 Cuenca es de esos sitios a los que vas por las **Casas Colgadas** y vuelves hablando de todo lo demás. Una ciudad Patrimonio de la Humanidad colgada entre dos hoces, y a veinte minutos, una Serranía llena de cañones, lagunas y rocas con formas imposibles.
 

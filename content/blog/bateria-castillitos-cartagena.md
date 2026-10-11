@@ -33,6 +33,21 @@ faq:
     a: "En Cabo Tiñoso, en Cartagena (Región de Murcia), al borde de un acantilado a 250 metros sobre el mar."
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf
 guiaTitulo: 'Guía Región de Murcia en PDF'
+comer:
+  - n: "Ecoturismo Cabo Tiñoso"
+    r: 4.7
+    o: 627
+    t: "Restaurante mediterráneo"
+    d: "Cam. a cabo tiñoso, s/n"
+  - n: "Restaurante Casa Del Nono"
+    r: 4.5
+    o: 1325
+    d: "Pasaje los Agueras, 1"
+  - n: "Deskaro by Bongora"
+    r: 4.4
+    o: 1775
+    d: "C. Botavara, 9"
+comerFecha: "octubre de 2026"
 ---
 Hay sitios que sorprenden por las vistas, otros por la historia, y luego está la **Batería de Castillitos**, en Cabo Tiñoso (Cartagena), que te da las dos cosas a la vez y encima con unos cañones que parecen sacados de una peli. Un castillo de cuento al borde de un acantilado, con el Mediterráneo a 250 metros por debajo.
 

@@ -31,6 +31,13 @@ actividades:
     u: "https://www.civitatis.com/es/caceres/avistamiento-aves-extremadura/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Extremadura en PDF'
+comer:
+  - n: "Al Mofrag Terraza & Restaurante"
+    r: 4.5
+    o: 625
+    t: "Bar restaurante"
+    d: "Villarreal de San Carlos, 40"
+comerFecha: "octubre de 2026"
 ---
 Una pared de roca gigante sobre el río Tajo y decenas de **buitres** planeando a la altura de tus ojos. Eso es el **Salto del Gitano**, el mirador más famoso del **Parque Nacional de Monfragüe**, uno de los mejores sitios de Europa para ver aves rapaces.
 

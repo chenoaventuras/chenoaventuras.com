@@ -28,6 +28,21 @@ actividades:
     u: "https://www.civitatis.com/es/tarifa/avistamiento-cetaceos/"
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
+comer:
+  - n: "Restaurante Los Argentinos"
+    r: 4.9
+    o: 697
+    d: "C. Numancia, 4"
+  - n: "Un Lugar Cocina Italo-Chilena"
+    r: 4.8
+    o: 567
+    t: "Restaurante italiano"
+    d: "C. Colón, 14"
+  - n: "Silos 19"
+    r: 4.7
+    o: 1225
+    d: "C. Silos, 19"
+comerFecha: "octubre de 2026"
 ---
 A un lado, el **Atlántico**. Al otro, el **Mediterráneo**. Y enfrente, a solo **14 km**, **África**. La **Punta de Tarifa** es el **punto más al sur de la Europa continental**.
 

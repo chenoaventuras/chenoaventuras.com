@@ -32,6 +32,20 @@ actividades:
     u: "https://www.civitatis.com/es/cordoba/entradas-mezquita-cordoba/"
 guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Andalucía occidental en PDF'
+comer:
+  - n: "Bodegas Mezquita Ribera"
+    r: 4.8
+    o: 20581
+    d: "Rda. de Isasa, 10"
+  - n: "Taberna La Montillana"
+    r: 4.8
+    o: 19578
+    d: "C. San Álvaro, 5"
+  - n: "Restaurante Damasco"
+    r: 4.8
+    o: 4830
+    d: "C. Romero, 4"
+comerFecha: "octubre de 2026"
 ---
 Entras y, de repente, estás en un **bosque de columnas** con arcos rojos y blancos que se repiten hasta donde alcanza la vista. Y cuando crees que ya lo has visto todo, en mitad de la mezquita aparece… **una catedral renacentista**. La **Mezquita-Catedral de Córdoba** es uno de los monumentos más alucinantes del mundo, y no es ninguna exageración.
 

@@ -31,6 +31,22 @@ actividades:
     u: "https://www.civitatis.com/es/formentera/bautismo-buceo-formentera/"
 guia: /assets/guias/guia-baleares-chenoaventuras.pdf
 guiaTitulo: 'Guía Islas Baleares en PDF'
+comer:
+  - n: "Pastis"
+    r: 4.8
+    o: 718
+    t: "Restaurante francés"
+    d: "Carrer d'es Vedrà, 1"
+  - n: "Tap.ita by Lucky"
+    r: 4.9
+    o: 265
+    t: "Restaurante italiano"
+  - n: "Mama Carmen"
+    r: 4.6
+    o: 790
+    t: "Restaurante de brunch"
+    d: "Carrer de Santa Maria, 14"
+comerFecha: "octubre de 2026"
 ---
 Agua tan transparente que los barcos parecen flotar en el aire, playas de arena blanca y faros en acantilados donde termina la isla. **Formentera** es la isla habitada más pequeña de las Baleares y la más tranquila.
 

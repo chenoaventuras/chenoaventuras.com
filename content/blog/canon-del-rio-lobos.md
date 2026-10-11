@@ -30,6 +30,13 @@ actividades:
     u: "https://www.civitatis.com/es/ucero/"
 guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía Castilla y León en PDF'
+comer:
+  - n: "Mesón Julio Casarejos"
+    r: 4.5
+    o: 887
+    t: "Restaurante de cocina castellana"
+    d: "C. Centro, 6"
+comerFecha: "octubre de 2026"
 ---
 Paredes de roca de cien metros, buitres planeando por encima de tu cabeza y, en mitad del cañón, una **ermita templaria** pegada a la pared. Dicen que está justo a medio camino entre los dos extremos de la península, en el **centro del mundo**.
 

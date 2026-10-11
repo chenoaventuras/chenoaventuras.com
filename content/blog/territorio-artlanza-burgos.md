@@ -28,6 +28,17 @@ faq:
     a: "El escultor Félix Yáñez, a mano y con materiales reciclados de casas derribadas."
   - q: "¿Qué ver cerca de Territorio Artlanza?"
     a: "Lerma, Covarrubias, Santo Domingo de Silos y las ruinas de San Pedro de Arlanza."
+comer:
+  - n: "Mesón de Frutos"
+    r: 4.6
+    o: 720
+    d: "C. de la Iglesia, 19"
+  - n: "Cafe Bar Paco"
+    r: 4.5
+    o: 263
+    t: "Cafetería"
+    d: "C. el Rio, 2"
+comerFecha: "octubre de 2026"
 ---
 Hay quien hace maquetas. El escultor **Félix Yáñez** decidió construir **un pueblo castellano entero, a tamaño real**, con sus propias manos y con **materiales reciclados**. El resultado se llama **Territorio Artlanza**, y está considerado la escultura más grande del mundo hecha por una sola persona.
 

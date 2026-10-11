@@ -25,6 +25,21 @@ faq:
 actividades:
   - t: "Visita a Bodegas Bilbaínas (Haro, cerca)"
     u: "https://www.civitatis.com/es/haro/visita-bodegas-bilbainas/"
+comer:
+  - n: "Lumbre Restaurante"
+    r: 4.8
+    o: 763
+    d: "Tr.ª Jardines, 15"
+  - n: "Asador AKER"
+    r: 4.5
+    o: 1141
+    t: "Parrilla"
+  - n: "Restaurante Bodega Pimiento"
+    r: 4.4
+    o: 1261
+    t: "Parrilla"
+    d: "C. Salvador, 8"
+comerFecha: "octubre de 2026"
 ---
 Entre viñedos de la Rioja Alta, con un río cruzando el pueblo y un castillo que hoy sabe más a vino que a guerra, Cuzcurrita de Río Tirón es de esas escapadas donde el plan es simplemente pasear, parar y disfrutar sin prisa.
 

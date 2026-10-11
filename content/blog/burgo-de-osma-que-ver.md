@@ -31,6 +31,22 @@ actividades:
     u: "https://www.civitatis.com/es/el-burgo-de-osma/entrada-castilla-termal-burgo-osma/"
 guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía Castilla y León en PDF'
+comer:
+  - n: "Cervecería-Bar Alquimia de Arevaka"
+    r: 4.7
+    o: 1597
+    t: "Bar"
+    d: "Pl. Santo Domingo, 17"
+  - n: "Bar El Mellizo"
+    r: 4.9
+    o: 240
+    t: "Bar"
+  - n: "Restaurante \"Los Girasoles de Muñecas\""
+    r: 4.7
+    o: 302
+    t: "Restaurante de cocina castellana"
+    d: "C. Mayor, 1"
+comerFecha: "octubre de 2026"
 ---
 Hay pueblos que crecieron alrededor de un castillo, y otros que crecieron alrededor de una catedral. El Burgo de Osma es de los segundos: durante siglos fue una importante ciudad episcopal, y ese pasado se nota en cada esquina de su casco histórico.
 

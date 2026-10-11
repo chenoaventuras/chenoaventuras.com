@@ -25,6 +25,23 @@ faq:
     a: "En Carnota (A Coruña), junto a la iglesia de Santa Comba, en la Costa da Morte. A 5 km tienes el hórreo de Lira."
 guia: /assets/guias/guia-galicia-chenoaventuras.pdf
 guiaTitulo: 'Guía Galicia en PDF'
+comer:
+  - n: "O Cuberto"
+    r: 4.6
+    o: 2250
+    t: "Bar restaurante"
+    d: "Rúa Igrexas, 27"
+  - n: "Mar da Morosa"
+    r: 4.6
+    o: 1501
+    t: "Marisquería"
+    d: "Rua Mallou, 182"
+  - n: "Casa Fandiño"
+    r: 4.6
+    o: 677
+    t: "Restaurante gallego"
+    d: "Rua as Breas, 26"
+comerFecha: "octubre de 2026"
 ---
 Un granero de piedra de **casi 35 metros**, levantado sobre decenas de patas de piedra, junto a una iglesia. El **hórreo de Carnota** es uno de los más largos de Galicia y **Monumento Nacional**.
 

@@ -23,6 +23,12 @@ faq:
     a: "Por Ochagavía, en el Valle de Salazar, o por Orbaizeta, en el Valle de Aezkoa."
   - q: "¿Cómo llegar a la Selva de Irati desde Pamplona?"
     a: "En coche, en algo más de una hora, entrando por Ochagavía (Valle de Salazar) o por Orbaizeta (Valle de Aezkoa)."
+comer:
+  - n: "Chalet Pedro Iraty"
+    r: 4.5
+    o: 455
+    t: "Restaurante vasco"
+comerFecha: "octubre de 2026"
 ---
 En otoño, la **Selva de Irati** se pone de todos los colores: amarillos, naranjas, rojos y el verde oscuro de los abetos, todo reflejado en el río. Es uno de los bosques más grandes y mejor conservados de Europa, y en octubre está en su mejor momento.
 

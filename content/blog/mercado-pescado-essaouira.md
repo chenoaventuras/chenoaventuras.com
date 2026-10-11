@@ -32,6 +32,23 @@ actividades:
     u: "https://www.civitatis.com/es/marrakech/excursion-essaouira/"
 guia: /assets/guias/guia-marrakech-chenoaventuras.pdf
 guiaTitulo: 'Guía Marrakech y alrededores en PDF'
+comer:
+  - n: "Khmissa Restaurant"
+    r: 4.9
+    o: 1548
+    t: "Restaurante marroquí"
+    d: "1 Rue Zayan"
+  - n: "Restaurant Safran Citron"
+    r: 4.8
+    o: 557
+    t: "Restaurante marroquí"
+    d: "12 Rue Laalouj"
+  - n: "Restaurant Chez Les Frères"
+    r: 4.8
+    o: 384
+    t: "Restaurante marroquí"
+    d: "3 Rue Sidi Magdoul"
+comerFecha: "octubre de 2026"
 ---
 No es un decorado para turistas: es trabajo de verdad, cada mañana, desde hace décadas. En el puerto de **Essaouira**, en la costa atlántica de Marruecos, las barcas azules llegan, el pescado sube a las mesas y empieza la **subasta**. Y lo mejor: puedes comprar ahí mismo y que te lo hagan **a la brasa** a dos pasos.
 

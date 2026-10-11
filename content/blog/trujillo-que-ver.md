@@ -31,6 +31,20 @@ actividades:
     u: "https://www.civitatis.com/es/trujillo/tour-misterios-leyendas/"
 guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
 guiaTitulo: 'Guía Extremadura en PDF'
+comer:
+  - n: "Meseguera"
+    r: 4.7
+    o: 1274
+    d: "Pl. Mayor, 27"
+  - n: "El 7 De Sillerias"
+    r: 4.6
+    o: 2168
+    d: "C. Sillerías, 7"
+  - n: "Restaurante Alberca"
+    r: 4.6
+    o: 1867
+    d: "C. de la Victoria, 8"
+comerFecha: "octubre de 2026"
 ---
 Una de las plazas mayores más bonitas de España, un castillo árabe en lo alto del cerro y palacios con escudos por todas partes. **Trujillo** fue la cuna de conquistadores como **Francisco Pizarro** o Francisco de Orellana, y con el oro de América llenaron el pueblo de casas señoriales.
 

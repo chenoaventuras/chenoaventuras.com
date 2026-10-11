@@ -29,6 +29,21 @@ faq:
     a: "Sí, el agua de Gredos es fría incluso en verano. Julio y agosto son los mejores meses para bañarse."
   - q: "¿Qué ver en Arenas de San Pedro?"
     a: "El castillo de la Triste Condesa, el Palacio de la Mosquera, las Cuevas del Águila y el monasterio de San Pedro de Alcántara."
+comer:
+  - n: "La Bodeguilla del Cuco"
+    r: 4.8
+    o: 536
+    t: "Bar"
+  - n: "El Sur de Gredos Restaurante"
+    r: 4.6
+    o: 717
+    d: "Calle Dr. Lorenzo Velázquez, 12"
+  - n: "Mediterráneo Arenas"
+    r: 4.6
+    o: 413
+    t: "Bar restaurante"
+    d: "Pl. Federico Fernández, 6"
+comerFecha: "octubre de 2026"
 ---
 En la cara sur de la **Sierra de Gredos** hay pozas que el agua y la roca han ido formando durante siglos, sin que nadie las toque. El **Charco Verde** y el **tobogán natural del río Pelayos** son dos de esos rincones, perfectos para un chapuzón de agua fría y transparente en verano.
 

@@ -38,6 +38,23 @@ actividades:
     u: "https://www.civitatis.com/es/biescas/barranquismo-pirineo-aragones/"
   - t: "Panticosa: parapente en el Pirineo"
     u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+comer:
+  - n: "L'Acherito"
+    r: 4.7
+    o: 1475
+    t: "Bar restaurante"
+    d: "C. del Carmen, 17 (Jaca)"
+  - n: "Restaurante Rosa Rosae"
+    r: 4.7
+    o: 974
+    t: "Restaurante de cocina española"
+    d: "C. Autonomía de Aragón, 15 (Jaca)"
+  - n: "Restaurante Biarritz"
+    r: 4.6
+    o: 6397
+    t: "Parrilla"
+    d: "Av. del Primer Viernes de Mayo, 12 (Jaca)"
+comerFecha: "octubre de 2026"
 ---
 Si tuviera que recomendar **una sola escapada de montaña en España**, el **Pirineo Aragonés** estaría siempre en la conversación. Ibones de alta montaña, pueblos de piedra, cascadas a cada curva, una estación de tren con historia de espías y la que para mí es la ruta más bonita del país: la de la Cola de Caballo en Ordesa.
 

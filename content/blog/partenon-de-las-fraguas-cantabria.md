@@ -29,6 +29,16 @@ faq:
     a: "40 columnas corintias, como un templo clásico rodeado de columnas por los cuatro lados."
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+comer:
+  - n: "Mesón El Nogalón"
+    r: 4.5
+    o: 997
+  - n: "Taberna Ytria"
+    r: 4.4
+    o: 425
+    t: "Taberna"
+    d: "Pl. la Bolera, 2"
+comerFecha: "octubre de 2026"
 ---
 Entre montañas y prados del **valle de Iguña**, en Cantabria, hay un edificio que parece teletransportado desde Grecia. Lo llaman el **«Partenón cántabro»**, y la primera vez que lo ves aparecer entre los árboles cuesta creer que estás en el norte de España.
 

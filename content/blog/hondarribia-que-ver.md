@@ -29,6 +29,22 @@ actividades:
     u: "https://www.civitatis.com/es/hondarribia/free-tour-hondarribia/"
 guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
 guiaTitulo: 'Guía País Vasco en PDF'
+comer:
+  - n: "Restaurante Arroka Berri"
+    r: 4.7
+    o: 3278
+    t: "Restaurante vasco"
+    d: "Cam. Higer, 6"
+  - n: "La Hermandad de Pescadores"
+    r: 4.7
+    o: 2595
+    t: "Restaurante vasco"
+    d: "Zuloaga Kalea, 12"
+  - n: "Mika Jatetxea Hondarribia"
+    r: 4.7
+    o: 781
+    d: "Harma Plaza, 2"
+comerFecha: "octubre de 2026"
 ---
 Un casco medieval amurallado en lo alto, un barrio de pescadores con balcones de colores abajo y, al otro lado de la bahía, Francia. **Hondarribia** es uno de los pueblos más bonitos de la costa vasca, y la puerta de entrada a **Jaizkibel**, uno de los montes con mejores vistas del Cantábrico.
 

@@ -27,6 +27,18 @@ faq:
     a: "En coche hasta Montejo de la Sierra, en la Sierra del Rincón, a unos 100 km de Madrid por la A-1."
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
+comer:
+  - n: "Restaurante Recuenco"
+    r: 4.9
+    o: 212
+    t: "Restaurante de comida madrileña"
+    d: "Calle Real, 12"
+  - n: "Mesón El Hayedo"
+    r: 4.5
+    o: 1495
+    t: "Restaurante familiar"
+    d: "C. Turco, 13"
+comerFecha: "octubre de 2026"
 ---
 A una hora y poco de Madrid hay un bosque de hayas que es **Patrimonio de la Humanidad**. Uno de los hayedos más al sur de Europa, escondido en la Sierra del Rincón, y en otoño se convierte en un espectáculo de amarillos y rojos.
 
