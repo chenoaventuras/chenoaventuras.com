@@ -16,28 +16,50 @@ faq:
     a: "Mientras el avión rueda, despega o aterriza, no: tienes que estar sentado con el cinturón puesto. Úsalo en la terminal o cuando se apague la señal del cinturón."
   - q: "¿El agua del baño del avión es potable?"
     a: "No es recomendable beberla: es para lavarse las manos. Para beber, pide agua embotellada a la tripulación."
+  - q: "¿Por qué hay ceniceros en los baños de los aviones si no se puede fumar?"
+    a: "Porque las normas de aviación los exigen: si alguien fuma igualmente, es más seguro que apague el cigarro en un cenicero que en la papelera."
+  - q: "¿Para qué sirve el agujero de la ventanilla del avión?"
+    a: "Equilibra la presión entre las capas de la ventana y evita que se empañe o se agriete."
+  - q: "¿Por qué bajan las luces del avión al aterrizar?"
+    a: "Para que los ojos se acostumbren a la oscuridad y, en caso de evacuación, veas mejor."
 ---
-Cierras el pestillo del baño del avión y das por hecho que ahí dentro tienes toda la privacidad del mundo. Sin embargo, hay un detalle que pocos pasajeros conocen: la tripulación puede abrir esa puerta desde fuera aunque el pestillo esté echado.
+Cierras el pestillo del baño del avión y das por hecho que ahí dentro tienes toda la intimidad del mundo. Pues hay un detalle que casi nadie conoce: **la tripulación puede abrir esa puerta desde fuera**, aunque el pestillo esté echado. Y no es lo único que esconde un avión a simple vista.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DYcrqgZMxkL/).
+Puedes ver cómo funciona en [este reel de Instagram](https://www.instagram.com/reel/DYcrqgZMxkL/).
 
-## Un mecanismo oculto en la propia puerta
+## Un mecanismo escondido en la propia puerta
 
-Junto al indicador de "ocupado/libre" de la puerta suele haber una pequeña chapita, casi siempre pasa desapercibida. Levantándola y deslizando el seguro, la tripulación puede desbloquear la puerta desde el exterior sin necesidad de ninguna llave ni herramienta especial.
+Junto al cartel de **«ocupado / libre»** suele haber una pequeña **chapita** con la palabra *Lavatory* o un símbolo, que casi siempre pasa desapercibida. Si la levantas, aparece un pequeño seguro: deslizándolo, la tripulación **desbloquea la puerta desde fuera** sin llave ni herramientas.
 
-## No es para invadir tu intimidad, es un tema de seguridad
+> **Ojo:** que sepas que existe no significa que debas tocarlo. Es un mecanismo de seguridad para la tripulación, no para pasajeros curiosos.
 
-Este sistema no está pensado para curiosear ni molestar a nadie: existe por motivos de seguridad. Se utiliza en situaciones muy concretas, sobre todo durante el despegue y el aterrizaje, o en caso de una emergencia dentro del propio baño, para que la tripulación pueda actuar rápido si hace falta.
+## No es para invadir tu intimidad: es por seguridad
 
-## Por qué tiene sentido que exista
+Este sistema existe por motivos de **seguridad**. La tripulación lo usa en situaciones muy concretas:
 
-Piénsalo desde el punto de vista de la seguridad de la cabina: si alguien se encuentra mal, se queda atrapado por un fallo del pestillo, o simplemente hace falta comprobar que todo está en orden antes de un despegue o aterrizaje, la tripulación necesita poder acceder sin depender de que el pasajero abra desde dentro. Es la misma lógica que hay detrás de otros protocolos de cabina que damos por hecho sin pensar mucho en ellos.
+- Si un pasajero **se encuentra mal** dentro del baño y no puede abrir.
+- Si el **pestillo se atasca** y alguien se queda encerrado.
+- Para **comprobar que el baño está vacío** antes del despegue y el aterrizaje.
+- Si se sospecha que alguien está **fumando** o haciendo algo peligroso dentro.
+
+En un avión no se puede llamar a un cerrajero: la tripulación tiene que poder llegar a cualquier rincón en segundos.
+
+## Otros secretos del avión que tienes delante y no ves
+
+Ya que estamos, aquí van otras curiosidades que llevan ahí siempre:
+
+- **Hay ceniceros en los baños**, aunque está prohibido fumar desde hace décadas. Las normas de aviación obligan a tenerlos: si alguien fuma igualmente, es mejor que apague el cigarro en un cenicero que en la papelera, donde podría provocar un incendio.
+- **El agujerito de la ventanilla.** La ventana tiene varias capas y la del medio lleva un pequeño orificio que equilibra la presión entre las capas. Por eso no se empañan ni se agrietan.
+- **Los triángulos negros** pintados sobre algunas ventanillas marcan desde dónde la tripulación ve mejor las **alas** para revisarlas.
+- **Bajan las luces al despegar y aterrizar de noche** para que los ojos se acostumbren a la oscuridad: si hubiera que evacuar, verías mejor.
+- **Te piden subir la persiana** en esos mismos momentos para que la tripulación pueda ver el exterior y detectar fuego o peligros en caso de emergencia.
 
 ## Una curiosidad que casi nadie conoce hasta que la ve
 
-Es de esos detalles de los aviones que llevan ahí desde siempre, delante de cualquiera que viaje en avión, y que sin embargo pasan completamente inadvertidos hasta que alguien te los señala. La próxima vez que entres al baño de un avión, fíjate en esa pequeña chapita junto al pestillo — ahora ya sabes para qué está.
+Son detalles que tienes delante cada vez que vuelas y que pasan completamente inadvertidos hasta que alguien te los señala. La próxima vez que entres al baño de un avión, fíjate en esa pequeña chapita junto al pestillo: ahora ya sabes para qué está.
+
+¿Te gustan las curiosidades de viaje? En el blog tienes más, como la [máquina de leche de Reinosa](/blog/maquina-leche-reinosa-cantabria.html) o el [nido de cigüeña más famoso de España](/blog/nido-ciguena-mas-famoso-espana.html).
 
 <!--faq-->
 
-
-¿Tú ya conocías este mecanismo o te has enterado ahora? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades de viajes, y échale un vistazo al resto del blog para seguir descubriendo detalles como este.
+¿Sabías que la puerta del baño del avión se podía abrir desde fuera? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades de viaje, y échale un vistazo al resto del blog.

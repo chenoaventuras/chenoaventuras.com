@@ -8,7 +8,7 @@ lng: -6.4421
 excerpt: 'El faro de Chipiona (Cádiz) mide 62 metros y es el más alto de España. Su historia desde la torre romana de Cepión, cómo visitarlo y qué ver en Chipiona.'
 cover: /assets/img/blog/faro-de-chipiona/portada.webp
 tags:
-  - Curiosidades
+  - Spots
   - Andalucía
 wide: true
 faqTitulo: "Dudas sobre el faro de Chipiona"

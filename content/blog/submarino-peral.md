@@ -8,7 +8,7 @@ lng: -0.9805
 excerpt: 'El submarino de Isaac Peral fue el primer submarino totalmente eléctrico del mundo y con torpedos. Su historia y cómo verlo en el Museo Naval de Cartagena.'
 cover: /assets/img/blog/submarino-peral/portada.webp
 tags:
-  - Curiosidades
+  - Spots
   - Región de Murcia
 wide: true
 faqTitulo: "Dudas sobre el Submarino Peral"

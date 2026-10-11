@@ -8,7 +8,7 @@ lng: -9.0897
 excerpt: 'El hórreo de Carnota mide unos 35 metros y es uno de los más largos de Galicia. Su historia, la rivalidad con el de Lira y el de Araño, y qué ver en Carnota.'
 cover: /assets/img/blog/horreo-de-carnota/portada.webp
 tags:
-  - Curiosidades
+  - Spots
   - Galicia
 wide: true
 faqTitulo: "Dudas sobre el hórreo de Carnota"

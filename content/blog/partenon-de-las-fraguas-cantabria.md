@@ -23,34 +23,58 @@ faq:
     a: "«Los otros», con Nicole Kidman: aparece el Palacio de los Hornillos, muy cerca de la iglesia."
   - q: "¿Cuándo se construyó la iglesia de San Jorge de Las Fraguas?"
     a: "En 1890, inspirada en los templos griegos, con 40 columnas corintias."
+  - q: "¿Se puede visitar por dentro la iglesia de Las Fraguas?"
+    a: "Solo si coincide con misa o alguna apertura. Por fuera se ve libremente y gratis."
+  - q: "¿Cuántas columnas tiene la iglesia de San Jorge de Las Fraguas?"
+    a: "40 columnas corintias, como un templo clásico rodeado de columnas por los cuatro lados."
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
-Entre montañas y prados del Valle de Iguña, en Cantabria, hay un edificio que parece haberse teletransportado directamente desde Grecia. Lo llaman el "Partenón cántabro", y es uno de los rincones neoclásicos más sorprendentes del norte de España.
+Entre montañas y prados del **valle de Iguña**, en Cantabria, hay un edificio que parece teletransportado desde Grecia. Lo llaman el **«Partenón cántabro»**, y la primera vez que lo ves aparecer entre los árboles cuesta creer que estás en el norte de España.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DYSX22UMI_t/), grabado en Las Fraguas, Cantabria.
+Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DYSX22UMI_t/), grabado en Las Fraguas.
 
-## La iglesia de San Jorge, un templo griego en pleno valle
+## Lo básico
 
-El protagonista de Las Fraguas es la **iglesia de San Jorge**, construida en 1890 e inspirada directamente en los templos griegos clásicos. Cuenta con 40 columnas corintias, una fachada que reproduce el estilo del Partenón y una escalinata a la entrada, además de un pequeño cementerio a un lado del edificio. El estilo neoclásico se elegiría como símbolo de prestigio y elegancia, siguiendo la moda europea de recuperar la arquitectura clásica de la época.
+- **Dónde:** en **Las Fraguas** (Arenas de Iguña, Cantabria), a unos 40 minutos de Santander.
+- **Cuánto se tarda:** entre **30 y 45 minutos**.
+- **Precio:** ver la iglesia por fuera es **gratis**. Por dentro solo se puede ver si coincide con misa o alguna apertura.
+- **Aparcamiento:** hay sitio cerca de la iglesia.
 
-## Un interior mucho más sobrio que el exterior
+## La iglesia de San Jorge: un templo griego en pleno valle
 
-Aunque la fachada roba todo el protagonismo, el interior de la iglesia sorprende por lo contrario: líneas limpias y una estética neoclásica mucho más sobria que el imponente exterior de columnas.
+El protagonista es la **iglesia de San Jorge**, que mandaron construir los **duques de Santo Mauro** a finales del siglo XIX como **capilla y panteón** familiar, sobre las ruinas de una antigua ermita. Se empezó en **1890** y se terminó años después.
 
-## El Palacio de los Hornillos y su cameo en el cine
+Es un templo de tipo **períptero**, es decir, rodeado de columnas por los cuatro lados, como los templos clásicos: **40 columnas corintias**, seis de ellas en la fachada, rematada con un **frontón triangular**, y una escalinata de acceso. A un lado tiene un pequeño cementerio.
 
-Muy cerca de la iglesia se encuentra el **Palacio de los Hornillos**, conocido por haber aparecido en la película *Los otros*, protagonizada por Nicole Kidman. Un aliciente más para combinar ambas visitas en el mismo paseo.
+> **Mi consejo:** ve **al atardecer**. Con la luz baja entre las columnas es cuando más parece un templo griego de verdad. Y rodéalo entero: desde atrás también impresiona.
+
+## Por dentro, mucho más sencilla
+
+Por fuera es espectacular, pero el interior sorprende por lo contrario: **sobrio**, con líneas limpias y casi sin decoración. Los duques acabaron donando la iglesia al pueblo, que la usa como **parroquia** hasta hoy.
+
+## El Palacio de los Hornillos, de película
+
+Junto a la iglesia está el **Palacio de los Hornillos**, también de los duques de Santo Mauro. Si te suena, es porque salió en la película **_Los otros_**, de Alejandro Amenábar, con **Nicole Kidman**: era la casa donde transcurre la historia. Es **privado**, así que se ve desde fuera.
 
 ## Una curiosidad de la Guerra Civil
 
-Durante la Guerra Civil española, la iglesia llegó a utilizarse como **cárcel provisional**, un uso muy alejado de su función religiosa y de la elegancia con la que hoy se la recuerda.
+Durante la Guerra Civil, la iglesia se usó como **cárcel**. Un uso muy alejado de la elegancia con la que se construyó.
 
-## Cómo llegar y cuándo visitarla
+## Cuándo ir
 
-La visita a la iglesia y sus alrededores lleva entre 30 y 45 minutos, y se puede hacer durante todo el año, aunque el atardecer es el momento en el que más se aprecia esa sensación de estar frente a un templo griego auténtico. El acceso en coche es sencillo y hay aparcamiento disponible cerca. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Las%20Fraguas%2C%20Cantabria).
+Se puede visitar **todo el año**. En **otoño** los bosques del valle de Iguña se ponen preciosos, y en **primavera** los prados están verdísimos. En invierno, con niebla, tiene un aire misterioso muy de *Los otros*.
+
+## Cómo llegar
+
+Las Fraguas está junto a la **A-67**, la autovía Santander-Palencia. Desde **Santander** son unos **40 minutos**; desde **Torrelavega**, unos 20. Sal en **Arenas de Iguña / Las Fraguas** y sigue las indicaciones. Puedes ver la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20San%20Jorge%2C%20Las%20Fraguas%2C%20Cantabria).
+
+## Qué más hacer cerca
+
+- **Las cuevas de Puente Viesgo** (El Castillo, Las Monedas), con arte rupestre declarado Patrimonio de la Humanidad, a unos 20 minutos.
+- **Reinosa**, con su curiosa [máquina de leche](/blog/maquina-leche-reinosa-cantabria.html) y el nacimiento del Ebro, a media hora por la A-67.
+- **[Santillana del Mar](/blog/santillana-del-mar-que-ver.html)** y **[Comillas](/blog/comillas-que-ver.html)**, en la costa, a menos de una hora.
 
 <!--faq-->
 
-
-¿Conocías el Partenón cántabro? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones sorprendentes de España, y échale un vistazo al resto del blog para tu próxima escapada.
+¿Conocías el Partenón cántabro? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones sorprendentes de España, y échale un vistazo al resto del blog.

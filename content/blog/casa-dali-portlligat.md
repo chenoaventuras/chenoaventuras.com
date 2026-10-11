@@ -8,7 +8,7 @@ lng: 3.2861
 excerpt: 'La casa de Salvador Dalí en Portlligat (Cadaqués) es un laberinto de casitas de pescadores con huevos gigantes en el tejado y un oso en la entrada. Cómo reservar y qué ver.'
 cover: /assets/img/blog/casa-dali-portlligat/casa.webp
 tags:
-  - Curiosidades
+  - Spots
   - Cataluña
 wide: true
 faqTitulo: "Dudas sobre la Casa de Dalí"

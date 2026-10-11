@@ -23,42 +23,65 @@ faq:
     a: "Unas 3 horas en total, con paradas en la Cueva de los Monigotes y la Cueva de las Nutrias."
   - q: "¿Qué animales se ven en el Cañón de Almadenes?"
     a: "Tortugas, garzas, buitres y, con suerte, alguna nutria."
+  - q: "¿Es difícil el rafting en el Cañón de Almadenes?"
+    a: "No, es de dificultad muy baja y apto para familias con niños y principiantes."
+  - q: "¿Cuántos kilómetros tiene el rafting de Almadenes?"
+    a: "Unos 5 km de río, alrededor de 2 horas y media en el agua."
+  - q: "¿Qué se ve en el rafting de Almadenes?"
+    a: "Paredes de más de 150 metros, fauna como tortugas, garzas y buitres, y cuevas con pinturas rupestres como la Cueva de los Monigotes."
 actividades:
   - t: "Rafting en el Cañón de Almadenes + Cueva del Puerto"
     u: "https://www.getyourguide.es/calasparra-l178427/calasparra-tour-de-rafting-en-el-canon-de-almadenes-y-cueva-del-puerto-t425787/"
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf
 guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
-Entre Cieza y Calasparra, el río Segura se abre paso entre paredes de roca de hasta 150 metros de altura, en uno de los espacios naturales más espectaculares de la Región de Murcia. Recorrerlo en barca, con calma y sin apenas dificultad técnica, es de esos planes que sorprenden a cualquiera.
+Entre **Cieza y Calasparra**, el río **Segura** se abre paso entre paredes de roca de **más de 150 metros**, en uno de los rincones más espectaculares de la Región de Murcia. Bajarlo en balsa es un plan tranquilo, precioso y apto para casi todo el mundo: no hace falta experiencia ni ser un aventurero.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DPMiJbsDDrn/), grabado en el Cañón de Almadenes, Murcia.
+Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DPMiJbsDDrn/), grabado en el Cañón de Almadenes.
+
+## Lo básico
+
+- **Dónde:** en el **Cañón de Almadenes**, entre Cieza y Calasparra (Murcia).
+- **Recorrido:** unos **5 km** de río, de unas 2 h 30 min en el agua. Con explicaciones y paradas, **unas 3 horas**.
+- **Precio:** el rafting turístico parte de unos **18-24 € por persona** según la empresa. Hay combinados con cueva.
+- **Dificultad:** **muy baja**, apta para familias con niños.
 
 ## Un descenso rodeado de naturaleza
 
-El recorrido en barca atraviesa el Cañón de Almadenes rodeado de un frondoso bosque, con posibilidad de avistar tortugas, garzas, buitres y, con algo de suerte, alguna nutria de las que habitan este paraje protegido. Es una actividad tan tranquila como escénica, pensada para disfrutar del entorno más que para buscar adrenalina.
+El cañón es **Reserva Natural** y forma parte de la Red Natura 2000. El río va tranquilo, así que el rafting aquí es más para **disfrutar del paisaje** que para buscar adrenalina. Por el camino puedes ver **tortugas**, **garzas**, **buitres** y, con suerte, alguna **nutria**.
 
-## Paradas en cuevas con historia
+> **Mi consejo:** lleva el móvil en una funda estanca y ve mirando arriba: las paredes del cañón están llenas de cuevas y aves.
 
-Durante el trayecto se hacen paradas en lugares como la **Cueva de los Monigotes**, con pinturas rupestres declaradas Patrimonio de la Humanidad, y la **Cueva de las Nutrias**, refugio habitual de estos animales. Son dos paradas que añaden una capa de historia al recorrido natural del cañón.
+## Paradas en cuevas con pinturas de hace miles de años
 
-## Precio y paquete combinado
+Una de las mejores partes es parar en la **Cueva de los Monigotes**, con **pinturas rupestres** de miles de años. Forma parte del **arte rupestre del arco mediterráneo**, declarado **Patrimonio de la Humanidad** por la UNESCO. Y lo curioso: estas cuevas apenas se pueden visitar por tierra, así que el río es la mejor forma de llegar. También se suele parar en la **Cueva de las Nutrias**.
 
-El rafting turístico tiene un precio desde **18€ por persona**, aunque suele haber ofertas en plataformas como Groupon o Civitatis. También existe un paquete combinado de rafting más visita a la [Cueva del Puerto](/blog/cueva-del-puerto-calasparra.html), con un precio general de 33€ por persona (12-64 años) y 27€ para niños y pensionistas; los menores de 4 años no pagan.
+## Rafting + Cueva del Puerto
 
-## Duración y dificultad
+Existe un **combinado de rafting y visita a la [Cueva del Puerto](/blog/cueva-del-puerto-calasparra.html)**, con sus salas que brillan en la oscuridad. Cuando lo miré costaba **33 €** (12-64 años) y **27 €** niños y pensionistas; menores de 4, gratis. Es la forma de exprimir el día.
 
-La actividad completa dura en torno a **3 horas** y tiene una dificultad muy baja, apta para familias con niños y para quienes nunca han hecho rafting. La mejor época para practicarlo es primavera y verano, cuando el caudal y la temperatura del agua acompañan mejor.
+## Qué llevar
 
+**Ropa que se pueda mojar** (o bañador), **calzado que se pueda mojar** y bien sujeto, **ropa de cambio**, toalla, **crema solar** y agua. El **chaleco y el casco** te los dan.
+
+## Cuándo ir
+
+Al ser un río regulado, se hace **casi todo el año**. **Primavera y verano** son las mejores épocas por el calor y la temperatura del agua. En invierno algunas empresas reducen salidas.
 
 <!--actividades-->
 
 ## Cómo llegar
 
-El Cañón de Almadenes se encuentra entre los municipios de Cieza y Calasparra, en la Región de Murcia. Puedes consultar la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Ca%C3%B1%C3%B3n%20de%20Almadenes%2C%20Murcia).
+El cañón está entre **Cieza** y **Calasparra**. El punto de encuentro depende de la empresa (suele ser en Calasparra). Desde **Murcia** son alrededor de **1 hora**. Puedes ver la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Ca%C3%B1%C3%B3n%20de%20Almadenes%2C%20Murcia).
 
 <div class="article__callout article__callout--booking">🎟️ Reserva el rafting por el Cañón de Almadenes con el código de descuento <strong>CHENOAVENTURAS5</strong>: <a class="btn" href="https://gyg.me/qnpedDrF" target="_blank" rel="noopener">Reservar en GetYourGuide</a></div>
 
+## Qué más hacer cerca
+
+- **[Fuente del Gorgotón](/blog/fuente-del-gorgoton-cieza.html)**, el manantial que brota a borbotones en la entrada del cañón.
+- **[Cueva del Puerto](/blog/cueva-del-puerto-calasparra.html)**, en Calasparra.
+- **[Caravaca de la Cruz](/blog/caravaca-de-la-cruz.html)**, a media hora.
+
 <!--faq-->
 
-
-¿Te animarías a bajar el Cañón de Almadenes en barca? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.
+¿Te animarías a bajar el Segura en balsa? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog.

@@ -19,28 +19,42 @@ faq:
     a: "Porque con tanto peso se ha inclinado muchísimo. Ha habido que reforzarlo con cemento y un cable para que no se caiga."
   - q: "¿Se puede quitar un nido de cigüeña?"
     a: "No por tu cuenta: la cigüeña blanca es una especie protegida y retirar o mover un nido necesita autorización de la administración ambiental."
+  - q: "¿Por qué los nidos de cigüeña son tan grandes?"
+    a: "Porque las cigüeñas vuelven al mismo nido cada año y le añaden ramas y barro en cada temporada."
+  - q: "¿Se pueden quitar los nidos de cigüeña?"
+    a: "No sin permiso: la cigüeña blanca es una especie protegida y sus nidos también."
+  - q: "¿Las cigüeñas se van a África en invierno?"
+    a: "Antes todas; hoy muchas se quedan todo el año en España."
 ---
-Hay nidos de cigüeña por toda España, pero solo hay uno al que se le conoce ya como la "Torre de Pisa" de los nidos. Está en Burgos, pesa casi una tonelada y lleva temporada tras temporada desafiando la gravedad.
+Hay nidos de cigüeña por toda España, pero solo uno al que ya llaman la **«Torre de Pisa» de los nidos**. Está en **Burgos**, pesa cerca de **una tonelada** y lleva temporada tras temporada desafiando la gravedad.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DXcVzdDDLIK/), grabado en la provincia de Burgos.
+Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DXcVzdDDLIK/), grabado en la provincia de Burgos.
 
-## Casi una tonelada de peso y dos metros de altura
+## Casi una tonelada y dos metros de alto
 
-Este nido de cigüeña se ha ido construyendo temporada tras temporada hasta alcanzar un tamaño fuera de lo común: se estima que pesa alrededor de **una tonelada** y alcanza cerca de **2 metros de altura**, una auténtica obra de arquitectura animal a base de ramas y años de acumulación.
+Las cigüeñas **vuelven al mismo nido** cada año y, en cada temporada, le añaden más ramas, barro y hierba. Así, un nido normal se va haciendo enorme con el paso de las décadas. Este ha llegado a pesar alrededor de **una tonelada** y a medir cerca de **2 metros de altura**: una auténtica obra de arquitectura animal.
 
-## Por qué lo llaman la "Torre de Pisa" burgalesa
+## Por qué lo llaman la «Torre de Pisa» burgalesa
 
-Con ese peso y esa altura, el nido ha desarrollado una inclinación tan llamativa que le ha ganado el apodo de **"Torre de Pisa" burgalesa**. La estructura se ha inclinado tanto con el tiempo que ha sido necesario reforzarla con cemento y un cable de sujeción para evitar que llegara a derrumbarse, y aun así, sigue en pie desafiando la gravedad año tras año.
+Con tanto peso, el nido ha ido **inclinándose** hasta un punto que impresiona. Ha hecho falta **reforzarlo con cemento** y sujetarlo con un **cable** para que no se viniera abajo. Y ahí sigue, torcido pero firme, año tras año.
 
-## Un icono que prefiere mantenerse en el anonimato
+## ¿Dónde está? Un secreto bien guardado
 
-A diferencia de otros lugares curiosos que suelen compartirse con su ubicación exacta, este nido es la excepción: por motivos obvios —evitar que la afluencia de curiosos moleste a las cigüeñas que lo habitan— su localización concreta no se hace pública. Lo que sí se sabe es que se encuentra en la provincia de Burgos, Castilla y León.
+Por respeto a las cigüeñas, su **ubicación exacta no se hace pública**: una avalancha de curiosos podría molestarlas, sobre todo en época de cría. Lo único que sabemos es que está en la **provincia de Burgos**.
 
-## Una lección de naturaleza y resistencia
+> **Mi consejo:** si encuentras nidos de cigüeña en tus viajes, obsérvalos **de lejos** y sin dron. Están protegidas y, en primavera, cualquier molestia puede hacer que abandonen los huevos.
 
-Más allá de la curiosidad de su tamaño e inclinación, este nido es también un ejemplo de resistencia animal: generación tras generación de cigüeñas han seguido ampliándolo y reutilizándolo, transformándolo poco a poco en el icono que es hoy, capaz de sorprender a cualquiera que se cruce con él, aunque sea solo en una fotografía.
+## Curiosidades de las cigüeñas que quizá no sabías
+
+- **Los nidos están protegidos.** La cigüeña blanca es una especie protegida, y sus nidos no se pueden retirar sin permiso, aunque estén en el campanario de una iglesia.
+- **Muchas ya no se van a África.** Antes migraban todas en invierno, pero cada vez más cigüeñas se quedan todo el año en España gracias al clima y a la comida que encuentran en vertederos y campos.
+- **No cantan: crotorean.** Hacen ese ruido característico chocando el pico, como unas castañuelas.
+- **Dónde ver muchas juntas:** en **Alfaro** (La Rioja), la iglesia de San Miguel acoge una de las colonias de cigüeñas sobre un edificio más grandes de Europa.
+
+## Una lección de resistencia
+
+Más allá de su tamaño, este nido es un ejemplo de cómo la naturaleza se adapta: generación tras generación de cigüeñas lo han ampliado y reutilizado hasta convertirlo en un icono. Y en Burgos tienes muchos más rincones curiosos: echa un vistazo a [Las Merindades](/blog/merindades-burgos-que-ver.html), [Orbaneja del Castillo](/blog/orbaneja-del-castillo.html) o el [Salto del Nervión](/blog/salto-del-nervion.html).
 
 <!--faq-->
 
-
-¿Conocías este nido o te has enterado ahora de su existencia? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades de la naturaleza en España, y échale un vistazo al resto del blog para descubrir más rincones sorprendentes.
+¿Habías visto alguna vez un nido así? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades de naturaleza, y échale un vistazo al resto del blog.

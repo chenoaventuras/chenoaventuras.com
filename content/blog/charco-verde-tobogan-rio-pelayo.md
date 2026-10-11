@@ -23,34 +23,71 @@ faq:
     a: "De primavera a principios de otoño, y sobre todo julio y agosto. Mejor entre semana para evitar gente."
   - q: "¿Qué llevar al tobogán del Río Pelayo?"
     a: "Escarpines o zapatillas de agua, agua y comida: no hay ningún servicio en la zona."
+  - q: "¿Hay que pagar para bañarse en el Charco Verde de Arenas de San Pedro?"
+    a: "No, el acceso es gratis. No hay servicios, así que lleva agua y comida."
+  - q: "¿Está fría el agua del Charco Verde?"
+    a: "Sí, el agua de Gredos es fría incluso en verano. Julio y agosto son los mejores meses para bañarse."
+  - q: "¿Qué ver en Arenas de San Pedro?"
+    a: "El castillo de la Triste Condesa, el Palacio de la Mosquera, las Cuevas del Águila y el monasterio de San Pedro de Alcántara."
 ---
-En la Sierra de Gredos hay pozas que se han formado durante siglos a base de agua y roca, sin que nadie las haya tocado. El Charco Verde y el tobogán natural del Río Pelayo son dos de esos rincones, perfectos para un chapuzón sin artificios.
+En la cara sur de la **Sierra de Gredos** hay pozas que el agua y la roca han ido formando durante siglos, sin que nadie las toque. El **Charco Verde** y el **tobogán natural del río Pelayos** son dos de esos rincones, perfectos para un chapuzón de agua fría y transparente en verano.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DalUcTPxSOE/), grabado en Arenas de San Pedro, Ávila.
+Puedes verlos en [este reel de Instagram](https://www.instagram.com/reel/DalUcTPxSOE/), grabado en Arenas de San Pedro.
 
-## El Charco Verde, el rincón favorito de los locales
+## Lo básico
 
-El **Charco Verde** lleva años siendo uno de los lugares de baño favoritos de quienes viven en la zona. Ojo, porque no hay que confundirlo con otro Charco Verde cercano, el de Guisando: este está en Arenas de San Pedro, y se llega hasta él en un paseo de apenas 10 minutos desde el coche.
+- **Dónde:** en **Arenas de San Pedro** (Ávila), en el valle del Tiétar.
+- **Cuánto se camina:** unos **10 minutos** hasta el Charco Verde, y **20-25 minutos** más hasta el tobogán.
+- **Precio:** **gratis**.
+- **Servicios:** **ninguno**. Ni bar ni baños: lleva todo lo que necesites.
 
-## El tobogán natural del Río Pelayo, el menos conocido
+## El Charco Verde, el favorito de los locales
 
-Menos transitado que el Charco Verde, el **tobogán natural del Río Pelayo** requiere una caminata algo más larga (unos 20-25 minutos adicionales), pero merece la pena: es agua y roca deslizándose de forma natural, sin ningún tipo de instalación artificial. Para llegar hasta él conviene llevar calzado que agarre bien, como zapatillas de agua o escarpines, ya que el acceso no es apto para personas con movilidad reducida.
+El **Charco Verde** es, desde hace años, una de las pozas preferidas de la gente de la zona. Su nombre lo dice todo: agua **verde esmeralda** entre rocas de granito. Ojo, **no lo confundas** con otro Charco Verde que hay en Guisando: este está en Arenas de San Pedro.
 
-## Se pueden ver los dos en la misma visita
+## El tobogán natural del río Pelayos
 
-Lo mejor de este plan es que ambos rincones están cerca entre sí: en una misma mañana o tarde puedes visitar primero el Charco Verde y después acercarte al tobogán del Río Pelayo. Eso sí, no hay actividades organizadas ni ningún tipo de servicio de restauración en la zona, así que conviene llevar agua y comida propia (y, por supuesto, llevarte de vuelta lo que sobre).
+Menos conocido, el **tobogán natural** está algo más lejos, pero merece la pena: una roca lisa por la que el agua baja deslizándose hasta una poza, **sin ninguna instalación artificial**. Es tan divertido como suena.
 
-## Cómo llegar y cuándo ir
+> **Mi consejo:** antes de tirarte, **mira la profundidad de la poza** y comprueba que no hay piedras. Y nunca te tires de cabeza en pozas naturales.
 
-El acceso a ambos puntos es completamente gratuito. La mejor época para visitarlos es de primavera a principios de otoño, con julio y agosto como los meses ideales para el baño — si puedes, evita los fines de semana para no encontrarte con demasiada gente.
+## Cómo hacer los dos en una visita
 
-Puedes consultar la ubicación de Arenas de San Pedro en [Google Maps](https://www.google.com/maps/search/?api=1&query=Arenas%20de%20San%20Pedro%2C%20%C3%81vila).
+Están cerca: puedes ir primero al **Charco Verde** y después seguir río arriba hasta el **tobogán**. En una mañana o una tarde lo ves todo con calma.
+
+## Qué llevar
+
+- **Escarpines o zapatillas de agua**: el granito mojado resbala muchísimo.
+- **Agua, comida** y una **bolsa** para traerte la basura.
+- **Toalla** y **crema solar**.
+
+El acceso al tobogán **no es apto para personas con movilidad reducida**.
+
+## Cuida las pozas
+
+- **No uses jabón ni champú** en el río.
+- **Llévate todo** lo que traigas, también colillas y restos de fruta.
+- **No hagas fuego**: en verano el riesgo de incendio en Gredos es muy alto.
+- Respeta a los demás bañistas: sin música alta.
+
+## Cuándo ir
+
+De **finales de primavera a principios de otoño**, con **julio y agosto** como los meses ideales para bañarse: el agua de Gredos es **fría** incluso en verano. **Evita los fines de semana** de agosto si puedes: se llena. Y si hay **tormenta**, sal del río: el nivel del agua puede subir de golpe.
+
+## Cómo llegar
+
+Las pozas están a las afueras de **Arenas de San Pedro**. Desde **Madrid** son unas **2 horas** por la A-5 o por la M-501 y el valle del Tiétar. Puedes ver la ubicación de Arenas en [Google Maps](https://www.google.com/maps/search/?api=1&query=Arenas%20de%20San%20Pedro%2C%20%C3%81vila).
 
 ## Qué más ver en Arenas de San Pedro
 
-Si te animas a hacer noche o alargar el día, Arenas de San Pedro da para mucho más: tiene su propio castillo, las cercanas Cuevas del Águila y hasta un monasterio, así que puedes montarte un fin de semana completo sin salir de la zona.
+Si te quedas a dormir, Arenas da para un fin de semana completo:
+
+- **El castillo de la Triste Condesa**, medieval, en pleno pueblo.
+- **El Palacio de la Mosquera**, donde vivió el infante don Luis de Borbón y donde **Goya** pintó a su familia.
+- **Las Cuevas del Águila**, una cueva con estalactitas gigantes, a pocos minutos.
+- **El monasterio de San Pedro de Alcántara**, a las afueras.
+- Y si quieres montaña, sube a la **[Laguna Grande de Gredos](/blog/sierra-de-gredos.html)**.
 
 <!--faq-->
 
-
-¿Conocías estas pozas de Gredos? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de naturaleza por España, y échale un vistazo al resto del blog para tu próxima escapada.
+¿Conocías el Charco Verde y el tobogán del río Pelayos? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más pozas y rincones de España, y échale un vistazo al resto del blog.

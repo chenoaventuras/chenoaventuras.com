@@ -8,7 +8,7 @@ lng: -5.6103
 excerpt: 'La Punta de Tarifa es el punto más al sur de la Europa continental y separa el Atlántico del Mediterráneo. Cómo llegar, qué ver y por qué se ve África tan cerca.'
 cover: /assets/img/blog/punta-de-tarifa/faro.webp
 tags:
-  - Curiosidades
+  - Spots
   - Andalucía
 wide: true
 faqTitulo: "Dudas sobre la Punta de Tarifa"

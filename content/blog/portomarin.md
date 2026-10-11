@@ -8,7 +8,7 @@ lng: -7.6158
 excerpt: 'Cuando se construyó el embalse de Belesar, Portomarín (Lugo) se trasladó a un monte cercano y su iglesia románica se movió piedra a piedra. Historia y qué ver.'
 cover: /assets/img/blog/portomarin/portada.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Galicia
 wide: true
 faq:

@@ -8,7 +8,7 @@ lng: -8.4064
 excerpt: 'La Torre de Hércules de A Coruña es el único faro romano del mundo que sigue funcionando. Te cuento su historia, la leyenda del gigante Gerión, cómo subir y qué ver alrededor.'
 cover: /assets/img/blog/torre-de-hercules/atardecer.webp
 tags:
-  - Curiosidades
+  - Spots
   - Galicia
 wide: true
 faqTitulo: "Dudas sobre la Torre de Hércules"

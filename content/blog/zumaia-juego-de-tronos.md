@@ -8,7 +8,7 @@ lng: -2.2588
 excerpt: 'La playa de Itzurun en Zumaia fue Rocadragón en Juego de Tronos. Sus acantilados de flysch guardan millones de años de historia. Qué ver, mareas y la ermita de San Telmo.'
 cover: /assets/img/blog/zumaia-juego-de-tronos/ermita2.webp
 tags:
-  - Curiosidades
+  - Spots
   - País Vasco
 wide: true
 faqTitulo: "Dudas sobre Zumaia"

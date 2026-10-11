@@ -22,38 +22,62 @@ faq:
     a: "Puestos de artesanía y comida, luchas medievales y teatro en la Plaza Mayor, pasacalles con músicos y actividades para niños."
   - q: "¿Cómo llegar a Chinchón desde Madrid?"
     a: "En coche, a unos 45 km al sureste de la capital, con aparcamientos habilitados. También hay transporte público."
+  - q: "¿Cuándo es el Mercado Medieval de Chinchón 2027?"
+    a: "Suele celebrarse un fin de semana de febrero; para 2027 se espera a finales de febrero. Confirma las fechas en la web del Ayuntamiento."
+  - q: "¿Desde cuándo se celebra el Mercado Medieval de Chinchón?"
+    a: "Desde 2004, cada mes de febrero."
+  - q: "¿Dónde aparcar en el Mercado Medieval de Chinchón?"
+    a: "En las zonas de aparcamiento que se habilitan en las afueras del pueblo, y subir andando a la Plaza Mayor."
 actividades:
   - t: "Free tour por Chinchón"
     u: "https://www.civitatis.com/es/chinchon/free-tour-chinchon/"
 ---
-[Chinchón](/blog/chinchon-castillo-de-noche.html) ya es, de por sí, uno de los pueblos más bonitos de la Comunidad de Madrid. Pero una vez al año, sus calles empedradas y su mítica Plaza Mayor retroceden varios siglos para acoger caballeros, juglares y artesanos: es el Mercado Medieval de Chinchón.
+[Chinchón](/blog/chinchon-castillo-de-noche.html) ya es, de por sí, uno de los pueblos más bonitos de la Comunidad de Madrid. Pero una vez al año, sus calles empedradas y su **Plaza Mayor** viajan varios siglos atrás para llenarse de caballeros, juglares, antorchas y artesanos: es el **Mercado Medieval de Chinchón**.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DUygejhDDnD/), grabado en Chinchón, Comunidad de Madrid.
+Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DUygejhDDnD/), grabado en Chinchón.
 
-## Qué incluye el mercado medieval
+## Lo básico
 
-Durante el fin de semana en el que se celebra, el casco histórico se llena de puestos de artesanía, gastronomía tradicional y productos locales, mientras que la propia Plaza Mayor sirve de escenario para espectáculos de lucha medieval y teatro callejero. Por las calles se suceden pasacalles con músicos y personajes de época, además de actividades y atracciones pensadas para los más pequeños. También es habitual encontrarte con personajes caracterizados dispuestos a hacerse fotos y vídeos con los visitantes.
+- **Cuándo:** cada año en **febrero**, durante un fin de semana. En **2026** fue del **13 al 15 de febrero**.
+- **Próxima edición:** a finales de **febrero de 2027** (fechas aún sin confirmar: consulta la web del Ayuntamiento).
+- **Precio:** **gratis**. Solo pagas lo que compres o comas.
+- **Dónde:** en la **Plaza Mayor** y las calles del casco histórico.
 
-## Cuándo se celebra
+## Un mercado con más de 20 años de historia
 
-El Mercado Medieval de Chinchón se organiza normalmente durante el mes de **febrero**, aunque las fechas exactas varían cada año, así que conviene comprobarlas antes de planear la visita. El evento se extiende durante todo el fin de semana, desde la mañana hasta la noche.
+Se celebra cada febrero desde **2004** y lo organiza la Asociación Cultural Arco Iris, con la participación de muchos vecinos. La fiesta recuerda una de las visitas de los **Reyes Católicos** a Chinchón, y por eso el pueblo entero se viste de época.
 
-## Precio y qué llevar
+## Qué vas a ver
 
-El acceso al mercado es **gratuito**; solo pagas si decides comprar algo de gastronomía o productos de artesanía. Eso sí, si quieres verlo todo, vas a caminar bastante, así que un calzado cómodo es casi obligatorio.
+- **Justas y combates de caballeros** en la Plaza Mayor, que se convierte en un auténtico escenario.
+- **Teatro de calle**, música y danzas medievales.
+- **Pasacalles** con músicos y personajes de época que se paran a hacerse fotos contigo.
+- La **cabalgata de antorchas** del sábado por la noche, uno de los momentos más bonitos.
+- **Puestos de artesanía y comida**: embutidos, quesos, dulces, cuero, jabones...
+- **Talleres y atracciones para niños**, y concursos de disfraces.
 
+> **Mi consejo:** no te pierdas el ambiente del **sábado por la noche**, con las antorchas iluminando la plaza. Y si puedes, ve vestido de época: te lo agradecerán las fotos.
+
+## Horarios
+
+Como referencia, en 2026 abrió el **viernes por la tarde** (desde las 17:30), el **sábado** de mediodía a la noche y el **domingo** hasta las 20:00. Consulta el programa de cada año para no perderte las justas.
+
+## Qué llevar
+
+**Calzado cómodo** (las calles son empedradas y en cuesta), **abrigo** (en febrero en Chinchón hace frío, sobre todo de noche) y **efectivo** por si algún puesto no acepta tarjeta.
+
+## Cómo llegar
+
+Chinchón está a unos **45 km de Madrid** por la **A-3** y la M-311. Durante el mercado se habilitan **zonas de aparcamiento** en las afueras: déjalo ahí y sube andando. También hay **autobús** desde Madrid (Conde de Casal). Puedes ver la Plaza Mayor en [Google Maps](https://www.google.com/maps/search/?api=1&query=Plaza%20Mayor%20de%20Chinch%C3%B3n).
 
 <!--actividades-->
 
-## Cómo llegar a Chinchón
-
-Chinchón tiene fácil acceso desde Madrid capital en coche, con zonas de aparcamiento habilitadas, y también se puede llegar en transporte público. Puedes consultar la ubicación del casco histórico y la Plaza Mayor en [Google Maps](https://www.google.com/maps/search/?api=1&query=Chinch%C3%B3n%2C%20Madrid).
-
 ## Aprovecha para ver el resto del pueblo
 
-Si vas al mercado medieval, aprovecha para recorrer también el resto de Chinchón: sus calles con balcones de madera y su Plaza Mayor son igual de bonitas el resto del año, así que la visita da para mucho más que el propio evento.
+El mercado es la excusa perfecta para descubrir Chinchón: el **castillo de los Condes**, la **iglesia de la Asunción** con un cuadro de Goya, la **Torre del Reloj** sin iglesia o el **Parador**, en un antiguo convento. Te lo cuento todo en [Chinchón de noche](/blog/chinchon-castillo-de-noche.html).
+
+Y si te gustan estas fiestas, apunta también el [Mercado Cervantino de Alcalá de Henares](/blog/mercado-cervantino-alcala-de-henares.html), en octubre.
 
 <!--faq-->
 
-
-¿Has estado alguna vez en el Mercado Medieval de Chinchón? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más experiencias y eventos por España, y échale un vistazo al resto del blog para planear tu próxima escapada.
+¿Te animas a viajar a la Edad Media en Chinchón? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más fiestas y pueblos con encanto, y échale un vistazo al resto del blog.

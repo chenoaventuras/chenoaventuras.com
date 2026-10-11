@@ -8,7 +8,7 @@ lng: -5.9931
 excerpt: 'La Catedral de Sevilla es la catedral gótica más grande del mundo. Curiosidades: la Giralda con rampas en vez de escaleras, la tumba de Colón y el lagarto colgado de la puerta.'
 cover: /assets/img/blog/catedral-de-sevilla/portada.webp
 tags:
-  - Curiosidades
+  - Spots
   - Andalucía
 wide: true
 faqTitulo: "Dudas sobre la Catedral de Sevilla"

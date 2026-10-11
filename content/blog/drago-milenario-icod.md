@@ -8,7 +8,7 @@ lng: -16.7222
 excerpt: 'El Drago Milenario de Icod de los Vinos (Tenerife) es el drago más grande y longevo que se conoce. Su edad real, la leyenda de la sangre de drago y cómo visitarlo.'
 cover: /assets/img/blog/drago-milenario-icod/drago.webp
 tags:
-  - Curiosidades
+  - Spots
   - Canarias
 wide: true
 faqTitulo: "Dudas sobre el Drago Milenario"

@@ -8,7 +8,7 @@ lng: -0.1314
 excerpt: 'Benidorm es la ciudad con más rascacielos por habitante del mundo y la segunda con más por kilómetro cuadrado, tras Nueva York. Por qué se construyó así y dónde ver su skyline.'
 cover: /assets/img/blog/benidorm-rascacielos/skyline.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Comunidad Valenciana
 wide: true
 faq:

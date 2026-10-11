@@ -8,7 +8,7 @@ lng: -2.9808
 excerpt: 'El Salto del Nervión, entre Álava y Burgos, cae 222 metros: es la cascada más alta de la península. Cuándo lleva agua, cómo llegar al mirador y qué ver cerca.'
 cover: /assets/img/blog/salto-del-nervion/portada.webp
 tags:
-  - Curiosidades
+  - Spots
   - Castilla y León
 wide: true
 faqTitulo: "Dudas sobre el Salto del Nervión"

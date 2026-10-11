@@ -20,34 +20,62 @@ faq:
     a: "Sí. Es leche de vacas de la zona, sin aditivos, y pasa por pasteurización antes de llegar a la máquina."
   - q: "¿Qué ver cerca de Reinosa?"
     a: "Muy cerca tienes Aguilar de Campoo y el Partenón de Las Fraguas, dos paradas que encajan en la misma escapada."
+  - q: "¿La leche de la máquina es cruda?"
+    a: "No, es leche fresca pasteurizada: en España solo se puede vender así. Al no estar homogeneizada, la nata sube arriba."
+  - q: "¿Cuánto dura la leche de la máquina?"
+    a: "Al ser leche fresca, guárdala en la nevera y tómala en pocos días."
+  - q: "¿Qué ver en Reinosa?"
+    a: "El Nacimiento del Ebro en Fontibre, la Colegiata de Cervatos, las ruinas romanas de Julióbriga y el Embalse del Ebro."
 guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 ---
-Hay curiosidades que descubres por casualidad y que te sorprenden más de lo que esperabas. En Reinosa, Cantabria, hay una máquina que dispensa leche recién ordeñada de las vacas como si fuera una fuente de agua pública.
+Hay curiosidades que encuentras por casualidad y que te alegran el viaje. En **Reinosa**, en el corazón de Cantabria, hay una **máquina que despacha leche recién ordeñada** de vacas de la zona, como si fuera una fuente pública. Echas la moneda, pones la botella y listo.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DWE2X_CCJX5/), grabado en Reinosa, Cantabria.
+Puedes verla funcionando en [este reel de Instagram](https://www.instagram.com/reel/DWE2X_CCJX5/), grabado en Reinosa.
 
-## Leche recién ordeñada, sin aditivos y pasteurizada
+## Lo básico
 
-El funcionamiento es tan sencillo como sorprendente: la leche viene directamente de las vacas de la zona, sin aditivos añadidos, y pasa por un proceso de pasteurización antes de llegar a la máquina, lista para beber al momento.
+- **Qué es:** un dispensador automático de **leche fresca pasteurizada**, de ganaderías de la zona.
+- **Precio:** un litro sale por **aproximadamente 1 €**. Si no llevas botella, la propia máquina vende: **40 céntimos** la de cristal y **30** la de plástico.
+- **Horario:** al ser una máquina, puedes comprar **a cualquier hora**.
 
-## Cómo funciona y cuánto cuesta
+## Cómo funciona la máquina
 
-Solo tienes que llevar tu propia botella o comprar una en el propio dispensador: una botella de cristal cuesta 40 céntimos y una de plástico 30 céntimos. A partir de ahí, un litro de leche sale por aproximadamente **1€**, un precio que sorprende a cualquiera que lo vea por primera vez.
+Es muy sencillo:
 
-## Una vuelta a lo de antes, pero en versión moderna
+1. Si no llevas recipiente, **compra una botella** en el propio dispensador.
+2. **Echa las monedas** según la cantidad que quieras.
+3. Coloca la botella en el hueco y la máquina la **llena**.
 
-Este tipo de dispensadores recuerdan a la época en la que la leche se compraba a granel, directamente al productor, pero adaptado a un formato mucho más práctico y tecnológico: sin colas, sin horarios de tienda y disponible como si fuera una fuente pública.
+La leche viene de vacas de la comarca, **sin aditivos**, y pasa por un proceso de **pasteurización** antes de llegar a la máquina. Dentro se mantiene **muy fría** (entre 2 y 4 °C, como es habitual en estas máquinas) y en movimiento para que no se separe la nata.
 
-## ¿Es algo habitual en el norte de España?
+> **Mi consejo:** si vas de ruta, lleva una botella vacía en el coche. Te ahorras comprarla y es más sostenible.
 
-No está claro si este tipo de máquinas son muy comunes en otras zonas del norte, pero desde luego es de esas cosas que llaman la atención a cualquiera que no las haya visto antes, sobre todo si vienes de una gran ciudad donde este tipo de dispensadores no existen.
+## ¿Es leche cruda?
+
+No. En España **solo se puede vender así la leche pasteurizada**, así que es leche fresca, del día, pero tratada para que sea segura. Eso sí: al no estar homogeneizada como la del súper, verás que **la nata sube arriba**. Agítala antes de beber.
+
+Como es leche fresca, **guárdala en la nevera** y tómala en pocos días.
+
+## Una vuelta a lo de antes
+
+Estas máquinas recuperan la idea de comprar la leche **directamente al ganadero**, como se hacía antes, pero sin horarios ni intermediarios. Para los ganaderos es una forma de vender a un precio más justo, y para ti, de probar una leche con sabor de verdad. En el norte de España no son muy habituales, así que encontrarte una es toda una sorpresa.
+
+## Qué ver en Reinosa y alrededores
+
+Reinosa es la capital de la comarca de **Campoo**, y merece la pena quedarse un día:
+
+- **Nacimiento del Ebro**, en **Fontibre**, a 5 minutos: un manantial entre árboles donde nace uno de los ríos más importantes de España.
+- **Colegiata de Cervatos**, joya del románico, famosa por sus **canecillos** con figuras muy atrevidas.
+- **Julióbriga**, una antigua ciudad romana con un museo sobre la vida en la Cantabria romana.
+- **Embalse del Ebro**, uno de los más grandes del norte, ideal para pasear o ver aves.
+- **Alto Campoo**, la estación de esquí de Cantabria, a media hora.
+- Y si sigues hacia Palencia, [Aguilar de Campoo](/blog/aguilar-de-campoo-que-ver.html) y su románico.
 
 ## Cómo llegar a Reinosa
 
-Reinosa se encuentra en el interior de Cantabria, en la comarca de Campoo. Puedes consultar su ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Reinosa%2C%20Cantabria).
+Reinosa está en el interior de Cantabria, a unos **50 minutos de Santander** por la **A-67**. También tiene **estación de tren**. Puedes ver su ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Reinosa%2C%20Cantabria).
 
 <!--faq-->
 
-
-¿Habías visto antes una máquina expendedora de leche como esta? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades por España, y échale un vistazo al resto del blog para seguir descubriendo rincones sorprendentes.
+¿Habías visto antes una máquina de leche como esta? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más curiosidades por España, y échale un vistazo al resto del blog para seguir descubriendo rincones sorprendentes.

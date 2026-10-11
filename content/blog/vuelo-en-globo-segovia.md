@@ -23,44 +23,72 @@ faq:
     a: "Ropa cómoda, calzado cerrado y algo de abrigo, porque se vuela al amanecer y hace fresco."
   - q: "¿Dónde sale el globo en Segovia?"
     a: "El punto de encuentro suele estar frente al hospital de Segovia; te dan la ubicación exacta al reservar."
+  - q: "¿Qué pasa si hace viento el día del vuelo en globo?"
+    a: "El piloto puede cancelarlo o aplazarlo. Las empresas serias te cambian la fecha o te devuelven el dinero."
+  - q: "¿Pueden volar niños en globo en Segovia?"
+    a: "Depende de la empresa: algunas aceptan niños desde unos 6 años. Pregúntalo al reservar."
+  - q: "¿A qué hora son los vuelos en globo en Segovia?"
+    a: "Al amanecer, porque es cuando el viento está más tranquilo. Conviene dormir en Segovia la noche anterior."
 actividades:
   - t: "Segovia: vuelo en globo con picnic y cava"
     u: "https://www.getyourguide.es/segovia-l1694/segovia-vuelo-en-globo-aerostatico-con-comida-y-cava-t406164/"
 guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía Castilla y León en PDF'
 ---
-Ver el acueducto romano, el Alcázar y la catedral de Segovia desde el aire, flotando en silencio sobre la ciudad, es una experiencia que mezcla aventura, vistas espectaculares y una sensación de libertad difícil de igualar desde tierra.
+Ver el **acueducto**, el **Alcázar** y la **catedral de Segovia** desde el aire, flotando en silencio mientras sale el sol, es de esas experiencias que se te quedan para siempre. Si estás pensando en regalarlo (o regalártelo), aquí te cuento todo lo que necesitas saber: precio, qué incluye, cuándo ir y qué llevar.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DKP5_zQIwIo/), grabado en Segovia, Castilla y León.
+Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/DKP5_zQIwIo/), grabado en Segovia.
 
-## Los monumentos de Segovia vistos desde el globo
+## Lo básico antes de reservar
 
-Durante el vuelo se contemplan desde las alturas los elementos más icónicos de la ciudad: el **acueducto romano**, el **Alcázar**, la **catedral** y los paisajes castellanos que rodean Segovia, con una perspectiva que muy pocos llegan a ver.
+- **Precio:** el vuelo con el que fui parte de **170 € por persona**. En Segovia hay varias empresas y los precios van, más o menos, de **120 € a más de 300 €** según lo que incluya (desayuno, brindis, fotos, traslados o vuelo privado).
+- **Duración:** el vuelo dura **alrededor de 1 hora**, pero la experiencia completa (montaje del globo, vuelo, aterrizaje y desayuno) ronda las **3 horas**.
+- **Horario:** se vuela **al amanecer**, que es cuando el aire está más tranquilo. Toca madrugar.
+- **Edad:** depende de la empresa. Algunas aceptan niños desde unos 6 años y otras sin mínimo; pregunta al reservar.
+
+## Qué se ve desde el globo
+
+Lo mejor del vuelo sobre Segovia es que pasas por encima de **tres monumentos Patrimonio de la Humanidad** en una sola mañana:
+
+- **El acueducto romano**, con sus arcos de casi 2.000 años, que desde arriba se ve como una línea perfecta atravesando la ciudad.
+- **El Alcázar**, encaramado en la punta de la roca, con forma de proa de barco.
+- **La catedral**, la «dama de las catedrales», dominando el casco antiguo.
+
+Y alrededor, los campos de Castilla y, al fondo, la **sierra de Guadarrama**, a veces con nieve. Arriba no hay ruido: el globo se mueve con el viento y solo se oye el quemador de vez en cuando.
 
 ## Qué incluye la experiencia
 
-El vuelo incluye un brindis con cava, un desayuno campestre y el correspondiente certificado de vuelo. Es una experiencia completa, pensada para disfrutarse con calma de principio a fin.
+En mi caso, el vuelo incluyó un **brindis con cava** al aterrizar, un **desayuno campestre** y el **certificado de vuelo**. Es lo habitual en la mayoría de empresas, pero revisa qué entra en el precio antes de pagar: hay ofertas baratas que no incluyen el desayuno o el transporte de vuelta.
 
-## Precio y duración
+> **Mi consejo:** sigue a las empresas en redes. A veces sacan **promociones de última hora** cuando les quedan plazas libres en un vuelo.
 
-El precio parte de **170€ por persona**, aunque merece la pena seguir la cuenta de la empresa organizadora porque suelen sacar promociones de última hora. El vuelo en sí dura aproximadamente 1 hora, pero la experiencia completa, contando preparativos y picnic posterior, ronda las 3 horas.
+## ¿Y si hace mal tiempo?
+
+Los globos solo vuelan con **poco viento y sin lluvia**. Si el piloto ve que no hay condiciones, el vuelo se **cancela o se aplaza**, incluso la misma mañana. Las empresas serias te dejan cambiar la fecha o te devuelven el dinero; asegúrate de que la tuya lo hace antes de reservar, sobre todo si vienes de lejos.
 
 ## Cuándo ir
 
-Se puede volar durante todo el año, aunque los meses de primavera a otoño ofrecen mayor estabilidad meteorológica. Los amaneceres de verano y otoño están considerados especialmente inolvidables.
+Se vuela **todo el año**, pero de **primavera a otoño** el tiempo es más estable. Los amaneceres de **finales de verano y otoño** son especialmente bonitos, con nieblas bajas en los valles. En invierno también se vuela y las vistas de la sierra nevada son espectaculares, pero abrígate bien.
 
 ## Qué llevar
 
-Conviene llevar ropa cómoda, calzado cerrado (nada de tacones) y algo de abrigo según la temporada, ya que se vuela al amanecer y puede hacer fresco. La cámara o el móvil bien cargados son imprescindibles: las vistas desde el globo dan para grabar mucho.
-
+- **Ropa cómoda y por capas**: al amanecer hace fresco, aunque cerca del quemador se nota calor en la cabeza.
+- **Calzado cerrado y plano**. Nada de tacones ni sandalias: al aterrizar se camina por el campo.
+- **Gorra o gorro** si tienes poco pelo, por el calor del quemador.
+- **Móvil o cámara con batería** y, si puedes, una correa para que no se caiga.
 
 <!--actividades-->
 
-## Cómo llegar
+## Cómo llegar al punto de encuentro
 
-El punto de encuentro suele estar frente al hospital de Segovia, con la ubicación exacta facilitada al hacer la reserva. Puedes consultar la ciudad en [Google Maps](https://www.google.com/maps/search/?api=1&query=Segovia).
+El punto de encuentro suele estar en las afueras de Segovia (en mi caso, frente al hospital), y la empresa te da la ubicación exacta al reservar. Desde **Madrid** son unos **50 minutos** en coche por la AP-6 o la AP-61, o 30 minutos en **AVE** hasta Segovia-Guiomar, aunque a la hora del vuelo no hay trenes: lo más práctico es **dormir en Segovia** la noche antes.
+
+Puedes ver la ciudad en [Google Maps](https://www.google.com/maps/search/?api=1&query=Segovia).
+
+## Qué más hacer en Segovia ese día
+
+Te queda todo el día por delante: sube al **Alcázar**, come **cochinillo** y acércate a ver el acueducto de cerca. Te lo cuento todo en mi [guía de Segovia](/blog/acueducto-de-segovia.html). Y si te ha gustado volar, en el blog también tienes el [vuelo en globo en Marrakech](/blog/vuelo-globo-marrakech.html).
 
 <!--faq-->
-
 
 ¿Te animarías a volar en globo sobre Segovia? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más experiencias únicas por España, y échale un vistazo al resto del blog para tu próxima aventura.

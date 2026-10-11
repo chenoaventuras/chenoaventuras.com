@@ -8,7 +8,7 @@ lng: 1.9791
 excerpt: 'Llívia es un pueblo de Girona totalmente rodeado por Francia. Por qué se quedó en España, la farmacia que se cuenta entre las más antiguas de Europa y qué ver.'
 cover: /assets/img/blog/llivia/portada.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Cataluña
 wide: true
 faq:

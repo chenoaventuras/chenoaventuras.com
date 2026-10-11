@@ -8,7 +8,7 @@ lng: -3.6981
 excerpt: 'En Guadalix de la Sierra (Madrid) rodó Berlanga «Bienvenido, Mister Marshall» en 1952. El pueblo de la película, su escultura homenaje y qué ver.'
 cover: /assets/img/blog/guadalix-mister-marshall/escultura.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Comunidad de Madrid
 wide: true
 faqTitulo: "Dudas sobre Bienvenido, Mister Marshall"

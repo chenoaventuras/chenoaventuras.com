@@ -8,7 +8,7 @@ lng: -4.086
 excerpt: 'El Laberinto de Villapresente (Cantabria) tiene más de 5 km de pasillos entre cipreses: el laberinto vegetal más grande de España. Cómo es, cuánto se tarda y qué ver cerca.'
 cover: /assets/img/blog/laberinto-de-villapresente/portada.webp
 tags:
-  - Curiosidades
+  - Actividades
   - Cantabria
 wide: true
 faqTitulo: "Dudas sobre el Laberinto de Villapresente"

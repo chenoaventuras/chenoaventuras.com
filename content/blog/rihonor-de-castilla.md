@@ -8,7 +8,7 @@ lng: -6.617
 excerpt: 'Rihonor de Castilla (Zamora) y Rio de Onor (Portugal) son en realidad un solo pueblo dividido por la frontera. Su historia, cómo viven y cómo visitarlo.'
 cover: /assets/img/blog/rihonor-de-castilla/onor.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Castilla y León
 wide: true
 faq:

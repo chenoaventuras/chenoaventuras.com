@@ -8,7 +8,7 @@ lng: 3.3219
 excerpt: 'El Cabo de Creus (Girona) es el punto más oriental de la península ibérica. Rocas con formas imposibles que inspiraron a Dalí, faro, calas y cómo llegar desde Cadaqués.'
 cover: /assets/img/blog/cabo-de-creus/paisaje.webp
 tags:
-  - Curiosidades
+  - Spots
   - Cataluña
 wide: true
 faqTitulo: "Dudas sobre el Cap de Creus"

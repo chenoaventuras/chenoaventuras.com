@@ -8,7 +8,7 @@ lng: 0.4242
 excerpt: 'En Ulldecona (Tarragona) hay un olivo que se calcula que se plantó en el año 314, en época romana. La Farga de l''Arion y el museo de olivos milenarios al aire libre.'
 cover: /assets/img/blog/olivo-farga-arion-ulldecona/farga2.webp
 tags:
-  - Curiosidades
+  - Spots
   - Cataluña
 wide: true
 faqTitulo: "Dudas sobre la Farga de l'Arion"

@@ -8,7 +8,7 @@ lng: -3.6872
 excerpt: 'La Torre de Cristal, en las Cuatro Torres de Madrid, mide 249 metros y es el edificio más alto de España. Curiosidades, cómo verla y las mejores fotos del skyline.'
 cover: /assets/img/blog/torre-de-cristal-madrid/cuatro.webp
 tags:
-  - Curiosidades
+  - Spots
   - Comunidad de Madrid
 wide: true
 faqTitulo: "Dudas sobre la Torre de Cristal"

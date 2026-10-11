@@ -25,34 +25,61 @@ faq:
     a: "Sí, si saben nadar bien. La edad mínima habitual es de 7 años."
   - q: "¿Qué hay que llevar al barranquismo?"
     a: "Solo bañador, toalla y ropa de recambio: la empresa pone el resto del equipo."
+  - q: "¿Hay que saltar obligatoriamente en el barranquismo?"
+    a: "No, los saltos son opcionales y siempre hay otra forma de bajar."
+  - q: "¿Cuándo se puede hacer barranquismo en Cuenca?"
+    a: "De primavera a principios de otoño. En verano es ideal para el calor; en primavera el río lleva más agua."
 ---
-Saltos al agua, toboganes tallados por el propio río durante siglos y un cañón que parece sacado de otra región muy distinta a Castilla-La Mancha: así es el barranquismo en el cañón del río Júcar, en plena Serranía de Cuenca.
+Saltos al agua, **toboganes** tallados por el río durante siglos y un cañón que no parece de Castilla-La Mancha: así es el **barranquismo en el río Júcar**, en plena **Serranía de Cuenca**. Si nunca lo has probado, es un plan perfecto para estrenarse.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DaZ1lCyPTde/), grabado en el cañón del río Júcar, Cuenca.
+Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/DaZ1lCyPTde/), grabado en el cañón del río Júcar.
 
-## En qué consiste la actividad
+## Lo básico
 
-El descenso de cañones combina caminatas por el propio cauce del río, tramos a nado y saltos opcionales desde distintas alturas, además de deslizarte por toboganes naturales excavados por el agua. Todo ello guiado por profesionales y en un entorno completamente natural, dentro de la Serranía de Cuenca.
+- **Dónde:** en la Serranía de Cuenca, con punto de encuentro en **Villalba de la Sierra**, a 20 minutos de Cuenca.
+- **Duración:** unas **3 horas**.
+- **Precio:** alrededor de **40 € por persona** cuando lo hice, con descuento para grupos.
+- **Requisitos:** **saber nadar** y una forma física normal. Edad mínima habitual, **7 años**.
+- **Reserva:** **imprescindible**.
 
-## Qué incluye la experiencia
+## Qué es el barranquismo
 
-La actividad se organiza con guías locales e incluye el transporte hasta el punto de inicio, un guía titulado durante todo el recorrido, todo el material técnico necesario (neopreno, casco y botas) y fotos de recuerdo del día. Hay opciones pensadas tanto para quien lo prueba por primera vez como para quienes ya tienen experiencia.
+El barranquismo (o descenso de cañones) consiste en **bajar un río por su propio cauce**: caminando por el agua, nadando en las pozas, **saltando** desde rocas y **deslizándote por toboganes** naturales que el agua ha pulido durante siglos. Todo con un **guía titulado** que te dice por dónde ir y qué saltos son seguros.
 
-## Precio, duración y requisitos
+> **Mi consejo:** los saltos son **opcionales**. Si alguno te da respeto, siempre hay otra forma de bajar. No te agobies: aquí se viene a disfrutar.
 
-La actividad dura unas 3 horas y tiene un precio orientativo de 40€ por persona, con descuento para grupos. Es imprescindible reservar con antelación. Para participar hace falta saber nadar y tener un estado físico razonable — la edad mínima habitual para este tipo de descensos es de 7 años.
+## Qué incluye
 
-Lo único que necesitas llevar tú es bañador, toalla y ropa de recambio; el resto del equipo lo proporciona la empresa organizadora.
+**Transporte** hasta el inicio del barranco, **guía titulado**, todo el **material técnico** (neopreno, casco y botas) y **fotos** del día.
+
+## Qué llevar
+
+- **Bañador** (lo llevarás debajo del neopreno).
+- **Toalla** y **ropa de recambio**, también ropa interior.
+- Una **bolsa** para la ropa mojada.
+- Si llevas gafas, una **cinta** para sujetarlas.
+
+No lleves joyas ni nada que no quieras perder en el río.
+
+## Cuándo ir
+
+La temporada fuerte va de **primavera a principios de otoño**. En pleno verano es un planazo para combatir el calor; en primavera el río lleva más agua y es más emocionante, pero también está más fría. El neopreno te mantiene caliente casi siempre.
+
+## ¿Es para mí?
+
+Funciona en pareja, con amigos, en **despedidas** o en familia si los niños ya nadan bien. Hay recorridos para **principiantes** y otros más técnicos para quien ya tiene experiencia: pide el que encaje contigo al reservar.
 
 ## Cómo llegar
 
-El punto de encuentro suele estar en Villalba de la Sierra, a solo 20 minutos de Cuenca capital. Puedes consultar la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Villalba%20de%20la%20Sierra%2C%20Cuenca).
+El punto de encuentro suele estar en **Villalba de la Sierra**, a unos 20 minutos de Cuenca por la CM-2105. Desde **Madrid**, unas 2 h 15 min. Puedes ver la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Villalba%20de%20la%20Sierra%2C%20Cuenca).
 
-## Para quién es este plan
+## Completa el finde de aventura en Cuenca
 
-El barranquismo en Cuenca es un plan que funciona igual de bien en pareja, con amigos, en despedidas de soltero o soltera, o como actividad familiar si los peques ya saben nadar bien. Si buscas algo distinto a la ruta de senderismo de turno y no te importa mojarte, es de esas experiencias que se recuerdan mucho tiempo.
+- **[Ruta en quad](/blog/ruta-quads-serrania-de-cuenca.html)** por los pinares, en el mismo pueblo.
+- **[Vía ferrata del Ventano del Diablo](/blog/via-ferrata-ventano-del-diablo.html)**, a 5 minutos.
+- **[Tirolina de Cuenca](/blog/tirolina-cuenca.html)**, sobre la Hoz del Huécar.
+- Todo lo demás, en mi [guía de Cuenca](/blog/guia-cuenca.html).
 
 <!--faq-->
 
-
-¿Te atreverías con el barranquismo en Cuenca? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más actividades de aventura por España, y échale un vistazo al resto del blog para tu próxima escapada.
+¿Te animarías a bajar el Júcar saltando y en tobogán? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más planes de aventura por España, y échale un vistazo al resto del blog.

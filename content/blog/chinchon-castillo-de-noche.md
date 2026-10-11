@@ -21,38 +21,68 @@ faq:
     a: "Sí: la Plaza Mayor iluminada y sin gente parece de otra época, y se pasea con mucha más calma."
   - q: "¿Para qué se usó el castillo de Chinchón?"
     a: "Ha tenido muchos usos a lo largo de los siglos, incluida una fábrica de aguardiente."
+  - q: "¿Qué ver en Chinchón?"
+    a: "La Plaza Mayor, el castillo de los Condes, la iglesia de la Asunción con un cuadro de Goya, la Torre del Reloj y el Parador."
+  - q: "¿Qué película se rodó en la Plaza Mayor de Chinchón?"
+    a: "Entre otras, La vuelta al mundo en 80 días (1956)."
 actividades:
   - t: "Free tour por Chinchón"
     u: "https://www.civitatis.com/es/chinchon/free-tour-chinchon/"
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
-De día, Chinchón es uno de los pueblos con más ambiente de toda la Comunidad de Madrid. De noche, con la Plaza Mayor iluminada y las calles mucho más tranquilas, cambia completamente de personalidad, y el protagonista pasa a ser el castillo que vigila el pueblo desde lo alto.
+De día, **Chinchón** es uno de los pueblos con más ambiente de la Comunidad de Madrid. De noche, con la **Plaza Mayor** iluminada y las calles tranquilas, cambia por completo, y el protagonista pasa a ser el **castillo** que vigila el pueblo desde lo alto.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DQFNvQQDF7i/), grabado en Chinchón, Madrid.
+Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DQFNvQQDF7i/), grabado en Chinchón.
+
+## Lo básico
+
+- **Dónde:** a unos **45 km al sureste de Madrid**, unos 45 minutos en coche.
+- **El castillo:** solo se ve **por fuera**. Es de propiedad privada y su interior no se visita.
+- **Precio:** pasear por el pueblo y ver el castillo iluminado es **gratis**.
 
 ## La Plaza Mayor, distinta cuando se vacía
 
-La **Plaza Mayor de Chinchón**, con sus balconadas de madera y sus soportales, es uno de los espacios más fotografiados de la región durante el día, pero de noche, cuando se despeja de gente y se enciende la iluminación, muestra una cara mucho más tranquila y con un aire distinto, casi de otra época.
+La **Plaza Mayor de Chinchón** es una de las más bonitas de España: irregular, rodeada de casas con **balcones corridos de madera** pintados de verde y soportales. Durante siglos se ha usado como **plaza de toros**, para fiestas y teatro, y ha salido en películas como *La vuelta al mundo en 80 días*.
 
-## El castillo de los Condes de Chinchón, cerrado al público
+De día está llena de gente y de terrazas. De noche, cuando se vacía y se encienden las luces, tiene un aire de otra época. Ahí es cuando más merece la pena.
 
-En lo alto del pueblo se levanta el **castillo de los Condes de Chinchón**, una fortaleza que ha pasado por muchos usos a lo largo de los siglos (incluida una antigua fábrica de aguardiente) y que, a día de hoy, **permanece cerrado al público** y en un estado de conservación que dista mucho de su aspecto original. Aun sin poder visitarse por dentro, su silueta iluminada sobre el pueblo de noche es una de las imágenes más llamativas de Chinchón.
+> **Mi consejo:** cena en uno de los mesones de la plaza y sal a pasear después. A partir de las 11 tienes el pueblo casi para ti.
+
+## El castillo de los Condes de Chinchón
+
+En lo alto del pueblo se levanta el **castillo de los Condes de Chinchón**, que tiene una historia de lo más movida:
+
+- Lo construyeron los **señores de Chinchón** a finales del siglo XV como residencia y símbolo de poder.
+- En **1521**, durante la revuelta de los **comuneros**, lo asaltaron y saquearon tras un largo asedio. Después se reconstruyó.
+- En **1808**, en la **Guerra de la Independencia**, las tropas francesas lo **saquearon e incendiaron**. Sus piedras acabaron usándose para arreglar casas y caminos.
+- Más tarde se convirtió en **fábrica de licores**.
+
+Hoy sigue en pie, con sus **gruesos muros**, el **foso**, la **portada con el escudo** y las **torres redondas** de las esquinas, pero es **privado y está cerrado al público**. Iluminado de noche, su silueta sobre el pueblo es una de las imágenes más bonitas de Chinchón.
+
+## Más curiosidades de Chinchón
+
+- **La torre sin iglesia:** en la plaza de Palacio hay una **torre del reloj** sola. La iglesia que la acompañaba se destruyó en la Guerra de la Independencia y el pueblo decidió conservar la torre.
+- **Un Goya en la iglesia:** en la **iglesia de la Asunción** hay un cuadro de la Asunción de la Virgen pintado por **Francisco de Goya**, cuyo hermano fue capellán del pueblo.
+- **El anís de Chinchón**, famoso en toda España. Pruébalo, o llévate una botella.
+- **El Parador** ocupa un antiguo **convento de agustinos** del siglo XVII. Aunque no duermas allí, puedes entrar a ver el claustro o tomar algo.
 
 ## Por qué ir de noche
 
-Sin las aglomeraciones típicas de fin de semana, Chinchón de noche permite pasear con calma por sus calles empedradas, disfrutar de la plaza sin agobios y hacerse una idea mucho más clara de cómo se vería el pueblo antes de que se llenara de turismo. Es un plan distinto al habitual, ideal si ya conoces Chinchón de día y quieres verlo con otros ojos.
-
+Sin las aglomeraciones del fin de semana, Chinchón de noche se disfruta de otra manera: calles empedradas en silencio, la plaza sin agobios y el castillo iluminado. Es un plan ideal si ya lo conoces de día y quieres verlo con otros ojos, o si te quedas a dormir.
 
 <!--actividades-->
 
 ## Cómo llegar
 
-Chinchón se encuentra a unos 45 kilómetros al sureste de Madrid capital, con buena conexión por carretera. Puedes consultar la ubicación de la Plaza Mayor en [Google Maps](https://www.google.com/maps/search/?api=1&query=Plaza%20Mayor%20de%20Chinch%C3%B3n).
+Chinchón está a unos **45 km de Madrid** por la **A-3** (salida Arganda / Chinchón) y la M-311. También hay **autobuses** desde Madrid (Conde de Casal), aunque para volver de noche lo más práctico es el coche. Puedes ver la Plaza Mayor en [Google Maps](https://www.google.com/maps/search/?api=1&query=Plaza%20Mayor%20de%20Chinch%C3%B3n).
 
-Y si quieres ver Chinchón con más ambiente todavía, échale un ojo a su [Mercado Medieval](/blog/mercado-medieval-chinchon.html).
+## Qué más hacer cerca
+
+- El **[Mercado Medieval de Chinchón](/blog/mercado-medieval-chinchon.html)**, con todo el pueblo ambientado.
+- **[Aranjuez](/blog/aranjuez-que-ver.html)**, con su Palacio Real y sus jardines, a 25 minutos.
+- **[Alcalá de Henares](/blog/mercado-cervantino-alcala-de-henares.html)**, la ciudad de Cervantes, a unos 40 minutos.
 
 <!--faq-->
 
-
-¿Habías visto Chinchón de noche? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Madrid, y échale un vistazo al resto del blog para tu próxima escapada.
+¿Has visto Chinchón de noche? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más pueblos con encanto, y échale un vistazo al resto del blog para tu próxima escapada.

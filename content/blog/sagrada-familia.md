@@ -8,7 +8,7 @@ lng: 2.1743
 excerpt: 'Desde octubre de 2025 la Sagrada Familia de Gaudí es la iglesia más alta del mundo. Curiosidades, cómo comprar entradas y qué no perderte dentro.'
 cover: /assets/img/blog/sagrada-familia/portada.webp
 tags:
-  - Curiosidades
+  - Spots
   - Cataluña
 wide: true
 faqTitulo: "Dudas sobre la Sagrada Familia"

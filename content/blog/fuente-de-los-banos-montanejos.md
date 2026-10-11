@@ -23,36 +23,55 @@ faq:
     a: "De 9:00 a 18:00 h."
   - q: "¿Es peligroso bañarse en la Fuente de los Baños?"
     a: "La visita es fácil, pero hay zonas de unos 2,5 metros de profundidad con pocos apoyos: si te alejas de la orilla, tienes que saber nadar. Lleva escarpines, el fondo es de piedra."
+  - q: "¿Cuánto cuesta la entrada a la Fuente de los Baños en 2026?"
+    a: "En Semana Santa y verano, 3 euros online o 4,50 en taquilla entre las 10:00 y las 18:00. Fuera de ese horario y en otoño e invierno, es gratis."
 guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
 guiaTitulo: 'Guía Castellón y Valencia en PDF'
 ---
-En Montanejos, Castellón, hay una fuente cuyas aguas termales mantienen una temperatura cálida y constante durante todo el año, sin importar la estación. Es la Fuente de los Baños, y es uno de esos planes de baño que se pueden disfrutar incluso cuando en el resto de España hace frío.
+En **Montanejos**, en el interior de Castellón, hay un río de aguas **cristalinas** que salen de la tierra a unos **25 °C** todo el año. Es la **Fuente de los Baños**, y bañarte aquí en pleno otoño, rodeado de paredes de roca, es uno de esos planes que no esperas encontrar tan cerca.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DMXRT6iIYC6/), grabado en Montanejos, Castellón.
+Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DMXRT6iIYC6/), grabado en Montanejos.
 
-## Aguas termales ricas en minerales
+## Lo básico antes de ir
 
-La Fuente de los Baños es conocida por sus propiedades medicinales, gracias a unas aguas termales ricas en minerales a las que se atribuyen efectos beneficiosos para la piel y el bienestar general. El agua mantiene una temperatura constante de unos 25°C durante todo el año, lo que la hace igual de agradable en cualquier época.
+- **Dónde:** en **Montanejos** (Castellón), a 1 hora de Castellón y 1 h 15 min de Valencia.
+- **Temperatura del agua:** unos **25 °C** todo el año.
+- **Precio 2026:** gratis en otoño e invierno. En **Semana Santa y verano** hay control de aforo y entrada **de 10:00 a 18:00**: **3 € online** o **4,50 € en taquilla** (3,50 € niños de 4 a 10 años y mayores de 65; gratis menores de 4). **Fuera de ese horario, el acceso es libre.**
+- **Reserva:** en verano, **cómprala online** antes: el aforo es limitado y se agota.
 
-## Precio y acceso
+## Aguas termales a 25 °C
 
-Fuera de temporada alta, el acceso es gratuito y libre. En verano, la entrada cuesta 3€ comprada por la web y 3,50€ en taquilla (si quedan entradas disponibles ese día). El horario de apertura es de 9:00 a 18:00h.
+El agua brota de un manantial y forma una gran poza en el río **Mijares**, rodeada de paredes de roca. Es rica en **minerales** y desde hace siglos se le atribuyen propiedades buenas para la piel. Al mantener la misma temperatura todo el año, se siente **fresquita en verano** y **templada en invierno**.
+
+> **Mi consejo:** si vas en verano, entra **antes de las 10 o después de las 18**. Es gratis y hay mucha menos gente.
+
+## Qué llevar
+
+- **Escarpines**: el fondo es de piedra y resbala.
+- **Toalla, protector solar** y agua.
+- **Gafas de bucear**: el agua es tan clara que merece la pena mirar bajo la superficie.
+
+## ¿Es para todos?
+
+El acceso es fácil, pero hay zonas donde el agua cubre **unos 2,5 metros** y no hay dónde apoyarse: **imprescindible saber nadar** si te alejas de la orilla. Con niños, quedaos en las zonas poco profundas y con manguitos.
 
 ## Cuándo ir
 
-Cualquier época del año es buena para visitarla, aunque primavera y principios de verano ofrecen la mejor combinación entre buen clima y menos aglomeración. En pleno verano es habitual encontrarla muy concurrida, así que conviene ir a primera hora si quieres encontrar aparcamiento con facilidad.
-
-## Qué llevar y dificultad
-
-Conviene llevar protector solar, toalla y un calzado tipo escarpín, ya que el suelo bajo el agua es todo de piedra. La visita es fácil y accesible, aunque hay zonas donde el agua cubre en torno a 2,5 metros y con pocos puntos de apoyo, por lo que es imprescindible saber nadar si te adentras más allá de la orilla.
+- **Primavera y principios de verano:** buen tiempo y menos gente.
+- **Julio y agosto:** el mejor baño, pero se llena; ve a primera hora y con entrada comprada.
+- **Otoño e invierno:** gratis, sin colas y con el agua más calentita que el aire. Un lujo.
 
 ## Cómo llegar
 
-La Fuente de los Baños se encuentra en Montanejos, Castellón. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Fuente%20de%20los%20Ba%C3%B1os%2C%20Montanejos%2C%20Castell%C3%B3n).
+Montanejos está en el **Alto Mijares**. Desde **Castellón**, por la CV-20; desde **Valencia**, por la A-23 hasta Segorbe y luego hacia Montanejos. La fuente está a las afueras del pueblo, con **aparcamientos** que en verano se llenan pronto. Puedes ver la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Fuente%20de%20los%20Ba%C3%B1os%2C%20Montanejos%2C%20Castell%C3%B3n).
 
-Y si te quedas por Castellón, en La Vall d'Uixó tienes las [Cuevas de San José](/blog/cuevas-de-san-jose-vall-duixo.html), con el río subterráneo navegable más largo de Europa.
+## Qué más hacer en Montanejos
+
+- **El Estrecho de Chillapájaros**: un desfiladero espectacular sobre el río, junto al pueblo.
+- **El Balneario de Montanejos**, si quieres completar el día de relax con un circuito de aguas.
+- **Barranquismo, kayak y escalada**: Montanejos es uno de los paraísos de la aventura de la Comunidad Valenciana.
+- Y en La Vall d'Uixó, el río subterráneo navegable de las [Cuevas de San José](/blog/cuevas-de-san-jose-vall-duixo.html).
 
 <!--faq-->
 
-
-¿Te animarías a bañarte en la Fuente de los Baños de Montanejos? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones naturales de España, y échale un vistazo al resto del blog para tu próxima escapada.
+¿Te bañarías en la Fuente de los Baños? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más pozas y rincones de España, y échale un vistazo al resto del blog.

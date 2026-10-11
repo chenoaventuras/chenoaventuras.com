@@ -8,7 +8,7 @@ lng: -6.1065
 excerpt: 'Granadilla (Cáceres) es un pueblo amurallado que fue expropiado en los años 60 por el embalse de Gabriel y Galán. El agua nunca llegó a cubrirlo. Historia, horario y qué ver.'
 cover: /assets/img/blog/granadilla-pueblo-abandonado/pueblo.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Extremadura
 wide: true
 faq:

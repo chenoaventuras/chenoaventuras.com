@@ -8,7 +8,7 @@ lng: 2.41
 excerpt: 'La iglesia de Sant Romà de Sau quedó bajo el agua al llenarse el pantano de Sau en los años 60. Su campanario asoma según el nivel del agua. Historia, cuándo verlo y miradores.'
 cover: /assets/img/blog/sant-roma-de-sau/agua.webp
 tags:
-  - Curiosidades
+  - Spots
   - Cataluña
 wide: true
 faq:

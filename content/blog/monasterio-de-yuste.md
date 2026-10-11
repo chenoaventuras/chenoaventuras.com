@@ -8,7 +8,7 @@ lng: -5.7389
 excerpt: 'El emperador más poderoso de su tiempo eligió un monasterio de La Vera (Cáceres) para retirarse y morir. Historia de Carlos V en Yuste, curiosidades y qué ver.'
 cover: /assets/img/blog/monasterio-de-yuste/claustro.webp
 tags:
-  - Curiosidades
+  - Spots
   - Extremadura
 wide: true
 faqTitulo: "Dudas sobre el Monasterio de Yuste"

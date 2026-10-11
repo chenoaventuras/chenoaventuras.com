@@ -8,7 +8,7 @@ lng: 2.9319
 excerpt: 'En 1950 Ava Gardner rodó en Tossa de Mar «Pandora y el holandés errante», y el pueblo le dedicó una estatua. La historia, la Vila Vella amurallada y qué ver.'
 cover: /assets/img/blog/tossa-de-mar-ava-gardner/castillo.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Cataluña
 wide: true
 faq:

@@ -8,7 +8,7 @@ lng: -17.8661
 excerpt: 'El volcán Tajogaite de La Palma entró en erupción en 2021 y creó nuevas tierras ganadas al mar: lo más nuevo de España. Qué pasó, cómo visitarlo y miradores.'
 cover: /assets/img/blog/volcan-tajogaite-la-palma/portada.webp
 tags:
-  - Curiosidades
+  - Spots
   - Canarias
 wide: true
 faqTitulo: "Dudas sobre el volcán Tajogaite"

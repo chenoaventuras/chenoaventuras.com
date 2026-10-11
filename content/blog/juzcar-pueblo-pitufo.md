@@ -8,7 +8,7 @@ lng: -5.1702
 excerpt: 'En 2011 Júzcar (Málaga) se pintó de azul para el estreno de la película de los Pitufos, y los vecinos decidieron no volver al blanco. Su historia, la Aldea Azul y qué ver.'
 cover: /assets/img/blog/juzcar-pueblo-pitufo/b.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Andalucía
 wide: true
 faq:

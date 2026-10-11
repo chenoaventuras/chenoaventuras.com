@@ -8,7 +8,7 @@ lng: 3.1349
 excerpt: 'El mítico Hotel Formentor de Mallorca, abierto en 1929, recibió a Chaplin, Churchill o Grace Kelly. Su historia, la playa de Formentor y el mirador del Cap de Formentor.'
 cover: /assets/img/blog/hotel-formentor/playa.webp
 tags:
-  - Curiosidades
+  - Spots
   - Islas Baleares
 wide: true
 faqTitulo: "Dudas sobre el Hotel Formentor"

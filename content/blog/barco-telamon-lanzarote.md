@@ -8,7 +8,7 @@ lng: -13.5226
 excerpt: 'El Telamon lleva encallado entre Arrecife y Costa Teguise desde 1981. La historia del barco fantasma de Lanzarote, dónde verlo y las mejores fotos.'
 cover: /assets/img/blog/barco-telamon-lanzarote/b.webp
 tags:
-  - Curiosidades
+  - Spots
   - Canarias
 wide: true
 faqTitulo: "Dudas sobre el barco Telamon"

@@ -21,6 +21,10 @@ faq:
     a: "Cuenta que desde aquí se lanzó al vacío el último rey musulmán de Toledo, antes que rendirse tras perder la ciudad."
   - q: "¿Se puede ir con niños o perros a la Piedra del Rey Moro?"
     a: "No es lo más recomendable con niños pequeños o perros: el terreno es irregular y tiene algo de desnivel. Y no hay fuentes, lleva agua."
+  - q: "¿Cuál es la mejor hora para ir a la Piedra del Rey Moro?"
+    a: "Al atardecer, cuando el sol tiñe de naranja la catedral y el Alcázar."
+  - q: "¿Se puede ir con niños a la Piedra del Rey Moro?"
+    a: "Sí, pero con cuidado: el terreno es irregular y con algo de desnivel."
 actividades:
   - t: "Tour nocturno por el Toledo misterioso"
     u: "https://www.civitatis.com/es/toledo/tour-toledo-misterioso/"
@@ -29,38 +33,53 @@ actividades:
 guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
 guiaTitulo: 'Guía Toledo y La Mancha en PDF'
 ---
-Junto al Tajo, en pleno valle que rodea Toledo, hay una roca solitaria que carga con una de las leyendas más dramáticas de la ciudad. Se llama la Piedra del Rey Moro, y su historia es tan interesante como las vistas que ofrece.
+En el valle del **Tajo**, frente a Toledo, hay una roca solitaria con una de las leyendas más curiosas de la ciudad: la **Piedra del Rey Moro**. El paseo hasta ella, con la ciudad entera delante, es una de las mejores formas de ver **Toledo desde fuera**.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/p/DMtB3-VI4mr/), grabado en el Valle del río Tajo, Toledo.
+Puedes verla en [este reel de Instagram](https://www.instagram.com/p/DMtB3-VI4mr/), grabado en el valle del Tajo.
 
-## La leyenda del último rey musulmán de Toledo
+## Lo básico
 
-Cuenta la leyenda que fue precisamente aquí donde se arrojó al vacío el último rey musulmán de Toledo, desesperado tras perder la ciudad ante las tropas cristianas, antes que rendirse. De ahí el nombre de esta roca enigmática, que además conserva inscripciones muy antiguas cuyo origen exacto sigue sin estar del todo claro.
+- **Dónde:** en los cerros del valle del Tajo, junto a la **ermita de la Virgen del Valle**, al otro lado del río.
+- **Cuánto se tarda:** **5 minutos** desde el Mirador del Valle, o unos **45 minutos** andando desde el casco histórico.
+- **Precio:** **gratis**.
+- **Dificultad:** media: terreno irregular y algo de desnivel.
 
-## Un "grafiti medieval" que sigue sin explicación
+## Las leyendas de la piedra
 
-En la propia piedra pueden verse cruces grabadas y símbolos antiguos, una especie de grafiti medieval que atrae tanto a curiosos de la historia como a quienes simplemente disfrutan de la ruta y sus vistas al río y a la ciudad.
+Hay más de una versión, y todas tienen su encanto:
 
+- **La más contada** dice que aquí se arrojó al vacío el **último rey musulmán de Toledo**, desesperado tras perder la ciudad ante los cristianos, antes que rendirse.
+- **Otra versión**, que recoge la Real Academia de Toledo, cuenta que un rey moro que **no consiguió conquistar Toledo** pidió que lo enterraran en lo alto de este cerro, junto a la ermita del Valle, **para tener siempre delante la ciudad** que nunca pudo tomar.
 
-<!--actividades-->
+Si te fijas, el conjunto de rocas recuerda a un **busto con turbante**. Y en la roca hay una **cavidad tallada** que algunos interpretan como la tumba de ese rey.
 
-## Cómo llegar hasta la piedra
+## Un «grafiti medieval» que sigue sin explicación
 
-Desde el **Mirador del Valle**, la piedra está a solo 5 minutos caminando. Si prefieres hacer el paseo completo desde el casco histórico o el Puente de San Martín, calcula unos 45 minutos de camino. Es una ruta sencilla y muy disfrutable, ideal tanto en pareja como con amigos o en solitario.
+En la piedra se ven **cruces grabadas** y **símbolos antiguos**, una especie de grafiti de siglos atrás cuyo origen exacto no está claro. Es parte de la gracia: cada uno se monta su propia historia.
+
+> **Mi consejo:** sube **al atardecer**. El sol se pone detrás de la ciudad y la catedral y el Alcázar se tiñen de naranja. Es de las mejores vistas de Toledo.
+
+## Cómo llegar a la piedra
+
+- **Desde el Mirador del Valle:** la piedra está a solo **5 minutos** a pie, subiendo por el cerro.
+- **Desde el casco histórico:** baja hasta el **Puente de San Martín** o el de **Alcántara**, cruza el río y sigue la **carretera de circunvalación** o los senderos del valle. Calcula unos **45 minutos** con buenas vistas todo el camino.
+
+Puedes ver la ubicación del Mirador del Valle en [Google Maps](https://www.google.com/maps/search/?api=1&query=Mirador%20del%20Valle%2C%20Toledo).
 
 ## Qué tener en cuenta
 
-No hay fuentes de agua en el camino, así que conviene llevarla desde el principio, y el terreno irregular hace que no sea la mejor opción para ir con niños pequeños o perros. El acceso es completamente gratuito y la dificultad es media, con algo de desnivel en el recorrido.
+- **No hay fuentes** en el camino: lleva agua.
+- El terreno es irregular y con piedras: **calzado cómodo** y cuidado si vas con **niños pequeños o perros**.
+- En **verano**, ve a primera hora o al atardecer: a mediodía el calor es fuerte y no hay sombra.
 
-## Cuándo ir
+<!--actividades-->
 
-La primavera y el otoño son las estaciones más recomendables. En verano, mejor ir a primera hora de la mañana o al atardecer, para evitar las horas de más calor.
+## Qué más hacer en Toledo
 
-## Cómo llegar
-
-La Piedra del Rey Moro se encuentra en el valle del Tajo, muy cerca del casco histórico de Toledo. Puedes consultar la ubicación del Mirador del Valle en [Google Maps](https://www.google.com/maps/search/?api=1&query=Mirador%20del%20Valle%2C%20Toledo).
+- **La ermita de la Virgen del Valle**, junto a la piedra, con vistas a la ciudad.
+- **La [Cueva de Hércules](/blog/cueva-de-hercules-toledo.html)**, otra leyenda toledana bajo tierra.
+- **[Puy du Fou España](/blog/puy-du-fou-toledo.html)**, el parque de espectáculos, a 10 minutos.
 
 <!--faq-->
 
-
-¿Conocías la leyenda de la Piedra del Rey Moro? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones con historia, y échale un vistazo al resto del blog para tu próxima escapada.
+¿Conocías la leyenda de la Piedra del Rey Moro? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más leyendas y rincones de España, y échale un vistazo al resto del blog.

@@ -8,7 +8,7 @@ lng: -5.3692
 excerpt: 'Grazalema (Cádiz) es el lugar más lluvioso de Andalucía y de toda la mitad sur de la península. Por qué llueve tanto, el bosque de pinsapos y qué ver en el pueblo.'
 cover: /assets/img/blog/grazalema/portada.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Andalucía
 wide: true
 faq:

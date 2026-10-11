@@ -21,6 +21,12 @@ faq:
     a: "En tren de Cercanías desde Madrid, o en coche por la A-2."
   - q: "¿Cuál es la mejor hora para ver el Mercado Cervantino?"
     a: "Por la mañana, cuando hay menos gente. Para el torneo, ve con tiempo si quieres buen sitio."
+  - q: "¿Cuándo es el Mercado Cervantino 2026?"
+    a: "Del 8 al 12 de octubre de 2026, coincidiendo con la Semana Cervantina."
+  - q: "¿Cómo llegar al Mercado Cervantino desde Madrid?"
+    a: "En Cercanías (C-2 y C-7) en unos 35-40 minutos. En coche es muy difícil aparcar en el centro."
+  - q: "¿Por qué se celebra en octubre?"
+    a: "Porque Cervantes fue bautizado en Alcalá de Henares el 9 de octubre de 1547."
 actividades:
   - t: "Visita guiada por Alcalá de Henares"
     u: "https://www.civitatis.com/es/alcala-de-henares/visita-guiada-alcala-de-henares/"
@@ -29,34 +35,49 @@ actividades:
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
-Una vez al año, el casco histórico de Alcalá de Henares retrocede varios siglos: puestos ambientados, oficios de época y, como colofón, un torneo de justas medievales que reúne a caballeros a caballo delante de cientos de espectadores. Es el Mercado Cervantino, y es de esos planes que hay que vivir al menos una vez.
+Una vez al año, el casco histórico de **Alcalá de Henares** viaja al siglo XVI: puestos ambientados, oficios de época, pasacalles y, como colofón, un **torneo de justas** con caballeros a caballo. Es el **Mercado Cervantino**, el mercado de época más grande de Europa según sus organizadores, y en 2026 la **Semana Cervantina** ha sido declarada **Fiesta de Interés Turístico Internacional**.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DPyKoVcjODe/), grabado en Alcalá de Henares, Madrid.
+Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DPyKoVcjODe/), grabado en Alcalá de Henares.
 
-## Un mercado que recrea el siglo XVI
+## Lo básico
 
-Durante varios días, las calles del centro histórico de Alcalá de Henares se llenan de puestos ambientados en la época de Cervantes: artesanía, gastronomía y oficios tradicionales recreados por decenas de participantes vestidos de época. El acceso al mercado es **gratuito**, y se puede recorrer sin prisa disfrutando del ambiente y la decoración de las calles.
+- **Cuándo:** a principios de **octubre**, alrededor del **9 de octubre**, fecha en la que se bautizó a Cervantes. En **2026** es del **8 al 12 de octubre**.
+- **Precio:** el mercado es **gratis**. El **torneo de justas** tiene entrada (unos **12 €** cuando fui).
+- **Dónde:** por todo el casco histórico, sobre todo la calle Mayor y alrededores.
+- **Cómo llegar:** en **Cercanías** desde Madrid (C-2 y C-7), en unos 35-40 minutos.
 
-## El torneo de justas, el gran espectáculo
+## Un mercado que recrea la época de Cervantes
 
-El plato fuerte del evento es el **torneo de justas medievales**, un espectáculo ecuestre en el que caballeros a caballo compiten entre sí siguiendo las reglas y la puesta en escena de los torneos medievales. A diferencia del mercado, el acceso al torneo tiene un coste aproximado de **12€ por persona**, y conviene comprar la entrada con antelación porque suele agotarse.
+Durante varios días, las calles del centro se llenan de cientos de **puestos** de artesanía, comida y oficios: herreros, alfareros, cesteros, cuero, quesos, dulces, carne a la brasa... Muchos participantes van **vestidos de época**, y hay **pasacalles, teatro, música, danza, talleres y juegos** para todas las edades.
 
-## Cuándo se celebra
+El mercado forma parte de la **Semana Cervantina**, con exposiciones, conciertos y actividades culturales en toda la ciudad. El cartel de 2026 está dedicado al **Caballero de la Blanca Luna**, el personaje que derrota a don Quijote.
 
-El Mercado Cervantino se celebra habitualmente a **principios o mediados de octubre**, coincidiendo con las fiestas en honor a Cervantes en su ciudad natal. Conviene consultar las fechas exactas cada año, ya que pueden variar ligeramente.
+## El torneo de justas
 
-## Consejos para la visita
+El gran espectáculo es el **torneo de justas medievales**: caballeros con armadura, a caballo, que compiten siguiendo las reglas de los torneos de la época. Ojo: es **de pago** y las **entradas suelen agotarse**, así que **cómpralas con antelación**.
 
-Al ser un evento multitudinario, conviene ir con tiempo si quieres conseguir buen sitio para el torneo, y aprovechar las horas de menos gente (por la mañana) para recorrer el mercado con más tranquilidad. Alcalá de Henares, además, merece una vuelta por su universidad y su casco histórico, Patrimonio de la Humanidad, aprovechando el viaje.
+> **Mi consejo:** ve al mercado **por la mañana**, cuando hay menos gente, y deja el torneo para la tarde. Los fines de semana, a mediodía, las calles se llenan muchísimo.
 
+## Qué más ver en Alcalá
+
+Aprovecha el viaje, porque Alcalá es **Patrimonio de la Humanidad**:
+
+- **La Universidad** y su fachada plateresca. En el **Paraninfo** se entrega cada año el **Premio Cervantes**.
+- **La Casa Natal de Cervantes**, recreación de una casa del siglo XVI, con la estatua de don Quijote y Sancho en el banco de la puerta.
+- **La calle Mayor**, una de las calles porticadas más largas de España.
+- **La Catedral Magistral**, una de las dos únicas iglesias del mundo con el título de «Magistral».
+- **Las cigüeñas**: Alcalá tiene decenas de nidos en sus torres y tejados.
 
 <!--actividades-->
 
 ## Cómo llegar
 
-Alcalá de Henares se encuentra a unos 35 kilómetros de Madrid capital, con muy buena conexión en Cercanías (línea C-2) y por carretera. Puedes consultar la ubicación del casco histórico en [Google Maps](https://www.google.com/maps/search/?api=1&query=Casco%20hist%C3%B3rico%20de%20Alcal%C3%A1%20de%20Henares).
+Alcalá de Henares está a unos **35 km de Madrid**. Lo más cómodo es el **Cercanías** (líneas C-2 y C-7), porque durante el mercado aparcar en el centro es casi imposible. En coche, por la **A-2**. Puedes ver el casco histórico en [Google Maps](https://www.google.com/maps/search/?api=1&query=Casco%20hist%C3%B3rico%20de%20Alcal%C3%A1%20de%20Henares).
+
+## Otros mercados medievales cerca de Madrid
+
+Si te gustan estas fiestas, apunta también el [Mercado Medieval de Chinchón](/blog/mercado-medieval-chinchon.html), en febrero.
 
 <!--faq-->
 
-
-¿Te animarías a ver el torneo de justas del Mercado Cervantino? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más eventos y escapadas por Madrid, y échale un vistazo al resto del blog para tu próxima aventura.
+¿Has estado alguna vez en el Mercado Cervantino? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más fiestas y escapadas, y échale un vistazo al resto del blog.

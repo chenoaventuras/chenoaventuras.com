@@ -8,7 +8,7 @@ lng: -1.3008
 excerpt: 'Calamocha (Teruel) llegó a -30 °C en 1963 y forma, con Molina de Aragón y Teruel, el «triángulo del frío» de España. Por qué hace tanto frío y qué ver.'
 cover: /assets/img/blog/calamocha-pueblo-mas-frio/portada.webp
 tags:
-  - Curiosidades
+  - Pueblos
   - Aragón
 wide: true
 faqTitulo: "Dudas sobre Calamocha y el frío"

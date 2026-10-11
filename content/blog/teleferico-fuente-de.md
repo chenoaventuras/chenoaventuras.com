@@ -8,7 +8,7 @@ lng: -4.8122
 excerpt: 'El teleférico de Fuente Dé, en Picos de Europa, sube 753 metros en un solo tramo: el más largo de Europa de un tramo. Precio, cuándo ir y rutas desde el Mirador del Cable.'
 cover: /assets/img/blog/teleferico-fuente-de/cable.webp
 tags:
-  - Curiosidades
+  - Actividades
   - Cantabria
 wide: true
 faqTitulo: "Dudas sobre el teleférico de Fuente Dé"

@@ -22,44 +22,63 @@ faq:
     a: "Del acuífero de Calasparra: el agua queda atrapada a unos 200 metros de profundidad y aquí brota con fuerza."
   - q: "¿Cuándo ir a la Fuente del Gorgotón?"
     a: "En primavera u otoño. En verano el sitio, que es pequeño, se llena con facilidad."
+  - q: "¿Cuánto se tarda en llegar a la Fuente del Gorgotón?"
+    a: "Unos 10 minutos andando desde el aparcamiento del Centro de Interpretación de Almadenes, unos 280 metros."
+  - q: "¿Por qué se llama Fuente del Gorgotón?"
+    a: "Por el gorgoteo del agua, que brota con fuerza desde el acuífero de Calasparra, a unos 200 metros de profundidad."
+  - q: "¿Qué hacer cerca de la Fuente del Gorgotón?"
+    a: "Rafting en el Cañón de Almadenes, la ruta circular por el cañón o la Cueva del Puerto en Calasparra."
 actividades:
   - t: "Rafting en el Cañón de Almadenes (Cieza-Calasparra)"
     u: "https://www.getyourguide.es/murcia-l3484/murcia-almadenes-canyon-rafting-with-monigotes-cave-visit-t385327/"
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf
 guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
-Junto al río Segura, en pleno campo de Cieza, hay un rincón donde el agua sale con fuerza desde las profundidades de la tierra, rodeado de vegetación y silencio. Se llama Fuente del Gorgotón, y es una de esas paradas sencillas que merecen la pena solo por lo tranquilo que resulta el lugar.
+Junto al **río Segura**, en el campo de **Cieza**, hay un rincón donde el agua **sale a borbotones** desde las profundidades de la tierra. Se llama **Fuente del Gorgotón**, y aunque es una parada corta, tiene algo hipnótico: te quedas mirando cómo burbujea el agua sin darte cuenta del tiempo.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DNTITyJI_Y8/), grabado en Cieza, Región de Murcia.
+Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DNTITyJI_Y8/), grabado en Cieza.
 
-## Un manantial que nace a 200 metros de profundidad
+## Lo básico
 
-La roca caliza de la zona, moldeada durante siglos por la lluvia y el propio río, ha dado lugar a uno de los depósitos subterráneos más destacados de la región: el **acuífero de Calasparra**. El agua filtrada queda atrapada a 200 metros de profundidad, y en la Fuente del Gorgotón emerge con fuerza, formando un pequeño espectáculo natural de aguas cristalinas.
+- **Dónde:** en el paraje de **Almadenes**, en Cieza (Región de Murcia), junto al río Segura.
+- **Precio:** **gratis** y de acceso libre.
+- **Cuánto se tarda:** desde el aparcamiento son unos **280 metros**, unos **10 minutos** a pie.
+- **Dificultad:** baja, aunque hay un pequeño desnivel y tramos de tierra.
 
-## Acceso gratuito y fácil de encontrar
+## Por qué el agua sale a borbotones
 
-La visita es totalmente gratuita y de acceso libre. Hay un parking de tierra cerca y solo hace falta descender y cruzar un puente metálico para llegar hasta la fuente, sin pérdida posible.
+La roca de esta zona es **caliza**, una roca que el agua va disolviendo con el tiempo. Así se ha formado uno de los grandes depósitos subterráneos de la región, el **acuífero de Calasparra**. El agua se filtra y queda atrapada a unos **200 metros de profundidad**, y en el Gorgotón encuentra una salida y **brota con fuerza** desde el fondo, formando una poza de agua cristalina junto al río.
 
-## Cuánto dura la visita
+De ahí viene el nombre: «gorgotón» por el **gorgoteo** del agua al salir.
 
-La duración depende de cada uno: se puede hacer una parada rápida solo para ver la fuente, o alargar la visita explorando los senderos y el tramo del río que la rodea.
+> **Mi consejo:** acércate en silencio y fíjate en el fondo de la poza. Verás la arena moviéndose por la fuerza del agua que sale.
+
+## Cómo llegar a la Fuente del Gorgotón
+
+Desde **Cieza**, toma la carretera **RM-532** hacia Mula/Caravaca. A unos 3 km, gira a la derecha siguiendo las indicaciones del **Embalse del Quípar** o de la **Central de Almadenes**, y después las de **Almadenes**.
+
+Deja el coche en el **aparcamiento** que hay pasado el **Centro de Interpretación de Almadenes**. Desde allí, un sendero baja hasta el río, cruza una **pasarela metálica** y sigue junto al Segura hasta la fuente, a unos 100 metros río arriba del centro de visitantes.
+
+Puedes ver la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Fuente%20del%20Gorgot%C3%B3n%2C%20Cieza%2C%20Murcia).
 
 ## Cuándo ir
 
-La primavera y el otoño son las estaciones más recomendables, con temperaturas agradables y menos gente. En verano, al tratarse de un espacio reducido, es fácil encontrarlo con bastante afluencia, así que conviene tenerlo en cuenta si buscas tranquilidad.
+**Primavera y otoño** son perfectas: temperatura agradable y menos gente. En **verano** el sitio es pequeño y se llena, sobre todo los fines de semana, y el sol aprieta: ve a primera hora o al atardecer.
 
 ## Accesibilidad
 
-El terreno puede ser algo irregular en ciertos tramos, por lo que no es un lugar accesible para sillas de ruedas, aunque sí apto para todas las edades con calzado adecuado.
+El sendero tiene tramos irregulares y bajada, así que **no es accesible para sillas de ruedas**. Para el resto, es apto para todas las edades con **calzado cómodo**.
 
+## Qué más hacer en Almadenes
+
+La fuente está en la puerta de uno de los paisajes más bonitos de Murcia:
+
+- **[Rafting en el Cañón de Almadenes](/blog/rafting-canon-de-almadenes.html):** bajar el Segura en balsa entre paredes de roca. En muchas salidas se para en las cuevas con **pinturas rupestres** del cañón, como la **Cueva de los Monigotes**, a las que solo se llega desde el río.
+- **Ruta circular por el cañón:** unos **13 km** y 3 horas por la zona, pasando por el embalse de Alfonso XIII. Lleva el track descargado: hay tramos poco señalizados.
+- **[Cueva del Puerto](/blog/cueva-del-puerto-calasparra.html)**, en Calasparra, a media hora, para ver una cueva por dentro.
 
 <!--actividades-->
 
-## Cómo llegar
-
-La Fuente del Gorgotón se encuentra en el término de Cieza, junto al río Segura. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Fuente%20del%20Gorgot%C3%B3n%2C%20Cieza%2C%20Murcia).
-
 <!--faq-->
-
 
 ¿Conocías la Fuente del Gorgotón? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones naturales de España, y échale un vistazo al resto del blog para tu próxima escapada.

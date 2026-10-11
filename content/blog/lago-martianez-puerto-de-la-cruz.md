@@ -24,6 +24,12 @@ faq:
     a: "El artista canario César Manrique, que mezcló piscinas de agua salada, jardines, cascadas y esculturas volcánicas."
   - q: "¿Qué zonas tiene el Lago Martiánez?"
     a: "Tres: El Lago (la piscina grande con islas), Los Alisios (más tranquila) y las Piscinas de San Telmo (más pequeñas y resguardadas)."
+  - q: "¿Cuánto cuesta la entrada al Lago Martiánez?"
+    a: "Desde enero de 2025, 7 euros adultos y 4 euros niños, con descuentos para residentes. Incluye tumbona."
+  - q: "¿Es el agua del Lago Martiánez de mar?"
+    a: "Sí, son piscinas de agua de mar, sin el oleaje del Atlántico."
+  - q: "¿Se puede ir con niños al Lago Martiánez?"
+    a: "Sí, tiene zonas poco profundas y socorristas. Lleva escarpines."
 actividades:
   - t: "Lago Martiánez: entradas y tours"
     u: "https://www.getyourguide.es/lago-martianez-l158961/"
@@ -32,40 +38,56 @@ actividades:
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
 ---
-En Puerto de la Cruz, Tenerife, el arte y el océano Atlántico se fusionan en un complejo de piscinas de agua salada diseñado por uno de los grandes nombres de la arquitectura canaria: César Manrique. Se llama Lago Martiánez, y es mucho más que unas simples piscinas.
+En **Puerto de la Cruz**, al norte de Tenerife, el arte y el Atlántico se juntan en un complejo de **piscinas de agua de mar** diseñado por **César Manrique**. Se llama **Lago Martiánez**, y si buscas un plan de playa sin arena negra, con las olas rompiendo al lado y un diseño que no verás en ningún otro sitio, es aquí.
 
-Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DGbXoV2Iaq6/), grabado en Puerto de la Cruz, Tenerife.
+Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DGbXoV2Iaq6/), grabado en Puerto de la Cruz.
 
-## Arte, naturaleza y océano en un mismo espacio
+## Lo básico antes de ir
 
-El complejo combina lagos y piscinas de distintos tamaños rodeados de jardines, esculturas volcánicas y cascadas, creando un ambiente muy particular frente al mar. Además, cuenta con zonas de relax, bares y restaurantes con vistas espectaculares al océano.
+- **Dónde:** en el paseo marítimo de **Puerto de la Cruz**, a 5 minutos andando del centro.
+- **Horario:** de **10:00 a 19:00** del 1 de julio al 30 de septiembre, y de **10:00 a 18:00** el resto del año (último acceso una hora antes).
+- **Precio:** desde enero de 2025, **7 € adultos** y **4 € niños**, con tarifas reducidas para residentes. Cuando lo grabé costaba 5,50 €: los precios cambian, mira la web oficial.
+- **Incluye:** acceso a las piscinas y **tumbona**.
 
-## Tres zonas bien diferenciadas
+## Por qué es especial: el sello de César Manrique
 
-El recinto se divide en tres espacios: **El Lago**, la zona central y más grande, con una piscina rodeada de islas, cascadas y vistas al Atlántico; **Los Alisios**, un espacio más tranquilo con piscinas de distintas profundidades ideal para relajarse; y las **Piscinas de San Telmo**, más pequeñas y resguardadas, perfectas para un ambiente acogedor.
+César Manrique, el artista de Lanzarote, convirtió una costa de rocas donde era difícil bañarse en un **paisaje de lagos, islas, cascadas y jardines** de piedra volcánica. El agua es **de mar**, pero sin el oleaje del Atlántico. Las esculturas, los muros de lava y la vegetación hacen que parezca más una obra de arte que un complejo de piscinas.
 
-## Horario y tarifas
+Si te gusta su estilo, en Lanzarote tienes su obra más famosa: los [Jameos del Agua](/blog/jameos-del-agua-cueva-de-los-verdes.html).
 
-Del 1 de julio al 30 de septiembre, el horario es de 10:00 a 19:00h; el resto del año, de 10:00 a 18:00h. La entrada cuesta 5,50€ para adultos y 2,50€ para niños hasta 10 años, con descuentos especiales para residentes (3€ adultos, 1,50€ niños). Todas las entradas incluyen tumbona.
+## Las tres zonas
 
+- **El Lago:** la zona central y más grande, una piscina enorme con **islas, cascadas** y vistas al océano. La foto clásica.
+- **Los Alisios:** más tranquila, con piscinas de distintas profundidades. Ideal para relajarse.
+- **Piscinas de San Telmo:** más pequeñas y recogidas, junto al paseo.
+
+> **Mi consejo:** ve **a primera hora**. A media mañana se llenan las mejores tumbonas, sobre todo en verano y fines de semana.
+
+## Con niños
+
+Es un planazo con niños: hay **zonas poco profundas**, socorristas y nada de olas. Lleva **escarpines** si los tienes: algunas zonas de piedra resbalan y el suelo de lava quema al sol.
+
+## Qué llevar
+
+Toalla, **crema solar** (aunque esté nublado, en Tenerife quema), gorra y agua. Hay bares y restaurantes dentro, así que no hace falta llevar comida.
+
+## Cuándo ir
+
+Tenerife tiene buen tiempo **todo el año**, y el norte de la isla es algo más fresco y nublado que el sur. Para bañarte a gusto, mejor de **mayo a octubre**. En invierno abre igual, pero el agua está más fría.
 
 <!--actividades-->
 
 ## Cómo llegar
 
-El complejo está ubicado en Puerto de la Cruz, accesible en coche, autobús o incluso caminando desde el centro, con aparcamientos cerca de las instalaciones.
+El complejo está en la avenida de Colón, en el paseo marítimo de **Puerto de la Cruz**. Puedes ir **andando** desde el casco histórico, en **guagua** o en coche; hay aparcamientos públicos cerca. Desde el **aeropuerto Tenerife Norte** son unos 25 minutos. Puedes ver la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Lago%20Marti%C3%A1nez%2C%20Puerto%20de%20la%20Cruz%2C%20Tenerife).
 
-## Cuándo ir
+## Qué más hacer en Puerto de la Cruz
 
-Tenerife disfruta de un clima privilegiado durante todo el año, por lo que cualquier época es buena para visitar el Lago Martiánez. La visita es de dificultad baja y accesible para todas las edades.
-
-## Cómo llegar
-
-Lago Martiánez se encuentra en Puerto de la Cruz, al norte de Tenerife. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Lago%20Marti%C3%A1nez%2C%20Puerto%20de%20la%20Cruz%2C%20Tenerife).
-
-Más planes en Tenerife: el [Mirador de Chipeque](/blog/mirador-de-chipeque-tenerife.html), en el interior, y el [Arco de Tajao](/blog/arco-de-tajao-tenerife.html), en el sur.
+- **Playa Jardín**, otra obra de Manrique: playa de arena negra con jardines tropicales.
+- **El casco histórico**, con la plaza del Charco y el muelle de pescadores.
+- **El Jardín Botánico**, con árboles tropicales de todo el mundo.
+- Más Tenerife: el [Mirador de Chipeque](/blog/mirador-de-chipeque-tenerife.html), el [Teide](/blog/teide.html) o el [Arco de Tajao](/blog/arco-de-tajao-tenerife.html), en el sur.
 
 <!--faq-->
-
 
 ¿Conocías el Lago Martiánez? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Canarias, y échale un vistazo al resto del blog para tu próxima escapada.
