@@ -1078,7 +1078,6 @@
     "Favàritx",
     "Albufera des Grau"
   ],
-<<<<<<< HEAD
   "murallas-reales-ceuta": [
     "Murallas Reales",
     "Puerta Califal",
@@ -1091,11 +1090,10 @@
     "La Restinga",
     "Mar de las Calmas",
     "volcán Tagoro"
-=======
+  ],
   "pueblos-de-colores-segovia": [
     "pueblos rojos",
     "pueblos de colores de Segovia",
     "Madriguera"
->>>>>>> e23851f (Blog: post de los pueblos de colores de Segovia (rojos, negros y amarillos))
   ]
 }
