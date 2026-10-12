@@ -190,13 +190,24 @@
     var today = pickToday();
     var i = 0;
     if (out) {
-      out.textContent = today[0];
+      // Las 3 frases se apilan en la misma celda: la caja mide lo que la más
+      // larga y la página no da saltos al pasar de 2 a 3 líneas.
+      out.textContent = "";
+      var items = today.map(function (t, k) {
+        var s = document.createElement("span");
+        s.className = "curiosbar__item" + (k === 0 ? " is-active" : "");
+        s.textContent = t;
+        if (k) s.setAttribute("aria-hidden", "true");
+        out.appendChild(s);
+        return s;
+      });
       if (today.length > 1) {
         setInterval(function () {
           out.classList.add("is-fading");
           setTimeout(function () {
+            items[i].classList.remove("is-active"); items[i].setAttribute("aria-hidden", "true");
             i = (i + 1) % today.length;
-            out.textContent = today[i];
+            items[i].classList.add("is-active"); items[i].removeAttribute("aria-hidden");
             out.classList.remove("is-fading");
           }, 400);
         }, 6000);

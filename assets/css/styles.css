@@ -397,9 +397,12 @@ p { margin: 0 0 1em; }
 }
 .curiosbar__text {
   font-size: 1rem; color: rgba(255,255,255,.9);
-  line-height: 1.5; min-height: 3em;   /* reserva siempre 2 líneas: la página no salta al cambiar de dato */
+  line-height: 1.5; min-height: 3em;
   transition: opacity .4s ease;
+  display: grid;   /* las frases del día se apilan: la altura es la de la más larga */
 }
+.curiosbar__item { grid-area: 1 / 1; visibility: hidden; }
+.curiosbar__item.is-active { visibility: visible; }
 .curiosbar__text.is-fading { opacity: 0; }
 
 /* =========================================================================
@@ -1343,7 +1346,7 @@ p { margin: 0 0 1em; }
   .hero { padding-top: 92px; min-height: min(82vh, 660px); }
   .hero__text, .pagehead p, .lead, .curiosbar__label { font-size: 1rem; }
   .curiosbar { max-width: 100%; gap: .4em; }
-  .curiosbar__text { font-size: .95rem; min-height: 4.5em; }
+  .curiosbar__text { font-size: .95rem; }
   .cardgrid:not(.cardgrid--ig):not([data-ig-posts]):not(.cardgrid--svc), .curios__grid, .svcgrid { grid-template-columns: 1fr; }
   .cardgrid[data-ig-posts], .cardgrid--svc { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .dealgrid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
