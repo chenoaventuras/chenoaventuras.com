@@ -7,7 +7,7 @@ provincia: Badajoz
 lat: 38.4250
 lng: -6.4170
 excerpt: 'Qué ver en Zafra (Badajoz): la Plaza Grande y la Plaza Chica con la vara de medir, el Alcázar de los Duques de Feria (hoy Parador), Santa Clara, la Candelaria y la Feria Internacional Ganadera.'
-cover: /assets/img/blog/zafra-que-ver/portada.jpg
+cover: /assets/img/blog/zafra-que-ver/portada.webp
 tags:
   - Pueblos
   - Extremadura
@@ -50,10 +50,10 @@ Te cuento qué ver, la curiosa historia de su vara de medir, cuándo es la Feria
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Zafra</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zafra-que-ver/plaza-grande.jpg" alt="Plaza Grande de Zafra con palmeras y soportales" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Plaza Grande</h3><p>Amplia, con <strong>soportales</strong>, palmeras, casas encaladas y la torre de la Candelaria asomando. Era la plaza de las fiestas y los mercados grandes. Hoy está llena de terrazas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zafra-que-ver/plaza-chica.jpg" alt="Plaza Chica de Zafra con soportales" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Plaza Chica</h3><p>La más antigua, donde estaba el mercado diario. Pequeña, recogida y porticada, con el antiguo ayuntamiento. Para muchos, el rincón más bonito de Zafra.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zafra-que-ver/arquillo.jpg" alt="Arquillo del Pan con el retablo de la Esperancita en Zafra" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Arquillo del Pan</h3><p>El pasadizo que une las dos plazas, con un pequeño retablo de la <strong>Virgen de la Esperancita</strong>. Aquí está la famosa vara de medir.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zafra-que-ver/patio-alcazar.jpg" alt="Patio renacentista del Alcázar de los Duques de Feria, Parador de Zafra" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Alcázar de los Duques de Feria</h3><p>Un castillo-palacio del siglo XV con nueve torres circulares y un <strong>patio renacentista de mármol</strong> atribuido a la escuela de Herrera. Hoy es <strong>Parador</strong>: entra a ver el patio y toma algo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zafra-que-ver/plaza-grande.webp" alt="Plaza Grande de Zafra con palmeras y soportales" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Plaza Grande</h3><p>Amplia, con <strong>soportales</strong>, palmeras, casas encaladas y la torre de la Candelaria asomando. Era la plaza de las fiestas y los mercados grandes. Hoy está llena de terrazas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zafra-que-ver/plaza-chica.webp" alt="Plaza Chica de Zafra con soportales" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Plaza Chica</h3><p>La más antigua, donde estaba el mercado diario. Pequeña, recogida y porticada, con el antiguo ayuntamiento. Para muchos, el rincón más bonito de Zafra.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zafra-que-ver/arquillo.webp" alt="Arquillo del Pan con el retablo de la Esperancita en Zafra" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Arquillo del Pan</h3><p>El pasadizo que une las dos plazas, con un pequeño retablo de la <strong>Virgen de la Esperancita</strong>. Aquí está la famosa vara de medir.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zafra-que-ver/patio-alcazar.webp" alt="Patio renacentista del Alcázar de los Duques de Feria, Parador de Zafra" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Alcázar de los Duques de Feria</h3><p>Un castillo-palacio del siglo XV con nueve torres circulares y un <strong>patio renacentista de mármol</strong> atribuido a la escuela de Herrera. Hoy es <strong>Parador</strong>: entra a ver el patio y toma algo.</p></div></li>
 </ol>
 <div class="guide__legend"><h3>📏 La vara de Zafra</h3><p>En una de las columnas del Arquillo del Pan hay una marca tallada en la piedra: mide exactamente <strong>una vara castellana</strong>, unos 0,835 metros. Era la medida oficial del mercado: si un comprador sospechaba que le habían dado menos tela de la cuenta, iba a la columna a comprobarlo. Un sistema antitrampas del siglo XV que todavía puedes tocar.</p></div>
 
@@ -65,7 +65,7 @@ Te cuento qué ver, la curiosa historia de su vara de medir, cuándo es la Feria
 <li><strong>La Puerta de Jerez</strong> y la del Acebuche, restos de la antigua muralla.</li>
 <li><strong>El Hospital de Santiago</strong> y las casas blasonadas de la calle Boticas y la calle Jerez.</li>
 </ul>
-<p><img src="/assets/img/blog/zafra-que-ver/almenas.jpg" alt="Atardecer entre las almenas del Alcázar de Zafra" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/zafra-que-ver/almenas.webp" alt="Atardecer entre las almenas del Alcázar de Zafra" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Fiesta</span><h2>La Feria Internacional Ganadera</h2></div>
 <p>Zafra celebra cada año, a principios de <strong>octubre</strong> y en torno a San Miguel, una de las ferias de ganado más antiguas de Europa: en 2026 fue su edición número <strong>573</strong>, del 1 al 6 de octubre. Hoy es la <strong>Feria Internacional Ganadera</strong>, con exposición de animales de razas autóctonas, maquinaria agrícola, subastas y miles de visitantes, y al mismo tiempo la feria popular del pueblo, con casetas, música y ambiente en las plazas. Si vas esos días, reserva alojamiento con mucha antelación.</p>
