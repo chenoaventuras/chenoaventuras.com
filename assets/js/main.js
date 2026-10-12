@@ -1232,24 +1232,8 @@
 
   // Dibujos de fondo
   const dibs = [...box.querySelectorAll(".dibujos img")], dn = box.querySelector("[data-dib-name]");
-  // Fondo de todo el bloque: la misma foto muy desenfocada, para que sus colores
-  // se extiendan hasta los bordes en vez del azul liso.
-  const amb = document.createElement("div");
-  amb.className = "esc__ambient";
-  amb.setAttribute("aria-hidden", "true");
-  amb.innerHTML = '<img alt="" /><img alt="" />';
-  box.prepend(amb);
-  let k = 0, af = 0;
-  function nextDib() {
-    dibs.forEach((d, i) => d.classList.toggle("on", i === k));
-    dn.textContent = dibs[k].dataset.name;
-    const a = amb.children;
-    a[1 - af].src = dibs[k].getAttribute("src");
-    a[1 - af].classList.add("on");
-    a[af].classList.remove("on");
-    af = 1 - af;
-    k = (k + 1) % dibs.length;
-  }
+  let k = 0;
+  function nextDib() { dibs.forEach((d, i) => d.classList.toggle("on", i === k)); dn.textContent = dibs[k].dataset.name; k = (k + 1) % dibs.length; }
   dibs.forEach((d) => (d.loading = "eager"));
   nextDib(); setInterval(nextDib, 5000);
 })();
