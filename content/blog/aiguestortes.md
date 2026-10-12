@@ -7,7 +7,7 @@ provincia: Lleida
 lat: 42.5810
 lng: 1.0010
 excerpt: 'Parque Nacional de Aigüestortes i Estany de Sant Maurici (Lleida): cómo entrar en taxi 4x4 desde Espot o Boí, las mejores rutas, la leyenda de Els Encantats, cuándo ir y qué ver en la Vall de Boí.'
-cover: /assets/img/blog/aiguestortes/portada.jpg
+cover: /assets/img/blog/aiguestortes/portada.webp
 tags:
   - Spots
   - Cataluña
@@ -46,7 +46,7 @@ Te cuento cómo se entra (sin coche), las mejores rutas para todos los niveles, 
 
 <div class="guide__head"><span class="eyebrow">El parque</span><h2>El parque de los 200 lagos</h2></div>
 <p>Hace miles de años, los glaciares cubrían estas montañas. Al retirarse, dejaron valles en forma de U y cientos de cubetas excavadas en el granito que se llenaron de agua: hoy hay <strong>más de 200 lagos</strong> («estanys», en catalán). El nombre <strong>Aigüestortes</strong> significa «aguas torcidas», por los meandros que forman los arroyos en las llanuras del valle de Sant Nicolau. Fue declarado <strong>Parque Nacional en 1955</strong>.</p>
-<p><img src="/assets/img/blog/aiguestortes/planell.jpg" alt="Arroyo y bosque en el Planell d'Aigüestortes" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/aiguestortes/planell.webp" alt="Arroyo y bosque en el Planell d'Aigüestortes" loading="lazy" decoding="async" /></p>
 <div class="guide__legend"><h3>⛰️ La leyenda de Els Encantats</h3><p>Cuentan que dos cazadores de Espot salieron de misa antes de que terminara para ser los primeros en llegar a cazar rebecos a la montaña. Como castigo, quedaron <strong>encantados</strong>, convertidos en piedra. Son los dos picos gemelos de <strong>Els Encantats</strong>, de casi 2.750 metros, que se reflejan en el Estany de Sant Maurici: la imagen más famosa del parque.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo entrar</span><h2>Las dos puertas del parque</h2></div>
@@ -55,12 +55,12 @@ Te cuento cómo se entra (sin coche), las mejores rutas para todos los niveles, 
 
 <div class="guide__head"><span class="eyebrow">Rutas</span><h2>Las mejores rutas</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aiguestortes/ratera.jpg" alt="Estany de Ratera con montañas nevadas al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Sant Maurici – Estany de Ratera</h3><p>La más popular: desde el lago de Sant Maurici, una pista sube junto a la <strong>cascada de Ratera</strong> hasta el Estany de Ratera y el <strong>mirador de l'Estany</strong>, con vistas de Els Encantats. Unos 6-7 km ida y vuelta, 2-3 horas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aiguestortes/rio.jpg" alt="Río entre pinos en el valle de Sant Nicolau" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Planell d'Aigüestortes – Estany Llong</h3><p>En el lado de Boí: un paseo junto a los meandros del río por prados y bosques hasta el <strong>Estany Llong</strong>. Suave y precioso, unas 3 horas ida y vuelta.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aiguestortes/valle.jpg" alt="Valle de alta montaña en Aigüestortes" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Amitges y los lagos altos</h3><p>Para los más andarines: desde Ratera se sigue subiendo hasta el <strong>refugio de Amitges</strong> y sus lagos, con vistas de alta montaña. Es exigente pero espectacular.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aiguestortes/vacas.jpg" alt="Vacas pastando en los prados de Aigüestortes" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Carros de Foc</h3><p>Una travesía circular que une nueve refugios del parque en varios días de alta montaña. Muy famosa: hay que reservar los refugios con antelación.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aiguestortes/ratera.webp" alt="Estany de Ratera con montañas nevadas al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Sant Maurici – Estany de Ratera</h3><p>La más popular: desde el lago de Sant Maurici, una pista sube junto a la <strong>cascada de Ratera</strong> hasta el Estany de Ratera y el <strong>mirador de l'Estany</strong>, con vistas de Els Encantats. Unos 6-7 km ida y vuelta, 2-3 horas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aiguestortes/rio.webp" alt="Río entre pinos en el valle de Sant Nicolau" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Planell d'Aigüestortes – Estany Llong</h3><p>En el lado de Boí: un paseo junto a los meandros del río por prados y bosques hasta el <strong>Estany Llong</strong>. Suave y precioso, unas 3 horas ida y vuelta.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aiguestortes/valle.webp" alt="Valle de alta montaña en Aigüestortes" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Amitges y los lagos altos</h3><p>Para los más andarines: desde Ratera se sigue subiendo hasta el <strong>refugio de Amitges</strong> y sus lagos, con vistas de alta montaña. Es exigente pero espectacular.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aiguestortes/vacas.webp" alt="Vacas pastando en los prados de Aigüestortes" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Carros de Foc</h3><p>Una travesía circular que une nueve refugios del parque en varios días de alta montaña. Muy famosa: hay que reservar los refugios con antelación.</p></div></li>
 </ol>
-<p><img src="/assets/img/blog/aiguestortes/prado.jpg" alt="Prado y lago en Aigüestortes con montañas" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/aiguestortes/prado.webp" alt="Prado y lago en Aigüestortes con montañas" loading="lazy" decoding="async" /></p>
 <div class="guide__howto"><h3>⚠️ Normas del parque</h3><p>No se puede acampar libremente, ni hacer fuego, ni llevar perros sueltos, ni bañarse en los lagos (en algunos está prohibido), ni salirse de los caminos. El tiempo en montaña cambia rápido: lleva ropa de abrigo e impermeable incluso en verano, y mira la previsión.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>La mejor época</h2></div>
