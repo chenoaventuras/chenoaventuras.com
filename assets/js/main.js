@@ -599,6 +599,40 @@
       .catch(function () { /* sin datos: se queda el texto por defecto */ });
   }
 
+  /* ---------- Regalo de «Descuentos»: confeti y la cara con dinero ---------- */
+  document.querySelectorAll("[data-gift]").forEach(function (gift) {
+    gift.addEventListener("click", function () {
+      var r = gift.getBoundingClientRect();
+      var cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+      var colors = ["#eab308", "#f6c945", "#3f6d9e", "#77854f", "#e4572e", "#ffffff"];
+      var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      for (var i = 0; i < (reduce ? 0 : 70); i++) {
+        var c = document.createElement("i");
+        c.className = "confeti";
+        var ang = Math.random() * Math.PI * 2, dist = 80 + Math.random() * 220;
+        c.style.left = cx + "px";
+        c.style.top = cy + "px";
+        c.style.background = colors[i % colors.length];
+        c.style.setProperty("--x", (Math.cos(ang) * dist).toFixed(0) + "px");
+        c.style.setProperty("--y", (Math.sin(ang) * dist - 120).toFixed(0) + "px");
+        c.style.setProperty("--r", (Math.random() * 720 - 360).toFixed(0) + "deg");
+        c.style.animationDuration = (900 + Math.random() * 700).toFixed(0) + "ms";
+        document.body.appendChild(c);
+        c.addEventListener("animationend", function () { this.remove(); });
+      }
+      var face = document.createElement("span");
+      face.className = "gift-face";
+      face.textContent = "🤑";
+      face.style.left = cx + "px";
+      face.style.top = cy + "px";
+      document.body.appendChild(face);
+      face.addEventListener("animationend", function () { face.remove(); });
+      gift.classList.remove("is-open");
+      void gift.offsetWidth;
+      gift.classList.add("is-open");
+    });
+  });
+
   /* ---------- Descarga de guía en PDF a cambio del email ---------- */
   document.querySelectorAll("form[data-guide-source]").forEach(function (f) {
     f.addEventListener("submit", function (ev) {
@@ -1198,8 +1232,24 @@
 
   // Dibujos de fondo
   const dibs = [...box.querySelectorAll(".dibujos img")], dn = box.querySelector("[data-dib-name]");
-  let k = 0;
-  function nextDib() { dibs.forEach((d, i) => d.classList.toggle("on", i === k)); dn.textContent = dibs[k].dataset.name; k = (k + 1) % dibs.length; }
+  // Fondo de todo el bloque: la misma foto muy desenfocada, para que sus colores
+  // se extiendan hasta los bordes en vez del azul liso.
+  const amb = document.createElement("div");
+  amb.className = "esc__ambient";
+  amb.setAttribute("aria-hidden", "true");
+  amb.innerHTML = '<img alt="" /><img alt="" />';
+  box.prepend(amb);
+  let k = 0, af = 0;
+  function nextDib() {
+    dibs.forEach((d, i) => d.classList.toggle("on", i === k));
+    dn.textContent = dibs[k].dataset.name;
+    const a = amb.children;
+    a[1 - af].src = dibs[k].getAttribute("src");
+    a[1 - af].classList.add("on");
+    a[af].classList.remove("on");
+    af = 1 - af;
+    k = (k + 1) % dibs.length;
+  }
   dibs.forEach((d) => (d.loading = "eager"));
   nextDib(); setInterval(nextDib, 5000);
 })();
