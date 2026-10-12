@@ -1824,7 +1824,7 @@ p { margin: 0 0 1em; }
 .about-stamps__note a { color: var(--olive-dark); font-weight: 600; text-decoration: underline; }
 
 /* --- Polaroids colgadas de una cuerda + Ford S-Max --- */
-.about-film { position: relative; isolation: isolate; padding-block: clamp(18px, 3vw, 30px) 0; overflow: hidden; margin-block: clamp(10px, 2vw, 20px); }
+.about-film { position: relative; isolation: isolate; padding-block: clamp(18px, 3vw, 30px) 0; overflow: hidden; overflow: clip; margin-block: clamp(10px, 2vw, 20px); }
 .about-film .road__car { filter: drop-shadow(0 -2px 8px rgba(0,0,0,.25)); }
 .scene { position: absolute; inset: 0; z-index: -1; background: linear-gradient(120deg, #1f3e64, #3c6aa3 55%, #77854f); }
 .scene::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(20,25,20,.25), rgba(20,25,20,.05) 45%, rgba(20,25,20,.45)); }

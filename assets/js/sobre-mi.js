@@ -279,6 +279,11 @@
     if (!reduce) setInterval(function () { if (started) nextBg(); }, 3500);
   }
 
+  // la sección recorta lo que sobresale; si el navegador la desplaza por dentro al
+  // tocar el coche o una foto, el fondo se descoloca: la devolvemos siempre a su sitio
+  var filmSec = document.querySelector(".about-film");
+  if (filmSec) filmSec.addEventListener("scroll", function () { if (filmSec.scrollLeft) filmSec.scrollLeft = 0; });
+
   /* ---------- tira de fotos de mis reels ---------- */
   function film(all) {
     var track = document.querySelector("#film .film__track");
