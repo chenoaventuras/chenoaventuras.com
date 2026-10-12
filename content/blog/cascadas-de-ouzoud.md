@@ -52,6 +52,8 @@ Existen varios senderos que permiten bajar hasta la base de las cascadas y verla
 
 <!--actividades-->
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Además de la cascada, los protagonistas son los monos de Berbería: se acercan muchísimo, así que guarda bien la comida. Y súbete a las barcas de colores que te llevan casi debajo del salto.</p></div>
+
 ## Cómo llegar
 
 Las Cascadas de Ouzoud se encuentran a poco más de 2 horas en coche desde Marrakech, y es habitual visitarlas como excursión de un día, ya sea por cuenta propia o con alguna de las muchas excursiones organizadas que salen a diario desde la ciudad. Puedes consultar la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Cascades%20d%27Ouzoud%2C%20Morocco).

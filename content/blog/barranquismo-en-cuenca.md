@@ -68,6 +68,8 @@ El barranquismo (o descenso de cañones) consiste en **bajar un río por su prop
 
 No lleves joyas ni nada que no quieras perder en el río.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Lo mejor fueron los saltos a las pozas de agua turquesa. Llévate ropa de cambio, porque acabas empapado de pies a cabeza.</p></div>
+
 ## Cuándo ir
 
 La temporada fuerte va de **primavera a principios de otoño**. En pleno verano es un planazo para combatir el calor; en primavera el río lleva más agua y es más emocionante, pero también está más fría. El neopreno te mantiene caliente casi siempre.

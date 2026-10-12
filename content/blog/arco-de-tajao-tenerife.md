@@ -68,6 +68,8 @@ Esas capas son blandas. Con el tiempo, el viento y la lluvia fueron vaciando las
 
 > **Mi consejo:** no te subas encima del arco. La roca es frágil y cada pisada lo desgasta. Es más bonito (y más seguro) fotografiarlo desde abajo.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Parece de otro planeta: roca volcánica moldeada por el viento en mitad de la nada. Ve con la luz de última hora, cuando la piedra se pone dorada, y con calzado cerrado.</p></div>
+
 ## Cómo llegar y dónde aparcar
 
 Desde la **TF-1** (autopista del sur), toma la **salida 46** hacia **San Miguel de Tajao** y enlaza con la **TF-632**. El arco está a solo unos **300 metros** de la autopista. Sigue las indicaciones hasta una explanada de tierra, deja el coche ahí y camina unos 5 minutos.

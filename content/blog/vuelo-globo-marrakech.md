@@ -77,6 +77,8 @@ Los globos despegan en el campo, a las afueras de Marrakech. Desde arriba ves **
 
 Igual que en España, los globos solo vuelan con **buen tiempo**. Si el piloto cancela por viento o lluvia, lo normal es que te cambien el día o te devuelvan el dinero. Por eso, **no lo dejes para el último día del viaje**.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Toca madrugar muchísimo, pero merece la pena: ves amanecer con decenas de globos alrededor. La actividad incluía un desayuno bereber en una jaima, y comí tanto que me salté la comida.</p></div>
+
 ## Cuándo ir
 
 Se vuela **todo el año**. De **octubre a abril** las mañanas son frescas y el aire está más limpio, con el Atlas nevado. En **verano**, aunque se vuela muy temprano, hace calor enseguida.

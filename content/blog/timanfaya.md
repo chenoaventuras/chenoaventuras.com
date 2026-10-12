@@ -71,6 +71,8 @@ Y la tierra sigue caliente: a pocos metros de profundidad hay cientos de grados.
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Timanfaya</h2></div>
 <div class="guide__howto"><p>En coche desde Yaiza por la <strong>LZ-67</strong>: el desvío a las Montañas del Fuego está señalizado. Desde Puerto del Carmen, unos 30 minutos.</p><p>Aparca en el Islote de Hilario: desde allí sale el autobús de la Ruta de los Volcanes.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Montañas+del+Fuego+Timanfaya" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar a las Montañas del Fuego</a></div></div>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Lo más impresionante son las demostraciones del calor del volcán: echan agua en un agujero del suelo y sale disparada como un géiser. A pocos metros bajo tus pies hay cientos de grados.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Llega temprano</b>: para evitar la cola del aparcamiento.</li><li><b>Siéntate a la izquierda del autobús</b>: suele tener las mejores vistas en el recorrido.</li><li><b>Sigue por la costa</b>: El Golfo, Los Hervideros y las Salinas de Janubio están muy cerca.</li><li><b>Reserva una ruta a pie</b>: las rutas guiadas del Parque Nacional se llenan pronto.</li></ul></div>
 
 <!--faq-->

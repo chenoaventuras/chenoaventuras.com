@@ -88,6 +88,8 @@ Es un planazo con niños: hay **zonas poco profundas**, socorristas y nada de ol
 
 Toalla, **crema solar** (aunque esté nublado, en Tenerife quema), gorra y agua. Hay bares y restaurantes dentro, así que no hace falta llevar comida.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Lo que más me gustó fue verlo desde arriba: las piscinas de César Manrique encajadas entre la lava y el mar parecen de mentira.</p></div>
+
 ## Cuándo ir
 
 Tenerife tiene buen tiempo **todo el año**, y el norte de la isla es algo más fresco y nublado que el sur. Para bañarte a gusto, mejor de **mayo a octubre**. En invierno abre igual, pero el agua está más fría.

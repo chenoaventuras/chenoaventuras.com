@@ -70,6 +70,8 @@ Te cuento qué ver, la historia del gran incendio que cambió la ciudad, sus pla
 
 <p>Desde Santander, a menos de una hora tienes <a href="/blog/santillana-del-mar-que-ver.html">Santillana del Mar</a>, <a href="/blog/comillas-que-ver.html">Comillas</a> y el curioso <a href="/blog/laberinto-de-villapresente.html">laberinto de Villapresente</a>, y algo más lejos, el <a href="/blog/teleferico-fuente-de.html">teleférico de Fuente Dé</a>.</p>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Mi recomendación: súbete a una de las lanchas que recorren la bahía. Ves Santander desde el agua, con el Palacio de la Magdalena, y es una forma muy distinta de conocer la ciudad.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Paseo marítimo completo</b>: del centro a la Magdalena y el Sardinero.</li><li><b>Rabas en el barrio pesquero</b> con una caña.</li><li><b>Atardecer en Cabo Mayor</b>.</li><li><b>Sube al Centro Botín</b>: las vistas de la bahía desde sus pasarelas son gratis.</li><li><b>Chaqueta siempre</b>: el tiempo del Cantábrico cambia rápido.</li></ul></div>
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

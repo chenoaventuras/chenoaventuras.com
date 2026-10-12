@@ -86,6 +86,8 @@ Curvas, paisajes abiertos, robles, pinares y un **silencio** poco habitual tan c
 - **No hay gasolinera** en el puerto: sal con el depósito lleno.
 - La carretera es estrecha y con curvas: conduce con calma, sobre todo si hay ciclistas.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Fui con nieve y estaba precioso, pero ojo: con nevadas las quitanieves trabajan a tope y hace falta ir con cadenas o neumáticos de invierno.</p></div>
+
 ## Cómo llegar
 
 Desde **Madrid**, por la **A-1** hasta la salida de **Buitrago / La Hiruela** y luego hacia Montejo y Prádena del Rincón; desde ahí arranca la M-130 hacia el puerto. Son alrededor de **1 h 30 min**. Puedes ver la zona en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20de%20la%20Puebla%2C%20Sierra%20del%20Rinc%C3%B3n%2C%20Madrid).

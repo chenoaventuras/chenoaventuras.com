@@ -63,6 +63,8 @@ Guadalest tiene origen musulmán, y su castillo —el Castell de Guadalest, o ca
 
 <!--actividades-->
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Lo mejor es asomarte al mirador y ver el embalse: el agua es de un turquesa que parece retocado, y te aseguro que no lo es.</p></div>
+
 ## Cómo llegar a Guadalest
 
 En coche es la forma más cómoda: desde Benidorm son unos 25 km por la CV-70 (media hora), y desde Altea se llega por la CV-755 en un tiempo similar. También hay una línea de autobús desde Benidorm, aunque con muy poca frecuencia (un único trayecto al día en cada sentido), así que si no tienes coche, lo más práctico suele ser una excursión organizada desde la Costa Blanca.

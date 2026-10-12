@@ -82,6 +82,8 @@ Para personas con **vértigo severo** o **problemas de hombro**: en los tramos v
 
 El propio **Ventano del Diablo** es un mirador natural muy visitado: una **abertura en la roca** desde la que se ve la Hoz del Júcar en todo su esplendor. Si no te atreves con la ferrata, la parada merece la pena igual. Te lo cuento en [este post](/blog/mirador-ventano-del-diablo.html).
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Si te gusta la adrenalina, es un planazo: vas pegado a los cortados del Júcar con unas vistas que desde abajo ni te imaginas.</p></div>
+
 ## Cómo llegar
 
 El Ventano del Diablo está en la carretera **CM-2105**, de Cuenca a la Ciudad Encantada, en el término de **Villalba de la Sierra**. Desde Cuenca son unos **20 minutos**. Hay un pequeño aparcamiento junto al mirador. Puedes ver la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Ventano%20del%20Diablo%2C%20Villalba%20de%20la%20Sierra%2C%20Cuenca).

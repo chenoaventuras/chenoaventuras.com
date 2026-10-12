@@ -78,6 +78,8 @@ Te cuento qué ver, cuánto cuesta el Guggenheim, dónde comer pintxos, cómo su
 <li><strong>El castillo de Butrón</strong>, un castillo de cuento a 25 minutos: <a href="/blog/castillo-de-butron.html">aquí lo tienes</a>.</li>
 </ul>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>No te vayas sin rodear el Guggenheim por fuera: la araña Mamá, las esferas de Anish Kapoor y el edificio junto a la ría ya merecen la visita, aunque no entres.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Rodea el Guggenheim</b> por fuera, sobre todo desde el puente de La Salve.</li><li><b>Atardecer en Artxanda</b>: la ciudad se ilumina a tus pies.</li><li><b>Pintxos de pie</b>: uno por bar y a por el siguiente.</li><li><b>Lleva paraguas</b>: el «sirimiri» es parte del encanto.</li><li><b>Usa el metro</b>: es rápido, limpio y precioso.</li></ul></div>
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

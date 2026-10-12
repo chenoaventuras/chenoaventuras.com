@@ -82,6 +82,8 @@ Como referencia, se suele pedir un **peso entre 35-40 y 120 kg** y una **altura 
 
 Cuando abrió, el precio por persona rondaba los **25 €**. Consulta el precio actual al reservar; abajo tienes el enlace.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Es lo más parecido a ser un pájaro un rato: vuelas sobre la hoz con Cuenca de fondo. Si te da algo de miedo, ve igualmente: se pasa en cuanto te lanzas.</p></div>
+
 ## Cuándo ir
 
 Funciona casi todo el año, pero puede cerrar con **viento fuerte o tormenta**. Los **fines de semana** y puentes hay más cola: si puedes, ve entre semana o a primera hora. Al atardecer, la luz sobre las Casas Colgadas es preciosa.

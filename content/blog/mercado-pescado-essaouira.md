@@ -91,6 +91,8 @@ Pocos sitios dan tanto juego: las **barcas azules** amontonadas, las gaviotas, l
 
 <!--actividades-->
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Lo que más me impactó fue ver tiburones en los puestos, y no es broma. Si te animas, compras el pescado allí mismo y te lo cocinan en los puestos de al lado.</p></div>
+
 ## Cómo llegar a Essaouira
 
 Essaouira está a unos **190 km de Marrakech**, unas **2 h 30 min** en coche o autobús (hay líneas directas). También tiene un pequeño aeropuerto. El puerto está pegado a la medina, se llega andando. Puedes ver la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20de%20Essaouira%2C%20Marruecos).

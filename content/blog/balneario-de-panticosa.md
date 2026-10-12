@@ -86,6 +86,8 @@ Así se vive una tarde de termas en plena alta montaña 👇
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Balneario de Panticosa</h2></div>
 <div class="guide__howto"><p>Está en el Valle de Tena, con <strong>carretera directa desde el pueblo de Panticosa</strong> (unos 8 km) y <strong>aparcamiento gratuito</strong> en el propio complejo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Balneario+de+Panticosa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Balneario de Panticosa en Google Maps</a></div></div>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>He estado en otoño y en primavera, todavía con nieve, y cada vez parece un sitio distinto. En otoño los colores del bosque son increíbles; en primavera las cascadas bajan con muchísima agua.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve después de una ruta</b> — las termas sientan de maravilla con las piernas cansadas.</li><li><b>Lleva gorro y chanclas</b> — te ahorras comprarlos allí.</li><li><b>Da un paseo por el lago</b> — antes o después del spa: el entorno es gratis y precioso.</li><li><b>En invierno</b> — combínalo con un día de esquí en Formigal o Panticosa.</li></ul><p>Termas a más de 1.600 metros con picos alrededor: difícil encontrar un sitio mejor para desconectar 🧖</p></div>
 
 <!--faq-->

@@ -73,6 +73,8 @@ Por el camino se hacen paradas en **miradores naturales** de la serranía, perfe
 - **Pantalón largo**, aunque sea verano.
 - En invierno, **guantes** y algo de abrigo: en el quad se nota el frío del aire.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Es un plan genial para meterte entre pinares y caminos a los que no llegarías de otra forma. Ve con ropa que se pueda manchar: el polvo es inevitable.</p></div>
+
 ## Cuándo ir
 
 Se puede hacer **todo el año**. En **primavera y otoño** el monte está precioso y la temperatura es perfecta. Después de llover hay más charcos, más barro y más diversión. En verano, mejor a primera hora o por la tarde.
