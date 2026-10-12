@@ -7,7 +7,7 @@ provincia: Ciudad Real
 lat: 39.1360
 lng: -3.6990
 excerpt: 'Parque Nacional de las Tablas de Daimiel: los itinerarios de la Isla del Pan, Laguna Permanente y Prado Ancho, qué aves ver, el estado del agua, el incendio de turba y cómo visitarlo gratis.'
-cover: /assets/img/blog/tablas-de-daimiel/portada.jpg
+cover: /assets/img/blog/tablas-de-daimiel/portada.webp
 tags:
   - Spots
   - Castilla-La Mancha
@@ -52,22 +52,22 @@ Te cuento cómo es la visita, los tres itinerarios, qué aves ver, cuándo ir pa
 <div class="guide__head"><span class="eyebrow">La visita</span><h2>Los itinerarios del parque</h2></div>
 <p>Todos salen del <strong>centro de visitantes</strong> y están señalizados por colores. Se recorren por caminos y <strong>pasarelas de madera</strong> sobre el agua, con observatorios de aves:</p>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tablas-de-daimiel/pasarela.jpg" alt="Pasarela de madera sobre las lagunas de las Tablas de Daimiel" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Isla del Pan</h3><p>El más popular: unos <strong>2 km</strong> circulares, de una hora a hora y media, con pasarelas que cruzan entre cinco islas. Es el más bonito y el imprescindible.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tablas-de-daimiel/carrizo.jpg" alt="Carrizal junto al agua en las Tablas de Daimiel" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Laguna Permanente</h3><p>El más corto, de unos <strong>800 metros</strong>, hasta una laguna que suele tener agua todo el año, con observatorios para ver aves acuáticas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tablas-de-daimiel/observatorio.jpg" alt="Observatorio de aves sobre las Tablas de Daimiel" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Torre de Prado Ancho</h3><p>Unos <strong>1,5 km</strong> bordeando las tablas centrales, con cuatro observatorios y una torre desde la que se domina el humedal.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tablas-de-daimiel/pasarela.webp" alt="Pasarela de madera sobre las lagunas de las Tablas de Daimiel" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Isla del Pan</h3><p>El más popular: unos <strong>2 km</strong> circulares, de una hora a hora y media, con pasarelas que cruzan entre cinco islas. Es el más bonito y el imprescindible.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tablas-de-daimiel/carrizo.webp" alt="Carrizal junto al agua en las Tablas de Daimiel" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Laguna Permanente</h3><p>El más corto, de unos <strong>800 metros</strong>, hasta una laguna que suele tener agua todo el año, con observatorios para ver aves acuáticas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tablas-de-daimiel/observatorio.webp" alt="Observatorio de aves sobre las Tablas de Daimiel" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Torre de Prado Ancho</h3><p>Unos <strong>1,5 km</strong> bordeando las tablas centrales, con cuatro observatorios y una torre desde la que se domina el humedal.</p></div></li>
 </ol>
-<p><img src="/assets/img/blog/tablas-de-daimiel/panoramica.jpg" alt="Panorámica de las Tablas de Daimiel con islas y agua" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/tablas-de-daimiel/panoramica.webp" alt="Panorámica de las Tablas de Daimiel con islas y agua" loading="lazy" decoding="async" /></p>
 <div class="guide__howto"><h3>🕒 Horarios y visitas guiadas</h3><p>El centro de visitantes abre todos los días, con horario más amplio en verano (hasta las 21:00) que en invierno (hasta media tarde). El parque ofrece <strong>visitas guiadas gratuitas</strong> con reserva previa por teléfono o en la web de reservas de Parques Nacionales. Consulta el horario vigente y el estado del agua antes de ir.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Fauna</span><h2>Qué aves puedes ver</h2></div>
 <p>El símbolo del parque es el <strong>pato colorado</strong>, con su cabeza naranja. Además, verás <strong>garzas reales e imperiales</strong>, garcillas, martinetes, somormujos, fochas, ánades, el <strong>aguilucho lagunero</strong> sobrevolando el carrizo y colonias de <strong>cigüeñas</strong> en los árboles. En años buenos llegan flamencos, y en invierno, grullas a los campos de alrededor. En 2026, con el agua de los últimos inviernos, se registraron cientos de parejas de pato colorado y hasta la primera cría de flamenco confirmada en la provincia.</p>
-<p><img src="/assets/img/blog/tablas-de-daimiel/ciguenas.jpg" alt="Nidos de cigüeñas en árboles de las Tablas de Daimiel" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/tablas-de-daimiel/ciguenas.webp" alt="Nidos de cigüeñas en árboles de las Tablas de Daimiel" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Cuándo encontrar las Tablas con agua</h2></div>
 <p>La superficie inundada cambia muchísimo: tras inviernos lluviosos puede superar las 1.000 hectáreas, y a final de verano reducirse a una fracción. Las mejores épocas son el <strong>invierno y la primavera</strong>, con más agua y más aves. Los mejores momentos del día, el amanecer y el atardecer, cuando las aves están más activas. En pleno verano, además del calor, hay mosquitos: lleva repelente.</p>
 
 <div class="guide__head"><span class="eyebrow">Cerca</span><h2>El Molino de Molemocho y alrededores</h2></div>
-<p><img src="/assets/img/blog/tablas-de-daimiel/molemocho.jpg" alt="Molino de Molemocho junto a las Tablas de Daimiel" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/tablas-de-daimiel/molemocho.webp" alt="Molino de Molemocho junto a las Tablas de Daimiel" loading="lazy" decoding="async" /></p>
 <p>A la entrada del parque está el <strong>Molino de Molemocho</strong>, un antiguo molino harinero sobre el Guadiana restaurado como centro de interpretación. Y en el pueblo de <strong>Daimiel</strong>, el Museo Comarcal y el Centro de Interpretación del Agua y los Humedales Manchegos.</p>
 <ul>
 <li><strong>Almagro</strong> (a unos 45 km): el corral de comedias del Siglo de Oro. <a href="/blog/almagro-que-ver.html">Qué ver en Almagro</a>.</li>

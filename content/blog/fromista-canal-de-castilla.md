@@ -7,7 +7,7 @@ provincia: Palencia
 lat: 42.2667
 lng: -4.4058
 excerpt: 'Frómista (Palencia): la iglesia románica de San Martín, la esclusa cuádruple del Canal de Castilla, el paseo en el barco Juan de Homar, el camino de sirga en bici y el Camino de Santiago.'
-cover: /assets/img/blog/fromista-canal-de-castilla/portada.jpg
+cover: /assets/img/blog/fromista-canal-de-castilla/portada.webp
 tags:
   - Pueblos
   - Castilla y León
@@ -46,23 +46,23 @@ Te cuento qué ver en San Martín, la historia del canal, cómo navegarlo en bar
 
 <div class="guide__head"><span class="eyebrow">Románico</span><h2>San Martín de Frómista</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/fromista-canal-de-castilla/portada.jpg" alt="Iglesia románica de San Martín de Frómista" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El exterior</h3><p>Una iglesia del siglo XI, de proporciones perfectas, con dos torres cilíndricas en la fachada, un cimborrio octogonal y tres ábsides. Se suele poner como ejemplo del románico «de libro».</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/fromista-canal-de-castilla/canecillos.jpg" alt="Canecillos tallados del alero de San Martín de Frómista" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los canecillos</h3><p>Bajo los aleros hay más de <strong>300 canecillos</strong> tallados: animales, monstruos, músicos, acróbatas y escenas atrevidas. Rodea la iglesia despacio, que tienes para un rato.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/fromista-canal-de-castilla/interior.jpg" alt="Interior románico de San Martín de Frómista" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El interior</h3><p>Desnudo y luminoso, con capiteles historiados con escenas bíblicas y fábulas. Algunos originales están en el Museo de Palencia y aquí se ven copias.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/fromista-canal-de-castilla/portada.webp" alt="Iglesia románica de San Martín de Frómista" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El exterior</h3><p>Una iglesia del siglo XI, de proporciones perfectas, con dos torres cilíndricas en la fachada, un cimborrio octogonal y tres ábsides. Se suele poner como ejemplo del románico «de libro».</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/fromista-canal-de-castilla/canecillos.webp" alt="Canecillos tallados del alero de San Martín de Frómista" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los canecillos</h3><p>Bajo los aleros hay más de <strong>300 canecillos</strong> tallados: animales, monstruos, músicos, acróbatas y escenas atrevidas. Rodea la iglesia despacio, que tienes para un rato.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/fromista-canal-de-castilla/interior.webp" alt="Interior románico de San Martín de Frómista" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El interior</h3><p>Desnudo y luminoso, con capiteles historiados con escenas bíblicas y fábulas. Algunos originales están en el Museo de Palencia y aquí se ven copias.</p></div></li>
 </ol>
 <div class="guide__legend"><h3>🏛️ ¿Restaurada de más?</h3><p>A finales del siglo XIX la iglesia estaba en tan mal estado que se planteó derribarla. Entre 1896 y 1904 se restauró a fondo, eliminando todos los añadidos posteriores para devolverle su aspecto románico «ideal». Por eso parece tan nueva y perfecta, y por eso también hay historiadores que la critican. Sea como sea, el resultado es precioso.</p></div>
 
 <div class="guide__head"><span class="eyebrow">El canal</span><h2>El Canal de Castilla</h2></div>
 <p>En el siglo XVIII, Castilla producía mucho trigo pero no tenía forma barata de sacarlo hasta los puertos del Cantábrico. La solución, ideada en tiempos de Fernando VI, fue construir una red de canales navegables. Las obras empezaron en <strong>1753</strong> y, entre guerras y falta de dinero, no terminaron hasta <strong>1849</strong>. El resultado: unos <strong>207 km</strong> de canal en forma de Y invertida, con tres ramales (Norte, Campos y Sur), decenas de esclusas, acueductos, puentes y fábricas de harina junto al agua.</p>
 <p>Las barcazas eran arrastradas por mulas desde los <strong>caminos de sirga</strong> que corren a los lados. Pero llegó el ferrocarril y el canal quedó obsoleto en pocas décadas. Hoy se usa para regar y es una de las rutas turísticas más bonitas y tranquilas de Castilla.</p>
-<p><img src="/assets/img/blog/fromista-canal-de-castilla/esclusas.jpg" alt="Esclusa cuádruple del Canal de Castilla en Frómista" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/fromista-canal-de-castilla/esclusas.webp" alt="Esclusa cuádruple del Canal de Castilla en Frómista" loading="lazy" decoding="async" /></p>
 <div class="guide__howto"><h3>🔒 La esclusa cuádruple de Frómista</h3><p>A las afueras del pueblo está la única <strong>esclusa cuádruple</strong> de todo el canal: cuatro esclusas encadenadas que salvan un desnivel de unos 14 metros. Es gratis verla y hay paneles que explican cómo funcionaba. Junto a ella está el embarcadero del barco.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Planes</span><h2>Navegar y pedalear el canal</h2></div>
 <div class="guide__howto"><h3>⛴️ El barco Juan de Homar</h3><p>Lleva el nombre del ingeniero que dirigió las obras del canal a finales del siglo XVIII. Sale del embarcadero junto a la esclusa cuádruple y navega hacia <strong>Boadilla del Camino</strong>, en un recorrido de alrededor de <strong>una hora</strong>. Precio orientativo: unos <strong>5 €</strong> adultos, con descuento para niños y peregrinos. Hay que <strong>reservar</strong> por teléfono y suele cerrar algún día entre semana. Consulta horarios en la oficina de turismo de Frómista.</p></div>
-<p><img src="/assets/img/blog/fromista-canal-de-castilla/barco.jpg" alt="Barco turístico Juan de Homar en el Canal de Castilla en Frómista" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/fromista-canal-de-castilla/barco.webp" alt="Barco turístico Juan de Homar en el Canal de Castilla en Frómista" loading="lazy" decoding="async" /></p>
 <div class="guide__howto"><h3>🚲 En bici por el camino de sirga</h3><p>Los caminos de sirga son llanos, sin coches y entre chopos y álamos: perfectos para la bici. Desde Frómista puedes ir hacia <strong>Boadilla</strong> o hacia <strong>Herrera de Pisuerga</strong> y Alar del Rey, el inicio del canal. Por el camino verás esclusas, puentes, aves y antiguas fábricas de harina. En primavera y otoño es una delicia.</p></div>
-<p><img src="/assets/img/blog/fromista-canal-de-castilla/camino-sirga.jpg" alt="Camino de sirga junto al Canal de Castilla entre árboles" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/fromista-canal-de-castilla/camino-sirga.webp" alt="Camino de sirga junto al Canal de Castilla entre árboles" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Camino de Santiago</span><h2>Frómista, parada jacobea</h2></div>
 <p>Frómista es final de etapa del <strong>Camino Francés</strong>, y verás peregrinos por todas partes. Además de San Martín, pasea por la iglesia de <strong>San Pedro</strong> y la de <strong>Santa María del Castillo</strong>, y busca la estatua de <strong>San Telmo</strong>, patrón de los marineros, que nació en Frómista (curioso, un patrón del mar en plena meseta). El pueblo celebra en su honor las fiestas de San Telmo, el lunes de Pascua.</p>
@@ -75,7 +75,7 @@ Te cuento qué ver en San Martín, la historia del canal, cómo navegarlo en bar
 <li><strong>Villalcázar de Sirga</strong> (a 13 km): la iglesia templaria de Santa María la Blanca, enorme para un pueblo tan pequeño.</li>
 <li><strong>Carrión de los Condes</strong> (a 20 km): el friso de Santiago y el monasterio de San Zoilo.</li>
 <li><strong>La villa romana La Olmeda</strong>, con sus mosaicos: <a href="/blog/villa-romana-la-olmeda.html">te la cuento aquí</a>.</li>
-<li><strong>Medina de Rioseco</strong>, donde termina el ramal de Campos del canal, con su dársena y una fábrica de harina visitable.<br /><img src="/assets/img/blog/fromista-canal-de-castilla/darsena-rioseco.jpg" alt="Dársena del Canal de Castilla en Medina de Rioseco" loading="lazy" decoding="async" /></li>
+<li><strong>Medina de Rioseco</strong>, donde termina el ramal de Campos del canal, con su dársena y una fábrica de harina visitable.<br /><img src="/assets/img/blog/fromista-canal-de-castilla/darsena-rioseco.webp" alt="Dársena del Canal de Castilla en Medina de Rioseco" loading="lazy" decoding="async" /></li>
 <li>Y hacia el norte, la Montaña Palentina con <a href="/blog/aguilar-de-campoo-que-ver.html">Aguilar de Campoo</a>.</li>
 </ul>
 
