@@ -7,7 +7,7 @@ provincia: A Coruña
 lat: 42.8805
 lng: -8.5457
 excerpt: 'Qué ver en Santiago de Compostela: la catedral y el Pórtico de la Gloria, cuándo funciona el botafumeiro, la plaza del Obradoiro, las cubiertas, la Rúa do Franco, el Mercado de Abastos y el Año Santo 2027.'
-cover: /assets/img/blog/santiago-de-compostela-que-ver/portada.jpg
+cover: /assets/img/blog/santiago-de-compostela-que-ver/portada.webp
 tags:
   - Spots
   - Galicia
@@ -48,21 +48,21 @@ Te cuento qué ver en la catedral (y qué se paga), cuándo puedes ver volar el 
 <p>Cuenta la tradición que en el siglo IX un ermitaño vio unas luces en un bosque y allí se descubrió la tumba del apóstol <strong>Santiago</strong>. El rey Alfonso II mandó levantar una iglesia y, desde entonces, peregrinos de toda Europa empezaron a caminar hasta aquí: así nació el <strong>Camino de Santiago</strong>. La catedral románica actual se empezó en 1075 y su fachada barroca del Obradoiro es del siglo XVIII. El casco histórico es <strong>Patrimonio de la Humanidad</strong> desde 1985.</p>
 
 <div class="guide__head"><span class="eyebrow">La joya</span><h2>La catedral de Santiago</h2></div>
-<p><img src="/assets/img/blog/santiago-de-compostela-que-ver/vista-ciudad.jpg" alt="Catedral de Santiago de Compostela sobre los tejados de la ciudad" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/santiago-de-compostela-que-ver/vista-ciudad.webp" alt="Catedral de Santiago de Compostela sobre los tejados de la ciudad" loading="lazy" decoding="async" /></p>
 <ul>
 <li><strong>La basílica</strong>: entrada libre y gratuita, normalmente por la fachada de Platerías. Se pide ropa decorosa y no se permiten mochilas grandes. Dentro puedes <strong>abrazar al apóstol</strong> (subiendo por detrás del altar mayor) y bajar a la cripta con su sepulcro.</li>
 <li><strong>El Pórtico de la Gloria</strong>: la obra maestra del Maestro Mateo, de 1188, restaurada recientemente con sus colores originales. Se visita con entrada, en grupos reducidos y con horario: <strong>reserva</strong>.</li>
 <li><strong>Las cubiertas</strong>: una visita guiada por los tejados de piedra de la catedral, con vistas de toda la ciudad. Imprescindible si hace buen tiempo.</li>
 <li><strong>El Museo de la Catedral</strong>: con el claustro, tapices y la biblioteca.</li>
 </ul>
-<p><img src="/assets/img/blog/santiago-de-compostela-que-ver/portico-gloria.jpg" alt="Pantocrátor del Pórtico de la Gloria de la catedral de Santiago" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/santiago-de-compostela-que-ver/portico-gloria.webp" alt="Pantocrátor del Pórtico de la Gloria de la catedral de Santiago" loading="lazy" decoding="async" /></p>
 <div class="guide__legend"><h3>🔥 El botafumeiro</h3><p>Un incensario gigante, de más de 50 kilos, que ocho hombres (los <strong>tiraboleiros</strong>) hacen volar de lado a lado del crucero a toda velocidad, casi rozando el techo. Antiguamente servía para perfumar la catedral llena de peregrinos. Hoy funciona en las <strong>grandes solemnidades</strong> (Reyes, Pascua, Pentecostés, el día de Santiago, Todos los Santos, Navidad…) y cuando un grupo lo solicita y paga, sin anunciarse antes. En 2026 se ha parado temporalmente por obras de restauración en la cúpula de cara al Año Santo: consulta si está funcionando.</p></div>
-<p><img src="/assets/img/blog/santiago-de-compostela-que-ver/botafumeiro.jpg" alt="Botafumeiro colgado en la catedral de Santiago" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/santiago-de-compostela-que-ver/botafumeiro.webp" alt="Botafumeiro colgado en la catedral de Santiago" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>El casco histórico</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/santiago-de-compostela-que-ver/obradoiro.jpg" alt="Plaza del Obradoiro con el Pazo de Raxoi y el Hostal de los Reyes Católicos" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La plaza del Obradoiro</h3><p>La plaza de llegada de los peregrinos, rodeada por la catedral, el <strong>Pazo de Raxoi</strong> (ayuntamiento), el <strong>Hostal de los Reyes Católicos</strong> (antiguo hospital de peregrinos, hoy Parador) y el colegio de San Xerome. Siéntate en el suelo y mira la fachada.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/santiago-de-compostela-que-ver/rua-do-franco.jpg" alt="Rúa do Franco con la catedral al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Rúa do Franco y la Rúa do Vilar</h3><p>Las calles de granito y soportales del casco antiguo, llenas de bares de tapas y tiendas. La Rúa do Franco es la calle de los vinos y el pulpo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/santiago-de-compostela-que-ver/obradoiro.webp" alt="Plaza del Obradoiro con el Pazo de Raxoi y el Hostal de los Reyes Católicos" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La plaza del Obradoiro</h3><p>La plaza de llegada de los peregrinos, rodeada por la catedral, el <strong>Pazo de Raxoi</strong> (ayuntamiento), el <strong>Hostal de los Reyes Católicos</strong> (antiguo hospital de peregrinos, hoy Parador) y el colegio de San Xerome. Siéntate en el suelo y mira la fachada.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/santiago-de-compostela-que-ver/rua-do-franco.webp" alt="Rúa do Franco con la catedral al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Rúa do Franco y la Rúa do Vilar</h3><p>Las calles de granito y soportales del casco antiguo, llenas de bares de tapas y tiendas. La Rúa do Franco es la calle de los vinos y el pulpo.</p></div></li>
 </ol>
 <p>No te pierdas la <strong>plaza de la Quintana</strong>, con la <strong>Puerta Santa</strong>, que solo se abre en los años santos; la <strong>plaza de Platerías</strong>, con su fuente de los caballos; el monasterio de <strong>San Martín Pinario</strong>; y el <strong>Mercado de Abastos</strong>, donde puedes comprar marisco y que te lo cocinen en el bar de al lado.</p>
 
