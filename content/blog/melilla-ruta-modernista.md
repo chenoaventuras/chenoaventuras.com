@@ -3,6 +3,7 @@ title: 'Ruta modernista de Melilla: el Triángulo de Oro de Enrique Nieto, edifi
 seoTitle: 'Ruta modernista de Melilla: edificios y recorrido'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Melilla'
+provincia: Melilla
 lat: 35.2930
 lng: -2.9410
 excerpt: 'Ruta a pie por el ensanche modernista de Melilla: la Plaza de España y el Palacio de la Asamblea, la Casa Melul, el antiguo Economato Militar, La Reconquista, el Triángulo de Oro y la historia de Enrique Nieto, el arquitecto que llenó la ciudad de fachadas modernistas.'
