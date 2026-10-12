@@ -86,6 +86,8 @@ El recinto tiene **caminos adaptados**, y los niños lo disfrutan muchísimo: ha
 
 <!--actividades-->
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Si vas un día de calor, tranquilo: hay fuentes y aguadores para refrescarte, y se puede entrar con comida sin problema. De todos los espectáculos, El Espadero de Vivar es sin duda uno de mis favoritos.</p></div>
+
 ## Cómo llegar
 
 Puy du Fou España está a unos **10 minutos de Toledo** y a alrededor de **1 hora de Madrid** por la A-42 o la AP-41. Tiene **aparcamiento** propio. Puedes ver la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Puy%20du%20Fou%20Espa%C3%B1a%2C%20Toledo).

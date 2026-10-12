@@ -69,6 +69,8 @@ Te lo enseño en vídeo 👇
 
 <div class="article__callout article__callout--warning">⚠️ <strong>Aviso:</strong> actualmente esta actividad está paralizada. Antes de organizar tu visita, confirma la disponibilidad directamente con la asociación Fondo Amigos del Buitre.</div>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>De camino al muladar ya empiezas a verlos sobrevolarte: buitres leonados, alimoches y, con suerte, quebrantahuesos. Si alguno se acerca mucho, no intentes tocarlo: no es peligroso, pero hay que respetarlos.</p></div>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te vas al Pirineo?</h2><p>En mi guía completa tienes los pueblos, rutas, cascadas e ibones del Pirineo Aragonés, zona por zona.</p><a class="btn guide__btn" href="/blog/pirineo-aragones-que-ver.html">Ver la guía del Pirineo</a><a class="btn btn--ghost guide__dl guide__dl--cta" href="#guia-gratis">📱 Recibir la guía PDF</a><p class="guide__follow">Y si te gustan estos planes, sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>.</p></div>

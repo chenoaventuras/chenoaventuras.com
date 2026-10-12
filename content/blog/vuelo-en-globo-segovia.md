@@ -94,6 +94,8 @@ Se vuela **todo el año**, pero de **primavera a otoño** el tiempo es más esta
 
 <!--actividades-->
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Volar en globo sobre Segovia, con el Alcázar justo debajo, es de esas experiencias que recuerdas siempre. Yo creía que se notaría mucho más el movimiento, pero nada: literalmente vas como en una nube.</p></div>
+
 ## Cómo llegar al punto de encuentro
 
 El punto de encuentro suele estar en las afueras de Segovia (en mi caso, frente al hospital), y la empresa te da la ubicación exacta al reservar. Desde **Madrid** son unos **50 minutos** en coche por la AP-6 o la AP-61, o 30 minutos en **AVE** hasta Segovia-Guiomar, aunque a la hora del vuelo no hay trenes: lo más práctico es **dormir en Segovia** la noche antes.

@@ -77,6 +77,8 @@ Pasear por el pueblo, el museo y buena parte de la muralla es gratuito. Si quier
 
 <!--actividades-->
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Es uno de mis pueblos favoritos de Madrid. Fíjate en el reflejo de la muralla en el río Lozoya: en un día sin viento parece un espejo y es la mejor foto del pueblo.</p></div>
+
 ## Cómo llegar a Buitrago del Lozoya
 
 Buitrago del Lozoya tiene fácil acceso en coche desde Madrid capital, en aproximadamente una hora, con aparcamientos señalizados a la entrada del pueblo. Puedes consultar la ruta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Buitrago%20del%20Lozoya%2C%20Madrid).

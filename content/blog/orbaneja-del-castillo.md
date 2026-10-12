@@ -70,6 +70,8 @@ Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cóm
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Orbaneja del Castillo</h2></div>
 <div class="guide__howto"><p>Desde <strong>Burgos</strong> se tarda algo más de una hora en coche, en dirección a Santander. Desde <strong>Santander</strong>, en torno a hora y media.</p><p>Hay aparcamiento a la entrada del pueblo, junto a la carretera. Los fines de semana de primavera y otoño se llena: mejor ir temprano.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Orbaneja+del+Castillo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Mi consejo: quédate hasta el atardecer. Cuando se encienden las luces del pueblo y la cascada sigue bajando entre las casas, es de las estampas más bonitas de Burgos.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve después de llover</b>: la cascada es mucho más espectacular con caudal.</li><li><b>Sube a las rocas</b>: la senda hasta las peñas da las mejores vistas del cañón.</li><li><b>Calzado con agarre</b>: las piedras junto al agua resbalan.</li><li><b>Combínalo con Las Merindades</b>: Frías, Puentedey o el Monumento Natural de Ojo Guareña están en la misma zona.</li></ul></div>
 
 <!--faq-->
