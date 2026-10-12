@@ -7,7 +7,7 @@ provincia: Islas Baleares
 lat: 38.8670
 lng: 1.2000
 excerpt: 'Es Vedrà (Ibiza): el islote de 382 metros, sus leyendas de magnetismo y luces, el mirador y la Torre des Savinar, Cala d''Hort, Sa Pedrera (Atlantis) con precaución y el mejor atardecer.'
-cover: /assets/img/blog/es-vedra-ibiza/portada.jpg
+cover: /assets/img/blog/es-vedra-ibiza/portada.webp
 tags:
   - Spots
   - Islas Baleares
@@ -46,7 +46,7 @@ Te cuento sus leyendas (las reales y las inventadas), los mejores miradores, có
 
 <div class="guide__head"><span class="eyebrow">La isla</span><h2>Una reserva natural que no se puede pisar</h2></div>
 <p>Es Vedrà mide unos <strong>382 metros</strong> de altura y tiene al lado un islote más pequeño, <strong>Es Vedranell</strong>. Desde 2002 forman parte de las <strong>Reservas Naturales des Vedrà, es Vedranell i els Illots de Ponent</strong>, y no se puede desembarcar sin autorización. El motivo no es ningún secreto: allí anidan colonias de aves marinas como el halcón de Eleonora, y viven especies de plantas y lagartijas únicas.</p>
-<p><img src="/assets/img/blog/es-vedra-ibiza/aerea.jpg" alt="Vista aérea de Es Vedrà y Es Vedranell en el mar" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/es-vedra-ibiza/aerea.webp" alt="Vista aérea de Es Vedrà y Es Vedranell en el mar" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Leyendas</span><h2>Las leyendas de Es Vedrà</h2></div>
 <p>Pocas rocas tienen tantas historias encima:</p>
@@ -60,14 +60,14 @@ Te cuento sus leyendas (las reales y las inventadas), los mejores miradores, có
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Los mejores miradores</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/mirador.jpg" alt="Es Vedrà desde el mirador de los acantilados" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El mirador de Es Vedrà</h3><p>Junto a la carretera que baja a Cala d'Hort, un mirador sobre los acantilados con el islote enfrente. Al atardecer se llena de gente.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/torre-savinar.jpg" alt="Torre des Savinar con Es Vedrà al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Torre des Savinar</h3><p>La «torre del pirata», una torre de vigilancia del siglo XVIII. Se llega en unos <strong>10 minutos</strong> cuesta arriba desde el mirador, y las vistas de Es Vedrà desde aquí son las mejores.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/desde-cala-dhort.jpg" alt="Es Vedrà visto desde la orilla de Cala d'Hort" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Desde Cala d'Hort</h3><p>Desde la propia playa, con los pies en el agua y el islote al frente. Perfecto para el baño de última hora.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/mirador.webp" alt="Es Vedrà desde el mirador de los acantilados" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El mirador de Es Vedrà</h3><p>Junto a la carretera que baja a Cala d'Hort, un mirador sobre los acantilados con el islote enfrente. Al atardecer se llena de gente.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/torre-savinar.webp" alt="Torre des Savinar con Es Vedrà al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Torre des Savinar</h3><p>La «torre del pirata», una torre de vigilancia del siglo XVIII. Se llega en unos <strong>10 minutos</strong> cuesta arriba desde el mirador, y las vistas de Es Vedrà desde aquí son las mejores.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/desde-cala-dhort.webp" alt="Es Vedrà visto desde la orilla de Cala d'Hort" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Desde Cala d'Hort</h3><p>Desde la propia playa, con los pies en el agua y el islote al frente. Perfecto para el baño de última hora.</p></div></li>
 </ol>
-<p><img src="/assets/img/blog/es-vedra-ibiza/contraluz.jpg" alt="Es Vedrà a contraluz con el sol reflejado en el mar" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/es-vedra-ibiza/contraluz.webp" alt="Es Vedrà a contraluz con el sol reflejado en el mar" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Playa</span><h2>Cala d'Hort</h2></div>
-<p><img src="/assets/img/blog/es-vedra-ibiza/cala-dhort.jpg" alt="Cala d'Hort con agua turquesa en Ibiza" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/es-vedra-ibiza/cala-dhort.webp" alt="Cala d'Hort con agua turquesa en Ibiza" loading="lazy" decoding="async" /></p>
 <p>Una cala de arena y cantos con agua cristalina y Es Vedrà enfrente: de las playas más fotogénicas de Ibiza. Tiene restaurantes de pescado y paella con terraza sobre el mar, hamacas y aparcamiento (que en verano se llena pronto). Es el punto de partida perfecto para la tarde.</p>
 
 <div class="guide__head"><span class="eyebrow">Con cuidado</span><h2>Sa Pedrera (Atlantis)</h2></div>

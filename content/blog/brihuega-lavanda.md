@@ -7,7 +7,7 @@ provincia: Guadalajara
 lat: 40.7610
 lng: -2.8700
 excerpt: 'Campos de lavanda de Brihuega (Guadalajara): cuándo florecen, dónde verlos gratis, el Festival de la Lavanda, consejos para las fotos y qué ver en el pueblo: cuevas árabes, murallas y la Real Fábrica.'
-cover: /assets/img/blog/brihuega-lavanda/portada.jpg
+cover: /assets/img/blog/brihuega-lavanda/portada.webp
 tags:
   - Spots
   - Castilla-La Mancha
@@ -45,11 +45,11 @@ Te cuento cuándo ir para pillar la floración, dónde ver los campos, cómo sac
 </div>
 
 <div class="guide__head"><span class="eyebrow">La lavanda</span><h2>Los campos de lavanda</h2></div>
-<p><img src="/assets/img/blog/brihuega-lavanda/campo.jpg" alt="Hileras de lavanda en flor en Brihuega con dos árboles al fondo" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/brihuega-lavanda/campo.webp" alt="Hileras de lavanda en flor en Brihuega con dos árboles al fondo" loading="lazy" decoding="async" /></p>
 <p>Lo que se cultiva en Brihuega es sobre todo <strong>lavandín</strong>, una variedad híbrida de lavanda muy aromática que se usa para extraer aceite esencial para perfumes y cosmética. Según cuentan en el pueblo, el cultivo llegó hace unas décadas de la mano de un agricultor que lo había visto en la Provenza francesa, y el suelo y el clima de la Alcarria resultaron perfectos. Hoy supera las <strong>mil hectáreas</strong> en el término municipal.</p>
 <div class="guide__howto"><h3>📍 Dónde verlos</h3><p>Los campos rodean el pueblo, sobre todo en la meseta que hay por encima. Las zonas más fotografiadas están junto a la <strong>CM-2005</strong> en dirección a Masegoso de Tajuña y en los <strong>Campos de la Batalla</strong>, donde se celebra el festival. Necesitas coche: deja el vehículo en ensanches o caminos sin bloquear el paso de los tractores y camina por los bordes.</p></div>
 <div class="guide__howto"><h3>⚠️ Normas no escritas (pero importantes)</h3><ul><li><b>Son fincas privadas</b>: los agricultores viven de ellas. No pises las plantas, no te tumbes entre las hileras y no cortes ramas.</li><li><b>Cuidado con las abejas</b>: durante la floración hay miles. No las molestes y si tienes alergia, lleva tu medicación.</li><li><b>Evita el mediodía</b>: en julio hace mucho calor en la meseta. Lleva agua, gorra y protección solar.</li><li><b>Respeta los drones y la normativa</b>: muchas zonas tienen restricciones; infórmate antes.</li></ul></div>
-<p><img src="/assets/img/blog/brihuega-lavanda/flor.jpg" alt="Flores de lavanda de cerca en Brihuega" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/brihuega-lavanda/flor.webp" alt="Flores de lavanda de cerca en Brihuega" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Fotos</span><h2>Consejos para las mejores fotos</h2></div>
 <ul>
@@ -64,10 +64,10 @@ Te cuento cuándo ir para pillar la floración, dónde ver los campos, cómo sac
 
 <div class="guide__head"><span class="eyebrow">El pueblo</span><h2>Qué ver en Brihuega</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/brihuega-lavanda/muralla.jpg" alt="Muralla y torre de Brihuega" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las murallas y la Puerta de la Cadena</h3><p>Brihuega conserva buena parte de su muralla medieval, con la <strong>Puerta de la Cadena</strong> y el Arco de Cozagón. Pasea por la ronda para ver el valle.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/brihuega-lavanda/real-fabrica.jpg" alt="Portada de la Real Fábrica de Paños de Brihuega" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Real Fábrica de Paños</h3><p>Una fábrica del siglo XVIII de <strong>planta circular</strong>, mandada construir por la Corona. Sus <strong>jardines románticos</strong>, con setos de boj y una galería de cipreses sobre el valle del Tajuña, son de los más bonitos de Castilla.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/brihuega-lavanda/paraguas.jpg" alt="Calle de Brihuega decorada con paraguas morados" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las calles en julio</h3><p>Durante la temporada de la lavanda, algunas calles se decoran con <strong>paraguas morados</strong> y las tiendas venden jabones, aceites y saquitos de lavanda.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/brihuega-lavanda/pueblo.jpg" alt="Tejados de Brihuega con la Alcarria al fondo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El castillo y Santa María de la Peña</h3><p>En lo alto, el castillo de <strong>Piedra Bermeja</strong> y la iglesia de <strong>Santa María de la Peña</strong>, de transición del románico al gótico, con vistas sobre el valle.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/brihuega-lavanda/muralla.webp" alt="Muralla y torre de Brihuega" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las murallas y la Puerta de la Cadena</h3><p>Brihuega conserva buena parte de su muralla medieval, con la <strong>Puerta de la Cadena</strong> y el Arco de Cozagón. Pasea por la ronda para ver el valle.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/brihuega-lavanda/real-fabrica.webp" alt="Portada de la Real Fábrica de Paños de Brihuega" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Real Fábrica de Paños</h3><p>Una fábrica del siglo XVIII de <strong>planta circular</strong>, mandada construir por la Corona. Sus <strong>jardines románticos</strong>, con setos de boj y una galería de cipreses sobre el valle del Tajuña, son de los más bonitos de Castilla.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/brihuega-lavanda/paraguas.webp" alt="Calle de Brihuega decorada con paraguas morados" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las calles en julio</h3><p>Durante la temporada de la lavanda, algunas calles se decoran con <strong>paraguas morados</strong> y las tiendas venden jabones, aceites y saquitos de lavanda.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/brihuega-lavanda/pueblo.webp" alt="Tejados de Brihuega con la Alcarria al fondo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El castillo y Santa María de la Peña</h3><p>En lo alto, el castillo de <strong>Piedra Bermeja</strong> y la iglesia de <strong>Santa María de la Peña</strong>, de transición del románico al gótico, con vistas sobre el valle.</p></div></li>
 </ol>
 <div class="guide__legend"><h3>🕳️ Las Cuevas Árabes</h3><p>Bajo el pueblo hay un laberinto de galerías excavadas en la roca, que la tradición atribuye a época musulmana y que se usaron durante siglos como bodegas y despensas. Se visitan unos <strong>700 metros</strong>, con entrada barata desde la plaza del Coso. Dentro la temperatura es fresca todo el año: perfecto en pleno julio. Son de gestión privada, así que consulta horarios y reserva.</p></div>
 
