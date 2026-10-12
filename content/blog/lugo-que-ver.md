@@ -7,7 +7,7 @@ provincia: Lugo
 lat: 43.0097
 lng: -7.5560
 excerpt: 'Qué ver en Lugo: pasear gratis por su muralla romana completa, la catedral, la Praza Maior, el puente romano, las tapas gratis con cada vino, el Arde Lucus y San Froilán.'
-cover: /assets/img/blog/lugo-que-ver/portada.jpg
+cover: /assets/img/blog/lugo-que-ver/portada.webp
 tags:
   - Spots
   - Galicia
@@ -45,18 +45,18 @@ Te cuento qué ver en Lugo, cómo recorrer la muralla, dónde tapear, sus fiesta
 </div>
 
 <div class="guide__head"><span class="eyebrow">La joya</span><h2>La muralla romana de Lugo</h2></div>
-<p><img src="/assets/img/blog/lugo-que-ver/muralla.jpg" alt="Torres de la muralla romana de Lugo" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/lugo-que-ver/muralla.webp" alt="Torres de la muralla romana de Lugo" loading="lazy" decoding="async" /></p>
 <p>Los romanos fundaron aquí <strong>Lucus Augusti</strong> hacia el año 15 antes de Cristo, y a finales del <strong>siglo III</strong>, ante la amenaza de invasiones, la rodearon con una muralla formidable: más de <strong>2 kilómetros</strong> de perímetro, entre <strong>8 y 12 metros</strong> de altura y muros de varios metros de grosor. Tuvo <strong>85 torres</strong>, de las que se conservan <strong>71</strong>, y hoy tiene <strong>10 puertas</strong>, cinco antiguas y cinco abiertas en épocas posteriores.</p>
 <p>Lo increíble es que, mientras casi todas las murallas romanas se derribaron para que las ciudades crecieran, la de Lugo se mantuvo entera. En el año <strong>2000</strong> fue declarada <strong>Patrimonio de la Humanidad</strong>.</p>
 <div class="guide__howto"><h3>🚶 Cómo recorrerla</h3><p>El paseo de ronda, el <strong>adarve</strong>, es ancho, llano y <strong>totalmente público</strong>: se sube por escaleras y rampas junto a varias puertas. La vuelta completa son algo más de 2 km, unos 40 minutos sin prisa. Hazla por la mañana y repite de noche, con las torres iluminadas. Junto a la Porta de Santiago hay un <strong>centro de interpretación</strong> que explica su historia.</p></div>
-<p><img src="/assets/img/blog/lugo-que-ver/adarve.jpg" alt="Paseo de ronda sobre la muralla de Lugo" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/lugo-que-ver/adarve.webp" alt="Paseo de ronda sobre la muralla de Lugo" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Lugo</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lugo-que-ver/portada.jpg" alt="Porta de Santiago de la muralla de Lugo con las torres de la catedral" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Porta de Santiago</h3><p>Una de las puertas más bonitas, con las torres de la catedral asomando por encima. Por aquí pasan los peregrinos del <strong>Camino Primitivo</strong>.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lugo-que-ver/catedral.jpg" alt="Catedral de Santa María de Lugo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La catedral</h3><p>Románica en su origen, con añadidos góticos, barrocos y neoclásicos. Tiene el privilegio de la <strong>exposición permanente del Santísimo</strong>, por eso en el escudo de Lugo aparece una custodia.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lugo-que-ver/praza.jpg" alt="Praza Maior de Lugo con el ayuntamiento" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Praza Maior</h3><p>La gran plaza de la ciudad, con jardines y el <strong>ayuntamiento barroco</strong> del siglo XVIII. Alrededor tienes la Rúa Nova y la Praza do Campo, el corazón del tapeo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lugo-que-ver/ponte-romana.jpg" alt="Puente romano sobre el río Miño en Lugo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El puente romano y el Miño</h3><p>Baja hasta el río para ver el <strong>puente romano</strong>, muy reformado pero de origen antiguo, y pasea por la orilla del Miño. Junto al puente están las <strong>termas romanas</strong>, dentro del balneario.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lugo-que-ver/portada.webp" alt="Porta de Santiago de la muralla de Lugo con las torres de la catedral" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Porta de Santiago</h3><p>Una de las puertas más bonitas, con las torres de la catedral asomando por encima. Por aquí pasan los peregrinos del <strong>Camino Primitivo</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lugo-que-ver/catedral.webp" alt="Catedral de Santa María de Lugo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La catedral</h3><p>Románica en su origen, con añadidos góticos, barrocos y neoclásicos. Tiene el privilegio de la <strong>exposición permanente del Santísimo</strong>, por eso en el escudo de Lugo aparece una custodia.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lugo-que-ver/praza.webp" alt="Praza Maior de Lugo con el ayuntamiento" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Praza Maior</h3><p>La gran plaza de la ciudad, con jardines y el <strong>ayuntamiento barroco</strong> del siglo XVIII. Alrededor tienes la Rúa Nova y la Praza do Campo, el corazón del tapeo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lugo-que-ver/ponte-romana.webp" alt="Puente romano sobre el río Miño en Lugo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El puente romano y el Miño</h3><p>Baja hasta el río para ver el <strong>puente romano</strong>, muy reformado pero de origen antiguo, y pasea por la orilla del Miño. Junto al puente están las <strong>termas romanas</strong>, dentro del balneario.</p></div></li>
 </ol>
 <p>Además, merece la pena entrar en la <strong>Casa dos Mosaicos</strong> (una domus romana con mosaicos bajo un edificio moderno), el <strong>Museo Provincial</strong>, en el antiguo convento de San Francisco, y el <strong>Centro Arqueolóxico de San Roque</strong>. Y pasea por la <strong>Rúa Nova</strong>, la <strong>Praza do Campo</strong> con su fuente y la <strong>Praza de Santo Domingo</strong>.</p>
 
@@ -65,7 +65,7 @@ Te cuento qué ver en Lugo, cómo recorrer la muralla, dónde tapear, sus fiesta
 <p>No te vayas sin probar el <strong>pulpo á feira</strong>, el <strong>caldo gallego</strong>, el <strong>lacón con grelos</strong>, el <strong>queso de San Simón</strong> o de Arzúa-Ulloa, y un vino de la <strong>Ribeira Sacra</strong>, que se produce en la misma provincia.</p>
 
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Arde Lucus y San Froilán</h2></div>
-<p><img src="/assets/img/blog/lugo-que-ver/arde-lucus.jpg" alt="Personas vestidas de romanos en la fiesta del Arde Lucus de Lugo" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/lugo-que-ver/arde-lucus.webp" alt="Personas vestidas de romanos en la fiesta del Arde Lucus de Lugo" loading="lazy" decoding="async" /></p>
 <div class="guide__howto"><p><strong>Arde Lucus (junio):</strong> durante un fin de semana largo, Lugo vuelve a ser <em>Lucus Augusti</em>. Miles de vecinos se visten de romanos y castreños, hay mercado, campamentos, desfiles de legiones, bodas romanas y un circo con carreras y gladiadores. En 2027 está previsto del 18 al 21 de junio.</p><p><strong>San Froilán (4 al 12 de octubre):</strong> las fiestas grandes de la ciudad. El símbolo son las <strong>casetas del pulpo</strong> en el parque Rosalía de Castro, donde se come pulpo á feira en mesas corridas. También hay feria medieval junto a la muralla y la <strong>Mostra de Música Tradicional</strong>.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Lugo y dónde aparcar</h2></div>
