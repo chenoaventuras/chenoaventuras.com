@@ -30,8 +30,8 @@ faq:
     a: "Suele celebrarse a finales del invierno o al comienzo de la primavera. Es la feria de apicultura más antigua de España, con miel de la Alcarria, productores y talleres. Comprueba las fechas de cada año."
   - q: "¿Qué ver cerca de Pastrana?"
     a: "Brihuega y sus campos de lavanda, Sigüenza y los pueblos negros de Guadalajara, además de los embalses de Entrepeñas y Buendía, el llamado mar de Castilla."
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+guia: /assets/guias/guia-guadalajara-chenoaventuras.pdf
+guiaTitulo: 'Guía Guadalajara en PDF'
 ---
 Un palacio renacentista donde una princesa con parche en el ojo pasó sus últimos años presa por orden del rey, una plaza que debe su nombre a esa historia y unos tapices góticos que muchos museos querrían para sí. **Pastrana**, en plena **Alcarria** de Guadalajara, es una villa ducal de calles de piedra con más historia que muchas ciudades.
 

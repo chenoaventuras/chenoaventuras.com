@@ -30,8 +30,8 @@ faq:
     a: "En la segunda quincena de julio, en torno a Santiago (25 de julio): regatas, conciertos, feria taurina y fuegos artificiales."
   - q: "¿Qué ver cerca de Santander?"
     a: "Santillana del Mar, Comillas y el Capricho de Gaudí, el parque de Cabárceno, el teleférico de Fuente Dé y las cuevas prehistóricas de la región."
-guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria en PDF'
 ---
 Una bahía considerada de las más bonitas del mundo, un palacio inglés en una península verde donde veraneaba el rey, playas de arena fina con un gran casino y un centro de arte que flota sobre el mar. **Santander** es la ciudad elegante del Cantábrico, con un pasado de balneario real y un presente muy apetecible.
 

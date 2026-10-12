@@ -30,6 +30,8 @@ faq:
     a: "Berceo, nacido en el pueblo vecino de Berceo en el siglo XII, estuvo vinculado al monasterio y es el primer poeta en castellano de nombre conocido. Escribió, entre otras obras, una vida de San Millán."
   - q: "¿Qué ver cerca de San Millán de la Cogolla?"
     a: "Ezcaray y la sierra de la Demanda, Santo Domingo de la Calzada en el Camino de Santiago, Nájera y las bodegas de Haro."
+guia: /assets/guias/guia-la-rioja-chenoaventuras.pdf
+guiaTitulo: 'Guía La Rioja en PDF'
 ---
 Dos monasterios en un valle verde de La Rioja, uno pequeño y austero pegado a unas cuevas, otro enorme y monumental en el fondo del valle. Y en ellos, un pequeño milagro de la historia: las primeras palabras escritas en una lengua que hoy hablan cientos de millones de personas. **San Millán de la Cogolla** es la llamada **cuna del castellano** y uno de los lugares más especiales del norte de España.
 

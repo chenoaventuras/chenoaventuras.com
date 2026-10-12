@@ -30,8 +30,8 @@ faq:
     a: "Es un monasterio de monjas dominicas a las afueras del casco antiguo, con un museo que guarda el sepulcro de alabastro de la reina Beatriz de Portugal."
   - q: "¿A qué distancia está Toro de Zamora?"
     a: "A unos 33 km, menos de media hora en coche por la A-11. Valladolid está a unos 60 km."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-zamora-chenoaventuras.pdf
+guiaTitulo: 'Guía Zamora en PDF'
 ---
 Una colegiata románica con un cimborrio que parece una corona, un pórtico gótico que todavía conserva sus colores de hace siete siglos y un balcón natural colgado sobre la vega del Duero. **Toro**, en la provincia de **Zamora**, es una ciudad monumental llena de iglesias, historia y bodegas, famosa por su vino tinto.
 

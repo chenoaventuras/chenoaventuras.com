@@ -30,8 +30,8 @@ faq:
     a: "Abre todos los días, con horario más largo en verano (hasta las 21:00) que en invierno (hasta media tarde). Consulta el horario vigente antes de ir."
   - q: "¿Qué ver cerca de las Tablas de Daimiel?"
     a: "Almagro y su corral de comedias, el castillo de Calatrava la Nueva, las Lagunas de Ruidera y el Molino de Molemocho, junto al propio parque."
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+guia: /assets/guias/guia-ciudad-real-chenoaventuras.pdf
+guiaTitulo: 'Guía Ciudad Real en PDF'
 ---
 En mitad de La Mancha, entre viñedos y llanuras secas, hay un laberinto de agua, carrizos e islas por el que caminas sobre pasarelas de madera mientras las garzas despegan a tu lado. Las **Tablas de Daimiel** son uno de los humedales más especiales de Europa, y también uno de los más frágiles: hace pocos años, su suelo llegó a arder por dentro.
 

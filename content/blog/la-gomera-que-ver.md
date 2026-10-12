@@ -29,8 +29,6 @@ actividades:
     u: "https://www.civitatis.com/es/valle-gran-rey/paseo-barco-organos-oeste-gomera/"
   - t: "Senderismo por el Parque Nacional de Garajonay"
     u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/senderismo-parque-garajonay/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
 comer:
   - n: "Bar Restaurante Los Leones"
     r: 4.6
@@ -48,6 +46,8 @@ comer:
     t: "Restaurante de alta cocina"
     d: "C. Lomo del Clavo, 188 (San Sebastián)"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-la-gomera-chenoaventuras.pdf
+guiaTitulo: 'Guía La Gomera en PDF'
 ---
 Un bosque húmedo y lleno de musgo que parece sacado de un cuento, barrancos enormes, pueblos colgados en terrazas y un idioma silbado que se oye de un lado a otro del valle. **La Gomera** es la isla más verde y montañosa de Canarias.
 

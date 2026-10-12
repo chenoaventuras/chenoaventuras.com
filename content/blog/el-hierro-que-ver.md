@@ -25,8 +25,6 @@ faq:
 actividades:
   - t: "Free tour por Valverde"
     u: "https://www.civitatis.com/es/valverde/free-tour-valverde/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
 comer:
   - n: "Pizzería El Horno de Merese"
     r: 4.7
@@ -44,6 +42,8 @@ comer:
     t: "Restaurante familiar"
     d: "Cam. Merese, 45"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-el-hierro-chenoaventuras.pdf
+guiaTitulo: 'Guía El Hierro en PDF'
 ---
 Sin grandes hoteles, sin colas y con paisajes que parecen de otro planeta. **El Hierro** es la isla más pequeña y occidental de Canarias, y durante siglos fue el **fin del mundo conocido**: por aquí pasaba el meridiano cero.
 

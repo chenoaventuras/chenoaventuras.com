@@ -32,6 +32,8 @@ actividades:
     u: "https://www.civitatis.com/es/arguedas/tour-4x4-bardenas-reales/"
   - t: "Tour en buggy por las Bardenas Reales desde Tudela"
     u: "https://www.civitatis.com/es/tudela/tour-buggy-bardenas-reales/"
+guia: /assets/guias/guia-navarra-chenoaventuras.pdf
+guiaTitulo: 'Guía Navarra en PDF'
 ---
 Llanuras de arcilla agrietada, cabezos que parecen mesas gigantes y una chimenea de roca en equilibrio imposible. Las **Bardenas Reales** son un paisaje semidesértico en pleno sur de Navarra, tan marciano que lo han usado de plató **Juego de Tronos** y hasta una película de James Bond.
 

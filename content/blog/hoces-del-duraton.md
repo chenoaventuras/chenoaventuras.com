@@ -28,8 +28,6 @@ faq:
 actividades:
   - t: "Alquiler de kayak en las Hoces del Duratón"
     u: "https://www.civitatis.com/es/san-miguel-de-bernuy/alquiler-kayak-hoces-duraton/"
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
 comer:
   - n: "Asador El Alcaudón"
     r: 4.7
@@ -46,6 +44,8 @@ comer:
     o: 341
     d: "Agregado Burgomillodo, 2"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-segovia-chenoaventuras.pdf
+guiaTitulo: 'Guía Segovia en PDF'
 ---
 Un río que serpentea en curvas imposibles al fondo de un cañón, cientos de **buitres** planeando a la altura de tus ojos y, en lo alto de un meandro, las ruinas de un priorato románico al borde del precipicio. Así son las **Hoces del Duratón**.
 

@@ -29,8 +29,6 @@ actividades:
     u: "https://www.civitatis.com/es/merida/visita-teatro-anfiteatro/"
   - t: "Tour de los misterios y leyendas de Mérida"
     u: "https://www.civitatis.com/es/merida/tour-misterios-leyendas-merida/"
-guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
-guiaTitulo: 'Guía Extremadura en PDF'
 comer:
   - n: "Restaurante Agallas Gastro & Food"
     r: 4.7
@@ -46,6 +44,8 @@ comer:
     o: 200
     d: "Calle Sagasta, 20"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-badajoz-chenoaventuras.pdf
+guiaTitulo: 'Guía Badajoz en PDF'
 ---
 Hace más de 2.000 años, los romanos fundaron aquí **Augusta Emerita**, una de las ciudades más importantes de Hispania. Hoy **Mérida** conserva tantos monumentos romanos que es **Patrimonio de la Humanidad** y se recorre como un museo al aire libre.
 

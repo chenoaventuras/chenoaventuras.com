@@ -30,8 +30,8 @@ faq:
     a: "Hay restaurantes y bares en Madriguera, Villacorta, El Negredo y, sobre todo, en Riaza y Ayllón. Lo típico son los asados de lechazo y cochinillo y las patatas revolconas con torreznos."
   - q: "¿A qué distancia está de Madrid?"
     a: "Riaza está a unos 120 km de Madrid, alrededor de hora y media por la A-1. Es una escapada perfecta de fin de semana."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-segovia-chenoaventuras.pdf
+guiaTitulo: 'Guía Segovia en PDF'
 ---
 Pueblos enteros de piedra roja, como si estuvieran hechos de barro cocido; otros oscuros como el carbón, de pizarra de arriba abajo; y otros de un amarillo pálido que se confunde con el monte. En la **sierra de Ayllón**, al nordeste de **Segovia**, cada pueblo tiene el color de la tierra sobre la que se levanta. Son los **pueblos rojos, negros y amarillos**, una de las rutas más curiosas y fotogénicas cerca de Madrid.
 

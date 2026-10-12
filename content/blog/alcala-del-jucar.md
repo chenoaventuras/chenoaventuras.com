@@ -46,6 +46,8 @@ comer:
     t: "Parrilla"
     d: "C. Malvas, 18"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-albacete-chenoaventuras.pdf
+guiaTitulo: 'Guía Albacete en PDF'
 ---
 Casas blancas encaramadas a una pared de roca, un castillo coronándolo todo y un río verde esmeralda a sus pies. **Alcalá del Júcar** parece un pueblo colgado de la hoz que ha abierto el río Júcar en plena Manchuela de Albacete.
 

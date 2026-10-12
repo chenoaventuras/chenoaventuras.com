@@ -35,8 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/almeria/tour-refugios-guerra-civil/"
   - t: "Visita guiada por la Alcazaba y la catedral"
     u: "https://www.civitatis.com/es/almeria/visita-guiada-alcazaba-catedral/"
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
+guia: /assets/guias/guia-almeria-chenoaventuras.pdf
+guiaTitulo: 'Guía Almería en PDF'
 ---
 Una fortaleza árabe enorme sobre la ciudad, una catedral con almenas para defenderse de los piratas, kilómetros de túneles bajo las calles y una tapa gratis con cada caña. **Almería** es la gran desconocida de las capitales andaluzas, y sorprende a casi todo el que la visita.
 

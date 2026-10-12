@@ -41,6 +41,8 @@ comer:
     t: "Bar"
     d: "C. de Vicente Moñux, 5"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-guadalajara-chenoaventuras.pdf
+guiaTitulo: 'Guía Guadalajara en PDF'
 ---
 Una ciudad medieval de piedra rojiza, con una **catedral que parece una fortaleza** y un **castillo donde se puede dormir**. **Sigüenza** es de esas escapadas perfectas desde Madrid, y a pocos kilómetros tienes el **Barranco del río Dulce**, el paisaje donde Félix Rodríguez de la Fuente grabó parte de «El Hombre y la Tierra».
 

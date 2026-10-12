@@ -35,6 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/melilla/tour-melilla-modernista/"
   - t: "Visita guiada por Melilla la Vieja"
     u: "https://www.civitatis.com/es/melilla/visita-guiada-melilla-vieja/"
+guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Ceuta y Melilla en PDF'
 ---
 Fachadas de colores con caras de mujer, flores y guirnaldas, balcones curvos, cúpulas y torreones. Pasear por el centro de **Melilla** es como pasear por un ensanche barcelonés trasladado al norte de África. Es una de las ciudades con más edificios modernistas de España, y casi nadie lo sabe.
 

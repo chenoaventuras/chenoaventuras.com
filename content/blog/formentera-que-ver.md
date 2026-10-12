@@ -29,8 +29,6 @@ actividades:
     u: "https://www.civitatis.com/es/formentera/excursion-isla-espalmador/"
   - t: "Bautismo de buceo en la playa de Migjorn"
     u: "https://www.civitatis.com/es/formentera/bautismo-buceo-formentera/"
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
 comer:
   - n: "Pastis"
     r: 4.8
@@ -47,6 +45,8 @@ comer:
     t: "Restaurante de brunch"
     d: "Carrer de Santa Maria, 14"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
+guiaTitulo: 'Guía Ibiza y Formentera en PDF'
 ---
 Agua tan transparente que los barcos parecen flotar en el aire, playas de arena blanca y faros en acantilados donde termina la isla. **Formentera** es la isla habitada más pequeña de las Baleares y la más tranquila.
 

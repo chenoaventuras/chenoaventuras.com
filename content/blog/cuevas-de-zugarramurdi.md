@@ -22,6 +22,8 @@ faq:
     a: "Es la comida popular que se celebra cada 18 de agosto, último día de las fiestas patronales (del 14 al 18 de agosto): unas 800 personas comen dentro de la Cueva de las Brujas cordero asado durante horas en estacas de avellano alrededor del fuego. Se celebra desde 1911 y las entradas se agotan en minutos."
   - q: "¿Qué ver cerca de Zugarramurdi?"
     a: "Las Cuevas de Urdax, a 4 km, y los pueblos del Valle de Baztán como Elizondo o Arizkun. También las cuevas de Sare, al otro lado de la frontera."
+guia: /assets/guias/guia-navarra-chenoaventuras.pdf
+guiaTitulo: 'Guía Navarra en PDF'
 ---
 Un riachuelo que atraviesa la montaña, una cueva enorme abierta por el agua y un pueblo de caseríos blancos en la frontera con Francia. En **Zugarramurdi** se juntaron hace cuatro siglos la superstición, los chivatazos entre vecinos y la Inquisición, y el resultado fue uno de los juicios por brujería más famosos de Europa.
 

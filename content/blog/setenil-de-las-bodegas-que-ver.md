@@ -22,8 +22,6 @@ faq:
     a: "Según la leyenda, de «septem nihil» («siete veces nada»): los cristianos intentaron conquistarla siete veces sin éxito antes de tomarla en 1484."
   - q: "¿A cuánto está Setenil de las Bodegas de Ronda?"
     a: "A unos 20 minutos en coche."
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
 comer:
   - n: "Restaurante Come ve y Dile"
     r: 4.7
@@ -37,6 +35,8 @@ comer:
     r: 4.7
     o: 654
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-cadiz-chenoaventuras.pdf
+guiaTitulo: 'Guía Cádiz en PDF'
 ---
 Hay pueblos blancos bonitos… y luego está **Setenil de las Bodegas**. Aquí, en vez de construir casas en una ladera, la gente aprovechó el tajo que abrió el río Trejo y **metió las casas debajo de la roca**: la propia piedra hace de tejado. Pasear por algunas calles es literalmente caminar por debajo de una montaña.
 

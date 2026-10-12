@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Entrada a la catedral de Palma y Museo de Arte Sacro"
     u: "https://www.civitatis.com/es/palma-mallorca/entradas-catedral-palma-museo-arte-sacro/"
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
+guia: /assets/guias/guia-mallorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Mallorca en PDF'
 ---
 Una catedral gótica que se levanta sobre las murallas, a pie del mar, con uno de los rosetones más grandes del mundo y un fenómeno de luz que solo ocurre dos días al año. Un castillo redondo en un bosque sobre la bahía. Un laberinto de calles con patios señoriales escondidos detrás de portones. **Palma** es mucho más que la puerta de entrada a Mallorca.
 

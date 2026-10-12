@@ -28,8 +28,6 @@ faq:
 actividades:
   - t: "Puente de Vizcaya: entradas y tours"
     u: "https://www.getyourguide.es/puente-vizcaya-l147791/"
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
 comer:
   - n: "Casa Leotta - Getxo"
     r: 4.7
@@ -46,6 +44,8 @@ comer:
     o: 319
     d: "Kresaltzu Kalea, 1"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-bizkaia-chenoaventuras.pdf
+guiaTitulo: 'Guía Bizkaia en PDF'
 ---
 Ni se levanta ni tiene carretera: el **Puente de Vizcaya** cruza la ría con una **barquilla colgada** que lleva coches y personas de una orilla a otra. Fue el **primer puente transbordador del mundo** y es Patrimonio de la Humanidad.
 

@@ -28,8 +28,6 @@ faq:
 actividades:
   - t: "Tour en todoterreno por la península de Jandía (Cofete) desde el sur"
     u: "https://www.civitatis.com/es/jandia/tour-4x4-peninsula-jandia/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
 comer:
   - n: "Ca Luisa"
     r: 4.8
@@ -41,6 +39,8 @@ comer:
     o: 517
     d: "C. Guise, 7"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-fuerteventura-chenoaventuras.pdf
+guiaTitulo: 'Guía Fuerteventura en PDF'
 ---
 Durante más de diez años, un transatlántico gigante estuvo varado frente a una playa salvaje de **Fuerteventura**. Era el **American Star**, uno de los barcos de pasajeros más famosos de Estados Unidos, y se convirtió en el **barco fantasma** más fotografiado de Canarias.
 

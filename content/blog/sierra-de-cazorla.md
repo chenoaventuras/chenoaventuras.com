@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Visita guiada por Cazorla + cata de aceite"
     u: "https://www.civitatis.com/es/cazorla/visita-guiada-cazorla-cata-aceite/"
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
+guia: /assets/guias/guia-jaen-chenoaventuras.pdf
+guiaTitulo: 'Guía Jaén en PDF'
 ---
 Montañas de caliza cubiertas de pinos, ríos de agua transparente que se despeñan en cascadas, cabras montesas en los riscos, ciervos berreando en otoño y pueblos blancos con castillos en lo alto. La **Sierra de Cazorla** forma parte del espacio protegido más grande de España, y además es donde nace el **Guadalquivir**.
 

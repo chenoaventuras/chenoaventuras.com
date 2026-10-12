@@ -28,8 +28,6 @@ actividades:
     u: "https://www.civitatis.com/es/santa-pola/excursion-tabarca-barco/"
   - t: "Excursión a Tabarca en barco + snorkel desde Santa Pola"
     u: "https://www.civitatis.com/es/santa-pola/excursion-tabarca-snorkel/"
-guia: /assets/guias/guia-costa-blanca-chenoaventuras.pdf
-guiaTitulo: 'Guía Costa Blanca en PDF'
 comer:
   - n: "Restaurante La Muralla"
     r: 4.3
@@ -42,6 +40,8 @@ comer:
     t: "Bar restaurante"
     d: "Playa Central, Local 5"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-alicante-chenoaventuras.pdf
+guiaTitulo: 'Guía Alicante en PDF'
 ---
 Una isla pequeñita, plana, con un pueblo amurallado, un faro y unas aguas tan claras que fue la **primera reserva marina de España**. **Tabarca** es la única isla habitada de la Comunidad Valenciana y uno de los mejores sitios del Mediterráneo para hacer **snorkel** sin necesidad de barco propio.
 

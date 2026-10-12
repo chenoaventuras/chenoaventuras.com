@@ -31,8 +31,6 @@ actividades:
     u: "https://www.civitatis.com/es/mahon/barco-vision-submarina-mahon/"
   - t: "Free tour por Ciudadela"
     u: "https://www.civitatis.com/es/ciudadela/free-tour-ciudadela/"
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
 comer:
   - n: "Cas Safrà Restaurant"
     r: 4.8
@@ -48,6 +46,8 @@ comer:
     t: "Restaurante vegetariano"
     d: "Carrer de Gabriel Martí i Bella, 11 (Ciutadella)"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-menorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Menorca en PDF'
 ---
 Agua turquesa, arena blanca y pinos que llegan hasta la orilla. Las **calas del sur de Menorca** son de las más bonitas del Mediterráneo, y la isla entera es **Reserva de la Biosfera**, así que se conserva mucho más salvaje que otras.
 

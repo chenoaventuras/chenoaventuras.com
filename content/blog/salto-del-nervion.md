@@ -28,14 +28,14 @@ faq:
 actividades:
   - t: "Actividades en Orduña"
     u: "https://www.civitatis.com/es/orduna/"
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
 comer:
   - n: "Restaurante Hikei Orduña"
     r: 4.5
     o: 432
     d: "Kale Barria Kalea, 13"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-burgos-chenoaventuras.pdf
+guiaTitulo: 'Guía Burgos en PDF'
 ---
 Entre **Álava y Burgos** hay un cortado donde el río Nervión se lanza al vacío desde **222 metros**. Es el **Salto del Nervión**, la **cascada más alta de la península ibérica**.
 

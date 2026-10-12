@@ -28,8 +28,6 @@ faq:
 actividades:
   - t: "Paseo en catamarán por el Cabo de Creus desde Rosas"
     u: "https://www.civitatis.com/es/rosas/paseo-catamaran-cabo-creus/"
-guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
-guiaTitulo: 'Guía Cataluña en PDF'
 comer:
   - n: "Celeste"
     r: 4.8
@@ -47,6 +45,8 @@ comer:
     t: "Restaurante mediterráneo"
     d: "Carrer de Sant Antoni, 2"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-girona-chenoaventuras.pdf
+guiaTitulo: 'Guía Girona en PDF'
 ---
 Es el primer sitio de la península donde sale el sol. El **Cabo de Creus**, en Girona, es el **punto más oriental de la península ibérica**: un paisaje de rocas retorcidas por el viento que obsesionaba a **Salvador Dalí**.
 

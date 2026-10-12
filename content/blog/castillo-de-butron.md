@@ -25,8 +25,6 @@ faq:
     a: "En coche hasta Gatika (Bizkaia), a unos 25 km de Bilbao: media hora más o menos."
   - q: "¿Cuánto cuesta ver el Castillo de Butrón?"
     a: "Verlo por fuera es gratis y sin horario. El interior es privado."
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
 comer:
   - n: "Bakea"
     r: 4.8
@@ -44,6 +42,8 @@ comer:
     t: "Bar"
     d: "Luberrietaondo Auzategia, 48"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-bizkaia-chenoaventuras.pdf
+guiaTitulo: 'Guía Bizkaia en PDF'
 ---
 Torres, almenas y un foso, escondido entre árboles a media hora de Bilbao. El **Castillo de Butrón** parece sacado de una película de Disney, y durante años estuvo abandonado y en venta.
 

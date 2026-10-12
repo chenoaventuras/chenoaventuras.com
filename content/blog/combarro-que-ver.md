@@ -30,8 +30,8 @@ faq:
     a: "Las fiestas de San Roque en torno al 16 de agosto, con la Festa do Mexillón (fiesta del mejillón) los días 14 y 15."
   - q: "¿Qué ver cerca de Combarro?"
     a: "El monasterio de Poio con uno de los hórreos más largos de Galicia, la ciudad de Pontevedra, Sanxenxo y las playas de O Grove, y las Islas Cíes."
-guia: /assets/guias/guia-galicia-chenoaventuras.pdf
-guiaTitulo: 'Guía Galicia en PDF'
+guia: /assets/guias/guia-pontevedra-chenoaventuras.pdf
+guiaTitulo: 'Guía Pontevedra en PDF'
 ---
 Hórreos de piedra con los pies metidos en el agua, cruceiros mirando a la ría, casas de pescadores con balcones de madera y callejuelas de granito que bajan hasta la playa. **Combarro** es una de las postales más bonitas de Galicia, y lo mejor es que es pequeño, se recorre a pie y está a 10 minutos de Pontevedra.
 

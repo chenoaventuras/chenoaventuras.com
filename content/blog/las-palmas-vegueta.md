@@ -30,8 +30,8 @@ faq:
     a: "Entre febrero y marzo, según el año. Es uno de los más famosos de España, con la gala de la Reina, la Drag Queen y el entierro de la sardina."
   - q: "¿Cómo moverse por Las Palmas?"
     a: "En guagua urbana: hay líneas que unen Vegueta, Triana y Las Canteras en unos 20-30 minutos. También se puede ir andando por el paseo marítimo o en bici."
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
+guiaTitulo: 'Guía Gran Canaria en PDF'
 ---
 Un barrio colonial de calles empedradas y balcones de madera, una catedral con más de cuatro siglos de obras, la casa donde se cuenta que paró Colón antes de llegar a América y, a veinte minutos, una de las mejores playas urbanas del mundo. **Las Palmas de Gran Canaria** es mucho más que el aeropuerto de llegada a la isla, y merece al menos un día entero.
 

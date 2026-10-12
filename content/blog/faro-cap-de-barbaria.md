@@ -35,8 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/formentera/barco-calas-formentera/"
   - t: "Excursión a la isla de Espalmador"
     u: "https://www.civitatis.com/es/formentera/excursion-isla-espalmador/"
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
+guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
+guiaTitulo: 'Guía Ibiza y Formentera en PDF'
 ---
 Un faro blanco solitario al borde de un acantilado, una llanura de piedra y matorral sin nada alrededor y el sol hundiéndose en el mar. El **faro de Cap de Barbaria**, en el extremo sur de **Formentera**, es uno de los lugares más fotografiados de Baleares y, para muchos, el mejor atardecer de la isla.
 

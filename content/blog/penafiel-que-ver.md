@@ -30,8 +30,8 @@ faq:
     a: "En el pueblo hay sitio en la calle y junto a la plaza del Coso. También se puede subir en coche hasta la explanada del castillo, aunque las plazas son pocas."
   - q: "¿A cuánto está Peñafiel de Valladolid y Madrid?"
     a: "A unos 56 km de Valladolid (45 minutos) y a unos 180 km de Madrid (alrededor de 2 horas)."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-valladolid-chenoaventuras.pdf
+guiaTitulo: 'Guía Valladolid en PDF'
 ---
 En lo alto de un cerro, sobre los campos de viñedos de la Ribera del Duero, hay un castillo tan largo y tan estrecho que parece un **barco varado** en mitad de Castilla. Es el **castillo de Peñafiel**, uno de los más espectaculares de España, y dentro esconde un museo del vino. A sus pies, el pueblo guarda una plaza medieval de tierra que todavía se usa para los toros.
 

@@ -30,8 +30,8 @@ faq:
     a: "En coche, unos 110 km por la AP-6 y la AP-51 (alrededor de 1 hora y cuarto). En tren hay conexiones directas desde Madrid de algo más de una hora."
   - q: "¿Dónde aparcar en Ávila?"
     a: "En los aparcamientos junto a la muralla, por ejemplo cerca de la puerta del Alcázar o de San Vicente. El interior del casco tiene calles estrechas y zonas restringidas."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-avila-chenoaventuras.pdf
+guiaTitulo: 'Guía Ávila en PDF'
 ---
 Dos kilómetros y medio de piedra, 87 torres y 9 puertas rodeando por completo una ciudad. La **muralla de Ávila** es el recinto medieval amurallado más completo que se conserva en el mundo, y lo mejor es que puedes caminar por encima de ella. Dentro, una catedral que es a la vez fortaleza, iglesias románicas y la ciudad natal de **Santa Teresa de Jesús**.
 

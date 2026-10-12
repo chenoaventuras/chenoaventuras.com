@@ -30,8 +30,8 @@ faq:
     a: "Un antiguo camino que da la vuelta a toda Menorca por la costa, hoy convertido en ruta senderista. El tramo entre Es Grau y Favàritx es uno de los más salvajes."
   - q: "¿Cuándo es mejor ir?"
     a: "En primavera y otoño, con menos gente y sin restricciones de acceso. En días de tramontana, el viento en el cabo es muy fuerte."
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
+guia: /assets/guias/guia-menorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Menorca en PDF'
 ---
 Un faro blanco y negro en espiral sobre un cabo de pizarra oscura que parece de otro planeta, playas vírgenes a las que solo se llega andando, una gran laguna rodeada de pinares y un islote frente a un pueblo de pescadores. El **norte de Menorca**, entre el **faro de Favàritx** y el **Parque Natural de s'Albufera des Grau**, es la Menorca más salvaje.
 

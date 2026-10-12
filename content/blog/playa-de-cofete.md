@@ -30,8 +30,8 @@ faq:
     a: "Por la mañana o a media tarde, con el sol iluminando la playa y las montañas. El atardecer es precioso, pero ojo con volver de noche por la pista."
   - q: "¿Qué ver cerca de Cofete?"
     a: "El mirador de la pista en la Degollada de Agua Oveja, el cementerio de Cofete, el faro de Punta Jandía, el Puertito de la Cruz y Morro Jable."
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-fuerteventura-chenoaventuras.pdf
+guiaTitulo: 'Guía Fuerteventura en PDF'
 ---
 Casi catorce kilómetros de arena dorada sin un solo edificio, olas del Atlántico rompiendo con fuerza, un islote en la orilla y, detrás, una pared de montañas volcánicas que a menudo se cubre de nubes. La **playa de Cofete**, en el extremo sur de Fuerteventura, es una de las playas más salvajes y espectaculares de Europa, y llegar ya es parte de la aventura.
 

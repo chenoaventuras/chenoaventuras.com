@@ -35,8 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/jaen/visita-guiada-catedral-jaen/"
   - t: "Free tour por Jaén"
     u: "https://www.civitatis.com/es/jaen/free-tour-jaen/"
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
+guia: /assets/guias/guia-jaen-chenoaventuras.pdf
+guiaTitulo: 'Guía Jaén en PDF'
 ---
 Una catedral renacentista enorme que sirvió de modelo para las de América, un castillo en lo alto de un cerro con una cruz que vigila la ciudad, unos baños árabes escondidos bajo un palacio y, alrededor, un mar de olivos hasta donde alcanza la vista. **Jaén** es una de las capitales menos visitadas de Andalucía, y precisamente por eso sorprende.
 

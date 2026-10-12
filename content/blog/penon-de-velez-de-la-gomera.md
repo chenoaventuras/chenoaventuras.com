@@ -23,8 +23,8 @@ faq:
     a: "Lo era hasta 1930, cuando un terremoto lo unió al continente."
   - q: "¿Dónde está el Peñón de Vélez de la Gomera?"
     a: "En la costa mediterránea de Marruecos, a más de 100 km tanto de Ceuta como de Melilla."
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
+guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Ceuta y Melilla en PDF'
 ---
 En la costa de Marruecos, entre Ceuta y Melilla, hay una roca de 87 metros de altura que es **España**. El **Peñón de Vélez de la Gomera** tiene la **frontera terrestre más corta del mundo**: unos **85 metros**.
 

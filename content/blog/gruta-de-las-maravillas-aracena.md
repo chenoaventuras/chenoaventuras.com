@@ -28,8 +28,6 @@ faq:
 actividades:
   - t: "Gruta de las Maravillas: entradas y tours"
     u: "https://www.getyourguide.es/gruta-de-las-maravillas-l89748/"
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
 comer:
   - n: "Jesus Carrion Restaurante"
     r: 4.7
@@ -45,6 +43,8 @@ comer:
     o: 1107
     d: "C. Noria, 1"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-huelva-chenoaventuras.pdf
+guiaTitulo: 'Guía Huelva en PDF'
 ---
 Imagina un pueblo de la sierra con su castillo en lo alto… y, justo debajo de sus calles, **una cueva con lagos subterráneos** y miles de estalactitas. Eso es la **Gruta de las Maravillas**, en Aracena (Huelva): una de las cuevas turísticas más visitadas de España y una de las primeras de Europa en abrirse al público, en 1914.
 

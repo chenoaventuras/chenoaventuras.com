@@ -25,6 +25,8 @@ faq:
     a: "No sin permiso: la cigüeña blanca es una especie protegida y sus nidos también."
   - q: "¿Las cigüeñas se van a África en invierno?"
     a: "Antes todas; hoy muchas se quedan todo el año en España."
+guia: /assets/guias/guia-burgos-chenoaventuras.pdf
+guiaTitulo: 'Guía Burgos en PDF'
 ---
 Hay nidos de cigüeña por toda España, pero solo uno al que ya llaman la **«Torre de Pisa» de los nidos**. Está en **Burgos**, pesa cerca de **una tonelada** y lleva temporada tras temporada desafiando la gravedad.
 

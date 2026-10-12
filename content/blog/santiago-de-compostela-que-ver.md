@@ -30,8 +30,8 @@ faq:
     a: "Pulpo á feira, empanada, pimientos de Padrón, queso de tetilla, marisco y, de postre, tarta de Santiago, regada con un albariño o un Ribeiro."
   - q: "¿Dónde ver la catedral desde fuera?"
     a: "Desde el parque de la Alameda, con la mejor vista de las torres del Obradoiro, sobre todo al atardecer."
-guia: /assets/guias/guia-galicia-chenoaventuras.pdf
-guiaTitulo: 'Guía Galicia en PDF'
+guia: /assets/guias/guia-a-coruna-chenoaventuras.pdf
+guiaTitulo: 'Guía A Coruña en PDF'
 ---
 Peregrinos que llegan llorando a la plaza del Obradoiro después de semanas caminando, gaiteros bajo los soportales, calles de granito brillantes por la lluvia y una catedral que guarda, según la tradición, la tumba del apóstol Santiago. **Santiago de Compostela** es el final del Camino y una de las ciudades más emocionantes de España, aunque llegues en tren.
 

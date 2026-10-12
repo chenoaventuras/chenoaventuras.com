@@ -28,8 +28,6 @@ actividades:
     u: "https://www.civitatis.com/es/sevilla/visita-guiada-parque-maria-luisa/"
   - t: "Paseo en barco por Sevilla con guía"
     u: "https://www.civitatis.com/es/sevilla/paseo-barco-sevilla-guia/"
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
 comer:
   - n: "Bendala Brasería"
     r: 4.8
@@ -45,6 +43,8 @@ comer:
     o: 2736
     d: "C. Reinoso, 8"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-sevilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Sevilla en PDF'
 ---
 Hay sitios que salen en todas las fotos de Sevilla, y la **Plaza de España** es el número uno. Un semicírculo enorme de ladrillo y azulejo, con torres, puentes, un canal donde puedes remar en barca… y tanto aire de palacio de cuento que **hasta Star Wars la eligió para rodar**.
 

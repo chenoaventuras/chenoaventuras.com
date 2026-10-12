@@ -45,8 +45,8 @@ comer:
     t: "Marisquería"
     d: "Carrer de la Sirena, 1 (Palma)"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
+guia: /assets/guias/guia-mallorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Mallorca en PDF'
 ---
 Una catedral gótica que se refleja en el mar, pueblos de piedra colgados en la montaña, carreteras imposibles hasta calas de agua turquesa y cuevas con lagos subterráneos. **Mallorca** es mucho más que playa, y la mejor forma de verlo es saliendo de las zonas turísticas.
 

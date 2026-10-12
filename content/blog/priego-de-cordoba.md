@@ -30,8 +30,8 @@ faq:
     a: "A algo más de 100 km de Córdoba y unos 80 km de Granada, en el corazón de las Sierras Subbéticas."
   - q: "¿Qué comer en Priego?"
     a: "Prueba su aceite de oliva, con Denominación de Origen propia, el salmorejo, el remojón y los dulces de convento."
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
+guia: /assets/guias/guia-cordoba-chenoaventuras.pdf
+guiaTitulo: 'Guía Córdoba en PDF'
 ---
 Una fuente monumental con 139 caños de los que no deja de brotar agua, un barrio árabe de calles blancas tan estrechas que casi se tocan los balcones, llenas de geranios, y un mirador colgado sobre un mar de olivos. **Priego de Córdoba**, en las **Sierras Subbéticas**, es uno de los pueblos más bonitos de Andalucía y la llamada capital del barroco cordobés.
 

@@ -40,6 +40,8 @@ comer:
     t: "Parrilla"
     d: "C. Salvador, 8"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-la-rioja-chenoaventuras.pdf
+guiaTitulo: 'Guía La Rioja en PDF'
 ---
 Entre viñedos de la Rioja Alta, con un río cruzando el pueblo y un castillo que hoy sabe más a vino que a guerra, Cuzcurrita de Río Tirón es de esas escapadas donde el plan es simplemente pasear, parar y disfrutar sin prisa.
 

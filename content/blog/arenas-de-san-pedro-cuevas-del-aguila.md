@@ -30,8 +30,8 @@ faq:
     a: "Porque perteneció a Juana Pimentel, esposa del poderoso Álvaro de Luna. Cuando él fue ejecutado por orden del rey Juan II en 1453, el castillo empezó a conocerse por la tristeza de su viuda."
   - q: "¿A qué distancia está de Madrid?"
     a: "Arenas de San Pedro está a unos 150 km de Madrid, unas dos horas en coche, y la cueva a unos pocos kilómetros, en Ramacastañas."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-avila-chenoaventuras.pdf
+guiaTitulo: 'Guía Ávila en PDF'
 ---
 Una cueva llena de estalactitas, columnas y coladas de colores que cinco niños encontraron por casualidad una Nochebuena, un castillo con una historia triste, un palacio donde Goya pintó a una familia real y un pueblo al pie de la cara sur de Gredos. **Arenas de San Pedro** y las **Cuevas del Águila**, en el valle del **Tiétar** (Ávila), son una escapada perfecta desde Madrid.
 

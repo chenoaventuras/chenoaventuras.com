@@ -12,6 +12,8 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+guia: /assets/guias/guia-burgos-chenoaventuras.pdf
+guiaTitulo: 'Guía Burgos en PDF'
 ---
 Casas de entramado de madera, soportales, un torreón del siglo X y una princesa noruega enterrada en mitad de Castilla. **Covarrubias** es uno de esos pueblos que parecen un decorado, y además tiene una de las historias más curiosas de Burgos.
 

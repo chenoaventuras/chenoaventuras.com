@@ -23,6 +23,8 @@ faq:
     a: "Covarrubias, Santo Domingo de Silos, Territorio Artlanza, las ruinas de San Pedro de Arlanza y la ciudad de Burgos."
   - q: "¿Cuándo es la Fiesta Barroca de Lerma?"
     a: "El primer fin de semana de agosto, dentro del Mes del Barroco."
+guia: /assets/guias/guia-burgos-chenoaventuras.pdf
+guiaTitulo: 'Guía Burgos en PDF'
 ---
 Hace 400 años, un pueblo de Burgos se convirtió en el lugar de recreo de la **corte de España**. Lo hizo el **duque de Lerma**, el hombre más poderoso del reino después del rey, que llenó su villa de palacios, conventos y una plaza gigantesca. Hoy **Lerma** es uno de **Los Pueblos Más Bonitos de España** y una parada perfecta en la A-1, a 40 minutos de Burgos.
 

@@ -22,8 +22,6 @@ faq:
     a: "Para protegerse de los ataques de los piratas berberiscos: por eso el casco antiguo creció hacia arriba y no pegado a la orilla."
   - q: "¿Cuándo es el Castell de l'Olla de Altea?"
     a: "El sábado más cercano a San Lorenzo (10 de agosto). Son fuegos artificiales lanzados desde el mar, de Interés Turístico Autonómico."
-guia: /assets/guias/guia-costa-blanca-chenoaventuras.pdf
-guiaTitulo: 'Guía Costa Blanca en PDF'
 comer:
   - n: "El Negro Parrilla Restaurante"
     r: 4.7
@@ -41,6 +39,8 @@ comer:
     t: "Restaurante de cocina valenciana"
     d: "Partida el Pla de Castell, 96"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-alicante-chenoaventuras.pdf
+guiaTitulo: 'Guía Alicante en PDF'
 ---
 Hoy toca escapada a uno de los pueblos más fotografiados de la Costa Blanca: **Altea**. Casas blancas, calles empedradas que suben y bajan sin avisar, y el Mediterráneo asomando por cada esquina. Es de esos sitios que parecen sacados de una postal y que, aun así, merecen la pena en persona.
 

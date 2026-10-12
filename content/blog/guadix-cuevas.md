@@ -30,8 +30,8 @@ faq:
     a: "A unos 60 km, menos de una hora en coche por la A-92. También hay tren y autobús desde Granada."
   - q: "¿Qué ver cerca de Guadix?"
     a: "El castillo de La Calahorra, las cuevas de Purullena, el desierto de Gorafe con sus dólmenes y la Alpujarra y Sierra Nevada."
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
+guia: /assets/guias/guia-granada-chenoaventuras.pdf
+guiaTitulo: 'Guía Granada en PDF'
 ---
 Cientos de chimeneas blancas asomando del suelo entre colinas de tierra rojiza, casas excavadas en la montaña con su fachada encalada y, al fondo, la torre de una catedral y las murallas de una alcazaba. **Guadix**, en la provincia de **Granada**, tiene uno de los mayores barrios de casas cueva de Europa, y miles de personas siguen viviendo en ellas.
 

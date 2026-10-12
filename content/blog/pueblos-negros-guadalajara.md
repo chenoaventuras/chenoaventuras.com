@@ -30,8 +30,8 @@ faq:
     a: "Tamajón está a unos 130 km de Madrid, alrededor de hora y media en coche. Valverde de los Arroyos, a unas 2 horas."
   - q: "¿Cuándo es mejor ir a los pueblos negros?"
     a: "En otoño, por los colores del hayedo, y en primavera, cuando la cascada lleva más agua. En invierno puede nevar y algunas carreteras de montaña se complican."
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+guia: /assets/guias/guia-guadalajara-chenoaventuras.pdf
+guiaTitulo: 'Guía Guadalajara en PDF'
 ---
 Casas de piedra oscura, tejados de lajas de pizarra que brillan con la lluvia, calles empedradas del mismo color y montañas alrededor. En el noroeste de Guadalajara, en la **Sierra de Ayllón**, hay un puñado de aldeas que parecen de otro país: son los **pueblos de la arquitectura negra**. Y además de bonitos, tienen cascadas, hayedos y un pico de más de 2.000 metros.
 

@@ -37,6 +37,8 @@ comer:
     t: "Bar restaurante"
     d: "C. Mayor, 30"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-burgos-chenoaventuras.pdf
+guiaTitulo: 'Guía Burgos en PDF'
 ---
 Tres epidemias en diez años que apenas tocaron a los pueblos de alrededor, una torre de iglesia en mitad del bosque y décadas de historias sobre **luces en el cielo**. **Ochate** es probablemente el pueblo abandonado con más misterio de España.
 

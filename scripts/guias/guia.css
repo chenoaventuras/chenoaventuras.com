@@ -188,3 +188,69 @@ body { font-size: 14px; }
 .end h2 { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; color: var(--night); font-size: 1.5rem; margin: 0 0 6px; }
 .end p { font-size: .85rem; color: var(--ink-soft); margin: 0; }
 .end a { color: var(--night); font-weight: 600; }
+/* ---- guías con capítulos completos por lugar (2026-10) ---- */
+.flow { padding: 0 16mm; }
+.flow .intro-box { margin-bottom: 20px; }
+.toc { break-inside: avoid; margin: 22px 0 6px; }
+.toc ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 18px; }
+.toc li { display: flex; align-items: baseline; gap: 10px; border-bottom: 1px solid var(--line); padding: 7px 0; font-size: .92rem; }
+.toc li b { font-family: var(--font-display); color: var(--gold); font-size: 1rem; min-width: 1.6em; }
+.toc li span { font-family: var(--font-head); font-weight: 600; color: var(--night); flex: 1; }
+.toc li em { font-style: normal; font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; color: var(--ink-mute); }
+
+.chap { margin-top: 30px; }
+.chap__keep { break-inside: avoid; }
+.chap__hero { position: relative; height: 78mm; border-radius: 14px; overflow: hidden; }
+.chap__hero img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.chap__n { position: absolute; left: 14px; top: 12px; background: var(--gold); color: var(--night); font-family: var(--font-display); font-weight: 900; font-size: 1.4rem; padding: .15em .5em; border-radius: 8px; }
+.chap__head { margin: 14px 0 6px; }
+.article__body .chap__head h2 { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; letter-spacing: -.02em; line-height: 1; font-size: 2.6rem; color: var(--night); margin: 4px 0 6px; }
+.article__body .chap__sub { font-family: var(--font-head); font-weight: 600; color: var(--blue, #2b5c8a); font-size: 1.02rem; line-height: 1.35; margin: 0 0 8px; }
+.article__body .chap__dek { font-size: .95rem; color: var(--ink-soft); border-left: 3px solid var(--gold); padding-left: 12px; margin: 0 0 14px; }
+
+.chap__body > p, .chap__body li { font-size: .9rem; line-height: 1.6; }
+.chap__body > p { margin: 0 0 .8em; }
+.article__body .chap__body .guide__head { margin: 18px 0 10px; break-after: avoid; }
+.article__body .chap__body .guide__head h2 { font-size: 1.55rem; }
+.article__body .chap__body .guide__head p { font-size: .85rem; margin: 2px 0 0; }
+.article__body .chap__body h2 { font-size: 1.55rem; break-after: avoid; }
+.article__body .chap__body h3 { break-after: avoid; }
+.chap__body .guide__tips { grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.chap__body .guide__tip { break-inside: avoid; padding: 12px 13px 8px; }
+.article__body .chap__body .guide__tip h3 { font-size: .9rem; }
+.article__body .chap__body .guide__tip p { font-size: .76rem; line-height: 1.45; }
+.chap__body .guide__legend { margin: 12px 0; }
+.article__body .chap__body .guide__grid, .article__body .chap__body .guide__grid--cuenca { grid-template-columns: repeat(3, 1fr); gap: 9px; margin: 6px 0 12px; }
+.article__body .chap__body .gcard { break-inside: avoid; }
+.article__body .chap__body .gcard__media { aspect-ratio: 16 / 10; }
+.article__body .chap__body .gcard__n { font-size: .8rem; }
+.article__body .chap__body .gcard__body p { font-size: .74rem; line-height: 1.45; }
+.chap__body figure.ph { margin: 10px 0 14px; break-inside: avoid; }
+.chap__body figure.ph img { width: 100%; max-height: 82mm; object-fit: cover; border-radius: 10px; display: block; }
+.chap__body img { max-width: 100%; }
+.chap__body .guide__howto { break-inside: avoid; }
+.article__body .chap__body .guide__howto p { font-size: .86rem; }
+.chap__body .guide__plan { margin: 14px 0; padding: 18px 22px; }
+.article__body .chap__body .guide__plan h2 { font-size: 1.45rem; }
+.article__body .chap__body .guide__plan li { font-size: .84rem; }
+.chap__body table { font-size: .8rem; }
+.eat { break-inside: avoid; border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; margin: 12px 0; }
+.article__body .eat h3 { font-size: 1rem; margin: 0 0 2px; }
+.article__body .eat .eat__lead { font-size: .74rem; color: var(--ink-mute); margin: 0 0 8px; }
+.eat ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 16px; }
+.article__body .eat li { font-size: .8rem; line-height: 1.35; }
+.eat li span, .eat li small { color: var(--ink-mute); font-size: .72rem; }
+.chap__links { display: flex; gap: 8px; margin: 10px 0 0; break-before: avoid; }
+.acts { margin-top: 28px; break-inside: avoid; }
+.guide__plan.final { margin-top: 24px; break-inside: avoid; }
+.article__body .final__end { font-size: .85rem; margin: 10px 0 0; color: rgba(255,255,255,.92); }
+.article__body .final__end a { color: var(--gold-soft); }
+.keep { break-inside: avoid; }
+.article__body .chap__body .guide__grid, .article__body .chap__body .guide__grid--cuenca { grid-template-columns: repeat(4, 1fr); gap: 8px; }
+.article__body .chap__body .gcard__media { aspect-ratio: 3 / 2; }
+.article__body .chap__body .gcard__body { padding: 7px 9px 8px; }
+.article__body .chap__body .gcard__body h3 { font-size: .8rem; }
+.article__body .chap__body .gcard__body p { font-size: .7rem; line-height: 1.4; }
+.article__body .chap__body .grid--cont { margin-top: -4px; }
+.guide__plan.final { margin-top: 18px; }
+.acts { margin-top: 22px; }

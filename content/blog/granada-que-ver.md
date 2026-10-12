@@ -37,8 +37,8 @@ actividades:
     u: "https://www.civitatis.com/es/granada/free-tour-albaicin/"
   - t: "Free tour de los misterios y leyendas de Granada"
     u: "https://www.civitatis.com/es/granada/free-tour-misterios-leyendas-granada/"
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
+guia: /assets/guias/guia-granada-chenoaventuras.pdf
+guiaTitulo: 'Guía Granada en PDF'
 ---
 Hay ciudades bonitas y luego está **Granada**: un palacio nazarí colgado sobre la colina, un barrio árabe de calles blancas enfrente, gente viviendo en cuevas en el Sacromonte, Sierra Nevada nevada de fondo y, encima, **tapa gratis con cada caña**. Es de esos sitios a los que vas una vez y ya estás pensando en volver.
 

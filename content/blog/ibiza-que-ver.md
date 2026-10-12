@@ -29,8 +29,6 @@ actividades:
     u: "https://www.civitatis.com/es/san-antonio-abad/paseo-barco-es-vedra/"
   - t: "Excursión a Formentera desde Ibiza"
     u: "https://www.civitatis.com/es/san-antonio-abad/excursion-formentera/"
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
 comer:
   - n: "Cremat Beach"
     r: 4.9
@@ -47,6 +45,8 @@ comer:
     t: "Parrilla"
     d: "Av. d'Isidor Macabich, 66 (Eivissa)"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
+guiaTitulo: 'Guía Ibiza y Formentera en PDF'
 ---
 Ibiza tiene fama de fiesta, pero también es una isla de **calas de agua transparente**, pinares que llegan al mar, pueblos blancos y uno de los cascos históricos amurallados mejor conservados del Mediterráneo.
 

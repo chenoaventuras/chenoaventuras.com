@@ -30,8 +30,8 @@ faq:
     a: "Marisco de las Rías Baixas, pulpo, empanada, pimientos de Padrón y vino albariño. La zona de vinos está en la plaza de la Verdura y alrededores."
   - q: "¿Qué ver cerca de Pontevedra?"
     a: "Combarro y sus hórreos, el monasterio de Poio, Sanxenxo, O Grove, la isla de Ons y las Islas Cíes."
-guia: /assets/guias/guia-galicia-chenoaventuras.pdf
-guiaTitulo: 'Guía Galicia en PDF'
+guia: /assets/guias/guia-pontevedra-chenoaventuras.pdf
+guiaTitulo: 'Guía Pontevedra en PDF'
 ---
 Imagina una ciudad donde los niños van solos al colegio, donde puedes cruzar el centro sin oír un motor y donde las plazas de piedra son de la gente. **Pontevedra** quitó los coches de su centro hace más de 25 años, y el resultado es uno de los cascos históricos más agradables de España: granito, soportales, cruceiros, terrazas y una iglesia con forma de concha de peregrino.
 

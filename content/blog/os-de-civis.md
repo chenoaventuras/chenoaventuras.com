@@ -32,6 +32,8 @@ comer:
     o: 679
     t: "Restaurante de cocina catalana"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-lleida-chenoaventuras.pdf
+guiaTitulo: 'Guía Lleida en PDF'
 ---
 Imagina vivir en España pero tener que **salir del país** cada vez que quieres ir a tu ayuntamiento. Pasa en **Os de Civís**, un pueblo de Lleida al que solo se llega por carretera **atravesando Andorra**.
 

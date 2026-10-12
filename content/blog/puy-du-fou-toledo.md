@@ -34,8 +34,6 @@ faq:
 actividades:
   - t: "Entrada a Puy du Fou España + El Sueño de Toledo"
     u: "https://www.civitatis.com/es/toledo/entrada-puy-fou-sueno-toledo/"
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
 comer:
   - n: "Restaurante Matilde"
     r: 4.7
@@ -46,6 +44,8 @@ comer:
     t: "Restaurante de cocina castellana"
     d: "C. Cristo de la Luz, 29"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-toledo-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo en PDF'
 ---
 Hay parques temáticos con montañas rusas, y luego está **Puy du Fou**, donde lo importante son los **espectáculos en vivo**: batallas medievales, caballos, aves rapaces y una puesta en escena que está a otro nivel. Si estás pensando en ir, aquí tienes todo lo que necesitas saber.
 

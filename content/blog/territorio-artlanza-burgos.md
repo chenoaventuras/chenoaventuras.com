@@ -39,6 +39,8 @@ comer:
     t: "Cafetería"
     d: "C. el Rio, 2"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-burgos-chenoaventuras.pdf
+guiaTitulo: 'Guía Burgos en PDF'
 ---
 Hay quien hace maquetas. El escultor **Félix Yáñez** decidió construir **un pueblo castellano entero, a tamaño real**, con sus propias manos y con **materiales reciclados**. El resultado se llama **Territorio Artlanza**, y está considerado la escultura más grande del mundo hecha por una sola persona.
 

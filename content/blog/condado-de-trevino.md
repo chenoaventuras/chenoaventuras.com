@@ -40,6 +40,8 @@ comer:
     t: "Bar restaurante"
     d: "C. Mayor, 30"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-burgos-chenoaventuras.pdf
+guiaTitulo: 'Guía Burgos en PDF'
 ---
 Si miras un **mapa** de Álava verás un agujero en medio: no es Álava, es **Burgos**. El **Condado de Treviño** es un trozo de Castilla y León completamente rodeado por el País Vasco, a 15 km de **Vitoria** y a más de 100 de la ciudad de Burgos.
 

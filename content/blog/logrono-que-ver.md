@@ -30,6 +30,8 @@ faq:
     a: "En los aparcamientos subterráneos del centro, como los del Espolón o la zona del Ayuntamiento. El casco antiguo es peatonal y se recorre a pie."
   - q: "¿Qué ver cerca de Logroño?"
     a: "Laguardia y la Rioja Alavesa a 20 minutos, Haro y su barrio de la Estación, los monasterios de San Millán de la Cogolla, cuna del castellano, y Ezcaray."
+guia: /assets/guias/guia-la-rioja-chenoaventuras.pdf
+guiaTitulo: 'Guía La Rioja en PDF'
 ---
 Hay ciudades a las que vas a ver monumentos, y luego está **Logroño**, a la que se va, sobre todo, a **comer**. La calle Laurel y sus alrededores forman una de las rutas de pinchos más famosas de España, cada bar con su especialidad. Pero la capital de La Rioja tiene mucho más: una concatedral con un cuadro atribuido a Miguel Ángel, el Camino de Santiago atravesándola, un puente de piedra sobre el Ebro y bodegas centenarias sin salir de la ciudad.
 

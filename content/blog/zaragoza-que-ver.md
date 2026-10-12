@@ -30,8 +30,8 @@ faq:
     a: "Un día para el Pilar, La Seo, la Aljafería y el Tubo. Con dos puedes ver la Zaragoza romana y los museos con calma."
   - q: "¿Cómo ir de Madrid o Barcelona a Zaragoza?"
     a: "En AVE: alrededor de 1 hora y cuarto desde Madrid y 1 hora y media desde Barcelona."
-guia: /assets/guias/guia-aragon-chenoaventuras.pdf
-guiaTitulo: 'Guía Aragón en PDF'
+guia: /assets/guias/guia-zaragoza-chenoaventuras.pdf
+guiaTitulo: 'Guía Zaragoza en PDF'
 ---
 Las cúpulas de colores del Pilar reflejadas en el Ebro, un palacio musulmán del siglo XI que parece una pequeña Alhambra, una catedral con un muro mudéjar que es Patrimonio de la Humanidad, un teatro romano bajo los edificios y un laberinto de calles donde se tapea como en pocos sitios. **Zaragoza** suele ser parada de paso entre Madrid y Barcelona, pero merece mucho más.
 

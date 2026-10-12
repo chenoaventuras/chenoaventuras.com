@@ -27,8 +27,6 @@ actividades:
     u: "https://www.civitatis.com/es/yaiza/parque-nacional-timanfaya/"
   - t: "Visita guiada por las Salinas de Janubio"
     u: "https://www.civitatis.com/es/yaiza/visita-guiada-salinas-janubio/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
 comer:
   - n: "Restaurante Majo Picón"
     r: 4.8
@@ -41,6 +39,8 @@ comer:
     t: "Parrilla"
     d: "Tinguatón, 24"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
+guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Entre 1730 y 1736, Lanzarote vivió una de las erupciones más largas de la historia: seis años de lava que cubrieron una cuarta parte de la isla. El resultado es el **Parque Nacional de Timanfaya**, un paisaje de cráteres rojos, negros y ocres que parece la superficie de Marte.
 

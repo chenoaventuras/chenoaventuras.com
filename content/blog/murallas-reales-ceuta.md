@@ -35,6 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/ceuta/alquiler-kayak-ceuta/"
   - t: "Paseo en barco por la bahía de Ceuta"
     u: "https://www.civitatis.com/es/ceuta/paseo-barco-ceuta/"
+guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Ceuta y Melilla en PDF'
 ---
 Una muralla de piedra que cae a plomo sobre un canal de **agua de mar**, de lado a lado de la ciudad, con barcas y kayaks pasando por debajo de un puente. Así reciben las **Murallas Reales** a quien llega a Ceuta desde el puerto. Es una de las fortificaciones más impresionantes de España y, a la vez, una de las menos conocidas fuera de la ciudad.
 

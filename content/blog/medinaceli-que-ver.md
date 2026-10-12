@@ -38,6 +38,8 @@ comer:
     o: 1345
     d: "Av. Madrid, 29"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-soria-chenoaventuras.pdf
+guiaTitulo: 'Guía Soria en PDF'
 ---
 Seguro que lo has visto cientos de veces sin saberlo: el arco que aparece en las **señales marrones de monumentos** de las carreteras españolas está inspirado en uno real. Está en **Medinaceli**, un pueblo de piedra en lo alto de un cerro de Soria, y es el **único arco romano de tres vanos** que se conserva en España.
 

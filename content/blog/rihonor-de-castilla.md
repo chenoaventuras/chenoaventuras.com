@@ -29,6 +29,8 @@ comer:
     t: "Restaurante familiar"
     d: "R. da Costa 1"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-zamora-chenoaventuras.pdf
+guiaTitulo: 'Guía Zamora en PDF'
 ---
 Imagina que vas a casa de tu vecino y **cambias de país**. En **Rihonor de Castilla** (Zamora) pasa eso: el pueblo forma **un solo núcleo** con **Rio de Onor**, en Portugal. Una calle hace de frontera.
 

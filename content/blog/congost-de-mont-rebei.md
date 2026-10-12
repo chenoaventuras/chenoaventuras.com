@@ -14,8 +14,8 @@ wide: true
 actividades:
   - t: "Alquiler de kayak en el Congost de Mont-rebei"
     u: "https://www.getyourguide.es/barcelona-l45/barcelona-kayak-rental-in-the-mont-rebei-gorge-t1017662/"
-guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
-guiaTitulo: 'Guía Cataluña en PDF'
+guia: /assets/guias/guia-lleida-chenoaventuras.pdf
+guiaTitulo: 'Guía Lleida en PDF'
 ---
 Paredes de **500 metros** de altura, un río de color turquesa y un camino **excavado en la roca** colgado sobre el vacío. El **Congost de Mont-rebei**, en la sierra del **Montsec**, es uno de los desfiladeros más espectaculares de España, y uno de los pocos que no está atravesado por ninguna carretera.
 

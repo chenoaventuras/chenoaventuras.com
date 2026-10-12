@@ -30,8 +30,8 @@ faq:
     a: "Sí, en el Camino del Norte, entre Lourenzá y Abadín. La catedral forma parte del Patrimonio de la Humanidad junto a los Caminos del Norte."
   - q: "¿Qué ver cerca de Mondoñedo?"
     a: "La costa de A Mariña: Ribadeo, la playa de las Catedrales, Foz y Viveiro, todas a menos de una hora."
-guia: /assets/guias/guia-galicia-chenoaventuras.pdf
-guiaTitulo: 'Guía Galicia en PDF'
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 Una catedral baja y ancha, como arrodillada, presidiendo una plaza de soportales, un barrio de molinos donde el agua corre entre las casas y la estatua de un escritor sentado en un banco mirando la catedral. **Mondoñedo**, en el interior de **A Mariña de Lugo**, fue una de las siete capitales del antiguo Reino de Galicia y hoy es uno de los pueblos más bonitos y tranquilos de la comunidad.
 

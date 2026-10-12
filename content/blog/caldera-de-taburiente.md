@@ -30,8 +30,8 @@ faq:
     a: "No con buen tiempo, pero no la hagas si hay lluvia o aviso: el barranco se puede convertir en un río peligroso en poco tiempo. Lleva calzado de montaña y agua."
   - q: "¿Cuándo es mejor ir a la Caldera de Taburiente?"
     a: "En primavera y otoño. En invierno puede haber lluvias y nieve arriba; en verano hace calor en el barranco, pero se puede hacer madrugando."
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-la-palma-chenoaventuras.pdf
+guiaTitulo: 'Guía La Palma en PDF'
 ---
 Un gigantesco anfiteatro de roca de unos 8 kilómetros de diámetro, con paredes que caen casi 2.000 metros, pinos canarios aferrados a los riscos, arroyos que corren todo el año y una cascada que pinta la roca de naranja. La **Caldera de Taburiente**, en el corazón de La Palma, es uno de los paisajes más brutales de Canarias y uno de los parques nacionales más antiguos de España.
 

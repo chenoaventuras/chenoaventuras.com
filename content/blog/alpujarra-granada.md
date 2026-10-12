@@ -30,8 +30,8 @@ faq:
     a: "Lanjarón está a unos 45 minutos de Granada y Pampaneira a algo más de una hora. Trevélez, a hora y media larga por carreteras de montaña."
   - q: "¿Cuál es la mejor época para ir a la Alpujarra?"
     a: "Primavera y otoño, por el clima suave, el agua de las acequias y los colores de los castaños. En invierno puede nevar en los pueblos altos."
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
+guia: /assets/guias/guia-granada-chenoaventuras.pdf
+guiaTitulo: 'Guía Granada en PDF'
 ---
 En la cara sur de Sierra Nevada, colgados de laderas imposibles, hay unos pueblos blancos de tejados planos y chimeneas con sombrero que parecen sacados del Atlas marroquí. Es la **Alpujarra**, el último refugio de los moriscos de Granada, una comarca de barrancos, acequias, castaños y jamones curados al aire de la montaña.
 

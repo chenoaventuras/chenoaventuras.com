@@ -45,8 +45,8 @@ comer:
     o: 732
     d: "C. Domingo Doreste, 12 (Vegueta)"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
+guiaTitulo: 'Guía Gran Canaria en PDF'
 ---
 Dunas de desierto, bosques de pinos, barrancos de palmeras, pueblos con casas cueva y una capital con playa urbana. A **Gran Canaria** la llaman el **continente en miniatura** porque en pocos kilómetros cambia de paisaje y hasta de clima.
 

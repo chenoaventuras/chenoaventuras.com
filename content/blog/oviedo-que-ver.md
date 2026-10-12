@@ -30,8 +30,8 @@ faq:
     a: "Porque según la tradición el rey Alfonso II el Casto salió de Oviedo en el siglo IX hacia Santiago para visitar la tumba del apóstol: fue el primer peregrino."
   - q: "¿Qué comer en Oviedo?"
     a: "Fabada, cachopo, quesos asturianos como el Cabrales, chorizo a la sidra y, de postre, carbayones, el dulce típico de la ciudad."
-guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria y Asturias en PDF'
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una ciudad limpia y elegante, con calles peatonales llenas de esculturas, una catedral que guarda las joyas del primer reino cristiano de la península, iglesias de hace más de mil años en un monte verde y una calle entera dedicada a la sidra. **Oviedo**, la Vetusta de Clarín, es una de las capitales más agradables del norte.
 

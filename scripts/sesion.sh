@@ -51,6 +51,13 @@ case "$cmd" in
     if ! git rebase origin/main; then
       echo; echo "Conflicto al ponerlo al día con main. Resuélvelo (git status), haz 'git rebase --continue' y repite este comando."; exit 1
     fi
+    # Nada de marcas de conflicto ni JSON roto (un rebase mal resuelto rompe el build de Vercel)
+    if git diff --name-only origin/main HEAD | grep -E '\.(md|json|mjs|js|html|css)$' | xargs -I{} grep -lE '^(<<<<<<<|>>>>>>>) ' {} 2>/dev/null | grep -q .; then
+      echo "Hay marcas de conflicto (<<<<<<< / >>>>>>>) en archivos cambiados. Arréglalas antes de subir."; exit 1
+    fi
+    if ! python3 -c "import json; json.load(open('content/enlaces.json'))" 2>/dev/null; then
+      echo "content/enlaces.json no es un JSON válido. Arréglalo antes de subir."; exit 1
+    fi
     # Guías PDF por zonas: si ha cambiado algo de sus posts (fotos, textos…), se rehacen y van a Drive
     if [ -f scripts/guias/gen.py ]; then
       python3 scripts/guias/gen.py --changed --drive || echo "Aviso: no se pudieron regenerar las guías."

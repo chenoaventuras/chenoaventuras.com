@@ -30,8 +30,8 @@ faq:
     a: "En la segunda quincena de agosto: en 2026 fue del 22 al 30 de agosto, con conciertos, fuegos artificiales en la ría y la quema de Marijaia."
   - q: "¿Qué ver cerca de Bilbao?"
     a: "El Puente de Bizkaia en Getxo y Portugalete, San Juan de Gaztelugatxe, el castillo de Butrón y la costa de Urdaibai."
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
+guia: /assets/guias/guia-bizkaia-chenoaventuras.pdf
+guiaTitulo: 'Guía Bizkaia en PDF'
 ---
 Hace cuarenta años Bilbao era una ciudad gris de astilleros y altos hornos. Hoy, a orillas de su ría, brilla un museo de titanio que cambió la arquitectura del siglo XX, un perro gigante de flores vigila la entrada y el Casco Viejo sigue lleno de bares donde los pintxos son casi una religión. **Bilbao** es la gran sorpresa del norte.
 

@@ -27,8 +27,6 @@ actividades:
     u: "https://www.civitatis.com/es/corralejo/ferry-isla-lobos/"
   - t: "Ferry a la isla de Lobos + snorkel"
     u: "https://www.civitatis.com/es/corralejo/excursion-isla-lobos/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
 comer:
   - n: "Alma Brunch"
     r: 4.6
@@ -40,6 +38,8 @@ comer:
     o: 3740
     d: "Calle Iglesia, 11"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-fuerteventura-chenoaventuras.pdf
+guiaTitulo: 'Guía Fuerteventura en PDF'
 ---
 Un islote volcánico de arena blanca y agua transparente a 15 minutos en barco, y enfrente un mar de dunas que llega hasta la playa. El norte de Fuerteventura tiene dos de los paisajes más bonitos de Canarias: la **Isla de Lobos** y las **Dunas de Corralejo**.
 

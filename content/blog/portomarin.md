@@ -22,8 +22,6 @@ faq:
     a: "Sí, en el Camino Francés, una etapa después de Sarria."
   - q: "¿Dónde está Portomarín?"
     a: "En Lugo, a unos 35 km de la capital, en el Camino Francés de Santiago, una etapa después de Sarria."
-guia: /assets/guias/guia-galicia-chenoaventuras.pdf
-guiaTitulo: 'Guía Galicia en PDF'
 comer:
   - n: "El Origen Cervecería"
     r: 4.8
@@ -40,6 +38,8 @@ comer:
     t: "Restaurante gallego"
     d: "Rúa Fraga Iribarne, 4"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 Imagina desmontar una **iglesia románica** piedra a piedra, **numerar cada piedra** y volver a montarla en lo alto de un monte. Es lo que se hizo en **Portomarín** (Lugo) cuando el embalse de Belesar iba a inundar el pueblo.
 

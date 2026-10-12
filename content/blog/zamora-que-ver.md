@@ -30,8 +30,8 @@ faq:
     a: "En los aparcamientos de la zona de San Martín, la avenida de Portugal o junto al río. El casco antiguo es estrecho y en gran parte peatonal."
   - q: "¿Qué ver cerca de Zamora?"
     a: "Toro y su colegiata, los Arribes del Duero, Puebla de Sanabria y su lago, y San Pedro de la Nave, una iglesia visigoda."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-zamora-chenoaventuras.pdf
+guiaTitulo: 'Guía Zamora en PDF'
 ---
 Una ciudad dorada sobre un cerro, asomada al Duero, con más iglesias románicas que casi ningún otro lugar de Europa, una catedral rematada por una cúpula de escamas de piedra y una historia de asedios, traiciones y romances medievales. **Zamora** es de las capitales más desconocidas de España, y de las que más sorprenden.
 

@@ -23,6 +23,8 @@ faq:
 actividades:
   - t: "Excursión a los lagos de Covadonga en grupo reducido"
     u: "https://www.civitatis.com/es/cangas-onis/excursion-lagos-covadonga/"
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una cueva colgada en la roca con una cascada saliendo justo debajo, una basílica de piedra rosa en mitad de las montañas y, doce kilómetros más arriba, dos lagos glaciares con vacas pastando en la orilla. **Covadonga** es uno de esos lugares que se han contado tantas veces que parecen leyenda.
 

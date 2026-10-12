@@ -30,8 +30,8 @@ faq:
     a: "Pescado y marisco en el barrio del Serrallo, romesco, arroces, calçots en invierno y vinos del Priorat y Montsant."
   - q: "¿Cómo ir de Barcelona a Tarragona?"
     a: "En tren, alrededor de una hora, o en coche por la AP-7, unos 100 km."
-guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
-guiaTitulo: 'Guía Cataluña en PDF'
+guia: /assets/guias/guia-tarragona-chenoaventuras.pdf
+guiaTitulo: 'Guía Tarragona en PDF'
 ---
 Un anfiteatro romano con gradas que miran directamente al Mediterráneo, un circo donde corrían las cuadrigas escondido bajo las casas, murallas de más de dos mil años y un acueducto en mitad del bosque que la gente llama el Puente del Diablo. **Tarragona** fue una de las ciudades más importantes del Imperio romano en Hispania, y hoy es una ciudad mediterránea relajada, con playa, buen pescado y castells.
 

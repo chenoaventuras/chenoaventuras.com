@@ -30,8 +30,8 @@ faq:
     a: "En los aparcamientos de las afueras del casco antiguo. Los centros históricos tienen calles estrechas y zonas de acceso restringido: mejor recorrerlos a pie."
   - q: "¿Cuál es la mejor época para visitar Úbeda y Baeza?"
     a: "Primavera y otoño. Entre noviembre y enero es la cosecha de la aceituna y se huele el aceite nuevo en las almazaras; en verano el calor aprieta mucho."
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
+guia: /assets/guias/guia-jaen-chenoaventuras.pdf
+guiaTitulo: 'Guía Jaén en PDF'
 ---
 Hay un rincón de Jaén donde el Renacimiento italiano se plantó en mitad de un mar de olivos y se quedó a vivir. **Úbeda y Baeza**, separadas por solo 9 km, guardan dos de los conjuntos renacentistas mejor conservados de España, y desde 2003 son **Patrimonio de la Humanidad**. Y aun así, mucha gente ni las tiene en el radar.
 

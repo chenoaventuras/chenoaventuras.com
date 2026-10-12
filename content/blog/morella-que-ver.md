@@ -30,8 +30,8 @@ faq:
     a: "En los aparcamientos de fuera de la muralla, junto a las puertas. El casco antiguo tiene calles muy empinadas y el acceso en coche está restringido."
   - q: "¿A cuánto está Morella de Castellón y Valencia?"
     a: "A unos 100 km de Castellón de la Plana (1 hora y media) y a unos 170 km de Valencia (2 horas y cuarto)."
-guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
-guiaTitulo: 'Guía Castellón y Valencia en PDF'
+guia: /assets/guias/guia-castellon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castellón en PDF'
 ---
 Una montaña de casas de piedra que se encaraman hasta una enorme roca, con un castillo en la cima y una muralla de dos kilómetros rodeándolo todo. Morella es de esos pueblos que, cuando aparecen en la carretera, te obligan a parar el coche para hacer la foto. Está en el interior de Castellón, a casi mil metros de altitud, y conserva su aire medieval como pocos.
 

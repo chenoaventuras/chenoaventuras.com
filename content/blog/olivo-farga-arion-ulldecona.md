@@ -37,6 +37,8 @@ comer:
     t: "Restaurante de cocina catalana"
     d: "Carretera Ulldecona, km 10"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-tarragona-chenoaventuras.pdf
+guiaTitulo: 'Guía Tarragona en PDF'
 ---
 En el sur de Tarragona, en **Ulldecona**, hay un olivo que se calcula que se plantó en el **año 314**, cuando el emperador **Constantino** gobernaba Roma. Se llama **La Farga de l'Arion** y es uno de los árboles más antiguos de España que sigue dando aceitunas.
 

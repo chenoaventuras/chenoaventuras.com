@@ -44,6 +44,8 @@ comer:
     t: "Bar restaurante"
     d: "Pl. Federico Fernández, 6"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-avila-chenoaventuras.pdf
+guiaTitulo: 'Guía Ávila en PDF'
 ---
 En la cara sur de la **Sierra de Gredos** hay pozas que el agua y la roca han ido formando durante siglos, sin que nadie las toque. El **Charco Verde** y el **tobogán natural del río Pelayos** son dos de esos rincones, perfectos para un chapuzón de agua fría y transparente en verano.
 

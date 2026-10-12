@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Excursión a Carmona desde Sevilla"
     u: "https://www.civitatis.com/es/sevilla/excursion-carmona/"
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
+guia: /assets/guias/guia-sevilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Sevilla en PDF'
 ---
 Un mar de tejados blancos con torres de iglesias asomando, murallas romanas que siguen en pie, tumbas excavadas en la roca hace dos mil años y un alcázar convertido en Parador con vistas infinitas sobre la campiña. **Carmona**, a solo media hora de **Sevilla**, es una de las ciudades más antiguas de Europa y una excursión perfecta.
 

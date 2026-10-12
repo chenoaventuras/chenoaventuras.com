@@ -30,8 +30,8 @@ faq:
     a: "En las calles y aparcamientos de alrededor del casco histórico, por ejemplo cerca del Parador. El centro es pequeño y se recorre a pie."
   - q: "¿Qué ver cerca de Zafra?"
     a: "Mérida y su teatro romano a una hora, Jerez de los Caballeros, Fregenal de la Sierra, Llerena y Olivenza."
-guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
-guiaTitulo: 'Guía Extremadura en PDF'
+guia: /assets/guias/guia-badajoz-chenoaventuras.pdf
+guiaTitulo: 'Guía Badajoz en PDF'
 ---
 En el sur de Badajoz hay un pueblo de casas blancas, plazas con soportales y palmeras, y un castillo de almenas que hoy es Parador, al que llaman cariñosamente la **«Sevilla chica»**. **Zafra** es parada de la Vía de la Plata, cuna de una de las ferias ganaderas más antiguas de Europa y uno de esos pueblos donde apetece sentarse en una terraza y no hacer nada más.
 

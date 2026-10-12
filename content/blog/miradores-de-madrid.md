@@ -11,6 +11,8 @@ tags:
   - Spots
   - Comunidad de Madrid
 wide: true
+guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
+guiaTitulo: 'Guía Madrid curioso en PDF'
 ---
 Madrid se ve mejor desde arriba. Entre cerros, azoteas y torres, la ciudad tiene un montón de **miradores**, y muchos son **gratis**. Estos son los que más se buscan y los que yo te recomiendo, con lo que cuesta cada uno y cuál es el mejor para el **atardecer**.
 

@@ -30,8 +30,8 @@ faq:
     a: "En primavera y otoño, entre semana. En verano hace mucho calor en el cañón y los fines de semana hay muchísima gente."
   - q: "¿A cuánto está Chulilla de Valencia?"
     a: "A unos 60 km, alrededor de una hora en coche por la A-3 o por la CV-35."
-guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
-guiaTitulo: 'Guía Castellón y Valencia en PDF'
+guia: /assets/guias/guia-valencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Valencia en PDF'
 ---
 Un pueblo blanco encaramado en lo alto de un cañón, un castillo árabe vigilando desde arriba, un río verde turquesa que corre entre paredes de roca de más de cien metros y dos **puentes colgantes** que se balancean sobre el agua. **Chulilla**, a una hora de Valencia, tiene una de las rutas de senderismo más espectaculares y fáciles de la Comunidad Valenciana.
 

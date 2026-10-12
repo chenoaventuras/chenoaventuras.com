@@ -29,8 +29,6 @@ actividades:
     u: "https://www.civitatis.com/es/guadalupe/tour-guadalupe-geoparque-villuercas-ibores-jara/"
   - t: "Observación de estrellas en Guadalupe"
     u: "https://www.civitatis.com/es/guadalupe/observacion-estrellas-guadalupe/"
-guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
-guiaTitulo: 'Guía Extremadura en PDF'
 comer:
   - n: "Las Ánimas del Tiempo Restaurante"
     r: 4.8
@@ -48,6 +46,8 @@ comer:
     t: "Restaurante italiano"
     d: "C. Fray Eloy Uribe, 1"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-caceres-chenoaventuras.pdf
+guiaTitulo: 'Guía Cáceres en PDF'
 ---
 Un monasterio gigantesco que parece un castillo, plantado en mitad de un pueblo de soportales y rodeado de sierras. El **Real Monasterio de Guadalupe** es **Patrimonio de la Humanidad** y uno de los lugares de peregrinación más importantes de España.
 

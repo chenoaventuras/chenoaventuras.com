@@ -32,8 +32,6 @@ faq:
 actividades:
   - t: "Segovia: vuelo en globo con picnic y cava"
     u: "https://www.getyourguide.es/segovia-l1694/segovia-vuelo-en-globo-aerostatico-con-comida-y-cava-t406164/"
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
 comer:
   - n: "Asador Maribel"
     r: 4.7
@@ -49,6 +47,8 @@ comer:
     t: "Restaurante de cocina castellana"
     d: "C. de la Infanta Isabel, 9"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-segovia-chenoaventuras.pdf
+guiaTitulo: 'Guía Segovia en PDF'
 ---
 Ver el **acueducto**, el **Alcázar** y la **catedral de Segovia** desde el aire, flotando en silencio mientras sale el sol, es de esas experiencias que se te quedan para siempre. Si estás pensando en regalarlo (o regalártelo), aquí te cuento todo lo que necesitas saber: precio, qué incluye, cuándo ir y qué llevar.
 

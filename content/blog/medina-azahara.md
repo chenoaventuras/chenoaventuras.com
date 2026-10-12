@@ -27,8 +27,6 @@ actividades:
     u: "https://www.civitatis.com/es/cordoba/visita-guiada-medina-azahara/"
   - t: "Tour nocturno por Medina Azahara"
     u: "https://www.civitatis.com/es/cordoba/tour-nocturno-medina-azahara/"
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
 comer:
   - n: "Bodegas Mezquita Corregidor"
     r: 4.8
@@ -43,6 +41,8 @@ comer:
     o: 1929
     d: "Ctra. Palma del Río, km 7"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-cordoba-chenoaventuras.pdf
+guiaTitulo: 'Guía Córdoba en PDF'
 ---
 A las afueras de **Córdoba** hay una ciudad entera que fue la más lujosa de Europa... y que solo duró **70 años**. **Medina Azahara** fue la capital de los califas de al-Ándalus, y hoy es **Patrimonio de la Humanidad**.
 

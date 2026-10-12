@@ -30,8 +30,8 @@ faq:
     a: "Sí, hay chiringuitos y restaurantes repartidos por la zona, alquiler de hamacas en algunos tramos y aparcamientos en la entrada. Pero gran parte de la playa es natural y sin sombra."
   - q: "¿Se puede llevar el coche a Formentera?"
     a: "Sí, en ferry, pero en temporada alta hay un cupo y una tasa diaria por meter vehículos en la isla. Para moverte, bici, moto o coche eléctrico de alquiler son lo más práctico."
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
+guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
+guiaTitulo: 'Guía Ibiza y Formentera en PDF'
 ---
 Una lengua de arena blanca que se estira hacia el norte entre dos mares, agua tan transparente que los barcos parecen flotar en el aire y, al fondo, Ibiza. **Ses Illetes** sale una y otra vez en las listas de las mejores playas de Europa, y cuando llegas entiendes por qué. Pero también es la más concurrida de Formentera, y en verano hay que saber cómo ir.
 

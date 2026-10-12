@@ -37,8 +37,8 @@ actividades:
     u: "https://www.civitatis.com/es/valencia/entrada-oceanografic/"
   - t: "Free tour de los misterios y leyendas de Valencia"
     u: "https://www.civitatis.com/es/valencia/tour-misterios-leyendas-valencia/"
-guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
-guiaTitulo: 'Guía Castellón y Valencia en PDF'
+guia: /assets/guias/guia-valencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Valencia en PDF'
 ---
 Un río que ya no tiene agua y se ha convertido en un parque de 9 kilómetros, unos edificios blancos que parecen naves espaciales, una torre gótica con 207 escalones, el mercado más bonito de España y un lago de arrozales donde el sol se pone sobre el agua. **Valencia** lo tiene todo, y además a pie de playa.
 

@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Avistamiento de cetáceos en Valle Gran Rey"
     u: "https://www.civitatis.com/es/valle-gran-rey/avistamiento-cetaceos-valle-gran-rey/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-la-gomera-chenoaventuras.pdf
+guiaTitulo: 'Guía La Gomera en PDF'
 ---
 Un barranco gigantesco que baja desde las cumbres de La Gomera hasta el mar, con laderas cubiertas de bancales de piedra y miles de palmeras, pueblos blancos colgados de las paredes y playas de arena negra donde el sol se esconde cada tarde sobre el Atlántico. **Valle Gran Rey** es el rincón más famoso de La Gomera, y el sitio donde muchos viajeros llegaron un día y se quedaron.
 

@@ -28,14 +28,14 @@ faq:
 actividades:
   - t: "Tour en kayak por las lagunas de San Pedro y Tinaja"
     u: "https://www.civitatis.com/es/ossa-de-montiel/kayak-lagunas-san-pedro-tinaja/"
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
 comer:
   - n: "Restaurante Abrasador los Batanes"
     r: 4.4
     o: 623
     d: "Ctra. Lagunas de Ruidera, km 8"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-albacete-chenoaventuras.pdf
+guiaTitulo: 'Guía Albacete en PDF'
 ---
 En mitad de la llanura manchega, de repente, aparece un rosario de **quince lagunas de agua turquesa** unidas por cascadas, rodeadas de pinos y sabinas. Las **Lagunas de Ruidera** son un auténtico oasis en el interior de España, y en verano se convierten en una de las mejores «playas» de interior.
 

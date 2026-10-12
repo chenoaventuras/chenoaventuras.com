@@ -30,8 +30,8 @@ faq:
     a: "Lechazo asado, sopa castellana, quesos de oveja, pinchos de autor y vinos de Ribera del Duero, Rueda, Cigales y Toro."
   - q: "¿Cómo ir de Madrid a Valladolid?"
     a: "En AVE en alrededor de una hora, o en coche por la A-6 y la A-62/A-601, unos 200 km (2 horas)."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-valladolid-chenoaventuras.pdf
+guiaTitulo: 'Guía Valladolid en PDF'
 ---
 Aquí nació Felipe II, aquí murió Colón, aquí vivió Cervantes cuando se publicó el *Quijote* y durante cinco años fue la capital de España. **Valladolid** es una ciudad con mucha más historia de la que su fama sugiere, con una de las fachadas más espectaculares del gótico europeo, el mejor museo de escultura del país y una plaza mayor que sirvió de modelo a todas las demás. Y, además, se come de maravilla.
 

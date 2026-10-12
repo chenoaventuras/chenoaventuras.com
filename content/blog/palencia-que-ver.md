@@ -30,8 +30,8 @@ faq:
     a: "La villa romana de La Olmeda, Frómista y el Canal de Castilla, Aguilar de Campoo y el románico palentino, y el castillo de Ampudia."
   - q: "¿A qué distancia está Palencia de Valladolid?"
     a: "A unos 50 km, alrededor de media hora en coche o en tren."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-palencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Palencia en PDF'
 ---
 Una catedral gótica enorme que casi nadie conoce, una cripta visigoda escondida bajo el altar, un Cristo gigante que bendice la ciudad desde un cerro y una calle porticada llena de vida. **Palencia** es una de las capitales más tranquilas de Castilla y León, y una de las que más sorprenden.
 

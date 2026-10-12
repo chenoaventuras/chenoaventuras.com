@@ -30,8 +30,8 @@ faq:
     a: "En Es Castell, junto a Mahón, considerado el primer pueblo de España en ver salir el sol. El mejor punto es el muelle de Cales Fonts."
   - q: "¿Qué calas hay cerca de Mahón?"
     a: "Cala Sant Esteve, Es Grau y la playa de Binibeca, y el pueblo de pescadores de Binibeca Vell, a unos 15-20 minutos."
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
+guia: /assets/guias/guia-menorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Menorca en PDF'
 ---
 Un fiordo mediterráneo de cinco kilómetros, salpicado de islotes con hospitales y fortalezas, casas con ventanas de guillotina inglesas sobre un acantilado y una destilería de ginebra en el muelle. **Mahón** (Maó), la capital de Menorca, es una ciudad tranquila con una historia de película: británicos, franceses y españoles se pelearon durante un siglo por su puerto.
 

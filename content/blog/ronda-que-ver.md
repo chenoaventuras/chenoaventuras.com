@@ -27,8 +27,6 @@ faq:
 actividades:
   - t: "Free tour por Ronda"
     u: "https://www.civitatis.com/es/ronda/free-tour-ronda/"
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
 comer:
   - n: "Restaurante Las Tablas"
     r: 4.9
@@ -45,6 +43,8 @@ comer:
     t: "Restaurante andaluz"
     d: "C. Nueva, 10"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-malaga-chenoaventuras.pdf
+guiaTitulo: 'Guía Málaga en PDF'
 ---
 Una ciudad partida en dos por un tajo de casi **100 metros de profundidad**, unida por un puente que parece imposible y con casas colgadas literalmente al borde del precipicio. **Ronda** es una de esas ciudades que se te quedan grabadas a la primera.
 

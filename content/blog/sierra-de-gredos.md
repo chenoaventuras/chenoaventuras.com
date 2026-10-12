@@ -25,6 +25,8 @@ faq:
     a: "Sí, es muy habitual verlas por la senda y junto a la laguna. No hay que darles de comer."
   - q: "¿Cómo llegar a la Laguna Grande de Gredos?"
     a: "En coche hasta la Plataforma de Gredos, subiendo desde Hoyos del Espino (Ávila). Desde allí son unos 6,5 km andando."
+guia: /assets/guias/guia-avila-chenoaventuras.pdf
+guiaTitulo: 'Guía Ávila en PDF'
 ---
 Una laguna de origen glaciar encajada a casi 2.000 metros, rodeada de paredes de granito y vigilada por el **Almanzor**, el pico más alto del Sistema Central. Y por el camino, **cabras montesas** tan tranquilas que se te acercan a pocos metros. La ruta a la **Laguna Grande de Gredos** es uno de los grandes clásicos del senderismo en el centro de España.
 

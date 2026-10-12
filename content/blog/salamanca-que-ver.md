@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Visita guiada por la Universidad de Salamanca"
     u: "https://www.civitatis.com/es/salamanca/visita-guiada-universidad-salamanca/"
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-salamanca-chenoaventuras.pdf
+guiaTitulo: 'Guía Salamanca en PDF'
 ---
 Hay ciudades doradas y luego está **Salamanca**, donde la piedra de Villamayor se vuelve de oro al atardecer. Una plaza mayor que muchos consideran la más bonita de España, la universidad más antigua del país con una rana escondida en la fachada, dos catedrales pegadas, un astronauta tallado en la piedra y una vida estudiantil que llena las calles hasta la madrugada.
 

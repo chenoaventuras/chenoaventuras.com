@@ -30,8 +30,8 @@ faq:
     a: "A unos 90 km, alrededor de una hora y cuarto en coche por la A-2."
   - q: "¿Qué hay que tener en cuenta al visitar los campos?"
     a: "No pisar ni arrancar plantas, aparcar sin bloquear caminos, llevar agua y protección solar, y cuidado con las abejas, que son muy numerosas durante la floración."
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+guia: /assets/guias/guia-guadalajara-chenoaventuras.pdf
+guiaTitulo: 'Guía Guadalajara en PDF'
 ---
 Cada mes de julio, la meseta de la Alcarria que rodea **Brihuega** se tiñe de morado. Más de mil hectáreas de lavanda en flor, hileras perfectas hasta el horizonte, olor a perfume en el aire y un árbol solitario en mitad del campo. La llaman la **«Provenza española»**, y está a una hora de Madrid.
 

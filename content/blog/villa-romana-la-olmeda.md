@@ -30,8 +30,8 @@ faq:
     a: "Sí, el recorrido es por pasarelas, sin escaleras complicadas, y suele haber talleres y visitas especiales para familias."
   - q: "¿Qué ver cerca de La Olmeda?"
     a: "Saldaña y su museo, Carrión de los Condes y Frómista en el Camino de Santiago, el Canal de Castilla y la Montaña Palentina con Aguilar de Campoo."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-palencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Palencia en PDF'
 ---
 Verano de 1968. Un agricultor de Palencia, **Javier Cortes**, decide allanar un pequeño cerro de sus tierras para poder regar mejor. Al poco de empezar, los trabajadores dan con algo duro a unos 65 centímetros de profundidad: un **suelo de mosaico romano**. Siguieron excavando y apareció un palacio entero.
 

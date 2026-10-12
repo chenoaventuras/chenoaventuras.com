@@ -30,8 +30,8 @@ faq:
     a: "A unos 30 km, alrededor de media hora en coche. De Burgos, unos 80 km."
   - q: "¿Qué ver cerca de Frómista?"
     a: "Villalcázar de Sirga, Carrión de los Condes, la villa romana La Olmeda, Palencia capital y Medina de Rioseco, donde termina un ramal del canal."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-palencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Palencia en PDF'
 ---
 En mitad de los campos de cereal de Tierra de Campos, donde el horizonte es una línea recta, hay un pueblo con una de las iglesias románicas más bonitas de Europa y, al lado, un canal de agua por el que en el siglo XIX navegaban barcazas cargadas de trigo tiradas por mulas. **Frómista** y el **Canal de Castilla** son dos de las sorpresas más bonitas de Palencia.
 

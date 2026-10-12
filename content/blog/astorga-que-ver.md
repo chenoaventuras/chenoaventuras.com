@@ -47,6 +47,8 @@ comer:
     t: "Parrilla"
     d: "C. los Sitios, 7B"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía León en PDF'
 ---
 Un **palacio de Gaudí** que parece un castillo de cuento, una catedral gigantesca justo al lado, murallas romanas y… un museo dedicado al **chocolate**. **Astorga** es una de esas ciudades pequeñas que sorprenden muchísimo, y además es parada clave del Camino de Santiago.
 

@@ -30,8 +30,8 @@ faq:
     a: "A unos 6-8 km de Riópar, en la sierra de Alcaraz (Albacete), dentro del Parque Natural de los Calares del Mundo y de la Sima."
   - q: "¿Qué ver cerca del Nacimiento del río Mundo?"
     a: "Riópar Viejo, el museo de las Reales Fábricas de Bronce en Riópar, Alcaraz, Ayna y el mirador del Diablo, y la Sierra del Segura."
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+guia: /assets/guias/guia-albacete-chenoaventuras.pdf
+guiaTitulo: 'Guía Albacete en PDF'
 ---
 Imagina una pared de roca de cientos de metros en mitad de un bosque y, a media altura, un agujero del que sale un río entero en forma de cascada. Eso es el **Nacimiento del río Mundo**, en la sierra de Alcaraz (Albacete), uno de los nacimientos de río más espectaculares de Europa. Y a veces, tras días de lluvia, la montaña «revienta» y el agua sale con una fuerza que asusta.
 

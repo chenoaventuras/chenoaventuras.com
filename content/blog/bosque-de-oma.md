@@ -30,8 +30,6 @@ actividades:
     u: "https://www.civitatis.com/es/bermeo/paseo-barco-costa-urdaibai/"
   - t: "Gernika: tour a pie «Guerra y paz»"
     u: "https://www.getyourguide.es/guernica-l7936/tour-a-piedi-di-gernika-guerra-e-pace-t459126/"
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
 comer:
   - n: "Castillo de Arteaga Hotel Restaurante"
     r: 4.7
@@ -46,6 +44,8 @@ comer:
     t: "Parrilla"
     d: "Basondo Auzoa, 8"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-bizkaia-chenoaventuras.pdf
+guiaTitulo: 'Guía Bizkaia en PDF'
 ---
 Árboles con ojos, rayas de colores y figuras que solo aparecen si te colocas en el sitio justo. El **Bosque de Oma**, en Urdaibai, es una obra de arte **pintada sobre un bosque** por el escultor vasco **Agustín Ibarrola**.
 

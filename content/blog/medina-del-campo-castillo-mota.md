@@ -30,8 +30,8 @@ faq:
     a: "A unos 50 km de Valladolid y unos 155 km de Madrid. Tiene estación de tren de alta velocidad."
   - q: "¿Qué ver cerca de Medina del Campo?"
     a: "Valladolid, Tordesillas, Urueña, la villa del libro, y el castillo de Peñafiel en la Ribera del Duero."
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-valladolid-chenoaventuras.pdf
+guiaTitulo: 'Guía Valladolid en PDF'
 ---
 Un castillo de ladrillo rojizo con un foso enorme y una torre del homenaje de unos 40 metros, una plaza gigantesca donde se reunían mercaderes de toda Europa y el palacio donde una reina dictó su testamento y murió. **Medina del Campo**, en la provincia de **Valladolid**, fue en el siglo XV una de las ciudades más ricas de Castilla, y aún conserva las huellas de aquella época.
 

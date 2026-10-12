@@ -41,6 +41,8 @@ comer:
     t: "Bar restaurante"
     d: "C. Matias Bo. y Mier, 23"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-palencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Palencia en PDF'
 ---
 Todo el mundo conoce Aguilar de Campoo por sus galletas, pero quien solo se queda con eso se pierde uno de los pueblos más completos que hay para visitar en la Montaña Palentina: castillo, románico, un embalse y un casco histórico que da para todo un día.
 

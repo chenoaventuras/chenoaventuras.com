@@ -30,8 +30,6 @@ actividades:
     u: "https://www.civitatis.com/es/toledo/tour-toledo-misterioso/"
   - t: "Tour de las leyendas de Toledo + Cuevas del Alcaná"
     u: "https://www.civitatis.com/es/toledo/tour-leyendas-toledo/"
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
 comer:
   - n: "Restaurante La Manuela Toledo"
     r: 4.9
@@ -48,6 +46,8 @@ comer:
     t: "Restaurante de cocina europea"
     d: "C. Sinagoga, 6"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-toledo-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo en PDF'
 ---
 En el valle del **Tajo**, frente a Toledo, hay una roca solitaria con una de las leyendas más curiosas de la ciudad: la **Piedra del Rey Moro**. El paseo hasta ella, con la ciudad entera delante, es una de las mejores formas de ver **Toledo desde fuera**.
 

@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Free tour por Valverde"
     u: "https://www.civitatis.com/es/valverde/free-tour-valverde/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-el-hierro-chenoaventuras.pdf
+guiaTitulo: 'Guía El Hierro en PDF'
 ---
 Árboles doblados hasta casi tocar el suelo, con troncos blanquecinos retorcidos como si fueran de goma, en una ladera pelada mirando al Atlántico. **El Sabinar** es el paisaje más famoso de **El Hierro**, y su sabina retorcida es el símbolo de la isla: la verás en logotipos, postales y recuerdos.
 

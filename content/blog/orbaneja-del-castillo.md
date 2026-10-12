@@ -40,6 +40,8 @@ comer:
     t: "Bar restaurante"
     d: "C. de la Iglesia, 37"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-burgos-chenoaventuras.pdf
+guiaTitulo: 'Guía Burgos en PDF'
 ---
 Un pueblo de piedra encajado bajo unas peñas gigantes, en pleno cañón del Ebro… y una **cascada que nace en una cueva y baja atravesando el pueblo** hasta el río. **Orbaneja del Castillo** parece sacado de un cuento, y es uno de los pueblos más fotografiados de Burgos.
 

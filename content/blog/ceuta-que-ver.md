@@ -47,6 +47,8 @@ comer:
     t: "Restaurante mediterráneo"
     d: "C. González de la Vega, 4"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Ceuta y Melilla en PDF'
 ---
 Una ciudad española en el norte de África, entre el Mediterráneo y el Atlántico, con murallas que se recorren **en kayak** por un foso de agua de mar. **Ceuta** sorprende a casi todo el que llega: fortalezas, calas, un monte con vistas al Estrecho y la silueta de la **Mujer Muerta** en el horizonte.
 

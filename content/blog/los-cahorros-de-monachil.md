@@ -30,8 +30,6 @@ faq:
 actividades:
   - t: "Senderismo por los Cahorros de Monachil"
     u: "https://www.civitatis.com/es/granada/senderismo-cahorros-monachil/"
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
 comer:
   - n: "Merendero Sangarrito"
     r: 4.5
@@ -47,6 +45,8 @@ comer:
     t: "Cafetería"
     d: "Calle Carlos Carreras, 20"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-granada-chenoaventuras.pdf
+guiaTitulo: 'Guía Granada en PDF'
 ---
 A solo 20 minutos de Granada, el río Monachil se cuela por un cañón de roca caliza tan estrecho que en algunos tramos tienes que **agacharte para pasar**. Esa es la ruta de **Los Cahorros**: puentes colgantes que se balancean sobre el río, pasarelas pegadas a la pared y paredes verticales donde casi siempre verás a alguien escalando.
 

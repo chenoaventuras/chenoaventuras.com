@@ -30,8 +30,8 @@ faq:
 actividades:
   - t: "Ferry a las Islas Cíes desde Vigo"
     u: "https://www.civitatis.com/es/vigo/barco-islas-cies/"
-guia: /assets/guias/guia-galicia-chenoaventuras.pdf
-guiaTitulo: 'Guía Galicia en PDF'
+guia: /assets/guias/guia-pontevedra-chenoaventuras.pdf
+guiaTitulo: 'Guía Pontevedra en PDF'
 ---
 Arena blanca, agua cristalina (y fría, eso sí) y senderos que suben a faros con vistas al Atlántico. Las **Islas Cíes**, frente a Vigo, son parte del **Parque Nacional de las Islas Atlánticas de Galicia** y tienen la que muchos consideran una de las mejores playas del mundo: **Rodas**.
 

@@ -16,8 +16,6 @@ actividades:
     u: "https://www.civitatis.com/es/valderrobres/visita-guiada-valderrobres/"
   - t: "Visita guiada por la Cueva del Agua de Fuentespalda"
     u: "https://www.civitatis.com/es/fuentespalda/visita-guiada-cueva-agua/"
-guia: /assets/guias/guia-aragon-chenoaventuras.pdf
-guiaTitulo: 'Guía Aragón en PDF'
 comer:
   - n: "Gastrobar Elías"
     r: 4.7
@@ -30,6 +28,8 @@ comer:
     t: "Restaurante de alta cocina"
     d: "Av. Hispanidad, 43 (Valderrobres)"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-teruel-chenoaventuras.pdf
+guiaTitulo: 'Guía Teruel en PDF'
 ---
 La llaman la **«Toscana española»**: colinas de olivos y almendros, pueblos medievales de piedra dorada y ríos de agua verde llenos de **pozas**. El **Matarraña**, en el rincón noreste de Teruel, es una de las comarcas más bonitas de España.
 

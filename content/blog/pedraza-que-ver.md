@@ -27,8 +27,6 @@ faq:
 actividades:
   - t: "Tour privado por Pedraza"
     u: "https://www.civitatis.com/es/pedraza/tour-privado-pedraza/"
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
 comer:
   - n: "Restaurante La Parada"
     r: 4.7
@@ -45,6 +43,8 @@ comer:
     t: "Asador de cordero"
     d: "Pl. Mayor, 7"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-segovia-chenoaventuras.pdf
+guiaTitulo: 'Guía Segovia en PDF'
 ---
 Hay pueblos a los que entras por varias calles y pueblos a los que solo se entra por un sitio. Pedraza es de los segundos, y esa sola puerta ya dice mucho de lo bien conservada que está esta villa medieval de Segovia.
 

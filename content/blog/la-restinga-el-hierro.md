@@ -30,8 +30,8 @@ faq:
     a: "La patrona es la Virgen del Carmen y sus fiestas se celebran en julio, con procesión marítima. Las fechas exactas cambian cada año: consúltalas en el Ayuntamiento de El Pinar."
   - q: "¿Cómo se llega a El Hierro?"
     a: "En avión desde Tenerife Norte o Gran Canaria, o en ferry desde Los Cristianos (Tenerife) hasta el puerto de La Estaca. Una vez en la isla, el coche es casi imprescindible."
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-el-hierro-chenoaventuras.pdf
+guiaTitulo: 'Guía El Hierro en PDF'
 ---
 Casas blancas apiñadas junto a un puerto pequeño, un volcán pelado detrás, coladas de lava negra hasta el agua y, bajo la superficie, uno de los fondos marinos mejor conservados de Europa. **La Restinga** es el último pueblo de España hacia el sur, y para mucha gente es la razón de viajar a El Hierro: aquí se viene a **bucear en el Mar de las Calmas**.
 

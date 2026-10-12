@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Free tour por Córdoba"
     u: "https://www.civitatis.com/es/cordoba/free-tour-cordoba/"
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
+guia: /assets/guias/guia-cordoba-chenoaventuras.pdf
+guiaTitulo: 'Guía Córdoba en PDF'
 ---
 La Mezquita es lo primero que ve todo el mundo en Córdoba, y con razón. Pero la ciudad no termina en sus arcos: alrededor hay un laberinto de callejuelas blancas de la antigua **judería**, una de las pocas **sinagogas medievales** que quedan en España, un alcázar con jardines de cuento y, escondidos detrás de las puertas, los **patios cordobeses**, cuajados de flores, que en mayo se abren a todo el mundo.
 

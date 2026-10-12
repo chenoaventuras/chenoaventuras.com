@@ -43,8 +43,8 @@ comer:
     t: "Restaurante argentino"
     d: "C. la Red, 2 (Corralejo)"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-fuerteventura-chenoaventuras.pdf
+guiaTitulo: 'Guía Fuerteventura en PDF'
 ---
 Playas de kilómetros sin edificios, lagunas turquesa que aparecen con la marea, dunas blancas y montañas peladas de colores ocres. **Fuerteventura** es la isla de las playas: tiene más de 150 y algunas de las más salvajes de Europa.
 

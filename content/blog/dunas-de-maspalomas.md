@@ -27,8 +27,6 @@ actividades:
     u: "https://www.civitatis.com/es/maspalomas/paseo-camello-dunas-maspalomas/"
   - t: "Avistamiento de delfines y ballenas en barco con fondo de cristal"
     u: "https://www.civitatis.com/es/maspalomas/avistamiento-delfines-ballenas/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
 comer:
   - n: "Restaurante Parque Romántico"
     r: 4.8
@@ -43,6 +41,8 @@ comer:
     o: 1681
     d: "Avenida de Tirajana, 17"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
+guiaTitulo: 'Guía Gran Canaria en PDF'
 ---
 Montañas de arena dorada que se mueven con el viento, el océano a un lado y una laguna con aves al otro. Las **Dunas de Maspalomas** son un pequeño desierto en el sur de Gran Canaria y una **Reserva Natural Especial**.
 

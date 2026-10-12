@@ -30,8 +30,8 @@ faq:
     a: "Durante la Edad Media fue la cabeza de una amplia comarca, la Mancha de Montearagón, y una plaza fuerte del marquesado de Villena. Más tarde, Albacete creció más y le quitó el protagonismo."
   - q: "¿Qué ver cerca de Chinchilla?"
     a: "Albacete capital, Alcalá del Júcar con sus casas colgadas sobre el río y, más al sur, el nacimiento del río Mundo en Riópar."
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+guia: /assets/guias/guia-albacete-chenoaventuras.pdf
+guiaTitulo: 'Guía Albacete en PDF'
 ---
 Un castillo enorme y cuadrado en lo alto de un cerro, que se ve desde kilómetros de llanura manchega. A sus pies, un pueblo de calles empinadas con casas blasonadas, una plaza con un ayuntamiento barroco y un barrio entero de casas excavadas en la roca. **Chinchilla de Montearagón**, a solo 15 km de Albacete, es uno de esos pueblos con mucha más historia de lo que parece.
 

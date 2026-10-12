@@ -44,6 +44,8 @@ comer:
     t: "Restaurante de cocina española"
     d: "C/ Carlos Ramírez de Arellano, 4"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Ceuta y Melilla en PDF'
 ---
 Una ciudadela amurallada encaramada a un acantilado sobre el Mediterráneo, túneles excavados en la roca que llegan hasta el mar y, a pocos pasos, calles llenas de fachadas **modernistas** de colores. **Melilla** es una de las ciudades más sorprendentes y desconocidas de España.
 

@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Visita al Museo de San Isidoro"
     u: "https://www.civitatis.com/es/leon/visita-museo-san-isidoro-leon/"
-guia: /assets/guias/guia-castilla-y-leon-chenoaventuras.pdf
-guiaTitulo: 'Guía Castilla y León en PDF'
+guia: /assets/guias/guia-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía León en PDF'
 ---
 Una catedral que parece hecha más de cristal que de piedra, un panteón de reyes con pinturas románicas de hace mil años, un edificio de Gaudí en la plaza principal y un barrio entero de bares donde con cada caña te ponen una tapa. **León** es de esas ciudades que se ven en un día y te dejan con ganas de volver, sobre todo por la noche.
 

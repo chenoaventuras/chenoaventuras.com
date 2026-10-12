@@ -25,6 +25,8 @@ faq:
     a: "Entre Ciudad Real y Puertollano, junto a la autovía A-41."
   - q: "¿Cuánto mide la pista del aeropuerto de Ciudad Real?"
     a: "4.200 metros, una de las más largas de Europa, preparada para los aviones más grandes del mundo."
+guia: /assets/guias/guia-ciudad-real-chenoaventuras.pdf
+guiaTitulo: 'Guía Ciudad Real en PDF'
 ---
 Una pista de **4.200 metros**, una de las más largas de Europa. Una inversión de unos **1.100 millones de euros**. Y apenas **tres años** con vuelos de pasajeros. El **aeropuerto de Ciudad Real** es uno de los símbolos más famosos de los años de la burbuja.
 

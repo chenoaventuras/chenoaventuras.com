@@ -37,6 +37,8 @@ comer:
     o: 148
     d: "Av. Prado de Irache, 14"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-navarra-chenoaventuras.pdf
+guiaTitulo: 'Guía Navarra en PDF'
 ---
 En el Camino de Santiago, a la salida de Estella, hay una fuente con **dos grifos**: uno de agua y otro de **vino tinto**. Gratis. Es la **Fuente del vino de Irache**, y es tan famosa que tiene hasta una **webcam** para ver en directo quién se acerca a brindar.
 

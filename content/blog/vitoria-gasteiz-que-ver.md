@@ -30,8 +30,8 @@ faq:
     a: "El Valle Salado de Añana, Laguardia y la Rioja Alavesa, el Salto del Nervión, los embalses de Ullíbarri-Gamboa y el Parque Natural del Gorbea."
   - q: "¿Por qué Vitoria fue Capital Verde Europea?"
     a: "En 2012, por su Anillo Verde de parques que rodean la ciudad, la gran cantidad de zonas verdes por habitante y su apuesta por la bici y el transporte público."
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
+guia: /assets/guias/guia-alava-chenoaventuras.pdf
+guiaTitulo: 'Guía Álava en PDF'
 ---
 Es la capital de Euskadi y, aun así, mucha gente pasa por al lado camino de Bilbao o San Sebastián. Error. **Vitoria-Gasteiz** tiene un casco medieval con forma de almendra, una catedral que se visita en plenas obras (con casco puesto), murales gigantes en las fachadas, un anillo de parques que rodea toda la ciudad y una de las mejores rutas de pintxos del norte.
 

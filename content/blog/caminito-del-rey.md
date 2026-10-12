@@ -36,8 +36,6 @@ actividades:
     u: "https://www.civitatis.com/es/ardales/visita-guiada-caminito-rey/"
   - t: "Caminito del Rey: todas las entradas y tours"
     u: "https://www.getyourguide.es/caminito-del-rey-l89646/"
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
 comer:
   - n: "La Garganta Hotel y Restaurante"
     r: 4.4
@@ -52,6 +50,8 @@ comer:
     t: "Restaurante andaluz"
     d: "Carretera del Chorro, 23"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-malaga-chenoaventuras.pdf
+guiaTitulo: 'Guía Málaga en PDF'
 ---
 Durante años tuvo fama de ser **el camino más peligroso del mundo**. Hoy el **Caminito del Rey** es una pasarela segura colgada en las paredes del Desfiladero de los Gaitanes, en Málaga, a unos 100 metros sobre el río Guadalhorce. Y sigue siendo una de esas experiencias que te dejan con la boca abierta en cada curva.
 

@@ -26,6 +26,8 @@ actividades:
     u: "https://www.civitatis.com/es/soria/tour-misterios-leyendas/"
   - t: "Tour de Soria al completo con entradas"
     u: "https://www.civitatis.com/es/soria/tour-soria-completo/"
+guia: /assets/guias/guia-soria-chenoaventuras.pdf
+guiaTitulo: 'Guía Soria en PDF'
 ---
 La noche de Difuntos, en Soria, las campanas doblan solas y los muertos salen del monte. Eso cuenta **Gustavo Adolfo Bécquer** en *El Monte de las Ánimas*, la leyenda de miedo más famosa de la literatura española.
 

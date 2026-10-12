@@ -37,8 +37,8 @@ actividades:
     u: "https://www.civitatis.com/es/la-graciosa/tour-4x4-graciosa/"
   - t: "Excursión a La Graciosa + paseo en velero"
     u: "https://www.civitatis.com/es/orzola/excursion-isla-graciosa/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
+guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Arena dorada casi blanca, un mar de azules imposibles, un volcán rojo a un lado y un islote enorme enfrente, sin un solo edificio a la vista. La **Playa de las Conchas**, en el norte de La Graciosa, es para muchos la playa más bonita de Canarias, y llegar hasta ella, por pistas de arena en una isla sin carreteras, es parte de la aventura.
 

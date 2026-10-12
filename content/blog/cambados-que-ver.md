@@ -30,8 +30,8 @@ faq:
     a: "Un poeta gallego nacido en Cambados en 1876, conocido como el «poeta da raza». Su casa natal, en Fefiñáns, es hoy casa museo."
   - q: "¿Qué ver cerca de Cambados?"
     a: "Combarro y sus hórreos junto al mar, la isla de A Toxa, O Grove, la ciudad de Pontevedra y la ruta da Pedra e da Auga, en Meis."
-guia: /assets/guias/guia-galicia-chenoaventuras.pdf
-guiaTitulo: 'Guía Galicia en PDF'
+guia: /assets/guias/guia-pontevedra-chenoaventuras.pdf
+guiaTitulo: 'Guía Pontevedra en PDF'
 ---
 Una plaza de granito enorme cerrada por un pazo señorial, viñedos que llegan casi hasta el mar, una iglesia gótica sin techo convertida en cementerio y una torre en ruinas sobre un islote de la ría. **Cambados**, en la **ría de Arousa**, es la capital del vino **Albariño** y uno de los pueblos más bonitos de las Rías Baixas.
 

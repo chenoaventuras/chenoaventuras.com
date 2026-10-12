@@ -24,8 +24,6 @@ faq:
     a: "A unos 30 km, media hora en coche por la A-67 hacia Torrelavega."
   - q: "¿Cuándo son las fiestas de Santillana del Mar?"
     a: "A finales de junio, en honor a Santa Juliana, con el baile tradicional de los picayos."
-guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 comer:
   - n: "Restaurante La Nueva Santuca"
     r: 4.8
@@ -43,6 +41,8 @@ comer:
     t: "Restaurante cántabro"
     d: "C. de la Carrera, 6"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria en PDF'
 ---
 Dicen que **Santillana del Mar** es la villa de las tres mentiras: **ni es santa, ni es llana, ni tiene mar**. Y aun así es uno de los pueblos más buscados de España, y en cuanto pisas sus calles empedradas entiendes por qué.
 

@@ -30,8 +30,8 @@ faq:
     a: "Hay autobús entre Vitoria-Gasteiz y Lalastra los fines de semana y festivos, con pocos servicios, y a la demanda entre semana. Infórmate antes de ir."
   - q: "¿Cuándo es mejor ir a Valderejo?"
     a: "En primavera, por el verde y el agua del río, y en otoño, por los colores. En verano conviene salir temprano; en invierno puede haber nieve y hielo."
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
+guia: /assets/guias/guia-alava-chenoaventuras.pdf
+guiaTitulo: 'Guía Álava en PDF'
 ---
 Un valle cerrado por muros de roca caliza, con buitres planeando sobre los cortados, un río que se abre paso por un desfiladero y pueblos que se quedaron vacíos hace más de medio siglo. El **Parque Natural de Valderejo**, en el rincón más occidental de **Álava**, es uno de los espacios naturales más salvajes y menos conocidos del País Vasco.
 

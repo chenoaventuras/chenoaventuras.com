@@ -37,6 +37,8 @@ comer:
     o: 683
     d: "C. de Burgos, 23"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-burgos-chenoaventuras.pdf
+guiaTitulo: 'Guía Burgos en PDF'
 ---
 Al norte de la provincia de Burgos hay una comarca donde los pueblos se construyen bajo puentes de roca, las ermitas se excavan dentro de cuevas y hasta la ciudad más pequeña de España guarda su propio castillo. Se llama Las Merindades, y da para una escapada entera sin repetir paisaje ni una sola vez.
 

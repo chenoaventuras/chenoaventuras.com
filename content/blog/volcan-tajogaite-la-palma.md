@@ -26,8 +26,6 @@ faq:
 actividades:
   - t: "Excursión al volcán Tajogaite"
     u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
 comer:
   - n: "Restaurante Franchipani"
     r: 4.7
@@ -44,6 +42,8 @@ comer:
     o: 337
     d: "Calle Empalme Tajuya, 1"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-la-palma-chenoaventuras.pdf
+guiaTitulo: 'Guía La Palma en PDF'
 ---
 Entre septiembre y diciembre de **2021**, el volcán de **Tajogaite** estuvo **85 días** en erupción en La Palma. La lava llegó al mar y formó **plataformas nuevas**, las **fajanas**: el **terreno más joven de España**.
 

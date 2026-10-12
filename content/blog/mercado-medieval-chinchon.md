@@ -46,6 +46,8 @@ comer:
     o: 500
     d: "C. de los Carpinteros, 5"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 [Chinchón](/blog/chinchon-castillo-de-noche.html) ya es, de por sí, uno de los pueblos más bonitos de la Comunidad de Madrid. Pero una vez al año, sus calles empedradas y su **Plaza Mayor** viajan varios siglos atrás para llenarse de caballeros, juglares, antorchas y artesanos: es el **Mercado Medieval de Chinchón**.
 

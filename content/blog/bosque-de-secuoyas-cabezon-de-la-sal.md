@@ -27,8 +27,6 @@ faq:
     a: "El paseo dura unos 30-45 minutos."
   - q: "¿Hay que reservar para el bosque de secuoyas?"
     a: "No: es gratis, no hace falta reserva y abre todo el año."
-guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 comer:
   - n: "La Riojana Restaurante & Bar"
     r: 4.4
@@ -41,6 +39,8 @@ comer:
     t: "Bar restaurante"
     d: "Bo. Carrejo, 11"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria en PDF'
 ---
 Parece California, pero estás a 10 minutos de Comillas. En el **Monte Cabezón**, en Cantabria, hay un bosque de **secuoyas gigantes** que superan los 35 metros de altura y te hacen sentir diminuto.
 

@@ -29,6 +29,8 @@ comer:
     o: 455
     t: "Restaurante vasco"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-navarra-chenoaventuras.pdf
+guiaTitulo: 'Guía Navarra en PDF'
 ---
 En otoño, la **Selva de Irati** se pone de todos los colores: amarillos, naranjas, rojos y el verde oscuro de los abetos, todo reflejado en el río. Es uno de los bosques más grandes y mejor conservados de Europa, y en octubre está en su mejor momento.
 

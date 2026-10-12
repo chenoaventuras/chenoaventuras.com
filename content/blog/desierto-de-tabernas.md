@@ -28,8 +28,6 @@ faq:
 actividades:
   - t: "Tour en 4x4 por el desierto de Tabernas"
     u: "https://www.civitatis.com/es/tabernas/tour-desierto-tabernas/"
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
 comer:
   - n: "La Dalía Gastrobar"
     r: 4.5
@@ -39,6 +37,8 @@ comer:
     r: 4.5
     o: 824
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-almeria-chenoaventuras.pdf
+guiaTitulo: 'Guía Almería en PDF'
 ---
 Cárcavas peladas, ramblas secas, un sol que no perdona… y de repente, un poblado del Far West con su saloon y su banco. No estás en Arizona: estás en el **Desierto de Tabernas**, a media hora de Almería capital, el sitio donde se rodaron los grandes *spaghetti western* de Sergio Leone.
 

@@ -35,8 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/la-graciosa/alquiler-bicicleta-la-graciosa/"
   - t: "Tour en 4x4 por la isla de La Graciosa"
     u: "https://www.civitatis.com/es/la-graciosa/tour-4x4-graciosa/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
+guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Un volcán de colores amarillos, ocres y rojizos que cae directamente al mar, playas de arena blanca con agua de piscina y Lanzarote al otro lado del estrecho. El **sur de La Graciosa** se recorre en una ruta sencilla desde Caleta de Sebo que reúne algunos de los paisajes más bonitos de Canarias, con **Montaña Amarilla** como gran protagonista.
 

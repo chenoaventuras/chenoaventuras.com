@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Excursión a la Albufera con paseo en barca"
     u: "https://www.civitatis.com/es/valencia/excursion-albufera/"
-guia: /assets/guias/guia-castellon-valencia-chenoaventuras.pdf
-guiaTitulo: 'Guía Castellón y Valencia en PDF'
+guia: /assets/guias/guia-valencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Valencia en PDF'
 ---
 Un lago enorme y tranquilo rodeado de arrozales, barcas de madera deslizándose entre cañas, garzas posadas en estacas y un cielo que al atardecer se vuelve naranja, rosa y morado. La **Albufera**, a solo 20 minutos de **Valencia**, es uno de los paisajes más bonitos de la Comunidad Valenciana y la cuna de la paella.
 

@@ -30,8 +30,8 @@ faq:
     a: "En las calles y aparcamientos de las afueras del casco histórico. El centro es pequeño y se recorre andando en pocos minutos."
   - q: "¿Qué ver cerca de Almagro?"
     a: "El castillo-convento de Calatrava la Nueva, las Tablas de Daimiel, los volcanes del Campo de Calatrava, las Lagunas de Ruidera y los molinos de Consuegra."
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+guia: /assets/guias/guia-ciudad-real-chenoaventuras.pdf
+guiaTitulo: 'Guía Ciudad Real en PDF'
 ---
 Hubo un tiempo en que en España se iba al teatro como hoy se va al fútbol: en patios al aire libre, con gritos, silbidos, vendedores de fruta y peleas por el mejor sitio. Eran los **corrales de comedias**, y de todos los que hubo en el Siglo de Oro, solo uno ha llegado hasta hoy tal como era y sigue funcionando: el de **Almagro**.
 

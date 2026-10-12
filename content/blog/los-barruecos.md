@@ -22,8 +22,6 @@ faq:
     a: "Sí, senderos señalizados y fáciles alrededor de las charcas, aptos para casi todo el mundo."
   - q: "¿Qué ver cerca de Los Barruecos?"
     a: "Cáceres y su Ciudad Monumental, a 15 minutos, y Trujillo, a menos de una hora."
-guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
-guiaTitulo: 'Guía Extremadura en PDF'
 comer:
   - n: "Los Puri 1978"
     r: 4.5
@@ -38,6 +36,8 @@ comer:
     o: 81
     d: "C. Fajardo, 58"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-caceres-chenoaventuras.pdf
+guiaTitulo: 'Guía Cáceres en PDF'
 ---
 Rocas de granito enormes, redondeadas como si alguien las hubiera colocado a mano, reflejándose en charcas tranquilas. Y encima de muchas de ellas, **nidos de cigüeña**. Son **Los Barruecos**, un Monumento Natural a solo 15 minutos de Cáceres.
 

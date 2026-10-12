@@ -41,6 +41,8 @@ comer:
     t: "Restaurante de cocina española"
     d: "C. Martínez Lacuesta, 11"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-la-rioja-chenoaventuras.pdf
+guiaTitulo: 'Guía La Rioja en PDF'
 ---
 Si hay un pueblo que huele a vino, es **Haro**. Junto a la vieja estación de tren se concentran varias de las **bodegas más antiguas de La Rioja**, y cada 29 de junio miles de personas suben a los riscos de Bilibio para empaparse de tinto en la **Batalla del Vino**.
 

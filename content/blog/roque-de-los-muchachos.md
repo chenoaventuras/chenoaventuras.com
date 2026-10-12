@@ -30,8 +30,8 @@ faq:
     a: "Puede cerrarse por nieve, hielo o desprendimientos, sobre todo en invierno. Consulta su estado antes de subir en la web del IAC o del Cabildo."
   - q: "¿Merece la pena subir al atardecer?"
     a: "Mucho: el sol se pone sobre el mar de nubes y a veces se ven Tenerife, La Gomera y El Hierro asomando. Baja con precaución, porque la carretera es larga y de curvas."
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-la-palma-chenoaventuras.pdf
+guiaTitulo: 'Guía La Palma en PDF'
 ---
 Cúpulas blancas y plateadas brillando al sol sobre un mar de nubes, a más de 2.400 metros de altura, y a sus pies un cráter gigantesco de paredes verticales. El **Roque de los Muchachos**, el techo de **La Palma**, es a la vez un mirador natural impresionante y uno de los mejores observatorios astronómicos del mundo.
 

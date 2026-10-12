@@ -25,8 +25,6 @@ faq:
 actividades:
   - t: "Free tour nocturno por Hervás"
     u: "https://www.civitatis.com/es/hervas/free-tour-nocturno-hervas/"
-guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
-guiaTitulo: 'Guía Norte de Extremadura en PDF'
 comer:
   - n: "Restaurante Más Que Parrilla"
     r: 4.9
@@ -44,6 +42,8 @@ comer:
     t: "Bar restaurante"
     d: "C. Rabilero, 5"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-caceres-chenoaventuras.pdf
+guiaTitulo: 'Guía Cáceres en PDF'
 ---
 Calles estrechísimas, casas de entramado de madera de castaño que casi se tocan por arriba, un río de montaña cruzando el pueblo y la sierra nevada al fondo. **Hervás** tiene uno de los **barrios judíos mejor conservados de España**, y es la puerta perfecta para descubrir el norte de Extremadura.
 

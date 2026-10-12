@@ -46,8 +46,8 @@ comer:
     t: "Restaurante de cocina española"
     d: "Calle Esperanza, 14 (Arrecife)"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
+guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Paisajes de lava negra, cráteres rojos, viñedos plantados en hoyos de ceniza y casas blancas con puertas verdes. **Lanzarote** parece otro planeta, y gran parte de su encanto se lo debe a **César Manrique**, el artista que convirtió la isla en una obra de arte y consiguió que no se llenara de rascacielos.
 

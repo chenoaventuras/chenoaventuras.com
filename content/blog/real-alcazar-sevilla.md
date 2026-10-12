@@ -30,8 +30,8 @@ faq:
     a: "A primera hora, nada más abrir, para ver los patios sin aglomeraciones. En verano, evita el mediodía en los jardines."
   - q: "¿Qué ver cerca del Real Alcázar?"
     a: "La catedral y la Giralda, el Archivo de Indias, el barrio de Santa Cruz y, a 15 minutos andando, la Plaza de España."
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
+guia: /assets/guias/guia-sevilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Sevilla en PDF'
 ---
 Mil años de historia en un solo recinto: una fortaleza árabe, un palacio mudéjar de un rey cristiano, salones góticos, jardines renacentistas llenos de pavos reales y, encima, sigue siendo residencia oficial de la familia real. El **Real Alcázar de Sevilla** es uno de los palacios más bonitos del mundo y el palacio real en uso más antiguo de Europa. Y si eres fan de *Juego de Tronos*, aquí estaba Dorne.
 

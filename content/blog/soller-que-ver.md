@@ -27,8 +27,6 @@ faq:
 actividades:
   - t: "Tren a Sóller y paseo en barco a Sa Calobra desde Palma"
     u: "https://www.civitatis.com/es/palma-mallorca/excursion-soller-sa-calobra/"
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
 comer:
   - n: "Tres Llunes"
     r: 4.9
@@ -44,6 +42,8 @@ comer:
     t: "Restaurante de brunch"
     d: "Carrer de sa Lluna, 70"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-mallorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Mallorca en PDF'
 ---
 Un valle lleno de **naranjos** rodeado por las montañas más altas de Mallorca, un pueblo con fachadas modernistas, un puerto en una bahía casi cerrada y, para llegar, un **tren de madera de 1912** que cruza la sierra por túneles. **Sóller** es probablemente la escapada más bonita de la isla.
 

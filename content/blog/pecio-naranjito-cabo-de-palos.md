@@ -28,6 +28,8 @@ actividades:
     u: "https://www.civitatis.com/es/cabo-de-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 La noche del **13 al 14 de abril de 1946**, un viejo carguero cargado de **naranjas** se dio la vuelta a menos de una milla del puerto de **Cabo de Palos** y se fue al fondo en pocos minutos. Las naranjas quedaron flotando por toda la costa. Desde entonces, a ese barco todo el mundo lo llama **el Naranjito**.
 

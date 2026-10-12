@@ -30,8 +30,8 @@ faq:
     a: "Porque brota atravesando un diapiro, una enorme masa de sal formada hace más de 200 millones de años cuando un mar se evaporó. El agua se carga de sal por el camino."
   - q: "¿Qué ver cerca del Valle Salado de Añana?"
     a: "El lago de Arreo, a pocos kilómetros; Vitoria-Gasteiz; el Salto del Nervión; y, un poco más lejos, Laguardia y la Rioja Alavesa."
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
+guia: /assets/guias/guia-alava-chenoaventuras.pdf
+guiaTitulo: 'Guía Álava en PDF'
 ---
 Imagina un valle entero cubierto de **terrazas de madera y piedra** escalonadas, unidas por canales por los que corre agua tan salada que si la pruebas te arde la lengua. No estamos en la costa: estamos en mitad de Álava, a media hora de Vitoria. El **Valle Salado de Añana** es una de las fábricas de sal más antiguas del mundo, y es de esos sitios que no te esperas encontrar en el interior del País Vasco.
 

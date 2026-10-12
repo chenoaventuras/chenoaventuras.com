@@ -30,8 +30,8 @@ faq:
     a: "La Caleta por su encanto, entre dos castillos, y la playa de la Victoria por su tamaño y servicios, una de las mejores playas urbanas de España."
   - q: "¿Dónde aparcar en Cádiz?"
     a: "En los aparcamientos de la entrada del casco antiguo o junto al puerto. El casco histórico es pequeño y se recorre a pie."
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
+guia: /assets/guias/guia-cadiz-chenoaventuras.pdf
+guiaTitulo: 'Guía Cádiz en PDF'
 ---
 Una ciudad casi rodeada por el mar, con una catedral de cúpula dorada asomada al Atlántico, un castillo al que se llega caminando sobre las olas, torres vigía en los tejados, calles estrechas que huelen a pescaíto frito y una gente con una gracia que no existe en ningún otro sitio. **Cádiz** presume de ser la ciudad más antigua de Occidente y es, sin duda, una de las más alegres.
 

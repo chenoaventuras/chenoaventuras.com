@@ -30,8 +30,6 @@ faq:
 actividades:
   - t: "Free tour por Hondarribia"
     u: "https://www.civitatis.com/es/hondarribia/free-tour-hondarribia/"
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
 comer:
   - n: "Arroenia - cuisine Basque"
     r: 4.7
@@ -48,6 +46,8 @@ comer:
     o: 2344
     d: "Av. Iparralde, 59"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-gipuzkoa-chenoaventuras.pdf
+guiaTitulo: 'Guía Gipuzkoa en PDF'
 ---
 En el río Bidasoa, entre **Irun** y **Hendaya**, hay una isla diminuta que **cambia de país cada seis meses**: de febrero a julio es española y de agosto a enero, francesa. Es la **Isla de los Faisanes**, el condominio más pequeño del mundo.
 

@@ -26,8 +26,6 @@ faq:
     a: "Casi 2.000 litros por metro cuadrado al año de media, más que en muchos sitios de Galicia."
   - q: "¿Cuándo es el Lunes del Toro de Grazalema?"
     a: "El lunes siguiente al 16 de julio, dentro de las fiestas de la Virgen del Carmen."
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
 comer:
   - n: "Casa Martín 1920"
     r: 4.8
@@ -45,6 +43,8 @@ comer:
     t: "Restaurante andaluz"
     d: "Plaza España, 5 b"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-cadiz-chenoaventuras.pdf
+guiaTitulo: 'Guía Cádiz en PDF'
 ---
 En plena Andalucía hay un pueblo blanco donde llueve **más que en muchos sitios de Galicia**. **Grazalema** (Cádiz) recoge de media casi **2.000 litros por metro cuadrado al año**: es el lugar más lluvioso de Andalucía y de toda la mitad sur de la península.
 

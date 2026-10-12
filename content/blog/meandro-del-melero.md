@@ -22,8 +22,6 @@ faq:
     a: "Es parte de un embalse. Para bañarte, en Las Hurdes hay piscinas naturales preparadas en varios pueblos."
   - q: "¿Qué ver cerca del Meandro del Melero?"
     a: "Los pueblos de Las Hurdes, La Alberca y la Sierra de Francia en Salamanca, y el Valle del Ambroz con Hervás."
-guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
-guiaTitulo: 'Guía Extremadura en PDF'
 comer:
   - n: "Restaurante Los Ángeles"
     r: 4.6
@@ -35,6 +33,8 @@ comer:
     o: 218
     d: "Av. Rocandelario, 1D"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-caceres-chenoaventuras.pdf
+guiaTitulo: 'Guía Cáceres en PDF'
 ---
 El río Alagón da una vuelta tan cerrada que casi rodea por completo un monte cubierto de pinos. Visto desde arriba parece una isla en mitad del agua. Es el **Meandro del Melero**, uno de los paisajes más fotografiados de Extremadura.
 

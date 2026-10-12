@@ -30,8 +30,8 @@ faq:
     a: "En los aparcamientos de la ronda que rodea el casco antiguo. El centro es casi todo peatonal y se recorre a pie en pocos minutos."
   - q: "¿Qué comer en Ciutadella?"
     a: "Caldereta de langosta, oliaigua, queso Mahón-Menorca, sobrasada, ensaimadas y, en Sant Joan, la pomada: ginebra de Menorca con limonada."
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
+guia: /assets/guias/guia-menorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Menorca en PDF'
 ---
 En el extremo oeste de Menorca hay una ciudad de piedra dorada con palacios nobles, una catedral gótica, calles con arcos y un puerto estrecho donde, de vez en cuando, el mar se vacía de golpe. Es **Ciutadella**, que fue la capital de la isla durante siglos y que todavía conserva ese aire señorial que Mahón perdió con los ingleses.
 

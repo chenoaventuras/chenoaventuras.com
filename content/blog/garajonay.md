@@ -30,8 +30,8 @@ faq:
     a: "Porque conserva una de las mejores muestras de laurisilva del mundo, un tipo de bosque muy antiguo y escaso. Fue declarado Parque Nacional en 1981 y Patrimonio de la Humanidad en 1986."
   - q: "¿Se puede ir a Garajonay en excursión desde Tenerife?"
     a: "Sí, en ferry desde Los Cristianos a San Sebastián de La Gomera (alrededor de una hora) y alquilando coche, o con una excursión organizada de día completo."
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-la-gomera-chenoaventuras.pdf
+guiaTitulo: 'Guía La Gomera en PDF'
 ---
 Árboles retorcidos cubiertos de musgo, líquenes colgando de las ramas como barbas, una niebla que se mueve entre los troncos y un silencio que solo rompe el canto de las palomas. Entrar en el **Parque Nacional de Garajonay** es como meterte en un bosque de cuento, y no es una exageración: es uno de los bosques más antiguos de Europa, un superviviente de hace millones de años.
 

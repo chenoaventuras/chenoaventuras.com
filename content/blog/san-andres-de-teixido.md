@@ -20,6 +20,8 @@ faq:
     a: "Una flor que crece en los acantilados. Según la tradición, si la metes en el bolsillo de la persona que te gusta, se enamora de ti."
   - q: "¿Cuándo es la romería de San Andrés de Teixido?"
     a: "La fiesta principal es el 30 de noviembre, día de San Andrés, pero hay peregrinos todo el año, sobre todo en verano."
+guia: /assets/guias/guia-a-coruna-chenoaventuras.pdf
+guiaTitulo: 'Guía A Coruña en PDF'
 ---
 En Galicia hay un dicho que no deja escapatoria: **«A San Andrés de Teixido vai de morto quen non foi de vivo»**. A este pequeño santuario colgado sobre el Atlántico hay que ir sí o sí: o vas en vida, o irás después de muerto convertido en lagartija, sapo o culebra.
 

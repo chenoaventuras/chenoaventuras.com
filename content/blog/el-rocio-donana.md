@@ -35,8 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/almonte/visita-guiada-donana/"
   - t: "Paseo en calesa por Doñana y El Rocío"
     u: "https://www.civitatis.com/es/rocio/paseo-calesa-donana-rocio/"
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
+guia: /assets/guias/guia-huelva-chenoaventuras.pdf
+guiaTitulo: 'Guía Huelva en PDF'
 ---
 Un pueblo blanco donde las calles no tienen asfalto sino arena, donde los caballos se atan a la puerta de las casas como en una película del Oeste y donde, al fondo de la plaza, una marisma se llena de flamencos rosas. **El Rocío** es uno de los lugares más sorprendentes de España, y es además la puerta de entrada a **Doñana**, el espacio natural más famoso del país.
 

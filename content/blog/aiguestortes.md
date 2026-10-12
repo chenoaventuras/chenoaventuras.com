@@ -30,8 +30,8 @@ faq:
     a: "Una travesía circular por los refugios del parque, de varios días, que une nueve refugios de montaña. Hay que reservarla con antelación."
   - q: "¿Qué ver cerca de Aigüestortes?"
     a: "Las iglesias románicas de la Vall de Boí (Patrimonio de la Humanidad), el Val d'Aran, Espot y el valle del Noguera Pallaresa con sus deportes de aventura."
-guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
-guiaTitulo: 'Guía Cataluña en PDF'
+guia: /assets/guias/guia-lleida-chenoaventuras.pdf
+guiaTitulo: 'Guía Lleida en PDF'
 ---
 Lagos de aguas transparentes en los que se reflejan picos de granito, prados donde pastan las vacas, bosques de pino negro y abetos, arroyos que serpentean por el valle y dos montañas gemelas con leyenda. El **Parque Nacional d'Aigüestortes i Estany de Sant Maurici**, en el Pirineo de Lleida, es uno de los paisajes de alta montaña más bonitos de España, y el único parque nacional de Cataluña.
 

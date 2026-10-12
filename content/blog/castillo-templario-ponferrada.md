@@ -23,6 +23,8 @@ faq:
 actividades:
   - t: "Visita guiada por Ponferrada y su castillo"
     u: "https://www.civitatis.com/es/ponferrada/visita-guiada-ponferrada/"
+guia: /assets/guias/guia-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía León en PDF'
 ---
 Murallas almenadas, torres, un puente levadizo y la cruz templaria por todas partes. El **Castillo de Ponferrada** parece sacado de una novela de caballeros… y en parte lo es, porque aquí la leyenda de los **templarios** está en cada piedra.
 

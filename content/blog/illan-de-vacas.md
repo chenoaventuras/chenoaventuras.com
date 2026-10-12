@@ -22,8 +22,6 @@ faq:
     a: "Sí. Es un municipio con su propio ayuntamiento y alcalde."
   - q: "¿Cómo llegar a Illán de Vacas?"
     a: "En coche: está en la comarca de Torrijos (Toledo), a 23 km de Talavera de la Reina y a 46 de Toledo."
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
 comer:
   - n: "Casa Empleitas"
     r: 4.5
@@ -34,6 +32,8 @@ comer:
     t: "Cafetería"
     d: "C. Malpica, 2"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-toledo-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo en PDF'
 ---
 Tiene ayuntamiento, alcalde, iglesia y fiestas... y **8 vecinos**. **Illán de Vacas**, en Toledo, es el **municipio con menos habitantes de España** según el INE.
 

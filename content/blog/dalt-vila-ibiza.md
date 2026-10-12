@@ -30,8 +30,8 @@ faq:
     a: "A última hora de la tarde, cuando baja el calor y el sol tiñe las murallas, y de noche, con todo iluminado. En verano evita el mediodía."
   - q: "¿Hay mercadillo en Dalt Vila?"
     a: "En la Marina, a los pies de Dalt Vila, hay puestos hippies en verano por las tardes, y en mayo se celebra la Feria Medieval dentro de las murallas."
-guia: /assets/guias/guia-baleares-chenoaventuras.pdf
-guiaTitulo: 'Guía Islas Baleares en PDF'
+guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
+guiaTitulo: 'Guía Ibiza y Formentera en PDF'
 ---
 Ibiza tiene fama de fiesta, pero su capital esconde una de las ciudades amuralladas mejor conservadas del Mediterráneo. **Dalt Vila**, la «ciudad de arriba», es un laberinto de calles blancas encerrado por siete baluartes del siglo XVI, con una catedral en lo más alto y vistas al puerto, a Formentera y al mar. Y lleva más de 2.500 años habitada.
 

@@ -32,8 +32,6 @@ actividades:
     u: "https://www.getyourguide.es/jameos-del-agua-l135002/"
   - t: "Cueva de los Verdes: entradas"
     u: "https://www.getyourguide.es/cueva-de-los-verdes-l83810/tickets-de-entrada-tc123/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
 comer:
   - n: "Mamma Grazia"
     r: 4.6
@@ -45,6 +43,8 @@ comer:
     o: 1621
     d: "C. Pared del Agua, 14"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
+guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Hace miles de años, el **volcán de La Corona** escupió un río de lava que corrió hasta el mar y dejó un túnel de varios kilómetros. Hoy, en ese túnel, puedes visitar dos de los lugares más impresionantes de **Lanzarote**: los **Jameos del Agua** y la **Cueva de los Verdes**.
 

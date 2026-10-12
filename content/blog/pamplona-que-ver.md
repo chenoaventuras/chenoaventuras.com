@@ -30,6 +30,8 @@ faq:
     a: "En el Casco Viejo, sobre todo en las calles San Nicolás y Estafeta y alrededor de la Plaza del Castillo."
   - q: "¿Qué ver cerca de Pamplona?"
     a: "Las Bardenas Reales, la Selva de Irati, Olite y su castillo, el Señorío de Bértiz y la fuente del vino de Irache."
+guia: /assets/guias/guia-navarra-chenoaventuras.pdf
+guiaTitulo: 'Guía Navarra en PDF'
 ---
 Todo el mundo conoce Pamplona por una semana al año: la de los mozos vestidos de blanco y rojo corriendo delante de los toros. Pero la capital de Navarra es mucho más que San Fermín: unas murallas de las mejor conservadas de España, una ciudadela con forma de estrella convertida en parque, una catedral gótica con uno de los claustros más bonitos de Europa y un Casco Viejo donde los pintxos son de concurso.
 

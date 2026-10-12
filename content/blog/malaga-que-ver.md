@@ -30,8 +30,8 @@ faq:
     a: "Hay franjas gratuitas en algunos momentos del domingo, pero cambian; consulta la web del museo. Además, la Casa Natal de Picasso está en la plaza de la Merced."
   - q: "¿Cómo ir del aeropuerto al centro de Málaga?"
     a: "En tren de cercanías o autobús, en unos 15-20 minutos. El aeropuerto está a unos 8 km del centro."
-guia: /assets/guias/guia-andalucia-oriental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía oriental en PDF'
+guia: /assets/guias/guia-malaga-chenoaventuras.pdf
+guiaTitulo: 'Guía Málaga en PDF'
 ---
 Una fortaleza árabe sobre un teatro romano, un castillo en lo alto del monte con vistas al puerto, una catedral a la que le falta una torre, la ciudad natal de Picasso y, a cinco minutos andando, una playa donde comer sardinas asadas en una barca. **Málaga** ha pasado de ser la ciudad del aeropuerto de la Costa del Sol a una de las ciudades más apetecibles de España.
 

@@ -30,8 +30,8 @@ faq:
     a: "No, todas son gratuitas. Algunas tienen aparcamiento, duchas, baños o un chiringuito cerca; otras no tienen ningún servicio."
   - q: "¿Qué llevar a las piscinas naturales de El Hierro?"
     a: "Escarpines o calzado de agua (la roca volcánica corta y resbala), protección solar, agua y algo de comer para las que no tienen servicios."
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-el-hierro-chenoaventuras.pdf
+guiaTitulo: 'Guía El Hierro en PDF'
 ---
 En **El Hierro** casi no hay playas de arena. Es la isla más joven de Canarias y su costa es un muro de lava negra que cae al Atlántico. Pero el mar y los volcanes han dejado aquí algo mejor: **charcos y piscinas naturales** de agua transparente, encajadas entre rocas, cuevas y arcos de lava. Bañarse en ellas es una de las mejores experiencias de la isla.
 

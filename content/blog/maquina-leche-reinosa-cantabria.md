@@ -26,8 +26,6 @@ faq:
     a: "Al ser leche fresca, guárdala en la nevera y tómala en pocos días."
   - q: "¿Qué ver en Reinosa?"
     a: "El Nacimiento del Ebro en Fontibre, la Colegiata de Cervatos, las ruinas romanas de Julióbriga y el Embalse del Ebro."
-guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 comer:
   - n: "Restaurante y Pizzería La Mole"
     r: 4.6
@@ -44,6 +42,8 @@ comer:
     t: "Bar restaurante"
     d: "C. Ángel de los Ríos, 14"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria en PDF'
 ---
 Hay curiosidades que encuentras por casualidad y que te alegran el viaje. En **Reinosa**, en el corazón de Cantabria, hay una **máquina que despacha leche recién ordeñada** de vacas de la zona, como si fuera una fuente pública. Echas la moneda, pones la botella y listo.
 

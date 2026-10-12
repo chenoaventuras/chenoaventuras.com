@@ -30,8 +30,8 @@ faq:
     a: "Un día es suficiente para la muralla, la catedral, el casco antiguo y una tarde de tapas. Con dos puedes hacer una escapada a la Ribeira Sacra."
   - q: "¿Dónde aparcar en Lugo?"
     a: "En los aparcamientos subterráneos junto a la muralla, como los de la Praza Maior o la Ronda. El casco antiguo, dentro de la muralla, es en gran parte peatonal."
-guia: /assets/guias/guia-galicia-chenoaventuras.pdf
-guiaTitulo: 'Guía Galicia en PDF'
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 Más de dos kilómetros de muralla romana rodeando una ciudad entera, y puedes dar la vuelta completa por encima, gratis, a cualquier hora. **Lugo** tiene la única muralla romana del mundo que se conserva completa, y aun así es una de las capitales gallegas menos visitadas. Error, porque además tiene una de las costumbres más felices de España: **te ponen tapa gratis con cada vino**, y a veces te dejan elegir.
 

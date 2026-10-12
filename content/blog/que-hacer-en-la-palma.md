@@ -14,8 +14,6 @@ wide: true
 actividades:
   - t: "Excursión al volcán Tajogaite"
     u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
 comer:
   - n: "Restaurante Los Olivos"
     r: 4.6
@@ -32,6 +30,8 @@ comer:
     o: 438
     d: "Av. Islas Canarias, 42"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-la-palma-chenoaventuras.pdf
+guiaTitulo: 'Guía La Palma en PDF'
 ---
 Bosques de laurisilva, un cráter gigante lleno de pinos, volcanes recién nacidos, piscinas naturales en la lava y uno de los **mejores cielos del mundo** para ver estrellas. **La Palma**, la **«Isla Bonita»**, es toda ella Reserva de la Biosfera.
 

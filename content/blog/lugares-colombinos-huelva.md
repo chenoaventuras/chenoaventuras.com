@@ -35,8 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/huelva/paseo-barco-muelle-carabelas/"
   - t: "Free tour por Huelva"
     u: "https://www.civitatis.com/es/huelva/free-tour-huelva/"
-guia: /assets/guias/guia-andalucia-occidental-chenoaventuras.pdf
-guiaTitulo: 'Guía Andalucía occidental en PDF'
+guia: /assets/guias/guia-huelva-chenoaventuras.pdf
+guiaTitulo: 'Guía Huelva en PDF'
 ---
 Tres barcos de madera a tamaño real que puedes recorrer por dentro, un monasterio blanco donde un marino genovés encontró quien creyera en él, y un puerto desde el que salió el viaje que cambió la historia del mundo. Los **Lugares Colombinos**, en la ría de Huelva, permiten seguir los pasos de **Cristóbal Colón** en un solo día.
 

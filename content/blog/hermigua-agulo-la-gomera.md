@@ -30,8 +30,8 @@ faq:
     a: "Dos roques gemelos en lo alto del valle de Hermigua. Según la leyenda, eran dos amantes que un rayo convirtió en piedra mientras se abrazaban."
   - q: "¿A qué distancia está de San Sebastián de La Gomera?"
     a: "Hermigua está a unos 20 km y Agulo a unos 24 km, alrededor de media hora en coche por carreteras de curvas."
-guia: /assets/guias/guia-canarias-chenoaventuras.pdf
-guiaTitulo: 'Guía Canarias en PDF'
+guia: /assets/guias/guia-la-gomera-chenoaventuras.pdf
+guiaTitulo: 'Guía La Gomera en PDF'
 ---
 Un valle verdísimo lleno de plataneras que baja hasta un mar bravo, pilares de piedra que salen del agua, un pueblo de tejados rojos colgado sobre el océano y un mirador de cristal suspendido sobre el vacío con el Teide de frente. El **norte de La Gomera**, con **Hermigua** y **Agulo**, es la cara más verde y salvaje de la isla.
 

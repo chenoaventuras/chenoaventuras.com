@@ -30,8 +30,8 @@ faq:
     a: "En los años ochenta, el Ministerio de Defensa compró parte de la finca para un campo de tiro. Las protestas de vecinos y ecologistas lo impidieron, se declaró parque natural en 1988 y parque nacional en 1995."
   - q: "¿Cuál es la mejor época para ir?"
     a: "Otoño, por la berrea y los colores, y primavera, por el verde y las flores. En verano hace mucho calor: madruga si vas."
-guia: /assets/guias/guia-castilla-la-mancha-chenoaventuras.pdf
-guiaTitulo: 'Guía Toledo y La Mancha en PDF'
+guia: /assets/guias/guia-ciudad-real-chenoaventuras.pdf
+guiaTitulo: 'Guía Ciudad Real en PDF'
 ---
 Una llanura enorme salpicada de encinas aisladas, manadas de ciervos corriendo al amanecer y buitres planeando sobre sierras de bosque. **Cabañeros**, entre **Ciudad Real** y **Toledo**, es uno de los mejores ejemplos de bosque mediterráneo de Europa, y hay quien lo compara con la sabana africana. En otoño, la berrea de los ciervos lo convierte en un espectáculo.
 

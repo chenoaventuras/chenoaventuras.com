@@ -33,6 +33,8 @@ comer:
     o: 485
     t: "Parrilla"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-zamora-chenoaventuras.pdf
+guiaTitulo: 'Guía Zamora en PDF'
 ---
 Un lago de origen glaciar enorme, rodeado de montañas que en invierno se cubren de nieve, con playas de arena donde bañarse en verano. El **Lago de Sanabria** es un rincón de Zamora que sorprende a todo el que llega, y a pocos kilómetros está **Puebla de Sanabria**, un pueblo medieval con castillo que es de los más bonitos de Castilla y León.
 

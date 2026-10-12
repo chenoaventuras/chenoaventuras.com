@@ -26,8 +26,6 @@ actividades:
     u: "https://www.getyourguide.es/port-lligat-l150580/cadaques-salvador-dali-boat-tour-with-swimming-stop-t1394437/"
   - t: "Casa-Museo Salvador Dalí: entradas y tours"
     u: "https://www.getyourguide.es/casa-museu-salvador-dali-l119690/"
-guia: /assets/guias/guia-cataluna-chenoaventuras.pdf
-guiaTitulo: 'Guía Cataluña en PDF'
 comer:
   - n: "Celeste"
     r: 4.8
@@ -45,6 +43,8 @@ comer:
     t: "Restaurante mediterráneo"
     d: "Carrer Horta d'en Sanés, 4"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-girona-chenoaventuras.pdf
+guiaTitulo: 'Guía Girona en PDF'
 ---
 Unos **huevos gigantes** sobre el tejado, un **oso disecado** en la entrada y una piscina con forma de... bueno, ya lo verás. La casa de **Salvador Dalí** en **Portlligat**, junto a Cadaqués, es tan surrealista como él.
 

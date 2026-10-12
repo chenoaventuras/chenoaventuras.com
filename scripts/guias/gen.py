@@ -19,6 +19,8 @@ OUT = ROOT / "assets" / "guias"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 DRIVE = pathlib.Path.home() / "Library/CloudStorage/GoogleDrive-chenoaventuras@gmail.com/Mi unidad/web cheno/Guías Chenoaventuras"
 MANIFEST = HERE / "manifest.json"
+# guías hechas a mano (no las genera este script): sus posts las conservan
+HANDMADE = {f"/assets/guias/guia-{k}-chenoaventuras.pdf" for k in ("cuenca", "pirineo-aragones", "pirineo-aragones-ilustrada", "monte-igueldo")}
 sys.path.insert(0, str(HERE))
 from zonas import ZONAS  # noqa: E402
 
@@ -28,12 +30,23 @@ PIN = '<svg class="ico" viewBox="0 0 24 24" width="13" height="13" aria-hidden="
 
 
 def load_posts():
-    js = r"""const fs=require("fs"),m=require("gray-matter"),d0=process.argv[1];const o={};
-for(const f of fs.readdirSync(d0)){if(!f.endsWith(".md"))continue;const d=m(fs.readFileSync(d0+"/"+f,"utf8")).data;if(d.draft)continue;
-o[f.slice(0,-3)]={title:d.title,lugar:d.lugar||"",excerpt:d.excerpt||"",cover:d.cover||"",lat:d.lat,lng:d.lng,tags:d.tags||[],act:d.actividades||[]};}
+    js = r"""const fs=require("fs"),m=require("gray-matter"),{marked}=require("marked"),d0=process.argv[1];const o={};
+marked.setOptions({gfm:true,breaks:false});
+for(const f of fs.readdirSync(d0)){if(!f.endsWith(".md"))continue;const g=m(fs.readFileSync(d0+"/"+f,"utf8")),d=g.data;if(d.draft)continue;
+o[f.slice(0,-3)]={title:d.title,lugar:d.lugar||"",excerpt:d.excerpt||"",cover:d.cover||"",lat:d.lat,lng:d.lng,tags:d.tags||[],act:d.actividades||[],
+comer:(d.comer||[]).slice(0,4),date:String(d.date||""),body:marked.parse(g.content)};}
 process.stdout.write(JSON.stringify(o));"""
     r = subprocess.run(["node", "-e", js, str(ROOT / "content" / "blog")], cwd=ROOT, capture_output=True, text=True, check=True)
-    return json.loads(r.stdout)
+    posts = json.loads(r.stdout)
+    # provincia/isla de cada post (la calcula el build del blog en assets/data/cobertura.json)
+    cob = ROOT / "assets" / "data" / "cobertura.json"
+    subprocess.run(["node", "scripts/build-blog.mjs"], cwd=ROOT, capture_output=True)
+    if cob.exists():
+        for prov, v in json.loads(cob.read_text()).items():
+            for p in v["posts"]:
+                if p["slug"] in posts:
+                    posts[p["slug"]]["prov"] = prov
+    return posts
 
 
 def img_file(path):
@@ -78,7 +91,13 @@ def hub_cards(slug):
 
 
 def places_of(z, posts):
-    """Todos los posts que entran en la guía (en zonas por secciones: el post de cada isla, sus enlazados y los extra)."""
+    """Posts que entran en la guía: todos los de sus provincias/islas (zonas con `provincias`),
+    una lista fija (`lugares`) o, en zonas por secciones, el post de cada isla y sus enlazados."""
+    if "provincias" in z:
+        mine = [s for s, p in posts.items() if p.get("prov") in z["provincias"] and s not in z.get("fuera", [])]
+        first = [s for s in z.get("orden", []) if s in mine]
+        rest = sorted((s for s in mine if s not in first), key=lambda s: (not s.endswith("-que-ver"), posts[s]["lugar"] or posts[s]["title"]))
+        return first + rest
     if "secciones" not in z:
         return [s for s in z["lugares"] if s in posts]
     seen = []
@@ -111,6 +130,104 @@ def fingerprint(key, posts):
     return h.hexdigest()
 
 
+SITE = "https://www.chenoaventuras.com"
+
+
+def _end_of(h, i):
+    """Índice justo después del elemento HTML que empieza en i (cuenta etiquetas anidadas del mismo tipo)."""
+    m = re.match(r"<(\w+)", h[i:])
+    if not m:
+        return i
+    tag, depth, j = m.group(1), 0, i
+    pat = re.compile(rf"<(/?){tag}\b[^>]*?(/?)>")
+    for t in pat.finditer(h, i):
+        if t.group(2):
+            continue
+        depth += -1 if t.group(1) else 1
+        if depth == 0:
+            return t.end()
+    return len(h)
+
+
+def keep_heads(h):
+    """Une cada título de sección con el bloque que le sigue para que no quede suelto al final de una página."""
+    out, i = [], 0
+    pat = re.compile(r'<div class="guide__head">|<h[23][ >]')
+    while True:
+        m = pat.search(h, i)
+        if not m:
+            out.append(h[i:])
+            break
+        out.append(h[i:m.start()])
+        a = m.start()
+        b = _end_of(h, a)
+        n = re.match(r"\s*", h[b:]).end() + b
+        if n < len(h) and h[n] == "<" and not re.match(r'<div class="guide__head">|<h[23][ >]', h[n:]):
+            c = _end_of(h, n)
+            g = re.match(r'<ol class="(guide__grid[^"]*)">', h[n:])
+            if g:
+                # cuadrícula de fotos: el título solo arrastra la primera fila; el resto sigue en otra lista
+                items, k = [], n + g.end()
+                while True:
+                    k = re.match(r"\s*", h[k:]).end() + k
+                    if not h.startswith("<li", k):
+                        break
+                    e2 = _end_of(h, k)
+                    items.append(h[k:e2])
+                    k = e2
+                first, rest = items[:4], items[4:]
+                out.append(f'<div class="keep">{h[a:b]}<ol class="{g.group(1)}">{"".join(first)}</ol></div>')
+                if rest:
+                    out.append(f'<ol class="{g.group(1)} grid--cont">{"".join(rest)}</ol>')
+            else:
+                out.append(f'<div class="keep">{h[a:c]}</div>')
+            i = c
+        else:
+            out.append(h[a:b])
+            i = b
+    return "".join(out)
+
+
+def clean_body(html_, jpg):
+    """El cuerpo del post, listo para imprimir: sin botones, notas, CTA ni animaciones."""
+    h = re.sub(r"<!--.*?-->", "", html_, flags=re.S)
+    h = re.sub(r'<div class="guide__cta">.*?</div>', "", h, flags=re.S)
+    h = re.sub(r'<div class="guide__maps">.*?</div>', "", h, flags=re.S)
+    h = re.sub(r'<p class="guide__note">.*?</p>', "", h, flags=re.S)
+    h = re.sub(r"<(iframe|video|script|blockquote class=\"instagram-media\")[^>]*>.*?</\1>", "", h, flags=re.S)
+    h = re.sub(r"<p>[^<]*?(Te cuento|te cuento)[^<]*👇\s*</p>", "", h)
+    h = re.sub(r"<p>[^<]*👇\s*</p>", "", h)
+    h = h.replace(" reveal", "").replace('class="reveal"', "")
+    h = re.sub(r'href="/', f'href="{SITE}/', h)
+    h = re.sub(r'\s(loading|decoding)="[^"]*"', "", h)
+
+    def img(m):
+        tag, src = m.group(0), m.group(1)
+        if src.startswith("/assets/"):
+            w = 280 if "gcard" in tag else 620
+            return tag.replace(f'src="{src}"', f'src="{jpg(src, w)}"')
+        return tag
+    h = re.sub(r'<img[^>]*src="([^"]+)"[^>]*>', img, h)
+    # las fotos de las fichas se marcan para hacerlas pequeñas
+    h = h.replace('<div class="gcard__media"><img ', '<div class="gcard__media"><img class="gimg" ')
+    h = re.sub(r"<p>\s*(<img[^>]*>)\s*</p>", r'<figure class="ph">\1</figure>', h)
+    h = re.sub(r"<p>[^<]*(Sígueme en Instagram|sígueme en Instagram)(?:(?!</p>).)*</p>", "", h, flags=re.S)
+    return keep_heads(h)
+
+
+def last_fill(pdf):
+    """Qué parte de la altura de la última página está ocupada (0-1)."""
+    try:
+        import fitz
+    except ImportError:
+        return 1.0
+    d = fitz.open(pdf)
+    pg = d[-1]
+    H = pg.rect.height
+    ys = [r[1][3] for r in pg.get_bboxlog() if (r[1][3] - r[1][1]) < 0.7 * H]  # sin fondos de página
+    return (max(ys) / pg.rect.height) if ys else 0.0
+
+
 def build(key, posts, tmp):
     z = ZONAS[key]
 
@@ -120,41 +237,49 @@ def build(key, posts, tmp):
             return path
         out = tmp / (re.sub(r"[^\w-]", "_", path.strip("/")) + f"_{width}.jpg")
         if not out.exists():
-            subprocess.run(["sips", "-Z", str(width), "-s", "format", "jpeg", "-s", "formatOptions", "62", str(src), "--out", str(out)], capture_output=True)
+            subprocess.run(["sips", "-Z", str(width), "-s", "format", "jpeg", "-s", "formatOptions", "42", str(src), "--out", str(out)], capture_output=True)
         return out.as_uri()
 
-    def card(i, slug):
-        p = posts[slug]
-        name = p["lugar"] or p["title"].split(":")[0]
+    places = places_of(z, posts)
+
+    def name_of(s):
+        p = posts[s]
+        n = p["lugar"] or p["title"].split(":")[0]
+        if sum(1 for o in places if (posts[o]["lugar"] or posts[o]["title"].split(":")[0]) == n) > 1 and not s.endswith("-que-ver"):
+            n = p["title"].split(":")[0]
+        return n
+
+    def chapter(i, s):
+        p = posts[s]
+        name = name_of(s)
         kind = next((TYPES[t] for t in p["tags"] if t in TYPES), "Lugar")
         q = f"{p['lat']},{p['lng']}" if p.get("lat") else quote(name)
-        return (f'<li class="gcard"><div class="gcard__media"><img src="{jpg(p["cover"])}" alt="{e(name)}" /><span class="gcard__n">{i:02d}</span></div>'
-                f'<div class="gcard__body"><h3>{e(name)}</h3><p class="gcard__meta"><span class="gcard__price">{kind}</span></p><p>{e(short(p["excerpt"]))}</p>'
-                f'<p class="gcard__links"><a class="gbtn gbtn--reel" href="https://www.chenoaventuras.com/blog/{slug}.html">Leer más</a>'
-                f'<a class="gbtn" href="https://www.google.com/maps/search/?api=1&query={q}">{PIN} Cómo llegar</a></p></div></li>')
+        title = p["title"].split(":", 1)[1].strip() if ":" in p["title"] else ""
+        eat = ""
+        if p.get("comer"):
+            lis = "".join(f'<li><strong>{e(r.get("n", ""))}</strong>'
+                          + (f' · {r["r"]} ★' if r.get("r") else "")
+                          + (f' <span>({r["o"]:,} opiniones)</span>'.replace(",", ".") if r.get("o") else "")
+                          + (f'<br><small>{e(r.get("d", ""))}</small>' if r.get("d") else "") + "</li>" for r in p["comer"])
+            eat = f'<div class="eat"><h3>🍽️ Dónde comer</h3><p class="eat__lead">Los restaurantes con mejores opiniones de la zona en Google.</p><ul>{lis}</ul></div>'
+        links = (f'<p class="chap__links"><a class="gbtn gbtn--reel" href="{SITE}/blog/{s}.html">Leer el post completo</a>'
+                 f'<a class="gbtn" href="https://www.google.com/maps/search/?api=1&query={q}">{PIN} Cómo llegar</a></p>')
+        body = clean_body(p["body"], jpg)
+        # el cierre del capítulo (consejos + dónde comer + enlaces) va junto: nunca una página solo con botones
+        k = body.rfind('<div class="guide__plan">')
+        if k != -1 and _end_of(body, k) >= len(body.rstrip()) - 5:
+            body = body[:k] + f'<div class="keep chap__end">{body[k:]}{eat}{links}</div>'
+        else:
+            body += f'<div class="keep chap__end">{eat}{links}</div>'
+        return (f'<section class="chap"><div class="chap__keep">'
+                f'<div class="chap__hero"><img src="{jpg(p["cover"], 900)}" alt="" /><span class="chap__n">{i:02d}</span></div>'
+                f'<div class="chap__head"><span class="eyebrow">{e(kind)}{" · " + e(p["prov"]) if p.get("prov") else ""}</span><h2>{e(name)}</h2>'
+                + (f'<p class="chap__sub">{e(title)}</p>' if title else "")
+                + f'<p class="chap__dek">{e(p["excerpt"])}</p></div></div>'
+                f'<div class="chap__body">{body}</div></section>')
 
-    def hcard(i, img, name, txt, link, where):
-        q = quote(f"{name}, {where}")
-        return (f'<li class="gcard"><div class="gcard__media"><img src="{jpg(img)}" alt="{e(name)}" /><span class="gcard__n">{i:02d}</span></div>'
-                f'<div class="gcard__body"><h3>{e(name)}</h3><p>{e(short(txt))}</p>'
-                f'<p class="gcard__links"><a class="gbtn gbtn--reel" href="https://www.chenoaventuras.com/blog/{link}.html">Leer más</a>'
-                f'<a class="gbtn" href="https://www.google.com/maps/search/?api=1&query={q}">{PIN} Cómo llegar</a></p></div></li>')
-
-    places = places_of(z, posts)
-    if "secciones" in z:
-        blocks = []
-        for sec in z["secciones"]:
-            hc = hub_cards(sec["hub"])
-            linked = {c[3] for c in hc}
-            items = [hcard(i + 1, *c, sec["t"]) for i, c in enumerate(hc)]
-            for s in sec.get("extra", []):
-                if s in posts and s not in linked:
-                    items.append(card(len(items) + 1, s))
-            blocks.append(f'<div class="isla"><div class="guide__head"><span class="eyebrow">{e(sec.get("eyebrow", "Isla"))}</span><h2>{e(sec["t"])}</h2>'
-                          f'<p>{md(sec.get("txt", ""))}</p></div><ol class="guide__grid">{"".join(items)}</ol></div>')
-        cards_html = "".join(blocks)
-    else:
-        cards_html = '<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>' + e(z.get("titulo_lugares", "Los imprescindibles")) + '</h2></div><ol class="guide__grid">' + "".join(card(i + 1, s) for i, s in enumerate(places)) + "</ol>"
+    chapters = "".join(chapter(i + 1, s) for i, s in enumerate(places))
+    index = "".join(f'<li><b>{i + 1:02d}</b><span>{e(name_of(s))}</span><em>{e(next((TYPES[t] for t in posts[s]["tags"] if t in TYPES), "Lugar"))}</em></li>' for i, s in enumerate(places))
     tips = "".join(f'<div class="guide__tip"><h3>{t}</h3><p>{md(d)}</p></div>' for t, d in z["tips"])
     # actividades por turnos: la mejor de cada lugar, luego las segundas… (máx. 6)
     acts, seen = [], set()
@@ -172,12 +297,22 @@ def build(key, posts, tmp):
         items = "".join(f'<li><a href="{e(h)}"><span class="pl pl--{"gyg" if p == "GetYourGuide" else "civ"}">{p}</span><span>{e(t)}</span><b>Ver →</b></a></li>' for t, h, p in acts)
         code = '<p class="acts__code">🎟️ En GetYourGuide usa el código <strong>CHENOAVENTURAS5</strong> y llévate un 5% de descuento.</p>' if any(p == "GetYourGuide" for *_, p in acts) else ""
         act_html = f'<div class="acts"><div class="guide__head"><span class="eyebrow">Planes para reservar</span><h2>Actividades recomendadas</h2></div><ul class="acts__list">{items}</ul>{code}</div>'
-    plan = ""
-    if z.get("plan"):
-        lis = "".join(f"<li><strong>{e(d)}</strong> — {md(t)}</li>" for d, t in z["plan"])
-        plan = f'<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>{e(z.get("plan_titulo", "Mi ruta"))}</h2><ul>{lis}</ul></div>'
+    plan_items = "".join(f"<li><strong>{e(d)}</strong> — {md(t)}</li>" for d, t in z.get("plan", []))
+    closing = (f'<div class="guide__plan final"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span>'
+               + (f'<h2>{e(z.get("plan_titulo", "Mi ruta"))}</h2><ul>{plan_items}</ul>' if plan_items else "")
+               + '<p class="final__end"><strong>Cómo usar esta guía:</strong> cada lugar tiene su capítulo con toda la información, y su post completo en '
+                 '<a href="https://www.chenoaventuras.com/blog.html">chenoaventuras.com</a> y en Instagram '
+                 '<a href="https://www.instagram.com/chenoaventuras/">@chenoaventuras</a> te lo enseño en vídeo.</p></div>')
     intro = "".join(f'<p class="intro-p">{md(p)}</p>' for p in z["intro"])
-    doc = f"""<!DOCTYPE html>
+    toc = f'<div class="toc"><div class="guide__head"><span class="eyebrow">En esta guía</span><h2>{len(places)} lugares imprescindibles</h2></div><ol>{index}</ol></div>'
+
+    # colocaciones posibles de ruta/índice/actividades: (antes de los capítulos, después)
+    layouts = [(closing + toc + act_html, ""), ("", toc + act_html + closing), (closing, toc + act_html),
+               (closing + toc, act_html), (toc + act_html, closing)]
+
+    def make_doc(at_end):
+        head, tail = layouts[at_end]
+        return f"""<!DOCTYPE html>
 <html lang="es"><head><meta charset="UTF-8" />
 <base href="{ROOT.as_uri()}/" />
 <title>Guía {e(z['nombre'])} · Chenoaventuras</title>
@@ -185,9 +320,6 @@ def build(key, posts, tmp):
 <style>{(HERE / 'guia.css').read_text()}
 .cover img {{ object-position: {z.get('pos', 'center 45%')}; }}
 .cover h1 {{ font-size: {z.get('h1', '4.6rem')}; }}
-.isla {{ margin-top: 18px; }}
-.isla + .isla {{ break-before: page; }}
-.article__body .isla .guide__head p {{ font-size: .85rem; color: var(--ink-soft); }}
 </style></head>
 <body>
 <section class="cover">
@@ -195,23 +327,42 @@ def build(key, posts, tmp):
   <div class="cover__in"><span class="eyebrow">Guía Chenoaventuras</span><h1>{z['h1_txt']}</h1><p>{e(z['sub'])}</p></div>
   <div class="cover__foot"><span class="brand"><span class="brand__name">Cheno</span><span class="brand__tag">Aventuras</span></span><small>@chenoaventuras<br>chenoaventuras.com</small></div>
 </section>
-<section class="pg article__body">
+<section class="flow article__body">
   <div class="pg__head"><span class="eyebrow">Antes de nada</span><h2>{z['titulo_intro']}</h2></div>
   <div class="intro-box">{intro}</div>
   <div class="guide__head"><span class="eyebrow">Para organizarte</span><h2>Lo básico</h2></div>
   <div class="guide__tips">{tips}</div>
-  {cards_html}
-  {act_html}
-  {plan}
-  <div class="end"><h2>¿Te ha servido?</h2><p>Cada lugar tiene su post completo en <a href="https://www.chenoaventuras.com/blog.html">chenoaventuras.com</a>, y en Instagram <a href="https://www.instagram.com/chenoaventuras/">@chenoaventuras</a> te lo enseño en vídeo.</p></div>
+  {head}
+  {chapters}
+  {tail}
 </section>
 </body></html>"""
-    hp = tmp / f"{key}.html"
-    hp.write_text(doc)
+
     out = OUT / f"guia-{key}-chenoaventuras.pdf"
-    subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--no-pdf-header-footer", "--allow-file-access-from-files",
-                    "--virtual-time-budget=10000", f"--print-to-pdf={out}", hp.as_uri()], capture_output=True)
-    print(f"  {key}: {len(places)} lugares, {len(acts)} actividades, {out.stat().st_size // 1024} KB")
+
+    def render(at_end):
+        hp = tmp / f"{key}.html"
+        hp.write_text(make_doc(at_end))
+        subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--no-pdf-header-footer", "--allow-file-access-from-files",
+                        "--virtual-time-budget=15000", f"--print-to-pdf={out}", hp.as_uri()], capture_output=True)
+        if "--html" in sys.argv:
+            shutil.copyfile(hp, OUT.parent.parent / f"guia-{key}.html")
+        return last_fill(out)
+
+    fill, best = render(0), 0
+    if fill < 0.5:
+        # la última página queda floja: se prueban otras colocaciones y se queda la que mejor la llene
+        for i in range(1, len(layouts)):
+            if not layouts[i][1].strip():
+                continue
+            f = render(i)
+            if f > fill:
+                fill, best = f, i
+            if f >= 0.5:
+                break
+        if best != i:
+            fill = render(best)
+    print(f"  {key}: {len(places)} lugares, {len(acts)} actividades, {out.stat().st_size // 1024} KB, última página al {fill:.0%}")
     return out
 
 
@@ -256,10 +407,12 @@ def sync_site(posts):
             end = txt.index("\n---", 3)
             fm = txt[:end]
             m = re.search(r"^guia: *(\S+)", fm, re.M)
-            if m and m.group(1) != file:
-                continue  # tiene su propia guía (Cuenca, Pirineo…)
-            api.setdefault(s, {"title": title, "file": file})
-            if not m:
+            if s in api or (m and m.group(1) in HANDMADE):
+                continue  # ya asignado o con su propia guía hecha a mano (Cuenca, Pirineo…)
+            api[s] = {"title": title, "file": file}
+            if not m or m.group(1) != file:
+                fm = re.sub(r"\nguia: .*", "", fm)
+                fm = re.sub(r"\nguiaTitulo: .*", "", fm)
                 fm += f"\nguia: {file}\nguiaTitulo: '{title} en PDF'"
                 f.write_text(fm + txt[end:])
     body = ",\n".join(f"  {json.dumps(s)}: {json.dumps(v, ensure_ascii=False)}" for s, v in sorted(api.items()))

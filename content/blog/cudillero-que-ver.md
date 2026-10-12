@@ -25,8 +25,6 @@ faq:
 actividades:
   - t: "Free tour por Cudillero"
     u: "https://www.civitatis.com/es/cudillero/free-tour-cudillero/"
-guia: /assets/guias/guia-cantabria-asturias-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria y Asturias en PDF'
 comer:
   - n: "Asador Coriu"
     r: 4.8
@@ -43,6 +41,8 @@ comer:
     t: "Restaurante asturiano"
     d: "La Atalaya, 8"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Casas de colores apiladas en la ladera, una encima de otra, mirando todas a un pequeño puerto pesquero. **Cudillero** parece un anfiteatro natural, y por eso es uno de los pueblos más fotografiados de toda la costa asturiana.
 

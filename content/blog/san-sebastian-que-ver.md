@@ -30,8 +30,8 @@ faq:
     a: "Tres principales: la Concha, Ondarreta (a continuación, más tranquila) y la Zurriola, en Gros, la playa de los surfistas."
   - q: "¿Cuándo es el Festival de Cine de San Sebastián?"
     a: "En septiembre, con proyecciones en el Kursaal y el Teatro Victoria Eugenia y estrellas de cine por la ciudad."
-guia: /assets/guias/guia-pais-vasco-chenoaventuras.pdf
-guiaTitulo: 'Guía País Vasco en PDF'
+guia: /assets/guias/guia-gipuzkoa-chenoaventuras.pdf
+guiaTitulo: 'Guía Gipuzkoa en PDF'
 ---
 Una bahía en forma de concha, con una isla en medio y dos montes a los lados, una playa urbana considerada de las más bonitas de Europa, una Parte Vieja donde cada bar compite por el mejor pintxo y una ciudad elegante de balnearios de la Belle Époque. **San Sebastián** (Donostia) es de esas ciudades que enamoran en el primer paseo.
 

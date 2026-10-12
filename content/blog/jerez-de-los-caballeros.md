@@ -30,8 +30,8 @@ faq:
     a: "Porque sus iglesias tienen torres barrocas muy altas y decoradas, que dominan el perfil del pueblo y se ven desde lejos entre la dehesa."
   - q: "¿Qué ver cerca de Jerez de los Caballeros?"
     a: "Zafra, Olivenza, Mérida y Badajoz capital, todas a menos de una hora y media, y las dehesas del sur de Extremadura."
-guia: /assets/guias/guia-extremadura-chenoaventuras.pdf
-guiaTitulo: 'Guía Extremadura en PDF'
+guia: /assets/guias/guia-badajoz-chenoaventuras.pdf
+guiaTitulo: 'Guía Badajoz en PDF'
 ---
 Torres barrocas cubiertas de azulejos y ladrillo que asoman sobre los tejados, una fortaleza de los templarios con una torre de nombre siniestro y dehesas de encinas hasta el horizonte. **Jerez de los Caballeros**, en el sur de la provincia de **Badajoz**, es uno de los pueblos más bonitos de Extremadura y la cuna de un explorador que vio por primera vez el Pacífico.
 
