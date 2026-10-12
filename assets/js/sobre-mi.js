@@ -214,6 +214,8 @@
       car.classList.remove("is-honking");
       void car.offsetWidth;
       car.classList.add("is-honking");
+      // en móvil, que el toque no lo deje parado: suelta el foco al acabar el pitido
+      setTimeout(function () { car.blur(); }, 800);
     });
   });
 

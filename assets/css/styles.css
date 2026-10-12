@@ -1836,7 +1836,8 @@ p { margin: 0 0 1em; }
   content: ""; position: absolute; left: 0; right: 0; top: 18px; height: 2px; background: #e8dcc6; box-shadow: 0 1px 2px rgba(0,0,0,.35);
 }
 .film__track { display: flex; align-items: flex-start; gap: 30px; padding: 0 15px 24px; width: max-content; animation: filmroll 140s linear infinite; }
-.film:hover .film__track { animation-play-state: paused; }
+/* solo con ratón: en móvil el «hover» se queda pegado al tocar y la tira no volvería a moverse */
+@media (hover: hover) and (pointer: fine) { .film:hover .film__track { animation-play-state: paused; } }
 .film__track a {
   position: relative; flex: none; display: block; width: 170px; background: #fff; padding: 9px 9px 36px;
   box-shadow: 0 10px 22px rgba(20,25,20,.18); transform-origin: 50% -14px; animation: sway 4s ease-in-out infinite alternate;
@@ -1849,7 +1850,7 @@ p { margin: 0 0 1em; }
 }
 .film__ph { aspect-ratio: 1; overflow: hidden; }
 .film__ph img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s; }
-.film__track a:hover .film__ph img { transform: scale(1.06); }
+@media (hover: hover) and (pointer: fine) { .film__track a:hover .film__ph img { transform: scale(1.06); } }
 .film__track span {
   position: absolute; left: 10px; right: 10px; bottom: 9px; font-family: var(--font-display); font-style: italic; font-size: .72rem;
   color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
@@ -1863,7 +1864,8 @@ p { margin: 0 0 1em; }
 .road__rueda--tras { left: 12.25%; top: 57.42%; width: 14.93%; }
 .road__rueda--del { left: 72.46%; top: 59.92%; width: 14.59%; }
 @keyframes wheelSpin { to { transform: rotate(360deg); } }
-.road__car:hover .road__rueda, .road__car:focus-visible .road__rueda { animation-play-state: paused; }
+@media (hover: hover) and (pointer: fine) { .road__car:hover .road__rueda { animation-play-state: paused; } }
+.road__car:focus-visible .road__rueda { animation-play-state: paused; }
 .road__car.is-honking .road__auto { animation: honkShake .35s ease-in-out; }
 /* frenazo al pasar el ratón: el morro baja hacia delante y rebota */
 .road__auto { transform-origin: 79% 100%; }
@@ -1873,7 +1875,8 @@ p { margin: 0 0 1em; }
   position: absolute; left: 0; bottom: 0; width: 190px; height: auto; padding: 0; border: 0; background: none; cursor: pointer;
   animation: carDrive 26s linear infinite;
 }
-.road__car:hover, .road__car:focus-visible { animation-play-state: paused; }
+@media (hover: hover) and (pointer: fine) { .road__car:hover { animation-play-state: paused; } }
+.road__car:focus-visible { animation-play-state: paused; }
 .road__car:focus-visible { outline: 2px solid var(--gold-soft); outline-offset: 4px; border-radius: 8px; }
 @keyframes carDrive { from { transform: translateX(-190px); } to { transform: translateX(calc(100vw + 30px)); } }
 @keyframes carBob { to { transform: translateY(-1.2px); } }
