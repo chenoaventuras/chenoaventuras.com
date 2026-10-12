@@ -2163,3 +2163,8 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .js .anim--zoom { transform: scale(.72); transition-timing-function: ease, cubic-bezier(.34,1.56,.64,1); }
 .js .anim.is-in { opacity: 1; transform: none; }
 @media (prefers-reduced-motion: reduce) { .js .anim { opacity: 1; transform: none; transition: none; } }
+
+/* caja «Mi experiencia» en los posts */
+.article__body .guide__exp { border-left: 4px solid var(--gold); margin-block: 28px; }
+.article__body .guide__exp h3 { margin: 0 0 .4em; }
+.article__body .guide__exp p { margin: 0; font-style: italic; }

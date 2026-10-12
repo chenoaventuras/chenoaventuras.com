@@ -50,6 +50,8 @@ No hay pulsera para todo: **cada atracción se paga por separado** y normalmente
 
 Si ya has subido, aprovecha el día. Baja a pasear por la Concha, piérdete por la parte vieja y hazte una ronda de pintxos. Te dejo mi guía de [qué ver en San Sebastián](/blog/san-sebastian-que-ver.html) para no dejarte nada.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Me subí a la barca del Río Misterioso y es justo lo que parece: una atracción de las de toda la vida, sencilla y con mucho encanto. No vayas buscando adrenalina: ve a disfrutar de lo antiguo y de las vistas de La Concha desde arriba.</p></div>
+
 ## Consejos rápidos
 
 1. **Siéntate bien en la barca:** las mejores vistas dependen de dónde mires.

@@ -82,6 +82,8 @@ Aquí te dejo todo lo que he visitado y hecho allí: lo imprescindible de la ciu
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/rio-cuervo.webp" alt="Nacimiento del río Cuervo, Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">14</span></div><div class="gcard__body"><h3>Nacimiento del río Cuervo</h3><p class="gcard__meta"><span class="gcard__price">Gratis</span><span class="gcard__age">1 h 30 de Cuenca</span></p><p>Cascadas que brotan entre musgo y roca en Vega del Codorno. Parking gratis, pasarela accesible de 300 m y un sendero circular de 1,5 km. En primavera es cuando más agua lleva.</p><p class="gcard__links"><a class="gbtn gbtn--reel" href="/blog/nacimiento-rio-cuervo.html">Leer más</a><a class="gbtn " href="https://www.google.com/maps/search/?api=1&query=Nacimiento+del+r%C3%ADo+Cuervo%2C+Vega+del+Codorno" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar</a></p></div></li>
 </ol>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>En Cuenca no paré: tirolina, barranquismo, vía ferrata, quads por la serranía y el Ventano del Diablo. Mi consejo: aventura por la mañana y la ciudad para la noche, cuando la catedral y las Casas Colgadas están iluminadas.</p></div>
+
 <div class="guide__plan">
 <span class="eyebrow" style="color:var(--gold-soft)">El plan de Cheno</span>
 <h2>Mi ruta en 3 días</h2>

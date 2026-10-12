@@ -77,6 +77,8 @@ Y si quieres las mejores vistas, sube al **Castillo de Osma**, entre El Burgo de
 
 <!--actividades-->
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Mi consejo: quédate hasta que anochezca. La catedral iluminada es otra cosa, y desde el cerro del castillo tienes el pueblo entero a tus pies.</p></div>
+
 ## Cómo llegar a El Burgo de Osma
 
 El pueblo está en la provincia de Soria, en Castilla y León. Puedes consultar la ruta en [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Burgo%20de%20Osma%2C%20Soria).

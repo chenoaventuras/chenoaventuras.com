@@ -72,6 +72,8 @@ Aguilar de Campoo lleva ligado a la fabricación de galletas desde hace generaci
 
 **🍪 Carnaval de la Galleta.** Aguilar es la <strong>capital de la galleta</strong> (aquí está una de las fábricas más famosas de España), y su carnaval lo celebra: el <strong>Carnaval de la Galleta</strong> está declarado de <strong>Interés Turístico de Castilla y León</strong>. Comparsas, disfraces y, como no, galletas.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Lo que más me gustó fue la pasarela de la torre del embalse de Aguilar: es estrecha y solo puede pasar una persona a la vez. Si tienes vértigo, tómatelo con calma; las vistas merecen la pena.</p></div>
+
 ## Cómo llegar y cuánto tiempo dedicarle
 
 El pueblo tiene fácil acceso en coche y aparcamiento gratuito. Puedes consultar la ruta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Aguilar%20de%20Campoo%2C%20Palencia). Para verlo con calma —colegiata, castillo, monasterio, embalse y puente— hacen falta unas 5 horas, que se pasan volando dada la cantidad de sitios que hay que ver. Se puede visitar durante todo el año y la dificultad es baja, apta para todos los públicos.
