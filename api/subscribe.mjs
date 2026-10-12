@@ -79,15 +79,49 @@ export default async function handler(req, res) {
   }
 
   try {
-    const r = await fetch("https://api.brevo.com/v3/contacts", {
-      method: "POST",
-      headers: {
-        "content-type": "application/json",
-        accept: "application/json",
-        "api-key": apiKey,
-      },
-      body: JSON.stringify({ email, listIds: [LIST_ID], updateEnabled: true }),
-    });
+    const guide = GUIDES[src];
+
+    // Atributo GUIAS del contacto: zonas de las guías que ha pedido, separadas
+    // por comas (p. ej. "Cuenca, Segovia"), para poder escribir en Brevo solo
+    // a quien pidió una guía concreta (segmento "GUIAS contiene Cuenca").
+    const attributes = {};
+    if (guide) {
+      const zona = guide.title.replace(/^Guía (de la |del |de )?/, "");
+      let previas = [];
+      try {
+        const c = await fetch(`https://api.brevo.com/v3/contacts/${encodeURIComponent(email)}`, {
+          headers: { accept: "application/json", "api-key": apiKey },
+        });
+        if (c.ok) previas = String((await c.json()).attributes?.GUIAS || "").split(",").map((x) => x.trim()).filter(Boolean);
+      } catch (e) {}
+      if (!previas.includes(zona)) previas.push(zona);
+      attributes.GUIAS = previas.join(", ");
+    }
+
+    const saveContact = (attrs) =>
+      fetch("https://api.brevo.com/v3/contacts", {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          accept: "application/json",
+          "api-key": apiKey,
+        },
+        body: JSON.stringify({ email, listIds: [LIST_ID], updateEnabled: true, attributes: attrs }),
+      });
+    let r = await saveContact(attributes);
+    if (!r.ok && attributes.GUIAS) {
+      // Si el atributo GUIAS aún no existe en Brevo, se crea y se reintenta;
+      // si sigue fallando, se guarda el contacto sin él (lo importante es el alta).
+      try {
+        await fetch("https://api.brevo.com/v3/contacts/attributes/normal/GUIAS", {
+          method: "POST",
+          headers: { "content-type": "application/json", accept: "application/json", "api-key": apiKey },
+          body: JSON.stringify({ type: "text" }),
+        });
+      } catch (e) {}
+      r = await saveContact(attributes);
+      if (!r.ok) r = await saveContact({});
+    }
     if (!r.ok) {
       const err = await r.text();
       res.statusCode = 502;
@@ -97,7 +131,6 @@ export default async function handler(req, res) {
 
     // Si pidió una guía, se le manda por correo el enlace de descarga (si el
     // envío falla, no rompe la suscripción: la web también le muestra el botón).
-    const guide = GUIDES[src];
     if (guide) {
       try {
         await fetch("https://api.brevo.com/v3/smtp/email", {
