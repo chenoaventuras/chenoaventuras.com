@@ -181,6 +181,7 @@ export const ZONE_GUIDES = {
   "montana-amarilla-la-graciosa": {"title": "Guía Lanzarote y La Graciosa", "file": "/assets/guias/guia-lanzarote-chenoaventuras.pdf"},
   "montblanc-que-ver": {"title": "Guía Tarragona", "file": "/assets/guias/guia-tarragona-chenoaventuras.pdf"},
   "monte-de-las-animas-soria": {"title": "Guía Soria", "file": "/assets/guias/guia-soria-chenoaventuras.pdf"},
+  "monte-hacho-ceuta": {"title": "Guía Ceuta y Melilla", "file": "/assets/guias/guia-ceuta-melilla-chenoaventuras.pdf"},
   "montserrat": {"title": "Guía Barcelona", "file": "/assets/guias/guia-barcelona-chenoaventuras.pdf"},
   "morella-que-ver": {"title": "Guía Castellón", "file": "/assets/guias/guia-castellon-chenoaventuras.pdf"},
   "murallas-reales-ceuta": {"title": "Guía Ceuta y Melilla", "file": "/assets/guias/guia-ceuta-melilla-chenoaventuras.pdf"},

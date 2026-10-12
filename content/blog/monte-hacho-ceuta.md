@@ -35,6 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/ceuta/paseo-barco-ceuta/"
   - t: "Free tour de los misterios y leyendas de Ceuta"
     u: "https://www.civitatis.com/es/ceuta/free-tour-misterios-leyendas-ceuta/"
+guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Ceuta y Melilla en PDF'
 ---
 Desde el ferry, cuando te acercas a Ceuta, lo primero que se distingue es un monte verde al final de la ciudad con una muralla larga en lo alto. Es el **Monte Hacho**, el extremo oriental de la península ceutí, rodeado de mar por tres lados. Darle la vuelta, en coche o andando, es uno de los mejores planes de la ciudad: fortalezas, una ermita con romería, un castillo junto a una cala, un faro y miradores sobre el **Estrecho de Gibraltar**.
 
