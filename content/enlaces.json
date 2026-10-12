@@ -974,5 +974,18 @@
   "faro-cap-de-barbaria": [
     "Cap de Barbaria",
     "faro de Barbaria"
+  ],
+  "sabinar-el-hierro": [
+    "El Sabinar",
+    "Mirador de Bascos",
+    "faro de Orchilla"
+  ],
+  "chinchilla-de-montearagon": [
+    "Chinchilla de Montearagón",
+    "castillo de Chinchilla"
+  ],
+  "parque-natural-valderejo": [
+    "Valderejo",
+    "desfiladero del Purón"
   ]
 }
