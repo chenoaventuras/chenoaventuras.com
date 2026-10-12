@@ -30,12 +30,10 @@ faq:
   - q: "¿Dónde está el Valle de Tena?"
     a: "En el Pirineo de Huesca, a lo largo del río Gállego, con pueblos como Sallent de Gállego, Formigal, Lanuza y Panticosa."
 actividades:
-  - t: "Barranquismo en el Pirineo aragonés desde Biescas"
-    u: "https://www.civitatis.com/es/biescas/barranquismo-pirineo-aragones/"
-  - t: "Vía ferrata en el valle de Tena"
-    u: "https://www.civitatis.com/es/biescas/via-ferrata-valle-tena/"
-  - t: "Panticosa: parapente en el Pirineo"
-    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+  - t: "Raquetas de nieve en el Valle de Tena"
+    u: "https://www.getyourguide.es/senegue-espana-l290115/raquetas-de-nieve-en-el-valle-de-tena-t1148839/"
+  - t: "Vuelo en parapente biplaza en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/vuelo-en-parapente-biplaza-en-el-pirineo-t1398071/"
 comer:
   - n: "Casa Portoles"
     r: 4.6

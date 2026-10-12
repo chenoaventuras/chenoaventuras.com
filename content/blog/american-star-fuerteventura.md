@@ -25,9 +25,6 @@ faq:
     a: "Por una pista de tierra en la costa oeste de Fuerteventura, en el municipio de Pájara."
   - q: "¿Se puede bañar en la playa del American Star?"
     a: "No es buena idea: la playa de Garcey es peligrosa para el baño."
-actividades:
-  - t: "Tour en todoterreno por la península de Jandía (Cofete) desde el sur"
-    u: "https://www.civitatis.com/es/jandia/tour-4x4-peninsula-jandia/"
 comer:
   - n: "Ca Luisa"
     r: 4.8

@@ -25,9 +25,6 @@ faq:
     a: "En unas 2 horas y media: por la A-4 hasta Manzanares y luego hacia Ruidera."
   - q: "¿Dónde están las Lagunas de Ruidera?"
     a: "Entre Ciudad Real y Albacete, alrededor de los pueblos de Ruidera y Ossa de Montiel."
-actividades:
-  - t: "Tour en kayak por las lagunas de San Pedro y Tinaja"
-    u: "https://www.civitatis.com/es/ossa-de-montiel/kayak-lagunas-san-pedro-tinaja/"
 comer:
   - n: "Restaurante Abrasador los Batanes"
     r: 4.4

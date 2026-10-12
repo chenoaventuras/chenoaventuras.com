@@ -36,8 +36,6 @@ actividades:
     u: "https://www.civitatis.com/es/cabo-de-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
-  - t: "Visita guiada al faro de Cabo de Palos"
-    u: "https://www.civitatis.com/es/cabo-de-palos/visita-guiada-faro-cabo-palos/"
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf
 guiaTitulo: 'Guía Región de Murcia en PDF'
 comer:

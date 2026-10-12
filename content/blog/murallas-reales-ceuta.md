@@ -33,8 +33,6 @@ faq:
 actividades:
   - t: "Alquiler de kayak en Ceuta (foso de las Murallas Reales)"
     u: "https://www.civitatis.com/es/ceuta/alquiler-kayak-ceuta/"
-  - t: "Paseo en barco por la bahía de Ceuta"
-    u: "https://www.civitatis.com/es/ceuta/paseo-barco-ceuta/"
 guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
 guiaTitulo: 'Guía Ceuta y Melilla en PDF'
 ---

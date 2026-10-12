@@ -75,6 +75,8 @@ Te cuento cómo recorrerla paso a paso, qué no perderte, su historia fenicia y 
 <p><img src="/assets/img/blog/dalt-vila-ibiza/vista.webp" alt="Dalt Vila vista desde el mar" loading="lazy" decoding="async" /></p>
 <p>Si quieres conocer el resto de la isla, te cuento sus calas, Es Vedrà y los atardeceres en <a href="/blog/ibiza-que-ver.html">qué ver en Ibiza</a>. Y desde el mismo puerto, en media hora de barco, estás en <a href="/blog/formentera-que-ver.html">Formentera</a>.</p>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Sube hasta los baluartes: junto a los cañones tienes el puerto y la costa de Ibiza a tus pies. Y no te extrañe encontrarte gatos tomando el sol en las murallas.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube a última hora</b>: menos calor, luz dorada y atardecer desde los baluartes.</li><li><b>Vuelve de noche</b>: las murallas iluminadas y el puerto a tus pies son otra cosa.</li><li><b>No te saltes Puig des Molins</b>: es la historia más antigua de Ibiza y casi nadie va.</li><li><b>Calzado cómodo</b>: empedrado y cuestas.</li><li><b>Ve en mayo o en octubre</b>: buen tiempo, menos gente y precios más razonables.</li></ul></div>
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

@@ -23,9 +23,6 @@ faq:
     a: "El monolito mide unos 80 metros y su base está a más de 1.800 metros sobre el nivel del mar."
   - q: "¿Hay que pagar para subir al Roque Nublo?"
     a: "La reserva es obligatoria en horario de día. Hay que aparcar en Cruz de Los Llanos o en Tejeda y llegar en guagua lanzadera o a pie."
-actividades:
-  - t: "Senderismo por el Roque Nublo"
-    u: "https://www.civitatis.com/es/tejeda/senderismo-roque-nublo/"
 comer:
   - n: "Bar - Restaurante Arraigo"
     r: 4.9

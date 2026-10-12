@@ -27,8 +27,6 @@ faq:
 actividades:
   - t: "Alquiler de kayak en Ceuta (foso de las Murallas Reales)"
     u: "https://www.civitatis.com/es/ceuta/alquiler-kayak-ceuta/"
-  - t: "Paseo en barco por la bahía de Ceuta"
-    u: "https://www.civitatis.com/es/ceuta/paseo-barco-ceuta/"
   - t: "Free tour de los misterios y leyendas de Ceuta"
     u: "https://www.civitatis.com/es/ceuta/free-tour-misterios-leyendas-ceuta/"
 comer:

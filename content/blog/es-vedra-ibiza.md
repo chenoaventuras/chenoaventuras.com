@@ -81,6 +81,8 @@ Te cuento sus leyendas (las reales y las inventadas), los mejores miradores, có
 
 <p>Te cuento el resto de la isla en <a href="/blog/ibiza-que-ver.html">qué ver en Ibiza</a> y su ciudad amurallada en <a href="/blog/dalt-vila-ibiza.html">Dalt Vila</a>. Y desde el puerto, en barco, <a href="/blog/ses-illetes-formentera.html">Ses Illetes</a> en Formentera.</p>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>El atardecer frente a Es Vedrà fue de lo mejor del viaje: el cielo se pone naranja y el islote se queda en silueta. Si puedes, quédate hasta que el sol se esconda del todo.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Llega antes del atardecer</b>: en verano los miradores se llenan una hora antes.</li><li><b>Calzado cerrado</b>: el camino a la torre es de piedra suelta.</li><li><b>Atlantis solo si estás en forma</b> y de día.</li><li><b>Respeta la reserva</b>: no te acerques en barco a molestar a las aves.</li><li><b>Fuera de temporada</b>, la zona es mucho más tranquila y mágica.</li></ul></div>
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

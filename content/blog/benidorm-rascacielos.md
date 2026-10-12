@@ -78,6 +78,8 @@ Te cuento por qué un pueblo de pescadores acabó así y dónde ver su skyline �
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Benidorm</h2></div>
 <div class="guide__howto"><p>Desde <strong>Alicante</strong>, unos 45 minutos por la AP-7 o la N-332. También llega el <strong>TRAM</strong> (línea 1) desde Alicante.</p><p>Dentro de la ciudad, lo mejor es moverse andando por el paseo marítimo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Balc%C3%B3n%20del%20Mediterr%C3%A1neo%2C%20Benidorm" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Benidorm no es solo rascacielos: hice snorkel en sus calas y acabé haciéndome amigo de una cría de pulpo. Las calas de la Serra Gelada, con los rascacielos al fondo, son un contraste brutal.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube a la Cruz</b>: al atardecer, con el skyline iluminándose.</li><li><b>Serra Gelada</b>: rutas por acantilados justo al lado de los rascacielos.</li><li><b>Combina</b>: con Altea y Guadalest, a pocos kilómetros.</li></ul></div>
 
 <!--faq-->

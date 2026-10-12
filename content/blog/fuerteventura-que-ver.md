@@ -25,8 +25,6 @@ faq:
 actividades:
   - t: "Ferry a la isla de Lobos desde Corralejo"
     u: "https://www.civitatis.com/es/corralejo/ferry-isla-lobos/"
-  - t: "Tour en 4x4 por la península de Jandía (Cofete)"
-    u: "https://www.civitatis.com/es/jandia/tour-4x4-peninsula-jandia/"
 comer:
   - n: "Casa Manolo"
     r: 4.8

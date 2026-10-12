@@ -74,6 +74,8 @@ Te cuento qué ver, el famoso «ocho de luz» de la catedral, el castillo de Bel
 
 <p>Desde Palma puedes subir en el tren de madera a <a href="/blog/soller-que-ver.html">Sóller</a>, y te cuento el resto de la isla en <a href="/blog/mallorca-que-ver.html">qué ver en Mallorca</a>. Y si buscas un hotel de leyenda, el <a href="/blog/hotel-formentor.html">Hotel Formentor</a>.</p>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Mi plan favorito en Palma: recorrer el paseo marítimo en bici y acabar con algo fresco frente a la catedral. Es la mejor forma de ver la ciudad sin prisas.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Foto en el Parc de la Mar</b>: la catedral reflejada al atardecer.</li><li><b>Bellver el domingo</b>: gratis y con las mejores vistas.</li><li><b>Mira el calendario</b>: si vas un 2 de febrero o 11 de noviembre, no te pierdas el «ocho».</li><li><b>Asómate a los portones</b>: los patios del casco antiguo son un tesoro escondido.</li><li><b>Ensaimada para llevar</b>: en su caja octogonal.</li></ul></div>
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

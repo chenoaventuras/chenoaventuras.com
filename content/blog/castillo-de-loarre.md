@@ -25,9 +25,6 @@ faq:
     a: "Son unos 35 km, unos 40 minutos en coche. Desde el pueblo de Loarre, una carretera sube 5 km hasta el aparcamiento del castillo."
   - q: "¿Qué horario tiene el castillo de Loarre?"
     a: "Cambia según la temporada y suele cerrar los lunes en temporada baja: consulta su web antes de ir."
-actividades:
-  - t: "Vuelo en parapente por Huesca y el Pirineo desde Loarre"
-    u: "https://www.civitatis.com/es/loarre/vuelo-parapente-huesca/"
 comer:
   - n: "Hospedería de Loarre"
     r: 4.5

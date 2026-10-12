@@ -25,8 +25,6 @@ faq:
 actividades:
   - t: "Free tour por San Sebastián de La Gomera"
     u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/free-tour-san-sebastian-gomera/"
-  - t: "Paseo en barco por Los Órganos y el oeste de La Gomera"
-    u: "https://www.civitatis.com/es/valle-gran-rey/paseo-barco-organos-oeste-gomera/"
   - t: "Senderismo por el Parque Nacional de Garajonay"
     u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/senderismo-parque-garajonay/"
 comer:

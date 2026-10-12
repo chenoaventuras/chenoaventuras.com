@@ -75,6 +75,8 @@ En la piedra se ven **cruces grabadas** y **símbolos antiguos**, una especie de
 
 > **Mi consejo:** sube **al atardecer**. El sol se pone detrás de la ciudad y la catedral y el Alcázar se tiñen de naranja. Es de las mejores vistas de Toledo.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Ver atardecer sentado en la roca, con Toledo enfrente, es de esos momentos que no se olvidan.</p></div>
+
 ## Cómo llegar a la piedra
 
 - **Desde el Mirador del Valle:** la piedra está a solo **5 minutos** a pie, subiendo por el cerro.

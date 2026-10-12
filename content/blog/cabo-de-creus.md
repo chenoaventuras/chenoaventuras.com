@@ -25,9 +25,6 @@ faq:
     a: "En el Parque Natural del Cap de Creus (Girona), a unos 8 km de Cadaqués."
   - q: "¿Hay que pagar para ir al Cabo de Creus?"
     a: "El parque y el faro son gratis. Solo pagas la lanzadera si vas en verano, cuando la carretera tiene acceso restringido."
-actividades:
-  - t: "Paseo en catamarán por el Cabo de Creus desde Rosas"
-    u: "https://www.civitatis.com/es/rosas/paseo-catamaran-cabo-creus/"
 comer:
   - n: "Celeste"
     r: 4.8

@@ -83,6 +83,8 @@ Como referencia, en 2026 abrió el **viernes por la tarde** (desde las 17:30), e
 
 **Calzado cómodo** (las calles son empedradas y en cuesta), **abrigo** (en febrero en Chinchón hace frío, sobre todo de noche) y **efectivo** por si algún puesto no acepta tarjeta.
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Lo mejor del mercado son los personajes: me crucé con un orco caracterizado que daba miedo de verdad. Ve con tiempo para pasear sin prisa por la Plaza Mayor.</p></div>
+
 ## Cómo llegar
 
 Chinchón está a unos **45 km de Madrid** por la **A-3** y la M-311. Durante el mercado se habilitan **zonas de aparcamiento** en las afueras: déjalo ahí y sube andando. También hay **autobús** desde Madrid (Conde de Casal). Puedes ver la Plaza Mayor en [Google Maps](https://www.google.com/maps/search/?api=1&query=Plaza%20Mayor%20de%20Chinch%C3%B3n).

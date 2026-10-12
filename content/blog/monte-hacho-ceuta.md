@@ -31,8 +31,6 @@ faq:
   - q: "¿El Monte Hacho es una de las Columnas de Hércules?"
     a: "Es una de las dos candidatas tradicionales a ser la columna africana de Hércules, junto al Jebel Musa, en Marruecos. La del norte sería el Peñón de Gibraltar."
 actividades:
-  - t: "Paseo en barco por la bahía de Ceuta"
-    u: "https://www.civitatis.com/es/ceuta/paseo-barco-ceuta/"
   - t: "Free tour de los misterios y leyendas de Ceuta"
     u: "https://www.civitatis.com/es/ceuta/free-tour-misterios-leyendas-ceuta/"
 guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf

@@ -98,6 +98,8 @@ Sin las aglomeraciones del fin de semana, Chinchón de noche se disfruta de otra
 
 <!--actividades-->
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Ver el castillo desde arriba al anochecer, con el pueblo encendiéndose detrás, fue una de esas imágenes que no esperaba. Si pasas el día en Chinchón, quédate a la puesta de sol.</p></div>
+
 ## Cómo llegar
 
 Chinchón está a unos **45 km de Madrid** por la **A-3** (salida Arganda / Chinchón) y la M-311. También hay **autobuses** desde Madrid (Conde de Casal), aunque para volver de noche lo más práctico es el coche. Puedes ver la Plaza Mayor en [Google Maps](https://www.google.com/maps/search/?api=1&query=Plaza%20Mayor%20de%20Chinch%C3%B3n).

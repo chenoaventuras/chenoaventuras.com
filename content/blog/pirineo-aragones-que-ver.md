@@ -34,10 +34,8 @@ faq:
 actividades:
   - t: "Vía ferrata del Sorrosal desde Torla-Ordesa"
     u: "https://www.civitatis.com/es/torla-ordesa/via-ferrata-sorrosal/"
-  - t: "Barranquismo en el Pirineo aragonés desde Biescas"
-    u: "https://www.civitatis.com/es/biescas/barranquismo-pirineo-aragones/"
-  - t: "Panticosa: parapente en el Pirineo"
-    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+  - t: "Vuelo en parapente biplaza en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/vuelo-en-parapente-biplaza-en-el-pirineo-t1398071/"
 comer:
   - n: "L'Acherito"
     r: 4.7

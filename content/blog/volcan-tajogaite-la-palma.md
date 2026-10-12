@@ -23,9 +23,6 @@ faq:
     a: "Es el nombre que los vecinos daban a esa zona de la montaña."
   - q: "¿Cuánto duró la erupción del volcán de La Palma?"
     a: "85 días, entre septiembre y diciembre de 2021."
-actividades:
-  - t: "Excursión al volcán Tajogaite"
-    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
 comer:
   - n: "Restaurante Franchipani"
     r: 4.7

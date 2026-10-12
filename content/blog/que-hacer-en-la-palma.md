@@ -11,9 +11,6 @@ tags:
   - Actividades
   - Canarias
 wide: true
-actividades:
-  - t: "Excursión al volcán Tajogaite"
-    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
 comer:
   - n: "Restaurante Los Olivos"
     r: 4.6

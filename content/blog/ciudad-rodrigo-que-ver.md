@@ -27,8 +27,6 @@ faq:
 actividades:
   - t: "Free tour por Ciudad Rodrigo"
     u: "https://www.civitatis.com/es/ciudad-rodrigo/free-tour-ciudad-rodrigo/"
-  - t: "Tour de la invasión napoleónica de Ciudad Rodrigo"
-    u: "https://www.civitatis.com/es/ciudad-rodrigo/tour-invasion-napoleonica-ciudad-rodrigo/"
 comer:
   - n: "Restaurante El Rodeo"
     r: 4.7

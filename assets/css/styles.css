@@ -538,7 +538,8 @@ p { margin: 0 0 1em; }
   line-height: 1; font-size: clamp(1.8rem, 5vw, 3rem); color: var(--night); margin: 0 0 .4em;
 }
 .article__body .guide__head p { color: var(--ink-mute); font-size: .95rem; margin: 0; }
-.article__body .guide__grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 22px; padding: 0; margin: 0; list-style: none; }
+.article__body .guide__grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 22px; padding: 0; margin: 0; list-style: none; }   /* la última fila incompleta queda centrada */
+.article__body .guide__grid > * { flex: 1 1 270px; max-width: 360px; }
 .article__body .gcard { margin: 0; background: var(--white); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; }
 .gcard__media { position: relative; aspect-ratio: 4 / 3; background: var(--paper-3); }
 .article__body .gcard__media img { width: 100%; height: 100%; object-fit: cover; margin: 0; border-radius: 0; box-shadow: none; }
@@ -603,14 +604,14 @@ p { margin: 0 0 1em; }
 .article__body a.gbtn:hover { background: var(--night); color: #fff; }
 .article__body a.gbtn--reel { background: var(--gold); border-color: var(--gold); color: var(--night); }
 .article__body a.gbtn--reel:hover { background: var(--gold-bright); border-color: var(--gold-bright); color: var(--night); }
-.article__body .guide__grid--cuenca { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+.article__body .guide__grid--cuenca > * { flex-basis: 300px; }
 .article__body .guide__note a { word-break: break-word; }
 
 /* posts de lugares: galería, cómo llegar, FAQ y "qué ver cerca" */
-.article__body .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; margin: 0 0 24px; }
+.article__body .gallery { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; margin: 0 0 24px; }   /* centrada, también si la última fila queda incompleta */
 .article__body--wide > .article__callout { max-width: 68ch; margin-left: auto; margin-right: auto; }
-.article__body .gallery--single { grid-template-columns: minmax(260px, 420px); justify-content: center; }
-.article__body .gallery figure { margin: 0; background: var(--white); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-sm); }
+.article__body .gallery.gallery--single figure { max-width: 420px; }
+.article__body .gallery figure { flex: 1 1 260px; max-width: 360px; margin: 0; background: var(--white); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-sm); }
 .article__body .gallery img { width: 100%; aspect-ratio: 4 / 3; height: auto; object-fit: cover; margin: 0; border-radius: 0; box-shadow: none; }
 .article__body .gallery figcaption { padding: 10px 14px 12px; font-size: .86rem; line-height: 1.45; color: var(--ink-soft); }
 .article__body--wide > .guide__legend { margin-top: 24px; }

@@ -34,10 +34,8 @@ faq:
   - q: "¿Se puede visitar el Balneario de Panticosa sin entrar al spa?"
     a: "Sí, pasear por el entorno, el lago y las cascadas es gratis. Solo pagas si entras a las termas."
 actividades:
-  - t: "Balneario de Panticosa: circuito termal Termas de Tiberio (75 min)"
-    u: "https://www.getyourguide.es/balneario-de-panticosa-l204833/balneario-de-panticosa-75-thermal-circuit-tiberio-therms-t685195/"
-  - t: "Panticosa: parapente en el Pirineo"
-    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+  - t: "Vuelo en parapente biplaza en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/vuelo-en-parapente-biplaza-en-el-pirineo-t1398071/"
 comer:
   - n: "Restaurante Casa Patro"
     r: 4.7

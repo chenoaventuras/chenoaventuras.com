@@ -22,9 +22,6 @@ faq:
     a: "La colegiata y el castillo, sus calles empedradas y las pasarelas sobre el río Vero."
   - q: "¿Cómo llegar a Alquézar?"
     a: "En coche: está en el Somontano (Huesca), a unos 25 minutos de Barbastro y 45 de Huesca."
-actividades:
-  - t: "Barranquismo de un día en la Sierra de Guara"
-    u: "https://www.getyourguide.es/las-almunias-l200630/canyoning-day-trip-in-sierra-de-guara-t632167/"
 comer:
   - n: "Casa Pardina"
     r: 4.8

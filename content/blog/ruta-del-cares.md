@@ -23,9 +23,6 @@ faq:
     a: "Sí, con niños acostumbrados a caminar y siempre lejos del borde, porque en muchos tramos no hay barandilla."
   - q: "¿Dónde empieza la Ruta del Cares?"
     a: "Se puede empezar en Poncebos (Asturias) o en Caín (León). Son unos 12 km por sentido entre los dos pueblos."
-actividades:
-  - t: "Asturias: paddle surf por el río Cares"
-    u: "https://www.getyourguide.es/leon-spain-l144127/picos-de-europa-cares-deva-river-sup-tour-t710556/"
 comer:
   - n: "Sidrería Casa Niembro"
     r: 4.8

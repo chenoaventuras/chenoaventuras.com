@@ -31,9 +31,6 @@ faq:
     a: "En el Prepirineo de Huesca. El avistamiento de buitres se hace en Santa Cilia de Panzano."
   - q: "¿Se puede ir con niños al avistamiento de buitres?"
     a: "Sí, es una actividad de educación ambiental con charla y un paseo corto de unos 20 minutos hasta el observatorio."
-actividades:
-  - t: "Barranquismo de un día en la Sierra de Guara"
-    u: "https://www.getyourguide.es/las-almunias-l200630/canyoning-day-trip-in-sierra-de-guara-t632167/"
 ---
 En el Prepirineo aragonés existe una actividad que no se puede hacer en ningún otro lugar de España: observar **muy de cerca y en plena libertad** a los grandes buitres que sobrevuelan la **Sierra de Guara**. Una experiencia que mezcla conservación, educación ambiental y la emoción de tener a estos gigantes del aire a pocos metros.
 

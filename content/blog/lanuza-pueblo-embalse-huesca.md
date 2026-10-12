@@ -29,12 +29,10 @@ faq:
   - q: "¿Cómo llegar a Lanuza?"
     a: "En el Valle de Tena (Huesca), a un par de minutos de Sallent de Gállego por la A-136."
 actividades:
-  - t: "Barranquismo en el Pirineo aragonés desde Biescas"
-    u: "https://www.civitatis.com/es/biescas/barranquismo-pirineo-aragones/"
-  - t: "Vía ferrata en el valle de Tena"
-    u: "https://www.civitatis.com/es/biescas/via-ferrata-valle-tena/"
-  - t: "Panticosa: parapente en el Pirineo"
-    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+  - t: "Raquetas de nieve en el Valle de Tena"
+    u: "https://www.getyourguide.es/senegue-espana-l290115/raquetas-de-nieve-en-el-valle-de-tena-t1148839/"
+  - t: "Vuelo en parapente biplaza en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/vuelo-en-parapente-biplaza-en-el-pirineo-t1398071/"
 comer:
   - n: "Gran Pic restaurante"
     r: 4.8

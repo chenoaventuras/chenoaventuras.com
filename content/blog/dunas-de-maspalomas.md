@@ -72,6 +72,8 @@ Se recorren andando, gratis, y al atardecer son espectaculares. Te cuento cómo 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a las Dunas</h2></div>
 <div class="guide__howto"><p>Desde Las Palmas, unos 45 minutos por la <strong>GC-1</strong> hacia el sur. Hay guaguas frecuentes a Playa del Inglés y Maspalomas.</p><p>Puedes entrar desde el mirador de Playa del Inglés o desde el Faro, y cruzarlas andando por la orilla (alrededor de una hora).</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Dunas+de+Maspalomas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar a las Dunas de Maspalomas</a></div></div>
 
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Ve al atardecer: el sol se esconde detrás de las dunas y la arena cambia de color en cuestión de minutos. Lleva agua, que andar por la arena cansa más de lo que parece.</p></div>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve al amanecer o al atardecer</b>: menos calor y la mejor luz para fotos.</li><li><b>Respeta los senderos</b>: es una reserva natural y se multa salirse.</li><li><b>Cruza por la orilla</b>: de Playa del Inglés al Faro: un paseo precioso.</li><li><b>Combínalo con el Roque Nublo</b>: en el centro de la isla, a una hora en coche.</li></ul></div>
 
 <!--faq-->

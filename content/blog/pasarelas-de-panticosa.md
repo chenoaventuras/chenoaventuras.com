@@ -32,12 +32,10 @@ faq:
   - q: "¿Cómo llegar a Panticosa?"
     a: "En coche por el Valle de Tena (Huesca), a unos 40 minutos de Jaca y algo más de una hora de Huesca."
 actividades:
-  - t: "Barranquismo en el Pirineo aragonés desde Biescas"
-    u: "https://www.civitatis.com/es/biescas/barranquismo-pirineo-aragones/"
-  - t: "Vía ferrata en el valle de Tena"
-    u: "https://www.civitatis.com/es/biescas/via-ferrata-valle-tena/"
-  - t: "Panticosa: parapente en el Pirineo"
-    u: "https://www.getyourguide.es/panticosa-l188186/panticosa-pyrenees-paragliding-experience-t446324/"
+  - t: "Raquetas de nieve en el Valle de Tena"
+    u: "https://www.getyourguide.es/senegue-espana-l290115/raquetas-de-nieve-en-el-valle-de-tena-t1148839/"
+  - t: "Vuelo en parapente biplaza en el Pirineo"
+    u: "https://www.getyourguide.es/panticosa-l188186/vuelo-en-parapente-biplaza-en-el-pirineo-t1398071/"
 comer:
   - n: "Tango Fusion Restorante"
     r: 4.7
@@ -80,6 +78,8 @@ Te las enseño en vídeo 👇
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a las Pasarelas de Panticosa</h2></div>
 <div class="guide__howto"><p>Las pasarelas salen del propio pueblo de <strong>Panticosa</strong>, en el Valle de Tena. Aparca en el pueblo y sigue las indicaciones hasta la máquina de tickets del inicio.</p><p>No hay fuentes en el recorrido: lleva la botella llena.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pasarelas+de+Panticosa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Panticosa en Google Maps</a></div></div>
+
+<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Las pasarelas y el mirador O Calvé fueron una de las paradas de mi ruta por el Pirineo, y de las que más recomiendo si vas por el valle de Tena.</p></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlas al máximo</h2><ul><li><b>Compra online</b> — son 3 € en vez de 4 y te aseguras la hora con el aforo limitado.</li><li><b>Ve a primera hora</b> — con menos gente se disfruta mucho más cada pasarela.</li><li><b>Agua y calzado cómodo</b> — no hay fuentes y hay algo de desnivel.</li><li><b>Combínalas</b> — con el Balneario de Panticosa y la Cascada de Forronías, muy cerca.</li></ul><p>Si te da vértigo, mira al frente y no al río… o mira al río, que para eso has venido 😅</p></div>
 

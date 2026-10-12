@@ -23,8 +23,6 @@ faq:
   - q: "¿A cuánto está Hondarribia de San Sebastián?"
     a: "A unos 25 minutos en coche. Está en la desembocadura del Bidasoa, frente a Hendaya."
 actividades:
-  - t: "Tour en kayak por Hondarribia"
-    u: "https://www.civitatis.com/es/hondarribia/tour-kayak-hondarribia/"
   - t: "Free tour por Hondarribia"
     u: "https://www.civitatis.com/es/hondarribia/free-tour-hondarribia/"
 comer:

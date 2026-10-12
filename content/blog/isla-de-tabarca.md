@@ -26,8 +26,6 @@ faq:
 actividades:
   - t: "Excursión a Tabarca en barco desde Santa Pola"
     u: "https://www.civitatis.com/es/santa-pola/excursion-tabarca-barco/"
-  - t: "Excursión a Tabarca en barco + snorkel desde Santa Pola"
-    u: "https://www.civitatis.com/es/santa-pola/excursion-tabarca-snorkel/"
 comer:
   - n: "Restaurante La Muralla"
     r: 4.3
