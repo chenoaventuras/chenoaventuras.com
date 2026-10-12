@@ -3,6 +3,7 @@
  * (.html, CSS, JS, instagram.json). Lo llama .github/workflows/optimize-images.yml.
  *
  * - Solo reemplaza si el .webp resulta más pequeño que el original.
+ * - Las fotos de más de 1600 px de lado largo se reducen a 1600 px.
  * - No toca favicons, apple-touch ni la imagen de Open Graph (og-*): esas se
  *   quedan en su formato por compatibilidad.
  * - Ignora assets/img/instagram/ (esas ya las genera fetch-instagram.mjs en WebP).
@@ -32,6 +33,19 @@ const TEXT_FILES = [
 ];
 const SKIP = /^(favicon|apple-touch|og-|cheno-perfil)/i;
 const RASTER = /\.(jpe?g|png)$/i;
+const MAX_SIDE = 1600;
+
+// Ancho y alto de un .webp leyendo su cabecera (VP8, VP8L o VP8X).
+function webpSize(file) {
+  const b = readFileSync(file);
+  const kind = b.toString("ascii", 12, 16);
+  if (kind === "VP8X") return [1 + b.readUIntLE(24, 3), 1 + b.readUIntLE(27, 3)];
+  if (kind === "VP8L") {
+    const n = b.readUInt32LE(21);
+    return [1 + (n & 0x3fff), 1 + ((n >> 14) & 0x3fff)];
+  }
+  return [b.readUInt16LE(26) & 0x3fff, b.readUInt16LE(28) & 0x3fff];
+}
 
 function listMarkdown(dir) {
   try {
@@ -70,6 +84,12 @@ for (const dir of IMG_DIRS) {
       ? ["-q", "82", "-alpha_q", "100", abs, "-o", outAbs]
       : ["-q", "82", abs, "-o", outAbs];
     execFileSync("cwebp", args, { stdio: "inherit" });
+    // Fotos enormes (móvil, 4000 px): se reducen a 1600 px de lado largo.
+    const [w, h] = webpSize(outAbs);
+    if (Math.max(w, h) > MAX_SIDE) {
+      const rs = w >= h ? ["-resize", String(MAX_SIDE), "0"] : ["-resize", "0", String(MAX_SIDE)];
+      execFileSync("cwebp", [...rs, ...args], { stdio: "inherit" });
+    }
     const before = statSync(abs).size;
     const after = statSync(outAbs).size;
     if (after < before) {
