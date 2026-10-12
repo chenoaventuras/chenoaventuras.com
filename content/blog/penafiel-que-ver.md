@@ -7,7 +7,7 @@ provincia: Valladolid
 lat: 41.5966
 lng: -4.1186
 excerpt: 'Qué ver en Peñafiel (Valladolid): el castillo con forma de barco y su Museo del Vino (6,60 €), la plaza del Coso, la Bajada del Ángel, bodegas de la Ribera del Duero y lechazo.'
-cover: /assets/img/blog/penafiel-que-ver/portada.jpg
+cover: /assets/img/blog/penafiel-que-ver/portada.webp
 tags:
   - Pueblos
   - Castilla y León
@@ -45,11 +45,11 @@ Si te gustan los castillos, el vino o el buen lechazo, Peñafiel es una escapada
 </div>
 
 <div class="guide__head"><span class="eyebrow">La joya</span><h2>El castillo de Peñafiel</h2></div>
-<p><img src="/assets/img/blog/penafiel-que-ver/muralla.jpg" alt="Murallas y torres del castillo de Peñafiel" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/penafiel-que-ver/muralla.webp" alt="Murallas y torres del castillo de Peñafiel" loading="lazy" decoding="async" /></p>
 <p>Ya había una fortaleza aquí en el siglo X, cuando el Duero era la frontera entre cristianos y musulmanes. Cuenta la tradición que el conde castellano <strong>Sancho García</strong>, tras recuperarla, clavó su lanza y dijo: «Desde hoy, esta será la peña más fiel de Castilla». Y de ahí, <strong>Peña-fiel</strong>.</p>
 <p>El castillo que ves hoy es sobre todo del <strong>siglo XV</strong>. Mide <strong>más de 200 metros de largo</strong> y apenas unos 30 de ancho, porque se adapta al lomo del cerro, y tiene una muralla doble con una treintena de torres. En el centro se levanta la <strong>torre del homenaje</strong>, de unos 34 metros, que divide el castillo en dos patios. Visto desde abajo, el efecto barco es total: la proa, la popa y el puente de mando.</p>
 <div class="guide__howto"><h3>🎫 Cómo visitarlo</h3><p>El castillo <strong>solo se visita con guía</strong>, en pases a horas fijas. La entrada combinada cuesta unos <strong>6,60 €</strong> y también incluye el Museo Provincial del Vino, que se recorre por libre; con cata comentada, alrededor de <strong>9,20 €</strong>. Los menores de 12 años acompañados entran gratis.</p><p>Horario habitual: de <strong>martes a domingo</strong>, de 10:30 a 14:00 y de 16:00 a 18:00 (octubre a marzo) o a 20:00 (abril a septiembre). <strong>Los lunes cierra.</strong> Compra la entrada online en temporada alta, porque los pases tienen aforo.</p></div>
-<p><img src="/assets/img/blog/penafiel-que-ver/vista.jpg" alt="Vista de Peñafiel desde la torre del homenaje del castillo" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/penafiel-que-ver/vista.webp" alt="Vista de Peñafiel desde la torre del homenaje del castillo" loading="lazy" decoding="async" /></p>
 <p>Desde la torre del homenaje tienes una vista de 360 grados: el pueblo, la plaza del Coso, los ríos Duero y Duratón y kilómetros de viñedos.</p>
 
 <div class="guide__head"><span class="eyebrow">Vino</span><h2>El Museo Provincial del Vino</h2></div>
@@ -57,9 +57,9 @@ Si te gustan los castillos, el vino o el buen lechazo, Peñafiel es una escapada
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el pueblo</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/penafiel-que-ver/coso.jpg" alt="Plaza del Coso de Peñafiel con sus balcones de madera y el castillo al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La plaza del Coso</h3><p>Una plaza medieval rectangular, de tierra, rodeada de casas con <strong>balcones de madera</strong> que se alquilaban para ver los espectáculos. Se sigue usando como plaza de toros en las fiestas, y desde ella ves el castillo encima.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/penafiel-que-ver/entrada.jpg" alt="Entrada al castillo de Peñafiel" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La subida al castillo</h3><p>Puedes subir en coche o andando por el camino que rodea el cerro. Andando son unos 20 minutos de cuesta, con buenas vistas del pueblo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/penafiel-que-ver/torre.jpg" alt="Interior de la torre del homenaje del castillo de Peñafiel" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La torre del homenaje por dentro</h3><p>Salas de piedra con ventanas estrechas, escaleras y la terraza final. En la visita guiada te cuentan los asedios y la vida en el castillo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/penafiel-que-ver/coso.webp" alt="Plaza del Coso de Peñafiel con sus balcones de madera y el castillo al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La plaza del Coso</h3><p>Una plaza medieval rectangular, de tierra, rodeada de casas con <strong>balcones de madera</strong> que se alquilaban para ver los espectáculos. Se sigue usando como plaza de toros en las fiestas, y desde ella ves el castillo encima.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/penafiel-que-ver/entrada.webp" alt="Entrada al castillo de Peñafiel" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La subida al castillo</h3><p>Puedes subir en coche o andando por el camino que rodea el cerro. Andando son unos 20 minutos de cuesta, con buenas vistas del pueblo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/penafiel-que-ver/torre.webp" alt="Interior de la torre del homenaje del castillo de Peñafiel" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La torre del homenaje por dentro</h3><p>Salas de piedra con ventanas estrechas, escaleras y la terraza final. En la visita guiada te cuentan los asedios y la vida en el castillo.</p></div></li>
 </ol>
 <ul>
 <li><strong>La iglesia de San Pablo</strong>: un convento fundado por el infante <strong>don Juan Manuel</strong>, señor de Peñafiel y autor de <em>El conde Lucanor</em>. Mezcla el mudéjar de su ábside de ladrillo con una capilla renacentista.</li>
