@@ -37,9 +37,10 @@ ZONAS = {
         ("🌤️ Cuándo ir", "**Otoño y primavera**. En otoño, los robledales y hayedos de la sierra de Ayllón se vuelven dorados."),
         ("🍖 Mi consejo", "Prueba el **cochinillo** en Segovia y el lechazo asado en los pueblos.")],
   provincias=["Segovia"], orden=["acueducto-de-segovia", "pedraza-que-ver", "hoces-del-duraton", "pueblos-de-colores-segovia", "vuelo-en-globo-segovia"],
-  plan_titulo="Segovia en 2 días",
-  plan=[("Día 1", "La capital y el **Acueducto** por la mañana; por la tarde, **Pedraza** al atardecer."),
-        ("Día 2", "Las **Hoces del Duratón** temprano y después la ruta de los **pueblos de colores** de Riaza.")],
+  plan_titulo="Segovia en 3 días",
+  plan=[("Día 1", "La capital: el **Acueducto**, el **Alcázar** y la catedral; por la tarde, **Pedraza** al atardecer."),
+        ("Día 2", "Las **Hoces del Duratón** por la mañana (en kayak o a pie hasta San Frutos) y comida en **Sepúlveda**."),
+        ("Día 3", "Los **pueblos de colores**: los negros y Madriguera. Si tienes más tiempo, dedícales un segundo día.")],
 ),
 "salamanca": dict(
   nombre="Salamanca", h1_txt="Salamanca", portada="salamanca-que-ver",

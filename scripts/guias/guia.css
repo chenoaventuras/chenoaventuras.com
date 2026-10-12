@@ -254,3 +254,24 @@ body { font-size: 14px; }
 .article__body .chap__body .grid--cont { margin-top: -4px; }
 .guide__plan.final { margin-top: 18px; }
 .acts { margin-top: 22px; }
+
+/* marca de agua en el pie de todas las páginas (menos la portada) */
+@page { @bottom-center { content: "www.chenoaventuras.com"; font-family: Poppins, Arial, sans-serif; font-size: 8.5pt; font-weight: 600; letter-spacing: .06em; color: #7c8aa0; } }
+@page :first { @bottom-center { content: none; } }
+
+/* código de descuento bien visible */
+.article__body .acts__code { font-size: 1.02rem; line-height: 1.45; background: #fff6d8; border: 1.5px dashed var(--gold); border-radius: 10px; padding: 10px 14px; margin: 10px 0 0; color: var(--night); }
+.article__body .acts__code strong { font-size: 1.12rem; }
+
+/* alquiler de coche */
+.car { display: flex; gap: 14px; align-items: flex-start; break-inside: avoid; background: #eef4fb; border: 1px solid #c9daef; border-left: 4px solid var(--blue, #2b5c8a); border-radius: 12px; padding: 14px 18px; margin: 14px 0; }
+.car__ico { font-size: 1.8rem; line-height: 1; }
+.article__body .car h3 { font-size: 1.05rem; margin: 0 0 4px; color: var(--night); }
+.article__body .car p { font-size: .86rem; margin: 0 0 8px; }
+.article__body .car--small { display: block; font-size: .8rem; padding: 9px 14px; margin: 10px 0; }
+.article__body .car--small a { font-weight: 700; }
+
+/* actividades de cada lugar */
+.acts--here { margin: 12px 0 0; break-inside: avoid; }
+.article__body .acts--here h3 { font-size: 1rem; margin: 0 0 6px; }
+.acts--here .acts__list li a { padding: 7px 12px; font-size: .82rem; }

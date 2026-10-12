@@ -3,11 +3,13 @@ name: Disparo diario de posts nuevos por zona
 # No usa IA: solo dispara cada día, a las 15:00 hora de España, el workflow
 # posts-diarios.yml (que sí llama a Claude Code) con un "repository_dispatch",
 # igual que auto-blog-draft-trigger.yml.
+# PAUSADO desde el 12-oct-2026: no se generan más posts mientras Google indexa poco a poco
+# (para evitar penalizaciones por contenido a escala). Para reactivarlo, vuelve a poner el bloque schedule:
+#  schedule:
+#    - cron: "0 13 * 4-10 *"       # 15:00 CEST (horario de verano, abr-oct)
+#    - cron: "0 14 * 1-3,11-12 *"  # 15:00 CET  (horario de invierno, nov-mar)
 on:
-  schedule:
-    - cron: "0 13 * 4-10 *"       # 15:00 CEST (horario de verano, abr-oct)
-    - cron: "0 14 * 1-3,11-12 *"  # 15:00 CET  (horario de invierno, nov-mar)
-  workflow_dispatch: {}           # para probarlo a mano desde la pestaña Actions
+  workflow_dispatch: {}           # solo a mano desde la pestaña Actions
 
 jobs:
   trigger:

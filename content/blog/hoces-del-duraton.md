@@ -17,6 +17,8 @@ faq:
     a: "Desde Villaseca, por una pista de unos 4 km hasta el aparcamiento de San Frutos, y desde allí unos 20 minutos andando."
   - q: "¿Se puede hacer kayak en las Hoces del Duratón?"
     a: "Sí, con empresas autorizadas y respetando las restricciones de la época de cría. Consulta en la Casa del Parque."
+  - q: "¿Hay eco en San Frutos?"
+    a: "Sí. Al final de la iglesia, junto al cementerio, si das una palmada el sonido rebota en las paredes del cañón y vuelve como un eco."
   - q: "¿Qué es La Cuchillada?"
     a: "Una grieta en la roca junto a la ermita. Según la leyenda, la abrió San Frutos con su cayado para escapar de sus perseguidores."
   - q: "¿Hay buitres en las Hoces del Duratón?"
@@ -59,7 +61,7 @@ A una hora y media de Madrid, es uno de los paisajes más bestias del centro de 
 </div>
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>San Frutos y La Cuchillada</h2></div>
-<p>En el siglo VII vivieron aquí como ermitaños <strong>San Frutos</strong> y sus hermanos Valentín y Engracia, hoy patrones de Segovia. Siglos después, los monjes benedictinos levantaron un <strong>priorato románico</strong> en el mismo sitio, al borde del cañón, del que hoy quedan la iglesia y algunas ruinas.</p><div class="guide__legend"><h3>⚔️ La Cuchillada</h3><p>Antes de llegar a la ermita, una grieta corta la roca: <strong>La Cuchillada</strong>. Cuenta la leyenda que San Frutos, perseguido por un grupo de musulmanes, trazó una raya en el suelo con su cayado y la roca se abrió, dejando a sus perseguidores al otro lado. Hoy se cruza por un puente de piedra.</p></div>
+<p>En el siglo VII vivieron aquí como ermitaños <strong>San Frutos</strong> y sus hermanos Valentín y Engracia, hoy patrones de Segovia. Siglos después, los monjes benedictinos levantaron un <strong>priorato románico</strong> en el mismo sitio, al borde del cañón, del que hoy quedan la iglesia y algunas ruinas.</p><div class="guide__legend"><h3>⚔️ La Cuchillada</h3><p>Antes de llegar a la ermita, una grieta corta la roca: <strong>La Cuchillada</strong>. Cuenta la leyenda que San Frutos, perseguido por un grupo de musulmanes, trazó una raya en el suelo con su cayado y la roca se abrió, dejando a sus perseguidores al otro lado. Hoy se cruza por un puente de piedra.</p></div><div class="guide__legend"><h3>👏 El eco de San Frutos</h3><p>Una curiosidad que te recomiendo probar: al final de la iglesia de San Frutos, junto al cementerio, <strong>da una palmada</strong> y escucha cómo el sonido rebota en las paredes del cañón y vuelve en forma de eco. Hazlo con respeto, sin gritar: es un lugar tranquilo y lleno de buitres.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en las Hoces del Duratón</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

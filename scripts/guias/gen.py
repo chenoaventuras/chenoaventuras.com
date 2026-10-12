@@ -131,6 +131,22 @@ def fingerprint(key, posts):
 
 
 SITE = "https://www.chenoaventuras.com"
+CAR_URL = "https://www.discovercars.com/?a_aid=chenoaventuras"
+CODE_GYG = '<p class="acts__code">🎟️ En GetYourGuide usa el código <strong>CHENOAVENTURAS5</strong> y llévate un <strong>5% de descuento</strong>.</p>'
+
+
+def car_box(small=False):
+    """Recuadro de alquiler de coche (enlace de afiliado de DiscoverCars)."""
+    if small:
+        return (f'<p class="car car--small">🚗 <strong>¿No tienes coche?</strong> Compara gratis todas las compañías de alquiler y elige la de mejor precio: '
+                f'<a href="{CAR_URL}">ver precios en DiscoverCars →</a></p>')
+    return (f'<div class="car"><span class="car__ico">🚗</span><div><h3>¿No tienes coche?</h3><p>Si quieres alquilar uno, aquí puedes '
+            f'<strong>comparar gratis todas las compañías de alquiler</strong> y escoger la que tenga mejor precio.</p>'
+            f'<a class="gbtn gbtn--reel" href="{CAR_URL}">Comparar precios en DiscoverCars →</a></div></div>')
+
+
+def needs_car(txt):
+    return bool(re.search(r"\bcoche\b", re.sub(r"<[^>]+>", " ", txt), re.I))
 
 
 def _end_of(h, i):
@@ -224,7 +240,8 @@ def last_fill(pdf):
     d = fitz.open(pdf)
     pg = d[-1]
     H = pg.rect.height
-    ys = [r[1][3] for r in pg.get_bboxlog() if (r[1][3] - r[1][1]) < 0.7 * H]  # sin fondos de página
+    # sin fondos de página ni la marca de agua del pie
+    ys = [r[1][3] for r in pg.get_bboxlog() if (r[1][3] - r[1][1]) < 0.7 * H and r[1][1] < H - 45]
     return (max(ys) / pg.rect.height) if ys else 0.0
 
 
@@ -265,6 +282,18 @@ def build(key, posts, tmp):
         links = (f'<p class="chap__links"><a class="gbtn gbtn--reel" href="{SITE}/blog/{s}.html">Leer el post completo</a>'
                  f'<a class="gbtn" href="https://www.google.com/maps/search/?api=1&query={q}">{PIN} Cómo llegar</a></p>')
         body = clean_body(p["body"], jpg)
+        acts_here = []
+        for a in p["act"][:3]:
+            href, plat = aff(a["u"])
+            if plat:
+                acts_here.append((a["t"], href, plat))
+        if acts_here:
+            items = "".join(f'<li><a href="{e(h)}"><span class="pl pl--{"gyg" if pl == "GetYourGuide" else "civ"}">{pl}</span><span>{e(t)}</span><b>Reservar →</b></a></li>' for t, h, pl in acts_here)
+            eat += (f'<div class="acts acts--here"><h3>🎟️ Planes para reservar aquí</h3><ul class="acts__list">{items}</ul>'
+                    + (CODE_GYG if any(pl == "GetYourGuide" for *_, pl in acts_here) else "") + "</div>")
+        howto = re.search(r'<div class="guide__howto">.*?</div>', p["body"], re.S)
+        if needs_car(howto.group(0) if howto else ""):
+            eat += car_box(small=True)
         # el cierre del capítulo (consejos + dónde comer + enlaces) va junto: nunca una página solo con botones
         k = body.rfind('<div class="guide__plan">')
         if k != -1 and _end_of(body, k) >= len(body.rstrip()) - 5:
@@ -295,7 +324,7 @@ def build(key, posts, tmp):
     act_html = ""
     if acts:
         items = "".join(f'<li><a href="{e(h)}"><span class="pl pl--{"gyg" if p == "GetYourGuide" else "civ"}">{p}</span><span>{e(t)}</span><b>Ver →</b></a></li>' for t, h, p in acts)
-        code = '<p class="acts__code">🎟️ En GetYourGuide usa el código <strong>CHENOAVENTURAS5</strong> y llévate un 5% de descuento.</p>' if any(p == "GetYourGuide" for *_, p in acts) else ""
+        code = CODE_GYG if any(p == "GetYourGuide" for *_, p in acts) else ""
         act_html = f'<div class="acts"><div class="guide__head"><span class="eyebrow">Planes para reservar</span><h2>Actividades recomendadas</h2></div><ul class="acts__list">{items}</ul>{code}</div>'
     plan_items = "".join(f"<li><strong>{e(d)}</strong> — {md(t)}</li>" for d, t in z.get("plan", []))
     closing = (f'<div class="guide__plan final"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span>'
@@ -309,6 +338,8 @@ def build(key, posts, tmp):
     # colocaciones posibles de ruta/índice/actividades: (antes de los capítulos, después)
     layouts = [(closing + toc + act_html, ""), ("", toc + act_html + closing), (closing, toc + act_html),
                (closing + toc, act_html), (toc + act_html, closing)]
+
+    car_basic = car_box() if needs_car(" ".join(d for _, d in z["tips"])) else ""
 
     def make_doc(at_end):
         head, tail = layouts[at_end]
@@ -332,6 +363,7 @@ def build(key, posts, tmp):
   <div class="intro-box">{intro}</div>
   <div class="guide__head"><span class="eyebrow">Para organizarte</span><h2>Lo básico</h2></div>
   <div class="guide__tips">{tips}</div>
+  {car_basic}
   {head}
   {chapters}
   {tail}
