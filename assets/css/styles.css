@@ -2207,24 +2207,3 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
   .igflow__nav { width: 38px; height: 38px; font-size: 1.5rem; }
 }
 
-/* =========================================================================
-   Inicio: fondo animado detrás de las zonas claras (assets/js/fondo-inicio.js)
-   Manchas difuminadas verdes, azules y amarillas que se mueven muy despacio.
-   ========================================================================= */
-.homebg { position: fixed; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
-.homebg i { position: absolute; width: 55vmax; height: 55vmax; border-radius: 50%; filter: blur(70px); opacity: .28; animation: hbFloat 38s ease-in-out infinite alternate; }
-.homebg i:nth-child(1) { background: #f3dc8c; left: -15vmax; top: -10vmax; opacity: .18; }
-.homebg i:nth-child(2) { background: #7fa6d3; right: -18vmax; top: 20vh; animation-duration: 46s; animation-delay: -12s; }
-.homebg i:nth-child(3) { background: #9cbf86; left: 20vw; bottom: -25vmax; animation-duration: 52s; animation-delay: -25s; }
-.homebg i:nth-child(4) { background: #6fae9a; right: 12vw; top: -20vmax; width: 40vmax; height: 40vmax; opacity: .2; animation-duration: 60s; animation-delay: -5s; }
-@keyframes hbFloat { 0% { transform: translate(0, 0) scale(1); } 50% { transform: translate(12vw, 8vh) scale(1.15); } 100% { transform: translate(-8vw, 14vh) scale(.92); } }
-@media (prefers-reduced-motion: reduce) { .homebg i { animation: none; } }
-/* El borde rasgado de la portada recorta la propia foto en vez de pintar papel
-   liso encima, para que por debajo se vea el fondo animado. */
-.hero.torn-bottom::after { display: none; }
-.hero.torn-bottom {
-  -webkit-mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px;
-  -webkit-mask-composite: source-over;
-  mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px;
-  mask-composite: add;
-}
