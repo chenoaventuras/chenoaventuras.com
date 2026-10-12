@@ -856,8 +856,8 @@
     "puentes colgantes de Chulilla"
   ],
   "mahon-menorca": [
-    "Mahón",
-    "puerto de Mahón"
+    "puerto de Mahón",
+    "qué ver en Mahón"
   ],
   "valladolid-que-ver": [
     "Valladolid"
@@ -946,5 +946,21 @@
     "Alcazaba de Málaga",
     "Gibralfaro",
     "qué ver en Málaga"
+  ],
+  "san-sebastian-que-ver": [
+    "playa de la Concha",
+    "Peine del Viento",
+    "qué ver en San Sebastián",
+    "Donostia"
+  ],
+  "santander-que-ver": [
+    "Palacio de la Magdalena",
+    "Sardinero",
+    "qué ver en Santander"
+  ],
+  "almeria-que-ver": [
+    "Alcazaba de Almería",
+    "qué ver en Almería",
+    "Cable Inglés"
   ]
 }
