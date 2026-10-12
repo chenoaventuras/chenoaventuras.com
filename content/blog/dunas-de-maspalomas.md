@@ -6,7 +6,7 @@ lugar: 'Dunas de Maspalomas'
 lat: 27.7425
 lng: -15.5806
 excerpt: 'Dunas de Maspalomas (Gran Canaria): cómo recorrerlas, la Charca y sus aves, el Faro de Maspalomas, paseos en camello y las normas para no dañar esta reserva natural.'
-cover: /assets/img/blog/dunas-de-maspalomas/portada.webp
+cover: /assets/img/blog/dunas-de-maspalomas/portada.jpg
 tags:
   - Spots
   - Canarias
@@ -60,7 +60,7 @@ Se recorren andando, gratis, y al atardecer son espectaculares. Te cuento cómo 
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Maspalomas</h2><p>Arena, laguna y faro.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/dunas-de-maspalomas/dunas.webp" alt="Dunas de Maspalomas con el mar al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El campo de dunas</h3><p>Sigue los senderos señalizados entre las dunas y verás el mar asomando detrás de cada montaña de arena.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/dunas-de-maspalomas/dunas-atardecer.jpg" alt="Atardecer sobre las dunas de Maspalomas" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El campo de dunas</h3><p>Sigue los senderos señalizados entre las dunas y verás el mar asomando detrás de cada montaña de arena.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/dunas-de-maspalomas/huellas.webp" alt="Huellas en una duna de Maspalomas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las crestas</h3><p>Sube a alguna cresta al atardecer: la luz rasante marca todas las ondas de la arena.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/dunas-de-maspalomas/charca.webp" alt="Charca de Maspalomas con las dunas al fondo" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Charca</h3><p>La laguna junto al faro, con aves y palmeras. Hay un paseo alrededor.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/dunas-de-maspalomas/faro.webp" alt="Faro de Maspalomas" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Faro de Maspalomas</h3><p>Del siglo XIX y unos 56 metros de alto. Su paseo marítimo es perfecto para terminar el día.</p></div></li>
@@ -80,4 +80,4 @@ Se recorren andando, gratis, y al atardecer son espectaculares. Te cuento cómo 
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AGC_Dunas_de_Maspalomas_R08.jpg" target="_blank" rel="noopener">Marc Ryckaert (MJJR)</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3A13_Charca_de_Maspalomas_i_dunes.jpg" target="_blank" rel="noopener">Enric</a> (CC BY-SA 4.0).</p>
+<p class="guide__note">Información consultada en octubre de 2026. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3A13_Charca_de_Maspalomas_i_dunes.jpg" target="_blank" rel="noopener">Enric</a> (CC BY-SA 4.0).</p>

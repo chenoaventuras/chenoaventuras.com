@@ -7,7 +7,7 @@ provincia: Gipuzkoa
 lat: 43.3183
 lng: -1.9812
 excerpt: 'Qué ver en San Sebastián (Donostia): la playa de la Concha, la Parte Vieja y sus pintxos, el Peine del Viento, los montes Urgull e Igueldo, la plaza de la Constitución, el Kursaal y la Tamborrada.'
-cover: /assets/img/blog/san-sebastian-que-ver/portada.webp
+cover: /assets/img/blog/san-sebastian-que-ver/portada.jpg
 tags:
   - Spots
   - País Vasco
@@ -46,7 +46,7 @@ Te cuento qué ver, los mejores miradores, cómo ir de pintxos sin agobiarte, su
 
 <div class="guide__head"><span class="eyebrow">La bahía</span><h2>La Concha y sus playas</h2></div>
 <p>La <strong>playa de la Concha</strong> es el emblema de la ciudad: una curva perfecta de arena dorada, con la barandilla blanca del paseo (la famosa <strong>barandilla de la Concha</strong>), el antiguo balneario de La Perla y la <strong>isla de Santa Clara</strong> en el centro de la bahía. A continuación está <strong>Ondarreta</strong>, más tranquila, y al otro lado del río Urumea, la <strong>Zurriola</strong>, en el barrio de Gros, la playa de los surfistas.</p>
-<p><img src="/assets/img/blog/san-sebastian-que-ver/vista-igueldo.webp" alt="Bahía de la Concha e isla de Santa Clara desde el monte Igueldo" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/san-sebastian-que-ver/bahia-igueldo.jpg" alt="Bahía de la Concha e isla de Santa Clara desde el monte Igueldo" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en San Sebastián</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
@@ -80,4 +80,4 @@ Te cuento qué ver, los mejores miradores, cómo ir de pintxos sin agobiarte, su
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios del funicular de Igueldo y de los museos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Vista_de_San_Sebasti%C3%A1n_desde_el_monte_Igueldo.jpg" target="_blank" rel="noopener">Hmvg</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:San_Sebastian_Kontxa_beach_1190650.jpg" target="_blank" rel="noopener">Ermell</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:San_Sebastian_Peine_del_Viento-Haizearen_Orrazia_1190518.jpg" target="_blank" rel="noopener">Ermell</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:San_Sebastian_at_night_from_Monte_Urgull.jpg" target="_blank" rel="noopener">Phillip Maiwald (Nikopol)</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Parte_Vieja_de_Donostia-San_Sebasti%C3%A1n.jpg" target="_blank" rel="noopener">Rodelar</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Donostia_Plaza_Constitucion.jpg" target="_blank" rel="noopener">Cruccone</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:San_Sebastian_Kursaal_Palace_1190314.jpg" target="_blank" rel="noopener">Ermell</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Vista_-_Ayuntamiento_-_San_Sebastian_03.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0).</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios del funicular de Igueldo y de los museos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:San_Sebastian_Peine_del_Viento-Haizearen_Orrazia_1190518.jpg" target="_blank" rel="noopener">Ermell</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:San_Sebastian_at_night_from_Monte_Urgull.jpg" target="_blank" rel="noopener">Phillip Maiwald (Nikopol)</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Parte_Vieja_de_Donostia-San_Sebasti%C3%A1n.jpg" target="_blank" rel="noopener">Rodelar</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Donostia_Plaza_Constitucion.jpg" target="_blank" rel="noopener">Cruccone</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:San_Sebastian_Kursaal_Palace_1190314.jpg" target="_blank" rel="noopener">Ermell</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Vista_-_Ayuntamiento_-_San_Sebastian_03.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0).</p>
