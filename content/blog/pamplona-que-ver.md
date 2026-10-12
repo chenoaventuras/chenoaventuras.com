@@ -7,7 +7,7 @@ provincia: Navarra
 lat: 42.8169
 lng: -1.6432
 excerpt: 'Qué ver en Pamplona fuera y dentro de San Fermín: el recorrido del encierro por la Estafeta, el Ayuntamiento, la Plaza del Castillo, la catedral, las murallas, la Ciudadela, el Camino de Santiago y los pintxos.'
-cover: /assets/img/blog/pamplona-que-ver/portada.jpg
+cover: /assets/img/blog/pamplona-que-ver/portada.webp
 tags:
   - Spots
   - Navarra
@@ -51,22 +51,22 @@ Te cuento qué ver, cómo recorrer el camino del encierro (con o sin toros), tod
 <li><strong>Calle Estafeta</strong>, el tramo más largo y recto.</li>
 <li><strong>Telefónica</strong> y el callejón de entrada a la <strong>plaza de toros</strong>.</li>
 </ol>
-<p><img src="/assets/img/blog/pamplona-que-ver/monumento-encierro.jpg" alt="Monumento al encierro de San Fermín en Pamplona" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/pamplona-que-ver/monumento-encierro.webp" alt="Monumento al encierro de San Fermín en Pamplona" loading="lazy" decoding="async" /></p>
 <p>Junto a la plaza de toros está el <strong>monumento al encierro</strong>, con toros y mozos de bronce a tamaño real, y la estatua de <strong>Hemingway</strong>, que dio fama mundial a la fiesta con su novela <em>Fiesta</em> (1926).</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Pamplona</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pamplona-que-ver/ayuntamiento.jpg" alt="Balcón del Ayuntamiento de Pamplona" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Ayuntamiento</h3><p>Una fachada barroca desde cuyo balcón se lanza el <strong>chupinazo</strong> que abre los Sanfermines el 6 de julio a mediodía.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pamplona-que-ver/portada.jpg" alt="Plaza del Castillo de Pamplona" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Plaza del Castillo</h3><p>El corazón de la ciudad, con su quiosco y el histórico <strong>Café Iruña</strong>, donde Hemingway pasaba las tardes.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pamplona-que-ver/estafeta.jpg" alt="Placas de las calles Mercaderes y Estafeta en Pamplona" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La calle Estafeta</h3><p>La calle más famosa del encierro, llena de bares, tiendas de recuerdos y pastelerías. Prueba los <strong>garroticos</strong>, un bollo de chocolate típico.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pamplona-que-ver/catedral-claustro.jpg" alt="Escultura gótica en el claustro de la catedral de Pamplona" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La catedral y su claustro</h3><p>Fachada neoclásica, interior gótico y un <strong>claustro</strong> gótico considerado de los más bellos de Europa. Dentro está el sepulcro de Carlos III el Noble. Se visita con entrada.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pamplona-que-ver/ayuntamiento.webp" alt="Balcón del Ayuntamiento de Pamplona" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Ayuntamiento</h3><p>Una fachada barroca desde cuyo balcón se lanza el <strong>chupinazo</strong> que abre los Sanfermines el 6 de julio a mediodía.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pamplona-que-ver/portada.webp" alt="Plaza del Castillo de Pamplona" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Plaza del Castillo</h3><p>El corazón de la ciudad, con su quiosco y el histórico <strong>Café Iruña</strong>, donde Hemingway pasaba las tardes.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pamplona-que-ver/estafeta.webp" alt="Placas de las calles Mercaderes y Estafeta en Pamplona" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La calle Estafeta</h3><p>La calle más famosa del encierro, llena de bares, tiendas de recuerdos y pastelerías. Prueba los <strong>garroticos</strong>, un bollo de chocolate típico.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pamplona-que-ver/catedral-claustro.webp" alt="Escultura gótica en el claustro de la catedral de Pamplona" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La catedral y su claustro</h3><p>Fachada neoclásica, interior gótico y un <strong>claustro</strong> gótico considerado de los más bellos de Europa. Dentro está el sepulcro de Carlos III el Noble. Se visita con entrada.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Murallas</span><h2>Las murallas y la Ciudadela</h2></div>
-<p><img src="/assets/img/blog/pamplona-que-ver/murallas.jpg" alt="Puerta de la muralla de Pamplona iluminada de noche" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/pamplona-que-ver/murallas.webp" alt="Puerta de la muralla de Pamplona iluminada de noche" loading="lazy" decoding="async" /></p>
 <p>Pamplona conserva casi entero su recinto amurallado de los siglos XVI-XVIII, uno de los mejor conservados de España. Recórrelo por el <strong>paseo de Ronda</strong> y el <strong>mirador del Caballo Blanco</strong>, con vistas al río Arga y los montes. Por el <strong>Portal de Francia</strong>, con su puente levadizo, entran a la ciudad los peregrinos del <strong>Camino de Santiago</strong>, que llegan desde Roncesvalles cruzando el puente medieval de la Magdalena.</p>
 <p>La <strong>Ciudadela</strong>, mandada construir por Felipe II, es una fortaleza en forma de <strong>estrella de cinco puntas</strong> rodeada de fosos. Hoy es un gran parque público, gratuito, con salas de exposiciones en sus antiguos edificios militares. Al lado, el parque de la <strong>Taconera</strong> tiene ciervos, patos y pavos reales en el foso de la muralla.</p>
-<p><img src="/assets/img/blog/pamplona-que-ver/ciudadela.jpg" alt="Túnel de entrada a la Ciudadela de Pamplona" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/pamplona-que-ver/ciudadela.webp" alt="Túnel de entrada a la Ciudadela de Pamplona" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Fiesta</span><h2>Los Sanfermines</h2></div>
 <div class="guide__howto"><p>Del <strong>6 al 14 de julio</strong>. Empiezan con el <strong>chupinazo</strong> desde el balcón del Ayuntamiento el 6 a las 12:00, entre una marea de gente de blanco con pañuelo rojo. Cada mañana a las 8:00, el <strong>encierro</strong>; por la tarde, corrida, y todo el día, peñas, charangas, comparsa de gigantes y cabezudos, procesión del santo el 7 y fuegos artificiales cada noche. Termina la medianoche del 14 con el <strong>«Pobre de mí»</strong>, velas en mano.</p><p><strong>Si quieres correr</strong>: solo mayores de edad, sobrios, sin mochilas ni móviles, y conociendo bien las normas. Es peligroso. Para verlo, los balcones se alquilan con antelación, o puedes ir a la plaza de toros, donde la entrada para ver la llegada es barata.</p></div>
