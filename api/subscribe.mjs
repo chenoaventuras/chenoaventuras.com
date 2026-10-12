@@ -108,10 +108,9 @@ export default async function handler(req, res) {
         },
         body: JSON.stringify({ email, listIds: [LIST_ID], updateEnabled: true, attributes: attrs }),
       });
-    let r = await saveContact(attributes);
-    if (!r.ok && attributes.GUIAS) {
-      // Si el atributo GUIAS aún no existe en Brevo, se crea y se reintenta;
-      // si sigue fallando, se guarda el contacto sin él (lo importante es el alta).
+    if (attributes.GUIAS) {
+      // Brevo ignora en silencio los atributos que no existen, así que se crea
+      // GUIAS por si acaso (si ya existe, Brevo responde 400 y no pasa nada).
       try {
         await fetch("https://api.brevo.com/v3/contacts/attributes/normal/GUIAS", {
           method: "POST",
@@ -119,9 +118,10 @@ export default async function handler(req, res) {
           body: JSON.stringify({ type: "text" }),
         });
       } catch (e) {}
-      r = await saveContact(attributes);
-      if (!r.ok) r = await saveContact({});
     }
+    let r = await saveContact(attributes);
+    // Si falla con el atributo, se guarda sin él: lo importante es el alta.
+    if (!r.ok && attributes.GUIAS) r = await saveContact({});
     if (!r.ok) {
       const err = await r.text();
       res.statusCode = 502;
