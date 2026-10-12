@@ -7,7 +7,7 @@ provincia: Las Palmas
 lat: 28.1080
 lng: -14.3830
 excerpt: 'Playa de Cofete (Fuerteventura): casi 14 km de arena virgen bajo las montañas de Jandía, cómo llegar por la pista o en guagua, por qué no bañarse, el misterio de Villa Winter, el cementerio y el faro.'
-cover: /assets/img/blog/playa-de-cofete/portada.jpg
+cover: /assets/img/blog/playa-de-cofete/portada.webp
 tags:
   - Spots
   - Canarias
@@ -46,25 +46,25 @@ Te cuento cómo llegar por la pista (y si tu coche de alquiler puede), por qué 
 
 <div class="guide__head"><span class="eyebrow">La playa</span><h2>La playa más salvaje de Fuerteventura</h2></div>
 <p>Cofete forma parte del <strong>Parque Natural de Jandía</strong>. La playa mide casi <strong>14 km</strong> y está protegida del desarrollo urbanístico: nada de hoteles ni paseos marítimos. Al fondo, la sierra de Jandía, con el <strong>Pico de la Zarza</strong>, el techo de la isla, cae casi en vertical hacia la arena. En la orilla, el <strong>Roque del Moro</strong> (o El Islote) se une a tierra con la marea baja.</p>
-<p><img src="/assets/img/blog/playa-de-cofete/playa.jpg" alt="Playa de Cofete con olas del Atlántico y montañas de Jandía" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/playa-de-cofete/playa.webp" alt="Playa de Cofete con olas del Atlántico y montañas de Jandía" loading="lazy" decoding="async" /></p>
 <div class="guide__howto"><h3>🌊 ¿Bañarse? Mejor no</h3><p>Cofete está en la costa de barlovento, abierta al Atlántico: <strong>fuerte oleaje, viento y corrientes de resaca</strong> peligrosas, y <strong>sin socorristas</strong>. Ha habido accidentes graves. Disfrútala paseando por la orilla, como mucho mojándote los pies.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>La pista de Cofete</h2></div>
-<p><img src="/assets/img/blog/playa-de-cofete/pista.jpg" alt="Pista de tierra en la península de Jandía hacia Cofete" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/playa-de-cofete/pista.webp" alt="Pista de tierra en la península de Jandía hacia Cofete" loading="lazy" decoding="async" /></p>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Morro Jable, sigue la carretera hacia Punta de Jandía. A unos 8-9 km sale a la derecha la <strong>pista de tierra</strong> hacia Cofete, que sube por la montaña y baja por la otra vertiente: unos 18-20 km en total y unos 50 minutos. No hace falta un todoterreno, pero sí ir despacio: hay curvas, baches y precipicios sin quitamiedos.</p><p><strong>Coches de alquiler:</strong> revisa tu contrato. Muchas compañías no cubren los daños en pistas sin asfaltar, y una rueda pinchada aquí puede salir cara.</p><p><strong>En guagua:</strong> hay un autobús todoterreno que sale de Morro Jable, con muy pocas salidas al día. Consulta horarios y precio en la web de transporte de Fuerteventura.</p><p><strong>Excursiones:</strong> también hay tours guiados en 4x4 que incluyen la playa y Villa Winter.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Playa%20de%20Cofete" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 <p>En lo alto de la pista, en la <strong>Degollada de Agua Oveja</strong>, hay un mirador con la vista de toda la playa a tus pies: para muchos, la mejor foto de Fuerteventura.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Cofete</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-cofete/villa-winter.jpg" alt="Villa Winter bajo las montañas de Jandía en Cofete" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Villa Winter</h3><p>Una casa solitaria con una torre, construida en los años cuarenta por el ingeniero alemán <strong>Gustav Winter</strong>, que tuvo arrendada la península. Su ubicación aislada ha disparado las leyendas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-cofete/cementerio.jpg" alt="Cementerio de Cofete junto a la playa" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El cementerio de Cofete</h3><p>Un pequeño cementerio casi enterrado en la arena junto a la playa, donde descansaban los antiguos habitantes del caserío. Un lugar muy especial: respétalo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-cofete/pueblo-cofete.jpg" alt="Caserío de Cofete visto desde la montaña" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El caserío de Cofete</h3><p>Un puñado de casas al final de la pista, con un bar-restaurante. Es el único sitio con algo de servicio de toda la zona.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-cofete/villa-winter.webp" alt="Villa Winter bajo las montañas de Jandía en Cofete" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Villa Winter</h3><p>Una casa solitaria con una torre, construida en los años cuarenta por el ingeniero alemán <strong>Gustav Winter</strong>, que tuvo arrendada la península. Su ubicación aislada ha disparado las leyendas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-cofete/cementerio.webp" alt="Cementerio de Cofete junto a la playa" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El cementerio de Cofete</h3><p>Un pequeño cementerio casi enterrado en la arena junto a la playa, donde descansaban los antiguos habitantes del caserío. Un lugar muy especial: respétalo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-cofete/pueblo-cofete.webp" alt="Caserío de Cofete visto desde la montaña" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El caserío de Cofete</h3><p>Un puñado de casas al final de la pista, con un bar-restaurante. Es el único sitio con algo de servicio de toda la zona.</p></div></li>
 </ol>
 <div class="guide__legend"><h3>🕵️ El misterio de Villa Winter</h3><p>¿Por qué un alemán construyó una casa enorme en el lugar más aislado de Canarias en plena Segunda Guerra Mundial? Desde hace décadas circulan leyendas: que era una base secreta para submarinos nazis, que tenía un búnker, que por allí escaparon jerarcas del régimen hacia Sudamérica… Ninguna se ha demostrado, y la explicación más probable es más prosaica: Winter gestionaba la explotación agrícola y ganadera de la península. Pero la casa, con su torre mirando al mar, sigue alimentando el misterio. Normalmente se puede ver por fuera; las visitas al interior dependen de quien la cuida.</p></div>
-<p><img src="/assets/img/blog/playa-de-cofete/arena.jpg" alt="Arena dorada de la playa de Cofete" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/playa-de-cofete/arena.webp" alt="Arena dorada de la playa de Cofete" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Cerca</span><h2>Punta de Jandía y el Puertito de la Cruz</h2></div>
-<p><img src="/assets/img/blog/playa-de-cofete/faro-jandia.jpg" alt="Faro de Punta Jandía en Fuerteventura" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/playa-de-cofete/faro-jandia.webp" alt="Faro de Punta Jandía en Fuerteventura" loading="lazy" decoding="async" /></p>
 <p>Si en el cruce de la pista sigues recto en lugar de ir a Cofete, llegas al extremo suroeste de la isla: el <strong>faro de Punta Jandía</strong>, con un pequeño centro de interpretación, y el <strong>Puertito de la Cruz</strong>, un caserío de pescadores con restaurantes de pescado fresco. Es buen plan para combinar en el mismo día.</p>
 
 <div class="guide__head"><span class="eyebrow">Consejos</span><h2>Qué llevar</h2></div>
