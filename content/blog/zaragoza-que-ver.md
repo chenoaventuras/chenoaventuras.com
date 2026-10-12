@@ -7,7 +7,7 @@ provincia: Zaragoza
 lat: 41.6563
 lng: -0.8765
 excerpt: 'Qué ver en Zaragoza: la basílica del Pilar y su mirador, los frescos de Goya, la Aljafería, La Seo y su muro mudéjar, la Zaragoza romana, el Tubo de tapas y las Fiestas del Pilar, con precios.'
-cover: /assets/img/blog/zaragoza-que-ver/portada.jpg
+cover: /assets/img/blog/zaragoza-que-ver/portada.webp
 tags:
   - Spots
   - Aragón
@@ -45,21 +45,21 @@ Te cuento qué ver, cuánto cuesta (y cuándo es gratis), dónde ir de tapas y c
 </div>
 
 <div class="guide__head"><span class="eyebrow">La joya</span><h2>La basílica del Pilar</h2></div>
-<p><img src="/assets/img/blog/zaragoza-que-ver/ebro.jpg" alt="Basílica del Pilar junto al río Ebro en Zaragoza" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/zaragoza-que-ver/ebro.webp" alt="Basílica del Pilar junto al río Ebro en Zaragoza" loading="lazy" decoding="async" /></p>
 <p>Según la tradición, en el año 40 la Virgen se apareció al apóstol Santiago a orillas del Ebro sobre un pilar de jaspe, y ese pilar se conserva dentro de la basílica, en la Santa Capilla. El templo actual, barroco, de los siglos XVII y XVIII, tiene <strong>cuatro torres</strong> y once cúpulas cubiertas de tejas de colores. La entrada es gratuita.</p>
 <ul>
 <li><strong>Los frescos de Goya</strong>: el joven Goya pintó la cúpula <strong>Regina Martyrum</strong> y la bóveda del Coreto. Fue polémico en su época por su estilo suelto.</li>
 <li><strong>Las bombas</strong>: en 1936 cayeron sobre la basílica dos bombas que no explotaron. Se exponen colgadas en una de las columnas.</li>
 <li><strong>El mirador de la torre</strong>: un ascensor sube a la torre de San Francisco de Borja hasta 62 metros, y luego una escalera de caracol hasta los 82. Entrada unos 4 €. Las vistas del Ebro y de la ciudad son las mejores.</li>
 </ul>
-<p><img src="/assets/img/blog/zaragoza-que-ver/goya.jpg" alt="Bóveda Regina Martyrum pintada por Goya en el Pilar" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/zaragoza-que-ver/goya.webp" alt="Bóveda Regina Martyrum pintada por Goya en el Pilar" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Zaragoza</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zaragoza-que-ver/plaza-pilar.jpg" alt="Plaza del Pilar con la basílica y la fuente" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La plaza del Pilar</h3><p>Una de las plazas peatonales más grandes de Europa, con la basílica, el ayuntamiento, la Lonja renacentista y la fuente de la Hispanidad.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zaragoza-que-ver/la-seo.jpg" alt="Muro mudéjar de La Seo de Zaragoza" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Seo</h3><p>La catedral del Salvador, en el extremo de la plaza, mezcla románico, gótico, mudéjar y barroco. Su <strong>muro mudéjar</strong> de ladrillo y cerámica es Patrimonio de la Humanidad, y dentro tiene un <strong>museo de tapices</strong> espectacular. Entrada unos 7 €.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zaragoza-que-ver/aljaferia.jpg" alt="Palacio de la Aljafería de Zaragoza con sus torres" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Aljafería</h3><p>Un palacio construido en el siglo XI por los reyes musulmanes de la taifa de Zaragoza, luego palacio de los reyes de Aragón y hoy sede de las Cortes de Aragón. Entrada unos 7 €.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zaragoza-que-ver/aljaferia-arcos.jpg" alt="Arcos de yesería del palacio de la Aljafería" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los arcos de la Aljafería</h3><p>Su patio de Santa Isabel y sus salones tienen arcos entrecruzados de yesería que recuerdan a la Alhambra, aunque son anteriores. Busca también la Torre del Trovador.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zaragoza-que-ver/plaza-pilar.webp" alt="Plaza del Pilar con la basílica y la fuente" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La plaza del Pilar</h3><p>Una de las plazas peatonales más grandes de Europa, con la basílica, el ayuntamiento, la Lonja renacentista y la fuente de la Hispanidad.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zaragoza-que-ver/la-seo.webp" alt="Muro mudéjar de La Seo de Zaragoza" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Seo</h3><p>La catedral del Salvador, en el extremo de la plaza, mezcla románico, gótico, mudéjar y barroco. Su <strong>muro mudéjar</strong> de ladrillo y cerámica es Patrimonio de la Humanidad, y dentro tiene un <strong>museo de tapices</strong> espectacular. Entrada unos 7 €.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zaragoza-que-ver/aljaferia.webp" alt="Palacio de la Aljafería de Zaragoza con sus torres" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Aljafería</h3><p>Un palacio construido en el siglo XI por los reyes musulmanes de la taifa de Zaragoza, luego palacio de los reyes de Aragón y hoy sede de las Cortes de Aragón. Entrada unos 7 €.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zaragoza-que-ver/aljaferia-arcos.webp" alt="Arcos de yesería del palacio de la Aljafería" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los arcos de la Aljafería</h3><p>Su patio de Santa Isabel y sus salones tienen arcos entrecruzados de yesería que recuerdan a la Alhambra, aunque son anteriores. Busca también la Torre del Trovador.</p></div></li>
 </ol>
 <div class="guide__howto"><h3>🎫 Días gratis</h3><p>La <strong>Aljafería</strong> es gratuita, desde octubre de 2026, el <strong>primer y tercer domingo y lunes</strong> de cada mes. El <strong>12 de octubre</strong> es día de entrada libre en La Seo y los museos municipales. Los museos romanos municipales son gratis el primer domingo de mes.</p></div>
 
