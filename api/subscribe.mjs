@@ -9,10 +9,9 @@ import { ZONE_GUIDES } from "./_guias-zonas.mjs";
 
 const LIST_ID = 3; // "Newsletter Web" en Brevo
 const SITE = "https://www.chenoaventuras.com";
-// Remitente de los correos a suscriptores. Para que no caigan en spam hay que
-// autenticar el dominio en Brevo y poner aquí un correo suyo (p. ej.
-// hola@chenoaventuras.com) en la variable de entorno BREVO_SENDER_EMAIL.
-const SENDER_EMAIL = process.env.BREVO_SENDER_EMAIL || "chenoaventuras@gmail.com";
+// Remitente de los correos a suscriptores: dirección del dominio, autenticado
+// en Brevo (DKIM + DMARC en los DNS de Hostinger) para que Gmail muestre la foto.
+const SENDER_EMAIL = process.env.BREVO_SENDER_EMAIL || "hola@chenoaventuras.com";
 const OWNER_EMAIL = "chenoaventuras@gmail.com";
 
 // Guías en PDF: valor de "source" del formulario -> título y archivo.
@@ -111,12 +110,11 @@ export default async function handler(req, res) {
             subject: `Tu guía: ${guide.title}`,
             htmlContent:
               `<div style="font-family:Arial,Helvetica,sans-serif;max-width:560px;color:#222;line-height:1.55;">` +
-              `<p>¡Hola! Gracias por apuntarte a Chenoaventuras.</p>` +
-              `<p>Aquí tienes tu guía:</p>` +
+              `<p>¡Hola!<br>Ya he visto que estás planeando una nueva escapada. Aquí tienes la guía:</p>` +
               `<p><a href="${SITE}${guide.file}" style="display:inline-block;background:#274c78;color:#fff;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;">Descargar ${guide.title} (PDF)</a></p>` +
               (guide.extra || []).map((x) => `<p><a href="${SITE}${x.file}" style="display:inline-block;background:#eab308;color:#1f3e64;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;">Descargar ${x.title} (PDF)</a></p>`).join("") +
-              `<p>A partir de ahora recibirás mis rutas, lugares de interés y curiosidades de viaje. Puedes darte de baja cuando quieras.</p>` +
-              `<p>Un abrazo,<br>Cheno · Chenoaventuras</p>` +
+              `<p>Nos vemos en las próximas aventuras y si tienes alguna duda escríbeme por Instagram <a href="https://www.instagram.com/chenoaventuras/" style="color:#274c78;font-weight:bold;">@chenoaventuras</a></p>` +
+              `<p>¡Un saludo!<br>Cheno - Chenoaventuras</p>` +
               `<p style="color:#888;font-size:12px;">Si no has pedido esta guía, ignora este mensaje.</p>` +
               `</div>`,
           }),
