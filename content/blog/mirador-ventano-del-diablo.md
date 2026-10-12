@@ -6,7 +6,7 @@ lugar: 'Ventano del Diablo'
 lat: 40.2380
 lng: -2.0750
 excerpt: 'El mirador del Ventano del Diablo, en Villalba de la Sierra (Cuenca): una cueva abierta a casi 200 metros sobre la Hoz del Júcar. Cómo llegar, parking y su leyenda.'
-cover: /assets/img/blog/cuenca/ventano-portada-cheno.jpg
+cover: /assets/img/blog/cuenca/ventano-portada-cheno.webp
 coverPosition: center 50%
 tags:
   - Spots
@@ -53,7 +53,7 @@ Lo mejor: está junto a la carretera, a 20 minutos de Cuenca, y se llega en 2 mi
 <div class="guide__legend"><h3>😈 La leyenda del Ventano del Diablo</h3><p>Cuenta la leyenda que aquí se celebraban sesiones de brujería y que el mismísimo <strong>diablo</strong> aparecía en la cueva para empujar al precipicio a todo aquel que se asomara por sus ventanas. De ahí su nombre… así que asómate, pero agarrado a la barandilla 😅</p></div>
 
 <div class="guide__head"><span class="eyebrow">Las vistas</span><h2>Lo que vas a ver</h2></div>
-<div class="gallery"><figure><img src="/assets/img/blog/cuenca/ventano-ventana-cheno.jpg" alt="Abertura de la cueva del Ventano del Diablo" loading="lazy" decoding="async" /><figcaption>La gran ventana de la cueva</figcaption></figure><figure><img src="/assets/img/blog/cuenca/ventano-hoces.webp" alt="Hoz del río Júcar vista desde el Ventano del Diablo" loading="lazy" decoding="async" /><figcaption>La Hoz del Júcar desde el mirador</figcaption></figure><figure><img src="/assets/img/blog/cuenca/ventano-interior-cheno.jpg" alt="Interior del mirador del Ventano del Diablo" loading="lazy" decoding="async" /><figcaption>La cueva por dentro, con sus barandillas</figcaption></figure><figure><img src="/assets/img/blog/cuenca/ventano.webp" alt="Ventano del Diablo al atardecer" loading="lazy" decoding="async" /><figcaption>Al atardecer, la roca se vuelve roja</figcaption></figure></div>
+<div class="gallery"><figure><img src="/assets/img/blog/cuenca/ventano-ventana-cheno.webp" alt="Abertura de la cueva del Ventano del Diablo" loading="lazy" decoding="async" /><figcaption>La gran ventana de la cueva</figcaption></figure><figure><img src="/assets/img/blog/cuenca/ventano-hoces.webp" alt="Hoz del río Júcar vista desde el Ventano del Diablo" loading="lazy" decoding="async" /><figcaption>La Hoz del Júcar desde el mirador</figcaption></figure><figure><img src="/assets/img/blog/cuenca/ventano-interior-cheno.webp" alt="Interior del mirador del Ventano del Diablo" loading="lazy" decoding="async" /><figcaption>La cueva por dentro, con sus barandillas</figcaption></figure><figure><img src="/assets/img/blog/cuenca/ventano.webp" alt="Ventano del Diablo al atardecer" loading="lazy" decoding="async" /><figcaption>Al atardecer, la roca se vuelve roja</figcaption></figure></div>
 
 <div class="guide__head"><span class="eyebrow">Aventura</span><h2>Qué hacer en el Ventano del Diablo</h2></div>
 <p>Además de asomarte al mirador, la zona es uno de los centros de aventura de Cuenca. Justo bajo el Ventano está la <a href="/blog/via-ferrata-ventano-del-diablo.html"><strong>vía ferrata del Ventano del Diablo</strong></a>, con puentes colgantes sobre el Júcar, y muy cerca se hace <a href="/blog/barranquismo-en-cuenca.html"><strong>barranquismo en el río Júcar</strong></a> y <a href="/blog/ruta-quads-serrania-de-cuenca.html"><strong>rutas en quad</strong></a> desde Villalba de la Sierra. Yo las he hecho todas y en cada post te enseño el vídeo.</p>

@@ -7,7 +7,7 @@ provincia: Gipuzkoa
 lat: 43.3183
 lng: -1.9812
 excerpt: 'Qué ver en San Sebastián (Donostia): la playa de la Concha, la Parte Vieja y sus pintxos, el Peine del Viento, los montes Urgull e Igueldo, la plaza de la Constitución, el Kursaal y la Tamborrada.'
-cover: /assets/img/blog/san-sebastian-que-ver/portada.jpg
+cover: /assets/img/blog/san-sebastian-que-ver/portada.webp
 tags:
   - Spots
   - País Vasco
@@ -46,7 +46,7 @@ Te cuento qué ver, los mejores miradores, cómo ir de pintxos sin agobiarte, su
 
 <div class="guide__head"><span class="eyebrow">La bahía</span><h2>La Concha y sus playas</h2></div>
 <p>La <strong>playa de la Concha</strong> es el emblema de la ciudad: una curva perfecta de arena dorada, con la barandilla blanca del paseo (la famosa <strong>barandilla de la Concha</strong>), el antiguo balneario de La Perla y la <strong>isla de Santa Clara</strong> en el centro de la bahía. A continuación está <strong>Ondarreta</strong>, más tranquila, y al otro lado del río Urumea, la <strong>Zurriola</strong>, en el barrio de Gros, la playa de los surfistas.</p>
-<p><img src="/assets/img/blog/san-sebastian-que-ver/bahia-igueldo.jpg" alt="Bahía de la Concha e isla de Santa Clara desde el monte Igueldo" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/san-sebastian-que-ver/bahia-igueldo.webp" alt="Bahía de la Concha e isla de Santa Clara desde el monte Igueldo" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en San Sebastián</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

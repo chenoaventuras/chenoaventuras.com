@@ -6,7 +6,7 @@ lugar: 'Playa de Itzurun, Zumaia'
 lat: 43.2989
 lng: -2.2588
 excerpt: 'La playa de Itzurun en Zumaia fue Rocadragón en Juego de Tronos. Sus acantilados de flysch guardan millones de años de historia. Qué ver, mareas y la ermita de San Telmo.'
-cover: /assets/img/blog/zumaia-juego-de-tronos/portada.jpg
+cover: /assets/img/blog/zumaia-juego-de-tronos/portada.webp
 tags:
   - Spots
   - País Vasco
@@ -62,7 +62,7 @@ Te cuento qué ver, cuándo ir según la marea y dónde está la ermita de pelí
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Zumaia</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zumaia-juego-de-tronos/flysch.webp" alt="Acantilados de flysch en la playa de Itzurun" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Playa de Itzurun</h3><p>La playa de Rocadragón, con las capas de roca a los lados.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zumaia-juego-de-tronos/ermita-san-telmo.jpg" alt="Ermita de San Telmo sobre el flysch de Zumaia" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Ermita de San Telmo</h3><p>Encima del acantilado. La foto más famosa de Zumaia.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zumaia-juego-de-tronos/ermita-san-telmo.webp" alt="Ermita de San Telmo sobre el flysch de Zumaia" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Ermita de San Telmo</h3><p>Encima del acantilado. La foto más famosa de Zumaia.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/zumaia-juego-de-tronos/playa.webp" alt="Playa de Itzurun con marea baja" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La rasa mareal</h3><p>Con marea baja aparecen las placas de roca: camina con cuidado, resbalan.</p></div></li>
 </ol>
 

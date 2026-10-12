@@ -7,7 +7,7 @@ lugar: 'Teide'
 lat: 28.2724
 lng: -16.6425
 excerpt: 'Cómo subir al Teide (Tenerife): el teleférico, el permiso para llegar al pico por el sendero Telesforo Bravo y su tasa de 2026, la ruta de Montaña Blanca, los Roques de García y consejos de altura.'
-cover: /assets/img/blog/teide/portada.jpg
+cover: /assets/img/blog/teide/portada.webp
 tags:
   - Actividades
   - Canarias

@@ -6,7 +6,7 @@ lugar: 'Consuegra'
 lat: 39.4566
 lng: -3.607
 excerpt: 'Molinos de Consuegra (Toledo): los 12 molinos de viento del cerro Calderico, el castillo de la Muela, molinos que se visitan por dentro, el mejor momento para ir y la Fiesta de la Rosa del Azafrán.'
-cover: /assets/img/blog/consuegra-molinos/portada.jpg
+cover: /assets/img/blog/consuegra-molinos/portada.webp
 tags:
   - Spots
   - Castilla-La Mancha
@@ -63,9 +63,9 @@ Te cuento qué ver, qué molinos se pueden visitar por dentro y cuándo ir para 
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Consuegra</h2><p>Molinos, castillo y vistas infinitas.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/hilera-dron.jpg" alt="Hilera de molinos en el cerro Calderico de Consuegra desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La hilera de molinos</h3><p>Recorre el cerro de punta a punta: cada molino tiene su nombre y su perspectiva.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/molino-amanecer.jpg" alt="Molino de viento de Consuegra al amanecer" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Un molino por dentro</h3><p>Entra en alguno de los visitables, como el Bolero, para ver los engranajes de madera y las piedras de moler.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/castillo-dron.jpg" alt="Castillo de la Muela de Consuegra desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El castillo de la Muela</h3><p>Una fortaleza de origen medieval que fue de la Orden de San Juan. Se visita y tiene vistas de toda la llanura.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/hilera-dron.webp" alt="Hilera de molinos en el cerro Calderico de Consuegra desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La hilera de molinos</h3><p>Recorre el cerro de punta a punta: cada molino tiene su nombre y su perspectiva.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/molino-amanecer.webp" alt="Molino de viento de Consuegra al amanecer" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Un molino por dentro</h3><p>Entra en alguno de los visitables, como el Bolero, para ver los engranajes de madera y las piedras de moler.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/castillo-dron.webp" alt="Castillo de la Muela de Consuegra desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El castillo de la Muela</h3><p>Una fortaleza de origen medieval que fue de la Orden de San Juan. Se visita y tiene vistas de toda la llanura.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/vistas.webp" alt="Molinos de Consuegra vistos desde el castillo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las vistas desde el castillo</h3><p>Desde las murallas ves la fila de molinos recortada contra el cielo de La Mancha.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/atardecer.webp" alt="Molinos y castillo de Consuegra al atardecer" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El atardecer</h3><p>El momento mágico: los molinos se vuelven siluetas y el pueblo empieza a encender sus luces.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/consuegra-molinos/noche.webp" alt="Molinos de La Mancha de noche" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>De noche</h3><p>Con los molinos iluminados y el cielo limpio de La Mancha, es otra visita completamente distinta.</p></div></li>

@@ -6,7 +6,7 @@ lugar: 'Jameos del Agua'
 lat: 29.1571
 lng: -13.432
 excerpt: 'Jameos del Agua y Cueva de los Verdes (Lanzarote): un tubo volcánico con un lago de cangrejos ciegos y la obra de César Manrique. Entradas, horarios y consejos.'
-cover: /assets/img/blog/jameos-del-agua-cueva-de-los-verdes/portada.jpg
+cover: /assets/img/blog/jameos-del-agua-cueva-de-los-verdes/portada.webp
 tags:
   - Spots
   - Canarias
@@ -62,11 +62,11 @@ Están a 1 km uno del otro, así que mejor verlos juntos 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en los Jameos y la Cueva de los Verdes</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/lago-cangrejos.jpg" alt="Agua cristalina del lago de los Jameos del Agua, donde vive el cangrejo ciego" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El lago de los Jameos</h3><p>Agua cristalina dentro de la cueva, con los cangrejos ciegos como puntitos blancos.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/piscina-blanca.jpg" alt="Piscina blanca de los Jameos del Agua" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La piscina de Manrique</h3><p>La foto más famosa: agua turquesa, paredes blancas y palmeras. No se puede bañar.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/verdes-cueva.jpg" alt="Interior iluminado de la Cueva de los Verdes" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Cueva de los Verdes</h3><p>Visita guiada de casi 1 km por el tubo volcánico, con luces de colores y techos de lava.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/verdes-galeria.jpg" alt="Galería de lava en la Cueva de los Verdes" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las galerías</h3><p>Pasillos de varios niveles. Algún tramo es bajo: cuidado con la cabeza.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/verdes-entrada.jpg" alt="Cartel de entrada a la Cueva de los Verdes" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La entrada</h3><p>La cueva sirvió de refugio a los vecinos contra los ataques de piratas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/lago-cangrejos.webp" alt="Agua cristalina del lago de los Jameos del Agua, donde vive el cangrejo ciego" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El lago de los Jameos</h3><p>Agua cristalina dentro de la cueva, con los cangrejos ciegos como puntitos blancos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/piscina-blanca.webp" alt="Piscina blanca de los Jameos del Agua" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La piscina de Manrique</h3><p>La foto más famosa: agua turquesa, paredes blancas y palmeras. No se puede bañar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/verdes-cueva.webp" alt="Interior iluminado de la Cueva de los Verdes" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Cueva de los Verdes</h3><p>Visita guiada de casi 1 km por el tubo volcánico, con luces de colores y techos de lava.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/verdes-galeria.webp" alt="Galería de lava en la Cueva de los Verdes" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las galerías</h3><p>Pasillos de varios niveles. Algún tramo es bajo: cuidado con la cabeza.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/jameos-del-agua-cueva-de-los-verdes/verdes-entrada.webp" alt="Cartel de entrada a la Cueva de los Verdes" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La entrada</h3><p>La cueva sirvió de refugio a los vecinos contra los ataques de piratas.</p></div></li>
 </ol>
 
 <div class="guide__howto"><h3>El secreto de la Cueva de los Verdes</h3><p>Al final de la visita hay una <strong>sorpresa</strong> que los guías piden no contar. Solo te digo: no hagas spoilers cuando salgas 😉.</p></div>

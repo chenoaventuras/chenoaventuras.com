@@ -6,7 +6,7 @@ lugar: 'Timanfaya'
 lat: 29.0055
 lng: -13.7487
 excerpt: 'Parque Nacional de Timanfaya (Lanzarote): la Ruta de los Volcanes, el Islote de Hilario y sus géiseres, el restaurante que cocina con el calor del volcán, El Golfo y Los Hervideros.'
-cover: /assets/img/blog/timanfaya/portada.jpg
+cover: /assets/img/blog/timanfaya/portada.webp
 tags:
   - Spots
   - Canarias
@@ -59,9 +59,9 @@ Y la tierra sigue caliente: a pocos metros de profundidad hay cientos de grados.
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Timanfaya y alrededores</h2><p>Volcanes, lagos verdes y acantilados de lava.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/timanfaya/crater.webp" alt="Cráter volcánico en el Parque Nacional de Timanfaya" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Ruta de los Volcanes</h3><p>Un recorrido de unos 14 km en autobús entre cráteres, coladas y hornitos, con paradas para fotos.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/timanfaya/geiser-hilario.jpg" alt="Géiser artificial en el Islote de Hilario, Timanfaya" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Islote de Hilario</h3><p>Las demostraciones de calor geotérmico: géiseres, ramas que arden solas y el asador del volcán.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/timanfaya/paisaje-volcanico.jpg" alt="Paisaje volcánico de Timanfaya" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los paisajes</h3><p>Desde la carretera y los miradores se ven campos de lava infinitos, con montañas de todos los colores.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/timanfaya/charco-clicos.jpg" alt="Charco de los Clicos en El Golfo, Lanzarote" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Golfo y el Charco Verde</h3><p>Un lago verde esmeralda dentro de un cráter partido por el mar, a 15 minutos del parque. Gratis.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/timanfaya/geiser-hilario.webp" alt="Géiser artificial en el Islote de Hilario, Timanfaya" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Islote de Hilario</h3><p>Las demostraciones de calor geotérmico: géiseres, ramas que arden solas y el asador del volcán.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/timanfaya/paisaje-volcanico.webp" alt="Paisaje volcánico de Timanfaya" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los paisajes</h3><p>Desde la carretera y los miradores se ven campos de lava infinitos, con montañas de todos los colores.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/timanfaya/charco-clicos.webp" alt="Charco de los Clicos en El Golfo, Lanzarote" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Golfo y el Charco Verde</h3><p>Un lago verde esmeralda dentro de un cráter partido por el mar, a 15 minutos del parque. Gratis.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/timanfaya/hervideros.webp" alt="Los Hervideros en Lanzarote" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los Hervideros</h3><p>Cuevas y túneles de lava donde rompen las olas con fuerza. Está en la carretera de la costa, junto a El Golfo.</p></div></li>
 </ol>
 

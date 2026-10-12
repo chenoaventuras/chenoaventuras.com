@@ -7,7 +7,7 @@ provincia: Bizkaia
 lat: 43.2630
 lng: -2.9350
 excerpt: 'Qué ver en Bilbao: el Museo Guggenheim y el Puppy, el paseo de la ría, el Casco Viejo y sus Siete Calles, la Plaza Nueva y sus pintxos, el Mercado de la Ribera y el funicular de Artxanda, con precios.'
-cover: /assets/img/blog/bilbao-que-ver/portada.jpg
+cover: /assets/img/blog/bilbao-que-ver/portada.webp
 tags:
   - Spots
   - País Vasco
