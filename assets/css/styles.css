@@ -2199,7 +2199,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .igflow__dot.is-active { background: var(--gold); transform: scale(1.25); }
 
 @media (max-width: 700px) {
-  .igflow { --cw: 58vw; }
-  .igflow__card { transform: translateX(calc(var(--d, 0) * var(--cw) * .62)) rotateY(calc(var(--d, 0) * -30deg)) scale(calc(1 - var(--ad, 0) * .16)); }
+  .igflow { --cw: 42vw; margin-top: 18px; padding-bottom: 36px; }
+  .igflow__card { transform: translateX(calc(var(--d, 0) * var(--cw) * .72)) rotateY(calc(var(--d, 0) * -30deg)) scale(calc(1 - var(--ad, 0) * .16)); }
   .igflow__nav { width: 38px; height: 38px; font-size: 1.5rem; }
 }
