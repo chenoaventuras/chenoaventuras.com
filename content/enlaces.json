@@ -833,5 +833,19 @@
   "real-alcazar-sevilla": [
     "Real Alcázar de Sevilla",
     "Alcázar de Sevilla"
+  ],
+  "alpujarra-granada": [
+    "Alpujarra",
+    "Pampaneira",
+    "Capileira",
+    "Trevélez"
+  ],
+  "sierra-de-cazorla": [
+    "Sierra de Cazorla",
+    "Cazorla",
+    "Cerrada del Utrero"
+  ],
+  "pontevedra-que-ver": [
+    "Pontevedra"
   ]
 }
