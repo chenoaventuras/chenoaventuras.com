@@ -7,7 +7,7 @@ provincia: Islas Baleares
 lat: 39.8885
 lng: 4.2658
 excerpt: 'Qué ver en Mahón (Menorca): paseo en barco por su puerto natural, la Illa del Rei, la fortaleza de La Mola, Santa María y su órgano, la ginebra Xoriguer, Es Castell y calas cerca.'
-cover: /assets/img/blog/mahon-menorca/portada.jpg
+cover: /assets/img/blog/mahon-menorca/portada.webp
 tags:
   - Spots
   - Islas Baleares
@@ -51,26 +51,26 @@ Te cuento qué ver, cómo recorrer el puerto, la herencia británica que se nota
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Mahón</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mahon-menorca/portada.jpg" alt="Iglesia de Santa María y casco antiguo de Mahón al anochecer" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Santa María y su órgano</h3><p>La iglesia principal, con un <strong>órgano de 1810</strong> construido por el suizo Johann Kyburz, con más de 3.000 tubos y cuatro teclados: uno de los más importantes de Europa. En verano hay conciertos.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mahon-menorca/ayuntamiento.jpg" alt="Ayuntamiento de Mahón con su reloj" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El ayuntamiento</h3><p>Junto a Santa María, con un reloj en la fachada regalado, según se cuenta, por el primer gobernador británico de la isla, Richard Kane.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mahon-menorca/mercado-pescado.jpg" alt="Mercado de Pescados de Mahón" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los mercados</h3><p>El <strong>Mercat des Claustre del Carme</strong>, instalado en el claustro de un antiguo convento, y el <strong>Mercado de Pescados</strong>, perfecto para tomar algo por la mañana.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mahon-menorca/puerto.jpg" alt="Barcos de vela en el puerto de Mahón" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El puerto</h3><p>Baja por la <strong>Costa de ses Voltes</strong> hasta el muelle: kilómetros de paseo con restaurantes y terrazas. Y súbete a un <strong>barco con fondo de cristal</strong> para recorrer el puerto, con sus islotes y fortificaciones.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mahon-menorca/portada.webp" alt="Iglesia de Santa María y casco antiguo de Mahón al anochecer" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Santa María y su órgano</h3><p>La iglesia principal, con un <strong>órgano de 1810</strong> construido por el suizo Johann Kyburz, con más de 3.000 tubos y cuatro teclados: uno de los más importantes de Europa. En verano hay conciertos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mahon-menorca/ayuntamiento.webp" alt="Ayuntamiento de Mahón con su reloj" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El ayuntamiento</h3><p>Junto a Santa María, con un reloj en la fachada regalado, según se cuenta, por el primer gobernador británico de la isla, Richard Kane.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mahon-menorca/mercado-pescado.webp" alt="Mercado de Pescados de Mahón" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los mercados</h3><p>El <strong>Mercat des Claustre del Carme</strong>, instalado en el claustro de un antiguo convento, y el <strong>Mercado de Pescados</strong>, perfecto para tomar algo por la mañana.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mahon-menorca/puerto.webp" alt="Barcos de vela en el puerto de Mahón" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El puerto</h3><p>Baja por la <strong>Costa de ses Voltes</strong> hasta el muelle: kilómetros de paseo con restaurantes y terrazas. Y súbete a un <strong>barco con fondo de cristal</strong> para recorrer el puerto, con sus islotes y fortificaciones.</p></div></li>
 </ol>
 <p>Pasea también por la calle <strong>Hannover</strong>, la plaza de la <strong>Bastió</strong>, el <strong>Arc de Sant Roc</strong> (la única puerta que queda de la muralla medieval) y la <strong>plaza de s'Esplanada</strong>, antigua plaza de armas británica.</p>
 
 <div class="guide__head"><span class="eyebrow">El puerto</span><h2>Islas, fortalezas y ginebra</h2></div>
 <ul>
-<li><strong>La Illa del Rei</strong>: un islote en mitad del puerto con un antiguo <strong>hospital naval británico</strong> del siglo XVIII, restaurado, y una galería de arte contemporáneo internacional que abre de primavera a otoño. Se llega en barco desde el muelle.<br /><img src="/assets/img/blog/mahon-menorca/illa-del-rei.jpg" alt="Illa del Rei con el antiguo hospital en el puerto de Mahón" loading="lazy" decoding="async" /></li>
+<li><strong>La Illa del Rei</strong>: un islote en mitad del puerto con un antiguo <strong>hospital naval británico</strong> del siglo XVIII, restaurado, y una galería de arte contemporáneo internacional que abre de primavera a otoño. Se llega en barco desde el muelle.<br /><img src="/assets/img/blog/mahon-menorca/illa-del-rei.webp" alt="Illa del Rei con el antiguo hospital en el puerto de Mahón" loading="lazy" decoding="async" /></li>
 <li><strong>La fortaleza de La Mola</strong>: en la boca norte del puerto, una enorme fortaleza del siglo XIX con galerías subterráneas, polvorines y baterías de cañones. Se puede visitar por libre o con visita guiada (alrededor de hora y media).</li>
 <li><strong>La destilería Xoriguer</strong>: en el muelle de poniente, la ginebra de Mahón se sigue destilando en alambiques de cobre. En su tienda se puede ver el proceso y probar las ginebras. La <strong>pomada</strong> (ginebra con limonada) es la bebida de las fiestas de la isla.</li>
 </ul>
-<p><img src="/assets/img/blog/mahon-menorca/puerto-noche.jpg" alt="Puerto de Mahón iluminado de noche" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/mahon-menorca/puerto-noche.webp" alt="Puerto de Mahón iluminado de noche" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Cerca</span><h2>Es Castell, talayots y calas</h2></div>
 <ul>
 <li><strong>Es Castell</strong> (a 3 km): el antiguo Georgetown británico, considerado el <strong>primer pueblo de España en ver amanecer</strong>. Ve al muelle de <strong>Cales Fonts</strong>, con sus restaurantes en antiguas cuevas de pescadores.</li>
-<li><strong>Talatí de Dalt</strong> (a 4 km): un poblado talayótico con una <strong>taula</strong>, el monumento en forma de T de la cultura prehistórica menorquina, Patrimonio de la Humanidad.<br /><img src="/assets/img/blog/mahon-menorca/talati.jpg" alt="Taula del poblado talayótico de Talatí de Dalt" loading="lazy" decoding="async" /></li>
-<li><strong>Binibeca Vell</strong> (a unos 15 minutos): un pueblecito de pescadores blanquísimo, con calles laberínticas junto al mar.<br /><img src="/assets/img/blog/mahon-menorca/binibeca.jpg" alt="Casas blancas de Binibeca Vell junto al mar" loading="lazy" decoding="async" /></li>
+<li><strong>Talatí de Dalt</strong> (a 4 km): un poblado talayótico con una <strong>taula</strong>, el monumento en forma de T de la cultura prehistórica menorquina, Patrimonio de la Humanidad.<br /><img src="/assets/img/blog/mahon-menorca/talati.webp" alt="Taula del poblado talayótico de Talatí de Dalt" loading="lazy" decoding="async" /></li>
+<li><strong>Binibeca Vell</strong> (a unos 15 minutos): un pueblecito de pescadores blanquísimo, con calles laberínticas junto al mar.<br /><img src="/assets/img/blog/mahon-menorca/binibeca.webp" alt="Casas blancas de Binibeca Vell junto al mar" loading="lazy" decoding="async" /></li>
 <li><strong>Cala Sant Esteve</strong>, con el fuerte Marlborough, y el <strong>Parque Natural de s'Albufera des Grau</strong>, al norte.</li>
 </ul>
 
