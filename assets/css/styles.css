@@ -138,8 +138,8 @@ p { margin: 0 0 1em; }
   opacity: .6;
 }
 .eyebrow--center { justify-content: center; }
-/* Emoji delante del título pequeño: sustituye a la rayita. */
-.eyebrow:has(.eyebrow__emoji)::before { display: none; }
+/* Rayita de colores de la marca delante del título pequeño. */
+.eyebrow::before { width: 26px; height: 3px; border-radius: 2px; background: linear-gradient(90deg, #6c7d46, #3f6d9e, #d9a514); opacity: 1; }
 .eyebrow__emoji { font-size: 1.35em; letter-spacing: 0; line-height: 1; display: inline-block; transform: rotate(-6deg); }
 
 .title {
@@ -150,7 +150,10 @@ p { margin: 0 0 1em; }
   line-height: 1.06;
   font-size: clamp(1.75rem, 3.8vw, 2.55rem);
 }
-.title .accent { color: var(--olive); }
+/* Palabra destacada de los títulos: degradado verde · azul · amarillo que se mueve despacio. */
+.title .accent { background: linear-gradient(90deg, #6c7d46, #3f6d9e, #d9a514, #6c7d46); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }
+@keyframes titShine { to { background-position: 300% 0; } }
+@media (prefers-reduced-motion: reduce) { .title .accent { animation: none; } }
 .display {
   font-family: var(--font-display);
   text-transform: uppercase;
@@ -1937,7 +1940,7 @@ p { margin: 0 0 1em; }
 .contact-block__head { text-align: center; max-width: 620px; margin: 0 auto clamp(26px, 4vw, 40px); }
 .contact-block__head .eyebrow { color: var(--gold-soft); }
 .contact-block__head .title { color: #fff; }
-.contact-block__head .title .accent { color: var(--gold); }
+.contact-block__head .title .accent { color: var(--gold); background: none; animation: none; }
 .contact-block__head p { color: rgba(255,255,255,.75); margin: 0; }
 
 .contact-reasons { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; border: 0; padding: 0; margin: 0 0 22px; }
@@ -1992,7 +1995,7 @@ p { margin: 0 0 1em; }
 .esc .f-count { font: 600 14px var(--font-head); margin: 14px 0; color: var(--gold-soft); min-height: 1.4em; }
 .esc .f-count b { font-size: 1.6em; color: #fff; }
 .esc .title { color: #fff; }
-.esc .title .accent { color: var(--gold-soft); }
+.esc .title .accent { color: var(--gold-soft); background: none; animation: none; }
 .esc .eyebrow { color: var(--gold-soft); }
 .esc .btn, .hero .btn { background: var(--gold); border-color: var(--gold); color: var(--ink); }
 .hero .btn:hover { background: var(--gold-bright); border-color: var(--gold-bright); color: var(--ink); }
@@ -2202,4 +2205,26 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
   .igflow { --cw: 42vw; margin-top: 18px; padding-bottom: 36px; }
   .igflow__card { transform: translateX(calc(var(--d, 0) * var(--cw) * .72)) rotateY(calc(var(--d, 0) * -30deg)) scale(calc(1 - var(--ad, 0) * .16)); }
   .igflow__nav { width: 38px; height: 38px; font-size: 1.5rem; }
+}
+
+/* =========================================================================
+   Inicio: fondo animado detrás de las zonas claras (assets/js/fondo-inicio.js)
+   Manchas difuminadas verdes, azules y amarillas que se mueven muy despacio.
+   ========================================================================= */
+.homebg { position: fixed; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+.homebg i { position: absolute; width: 55vmax; height: 55vmax; border-radius: 50%; filter: blur(70px); opacity: .28; animation: hbFloat 38s ease-in-out infinite alternate; }
+.homebg i:nth-child(1) { background: #f3dc8c; left: -15vmax; top: -10vmax; opacity: .18; }
+.homebg i:nth-child(2) { background: #7fa6d3; right: -18vmax; top: 20vh; animation-duration: 46s; animation-delay: -12s; }
+.homebg i:nth-child(3) { background: #9cbf86; left: 20vw; bottom: -25vmax; animation-duration: 52s; animation-delay: -25s; }
+.homebg i:nth-child(4) { background: #6fae9a; right: 12vw; top: -20vmax; width: 40vmax; height: 40vmax; opacity: .2; animation-duration: 60s; animation-delay: -5s; }
+@keyframes hbFloat { 0% { transform: translate(0, 0) scale(1); } 50% { transform: translate(12vw, 8vh) scale(1.15); } 100% { transform: translate(-8vw, 14vh) scale(.92); } }
+@media (prefers-reduced-motion: reduce) { .homebg i { animation: none; } }
+/* El borde rasgado de la portada recorta la propia foto en vez de pintar papel
+   liso encima, para que por debajo se vea el fondo animado. */
+.hero.torn-bottom::after { display: none; }
+.hero.torn-bottom {
+  -webkit-mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px;
+  -webkit-mask-composite: source-over;
+  mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px;
+  mask-composite: add;
 }
