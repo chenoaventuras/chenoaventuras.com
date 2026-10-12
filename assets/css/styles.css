@@ -2169,3 +2169,37 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .article__body .guide__exp { border-left: 4px solid var(--gold); margin-block: 28px; }
 .article__body .guide__exp h3 { margin: 0 0 .4em; }
 .article__body .guide__exp p { margin: 0; font-style: italic; }
+
+/* =========================================================================
+   Inicio: carrusel 3D de Instagram (estilo «coverflow»)
+   ========================================================================= */
+.igflow-sec { overflow: hidden; }
+.igflow { --cw: clamp(190px, 21vw, 280px); position: relative; margin-top: clamp(24px, 3vw, 40px); padding-bottom: 46px; outline: none; }
+.igflow__stage { position: relative; height: calc(var(--cw) * 1.5); perspective: 1400px; }
+.igflow__card {
+  position: absolute; left: 50%; top: 0; width: var(--cw); aspect-ratio: 2 / 3;
+  margin-left: calc(var(--cw) / -2); border-radius: 12px; overflow: hidden;
+  box-shadow: 0 18px 40px rgba(0,0,0,.22); background: var(--paper-3);
+  transform: translateX(calc(var(--d, 0) * var(--cw) * .78)) rotateY(calc(var(--d, 0) * -32deg)) scale(calc(1 - var(--ad, 0) * .14));
+  cursor: pointer;
+}
+.igflow__card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.igflow__card::after { content: ""; position: absolute; inset: 0; pointer-events: none; transition: background .6s ease; background: transparent; }
+.igflow__card:not(.is-active)::after { background: rgba(255,255,255,.12); }
+.igflow__card.is-active { box-shadow: 0 26px 60px rgba(0,0,0,.32); }
+.igflow:not(.is-ready) .igflow__stage { opacity: 0; }
+
+
+.igflow__nav { position: absolute; top: calc(var(--cw) * .75); transform: translateY(-50%); z-index: 30; width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--paper-3); background: var(--white); color: var(--ink); font-size: 1.7rem; line-height: 1; cursor: pointer; box-shadow: var(--shadow-sm); transition: background .2s; }
+.igflow__nav:hover { background: var(--paper-2); }
+.igflow__nav--prev { left: 0; }
+.igflow__nav--next { right: 0; }
+.igflow__dots { position: absolute; left: 0; right: 0; bottom: 8px; display: flex; justify-content: center; gap: 10px; }
+.igflow__dot { width: 9px; height: 9px; padding: 0; border-radius: 50%; border: 0; background: var(--paper-3); cursor: pointer; transition: background .3s, transform .3s; }
+.igflow__dot.is-active { background: var(--gold); transform: scale(1.25); }
+
+@media (max-width: 700px) {
+  .igflow { --cw: 58vw; }
+  .igflow__card { transform: translateX(calc(var(--d, 0) * var(--cw) * .62)) rotateY(calc(var(--d, 0) * -30deg)) scale(calc(1 - var(--ad, 0) * .16)); }
+  .igflow__nav { width: 38px; height: 38px; font-size: 1.5rem; }
+}

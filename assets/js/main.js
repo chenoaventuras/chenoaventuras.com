@@ -476,6 +476,129 @@
       .catch(function () { /* deja el contenido de ejemplo */ });
   }
 
+  /* ---------- Carrusel de Instagram (inicio) ----------
+     Carrusel en 3D: la publicación activa al frente y las vecinas giradas a
+     los lados; gira solo a ritmo constante. Lee assets/data/instagram.json.
+  ------------------------------------------------------------------- */
+  var flow = document.querySelector("[data-ig-flow]");
+  if (flow && window.fetch) {
+    var flowStage = flow.querySelector("[data-igflow-stage]");
+    var flowDots = flow.querySelector("[data-igflow-dots]");
+
+
+    fetch("assets/data/instagram.json", { cache: "no-cache" })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (data) {
+        var posts = data && Array.isArray(data.posts) ? data.posts : (Array.isArray(data) ? data : null);
+        if (!posts) return;
+        posts = posts.filter(function (p) { return p && p.permalink && p.home !== false; }).slice(0, 7);
+        if (!posts.length) return;
+        var n = posts.length, active = -1;
+        // Giro continuo: "pos" avanza a ritmo constante (SPEED tarjetas por
+        // segundo). Con el ratón encima se para; con flechas, puntos o
+        // deslizando, va a esa tarjeta y se queda quieto PAUSE ms.
+        var SPEED = 0.16, PAUSE = 5000;
+        var pos = 0, target = null, pausedUntil = 0, hovering = false, last = 0;
+        var still = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+        var cards = posts.map(function (p, i) {
+          var a = document.createElement("a");
+          a.className = "igflow__card";
+          a.href = p.permalink;
+          a.rel = "noopener";
+          var img = document.createElement("img");
+          img.src = p.thumb || p.image;
+          img.alt = p.caption ? p.caption.replace(/\s+/g, " ").slice(0, 100) : "Publicación de Chenoaventuras en Instagram";
+          if (p.pos) img.style.objectPosition = p.pos;
+          img.loading = i < 3 ? "eager" : "lazy";
+          img.decoding = "async";
+          a.appendChild(img);
+          a.addEventListener("click", function (ev) {
+            ev.preventDefault();
+            if (i === active) openIgModal(p.permalink); else go(i);
+          });
+          flowStage.appendChild(a);
+          var dot = document.createElement("button");
+          dot.type = "button";
+          dot.className = "igflow__dot";
+          dot.setAttribute("aria-label", "Publicación " + (i + 1));
+          dot.addEventListener("click", function () { go(i); });
+          flowDots.appendChild(dot);
+          return a;
+        });
+        var dots = flowDots.children;
+
+        function wrap(d) { d = ((d % n) + n) % n; return d > n / 2 ? d - n : d; }
+        function render() {
+          var now = Math.round(((pos % n) + n) % n) % n;
+          cards.forEach(function (c, i) {
+            var d = wrap(i - pos), ad = Math.abs(d);
+            c.style.setProperty("--d", d.toFixed(4));
+            c.style.setProperty("--ad", ad.toFixed(4));
+            c.style.zIndex = Math.round(20 - ad * 4);
+            c.style.opacity = ad <= 2 ? 1 - ad * 0.18 : Math.max(0, (2.5 - ad) * 2 * 0.64);
+            c.style.pointerEvents = ad > 2.2 ? "none" : "";
+          });
+          if (now !== active) {
+            active = now;
+            cards.forEach(function (c, i) {
+              c.classList.toggle("is-active", i === active);
+              c.setAttribute("aria-hidden", i === active ? "false" : "true");
+              c.tabIndex = i === active ? 0 : -1;
+              dots[i].classList.toggle("is-active", i === active);
+            });
+          }
+        }
+        // Va a la tarjeta i por el camino más corto.
+        function go(i) {
+          target = pos + wrap(i - pos);
+          pausedUntil = Infinity;
+        }
+        function tick(t) {
+          var dt = last ? Math.min((t - last) / 1000, 0.1) : 0;
+          last = t;
+          if (target !== null) {
+            pos += (target - pos) * Math.min(1, dt * 5);
+            if (Math.abs(target - pos) < 0.002) {
+              pos = target; target = null;
+              pausedUntil = hovering ? Infinity : performance.now() + PAUSE;
+            }
+          } else if (!still && !hovering && t > pausedUntil) {
+            pos += SPEED * dt;
+          }
+          render();
+          requestAnimationFrame(tick);
+        }
+
+        flow.querySelector("[data-igflow-prev]").addEventListener("click", function () { go(Math.round(pos) - 1); });
+        flow.querySelector("[data-igflow-next]").addEventListener("click", function () { go(Math.round(pos) + 1); });
+        flow.addEventListener("keydown", function (ev) {
+          if (ev.key === "ArrowLeft") go(Math.round(pos) - 1);
+          if (ev.key === "ArrowRight") go(Math.round(pos) + 1);
+        });
+        // Ratón encima: se centra en la tarjeta más cercana y se queda quieto.
+        flowStage.addEventListener("mouseenter", function () { hovering = true; go(Math.round(pos)); });
+        flowStage.addEventListener("mouseleave", function () {
+          hovering = false;
+          if (target === null) pausedUntil = performance.now();
+        });
+        // Deslizar con el dedo en el móvil.
+        var x0 = null;
+        flowStage.addEventListener("touchstart", function (ev) { x0 = ev.touches[0].clientX; }, { passive: true });
+        flowStage.addEventListener("touchend", function (ev) {
+          if (x0 === null) return;
+          var dx = ev.changedTouches[0].clientX - x0;
+          if (Math.abs(dx) > 40) go(Math.round(pos) + (dx < 0 ? 1 : -1));
+          x0 = null;
+        });
+
+        flow.classList.add("is-ready");
+        render();
+        requestAnimationFrame(tick);
+      })
+      .catch(function () { /* sin datos: se queda el texto por defecto */ });
+  }
+
   /* ---------- Descarga de guía en PDF a cambio del email ---------- */
   document.querySelectorAll("form[data-guide-source]").forEach(function (f) {
     f.addEventListener("submit", function (ev) {

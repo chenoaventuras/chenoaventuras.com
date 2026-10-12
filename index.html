@@ -26,7 +26,7 @@
   <meta name="twitter:title" content="Chenoaventuras | Descubre nuevos destinos 🌎" />
   <meta name="twitter:description" content="Chenoaventuras (@chenoaventuras): rutas, destinos y curiosidades de viaje reales por España y más allá. Contenido de viajes para gente aventurera." />
   <meta name="twitter:image" content="https://www.chenoaventuras.com/assets/img/og-portada.jpg" />
-  <link rel="stylesheet" href="assets/css/styles.css?v=20261013r" />
+  <link rel="stylesheet" href="assets/css/styles.css?v=20261013s" />
   <script>document.documentElement.classList.add("js");</script>
   <script type="application/ld+json">
   {
@@ -239,7 +239,8 @@
       </div>
     </section>
 
-    <section class="section" style="padding-top:clamp(18px,2.2vw,28px);">
+    <!-- ============ INSTAGRAM: carrusel 3D con las últimas publicaciones ============ -->
+    <section class="section igflow-sec" style="padding-top:clamp(18px,2.2vw,28px);">
       <div class="container">
         <div class="destacados__head">
           <div>
@@ -248,24 +249,12 @@
           </div>
           <a class="btn btn--ghost btn--ojos" href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener" data-ojos>Ver perfil<span class="ojos" aria-hidden="true"><i><b></b></i><i><b></b></i></span></a>
         </div>
-        <div class="cardgrid" data-ig-posts>
-          <!-- Se rellena desde assets/data/instagram.json (actualizado a diario por GitHub Actions). -->
-          <a class="placecard reveal reveal--media" href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">
-            <img src="assets/img/blog/cola-de-caballo.webp" alt="Última publicación de Chenoaventuras en Instagram" width="354" height="196" loading="lazy" decoding="async" />
-            <div class="placecard__body"><h3>Publicación reciente</h3><span>Ver en Instagram</span></div>
-          </a>
-          <a class="placecard reveal reveal--media" href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">
-            <img src="assets/img/blog/altea.webp" alt="Última publicación de Chenoaventuras en Instagram" width="354" height="196" loading="lazy" decoding="async" />
-            <div class="placecard__body"><h3>Publicación reciente</h3><span>Ver en Instagram</span></div>
-          </a>
-          <a class="placecard reveal reveal--media" href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">
-            <img src="assets/img/blog/furgoneta.webp" alt="Última publicación de Chenoaventuras en Instagram" width="354" height="196" loading="lazy" decoding="async" />
-            <div class="placecard__body"><h3>Publicación reciente</h3><span>Ver en Instagram</span></div>
-          </a>
-          <a class="placecard reveal reveal--media" href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">
-            <img src="assets/img/blog/planificar-viaje.webp" alt="Última publicación de Chenoaventuras en Instagram" width="354" height="196" loading="lazy" decoding="async" />
-            <div class="placecard__body"><h3>Publicación reciente</h3><span>Ver en Instagram</span></div>
-          </a>
+        <!-- Se rellena desde assets/data/instagram.json (ver main.js, "Carrusel de Instagram"). -->
+        <div class="igflow" data-ig-flow aria-roledescription="carrusel" aria-label="Últimas publicaciones de Instagram">
+          <div class="igflow__stage" data-igflow-stage></div>
+          <button class="igflow__nav igflow__nav--prev" type="button" aria-label="Publicación anterior" data-igflow-prev>&#8249;</button>
+          <button class="igflow__nav igflow__nav--next" type="button" aria-label="Publicación siguiente" data-igflow-next>&#8250;</button>
+          <div class="igflow__dots" data-igflow-dots></div>
         </div>
       </div>
     </section>
@@ -381,7 +370,7 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js?v=20261013f"></script>
+  <script src="assets/js/main.js?v=20261013g"></script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
