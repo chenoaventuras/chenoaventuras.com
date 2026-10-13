@@ -28,10 +28,11 @@
   map.on("mouseout", function () { map.scrollWheelZoom.disable(); });
 
   var layer = L.layerGroup().addTo(map);
-  var state = { types: [], region: "", destino: new URLSearchParams(location.search).get("destino") || "" };
+  var state = { types: [], region: "", prov: "", destino: new URLSearchParams(location.search).get("destino") || "" };
   var noticeEl = document.getElementById("map-notice");
   var countEl = document.getElementById("map-count");
   var regionSel = document.getElementById("map-region");
+  var provSel = document.getElementById("map-prov");
   var chips = Array.prototype.slice.call(document.querySelectorAll("[data-map-type]"));
 
   function text(tag, cls, content) {
@@ -97,7 +98,7 @@
   function render(fit) {
     layer.clearLayers();
     var list = posts.filter(function (p) {
-      return (!state.types.length || state.types.indexOf(p.type) !== -1) && (!state.region || p.region === state.region) && (!state.destino || p.destino === state.destino);
+      return (!state.types.length || state.types.indexOf(p.type) !== -1) && (!state.region || p.region === state.region) && (!state.prov || p.prov === state.prov) && (!state.destino || p.destino === state.destino);
     });
     var pts = [];
     groups(list).forEach(function (items) {
@@ -124,7 +125,7 @@
     if (countEl) countEl.textContent = list.length + (list.length === 1 ? " lugar" : " lugares");
     if (fit) {
       if (!pts.length) return;
-      if (!state.types.length && !state.region && !state.destino) map.fitBounds(SPAIN, { animate: !reduce });
+      if (!state.types.length && !state.region && !state.prov && !state.destino) map.fitBounds(SPAIN, { animate: !reduce });
       else map.fitBounds(pts, { padding: [50, 50], maxZoom: 11, animate: !reduce });
     }
   }
@@ -145,9 +146,29 @@
       render(true);
     });
   });
+  // al elegir una comunidad aparece el desplegable de sus provincias (o islas), como en el blog
+  var TODO = { "Canarias": "Todas las islas", "Islas Baleares": "Todas las islas", "Aragón": "Todo Aragón", "País Vasco": "Todo el País Vasco" };
+  function fillProv() {
+    if (!provSel) return;
+    var r = state.region, seen = {};
+    posts.forEach(function (p) { if (r && p.prov && p.region === r) seen[p.prov] = (seen[p.prov] || 0) + 1; });
+    var names = Object.keys(seen).sort(function (a, b) { return a.localeCompare(b, "es"); });
+    provSel.innerHTML = "";
+    var o0 = document.createElement("option"); o0.value = ""; o0.textContent = TODO[r] || ("Toda " + r); provSel.appendChild(o0);
+    names.forEach(function (n) { var o = document.createElement("option"); o.value = n; o.textContent = n + " (" + seen[n] + ")"; provSel.appendChild(o); });
+    provSel.hidden = names.length < 2;
+    state.prov = "";
+  }
   if (regionSel) {
     regionSel.addEventListener("change", function () {
       state.region = regionSel.value;
+      fillProv();
+      render(true);
+    });
+  }
+  if (provSel) {
+    provSel.addEventListener("change", function () {
+      state.prov = provSel.value;
       render(true);
     });
   }

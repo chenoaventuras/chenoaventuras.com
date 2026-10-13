@@ -892,6 +892,7 @@ function renderMap(posts, destinos = []) {
     type: p.tags.find((t) => MAP_TYPES.includes(t)) || "",
     region: regionOf(p),
     provincia: p.provincia || PROVINCIAS[p.slug] || "",
+    prov: provOf(p), // provincia o isla, igual que en el filtro del blog
     destino: p.destino || "",
     destinoNombre: (destinos.find((d) => d.slug === p.destino) || {}).nombre || "",
     lat: p.lat,
@@ -964,6 +965,8 @@ ${types.map((t) => `            <button type="button" class="mapchip" data-map-t
               <option value="">Todas las zonas</option>
 ${regions.map((r) => `              <option value="${esc(r)}">${esc(REGION_LABEL[r] || r)}</option>`).join("\n")}
             </select>
+            <label for="map-prov" class="sr-only">Provincia o isla</label>
+            <select id="map-prov" aria-label="Provincia o isla" hidden><option value="">Toda la zona</option></select>
             <span class="mapbar__count" id="map-count" aria-live="polite"></span>
           </div>
         </div>
@@ -981,7 +984,7 @@ ${byRegion}
       </div>
     </section>
     <script src="/assets/vendor/leaflet/leaflet.js"></script>
-    <script src="/assets/js/mapa.js?v=20261010"></script>`;
+    <script src="/assets/js/mapa.js?v=20261013p"></script>`;
 
   return shell({
     title: "Mapa de aventuras por España y Marruecos | Chenoaventuras",
