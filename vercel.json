@@ -64,6 +64,10 @@
     }
   ],
   "redirects": [
+    { "source": "/(CLAUDE\\.md|README\\.md|vercel\\.json|\\.gitignore)", "destination": "/no-encontrado", "permanent": false },
+    { "source": "/(scripts|content|\\.github|\\.claude)/:path*", "destination": "/no-encontrado", "permanent": false },
+    { "source": "/api/:file(_.*)", "destination": "/no-encontrado", "permanent": false },
+    { "source": "/api/:file(.*\\.m?js)", "destination": "/no-encontrado", "permanent": false },
     { "source": "/aventuras", "destination": "https://www.instagram.com/chenoaventuras/", "permanent": true },
     { "source": "/aventuras.html", "destination": "https://www.instagram.com/chenoaventuras/", "permanent": true },
     { "source": "/destinos", "destination": "/blog.html", "permanent": true },

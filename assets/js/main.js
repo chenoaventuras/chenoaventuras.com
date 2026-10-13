@@ -633,8 +633,26 @@
     });
   });
 
+  /* ---------- Antispam de los formularios ----------
+     Campo trampa "cheno_hp" invisible (solo lo rellenan los bots) y tiempo desde
+     que se abrió la página: el servidor descarta los envíos sospechosos. */
+  var pageOpenedAt = Date.now();
+  function addTrap(f) {
+    if (f.querySelector('input[name="cheno_hp"]')) return;
+    var trap = document.createElement("input");
+    trap.type = "text"; trap.name = "cheno_hp"; trap.tabIndex = -1; trap.autocomplete = "off";
+    trap.setAttribute("aria-hidden", "true");
+    trap.style.cssText = "position:absolute;left:-9999px;width:1px;height:1px;opacity:0;";
+    f.appendChild(trap);
+  }
+  function antiSpam(f) {
+    var trap = f.querySelector('input[name="cheno_hp"]');
+    return { cheno_hp: trap ? trap.value : "", t: Date.now() - pageOpenedAt };
+  }
+
   /* ---------- Descarga de guía en PDF a cambio del email ---------- */
   document.querySelectorAll("form[data-guide-source]").forEach(function (f) {
+    addTrap(f);
     f.addEventListener("submit", function (ev) {
       ev.preventDefault();
       var box = f.closest("[data-guide-box]") || f.parentElement;
@@ -646,10 +664,10 @@
       fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
+        body: JSON.stringify(Object.assign({
           email: emailInput ? emailInput.value : "",
           source: f.getAttribute("data-guide-source") || ""
-        }),
+        }, antiSpam(f))),
       })
         .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, json: j }; }); })
         .then(function (res) {
@@ -659,12 +677,15 @@
             var legal = box.querySelector(".guidebox__legal");
             if (legal) legal.hidden = true;
             var path = res.json && res.json.guide;
+            var confirm = res.json && res.json.confirm;
             if (path && link) {
               link.href = path;
               link.hidden = false;
-              if (msg) msg.textContent = "¡Listo! Tu guía ya está disponible (también te la he enviado por correo):";
+              if (msg) msg.textContent = confirm
+                ? "¡Listo! Tu guía ya está disponible. Revisa tu correo y confirma tu suscripción:"
+                : "¡Listo! Tu guía ya está disponible (también te la he enviado por correo):";
             } else if (msg) {
-              msg.textContent = "¡Listo! Te he enviado la guía por correo.";
+              msg.textContent = confirm ? "¡Casi! Revisa tu correo y confirma tu suscripción." : "¡Listo! Te he enviado la guía por correo.";
             }
           } else {
             if (msg) msg.textContent = (res.json && res.json.error) || "No se pudo enviar. Inténtalo de nuevo.";
@@ -801,6 +822,7 @@
   document.querySelectorAll("form[data-demo]").forEach(function (f) {
     var isSubscribe = f.classList.contains("subscribe");
     var endpoint = isSubscribe ? "/api/subscribe" : "/api/contact";
+    addTrap(f);
     f.addEventListener("submit", function (ev) {
       ev.preventDefault();
       var msg = f.querySelector("[data-demo-msg]") ||
@@ -813,8 +835,9 @@
       } else {
         data = {};
         // campos repetidos (p. ej. varios motivos marcados) se juntan en uno
-        new FormData(f).forEach(function (v, k) { data[k] = data[k] ? data[k] + ", " + v : v; });
+        new FormData(f).forEach(function (v, k) { if (k !== "cheno_hp") data[k] = data[k] ? data[k] + ", " + v : v; });
       }
+      data = Object.assign(data, antiSpam(f));
       if (btn) btn.disabled = true;
       fetch(endpoint, {
         method: "POST",
@@ -827,7 +850,9 @@
             msg.hidden = false;
             msg.style.color = res.ok ? "" : "#b3261e";
             msg.textContent = res.ok
-              ? (isSubscribe ? "¡A la aventura! Ya eres parte de la comunidad." : "¡Mensaje enviado! Te contesto pronto.")
+              ? (isSubscribe
+                  ? (res.json && res.json.confirm ? "¡Casi! Revisa tu correo y confirma tu suscripción." : "¡A la aventura! Ya eres parte de la comunidad.")
+                  : "¡Mensaje enviado! Te contesto pronto.")
               : "Ha habido un error. Prueba de nuevo o escríbeme a chenoaventuras@gmail.com.";
           }
           if (res.ok) {

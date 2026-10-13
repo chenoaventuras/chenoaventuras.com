@@ -6,6 +6,7 @@
  *   BREVO_API_KEY
  */
 import { ZONE_GUIDES } from "./_guias-zonas.mjs";
+import { originOk, looksLikeBot, rateLimiter, validEmail } from "./_proteccion.mjs";
 
 const LIST_ID = 3; // "Newsletter Web" en Brevo
 const SITE = "https://www.chenoaventuras.com";
@@ -13,6 +14,10 @@ const SITE = "https://www.chenoaventuras.com";
 // en Brevo (DKIM + DMARC en los DNS de Hostinger) para que Gmail muestre la foto.
 const SENDER_EMAIL = process.env.BREVO_SENDER_EMAIL || "hola@chenoaventuras.com";
 const OWNER_EMAIL = "chenoaventuras@gmail.com";
+// Doble confirmación (RGPD): si está configurada la plantilla de Brevo, el
+// contacto solo entra en la lista cuando pulsa el enlace del correo, y no se
+// manda nada más a ese email hasta entonces.
+const DOI_TEMPLATE_ID = Number(process.env.BREVO_DOI_TEMPLATE_ID) || 0;
 
 // Guías en PDF: valor de "source" del formulario -> título y archivo.
 // "extra" (opcional): más PDFs que se envían en el mismo correo.
@@ -37,16 +42,8 @@ const GUIDES = {
   "avistamiento-de-buitres-sierra-de-guara": { title: "Guía del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-chenoaventuras.pdf", extra: [{ title: "Guía ilustrada del Pirineo Aragonés", file: "/assets/guias/guia-pirineo-aragones-ilustrada-chenoaventuras.pdf" }] },
 };
 
-// Límite por IP (en memoria): evita usar el formulario para mandar correos a terceros.
-const hits = new Map();
-function tooMany(ip) {
-  const now = Date.now();
-  const arr = (hits.get(ip) || []).filter((t) => now - t < 60000);
-  arr.push(now);
-  hits.set(ip, arr);
-  if (hits.size > 5000) hits.clear();
-  return arr.length > 5; // máx. 5 intentos por minuto y por IP
-}
+// Límite por IP: evita usar el formulario para mandar correos a terceros.
+const tooMany = rateLimiter(3, 15);
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
@@ -62,17 +59,28 @@ export default async function handler(req, res) {
     return;
   }
 
-  const ip = String(req.headers["x-forwarded-for"] || "").split(",")[0].trim() || "?";
-  if (tooMany(ip)) {
+  if (!originOk(req)) {
+    res.statusCode = 403;
+    res.json({ error: "Envío no permitido" });
+    return;
+  }
+  if (tooMany(req)) {
     res.statusCode = 429;
     res.json({ error: "Demasiados intentos seguidos, espera un minuto." });
     return;
   }
 
-  const { email, source } = req.body || {};
+  const body = req.body || {};
+  const { email, source } = body;
+  // A los bots se les responde "ok" para que no insistan, pero no se hace nada.
+  if (looksLikeBot(body)) {
+    res.statusCode = 200;
+    res.json({ ok: true });
+    return;
+  }
   // Origen opcional (p. ej. la guía descargada); solo letras, números y guiones.
   const src = typeof source === "string" && /^[a-z0-9-]{1,60}$/.test(source) ? source : "";
-  if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+  if (!validEmail(email)) {
     res.statusCode = 400;
     res.json({ error: "Email no válido" });
     return;
@@ -84,17 +92,23 @@ export default async function handler(req, res) {
     // Atributo GUIAS del contacto: zonas de las guías que ha pedido, separadas
     // por comas (p. ej. "Cuenca, Segovia"), para poder escribir en Brevo solo
     // a quien pidió una guía concreta (segmento "GUIAS contiene Cuenca").
+    // Contacto actual en Brevo (si ya existe): guías previas y si ya está en la lista.
+    let existing = null;
+    try {
+      const c = await fetch(`https://api.brevo.com/v3/contacts/${encodeURIComponent(email)}`, {
+        headers: { accept: "application/json", "api-key": apiKey },
+      });
+      if (c.ok) existing = await c.json();
+    } catch (e) {}
+    const confirmed = Boolean(existing && Array.isArray(existing.listIds) && existing.listIds.includes(LIST_ID));
+
     const attributes = {};
+    let alreadyHadGuide = false;
     if (guide) {
       const zona = guide.title.replace(/^Guía (de la |del |de )?/, "");
-      let previas = [];
-      try {
-        const c = await fetch(`https://api.brevo.com/v3/contacts/${encodeURIComponent(email)}`, {
-          headers: { accept: "application/json", "api-key": apiKey },
-        });
-        if (c.ok) previas = String((await c.json()).attributes?.GUIAS || "").split(",").map((x) => x.trim()).filter(Boolean);
-      } catch (e) {}
-      if (!previas.includes(zona)) previas.push(zona);
+      const previas = String(existing?.attributes?.GUIAS || "").split(",").map((x) => x.trim()).filter(Boolean);
+      alreadyHadGuide = previas.includes(zona);
+      if (!alreadyHadGuide) previas.push(zona);
       attributes.GUIAS = previas.join(", ");
     }
 
@@ -119,19 +133,44 @@ export default async function handler(req, res) {
         });
       } catch (e) {}
     }
+    if (DOI_TEMPLATE_ID && !confirmed) {
+      // Aún no ha confirmado: Brevo le manda el correo de "confirma tu
+      // suscripción" y lo apunta a la lista solo cuando pulsa el enlace.
+      const d = await fetch("https://api.brevo.com/v3/contacts/doubleOptinConfirmation", {
+        method: "POST",
+        headers: { "content-type": "application/json", accept: "application/json", "api-key": apiKey },
+        body: JSON.stringify({
+          email,
+          includeListIds: [LIST_ID],
+          templateId: DOI_TEMPLATE_ID,
+          redirectionUrl: guide ? SITE + guide.file : SITE + "/",
+          attributes,
+        }),
+      });
+      if (!d.ok) {
+        res.statusCode = 502;
+        res.json({ error: "No se pudo apuntar el email. Inténtalo de nuevo." });
+        return;
+      }
+      res.statusCode = 200;
+      res.json({ ok: true, confirm: true, ...(guide ? { guide: guide.file } : {}) });
+      return;
+    }
+
     let r = await saveContact(attributes);
     // Si falla con el atributo, se guarda sin él: lo importante es el alta.
     if (!r.ok && attributes.GUIAS) r = await saveContact({});
     if (!r.ok) {
-      const err = await r.text();
       res.statusCode = 502;
-      res.json({ error: "Brevo rechazó el contacto", detail: err });
+      res.json({ error: "No se pudo apuntar el email. Inténtalo de nuevo." });
       return;
     }
 
     // Si pidió una guía, se le manda por correo el enlace de descarga (si el
     // envío falla, no rompe la suscripción: la web también le muestra el botón).
-    if (guide) {
+    // La misma guía no se reenvía al mismo email: así nadie puede usar el
+    // formulario para llenarle el buzón a otra persona.
+    if (guide && !alreadyHadGuide) {
       try {
         await fetch("https://api.brevo.com/v3/smtp/email", {
           method: "POST",

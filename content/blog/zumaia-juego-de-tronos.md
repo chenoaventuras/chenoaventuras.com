@@ -80,4 +80,4 @@ Te cuento qué ver, cuándo ir según la marea y dónde está la ermita de pelí
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AZumaia_Itzurun_5.JPG" target="_blank" rel="noopener">Txo</a> (CC BY-SA 3.0).</p>
+<p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AZumaia_Itzurun_5.JPG" target="_blank" rel="noopener">Txo</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Zumaia_Itzurun_1.JPG" target="_blank" rel="noopener">Txo</a> (CC BY-SA 3.0).</p>

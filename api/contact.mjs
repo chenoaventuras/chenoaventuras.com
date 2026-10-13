@@ -5,6 +5,11 @@
  * Variable de entorno en Vercel:
  *   BREVO_API_KEY
  */
+import { originOk, looksLikeBot, rateLimiter, validEmail } from "./_proteccion.mjs";
+
+// Máx. 2 mensajes por minuto y 6 por hora desde la misma IP.
+const tooMany = rateLimiter(2, 6);
+
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     res.statusCode = 405;
@@ -19,8 +24,30 @@ export default async function handler(req, res) {
     return;
   }
 
-  const { nombre, email, tipo, mensaje } = req.body || {};
-  if (!nombre || !email || !mensaje) {
+  if (!originOk(req)) {
+    res.statusCode = 403;
+    res.json({ error: "Envío no permitido" });
+    return;
+  }
+  if (tooMany(req)) {
+    res.statusCode = 429;
+    res.json({ error: "Demasiados mensajes seguidos, espera un poco." });
+    return;
+  }
+
+  const body = req.body || {};
+  // A los bots se les responde "ok" para que no insistan, pero no se envía nada.
+  if (looksLikeBot(body)) {
+    res.statusCode = 200;
+    res.json({ ok: true });
+    return;
+  }
+  const str = (v, max) => (typeof v === "string" ? v.trim().slice(0, max) : "");
+  const nombre = str(body.nombre, 100);
+  const email = str(body.email, 200);
+  const tipo = str(body.tipo, 200);
+  const mensaje = str(body.mensaje, 5000);
+  if (!nombre || !mensaje || !validEmail(email)) {
     res.statusCode = 400;
     res.json({ error: "Faltan campos obligatorios" });
     return;
@@ -35,10 +62,10 @@ export default async function handler(req, res) {
         "api-key": apiKey,
       },
       body: JSON.stringify({
-        sender: { name: "Web Chenoaventuras", email: "chenoaventuras@gmail.com" },
+        sender: { name: "Web Chenoaventuras", email: process.env.BREVO_SENDER_EMAIL || "hola@chenoaventuras.com" },
         to: [{ email: "chenoaventuras@gmail.com", name: "Cheno" }],
         replyTo: { email, name: nombre },
-        subject: `Nuevo mensaje desde la web · ${tipo || "Sin tipo"}`,
+        subject: `Nuevo mensaje desde la web · ${(tipo || "Sin tipo").replace(/[\r\n]+/g, " ")}`,
         htmlContent: `
           <p><strong>Nombre:</strong> ${escapeHtml(nombre)}</p>
           <p><strong>Email:</strong> ${escapeHtml(email)}</p>
@@ -49,9 +76,8 @@ export default async function handler(req, res) {
       }),
     });
     if (!r.ok) {
-      const err = await r.text();
       res.statusCode = 502;
-      res.json({ error: "Brevo rechazó el envío", detail: err });
+      res.json({ error: "No se pudo enviar el mensaje" });
       return;
     }
     res.statusCode = 200;

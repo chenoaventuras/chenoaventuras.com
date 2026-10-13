@@ -974,7 +974,7 @@ p { margin: 0 0 1em; }
 /* el borde rasgado de encima muestra el mismo fondo, no el papel liso,
    para que no se note como una franja blanca sobre la textura */
 .pagehead--equipo.torn-bottom::after {
-  background: linear-gradient(rgba(239,236,231,.88), rgba(239,236,231,.88)), url("../img/fondo-pestana-equipo.jpg") center/cover no-repeat;
+  background: linear-gradient(rgba(239,236,231,.88), rgba(239,236,231,.88)), url("../img/fondo-pestana-equipo.webp") center/cover no-repeat;
   -webkit-mask: url("../img/edges/torn-paper.svg") repeat-x bottom center / 1200px 34px;
   mask: url("../img/edges/torn-paper.svg") repeat-x bottom center / 1200px 34px;
 }

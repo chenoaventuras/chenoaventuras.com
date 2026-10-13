@@ -54,7 +54,11 @@ export default async function handler(req, res) {
   }
 
   const message = `authorization:github:${status}:${JSON.stringify(content)}`;
-  const messageLiteral = JSON.stringify(message);
+  // "<" escapado para que nada dentro del mensaje pueda cerrar el <script>.
+  const messageLiteral = JSON.stringify(message).replace(/</g, "\\u003c");
+  // El token solo se entrega al panel de esta misma web: si otra página abre
+  // este popup, no recibe nada (antes se respondía a cualquier origen).
+  const allowedOrigin = JSON.stringify(`https://${host}`).replace(/</g, "\\u003c");
 
   res.statusCode = 200;
   res.setHeader("Content-Type", "text/html; charset=utf-8");
@@ -70,12 +74,14 @@ export default async function handler(req, res) {
 (function () {
   if (!window.opener) { document.body.appendChild(document.createTextNode(" (sin ventana de origen)")); return; }
   var msg = ${messageLiteral};
+  var origin = ${allowedOrigin};
   function receiveMessage(e) {
-    window.opener.postMessage(msg, e.origin);
+    if (e.origin !== origin || e.source !== window.opener) return;
+    window.opener.postMessage(msg, origin);
     window.removeEventListener("message", receiveMessage, false);
   }
   window.addEventListener("message", receiveMessage, false);
-  window.opener.postMessage("authorizing:github", "*");
+  window.opener.postMessage("authorizing:github", origin);
 })();
 </script>
 </body></html>`);
