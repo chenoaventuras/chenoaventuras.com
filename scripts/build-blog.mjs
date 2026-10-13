@@ -751,7 +751,7 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
         function norm(t) { return (t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""); }
         function tagsOf(c) { return (c.getAttribute("data-tags") || "").split("|"); }
         function has(c, v) { return !v || tagsOf(c).indexOf(v) !== -1; }
-        // cuántos posts quedarían con cada opción, según lo elegido en el otro desplegable
+        // desactiva las opciones que no tendrían ningún post con lo elegido en el otro desplegable
         function counts(select, other) {
           if (!select) return;
           var ov = other ? other.value : "";
@@ -759,7 +759,7 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
             if (!o.value) return;
             if (!o.dataset.label) o.dataset.label = o.textContent;
             var n = cards.filter(function (c) { return has(c, ov) && has(c, o.value); }).length;
-            o.textContent = o.dataset.label + " (" + n + ")";
+            o.textContent = o.dataset.label;
             o.disabled = n === 0 && select.value !== o.value;
           });
         }
@@ -772,7 +772,7 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
           var names = Object.keys(seen).sort(function (a, b) { return a.localeCompare(b, "es"); });
           prov.innerHTML = "";
           var o0 = document.createElement("option"); o0.value = ""; o0.textContent = TODO[r] || ("Toda " + r); prov.appendChild(o0);
-          names.forEach(function (n) { var o = document.createElement("option"); o.value = n; o.textContent = n + " (" + seen[n] + ")"; prov.appendChild(o); });
+          names.forEach(function (n) { var o = document.createElement("option"); o.value = n; o.textContent = n; prov.appendChild(o); });
           prov.hidden = names.length < 2;
           if (keep && seen[keep]) prov.value = keep;
         }
@@ -992,7 +992,7 @@ ${byRegion}
       </div>
     </section>
     <script src="/assets/vendor/leaflet/leaflet.js"></script>
-    <script src="/assets/js/mapa.js?v=20261013p"></script>`;
+    <script src="/assets/js/mapa.js?v=20261013q"></script>`;
 
   return shell({
     title: "Mapa de aventuras por España y Marruecos | Chenoaventuras",

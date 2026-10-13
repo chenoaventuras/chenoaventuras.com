@@ -155,7 +155,7 @@
     var names = Object.keys(seen).sort(function (a, b) { return a.localeCompare(b, "es"); });
     provSel.innerHTML = "";
     var o0 = document.createElement("option"); o0.value = ""; o0.textContent = TODO[r] || ("Toda " + r); provSel.appendChild(o0);
-    names.forEach(function (n) { var o = document.createElement("option"); o.value = n; o.textContent = n + " (" + seen[n] + ")"; provSel.appendChild(o); });
+    names.forEach(function (n) { var o = document.createElement("option"); o.value = n; o.textContent = n; provSel.appendChild(o); });
     provSel.hidden = names.length < 2;
     state.prov = "";
   }
