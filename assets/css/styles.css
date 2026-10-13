@@ -2220,3 +2220,33 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 @keyframes confeti { 0% { transform: translate(0, 0) rotate(0); opacity: 1; } 70% { opacity: 1; } 100% { transform: translate(var(--x), calc(var(--y) + 160px)) rotate(var(--r)); opacity: 0; } }
 .gift-face { position: fixed; z-index: 10000; font-size: 64px; line-height: 1; transform: translate(-50%, -50%); pointer-events: none; animation: giftFace 1.8s cubic-bezier(.2, .8, .2, 1) forwards; }
 @keyframes giftFace { 0% { transform: translate(-50%, -50%) scale(.2); opacity: 0; } 20% { transform: translate(-50%, -140%) scale(1.25); opacity: 1; } 70% { transform: translate(-50%, -170%) scale(1); opacity: 1; } 100% { transform: translate(-50%, -230%) scale(.9); opacity: 0; } }
+
+/* =========================================================================
+   Mapa: el mapa dentro de una tableta sujeta por dos manos
+   ========================================================================= */
+.tablet-scene { --pad: max(calc((100vw - 1100px) / 2), clamp(60px, 7vw, 110px)); --h: clamp(300px, 36vw, 500px); position: relative; padding: clamp(36px, 5vw, 64px) var(--pad) clamp(48px, 6vw, 80px);
+  width: 100vw; margin-left: calc(50% - 50vw); border-radius: 0; overflow: hidden; background: #6f8aa3 url("../img/mapa/fondo-paisaje.webp") center / cover no-repeat; margin-bottom: 8px; }
+.tablet-scene::before { content: ""; position: absolute; inset: 0; background: radial-gradient(ellipse at center, rgba(255,255,255,0) 45%, rgba(20,35,55,.3)); pointer-events: none; }
+.tablet { position: relative; z-index: 1; background: #f3f0ea; border-radius: 30px; padding: 18px 20px 20px;
+  box-shadow: 0 2px 0 rgba(255,255,255,.8) inset, 0 -2px 0 rgba(0,0,0,.06) inset, 0 34px 70px rgba(10, 25, 45, .45), 0 8px 18px rgba(10, 25, 45, .25); }
+.tablet .mapbar { margin-bottom: 14px; }
+.tablet .mapa { height: clamp(420px, 64vh, 700px); border-radius: 14px; box-shadow: inset 0 0 0 1px rgba(0,0,0,.08); }
+.tablet__mano { position: absolute; z-index: 2; height: var(--h); width: auto; pointer-events: none; user-select: none; bottom: -4px;
+  filter: drop-shadow(0 18px 24px rgba(10, 25, 45, .35)); }
+/* El pulgar queda sobre el borde de la tableta */
+/* La punta del pulgar (88,3 % del ancho en la izquierda, 11,9 % en la derecha) cae sobre el marco */
+.tablet__mano--izq { left: calc(var(--pad) + 12px - var(--h) * .5 * .883); }
+.tablet__mano--der { right: calc(var(--pad) + 12px - var(--h) * .503 * .881); }
+@media (max-width: 760px) {
+  .tablet-scene { --pad: 14px; padding: 22px 14px 26px; }
+  .tablet { border-radius: 20px; padding: 10px; }
+  .tablet__mano { display: none; }
+}
+.section:has(> .container > .tablet-scene) { padding-top: 0; }
+/* En la página del mapa, el borde rasgado de la cabecera deja ver el paisaje de debajo */
+main:has(.tablet-scene) .pagehead.torn-bottom { position: relative; z-index: 2;
+  -webkit-mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px;
+  mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px; }
+main:has(.tablet-scene) .pagehead.torn-bottom::after { display: none; }
+.section:has(> .container > .tablet-scene) { margin-top: -34px; }
+.section:has(> .container > .tablet-scene) .tablet-scene { padding-top: calc(clamp(36px, 5vw, 64px) + 34px); }

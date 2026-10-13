@@ -954,6 +954,9 @@ function renderMap(posts, destinos = []) {
 
     <section class="section">
       <div class="container">
+        <!-- El mapa va dentro de una «tableta» sujeta por dos manos -->
+        <div class="tablet-scene">
+        <div class="tablet">
         <div class="mapbar">
           <div class="mapbar__chips" role="group" aria-label="Filtrar por tipo">
             <button type="button" class="mapchip is-active" data-map-type="">Todos</button>
@@ -972,6 +975,11 @@ ${regions.map((r) => `              <option value="${esc(r)}">${esc(REGION_LABEL
         </div>
         <p class="mapnotice" id="map-notice" hidden></p>
         <div id="mapa" class="mapa" role="region" aria-label="Mapa interactivo de aventuras"></div>
+        </div>
+        <!-- Las manos van encima, con el pulgar sobre el marco de la tableta -->
+        <img class="tablet__mano tablet__mano--izq" src="/assets/img/mapa/mano-izq.webp" alt="" aria-hidden="true" width="350" height="700" />
+        <img class="tablet__mano tablet__mano--der" src="/assets/img/mapa/mano-der.webp" alt="" aria-hidden="true" width="352" height="700" />
+        </div>
         <noscript><p class="lead">El mapa necesita JavaScript. Mientras tanto, aquí tienes todos los lugares en la lista de abajo.</p></noscript>
         <script type="application/json" id="mapa-data">${json}</script>
 
