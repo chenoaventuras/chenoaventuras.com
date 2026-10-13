@@ -160,7 +160,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261013s1m" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261013s1" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -896,9 +896,8 @@ function renderMap(posts, destinos = []) {
     destinoNombre: (destinos.find((d) => d.slug === p.destino) || {}).nombre || "",
     lat: p.lat,
     lng: p.lng,
-    lugar: p.lugar || "",
   }));
-  for (const d of data) d.prov0 = d.provincia; // la provincia real (la lista cambia la de las islas por la isla)
+  const json = JSON.stringify(data).replace(/</g, "\\u003c");
   const regions = [...new Set(data.map((d) => d.region))].sort((a, b) => (REGION_LABEL[a] || a).localeCompare(REGION_LABEL[b] || b, "es"));
   const types = MAP_TYPES.filter((t) => data.some((d) => d.type === t));
 
@@ -915,7 +914,7 @@ function renderMap(posts, destinos = []) {
   const byRegion = regions
     .map((r) => {
       const items = data.filter((d) => d.region === r).sort((a, b) => a.title.localeCompare(b.title, "es"));
-      const li = (d) => `<li data-slug="${d.slug}"><a href="${d.url}" title="${esc(d.title)}">${esc(shortTitle(d.title))}</a></li>`;
+      const li = (d) => `<li><a href="${d.url}" title="${esc(d.title)}">${esc(shortTitle(d.title))}</a></li>`;
       const list = (arr) => `<ul class="regioncard__list">${arr.map(li).join("")}</ul>`;
       if (ISLAS[r]) {
         // islas en orden geográfico y el post «Qué ver en…» de cada isla el primero
@@ -944,20 +943,6 @@ function renderMap(posts, destinos = []) {
     })
     .join("\n");
 
-  // texto normalizado para el buscador del mapa (después de asignar las islas: título, lugar, provincia, zona, tipo…)
-  for (const d of data) {
-    d.q = norm([d.title, d.lugar, d.excerpt, d.type, REGION_LABEL[d.region] || d.region, d.provincia, d.prov0, d.destinoNombre].join(" "));
-    d.provincia = d.prov0;
-    delete d.lugar; delete d.prov0;
-  }
-  const json = JSON.stringify(data).replace(/</g, "\\u003c");
-  // sugerencias del buscador: zonas, provincias/islas y el nombre corto de cada lugar
-  const sugerencias = [...new Set([
-    ...regions.map((r) => REGION_LABEL[r] || r),
-    ...data.map((d) => d.provincia).filter(Boolean),
-    ...data.map((d) => shortTitle(d.title)),
-  ])].sort((a, b) => a.localeCompare(b, "es"));
-
   const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
         <span class="eyebrow" style="color:var(--gold-soft)"><span class="eyebrow__emoji" aria-hidden="true">🗺️</span><span>Mapa</span></span>
@@ -968,10 +953,6 @@ function renderMap(posts, destinos = []) {
 
     <section class="section">
       <div class="container">
-        <div class="mapsearch blogfilter__search">
-          <input id="map-search" type="search" placeholder="Buscar: Cuenca, cascada, castillo…" aria-label="Buscar en el mapa" autocomplete="off" list="map-sugerencias" />
-          <datalist id="map-sugerencias">${sugerencias.map((s) => `<option value="${esc(s)}"></option>`).join("")}</datalist>
-        </div>
         <div class="mapbar">
           <div class="mapbar__chips" role="group" aria-label="Filtrar por tipo">
             <button type="button" class="mapchip is-active" data-map-type="">Todos</button>
@@ -996,12 +977,11 @@ ${regions.map((r) => `              <option value="${esc(r)}">${esc(REGION_LABEL
           <div class="regiongrid">
 ${byRegion}
           </div>
-          <p class="lead center" id="maplist-empty" hidden>Ningún lugar coincide con tu búsqueda todavía.</p>
         </div>
       </div>
     </section>
     <script src="/assets/vendor/leaflet/leaflet.js"></script>
-    <script src="/assets/js/mapa.js?v=20261013"></script>`;
+    <script src="/assets/js/mapa.js?v=20261010"></script>`;
 
   return shell({
     title: "Mapa de aventuras por España y Marruecos | Chenoaventuras",

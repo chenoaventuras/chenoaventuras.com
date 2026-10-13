@@ -1498,7 +1498,6 @@ p { margin: 0 0 1em; }
 /* =========================================================================
    MAPA INTERACTIVO
    ========================================================================= */
-.mapsearch { max-width: 520px; margin-bottom: 14px; }
 .mapbar {
   display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center;
   justify-content: space-between; margin-bottom: 16px;

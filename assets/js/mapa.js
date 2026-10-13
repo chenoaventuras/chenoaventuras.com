@@ -28,13 +28,7 @@
   map.on("mouseout", function () { map.scrollWheelZoom.disable(); });
 
   var layer = L.layerGroup().addTo(map);
-  var params = new URLSearchParams(location.search);
-  var state = { types: [], region: "", destino: params.get("destino") || "", q: params.get("q") || "" };
-  var searchEl = document.getElementById("map-search");
-  var listEmpty = document.getElementById("maplist-empty");
-  function norm(t) { return (t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""); }
-  function terms() { return norm(state.q).split(/\s+/).filter(Boolean); }
-  function matchesQ(p, ts) { return ts.every(function (w) { return (p.q || "").indexOf(w) !== -1; }); }
+  var state = { types: [], region: "", destino: new URLSearchParams(location.search).get("destino") || "" };
   var noticeEl = document.getElementById("map-notice");
   var countEl = document.getElementById("map-count");
   var regionSel = document.getElementById("map-region");
@@ -100,30 +94,11 @@
     return Object.keys(g).map(function (k) { return g[k]; });
   }
 
-  // la lista «Todos los lugares» de debajo también se filtra con lo que se busca
-  function filterList(ts) {
-    var ok = {};
-    posts.forEach(function (p) { if (matchesQ(p, ts)) ok[p.slug] = true; });
-    var any = false;
-    document.querySelectorAll(".regionband").forEach(function (band) {
-      var shown = 0;
-      band.querySelectorAll("li[data-slug]").forEach(function (li) {
-        var on = !ts.length || ok[li.getAttribute("data-slug")];
-        li.hidden = !on; if (on) shown++;
-      });
-      band.querySelectorAll(".provblock").forEach(function (b) { b.hidden = !b.querySelector("li:not([hidden])"); });
-      band.hidden = !shown; if (shown) any = true;
-    });
-    if (listEmpty) listEmpty.hidden = any;
-  }
-
   function render(fit) {
     layer.clearLayers();
-    var ts = terms();
     var list = posts.filter(function (p) {
-      return (!state.types.length || state.types.indexOf(p.type) !== -1) && (!state.region || p.region === state.region) && (!state.destino || p.destino === state.destino) && matchesQ(p, ts);
+      return (!state.types.length || state.types.indexOf(p.type) !== -1) && (!state.region || p.region === state.region) && (!state.destino || p.destino === state.destino);
     });
-    filterList(ts);
     var pts = [];
     groups(list).forEach(function (items) {
       var c = items[0];
@@ -142,9 +117,6 @@
         all.href = "/mapa.html";
         all.textContent = "Ver todos los lugares";
         noticeEl.appendChild(all);
-      } else if (ts.length && !list.length) {
-        noticeEl.hidden = false;
-        noticeEl.textContent = "Ningún lugar del mapa coincide con «" + state.q.trim() + "». Prueba con otra palabra o quita algún filtro.";
       } else {
         noticeEl.hidden = true;
       }
@@ -152,7 +124,7 @@
     if (countEl) countEl.textContent = list.length + (list.length === 1 ? " lugar" : " lugares");
     if (fit) {
       if (!pts.length) return;
-      if (!state.types.length && !state.region && !state.destino && !ts.length) map.fitBounds(SPAIN, { animate: !reduce });
+      if (!state.types.length && !state.region && !state.destino) map.fitBounds(SPAIN, { animate: !reduce });
       else map.fitBounds(pts, { padding: [50, 50], maxZoom: 11, animate: !reduce });
     }
   }
@@ -179,23 +151,7 @@
       render(true);
     });
   }
-  if (searchEl) {
-    searchEl.value = state.q;
-    var timer;
-    searchEl.addEventListener("input", function () {
-      clearTimeout(timer);
-      timer = setTimeout(function () {
-        state.q = searchEl.value;
-        // la búsqueda queda en la dirección (mapa.html?q=…) para poder compartirla
-        var u = new URLSearchParams(location.search);
-        if (state.q.trim()) u.set("q", state.q.trim()); else u.delete("q");
-        var qs = u.toString();
-        history.replaceState(null, "", location.pathname + (qs ? "?" + qs : ""));
-        render(true);
-      }, 220);
-    });
-  }
-  render(!!state.destino || !!terms().length);
+  render(!!state.destino);
 
   if (window.ResizeObserver) {
     new ResizeObserver(function () {
