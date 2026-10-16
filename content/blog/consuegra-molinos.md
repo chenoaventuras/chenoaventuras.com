@@ -25,6 +25,8 @@ faq:
     a: "Sí, una carretera sube hasta lo alto del cerro, aunque también se puede subir andando desde el pueblo."
   - q: "¿A cuánto está Consuegra de Toledo?"
     a: "A unos 45 minutos en coche. Desde Madrid, algo más de hora y media."
+  - q: "¿Qué comprar en Consuegra?"
+    a: "Azafrán de La Mancha (Consuegra es uno de sus pueblos más famosos) y mazapán: en el pueblo está Mazapanes Peces, un obrador familiar fundado en 1915 que elabora mazapán con la indicación Mazapán de Toledo."
 actividades:
   - t: "Visita guiada por Consuegra"
     u: "https://www.civitatis.com/es/consuegra/visita-guiada-consuegra/"
@@ -79,7 +81,7 @@ Te cuento qué ver, qué molinos se pueden visitar por dentro y cuándo ir para 
 
 <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Fui a los molinos de noche pensando que estarían iluminados… y no lo estaban. Así que volví al amanecer, y fue la mejor decisión: con la primera luz, los molinos y el castillo se ven espectaculares. Si puedes, ve a primera hora.</p></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve al atardecer</b>: la luz dorada sobre los molinos es la foto que todos buscan.</li><li><b>Lleva algo de abrigo</b>: en lo alto del cerro siempre sopla el viento (por algo hay molinos).</li><li><b>Ven en la fiesta del azafrán</b>: a finales de octubre se ven los molinos funcionando.</li><li><b>Combínalo con Toledo o Tembleque</b>: si haces ruta por La Mancha.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve al atardecer</b>: la luz dorada sobre los molinos es la foto que todos buscan.</li><li><b>Lleva algo de abrigo</b>: en lo alto del cerro siempre sopla el viento (por algo hay molinos).</li><li><b>Ven en la fiesta del azafrán</b>: a finales de octubre se ven los molinos funcionando.</li><li><b>Llévate algo dulce</b>: el mazapán de Consuegra (el obrador Peces lleva haciéndolo desde 1915) y un poco de azafrán.</li><li><b>Combínalo con Toledo o Tembleque</b>: si haces ruta por La Mancha.</li></ul></div>
 
 <!--faq-->
 
