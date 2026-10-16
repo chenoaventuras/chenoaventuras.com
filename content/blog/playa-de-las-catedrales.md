@@ -25,10 +25,29 @@ faq:
     a: "En Ribadeo (Lugo), en la costa norte de Galicia, muy cerca del límite con Asturias."
   - q: "¿Se puede ver la Playa de las Catedrales sin reserva?"
     a: "Desde arriba sí: el paseo por lo alto del acantilado es libre. La reserva solo es obligatoria para bajar a la arena en temporada alta."
+  - q: "¿Hay visitas guiadas a la Playa de las Catedrales?"
+    a: "Sí, sobre todo como excursiones de un día desde Lugo, Santiago o A Coruña, que suelen incluir la reserva de acceso y llegan a la hora de la marea baja. También hay paseos en lancha desde el mar. Si vas por tu cuenta, no necesitas guía: basta con la reserva gratuita (en temporada) y la tabla de mareas."
+  - q: "¿Dónde comer cerca de la Playa de las Catedrales?"
+    a: "Lo más cómodo es Ribadeo, a unos 10 minutos en coche, con restaurantes de marisco y cocina gallega muy bien valorados. Abajo tienes los mejores según las opiniones de Google Maps."
 actividades:
   - t: "Paseo en lancha por la playa de Las Catedrales"
     u: "https://www.civitatis.com/es/foz/paseo-lancha-playa-catedrales/"
 comer:
+  - n: "Restaurante O Piano"
+    r: 4.6
+    o: 3214
+    t: "Marisco y carne a la brasa"
+    d: "Avenida de las Américas (Ribadeo)"
+  - n: "Restaurante San Miguel"
+    r: 4.5
+    o: 2171
+    t: "Marisco, con vistas a la ría"
+    d: "Puerto deportivo de Porcillán (Ribadeo)"
+  - n: "O Lar de Manolo"
+    r: 4.5
+    o: 2085
+    t: "Cocina gallega"
+    d: "Rúa Irmáns Moreno Ulloa, 8 (Ribadeo)"
   - n: "A Horta de San Roque"
     r: 4.6
     o: 1744
@@ -45,6 +64,7 @@ Además, en temporada alta **hay que reservar**. Te explico cómo organizar la v
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Reserva</h3><p><strong>Gratis</strong>, pero <strong>obligatoria en Semana Santa y del 1 de julio al 30 de septiembre</strong>, en la web oficial de la Xunta, con hasta 30 días de antelación. El resto del año no hace falta reservar.</p></div>
 <div class="guide__tip"><h3>🌊 Mareas</h3><p>Lo importante es ir con la <strong>marea baja</strong>: solo entonces puedes bajar a la arena y pasar bajo los arcos. Ve un rato antes de la bajamar y sal antes de que suba.</p></div>
+<div class="guide__tip"><h3>🧭 Visita guiada</h3><p>No hace falta guía, pero si no quieres conducir hay <strong>excursiones de un día desde Lugo, Santiago o A Coruña</strong> que ya llevan la reserva y llegan con la marea baja. Otra opción: verla <strong>desde el mar en lancha</strong>.</p></div>
 <div class="guide__tip"><h3>👥 Aforo</h3><p>En los días con reserva hay un <strong>cupo diario</strong> de visitantes y en verano se agota rápido: reserva en cuanto sepas la fecha.</p></div>
 </div>
 
@@ -67,7 +87,7 @@ Además, en temporada alta **hay que reservar**. Te explico cómo organizar la v
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Playa de las Catedrales</h2></div>
 <div class="guide__howto"><p>Está en <strong>Ribadeo</strong>, en la costa de Lugo, casi en el límite con Asturias. Desde la autovía del Cantábrico (A-8) se llega en pocos minutos, con indicaciones a «Praia As Catedrais».</p><p>Arriba hay <strong>aparcamientos gratuitos</strong> junto al paseo. En verano y con la marea buena se llenan pronto: llega con margen.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Praia+As+Catedrais" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://ascatedrais.xunta.gal/monatr/inicio?lang=es" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Reserva oficial (Xunta)</a></div></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Elige bien la hora</b>: la web de reservas te dice la bajamar del día: ve un poco antes.</li><li><b>Calzado que se pueda mojar</b>: hay charcos y rocas con algas que resbalan.</li><li><b>No te alejes de la salida</b>: cuando sube la marea, el agua avanza rápido.</li><li><b>Fuera de temporada, mejor</b>: en otoño o primavera no hace falta reservar y hay mucha menos gente.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Elige bien la hora</b>: la web de reservas te dice la bajamar del día: ve un poco antes.</li><li><b>Calzado que se pueda mojar</b>: hay charcos y rocas con algas que resbalan.</li><li><b>No te alejes de la salida</b>: cuando sube la marea, el agua avanza rápido.</li><li><b>Come en Ribadeo</b>: está a 10 minutos y tiene buen marisco; si la bajamar es a mediodía, deja la comida para después.</li><li><b>Fuera de temporada, mejor</b>: en otoño o primavera no hace falta reservar y hay mucha menos gente.</li></ul></div>
 
 <!--faq-->
 

@@ -81,6 +81,13 @@ Te cuento cuánto cuesta, cómo entrar gratis y las curiosidades que no te puede
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Madruga y entra gratis</b>: de lunes a sábado de 8:30 a 9:30, con poca gente y una luz preciosa.</li><li><b>Sube a la torre</b>: desde arriba ves los tejados de la mezquita y toda la judería.</li><li><b>Repite de noche</b>: «El Alma de Córdoba» es un espectáculo de luz y sonido dentro del monumento.</li><li><b>Piérdete por la judería</b>: la calleja de las Flores y los patios están a dos pasos.</li></ul></div>
 
+<div class="guide__head"><span class="eyebrow">Qué ver en Córdoba</span><h2>Qué más ver cerca de la Mezquita</h2><p>Si tienes un día entero en Córdoba, combina la Mezquita con estos planes.</p></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🌉 Puente romano</h3><p>Sale justo frente a la Mezquita. Crúzalo hasta la <strong>Torre de la Calahorra</strong> y vuelve al atardecer: es la foto clásica de Córdoba (y salió en Juego de Tronos).</p></div>
+<div class="guide__tip"><h3>🌸 Judería y patios</h3><p>Callejuelas blancas, la Sinagoga y los <strong>patios llenos de flores</strong>. Te lo cuento todo en <a href="/blog/cordoba-patios-juderia.html">Córdoba: patios y judería</a>.</p></div>
+<div class="guide__tip"><h3>🏛️ Medina Azahara</h3><p>La ciudad-palacio de los califas, a unos 8 km. Si te ha gustado la Mezquita, no te la pierdas: <a href="/blog/medina-azahara.html">cómo visitar Medina Azahara</a>.</p></div>
+</div>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
