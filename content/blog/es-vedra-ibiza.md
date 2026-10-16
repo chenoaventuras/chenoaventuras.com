@@ -7,7 +7,7 @@ provincia: Islas Baleares
 lat: 38.8670
 lng: 1.2000
 excerpt: 'Es Vedrà (Ibiza): el islote de 382 metros, sus leyendas de magnetismo y luces, el mirador y la Torre des Savinar, Cala d''Hort, Sa Pedrera (Atlantis) con precaución y el mejor atardecer.'
-cover: /assets/img/blog/es-vedra-ibiza/portada.webp
+cover: /assets/img/blog/es-vedra-ibiza/portada.jpg
 tags:
   - Spots
   - Islas Baleares
@@ -64,7 +64,7 @@ Te cuento sus leyendas (las reales y las inventadas), los mejores miradores, có
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/torre-savinar.webp" alt="Torre des Savinar con Es Vedrà al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Torre des Savinar</h3><p>La «torre del pirata», una torre de vigilancia del siglo XVIII. Se llega en unos <strong>10 minutos</strong> cuesta arriba desde el mirador, y las vistas de Es Vedrà desde aquí son las mejores.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/atardecer-cala-dhort.webp" alt="Es Vedrà al atardecer desde la orilla de Cala d'Hort" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Desde Cala d'Hort</h3><p>Desde la propia playa, con los pies en el agua y el islote al frente. Perfecto para el baño de última hora.</p></div></li>
 </ol>
-<p><img src="/assets/img/blog/es-vedra-ibiza/contraluz.webp" alt="Es Vedrà a contraluz con el sol reflejado en el mar" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/es-vedra-ibiza/contraluz-atardecer.jpg" alt="Es Vedrà a contraluz al atardecer" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Playa</span><h2>Cala d'Hort</h2></div>
 <p><img src="/assets/img/blog/es-vedra-ibiza/cala-dhort.webp" alt="Cala d'Hort con agua turquesa en Ibiza" loading="lazy" decoding="async" /></p>
@@ -87,4 +87,4 @@ Te cuento sus leyendas (las reales y las inventadas), los mejores miradores, có
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta las normas de acceso a Sa Pedrera y a los espacios naturales en el Ayuntamiento de Sant Josep y el Govern balear antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Es_Vedr%C3%A0_2019-02-23.jpg" target="_blank" rel="noopener">Macondo</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Es_Vedr%C3%A0_i_es_Vedranell_2020-07-31.jpg" target="_blank" rel="noopener">Macondo</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Es_Vedr%C3%A0_At_Sunset_(118261255).jpeg" target="_blank" rel="noopener">Alex Kulikov</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Cala_d%27Hort,_Ibiza.jpg" target="_blank" rel="noopener">Gerda Arendt</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File:Torre_del_Pirata_o_des_Savinar.JPG" target="_blank" rel="noopener">LetoIbz</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:View_to_Torre_des_Savinar,_Ibiza.jpg" target="_blank" rel="noopener">Gerda Arendt</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File:Isla_de_Es_Vedr%C3%A1_(Ibiza)_(Spain)_-_50602030848.jpg" target="_blank" rel="noopener">Jose A.</a> (CC BY 2.0).</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta las normas de acceso a Sa Pedrera y a los espacios naturales en el Ayuntamiento de Sant Josep y el Govern balear antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Es_Vedr%C3%A0_At_Sunset_(118261255).jpeg" target="_blank" rel="noopener">Alex Kulikov</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Cala_d%27Hort,_Ibiza.jpg" target="_blank" rel="noopener">Gerda Arendt</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File:Torre_del_Pirata_o_des_Savinar.JPG" target="_blank" rel="noopener">LetoIbz</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:View_to_Torre_des_Savinar,_Ibiza.jpg" target="_blank" rel="noopener">Gerda Arendt</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File:Isla_de_Es_Vedr%C3%A1_(Ibiza)_(Spain)_-_50602030848.jpg" target="_blank" rel="noopener">Jose A.</a> (CC BY 2.0).</p>
