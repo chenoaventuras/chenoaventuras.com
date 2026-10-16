@@ -7,7 +7,7 @@ provincia: Islas Baleares
 lat: 38.9067
 lng: 1.4361
 excerpt: 'Dalt Vila, la ciudad vieja de Ibiza: ruta por las murallas y baluartes del siglo XVI, el Portal de ses Taules, la catedral, la necrópolis de Puig des Molins, Sa Penya y la Marina.'
-cover: /assets/img/blog/dalt-vila-ibiza/portada.jpg
+cover: /assets/img/blog/dalt-vila-ibiza/portada.webp
 tags:
   - Spots
   - Islas Baleares

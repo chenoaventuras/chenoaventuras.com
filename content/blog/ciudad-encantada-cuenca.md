@@ -6,7 +6,7 @@ lugar: 'Ciudad Encantada'
 lat: 40.2010
 lng: -1.9870
 excerpt: 'Ciudad Encantada de Cuenca: precio de la entrada, horario, la ruta de 3 km con sus formaciones más famosas (Tormo Alto, Tobogán, Mar de Piedra) y cómo llegar.'
-cover: /assets/img/blog/cuenca/ciudad-encantada-cheno.jpg
+cover: /assets/img/blog/cuenca/ciudad-encantada-cheno.webp
 coverPosition: center 40%
 tags:
   - Spots
@@ -65,9 +65,9 @@ Es una de las visitas imprescindibles de la **Serranía de Cuenca** y se hace en
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Las formaciones más famosas</h2><p>Cada roca tiene su nombre y su cartel. Estas son las que más fotos se llevan.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-tormo-alto-cheno.jpg" alt="El Tormo Alto, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Tormo Alto</h3><p>El símbolo de la Ciudad Encantada: una seta de roca gigante que se sostiene sobre un pie finísimo. Te recibe al empezar la ruta.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-tormo-alto-cheno.webp" alt="El Tormo Alto, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Tormo Alto</h3><p>El símbolo de la Ciudad Encantada: una seta de roca gigante que se sostiene sobre un pie finísimo. Te recibe al empezar la ruta.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-las-naves.webp" alt="Las Naves, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las Naves</h3><p>Bloques enormes y alargados que parecen cascos de barco varados entre los pinos.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-tobogan-cheno.jpg" alt="El Tobogán, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Tobogán</h3><p>Un pasillo estrecho entre dos paredes altísimas de roca. Uno de los tramos más chulos del recorrido.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-tobogan-cheno.webp" alt="El Tobogán, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Tobogán</h3><p>Un pasillo estrecho entre dos paredes altísimas de roca. Uno de los tramos más chulos del recorrido.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-mar-de-piedra.webp" alt="El Mar de Piedra, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Mar de Piedra</h3><p>Una gran superficie de roca ondulada que recuerda al fondo marino que fue hace millones de años.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-los-osos.webp" alt="Los Osos, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los Osos</h3><p>Dos rocas redondeadas que, con un poco de imaginación, parecen dos osos frente a frente.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/ce-elefante-cocodrilo.webp" alt="El elefante y el cocodrilo, Ciudad Encantada de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El elefante y el cocodrilo</h3><p>Dos figuras que parecen enzarzadas en una pelea, con un arco de roca entre los troncos.</p></div></li>

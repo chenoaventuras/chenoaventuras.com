@@ -6,7 +6,7 @@ lugar: 'Besalú'
 lat: 42.199
 lng: 2.699
 excerpt: 'Qué ver en Besalú (Girona): el puente románico fortificado sobre el Fluvià, la judería con su miqvé (uno de los pocos baños rituales judíos conservados en Europa), sus calles medievales y Castellfollit de la Roca.'
-cover: /assets/img/blog/besalu-que-ver/portada.jpg
+cover: /assets/img/blog/besalu-que-ver/portada.webp
 tags:
   - Pueblos
   - Cataluña
@@ -65,9 +65,9 @@ Te cuento qué ver y cómo combinarlo con la zona volcánica de la Garrotxa 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Besalú</h2><p>Un pueblo medieval de los de verdad.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/puente-torre.jpg" alt="Puente románico de Besalú con su torre" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El puente románico</h3><p>Crúzalo andando y fíjate en la torre del centro: es la puerta de entrada a la villa medieval.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/puente-desde-rio.jpg" alt="El puente de Besalú desde la orilla del río Fluvià" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Desde el río</h3><p>Baja a la orilla del Fluvià para la foto clásica del puente reflejado en el agua.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/calle-medieval.jpg" alt="Calle medieval de piedra en Besalú" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las calles medievales</h3><p>Piedra, arcos y casas nobles. Piérdete por la judería y la plaza de la Llibertat.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/puente-torre.webp" alt="Puente románico de Besalú con su torre" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El puente románico</h3><p>Crúzalo andando y fíjate en la torre del centro: es la puerta de entrada a la villa medieval.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/puente-desde-rio.webp" alt="El puente de Besalú desde la orilla del río Fluvià" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Desde el río</h3><p>Baja a la orilla del Fluvià para la foto clásica del puente reflejado en el agua.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/calle-medieval.webp" alt="Calle medieval de piedra en Besalú" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las calles medievales</h3><p>Piedra, arcos y casas nobles. Piérdete por la judería y la plaza de la Llibertat.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/aerea.webp" alt="Vista aérea de Besalú y el río" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El conjunto histórico</h3><p>Visto desde arriba se entiende cómo la villa crecía protegida por el río y las murallas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/noche.webp" alt="Rincón de Besalú iluminado de noche" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Besalú de noche</h3><p>Cuando se van los visitantes de día, el pueblo iluminado tiene un encanto especial.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/besalu-que-ver/castellfollit.webp" alt="Castellfollit de la Roca sobre su risco de basalto" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Castellfollit de la Roca</h3><p>A 15 minutos, un pueblo encaramado sobre un acantilado de basalto de unos 50 metros. Puro paisaje volcánico.</p></div></li>

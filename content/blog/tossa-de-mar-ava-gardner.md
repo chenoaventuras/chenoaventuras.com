@@ -6,7 +6,7 @@ lugar: 'Tossa de Mar'
 lat: 41.7206
 lng: 2.9319
 excerpt: 'En 1950 Ava Gardner rodó en Tossa de Mar «Pandora y el holandés errante», y el pueblo le dedicó una estatua. La historia, la Vila Vella amurallada y qué ver.'
-cover: /assets/img/blog/tossa-de-mar-ava-gardner/vila-vella-mar.jpg
+cover: /assets/img/blog/tossa-de-mar-ava-gardner/vila-vella-mar.webp
 tags:
   - Pueblos
   - Cataluña
@@ -62,8 +62,8 @@ Te cuento la historia y qué ver en su espectacular **Vila Vella** amurallada �
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Tossa de Mar</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/ava.webp" alt="Estatua de Ava Gardner en Tossa de Mar" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La estatua de Ava</h3><p>En lo alto de la Vila Vella, mirando al Mediterráneo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/torre-muralla.jpg" alt="Torre y murallas de la Vila Vella de Tossa" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las murallas</h3><p>Entra por el portal y sube entre torres medievales.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/vista-desde-vila-vella.jpg" alt="Tossa de Mar y su playa desde la Vila Vella" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El mirador</h3><p>Desde la iglesia vieja y el faro, vistas de toda la bahía.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/torre-muralla.webp" alt="Torre y murallas de la Vila Vella de Tossa" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las murallas</h3><p>Entra por el portal y sube entre torres medievales.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tossa-de-mar-ava-gardner/vista-desde-vila-vella.webp" alt="Tossa de Mar y su playa desde la Vila Vella" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El mirador</h3><p>Desde la iglesia vieja y el faro, vistas de toda la bahía.</p></div></li>
 </ol>
 
 

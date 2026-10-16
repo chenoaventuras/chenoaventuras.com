@@ -6,7 +6,7 @@ lugar: 'Alquézar'
 lat: 42.1716
 lng: 0.0249
 excerpt: 'Pasarelas de Alquézar (Huesca): la ruta circular sobre el cañón del río Vero, precio, horarios y qué ver en Alquézar, uno de los pueblos más bonitos de España.'
-cover: /assets/img/blog/pasarelas-de-alquezar/portada.jpg
+cover: /assets/img/blog/pasarelas-de-alquezar/portada.webp
 tags:
   - Actividades
   - Aragón
@@ -56,10 +56,10 @@ Te cuento cómo hacerla y qué ver en **Alquézar** antes o después 👇
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Alquézar</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/pasarelas-roca.jpg" alt="Pasarelas de Alquézar pegadas a la pared del cañón del Vero" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las pasarelas</h3><p>Tramos de pasarela metálica pegados a la pared del cañón, sobre el río. El momento estrella de la ruta.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/rio-vero.jpg" alt="Río Vero en Alquézar" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El río Vero</h3><p>Agua turquesa y pozas entre paredes de roca.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/presa-cascada.jpg" alt="Presa del río Vero en Alquézar, con el agua cayendo en cascada" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La presa y el azud</h3><p>Un rincón con una pequeña presa y una cascada. Uno de los puntos más fotografiados.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/rio-vero.webp" alt="Río Vero en Alquézar" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El río Vero</h3><p>Agua turquesa y pozas entre paredes de roca.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/presa-cascada.webp" alt="Presa del río Vero en Alquézar, con el agua cayendo en cascada" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La presa y el azud</h3><p>Un rincón con una pequeña presa y una cascada. Uno de los puntos más fotografiados.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/colegiata.webp" alt="Colegiata y castillo de Alquézar" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La colegiata</h3><p>El castillo-colegiata en lo alto del pueblo. Sube a verlo y asómate al cañón.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/calle-escaleras.jpg" alt="Calle empedrada con escaleras en Alquézar" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El pueblo</h3><p>Calles empedradas, casas de piedra y soportales. Considerado uno de los pueblos más bonitos de España.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/calle-escaleras.webp" alt="Calle empedrada con escaleras en Alquézar" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El pueblo</h3><p>Calles empedradas, casas de piedra y soportales. Considerado uno de los pueblos más bonitos de España.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pasarelas-de-alquezar/barranquismo.webp" alt="Barranquismo en la Sierra de Guara" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Barranquismo en Guara</h3><p>Si quieres más aventura, contrata un descenso de barranco con guía. Hay para principiantes.</p></div></li>
 </ol>
 

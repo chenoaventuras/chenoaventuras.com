@@ -6,7 +6,7 @@ lugar: 'Laguna Negra'
 lat: 41.9969
 lng: -2.8475
 excerpt: 'Laguna Negra de Urbión (Soria): la leyenda de la laguna sin fondo que inspiró a Machado, cómo llegar desde Vinuesa, el bus del Paso de la Serrá y rutas a los Picos de Urbión.'
-cover: /assets/img/blog/laguna-negra-de-urbion/portada.jpg
+cover: /assets/img/blog/laguna-negra-de-urbion/portada.webp
 tags:
   - Spots
   - Castilla y León
@@ -52,10 +52,10 @@ Cuentan que no tiene fondo y que está conectada con el mar. Yo no me metería a
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la Laguna Negra</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/laguna-paredon.jpg" alt="Laguna Negra de Urbión con el paredón de roca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La laguna</h3><p>El agua negra al pie del circo glaciar. Rodéala por la senda y la pasarela de madera para verla desde todos los ángulos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/laguna-paredon.webp" alt="Laguna Negra de Urbión con el paredón de roca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La laguna</h3><p>El agua negra al pie del circo glaciar. Rodéala por la senda y la pasarela de madera para verla desde todos los ángulos.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/mirador-arriba.jpg" alt="Vista de la Laguna Negra desde el mirador superior" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El mirador de arriba</h3><p>Un sendero con escaleras sube junto a la pared hasta un mirador desde el que ves la laguna entera. Es la mejor foto.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/cascada-laguna.jpg" alt="Cascada de la Laguna Negra" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La cascada</h3><p>En primavera y tras las lluvias, el agua cae por la roca desde las lagunas de arriba. Con el deshielo es espectacular.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/pinar-urbion.jpg" alt="Pinar de pino silvestre junto a la Laguna Negra" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El pinar</h3><p>La subida desde el Paso de la Serrá va por uno de los grandes pinares de Soria. En otoño, con niebla, parece otro mundo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/cascada-laguna.webp" alt="Cascada de la Laguna Negra" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La cascada</h3><p>En primavera y tras las lluvias, el agua cae por la roca desde las lagunas de arriba. Con el deshielo es espectacular.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/pinar-urbion.webp" alt="Pinar de pino silvestre junto a la Laguna Negra" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El pinar</h3><p>La subida desde el Paso de la Serrá va por uno de los grandes pinares de Soria. En otoño, con niebla, parece otro mundo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/urbion.webp" alt="Picos de Urbión" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Los Picos de Urbión</h3><p>Desde la laguna sale la ruta a los <strong>Picos de Urbión</strong> (2.228 m), pasando por la Laguna Larga. Allí cerca nace el <strong>río Duero</strong>.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laguna-negra-de-urbion/vinuesa.webp" alt="Vinuesa, pueblo serrano de Soria" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Vinuesa</h3><p>El pueblo de la puerta del parque: casonas de piedra, la Casa del Parque y el embalse de la Cuerda del Pozo muy cerca.</p></div></li>
 </ol>

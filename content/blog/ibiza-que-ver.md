@@ -6,7 +6,7 @@ lugar: 'Ibiza'
 lat: 38.9067
 lng: 1.4206
 excerpt: 'Qué ver en Ibiza más allá de la fiesta: Dalt Vila, Es Vedrà y Cala d''Hort, Cala Salada, Ses Salines, Punta de sa Galera, Santa Eulària y los atardeceres de Sant Antoni, con ruta y consejos.'
-cover: /assets/img/blog/ibiza-que-ver/portada.jpg
+cover: /assets/img/blog/ibiza-que-ver/portada.webp
 tags:
   - Spots
   - Islas Baleares

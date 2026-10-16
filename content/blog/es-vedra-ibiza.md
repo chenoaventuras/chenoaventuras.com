@@ -7,7 +7,7 @@ provincia: Islas Baleares
 lat: 38.8670
 lng: 1.2000
 excerpt: 'Es Vedrà (Ibiza): el islote de 382 metros, sus leyendas de magnetismo y luces, el mirador y la Torre des Savinar, Cala d''Hort, Sa Pedrera (Atlantis) con precaución y el mejor atardecer.'
-cover: /assets/img/blog/es-vedra-ibiza/portada.jpg
+cover: /assets/img/blog/es-vedra-ibiza/portada.webp
 tags:
   - Spots
   - Islas Baleares
@@ -64,7 +64,7 @@ Te cuento sus leyendas (las reales y las inventadas), los mejores miradores, có
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/torre-savinar.webp" alt="Torre des Savinar con Es Vedrà al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La Torre des Savinar</h3><p>La «torre del pirata», una torre de vigilancia del siglo XVIII. Se llega en unos <strong>10 minutos</strong> cuesta arriba desde el mirador, y las vistas de Es Vedrà desde aquí son las mejores.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/es-vedra-ibiza/atardecer-cala-dhort.webp" alt="Es Vedrà al atardecer desde la orilla de Cala d'Hort" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Desde Cala d'Hort</h3><p>Desde la propia playa, con los pies en el agua y el islote al frente. Perfecto para el baño de última hora.</p></div></li>
 </ol>
-<p><img src="/assets/img/blog/es-vedra-ibiza/contraluz-atardecer.jpg" alt="Es Vedrà a contraluz al atardecer" loading="lazy" decoding="async" /></p>
+<p><img src="/assets/img/blog/es-vedra-ibiza/contraluz-atardecer.webp" alt="Es Vedrà a contraluz al atardecer" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Playa</span><h2>Cala d'Hort</h2></div>
 <p><img src="/assets/img/blog/es-vedra-ibiza/cala-dhort.webp" alt="Cala d'Hort con agua turquesa en Ibiza" loading="lazy" decoding="async" /></p>
