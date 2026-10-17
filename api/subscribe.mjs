@@ -154,7 +154,7 @@ export default async function handler(req, res) {
         return;
       }
       res.statusCode = 200;
-      res.json({ ok: true, confirm: true, ...(guide ? { guide: guide.file } : {}) });
+      res.json({ ok: true, confirm: true });
       return;
     }
 
@@ -220,8 +220,9 @@ export default async function handler(req, res) {
     }
 
     res.statusCode = 200;
-    // La ruta del PDF solo se entrega tras apuntarse (no aparece en el HTML de la página).
-    res.json({ ok: true, ...(guide ? { guide: guide.file } : {}) });
+    // La ruta del PDF NO se devuelve a la web: la guía solo llega por correo, así
+    // que no sirve inventarse un email para descargarla al momento.
+    res.json({ ok: true, ...(guide ? (alreadyHadGuide ? { already: true } : { sent: true }) : {}) });
   } catch (e) {
     res.statusCode = 500;
     res.json({ error: "Fallo al guardar el contacto" });

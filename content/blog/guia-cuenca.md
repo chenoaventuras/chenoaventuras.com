@@ -6,8 +6,8 @@ lugar: 'Cuenca'
 lat: 40.0704
 lng: -2.1374
 excerpt: 'Mi guía de Cuenca: qué ver en la ciudad, la tirolina, la vía ferrata, los quads y el barranquismo, y la Serranía con la Ciudad Encantada, Uña y el río Cuervo.'
-cover: /assets/img/instagram/17884520457664154.webp
-coverPosition: center 40%
+cover: /assets/img/blog/cuenca/catedral.webp
+coverPosition: center 30%
 tags:
   - Actividades
   - Castilla-La Mancha

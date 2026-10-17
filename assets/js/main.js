@@ -657,7 +657,6 @@
       ev.preventDefault();
       var box = f.closest("[data-guide-box]") || f.parentElement;
       var msg = box.querySelector("[data-guide-msg]");
-      var link = box.querySelector("[data-guide-link]");
       var btn = f.querySelector("button[type=submit]");
       var emailInput = f.querySelector('input[type="email"]');
       if (btn) btn.disabled = true;
@@ -676,17 +675,14 @@
             f.hidden = true;
             var legal = box.querySelector(".guidebox__legal");
             if (legal) legal.hidden = true;
-            var path = res.json && res.json.guide;
-            var confirm = res.json && res.json.confirm;
-            if (path && link) {
-              link.href = path;
-              link.hidden = false;
-              if (msg) msg.textContent = confirm
-                ? "¡Listo! Tu guía ya está disponible. Revisa tu correo y confirma tu suscripción:"
-                : "¡Listo! Tu guía ya está disponible (también te la he enviado por correo):";
-            } else if (msg) {
-              msg.textContent = confirm ? "¡Casi! Revisa tu correo y confirma tu suscripción." : "¡Listo! Te he enviado la guía por correo.";
-            }
+            var d = res.json || {};
+            if (msg) msg.textContent = d.confirm
+              ? "¡Casi listo! Te hemos enviado un correo para confirmar tu suscripción: pulsa el botón del correo y recibirás tu guía. Revisa también la carpeta de spam."
+              : d.already
+                ? "Esta guía ya te la enviamos antes. Búscala en tu correo (y en la carpeta de spam)."
+                : d.sent
+                  ? "¡Listo! Te hemos enviado la guía a tu correo. Revisa también la carpeta de spam."
+                  : "¡Listo! Te has apuntado a la newsletter.";
           } else {
             if (msg) msg.textContent = (res.json && res.json.error) || "No se pudo enviar. Inténtalo de nuevo.";
             if (btn) btn.disabled = false;

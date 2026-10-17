@@ -8,8 +8,8 @@ lugar: 'Pirineo Aragonés'
 lat: 42.57
 lng: -0.549
 excerpt: 'Mi guía completa del Pirineo Aragonés: 30 pueblos, rutas, cascadas e ibones del Valle de Tena, Ordesa, Jaca, Benasque y Guara, con cómo llegar y cuándo ir.'
-cover: /assets/img/instagram/17908806873244673.webp
-coverPosition: center 60%
+cover: /assets/img/blog/pirineo/cazadores-monte-perdido.webp
+coverPosition: center 50%
 tags:
   - Actividades
   - Aragón

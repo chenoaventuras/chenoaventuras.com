@@ -432,7 +432,6 @@ function guideBox(p) {
     </form>
     <p class="guidebox__legal">Al apuntarte aceptas recibir mi newsletter. Puedes darte de baja cuando quieras. <a href="/politica-privacidad.html">Política de privacidad</a>.</p>
     <p class="guidebox__msg" data-guide-msg hidden></p>
-    <a class="btn guidebox__dl" data-guide-link href="#" download hidden>Descargar la guía (PDF)</a>
   </div>
 </aside>
 `;

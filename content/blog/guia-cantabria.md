@@ -4,8 +4,8 @@ seoTitle: 'Guía de Cantabria gratis en PDF: qué ver y ruta de 5 días'
 date: 2026-10-17T10:00:00.000Z
 lugar: 'Cantabria'
 excerpt: 'Mi guía de Cantabria gratis en PDF: Santander, Cabárceno, Altamira, El Soplao, los Picos de Europa, la Costa Quebrada y sus pueblos más bonitos, con una ruta de 5 días.'
-cover: /assets/img/blog/parque-de-cabarceno/portada.webp
-coverPosition: center 50%
+cover: /assets/img/blog/costa-quebrada-urros-de-liencres/acantilado.webp
+coverPosition: center 45%
 tags:
   - Spots
   - Cantabria
