@@ -62,6 +62,8 @@ Te cuento cómo es, cuánto se tarda en salir y por qué es un plan perfecto par
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/laberinto-de-villapresente/portada.webp" alt="Pasillos del Laberinto de Villapresente" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los pasillos</h3><p>Muros de 2,5 metros: dentro pierdes totalmente la orientación.</p></div></li>
 </ol>
 
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Estás a 10 minutos de <a href="/blog/santillana-del-mar-que-ver.html">Santillana del Mar</a> y de la <a href="/blog/cueva-de-altamira-neocueva.html">Neocueva de Altamira</a>, y a 20 de los acantilados de la <a href="/blog/costa-quebrada-urros-de-liencres.html">Costa Quebrada</a>. Si vas con niños, el <a href="/blog/parque-de-cabarceno.html">Parque de Cabárceno</a> está a media hora.</p></div>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al laberinto</h2></div>
 <div class="guide__howto"><p>Desde <strong>Santander</strong>, unos 25 minutos por la A-67 hasta Torrelavega y después hacia Santillana del Mar.</p><p>Tiene aparcamiento propio.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laberinto%20de%20Villapresente%2C%20Cantabria" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

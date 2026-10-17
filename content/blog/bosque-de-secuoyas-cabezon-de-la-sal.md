@@ -64,6 +64,8 @@ Es gratis, fácil de visitar y está al lado de la autovía. Te cuento todo 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-secuoyas-cabezon-de-la-sal/entrada.webp" alt="Entrada al Parque de las Secuoyas del Monte Cabezón" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La entrada</h3><p>Con paneles que explican la historia del bosque.</p></div></li>
 </ol>
 
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>A unos 30 minutos tienes <a href="/blog/barcena-mayor-que-ver.html">Bárcena Mayor</a>, el pueblo de piedra donde termina la carretera, y la <a href="/blog/cueva-el-soplao.html">cueva El Soplao</a>. Hacia la costa, <a href="/blog/comillas-que-ver.html">Comillas</a> y <a href="/blog/san-vicente-de-la-barquera.html">San Vicente de la Barquera</a> están a un cuarto de hora.</p></div>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al bosque de secuoyas</h2></div>
 <div class="guide__howto"><p>Por la <strong>A-8</strong>, salida de Cabezón de la Sal / Comillas. El aparcamiento está junto a la carretera CA-135, a la entrada del bosque, y está señalizado.</p><p>Desde Santander son unos 40 minutos; desde Comillas, 10.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Bosque%20de%20Secuoyas%20del%20Monte%20Cabez%C3%B3n" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

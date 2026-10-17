@@ -75,6 +75,8 @@ Durante la Guerra Civil, la iglesia se usó como **cárcel**. Un uso muy alejado
 
 Se puede visitar **todo el año**. En **otoño** los bosques del valle de Iguña se ponen preciosos, y en **primavera** los prados están verdísimos. En invierno, con niebla, tiene un aire misterioso muy de *Los otros*.
 
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Muy cerca, a unos 20 minutos, tienes las <a href="/blog/cuevas-de-puente-viesgo.html">cuevas de Puente Viesgo</a>, con pinturas de hace más de 40.000 años, y a media hora <a href="/blog/barcena-mayor-que-ver.html">Bárcena Mayor</a>, uno de los pueblos más bonitos de Cantabria.</p></div>
+
 ## Cómo llegar
 
 Las Fraguas está junto a la **A-67**, la autovía Santander-Palencia. Desde **Santander** son unos **40 minutos**; desde **Torrelavega**, unos 20. Sal en **Arenas de Iguña / Las Fraguas** y sigue las indicaciones. Puedes ver la ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20San%20Jorge%2C%20Las%20Fraguas%2C%20Cantabria).

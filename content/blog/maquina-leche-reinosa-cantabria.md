@@ -88,6 +88,8 @@ Reinosa es la capital de la comarca de **Campoo**, y merece la pena quedarse un 
 - **Alto Campoo**, la estación de esquí de Cantabria, a media hora.
 - Y si sigues hacia Palencia, [Aguilar de Campoo](/blog/aguilar-de-campoo-que-ver.html) y su románico.
 
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Desde Reinosa tienes a mano el <a href="/blog/partenon-de-las-fraguas-cantabria.html">Partenón de Las Fraguas</a> y <a href="/blog/barcena-mayor-que-ver.html">Bárcena Mayor</a>, y bajando hacia la costa, las <a href="/blog/cuevas-de-puente-viesgo.html">cuevas de Puente Viesgo</a> y el <a href="/blog/parque-de-cabarceno.html">Parque de Cabárceno</a>.</p></div>
+
 ## Cómo llegar a Reinosa
 
 Reinosa está en el interior de Cantabria, a unos **50 minutos de Santander** por la **A-67**. También tiene **estación de tren**. Puedes ver su ubicación en [Google Maps](https://www.google.com/maps/search/?api=1&query=Reinosa%2C%20Cantabria).

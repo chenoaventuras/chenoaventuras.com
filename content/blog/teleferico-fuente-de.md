@@ -66,6 +66,8 @@ Te cuento cómo funciona, cuándo ir para no hacer horas de cola y qué rutas ha
 
 <!--actividades-->
 
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>De camino a Fuente Dé pasas por <a href="/blog/potes-santo-toribio-de-liebana.html">Potes y el Monasterio de Santo Toribio</a>, que guarda el mayor trozo de la cruz de Cristo, y antes, viniendo de la costa, por el <a href="/blog/desfiladero-de-la-hermida.html">Desfiladero de La Hermida</a>, el más largo de España.</p></div>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Fuente Dé</h2></div>
 <div class="guide__howto"><p>Desde <strong>Santander</strong>, unas 2 horas y media pasando por el desfiladero de La Hermida y Potes. Desde Potes son 25 minutos.</p><p>Hay un aparcamiento grande junto a la estación base, gratuito, que en agosto se llena pronto.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Telef%C3%A9rico%20de%20Fuente%20D%C3%A9" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
