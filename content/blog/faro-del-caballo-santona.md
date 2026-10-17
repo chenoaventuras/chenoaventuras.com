@@ -21,8 +21,6 @@ faq:
     a: 'Sí. En temporada salen barcos desde el puerto de Santoña que pasan junto al faro, y también hay excursiones en kayak.'
   - q: '¿Quién construyó el Faro del Caballo?'
     a: 'Los escalones los tallaron los presos del penal de Santoña. En 2013 los restauraron reclusos del penal de El Dueso.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Pokey"
     r: 4.9
@@ -39,6 +37,8 @@ actividades:
     u: "https://www.civitatis.com/es/santona/paseo-barco-costa-santona/"
   - t: "Visita a una fábrica de anchoas con degustación"
     u: "https://www.civitatis.com/es/santona/visita-fabrica-anchoas-degustacion/"
+guia: /assets/guias/guia-santander-chenoaventuras.pdf
+guiaTitulo: 'Guía Santander y alrededores en PDF'
 ---
 Un faro diminuto colgado de un acantilado, una cala de agua verde turquesa y **763 escalones** tallados en la roca para llegar hasta él. El **Faro del Caballo** es una de las rutas más espectaculares de Cantabria, y no apta para cualquier rodilla.
 

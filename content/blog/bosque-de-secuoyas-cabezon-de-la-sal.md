@@ -39,8 +39,8 @@ comer:
     t: "Bar restaurante"
     d: "Bo. Carrejo, 11"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
+guia: /assets/guias/guia-cantabria-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Comillas, San Vicente y El Soplao en PDF'
 ---
 Parece California, pero estás a 10 minutos de Comillas. En el **Monte Cabezón**, en Cantabria, hay un bosque de **secuoyas gigantes** que superan los 35 metros de altura y te hacen sentir diminuto.
 

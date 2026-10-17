@@ -39,8 +39,8 @@ comer:
     o: 255
     d: "C. las Infantas, 19"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
+guia: /assets/guias/guia-cantabria-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Comillas, San Vicente y El Soplao en PDF'
 ---
 Un pueblo marinero de Cantabria con una **casa de Gaudí** cubierta de girasoles, un palacio neogótico, un ángel gigante vigilando un cementerio en ruinas y una universidad que parece un castillo. **Comillas** es el pueblo modernista por excelencia del norte, y además tiene playa.
 

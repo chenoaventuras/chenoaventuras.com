@@ -21,8 +21,6 @@ faq:
     a: 'Se celebra el segundo fin de semana de noviembre. En 2026 es del 13 al 15 de noviembre. Está declarada de Interés Turístico Nacional.'
   - q: '¿Cuánto se tarda de Potes a Santo Toribio?'
     a: 'Son 3 km: unos 5 minutos en coche o 45 minutos andando cuesta arriba.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Asador Llorente"
     r: 4.7
@@ -44,6 +42,8 @@ actividades:
     u: "https://www.civitatis.com/es/potes/descenso-canones-potes/"
   - t: "Excursión a Potes, Santo Toribio y Fuente Dé desde Santander"
     u: "https://www.civitatis.com/es/santander/excursion-picos-europa/"
+guia: /assets/guias/guia-liebana-chenoaventuras.pdf
+guiaTitulo: 'Guía Picos de Europa en PDF'
 ---
 Puentes de piedra sobre el río Quiviesa, una torre medieval en mitad de la plaza y los Picos de Europa asomando al fondo. **Potes** es la capital de la comarca de **Liébana** y uno de los pueblos más bonitos de Cantabria.
 

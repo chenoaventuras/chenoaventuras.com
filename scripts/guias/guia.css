@@ -275,3 +275,13 @@ body { font-size: 14px; }
 .acts--here { margin: 12px 0 0; break-inside: avoid; }
 .article__body .acts--here h3 { font-size: 1rem; margin: 0 0 6px; }
 .acts--here .acts__list li a { padding: 7px 12px; font-size: .82rem; }
+
+.final__btn { display: inline-block; margin-top: 14px; padding: 10px 22px; border-radius: 999px; background: var(--gold-soft, #F4C70F);
+  color: #1d2b4f !important; font-weight: 700; font-size: .9rem; text-decoration: none !important; }
+.gauthor { display: flex; gap: 22px; align-items: center; margin-top: 24px; padding: 22px 24px; border-radius: 16px; background: #fff;
+  border: 1px solid rgba(29,43,79,.12); break-inside: avoid; }
+.gauthor .authorbox__img { width: 96px; height: 96px; border-radius: 50%; object-fit: cover; flex: none; }
+.gauthor .gauthor__btn { margin: 12px 0 4px; background: linear-gradient(90deg, #f58529, #dd2a7b 50%, #8134af); color: #fff !important; }
+.gauthor .authorbox__links { font-size: .85rem; }
+.gauthor { justify-content: flex-start; }
+.gauthor .authorbox__body { flex: 1; }

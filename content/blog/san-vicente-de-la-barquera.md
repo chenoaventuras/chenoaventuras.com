@@ -26,8 +26,6 @@ faq:
     a: 'Comillas y su Capricho de Gaudí (15 minutos), la cueva El Soplao (20 minutos), la playa de Oyambre (10 minutos) y, hacia el interior, los Picos de Europa por Potes y el desfiladero de La Hermida.'
   - q: '¿Qué es el sorropotún?'
     a: 'El guiso marinero típico de San Vicente: bonito, patata, cebolla y pimiento, cocinado a fuego lento. Lo hacían los pescadores en el barco y lo sirven muchos restaurantes del puerto.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Restaurante Sotavento"
     r: 4.8
@@ -50,6 +48,8 @@ actividades:
     u: "https://www.civitatis.com/es/san-vicente-de-la-barquera/tour-kayak-san-vicente-barquera/"
   - t: "Free tour por San Vicente de la Barquera"
     u: "https://www.civitatis.com/es/san-vicente-de-la-barquera/free-tour-san-vicente-barquera/"
+guia: /assets/guias/guia-cantabria-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Comillas, San Vicente y El Soplao en PDF'
 ---
 Una villa marinera con su castillo, una iglesia gótica en lo alto y un puente de 32 arcos sobre la ría. Y detrás, si el día está claro, **los Picos de Europa nevados**. Es una de las estampas más famosas de Cantabria.
 

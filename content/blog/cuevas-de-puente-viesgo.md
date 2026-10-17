@@ -19,8 +19,6 @@ faq:
     a: 'Uno de sus discos rojos se ha datado en más de 40.800 años, lo que lo sitúa entre las pinturas más antiguas del mundo.'
   - q: '¿Cómo se reservan las cuevas de Puente Viesgo?'
     a: 'En la web de Cuevas de Cantabria (cuevas.culturadecantabria.com) o en el 942 59 84 25. Conviene hacerlo con antelación, porque hay pocas plazas. Cada cueva cuesta 15 € (7,50 € la reducida).'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Bar Puente Viesgo"
     r: 4.9
@@ -33,6 +31,8 @@ comer:
     t: "Restaurante cántabro"
     d: "Carretera General, 18"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-santander-chenoaventuras.pdf
+guiaTitulo: 'Guía Santander y alrededores en PDF'
 ---
 Dentro de un monte con forma de cono hay manos pintadas en rojo hace más de **40.000 años**. La **cueva de El Castillo** guarda algunas de las pinturas rupestres más antiguas del mundo, y a diferencia de Altamira, **se puede visitar la original**.
 

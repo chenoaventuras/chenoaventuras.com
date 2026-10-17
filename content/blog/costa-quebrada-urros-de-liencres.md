@@ -19,8 +19,6 @@ faq:
     a: 'Con marea baja, que deja ver las capas de roca y las calas, y al atardecer, cuando la luz es más bonita.'
   - q: '¿Es Geoparque de la UNESCO la Costa Quebrada?'
     a: 'Sí. Fue declarada Geoparque Mundial de la UNESCO en 2023 por su geología.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Bellota y Garnacha"
     r: 4.6
@@ -33,6 +31,8 @@ comer:
     t: "Bocatería"
     d: "Bo. la Iglesia, 2"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-santander-chenoaventuras.pdf
+guiaTitulo: 'Guía Santander y alrededores en PDF'
 ---
 Islotes de roca que salen del mar como torres, láminas de piedra inclinadas que parecen las páginas de un libro y calas que solo aparecen con la marea baja. La **Costa Quebrada** es el tramo de costa más fotogénico de Cantabria.
 

@@ -39,8 +39,8 @@ comer:
     o: 1008
     t: "Restaurante mediterráneo"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
+guia: /assets/guias/guia-cantabria-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Comillas, San Vicente y El Soplao en PDF'
 ---
 Más de **5 kilómetros** de pasillos entre muros de ciprés de **2,5 metros** de alto. El **Laberinto de Villapresente**, en Cantabria, es el **laberinto vegetal más grande de España**.
 

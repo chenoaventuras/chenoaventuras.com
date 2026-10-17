@@ -29,6 +29,15 @@ TYPES = {"Pueblos": "Pueblo", "Spots": "Spot", "Rutas": "Ruta", "Actividades": "
 PIN = '<svg class="ico" viewBox="0 0 24 24" width="13" height="13" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg>'
 
 
+# cierre de todas las guías: quién soy y enlace a Instagram
+AUTHOR = ('<aside class="authorbox gauthor keep"><img class="authorbox__img" src="assets/img/cheno-perfil-192.webp" alt="" />'
+          '<div class="authorbox__body"><p class="authorbox__name">Cheno · Chenoaventuras</p>'
+          '<p>Lugares de interés para personas aventureras.</p>'
+          '<a class="final__btn gauthor__btn" href="https://www.instagram.com/chenoaventuras/">Sígueme en Instagram · @chenoaventuras</a>'
+          '<p class="authorbox__links"><a href="https://www.tiktok.com/@chenoaventuras">TikTok</a> · <a href="https://www.youtube.com/channel/UC_IpsXQB1ky-HUaDFePSPFg">YouTube</a> · <a href="https://www.chenoaventuras.com/">chenoaventuras.com</a></p>'
+          '</div></aside>')
+
+
 def load_posts():
     js = r"""const fs=require("fs"),m=require("gray-matter"),{marked}=require("marked"),d0=process.argv[1];const o={};
 marked.setOptions({gfm:true,breaks:false});
@@ -333,6 +342,14 @@ def build(key, posts, tmp):
                  '<a href="https://www.chenoaventuras.com/blog.html">chenoaventuras.com</a> y en Instagram '
                  '<a href="https://www.instagram.com/chenoaventuras/">@chenoaventuras</a> te lo enseño en vídeo.</p></div>')
     intro = "".join(f'<p class="intro-p">{md(p)}</p>' for p in z["intro"])
+    # guías cortas: al final, enlace al post de la guía completa de su región
+    full = ""
+    if z.get("completa"):
+        nom, url = z["completa"]
+        full = (f'<div class="guide__plan final keep"><span class="eyebrow" style="color:var(--gold-soft)">¿Vas a ver más?</span>'
+                f'<h2>Descarga la Guía {e(nom)} completa</h2>'
+                f'<p class="final__end">Esta es una guía corta. La guía completa de {e(nom)}, con todos los lugares y una ruta por toda la región, '
+                f'la tienes gratis en mi web.</p><a class="final__btn" href="{e(url)}">Descargar la guía completa →</a></div>')
     toc = f'<div class="toc"><div class="guide__head"><span class="eyebrow">En esta guía</span><h2>{len(places)} lugares imprescindibles</h2></div><ol>{index}</ol></div>'
 
     # colocaciones posibles de ruta/índice/actividades: (antes de los capítulos, después)
@@ -367,6 +384,8 @@ def build(key, posts, tmp):
   {head}
   {chapters}
   {tail}
+  {full}
+  {AUTHOR}
 </section>
 </body></html>"""
 

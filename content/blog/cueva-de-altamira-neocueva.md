@@ -21,8 +21,6 @@ faq:
     a: 'La cueva original está cerrada para protegerla. Solo entran 5 personas a la semana de una lista de espera antigua que ya no admite solicitudes. Lo que se visita es la Neocueva, una réplica exacta.'
   - q: '¿Quién descubrió las pinturas de Altamira?'
     a: 'María, la hija de Marcelino Sanz de Sautuola, que en 1879, con 8 años, vio los bisontes pintados en el techo mientras su padre exploraba la cueva.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Restaurante La Nueva Santuca"
     r: 4.8
@@ -45,6 +43,8 @@ actividades:
     u: "https://www.civitatis.com/es/santillana-del-mar/visita-guiada-altamira/"
   - t: "Excursión a Altamira y Santillana del Mar desde Santander"
     u: "https://www.civitatis.com/es/santander/excursion-altamira-santillana-del-mar/"
+guia: /assets/guias/guia-santander-chenoaventuras.pdf
+guiaTitulo: 'Guía Santander y alrededores en PDF'
 ---
 Bisontes rojos y negros pintados hace más de 14.000 años, aprovechando los bultos del techo para darles volumen. La **Cueva de Altamira** fue la primera en la que se reconoció el arte rupestre paleolítico, y por eso la llaman la **Capilla Sixtina del arte prehistórico**.
 

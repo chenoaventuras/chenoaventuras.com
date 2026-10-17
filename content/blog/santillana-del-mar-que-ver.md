@@ -41,8 +41,8 @@ comer:
     t: "Restaurante cántabro"
     d: "C. de la Carrera, 6"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
+guia: /assets/guias/guia-santander-chenoaventuras.pdf
+guiaTitulo: 'Guía Santander y alrededores en PDF'
 ---
 Dicen que **Santillana del Mar** es la villa de las tres mentiras: **ni es santa, ni es llana, ni tiene mar**. Y aun así es uno de los pueblos más buscados de España, y en cuanto pisas sus calles empedradas entiendes por qué.
 

@@ -23,8 +23,6 @@ faq:
     a: 'Sí. Se visita con tu propio coche por las carreteras interiores, aparcando junto a cada recinto. Además está la telecabina, incluida en la entrada.'
   - q: '¿Qué horario tiene el Parque de Cabárceno?'
     a: 'Las taquillas abren de 9:30 a 18:00 de marzo a octubre (desde las 9:00 en julio y agosto). De noviembre a febrero cierran a las 17:00 entre semana. Conviene confirmarlo en la web oficial antes de ir.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Restaurante los Renos"
     r: 4.3
@@ -35,6 +33,8 @@ comerFecha: "octubre de 2026"
 actividades:
   - t: "Entrada al Parque de la Naturaleza de Cabárceno"
     u: "https://www.getyourguide.es/santander-l95/obregon-ticket-de-entrada-al-parque-de-la-naturaleza-de-cabarceno-t485562/"
+guia: /assets/guias/guia-santander-chenoaventuras.pdf
+guiaTitulo: 'Guía Santander y alrededores en PDF'
 ---
 Elefantes paseando entre rocas que parecen esculpidas, osos pardos en un recinto más grande que muchos pueblos y una telecabina que te lleva por encima de todo. El **Parque de la Naturaleza de Cabárceno** no es un zoo al uso: son **750 hectáreas** de una antigua mina de hierro reconvertida en refugio para más de **120 especies** de los cinco continentes.
 

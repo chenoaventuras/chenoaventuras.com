@@ -39,8 +39,8 @@ comer:
     r: 4.4
     o: 1993
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
+guia: /assets/guias/guia-liebana-chenoaventuras.pdf
+guiaTitulo: 'Guía Picos de Europa en PDF'
 ---
 En **menos de 4 minutos** pasas de un valle verde a un mundo de roca a **1.823 metros**. El **teleférico de Fuente Dé**, en Picos de Europa, salva **753 metros de desnivel** en un solo tramo, sin apoyos intermedios. Es el **teleférico de tramo único más largo de Europa**.
 

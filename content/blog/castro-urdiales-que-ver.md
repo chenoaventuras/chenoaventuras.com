@@ -19,8 +19,6 @@ faq:
     a: 'El conjunto del puerto: la iglesia gótica de Santa María de la Asunción, el castillo-faro de Santa Ana y el puente medieval.'
   - q: '¿Cuánto hay de Bilbao a Castro Urdiales?'
     a: 'Unos 30 km, alrededor de media hora en coche por la A-8.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Origen Castro-Urdiales"
     r: 4.7
@@ -41,6 +39,8 @@ comerFecha: "octubre de 2026"
 actividades:
   - t: "Visita guiada por Castro Urdiales"
     u: "https://www.civitatis.com/es/castro-urdiales/visita-guiada-castro-urdiales/"
+guia: /assets/guias/guia-santander-chenoaventuras.pdf
+guiaTitulo: 'Guía Santander y alrededores en PDF'
 ---
 Una iglesia gótica que parece una catedral, un castillo que hace de faro y un puente medieval sobre las rocas, todo junto al mar. El conjunto del puerto de **Castro Urdiales** es una de las postales más bonitas del Cantábrico.
 

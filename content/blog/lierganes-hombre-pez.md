@@ -19,8 +19,6 @@ faq:
     a: 'Son los montes gemelos Marimón y Cotillamón, que por su forma redondeada reciben ese nombre popular.'
   - q: '¿Qué ver en Liérganes?'
     a: 'El Puente Mayor, la estatua del Hombre Pez, las casonas del casco histórico, la iglesia de San Pantaleón y el paseo del río Miera.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Restaurante El Ojo del Ábrego"
     r: 4.5
@@ -33,6 +31,8 @@ comer:
     t: "Hamburguesería"
     d: "Jan Curtius, 2"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-santander-chenoaventuras.pdf
+guiaTitulo: 'Guía Santander y alrededores en PDF'
 ---
 En 1674, un joven de este pueblo se tiró a nadar y desapareció. Cinco años después, unos pescadores de **Cádiz** sacaron del mar a un ser con aspecto de hombre, escamas y membranas entre los dedos, que solo sabía decir una palabra: **«Liérganes»**.
 

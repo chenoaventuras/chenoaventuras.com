@@ -19,8 +19,6 @@ faq:
     a: 'Cocido montañés, el plato típico de Cantabria: alubia blanca, berza y compango. Varios restaurantes del pueblo son famosos por él.'
   - q: '¿Por qué es famoso Bárcena Mayor?'
     a: 'Por conservar casi intacta la arquitectura de un pueblo de montaña. Es Conjunto Histórico-Artístico desde 1979 y el único pueblo dentro del Parque Natural Saja-Besaya.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Restaurante La Solana de Bárcena Mayor"
     r: 4.6
@@ -37,6 +35,8 @@ comer:
     t: "Restaurante"
     d: "Barrio el Puente, 68"
 comerFecha: "octubre de 2026"
+guia: /assets/guias/guia-cantabria-interior-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria interior en PDF'
 ---
 Calles empedradas, casas de piedra con balcones de madera llenos de flores y un río que pasa bajo un puente de piedra. Y nada más, porque aquí **termina la carretera**. **Bárcena Mayor** es el único pueblo dentro del **Parque Natural Saja-Besaya** y uno de los más bonitos de España.
 

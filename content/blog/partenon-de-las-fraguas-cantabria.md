@@ -37,8 +37,8 @@ comer:
     t: "Taberna"
     d: "Pl. la Bolera, 2"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
+guia: /assets/guias/guia-cantabria-interior-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria interior en PDF'
 ---
 Entre montañas y prados del **valle de Iguña**, en Cantabria, hay un edificio que parece teletransportado desde Grecia. Lo llaman el **«Partenón cántabro»**, y la primera vez que lo ves aparecer entre los árboles cuesta creer que estás en el norte de España.
 

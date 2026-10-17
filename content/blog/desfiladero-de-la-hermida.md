@@ -19,8 +19,6 @@ faq:
     a: 'En el monte Hozarcu, en el municipio de Peñarrubia, sobre el desfiladero. Se sube en coche desde Linares.'
   - q: '¿Hay aguas termales en La Hermida?'
     a: 'Sí. Brotan a unos 60 ºC y se aprovechan en el balneario del pueblo de La Hermida.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "La Juana"
     r: 4.8
@@ -37,6 +35,8 @@ actividades:
     u: "https://www.civitatis.com/es/san-vicente-de-la-barquera/via-ferrata-desfiladero-hermida/"
   - t: "Barranquismo en La Hermida"
     u: "https://www.civitatis.com/es/san-vicente-de-la-barquera/barranquismo-hermida/"
+guia: /assets/guias/guia-liebana-chenoaventuras.pdf
+guiaTitulo: 'Guía Picos de Europa en PDF'
 ---
 Paredes de caliza de hasta **600 metros** que casi se tocan, el río Deva rugiendo abajo y una carretera que se cuela por donde puede. El **Desfiladero de La Hermida** es el más largo de España: unos **21 km** de cañón que separan la costa del valle de Liébana.
 

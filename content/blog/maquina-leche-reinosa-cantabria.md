@@ -42,8 +42,8 @@ comer:
     t: "Bar restaurante"
     d: "C. Ángel de los Ríos, 14"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
+guia: /assets/guias/guia-cantabria-interior-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria interior en PDF'
 ---
 Hay curiosidades que encuentras por casualidad y que te alegran el viaje. En **Reinosa**, en el corazón de Cantabria, hay una **máquina que despacha leche recién ordeñada** de vacas de la zona, como si fuera una fuente pública. Echas la moneda, pones la botella y listo.
 

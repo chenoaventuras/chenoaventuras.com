@@ -21,8 +21,6 @@ faq:
     a: 'Porque, cuando los mineros abrieron la galería que dio con la cueva, salía una corriente de aire, como si la montaña soplara.'
   - q: '¿Qué son las helictitas?'
     a: 'Son formaciones de la cueva que crecen en cualquier dirección, sin seguir la gravedad. El Soplao tiene una de las mayores concentraciones del mundo.'
-guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
-guiaTitulo: 'Guía Cantabria en PDF'
 comer:
   - n: "Restaurante La Portilla"
     r: 4.7
@@ -39,6 +37,8 @@ actividades:
     u: "https://www.civitatis.com/es/san-vicente-de-la-barquera/visita-guiada-cueva-soplao/"
   - t: "Excursión a El Soplao desde Santander"
     u: "https://www.civitatis.com/es/santander/excursion-cueva-soplao/"
+guia: /assets/guias/guia-cantabria-occidental-chenoaventuras.pdf
+guiaTitulo: 'Guía Comillas, San Vicente y El Soplao en PDF'
 ---
 Estalactitas que crecen hacia los lados, como si la gravedad no existiera. Eso son las **helictitas**, y la **Cueva El Soplao** tiene una de las mayores concentraciones del mundo. Por algo la llaman la «capilla sixtina de la geología».
 
