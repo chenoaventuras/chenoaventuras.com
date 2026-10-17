@@ -33,8 +33,8 @@ comer:
     d: "C. Vía, 8 (Obregón)"
 comerFecha: "octubre de 2026"
 actividades:
-  - t: "Excursión a Cabárceno desde Santander"
-    u: "https://www.civitatis.com/es/santander/excursion-cabarceno/"
+  - t: "Entrada al Parque de la Naturaleza de Cabárceno"
+    u: "https://www.getyourguide.es/santander-l95/obregon-ticket-de-entrada-al-parque-de-la-naturaleza-de-cabarceno-t485562/"
 ---
 Elefantes paseando entre rocas que parecen esculpidas, osos pardos en un recinto más grande que muchos pueblos y una telecabina que te lleva por encima de todo. El **Parque de la Naturaleza de Cabárceno** no es un zoo al uso: son **750 hectáreas** de una antigua mina de hierro reconvertida en refugio para más de **120 especies** de los cinco continentes.
 
