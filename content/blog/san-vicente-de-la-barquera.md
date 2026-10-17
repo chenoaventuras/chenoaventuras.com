@@ -12,6 +12,7 @@ tags:
   - Pueblos
   - Cantabria
 wide: true
+faqTitulo: 'Dudas sobre San Vicente de la Barquera'
 faq:
   - q: '¿Cuándo es La Folía de San Vicente de la Barquera?'
     a: 'El domingo siguiente a la Semana Santa. La hora exacta de la procesión marítima depende de la marea baja de la tarde. Está declarada de Interés Turístico Nacional.'
@@ -19,6 +20,12 @@ faq:
     a: 'Tiene 32 arcos u ojos. Se construyó en el siglo XV sobre la ría de San Vicente.'
   - q: '¿Desde dónde se ven los Picos de Europa en San Vicente?'
     a: 'Desde el Puente de la Maza, el castillo y el entorno de Santa María de los Ángeles, en días despejados.'
+  - q: '¿Qué playas hay en San Vicente de la Barquera?'
+    a: 'La más famosa es Merón, un arenal de unos 3,5 km abierto al mar y muy bueno para el surf. Junto a ella está El Rosal, más tranquila, en la boca de la ría. A unos 10 minutos en coche tienes Oyambre, dentro de un parque natural.'
+  - q: '¿Qué ver cerca de San Vicente de la Barquera?'
+    a: 'Comillas y su Capricho de Gaudí (15 minutos), la cueva El Soplao (20 minutos), la playa de Oyambre (10 minutos) y, hacia el interior, los Picos de Europa por Potes y el desfiladero de La Hermida.'
+  - q: '¿Qué es el sorropotún?'
+    a: 'El guiso marinero típico de San Vicente: bonito, patata, cebolla y pimiento, cocinado a fuego lento. Lo hacían los pescadores en el barco y lo sirven muchos restaurantes del puerto.'
 guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria en PDF'
 comer:
@@ -73,10 +80,24 @@ Una villa marinera con su castillo, una iglesia gótica en lo alto y un puente d
 
 <!--actividades-->
 
+<div class="guide__head"><span class="eyebrow">Playas</span><h2>Playas de San Vicente de la Barquera</h2><p>Arenales enormes con los Picos de fondo.</p></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🏄 Merón</h3><p>La playa del pueblo: unos <strong>3,5 km de arena</strong> abierta al mar. Ideal para <strong>surf</strong> y para pasear con la marea baja.</p></div>
+<div class="guide__tip"><h3>🌊 El Rosal</h3><p>En la boca de la ría, justo enfrente de la villa. Más <strong>resguardada</strong> y con aguas tranquilas: buena con niños.</p></div>
+<div class="guide__tip"><h3>🌿 Oyambre</h3><p>A <strong>10 minutos en coche</strong>, dentro del Parque Natural de Oyambre: dunas, marismas y mucho menos urbanismo.</p></div>
+</div>
+
+<div class="guide__head"><span class="eyebrow">Alrededores</span><h2>Qué ver cerca de San Vicente de la Barquera</h2></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🦎 Comillas</h3><p>A 15 minutos: el Capricho de Gaudí y el palacio de Sobrellano. Te lo cuento en <a href="/blog/comillas-que-ver.html">qué ver en Comillas</a>.</p></div>
+<div class="guide__tip"><h3>💎 El Soplao</h3><p>A 20 minutos, una cueva llena de formaciones imposibles: <a href="/blog/cueva-el-soplao.html">cómo visitar El Soplao</a>.</p></div>
+<div class="guide__tip"><h3>⛰️ Picos de Europa</h3><p>Hacia el interior, por el desfiladero de La Hermida, llegas a <a href="/blog/potes-santo-toribio-de-liebana.html">Potes y Santo Toribio</a>.</p></div>
+</div>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a San Vicente de la Barquera</h2></div>
 <div class="guide__howto"><p>En <strong>coche</strong>, por la <strong>A-8</strong>, salida San Vicente de la Barquera. Desde Santander son unos 45 minutos.</p><p>En <strong>autobús</strong>, hay líneas desde Santander y Oviedo. Y si haces el <strong>Camino del Norte</strong>, entrarás por el Puente de la Maza.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=San%20Vicente%20de%20la%20Barquera%2C%20Cantabria" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira la marea</b>: con la marea alta la ría está preciosa; con la baja, se ven las barcas sobre la arena.</li><li><b>Busca un día despejado</b>: si no se ven los Picos, la foto pierde mucho.</li><li><b>Come sorropotún</b>: es el guiso marinero de bonito y patata típico del pueblo.</li><li><b>Combínalo</b>: con la cueva El Soplao (20 minutos) o Comillas (15 minutos).</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira la marea</b>: con la marea alta la ría está preciosa; con la baja, se ven las barcas sobre la arena.</li><li><b>Busca un día despejado</b>: si no se ven los Picos, la foto pierde mucho.</li><li><b>Come sorropotún</b>: es el guiso marinero de bonito y patata típico del pueblo.</li><li><b>Aparca fuera del centro</b>: en verano el casco se llena; deja el coche junto a la playa de Merón o a la entrada de la villa y cruza andando el Puente de la Maza.</li><li><b>Combínalo</b>: con la cueva El Soplao (20 minutos) o Comillas (15 minutos).</li></ul></div>
 
 <!--faq-->
 

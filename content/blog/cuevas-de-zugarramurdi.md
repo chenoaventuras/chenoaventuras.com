@@ -23,6 +23,23 @@ faq:
   - q: "¿Qué ver cerca de Zugarramurdi?"
     a: "Las Cuevas de Urdax, a 4 km, y los pueblos del Valle de Baztán como Elizondo o Arizkun. También las cuevas de Sare, al otro lado de la frontera."
 guia: /assets/guias/guia-navarra-chenoaventuras.pdf
+comer:
+  - n: "Restaurant Urtxola"
+    r: 4.7
+    o: 1016
+    t: "Cocina vasca"
+    d: "Route des ventas, s/n (junto a la frontera)"
+  - n: "Muga Gabe"
+    r: 4.7
+    o: 468
+    t: "Cocina vasca"
+    d: "C. Lapiztegia, 1 (Zugarramurdi)"
+  - n: "Restaurante Urbia"
+    r: 4.4
+    o: 655
+    t: "Parrilla"
+    d: "Salvatore Karrika, 33 (Urdax)"
+comerFecha: "octubre de 2026"
 guiaTitulo: 'Guía Navarra en PDF'
 ---
 Un riachuelo que atraviesa la montaña, una cueva enorme abierta por el agua y un pueblo de caseríos blancos en la frontera con Francia. En **Zugarramurdi** se juntaron hace cuatro siglos la superstición, los chivatazos entre vecinos y la Inquisición, y el resultado fue uno de los juicios por brujería más famosos de Europa.
