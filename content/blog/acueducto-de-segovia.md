@@ -26,6 +26,8 @@ faq:
     a: "Lo construyeron los romanos a finales del siglo I o principios del II, y funcionó hasta bien entrado el siglo XX."
   - q: "¿Cómo llegar a Segovia desde Madrid?"
     a: "En AVE en menos de media hora hasta Segovia-Guiomar, y de allí en autobús urbano al Acueducto. En coche, algo más de una hora por la AP-6/AP-61."
+  - q: "¿Cuándo son las fiestas de Segovia?"
+    a: "Las fiestas mayores son las de San Juan y San Pedro, en la última semana de junio: los días grandes son el 24 (San Juan) y el 29 (San Pedro), festivos locales en la ciudad. Las fechas exactas y el programa cambian cada año y el Ayuntamiento los publica a principios de junio."
   - q: "¿Dónde aparcar cerca del Acueducto de Segovia?"
     a: "En los aparcamientos cercanos al Acueducto o en las afueras: el centro se recorre mejor a pie."
 actividades:
@@ -77,6 +79,9 @@ Te cuento qué ver, las mejores vistas y algunos trucos para la visita 👇
 
 
 <!--actividades-->
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de San Juan y San Pedro</h2></div>
+<p>Las fiestas mayores de Segovia se celebran en la <strong>última semana de junio</strong>, entre <strong>San Juan (24 de junio)</strong> y <strong>San Pedro (29 de junio)</strong>, los dos festivos locales. Hay conciertos en la Plaza Mayor y en el recinto ferial, verbenas por el casco histórico, gigantes y cabezudos, hogueras de San Juan en los barrios y fuegos artificiales.</p><div class="guide__legend"><h3>📅 Las fechas cambian cada año</h3><p>Los días grandes siempre son el 24 y el 29, pero el programa completo varía. El <strong>Ayuntamiento lo publica a principios de junio</strong>: míralo antes de ir y reserva alojamiento con tiempo, porque esos días la ciudad se llena.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Segovia</h2></div>
 <div class="guide__howto"><p>En <strong>AVE</strong> desde Madrid tardas menos de media hora hasta la estación de Segovia-Guiomar; desde allí hay autobuses urbanos al Acueducto. En coche, algo más de una hora por la AP-6/AP-61.</p><p>El centro es para recorrerlo a pie: deja el coche en un aparcamiento cerca del Acueducto o en las afueras.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Acueducto+de+Segovia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.alcazardesegovia.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Horarios del Alcázar</a></div></div>
