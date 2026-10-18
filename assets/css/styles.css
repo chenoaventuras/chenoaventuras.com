@@ -1142,20 +1142,6 @@ p { margin: 0 0 1em; }
 /* mensaje de éxito de los formularios */
 .subscribe__ok { color: var(--gold-bright); font-weight: 600; margin-top: 12px; }
 
-/* embeds de Instagram (página Curiosidades) */
-.ig-embed-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px; margin-top: 34px; align-items: start;
-}
-.ig-card { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; min-height: 220px; padding: 22px; text-align: center; cursor: pointer;
-  border: 0; border-radius: var(--radius); color: #fff; box-shadow: var(--shadow-sm);
-  background: linear-gradient(135deg, #1f3e64, #3c6aa3 60%, #5a90cf); transition: transform .2s ease, box-shadow .2s ease; }
-.ig-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
-.ig-card__play { width: 54px; height: 54px; border-radius: 50%; background: var(--gold); color: var(--night); display: grid; place-items: center; font-size: 1.3rem; padding-left: 4px; }
-.ig-card__title { font-family: var(--font-head); font-weight: 700; font-size: 1.1rem; }
-.ig-card__note { font-size: .78rem; opacity: .8; max-width: 30ch; }
-
 /* =========================================================================
    BLOG lista
    ========================================================================= */

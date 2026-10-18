@@ -8,7 +8,6 @@ Sin framework ni paso de build: HTML + CSS + un JS pequeño. Se sirve tal cual
 
 ```
 index.html          Inicio (hero + curiosidades + destacados + equipo + descuentos + últimas publicaciones + newsletter)
-curiosidades.html   Vídeos de Instagram sobre curiosidades
 servicios.html      Servicios + #dron (certificación A1/A3) + #descuentos
 equipo.html         Equipo con el que viaja
 contacto.html       "Soy Cheno" + cifras + formulario (demo) — unifica Sobre mí y Contacto

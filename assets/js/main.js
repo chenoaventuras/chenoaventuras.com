@@ -338,11 +338,6 @@
     }
   }
 
-  /* Tarjetas de reels (página Curiosidades): Instagram solo se carga al pulsarlas. */
-  document.querySelectorAll("[data-ig-open]").forEach(function (b) {
-    b.addEventListener("click", function () { openIgModal(b.getAttribute("data-ig-open")); });
-  });
-
   /* ---------- Enlaces dentro de los posts del blog ----------
      Los reels/publicaciones de Instagram se abren con el mismo modal que
      usa la sección de Aventuras (sin salir de la web), y los de Google Maps

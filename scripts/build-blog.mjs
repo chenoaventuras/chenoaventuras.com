@@ -1200,7 +1200,6 @@ function renderSitemap(posts, destinos = []) {
     ["/blog.html", "0.8", "weekly", latest],
     ["/mapa.html", "0.8", "weekly", latest],
     ["/guias.html", "0.7", "weekly", latest],
-    ["/curiosidades.html", "0.8", "weekly", null],
     ["/servicios.html", "0.7", "monthly", null],
     ["/equipo.html", "0.6", "monthly", null],
     ["/contacto.html", "0.6", "monthly", null],
