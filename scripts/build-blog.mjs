@@ -127,7 +127,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261019b"></script>
+  <script src="/assets/js/main.js?v=20261019c"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog", mainClass = "" }) {
@@ -160,7 +160,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261019a" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261019c" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -428,7 +428,7 @@ function guideBox(p) {
   <div class="guidebox__action">
     <form class="guideform" data-guide-source="${esc(p.slug)}">
       <input type="email" placeholder="Tu email" required aria-label="Tu email" autocomplete="email" />
-      <button class="btn" type="submit">Quiero la guía</button>
+      <button class="btn" type="submit">¡La quiero!</button>
     </form>
     <p class="guidebox__legal">Al apuntarte aceptas recibir mi newsletter. Puedes darte de baja cuando quieras. <a href="/politica-privacidad.html">Política de privacidad</a>.</p>
     <p class="guidebox__msg" data-guide-msg hidden></p>
@@ -727,7 +727,7 @@ function renderIndex(posts, destinos = []) {
   const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
         <span class="eyebrow" style="color:var(--gold-soft)"><span class="eyebrow__emoji" aria-hidden="true">✍️</span><span>Blog</span></span>
-        <h1>Cuaderno de aventuras</h1>
+        <h1>Cuaderno de <span class="accent">aventuras</span></h1>
         <p>Mis viajes, descubrimientos y recomendaciones para ayudarte a organizar tu próxima escapada.</p>
       </div>
     </section>
@@ -1063,7 +1063,7 @@ async function renderGuias(posts) {
     return (REGION_LABEL[a] || a).localeCompare(REGION_LABEL[b] || b, "es");
   });
   const item = (g) => `<li class="guideitem">
-              <div class="guideitem__row"><span class="guideitem__name">${esc(g.title)}</span><button type="button" class="btn guideitem__btn" data-guide-open aria-expanded="false">Quiero la guía</button></div>
+              <div class="guideitem__row"><span class="guideitem__name">${esc(g.title)}</span><button type="button" class="btn guideitem__btn" data-guide-open aria-expanded="false">¡La quiero!</button></div>
               <div class="guideitem__panel" data-guide-box hidden>
                 <form class="guideform" data-guide-source="${esc(g.key)}">
                   <input type="email" placeholder="Tu email" required aria-label="Tu email" autocomplete="email" />
