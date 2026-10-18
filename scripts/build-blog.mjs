@@ -945,7 +945,6 @@ function renderMap(posts, destinos = []) {
 
   const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
-        <span class="eyebrow" style="color:var(--gold-soft)"><span class="eyebrow__emoji" aria-hidden="true">🗺️</span><span>Mapa</span></span>
         <h1>Mapa de aventuras</h1>
         <p>Todos los lugares de los que te he hablado, en un solo mapa. Toca un punto y descubre el artículo.</p>
       </div>
@@ -984,7 +983,6 @@ ${regions.map((r) => `              <option value="${esc(r)}">${esc(REGION_LABEL
 
         <div class="mapguias">
           <a class="btn" href="/guias.html"><span aria-hidden="true">📘</span> Guías gratis</a>
-          <p>Todas mis guías en PDF, organizadas por lugar. Te las mando al correo.</p>
         </div>
 
         <div class="maplist">
