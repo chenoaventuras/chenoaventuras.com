@@ -2231,7 +2231,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
    ========================================================================= */
 /* cabecera del mapa: sin cuadro, el título va directamente sobre la acuarela */
 .pagehead--mapa { background: none; color: var(--night); position: relative; z-index: 2; overflow: visible; padding-bottom: 0; }
-.pagehead--mapa h1 { color: var(--ink); }
+.pagehead--mapa h1 { color: #fff; text-shadow: 0 2px 10px rgba(20,35,55,.45); }
 .pagehead--mapa p { color: var(--ink); }
 .pagehead--mapa h1 .accent { background: linear-gradient(90deg, #6c7d46, #3f6d9e, #d9a514, #6c7d46); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }
 @media (prefers-reduced-motion: reduce) { .pagehead--mapa h1 .accent { animation: none; color: var(--gold-dark); background: none; } }
