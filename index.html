@@ -26,7 +26,7 @@
   <meta name="twitter:title" content="Chenoaventuras | Descubre nuevos destinos 🌎" />
   <meta name="twitter:description" content="Chenoaventuras (@chenoaventuras): rutas, destinos y curiosidades de viaje reales por España y más allá. Contenido de viajes para gente aventurera." />
   <meta name="twitter:image" content="https://www.chenoaventuras.com/assets/img/og-portada.jpg" />
-  <link rel="stylesheet" href="assets/css/styles.css?v=20261019c" />
+  <link rel="stylesheet" href="assets/css/styles.css?v=20261019d" />
   <script>document.documentElement.classList.add("js");</script>
   <script type="application/ld+json">
   {
@@ -263,30 +263,35 @@
     <section class="section guiasinicio">
       <div class="container guiasinicio__grid">
         <div class="guiasinicio__book reveal">
-          <button type="button" class="book" data-book aria-label="Hojear una guía de ejemplo (pulsa para pasar página)">
-            <div class="book__leaf" data-leaf>
-              <div class="book__face book__face--front"><img src="assets/img/libro/pagina-0.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
-              <div class="book__face book__face--back"><img src="assets/img/libro/pagina-1.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
+          <div class="bookwrap" data-bookwrap>
+            <div class="book__end">
+              <p class="book__end-title">¿Más destinos?</p>
+              <p class="book__end-text">Tengo una guía para cada provincia e isla.</p>
+              <a class="btn" href="/guias.html" data-book-cta tabindex="-1">Ver todas las guías</a>
             </div>
-            <div class="book__leaf" data-leaf>
-              <div class="book__face book__face--front"><img src="assets/img/libro/pagina-2.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
-              <div class="book__face book__face--back"><img src="assets/img/libro/pagina-3.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
-            </div>
-            <div class="book__leaf" data-leaf>
-              <div class="book__face book__face--front"><img src="assets/img/libro/pagina-4.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
-              <div class="book__face book__face--back"><img src="assets/img/libro/pagina-5.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
-            </div>
-            <div class="book__leaf" data-leaf>
-              <div class="book__face book__face--front"><img src="assets/img/libro/pagina-6.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
-              <div class="book__face book__face--back"><img src="assets/img/libro/pagina-7.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
-            </div>
-          </button>
+            <button type="button" class="book" data-book aria-label="Hojear una guía de ejemplo (pulsa para pasar página)">
+              <div class="book__leaf" data-leaf>
+                <div class="book__face book__face--front"><img src="assets/img/libro/pagina-0.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
+                <div class="book__face book__face--back"><img src="assets/img/libro/pagina-1.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
+              </div>
+              <div class="book__leaf" data-leaf>
+                <div class="book__face book__face--front"><img src="assets/img/libro/pagina-2.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
+                <div class="book__face book__face--back"><img src="assets/img/libro/pagina-3.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
+              </div>
+              <div class="book__leaf" data-leaf>
+                <div class="book__face book__face--front"><img src="assets/img/libro/pagina-4.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
+                <div class="book__face book__face--back"><img src="assets/img/libro/pagina-7.webp" alt="" width="260" height="368" loading="lazy" decoding="async" /></div>
+              </div>
+            </button>
+          </div>
           <p class="guiasinicio__hint">Pulsa el libro para hojearlo</p>
         </div>
-        <div class="reveal">
+        <div class="guiasinicio__head reveal">
           <span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">📲</span><span>Guías gratuitas</span></span>
-          <h2 class="title">Tu escapada, <span class="accent">lista en el móvil</span></h2>
-          <p class="lead">Una guía en PDF por cada provincia o isla de España, con qué ver, cómo llegar y dónde comer. Elige la tuya y te la mando gratis al correo.</p>
+          <h2 class="title">Tu escapada, lista en el <span class="accent">móvil</span></h2>
+        </div>
+        <div class="guiasinicio__body reveal">
+          <p class="lead">Una guía en PDF de la zona que vayas a visitar, con qué ver, actividades, cómo llegar y dónde comer. Elige la tuya y te la mando gratis al correo.</p>
           <a class="btn" href="/guias.html">¡La quiero!</a>
         </div>
       </div>
@@ -404,7 +409,7 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js?v=20261019c"></script>
+  <script src="assets/js/main.js?v=20261019d"></script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

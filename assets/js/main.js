@@ -828,11 +828,14 @@
     });
   }
 
-  /* ---------- Libro de guías (inicio): cada pulsación pasa una hoja; al terminar se cierra ---------- */
+  /* ---------- Libro de guías (inicio): 3 hojas que se pasan con cada clic;
+     al cuarto clic aparece «Ver todas las guías» y al quinto se cierra ---------- */
   var book = document.querySelector("[data-book]");
   if (book) {
+    var wrap = book.closest("[data-bookwrap]");
+    var cta = wrap.querySelector("[data-book-cta]");
     var leaves = [].slice.call(book.querySelectorAll("[data-leaf]"));
-    var flipped = 0, busy = false;
+    var flipped = 0, busy = false, atEnd = false;
     var layout = function () {
       leaves.forEach(function (l, i) {
         var isF = i < flipped;
@@ -840,26 +843,34 @@
         l.style.transform = "translateZ(" + (isF ? i * .4 : (leaves.length - i) * .4) + "px) rotateY(" + (isF ? -180 : 0) + "deg)";
       });
     };
+    var setEnd = function (on) {
+      atEnd = on;
+      wrap.classList.toggle("is-end", on);
+      if (cta) cta.tabIndex = on ? 0 : -1;
+    };
     layout();
     book.addEventListener("click", function () {
       if (busy) return;
       if (flipped < leaves.length) {
-        book.classList.add("is-open");
+        wrap.classList.add("is-open");
         var l = leaves[flipped];
         l.style.zIndex = 100;
         flipped++;
         busy = true;
         l.style.transform = "translateZ(0px) rotateY(-180deg)";
         setTimeout(function () { layout(); busy = false; }, 720);
+      } else if (!atEnd) {
+        setEnd(true);
       } else {
         busy = true;
-        book.classList.remove("is-open");
+        setEnd(false);
+        wrap.classList.remove("is-open");
         for (var i = leaves.length - 1; i >= 0; i--) {
           (function (idx) {
             setTimeout(function () { leaves[idx].style.zIndex = 100 - idx; leaves[idx].style.transform = "translateZ(0px) rotateY(0deg)"; }, (leaves.length - 1 - idx) * 90);
           })(i);
         }
-        setTimeout(function () { flipped = 0; layout(); busy = false; }, 1100);
+        setTimeout(function () { flipped = 0; layout(); busy = false; }, 1000);
       }
     });
   }
