@@ -2228,9 +2228,11 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .fondo-acuarela, main:has(.tablet-scene) {
   background: var(--paper) url("../img/mapa/fondo-acuarela.webp") center top / 100% auto repeat-y;
 }
-/* Inicio: la foto de portada se funde con la acuarela en vez de acabar en un corte rasgado */
+/* Inicio: el borde rasgado de la portada deja ver la acuarela de debajo */
 .fondo-acuarela .hero.torn-bottom::after { display: none; }
-.fondo-acuarela .hero { -webkit-mask: linear-gradient(#000 calc(100% - 90px), transparent); mask: linear-gradient(#000 calc(100% - 90px), transparent); }
+.fondo-acuarela .hero {
+  -webkit-mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px;
+  mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px; }
 
 /* =========================================================================
    Mapa: el mapa dentro de una tableta sujeta por dos manos
