@@ -338,6 +338,11 @@
     }
   }
 
+  /* Tarjetas de reels (página Curiosidades): Instagram solo se carga al pulsarlas. */
+  document.querySelectorAll("[data-ig-open]").forEach(function (b) {
+    b.addEventListener("click", function () { openIgModal(b.getAttribute("data-ig-open")); });
+  });
+
   /* ---------- Enlaces dentro de los posts del blog ----------
      Los reels/publicaciones de Instagram se abren con el mismo modal que
      usa la sección de Aventuras (sin salir de la web), y los de Google Maps
@@ -1012,10 +1017,9 @@
   });
 
   /* ---------- Aviso de cookies ----------
-     Sin analítica ni publicidad: el único aviso real es que, al reproducir
-     un reel desde la web (ver modal de Instagram más arriba), Instagram
-     puede guardar sus propias cookies. El resto (tema del 404, mejor
-     puntuación del minijuego) es almacenamiento necesario, sin aviso legal. */
+     Sin analítica con cookies ni publicidad: solo se guarda lo necesario para que
+     la web funcione (puntuación y tema del minijuego, este mismo aviso). Los reels de
+     Instagram y los mapas de Google solo se cargan cuando el visitante los pulsa. */
   (function () {
     var KEY = "cheno-cookies-ok";
     try {
@@ -1023,11 +1027,16 @@
     } catch (e) {}
     var bar = document.createElement("div");
     bar.className = "cookiebar";
+    bar.setAttribute("role", "region");
+    bar.setAttribute("aria-label", "Aviso de cookies");
     bar.innerHTML =
-      '<div class="cookiebar__media">' +
-      '<img class="cookiebar__img" src="/assets/img/cookies.webp" width="1787" height="419" alt="Una ruta con cookies es mejor. Solo se guardará tu puntuación si juegas al minijuego." />' +
+      '<div class="cookiebar__row">' +
+      '<img class="cookiebar__img" src="/assets/img/cookies-cheno.webp" width="340" height="254" alt="" />' +
+      '<div class="cookiebar__text">' +
+      '<p class="cookiebar__title">Una ruta con cookies es mejor</p>' +
+      '<p class="cookiebar__msg">Solo guardo lo necesario para que la web funcione. Sin publicidad ni seguimiento.</p>' +
       '<button type="button" class="cookiebar__cta btn" data-cookie-ok>¡Entendido!</button>' +
-      '</div>' +
+      '</div></div>' +
       '<p class="cookiebar__links">Más información: <a href="/politica-cookies.html">política de cookies</a> · <a href="/politica-privacidad.html">política de privacidad</a></p>';
     document.body.appendChild(bar);
     bar.querySelector("[data-cookie-ok]").addEventListener("click", function () {
