@@ -24,8 +24,8 @@ faq:
 actividades:
   - t: "Cadaqués: paseo en el barco de Dalí con baño"
     u: "https://www.getyourguide.es/port-lligat-l150580/cadaques-salvador-dali-boat-tour-with-swimming-stop-t1394437/"
-  - t: "Casa-Museo Salvador Dalí: entradas y tours"
-    u: "https://www.getyourguide.es/casa-museu-salvador-dali-l119690/"
+  - t: "Casa-Museo Dalí en Portlligat: tour desde Barcelona"
+    u: "https://www.getyourguide.es/barcelona-l45/barcelona-dali-portlligat-house-museum-cadaques-t871600/"
 comer:
   - n: "Celeste"
     r: 4.8

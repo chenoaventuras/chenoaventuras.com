@@ -28,10 +28,10 @@ faq:
   - q: "¿Hay que pagar para entrar a los Jameos del Agua?"
     a: "Sí, los Jameos y la Cueva de los Verdes son de pago (Centros Turísticos del Cabildo de Lanzarote)."
 actividades:
-  - t: "Jameos del Agua: entradas y tours"
-    u: "https://www.getyourguide.es/jameos-del-agua-l135002/"
-  - t: "Cueva de los Verdes: entradas"
-    u: "https://www.getyourguide.es/cueva-de-los-verdes-l83810/tickets-de-entrada-tc123/"
+  - t: "Lanzarote: Timanfaya, Jameos del Agua y Cueva de los Verdes"
+    u: "https://www.getyourguide.es/lanzarote-l421/tour-por-lanzarote-parque-de-timanfaya-jameos-del-agua-y-cueva-de-los-verdes-t49779/"
+  - t: "Cueva de los Verdes y Jameos: tour exprés por el norte"
+    u: "https://www.getyourguide.es/lanzarote-l421/tesoros-del-norte-expres-cueva-de-los-verdes-y-jameos-t430248/"
 comer:
   - n: "Mamma Grazia"
     r: 4.6

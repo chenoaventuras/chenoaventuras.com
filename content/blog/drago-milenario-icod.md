@@ -24,8 +24,8 @@ faq:
   - q: "¿Cómo llegar al Drago Milenario?"
     a: "Está en Icod de los Vinos, en el norte de Tenerife, a unos 50 minutos en coche de Santa Cruz. Se ve desde la plaza de la iglesia."
 actividades:
-  - t: "Parque del Drago: entradas y tours"
-    u: "https://www.getyourguide.es/parque-del-drago-l166097/"
+  - t: "Drago Milenario de Icod: entrada y Jardín Botánico"
+    u: "https://www.getyourguide.es/tenerife-l350/icod-de-los-vinos-entrada-para-el-drago-milenario-y-el-jardin-botanico-t406096/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
 comer:

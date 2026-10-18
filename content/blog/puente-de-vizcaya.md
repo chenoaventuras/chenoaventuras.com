@@ -26,8 +26,8 @@ faq:
   - q: "¿Dónde está el Puente de Vizcaya?"
     a: "Une Portugalete y Las Arenas (Getxo), a ambos lados de la ría de Bilbao."
 actividades:
-  - t: "Puente de Vizcaya: entradas y tours"
-    u: "https://www.getyourguide.es/puente-vizcaya-l147791/"
+  - t: "Puente de Vizcaya: tour en grupo reducido por Getxo"
+    u: "https://www.getyourguide.es/bilbao-l93/bilbao-tour-en-grupo-reducido-por-getxo-y-el-puente-de-vizcaya-t350176/"
 comer:
   - n: "Casa Leotta - Getxo"
     r: 4.7

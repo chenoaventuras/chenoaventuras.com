@@ -31,8 +31,8 @@ faq:
   - q: "¿Se puede subir al Teide en coche?"
     a: "Hasta la base del teleférico, sí, por la carretera del Parque Nacional. Desde ahí se sigue en teleférico o a pie."
 actividades:
-  - t: "Teleférico del Teide: entradas"
-    u: "https://www.getyourguide.es/teide-cable-car-l36141/"
+  - t: "Teide: tour de medio día con billete de teleférico"
+    u: "https://www.getyourguide.es/tenerife-l350/volcan-del-teide-tour-de-medio-dia-y-billete-de-teleferico-t351351/"
   - t: "Teleférico del Teide + senderismo al pico"
     u: "https://www.civitatis.com/es/puerto-de-la-cruz/entrada-teleferico-teide-senderismo-pico/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf

@@ -34,8 +34,8 @@ faq:
 actividades:
   - t: "Visita guiada por el Caminito del Rey (Ardales)"
     u: "https://www.civitatis.com/es/ardales/visita-guiada-caminito-rey/"
-  - t: "Caminito del Rey: todas las entradas y tours"
-    u: "https://www.getyourguide.es/caminito-del-rey-l89646/"
+  - t: "Caminito del Rey: tour guiado con guías oficiales y entrada"
+    u: "https://www.getyourguide.es/el-chorro-l143817/caminito-del-rey-tour-guiado-con-guias-oficiales-y-entrada-t569659/"
 comer:
   - n: "La Garganta Hotel y Restaurante"
     r: 4.4

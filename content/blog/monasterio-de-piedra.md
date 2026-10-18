@@ -26,8 +26,8 @@ faq:
   - q: "¿Cuánto dura el recorrido del Monasterio de Piedra?"
     a: "La ruta por el parque tiene unos 5 km entre cascadas, grutas y lagos: cuenta unas 3 horas con calma."
 actividades:
-  - t: "Monasterio de Piedra: entradas y tours"
-    u: "https://www.getyourguide.es/monasterio-de-piedra-l97105/"
+  - t: "Monasterio de Piedra: excursión desde Madrid"
+    u: "https://www.getyourguide.es/nuevalos-l188256/desde-madrid-descubre-el-monasterio-de-piedra-y-el-reino-de-aragon-t924002/"
 guia: /assets/guias/guia-zaragoza-chenoaventuras.pdf
 guiaTitulo: 'Guía Zaragoza en PDF'
 ---

@@ -23,8 +23,8 @@ faq:
   - q: "¿Cómo llegar a Trasmoz desde Zaragoza?"
     a: "En coche, en una hora. Está en las faldas del Moncayo, a unos 20 km de Tarazona."
 actividades:
-  - t: "Castillo de Trasmoz: tours"
-    u: "https://www.getyourguide.es/castillo-de-trasmoz-l215408/"
+  - t: "Trasmoz: el pueblo excomulgado, con brujas y comida"
+    u: "https://www.getyourguide.es/zaragoza-l1630/zaragoza-unico-pueblo-excomulgado-y-maldito-con-brujas-en-espana-y-comida-t815164/"
 comer:
   - n: "El Hayedo de Sofía"
     r: 4.7

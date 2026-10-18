@@ -31,8 +31,6 @@ faq:
   - q: "¿Se puede ir con niños al Lago Martiánez?"
     a: "Sí, tiene zonas poco profundas y socorristas. Lleva escarpines."
 actividades:
-  - t: "Lago Martiánez: entradas y tours"
-    u: "https://www.getyourguide.es/lago-martianez-l158961/"
   - t: "Puerto de la Cruz: tour a pie de 1,5 horas"
     u: "https://www.getyourguide.es/puerto-de-la-cruz-espagne-l4994/1-a-2-heures-de-marche-a-travers-puerto-de-la-cruz-tenerife-t795398/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf

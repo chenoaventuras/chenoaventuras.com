@@ -27,8 +27,8 @@ faq:
 actividades:
   - t: "Visita guiada por Alcalá del Júcar"
     u: "https://www.civitatis.com/es/alcala-del-jucar/visita-guiada-alcala-jucar/"
-  - t: "Alcalá del Júcar: vuelo en globo al amanecer (y resto de actividades)"
-    u: "https://www.getyourguide.es/alcala-del-jucar-l218606/"
+  - t: "Alcalá del Júcar: excursión privada de un día desde Valencia"
+    u: "https://www.getyourguide.es/valencia-l49/valencia-excursion-privada-de-1-dia-a-alcala-del-jucar-con-guia-t1191601/"
 comer:
   - n: "Restaurante El Mirador"
     r: 4.6

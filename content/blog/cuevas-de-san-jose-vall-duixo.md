@@ -30,8 +30,8 @@ faq:
   - q: "¿Se puede hacer kayak en las Cuevas de San José?"
     a: "Sí, hay una ruta en kayak de 1 hora y 45 minutos, con plazas limitadas. Hay que reservar con antelación."
 actividades:
-  - t: "Coves de Sant Josep: entradas y tours"
-    u: "https://www.getyourguide.es/cuevas-de-sant-josep-l167977/"
+  - t: "Cuevas de Sant Josep: paseo en barca por la cueva más larga de Europa"
+    u: "https://www.getyourguide.es/valencia-l49/navega-a-traves-de-la-cueva-mas-larga-de-europa-las-cuevas-de-sant-josep-t1116430/"
 comer:
   - n: "Restaurante Monpiedra - San Isidro"
     r: 4.8
