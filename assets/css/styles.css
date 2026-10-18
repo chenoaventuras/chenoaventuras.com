@@ -2223,43 +2223,47 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 @keyframes giftFace { 0% { transform: translate(-50%, -50%) scale(.2); opacity: 0; } 20% { transform: translate(-50%, -140%) scale(1.25); opacity: 1; } 70% { transform: translate(-50%, -170%) scale(1); opacity: 1; } 100% { transform: translate(-50%, -230%) scale(.9); opacity: 0; } }
 
 /* =========================================================================
+   Fondo de acuarela (inicio y mapa): una sola pintura continua hasta el pie
+   ========================================================================= */
+.fondo-acuarela, main:has(.tablet-scene) {
+  background: var(--paper) url("../img/mapa/fondo-acuarela.webp") center top / 100% auto repeat-y;
+}
+/* Inicio: la foto de portada se funde con la acuarela en vez de acabar en un corte rasgado */
+.fondo-acuarela .hero.torn-bottom::after { display: none; }
+.fondo-acuarela .hero { -webkit-mask: linear-gradient(#000 calc(100% - 90px), transparent); mask: linear-gradient(#000 calc(100% - 90px), transparent); }
+
+/* =========================================================================
    Mapa: el mapa dentro de una tableta sujeta por dos manos
    ========================================================================= */
-.tablet-scene { --pad: max(calc((100vw - 1100px) / 2), clamp(60px, 7vw, 110px)); --h: clamp(300px, 36vw, 500px); position: relative; padding: clamp(36px, 5vw, 64px) var(--pad) clamp(48px, 6vw, 80px);
-  width: 100vw; margin-left: calc(50% - 50vw); border-radius: 0; overflow: hidden; background: linear-gradient(180deg, #6f9bd0 0%, #9fc2e6 55%, #b9d3ea 100%); margin-bottom: 0; }
-/* El paisaje solo se ve en los bordes: el centro de la foto es una mancha difuminada que queda detrás de la tableta */
-.tablet-scene::after { content: ""; position: absolute; inset: 0; z-index: 0; pointer-events: none;
-  background: url("../img/mapa/fondo-paisaje.webp") center / cover no-repeat;
-  -webkit-mask: linear-gradient(90deg, #000 0, #000 9%, transparent 17%, transparent 83%, #000 91%, #000 100%);
-  mask: linear-gradient(90deg, #000 0, #000 9%, transparent 17%, transparent 83%, #000 91%, #000 100%); }
-.tablet-scene::before { content: ""; position: absolute; inset: 0; background: radial-gradient(ellipse at center, rgba(255,255,255,0) 45%, rgba(20,35,55,.3)); pointer-events: none; }
+.pagehead--acuarela { background: transparent; color: var(--night); overflow: visible; }
+.pagehead--acuarela h1 { color: var(--night); }
+.pagehead--acuarela p { color: var(--ink); }
+.tablet-scene { --pad: max(calc((100vw - 1100px) / 2), clamp(60px, 7vw, 110px)); --h: clamp(300px, 36vw, 500px); position: relative; z-index: 1; padding: clamp(24px, 3vw, 40px) var(--pad) 110px;
+  width: 100vw; margin-left: calc(50% - 50vw); border-radius: 0; overflow: hidden; background: none; margin-bottom: 0;
+  /* las manos y el borde inferior se funden con la acuarela de debajo */
+  -webkit-mask: linear-gradient(180deg, #000 calc(100% - 90px), transparent 100%);
+  mask: linear-gradient(180deg, #000 calc(100% - 90px), transparent 100%); }
 .tablet { position: relative; z-index: 1; background: #f3f0ea; border-radius: 30px; padding: 18px 20px 20px;
-  box-shadow: 0 2px 0 rgba(255,255,255,.8) inset, 0 -2px 0 rgba(0,0,0,.06) inset, 0 34px 70px rgba(10, 25, 45, .45), 0 8px 18px rgba(10, 25, 45, .25); }
+  box-shadow: 0 2px 0 rgba(255,255,255,.8) inset, 0 -2px 0 rgba(0,0,0,.06) inset, 0 10px 26px rgba(10, 25, 45, .16); }
 .tablet .mapbar { margin-bottom: 14px; }
 .tablet .mapa { height: clamp(420px, 64vh, 700px); border-radius: 14px; box-shadow: inset 0 0 0 1px rgba(0,0,0,.08); }
-.tablet__mano { position: absolute; z-index: 2; height: var(--h); width: auto; pointer-events: none; user-select: none; bottom: -4px;
-  filter: drop-shadow(0 18px 24px rgba(10, 25, 45, .35)); }
+.tablet__mano { position: absolute; z-index: 2; height: var(--h); width: auto; pointer-events: none; user-select: none; bottom: -4px; }
 /* El pulgar queda sobre el borde de la tableta */
 /* La punta del pulgar (88,3 % del ancho en la izquierda, 11,9 % en la derecha) cae sobre el marco */
 .tablet__mano--izq { left: calc(var(--pad) + 12px - var(--h) * .5 * .883); }
 .tablet__mano--der { right: calc(var(--pad) + 12px - var(--h) * .503 * .881); }
 @media (max-width: 760px) {
-  .tablet-scene { --pad: 14px; padding: 22px 14px 26px; }
+  .tablet-scene { --pad: 14px; padding: 12px 14px 26px; -webkit-mask: none; mask: none; }
   .tablet { border-radius: 20px; padding: 10px; }
   .tablet__mano { display: none; }
 }
-.section:has(> .container > .tablet-scene) { padding-top: 0; }
-/* En la página del mapa, el borde rasgado de la cabecera deja ver el paisaje de debajo */
-main:has(.tablet-scene) .pagehead.torn-bottom { position: relative; z-index: 2;
-  -webkit-mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px;
-  mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px; }
-main:has(.tablet-scene) .pagehead.torn-bottom::after { display: none; }
-.section:has(> .container > .tablet-scene) { margin-top: -34px; }
-.section:has(> .container > .tablet-scene) .tablet-scene { padding-top: calc(clamp(36px, 5vw, 64px) + 34px); }
+.section:has(> .container > .tablet-scene) { padding-top: 0; padding-bottom: clamp(24px, 3vw, 42px); }
 
 /* Botón «Guías gratis» bajo el mapa */
-.mapguias { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 8px 18px; margin: clamp(22px, 3vw, 34px) 0 0; text-align: center; }
-.mapguias p { margin: 0; color: var(--ink-mute); font-size: .95rem; }
+.mapguias { display: flex; justify-content: center; margin: -62px 0 0; position: relative; z-index: 2; }
+.mapguias .btn { --btn-bg: var(--gold-soft); --btn-fg: var(--night); border-color: var(--gold-soft); }
+.mapguias .btn:hover { background: #fbe39a; border-color: #fbe39a; }
+@media (max-width: 760px) { .mapguias { margin-top: 4px; } }
 
 /* Página de guías gratis */
 .guiasnav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
@@ -2280,14 +2284,5 @@ main:has(.tablet-scene) .pagehead.torn-bottom::after { display: none; }
 .guideitem:has(.guideitem__panel:not([hidden])) { grid-column: 1 / -1; }
 .guideitem__panel .guideform { max-width: 520px; }
 
-/* Fondo de acuarela para «Todos los lugares»: va por debajo de la escena del mapa, que se funde con él por abajo */
-.tablet-scene { z-index: 1; padding-bottom: calc(clamp(48px, 6vw, 80px) + 70px);
-  -webkit-mask: linear-gradient(180deg, #000 calc(100% - 110px), transparent 100%);
-  mask: linear-gradient(180deg, #000 calc(100% - 110px), transparent 100%); }
-.mapbottom { position: relative; z-index: 0; width: 100vw; margin-left: calc(50% - 50vw); margin-top: -110px;
-  padding: 0 max(var(--gutter), calc((100vw - var(--container)) / 2 + var(--gutter))) clamp(24px, 3vw, 42px);
-  background: url("../img/mapa/fondo-acuarela.webp") center top / 100% auto repeat-y; }
-.mapbottom .mapguias { padding-top: 124px; margin-top: 0; }
 .mapbottom .maplist { margin-top: clamp(20px, 3vw, 34px); }
 .mapbottom .maplist > h2 { text-shadow: 0 1px 0 rgba(255,255,255,.6); }
-@media (max-width: 760px) { .tablet-scene { padding-bottom: calc(26px + 70px); } }
