@@ -2231,7 +2231,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
    ========================================================================= */
 /* cabecera del mapa: sin cuadro, el título va directamente sobre la acuarela */
 .pagehead--mapa { background: none; color: var(--night); position: relative; z-index: 2; overflow: visible; padding-bottom: 0; }
-.pagehead--mapa h1 { color: var(--night); }
+.pagehead--mapa h1 { color: var(--ink); }
 .pagehead--mapa p { color: var(--ink); }
 .pagehead--mapa h1 .accent { background: linear-gradient(90deg, #6c7d46, #3f6d9e, #d9a514, #6c7d46); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }
 @media (prefers-reduced-motion: reduce) { .pagehead--mapa h1 .accent { animation: none; color: var(--gold-dark); background: none; } }
@@ -2285,4 +2285,4 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .guideitem__panel .guideform { max-width: 520px; }
 
 .mapbottom .maplist { margin-top: clamp(20px, 3vw, 34px); }
-.mapbottom .maplist > h2 { text-shadow: 0 1px 0 rgba(255,255,255,.6); }
+.mapbottom .maplist > h2 { color: var(--ink); text-shadow: 0 1px 0 rgba(255,255,255,.6); }
