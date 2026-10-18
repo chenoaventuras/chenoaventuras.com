@@ -130,7 +130,7 @@ const FOOTER = `
   <script src="/assets/js/main.js?v=20261018a"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
-function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog" }) {
+function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog", mainClass = "" }) {
   const img = image || OG_DEFAULT;
   return `<!DOCTYPE html>
 <html lang="es">
@@ -166,7 +166,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
 <body>
 ${NAV.replace("{{CUR_BLOG}}", current === "blog" ? ' aria-current="page"' : "").replace("{{CUR_MAPA}}", current === "mapa" ? ' aria-current="page"' : "")}
 
-  <main>
+  <main${mainClass ? ` class="${mainClass}"` : ""}>
 ${body}
   </main>
 ${FOOTER}
@@ -827,6 +827,7 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
     description:
       "Artículos de Chenoaventuras: rutas, consejos de viaje y rincones de España para preparar tu próxima escapada.",
     canonical: `${SITE}/blog.html`,
+    mainClass: "fondo-acuarela",
     body,
   });
 }
