@@ -2229,9 +2229,9 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 /* =========================================================================
    Mapa: el mapa dentro de una tableta sujeta por dos manos
    ========================================================================= */
-/* cabecera del mapa: un cuadro con el fondo de «Mi equipo» sobre la acuarela suave */
+/* cabecera del mapa: un cuadro azul sobre la acuarela suave */
 .mapahead { padding: clamp(20px, 3vw, 34px) 0 clamp(6px, 1vw, 12px); background: linear-gradient(rgba(239,236,231,.66) 0 55%, rgba(239,236,231,0)); }
-.pagehead--mapa { border-radius: var(--radius); padding: clamp(28px, 5vw, 48px) clamp(22px, 4vw, 44px); box-shadow: var(--shadow-md); overflow: hidden; }
+.pagehead--mapa { background: linear-gradient(120deg, #1f3e64, #3c6aa3 55%, #5a90cf); border-radius: var(--radius); padding: clamp(28px, 5vw, 48px) clamp(22px, 4vw, 44px); box-shadow: var(--shadow-md); overflow: hidden; }
 .pagehead--mapa h1 { font-size: clamp(1.9rem, 4.4vw, 3rem); }
 .pagehead--mapa h1 .accent { background: linear-gradient(90deg, #f8d878, #9fd3f0, #b9d98a, #f8d878); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }
 @media (prefers-reduced-motion: reduce) { .pagehead--mapa h1 .accent { animation: none; color: var(--gold-soft); background: none; } }

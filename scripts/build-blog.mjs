@@ -947,7 +947,6 @@ function renderMap(posts, destinos = []) {
   const body = `    <section class="mapahead">
       <div class="container">
         <div class="pagehead pagehead--mapa">
-          <div class="pagehead__media"><img src="/assets/img/fondo-cabecera-equipo.webp" alt="" width="2161" height="728" decoding="async" /></div>
           <div class="pagehead__inner">
             <h1>Mapa de <span class="accent">aventuras</span></h1>
             <p>Todos los lugares de los que te he hablado, en un solo mapa. Toca un punto y descubre el artículo.</p>
