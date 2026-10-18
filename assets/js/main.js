@@ -1079,7 +1079,7 @@
       '<img class="cookiebar__img" src="/assets/img/cookies-cheno.webp" width="340" height="254" alt="" />' +
       '<div class="cookiebar__text">' +
       '<p class="cookiebar__title">Una ruta con cookies es mejor</p>' +
-      '<p class="cookiebar__msg">Solo guardo lo necesario para que la web funcione. Sin publicidad ni seguimiento.</p>' +
+      '<p class="cookiebar__msg">Solo guardo lo necesario para que la web funcione.</p>' +
       '<button type="button" class="cookiebar__cta btn" data-cookie-ok>¡Entendido!</button>' +
       '</div></div>' +
       '<p class="cookiebar__links">Más información: <a href="/politica-cookies.html">política de cookies</a> · <a href="/politica-privacidad.html">política de privacidad</a></p>';
