@@ -944,14 +944,10 @@ function renderMap(posts, destinos = []) {
     })
     .join("\n");
 
-  const body = `    <section class="mapahead">
-      <div class="container">
-        <div class="pagehead pagehead--mapa">
-          <div class="pagehead__inner">
-            <h1>Mapa de <span class="accent">aventuras</span></h1>
-            <p>Todos los lugares de los que te he hablado, en un solo mapa. Toca un punto y descubre el artículo.</p>
-          </div>
-        </div>
+  const body = `    <section class="pagehead pagehead--bloghome pagehead--mapa torn-bottom">
+      <div class="pagehead__inner container">
+        <h1>Mapa de <span class="accent">aventuras</span></h1>
+        <p>Todos los lugares de los que te he hablado, en un solo mapa. Toca un punto y descubre el artículo.</p>
       </div>
     </section>
 
