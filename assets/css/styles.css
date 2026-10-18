@@ -2228,6 +2228,8 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .fondo-acuarela, main:has(.tablet-scene) {
   background: var(--paper) url("../img/mapa/fondo-acuarela.webp") center top / 100% auto repeat-y;
 }
+/* Inicio: acuarela más suave (capa de papel por encima) para que se lean bien los textos */
+.fondo-acuarela { background: linear-gradient(rgba(239,236,231,.66), rgba(239,236,231,.66)), url("../img/mapa/fondo-acuarela.webp") center top / 100% auto repeat-y; background-color: var(--paper); }
 /* Inicio: el borde rasgado de la portada deja ver la acuarela de debajo */
 .fondo-acuarela .hero.torn-bottom::after { display: none; }
 .fondo-acuarela .hero {
