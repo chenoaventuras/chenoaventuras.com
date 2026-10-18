@@ -230,7 +230,7 @@ p { margin: 0 0 1em; }
 }
 
 /* Profundidad al bajar (la mueve main.js; sin JS o con movimiento reducido, quieto). */
-[data-parallax] .hero__media img { transform: translate3d(0, var(--py, 0), 0) scale(var(--ps, 1)); will-change: transform; }
+[data-parallax] .hero__media img { transform: translate3d(0, var(--py, 0), 0) scale(var(--ps, 1)); }
 [data-parallax] .hero__inner { will-change: opacity, transform; }
 
 /* =========================================================================
