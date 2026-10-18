@@ -650,6 +650,16 @@
     return { cheno_hp: trap ? trap.value : "", t: Date.now() - pageOpenedAt };
   }
 
+  /* ---------- Página de guías (móvil): el desplegable salta a la comunidad elegida ---------- */
+  var zonaSel = document.querySelector("[data-guias-zona]");
+  if (zonaSel) {
+    zonaSel.addEventListener("change", function () {
+      var el = zonaSel.value && document.getElementById(zonaSel.value);
+      if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+      zonaSel.value = "";
+    });
+  }
+
   /* ---------- Página de guías: «Quiero la guía» despliega el formulario ---------- */
   document.querySelectorAll("[data-guide-open]").forEach(function (b) {
     b.addEventListener("click", function () {

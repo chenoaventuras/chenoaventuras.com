@@ -2274,7 +2274,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .guideitem { border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; background: #fff; }
 .guideitem__row { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
 .guideitem__name { font-weight: 600; color: var(--night); line-height: 1.25; }
-.guideitem__btn { padding: .55em 1em; font-size: .7rem; white-space: nowrap; }
+.guideitem__btn { flex: 0 0 8.6rem; width: 8.6rem; padding: .55em .6em; font-size: .7rem; white-space: nowrap; text-align: center; justify-content: center; }
 .guideitem__panel { margin-top: 10px; padding: 12px; border-radius: 10px; background: linear-gradient(120deg, #1f3e64, #3c6aa3); color: #fff; }
 .guideitem__panel[hidden] { display: none; }
 .guideitem__panel .btn { --btn-bg: var(--gold); --btn-fg: var(--night); border-color: var(--gold); padding: .65em 1.1em; font-size: .72rem; }
@@ -2321,3 +2321,10 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 /* Blog: «aventuras» cambia de color como los títulos del inicio (tonos claros sobre el azul) */
 .pagehead--bloghome:not(.pagehead--mapa) h1 .accent { background: linear-gradient(90deg, #f8d878, #9fd3f0, #b9d98a, #f8d878); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }
 @media (prefers-reduced-motion: reduce) { .pagehead--bloghome:not(.pagehead--mapa) h1 .accent { animation: none; color: var(--gold-soft); background: none; } }
+
+/* Guías en móvil: la lista de comunidades pasa a ser un desplegable */
+.guiasselect { display: none; }
+@media (max-width: 760px) {
+  .guiasnav { display: none; }
+  .guiasselect { display: block; width: 100%; font: inherit; padding: .75em 1em; margin-bottom: 10px; border: 1px solid var(--line); border-radius: 12px; background: #fff; color: var(--ink); }
+}

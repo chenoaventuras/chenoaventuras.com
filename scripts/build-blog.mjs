@@ -127,7 +127,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261019j"></script>
+  <script src="/assets/js/main.js?v=20261019k"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog", mainClass = "" }) {
@@ -160,7 +160,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261019k" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261019l" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -1100,6 +1100,11 @@ async function renderGuias(posts) {
         <nav class="guiasnav" aria-label="Ir a una comunidad">
           ${chips}
         </nav>
+        <label class="sr-only" for="guias-zona">Elegir zona</label>
+        <select class="guiasselect" id="guias-zona" data-guias-zona>
+          <option value="">Elegir zona…</option>
+${regions.map((r) => `          <option value="${regionSlug(r)}">${esc(REGION_LABEL[r] || r)}</option>`).join("\n")}
+        </select>
         <div class="regiongrid guiasgrid">
 ${bands}
         </div>
