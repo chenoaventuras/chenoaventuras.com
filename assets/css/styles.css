@@ -2226,12 +2226,12 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
    Mapa: el mapa dentro de una tableta sujeta por dos manos
    ========================================================================= */
 .tablet-scene { --pad: max(calc((100vw - 1100px) / 2), clamp(60px, 7vw, 110px)); --h: clamp(300px, 36vw, 500px); position: relative; padding: clamp(36px, 5vw, 64px) var(--pad) clamp(48px, 6vw, 80px);
-  width: 100vw; margin-left: calc(50% - 50vw); border-radius: 0; overflow: hidden; background: linear-gradient(180deg, #6f9bd0 0%, #9fc2e6 55%, #b9d3ea 100%); margin-bottom: 8px; }
+  width: 100vw; margin-left: calc(50% - 50vw); border-radius: 0; overflow: hidden; background: linear-gradient(180deg, #6f9bd0 0%, #9fc2e6 55%, #b9d3ea 100%); margin-bottom: 0; }
 /* El paisaje solo se ve en los bordes: el centro de la foto es una mancha difuminada que queda detrás de la tableta */
 .tablet-scene::after { content: ""; position: absolute; inset: 0; z-index: 0; pointer-events: none;
   background: url("../img/mapa/fondo-paisaje.webp") center / cover no-repeat;
-  -webkit-mask: radial-gradient(ellipse 62% 70% at 50% 50%, transparent 62%, #000 100%);
-  mask: radial-gradient(ellipse 62% 70% at 50% 50%, transparent 62%, #000 100%); }
+  -webkit-mask: linear-gradient(90deg, #000 0, #000 9%, transparent 17%, transparent 83%, #000 91%, #000 100%);
+  mask: linear-gradient(90deg, #000 0, #000 9%, transparent 17%, transparent 83%, #000 91%, #000 100%); }
 .tablet-scene::before { content: ""; position: absolute; inset: 0; background: radial-gradient(ellipse at center, rgba(255,255,255,0) 45%, rgba(20,35,55,.3)); pointer-events: none; }
 .tablet { position: relative; z-index: 1; background: #f3f0ea; border-radius: 30px; padding: 18px 20px 20px;
   box-shadow: 0 2px 0 rgba(255,255,255,.8) inset, 0 -2px 0 rgba(0,0,0,.06) inset, 0 34px 70px rgba(10, 25, 45, .45), 0 8px 18px rgba(10, 25, 45, .25); }
@@ -2279,3 +2279,15 @@ main:has(.tablet-scene) .pagehead.torn-bottom::after { display: none; }
 .guideitem__panel .guidebox__msg { color: #fff; font-size: .9rem; }
 .guideitem:has(.guideitem__panel:not([hidden])) { grid-column: 1 / -1; }
 .guideitem__panel .guideform { max-width: 520px; }
+
+/* Fondo de acuarela para «Todos los lugares»: va por debajo de la escena del mapa, que se funde con él por abajo */
+.tablet-scene { z-index: 1; padding-bottom: calc(clamp(48px, 6vw, 80px) + 70px);
+  -webkit-mask: linear-gradient(180deg, #000 calc(100% - 110px), transparent 100%);
+  mask: linear-gradient(180deg, #000 calc(100% - 110px), transparent 100%); }
+.mapbottom { position: relative; z-index: 0; width: 100vw; margin-left: calc(50% - 50vw); margin-top: -110px;
+  padding: 0 max(var(--gutter), calc((100vw - var(--container)) / 2 + var(--gutter))) clamp(24px, 3vw, 42px);
+  background: url("../img/mapa/fondo-acuarela.webp") center top / 100% auto repeat-y; }
+.mapbottom .mapguias { padding-top: 124px; margin-top: 0; }
+.mapbottom .maplist { margin-top: clamp(20px, 3vw, 34px); }
+.mapbottom .maplist > h2 { text-shadow: 0 1px 0 rgba(255,255,255,.6); }
+@media (max-width: 760px) { .tablet-scene { padding-bottom: calc(26px + 70px); } }

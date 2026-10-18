@@ -981,6 +981,7 @@ ${regions.map((r) => `              <option value="${esc(r)}">${esc(REGION_LABEL
         <noscript><p class="lead">El mapa necesita JavaScript. Mientras tanto, aquí tienes todos los lugares en la lista de abajo.</p></noscript>
         <script type="application/json" id="mapa-data">${json}</script>
 
+        <div class="mapbottom">
         <div class="mapguias">
           <a class="btn" href="/guias.html"><span aria-hidden="true">📘</span> Guías gratis</a>
         </div>
@@ -990,6 +991,7 @@ ${regions.map((r) => `              <option value="${esc(r)}">${esc(REGION_LABEL
           <div class="regiongrid">
 ${byRegion}
           </div>
+        </div>
         </div>
       </div>
     </section>
