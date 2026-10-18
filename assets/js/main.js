@@ -650,6 +650,17 @@
     return { cheno_hp: trap ? trap.value : "", t: Date.now() - pageOpenedAt };
   }
 
+  /* ---------- Página de guías: «Quiero la guía» despliega el formulario ---------- */
+  document.querySelectorAll("[data-guide-open]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var panel = b.closest(".guideitem").querySelector("[data-guide-box]");
+      var open = panel.hidden;
+      panel.hidden = !open;
+      b.setAttribute("aria-expanded", open ? "true" : "false");
+      if (open) { var i = panel.querySelector("input[type=email]"); if (i) i.focus(); }
+    });
+  });
+
   /* ---------- Descarga de guía en PDF a cambio del email ---------- */
   document.querySelectorAll("form[data-guide-source]").forEach(function (f) {
     addTrap(f);

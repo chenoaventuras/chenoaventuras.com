@@ -12,7 +12,7 @@
  */
 import { readdirSync, readFileSync, writeFileSync, mkdirSync, rmSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 import matter from "gray-matter";
 import { marked } from "marked";
 
@@ -127,7 +127,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261013s1"></script>
+  <script src="/assets/js/main.js?v=20261018a"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog" }) {
@@ -160,7 +160,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261013s1b" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261018a" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -982,6 +982,11 @@ ${regions.map((r) => `              <option value="${esc(r)}">${esc(REGION_LABEL
         <noscript><p class="lead">El mapa necesita JavaScript. Mientras tanto, aquí tienes todos los lugares en la lista de abajo.</p></noscript>
         <script type="application/json" id="mapa-data">${json}</script>
 
+        <div class="mapguias">
+          <a class="btn" href="/guias.html"><span aria-hidden="true">📘</span> Guías gratis</a>
+          <p>Todas mis guías en PDF, organizadas por lugar. Te las mando al correo.</p>
+        </div>
+
         <div class="maplist">
           <h2>Todos los lugares</h2>
           <div class="regiongrid">
@@ -1015,6 +1020,96 @@ ${byRegion}
     ),
     extraHead: `\n  <link rel="stylesheet" href="/assets/vendor/leaflet/leaflet.css" />`,
     current: "mapa",
+    body,
+  });
+}
+
+/* ---------- página de guías gratis ---------- */
+// Guías hechas a mano (no salen de scripts/guias/zonas.py): clave del formulario, título y comunidad.
+const GUIAS_MANUALES = [
+  { key: "guia-cuenca", title: "Guía de Cuenca (la ciudad)", region: "Castilla-La Mancha" },
+  { key: "guia-cantabria", title: "Guía Cantabria", region: "Cantabria" },
+  { key: "pirineo-aragones-que-ver", title: "Guía del Pirineo Aragonés", region: "Aragón" },
+  { key: "guia-monte-igueldo", title: "Guía del Monte Igueldo", region: "País Vasco" },
+];
+
+async function renderGuias(posts) {
+  const { ZONE_GUIDES } = await import(pathToFileURL(join(ROOT, "api", "_guias-zonas.mjs")).href);
+  const regionBySlug = Object.fromEntries(posts.map((p) => [p.slug, regionOf(p)]));
+  // una guía por PDF; su comunidad es la más frecuente entre los posts que incluye
+  const byFile = new Map();
+  for (const [slug, g] of Object.entries(ZONE_GUIDES)) {
+    const e = byFile.get(g.file) || { key: slug, title: g.title, regions: {} };
+    const r = regionBySlug[slug];
+    if (r) e.regions[r] = (e.regions[r] || 0) + 1;
+    byFile.set(g.file, e);
+  }
+  const guides = [...byFile.values()].map((e) => ({
+    key: e.key,
+    title: e.title,
+    region: Object.entries(e.regions).sort((a, b) => b[1] - a[1])[0]?.[0] || "Otros destinos",
+  }));
+  for (const m of GUIAS_MANUALES) guides.push(m);
+
+  const regionSlug = (r) => norm(r).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const flagOf = (r) => {
+    const f = `/assets/img/flags/${regionSlug(r)}.webp`;
+    return existsSync(join(ROOT, f.slice(1))) ? f : "";
+  };
+  const regions = [...new Set(guides.map((g) => g.region))].sort((a, b) => {
+    const ea = ESPANA.has(a), eb = ESPANA.has(b);
+    if (ea !== eb) return ea ? -1 : 1;
+    return (REGION_LABEL[a] || a).localeCompare(REGION_LABEL[b] || b, "es");
+  });
+  const item = (g) => `<li class="guideitem">
+              <div class="guideitem__row"><span class="guideitem__name">${esc(g.title)}</span><button type="button" class="btn guideitem__btn" data-guide-open aria-expanded="false">Quiero la guía</button></div>
+              <div class="guideitem__panel" data-guide-box hidden>
+                <form class="guideform" data-guide-source="${esc(g.key)}">
+                  <input type="email" placeholder="Tu email" required aria-label="Tu email" autocomplete="email" />
+                  <button class="btn" type="submit">Enviármela</button>
+                </form>
+                <p class="guidebox__legal">Al apuntarte aceptas recibir mi newsletter. Puedes darte de baja cuando quieras. <a href="/politica-privacidad.html">Política de privacidad</a>.</p>
+                <p class="guidebox__msg" data-guide-msg hidden></p>
+              </div>
+            </li>`;
+  const bands = regions
+    .map((r) => {
+      const items = guides.filter((g) => g.region === r).sort((a, b) => a.title.localeCompare(b.title, "es"));
+      const flag = flagOf(r);
+      return `        <article class="regionband" id="${regionSlug(r)}">
+          <header class="regioncard__head">${flag ? `<img src="${flag}" alt="" width="34" height="23" loading="lazy" decoding="async" />` : ""}<h2>${esc(REGION_LABEL[r] || r)}</h2><span class="regioncard__count">${items.length}</span></header>
+          <ul class="guidelist">
+            ${items.map(item).join("\n            ")}
+          </ul>
+        </article>`;
+    })
+    .join("\n");
+  const chips = regions.map((r) => `<a class="mapchip" href="#${regionSlug(r)}">${esc(REGION_LABEL[r] || r)}</a>`).join("\n          ");
+
+  const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
+      <div class="pagehead__inner container">
+        <span class="eyebrow" style="color:var(--gold-soft)"><span class="eyebrow__emoji" aria-hidden="true">📘</span><span>Guías gratis</span></span>
+        <h1>Guías de viaje en PDF</h1>
+        <p>Una guía por provincia o isla con todos los lugares de los que te he hablado, para llevarla en el móvil. Elige la tuya y te la mando al correo.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <nav class="guiasnav" aria-label="Ir a una comunidad">
+          ${chips}
+        </nav>
+        <div class="regiongrid guiasgrid">
+${bands}
+        </div>
+      </div>
+    </section>`;
+
+  return shell({
+    title: "Guías de viaje gratis en PDF por provincias | Chenoaventuras",
+    description: "Descarga gratis mis guías de viaje en PDF, una por provincia o isla de España: qué ver, cómo llegar y dónde comer. Te las envío al correo.",
+    canonical: `${SITE}/guias.html`,
+    current: "guias",
     body,
   });
 }
@@ -1103,6 +1198,7 @@ function renderSitemap(posts, destinos = []) {
     ["/", "1.0", "weekly", null],
     ["/blog.html", "0.8", "weekly", latest],
     ["/mapa.html", "0.8", "weekly", latest],
+    ["/guias.html", "0.7", "weekly", latest],
     ["/curiosidades.html", "0.8", "weekly", null],
     ["/servicios.html", "0.7", "monthly", null],
     ["/equipo.html", "0.6", "monthly", null],
@@ -1189,6 +1285,7 @@ mkdirSync(join(ROOT, "assets", "data"), { recursive: true });
   writeFileSync(join(ROOT, "assets", "data", "cobertura.json"), JSON.stringify(cobertura, null, 1));
 }
 writeFileSync(join(ROOT, "mapa.html"), renderMap(posts, destinos));
+writeFileSync(join(ROOT, "guias.html"), await renderGuias(posts));
 writeFileSync(join(ROOT, "sitemap.xml"), renderSitemap(posts, destinos));
 
 console.log(`Blog compilado: ${posts.length} artículo(s), ${destinos.length} destino(s).`);
