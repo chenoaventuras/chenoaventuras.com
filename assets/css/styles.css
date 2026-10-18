@@ -2263,8 +2263,6 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Botón «Guías gratis» bajo el mapa */
 .mapguias { display: flex; justify-content: center; margin: -62px 0 0; position: relative; z-index: 2; }
-.mapguias .btn { --btn-bg: var(--gold-soft); --btn-fg: var(--night); border-color: var(--gold-soft); }
-.mapguias .btn:hover { background: #fbe39a; border-color: #fbe39a; }
 @media (max-width: 760px) { .mapguias { margin-top: -20px; } }
 
 /* Página de guías gratis */
