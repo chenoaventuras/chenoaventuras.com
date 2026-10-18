@@ -2298,7 +2298,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .bookwrap.is-open { transform: translateX(calc(var(--bw) / 2)); }
 .book { position: absolute; inset: 0; z-index: 1; pointer-events: none; display: block; width: 100%; height: 100%; padding: 0; border: 0; background: none; cursor: pointer;
   perspective: 2500px; transform-style: preserve-3d; -webkit-tap-highlight-color: transparent; }
-.book__leaf { position: absolute; inset: 0; pointer-events: auto; transform-origin: left center; transform-style: preserve-3d; transition: transform .7s cubic-bezier(.4, 0, .2, 1); }
+.book__leaf { position: absolute; inset: 0; pointer-events: auto; transform-origin: left center; transform-style: preserve-3d; will-change: transform; transition: transform .7s cubic-bezier(.4, 0, .2, 1); }
 /* Última página: está debajo de las hojas, así que aparece sola cuando se pasa la tercera */
 .book__end { position: absolute; inset: 0; z-index: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; padding: 12px; text-align: center;
   background: linear-gradient(120deg, #1f3e64, #3c6aa3 60%, #5a90cf); color: #fff; border-radius: 0 10px 10px 0; }

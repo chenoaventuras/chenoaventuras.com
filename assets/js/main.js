@@ -836,10 +836,14 @@
     var cta = wrap.querySelector("[data-book-cta]");
     var leaves = [].slice.call(book.querySelectorAll("[data-leaf]"));
     var flipped = 0, busy = false;
+    // las páginas se cargan y decodifican de antemano para que no haya un fotograma en blanco al pasarlas
+    [].slice.call(book.querySelectorAll("img")).forEach(function (im) {
+      im.loading = "eager";
+      if (im.decode) im.decode().catch(function () {});
+    });
     var layout = function () {
       leaves.forEach(function (l, i) {
         var isF = i < flipped;
-        l.style.zIndex = isF ? i : leaves.length - i;
         l.style.transform = "translateZ(" + (isF ? i * .4 : (leaves.length - i) * .4) + "px) rotateY(" + (isF ? -180 : 0) + "deg)";
       });
       if (cta) cta.tabIndex = flipped === leaves.length ? 0 : -1;
@@ -851,7 +855,6 @@
         wrap.classList.add("is-open");
         var l = leaves[flipped];
         var n = flipped;
-        l.style.zIndex = 100;
         flipped++;
         busy = true;
         // ya con su altura final: así no pasa por detrás de la hoja anterior al terminar
@@ -863,7 +866,7 @@
         if (cta) cta.tabIndex = -1;
         for (var i = leaves.length - 1; i >= 0; i--) {
           (function (idx) {
-            setTimeout(function () { leaves[idx].style.zIndex = 100 - idx; leaves[idx].style.transform = "translateZ(" + ((leaves.length - idx) * .4) + "px) rotateY(0deg)"; }, (leaves.length - 1 - idx) * 90);
+            setTimeout(function () { leaves[idx].style.transform = "translateZ(" + ((leaves.length - idx) * .4) + "px) rotateY(0deg)"; }, (leaves.length - 1 - idx) * 90);
           })(i);
         }
         setTimeout(function () { flipped = 0; layout(); busy = false; }, 1000);
