@@ -655,6 +655,13 @@
     b.addEventListener("click", function () {
       var panel = b.closest(".guideitem").querySelector("[data-guide-box]");
       var open = panel.hidden;
+      // solo una guía abierta a la vez: se cierran las demás
+      document.querySelectorAll(".guideitem [data-guide-box]").forEach(function (other) {
+        if (other === panel || other.hidden) return;
+        other.hidden = true;
+        var ob = other.closest(".guideitem").querySelector("[data-guide-open]");
+        if (ob) ob.setAttribute("aria-expanded", "false");
+      });
       panel.hidden = !open;
       b.setAttribute("aria-expanded", open ? "true" : "false");
       if (open) { var i = panel.querySelector("input[type=email]"); if (i) i.focus(); }

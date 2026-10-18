@@ -127,7 +127,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261019a"></script>
+  <script src="/assets/js/main.js?v=20261019b"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog", mainClass = "" }) {
@@ -727,8 +727,8 @@ function renderIndex(posts, destinos = []) {
   const body = `    <section class="pagehead pagehead--bloghome torn-bottom" style="background:linear-gradient(120deg,#1f3e64,#3c6aa3 55%,#5a90cf);">
       <div class="pagehead__inner container">
         <span class="eyebrow" style="color:var(--gold-soft)"><span class="eyebrow__emoji" aria-hidden="true">✍️</span><span>Blog</span></span>
-        <h1>Historias del camino</h1>
-        <p>Rutas, consejos y rincones de España contados con calma por Chenoaventuras.</p>
+        <h1>Cuaderno de aventuras</h1>
+        <p>Mis viajes, descubrimientos y recomendaciones para ayudarte a organizar tu próxima escapada.</p>
       </div>
     </section>
 
