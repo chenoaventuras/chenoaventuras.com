@@ -328,17 +328,13 @@
 
     /* --- top 5 mundial: ranking online en Supabase, con copia local de respaldo --- */
     var TOP_KEY = "cheno-run-top";
-    var SUPA_URL = "https://kfjdqxlhlcppbjryyikn.supabase.co";
-    var SUPA_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtmamRxeGxobGNwcGJqcnl5aWtuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg5ODgzNDIsImV4cCI6MjEwNDU2NDM0Mn0.GRT8tZ3iC1nyCiSAIiDcnTaJOBm1KmMpgXrvMIjqOQU";
-    var SUPA_REST = SUPA_URL + "/rest/v1/scores";
-    var SUPA_HEADERS = { apikey: SUPA_KEY, Authorization: "Bearer " + SUPA_KEY };
-
     var scoreForm = document.getElementById("score-form");
     var scoreName = document.getElementById("score-name");
     var scoreBoard = document.getElementById("score-board");
     var boardWrap = document.querySelector(".scoreboard");
     var pendingScore = 0;
     var pendingPlayed = 0;
+    var pendingRun = "";
     var runStart = 0;
     var topCache = [];
 
@@ -358,28 +354,32 @@
         .slice(0, 5);
     }
 
-    function supaReadDirect() {
-      return fetch(SUPA_REST + "?select=name,score&order=score.desc&limit=5", { headers: SUPA_HEADERS })
+    function fetchTopOnline() {
+      if (!window.fetch) return Promise.resolve(null);
+      // Solo por /api/scores; si falla se usa la copia local.
+      return fetch("/api/scores", { headers: { Accept: "application/json" } })
         .then(function (r) { return r.ok ? r.json() : null; })
         .catch(function () { return null; });
     }
-    function fetchTopOnline() {
-      if (!window.fetch) return Promise.resolve(null);
-      // 1º la función blindada; si no está lista, lectura directa de Supabase.
-      return fetch("/api/scores", { headers: { Accept: "application/json" } })
-        .then(function (r) { if (!r.ok) throw 0; return r.json(); })
-        .catch(function () { return supaReadDirect(); });
+    // Ficha firmada de la partida: la emite el servidor al empezar y es la que
+    // permite comprobar (con su propio reloj) que la puntuación es posible.
+    var runToken = "";
+    function getRunToken() {
+      runToken = "";
+      if (!window.fetch) return;
+      fetch("/api/scores?run=1", { headers: { Accept: "application/json" } })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (j) { if (j && j.run) runToken = j.run; })
+        .catch(function () {});
     }
-    function submitOnline(name, score, playedMs) {
+    function submitOnline(name, score, run) {
       if (!window.fetch) return Promise.resolve(false);
-      // Solo por /api/scores: es la única vía que valida la puntuación,
-      // limita envíos por IP y sanea el nombre. Sin respaldo directo a
-      // Supabase aquí (eso dejaba sin efecto esas comprobaciones, ya que
-      // la clave anon queda visible en este mismo archivo).
+      // Solo por /api/scores: valida la puntuación con el tiempo medido por el
+      // servidor, limita envíos por IP y sanea el nombre.
       return fetch("/api/scores", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name: name, score: score, t: playedMs || 0 })
+        body: JSON.stringify({ name: name, score: score, run: run || "" })
       }).then(function (r) { return r.ok; })
         .catch(function () { return false; });
     }
@@ -429,7 +429,7 @@
         if (scoreForm.hidden || pendingScore <= 0) return;
         var name = ((scoreName && scoreName.value) || "").trim().slice(0, 14) || "Anónimo";
         var sc = pendingScore;
-        var played = pendingPlayed;
+        var run = pendingRun;
         scoreForm.hidden = true;
         // pinta ya la marca de forma optimista
         topCache = normalize(topCache.concat([{ name: name, score: sc }]));
@@ -437,7 +437,7 @@
         best = Math.max(best, topCache[0].score);
         renderBoard(topCache);
         // guarda en el servidor y recarga el ranking real
-        submitOnline(name, sc, played).then(function () { return refreshTop(); });
+        submitOnline(name, sc, run).then(function () { return refreshTop(); });
       });
     }
     topCache = normalize(loadLocal());
@@ -456,6 +456,7 @@
       level = 1; nextLevel = 650; hardCheckpoint = 0;
       prevKind = null;
       runStart = Date.now();
+      getRunToken();
       if (scoreForm) scoreForm.hidden = true;
     }
 
@@ -883,6 +884,7 @@
 
             var finalScore = Math.floor(score);
             pendingPlayed = runStart ? Math.max(0, Date.now() - runStart) : 0;
+            pendingRun = runToken;
             best = Math.max(best, finalScore);
             try { localStorage.setItem("cheno-run-best", String(best)); } catch (e) {}
             syncBtn();

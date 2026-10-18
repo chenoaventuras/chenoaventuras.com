@@ -13,6 +13,7 @@ import { marked } from "marked";
 const REPORT = ".refresh/informe.md";
 const LINKS = ".refresh/enlaces.md";
 const GSC = ".refresh/gsc.md";
+const NUEVOS = ".refresh/enlaces-nuevos.md";
 const status = process.env.JOB_STATUS || "success";
 const runUrl = process.env.RUN_URL || "";
 const apiKey = process.env.BREVO_API_KEY;
@@ -28,6 +29,7 @@ const hasReport = existsSync(REPORT);
 const report = hasReport ? readFileSync(REPORT, "utf8") : "";
 const links = existsSync(LINKS) ? readFileSync(LINKS, "utf8") : "";
 const gsc = existsSync(GSC) ? readFileSync(GSC, "utf8") : "";
+const nuevos = existsSync(NUEVOS) ? readFileSync(NUEVOS, "utf8") : "";
 const failed = status !== "success";
 
 let subject;
@@ -45,8 +47,8 @@ if (failed) {
   subject = `Revisión semanal del blog (${date})`;
 }
 
-const body = hasReport || links || gsc
-  ? marked.parse([report, gsc, links].filter(Boolean).join("\n\n"))
+const body = hasReport || links || gsc || nuevos
+  ? marked.parse([report, nuevos, gsc, links].filter(Boolean).join("\n\n"))
   : failed
     ? ""
     : "<p>La revisión terminó pero no generó informe. Revisa la ejecución en GitHub Actions.</p>";

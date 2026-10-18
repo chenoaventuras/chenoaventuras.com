@@ -153,6 +153,14 @@ export default async function handler(req, res) {
         res.json({ error: "No se pudo apuntar el email. Inténtalo de nuevo." });
         return;
       }
+      // Aviso a Cheno ya en la solicitud: hasta que el visitante confirma no
+      // aparece en Brevo, así que sin este correo no te enterarías de nada.
+      await avisarAlDueno(
+        apiKey,
+        guide ? `Solicitud de guía (pendiente de confirmar): ${guide.title}` : "Solicitud de newsletter (pendiente de confirmar)",
+        `<p><strong>${escapeHtml(email)}</strong> ha pedido ${guide ? `la guía <strong>${escapeHtml(guide.title)}</strong>` : "apuntarse a la newsletter"}.</p>` +
+          `<p>Aún tiene que pulsar el botón del correo de confirmación; hasta entonces no aparece en Brevo. Si no confirma, no pasa nada: no se le envía nada más.</p>`
+      );
       res.statusCode = 200;
       res.json({ ok: true, confirm: true });
       return;
@@ -196,27 +204,19 @@ export default async function handler(req, res) {
     }
 
     // Brevo devuelve 201 si el contacto es nuevo y 204 si ya existía (lo
-    // actualiza). Solo avisamos a Cheno cuando es una suscripción nueva,
-    // para no recibir un correo cada vez que alguien repite su email.
+    // actualiza). Si pidió una guía, Cheno recibe siempre un aviso (también si
+    // ya estaba en la lista); si solo se apunta, solo cuando es nuevo, para no
+    // recibir un correo cada vez que alguien repite su email.
     const isNewContact = r.status === 201;
-    if (isNewContact) {
-      // aviso a Cheno; si falla, no rompe la suscripción (ya guardada arriba)
-      try {
-        await fetch("https://api.brevo.com/v3/smtp/email", {
-          method: "POST",
-          headers: {
-            "content-type": "application/json",
-            accept: "application/json",
-            "api-key": apiKey,
-          },
-          body: JSON.stringify({
-            sender: { name: "Web Chenoaventuras", email: SENDER_EMAIL },
-            to: [{ email: OWNER_EMAIL, name: "Cheno" }],
-            subject: "Nueva suscripción a la newsletter",
-            htmlContent: `<p>Nuevo suscriptor: <strong>${escapeHtml(email)}</strong>${src ? ` (guía: ${escapeHtml(src)})` : ""}</p>`,
-          }),
-        });
-      } catch (e) {}
+    if (guide) {
+      await avisarAlDueno(
+        apiKey,
+        `Guía solicitada: ${guide.title}`,
+        `<p><strong>${escapeHtml(email)}</strong> ha pedido <strong>${escapeHtml(guide.title)}</strong> (${isNewContact ? "suscriptor nuevo" : "ya estaba en la lista"}).` +
+          `${alreadyHadGuide ? " Ya la tenía de antes: no se le ha reenviado." : ""}</p>`
+      );
+    } else if (isNewContact) {
+      await avisarAlDueno(apiKey, "Nueva suscripción a la newsletter", `<p>Nuevo suscriptor: <strong>${escapeHtml(email)}</strong>${src ? ` (origen: ${escapeHtml(src)})` : ""}</p>`);
     }
 
     res.statusCode = 200;
@@ -227,6 +227,31 @@ export default async function handler(req, res) {
     res.statusCode = 500;
     res.json({ error: "Fallo al guardar el contacto" });
   }
+}
+
+// Tope de avisos a Cheno por hora (en memoria): si alguien abusara del
+// formulario, tu buzón no se llena; el alta y el correo al visitante siguen igual.
+let avisosHora = [];
+const MAX_AVISOS_HORA = 20;
+
+// Correo de aviso a Cheno; si falla, no rompe nada.
+async function avisarAlDueno(apiKey, subject, htmlContent) {
+  const ahora = Date.now();
+  avisosHora = avisosHora.filter((t) => ahora - t < 3600000);
+  if (avisosHora.length >= MAX_AVISOS_HORA) return;
+  avisosHora.push(ahora);
+  try {
+    await fetch("https://api.brevo.com/v3/smtp/email", {
+      method: "POST",
+      headers: { "content-type": "application/json", accept: "application/json", "api-key": apiKey },
+      body: JSON.stringify({
+        sender: { name: "Web Chenoaventuras", email: SENDER_EMAIL },
+        to: [{ email: OWNER_EMAIL, name: "Cheno" }],
+        subject,
+        htmlContent,
+      }),
+    });
+  } catch (e) {}
 }
 
 function escapeHtml(s) {

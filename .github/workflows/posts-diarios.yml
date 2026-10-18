@@ -24,9 +24,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 300
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: 20
 
@@ -44,7 +45,7 @@ jobs:
           echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
       - name: Escribir los posts con Claude Code
-        uses: anthropics/claude-code-action@v1
+        uses: anthropics/claude-code-action@f27be6b65a4652f08a2ba3cff79114829b588967 # v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           claude_args: |
@@ -150,6 +151,10 @@ jobs:
 
             Al terminar, escribe un resumen corto: zona, posts creados y lugares
             descartados (y por qué).
+
+      - name: Revisar enlaces nuevos añadidos por la IA (queda en el registro)
+        continue-on-error: true
+        run: node scripts/enlaces-nuevos.mjs
 
       - name: Convertir fotos a WebP y comprobar que compila
         run: |

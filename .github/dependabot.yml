@@ -1,0 +1,8 @@
+version: 2
+updates:
+  # Las acciones de los workflows están fijadas por commit; esto avisa de versiones nuevas.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 3

@@ -26,7 +26,10 @@ export default function handler(req, res) {
     new URLSearchParams({
       client_id: clientId,
       redirect_uri: redirectUri,
-      scope: "repo,user",
+      // Mínimo imprescindible: el repositorio es público, así que basta con
+      // escribir en repos públicos y leer el perfil (si el token se filtrara,
+      // no daría acceso a repositorios privados ni a datos de la cuenta).
+      scope: "public_repo,read:user",
       state,
     }).toString();
 
