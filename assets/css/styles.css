@@ -2229,19 +2229,17 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 /* =========================================================================
    Mapa: el mapa dentro de una tableta sujeta por dos manos
    ========================================================================= */
-/* cabecera del mapa: franja azul a todo el ancho (como la del blog) con borde rasgado sobre la acuarela */
-.pagehead--mapa { background: linear-gradient(120deg, rgba(31,62,100,.78), rgba(60,106,163,.78) 55%, rgba(90,144,207,.78)); position: relative; z-index: 2; }
-main:has(.tablet-scene) .pagehead.torn-bottom::after { display: none; }
-main:has(.tablet-scene) .pagehead.torn-bottom {
-  -webkit-mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px;
-  mask: linear-gradient(#000, #000) top / 100% calc(100% - 33px) no-repeat, url("../img/edges/torn-mask.svg") repeat-x bottom center / 1200px 34px; }
-.pagehead--mapa h1 .accent { background: linear-gradient(90deg, #f8d878, #9fd3f0, #b9d98a, #f8d878); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }
-@media (prefers-reduced-motion: reduce) { .pagehead--mapa h1 .accent { animation: none; color: var(--gold-soft); background: none; } }
-.tablet-scene { --pad: max(calc((100vw - 1100px) / 2), clamp(60px, 7vw, 110px)); --h: clamp(300px, 36vw, 500px); position: relative; z-index: 1; padding: 34px var(--pad) 110px;
+/* cabecera del mapa: sin cuadro, el título va directamente sobre la acuarela */
+.pagehead--mapa { background: none; color: var(--night); position: relative; z-index: 2; overflow: visible; padding-bottom: 0; }
+.pagehead--mapa h1 { color: var(--night); }
+.pagehead--mapa p { color: var(--ink); }
+.pagehead--mapa h1 .accent { background: linear-gradient(90deg, #6c7d46, #3f6d9e, #d9a514, #6c7d46); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }
+@media (prefers-reduced-motion: reduce) { .pagehead--mapa h1 .accent { animation: none; color: var(--gold-dark); background: none; } }
+.tablet-scene { --pad: max(calc((100vw - 1100px) / 2), clamp(60px, 7vw, 110px)); --h: clamp(300px, 36vw, 500px); position: relative; z-index: 1; padding: 8px var(--pad) 110px;
   width: 100vw; margin-left: calc(50% - 50vw); border-radius: 0; overflow: hidden; margin-bottom: 0;
   /* arriba y abajo la escena se funde con la acuarela */
-  -webkit-mask: linear-gradient(180deg, transparent 0, #000 32px, #000 calc(100% - 90px), transparent 100%);
-  mask: linear-gradient(180deg, transparent 0, #000 32px, #000 calc(100% - 90px), transparent 100%); }
+  -webkit-mask: linear-gradient(180deg, transparent 0, #000 14px, #000 calc(100% - 90px), transparent 100%);
+  mask: linear-gradient(180deg, transparent 0, #000 14px, #000 calc(100% - 90px), transparent 100%); }
 /* El paisaje solo se ve en los bordes: el centro de la foto es una mancha difuminada que queda detrás de la tableta */
 .tablet-scene::after { content: ""; position: absolute; inset: 0; z-index: 0; pointer-events: none;
   background: url("../img/mapa/fondo-paisaje.webp") center / 100% 100% no-repeat;
@@ -2257,7 +2255,7 @@ main:has(.tablet-scene) .pagehead.torn-bottom {
 .tablet__mano--izq { left: calc(var(--pad) + 12px - var(--h) * .5 * .883); }
 .tablet__mano--der { right: calc(var(--pad) + 12px - var(--h) * .503 * .881); }
 @media (max-width: 760px) {
-  .tablet-scene { --pad: 14px; padding: 26px 14px 70px; -webkit-mask: linear-gradient(180deg, transparent 0, #000 24px, #000 calc(100% - 50px), transparent 100%); mask: linear-gradient(180deg, transparent 0, #000 24px, #000 calc(100% - 50px), transparent 100%); }
+  .tablet-scene { --pad: 14px; padding: 8px 14px 70px; -webkit-mask: linear-gradient(180deg, transparent 0, #000 10px, #000 calc(100% - 50px), transparent 100%); mask: linear-gradient(180deg, transparent 0, #000 10px, #000 calc(100% - 50px), transparent 100%); }
   .tablet { border-radius: 20px; padding: 10px; }
   .tablet__mano { display: none; }
 }
