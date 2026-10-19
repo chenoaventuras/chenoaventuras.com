@@ -838,41 +838,36 @@
     });
   }
 
-  /* ---------- Libro de guías (inicio): 3 hojas que se pasan con cada clic; al pasar la
-     tercera aparece «Ver todas las guías» y el clic siguiente cierra el libro ---------- */
-  var book = document.querySelector("[data-book]");
-  if (book) {
-    var wrap = book.closest("[data-bookwrap]");
-    var cta = wrap.querySelector("[data-book-cta]");
-    var leaves = [].slice.call(book.querySelectorAll("[data-leaf]"));
-    var flipped = 0, busy = false;
-    // las páginas se cargan y decodifican de antemano para que no haya un fotograma en blanco al pasarlas
-    [].slice.call(book.querySelectorAll("img")).forEach(function (im) {
-      im.loading = "eager";
-      if (im.decode) im.decode().catch(function () {});
-    });
-    // posición de cada hoja: Z y z-index fijos según su sitio en la pila (la portada arriba cuando está cerrado)
-    var place = function (i, isF, top) {
-      var l = leaves[i];
-      l.style.zIndex = top ? 100 : (isF ? i + 1 : leaves.length - i);
-      l.style.transform = "translateZ(" + (isF ? i * 1.2 : (leaves.length - i) * 1.2) + "px) rotateY(" + (isF ? -180 : 0) + "deg)";
-    };
-    var layout = function () {
-      leaves.forEach(function (l, i) { place(i, i < flipped, false); });
-      if (cta) cta.tabIndex = flipped === leaves.length ? 0 : -1;
-    };
-    layout();
-    book.addEventListener("click", function () {
-      if (busy) return;
-      if (flipped < leaves.length) {
-        wrap.classList.add("is-open");
-        var n = flipped;
-        flipped++;
-        busy = true;
-        place(n, true, true);
-        setTimeout(function () { layout(); busy = false; }, 760);
-      } else {
-        busy = true;
+  /* ---------- Libros de guías (inicio): tres guías de ejemplo. La del centro se hojea con cada
+     clic (3 hojas; al pasar la tercera aparece «Ver todas las guías» y el clic siguiente la cierra).
+     Si pulsan una de las de atrás, pasa al centro y se abre. Al abrirse una, las otras se ocultan. ---------- */
+  var stack = document.querySelector("[data-bookstack]");
+  if (stack) {
+    var makeBook = function (wrap) {
+      var bookBtn = wrap.querySelector("[data-book]");
+      var cta = wrap.querySelector("[data-book-cta]");
+      var leaves = [].slice.call(bookBtn.querySelectorAll("[data-leaf]"));
+      var B = { wrap: wrap, btn: bookBtn, flipped: 0, busy: false };
+      // posición de cada hoja: Z y z-index fijos según su sitio en la pila (la portada arriba cuando está cerrado)
+      var place = function (i, isF, top) {
+        var l = leaves[i];
+        l.style.zIndex = top ? 100 : (isF ? i + 1 : leaves.length - i);
+        l.style.transform = "translateZ(" + (isF ? i * 1.2 : (leaves.length - i) * 1.2) + "px) rotateY(" + (isF ? -180 : 0) + "deg)";
+      };
+      var layout = function () {
+        leaves.forEach(function (l, i) { place(i, i < B.flipped, false); });
+        if (cta) cta.tabIndex = B.flipped === leaves.length ? 0 : -1;
+      };
+      // las páginas se cargan y decodifican de antemano para que no haya un fotograma en blanco al pasarlas
+      B.preload = function () {
+        [].slice.call(bookBtn.querySelectorAll("img")).forEach(function (im) {
+          im.loading = "eager";
+          if (im.decode) im.decode().catch(function () {});
+        });
+      };
+      B.isOpen = function () { return B.flipped > 0; };
+      B.close = function (done) {
+        B.busy = true;
         wrap.classList.remove("is-open");
         if (cta) cta.tabIndex = -1;
         for (var i = leaves.length - 1; i >= 0; i--) {
@@ -880,9 +875,47 @@
             setTimeout(function () { place(idx, false, false); }, (leaves.length - 1 - idx) * 90);
           })(i);
         }
-        setTimeout(function () { flipped = 0; layout(); busy = false; }, 1100);
-      }
+        setTimeout(function () { B.flipped = 0; layout(); B.busy = false; if (done) done(); }, 1100);
+      };
+      B.step = function () {
+        if (B.busy) return;
+        if (B.flipped < leaves.length) {
+          wrap.classList.add("is-open");
+          var n = B.flipped;
+          B.flipped++;
+          B.busy = true;
+          place(n, true, true);
+          setTimeout(function () { layout(); B.busy = false; }, 760);
+        } else {
+          B.close();
+        }
+      };
+      layout();
+      return B;
+    };
+    var books = [].slice.call(stack.querySelectorAll("[data-bookwrap]")).map(makeBook);
+    var center = function () { return books.filter(function (b) { return b.wrap.getAttribute("data-pos") === "center"; })[0]; };
+    var bringFront = function (target) {
+      var cur = center();
+      if (!cur || cur.busy || target.busy) return;
+      var swap = function () {
+        var pos = target.wrap.getAttribute("data-pos");
+        cur.wrap.setAttribute("data-pos", pos);
+        target.wrap.setAttribute("data-pos", "center");
+        target.preload();
+        // cuando ya está delante, se abre
+        setTimeout(function () { target.step(); }, 650);
+      };
+      if (cur.isOpen()) cur.close(swap); else swap();
+    };
+    books.forEach(function (b) {
+      b.btn.addEventListener("click", function () {
+        stack.classList.add("is-tocado");
+        if (b.wrap.getAttribute("data-pos") === "center") b.step(); else bringFront(b);
+      });
     });
+    // se cargan todas las páginas un poco después de entrar, para que al pulsar no haya huecos
+    setTimeout(function () { books.forEach(function (b) { b.preload(); }); }, 2500);
   }
 
   /* ---------- Año dinámico ---------- */
