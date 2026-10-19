@@ -914,6 +914,16 @@
         if (b.wrap.getAttribute("data-pos") === "center") b.step(); else bringFront(b);
       });
     });
+    // pulsar fuera de la guía abierta (o Escape) la cierra
+    document.addEventListener("click", function (ev) {
+      var cur = center();
+      if (!cur || !cur.isOpen() || cur.busy || cur.wrap.contains(ev.target)) return;
+      cur.close();
+    });
+    document.addEventListener("keydown", function (ev) {
+      var cur = center();
+      if (ev.key === "Escape" && cur && cur.isOpen() && !cur.busy) cur.close();
+    });
     // se cargan todas las páginas un poco después de entrar, para que al pulsar no haya huecos
     setTimeout(function () { books.forEach(function (b) { b.preload(); }); }, 2500);
   }

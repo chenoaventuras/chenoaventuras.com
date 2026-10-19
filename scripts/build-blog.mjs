@@ -127,7 +127,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261019zp"></script>
+  <script src="/assets/js/main.js?v=20261019zr"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog", mainClass = "" }) {
