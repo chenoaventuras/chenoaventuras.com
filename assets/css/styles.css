@@ -2331,10 +2331,10 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Mi equipo: la cabecera conserva su foto de mapa; el resto de la página va sobre la acuarela */
 .fondo-acuarela .gearsection { background: none; }
-/* Mi equipo: la cabecera se difumina hacia la acuarela en vez de acabar en triángulos */
+/* Mi equipo: la cabecera se difumina poco a poco hacia la acuarela (degradado suave y largo, que se solapa con la cuadrícula) */
 .fondo-acuarela .pagehead--equipo.torn-bottom {
-  padding-bottom: clamp(30px, 4vw, 44px);
-  -webkit-mask: linear-gradient(#000 calc(100% - 44px), transparent);
-  mask: linear-gradient(#000 calc(100% - 44px), transparent); }
+  padding-bottom: 150px; margin-bottom: -110px; pointer-events: none;
+  --fade: linear-gradient(#000 calc(100% - 150px), rgba(0,0,0,.94) calc(100% - 132px), rgba(0,0,0,.8) calc(100% - 112px), rgba(0,0,0,.58) calc(100% - 90px), rgba(0,0,0,.36) calc(100% - 66px), rgba(0,0,0,.18) calc(100% - 44px), rgba(0,0,0,.06) calc(100% - 22px), transparent);
+  -webkit-mask: var(--fade); mask: var(--fade); }
 .fondo-acuarela .gearsection { padding-top: 0; }
 .fondo-acuarela .gearsection .gearlist { margin-top: 0; }
