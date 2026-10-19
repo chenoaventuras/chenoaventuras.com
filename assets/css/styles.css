@@ -2393,3 +2393,6 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
   6%, 16% { transform: translateX(78%) scale(.84) rotate(8deg); }
 }
 @media (prefers-reduced-motion: reduce) { .bookwrap[data-pos="left"], .bookwrap[data-pos="right"] { animation: none !important; } }
+
+/* Mi equipo con la cabecera de burbuja de cristal: un poco de aire antes de los objetos */
+.fondo-acuarela .gearsection .gearlist { margin-top: clamp(14px, 2vw, 24px); }
