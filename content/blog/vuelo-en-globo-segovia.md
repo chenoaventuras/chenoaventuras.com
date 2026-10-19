@@ -1,6 +1,7 @@
 ---
 title: 'Vuelo en globo sobre Segovia: el acueducto y el Alcázar desde el aire'
 date: 2025-05-29T19:04:50.000Z
+updated: 2026-10-19
 lugar: 'Segovia'
 seoTitle: 'Vuelo en globo sobre Segovia: acueducto y Alcázar'
 lat: 40.9481
@@ -14,7 +15,7 @@ igPermalink: 'https://www.instagram.com/reel/DKP5_zQIwIo/'
 faqTitulo: "Dudas sobre el vuelo en globo"
 faq:
   - q: "¿Cuánto cuesta un vuelo en globo en Segovia?"
-    a: "Desde unos 170 € por persona, con brindis de cava, desayuno campestre y certificado de vuelo. Suele haber promociones de última hora."
+    a: "Desde unos 120 € hasta más de 300 € por persona según la empresa y lo que incluya (a octubre de 2026, Spain.info lista uno desde 205 €). El mío costó 170 €, con brindis de cava, desayuno campestre y certificado de vuelo."
   - q: "¿Cuánto dura el vuelo en globo en Segovia?"
     a: "El vuelo dura alrededor de 1 hora, pero toda la experiencia ronda las 3 horas."
   - q: "¿Qué se ve desde el globo en Segovia?"
@@ -56,7 +57,7 @@ Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/
 
 ## Lo básico antes de reservar
 
-- **Precio:** el vuelo con el que fui parte de **170 € por persona**. En Segovia hay varias empresas y los precios van, más o menos, de **120 € a más de 300 €** según lo que incluya (desayuno, brindis, fotos, traslados o vuelo privado).
+- **Precio:** el vuelo con el que fui parte de **170 € por persona**. En Segovia hay varias empresas y los precios van, más o menos, de **120 € a más de 300 €** según lo que incluya (desayuno, brindis, fotos, traslados o vuelo privado). A octubre de 2026, el listado oficial de turismo (Spain.info) muestra un vuelo desde **205 € por persona**.
 - **Duración:** el vuelo dura **alrededor de 1 hora**, pero la experiencia completa (montaje del globo, vuelo, aterrizaje y desayuno) ronda las **3 horas**.
 - **Horario:** se vuela **al amanecer**, que es cuando el aire está más tranquilo. Toca madrugar.
 - **Edad:** depende de la empresa. Algunas aceptan niños desde unos 6 años y otras sin mínimo; pregunta al reservar.

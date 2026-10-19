@@ -1,6 +1,7 @@
 ---
 title: 'Lago Martiánez: las piscinas de César Manrique frente al Atlántico'
 date: 2025-02-23T19:49:25.000Z
+updated: 2026-10-19
 destino: tenerife
 lugar: 'Lago Martiánez'
 seoTitle: 'Lago Martiánez: piscinas de César Manrique en Tenerife'
@@ -15,7 +16,7 @@ igPermalink: 'https://www.instagram.com/reel/DGbXoV2Iaq6/'
 faqTitulo: "Dudas sobre el Lago Martiánez"
 faq:
   - q: "¿Cuánto cuesta el Lago Martiánez?"
-    a: "5,50 € adultos y 2,50 € niños hasta 10 años (residentes: 3 € y 1,50 €). Todas las entradas incluyen tumbona."
+    a: "7 € adultos y 4 € niños desde enero de 2025 (antes 5,50 € y 2,50 €), con tarifas reducidas para residentes. Todas las entradas incluyen tumbona."
   - q: "¿Qué horario tiene el Lago Martiánez?"
     a: "De 10:00 a 19:00 h del 1 de julio al 30 de septiembre, y de 10:00 a 18:00 h el resto del año."
   - q: "¿Dónde está el Lago Martiánez?"
