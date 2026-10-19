@@ -1,5 +1,5 @@
 ---
-title: Bienvenido al cuaderno de aventuras de Chenoaventuras
+title: Bienvenido al blog de Chenoaventuras
 date: 2026-09-10T11:00:00.000+02:00
 updated: 2026-10-19T12:00:00.000+02:00
 excerpt: "Más de 300 lugares de España contados con calma: qué ver, cómo llegar, dónde comer y qué reservar. Así se usa el blog."
