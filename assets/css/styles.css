@@ -2351,3 +2351,5 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Sin la rayita decorativa delante de las etiquetas de sección */
 .eyebrow::before, .eyebrow--lines::after { display: none; }
+
+.mapahead__l2 { display: block; }
