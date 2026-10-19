@@ -2352,12 +2352,9 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 /* Sin la rayita decorativa delante de las etiquetas de sección */
 .eyebrow::before, .eyebrow--lines::after { display: none; }
 
-/* Blog: el fondo del recuadro es una hoja de cuaderno desenfocada (renglones, margen rojo y espiral) */
-.pagehead--cuaderno .mapahead__card { position: relative; overflow: hidden; isolation: isolate; background: rgba(255,255,255,.35); }
-.pagehead--cuaderno .mapahead__card::before { content: ""; position: absolute; inset: -4px; z-index: -1; pointer-events: none;
-  background:
-    radial-gradient(circle at 26px 50%, #e9e5dc 0 6px, rgba(110,104,92,.5) 7px 9px, transparent 10px) 0 0 / 60px 44px repeat-y,
-    linear-gradient(90deg, transparent 64px, rgba(214,70,70,.38) 64px 66px, transparent 66px),
-    repeating-linear-gradient(transparent 0 29px, rgba(63,109,158,.30) 29px 31px),
-    #fbf7ec;
-  filter: blur(1.6px); opacity: .82; }
+/* Blog: el recuadro lleva de fondo la foto de Lanuza con un velo azul, texto en blanco */
+.pagehead--cuaderno .mapahead__card { background: linear-gradient(110deg, rgba(31,62,100,.86), rgba(60,106,163,.5)), url("../img/hero.webp") center 58% / cover; -webkit-backdrop-filter: none; backdrop-filter: none; border-color: rgba(255,255,255,.35); }
+.pagehead--cuaderno .mapahead__card .eyebrow { color: var(--gold-soft); }
+.pagehead--cuaderno .mapahead__card h1 { color: #fff; }
+.pagehead--cuaderno .mapahead__card p { color: rgba(255,255,255,.92); }
+.pagehead--cuaderno .mapahead__card h1 .accent { background: linear-gradient(90deg, #f8d878, #9fd3f0, #b9d98a, #f8d878); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }
