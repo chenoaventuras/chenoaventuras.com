@@ -2380,3 +2380,16 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 /* La página azul de «Ver todas las guías» solo existe con el libro abierto: cerrado no debe asomar por los bordes */
 .bookwrap:not(.is-open) .book__end { visibility: hidden; transition: visibility 0s linear 1.1s; }
 .bookwrap.is-open .book__end { visibility: visible; transition: none; }
+
+/* Cuando vibra la guía del centro, las de los lados asoman un poco hacia fuera (misma cadencia de 3 s) */
+.bookstack:not(.is-tocado) .bookwrap[data-pos="left"]:not(.is-open) { animation: libroLadoIzq 3s ease-in-out infinite; }
+.bookstack:not(.is-tocado) .bookwrap[data-pos="right"]:not(.is-open) { animation: libroLadoDer 3s ease-in-out infinite; }
+@keyframes libroLadoIzq {
+  0%, 24%, 100% { transform: translateX(-66%) scale(.84) rotate(-6deg); }
+  6%, 16% { transform: translateX(-78%) scale(.84) rotate(-8deg); }
+}
+@keyframes libroLadoDer {
+  0%, 24%, 100% { transform: translateX(66%) scale(.84) rotate(6deg); }
+  6%, 16% { transform: translateX(78%) scale(.84) rotate(8deg); }
+}
+@media (prefers-reduced-motion: reduce) { .bookwrap[data-pos="left"], .bookwrap[data-pos="right"] { animation: none !important; } }
