@@ -2351,10 +2351,3 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Sin la rayita decorativa delante de las etiquetas de sección */
 .eyebrow::before, .eyebrow--lines::after { display: none; }
-
-/* Blog: el recuadro lleva de fondo el mapa antiguo de «Mi equipo» con un velo azul, texto en blanco */
-.pagehead--cuaderno .mapahead__card { background: linear-gradient(180deg, rgba(30,58,92,.72), rgba(30,58,92,.46)), url("../img/fondo-cabecera-equipo.webp") center / cover; -webkit-backdrop-filter: none; backdrop-filter: none; border-color: rgba(255,255,255,.35); }
-.pagehead--cuaderno .mapahead__card .eyebrow { color: var(--gold-soft); }
-.pagehead--cuaderno .mapahead__card h1 { color: #fff; }
-.pagehead--cuaderno .mapahead__card p { color: rgba(255,255,255,.92); }
-.pagehead--cuaderno .mapahead__card h1 .accent { background: linear-gradient(90deg, #f8d878, #9fd3f0, #b9d98a, #f8d878); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }
