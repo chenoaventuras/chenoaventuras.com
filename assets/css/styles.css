@@ -2333,6 +2333,8 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .fondo-acuarela .gearsection { background: none; }
 /* Mi equipo: la cabecera se difumina hacia la acuarela en vez de acabar en triángulos */
 .fondo-acuarela .pagehead--equipo.torn-bottom {
-  padding-bottom: clamp(70px, 9vw, 110px);
-  -webkit-mask: linear-gradient(#000 calc(100% - 90px), transparent);
-  mask: linear-gradient(#000 calc(100% - 90px), transparent); }
+  padding-bottom: clamp(30px, 4vw, 44px);
+  -webkit-mask: linear-gradient(#000 calc(100% - 44px), transparent);
+  mask: linear-gradient(#000 calc(100% - 44px), transparent); }
+.fondo-acuarela .gearsection { padding-top: 0; }
+.fondo-acuarela .gearsection .gearlist { margin-top: 0; }
