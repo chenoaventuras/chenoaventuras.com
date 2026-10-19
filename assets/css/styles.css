@@ -2353,3 +2353,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .eyebrow::before, .eyebrow--lines::after { display: none; }
 
 .mapahead__l2 { display: block; }
+
+/* Inicio · guías: banda de color papel (no blanco puro, para que no se confunda con las páginas del libro) que se difumina por arriba y por abajo */
+.guiasinicio { padding-block: clamp(56px, 7vw, 88px);
+  background: linear-gradient(180deg, rgba(236,231,219,0) 0, rgba(236,231,219,.82) 22%, rgba(236,231,219,.82) 78%, rgba(236,231,219,0) 100%); }
