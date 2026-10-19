@@ -2338,3 +2338,6 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
   -webkit-mask: var(--fade); mask: var(--fade); }
 .fondo-acuarela .gearsection { padding-top: 0; }
 .fondo-acuarela .gearsection .gearlist { margin-top: 0; }
+
+/* Sin la rayita decorativa delante de las etiquetas de sección */
+.eyebrow::before, .eyebrow--lines::after { display: none; }
