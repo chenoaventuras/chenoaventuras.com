@@ -2,7 +2,7 @@
 title: Bienvenido al cuaderno de aventuras de Chenoaventuras
 date: 2026-09-10T11:00:00.000+02:00
 updated: 2026-10-19T12:00:00.000+02:00
-excerpt: "Más de 300 lugares de España y Marruecos contados con calma: qué ver, cómo llegar, dónde comer y qué reservar. Así se usa el blog."
+excerpt: "Más de 300 lugares de España contados con calma: qué ver, cómo llegar, dónde comer y qué reservar. Así se usa el blog."
 cover: /assets/img/cheno-perfil.jpg
 draft: false
 pinnedOrder: 0
@@ -10,7 +10,7 @@ pinnedOrder: 0
 
 Soy Cheno y llevo tiempo enseñando lugares en vídeos cortos. Pero hay cosas que no caben en 30 segundos: el porqué de un sitio, cómo llegar, qué llevar, cuándo ir, dónde comer. Para eso es este **cuaderno de aventuras**.
 
-Ahora mismo tiene **más de 300 lugares** de España y Marruecos, y sigo añadiendo y revisando.
+Ahora mismo tiene **más de 300 lugares** de España, y sigo añadiendo y revisando.
 
 ## Qué vas a encontrar en cada artículo
 

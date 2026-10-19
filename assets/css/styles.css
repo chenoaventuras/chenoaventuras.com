@@ -2328,3 +2328,6 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
   .guiasnav { display: none; }
   .guiasselect { display: block; width: 100%; font: inherit; padding: .75em 1em; margin-bottom: 10px; border: 1px solid var(--line); border-radius: 12px; background: #fff; color: var(--ink); }
 }
+
+/* Mi equipo: la cabecera conserva su foto de mapa; el resto de la página va sobre la acuarela */
+.fondo-acuarela .gearsection { background: none; }
