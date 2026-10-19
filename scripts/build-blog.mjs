@@ -160,7 +160,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261019y" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261019za" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -724,7 +724,7 @@ function renderIndex(posts, destinos = []) {
           <p class="blogfilter__count" id="blog-count" aria-live="polite"></p>
         </div>\n`;
 
-  const body = `    <section class="pagehead pagehead--bloghome pagehead--mapa">
+  const body = `    <section class="pagehead pagehead--bloghome pagehead--mapa pagehead--cuaderno">
       <div class="pagehead__inner">
         <div class="mapahead__card">
           <span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">✍️</span><span>Blog</span></span>

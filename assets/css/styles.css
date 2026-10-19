@@ -2351,3 +2351,13 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Sin la rayita decorativa delante de las etiquetas de sección */
 .eyebrow::before, .eyebrow--lines::after { display: none; }
+
+/* Blog: el fondo del recuadro es una hoja de cuaderno desenfocada (renglones, margen rojo y espiral) */
+.pagehead--cuaderno .mapahead__card { position: relative; overflow: hidden; isolation: isolate; background: rgba(255,255,255,.35); }
+.pagehead--cuaderno .mapahead__card::before { content: ""; position: absolute; inset: -4px; z-index: -1; pointer-events: none;
+  background:
+    radial-gradient(circle at 26px 50%, #e9e5dc 0 6px, rgba(110,104,92,.5) 7px 9px, transparent 10px) 0 0 / 60px 44px repeat-y,
+    linear-gradient(90deg, transparent 64px, rgba(214,70,70,.38) 64px 66px, transparent 66px),
+    repeating-linear-gradient(transparent 0 29px, rgba(63,109,158,.30) 29px 31px),
+    #fbf7ec;
+  filter: blur(1.6px); opacity: .82; }
