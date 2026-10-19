@@ -20,6 +20,10 @@ faq:
     a: "Unos 45 minutos la visita libre y alrededor de una hora la guiada."
   - q: "¿Qué más hay que ver en Comillas?"
     a: "El Palacio de Sobrellano, el cementerio con el ángel exterminador, la Universidad Pontificia, el casco antiguo y la playa."
+  - q: "¿Cuándo son las fiestas de Comillas?"
+    a: "Las grandes son las del Santo Cristo del Amparo, en julio: el día 15 por la noche bajan al Cristo con velas hasta el muelle y hay procesión marítima, y el 16 es el día grande. Antes, el 29 de junio, se celebra San Pedro."
+  - q: "¿Dónde ver el atardecer en Comillas?"
+    a: "En lo alto del cementerio, con el ángel a contraluz; en el paseo de la playa y el puerto, con el sol cayendo sobre el mar; y en el mirador de Trasvía, con todo el pueblo a tus pies."
   - q: "¿A cuánto está Comillas de Santander?"
     a: "A unos 50 km por la autovía A-8, unos 40 minutos en coche."
 actividades:
@@ -69,6 +73,13 @@ Te cuento qué ver, cuánto cuesta El Capricho y algunas curiosidades 👇
 </ol>
 
 
+<div class="guide__head"><span class="eyebrow">Planes</span><h2>Fiestas y atardeceres en Comillas</h2></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🕯️ El Cristo del Amparo</h3><p>Las fiestas grandes, a mediados de <strong>julio</strong>. La noche del <strong>15</strong> bajan al Cristo con velas hasta el muelle y sale en <strong>procesión marítima</strong>; el <strong>16</strong> es el día grande. Hay verbenas y fuegos: consulta el programa en la web del Ayuntamiento.</p></div>
+<div class="guide__tip"><h3>⚓ San Pedro</h3><p>El <strong>29 de junio</strong>, fiesta del patrón de los marineros, con varios días de ambiente en el pueblo.</p></div>
+<div class="guide__tip"><h3>🌅 Dónde ver el atardecer</h3><p>Desde lo alto del <strong>cementerio</strong>, con el ángel a contraluz; en el <strong>paseo de la playa y el puerto</strong>, con el sol cayendo al mar; o en el <strong>mirador de Trasvía</strong>, con el pueblo a tus pies.</p></div>
+</div>
+
 <!--actividades-->
 
 <div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>A 15 minutos tienes <a href="/blog/san-vicente-de-la-barquera.html">San Vicente de la Barquera</a>, con su puente de 32 ojos y los Picos de fondo, y a media hora la <a href="/blog/cueva-el-soplao.html">cueva El Soplao</a> y sus helictitas. Hacia Santander, <a href="/blog/santillana-del-mar-que-ver.html">Santillana del Mar</a> y la <a href="/blog/cueva-de-altamira-neocueva.html">Neocueva de Altamira</a> están a 20 minutos.</p></div>
@@ -82,4 +93,4 @@ Te cuento qué ver, cuánto cuesta El Capricho y algunas curiosidades 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Precios y horarios de El Capricho consultados en octubre de 2026 en su web oficial; pueden cambiar, así que confírmalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACapricho_Gaud%C3%AD_Comillas_exterior.jpg" target="_blank" rel="noopener">Respinya</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACapricho_de_Gaud%C3%AD_%28Comillas-Cantabria%29_-_Fachada_del_Balc%C3%B3n.jpg" target="_blank" rel="noopener">JnCrlsMG</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AVista_exterior_de_El_Capricho_de_Gaud%C3%AD_%28Cantabria%29.jpg" target="_blank" rel="noopener">Emilio Gómez Fernández</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APalacio_de_Sobrellano_2021.jpg" target="_blank" rel="noopener">Fernando</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACementerio_Comillas.JPG" target="_blank" rel="noopener">Robles Aurora</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3ASeminario_Pontificio._Comillas.jpg" target="_blank" rel="noopener">José Luis Filpo Cabana</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Capricho_de_Gaud%C3%AD_(Comillas-Cantabria)_-_Invernadero.jpg" target="_blank" rel="noopener">JnCrlsMG</a> (CC BY-SA 4.0).</p>
+<p class="guide__note">Precios y horarios de El Capricho consultados en octubre de 2026 en su web oficial, y fechas de fiestas en la web del Ayuntamiento; pueden cambiar, así que confírmalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACapricho_Gaud%C3%AD_Comillas_exterior.jpg" target="_blank" rel="noopener">Respinya</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACapricho_de_Gaud%C3%AD_%28Comillas-Cantabria%29_-_Fachada_del_Balc%C3%B3n.jpg" target="_blank" rel="noopener">JnCrlsMG</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AVista_exterior_de_El_Capricho_de_Gaud%C3%AD_%28Cantabria%29.jpg" target="_blank" rel="noopener">Emilio Gómez Fernández</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APalacio_de_Sobrellano_2021.jpg" target="_blank" rel="noopener">Fernando</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACementerio_Comillas.JPG" target="_blank" rel="noopener">Robles Aurora</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File%3ASeminario_Pontificio._Comillas.jpg" target="_blank" rel="noopener">José Luis Filpo Cabana</a> (CC BY 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Capricho_de_Gaud%C3%AD_(Comillas-Cantabria)_-_Invernadero.jpg" target="_blank" rel="noopener">JnCrlsMG</a> (CC BY-SA 4.0).</p>

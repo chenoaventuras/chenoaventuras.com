@@ -21,6 +21,8 @@ faq:
     a: "Sí, es la única isla habitada de la Comunidad Valenciana, aunque con muy pocos vecinos fijos."
   - q: "¿Cuánto tiempo hace falta para ver Tabarca?"
     a: "Un día es suficiente para recorrerla, bañarte y comer. Si quieres vivirla tranquila, quédate a dormir."
+  - q: "¿Se puede dormir en la isla de Tabarca?"
+    a: "Sí. Hay unos pocos hoteles y hostales en el pueblo, casi todos a un par de minutos de la playa, y algunos apartamentos. Son pocas plazas, así que en verano y en puentes hay que reservar con mucha antelación."
   - q: "¿Cuánto se tarda en llegar a Tabarca?"
     a: "Desde Santa Pola, el trayecto más corto, unos 25-30 minutos en barco. También hay barcos desde Alicante."
 actividades:
@@ -70,6 +72,9 @@ Te cuento cómo llegar, dónde meterte al agua y qué ver en la isla 👇
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Tabarca</h2></div>
 <div class="guide__howto"><p>Lo más rápido es salir desde el <strong>puerto de Santa Pola</strong>, con barcos frecuentes durante todo el año (más en verano). Desde el <strong>puerto de Alicante</strong> el trayecto es más largo, pero cómodo si te alojas en la ciudad.</p><p>Algunas navieras ofrecen barcos con <strong>fondo de cristal</strong> para ver el fondo marino durante el trayecto. Compra la vuelta con hora reservada en verano.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Puerto+de+Santa+Pola" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Puerto de Santa Pola</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Isla+de+Tabarca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Isla de Tabarca</a></div></div>
+
+<div class="guide__head"><span class="eyebrow">Dónde dormir</span><h2>Dormir en la isla de Tabarca</h2></div>
+<div class="guide__howto"><p>Hay <strong>muy pocas plazas</strong>: un puñado de hoteles y hostales dentro del pueblo amurallado, casi todos a dos o tres minutos de la playa, y algunos apartamentos y B&amp;B. En <strong>julio, agosto y puentes</strong> se llenan pronto, así que reserva con tiempo.</p><p>Merece la pena: cuando se va el <strong>último barco</strong>, la isla se queda casi vacía. Atardecer en las murallas, cielo con estrellas y snorkel a primera hora, antes de que lleguen los visitantes. Recuerda que <strong>no se puede llevar coche</strong>: viaja con poco equipaje.</p></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Coge el primer barco</b>: a media mañana llegan muchos visitantes y la isla se llena.</li><li><b>Gafas, tubo y escarpines</b>: el fondo es rocoso y la vida marina, increíble.</li><li><b>Prueba el caldero tabarquino</b>: el plato típico de la isla, con arroz y pescado de roca.</li><li><b>Quédate a dormir</b>: cuando se va el último barco, la isla es otra.</li><li><b>Respeta la reserva</b>: no se puede pescar ni coger nada del fondo.</li></ul></div>
 

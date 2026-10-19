@@ -20,6 +20,8 @@ faq:
     a: "Un paisaje protegido a unos 15 minutos de Albarracín con rocas de arenisca roja, pinares y abrigos con pinturas rupestres. Es también un destino de escalada en bloque muy conocido."
   - q: "¿Dónde aparcar en Albarracín?"
     a: "En los aparcamientos de la entrada del pueblo. El casco antiguo tiene calles muy estrechas y es mejor recorrerlo andando."
+  - q: "¿Qué ver cerca de Albarracín?"
+    a: "Los Pinares de Rodeno, a 15 minutos, y por la sierra, Frías de Albarracín, el pueblo desde el que se va al nacimiento del río Tajo, en el paraje de Fuente García. Es una carretera de curvas: tómatelo como excursión de medio día."
   - q: "¿A cuánto está Albarracín de Teruel?"
     a: "A unos 35-40 minutos en coche por la A-1512."
   - q: "¿Cómo llegar a Albarracín desde Valencia o Zaragoza?"
@@ -74,6 +76,8 @@ Y a 15 minutos tienes los **Pinares de Rodeno**: rocas rojas, pinturas rupestres
 
 
 <!--actividades-->
+
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Sierra arriba está <strong>Frías de Albarracín</strong>, un pueblecito de montaña desde el que se llega al <strong>nacimiento del río Tajo</strong>, en el paraje de <strong>Fuente García</strong>: un monumento a las tres provincias por las que empieza el río (Teruel, Cuenca y Guadalajara), prados y pinares. Por el camino verás una <strong>sima</strong> enorme, un hundimiento del terreno de unos 80 metros de ancho y casi 60 de hondo. La carretera tiene muchas curvas: cuenta medio día. En la vecina serranía de Cuenca tienes otro nacimiento espectacular, el del <a href="/blog/nacimiento-rio-cuervo.html">río Cuervo</a>, y en Teruel capital, los <a href="/blog/amantes-de-teruel.html">Amantes de Teruel</a>.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Albarracín</h2></div>
 <div class="guide__howto"><p>Desde <strong>Teruel</strong>, en unos 35-40 minutos por la <strong>A-1512</strong>. Desde Valencia o Zaragoza son unas dos horas y media.</p><p>Deja el coche en los <strong>aparcamientos de la entrada</strong> del pueblo: el casco antiguo es peatonal en la práctica y muy empinado. Los <strong>Pinares de Rodeno</strong> están a unos 15 minutos en coche, con aparcamientos junto a las rutas señalizadas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Albarracín" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
