@@ -2352,8 +2352,8 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 /* Sin la rayita decorativa delante de las etiquetas de sección */
 .eyebrow::before, .eyebrow--lines::after { display: none; }
 
-/* Blog: el recuadro lleva de fondo la foto de Lanuza con un velo azul, texto en blanco */
-.pagehead--cuaderno .mapahead__card { background: linear-gradient(110deg, rgba(31,62,100,.86), rgba(60,106,163,.5)), url("../img/hero.webp") center 58% / cover; -webkit-backdrop-filter: none; backdrop-filter: none; border-color: rgba(255,255,255,.35); }
+/* Blog: el recuadro lleva de fondo el mapa antiguo de «Mi equipo» con un velo azul, texto en blanco */
+.pagehead--cuaderno .mapahead__card { background: linear-gradient(180deg, rgba(30,58,92,.72), rgba(30,58,92,.46)), url("../img/fondo-cabecera-equipo.webp") center / cover; -webkit-backdrop-filter: none; backdrop-filter: none; border-color: rgba(255,255,255,.35); }
 .pagehead--cuaderno .mapahead__card .eyebrow { color: var(--gold-soft); }
 .pagehead--cuaderno .mapahead__card h1 { color: #fff; }
 .pagehead--cuaderno .mapahead__card p { color: rgba(255,255,255,.92); }
