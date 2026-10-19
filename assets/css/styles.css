@@ -2230,7 +2230,15 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
    Mapa: el mapa dentro de una tableta sujeta por dos manos
    ========================================================================= */
 /* cabecera del mapa: sin cuadro, el título va directamente sobre la acuarela */
-.pagehead--mapa { background: none; color: var(--night); position: relative; z-index: 2; overflow: visible; padding-bottom: 0; }
+.pagehead--mapa { background: none; color: var(--night); position: relative; z-index: 2; overflow: visible; padding-bottom: 14px; }
+/* tarjeta de cristal pegada al borde izquierdo de la pantalla */
+.mapahead__card { display: inline-block; max-width: calc(100% - 16px);
+  padding: 26px clamp(20px, 3vw, 36px) 26px max(var(--gutter), calc((100vw - var(--container)) / 2 + var(--gutter)));
+  background: rgba(255,255,255,.58); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+  border: 1px solid rgba(255,255,255,.75); border-left: 0; border-radius: 0 22px 22px 0; box-shadow: 0 10px 30px rgba(20,40,70,.14); }
+.pagehead--mapa .pagehead__inner { max-width: none; margin: 0; padding: 0; }
+.mapahead__card h1 { margin-bottom: .3em; }
+.mapahead__card p { margin-bottom: 0; }
 .pagehead--mapa h1 { color: var(--ink); }
 .pagehead--mapa p { color: var(--ink); }
 .pagehead--mapa h1 .accent { background: linear-gradient(90deg, #6c7d46, #3f6d9e, #d9a514, #6c7d46); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: titShine 9s linear infinite; }

@@ -160,7 +160,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261019s" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261019v" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -945,9 +945,11 @@ function renderMap(posts, destinos = []) {
     .join("\n");
 
   const body = `    <section class="pagehead pagehead--bloghome pagehead--mapa">
-      <div class="pagehead__inner container">
-        <h1>Mapa de <span class="accent">aventuras</span></h1>
-        <p>Todos los lugares de los que te he hablado, en un solo mapa. Toca un punto y descubre el artículo.</p>
+      <div class="pagehead__inner">
+        <div class="mapahead__card">
+          <h1>Mapa de <span class="accent">aventuras</span></h1>
+          <p>Todos los lugares de los que te he hablado, en un solo mapa. Toca un punto y descubre el artículo.</p>
+        </div>
       </div>
     </section>
 
