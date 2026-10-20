@@ -338,7 +338,7 @@ ZONAS = {
 ),
 "gran-canaria": dict(
   nombre="Gran Canaria", h1_txt="Gran<br>Canaria", portada="roque-nublo", provincias=["Gran Canaria"],
-  orden=["gran-canaria-que-ver", "las-palmas-vegueta", "arucas", "faro-de-sardina", "piscinas-naturales-agaete", "roque-nublo", "barranco-de-las-vacas", "guayadeque", "dunas-de-maspalomas", "patalavaca", "puerto-de-mogan"],
+  orden=["gran-canaria-que-ver", "las-palmas-vegueta", "arucas", "faro-de-sardina", "piscinas-naturales-agaete", "roque-nublo", "barranco-de-las-vacas", "guayadeque", "dunas-de-maspalomas", "azulejos-de-veneguera", "patalavaca", "puerto-de-mogan"],
   sub="Las Palmas, el Roque Nublo, los barrancos del este, las dunas de Maspalomas y el continente en miniatura.",
   titulo_intro="Un continente<br>en miniatura",
   intro=["Gran Canaria cabe en un día de coche y aun así tiene de todo: una capital con barrio colonial y una de las mejores playas urbanas de Europa, cumbres volcánicas como el **Roque Nublo**, barrancos de colores y cuevas aborígenes, un desierto de dunas junto al mar en **Maspalomas** y un pueblo de canales como **Puerto de Mogán**.",
@@ -350,7 +350,7 @@ ZONAS = {
   plan=[("Día 1", "**Las Palmas**: Vegueta, la Casa de Colón y la playa de Las Canteras, y **Arucas** por la tarde."),
         ("Día 2", "Norte: el **Faro de Sardina** y las **piscinas naturales de Agaete**."),
         ("Día 3", "Cumbre y este: el **Roque Nublo**, el **Barranco de las Vacas** y **Guayadeque**."),
-        ("Día 4", "Sur: las **dunas de Maspalomas**, **Patalavaca** y **Puerto de Mogán**.")],
+        ("Día 4", "Sur: las **dunas de Maspalomas**, **Patalavaca**, **Los Azulejos de Veneguera** y **Puerto de Mogán**.")],
 ),
 "lanzarote": dict(
   nombre="Lanzarote y La Graciosa", h1_txt="Lanzarote<br>y La Graciosa", h1="3.9rem", portada="timanfaya", provincias=["Lanzarote", "La Graciosa"],

@@ -20,6 +20,7 @@ export const ZONE_GUIDES = {
   "astorga-que-ver": {"title": "Guía León", "file": "/assets/guias/guia-leon-chenoaventuras.pdf"},
   "astronauta-catedral-salamanca": {"title": "Guía Salamanca", "file": "/assets/guias/guia-salamanca-chenoaventuras.pdf"},
   "avila-que-ver": {"title": "Guía Ávila", "file": "/assets/guias/guia-avila-chenoaventuras.pdf"},
+  "azulejos-de-veneguera": {"title": "Guía Gran Canaria", "file": "/assets/guias/guia-gran-canaria-chenoaventuras.pdf"},
   "barcena-mayor-que-ver": {"title": "Guía Cantabria interior", "file": "/assets/guias/guia-cantabria-interior-chenoaventuras.pdf"},
   "barco-telamon-lanzarote": {"title": "Guía Lanzarote y La Graciosa", "file": "/assets/guias/guia-lanzarote-chenoaventuras.pdf"},
   "bardenas-reales": {"title": "Guía Navarra", "file": "/assets/guias/guia-navarra-chenoaventuras.pdf"},
