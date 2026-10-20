@@ -24,6 +24,8 @@ faq:
     a: "Un día para ver el casco antiguo, el castillo y las iglesias."
   - q: "¿Cuándo ir?"
     a: "En primavera y otoño. En Pentecostés hay La Caballada, con mucha gente."
+guia: /assets/guias/guia-guadalajara-chenoaventuras.pdf
+guiaTitulo: 'Guía Guadalajara en PDF'
 ---
 Un **castillo en ruinas** con vistas a toda la comarca, una plaza porticada, una veintena de iglesias románicas y una fiesta con **caballos** que lleva más de 800 años. **Atienza**, en la Sierra Norte de Guadalajara, es una joya medieval a unos 45 minutos de Sigüenza, y se ve bien en **un día**.
 

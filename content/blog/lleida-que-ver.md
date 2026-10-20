@@ -24,6 +24,8 @@ faq:
     a: "En AVE, en torno a una hora."
   - q: "¿Qué más hay cerca?"
     a: "El Congost de Mont-rebei y el Valle de Arán."
+guia: /assets/guias/guia-lleida-chenoaventuras.pdf
+guiaTitulo: 'Guía Lleida en PDF'
 ---
 Una **catedral gótica sobre un cerro**, un castillo donde nació la Corona de Aragón, el río Segre y un casco antiguo con paeria. **Lleida** es una ciudad subestimada, con una de las mejores vistas de Cataluña desde la **Seu Vella**, y se ve bien en **un día**.
 

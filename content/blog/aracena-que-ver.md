@@ -24,6 +24,8 @@ faq:
     a: "Jamón ibérico de bellota, secreto y otros productos del cerdo ibérico."
   - q: "¿Cómo se llega desde Sevilla?"
     a: "En coche, en algo más de una hora."
+guia: /assets/guias/guia-huelva-chenoaventuras.pdf
+guiaTitulo: 'Guía Huelva en PDF'
 ---
 Una **gruta llena de lagos y estalactitas**, un castillo con vistas a la sierra, una plaza modernista y el mejor **jamón ibérico** de bellota. **Aracena** es la capital de la Sierra de Aracena y Picos de Aroche, en Huelva, y se ve bien en **un día**.
 

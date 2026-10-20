@@ -24,6 +24,8 @@ faq:
     a: "Un día para el casco histórico, y otro para la naturaleza de la sierra."
   - q: "¿Cuándo ir?"
     a: "En primavera y otoño. El 30 de abril se cantan los mayos."
+guia: /assets/guias/guia-albacete-chenoaventuras.pdf
+guiaTitulo: 'Guía Albacete en PDF'
 ---
 Una de las **plazas renacentistas más bellas de España**, dos torres enfrentadas, lonjas con arcos y un pueblo en la falda de la Sierra de Alcaraz. **Alcaraz** (Albacete) es un tesoro monumental que se recorre en **un día** y que casi nadie conoce.
 

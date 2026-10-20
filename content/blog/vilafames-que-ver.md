@@ -24,6 +24,8 @@ faq:
     a: "Sí, el casco antiguo es de calles empinadas. Lleva calzado cómodo."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día para verlo con calma."
+guia: /assets/guias/guia-castellon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castellón en PDF'
 ---
 Un pueblo que parece colgar de una **roca imposible**, un castillo en lo alto, un museo de arte contemporáneo en un palacio gótico y calles estrechas con buganvillas. **Vilafamés**, en Castellón, es uno de los **pueblos más bonitos de España** y está a solo 25 km de la capital. Se visita en **medio día**.
 

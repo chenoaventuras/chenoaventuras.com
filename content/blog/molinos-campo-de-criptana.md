@@ -24,6 +24,8 @@ faq:
     a: "En coche, en poco más de una hora y media, o en excursiones como el Tren de los Molinos."
   - q: "¿Cuándo es mejor ir?"
     a: "Al atardecer y en primavera u otoño. En verano hace mucho calor."
+guia: /assets/guias/guia-ciudad-real-chenoaventuras.pdf
+guiaTitulo: 'Guía Ciudad Real en PDF'
 ---
 Una hilera de **molinos blancos** sobre una sierra, el barrio del Albaicín con sus casas encaladas y la llanura manchega hasta donde alcanza la vista. **Campo de Criptana** (Ciudad Real) es el pueblo de los **gigantes de Don Quijote**, y se visita bien en **medio día**.
 
