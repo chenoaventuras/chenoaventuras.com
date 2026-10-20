@@ -24,6 +24,8 @@ faq:
     a: "Sí, casi todo tiene cuestas. Lleva calzado cómodo."
   - q: "¿Qué playa hay en Vigo?"
     a: "Samil es la playa urbana más conocida."
+guia: /assets/guias/guia-pontevedra-chenoaventuras.pdf
+guiaTitulo: 'Guía Pontevedra en PDF'
 ---
 Una **ría enorme** con las Islas Cíes en el horizonte, un casco viejo de piedra, un monte con una fortaleza y unas **ostras** que se comen de pie en plena calle. **Vigo** es la ciudad más grande de Galicia, más auténtica que turística, y se ve bien en **un día** (o en dos si añades las Cíes).
 

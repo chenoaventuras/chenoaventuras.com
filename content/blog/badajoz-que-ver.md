@@ -24,6 +24,8 @@ faq:
     a: "En coche, en unos 45-60 minutos."
   - q: "¿Cuándo ir?"
     a: "En primavera y otoño. En verano hace mucho calor."
+guia: /assets/guias/guia-badajoz-chenoaventuras.pdf
+guiaTitulo: 'Guía Badajoz en PDF'
 ---
 Una **alcazaba almohade** con una torre albarrana, una plaza con casas pintadas de rojo, un puente sobre el Guadiana y una frontera con Portugal a pocos kilómetros. **Badajoz** es una ciudad desconocida que se ve bien en **un día** y que tiene varios museos gratuitos.
 

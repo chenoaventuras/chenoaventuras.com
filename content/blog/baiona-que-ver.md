@@ -24,6 +24,8 @@ faq:
     a: "Unos 2 km, circular, desde la playa de la Cuncheira."
   - q: "¿Cómo se llega desde Vigo?"
     a: "En coche, a unos 25 km."
+guia: /assets/guias/guia-pontevedra-chenoaventuras.pdf
+guiaTitulo: 'Guía Pontevedra en PDF'
 ---
 Una **fortaleza sobre el mar** convertida en Parador, una réplica de la carabela **La Pinta** y la historia de la primera noticia del Descubrimiento de América llegando a Europa. **Baiona**, en la ría de Vigo, es una villa marinera con un paseo precioso y se ve bien en **medio día**.
 
