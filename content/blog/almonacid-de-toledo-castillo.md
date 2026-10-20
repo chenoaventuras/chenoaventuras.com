@@ -24,6 +24,8 @@ faq:
     a: "Al atardecer, por la luz, y en primavera u otoño por el clima."
   - q: "¿Cuánto se tarda en llegar desde Toledo?"
     a: "Unos 20 minutos en coche."
+guia: /assets/guias/guia-toledo-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo en PDF'
 ---
 Un **castillo en ruinas sobre un cerro** de 830 metros de altura, con muros de adobe y piedra, vistas de **360 grados** y una batalla que acabó en el Arco del Triunfo de París. El **Castillo de Almonacid de Toledo** queda a unos 20 km de la capital y es uno de los atardeceres más salvajes de la provincia.
 

@@ -24,6 +24,8 @@ faq:
     a: "Sí, pero tienes que cumplir la normativa de vuelo y de espacios protegidos de la zona."
   - q: "¿Qué más hay cerca?"
     a: "Playa Pita, Vinuesa y los pinares de Pinar Grande."
+guia: /assets/guias/guia-soria-chenoaventuras.pdf
+guiaTitulo: 'Guía Soria en PDF'
 ---
 Una **torre de piedra que sale del agua** en mitad de un embalse, el único resto de un pueblo que desapareció bajo las aguas. En la provincia de Soria, el **campanario de La Muedra** en el embalse de la **Cuerda del Pozo** es uno de los rincones más curiosos y fotogénicos de la zona, y se visita en **un rato** si ya vas por Vinuesa o por los pinares.
 

@@ -24,6 +24,8 @@ faq:
     a: "En coche, en poco más de una hora."
   - q: "¿Cuándo es mejor ir?"
     a: "En otoño por los colores y en invierno si quieres esquiar."
+guia: /assets/guias/guia-la-rioja-chenoaventuras.pdf
+guiaTitulo: 'Guía La Rioja en PDF'
 ---
 Un pueblo de la **Alta Rioja** con plazas porticadas, casas de piedra y balcones de madera, una **fábrica de mantas** con más de 270 años de historia y una estación de esquí a pocos kilómetros. **Ezcaray** es perfecto para una escapada de **un día** en cualquier época del año.
 

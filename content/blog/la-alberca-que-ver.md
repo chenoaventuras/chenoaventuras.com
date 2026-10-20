@@ -24,6 +24,8 @@ faq:
     a: "En coche, a unos 80 km."
   - q: "¿Cuándo ir?"
     a: "En primavera y otoño. En agosto hay fiestas y mucha gente."
+guia: /assets/guias/guia-salamanca-chenoaventuras.pdf
+guiaTitulo: 'Guía Salamanca en PDF'
 ---
 Casas de **piedra y entramado de madera** con balcones llenos de flores, una **plaza mayor porticada** y un cerdo bendecido que pasea por las calles. **La Alberca** es uno de los pueblos más bonitos de Castilla y León, está en la Sierra de Francia (Salamanca) y se ve en **medio día**.
 

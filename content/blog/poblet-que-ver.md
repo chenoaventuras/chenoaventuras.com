@@ -24,6 +24,8 @@ faq:
     a: "Sí, hay una comunidad de monjes cistercienses, así que algunas zonas pueden estar cerradas."
   - q: "¿Qué hay cerca de Poblet?"
     a: "Montblanc, las cuevas de L'Espluga de Francolí, Santes Creus y Vallbona de les Monges."
+guia: /assets/guias/guia-tarragona-chenoaventuras.pdf
+guiaTitulo: 'Guía Tarragona en PDF'
 ---
 Un **monasterio cisterciense** con murallas, torres y un claustro de película, donde todavía viven **monjes** y donde descansan reyes de la Corona de Aragón. El **Monasterio de Poblet** es Patrimonio de la Humanidad, uno de los más visitados de la Ruta del Císter, y se ve bien en **una mañana**.
 

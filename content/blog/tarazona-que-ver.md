@@ -24,6 +24,8 @@ faq:
     a: "En coche, en algo más de una hora."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Un día completo para verlo con calma."
+guia: /assets/guias/guia-zaragoza-chenoaventuras.pdf
+guiaTitulo: 'Guía Zaragoza en PDF'
 ---
 Una **catedral mudéjar**, una **plaza de toros octogonal** rodeada de viviendas, casas colgadas sobre el río y una judería conservada. **Tarazona**, al pie del Moncayo, es una de las ciudades más monumentales de Aragón y se ve bien en **un día**.
 

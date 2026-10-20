@@ -24,6 +24,8 @@ faq:
     a: "Sí, hay visitas con guía de unas 1,5 horas a horas fijas."
   - q: "¿Cómo se llega desde Granada o Jaén?"
     a: "En coche, en poco más de una hora."
+guia: /assets/guias/guia-jaen-chenoaventuras.pdf
+guiaTitulo: 'Guía Jaén en PDF'
 ---
 Una **ciudad-fortaleza medieval** de la frontera entre musulmanes y cristianos, con una alcazaba sobre el punto más alto, una iglesia incendiada por los franceses y unas vistas que llegan a Sierra Nevada. La **Fortaleza de la Mota**, en Alcalá la Real (Jaén), es una de las visitas más completas de Andalucía y requiere **un par de horas**.
 

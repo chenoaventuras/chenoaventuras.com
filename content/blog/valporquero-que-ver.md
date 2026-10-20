@@ -24,6 +24,8 @@ faq:
     a: "En coche, en unos 40-50 minutos hacia Vegacervera."
   - q: "¿Cuándo abre la cueva?"
     a: "Según la web oficial, la temporada 2026 va del 1 de marzo al 13 de diciembre. Confirma los horarios."
+guia: /assets/guias/guia-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía León en PDF'
 ---
 Una cueva con **salas enormes llenas de estalactitas**, un recorrido iluminado a unos **7 grados** todo el año y un paisaje de montaña en la Reserva de la Biosfera de los Argüellos. La **Cueva de Valporquero**, en León, es una de las cuevas turísticas más espectaculares del norte de España y se visita en **un par de horas**.
 

@@ -24,6 +24,8 @@ faq:
     a: "Sí, hay trenes en miniatura, fuentes y maquetas en las que se puede entrar."
   - q: "¿Cómo se llega desde Valladolid?"
     a: "En coche, en unos 40 minutos."
+guia: /assets/guias/guia-valladolid-chenoaventuras.pdf
+guiaTitulo: 'Guía Valladolid en PDF'
 ---
 Un parque donde puedes **entrar dentro de un castillo de ladrillo** y pasear junto a **veinte monumentos a escala**, con trenes en miniatura y ríos de juguete. El **Parque Temático del Mudéjar de Castilla y León**, en **Olmedo (Valladolid)**, es un plan perfecto para ir en familia y descubrir el arte mudéjar sin conducir por media región. Se visita en **una mañana o una tarde**.
 
