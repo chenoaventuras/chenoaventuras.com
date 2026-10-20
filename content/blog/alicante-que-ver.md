@@ -24,6 +24,8 @@ faq:
     a: "En AVE, en poco más de dos horas."
   - q: "¿Cuándo es mejor ir a Alicante?"
     a: "En primavera y otoño hace muy buen tiempo. En verano hace mucho calor al mediodía."
+guia: /assets/guias/guia-alicante-chenoaventuras.pdf
+guiaTitulo: 'Guía Alicante en PDF'
 ---
 Una **fortaleza sobre un monte** con vistas a todo el mar, un paseo con suelo ondulado de mosaico entre palmeras, un barrio antiguo encalado y una playa junto al centro. **Alicante** es una ciudad luminosa y fácil, perfecta para **un día** o para una escapada de fin de semana.
 

@@ -24,6 +24,8 @@ faq:
     a: "Sí, a pocos kilómetros. Necesitas marea baja y, en temporada alta, reserva de acceso."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día para el pueblo, y un día entero si añades la Playa de las Catedrales."
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 Una **torre modernista** de casa indiana, un cargadero de mineral junto a la ría, un faro sobre una islita y la puerta de entrada a la **Playa de las Catedrales**. **Ribadeo** es un pueblo marinero en la frontera entre Galicia y Asturias, y se ve bien en **medio día**.
 

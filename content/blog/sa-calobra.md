@@ -23,6 +23,8 @@ faq:
     a: "Un cañón de paredes verticales cuya desembocadura es la cala de Sa Calobra. Recorrerlo entero es exigente y no se debe hacer con lluvia."
   - q: "¿Es peligrosa la carretera?"
     a: "Tiene curvas muy cerradas y mucho tráfico; conduce despacio. Quien se maree puede ir en barco desde Sóller."
+guia: /assets/guias/guia-mallorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Mallorca en PDF'
 ---
 Una cala de cantos rodados encajada entre **paredes de roca de más de 200 metros**, a la que se llega por una de las **carreteras más espectaculares de Mallorca**. **Sa Calobra** es la desembocadura del **Torrent de Pareis**, el gran cañón de la Sierra de Tramuntana, y una de las excursiones más fotografiadas de la isla.
 

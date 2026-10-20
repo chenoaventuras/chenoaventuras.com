@@ -24,6 +24,8 @@ faq:
     a: "Más de 30 metros de altura. Es Monumento Natural desde 2001 y tiene restricciones de acceso."
   - q: "¿Dónde se aparca?"
     a: "Hay aparcamiento gratuito en el yacimiento, con plazas limitadas, y aparcamientos de pago junto a la playa."
+guia: /assets/guias/guia-cadiz-chenoaventuras.pdf
+guiaTitulo: 'Guía Cádiz en PDF'
 ---
 Una **ciudad romana junto al mar**, una **duna de más de 30 metros** y una playa de arena clara a los pies de la sierra, en la costa de **Tarifa** (Cádiz). **Bolonia** mezcla historia y naturaleza en un solo sitio, y es uno de los lugares más bonitos de la costa gaditana.
 

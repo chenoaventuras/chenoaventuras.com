@@ -24,6 +24,8 @@ faq:
     a: "En AVE, en unas dos horas y media."
   - q: "¿Es mejor ir en primavera?"
     a: "Es una de las mejores épocas, aunque con Semana Santa y Feria de Abril hay mucha gente y precios altos. En verano hace mucho calor."
+guia: /assets/guias/guia-sevilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Sevilla en PDF'
 ---
 Una **catedral gótica con un antiguo minarete**, un **palacio mudéjar** todavía en uso, una plaza de cuento y barrios de callejuelas con azulejos y naranjos. **Sevilla** es una de las ciudades más bonitas de España y se puede ver lo esencial en **dos días**, si reservas bien las entradas.
 

@@ -23,6 +23,8 @@ faq:
     a: "Con 2-3 horas ves el centro histórico; añade media mañana si subes al castillo y al museo."
   - q: "¿Por qué Teguise fue capital?"
     a: "Fue capital de Lanzarote desde el siglo XV hasta mediados del siglo XIX, cuando el poder pasó a Arrecife."
+guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
+guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Casas blancas con balcones de madera, una iglesia del siglo XV, un castillo sobre un volcán y el **mercadillo más famoso de Lanzarote**. **Teguise** fue durante siglos la **capital de la isla** y hoy es uno de los pueblos más bonitos del archipiélago, y uno de «Los Pueblos más Bonitos de España» desde 2019.
 

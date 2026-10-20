@@ -24,6 +24,8 @@ faq:
     a: "Medio día para el pueblo y el castillo, y un día si añades la Ruta de las Sabinas o La Fuentona."
   - q: "¿Cuándo es mejor ir?"
     a: "En otoño y primavera. En verano conviene ir a primera hora o al final de la tarde."
+guia: /assets/guias/guia-soria-chenoaventuras.pdf
+guiaTitulo: 'Guía Soria en PDF'
 ---
 Calles empedradas, casas de **entramado de madera de sabina**, una muralla con ocho torres cilíndricas y un castillo en ruinas con vistas a la llanura donde, según la leyenda, **Almanzor perdió el tambor**. **Calatañazor** es uno de los pueblos medievales mejor conservados de Soria y se ve en **medio día**.
 

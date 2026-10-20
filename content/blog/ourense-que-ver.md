@@ -24,6 +24,8 @@ faq:
     a: "En AVE, en unas dos horas y media."
   - q: "¿Qué comer en Ourense?"
     a: "Tapas en Os Viños, pulpo, empanada y vinos de Ribeiro o Valdeorras."
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 Un **puente romano** con cinco arcos, una catedral con un pórtico que recuerda al de Santiago, **fuentes de agua hirviendo en plena calle** y la mejor zona de tapas de Galicia. **Ourense** es la capital de las termas y se ve bien en **un día**, con un baño en aguas termales para terminar.
 

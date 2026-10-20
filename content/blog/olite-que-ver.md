@@ -24,6 +24,8 @@ faq:
     a: "Según una guía, de 10:00 a 20:00 de junio a septiembre y de 10:00 a 18:00 de octubre a mayo. Confírmalo en la web oficial."
   - q: "¿Se puede visitar el Palacio Viejo?"
     a: "No: hoy es el Parador de Olite y solo se conservan sus murallas y torres."
+guia: /assets/guias/guia-navarra-chenoaventuras.pdf
+guiaTitulo: 'Guía Navarra en PDF'
 ---
 Un **castillo-palacio de cuento**, calles empedradas medievales y buen vino. **Olite**, en la Ribera de **Navarra**, fue residencia de reyes en la Edad Media y hoy es uno de los pueblos más visitados de la comunidad, a unos 35 minutos de Pamplona.
 

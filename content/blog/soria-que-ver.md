@@ -24,6 +24,8 @@ faq:
     a: "Por Antonio Machado, que vivió y se casó aquí con Leonor, y por Gustavo Adolfo Bécquer, que escribió leyendas sobre sus paisajes."
   - q: "¿Cuándo ir a Soria?"
     a: "En otoño por los colores del Duero y en primavera por el buen tiempo. En invierno hace mucho frío."
+guia: /assets/guias/guia-soria-chenoaventuras.pdf
+guiaTitulo: 'Guía Soria en PDF'
 ---
 Una **ermita que se esconde en una cueva** sobre el río Duero, una plaza mayor donde se casó **Antonio Machado**, una concatedral con un claustro románico y paseos de álamos junto al agua. **Soria** es una de las capitales más tranquilas de España, perfecta para **un día** de otoño o de primavera.
 

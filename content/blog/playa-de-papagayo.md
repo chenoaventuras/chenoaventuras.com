@@ -23,6 +23,8 @@ faq:
     a: "Casi nada: hay un pequeño chiringuito y apenas sombra. Lleva sombrilla, agua y protección solar."
   - q: "¿Cuándo es mejor ir?"
     a: "Temprano, antes de las 10:30 en fin de semana de verano, y entre semana si puedes."
+guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
+guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Cinco calas de **arena dorada y aguas turquesas** al sur de Lanzarote, dentro del **Monumento Natural de Los Ajaches**. Las **playas de Papagayo** son de las más bonitas de Canarias, pero también de las más concurridas: te cuento cómo llegar, cuánto cuesta y cómo evitar las masas 👇
 

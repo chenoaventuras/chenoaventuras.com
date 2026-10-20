@@ -24,6 +24,8 @@ faq:
     a: "En tren de alta velocidad o regional, en menos de una hora."
   - q: "¿Se puede ver Girona a pie?"
     a: "Sí. El casco antiguo es pequeño y se recorre andando, aunque tiene cuestas y escaleras."
+guia: /assets/guias/guia-girona-chenoaventuras.pdf
+guiaTitulo: 'Guía Girona en PDF'
 ---
 Casas de colores colgadas sobre un río, un **barrio judío medieval**, una catedral con **90 escalones**, unas murallas que se recorren con vistas y un puente de hierro rojo que muchos atribuyen a la empresa de Eiffel. **Girona** es pequeña, bonita y perfecta para **un día entero** a pie.
 

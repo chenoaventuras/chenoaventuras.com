@@ -23,6 +23,8 @@ faq:
     a: "El dulce típico del pueblo, hecho con patata, y que se toma con café o chocolate."
   - q: "¿Cuándo ir a Valldemossa?"
     a: "Fuera de verano y a primera hora hay menos gente."
+guia: /assets/guias/guia-mallorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Mallorca en PDF'
 ---
 Un pueblo de piedra entre montañas, una **cartuja** donde pasaron un invierno Chopin y George Sand, una **coca de patata** que se vende por docenas y unas vistas al mar desde una finca del archiduque. **Valldemossa** es uno de los pueblos más bonitos de Mallorca y se ve bien en **medio día**.
 

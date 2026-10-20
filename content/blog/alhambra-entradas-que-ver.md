@@ -24,6 +24,8 @@ faq:
     a: "Tienen franja horaria de 30 minutos impresa en la entrada. Si llegas tarde, se pierde la plaza."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Entre 3 y 4 horas para verlo con calma; dos horas es el mínimo."
+guia: /assets/guias/guia-granada-chenoaventuras.pdf
+guiaTitulo: 'Guía Granada en PDF'
 ---
 Palacios de yeserías y mármol, jardines con acequias, una fortaleza con vistas a toda Granada y la **Sierra Nevada** al fondo. La **Alhambra** es el monumento más visitado de España y también uno de los que **más cuesta conseguir entrada**: aquí te cuento cómo hacerlo bien, qué incluye cada ticket y cómo recorrerla.
 

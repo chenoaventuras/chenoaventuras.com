@@ -24,6 +24,8 @@ faq:
     a: "Una mañana completa para el castillo, el teatro y la judería."
   - q: "¿Cuándo es mejor ir?"
     a: "En primavera y otoño. En verano el calor en el castillo es fuerte."
+guia: /assets/guias/guia-valencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Valencia en PDF'
 ---
 Un **castillo de casi un kilómetro** sobre la ciudad, un **teatro romano** con una acústica excepcional, una judería de las más importantes de España y entrada gratuita. **Sagunto** queda a unos 30 km de Valencia y es una de las escapadas más fáciles y completas de la Comunidad Valenciana.
 

@@ -23,6 +23,8 @@ faq:
     a: "Con media mañana ves las dos paradas con calma. Entre Los Hervideros y el Charco de los Clicos hay unos 3 km."
   - q: "¿Es peligroso?"
     a: "El mar puede ser impredecible: sigue los senderos señalizados y no te acerques a los bordes si hay olas."
+guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
+guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Una costa de lava donde el mar **entra y revienta en cuevas y túneles**, y a pocos minutos una **laguna verde** dentro de un cráter medio hundido en el mar. **Los Hervideros** y **El Golfo** (con su **Charco de los Clicos**, también llamado Charco Verde o Laguna Verde) están en el suroeste de **Lanzarote** y se pueden ver en una misma parada de media mañana.
 

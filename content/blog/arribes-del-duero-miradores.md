@@ -24,6 +24,8 @@ faq:
     a: "Sí, la mayoría de los miradores tienen acceso en coche y aparcamiento cerca."
   - q: "¿Qué pueblo es la base?"
     a: "Aldeadávila de la Ribera (Salamanca) y Fermoselle (Zamora) son los más recomendados."
+guia: /assets/guias/guia-salamanca-chenoaventuras.pdf
+guiaTitulo: 'Guía Salamanca en PDF'
 ---
 Un **cañón de 400 metros de profundidad** donde el Duero hace de frontera con Portugal, miradores que cortan la respiración y pueblos de piedra con vino y buen queso. Los **Arribes del Duero** son uno de los paisajes más impresionantes de Castilla y León, y se pueden ver en **un día** si vas por los miradores.
 

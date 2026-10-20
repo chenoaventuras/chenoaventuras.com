@@ -24,6 +24,8 @@ faq:
     a: "Sí: están junto al río Miño y pueden cerrar por crecidas. Comprueba que estén abiertas."
   - q: "¿Qué son las Burgas?"
     a: "Los manantiales termales del centro de Ourense, con una fuente monumental."
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 Pozas de **agua caliente gratuitas junto al río Miño**, en pleno campo, a pocos minutos del centro de **Ourense**. Las **pozas de Outariz y Burga de Canedo** son uno de los mejores planes termales de Galicia: sin pagar entrada y con vestuarios, taquillas y aseos.
 

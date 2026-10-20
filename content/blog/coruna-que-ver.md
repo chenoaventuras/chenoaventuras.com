@@ -24,6 +24,8 @@ faq:
     a: "En tren, en poco más de media hora."
   - q: "¿Es mejor ir en verano?"
     a: "Es la época más agradable, aunque en Galicia llueve en cualquier estación. Lleva siempre un cortavientos."
+guia: /assets/guias/guia-a-coruna-chenoaventuras.pdf
+guiaTitulo: 'Guía A Coruña en PDF'
 ---
 Un **faro romano** que sigue en funcionamiento, un paseo marítimo que rodea casi toda la ciudad, fachadas acristaladas frente al puerto y una plaza con soportales. **A Coruña** es una ciudad de mar muy cómoda de recorrer y se ve bien en **un día**.
 

@@ -24,6 +24,8 @@ faq:
     a: "Con dos días ves lo esencial; con tres lo disfrutas sin prisa y puedes llegar a Montjuïc y la playa."
   - q: "¿Cómo llegar desde Madrid?"
     a: "En AVE, en unas dos horas y media."
+guia: /assets/guias/guia-barcelona-chenoaventuras.pdf
+guiaTitulo: 'Guía Barcelona en PDF'
 ---
 Una basílica de **Gaudí** sin acabar, un casco gótico de calles medievales, un paseo marítimo con playa y una montaña con vistas. **Barcelona** se disfruta mejor en **tres días**, pero con una buena planificación y las entradas reservadas se ve lo esencial en **dos**.
 

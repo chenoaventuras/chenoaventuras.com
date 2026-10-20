@@ -24,6 +24,8 @@ faq:
     a: "Arroz con D.O., paella, arròs negre y marisco del delta, como ostra y mejillón."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Un día para lo esencial, y un fin de semana si quieres hacer rutas en bici."
+guia: /assets/guias/guia-tarragona-chenoaventuras.pdf
+guiaTitulo: 'Guía Tarragona en PDF'
 ---
 **22.000 hectáreas de arrozales**, colonias de **flamencos**, playas de dunas casi vírgenes y senderos planos entre canales. El **Delta del Ebro** es uno de los humedales más importantes del Mediterráneo y un destino perfecto para quien busca **naturaleza, aves y buen arroz** en la costa de Tarragona.
 

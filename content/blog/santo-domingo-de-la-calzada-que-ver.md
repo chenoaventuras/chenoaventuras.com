@@ -24,6 +24,8 @@ faq:
     a: "Sí, está en el Camino Francés."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día para la catedral, la torre y el casco antiguo."
+guia: /assets/guias/guia-la-rioja-chenoaventuras.pdf
+guiaTitulo: 'Guía La Rioja en PDF'
 ---
 Una catedral donde **viven un gallo y una gallina**, un milagro del Camino de Santiago que dio origen a un refrán y un hospital de peregrinos convertido en Parador. **Santo Domingo de la Calzada** es una parada obligada de La Rioja y se ve bien en **medio día**.
 

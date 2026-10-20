@@ -26,6 +26,8 @@ faq:
     a: "El mazapán, las carcamusas y la perdiz estofada son lo más típico."
   - q: "¿Es necesario coche en Toledo?"
     a: "No: el casco histórico se recorre andando. Si vas en coche, aparca en la parte baja de la ciudad."
+guia: /assets/guias/guia-toledo-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo en PDF'
 ---
 Una ciudad amurallada sobre un meandro del Tajo, con **catedral gótica, un alcázar, sinagogas, una mezquita del año 999 y los cuadros de El Greco**. **Toledo** es Patrimonio de la Humanidad desde 1986 y una de las escapadas más fáciles desde Madrid: a unos 30-35 minutos en tren de alta velocidad.
 

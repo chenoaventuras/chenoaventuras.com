@@ -24,6 +24,8 @@ faq:
     a: "Sí, es una de las zonas más recomendadas de la Costa Blanca, con una ruta de dificultad baja desde la propia orilla."
   - q: "¿Cuándo es mejor ir?"
     a: "Temprano por la mañana y fuera de julio y agosto si puedes: hay menos gente y menos restricciones."
+guia: /assets/guias/guia-alicante-chenoaventuras.pdf
+guiaTitulo: 'Guía Alicante en PDF'
 ---
 Una cala de **cantos rodados y agua turquesa** encajada entre acantilados blancos, a pocos minutos de Xàbia (Jávea). La **Cala Granadella** es considerada una de las más bonitas de la Costa Blanca y uno de los mejores sitios de la zona para hacer **snorkel**.
 

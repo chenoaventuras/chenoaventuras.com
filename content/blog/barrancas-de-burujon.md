@@ -24,6 +24,8 @@ faq:
     a: "Al atardecer, cuando las paredes se ponen rojizas, y en primavera por el verde del campo. En verano hace mucho calor y hay poca sombra."
   - q: "¿Hay que pagar por aparcar?"
     a: "Depende del día y la afluencia: algunas fuentes indican tasa en fines de semana y festivos y otras acceso libre. Compruébalo antes."
+guia: /assets/guias/guia-toledo-chenoaventuras.pdf
+guiaTitulo: 'Guía Toledo en PDF'
 ---
 Paredes de arcilla rojiza, cárcavas y un embalse a los pies que recuerdan al **Oeste americano** a una hora y media de Madrid. Las **Barrancas de Burujón**, en la provincia de Toledo, son uno de los paisajes más sorprendentes de Castilla-La Mancha y se recorren en una **senda corta y fácil**, con miradores accesibles.
 

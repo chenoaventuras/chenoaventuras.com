@@ -23,6 +23,8 @@ faq:
     a: "César Manrique, entre 1971 y 1973. Se inauguró en 1973."
   - q: "¿Cómo se llega?"
     a: "En coche por la carretera LZ-202 desde el pueblo de Yé. En transporte público el acceso es limitado."
+guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
+guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Una cristalera abierta en lo alto de un acantilado, dentro de la propia montaña, con **La Graciosa y los islotes del archipiélago Chinijo** a tus pies. El **Mirador del Río**, en el norte de **Lanzarote**, lo diseñó **César Manrique** y se inauguró en **1973**. Es de pago, pero es uno de los miradores más espectaculares de Canarias.
 

@@ -24,6 +24,8 @@ faq:
     a: "En mayo: los patios se abren al público y la ciudad se llena de flores."
   - q: "¿Merece la pena Medina Azahara?"
     a: "Sí, si tienes tiempo: es la ciudad palatina del Califato, Patrimonio de la Humanidad, a unos 8 km del centro."
+guia: /assets/guias/guia-cordoba-chenoaventuras.pdf
+guiaTitulo: 'Guía Córdoba en PDF'
 ---
 Una **mezquita que es catedral**, un puente romano, una judería de calles estrechas con flores y un palacio califal a las afueras. **Córdoba** es una de las ciudades con más historia de España y se ve bien en **un día** si te centras en el casco histórico.
 

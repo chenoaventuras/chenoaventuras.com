@@ -24,6 +24,8 @@ faq:
     a: "En tren de Cercanías o en coche, en unos 30-40 minutos."
   - q: "¿Qué es la Pasión Viviente?"
     a: "La representación de la Pasión de Cristo con vecinos de Balmaseda en Semana Santa. La edición de 2026 fue la 52ª."
+guia: /assets/guias/guia-bizkaia-chenoaventuras.pdf
+guiaTitulo: 'Guía Bizkaia en PDF'
 ---
 La **villa más antigua de Bizkaia**, con puente medieval con torreón, un casco histórico de calles de piedra y balcones de madera, y la **putxera**, su famoso cocido de alubias. **Balmaseda** está en las Encartaciones, a media hora de Bilbao, y es una escapada perfecta de medio día.
 

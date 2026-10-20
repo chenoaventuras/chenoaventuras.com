@@ -24,6 +24,8 @@ faq:
     a: "Con medio día ves el casco histórico y comes; añade otra mitad si quieres ver las Hoces del Duratón."
   - q: "¿Cuál es la iglesia más antigua?"
     a: "San Salvador, de 1093 según algunas fuentes, con la torre separada de la nave."
+guia: /assets/guias/guia-segovia-chenoaventuras.pdf
+guiaTitulo: 'Guía Segovia en PDF'
 ---
 Una villa que se despliega sobre una colina, con **iglesias románicas**, un casco histórico de calles empinadas y un cordero asado en horno de leña que atrae a medio país. **Sepúlveda**, en el noreste de la provincia de **Segovia**, es la puerta del **Parque Natural de las Hoces del Duratón**.
 

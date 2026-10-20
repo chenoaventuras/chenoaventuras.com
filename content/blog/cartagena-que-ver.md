@@ -24,6 +24,8 @@ faq:
     a: "En 1988, según las guías, por el arqueólogo Sebastián Ramallo."
   - q: "¿Se puede ver Cartagena a pie?"
     a: "Sí, el casco histórico es pequeño y se recorre andando, aunque tiene alguna cuesta hacia el castillo."
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Un **teatro romano** que apareció bajo las casas, una **muralla púnica** que habla de cartagineses, un castillo con vistas y un puerto con más de dos mil años. **Cartagena** es una de las ciudades con más historia de la costa mediterránea y se ve bien en **un día**, aunque merece más.
 

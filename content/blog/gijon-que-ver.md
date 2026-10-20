@@ -24,6 +24,8 @@ faq:
     a: "Cachopo, fabada, chorizo a la sidra y sidra natural, el plato y la bebida típicos de Asturias."
   - q: "¿Cuándo es mejor ir a Gijón?"
     a: "De junio a septiembre hay mejor tiempo para la playa, aunque en Asturias puede llover en cualquier época."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una escultura de **500 toneladas** frente al mar, un barrio de pescadores sobre una península, una playa en forma de concha y un gran edificio de los años 50 convertido en ciudad de la cultura. **Gijón** es la ciudad más grande de Asturias, y se ve bien en **un día** (o en dos con calma).
 

@@ -24,6 +24,8 @@ faq:
     a: "Con un día ves lo principal; con dos puedes añadir Albarracín."
   - q: "¿Cómo se llega?"
     a: "No hay alta velocidad: se llega en coche, autobús o tren regional desde Zaragoza o Valencia."
+guia: /assets/guias/guia-teruel-chenoaventuras.pdf
+guiaTitulo: 'Guía Teruel en PDF'
 ---
 Torres de ladrillo y cerámica verde, una plaza con un toro de piedra y una historia de amor trágica. **Teruel** es una de las capitales de provincia más pequeñas de España y uno de los mejores ejemplos del **arte mudéjar**, declarado Patrimonio de la Humanidad.
 
