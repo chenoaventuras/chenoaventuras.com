@@ -329,9 +329,15 @@ function provOf(p) {
   return p.provincia || PROVINCIAS[p.slug] || "";
 }
 
+// Post «Qué ver en X…»: su «hub» es X (sirve para que, al buscar X, salga el primero)
+function hubOf(p) {
+  const m = /^(?:qu[eé] (?:ver|hacer) en)\s+(.+?)(?:\s*[:–—-]\s|$)/i.exec(p.title.trim());
+  return m ? norm(m[1]) : "";
+}
+
 function blogCard(p, { level = 2, search = false, eager = false } = {}) {
   const attrs = search
-    ? ` data-tags="${esc(p.tags.join("|"))}" data-prov="${esc(provOf(p))}" data-search="${esc(norm([p.title, p.excerpt, p.tags.map((x) => REGION_LABEL[x] || x).join(" "), provOf(p)].join(" ")))}"`
+    ? ` data-hub="${esc(hubOf(p))}" data-tags="${esc(p.tags.join("|"))}" data-prov="${esc(provOf(p))}" data-search="${esc(norm([p.title, p.excerpt, p.tags.map((x) => REGION_LABEL[x] || x).join(" "), provOf(p)].join(" ")))}"`
     : "";
   return `          <a class="blogcard reveal" href="/blog/${p.slug}.html"${attrs}>
             ${
@@ -747,6 +753,7 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
         var q = document.getElementById("blog-search");
         if (!reg && !typ && !q) return;
         var cards = Array.prototype.slice.call(document.querySelectorAll("#bloglist .blogcard"));
+        cards.forEach(function (c, i) { c._i = i; });
         var emptyMsg = document.getElementById("blogfilter-empty");
         var countEl = document.getElementById("blog-count");
         function norm(t) { return (t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""); }
@@ -789,6 +796,23 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
             c.hidden = !show;
             if (show) visible++;
           });
+          // si hay búsqueda o provincia/isla elegida, el «Qué ver en…» de ese destino va el primero
+          var need = (q ? norm(q.value).trim() : "") || (pv ? norm(pv) : "");
+          if (need) {
+            var score = function (c) {
+              var h = c.getAttribute("data-hub") || "";
+              if (h) {
+                if (h === need) return 100;
+                if (h.indexOf(need) === 0 || need.indexOf(h) === 0) return 60;
+                if (h.indexOf(need) !== -1) return 30;
+              }
+              return 0;
+            };
+            cards.slice().sort(function (a, b) { return score(b) - score(a) || a._i - b._i; })
+              .forEach(function (c) { c.parentNode.appendChild(c); });
+          } else {
+            cards.slice().sort(function (a, b) { return a._i - b._i; }).forEach(function (c) { c.parentNode.appendChild(c); });
+          }
           counts(reg, typ);
           counts(typ, reg);
           if (emptyMsg) emptyMsg.hidden = visible !== 0;
