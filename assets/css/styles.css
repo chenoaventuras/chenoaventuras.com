@@ -1486,6 +1486,8 @@ main::after {
 .guidebox .btn:hover { background: var(--gold-bright); border-color: var(--gold-bright); }
 .guidebox__legal { font-size: .78rem; margin-top: 10px; opacity: .8; }
 .guidebox__msg { margin-top: 4px; font-weight: 600; }
+.guidebox__email { color: var(--gold-bright); white-space: nowrap; }
+.guidebox__spam { display: inline-block; margin-top: 6px; font-weight: 500; font-size: .92em; }
 .guidebox__dl { margin-top: 12px; }
 @media (max-width: 760px) {
   .guidebox { grid-template-columns: 1fr; }

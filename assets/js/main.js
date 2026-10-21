@@ -704,13 +704,38 @@
             var legal = box.querySelector(".guidebox__legal");
             if (legal) legal.hidden = true;
             var d = res.json || {};
-            if (msg) msg.textContent = d.confirm
-              ? "¡Casi listo! Te hemos enviado un correo para confirmar tu suscripción: pulsa el botón del correo y recibirás tu guía. Revisa también la carpeta de spam."
-              : d.already
-                ? "Esta guía ya te la enviamos antes. Búscala en tu correo (y en la carpeta de spam)."
-                : d.sent
-                  ? "¡Listo! Te hemos enviado la guía a tu correo. Revisa también la carpeta de spam."
-                  : "¡Listo! Te has apuntado a la newsletter.";
+            var mail = emailInput ? emailInput.value.trim() : "";
+            if (msg) {
+              // «Te hemos enviado un correo a <email en amarillo>…» + aviso de spam
+              msg.textContent = "";
+              var linea = function (antes, despues) {
+                msg.appendChild(document.createTextNode(antes));
+                var em = document.createElement("strong");
+                em.className = "guidebox__email";
+                em.textContent = mail;
+                msg.appendChild(em);
+                msg.appendChild(document.createTextNode(despues));
+              };
+              var spam = function () {
+                var s = document.createElement("span");
+                s.className = "guidebox__spam";
+                s.textContent = "⚠️ Si no lo ves, revisa la carpeta de spam.";
+                msg.appendChild(document.createElement("br"));
+                msg.appendChild(s);
+              };
+              if (d.confirm) {
+                linea("Te hemos enviado un correo a ", ". Pulsa el botón del correo y recibirás tu guía.");
+                spam();
+              } else if (d.already) {
+                linea("Esta guía ya te la enviamos antes a ", ". Búscala en tu correo.");
+                spam();
+              } else if (d.sent) {
+                linea("Te hemos enviado la guía a ", ".");
+                spam();
+              } else {
+                msg.textContent = "¡Listo! Te has apuntado a la newsletter.";
+              }
+            }
           } else {
             if (msg) msg.textContent = (res.json && res.json.error) || "No se pudo enviar. Inténtalo de nuevo.";
             if (btn) btn.disabled = false;

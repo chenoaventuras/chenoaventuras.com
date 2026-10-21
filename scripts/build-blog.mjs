@@ -127,7 +127,7 @@ const FOOTER = `
       <div class="footer-bottom"><span>© <span data-year>${new Date().getFullYear()}</span> Chenoaventuras. Todos los derechos reservados.</span><span>chenoaventuras.com</span></div>
     </div>
   </footer>
-  <script src="/assets/js/main.js?v=20261019zr"></script>
+  <script src="/assets/js/main.js?v=20261021a"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
 function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog", mainClass = "" }) {
@@ -160,7 +160,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
   <meta name="twitter:image" content="${esc(img)}" />
-  <link rel="stylesheet" href="/assets/css/styles.css?v=20261019zz" />${extraHead}
+  <link rel="stylesheet" href="/assets/css/styles.css?v=20261021a" />${extraHead}
   <script>document.documentElement.classList.add("js");</script>${jsonld ? `\n  <script type="application/ld+json">\n${jsonld}\n  </script>` : ""}
 </head>
 <body>
@@ -660,8 +660,8 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
 
       <section class="section">
         <div class="container">
-${p.html.includes("<!--guia-->") ? "" : guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
-${withNearby((p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", () => guideBox(p)).replace("<!--actividades-->", () => activitiesBox(p)).replace("<!--faq-->", () => (p.html.includes("<!--actividades-->") ? "" : activitiesBox(p)) + carBox(p) + eatBox(p) + faqBox(p)), nearbyBox(nearby, p))}
+${guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
+${withNearby((p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", "").replace("<!--actividades-->", () => activitiesBox(p)).replace("<!--faq-->", () => (p.html.includes("<!--actividades-->") ? "" : activitiesBox(p)) + carBox(p) + eatBox(p) + faqBox(p)), nearbyBox(nearby, p))}
           </div>
 ${authorBox()}${
   related.length
