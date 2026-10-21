@@ -24,8 +24,6 @@ faq:
     a: "Gandia, la Vía Verde de la Safor, la Marjal Pego-Oliva y las Cuevas del Mondúver."
   - q: "¿Se pueden pisar las dunas?"
     a: "No, forman parte de las Dunas de la Safor y hay que respetar la vegetación."
-guia: /assets/guias/guia-valencia-chenoaventuras.pdf
-guiaTitulo: 'Guía Valencia en PDF'
 ---
 Una playa larga de **arena dorada**, dunas protegidas, aguas tranquilas y amaneceres rojizos sobre el Mediterráneo. La **playa de Daimús**, en la Safor (Valencia), es una de las más agradables de la costa entre Gandia y Oliva, y se disfruta en **medio día** o en un día de playa completo.
 
@@ -53,7 +51,12 @@ Te cuento cómo es, cuándo ir y qué ver cerca 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/arena.webp" alt="Arena y marcas en la playa de Daimús vistas desde arriba" loading="lazy" decoding="async" /><span class="gcard__n">08</span></div><div class="gcard__body"><h3>La arena</h3><p>Una playa ancha con arena dorada y huellas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/olas.webp" alt="Olas y orilla de la playa de Daimús vistas desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">09</span></div><div class="gcard__body"><h3>La orilla</h3><p>El agua llega suave a la orilla. Ideal para pasear.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/horizonte.webp" alt="Orilla de la playa de Daimús con olas y arena" loading="lazy" decoding="async" /><span class="gcard__n">10</span></div><div class="gcard__body"><h3>Hacia el horizonte</h3><p>Largas caminatas junto al mar al amanecer.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/huerta.webp" alt="Urbanización con palmeras junto a la playa de Daimús vista desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">11</span></div><div class="gcard__body"><h3>El entorno urbano</h3><p>Edificios con jardines y palmeras junto a la playa.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/sol.webp" alt="Sol saliendo sobre el mar con reflejo anaranjado en la playa de Daimús" loading="lazy" decoding="async" /><span class="gcard__n">11</span></div><div class="gcard__body"><h3>El sol saliendo</h3><p>El primer sol del día sobre el mar, con su camino de luz sobre el agua.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/reflejo.webp" alt="Reflejo del sol sobre el mar en calma frente a la playa de Daimús" loading="lazy" decoding="async" /><span class="gcard__n">12</span></div><div class="gcard__body"><h3>El camino de luz</h3><p>Un reflejo dorado sobre aguas tranquilas, una imagen típica de los amaneceres de Daimús.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/escollera.webp" alt="Espigón y huellas en la arena de la playa de Daimús vistos desde arriba" loading="lazy" decoding="async" /><span class="gcard__n">13</span></div><div class="gcard__body"><h3>El espigón</h3><p>Un espigón de piedra y las huellas en la arena, junto a la orilla.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/pueblo.webp" alt="Edificios y calles de Daimús junto a la playa vistos desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">14</span></div><div class="gcard__body"><h3>Daimús desde el aire</h3><p>Edificios, calles y jardines junto a la playa, con el campo detrás.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/edificios.webp" alt="Playa de Daimús con edificios y una piscina junto a las dunas" loading="lazy" decoding="async" /><span class="gcard__n">15</span></div><div class="gcard__body"><h3>Entre dunas y edificios</h3><p>La playa, las dunas y las urbanizaciones se ven en una sola imagen.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-daimus/huerta.webp" alt="Urbanización con palmeras junto a la playa de Daimús vista desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">16</span></div><div class="gcard__body"><h3>El entorno urbano</h3><p>Edificios con jardines y palmeras junto a la playa.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
