@@ -46,8 +46,8 @@ comer:
     t: "Restaurante italiano"
     d: "C. Fray Eloy Uribe, 1"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-caceres-trujillo-chenoaventuras.pdf
+guiaTitulo: 'Guía Cáceres, Trujillo y Monfragüe en PDF'
 ---
 Un monasterio gigantesco que parece un castillo, plantado en mitad de un pueblo de soportales y rodeado de sierras. El **Real Monasterio de Guadalupe** es **Patrimonio de la Humanidad** y uno de los lugares de peregrinación más importantes de España.
 

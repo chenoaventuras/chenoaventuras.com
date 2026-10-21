@@ -46,8 +46,8 @@ comer:
     o: 795
     d: "Av. de Castilla-la Mancha, 3"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cuenca-provincia-chenoaventuras.pdf
-guiaTitulo: 'Guía Cuenca en PDF'
+guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
+guiaTitulo: 'Guía de Cuenca en PDF'
 ---
 Pocas tirolinas del mundo tienen un decorado como este: la **Hoz del Huécar** bajo tus pies y las **Casas Colgadas** de Cuenca al fondo. Son unos 40 segundos de vuelo que se recuerdan mucho más tiempo. Si estás pensando en tirarte, te cuento todo lo que necesitas saber.
 

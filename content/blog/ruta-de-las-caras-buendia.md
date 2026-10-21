@@ -21,8 +21,8 @@ faq:
     a: "El paseo es de acceso libre. Consulta si el nuevo aparcamiento regulado tiene tarifa."
   - q: "¿Dónde está la Ruta de las Caras?"
     a: "Junto a Buendía (Cuenca), al lado del embalse de Buendía."
-guia: /assets/guias/guia-cuenca-provincia-chenoaventuras.pdf
-guiaTitulo: 'Guía Cuenca en PDF'
+guia: /assets/guias/guia-cuenca-mancha-chenoaventuras.pdf
+guiaTitulo: 'Guía La Mancha de Cuenca en PDF'
 ---
 En mitad de un pinar, junto a un embalse, aparecen de repente **caras gigantes talladas en la roca**: una Virgen, Beethoven, rostros de chamanes y dioses. Parecen de una civilización perdida, pero tienen solo unas décadas.
 

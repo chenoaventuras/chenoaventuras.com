@@ -45,8 +45,8 @@ comer:
     t: "Parrilla"
     d: "Av. d'Isidor Macabich, 66 (Eivissa)"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
-guiaTitulo: 'Guía Ibiza y Formentera en PDF'
+guia: /assets/guias/guia-ibiza-chenoaventuras.pdf
+guiaTitulo: 'Guía Ibiza en PDF'
 ---
 Ibiza tiene fama de fiesta, pero también es una isla de **calas de agua transparente**, pinares que llegan al mar, pueblos blancos y uno de los cascos históricos amurallados mejor conservados del Mediterráneo.
 

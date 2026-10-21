@@ -29,8 +29,8 @@ comer:
     o: 927
     d: "C. Baja, 6"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-huesca-chenoaventuras.pdf
-guiaTitulo: 'Guía Huesca en PDF'
+guia: /assets/guias/guia-prepirineo-huesca-chenoaventuras.pdf
+guiaTitulo: 'Guía Loarre, Alquézar y Guara en PDF'
 ---
 Imagina un monasterio románico metido debajo de una roca gigante, como si la montaña lo protegiera con la mano. Así es **San Juan de la Peña**, cuna del reino de Aragón, panteón de sus primeros reyes y, según la tradición, el lugar donde se guardó durante siglos el **Santo Grial**.
 

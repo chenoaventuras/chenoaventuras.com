@@ -35,8 +35,8 @@ comer:
     r: 4.4
     o: 1430
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cuenca-provincia-chenoaventuras.pdf
-guiaTitulo: 'Guía Cuenca en PDF'
+guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
+guiaTitulo: 'Guía de Cuenca en PDF'
 ---
 A solo **20 minutos de Cuenca**, la Serranía esconde pistas forestales, caminos de tierra y senderos entre pinares perfectos para meterle gas a un **quad**. Es un plan que mezcla naturaleza y un poco de adrenalina, y lo mejor: **no necesitas experiencia**. Si es tu primera vez, te cuento cómo es para que vayas tranquilo.
 

@@ -45,8 +45,8 @@ comer:
     t: "Restaurante de brunch"
     d: "Carrer de Santa Maria, 14"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
-guiaTitulo: 'Guía Ibiza y Formentera en PDF'
+guia: /assets/guias/guia-formentera-chenoaventuras.pdf
+guiaTitulo: 'Guía Formentera en PDF'
 ---
 Agua tan transparente que los barcos parecen flotar en el aire, playas de arena blanca y faros en acantilados donde termina la isla. **Formentera** es la isla habitada más pequeña de las Baleares y la más tranquila.
 

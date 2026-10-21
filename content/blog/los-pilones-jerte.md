@@ -43,8 +43,8 @@ comer:
     o: 2159
     d: "Av. Ramón y Cajal, 17"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-norte-de-caceres-chenoaventuras.pdf
+guiaTitulo: 'Guía Norte de Cáceres en PDF'
 ---
 Imagina un río de agua cristalina que ha ido excavando el granito hasta dejarlo pulido como si fuera mármol, formando **pozas redondas** una detrás de otra. Eso son **Los Pilones**, en la Reserva Natural de la Garganta de los Infiernos, en el Valle del Jerte.
 

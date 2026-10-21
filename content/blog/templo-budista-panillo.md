@@ -37,8 +37,8 @@ comer:
     o: 361
     d: "Pl. Coreche, 2 (Graus)"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-huesca-chenoaventuras.pdf
-guiaTitulo: 'Guía Huesca en PDF'
+guia: /assets/guias/guia-prepirineo-huesca-chenoaventuras.pdf
+guiaTitulo: 'Guía Loarre, Alquézar y Guara en PDF'
 ---
 Banderas de oración al viento, una estupa blanca y un templo de colores... en **Huesca**. En el pueblecito de **Panillo**, en la Ribagorza, está **Dag Shang Kagyu**, uno de los centros budistas tibetanos más importantes de Europa.
 

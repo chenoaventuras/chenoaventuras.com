@@ -30,8 +30,8 @@ faq:
     a: "Sí, el agua es muy clara y hay fondos rocosos y praderas de posidonia. Ojo con los barcos fondeados y las zonas con corriente entre la costa y los islotes."
   - q: "¿Cuándo es mejor ir?"
     a: "En junio y septiembre, con el agua ya templada y menos gente que en julio y agosto."
-guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
-guiaTitulo: 'Guía Ibiza y Formentera en PDF'
+guia: /assets/guias/guia-ibiza-chenoaventuras.pdf
+guiaTitulo: 'Guía Ibiza en PDF'
 ---
 Agua tan transparente que los barcos parecen flotar en el aire, rocas doradas, pequeños arenales y un islote verde justo enfrente. Y al final del día, el sol escondiéndose entre las islas. **Cala Comte**, en la costa oeste de **Ibiza**, es una de las playas más bonitas de las Baleares y uno de los mejores sitios del Mediterráneo para ver el atardecer.
 

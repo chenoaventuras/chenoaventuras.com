@@ -30,8 +30,8 @@ comer:
     r: 4.5
     o: 275
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-huesca-chenoaventuras.pdf
-guiaTitulo: 'Guía Huesca en PDF'
+guia: /assets/guias/guia-prepirineo-huesca-chenoaventuras.pdf
+guiaTitulo: 'Guía Loarre, Alquézar y Guara en PDF'
 ---
 Mil años en lo alto de una peña, murallas con torres redondas, una iglesia románica dentro del recinto y unas vistas que llegan hasta el horizonte. El **castillo de Loarre** es tan de película que **Ridley Scott** lo eligió para rodar *El reino de los cielos*.
 

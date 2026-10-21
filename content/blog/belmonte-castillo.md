@@ -41,8 +41,8 @@ comer:
     t: "Pizzería"
     d: "C/ los Tintes, 14"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cuenca-provincia-chenoaventuras.pdf
-guiaTitulo: 'Guía Cuenca en PDF'
+guia: /assets/guias/guia-cuenca-mancha-chenoaventuras.pdf
+guiaTitulo: 'Guía La Mancha de Cuenca en PDF'
 ---
 Torres redondas, murallas almenadas que bajan hasta el pueblo y un patio que parece esperar a que aparezcan los caballeros. El **Castillo de Belmonte**, en Cuenca, es uno de los castillos medievales **mejor conservados de España**, y por eso aparece en películas y acoge torneos de combate medieval.
 

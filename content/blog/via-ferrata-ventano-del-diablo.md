@@ -35,8 +35,8 @@ comer:
     r: 4.4
     o: 1430
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cuenca-provincia-chenoaventuras.pdf
-guiaTitulo: 'Guía Cuenca en PDF'
+guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
+guiaTitulo: 'Guía de Cuenca en PDF'
 ---
 Colgado sobre la **Hoz del Júcar**, con el río corriendo decenas de metros más abajo, este recorrido de **vía ferrata** es uno de los planes de aventura más completos de la provincia de Cuenca. Se llama como el mirador natural que lo corona: el **Ventano del Diablo**.
 

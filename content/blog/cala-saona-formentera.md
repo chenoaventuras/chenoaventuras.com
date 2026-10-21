@@ -30,8 +30,8 @@ faq:
     a: "En junio y septiembre: agua templada y mucha menos gente que en julio y agosto. A cualquier hora, la tarde es su mejor momento."
   - q: "¿Qué hay cerca de Cala Saona?"
     a: "El Cap de Barbaria y su faro, a unos minutos en coche hacia el sur; Caló d'en Trull, una caleta rocosa junto a Punta Rasa; y Sant Francesc Xavier, la capital de la isla."
-guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
-guiaTitulo: 'Guía Ibiza y Formentera en PDF'
+guia: /assets/guias/guia-formentera-chenoaventuras.pdf
+guiaTitulo: 'Guía Formentera en PDF'
 ---
 Arena blanca y fina encajada entre **acantilados rojizos**, agua turquesa tan quieta que parece una piscina, unas casetas de pescadores con sus rampas de madera y, al caer la tarde, el sol hundiéndose en el mar justo enfrente. **Cala Saona** es la única playa grande del oeste de Formentera y, para mucha gente, la más bonita de la isla para terminar el día.
 

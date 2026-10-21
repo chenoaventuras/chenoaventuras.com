@@ -30,8 +30,8 @@ faq:
     a: "Al atardecer, cuando el sol se pone detrás del islote. Llega con tiempo, porque en verano los miradores se llenan."
   - q: "¿Se puede bañar en Cala d'Hort?"
     a: "Sí, es una cala de arena con chiringuitos y restaurantes, con Es Vedrà enfrente. Es de las playas más fotogénicas de la isla."
-guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
-guiaTitulo: 'Guía Ibiza y Formentera en PDF'
+guia: /assets/guias/guia-ibiza-chenoaventuras.pdf
+guiaTitulo: 'Guía Ibiza en PDF'
 ---
 Una roca enorme que sale del mar como una catedral, envuelta en leyendas de sirenas, luces misteriosas y magnetismo. **Es Vedrà**, frente a la costa suroeste de Ibiza, es el lugar más mágico de la isla para muchos y el escenario de los atardeceres más famosos de Baleares. No se puede pisar, pero verlo ya es una experiencia.
 

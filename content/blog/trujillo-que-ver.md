@@ -43,8 +43,8 @@ comer:
     o: 1867
     d: "C. de la Victoria, 8"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-caceres-trujillo-chenoaventuras.pdf
+guiaTitulo: 'Guía Cáceres, Trujillo y Monfragüe en PDF'
 ---
 Una de las plazas mayores más bonitas de España, un castillo árabe en lo alto del cerro y palacios con escudos por todas partes. **Trujillo** fue la cuna de conquistadores como **Francisco Pizarro** o Francisco de Orellana, y con el oro de América llenaron el pueblo de casas señoriales.
 

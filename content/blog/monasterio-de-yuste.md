@@ -40,8 +40,8 @@ comer:
     t: "Bar restaurante"
     d: "C. Rodeo, 20"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-norte-de-caceres-chenoaventuras.pdf
+guiaTitulo: 'Guía Norte de Cáceres en PDF'
 ---
 Gobernó medio mundo: España, Alemania, los Países Bajos, Italia y América. Y para sus últimos años eligió un rincón tranquilo de **La Vera** (Cáceres): el **Monasterio de Yuste**. Aquí vivió **Carlos V** entre 1557 y 1558, y aquí murió.
 

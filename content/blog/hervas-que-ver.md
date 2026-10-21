@@ -42,8 +42,8 @@ comer:
     t: "Bar restaurante"
     d: "C. Rabilero, 5"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-norte-de-caceres-chenoaventuras.pdf
+guiaTitulo: 'Guía Norte de Cáceres en PDF'
 ---
 Calles estrechísimas, casas de entramado de madera de castaño que casi se tocan por arriba, un río de montaña cruzando el pueblo y la sierra nevada al fondo. **Hervás** tiene uno de los **barrios judíos mejor conservados de España**, y es la puerta perfecta para descubrir el norte de Extremadura.
 

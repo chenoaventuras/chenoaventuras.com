@@ -34,8 +34,8 @@ comer:
     r: 4.4
     o: 1430
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-cuenca-provincia-chenoaventuras.pdf
-guiaTitulo: 'Guía Cuenca en PDF'
+guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
+guiaTitulo: 'Guía de Cuenca en PDF'
 ---
 Saltos al agua, **toboganes** tallados por el río durante siglos y un cañón que no parece de Castilla-La Mancha: así es el **barranquismo en el río Júcar**, en plena **Serranía de Cuenca**. Si nunca lo has probado, es un plan perfecto para estrenarse.
 

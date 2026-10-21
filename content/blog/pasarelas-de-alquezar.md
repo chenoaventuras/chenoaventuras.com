@@ -36,8 +36,8 @@ comer:
     r: 4.6
     o: 910
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-huesca-chenoaventuras.pdf
-guiaTitulo: 'Guía Huesca en PDF'
+guia: /assets/guias/guia-prepirineo-huesca-chenoaventuras.pdf
+guiaTitulo: 'Guía Loarre, Alquézar y Guara en PDF'
 ---
 Pasarelas metálicas colgadas de la roca, un río de aguas turquesas por debajo y, al final, uno de los pueblos más bonitos de España. Las **Pasarelas de Alquézar** son la ruta más popular de la Sierra de Guara, y con razón.
 

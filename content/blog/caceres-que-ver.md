@@ -43,8 +43,8 @@ comer:
     o: 479
     d: "Calle Gral. Ezponda, 3"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-caceres-trujillo-chenoaventuras.pdf
+guiaTitulo: 'Guía Cáceres, Trujillo y Monfragüe en PDF'
 ---
 Torres de piedra, palacios con escudos, calles empedradas en cuesta y ni un solo cable a la vista. La **Ciudad Monumental de Cáceres** es uno de los cascos medievales mejor conservados de Europa, y es **Patrimonio de la Humanidad** desde 1986.
 

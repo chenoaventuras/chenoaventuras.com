@@ -11,8 +11,8 @@ tags:
   - Actividades
   - Castilla-La Mancha
 wide: true
-guia: /assets/guias/guia-cuenca-provincia-chenoaventuras.pdf
-guiaTitulo: 'Guía Cuenca en PDF'
+guia: /assets/guias/guia-cuenca-mancha-chenoaventuras.pdf
+guiaTitulo: 'Guía La Mancha de Cuenca en PDF'
 ---
 Llegamos a **Finca Antigua** y qué gusto cuando alguien te recibe con alma. Fui con mi amigo <a href="https://www.instagram.com/conbuenvino/" target="_blank" rel="noopener">@conbuenvino</a>, que de vino sabe un rato, y nos guio **Rosa**. Rosa no solo trabaja allí: **Rosa es parte de la bodega**. Te habla de los vinos como quien te habla de sus hijos, con ese brillo en los ojos que solo tienen los que aman lo que hacen.
 

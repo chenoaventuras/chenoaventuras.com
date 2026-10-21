@@ -36,8 +36,8 @@ comer:
     o: 81
     d: "C. Fajardo, 58"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-caceres-trujillo-chenoaventuras.pdf
+guiaTitulo: 'Guía Cáceres, Trujillo y Monfragüe en PDF'
 ---
 Rocas de granito enormes, redondeadas como si alguien las hubiera colocado a mano, reflejándose en charcas tranquilas. Y encima de muchas de ellas, **nidos de cigüeña**. Son **Los Barruecos**, un Monumento Natural a solo 15 minutos de Cáceres.
 

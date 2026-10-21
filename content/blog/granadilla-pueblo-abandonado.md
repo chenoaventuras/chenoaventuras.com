@@ -41,8 +41,8 @@ comer:
     t: "Parrilla"
     d: "Ctra. Guijo, 4"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-norte-de-caceres-chenoaventuras.pdf
+guiaTitulo: 'Guía Norte de Cáceres en PDF'
 ---
 Un pueblo con **muralla**, **castillo** y casas de colores... y sin vecinos. **Granadilla**, en el norte de Cáceres, fue **desalojado** en los años 60 porque iba a quedar bajo un pantano. Lo curioso es que **el agua nunca llegó a cubrirlo**.
 

@@ -33,8 +33,8 @@ comer:
     o: 218
     d: "Av. Rocandelario, 1D"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-norte-de-caceres-chenoaventuras.pdf
+guiaTitulo: 'Guía Norte de Cáceres en PDF'
 ---
 El río Alagón da una vuelta tan cerrada que casi rodea por completo un monte cubierto de pinos. Visto desde arriba parece una isla en mitad del agua. Es el **Meandro del Melero**, uno de los paisajes más fotografiados de Extremadura.
 

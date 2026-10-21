@@ -36,8 +36,8 @@ comer:
     t: "Bar restaurante"
     d: "Villarreal de San Carlos, 40"
 comerFecha: "octubre de 2026"
-guia: /assets/guias/guia-caceres-chenoaventuras.pdf
-guiaTitulo: 'Guía Cáceres en PDF'
+guia: /assets/guias/guia-caceres-trujillo-chenoaventuras.pdf
+guiaTitulo: 'Guía Cáceres, Trujillo y Monfragüe en PDF'
 ---
 Una pared de roca gigante sobre el río Tajo y decenas de **buitres** planeando a la altura de tus ojos. Eso es el **Salto del Gitano**, el mirador más famoso del **Parque Nacional de Monfragüe**, uno de los mejores sitios de Europa para ver aves rapaces.
 
