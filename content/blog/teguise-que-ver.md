@@ -18,7 +18,7 @@ faq:
   - q: "¿Cuándo es el mercadillo de Teguise?"
     a: "Cada domingo de 9:00 a 14:00, todo el año."
   - q: "¿Dónde se aparca en Teguise?"
-    a: "En las afueras del casco histórico: los aparcamientos gratuitos se llenan hacia las 10:30 los domingos."
+    a: "En las afueras del casco histórico: los aparcamientos se llenan pronto los domingos."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Con 2-3 horas ves el centro histórico; añade media mañana si subes al castillo y al museo."
   - q: "¿Por qué Teguise fue capital?"
@@ -33,7 +33,7 @@ Te cuento qué ver y cómo organizarte un domingo en Teguise 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Teguise: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🛍️ Mercadillo del domingo</h3><p>Se celebra <strong>cada domingo de 9:00 a 14:00</strong> en el casco histórico, con artesanía, cerámica, cestería, vinos y productos de aloe. Es gratis y es el más antiguo y concurrido de la isla.</p></div>
-<div class="guide__tip"><h3>🅿️ Aparcar</h3><p>El centro se peatoniza ese día. Aparca en las <strong>afueras</strong>: los aparcamientos gratuitos se llenan hacia las 10:30. Llega pronto.</p></div>
+<div class="guide__tip"><h3>🅿️ Aparcar</h3><p>El centro se peatoniza ese día. Aparca en las <strong>afueras</strong>: los aparcamientos se llenan pronto. Llega temprano.</p></div>
 <div class="guide__tip"><h3>⏱️ Cuánto tiempo</h3><p>El centro histórico es pequeño (1,5 km). Con 2-3 horas ves lo principal; con el castillo, media mañana.</p></div>
 </div>
 

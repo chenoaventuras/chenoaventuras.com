@@ -34,7 +34,7 @@ Te cuento qué ver, el estado del mirador y cómo llegar 👇
 <div class="guide__tips">
 <div class="guide__tip"><h3>⚠️ Mirador de Morro Velosa</h3><p>Según la información más reciente, el edificio del mirador diseñado por César Manrique está <strong>cerrado temporalmente</strong>; la carretera y las vistas siguen accesibles. <strong>Compruébalo antes de ir</strong>.</p></div>
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Por la FV-30, a unos 30 km de Puerto del Rosario. El centro es casi peatonal: aparca en las zonas habilitadas a la entrada del pueblo.</p></div>
-<div class="guide__tip"><h3>🎟️ Museo arqueológico</h3><p>Según las guías, abre de martes a sábado y es de entrada gratuita, con reserva online. <strong>Confirma horarios</strong> con el Cabildo.</p></div>
+<div class="guide__tip"><h3>🎟️ Museo arqueológico</h3><p>Según el Cabildo, la entrada es <strong>gratuita</strong> y abre de martes a sábado de 10:00 a 17:00 (la web de Museos de Fuerteventura indica hasta las 16:00). No hace falta reserva para la visita libre. <strong>Confirma horarios</strong> llamando al 928 171 414.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La primera capital de la isla</h2></div>

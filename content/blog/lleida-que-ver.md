@@ -17,7 +17,7 @@ faq:
   - q: "¿Qué ver en Lleida en un día?"
     a: "La Seu Vella, el castillo de la Suda, las murallas, la Paeria, La Llotja y el casco antiguo."
   - q: "¿Es gratis la Seu Vella?"
-    a: "Según la web oficial, el primer martes de cada mes es gratuita, además de en fiestas locales. Confirma las condiciones."
+    a: "Solo el primer martes de cada mes (y en fiestas locales), según La Paeria. La entrada general cuesta 7 €."
   - q: "¿Cuándo fue catedral la Seu Vella?"
     a: "Entre 1278 y 1707."
   - q: "¿Cómo se llega desde Barcelona?"
@@ -33,8 +33,8 @@ Te cuento qué ver, horarios (orientativos) y cómo organizarlo 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lleida: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🎟️ Entrada al conjunto</h3><p>Según la web oficial, hay entrada general al conjunto (Seu Vella y castillo de la Suda), con reducida, y el <strong>primer martes de cada mes</strong> la Seu Vella es gratuita. <strong>Confirma horarios y precios</strong> en turoseuvella.cat, porque cambian por temporada.</p></div>
-<div class="guide__tip"><h3>📅 Lunes cerrado</h3><p>La Seu Vella suele cerrar los lunes no festivos. Los horarios cambian en verano.</p></div>
+<div class="guide__tip"><h3>🎟️ Entrada al conjunto</h3><p>Según La Paeria, la entrada general al conjunto de la Seu Vella cuesta <strong>7 €</strong> (5 € reducida; menores de 7 años gratis) y el <strong>primer martes de cada mes</strong> es gratuita. <strong>Confirma precios</strong> en turoseuvella.cat.</p></div>
+<div class="guide__tip"><h3>📅 Lunes cerrado</h3><p>De octubre a abril abre de martes a viernes de 10:00 a 13:30 y de 15:00 a 17:30, sábados de 10:00 a 17:30 y domingos y festivos de 10:00 a 15:00; en verano, de martes a sábado de 10:00 a 14:00 y de 16:30 a 19:30. Los lunes está cerrado.</p></div>
 <div class="guide__tip"><h3>🚆 Cómo llegar</h3><p>Lleida tiene AVE desde Barcelona (en torno a una hora) y desde Zaragoza y Madrid. El cerro se sube a pie.</p></div>
 </div>
 

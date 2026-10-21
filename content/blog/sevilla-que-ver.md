@@ -34,7 +34,7 @@ Te cuento qué ver, en qué orden y cómo evitar colas 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Sevilla: lo que tienes que reservar</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Reserva online</h3><p>La <strong>Catedral</strong> (con la Giralda) y el <strong>Real Alcázar</strong> son los dos monumentos que más se llenan. Compra las entradas con antelación, sobre todo en temporada alta, y elige franjas de mañana.</p></div>
-<div class="guide__tip"><h3>🕙 Horarios</h3><p>Las guías recientes indican que la Catedral abre de lunes a sábado a partir de las 11:00 y el domingo por la tarde, y que el Alcázar abre desde las 9:30 (cierra a las 17:00 de octubre a marzo y a las 19:00 de abril a septiembre). <strong>Confirma horarios y precios</strong> en las webs oficiales.</p></div>
+<div class="guide__tip"><h3>🕙 Horarios</h3><p>Según la web oficial de la <strong>Catedral</strong>, abre de lunes a sábado de 10:45 a 19:00 (la taquilla cierra a las 18:00) y los domingos de 14:30 a 19:00; la entrada general cuesta <strong>13 € online</strong> (14 € en taquilla). El <strong>Real Alcázar</strong> abre de 9:30 a 17:00 de octubre a marzo y hasta las 19:00 de abril a septiembre, con entrada general de 15,50 €. Los horarios cambian por culto y fiestas: <strong>confírmalos</strong> antes de ir.</p></div>
 <div class="guide__tip"><h3>🚆 Cómo llegar</h3><p>Hay AVE desde Madrid en unas <strong>2 horas y media</strong> y desde Córdoba en menos de una hora. Los monumentos del centro se ven a pie.</p></div>
 </div>
 

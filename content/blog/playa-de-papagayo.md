@@ -14,7 +14,7 @@ wide: true
 faqTitulo: "Dudas sobre Papagayo"
 faq:
   - q: "¿Cuánto cuesta entrar a Papagayo?"
-    a: "Para llegar en coche se paga una tasa de unos 3 € por vehículo (los residentes en Lanzarote, exentos). A pie o en bici es gratuito. Confirma la tarifa actual."
+    a: "Según varias guías y la prensa local, unos 3 € por vehículo (los residentes en Lanzarote, exentos). A pie o en bici es gratuito. Confírmalo con el Ayuntamiento de Yaiza."
   - q: "¿Cómo se llega a Papagayo desde Playa Blanca?"
     a: "Por una pista de tierra de unos 4,5-5,5 km con baches, en 15-20 minutos en coche. También hay barcos-taxi desde el antiguo muelle de Playa Blanca."
   - q: "¿Cuántas playas hay?"
@@ -30,7 +30,7 @@ Cinco calas de **arena dorada y aguas turquesas** al sur de Lanzarote, dentro de
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Papagayo: lo que tienes que saber</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🚗 Entrada con coche</h3><p>Para llegar en coche hay que pagar una <strong>tasa de unos 3 € por vehículo</strong> (los residentes en Lanzarote, exentos), en un aparcamiento que abre de 9:00 a 19:00. Confirma la tarifa actual.</p></div>
+<div class="guide__tip"><h3>🚗 Entrada con coche</h3><p>Según varias guías y la prensa local, para llegar en coche se paga una <strong>tasa de unos 3 € por vehículo</strong> (2 € las motos; los residentes en Lanzarote, exentos), con pago con tarjeta, y el acceso se controla de 9:00 a 19:00 (alguna guía cita desde las 7:00). No he encontrado la tarifa publicada en una web oficial, así que <strong>confírmala con el Ayuntamiento de Yaiza</strong>.</p></div>
 <div class="guide__tip"><h3>🥾 Pista de tierra</h3><p>Desde Playa Blanca son <strong>unos 4,5-5,5 km de pista</strong> con baches (15-20 minutos). A pie o en bici la entrada es gratuita.</p></div>
 <div class="guide__tip"><h3>🛥️ En barco</h3><p>También se llega en <strong>barcos-taxi</strong> desde el antiguo muelle de Playa Blanca, varias veces al día, o en excursiones en velero, y así te ahorras la pista.</p></div>
 </div>

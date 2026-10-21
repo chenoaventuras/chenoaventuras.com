@@ -33,7 +33,7 @@ Te cuento qué ver, las bodegas y los miradores 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Fermoselle: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🍷 Bodegas</h3><p>Más de 900 bodegas subterráneas excavadas bajo las casas. Varias empresas locales hacen visitas guiadas y catas (una guía cita unos 25 € por persona, los fines de semana y con reserva). <strong>Confirma precios y fechas</strong>.</p></div>
+<div class="guide__tip"><h3>🍷 Bodegas</h3><p>Más de 900 bodegas subterráneas excavadas bajo las casas. Varias empresas locales hacen visitas guiadas y catas (los precios y los días dependen de cada empresa; suelen requerir reserva). <strong>Confirma precios y fechas</strong>.</p></div>
 <div class="guide__tip"><h3>🥾 Calzado</h3><p>El pueblo está en un cerro con cuestas y los miradores tienen senderos de tierra. Lleva calzado cómodo.</p></div>
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Queda a una hora aproximada de Zamora capital. Lo cómodo es el coche.</p></div>
 </div>

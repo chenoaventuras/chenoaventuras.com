@@ -17,9 +17,9 @@ faq:
   - q: "¿Dónde está Baelo Claudia?"
     a: "En la ensenada de Bolonia, en el término de Tarifa (Cádiz), a unos 8 km de la N-340 por la carretera CA-8202."
   - q: "¿Cuándo abre el yacimiento?"
-    a: "Cierra los lunes (salvo vísperas de festivo). De martes a sábado abre desde las 9:00 y cierra a las 15:00, 18:00 o 21:00 según la temporada; domingos y festivos, de 9:00 a 15:00."
+    a: "Cierra los lunes (salvo vísperas de festivo). De septiembre a marzo, de martes a sábado de 9:00 a 18:00; de marzo a junio, hasta las 21:00; en verano, de 9:00 a 15:00. Domingos y festivos, de 9:00 a 15:00."
   - q: "¿Se paga entrada?"
-    a: "Según las fuentes, la entrada es gratuita o de muy bajo coste. Confírmalo antes de ir."
+    a: "Según la web oficial, es gratuita para ciudadanos de la UE y cuesta 1,50 € para el resto."
   - q: "¿Cuánto mide la duna de Bolonia?"
     a: "Más de 30 metros de altura. Es Monumento Natural desde 2001 y tiene restricciones de acceso."
   - q: "¿Dónde se aparca?"
@@ -34,8 +34,8 @@ Te cuento cómo llegar, qué ver y cómo organizar el día 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Bolonia: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Baelo Claudia</h3><p>El yacimiento romano se puede recorrer a pie: calles, teatro, foro, basílica y los restos de las factorías de salazón. Una guía calcula <strong>1,5 a 2 horas</strong> de visita.</p></div>
-<div class="guide__tip"><h3>🕘 Horario y entrada</h3><p>Está <strong>cerrado los lunes</strong> (salvo vísperas de festivo). De martes a sábado abre desde las 9:00 y cierra a las 15:00, 18:00 o 21:00 según la temporada; los domingos y festivos, de 9:00 a 15:00. La entrada es gratuita o de muy bajo coste según las fuentes: <strong>confírmalo</strong>.</p></div>
-<div class="guide__tip"><h3>🅿️ Aparcamiento</h3><p>Hay aparcamiento gratuito en el yacimiento (con plazas limitadas) y aparcamientos de pago junto a la playa, de unos 2 a 5 € al día.</p></div>
+<div class="guide__tip"><h3>🕘 Horario y entrada</h3><p>Según la web oficial: cerrado los lunes (salvo vísperas de festivo). Del 21 de septiembre al 20 de marzo abre de martes a sábado de 9:00 a 18:00; del 21 de marzo al 20 de junio, de 9:00 a 21:00; del 21 de junio al 20 de septiembre, de martes a domingo de 9:00 a 15:00; domingos y festivos de 9:00 a 15:00 el resto del año. La entrada es <strong>gratuita para ciudadanos de la UE</strong> (1,50 € para el resto). Confirma el calendario.</p></div>
+<div class="guide__tip"><h3>🅿️ Aparcamiento</h3><p>Hay aparcamiento gratuito en el yacimiento (con plazas limitadas) y aparcamientos de pago junto a la playa: confirma las tarifas.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La duna de Bolonia</h2></div>

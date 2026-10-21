@@ -33,7 +33,7 @@ Te cuento qué ver, en qué orden y cómo evitar las colas 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Valldemossa: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⏰ Llega pronto</h3><p>Es uno de los pueblos más visitados de la isla. Si llegas a primera hora o al final de la tarde, lo disfrutas con menos gente.</p></div>
-<div class="guide__tip"><h3>🎹 La Cartuja</h3><p>Con la entrada puedes visitar la iglesia, el claustro, la antigua farmacia y el museo. La celda de Chopin y George Sand tiene suplemento aparte, y hay recitales de piano cortos a horas fijas. <strong>Confirma horarios y precios</strong> en la web oficial.</p></div>
+<div class="guide__tip"><h3>🎹 La Cartuja</h3><p>Según la web oficial, la entrada general cuesta <strong>12,50 €</strong> (menores de 10 años gratis) y abre de lunes a viernes de 10:00 a 17:00 y sábados de 10:00 a 16:00. Incluye iglesia, claustro, farmacia y museo, y los <strong>recitales de piano</strong> de unos 15 minutos a horas fijas; la celda de Chopin y George Sand se paga aparte. <strong>Confirma horarios y precios</strong>.</p></div>
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Desde Palma, en coche, son unos 20-25 minutos. También hay autobús desde la Estación Intermodal; consulta horarios antes de ir.</p></div>
 </div>
 

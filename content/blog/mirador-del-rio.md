@@ -14,9 +14,9 @@ wide: true
 faqTitulo: "Dudas sobre el Mirador del Río"
 faq:
   - q: "¿Cuánto cuesta entrar al Mirador del Río?"
-    a: "Es de pago. Las guías recientes hablan de unos 9 € por adulto, pero el precio cambia: confírmalo y compra online en la web del CACT."
+    a: "Es de pago. Según la web oficial del CACT, 9 € por adulto. Confírmalo antes de ir."
   - q: "¿Qué horario tiene?"
-    a: "Normalmente abre todos los días de 10:00 a unas 17:00, con último acceso poco antes. En verano puede ampliarse."
+    a: "Según el CACT, abre todos los días de 10:00 a 17:00, con última entrada a las 16:40. Confirma el horario antes de ir."
   - q: "¿Qué islas se ven desde el Mirador del Río?"
     a: "La Graciosa, Montaña Clara, Alegranza y los roques del Este y del Oeste, del archipiélago Chinijo."
   - q: "¿Quién diseñó el mirador?"
@@ -33,7 +33,7 @@ Te cuento cuánto cuesta, a qué hora ir y cómo llegar 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Mirador del Río: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entrada</h3><p>Es de pago, incluso si solo vas a la cafetería. Las guías recientes hablan de unos <strong>9 € por adulto</strong>, con precios reducidos para niños y residentes, pero los precios cambian: <strong>confírmalo y compra online en la web del CACT</strong> (Centros de Arte, Cultura y Turismo de Lanzarote).</p></div>
-<div class="guide__tip"><h3>🕙 Horario</h3><p>Abre todos los días <strong>de 10:00 a unas 17:00</strong>, con último acceso poco antes del cierre. Llega con margen. En verano el horario puede ampliarse.</p></div>
+<div class="guide__tip"><h3>🕙 Horario</h3><p>Según el CACT, abre todos los días <strong>de 10:00 a 17:00</strong>, con última entrada a las 16:40. Llega con margen y confirma el horario antes de ir.</p></div>
 <div class="guide__tip"><h3>🌬️ Viento</h3><p>La terraza superior puede cerrarse con viento fuerte. Lleva una <strong>chaqueta cortavientos</strong>: arriba sopla más de lo que parece.</p></div>
 </div>
 

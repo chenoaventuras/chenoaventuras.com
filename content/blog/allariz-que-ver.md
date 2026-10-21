@@ -34,7 +34,7 @@ Te cuento qué ver, en qué orden y cómo combinarlo con Ourense 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Allariz: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Queda a unos <strong>20 minutos en coche</strong> de Ourense capital. Puedes aparcar en el Campo da Barreira, justo al lado del centro.</p></div>
-<div class="guide__tip"><h3>🎟️ Museos</h3><p>El Parque Etnográfico del Arnoia reúne el Muíño do Burato, el Museo del Tejido y el Museo del Cuero. Según una guía hay un bono combinado de unos 3 €. <strong>Confirma precios y horarios</strong>.</p></div>
+<div class="guide__tip"><h3>🎟️ Museos</h3><p>El Parque Etnográfico del Arnoia reúne el Muíño do Burato, el Museo del Tejido y el Museo del Cuero. Según el Concello hay un bono de 3 museos por 3 € y Turismo de Galicia cita uno de 6 museos por 3,5 €. Los museos abren sobre todo sábados, domingos y festivos: <strong>confirma horarios y precios</strong> (988 440 859).</p></div>
 <div class="guide__tip"><h3>🛍️ Outlets</h3><p>Allariz es conocida por sus tiendas de outlet, un plan complementario para la tarde.</p></div>
 </div>
 

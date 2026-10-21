@@ -19,7 +19,7 @@ faq:
   - q: "¿Qué es el Tributo de las Cien Doncellas?"
     a: "Una leyenda según la cual los habitantes derrotaron a los musulmanes que venían a cobrar el tributo."
   - q: "¿Cuánto cuesta San Zoilo?"
-    a: "Según las guías, unos 2,50 € la entrada general. Confirma horarios y precios."
+    a: "Según las webs oficiales de turismo, 2,50 € la entrada general (2 € reducida). Confirma horarios llamando al monasterio."
   - q: "¿Está en el Camino de Santiago?"
     a: "Sí, en el Camino Francés, y es una etapa clásica."
   - q: "¿Cuánto tiempo hace falta?"
@@ -33,8 +33,8 @@ Te cuento qué ver, la leyenda y cómo organizarlo 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Carrión de los Condes: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🎟️ San Zoilo</h3><p>Según el Ayuntamiento y las guías, la entrada ronda los <strong>2,50 €</strong> y el horario es de martes a domingo (con cambios por temporada y celebraciones). <strong>Confirma horarios</strong> en el teléfono del monasterio antes de ir.</p></div>
-<div class="guide__tip"><h3>⛪ Iglesias</h3><p>La de Santa María del Camino es gratuita y tiene horario partido, con cambios entre invierno y verano. La de Santiago, con su Pantocrátor, también merece la visita.</p></div>
+<div class="guide__tip"><h3>🎟️ San Zoilo</h3><p>Según las webs oficiales de turismo, la entrada cuesta <strong>2,50 €</strong> (2 € reducida; menores de 9 años gratis). Los horarios cambian por temporada y las fuentes no coinciden (el portal de Castilla y León indica que en invierno puede permanecer cerrado hasta la primavera): <strong>llama al 979 88 09 02</strong> antes de ir.</p></div>
+<div class="guide__tip"><h3>⛪ Iglesias</h3><p>La de <strong>Santa María del Camino</strong> es gratuita y, según el Ayuntamiento, abre de 11:00 a 13:30 y de 17:00 a 19:00 de octubre a marzo, y de 9:00 a 14:00 y de 16:00 a 21:00 de abril a septiembre. La de Santiago, con su Pantocrátor, también merece la visita.</p></div>
 <div class="guide__tip"><h3>🥾 Camino de Santiago</h3><p>Carrión está en el Camino Francés: es una etapa clásica. Hay misa del peregrino por la tarde en Santa María del Camino.</p></div>
 </div>
 

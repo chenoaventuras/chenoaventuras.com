@@ -34,7 +34,7 @@ Te cuento qué ver, en qué orden y cómo ahorrar con la entrada combinada 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cartagena: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entrada combinada</h3><p>Hay entradas que juntan el <strong>Museo del Teatro Romano</strong>, el <strong>Museo del Foro Romano Molinete</strong> y el centro de la <strong>Muralla Púnica</strong>, y salen mejor que pagar cada uno por separado. <strong>Confirma precios y horarios</strong> en la web oficial.</p></div>
-<div class="guide__tip"><h3>🕙 Horarios</h3><p>Las guías indican que el teatro abre hasta las 18:00 en invierno y hasta las 20:00 de mayo a septiembre, con horario reducido el domingo. Cambia según la temporada, así que mira antes de ir.</p></div>
+<div class="guide__tip"><h3>🕙 Horarios</h3><p>Según la web oficial del Teatro Romano: de octubre a abril (excepto Semana Santa), de martes a sábado de 10:00 a 18:00 y domingos de 10:00 a 14:00; de mayo a septiembre, de martes a sábado de 10:00 a 20:00. Cierra los lunes. La entrada general cuesta <strong>7 €</strong> (6 € reducida) y los martes, en las dos últimas horas de apertura, el acceso presencial es gratuito.</p></div>
 <div class="guide__tip"><h3>🚆 Cómo llegar</h3><p>Cartagena tiene tren desde Murcia y está bien conectada por carretera. El casco histórico se recorre a pie.</p></div>
 </div>
 

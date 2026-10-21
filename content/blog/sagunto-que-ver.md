@@ -17,7 +17,7 @@ faq:
   - q: "¿Qué ver en Sagunto?"
     a: "El Castillo, el Teatro Romano, la Judería, el Circo Romano, la Plaza Mayor y el museo histórico."
   - q: "¿Es gratis el Castillo de Sagunto?"
-    a: "Según varias guías, el acceso al castillo y al teatro romano es gratuito. Confirma horarios en la web oficial."
+    a: "Sí, según la web oficial de Patrimonio Cultural, el conjunto del Teatro, el Museo y el Castillo es de entrada gratuita. Confirma los horarios."
   - q: "¿Cómo se llega a Sagunto desde Valencia?"
     a: "En Cercanías, en unos 30 minutos, o en coche por la A-7 o la V-21."
   - q: "¿Cuánto tiempo hace falta?"
@@ -33,7 +33,7 @@ Te cuento qué ver, en qué orden y cómo aprovechar la visita 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Sagunto: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🆓 Entrada gratuita</h3><p>Según varias guías, el acceso al castillo, al teatro romano y al museo histórico es gratuito. Los horarios son de martes a sábado, con cambios por temporada, y cierra los lunes. <strong>Confirma horarios</strong> en la web oficial.</p></div>
+<div class="guide__tip"><h3>🆓 Entrada gratuita</h3><p>Según la web oficial de Patrimonio Cultural de la Generalitat, la entrada al conjunto del <strong>Teatro Romano, el Museo y el Castillo</strong> (con el Antiquarium Epigráfico) es <strong>gratuita</strong>. En invierno (desde mediados de octubre) abre de martes a sábado de 10:00 a 18:00 y domingos y festivos de 10:00 a 14:00; en verano, hasta las 20:00. Último acceso media hora antes del cierre.</p></div>
 <div class="guide__tip"><h3>🚆 Cómo llegar</h3><p>Hay Cercanías desde Valencia en unos 30 minutos y buena conexión por carretera. La estación queda a unos 15-20 minutos andando del casco antiguo.</p></div>
 <div class="guide__tip"><h3>🧢 Sol y calor</h3><p>El castillo es muy expuesto. Lleva agua y gorra, sobre todo en verano.</p></div>
 </div>

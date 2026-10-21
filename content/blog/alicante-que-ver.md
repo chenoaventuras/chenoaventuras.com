@@ -19,7 +19,7 @@ faq:
   - q: "¿Se sube andando al Castillo de Santa Bárbara?"
     a: "Sí, hay camino a pie desde el barrio de Santa Cruz, y también hay ascensor desde la zona del Postiguet."
   - q: "¿Es gratis el Castillo de Santa Bárbara?"
-    a: "Según las guías, el acceso al recinto es gratuito, pero el ascensor y algunos servicios pueden tener coste. Confírmalo en la web oficial."
+    a: "Sí, el acceso al recinto es gratuito según el Patronato de Turismo; el ascensor cuesta 2,70 € (subida y bajada). Confirma los horarios."
   - q: "¿Cómo se llega a Alicante desde Madrid?"
     a: "En AVE, en poco más de dos horas."
   - q: "¿Cuándo es mejor ir a Alicante?"
@@ -43,7 +43,7 @@ Te cuento qué ver, en qué orden y qué probar 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Alicante: los imprescindibles</h2><p>Un día, con castillo, mar y casco antiguo.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/alicante-que-ver/portada.webp" alt="Castillo de Santa Bárbara sobre el monte Benacantil de Alicante con cielo azul" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Castillo de Santa Bárbara</h3><p>La gran fortaleza de Alicante, sobre el Benacantil, con vistas a la ciudad y al mar. Según las guías, la visita al recinto es gratuita; el ascensor y las exposiciones pueden tener coste.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/alicante-que-ver/portada.webp" alt="Castillo de Santa Bárbara sobre el monte Benacantil de Alicante con cielo azul" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Castillo de Santa Bárbara</h3><p>La gran fortaleza de Alicante, sobre el Benacantil, con vistas a la ciudad y al mar. Según el Patronato de Turismo, el acceso al recinto es gratuito y el ascensor cuesta 2,70 € (subida y bajada). Abre de 10:00 a 20:00 del 5 de septiembre al 14 de noviembre y de 10:00 a 18:00 del 15 de noviembre al 27 de febrero.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/alicante-que-ver/postiguet.webp" alt="Playa del Postiguet de Alicante con el Castillo de Santa Bárbara al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La playa del Postiguet</h3><p>Una playa urbana de arena junto al centro, con el castillo de fondo. Perfecta para un baño después de la visita.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/alicante-que-ver/explanada.webp" alt="Paseo de la Explanada de España en Alicante con suelo ondulado y palmeras" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Explanada de España</h3><p>El paseo marítimo más famoso, con el suelo de mosaico ondulado y palmeras. Ideal para pasear y tomar algo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/alicante-que-ver/explanada2.webp" alt="Palmeras y suelo de mosaico de la Explanada de España en Alicante" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Palmeras y mosaico</h3><p>El suelo de la Explanada es la postal de Alicante. Ve a primera hora o al atardecer para pasear sin tanto calor.</p></div></li>

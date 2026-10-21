@@ -15,11 +15,11 @@ wide: true
 faqTitulo: "Dudas sobre la Alhambra"
 faq:
   - q: "¿Cuánto cuesta la entrada a la Alhambra?"
-    a: "Las guías de 2026 hablan de unos 21 € por adulto la entrada general, más una pequeña comisión si compras online. Confirma el precio en la web oficial."
+    a: "Según el Patronato, la entrada general cuesta 21 € por adulto (22,27 € en la web de venta). Confirma el precio en la web oficial."
   - q: "¿Qué incluye la entrada general?"
     a: "Los Palacios Nazaríes, el Generalife y la Alcazaba, en visita diurna."
   - q: "¿Con cuánta antelación hay que reservar?"
-    a: "Cuanto antes: las entradas se agotan con semanas de antelación y, en temporada alta, hasta con 90 días."
+    a: "Cuanto antes: en temporada alta las entradas se agotan con mucha antelación."
   - q: "¿Qué pasa si llego tarde a los Palacios Nazaríes?"
     a: "Tienen franja horaria de 30 minutos impresa en la entrada. Si llegas tarde, se pierde la plaza."
   - q: "¿Cuánto tiempo hace falta?"
@@ -31,8 +31,8 @@ Palacios de yeserías y mármol, jardines con acequias, una fortaleza con vistas
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Alhambra: cómo conseguir entradas</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🎟️ Entrada general</h3><p>La <strong>Alhambra General</strong> (diurna) incluye los <strong>Palacios Nazaríes, el Generalife y la Alcazaba</strong>. Las guías de 2026 hablan de unos <strong>21 € por adulto</strong>, más una pequeña comisión si compras online. Confirma siempre el precio en la web oficial.</p></div>
-<div class="guide__tip"><h3>📅 Reserva con antelación</h3><p>Se venden unas <strong>6.600 entradas al día</strong> y se agotan con semanas de antelación, a veces hasta 90 días en temporada alta. Es casi imprescindible reservar online. Compra solo en la <strong>web oficial</strong> o en vendedores autorizados.</p></div>
+<div class="guide__tip"><h3>🎟️ Entrada general</h3><p>La <strong>Alhambra General</strong> (diurna) incluye los <strong>Palacios Nazaríes, el Generalife y la Alcazaba</strong>. Según el Patronato, cuesta <strong>21 € por adulto</strong> (22,27 € si compras en la web de venta); los menores de 12 años entran gratis. Confirma siempre el precio en la web oficial.</p></div>
+<div class="guide__tip"><h3>📅 Reserva con antelación</h3><p>Los Palacios Nazaríes tienen aforo limitado: el Patronato habla de unas <strong>300 personas cada media hora</strong>. En temporada alta las entradas se agotan con mucha antelación, así que reserva online cuanto antes. Compra solo en la <strong>web oficial</strong> o en vendedores autorizados.</p></div>
 <div class="guide__tip"><h3>⏰ La hora de los Palacios</h3><p>Los Palacios Nazaríes tienen <strong>franja horaria</strong> de 30 minutos impresa en la entrada: si llegas tarde, pierdes tu plaza. El resto del recinto se puede visitar hasta el cierre.</p></div>
 </div>
 

@@ -17,7 +17,7 @@ faq:
   - q: "¿Qué ver en el Monasterio de Poblet?"
     a: "La Puerta Real, el claustro, el Panteón Real, el refectorio, la antigua cocina y la biblioteca."
   - q: "¿Cuánto cuesta la entrada a Poblet?"
-    a: "Las guías dan entre 7 y 10 € según el tipo de visita, con tarifas reducidas. Confirma el precio en la web oficial."
+    a: "Según la web oficial, 10,50 € la entrada general y 7,50 € la reducida. Confirma el precio y los horarios."
   - q: "¿Es Patrimonio de la Humanidad?"
     a: "Sí, el Monasterio de Poblet es Patrimonio de la Humanidad y forma parte de la Ruta del Císter."
   - q: "¿Todavía viven monjes?"
@@ -33,7 +33,7 @@ Te cuento qué ver, cuánto cuesta (orientativo) y cómo combinarlo con Montblan
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Poblet: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🎟️ Entradas y horarios</h3><p>Las guías dan precios entre 7 y 10 € según si vas con visita guiada o libre, con tarifas reducidas. Los horarios varían por temporada (el cambio de invierno a verano suele ser en marzo y octubre). <strong>Confirma precio y horarios en la web oficial</strong>.</p></div>
+<div class="guide__tip"><h3>🎟️ Entradas y horarios</h3><p>Según la web oficial, la entrada general cuesta <strong>10,50 €</strong> (7,50 € reducida). Abre de lunes a sábado de 10:00 a 12:30 y de 15:00 a 18:00, y domingos y festivos de 10:30 a 12:30 y de 15:00 a 18:00; del 15 de junio al 14 de septiembre la tarde llega hasta las 18:30. Cierra el 1 y 6 de enero y el 25 y 26 de diciembre. <strong>Confirma</strong> el calendario especial de 2026.</p></div>
 <div class="guide__tip"><h3>🙏 Es un monasterio vivo</h3><p>Residen decenas de monjes cistercienses, por lo que algunas zonas pueden estar cerradas a ciertas horas. Respeta el silencio y las normas de visita.</p></div>
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Queda cerca de Montblanc y de L'Espluga de Francolí, en la comarca de la Conca de Barberà. Lo más cómodo es el coche.</p></div>
 </div>

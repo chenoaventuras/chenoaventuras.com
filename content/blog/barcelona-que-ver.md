@@ -17,7 +17,7 @@ faq:
   - q: "¿Qué ver en Barcelona en 3 días?"
     a: "Día 1: Sagrada Família y Park Güell. Día 2: Casa Batlló, La Pedrera y el Barrio Gótico. Día 3: Barceloneta y Montjuïc."
   - q: "¿Hay que reservar la Sagrada Família?"
-    a: "Sí: las entradas se compran online con franja horaria y se agotan; ya no hay taquillas físicas."
+    a: "Sí: se compran online con franja horaria y se agotan; la web oficial indica unos dos meses de antelación."
   - q: "¿Qué zona del Park Güell es de pago?"
     a: "La zona monumental, con entrada y hora reservada. El resto del parque es de acceso libre."
   - q: "¿Cuánto tiempo hace falta?"
@@ -33,9 +33,9 @@ Te cuento qué ver, qué reservar y cómo organizar el recorrido 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Barcelona: lo que hay que reservar</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>⛪ Sagrada Família</h3><p>Las entradas se compran <strong>online</strong> con franja horaria; ya no hay taquillas físicas y las franjas se abren con unos 60 días de antelación según las guías. Hay opción con acceso a las torres. Reserva cuanto antes.</p></div>
+<div class="guide__tip"><h3>⛪ Sagrada Família</h3><p>Las entradas se compran <strong>online</strong> (o con los códigos QR dentro de la basílica, según ocupación) y, según la web oficial, se venden con unos <strong>dos meses de antelación</strong>. La entrada básica cuesta <strong>26 €</strong> y la que incluye torres <strong>36 €</strong>. Reserva cuanto antes.</p></div>
 <div class="guide__tip"><h3>🌳 Park Güell</h3><p>La <strong>zona monumental</strong> tiene entrada de pago con hora, y se agotan rápido. El resto del parque es de acceso libre.</p></div>
-<div class="guide__tip"><h3>🏛️ Casa Batlló y La Pedrera</h3><p>Entradas de pago, entre unos 20 y 30 € cada una según las guías: reserva online con antelación para evitar colas. <strong>Confirma precios</strong> en las webs oficiales.</p></div>
+<div class="guide__tip"><h3>🏛️ Casa Batlló y La Pedrera</h3><p>Entradas de pago: la visita general de cada una parte de unos <strong>29 €</strong> según sus webs oficiales, y en taquilla suele salir más cara. Reserva online con antelación para evitar colas.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La ciudad de Gaudí</h2></div>

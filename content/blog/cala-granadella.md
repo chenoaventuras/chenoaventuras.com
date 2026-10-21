@@ -17,7 +17,7 @@ faq:
   - q: "¿Dónde está la Cala Granadella?"
     a: "En Xàbia (Jávea), en la provincia de Alicante, hacia el Cabo de la Nao."
   - q: "¿Se puede ir en coche a la Granadella en verano?"
-    a: "El acceso se regula en temporada alta y cambia cada año: en algunos veranos se cerró a los coches particulares en horas centrales y se habilitó un servicio de minibús o tren turístico. Consulta al Ayuntamiento."
+    a: "Según el Ayuntamiento de Xàbia, en 2026 el acceso en coche está regulado con barrera y aparcamiento de pago (9 € por vehículo y día, de 9:00 a 19:00, en verano y fines de semana hasta mediados de octubre). También hay tren turístico. Confirma las normas del año."
   - q: "¿Cómo es la playa?"
     a: "De cantos rodados, no de arena, con agua muy clara y acantilados blancos con cuevas."
   - q: "¿Es buena para hacer snorkel?"
@@ -33,7 +33,7 @@ Te cuento cómo llegar (ojo con las restricciones de verano) y cómo aprovecharl
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cala Granadella: lo que tienes que saber</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🚗 Acceso regulado en verano</h3><p>En temporada alta el acceso en coche se <strong>restringe</strong> y se organiza con minibús o tren turístico. Las normas cambian cada año: <strong>consulta la web del Ayuntamiento de Xàbia</strong> antes de ir.</p></div>
+<div class="guide__tip"><h3>🚗 Acceso regulado en verano</h3><p>Según el Ayuntamiento de Xàbia (verano de 2026), el acceso en coche está regulado con barrera y aparcamiento de pago: <strong>9 € por vehículo y día</strong>, de 9:00 a 19:00, todos los días del 1 de junio al 6 de septiembre y solo fines de semana hasta el 12 de octubre (sin reserva, unas 130 plazas). También hay tren turístico desde La Guardia. Las normas cambian cada año: <strong>confírmalas</strong>.</p></div>
 <div class="guide__tip"><h3>🅿️ Aparcamiento</h3><p>El aparcamiento es de tierra, está junto a la playa y se llena rápido: unas <strong>cien plazas</strong>. Si no hay sitio, no se puede entrar. Llega a primera hora.</p></div>
 <div class="guide__tip"><h3>🤿 Snorkel y kayak</h3><p>Es una de las mejores zonas para snorkel de la Costa Blanca. Lleva tu equipo, calzado para los cantos rodados y protección solar: casi no hay sombra.</p></div>
 </div>
@@ -49,7 +49,7 @@ Te cuento cómo llegar (ojo con las restricciones de verano) y cómo aprovecharl
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p>Desde <strong>Xàbia</strong>, se toma la carretera hacia el <strong>Cabo de la Nao</strong> y se sigue la carretera de la Granadella hasta la cala, con muchas curvas. Usa GPS.</p><p>En verano el acceso en coche puede estar cerrado en horas centrales: en algunos años solo se podía llegar en minibús de 10 a 19 h. <strong>Confirma las normas del año en curso</strong> y valora llegar a pie o en el transporte habilitado.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cala+Granadella+Xàbia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Desde <strong>Xàbia</strong>, se toma la carretera hacia el <strong>Cabo de la Nao</strong> y se sigue la carretera de la Granadella hasta la cala, con muchas curvas. Usa GPS.</p><p>En verano el acceso en coche está regulado con barrera y aparcamiento de pago (en 2026, 9 € por vehículo y día, de 9:00 a 19:00), y hay un tren turístico desde La Guardia. <strong>Confirma las normas del año en curso</strong> y valora llegar a pie o en el transporte habilitado.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cala+Granadella+Xàbia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Llega antes de las 10</b>: antes de que el acceso en coche se restrinja y se llene el aparcamiento.</li><li><b>Lleva calzado de agua</b>: los cantos rodados pinchan.</li><li><b>Sin sombra</b>: no hay mucha: lleva sombrilla, agua y protector.</li><li><b>Alternativas cercanas</b>: si está llena, prueba <strong>Cala Portitxol</strong> o <strong>Cala Blanca</strong>, también en Xàbia.</li><li><b>Cuida el entorno</b>: no dejes basura ni toques los fondos marinos.</li></ul></div>
 

@@ -33,7 +33,7 @@ Te cuento qué ver, la historia del gallo y la gallina y cómo organizarlo 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Santo Domingo de la Calzada: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🕙 Horarios</h3><p>Las guías indican que la catedral abre casi todos los días de mañana a tarde, pero cambia en Semana Santa, Navidad y fines de semana. <strong>Confirma horarios y precio en la web oficial</strong> antes de ir.</p></div>
+<div class="guide__tip"><h3>🕙 Horarios</h3><p>Según la web oficial, la catedral abre de 9:00 a 20:00 (sábados hasta las 19:00); la entrada cuesta <strong>7 €</strong> (menores de 12 años gratis) y la torre exenta <strong>4 €</strong>. Hay una pulsera de 10 € con acceso a cuatro monumentos. Los horarios cambian por actos religiosos: <strong>confírmalos</strong>.</p></div>
 <div class="guide__tip"><h3>🚶 Camino de Santiago</h3><p>El pueblo está en el <strong>Camino Francés</strong>. Si vas con peregrinos, es una buena parada para descansar.</p></div>
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Queda en la A-12, a unos 45 minutos de Logroño en coche.</p></div>
 </div>

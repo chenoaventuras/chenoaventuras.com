@@ -33,7 +33,7 @@ Te cuento qué ver y la historia de Colón en la isla 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>San Sebastián de La Gomera: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚶 A pie</h3><p>El casco histórico es pequeño y se recorre caminando. La calle Real une la plaza de la Constitución con la iglesia.</p></div>
-<div class="guide__tip"><h3>🕙 Horarios</h3><p>Una guía antigua indica que la Torre del Conde y la Casa de la Aguada abren de lunes a viernes de 10:00 a 18:00. <strong>Confirma horarios actuales</strong>.</p></div>
+<div class="guide__tip"><h3>🕙 Horarios</h3><p>Según el Cabildo, la <strong>Casa de Colón</strong> abre de lunes a viernes de 8:00 a 15:00, y la <strong>Torre del Conde</strong> y el <strong>Pozo de la Aguada</strong> figuran como <strong>cerrados temporalmente</strong>. Confirma su estado en la Oficina de Turismo antes de ir.</p></div>
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Es la capital de la isla y el puerto de entrada desde Tenerife. Desde aquí salen las carreteras a Valle Gran Rey, Garajonay y el resto de la isla.</p></div>
 </div>
 

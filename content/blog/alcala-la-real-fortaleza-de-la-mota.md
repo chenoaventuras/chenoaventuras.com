@@ -17,7 +17,7 @@ faq:
   - q: "¿Qué ver en la Fortaleza de la Mota?"
     a: "La alcazaba, la Torre del Homenaje, la Iglesia Mayor Abacial, la bodega medieval, las murallas y las puertas."
   - q: "¿Cuánto cuesta la entrada?"
-    a: "Según una guía local, la general ronda los 8 € y la reducida los 4 €. Confirma el precio actual."
+    a: "Según la web oficial de turismo, la general cuesta 8 € y la reducida 4 €."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Al menos dos horas para recorrerla con calma."
   - q: "¿Hay visitas guiadas?"
@@ -33,8 +33,8 @@ Te cuento qué ver, horarios (orientativos) y consejos 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La Mota: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🎟️ Entrada y audioguía</h3><p>La entrada general ronda los <strong>8 €</strong> según una guía local, con reducida y gratis para menores de 6 años. Incluye mapa y audioguía. <strong>Confirma precios y horarios</strong> en la web oficial.</p></div>
-<div class="guide__tip"><h3>🕙 Horarios</h3><p>Las fuentes dan de 10:00 a 18:00 en invierno y hasta las 19:00 o 19:30 en verano, y en agosto hay noches especiales con «Veladas en la Frontera». Consulta el horario actual.</p></div>
+<div class="guide__tip"><h3>🎟️ Entrada y audioguía</h3><p>Según la web oficial de turismo, la entrada general cuesta <strong>8 €</strong> y la reducida <strong>4 €</strong> (de 7 a 16 años y mayores de 65); los menores de 6 años entran gratis. Incluye mapa y audioguía. <strong>Confirma precios y horarios</strong>.</p></div>
+<div class="guide__tip"><h3>🕙 Horarios</h3><p>Según la web oficial de turismo, abre todos los días de <strong>10:00 a 18:00</strong> del 16 de septiembre al 30 de abril y de <strong>10:00 a 19:00</strong> del 1 de mayo al 15 de septiembre (24 y 31 de diciembre y 5 de enero, de 10:00 a 14:00). En agosto hay noches especiales con «Veladas en la Frontera».</p></div>
 <div class="guide__tip"><h3>🗺️ Tiempo necesario</h3><p>Calcula <strong>al menos dos horas</strong>. Hay visitas guiadas de unas 1,5 horas a horas fijas.</p></div>
 </div>
 

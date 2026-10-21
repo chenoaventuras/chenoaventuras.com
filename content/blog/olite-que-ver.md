@@ -21,7 +21,7 @@ faq:
   - q: "¿Cómo se llega a Olite desde Pamplona?"
     a: "En coche, unos 35 minutos por la AP-15; en autobús, unos 45 minutos."
   - q: "¿Qué horario tiene el Palacio Real?"
-    a: "Según una guía, de 10:00 a 20:00 de junio a septiembre y de 10:00 a 18:00 de octubre a mayo. Confírmalo en la web oficial."
+    a: "Según la web oficial: octubre, noviembre, febrero y marzo de 10:00 a 18:00; diciembre y enero de 9:30 a 17:30; abril a junio y septiembre de 10:00 a 19:00; julio y agosto de 9:00 a 20:00. La entrada para adultos cuesta 4,40 €."
   - q: "¿Se puede visitar el Palacio Viejo?"
     a: "No: hoy es el Parador de Olite y solo se conservan sus murallas y torres."
 guia: /assets/guias/guia-navarra-chenoaventuras.pdf
@@ -34,7 +34,7 @@ Te cuento qué ver y cómo organizar la visita 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Olite: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏰 Palacio Real</h3><p>Según las guías, es el <strong>monumento más visitado de Navarra</strong>. Se puede subir a las torres, recorrer las salas y caminar por las murallas. Compra las entradas con antelación en fin de semana y festivos.</p></div>
-<div class="guide__tip"><h3>🕙 Horarios</h3><p>Una guía indica horario de <strong>10:00 a 20:00 de junio a septiembre</strong> y de <strong>10:00 a 18:00 de octubre a mayo</strong>. Confirma horarios y precios en la web oficial.</p></div>
+<div class="guide__tip"><h3>🕙 Horarios</h3><p>Según la web oficial del palacio: de diciembre a enero, de 9:30 a 17:30; en febrero, marzo, octubre y noviembre, de 10:00 a 18:00; de abril a junio y septiembre, de 10:00 a 19:00 (viernes y sábado hasta las 20:00); en julio y agosto, de 9:00 a 20:00. La entrada individual para adultos cuesta <strong>4,40 €</strong>. Confirma horarios y precios en la web oficial.</p></div>
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>En coche, unos <strong>35 minutos desde Pamplona</strong> por la AP-15; en autobús, unos 45 minutos.</p></div>
 </div>
 

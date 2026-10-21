@@ -19,7 +19,7 @@ faq:
   - q: "¿Hay que reservar el Palacio Real y el Prado?"
     a: "Es muy recomendable comprar la entrada online para evitar colas, sobre todo en fines de semana y puentes."
   - q: "¿Hay museos gratis en Madrid?"
-    a: "Algunos museos ofrecen franjas de acceso gratuito, como el Reina Sofía. Los horarios cambian, así que confírmalos en la web oficial."
+    a: "Algunos sí: el Reina Sofía es gratuito de lunes a sábado de 19:00 a 21:00 (martes cerrado) y domingos de 12:30 a 14:30, según su web oficial. Confirma los horarios."
   - q: "¿Cuándo es mejor ir a Madrid?"
     a: "En primavera y otoño hace mejor tiempo. En verano hace mucho calor al mediodía."
   - q: "¿Se puede ver Madrid a pie?"
@@ -32,7 +32,7 @@ Te cuento qué ver, en qué orden y cómo ahorrar tiempo (y dinero) 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Madrid: lo que conviene saber</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Reserva las entradas</h3><p>El <strong>Palacio Real</strong> y el <strong>Museo del Prado</strong> son los más visitados. Compra la entrada online y ahorras cola, sobre todo en fines de semana y puentes.</p></div>
-<div class="guide__tip"><h3>🆓 Franjas gratuitas</h3><p>Varios museos tienen horarios de acceso gratuito (el Reina Sofía, por ejemplo, los ofrece por las tardes y los domingos). Cambian con frecuencia: <strong>confírmalos en la web oficial</strong> y llega con margen porque se forman colas.</p></div>
+<div class="guide__tip"><h3>🆓 Franjas gratuitas</h3><p>Según la web oficial del <strong>Reina Sofía</strong>, la entrada es gratuita de lunes a sábado de 19:00 a 21:00 (los martes está cerrado) y los domingos de 12:30 a 14:30; hay que reservar una entrada gratuita. La entrada general cuesta 12 €. Llega con margen porque se forman colas.</p></div>
 <div class="guide__tip"><h3>🚇 Muévete en metro</h3><p>El centro se recorre a pie, pero el metro es rápido y barato para saltar entre zonas. La Plaza Mayor, Sol y el Palacio Real quedan muy cerca unos de otros.</p></div>
 </div>
 

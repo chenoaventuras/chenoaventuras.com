@@ -37,7 +37,7 @@ Te cuento qué ver, en qué orden hacerlo en un día (o en dos) y cómo ahorrar 
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚆 Cómo llegar</h3><p>Desde Madrid-Atocha hay tren Avant en unos <strong>30-35 minutos</strong>, bus en torno a una hora y coche en una hora aproximadamente. La estación y el casco histórico están separados por una cuesta: cuenta 20-30 minutos andando o un bus urbano.</p></div>
 <div class="guide__tip"><h3>⏱️ Cuántos días</h3><p>En <strong>un día</strong> ves lo principal; con <strong>dos días</strong> lo disfrutas sin correr y puedes ver el atardecer y la ciudad de noche.</p></div>
-<div class="guide__tip"><h3>🎟️ Pulsera turística</h3><p>Hay una pulsera combinada que da acceso a <strong>7 monumentos</strong> (San Juan de los Reyes, Santo Tomé, Santa María la Blanca, el Cristo de la Luz, la Iglesia de los Jesuitas y otros) por unos 12 €. <strong>La catedral, el Alcázar y el Museo del Greco se pagan aparte</strong>. Confirma precios en las webs oficiales.</p></div>
+<div class="guide__tip"><h3>🎟️ Pulsera turística</h3><p>Hay una pulsera combinada que da acceso a <strong>7 monumentos</strong> (San Juan de los Reyes, Santa María la Blanca, El Salvador, Santo Tomé, el Cristo de la Luz, la Iglesia de los Jesuitas y el Real Colegio de Doncellas Nobles) por <strong>14 €</strong>, con una visita a cada uno durante siete días, según la web oficial. <strong>La catedral, el Alcázar y el Museo del Greco se pagan aparte</strong>. Confirma precios en las webs oficiales.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La ciudad de las tres culturas</h2></div>

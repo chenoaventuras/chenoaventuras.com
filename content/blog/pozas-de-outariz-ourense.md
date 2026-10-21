@@ -1,12 +1,12 @@
 ---
-title: 'Pozas de Outariz y Burga de Canedo (Ourense): termas gratis junto al Miño, cómo llegar'
-seoTitle: 'Pozas de Outariz (Ourense): termas gratis, horarios y cómo llegar'
+title: 'Pozas de Outariz y Burga de Canedo (Ourense): termas junto al Miño, estado actual y cómo llegar'
+seoTitle: 'Pozas de Outariz (Ourense): estado actual, horarios y cómo llegar'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Pozas de Outariz'
 lat: 42.3477
 lng: -7.9171
 provincia: 'Ourense'
-excerpt: 'Pozas de Outariz y Burga de Canedo (Ourense): termas gratuitas de agua caliente junto al río Miño, con horario, cómo llegar, aparcamiento y cuándo pueden cerrar.'
+excerpt: 'Pozas de Outariz y Burga de Canedo (Ourense): termas de agua caliente junto al río Miño, con su estado actual según el Ayuntamiento, horarios, cómo llegar y aparcamiento.'
 cover: /assets/img/blog/pozas-de-outariz-ourense/portada.webp
 tags:
   - Spots
@@ -15,9 +15,9 @@ wide: true
 faqTitulo: "Dudas sobre las pozas de Outariz"
 faq:
   - q: "¿Las pozas de Outariz son gratis?"
-    a: "Sí, son de uso gratuito. Tienen vestuarios, taquillas y aseos."
+    a: "Depende de la zona. Según el Ayuntamiento de Ourense (actualización del 1 de octubre de 2026), las pozas gratuitas de Outariz están cerradas por ahora, pero Burga de Canedo y A Chavasqueira son gratuitas y abren todos los días. Las Termas de Outariz son de pago (en torno a 7 €, según la web municipal)."
   - q: "¿Qué horario tienen?"
-    a: "Según las fuentes, todos los días de 10:00 a 20:00. Confírmalo antes de ir."
+    a: "Burga de Canedo y A Chavasqueira (gratuitas): todos los días de 10:00 a 19:00, según el Ayuntamiento. Los horarios cambian con el tiempo y el nivel del Miño: confírmalo antes de ir."
   - q: "¿Cómo se llega?"
     a: "Por la OU-402. La zona es peatonal: aparca en los aparcamientos gratuitos (Reza/Pozas de Maimón o Muíño da Veiga) o ve en bus (línea 5), a pie o en bici por el paseo fluvial."
   - q: "¿Pueden cerrar?"
@@ -27,19 +27,19 @@ faq:
 guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
 guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
-Pozas de **agua caliente gratuitas junto al río Miño**, en pleno campo, a pocos minutos del centro de **Ourense**. Las **pozas de Outariz y Burga de Canedo** son uno de los mejores planes termales de Galicia: sin pagar entrada y con vestuarios, taquillas y aseos.
+Pozas de **agua caliente junto al río Miño**, en pleno campo, a pocos minutos del centro de **Ourense**. Las **pozas de Outariz y Burga de Canedo** son uno de los mejores planes termales de Galicia. **Aviso importante:** según la actualización del Ayuntamiento de Ourense del 1 de octubre de 2026, las pozas **gratuitas de Outariz y de Muíño da Veiga están cerradas** ahora mismo; siguen abiertos los baños gratuitos de **Burga de Canedo** y **A Chavasqueira**, y las **Termas de Outariz** (de pago).
 
 Te cuento cómo llegar, cuándo ir y cómo evitar sorpresas 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Outariz y Burga de Canedo: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>♨️ Qué hay</h3><p>Dos zonas de baño separadas por una pasarela: <strong>Outariz</strong> (tres pozas de agua caliente y una fría) y <strong>Burga de Canedo</strong> (tres pozas dobles calientes y una fría). Hay aseos, taquillas y vestuarios.</p></div>
-<div class="guide__tip"><h3>🆓 Acceso gratuito</h3><p>Es de uso gratuito y, según las fuentes, abre <strong>todos los días de 10:00 a 20:00</strong>. Confirma horarios antes de ir.</p></div>
+<div class="guide__tip"><h3>🆓 Estado actual</h3><p>Según el Ayuntamiento (1 de octubre de 2026): <strong>Burga de Canedo</strong> y <strong>A Chavasqueira</strong> son gratuitas y abren todos los días de 10:00 a 19:00; las pozas gratuitas de Outariz y Muíño da Veiga están <strong>cerradas</strong>. Las <strong>Termas de Outariz</strong> son de pago (unos 7 € según la web municipal) y están abiertas. <strong>Confirma el estado</strong> en la oficina de turismo.</p></div>
 <div class="guide__tip"><h3>🌊 Ojo con el río</h3><p>Están junto al río Miño y <strong>pueden cerrarse por crecidas</strong>. Comprueba si están abiertas, sobre todo tras lluvias fuertes.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Ourense, ciudad termal</h2></div>
-<p>Ourense es famosa por sus <strong>aguas termales</strong>: en el centro, las <strong>Burgas</strong> son manantiales de agua caliente con una fuente monumental en el casco histórico. Las pozas de Outariz y Canedo, a unos kilómetros, son la versión al aire libre y gratuita, con un paseo fluvial para llegar andando o en bici desde la ciudad.</p><div class="guide__legend"><h3>🚂 El tren de las termas</h3><p>Según las guías, hay un <strong>tren turístico</strong> que sale de la Praza Maior hacia las termas los fines de semana y festivos. Las frecuencias y precios cambian, así que consúltalos antes.</p></div>
+<p>Ourense es famosa por sus <strong>aguas termales</strong>: en el centro, las <strong>Burgas</strong> son manantiales de agua caliente con una fuente monumental en el casco histórico. Las pozas de Outariz y Canedo, a unos kilómetros, son la versión al aire libre, con un paseo fluvial para llegar andando o en bici desde la ciudad.</p><div class="guide__legend"><h3>🚂 El tren de las termas</h3><p>Según las guías, hay un <strong>tren turístico</strong> que sale de la Praza Maior hacia las termas los fines de semana y festivos. Las frecuencias y precios cambian, así que consúltalos antes.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Aguas calientes en plena naturaleza.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
@@ -58,4 +58,4 @@ Te cuento cómo llegar, cuándo ir y cómo evitar sorpresas 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Los horarios, el estado del río Miño y el transporte pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Pozas_de_Outariz._Ourense..JPG" target="_blank" rel="noopener">Roberto Chamoso G</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:Pozas_de_Canedo._Outariz,_Ourense..JPG" target="_blank" rel="noopener">Roberto Chamoso G</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:Area_de_Servicios_y_Pozas_de_Outariz._Ourense.jpg" target="_blank" rel="noopener">Roberto Chamoso G</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:Fuente_de_Las_Burgas.jpg" target="_blank" rel="noopener">Mentxuwiki</a> (CC BY-SA 4.0).</p>
+<p class="guide__note">Información consultada el 21 de octubre de 2026 en la web del Ayuntamiento de Ourense. Los horarios, el estado de las termas, el nivel del río Miño y el transporte pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Pozas_de_Outariz._Ourense..JPG" target="_blank" rel="noopener">Roberto Chamoso G</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:Pozas_de_Canedo._Outariz,_Ourense..JPG" target="_blank" rel="noopener">Roberto Chamoso G</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:Area_de_Servicios_y_Pozas_de_Outariz._Ourense.jpg" target="_blank" rel="noopener">Roberto Chamoso G</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:Fuente_de_Las_Burgas.jpg" target="_blank" rel="noopener">Mentxuwiki</a> (CC BY-SA 4.0).</p>

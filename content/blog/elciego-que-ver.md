@@ -33,7 +33,7 @@ Te cuento qué ver, cómo visitar la bodega y qué más hay cerca 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Elciego: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🍷 Visita a la bodega</h3><p>La visita guiada de Marqués de Riscal dura unos 90 minutos, con cava centenaria, viñedo y cata. <strong>Reserva con al menos 48 horas</strong> y consulta precios en la web oficial (una fuente antigua daba entre 19 y 39 € según la modalidad).</p></div>
+<div class="guide__tip"><h3>🍷 Visita a la bodega</h3><p>La visita básica de Marqués de Riscal dura unos 90 minutos y, según la web oficial, cuesta <strong>30 €</strong> por adulto, con bodega, viñedo y cata de tres vinos; hay otras de 1 h 45 min por 45 € y 60 €. Reserva en la web oficial con antelación.</p></div>
 <div class="guide__tip"><h3>🏨 El hotel</h3><p>Se puede ver el edificio sin alojarse. Tiene spa, restaurante con estrella Michelin y 61 habitaciones, según las guías.</p></div>
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Queda en la Rioja Alavesa, a pocos minutos de Laguardia. Lo cómodo es el coche.</p></div>
 </div>

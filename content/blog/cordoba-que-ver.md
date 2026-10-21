@@ -17,7 +17,7 @@ faq:
   - q: "¿Qué ver en Córdoba en un día?"
     a: "La Mezquita-Catedral, la Judería y la Calleja de las Flores, el Alcázar de los Reyes Cristianos y el Puente Romano al atardecer."
   - q: "¿Cuánto cuesta la Mezquita de Córdoba?"
-    a: "La entrada general ronda los 15 € según la web oficial, con reducciones y el campanario aparte. Confirma el precio y las franjas gratuitas en la web oficial."
+    a: "Según la web oficial, la entrada general cuesta 15 € (12 € reducida) y el campanario 4 € aparte. De lunes a sábado, de 8:30 a 9:30, hay visita individual gratuita."
   - q: "¿Cómo se llega a Córdoba desde Madrid?"
     a: "En AVE, en aproximadamente 1 hora y 45 minutos."
   - q: "¿Cuándo es la Fiesta de los Patios?"
@@ -33,7 +33,7 @@ Te cuento qué ver, en qué orden y qué reservar 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Córdoba: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🕌 Mezquita-Catedral</h3><p>La entrada general ronda los <strong>15 €</strong> según la web oficial, con reducciones, y el campanario se paga aparte. Hay franjas con acceso gratuito o condiciones especiales: <strong>comprueba siempre horarios y precios en la web oficial</strong> antes de ir.</p></div>
+<div class="guide__tip"><h3>🕌 Mezquita-Catedral</h3><p>Según la web oficial, la entrada general cuesta <strong>15 €</strong> (12 € reducida) y el campanario <strong>4 €</strong> aparte. De lunes a sábado, de 8:30 a 9:30, hay visita individual gratuita (llega antes de las 9:20; no admite grupos). <strong>Confirma horarios y precios</strong> antes de ir.</p></div>
 <div class="guide__tip"><h3>🚆 Cómo llegar</h3><p>En AVE desde Madrid en unas <strong>1 hora y 45 minutos</strong> y desde Sevilla en unos 45 minutos. El casco histórico se recorre a pie.</p></div>
 <div class="guide__tip"><h3>🌷 Cuándo ir</h3><p>En <strong>mayo</strong>, con la Fiesta de los Patios, la ciudad está llena de flores. En verano hace mucho calor: ve por la mañana o al atardecer.</p></div>
 </div>

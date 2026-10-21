@@ -19,7 +19,7 @@ faq:
   - q: "¿Es la Alcazaba la más grande de Europa?"
     a: "Algunas guías lo dicen, pero no lo he verificado. Es, en cualquier caso, una de las más grandes."
   - q: "¿Hay museos gratis?"
-    a: "Según una guía, varios museos son gratuitos. Confirma horarios y condiciones."
+    a: "Sí: el MUBA es gratuito y, según Turismo de Extremadura, el MEIAC también; el Museo Arqueológico lo es para ciudadanos de la UE. Confirma horarios."
   - q: "¿Cómo se llega desde Mérida?"
     a: "En coche, en unos 45-60 minutos."
   - q: "¿Cuándo ir?"
@@ -27,13 +27,13 @@ faq:
 guia: /assets/guias/guia-badajoz-chenoaventuras.pdf
 guiaTitulo: 'Guía Badajoz en PDF'
 ---
-Una **alcazaba almohade** con una torre albarrana, una plaza con casas pintadas de rojo, un puente sobre el Guadiana y una frontera con Portugal a pocos kilómetros. **Badajoz** es una ciudad desconocida que se ve bien en **un día** y que tiene varios museos gratuitos.
+Una **alcazaba almohade** con una torre albarrana, una plaza con casas pintadas de rojo, un puente sobre el Guadiana y una frontera con Portugal a pocos kilómetros. **Badajoz** es una ciudad desconocida que se ve bien en **un día** y que tiene museos gratuitos.
 
 Te cuento qué ver, en qué orden y cómo organizarlo 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Badajoz: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🏛️ Museos gratuitos</h3><p>Según una guía, varios museos de la ciudad (MUBA, MEIAC, Museo Luis de Morales, del Carnaval y Arqueológico) son gratuitos. <strong>Confírmalo</strong> y los horarios en las webs oficiales.</p></div>
+<div class="guide__tip"><h3>🏛️ Museos gratuitos</h3><p>El <strong>MUBA</strong> es gratuito según su web oficial; el <strong>MEIAC</strong> también (según Turismo de Extremadura) y el <strong>Museo Arqueológico Provincial</strong> es gratuito para ciudadanos de la UE. <strong>Confirma los horarios</strong> en sus webs.</p></div>
 <div class="guide__tip"><h3>🌡️ Calor</h3><p>En verano hace mucho calor en Badajoz. Ve por la mañana o al atardecer.</p></div>
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Badajoz queda a unos 6 km de la frontera con Portugal y a unos 60 km de Mérida. Lo más cómodo es el coche.</p></div>
 </div>

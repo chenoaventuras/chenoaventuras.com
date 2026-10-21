@@ -19,7 +19,7 @@ faq:
   - q: "¿Qué son As Burgas?"
     a: "Manantiales de agua caliente en plena calle, en el casco histórico, declarados conjunto histórico-artístico en 1975."
   - q: "¿Hay termas gratis en Ourense?"
-    a: "Hay varias termas en el río Miño, algunas gratuitas y otras de pago. Confirma las condiciones antes de ir."
+    a: "Sí: según el Ayuntamiento (actualización del 1 de octubre de 2026), A Chavasqueira y Burga de Canedo son gratuitas y abren todos los días de 10:00 a 19:00. Las pozas gratuitas de Outariz están cerradas por ahora. Confírmalo antes de ir."
   - q: "¿Cómo se llega a Ourense desde Madrid?"
     a: "En AVE, en unas dos horas y media."
   - q: "¿Qué comer en Ourense?"
@@ -33,13 +33,13 @@ Te cuento qué ver, en qué orden y dónde bañarte 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Ourense: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>♨️ Termas gratuitas</h3><p>Ourense tiene varias termas en el río Miño, algunas de acceso libre y otras de pago. Lleva bañador y toalla: son el plan perfecto para el final del día. <strong>Confirma cuáles son gratuitas y sus horarios</strong> antes de ir.</p></div>
+<div class="guide__tip"><h3>♨️ Termas gratuitas</h3><p>Según el Ayuntamiento (actualización del 1 de octubre de 2026), los baños gratuitos abiertos son <strong>A Chavasqueira</strong> y <strong>Burga de Canedo</strong> (10:00 a 19:00, todos los días); las pozas gratuitas de Outariz y Muíño da Veiga y la poza de As Burgas están <strong>cerradas</strong>. Las Termas de Outariz (de pago) están abiertas. Lleva bañador y toalla y <strong>confirma el estado</strong> en la oficina de turismo.</p></div>
 <div class="guide__tip"><h3>⛪ Catedral</h3><p>La catedral tiene horario y visitas guiadas que varían según la época y las celebraciones. Reserva con antelación si quieres visita guiada y <strong>confirma horarios en la web oficial</strong>.</p></div>
 <div class="guide__tip"><h3>🚆 Cómo llegar</h3><p>Ourense tiene AVE desde Madrid y tren desde Vigo y Santiago. El centro histórico se recorre a pie.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La ciudad de As Burgas</h2></div>
-<p>En pleno casco histórico, <strong>As Burgas</strong> son manantiales de <strong>agua que brota a unos 60 grados</strong> y que forman un conjunto histórico-artístico, declarado en 1975. Hoy hay fuentes, un centro de interpretación y una zona de baño con aguas termales. Es de las pocas ciudades de Europa con agua caliente saliendo de las calles.</p><p>Otro dato: el <strong>Puente Romano</strong>, de cinco arcos, fue reformado en siglos posteriores y tiene una cabeza de caballo en uno de sus lados, según las guías. Las fuentes no coinciden en si es del siglo I a. C. o del siglo I d. C.</p><div class="guide__legend"><h3>🍷 Mi consejo</h3><p>Termina el día con <strong>tapas en Os Viños</strong>, la zona de bares entre la Plaza del Hierro y la catedral, y un baño en las termas del río.</p></div>
+<p>En pleno casco histórico, <strong>As Burgas</strong> son manantiales de <strong>agua que brota a unos 60 grados</strong> y que forman un conjunto histórico-artístico, declarado en 1975. Hoy hay fuentes y un centro de interpretación (la poza de baño de As Burgas está cerrada ahora mismo, según el Ayuntamiento). Es de las pocas ciudades de Europa con agua caliente saliendo de las calles.</p><p>Otro dato: el <strong>Puente Romano</strong>, de cinco arcos, fue reformado en siglos posteriores y tiene una cabeza de caballo en uno de sus lados, según las guías. Las fuentes no coinciden en si es del siglo I a. C. o del siglo I d. C.</p><div class="guide__legend"><h3>🍷 Mi consejo</h3><p>Termina el día con <strong>tapas en Os Viños</strong>, la zona de bares entre la Plaza del Hierro y la catedral, y un baño en las termas del río.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Ourense: los imprescindibles</h2><p>Un día, con historia y agua caliente.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
