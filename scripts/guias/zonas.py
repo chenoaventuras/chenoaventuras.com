@@ -891,8 +891,8 @@ ZONAS = {
 ),
 "formentera": dict(
   nombre="Formentera", h1_txt="Formentera", portada="ses-illetes-formentera", completa=("Ibiza y Formentera", "https://www.chenoaventuras.com/blog/guia-ibiza-formentera.html"),
-  lugares=["formentera-que-ver", "ses-illetes-formentera", "faro-cap-de-barbaria", "cala-saona-formentera"],
-  sub="Ses Illetes, el faro de Cap de Barbaria, Cala Saona y lo mejor de la isla.",
+  lugares=["formentera-que-ver", "ses-illetes-formentera", "faro-cap-de-barbaria", "faro-de-la-mola-formentera", "cala-saona-formentera"],
+  sub="Ses Illetes, los faros de Cap de Barbaria y La Mola, Cala Saona y lo mejor de la isla.",
   titulo_intro="Agua<br>turquesa",
   intro=["Formentera es la isla del agua transparente: **Ses Illetes**, una de las playas más famosas de España, el faro de **Cap de Barbaria** en el fin del mundo y los acantilados rojizos de **Cala Saona**.",
          "Es una guía corta para 1 o 2 días. Al final tienes el enlace a la guía completa de Ibiza y Formentera."],
