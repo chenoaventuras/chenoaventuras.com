@@ -23,8 +23,8 @@ faq:
     a: "Sí: según el Consell de Formentera, de martes a domingo de 10:00 a 14:00 (y miércoles y domingos de 17:00 a 21:00); la entrada general cuesta 4,50 €. Cierra del 1 de diciembre al 11 de febrero."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día con el pueblo y el molino."
-guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
-guiaTitulo: 'Guía Ibiza y Formentera en PDF'
+guia: /assets/guias/guia-formentera-chenoaventuras.pdf
+guiaTitulo: 'Guía Formentera en PDF'
 ---
 Un **faro sobre un acantilado** al final de la isla, un molino de 1778 y un mercadillo hippy. El **Faro de la Mola**, en **Formentera**, es el mejor sitio de la isla para ver el **amanecer** y se visita en **medio día**.
 
