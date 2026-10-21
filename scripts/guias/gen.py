@@ -200,7 +200,7 @@ def keep_heads(h):
                     e2 = _end_of(h, k)
                     items.append(h[k:e2])
                     k = e2
-                first, rest = items[:4], items[4:]
+                first, rest = items[:2], items[2:]
                 out.append(f'<div class="keep">{h[a:b]}<ol class="{g.group(1)}">{"".join(first)}</ol></div>')
                 if rest:
                     out.append(f'<ol class="{g.group(1)} grid--cont">{"".join(rest)}</ol>')
@@ -254,6 +254,57 @@ def last_fill(pdf):
     return (max(ys) / pg.rect.height) if ys else 0.0
 
 
+def chapter_tails(pdf, n):
+    """[(nº de capítulo, cuánto se llena su última página)]. Cada capítulo empieza en página nueva
+    con su número (01, 02…) en la esquina de la foto."""
+    try:
+        import fitz
+    except ImportError:
+        return []
+    d = fitz.open(pdf)
+    starts = {}
+    for k, pg in enumerate(d):
+        for b in pg.get_text("dict")["blocks"]:
+            for ln in b.get("lines", []):
+                for sp in ln["spans"]:
+                    t = sp["text"].strip()
+                    # el número grande del capítulo (los de las fichas de fotos son pequeños)
+                    if sp["size"] > 15 and sp["bbox"][1] < 140 and re.fullmatch(r"\d\d", t) and 1 <= int(t) <= n and int(t) not in starts:
+                        starts[int(t)] = k
+    out, order = [], sorted(starts.items(), key=lambda x: x[1])
+    for j, (c, k) in enumerate(order):
+        end = (order[j + 1][1] if j + 1 < len(order) else len(d)) - 1
+        if end <= k:
+            continue
+        pg = d[end]
+        H = pg.rect.height
+        ys = [r[1][3] for r in pg.get_bboxlog() if (r[1][3] - r[1][1]) < 0.7 * H and r[1][1] < H - 45]
+        out.append((c, (max(ys) / H) if ys else 0.0))
+    return out
+
+
+def loose_pages(pdf):
+    """Páginas (sin contar portada ni la última) ocupadas menos de un 30 %."""
+    try:
+        import fitz
+    except ImportError:
+        return 0
+    d, n = fitz.open(pdf), 0
+    for pg in list(d)[1:-1]:
+        H = pg.rect.height
+        ys = [r[1][3] for r in pg.get_bboxlog() if (r[1][3] - r[1][1]) < 0.7 * H and r[1][1] < H - 45]
+        n += (max(ys) / H if ys else 0) < 0.3
+    return n
+
+
+def pages(pdf):
+    try:
+        import fitz
+    except ImportError:
+        return 0
+    return len(fitz.open(pdf))
+
+
 def build(key, posts, tmp):
     z = ZONAS[key]
 
@@ -301,22 +352,19 @@ def build(key, posts, tmp):
             eat += (f'<div class="acts acts--here"><h3>🎟️ Planes para reservar aquí</h3><ul class="acts__list">{items}</ul>'
                     + (CODE_GYG if any(pl == "GetYourGuide" for *_, pl in acts_here) else "") + "</div>")
         howto = re.search(r'<div class="guide__howto">.*?</div>', p["body"], re.S)
-        if needs_car(howto.group(0) if howto else ""):
-            eat += car_box(small=True)
-        # el cierre del capítulo (consejos + dónde comer + enlaces) va junto: nunca una página solo con botones
-        k = body.rfind('<div class="guide__plan">')
-        if k != -1 and _end_of(body, k) >= len(body.rstrip()) - 5:
-            body = body[:k] + f'<div class="keep chap__end">{body[k:]}{eat}{links}</div>'
-        else:
-            body += f'<div class="keep chap__end">{eat}{links}</div>'
-        return (f'<section class="chap"><div class="chap__keep">'
+        if needs_car(howto.group(0) if howto else "") and tight.get(i, 0) < 3:
+            eat += car_box(small=True)  # en el nivel 3 de compactación se quita para no dejar una página solo con él
+        # cierre del capítulo: los consejos van en un bloque y dónde comer + planes + enlaces en otro
+        # (así los consejos pueden quedarse en la página anterior y no dejan un hueco; nunca una página solo con botones)
+        body += f'<div class="chap__end">{eat}{links}</div>'
+        return (f'<section class="chap{" chap--t%d" % min(tight.get(i, 0), 2) if tight.get(i) else ""}"><div class="chap__keep">'
                 f'<div class="chap__hero"><img src="{jpg(p["cover"], 900)}" alt="" /><span class="chap__n">{i:02d}</span></div>'
                 f'<div class="chap__head"><span class="eyebrow">{e(kind)}{" · " + e(p["prov"]) if p.get("prov") else ""}</span><h2>{e(name)}</h2>'
                 + (f'<p class="chap__sub">{e(title)}</p>' if title else "")
                 + f'<p class="chap__dek">{e(p["excerpt"])}</p></div></div>'
                 f'<div class="chap__body">{body}</div></section>')
 
-    chapters = "".join(chapter(i + 1, s) for i, s in enumerate(places))
+    tight = {}  # capítulos que se compactan un poco para no dejar una última página casi vacía
     index = "".join(f'<li><b>{i + 1:02d}</b><span>{e(name_of(s))}</span><em>{e(next((TYPES[t] for t in posts[s]["tags"] if t in TYPES), "Lugar"))}</em></li>' for i, s in enumerate(places))
     tips = "".join(f'<div class="guide__tip"><h3>{t}</h3><p>{md(d)}</p></div>' for t, d in z["tips"])
     # actividades por turnos: la mejor de cada lugar, luego las segundas… (máx. 6)
@@ -382,7 +430,7 @@ def build(key, posts, tmp):
   <div class="guide__tips">{tips}</div>
   {car_basic}
   {head}
-  {chapters}
+  {"".join(chapter(i + 1, s) for i, s in enumerate(places))}
   {tail}
   {full}
   {AUTHOR}
@@ -400,18 +448,29 @@ def build(key, posts, tmp):
             shutil.copyfile(hp, OUT.parent.parent / f"guia-{key}.html")
         return last_fill(out)
 
-    fill, best = render(0), 0
-    if fill < 0.5:
-        # la última página queda floja: se prueban otras colocaciones y se queda la que mejor la llene
-        for i in range(1, len(layouts)):
-            if not layouts[i][1].strip():
-                continue
-            f = render(i)
-            if f > fill:
-                fill, best = f, i
-            if f >= 0.5:
+    # cada lugar empieza en página nueva, así que se prueban las colocaciones de ruta/índice/actividades
+    # y se queda la que menos páginas ocupa (y, a igualdad, la que mejor llena la última)
+    best, score = 0, None
+    for i in (0, 3, 4):  # el índice siempre va al principio
+        f = render(i)
+        sc = (-pages(out), -loose_pages(out), f)
+        if score is None or sc > score:
+            best, score = i, sc
+    fill = render(best) if best != 4 else score[2]
+    # si un capítulo acaba con una página casi vacía, se compacta (hasta 2 niveles) y se vuelve a montar
+    # (solo se queda la compactación si de verdad desaparece la página casi vacía)
+    tails = dict(chapter_tails(out, len(places)))
+    for c in sorted(tails):
+        if tails[c] >= 0.3:
+            continue
+        before = pages(out)
+        for lvl in (1, 2, 3):
+            tight[c] = lvl
+            fill = render(best)
+            if pages(out) < before:
                 break
-        if best != i:
+        else:
+            del tight[c]
             fill = render(best)
     print(f"  {key}: {len(places)} lugares, {len(acts)} actividades, {out.stat().st_size // 1024} KB, última página al {fill:.0%}")
     return out
