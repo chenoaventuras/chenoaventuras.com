@@ -24,6 +24,8 @@ faq:
     a: "En coche, en aproximadamente una hora."
   - q: "¿Qué más hay cerca?"
     a: "Los Arribes del Duero, Zamora capital y Toro."
+guia: /assets/guias/guia-zamora-chenoaventuras.pdf
+guiaTitulo: 'Guía Zamora en PDF'
 ---
 El **pueblo de las mil bodegas**, un casco histórico de piedra sobre un cerro y los **miradores de los Arribes del Duero** a pocos pasos. **Fermoselle**, en Zamora, es la puerta de entrada al cañón desde el lado zamorano y se ve bien en **medio día**.
 

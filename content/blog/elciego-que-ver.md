@@ -24,6 +24,8 @@ faq:
     a: "Frank Gehry. Abrió el 10 de octubre de 2006."
   - q: "¿Qué hay cerca?"
     a: "Laguardia, el Valle Salado de Añana y Vitoria-Gasteiz."
+guia: /assets/guias/guia-alava-chenoaventuras.pdf
+guiaTitulo: 'Guía Álava en PDF'
 ---
 Un **hotel de titanio** diseñado por **Frank Gehry** en mitad de viñedos, una bodega centenaria y un pueblo pequeño de la Rioja Alavesa. **Elciego**, en Álava, es el lugar para ver arquitectura de vanguardia y vino, y se visita bien en **medio día**.
 

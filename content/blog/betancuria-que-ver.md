@@ -23,6 +23,8 @@ faq:
     a: "Fue la antigua capital de Fuerteventura."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día con museo y mirador."
+guia: /assets/guias/guia-fuerteventura-chenoaventuras.pdf
+guiaTitulo: 'Guía Fuerteventura en PDF'
 ---
 Una **antigua capital** escondida entre montañas, con casas blancas, una iglesia mudéjar y un mirador de **César Manrique**. **Betancuria**, en Fuerteventura, es el pueblo más bonito de la isla y un contraste total con las playas de arena. Se ve bien en **medio día**.
 

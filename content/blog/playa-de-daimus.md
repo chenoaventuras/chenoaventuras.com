@@ -24,6 +24,8 @@ faq:
     a: "Gandia, la Vía Verde de la Safor, la Marjal Pego-Oliva y las Cuevas del Mondúver."
   - q: "¿Se pueden pisar las dunas?"
     a: "No, forman parte de las Dunas de la Safor y hay que respetar la vegetación."
+guia: /assets/guias/guia-valencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Valencia en PDF'
 ---
 Una playa larga de **arena dorada**, dunas protegidas, aguas tranquilas y amaneceres rojizos sobre el Mediterráneo. La **playa de Daimús**, en la Safor (Valencia), es una de las más agradables de la costa entre Gandia y Oliva, y se disfruta en **medio día** o en un día de playa completo.
 

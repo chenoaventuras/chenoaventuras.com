@@ -24,6 +24,8 @@ faq:
     a: "Sí, en el Camino Francés, y es una etapa clásica."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día para las iglesias y el monasterio."
+guia: /assets/guias/guia-palencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Palencia en PDF'
 ---
 Una villa del **Camino de Santiago** con un monasterio plateresco, una iglesia románica del siglo XII y la leyenda de las **Cien Doncellas**. **Carrión de los Condes**, en Palencia, es una parada obligada para peregrinos y viajeros, y se ve bien en **medio día**.
 

@@ -24,6 +24,8 @@ faq:
     a: "Sí, Allariz es conocida por sus tiendas de outlet."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día para el casco histórico y los museos."
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 Un **casco histórico declarado** de piedra, un puente románico sobre el río Arnoia, un convento con uno de los **claustros más grandes de España** y un museo del cuero. **Allariz**, a solo 20 minutos de Ourense, es una de las villas más bonitas de Galicia y se ve bien en **medio día**.
 

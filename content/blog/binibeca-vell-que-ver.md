@@ -23,6 +23,8 @@ faq:
     a: "Temprano por la mañana o al atardecer, y fuera de julio y agosto."
   - q: "¿Cómo se llega desde Mahón?"
     a: "En coche, en unos 15 minutos por la Me-8."
+guia: /assets/guias/guia-menorca-chenoaventuras.pdf
+guiaTitulo: 'Guía Menorca en PDF'
 ---
 Un **pueblo blanco** de callejones laberínticos, arcos bajos y puertas de madera frente al mar. **Binibeca Vell**, en el sur de Menorca, parece un pueblo de pescadores de siempre, aunque en realidad es una urbanización privada y habitada. Se ve bien en **un par de horas**.
 
