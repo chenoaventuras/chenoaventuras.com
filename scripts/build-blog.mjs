@@ -788,7 +788,7 @@ ${filterBar}${posts.length ? `        <div class="bloglist" id="bloglist">\n${ca
           var r = reg ? reg.value : "";
           var pv = prov && !prov.hidden ? prov.value : "";
           var t = typ ? typ.value : "";
-          var terms = q ? norm(q.value).split(/\s+/).filter(Boolean) : [];
+          var terms = q ? norm(q.value).split(/\\s+/).filter(Boolean) : [];
           var visible = 0;
           cards.forEach(function (c) {
             var hay = c.getAttribute("data-search") || "";
