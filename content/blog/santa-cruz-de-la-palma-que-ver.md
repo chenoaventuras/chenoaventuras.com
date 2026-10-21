@@ -23,6 +23,8 @@ faq:
     a: "Un día para recorrer el casco histórico con calma."
   - q: "¿Se puede ir a pie?"
     a: "Sí, el casco es pequeño y se recorre andando."
+guia: /assets/guias/guia-la-palma-chenoaventuras.pdf
+guiaTitulo: 'Guía La Palma en PDF'
 ---
 **Balcones de madera** frente al mar, una plaza renacentista, una réplica de la nao de Colón y una calle Real con tiendas y cafés. **Santa Cruz de La Palma**, la capital de La Palma, es una ciudad colonial pequeña y preciosa que se ve bien en **un día**.
 

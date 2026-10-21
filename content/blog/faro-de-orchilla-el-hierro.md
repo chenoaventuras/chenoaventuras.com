@@ -23,6 +23,8 @@ faq:
     a: "Unos 1,4 km (ida), por un tramo del GR-131."
   - q: "¿Cuándo ir?"
     a: "Por la mañana a los miradores, y al atardecer al faro."
+guia: /assets/guias/guia-el-hierro-chenoaventuras.pdf
+guiaTitulo: 'Guía El Hierro en PDF'
 ---
 Un **faro en el fin del mundo**: durante siglos, el **meridiano cero** pasó por aquí. El **Faro de Orchilla**, en El Hierro, está en el extremo occidental de la isla, entre lava y mar, y junto a él hay miradores como el de **La Peña**, diseñado por **César Manrique**. Se ve bien en **un día**.
 

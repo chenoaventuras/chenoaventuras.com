@@ -24,6 +24,8 @@ faq:
     a: "El arte hecho con ladrillo por artesanos musulmanes en tierras cristianas."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día para la plaza, las iglesias y el castillo."
+guia: /assets/guias/guia-avila-chenoaventuras.pdf
+guiaTitulo: 'Guía Ávila en PDF'
 ---
 La **villa mudéjar** de Isabel la Católica, con una plaza de soportales de columnas de piedra y madera, iglesias de ladrillo con torres únicas y un castillo. **Arévalo** (Ávila) queda a menos de dos horas de Madrid y se ve bien en **medio día**.
 

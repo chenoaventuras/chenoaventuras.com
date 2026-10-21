@@ -23,6 +23,8 @@ faq:
     a: "Según una guía local, es la única torre castellana de la época de la conquista que se conserva en Canarias."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día para el casco histórico."
+guia: /assets/guias/guia-la-gomera-chenoaventuras.pdf
+guiaTitulo: 'Guía La Gomera en PDF'
 ---
 La villa donde **Colón** hizo escala antes de partir hacia América, con una torre medieval, un pozo con una frase famosa y una calle Real con casas coloniales y balcones de madera. **San Sebastián de La Gomera**, la capital de La Gomera, se ve bien en **medio día**.
 
