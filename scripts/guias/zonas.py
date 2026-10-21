@@ -152,7 +152,7 @@ ZONAS = {
   tips=[("🚗 Cómo moverte", "En **coche**: es una provincia muy despoblada y con poco transporte público."),
         ("🌤️ Cuándo ir", "**Primavera y otoño**. En invierno hace mucho frío y nieva a menudo."),
         ("🥓 Mi consejo", "No te vayas sin probar los **torreznos de Soria** y la mantequilla.")],
-  provincias=["Soria"], orden=["laguna-negra-de-urbion", "canon-del-rio-lobos", "burgo-de-osma-que-ver", "medinaceli-que-ver", "monte-de-las-animas-soria"],
+  provincias=["Soria"], fuera=["guia-soria"], orden=["laguna-negra-de-urbion", "canon-del-rio-lobos", "burgo-de-osma-que-ver", "medinaceli-que-ver", "monte-de-las-animas-soria"],
   plan_titulo="Soria en 2 días",
   plan=[("Día 1", "**Laguna Negra** por la mañana y la capital y el **Monte de las Ánimas** por la tarde."),
         ("Día 2", "**Cañón del Río Lobos** y **El Burgo de Osma**; o **Medinaceli** si vienes de Madrid.")],
