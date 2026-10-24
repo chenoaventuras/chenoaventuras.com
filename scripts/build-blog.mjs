@@ -210,6 +210,7 @@ function readPosts() {
       provincia: data.provincia ? String(data.provincia).trim() : "",
       seoTitle: data.seoTitle ? String(data.seoTitle).trim() : "",
       guia: data.guia ? String(data.guia) : "",
+      evento: data.evento === true || data.evento === "true",
       guiaTitulo: data.guiaTitulo ? String(data.guiaTitulo) : "",
       excerpt: excerpt || title,
       cover: data.cover ? String(data.cover) : "",
@@ -365,7 +366,7 @@ function kmBetween(a, b) {
 function nearbyPosts(p, posts) {
   if (p.lat === null || p.lng === null) return [];
   const all = posts
-    .filter((q) => q.slug !== p.slug && q.lat !== null && q.lng !== null && !q.tags.includes("Descuentos"))
+    .filter((q) => q.slug !== p.slug && q.lat !== null && q.lng !== null && !q.tags.includes("Descuentos") && !q.evento)
     .map((q) => ({ q, km: kmBetween(p, q) }))
     .sort((a, b) => a.km - b.km);
   // en las islas (Canarias, Baleares) solo la misma isla: nada de cruzar el mar
@@ -405,7 +406,7 @@ function relatedPosts(p, posts, n = 3, skip = []) {
   const type = p.tags.find((t) => TAG_TYPES.includes(t));
   const isDisc = p.tags.includes("Descuentos");
   return posts
-    .filter((q) => q.slug !== p.slug && !skip.includes(q.slug) && q.tags.length && q.tags.includes("Descuentos") === isDisc)
+    .filter((q) => q.slug !== p.slug && !skip.includes(q.slug) && q.tags.length && !q.evento && q.tags.includes("Descuentos") === isDisc)
     .map((q) => {
       let score = 0;
       if (region && q.tags.includes(region)) score += 3;

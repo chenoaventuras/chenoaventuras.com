@@ -1,6 +1,7 @@
 ---
 title: 'Mercado Cervantino de Alcalá de Henares: torneo y ambiente medieval'
 date: 2025-10-14T09:02:48.000Z
+evento: true
 lugar: 'Alcalá de Henares'
 seoTitle: 'Mercado Cervantino de Alcalá de Henares: fechas y torneo'
 lat: 40.4821

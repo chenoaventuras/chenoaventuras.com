@@ -1,11 +1,10 @@
 name: Publicar borrador automático de blog si no se ha tocado
 
 on:
-  schedule:
-    # 12:00 hora de España, misma aproximación de verano/invierno que
-    # el resto de horarios automáticos del sitio.
-    - cron: "0 10 * 4-10 *"       # 12:00 CEST (horario de verano, abr-oct)
-    - cron: "0 11 * 1-3,11-12 *"  # 12:00 CET  (horario de invierno, nov-mar)
+  # DESACTIVADO (25-oct-2026): ya no se generan borradores desde Instagram.
+  # schedule:
+  #   - cron: "0 10 * 4-10 *"       # 12:00 CEST (horario de verano, abr-oct)
+  #   - cron: "0 11 * 1-3,11-12 *"  # 12:00 CET  (horario de invierno, nov-mar)
   workflow_dispatch: {}      # permite lanzarlo a mano desde la pestaña Actions
 
 permissions:

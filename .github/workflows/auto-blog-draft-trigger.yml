@@ -6,8 +6,10 @@ name: Disparo semanal del borrador de blog
 # disparo que la documentación de anthropics/claude-code-action indica
 # como soportado (no "schedule").
 on:
-  schedule:
-    - cron: "0 7 * * 1"   # lunes ~09:00 hora de España (aprox., sin ajuste de DST aquí)
+  # DESACTIVADO (25-oct-2026): no crear posts a partir de las publicaciones de Instagram
+  # salvo que el usuario lo pida. Para volver a activarlo, descomenta el schedule.
+  # schedule:
+  #   - cron: "0 7 * * 1"   # lunes ~09:00 hora de España (aprox., sin ajuste de DST aquí)
   workflow_dispatch: {}     # para probarlo a mano desde la pestaña Actions
 
 jobs:
