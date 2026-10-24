@@ -29,7 +29,6 @@ guiaTitulo: 'Guía Asturias en PDF'
 ---
 Cuatro días dan para ver **lo mejor de Asturias** sin ir con la lengua fuera: una ciudad con joyas de hace más de mil años, el santuario donde empezó el reino, dos lagos a 1.000 metros, pueblos marineros y buena sidra. Este es el itinerario que yo haría **en coche**, día por día, con **qué ver, dónde comer, curiosidades y actividades** para reservar.
 
-<p class="guide__note">Los enlaces a actividades son de afiliado: si reservas desde ellos, a ti no te cuesta nada más y me ayudas a seguir haciendo estas guías.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de salir</span><h2>Cómo organizar los 4 días</h2></div>
 <p>Asturias es pequeña, pero tiene <strong>curvas y mucha lluvia</strong>, así que cuenta con más tiempo del que marque el mapa. Los tiempos que doy son <strong>aproximados</strong>: confírmalos en Google Maps el día de salir. Lo ideal es dormir <strong>dos noches en Oviedo o Gijón</strong> (días 1 y 4) y <strong>dos en Cangas de Onís o Ribadesella</strong> (días 2 y 3), para no hacer maletas a diario. Lleva chubasquero fino y calzado cómodo en cualquier época. Y una regla de oro: <strong>mira el tiempo cada mañana</strong> y, si la montaña está en niebla, cambia el día de los lagos por la costa.</p>

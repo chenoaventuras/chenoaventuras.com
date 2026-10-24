@@ -29,7 +29,6 @@ guiaTitulo: 'Guía Asturias en PDF'
 ---
 Asturias tiene **pueblos de postal** en la costa y **aldeas de montaña casi sin tráfico**. Esta guía no es solo una lista: te cuento **cómo es cada pueblo, qué hacer, qué probar, curiosidades y qué actividades reservar**. Varios forman parte de **Los Pueblos Más Bonitos de España** o han ganado el premio **Pueblo Ejemplar de Asturias**.
 
-<p class="guide__note">Los enlaces a actividades son de afiliado: si reservas desde ellos, a ti no te cuesta nada más y me ayudas a seguir haciendo estas guías.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cómo agrupar los pueblos</h2></div>
 <p>Muchos están en la <strong>costa oriental</strong> (Lastres, Tazones, Ribadesella, Llanes, Colombres), otros en la <strong>occidental</strong> (Luarca, Castropol, Taramundi, Grandas de Salime) y algunos en <strong>la montaña</strong> (Bulnes, Sotres, Cangas de Onís). Va bien combinar dos o tres por día. Lo ideal es ir en coche; algunos pueblos pequeños son difíciles en transporte público. Y llega pronto: en verano se llenan.</p>

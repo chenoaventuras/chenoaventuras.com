@@ -29,7 +29,6 @@ guiaTitulo: 'Guía Asturias en PDF'
 ---
 Asturias tiene **cientos de playas** y las mejores son salvajes: acantilados, dunas, marismas y poca gente. Esta guía no es una lista de nombres: te cuento **cómo es cada playa, cómo llegar, qué mirar con la marea, dónde comer cerca y qué actividades puedes hacer**, de las más tranquilas a las más cómodas.
 
-<p class="guide__note">Los enlaces a actividades son de afiliado: si reservas desde ellos, a ti no te cuesta nada más y me ayudas a seguir haciendo estas guías.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo que hay que saber del Cantábrico</h2></div>
 <p>El mar de Asturias es <strong>fresco, con oleaje y con mareas grandes</strong>: algunas playas casi desaparecen con marea alta y otras solo aparecen con marea baja. Mira siempre la <strong>tabla de mareas</strong> y el estado del mar, y si no ves socorrismo, baña con mucha precaución. En verano las más famosas se llenan: <strong>llega pronto</strong>. Las más salvajes no tienen servicios, así que lleva agua, comida y bolsa para la basura. Y respeta dunas, marismas y señalización: casi todas están protegidas.</p>
