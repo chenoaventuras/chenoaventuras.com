@@ -17,7 +17,7 @@ faq:
   - q: "¿Qué es la Senda del Oso?"
     a: "Una vía verde sobre un antiguo tren minero."
   - q: "¿Cuánto mide?"
-    a: "Unos 25 km, con ramales a Teverga y Quirós."
+    a: "Unos 25 km según una fuente, con ramales a Teverga y Quirós."
   - q: "¿Se hace en bici?"
     a: "Sí, y a pie."
   - q: "¿Hay túneles?"
@@ -33,7 +33,7 @@ Te cuento el trazado, los tramos y cómo organizarla 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Senda del Oso: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🛤️ Qué es</h3><p>Un Camino Natural y Vía Verde sobre una antigua plataforma ferroviaria, de unos 25 km en forma de «Y».</p></div>
+<div class="guide__tip"><h3>🛤️ Qué es</h3><p>Un Camino Natural y Vía Verde sobre una antigua plataforma ferroviaria, de unos 25 km (otras fuentes dan más, según los ramales) en forma de «Y».</p></div>
 <div class="guide__tip"><h3>⛏️ Historia</h3><p>Ocupa el trazado del tren minero del valle del río Trubia, usado para transportar hierro y carbón hasta 1963.</p></div>
 <div class="guide__tip"><h3>🕳️ Túneles</h3><p>Más de treinta túneles excavados en la roca y desfiladeros como Peñas Juntas y Valdecerezales.</p></div>
 <div class="guide__tip"><h3>🚲 Cómo hacerla</h3><p>A pie o en bici; hay empresas de alquiler en la zona (confirma).</p></div>

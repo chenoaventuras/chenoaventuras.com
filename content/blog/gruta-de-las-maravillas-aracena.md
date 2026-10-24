@@ -26,8 +26,8 @@ faq:
   - q: "¿Cómo llegar a la Gruta de las Maravillas?"
     a: "Está en pleno pueblo de Aracena (Huelva), a algo más de una hora en coche de Sevilla por la N-433."
 actividades:
-  - t: "Gruta de las Maravillas: entradas y tours"
-    u: "https://www.getyourguide.es/gruta-de-las-maravillas-l89748/"
+  - t: "Desde Sevilla: tour de un día de Aracena y Minas de Riotinto"
+    u: "https://www.getyourguide.es/sevilla-l48/desde-sevilla-tour-de-un-dia-de-aracena-y-minas-de-riotinto-t82914/"
 comer:
   - n: "Jesus Carrion Restaurante"
     r: 4.7

@@ -29,8 +29,8 @@ faq:
   - q: "¿Se puede subir con perro al Monte Igueldo?"
     a: "Sí, con correa. Bicis y patinetes no pueden entrar."
 actividades:
-  - t: "Monte Igueldo: entradas y tours"
-    u: "https://www.getyourguide.es/monte-igueldo-l36991/"
+  - t: "San Sebastián: tour guiado en bici eléctrica"
+    u: "https://www.getyourguide.es/san-sebastian-l94/san-sebastian-tour-guiado-en-bici-electrica-t426639/"
 comer:
   - n: "Orburu"
     r: 4.9

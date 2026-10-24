@@ -26,8 +26,8 @@ faq:
   - q: "¿Dónde aparcar para el Barranco del Infierno?"
     a: "El aparcamiento junto a la salida es pequeño: mejor deja el coche en el pueblo de Adeje y sube andando."
 actividades:
-  - t: "Barranco del Infierno: entradas y tours"
-    u: "https://www.getyourguide.es/barranco-del-infierno-l191750/"
+  - t: "Excursión a Masca y Los Gigantes con avistamiento de ballenas y delfines"
+    u: "https://www.civitatis.com/es/costa-adeje/excursion-masca-gigantes/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
 comer:
