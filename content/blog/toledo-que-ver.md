@@ -7,7 +7,7 @@ lat: 39.8628
 lng: -4.0273
 provincia: 'Toledo'
 excerpt: 'Qué ver en Toledo: la catedral, el Alcázar, Santo Tomé y El Greco, las sinagogas, el Cristo de la Luz y el Mirador del Valle. Cómo ir desde Madrid, plan de uno o dos días y la pulsera turística.'
-cover: /assets/img/blog/toledo-que-ver/portada.webp
+cover: /assets/img/blog/toledo/portada.webp
 tags:
   - Spots
   - Castilla-La Mancha
