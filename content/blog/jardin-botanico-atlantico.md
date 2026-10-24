@@ -24,6 +24,8 @@ faq:
     a: "Sí; confirma horarios y precios."
   - q: "¿Qué más hay cerca?"
     a: "La Laboral y el centro de Gijón."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un jardín en Cabueñes (Gijón) con **unas 30.000 plantas de unas 2.000 especies** y un entorno de flora cantábrico-atlántica. El **Jardín Botánico Atlántico** abrió el 25 de abril de 2003 y es un plan tranquilo para un día con niños o con mala previsión.
 

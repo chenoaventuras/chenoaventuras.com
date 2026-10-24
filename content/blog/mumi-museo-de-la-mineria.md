@@ -24,6 +24,8 @@ faq:
     a: "Se recomienda; para grupos, mínimo 15 personas."
   - q: "¿Dónde está?"
     a: "En El Entrego, San Martín del Rey Aurelio."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un museo donde **bajas a una mina** (reproducida con gran realismo) de la mano de **mineros profesionales**. El **MUMI**, el Museo de la Minería y de la Industria de Asturias, está en El Entrego (San Martín del Rey Aurelio), en el corazón del Valle del Nalón.
 

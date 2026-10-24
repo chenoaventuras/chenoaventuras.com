@@ -24,6 +24,8 @@ faq:
     a: "Sí, bien de interés cultural desde 1994."
   - q: "¿Cuándo son las fiestas?"
     a: "La Romería del Viso es el 15 de agosto."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una villa con **conjunto histórico declarado bien de interés cultural**, una **colegiata** con el mausoleo del fundador de la Universidad de Oviedo y una **torre** medieval en pleno casco. **Salas**, conocida como la **Puerta del Occidente** de Asturias, está a unos 45 km de Oviedo.
 

@@ -24,6 +24,8 @@ faq:
     a: "Dos construcciones que se creían hornos crematorios y que hoy se interpretan probablemente como termas."
   - q: "¿Se puede visitar?"
     a: "Sí; consulta horarios y tarifas."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un **poblado fortificado de más de 2.000 años** con calles enlosadas, cabañas circulares y una muralla, en lo alto de una colina del occidente asturiano. El **Castro de Coaña** es el primer castro estudiado de Asturias y uno de los mejores para entender cómo se vivía antes de los romanos.
 

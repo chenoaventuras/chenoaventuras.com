@@ -31,6 +31,8 @@ faq:
     a: "Casadielles, frixuelos, carbayones y mantecado de Avilés."
   - q: "¿La sidra es patrimonio de la UNESCO?"
     a: "Sí, la cultura de la sidra asturiana fue inscrita el 4 de diciembre de 2024."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Asturias se come **bien y abundante**: fabes con compango, cachopos enormes, quesos azules y una **sidra que se escancia desde lo alto**. La cocina asturiana nace de dos paisajes: **la costa** (pescado y marisco) y **los valles de montaña** (ganadería y quesos).
 

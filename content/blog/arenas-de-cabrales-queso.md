@@ -27,6 +27,8 @@ faq:
     a: "Con pan, sidra o en tosta."
   - q: "¿Dónde está Arenas de Cabrales?"
     a: "En el oriente de Asturias, en los Picos de Europa."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un **queso azul** que madura en **cuevas naturales de los Picos de Europa**, y un pueblo entre montañas donde se vende y se celebra cada verano. **Arenas de Cabrales** es la capital del concejo y la puerta de entrada al Cares y a Bulnes.
 

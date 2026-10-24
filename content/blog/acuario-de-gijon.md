@@ -24,6 +24,8 @@ faq:
     a: "En el paseo de la playa de Poniente, en Gijón."
   - q: "¿Cuánto cuesta?"
     a: "Consulta la web oficial."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un acuario de **2.000 m² de exposición** con **60 tanques**, unas **250 especies** y ocho tiburones. El **Acuario de Gijón**, junto a la playa de Poniente, abrió en 2006 y es un plan muy práctico para un día de lluvia.
 

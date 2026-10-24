@@ -24,6 +24,8 @@ faq:
     a: "Sí, hay aparcamiento y acceso señalizado."
   - q: "¿Es peligrosa?"
     a: "Tiene oleaje fuerte: baña con cuidado."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una playa de **arena tostada y fina**, de unos **800 metros**, entre dos acantilados y con el río Frexulfe desembocando en un extremo. **Frexulfe**, a unos 5 km de Navia, es **monumento natural desde 2002** y una de las más bonitas del occidente asturiano.
 

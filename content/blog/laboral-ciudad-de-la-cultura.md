@@ -29,6 +29,8 @@ faq:
     a: "Sí, con horario propio."
   - q: "¿Dónde está?"
     a: "En Gijón."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un **edificio monumental** de piedra, con una **torre de 117 metros** y un patio central enorme. **Laboral Ciudad de la Cultura**, la antigua Universidad Laboral de Gijón, es hoy un centro de arte, cultura y turismo, y según una guía se considera por sus dimensiones uno de los edificios más grandes de España.
 

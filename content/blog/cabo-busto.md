@@ -24,6 +24,8 @@ faq:
     a: "Luarca, Cudillero y Cabo Vidío."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Una hora."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un faro blanco con la palabra **«BUSTO»** pintada en la torre, sobre un cabo de **acantilados verticales** y vistas al Cantábrico. **Cabo Busto**, en el concejo de Valdés, es un rincón tranquilo entre Cudillero y Luarca.
 

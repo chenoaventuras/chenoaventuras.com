@@ -24,6 +24,8 @@ faq:
     a: "Por las cavidades que el oleaje talló en los acantilados."
   - q: "¿Qué ver cerca?"
     a: "Llanes, Torimbia y los bufones de Pría."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una **pequeña playa de 125 metros** en la desembocadura del río Nueva, entre **acantilados con cavidades excavadas por el oleaje**. **Cuevas del Mar** está en el concejo de Llanes y es de las playas más fotogénicas del oriente asturiano.
 

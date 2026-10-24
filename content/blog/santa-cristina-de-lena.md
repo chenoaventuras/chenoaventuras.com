@@ -24,6 +24,8 @@ faq:
     a: "Por la A-66, salida a Campomanes, y a pie desde el aparcamiento."
   - q: "¿Qué es un iconostasis?"
     a: "Un elemento de tres arcos que separa la nave del presbiterio."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una **iglesia del siglo IX** en lo alto de una colina, con planta de cruz griega y un iconostasis de tres arcos único en el prerrománico asturiano. **Santa Cristina de Lena** es Patrimonio de la Humanidad desde 1985 y se visita en poco tiempo.
 
