@@ -3,8 +3,8 @@ title: 'MUMI, el Museo de la Minería de Asturias: baja a una mina de verdad en 
 seoTitle: 'MUMI: Museo de la Minería de Asturias (El Entrego)'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'MUMI Museo de la Minería'
-lat: 43.2994
-lng: -5.5011
+lat: 43.2872
+lng: -5.6447
 provincia: 'Asturias'
 excerpt: 'MUMI, Museo de la Minería y de la Industria de Asturias en El Entrego: la réplica de una mina, la visita guiada por mineros, cómo reservar y cómo llegar.'
 cover: /assets/img/blog/mumi-museo-de-la-mineria/portada.webp

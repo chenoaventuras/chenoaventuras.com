@@ -3,8 +3,8 @@ title: 'Playa de Frexulfe: la playa salvaje de Navia, monumento natural, cómo l
 seoTitle: 'Playa de Frexulfe: cómo llegar y consejos (Navia)'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Playa de Frexulfe'
-lat: 43.5586
-lng: -6.6594
+lat: 43.5597
+lng: -6.6746
 provincia: 'Asturias'
 excerpt: 'Playa de Frexulfe (Navia): 800 m de arena fina entre acantilados, monumento natural desde 2002, cómo llegar, oleaje y normas.'
 cover: /assets/img/blog/playa-de-frexulfe/portada.webp

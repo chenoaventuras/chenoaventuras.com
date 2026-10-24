@@ -3,8 +3,8 @@ title: 'Santa Cristina de Lena: la iglesia prerrománica Patrimonio de la Humani
 seoTitle: 'Santa Cristina de Lena: visitas, horarios y cómo llegar'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Santa Cristina de Lena'
-lat: 43.1603
-lng: -5.8186
+lat: 43.1273
+lng: -5.8143
 provincia: 'Asturias'
 excerpt: 'Santa Cristina de Lena: iglesia prerrománica del siglo IX, Patrimonio de la Humanidad. Qué ver, horarios orientativos de visita y cómo llegar desde Oviedo.'
 cover: /assets/img/blog/santa-cristina-de-lena/portada.webp

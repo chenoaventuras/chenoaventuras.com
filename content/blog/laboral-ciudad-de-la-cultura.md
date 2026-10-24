@@ -3,8 +3,8 @@ title: 'Laboral Ciudad de la Cultura en Gijón: la antigua Universidad Laboral, 
 seoTitle: 'Laboral Ciudad de la Cultura (Gijón): torre, visitas y entradas'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Laboral Ciudad de la Cultura'
-lat: 43.5192
-lng: -5.6086
+lat: 43.5245
+lng: -5.6167
 provincia: 'Asturias'
 excerpt: 'Laboral Ciudad de la Cultura en Gijón: historia de la antigua Universidad Laboral, la torre de 117 metros, visitas guiadas, precios orientativos y cómo llegar.'
 cover: /assets/img/blog/laboral-ciudad-de-la-cultura/portada.webp

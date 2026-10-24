@@ -3,8 +3,8 @@ title: 'Castro de Coaña: el poblado de la Edad del Hierro mejor conservado de A
 seoTitle: 'Castro de Coaña: historia, qué ver y cómo visitarlo'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Castro de Coaña'
-lat: 43.4764
-lng: -6.708
+lat: 43.5108
+lng: -6.7497
 provincia: 'Asturias'
 excerpt: 'Castro de Coaña (Navia): poblado de la Edad del Hierro con unas 80 cabañas, muralla y calles enlosadas. Historia, qué ver, cómo visitarlo y qué hay cerca.'
 cover: /assets/img/blog/castro-de-coana/portada.webp
