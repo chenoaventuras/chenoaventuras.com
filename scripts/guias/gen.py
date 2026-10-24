@@ -41,7 +41,7 @@ AUTHOR = ('<aside class="authorbox gauthor keep"><img class="authorbox__img" src
 def load_posts():
     js = r"""const fs=require("fs"),m=require("gray-matter"),{marked}=require("marked"),d0=process.argv[1];const o={};
 marked.setOptions({gfm:true,breaks:false});
-for(const f of fs.readdirSync(d0)){if(!f.endsWith(".md"))continue;const g=m(fs.readFileSync(d0+"/"+f,"utf8")),d=g.data;if(d.draft)continue;
+for(const f of fs.readdirSync(d0)){if(!f.endsWith(".md"))continue;const g=m(fs.readFileSync(d0+"/"+f,"utf8")),d=g.data;if(d.draft||d.evento===true)continue;
 o[f.slice(0,-3)]={title:d.title,lugar:d.lugar||"",excerpt:d.excerpt||"",cover:d.cover||"",lat:d.lat,lng:d.lng,tags:d.tags||[],act:d.actividades||[],
 comer:(d.comer||[]).slice(0,4),date:String(d.date||""),body:marked.parse(g.content)};}
 process.stdout.write(JSON.stringify(o));"""
