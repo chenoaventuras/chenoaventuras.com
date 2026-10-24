@@ -24,8 +24,8 @@ faq:
   - q: "¿Dónde está el faro de Chipiona?"
     a: "En la Punta del Perro, en Chipiona (Cádiz), a unos 30 minutos de Jerez y de Sanlúcar."
 actividades:
-  - t: "Actividades en Chipiona"
-    u: "https://www.civitatis.com/es/chipiona/"
+  - t: "Visita guiada por Sanlúcar de Barrameda"
+    u: "https://www.civitatis.com/es/sanlucar-de-barrameda/visita-guiada-sanlucar/"
 comer:
   - n: "GHOA"
     r: 4.8

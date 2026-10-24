@@ -25,8 +25,6 @@ faq:
   - q: "¿Qué hacer en Alcalá del Júcar con niños?"
     a: "Entrar en las cuevas que atraviesan la montaña, subir al castillo y, en verano, bañarse en la playa fluvial."
 actividades:
-  - t: "Visita guiada por Alcalá del Júcar"
-    u: "https://www.civitatis.com/es/alcala-del-jucar/visita-guiada-alcala-jucar/"
   - t: "Alcalá del Júcar: excursión privada de un día desde Valencia"
     u: "https://www.getyourguide.es/valencia-l49/valencia-excursion-privada-de-1-dia-a-alcala-del-jucar-con-guia-t1191601/"
 comer:

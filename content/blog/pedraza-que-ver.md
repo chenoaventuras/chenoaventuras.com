@@ -25,8 +25,8 @@ faq:
   - q: "¿Cuándo son los Conciertos de las Velas de Pedraza?"
     a: "Los dos primeros sábados de julio. El pueblo se ilumina con miles de velas y hay concierto en la explanada del castillo."
 actividades:
-  - t: "Tour privado por Pedraza"
-    u: "https://www.civitatis.com/es/pedraza/tour-privado-pedraza/"
+  - t: "Entradas al castillo de Pedraza con audioguía"
+    u: "https://www.civitatis.com/es/pedraza/entradas-castillo-pedraza/"
 comer:
   - n: "Restaurante La Parada"
     r: 4.7

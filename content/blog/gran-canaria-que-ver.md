@@ -27,8 +27,8 @@ actividades:
     u: "https://www.civitatis.com/es/las-palmas-de-gran-canaria/free-tour-las-palmas/"
   - t: "Paseo en barco por Puerto de Mogán + snorkel"
     u: "https://www.civitatis.com/es/puerto-de-mogan/paseo-barco-puerto-mogan-snorkel/"
-  - t: "Paseo en camello por las dunas de Maspalomas"
-    u: "https://www.civitatis.com/es/maspalomas/paseo-camello-dunas-maspalomas/"
+  - t: "Tour de Gran Canaria al completo"
+    u: "https://www.civitatis.com/es/maspalomas/tour-gran-canaria/"
 comer:
   - n: "Chao Chao Noodles & Gyoza"
     r: 4.8

@@ -33,8 +33,8 @@ faq:
   - q: "¿Cómo llegar a la Laguna Negra desde Soria?"
     a: "En coche hasta Vinuesa (unos 45 minutos desde Soria) y de allí unos 18 km por una carretera de montaña hasta el Paso de la Serrá. Desde ese aparcamiento quedan 1,5 km por la pista o 2,2 km por la Senda del Bosque."
 actividades:
-  - t: "Raquetas de nieve por la sierra de Urbión desde Vinuesa"
-    u: "https://www.civitatis.com/es/vinuesa/paseo-raquetas-nieve-sierra-urbion/"
+  - t: "Free tour por Soria"
+    u: "https://www.civitatis.com/es/soria/free-tour-soria/"
 comer:
   - n: "Mesón Don Pancho"
     r: 4.4

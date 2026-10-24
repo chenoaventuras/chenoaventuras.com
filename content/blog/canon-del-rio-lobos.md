@@ -26,8 +26,8 @@ faq:
   - q: "¿Cómo llegar al Cañón del Río Lobos?"
     a: "La entrada más usada es por Ucero, a 15 minutos de El Burgo de Osma. Desde allí, sigue la carretera del parque hasta los aparcamientos señalizados."
 actividades:
-  - t: "Actividades en Ucero (Cañón del Río Lobos)"
-    u: "https://www.civitatis.com/es/ucero/"
+  - t: "Tour panorámico por El Burgo de Osma"
+    u: "https://www.civitatis.com/es/el-burgo-de-osma/tour-panoramico-burgo-osma/"
 comer:
   - n: "Mesón Julio Casarejos"
     r: 4.5

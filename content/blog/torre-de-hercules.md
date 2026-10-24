@@ -26,8 +26,8 @@ faq:
 actividades:
   - t: "Free tour por el Parque Escultórico de la Torre de Hércules"
     u: "https://www.civitatis.com/es/la-coruna/free-tour-torre-hercules/"
-  - t: "Torre de Hércules: actividades y entradas"
-    u: "https://www.civitatis.com/es/la-coruna/torre-hercules/"
+  - t: "Free tour por La Coruña"
+    u: "https://www.civitatis.com/es/la-coruna/free-tour-coruna/"
 comer:
   - n: "O Rueiro"
     r: 4.7

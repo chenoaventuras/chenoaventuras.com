@@ -23,8 +23,8 @@ faq:
   - q: "¿Qué ver cerca de las Dunas de Maspalomas?"
     a: "El Faro de Maspalomas, la Charca, Playa del Inglés y, hacia el interior, el Roque Nublo."
 actividades:
-  - t: "Paseo en camello por las dunas de Maspalomas"
-    u: "https://www.civitatis.com/es/maspalomas/paseo-camello-dunas-maspalomas/"
+  - t: "Tour en segway por las dunas de Maspalomas"
+    u: "https://www.civitatis.com/es/maspalomas/tour-segway-maspalomas/"
   - t: "Avistamiento de delfines y ballenas en barco con fondo de cristal"
     u: "https://www.civitatis.com/es/maspalomas/avistamiento-delfines-ballenas/"
 comer:

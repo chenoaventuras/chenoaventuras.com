@@ -24,8 +24,8 @@ faq:
   - q: "¿Murió alguien en el hundimiento del Naranjito?"
     a: "No, la tripulación se salvó."
 actividades:
-  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
-    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Scooter submarina en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/scooter-submarina-cabo-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf

@@ -22,8 +22,8 @@ faq:
   - q: "¿Por qué hay cormoranes blancos y negros?"
     a: "Es cuestión de edad: los jóvenes tienen el pecho y el vientre casi blancos y los adultos son de un negro brillante."
 actividades:
-  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
-    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Scooter submarina en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/scooter-submarina-cabo-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 ---

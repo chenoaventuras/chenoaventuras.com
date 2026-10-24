@@ -25,8 +25,8 @@ faq:
 actividades:
   - t: "Free tour por San Sebastián de La Gomera"
     u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/free-tour-san-sebastian-gomera/"
-  - t: "Senderismo por el Parque Nacional de Garajonay"
-    u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/senderismo-parque-garajonay/"
+  - t: "Tour por el interior de La Gomera y Garajonay"
+    u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/tour-interior-gomera/"
 comer:
   - n: "Bar Restaurante Los Leones"
     r: 4.6

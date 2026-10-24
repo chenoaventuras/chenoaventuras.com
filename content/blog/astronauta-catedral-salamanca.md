@@ -32,8 +32,8 @@ actividades:
     u: "https://www.civitatis.com/es/salamanca/free-tour-salamanca/"
   - t: "Salamanca: entrada a la catedral con audioguía"
     u: "https://www.getyourguide.es/salamanca-l1637/salamanca-cathedral-of-salamanca-ticket-with-audio-guide-t478516/"
-  - t: "Visita guiada a la Universidad de Salamanca"
-    u: "https://www.getyourguide.es/salamanca-l1637/visita-guiada-a-la-universidad-de-salamanca-en-espanol-t953643/"
+  - t: "Tour Salamanca Monumental"
+    u: "https://www.getyourguide.es/salamanca-l1637/tour-salamanca-monumental-tu-primera-toma-de-contacto-con-salamanca-t1205380/"
 comer:
   - n: "Restaurante Isidro"
     r: 4.7

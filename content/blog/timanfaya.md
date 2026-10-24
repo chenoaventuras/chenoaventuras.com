@@ -23,8 +23,8 @@ faq:
   - q: "¿Qué ver cerca de Timanfaya?"
     a: "El Golfo y su Charco Verde, Los Hervideros, las Salinas de Janubio y la zona vinícola de La Geria."
 actividades:
-  - t: "Excursiones y actividades en el Parque Nacional de Timanfaya"
-    u: "https://www.civitatis.com/es/yaiza/parque-nacional-timanfaya/"
+  - t: "Timanfaya, Jameos del Agua y Charco de los Clicos"
+    u: "https://www.civitatis.com/es/arrecife/excursion-timanfaya-jameos-agua/"
   - t: "Visita guiada por las Salinas de Janubio"
     u: "https://www.civitatis.com/es/yaiza/visita-guiada-salinas-janubio/"
 comer:

@@ -24,8 +24,8 @@ faq:
   - q: "¿Hay más barcos hundidos en Cabo de Palos?"
     a: "Sí. El más visitado es el Naranjito, un carguero que se hundió en 1946 cargado de naranjas, a menos de una milla del puerto."
 actividades:
-  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
-    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Scooter submarina en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/scooter-submarina-cabo-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf

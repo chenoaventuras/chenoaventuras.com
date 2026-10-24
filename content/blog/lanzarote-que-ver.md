@@ -23,8 +23,8 @@ faq:
   - q: "¿Cuándo es mejor ir a Lanzarote?"
     a: "Todo el año tiene buen tiempo. En invierno hay unos 20-22 °C; en verano hace más calor y más viento."
 actividades:
-  - t: "Excursiones y actividades en el Parque Nacional de Timanfaya"
-    u: "https://www.civitatis.com/es/yaiza/parque-nacional-timanfaya/"
+  - t: "Timanfaya, Jameos del Agua y Charco de los Clicos"
+    u: "https://www.civitatis.com/es/arrecife/excursion-timanfaya-jameos-agua/"
   - t: "Excursión a La Graciosa + paseo en velero"
     u: "https://www.civitatis.com/es/orzola/excursion-isla-graciosa/"
   - t: "Visita guiada por las Salinas de Janubio"

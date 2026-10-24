@@ -23,8 +23,8 @@ faq:
   - q: "¿Cuánto se tarda en ver Las Médulas?"
     a: "Medio día da para una ruta a pie y subir al Mirador de Orellán."
 actividades:
-  - t: "Visitas guiadas y actividades en Las Médulas"
-    u: "https://www.civitatis.com/es/las-medulas/"
+  - t: "Visita guiada por Las Médulas"
+    u: "https://www.civitatis.com/es/las-medulas/visita-guiada-medulas/"
 comer:
   - n: "O Palleiro do Pe do Forno"
     r: 4.8

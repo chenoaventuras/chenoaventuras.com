@@ -26,8 +26,8 @@ faq:
   - q: "¿Se puede llegar en coche al Salto del Nervión?"
     a: "Hasta el mirador no: dejas el coche en Monte Santiago y caminas 30-40 minutos."
 actividades:
-  - t: "Actividades en Orduña"
-    u: "https://www.civitatis.com/es/orduna/"
+  - t: "Free tour por Bilbao"
+    u: "https://www.civitatis.com/es/bilbao/free-tour-bilbao/"
 comer:
   - n: "Restaurante Hikei Orduña"
     r: 4.5

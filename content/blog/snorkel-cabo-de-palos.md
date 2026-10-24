@@ -32,8 +32,8 @@ faq:
   - q: "¿Qué material hace falta para hacer snorkel?"
     a: "Gafas bien ajustadas, tubo y, si vas a nadar un rato, aletas cortas. En primavera u otoño, un neopreno fino de 3 mm."
 actividades:
-  - t: "Bautismo de buceo y resto de actividades en Cabo de Palos"
-    u: "https://www.civitatis.com/es/cabo-de-palos/"
+  - t: "Scooter submarina en Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/scooter-submarina-cabo-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 guia: /assets/guias/guia-murcia-chenoaventuras.pdf

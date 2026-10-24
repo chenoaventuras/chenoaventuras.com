@@ -29,8 +29,8 @@ faq:
   - q: "¿Cómo llegar a Aínsa?"
     a: "En coche: está en la comarca del Sobrarbe (Huesca), a unos 50 minutos de Torla y Ordesa y a unas dos horas de Zaragoza."
 actividades:
-  - t: "Raquetas de nieve por Ordesa y Monte Perdido desde Aínsa"
-    u: "https://www.civitatis.com/es/ainsa/raquetas-nieve-ordesa-monte-perdido/"
+  - t: "Excursión al Parque Nacional de Ordesa y Monte Perdido desde Huesca"
+    u: "https://www.civitatis.com/es/huesca/excursion-ordesa-monte-perdido/"
 comer:
   - n: "Callizo"
     r: 4.7
