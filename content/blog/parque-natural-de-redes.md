@@ -24,6 +24,8 @@ faq:
     a: "Sí, en El Campu."
   - q: "¿Qué otros parques hay cerca?"
     a: "Ponga y Somiedo."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un parque de **377 km²** con hayedos, robledales, cumbres de más de 800 metros y la famosa **Ruta del Alba**. El **Parque Natural de Redes**, en los concejos de Caso y Sobrescobio, es **Reserva de la Biosfera** y una de las zonas más tranquilas del interior de Asturias.
 

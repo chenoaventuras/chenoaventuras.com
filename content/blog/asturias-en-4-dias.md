@@ -24,6 +24,8 @@ faq:
     a: "De mayo a octubre; lleva chubasquero."
   - q: "¿Dónde dormir?"
     a: "Oviedo, Gijón, Cangas de Onís o Ribadesella."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Cuatro días dan para ver **lo mejor de Asturias**: una ciudad con prerrománico, el santuario y los lagos de Covadonga, pueblos marineros y un buen trozo de costa. Este es un **itinerario en coche** con **tiempos aproximados**: confírmalos en Google Maps y ajusta según el tiempo.
 

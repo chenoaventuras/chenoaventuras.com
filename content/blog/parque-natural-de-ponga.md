@@ -24,6 +24,8 @@ faq:
     a: "Hay, pero rara vez se ven."
   - q: "¿Dónde está el centro de visitantes?"
     a: "En San Juan de Beleño."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un parque de **más de 20.000 hectáreas** de bosque, caliza y valles verdes en el corazón de la Cordillera Cantábrica. El **Parque Natural de Ponga** protege uno de los hayedos mejor conservados de Asturias y tiene pueblos de montaña casi intactos.
 

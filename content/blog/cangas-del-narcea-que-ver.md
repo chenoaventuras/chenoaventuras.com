@@ -24,6 +24,8 @@ faq:
     a: "Potaje de berzas, frixuelos y queso de Genestoso."
   - q: "¿A qué distancia está de Oviedo?"
     a: "A unos 84-91 km."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 La capital del **concejo más grande de Asturias** (más de 800 km²), con un **monasterio del siglo XI convertido en Parador** y la puerta de entrada a la **Reserva de Muniellos**. **Cangas del Narcea** es el centro del suroccidente asturiano.
 

@@ -24,6 +24,8 @@ faq:
     a: "Sí, Bulnes, al que se llega en funicular o a pie."
   - q: "¿Cuándo ir?"
     a: "Primavera y otoño para tranquilidad; verano para el buen tiempo."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Asturias tiene **pueblos marineros de postal** y **aldeas de montaña casi sin tráfico**. Aquí tienes **doce de los más bonitos**, con enlace a cada guía para que veas qué hacer, cuándo ir y cómo llegar.
 

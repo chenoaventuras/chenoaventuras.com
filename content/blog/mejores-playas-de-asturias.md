@@ -24,6 +24,8 @@ faq:
     a: "El Cantábrico es fresco, incluso en verano."
   - q: "¿Qué es la playa de Gulpiyuri?"
     a: "Una playa sin mar visible, con agua que entra por cuevas."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Asturias tiene **más de 200 playas** (según los datos más citados) y muchas son salvajes, con acantilados, dunas y poca gente. Aquí tienes **diez de las mejores**, de las más tranquilas a las más cómodas, con enlaces a cada una para que te lo montes a tu manera.
 

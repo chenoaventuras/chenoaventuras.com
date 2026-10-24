@@ -24,6 +24,8 @@ faq:
     a: "Sí, es el último tramo asturiano del Camino Primitivo."
   - q: "¿A qué distancia está de Oviedo?"
     a: "A unos 149 km."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un pueblo del **occidente de Asturias**, junto a un **gran embalse** y con un **museo etnográfico** de lo mejor de la región. **Grandas de Salime** es además una etapa del **Camino Primitivo** de Santiago, justo antes de entrar en Galicia.
 

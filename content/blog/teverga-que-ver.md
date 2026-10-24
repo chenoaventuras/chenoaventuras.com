@@ -24,6 +24,8 @@ faq:
     a: "Una cueva con muchas galerías, monumento natural desde 2002."
   - q: "¿Dónde pasa la Senda del Oso?"
     a: "Por Teverga, Proaza, Quirós y Santo Adriano."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un concejo de **tres valles profundos**, una **colegiata románica del siglo XI**, un parque dedicado a **la prehistoria** y una de las cuevas con más galerías de Asturias. **Teverga** es parada obligada en la Senda del Oso.
 
