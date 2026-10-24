@@ -12,6 +12,9 @@ tags:
   - Pueblos
   - Asturias
 wide: true
+actividades:
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
 faqTitulo: "Dudas sobre Cangas del Narcea"
 faq:
   - q: "¿Qué ver en Cangas del Narcea?"

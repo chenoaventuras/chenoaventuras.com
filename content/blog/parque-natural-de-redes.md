@@ -12,6 +12,9 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividades:
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
 faqTitulo: "Dudas sobre Redes"
 faq:
   - q: "¿Qué es el Parque Natural de Redes?"

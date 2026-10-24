@@ -12,6 +12,11 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividades:
+  - t: "Free tour por Llanes"
+    u: "https://www.civitatis.com/es/llanes/free-tour-llanes/"
+  - t: "Tour en kayak por Llanes"
+    u: "https://www.civitatis.com/es/llanes/tour-kayak-llanes/"
 faqTitulo: "Dudas sobre Cuevas del Mar"
 faq:
   - q: "¿Dónde está Cuevas del Mar?"

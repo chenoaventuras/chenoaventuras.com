@@ -12,6 +12,11 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividades:
+  - t: "Visita guiada por la catedral de Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/visita-guiada-catedral-oviedo/"
+  - t: "Visita guiada por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/visita-guiada-oviedo/"
 faqTitulo: "Dudas sobre Santa Cristina de Lena"
 faq:
   - q: "¿Qué es Santa Cristina de Lena?"

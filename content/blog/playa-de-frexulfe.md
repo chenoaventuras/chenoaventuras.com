@@ -12,6 +12,9 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividades:
+  - t: "Excursión a la playa de Las Catedrales, Tapia y Ribadeo"
+    u: "https://www.civitatis.com/es/oviedo/excursion-playa-catedrales-tapia-ribadeo/"
 faqTitulo: "Dudas sobre Frexulfe"
 faq:
   - q: "¿Dónde está Frexulfe?"

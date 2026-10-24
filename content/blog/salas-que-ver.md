@@ -12,6 +12,11 @@ tags:
   - Pueblos
   - Asturias
 wide: true
+actividades:
+  - t: "Excursión a Avilés, Cudillero y Luarca"
+    u: "https://www.civitatis.com/es/oviedo/excursion-aviles-cudillero-luarca/"
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
 faqTitulo: "Dudas sobre Salas"
 faq:
   - q: "¿Qué ver en Salas?"

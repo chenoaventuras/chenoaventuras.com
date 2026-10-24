@@ -12,6 +12,11 @@ tags:
   - Actividades
   - Asturias
 wide: true
+actividades:
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
+  - t: "Visita guiada por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/visita-guiada-oviedo/"
 faqTitulo: "Dudas sobre el MUMI"
 faq:
   - q: "¿Qué es el MUMI?"

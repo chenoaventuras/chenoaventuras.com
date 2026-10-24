@@ -12,6 +12,11 @@ tags:
   - Actividades
   - Asturias
 wide: true
+actividades:
+  - t: "Free tour por Gijón"
+    u: "https://www.civitatis.com/es/gijon/free-tour-gijon/"
+  - t: "Tour de quesos y sidra por Gijón"
+    u: "https://www.civitatis.com/es/gijon/tour-gastronomico-gijon/"
 faqTitulo: "Dudas sobre el Acuario de Gijón"
 faq:
   - q: "¿Cuándo abrió el Acuario de Gijón?"

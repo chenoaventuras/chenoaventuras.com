@@ -12,6 +12,9 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividades:
+  - t: "Excursión a Avilés, Cudillero y Luarca"
+    u: "https://www.civitatis.com/es/oviedo/excursion-aviles-cudillero-luarca/"
 faqTitulo: "Dudas sobre Cabo Busto"
 faq:
   - q: "¿Dónde está Cabo Busto?"

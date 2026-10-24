@@ -12,6 +12,11 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividades:
+  - t: "Free tour por Gijón"
+    u: "https://www.civitatis.com/es/gijon/free-tour-gijon/"
+  - t: "Visita guiada por Gijón"
+    u: "https://www.civitatis.com/es/gijon/visita-guiada-gijon/"
 faqTitulo: "Dudas sobre el Jardín Botánico"
 faq:
   - q: "¿Dónde está el Jardín Botánico Atlántico?"
