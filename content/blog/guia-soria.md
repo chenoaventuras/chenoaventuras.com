@@ -1,4 +1,5 @@
 ---
+coche: true
 title: 'Qué ver en Soria: guía completa de la capital y la provincia'
 seoTitle: 'Qué ver en Soria: guía completa de la provincia (PDF gratis)'
 date: 2026-10-21T18:00:00.000Z

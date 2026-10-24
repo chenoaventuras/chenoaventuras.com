@@ -1,4 +1,5 @@
 ---
+coche: true
 title: 'Guía de Huesca en PDF: 15 lugares y ruta'
 seoTitle: 'Guía de Huesca gratis en PDF: Pirineo, Loarre y Alquézar'
 date: 2026-10-18T10:10:00.000Z

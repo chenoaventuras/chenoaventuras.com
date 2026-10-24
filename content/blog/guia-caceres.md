@@ -1,4 +1,5 @@
 ---
+coche: true
 title: 'Guía de Cáceres en PDF: 10 lugares y ruta'
 seoTitle: 'Guía de Cáceres gratis en PDF: qué ver y ruta'
 date: 2026-10-18T10:05:00.000Z
