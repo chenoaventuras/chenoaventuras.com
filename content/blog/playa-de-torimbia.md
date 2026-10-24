@@ -3,8 +3,8 @@ title: 'Playa de Torimbia: cómo llegar a pie desde Niembro, mareas y consejos d
 seoTitle: 'Playa de Torimbia: cómo llegar, mareas y consejos'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Playa de Torimbia'
-lat: 43.4379
-lng: -4.8419
+lat: 43.4427
+lng: -4.852
 provincia: 'Asturias'
 excerpt: 'Playa de Torimbia (Niembro, Llanes): cómo llegar a pie, cuánto mide, cómo cambian las mareas, qué ver cerca y normas de la playa nudista más emblemática del Cantábrico.'
 cover: /assets/img/blog/playa-de-torimbia/portada.webp

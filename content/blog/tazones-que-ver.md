@@ -3,8 +3,8 @@ title: 'Qué ver en Tazones: el puerto pesquero donde desembarcó Carlos V, la C
 seoTitle: 'Qué ver en Tazones: puerto, Casa de las Conchas y faro'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Tazones'
-lat: 43.5436
-lng: -5.3939
+lat: 43.5428
+lng: -5.4034
 provincia: 'Asturias'
 excerpt: 'Qué ver en Tazones: el puerto pesquero, la Casa de las Conchas, el hórreo, el faro y la historia del desembarco de Carlos I en 1517. Cómo llegar desde Villaviciosa.'
 cover: /assets/img/blog/tazones-que-ver/portada.webp

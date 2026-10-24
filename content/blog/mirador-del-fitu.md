@@ -3,8 +3,8 @@ title: 'Mirador del Fitu: la mejor panorámica de Asturias entre el mar y los Pi
 seoTitle: 'Mirador del Fitu: vistas, cómo llegar y qué ver'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Mirador del Fitu'
-lat: 43.4467
-lng: -5.2556
+lat: 43.439
+lng: -5.1933
 provincia: 'Asturias'
 excerpt: 'Mirador del Fitu (Sierra del Sueve): vistas de 360 grados del mar y los Picos de Europa, cómo llegar por la AS-260 y qué ver cerca.'
 cover: /assets/img/blog/mirador-del-fitu/portada.webp

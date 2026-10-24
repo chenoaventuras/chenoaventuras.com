@@ -3,8 +3,8 @@ title: 'Bulnes: el pueblo de los Picos de Europa al que se llega en funicular de
 seoTitle: 'Bulnes: funicular, senda y qué ver en el pueblo sin carretera'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Bulnes'
-lat: 43.2459
-lng: -4.8195
+lat: 43.2368
+lng: -4.8263
 provincia: 'Asturias'
 excerpt: 'Bulnes, el pueblo de los Picos de Europa sin carretera: funicular desde Poncebos, senda de la Canal del Tejo, los dos barrios y cómo ver el Picu Urriellu.'
 cover: /assets/img/blog/bulnes-funicular-y-pueblo/portada.webp

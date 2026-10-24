@@ -3,8 +3,8 @@ title: 'Reserva de Muniellos: cómo visitar el mayor robledal de España (permis
 seoTitle: 'Muniellos: permiso, rutas y cómo visitar la reserva'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Reserva de Muniellos'
-lat: 43.0167
-lng: -6.75
+lat: 43.0356
+lng: -6.6817
 provincia: 'Asturias'
 excerpt: 'Reserva Natural Integral de Muniellos (Cangas del Narcea): el mayor robledal de España, cómo conseguir permiso (20 visitantes al día), qué fauna hay y consejos.'
 cover: /assets/img/blog/muniellos-que-ver/portada.webp

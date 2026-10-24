@@ -3,8 +3,8 @@ title: 'Playa del Silencio (Gavieiru): cómo llegar, aparcar y qué ver en esta 
 seoTitle: 'Playa del Silencio: cómo llegar y qué ver (Cudillero)'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Playa del Silencio'
-lat: 43.5667
-lng: -6.1486
+lat: 43.5673
+lng: -6.2949
 provincia: 'Asturias'
 excerpt: 'Playa del Silencio (Playa de Gavieiru) en Castañeras, Cudillero: cómo llegar, dónde aparcar, cómo es la playa de cantos, consejos y qué ver cerca.'
 cover: /assets/img/blog/playa-del-silencio/portada.webp

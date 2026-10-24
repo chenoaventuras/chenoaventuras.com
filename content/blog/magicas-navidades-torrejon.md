@@ -3,8 +3,8 @@ title: 'Mágicas Navidades de Torrejón de Ardoz 2026: fechas, precios, qué inc
 seoTitle: 'Mágicas Navidades Torrejón 2026: fechas, entradas y cómo llegar'
 date: 2026-10-24T11:00:00.000Z
 lugar: 'Mágicas Navidades de Torrejón'
-lat: 40.456
-lng: -3.479
+lat: 40.4497
+lng: -3.4749
 provincia: 'Madrid'
 excerpt: 'Mágicas Navidades de Torrejón de Ardoz 2026: abren el 14 de noviembre. Fechas, horarios, qué incluye la entrada, atracciones de pago, cómo llegar en Cercanías y consejos.'
 cover: /assets/img/blog/magicas-navidades-torrejon/portada.webp

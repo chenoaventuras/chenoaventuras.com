@@ -4,7 +4,7 @@ seoTitle: 'Naranjo de Bulnes: altura, historia y cómo verlo'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Naranjo de Bulnes'
 lat: 43.2008
-lng: -4.8517
+lng: -4.8177
 provincia: 'Asturias'
 excerpt: 'Naranjo de Bulnes o Picu Urriellu: altura (2.519 m), primera ascensión en 1904, cómo verlo desde Sotres o Bulnes y rutas a la Vega de Urriellu.'
 cover: /assets/img/blog/naranjo-de-bulnes/portada.webp

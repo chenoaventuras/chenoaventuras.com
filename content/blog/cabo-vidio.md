@@ -3,8 +3,8 @@ title: 'Cabo Vidío: el faro y los acantilados de casi 100 metros de Cudillero, 
 seoTitle: 'Cabo Vidío: faro, acantilados y cómo llegar (Cudillero)'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Cabo Vidío'
-lat: 43.5944
-lng: -6.2269
+lat: 43.5945
+lng: -6.2441
 provincia: 'Asturias'
 excerpt: 'Cabo Vidío (Cudillero): faro de 1950, acantilados de casi 100 metros, cómo llegar, consejos y qué ver cerca: Cudillero, playa del Silencio y Luarca.'
 cover: /assets/img/blog/cabo-vidio/portada.webp

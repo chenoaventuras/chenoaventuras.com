@@ -3,8 +3,8 @@ title: 'Playa de Barayo: la reserva natural de dunas y marismas de Valdés y Nav
 seoTitle: 'Playa de Barayo: cómo llegar, dunas y reserva natural'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Playa de Barayo'
-lat: 43.5694
-lng: -6.5967
+lat: 43.5609
+lng: -6.6151
 provincia: 'Asturias'
 excerpt: 'Playa de Barayo (Valdés y Navia): reserva natural parcial con dunas y marismas, 670 m de arena oscura, cómo llegar, aves y normas.'
 cover: /assets/img/blog/playa-de-barayo/portada.webp
