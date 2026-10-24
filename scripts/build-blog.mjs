@@ -450,10 +450,15 @@ const plain = (s) => marked.parseInline(s).replace(/<[^>]+>/g, "").replace(/&quo
 const CAR_TAGS = ["Canarias", "Islas Baleares"];
 function carBox(p) {
   const isIsland = p.tags.some((t) => CAR_TAGS.includes(t));
-  if (!(p.coche ?? isIsland)) return "";
-  const where = isIsland ? "Para moverte por la isla" : "Para llegar y moverte por la zona";
+  // por defecto sale en las islas y en todo post con sección «Cómo llegar» o con consejos «En coche»; coche: false lo quita
+  const hasHow = /C[oó]mo llegar|<strong>En coche/.test(p.html || "");
+  if (!(p.coche ?? (isIsland || hasHow))) return "";
+  const urban = !isIsland && /evita el coche|dif[ií]cil aparcar|bajas emisiones|calles peatonales/i.test(p.html || "");
+  const intro = urban
+    ? "<strong>Para las excursiones fuera de la ciudad, un coche de alquiler te da libertad.</strong> Yo comparo precios en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis."
+    : `<strong>${isIsland ? "Para moverte por la isla" : "Para llegar y moverte por la zona"}, lo más cómodo es alquilar coche.</strong> Yo comparo precios en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis.`;
   return `
-<div class="article__callout article__callout--booking">🚗 <strong>${where}, lo más cómodo es alquilar coche.</strong> Yo comparo precios en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis. <a class="btn" href="https://www.discovercars.com/?a_aid=chenoaventuras" target="_blank" rel="sponsored noopener">Ver coches en DiscoverCars</a></div>
+<div class="article__callout article__callout--booking">🚗 ${intro} <a class="btn" href="https://www.discovercars.com/?a_aid=chenoaventuras" target="_blank" rel="sponsored noopener">Ver coches en DiscoverCars</a></div>
 `;
 }
 
