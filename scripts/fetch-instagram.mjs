@@ -79,6 +79,7 @@ const EXCLUDE = [
   "Dc8CQZ8v6TG", // reel de prueba - cormorán 2
   "Dcp-RdAPGf6", // reel de prueba - Altea (duplicado)
   "Dc_xZjextIf", // reel de prueba
+  "DezvVKBReVM", // reel de prueba - Laguna Negra (22 oct 2026)
   ...(process.env.IG_EXCLUDE || "").split(",").map((s) => s.trim()).filter(Boolean),
 ];
 const isExcluded = (m) =>
