@@ -12,6 +12,7 @@ tags:
   - Spots
   - Asturias
 wide: true
+coche: true
 faqTitulo: "Dudas sobre Asturias en 4 días"
 faq:
   - q: "¿Cuántos días hacen falta para Asturias?"

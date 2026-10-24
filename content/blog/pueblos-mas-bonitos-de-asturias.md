@@ -12,6 +12,7 @@ tags:
   - Pueblos
   - Asturias
 wide: true
+coche: true
 faqTitulo: "Dudas sobre los pueblos de Asturias"
 faq:
   - q: "¿Cuáles son los pueblos más bonitos de Asturias?"

@@ -12,6 +12,7 @@ tags:
   - Spots
   - Asturias
 wide: true
+coche: true
 faqTitulo: "Dudas sobre las playas de Asturias"
 faq:
   - q: "¿Cuáles son las mejores playas de Asturias?"
