@@ -29,6 +29,8 @@ faq:
     a: "En Oviñana, concejo de Cudillero."
   - q: "¿Qué ver cerca?"
     a: "Cudillero, la playa del Silencio y Luarca."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un faro blanco al borde de unos de los **acantilados más altos de Asturias**, casi **100 metros** sobre el mar. **Cabo Vidío**, en Oviñana (concejo de Cudillero), es un mirador espectacular de la costa occidental y se visita en poco tiempo.
 

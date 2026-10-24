@@ -33,6 +33,8 @@ faq:
     a: "La Guía en septiembre y las de Santa Ana en julio, entre otras."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Un día para la villa y alguna playa."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una villa marinera con muralla, un puerto con **cubos de hormigón pintados** por Agustín Ibarrola, un paseo sobre el acantilado y casi **cuarenta playas** en su concejo. **Llanes** es la gran capital del oriente asturiano y la mejor base para las playas, los bufones y los Picos.
 

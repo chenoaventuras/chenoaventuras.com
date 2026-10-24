@@ -27,6 +27,8 @@ faq:
     a: "Sí; consulta horarios y tarifas."
   - q: "¿Qué ver cerca?"
     a: "La Cueva del Pindal y Llanes."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 El pueblo de las **casas de indianos**, los asturianos que volvieron ricos de América y levantaron palacetes de colores. **Colombres**, capital del concejo de Ribadedeva, tiene un museo dedicado a la emigración en una de esas casas: la **Quinta Guadalupe**.
 

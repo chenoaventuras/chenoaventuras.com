@@ -27,6 +27,8 @@ faq:
     a: "Sí, con cuidado, porque pasan coches."
   - q: "¿Qué más hay?"
     a: "El pueblo de Cuevas del Agua y degustaciones de sidra y queso."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un pueblo al que solo se entra **atravesando una cueva**: la carretera pasa por dentro de una cavidad natural de unos **300 metros**. **La Cuevona**, en Cuevas del Agua (Ribadesella), es una de las curiosidades más sorprendentes del oriente asturiano.
 

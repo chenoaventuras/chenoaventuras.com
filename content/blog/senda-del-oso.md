@@ -24,6 +24,8 @@ faq:
     a: "Más de treinta."
   - q: "¿Dónde empieza?"
     a: "En Tuñón (Santo Adriano)."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un **camino verde sin coches** por un antiguo tren minero, con túneles excavados en la roca, desfiladeros y prados. La **Senda del Oso** recorre los valles de Proaza, Teverga, Quirós y Santo Adriano y es perfecta para hacer **a pie o en bici**.
 

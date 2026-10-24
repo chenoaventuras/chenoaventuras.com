@@ -31,6 +31,8 @@ faq:
     a: "Sí, hay descensos en canoa para visitantes."
   - q: "¿Es Fiesta de Interés Turístico?"
     a: "Sí, de interés turístico internacional desde 1980."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una **fiesta de piraguas** que baja el río Sella desde Arriondas hasta Ribadesella cada verano. El **Descenso Internacional del Sella** es la prueba más famosa del piragüismo español y, además, puedes hacer tú el descenso en canoa como actividad en temporada.
 

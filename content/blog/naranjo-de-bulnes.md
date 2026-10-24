@@ -27,6 +27,8 @@ faq:
     a: "Desde Sotres por pista y senda."
   - q: "¿Es necesaria experiencia?"
     a: "Las rutas largas sí; consulta tiempo y estado."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 La gran roca de los Picos de Europa: una **torre de caliza de 2.519 metros** que se ve desde muchos puntos y que es el sueño de muchos escaladores. El **Naranjo de Bulnes**, o **Picu Urriellu**, está en el macizo de los Urrieles (concejo de Cabrales).
 

@@ -29,6 +29,8 @@ faq:
     a: "Es una de las playas nudistas más emblemáticas del Cantábrico."
   - q: "¿Qué otras playas hay cerca?"
     a: "Portacos y Peñadrada, accesibles con marea baja."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una playa de **500 metros** en un paisaje verde, con un acceso estrecho solo a pie y una fama bien ganada: es una de las **playas nudistas más emblemáticas del litoral cantábrico**. **Torimbia** está en Niembro, en el concejo de Llanes.
 

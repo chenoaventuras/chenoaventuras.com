@@ -29,6 +29,8 @@ faq:
     a: "Las del Portal, en la segunda semana de septiembre."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Un día."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 El concejo de la **sidra**: manzanos por todas partes, una **ría** con reserva natural, una de las playas más grandes del litoral asturiano y un monasterio patrimonio de la humanidad en un valle escondido. **Villaviciosa** es una parada perfecta entre Gijón y Ribadesella.
 

@@ -24,6 +24,8 @@ faq:
     a: "Sí, es hábitat del oso pardo, pero es difícil verlos."
   - q: "¿Cuánto mide?"
     a: "Unas 5.970 hectáreas."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 El **mayor robledal de España**: casi 6.000 hectáreas de bosque protegido, con **oso pardo y urogallo** como especies emblemáticas. La **Reserva Natural Integral de Muniellos**, entre Cangas del Narcea e Ibias, es una de las joyas naturales de Asturias y solo se visita **con permiso**.
 

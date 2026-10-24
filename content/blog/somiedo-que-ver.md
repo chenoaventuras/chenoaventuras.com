@@ -24,6 +24,8 @@ faq:
     a: "El Valle del Lago es fácil; los lagos de Saliencia requieren más tiempo."
   - q: "¿Dónde está el centro de visitantes?"
     a: "En Pola de Somiedo."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una reserva de la biosfera en la Cordillera Cantábrica con **lagos glaciares, cabañas con cubierta vegetal (teitos), brañas, pueblos de vaqueiros** y uno de los mejores lugares de España para el **oso pardo**. **Somiedo** es de los parques más puros de Asturias.
 

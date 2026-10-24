@@ -29,6 +29,8 @@ faq:
     a: "Entre medio día y un día, según si comes allí."
   - q: "¿Cómo se llega?"
     a: "Por la A-8 hasta Colunga y de ahí a Lastres."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un pueblo colgado sobre el mar, con calles empinadas, casas que bajan hasta el puerto y un mirador con vistas a la costa y a la **Sierra del Sueve**. **Lastres** fue elegido **Pueblo Ejemplar de Asturias** en 2010 y es uno de **Los Pueblos Más Bonitos de España**.
 

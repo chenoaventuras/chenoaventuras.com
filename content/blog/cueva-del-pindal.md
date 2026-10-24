@@ -27,6 +27,8 @@ faq:
     a: "Solo se abre al público el sector oriental."
   - q: "¿Hay que reservar?"
     a: "Consúltalo en la web oficial o la oficina de turismo."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una cueva con **pinturas de hace miles de años** a pocos metros del acantilado. La **Cueva del Pindal**, en Pimiango (concejo de Ribadedeva), es Patrimonio de la Humanidad y una de las visitas culturales más originales del oriente asturiano.
 

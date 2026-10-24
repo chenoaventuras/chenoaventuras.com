@@ -33,6 +33,8 @@ faq:
     a: "Cada 25 de julio, en la Vega de Enol."
   - q: "¿Qué más ver cerca?"
     a: "La basílica de Covadonga, Cangas de Onís y la ruta del Cares."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Dos lagos de origen glaciar a **1.134 metros de altura**, vacas pastando sin vallas y las cumbres del macizo occidental de los **Picos de Europa** de fondo. Los **Lagos de Covadonga** (Enol y Ercina) son uno de los paisajes más fotografiados de Asturias y se pueden ver con un paseo fácil.
 

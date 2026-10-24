@@ -31,6 +31,8 @@ faq:
     a: "A unos 83 km."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Un día completo si incluyes la cueva."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 La villa del **Descenso Internacional del Sella**, una playa urbana enorme, un paseo con ilustraciones de Mingote y una de las cuevas de arte rupestre más importantes del mundo: **Tito Bustillo**. **Ribadesella** reúne mar, historia y naturaleza en un solo día.
 

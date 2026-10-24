@@ -29,6 +29,8 @@ faq:
     a: "Desde el pueblo hay caminos hacia el Picu Urriellu, pero son duros."
   - q: "¿Qué es Bulnes de Arriba?"
     a: "El Castillo, el barrio más antiguo."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un pueblo escondido entre montañas **al que no llega ninguna carretera**. Hasta 2001 solo se podía entrar caminando; hoy puedes subir en un **funicular** desde Poncebos o seguir el sendero. **Bulnes**, en el corazón de los Picos de Europa, es uno de los lugares más especiales de Asturias.
 

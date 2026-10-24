@@ -29,6 +29,8 @@ faq:
     a: "A unos 4 km."
   - q: "¿Qué es San Miguel de Lillo?"
     a: "Otra iglesia prerrománica, junto a Santa María del Naranco."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un palacio del siglo IX convertido en iglesia, en la ladera de un monte con vistas a Oviedo. **Santa María del Naranco**, junto a **San Miguel de Lillo**, es la joya del **prerrománico asturiano** y Patrimonio de la Humanidad.
 

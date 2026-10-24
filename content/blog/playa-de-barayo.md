@@ -27,6 +27,8 @@ faq:
     a: "Hasta el aparcamiento del pueblo; no al valle."
   - q: "¿Qué fauna hay?"
     a: "Gaviotas, ánades y otras aves; se han visto nutrias."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una playa de **arena fina oscura**, con **dunas, marismas y un estuario**, protegida como **reserva natural parcial**. **Barayo** está entre Navia y Valdés, en la costa occidental de Asturias, y es de las más salvajes de la región.
 

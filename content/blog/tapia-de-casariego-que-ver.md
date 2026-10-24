@@ -27,6 +27,8 @@ faq:
     a: "Sí, con dunas."
   - q: "¿A qué distancia está de Oviedo?"
     a: "A unos 129 km."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una villa costera del occidente de Asturias con **siete playas**, un puerto pesquero y un monumento natural en la arena. **Tapia de Casariego** es destino de surf y de verano tranquilo, a unos 129 km de Oviedo.
 

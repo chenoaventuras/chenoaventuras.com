@@ -29,6 +29,8 @@ faq:
     a: "Puede superar los diez metros."
   - q: "¿Son peligrosos?"
     a: "Hay que mantener distancia con el borde y con los orificios."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un agujero en la roca que **lanza chorros de agua de mar de más de diez metros** y se oye a kilómetros. Los **Bufones de Pría** están en Llames de Pría, en el concejo de Llanes, y son uno de los fenómenos naturales más espectaculares de la costa asturiana.
 

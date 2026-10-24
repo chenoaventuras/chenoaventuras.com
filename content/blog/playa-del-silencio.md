@@ -29,6 +29,8 @@ faq:
     a: "No. Lleva agua, comida y respeta el entorno."
   - q: "¿Qué otro nombre tiene?"
     a: "Playa de Gavieiru."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una playa de **500 metros de cantos rodados** entre acantilados de cuarcita, sin carretera hasta la arena y con un nombre que lo dice todo. La **Playa del Silencio** (también llamada **Playa de Gavieiru**) está en Castañeras, en el concejo de Cudillero.
 

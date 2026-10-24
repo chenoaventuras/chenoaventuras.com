@@ -31,6 +31,8 @@ faq:
     a: "A unos 27 km."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Un día."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una ciudad con **casco histórico medieval**, calles con soportales y un edificio futurista de **Oscar Niemeyer** al otro lado de la ría. **Avilés** está a solo 25 km de Gijón y 27 de Oviedo y se ve bien en un día.
 

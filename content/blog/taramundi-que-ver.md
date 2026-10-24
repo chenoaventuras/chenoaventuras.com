@@ -24,6 +24,8 @@ faq:
     a: "El fin de semana cercano al 19 de marzo."
   - q: "¿Cuánta gente vive allí?"
     a: "Unos 545 habitantes."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un pueblo del occidente asturiano famoso por sus **navajas y cuchillos artesanos**, por sus molinos y por ser **pionero del turismo rural en España**. **Taramundi** está al fondo de la sierra, a un paso de Galicia.
 

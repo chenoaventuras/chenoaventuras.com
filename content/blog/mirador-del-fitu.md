@@ -27,6 +27,8 @@ faq:
     a: "Los Picos de Europa, Ribadesella, Caravia, Colunga, Villaviciosa y, con claridad, Gijón."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Una hora si solo vas al mirador."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un balcón natural en la **Sierra del Sueve** con vistas al **mar Cantábrico** por un lado y a los **Picos de Europa** por el otro. El **Mirador del Fitu** (o Fito) es de los miradores más famosos de Asturias y se llega en coche.
 

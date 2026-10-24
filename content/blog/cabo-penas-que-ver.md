@@ -29,6 +29,8 @@ faq:
     a: "Luanco, Verdicio, Candás y Avilés."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un cabo azotado por el viento, con **acantilados de más de cien metros** y un faro en funcionamiento desde 1852, en el extremo norte de Asturias. **Cabo Peñas**, en el concejo de Gozón, es de los lugares más espectaculares de la costa.
 

@@ -27,6 +27,8 @@ faq:
     a: "Alfonso IX y Berenguela de Castilla, en 1200."
   - q: "¿Se puede visitar?"
     a: "Sí, sus dos iglesias; confirma horarios."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un valle tranquilo con **dos iglesias de épocas muy distintas** casi pegadas: un monasterio cisterciense del siglo XIII y una joya del **prerrománico asturiano** del siglo IX. **Valdediós** está a unos 8 km de Villaviciosa.
 

@@ -27,6 +27,8 @@ faq:
     a: "A unos 132 km."
   - q: "¿Qué playa ver cerca?"
     a: "Peñarronda, con dunas."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una villa sobre un promontorio, **frente a Ribadeo**, al otro lado de la ría del Eo. **Castropol** tiene un casco histórico declarado bien de interés cultural, una silueta que se ve desde la orilla gallega y un concejo con playas muy bonitas.
 

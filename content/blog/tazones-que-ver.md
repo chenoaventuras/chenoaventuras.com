@@ -27,6 +27,8 @@ faq:
     a: "A mediados de agosto, San Roque."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un puerto pesquero pequeño, con casas en escalera, una **casa cubierta de conchas** y una historia: aquí desembarcó el futuro emperador **Carlos V** en 1517. **Tazones** está a unos 11 km de Villaviciosa y forma parte de Los Pueblos Más Bonitos de España desde 2019.
 

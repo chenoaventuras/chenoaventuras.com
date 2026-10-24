@@ -29,6 +29,8 @@ faq:
     a: "La Virgen del Rosario (15 de agosto) y San Timoteo (22 de agosto)."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Medio día."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 La **Villa Blanca**: casas blancas con balcones, un puerto muy pintoresco, puentes sobre el **río Negro** y una ermita que domina todo desde lo alto. **Luarca**, en el occidente de Asturias, es de los pueblos más fotogénicos de la costa.
 

@@ -31,6 +31,8 @@ faq:
     a: "Un par de horas para la villa; es mejor base para Covadonga y los Picos."
   - q: "¿Cuándo es la Fiesta del Pastor?"
     a: "El 25 de julio en la Vega de Enol."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 La **primera capital del reino de Asturias**, con un puente en arco sobre el río Sella que todo el mundo llama «romano», una capilla del siglo VIII sobre un dolmen y la puerta de entrada a **Covadonga** y los Picos de Europa. **Cangas de Onís** se visita en un par de horas y es la mejor base para la zona.
 
