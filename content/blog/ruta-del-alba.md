@@ -24,6 +24,8 @@ faq:
     a: "La garganta por la que pasa el camino, junto al río Alba."
   - q: "¿Hay que reservar?"
     a: "Consulta restricciones y aforo en la web del Parque Natural de Redes."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una senda de **unos 7 kilómetros** junto al **río Alba**, con **cascadas, pozas y foces** entre paredes de roca. La **Ruta del Alba** es una de las caminatas más populares de Asturias y se hace en el **Parque Natural de Redes**.
 

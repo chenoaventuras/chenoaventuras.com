@@ -27,6 +27,8 @@ faq:
     a: "Sí, es uno de los puntos de partida de la ruta a la Vega de Urriellu."
   - q: "¿Se hace queso allí?"
     a: "Sí, hay queserías con DOP Cabrales."
+guia: /assets/guias/guia-asturias-chenoaventuras.pdf
+guiaTitulo: 'Guía Asturias en PDF'
 ---
 Un pueblo de **casas de piedra**, calles empinadas y vacas por todas partes, a más de **1.000 metros** entre las cumbres de los Picos de Europa. **Sotres**, en el concejo de Cabrales, es uno de los pueblos más altos de Asturias y recibió el **Premio al Pueblo Ejemplar de Asturias en 2024**.
 
