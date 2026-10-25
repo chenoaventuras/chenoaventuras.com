@@ -12,6 +12,7 @@ tags:
   - Pueblos
   - Asturias
 wide: true
+sinGuia: true
 coche: true
 faqTitulo: "Dudas sobre los pueblos de Asturias"
 faq:

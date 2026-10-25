@@ -12,6 +12,7 @@ tags:
   - Spots
   - Asturias
 wide: true
+sinGuia: true
 coche: true
 faqTitulo: "Dudas sobre las playas de Asturias"
 faq:

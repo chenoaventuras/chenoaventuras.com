@@ -12,6 +12,7 @@ tags:
   - Actividades
   - Asturias
 wide: true
+sinGuia: true
 actividades:
   - t: "Tour de quesos y sidra por Gijón"
     u: "https://www.civitatis.com/es/gijon/tour-gastronomico-gijon/"

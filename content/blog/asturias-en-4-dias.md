@@ -12,6 +12,7 @@ tags:
   - Spots
   - Asturias
 wide: true
+sinGuia: true
 coche: true
 faqTitulo: "Dudas sobre Asturias en 4 días"
 faq:
