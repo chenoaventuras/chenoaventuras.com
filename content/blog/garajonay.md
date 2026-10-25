@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Garajonay"
 faq:
+  - q: "¿Por qué Garajonay es Patrimonio de la Humanidad?"
+    a: "Por conservar la laurisilva, un bosque húmedo del Terciario que ha desaparecido casi por completo del resto de Europa."
   - q: "¿Cuánto cuesta entrar al Parque Nacional de Garajonay?"
     a: "Nada: el acceso al parque y a sus senderos es gratuito. Tampoco se paga en el centro de visitantes Juego de Bolas."
   - q: "¿Cuál es la ruta más fácil de Garajonay?"
@@ -52,6 +54,11 @@ Te cuento qué es la laurisilva, las mejores rutas (de la más fácil a la más 
 <p>El secreto está en la <strong>niebla</strong>. Los vientos alisios traen nubes cargadas de humedad que chocan con las cumbres de La Gomera y se quedan enganchadas entre los árboles. Las hojas atrapan las gotas y estas caen al suelo: es la llamada <strong>«lluvia horizontal»</strong>, que aporta mucha más agua que la lluvia normal. Por eso aquí todo está verde y empapado mientras la costa es casi un desierto.</p>
 <p>Garajonay fue declarado <strong>Parque Nacional en 1981</strong> y <strong>Patrimonio de la Humanidad en 1986</strong>. En 2012 un gran incendio quemó parte del parque; la naturaleza se está recuperando, y en algunas zonas aún se ven las cicatrices.</p>
 <div class="guide__legend"><h3>💔 La leyenda de Gara y Jonay</h3><p>Gara era una princesa gomera y Jonay, el hijo de un mencey de Tenerife que cruzó el mar para unas fiestas. Se enamoraron, pero sus familias se opusieron y un mal presagio lo hizo imposible. Huyeron al monte más alto de la isla y, rodeados por quienes los perseguían, prefirieron morir juntos antes que separarse. La montaña tomó sus nombres: <strong>Gara-Jonay</strong>. Es la versión canaria de Romeo y Julieta.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>El bosque que sobrevivió a la edad del hielo</h2></div>
+<p>Hace millones de años, en el Terciario, un bosque húmedo de laureles y brezos cubría buena parte del sur de Europa y del norte de África. Los cambios de clima lo hicieron desaparecer casi por completo, pero en las islas atlánticas, protegidas por un clima suave y húmedo, la <strong>laurisilva</strong> aguantó. Ese es el bosque de Garajonay: un <strong>fósil vivo</strong>, formado por árboles que no existen casi en ningún otro sitio.</p>
+<p>El parque se declaró en <strong>1981</strong> y la UNESCO lo incluyó en la lista de Patrimonio Mundial en <strong>1986</strong>. Ocupa unas <strong>3.900 hectáreas</strong> y reúne cerca de la mitad de la laurisilva que queda en Canarias. Su secreto es el mar de nubes que lo envuelve: los alisios chocan contra la isla y el bosque «captura» la niebla, que gotea desde las hojas y mantiene la humedad todo el año.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Los imprescindibles de Garajonay</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

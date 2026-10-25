@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Cañón del Río Lobos"
 faq:
+  - q: "¿Cuándo es parque natural el Cañón del Río Lobos?"
+    a: "Desde 1985, por decreto de la Junta de Castilla y León."
+  - q: "¿Fue la ermita de San Bartolomé templaria?"
+    a: "Es la tradición, pero no hay documentos que lo confirmen."
   - q: "¿Por qué dicen que la ermita de San Bartolomé es el centro del mundo?"
     a: "Según la leyenda, está a la misma distancia del cabo de Creus y del cabo de Finisterre, los dos extremos de la península, y los templarios la consideraban un centro del mundo."
   - q: "¿Se puede entrar en la ermita de San Bartolomé?"
@@ -54,6 +58,11 @@ El **Cañón del Río Lobos** es uno de los rincones más mágicos de Soria 👇
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>El centro del mundo</h2></div>
 <p>La <strong>ermita de San Bartolomé</strong> es del siglo XIII y perteneció a un antiguo monasterio que se relaciona con los <strong>templarios</strong>. Sus rosetones tienen forma de estrella y han alimentado durante décadas todo tipo de teorías esotéricas.</p><div class="guide__legend"><h3>🧭 A medio camino</h3><p>La leyenda más repetida dice que la ermita está a la misma distancia del <strong>cabo de Creus</strong> y del <strong>cabo de Finisterre</strong>, los dos extremos de la península, y que por eso los templarios la consideraban un <strong>centro del mundo</strong>. Si es verdad o no, da igual: al llegar se respira algo especial.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación y la historia</span><h2>Caliza, buitres y una ermita con misterio</h2></div>
+<p>El <strong>Parque Natural del Cañón del Río Lobos</strong> se creó por el decreto 115/1985 de la Junta de Castilla y León. El cañón es un trabajo de siglos del río y del agua de lluvia sobre la <strong>caliza</strong>: la disuelven poco a poco y excavan cuevas, dolinas y paredes verticales que son el hogar de una gran colonia de <strong>buitres leonados</strong>. Uno de los mejores puntos para verlos es el mirador de la Galiana.</p>
+<p>La <strong>ermita de San Bartolomé</strong> se levantó a comienzos del siglo XIII (algunas guías la sitúan en el XII), con algunos rasgos de transición al gótico. Su relación con los templarios es una tradición muy repetida pero no hay ningún documento que la pruebe. Junto a la ermita se abre la <strong>Cueva Grande</strong>, conocida también como Cueva de San Bartolomé.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Cañón del Río Lobos</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

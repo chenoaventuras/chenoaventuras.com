@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Roque Nublo"
 faq:
+  - q: "¿Cómo se formó el Roque Nublo?"
+    a: "Es lo que queda de un enorme volcán de hace unos 4-5 millones de años: la erosión se llevó la roca blanda y dejó el bloque más duro."
   - q: "¿Hace falta reserva para subir al Roque Nublo?"
     a: "Sí, para acceder por la Degollada de La Goleta en horario diurno. El cupo es de 60 personas por hora y se reserva en la web oficial. Fuera del horario regulado no es necesaria."
   - q: "¿Dónde se aparca para subir al Roque Nublo?"
@@ -57,6 +59,11 @@ Desde 2025 subir tiene sus normas: hay **reserva obligatoria** en horario de dí
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una roca que fue sagrada</h2></div>
 <p>El Roque Nublo es lo que queda de una enorme avalancha volcánica de hace millones de años: la erosión se llevó el material blando y dejó en pie este bloque de roca. Junto a él está <strong>El Fraile</strong>, otro roque más pequeño que, con imaginación, parece un monje con capucha.</p><p>Para los antiguos canarios era un <strong>lugar sagrado</strong>, y hoy está protegido como Monumento Natural dentro del paisaje de Risco Caído y las Montañas Sagradas, Patrimonio de la Humanidad.</p><div class="guide__legend"><h3>☁️ Por qué se llama «Nublo»</h3><p>Porque a menudo aparece envuelto en nubes. Los días de alisio, el mar de nubes queda por debajo y el Roque parece flotar sobre él.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>El volcán gigante que ya no existe</h2></div>
+<p>Hace entre <strong>cuatro y cinco millones de años</strong>, en el Plioceno, Gran Canaria tuvo un volcán gigantesco, el <strong>estratovolcán Roque Nublo</strong>, que según el IGN llegó a medir unos <strong>3.500 metros</strong>. Aquel volcán explotó, se hundió por los lados y dejó grandes depósitos de brechas y avalanchas volcánicas. Pasó el tiempo, la erosión se llevó lo más blando y quedó en pie este bloque duro de roca, de ahí su aspecto de aguja.</p>
+<p>La tradición dice que los <strong>antiguos canarios</strong> lo veneraban y que aquí hacían rituales y ofrendas a sus dioses, aunque son creencias más que hechos documentados. Es hoy <strong>Monumento Natural</strong> y forma parte del paisaje cultural de Risco Caído y las Montañas Sagradas, Patrimonio de la Humanidad.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Del sendero a la cumbre de la isla.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -18,6 +18,8 @@ guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
 faqTitulo: "Dudas sobre la ruta a la Cola de Caballo"
 faq:
+  - q: "¿Cuándo se creó el Parque Nacional de Ordesa?"
+    a: "El 16 de agosto de 1918, y en 1982 se amplió como Ordesa y Monte Perdido."
   - q: "¿Cuántos kilómetros tiene la ruta a la Cola de Caballo?"
     a: "Unos 17,5 km de ida y vuelta desde la Pradera de Ordesa, siguiendo el GR-11 por el valle del río Arazas."
   - q: "¿Cuánto se tarda en hacer la ruta a la Cola de Caballo?"
@@ -81,6 +83,11 @@ Yo la hice y te la enseño en vídeo 👇 Aquí tienes todo lo práctico: distan
 <!--cuando-->
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> de junio a octubre; en otoño el hayedo se llena de color.</li><li><strong>Qué llevar:</strong> botas, agua, comida, chubasquero y ropa de abrigo.</li><li><strong>Evita:</strong> salir tarde en verano: la ruta es larga y las tormentas suelen caer por la tarde.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>El segundo parque nacional de España y el que se salvó de una presa</h2></div>
+<p>El <strong>16 de agosto de 1918</strong> un real decreto creó el <strong>Parque Nacional del Valle de Ordesa o del río Ara</strong>, unos días después del de Covadonga. Lo impulsó <strong>Pedro Pidal</strong>, marqués de Villaviciosa de Asturias, el mismo que había subido por primera vez al Naranjo de Bulnes en 1904. Al principio solo protegía la cabecera del valle, entre el puente de los Navarros y las gradas de Soaso (las cifras de superficie varían según la fuente).</p>
+<p>A finales de los años 70 un proyecto de embalse para generar electricidad amenazó el <strong>Cañón de Añisclo</strong>. La reacción de instituciones y vecinos paró las obras y, en <strong>1982</strong>, el parque se amplió y pasó a llamarse <strong>Ordesa y Monte Perdido</strong>, con unas <strong>15.600 hectáreas</strong> (156 km²). En <strong>1997</strong> la UNESCO lo incluyó en el Patrimonio Mundial, junto a la parte francesa, como «Pirineos–Monte Perdido».</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Pradera de Ordesa</h2></div>
 <div class="guide__howto"><p>La puerta de entrada es <strong>Torla</strong>. En <strong>temporada alta</strong> (verano y fechas punta) no se puede subir en coche a la Pradera de Ordesa: se deja el coche en el <strong>parking de Torla</strong> y se sube en <strong>autobús lanzadera</strong> (6 € ida y vuelta, 4 € solo ida, gratis para menores de 10 años; los billetes se compran en el parking de Torla, no hay venta online). El valle tiene un aforo máximo de 1.800 personas a la vez, así que en agosto conviene madrugar.</p><p>Fuera de esas fechas puedes subir en coche hasta el aparcamiento de la Pradera, mientras haya plazas. Consulta siempre las fechas del autobús en la web del Parque Nacional, porque cambian cada año.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Aparcamiento+de+autobuses%2C+Torla-Ordesa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Parking de Torla en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Pradera+de+Ordesa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Pradera de Ordesa</a></div></div>

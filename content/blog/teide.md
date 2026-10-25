@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre subir al Teide"
 faq:
+  - q: "¿Cuándo fue la última erupción del Teide?"
+    a: "La del complejo Teide–Pico Viejo fue en 1798, en las Narices del Teide; la última de la isla fue la del Chinyero, en 1909."
+  - q: "¿Desde cuándo es parque nacional el Teide?"
+    a: "Desde el 22 de enero de 1954."
   - q: "¿Hace falta permiso para subir al Teide?"
     a: "Para llegar al pico (el último tramo desde el teleférico, por el sendero Telesforo Bravo) sí: hay que reservar con antelación. Para subir en teleférico hasta la estación superior no hace falta permiso."
   - q: "¿Cuánto cuesta subir al Teide en 2026?"
@@ -56,6 +60,11 @@ Pero llegar al cráter no es tan simple como coger el teleférico: hace falta un
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un volcán que sigue vivo</h2></div>
 <p>El Teide es un <strong>estratovolcán activo</strong>, aunque tranquilo: la última erupción de Tenerife fue la del volcán Chinyero, en 1909. Arriba, por las grietas del cráter, salen <strong>fumarolas</strong> de vapor y azufre que se huelen nada más llegar.</p><p>Medido desde el fondo del océano, el Teide supera los <strong>7.000 metros</strong>, lo que lo convierte en uno de los volcanes más altos del planeta. El parque nacional es <strong>Patrimonio de la Humanidad</strong> desde 2007.</p><div class="guide__legend"><h3>🌄 La sombra del Teide</h3><p>Al amanecer y al atardecer, el Teide proyecta sobre el mar de nubes una <strong>sombra triangular</strong> gigantesca. Si haces noche en el refugio de Altavista y subes de madrugada, la verás desde la cumbre.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un volcán dentro de otro volcán</h2></div>
+<p>Antes del Teide hubo un volcán mucho más grande. Hace entre <strong>150.000 y 220.000 años</strong> (las dataciones varían) la parte alta de aquel edificio volcánico se vino abajo y dejó un anfiteatro enorme: la <strong>Caldera de las Cañadas</strong>, de varios kilómetros de ancho. Los científicos todavía debaten si fue un hundimiento vertical o un deslizamiento gravitacional.</p>
+<p>Dentro de esa caldera, en los últimos milenios, crecieron el <strong>Teide</strong> y su vecino el <strong>Pico Viejo</strong>, que son hoy los dos volcanes más altos del paisaje. El último episodio del complejo fue la erupción de <strong>1798</strong>, en las <strong>Narices del Teide</strong> (en la ladera del Pico Viejo); la última de toda Tenerife fue la del Chinyero, en 1909. El <strong>Parque Nacional del Teide</strong> se declaró el <strong>22 de enero de 1954</strong> y es Patrimonio de la Humanidad desde <strong>2007</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Parque Nacional del Teide</h2><p>Aunque no subas al pico, el parque es un espectáculo.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -12,6 +12,10 @@ tags:
   - Canarias
 wide: true
 faq:
+  - q: "¿Cuánto mide la Reserva Natural de Maspalomas?"
+    a: "Unas 400 hectáreas (403,9, según el Gobierno de Canarias)."
+  - q: "¿De dónde viene la arena de Maspalomas?"
+    a: "Sobre todo de restos de conchas marinas y de roca volcánica erosionada, arrastrados por el barranco de Fataga."
   - q: "¿Cuánto cuesta visitar las Dunas de Maspalomas?"
     a: "Nada, son de acceso libre. Solo hay que respetar los senderos señalizados."
   - q: "¿Se puede caminar por las Dunas de Maspalomas?"
@@ -60,6 +64,11 @@ Se recorren andando, gratis, y al atardecer son espectaculares. Te cuento cómo 
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Unas dunas que caminan</h2></div>
 <p>El viento empuja las dunas de Maspalomas varios metros cada año, así que el paisaje <strong>nunca es igual</strong>. Por eso hay normas: está prohibido salir de los senderos marcados, hacer corralitos de piedras o llevarse arena, para no alterar su equilibrio.</p><div class="guide__legend"><h3>🦆 La Charca</h3><p>Al final de las dunas, junto al faro, hay una laguna de agua salobre donde paran aves migratorias como garzas y limícolas. Un oasis en mitad de la arena.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>De dónde sale tanta arena</h2></div>
+<p>Las dunas ocupan unas <strong>400 hectáreas</strong> y sus granos son, sobre todo, <strong>restos de conchas y organismos marinos</strong>, mezclados con arena procedente de la erosión de la roca volcánica de la isla, que el barranco de <strong>Fataga</strong> arrastró hasta la costa. Otras fuentes añaden algo de polvo del Sáhara, aunque no es la explicación principal. Los <strong>vientos alisios</strong> empujan la arena hacia el interior a razón de unos <strong>2 a 5 metros al año</strong>, y por eso las dunas nunca están donde las dejaste en la foto.</p>
+<p>La zona se protegió por primera vez en <strong>1987</strong> y desde <strong>1994</strong> es <strong>Reserva Natural Especial</strong>. En la parte baja, junto al mar, la <strong>Charca de Maspalomas</strong> es un humedal salobre donde paran aves migratorias.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Maspalomas</h2><p>Arena, laguna y faro.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/llanes/excursion-covadonga-cangas-onis/"
 faqTitulo: "Dudas sobre los Lagos de Covadonga"
 faq:
+  - q: "¿Cuál fue el primer parque nacional de España?"
+    a: "El de la Montaña de Covadonga, declarado el 22 de julio de 1918 (hoy Picos de Europa)."
+  - q: "¿En qué año fue la batalla de Covadonga?"
+    a: "Tradicionalmente, en 722; la fecha exacta no es segura."
   - q: "¿Cómo se llega a los Lagos de Covadonga?"
     a: "Por una carretera de unos 14,5 km desde el Real Sitio de Covadonga. En temporada alta el tráfico particular está restringido: consulta fechas y transporte alternativo."
   - q: "¿A qué altura están los lagos?"
@@ -53,6 +57,11 @@ Te cuento cómo llegar (hay restricciones de tráfico en temporada alta), qué v
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un paisaje con pasado minero</h2></div>
 <p>Parece un lugar virgen, pero en las proximidades del lago Ercina, en <strong>Buferrera</strong>, se explotaron minas de <strong>hierro, manganeso y mercurio hasta 1979</strong>. Hoy esas ruinas forman parte del paseo y hay un centro de visitantes donde se explica. Además, las <strong>vacas, caballos y ovejas</strong> que ves por aquí son del pastoreo tradicional: cada 25 de julio se celebra en la Vega de Enol la <strong>Fiesta del Pastor</strong>, donde los pastores eligen a los celadores de los pastos.</p><div class="guide__legend"><h3>🚴 Para ciclistas</h3><p>La subida desde Covadonga mide unos 14 km, con casi 1.000 m de desnivel y una pendiente media cercana al 7 %. El tramo más duro está entre La Huesera y el Mirador de la Reina, con rampas del 14-15 %. Es final de etapa de la Vuelta a España desde 1983.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Del reino de Asturias al primer parque nacional</h2></div>
+<p>Los <strong>lagos Enol y La Ercina</strong> están a más de 1.000 metros de altitud, en un paisaje que se describe como de origen glaciar y kárstico. Pero el lugar es más que naturaleza: es el escenario tradicional de la <strong>batalla de Covadonga</strong>, que la historia sitúa en <strong>722</strong> (la fecha exacta es incierta) y que se considera el hecho fundacional del <strong>Reino de Asturias</strong>. Buena parte del relato es leyenda, con Don Pelayo y una Virgen que lo protege en la Santa Cueva.</p>
+<p>Por eso, el <strong>22 de julio de 1918</strong>, esta montaña fue declarada <strong>Parque Nacional de la Montaña de Covadonga</strong>, el primero de España, a impulso de Pedro Pidal. Más tarde se amplió y pasó a ser el actual Parque Nacional de los Picos de Europa.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en los Lagos de Covadonga</h2><p>Paradas y miradores, de menos a más caminata.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Delta del Ebro"
 faq:
+  - q: "¿Cuándo es parque natural el Delta del Ebro?"
+    a: "Desde 1983; la protección se amplió en 1986 y la UNESCO lo declaró Reserva de la Biosfera en 2013."
   - q: "¿Qué ver en el Delta del Ebro?"
     a: "Los arrozales, los flamencos, el Garxal, la playa de Riumar, la Punta del Fangar, los miradores y Deltebre."
   - q: "¿Cuándo es mejor ir al Delta del Ebro?"
@@ -43,6 +45,11 @@ Te cuento qué ver, cuándo ir y cómo moverte por el delta 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>El arroz que se come en todo el mundo</h2></div>
 <p>El delta tiene la <strong>tercera mayor concentración de arrozales de España</strong>, con unas 22.000 hectáreas. El cultivo del arroz es el eje de la vida del territorio desde el siglo XIX y cuenta con <strong>D.O. Arroz del Delta del Ebro</strong>. Se cocina en la paella, el <strong>arròs negre</strong> y platos con ostra y mejillón del delta.</p><p>La <strong>Punta de la Banya</strong> es una pequeña península al sur, unida al delta por el istmo de El Trabucador, con acceso restringido en gran parte del año. Consulta las normas antes de ir.</p><div class="guide__legend"><h3>🌅 Mi consejo</h3><p>Visita la <strong>desembocadura</strong> del Ebro desde el mirador Zigurat de Deltebre al atardecer: el río, el mar y las aves forman una postal muy bonita.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un territorio que el río ha ido construyendo</h2></div>
+<p>El Delta es una enorme llanura de <strong>arenas y arcillas</strong> que el Ebro ha ido depositando en su desembocadura durante siglos. Según las fuentes, hace unos <strong>4.000 años</strong> esta zona estaba unos cinco metros por debajo del nivel actual del mar, y desde entonces el río ha ido rellenando el golfo, de modo que el delta no deja de cambiar de forma.</p>
+<p>Hoy es <strong>Parque Natural</strong> (1983, ampliado en 1986) y, con el conjunto de las Terres de l’Ebre, <strong>Reserva de la Biosfera</strong> desde <strong>2013</strong>. En <strong>1864</strong> se alumbró la zona con tres faros de hierro, en la Punta del Fangar, la Isla de Buda y la Punta de la Banya, una muestra de que ya entonces era un punto clave para la navegación. Más de 20.000 hectáreas de arrozales completan un paisaje en el que se mezclan el agua, el arroz y las aves.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Delta del Ebro: los imprescindibles</h2><p>Un día o un fin de semana de naturaleza.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
