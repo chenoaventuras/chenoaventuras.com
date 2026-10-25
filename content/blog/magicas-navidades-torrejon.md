@@ -13,11 +13,23 @@ tags:
   - Actividades
   - Madrid
 wide: true
+cocheMensaje: "<strong>Lo más cómodo para ir es el tren</strong> (Cercanías C-2 y C-7, con la estación a unos 100 metros del recinto). Si prefieres ir en coche y no tienes uno disponible, compara precios de alquiler en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis."
+coche: true
 actividades:
   - t: "Entradas a Mágicas Navidades de Torrejón de Ardoz"
     u: "https://www.civitatis.com/es/torrejon-de-ardoz/entrada-magicas-navidades-torrejon-ardoz/"
 faqTitulo: "Dudas sobre las Mágicas Navidades"
 faq:
+  - q: "¿Dónde aparcar en las Mágicas Navidades de Torrejón?"
+    a: "Hay tres parkings gratuitos junto al recinto: P1 (C/ Telémaco, 11), P2 (C/ Meridiano, 11) y P3 (C/ Margarita Salas). Hay dos aparcamientos accesibles, junto a la pasarela de Renfe y junto al acceso a las atracciones. Aun así, el parque recomienda el tren porque la estación está a unos 100 metros."
+  - q: "¿Hay baños en el parque?"
+    a: "Sí: hay varias zonas con aseos y todos tienen cambiador de bebé."
+  - q: "¿Qué niños no pagan entrada?"
+    a: "Los menores de 2 años entran gratis. La web no detalla una tarifa infantil por edad: a partir de los 2 años se paga entrada (desde 4,50 € según el día), así que confirma al comprar."
+  - q: "¿Se puede entrar con perros?"
+    a: "No se admiten mascotas, salvo perros guía. Tampoco bicicletas ni patinetes, y no hay consigna."
+  - q: "¿Estarán Los Guachis en 2026?"
+    a: "Todavía no hay programación de 2026 publicada. En 2025, la Plaza de los Guachis abrió el 15 de noviembre en la Plaza Mayor de Torrejón, con un espectáculo y un videomapping, y era gratis para empadronados. Consulta el programa del Ayuntamiento cuando se publique."
   - q: "¿Cuándo abren las Mágicas Navidades de Torrejón 2026?"
     a: "Abren el 14 de noviembre de 2026 y llegan hasta el 10 de enero de 2027, con algunos días cerrados."
   - q: "¿Dónde se celebran?"
@@ -30,16 +42,14 @@ faq:
     a: "El viaje de Noel, la noria gigante, la pista de hielo, el Ice Festival y las atracciones."
   - q: "¿Cómo llegar en transporte público?"
     a: "Con Cercanías C-2 o C-7 hasta Torrejón de Ardoz: la estación queda a unos 100 metros del recinto. También hay autobuses urbanos e interurbanos."
-  - q: "¿Hay parking gratuito?"
-    a: "Sí, hay tres parkings gratuitos (P1, P2 y P3) junto al recinto."
   - q: "¿Puedo llevar mi propia comida?"
     a: "Sí, se puede entrar con alimentos."
-  - q: "¿Se admiten mascotas?"
-    a: "No, salvo perros guía."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Entre 4 y 5 horas en una primera visita."
 ---
-**Papá Noel vuela cada noche sobre el parque**, hay una **pista de hielo sobre un lago real**, una **noria de 42 metros**, un belén a tamaño real, linternas gigantes de Asia y esculturas de hielo de varios metros. Las **Mágicas Navidades de Torrejón de Ardoz** son uno de los planes de Navidad más grandes de la Comunidad de Madrid y este año **abren el 14 de noviembre de 2026**.
+Las **Mágicas Navidades de Torrejón de Ardoz** son uno de los planes de Navidad más grandes de la Comunidad de Madrid y este año **abren el 14 de noviembre de 2026**.
+
+**Papá Noel vuela cada noche sobre el parque**, hay una **pista de hielo sobre un lago real**, una **noria de 42 metros**, un belén a tamaño real, linternas gigantes de Asia y esculturas de hielo de varios metros.
 
 Aquí tienes todo: fechas, horarios, precios, qué incluye la entrada, qué se paga aparte, cómo llegar y trucos para no perderte nada 👇
 

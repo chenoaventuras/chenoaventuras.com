@@ -224,6 +224,7 @@ function readPosts() {
       wide: data.wide === true,
       // coche: true/false fuerza o quita el bloque de alquiler de coche (por defecto, solo en islas)
       coche: typeof data.coche === "boolean" ? data.coche : null,
+      cocheMensaje: data.cocheMensaje ? String(data.cocheMensaje) : "",
       // faq: [{ q, a }] → bloque «Preguntas frecuentes» al final y FAQPage en el JSON-LD
       faq: Array.isArray(data.faq)
         ? data.faq.filter((f) => f && f.q && f.a).map((f) => ({ q: String(f.q).trim(), a: String(f.a).trim() }))
@@ -455,7 +456,7 @@ function carBox(p) {
   const hasHow = /C[oó]mo llegar|<strong>En coche/.test(p.html || "");
   if (!(p.coche ?? (isIsland || hasHow))) return "";
   const urban = !isIsland && /evita el coche|dif[ií]cil aparcar|bajas emisiones|calles peatonales/i.test(p.html || "");
-  const intro = urban
+  const intro = p.cocheMensaje ? p.cocheMensaje : urban
     ? "<strong>Para las excursiones fuera de la ciudad, un coche de alquiler te da libertad.</strong> Yo comparo precios en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis."
     : `<strong>${isIsland ? "Para moverte por la isla" : "Para llegar y moverte por la zona"}, lo más cómodo es alquilar coche.</strong> Yo comparo precios en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis.`;
   return `
