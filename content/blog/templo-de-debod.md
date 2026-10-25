@@ -24,8 +24,12 @@ faq:
   - q: "¿Dónde está el Templo de Debod?"
     a: "En el Parque del Oeste de Madrid, junto a Plaza de España, en la calle Ferraz."
 actividades:
-  - t: "Madrid imprescindible con atardecer en el Templo de Debod"
-    u: "https://www.getyourguide.es/madrid-l46/madrid-must-see-with-atardeder-at-the-debod-temple-t810561/"
+  - t: "Free tour por Madrid"
+    u: "https://www.civitatis.com/es/madrid/free-tour-madrid/"
+  - t: "Visita guiada por el Palacio Real de Madrid"
+    u: "https://www.civitatis.com/es/madrid/visita-guiada-palacio-real/"
+  - t: "Tour de los misterios y leyendas de Madrid"
+    u: "https://www.civitatis.com/es/madrid/tour-misterios-leyendas-madrid/"
 guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
 guiaTitulo: 'Guía Madrid curioso en PDF'
 comer:
