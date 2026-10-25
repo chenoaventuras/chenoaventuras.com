@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Casa de Dalí"
 faq:
+  - q: "¿Dónde murió Salvador Dalí?"
+    a: "En Figueres, en 1989; está enterrado en la cripta del Teatro-Museo Dalí."
+  - q: "¿Qué es el triángulo daliniano?"
+    a: "El recorrido por Figueres (Teatro-Museo), Púbol (castillo de Gala) y Portlligat (la casa-taller)."
   - q: "¿Hay que reservar para la Casa de Dalí en Portlligat?"
     a: "Sí, las visitas son en grupos reducidos con hora. Reserva online."
   - q: "¿Por qué hay huevos en el tejado?"
@@ -72,6 +76,11 @@ Te cuento su historia, cómo conseguir entrada (se agotan) y qué ver 👇
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Del refugio de pescadores a la casa del artista</h2></div>
+<p>Dalí conocía bien Cadaqués desde niño: su familia veraneaba allí. En <strong>Portlligat</strong> empezó con una pequeña <strong>barraca de pescadores</strong> sin luz ni agua y, durante cuarenta años, fue añadiendo habitaciones, patios, una piscina y una terraza hasta formar el laberinto que se visita hoy. Es el único lugar donde vivió y trabajó de forma estable durante la mayor parte de su vida.</p>
+<p>Tras la muerte de <strong>Gala</strong> en 1982, Dalí se trasladó al castillo de <strong>Púbol</strong>, donde ella está enterrada, y después a Figueres, donde murió en <strong>1989</strong> y donde descansa en la cripta del <strong>Teatro-Museo Dalí</strong>. Portlligat, Púbol y Figueres forman el llamado <strong>«triángulo daliniano»</strong> que se puede recorrer en una escapada por el Alt Empordà.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Portlligat</h2></div>
 <div class="guide__howto"><p>Desde <strong>Cadaqués</strong>, unos 15 minutos a pie por un camino junto al mar. En coche hay un aparcamiento pequeño (de pago) cerca de la casa.</p><p>Cadaqués está a unos 40 minutos de Figueres.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Casa-Museu%20Salvador%20Dal%C3%AD%2C%20Portlligat%2C%20Cadaqu%C3%A9s" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

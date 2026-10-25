@@ -17,6 +17,10 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/excursion-llanes-ribadesella-santillana-mar/"
 faqTitulo: "Dudas sobre Valdediós"
 faq:
+  - q: "¿Cuándo se construyó El Conventín de Valdediós?"
+    a: "A finales del siglo IX, durante el reinado de Alfonso III; se considera consagrado en el año 893."
+  - q: "¿Qué estilo tiene el monasterio de Valdediós?"
+    a: "Santa María es cisterciense, del siglo XIII; el Conventín es prerrománico asturiano."
   - q: "¿Qué es Valdediós?"
     a: "Un valle de Villaviciosa con un monasterio cisterciense y una iglesia prerrománica."
   - q: "¿Qué es el Conventín?"
@@ -57,6 +61,11 @@ Te cuento qué ver, su historia y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Villaviciosa:</strong> <a href='/blog/villaviciosa-que-ver.html'>capital de la sidra</a>.</li><li><strong>Tazones:</strong> <a href='/blog/tazones-que-ver.html'>puerto pesquero</a>.</li><li><strong>Camino de Santiago:</strong> hay una pequeña hospedería para peregrinos.</li><li><strong>Sidra:</strong> prueba la sidra natural en la zona.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>El valle del silencio</h2></div>
+<p>El nombre de <strong>Valdediós</strong> significa «valle de Dios» y se explica por el silencio y el verdor del lugar. Hacia finales del <strong>siglo IX</strong>, el rey <strong>Alfonso III el Magno</strong> mandó construir el pequeño templo de <strong>San Salvador</strong>, conocido como <strong>«El Conventín»</strong>, y se cree que se consagró en el año <strong>893</strong>. Es una de las joyas del <strong>prerrománico asturiano</strong>, con arcos de herradura y celosías de piedra.</p>
+<p>El monasterio de <strong>Santa María</strong>, ya cisterciense, se levantó a comienzos del siglo XIII, en una época en la que los monjes blancos fundaron muchos monasterios aislados en Asturias y Galicia. Tras la desamortización de 1835 dejó de ser monasterio y se ha usado de formas muy distintas. Es un lugar tranquilo, con un entorno de prados, manzanos y sidrerías, muy cerca de <a href="/blog/villaviciosa-que-ver.html">Villaviciosa</a>.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Villaviciosa, unos 8 km por carretera local.</p><p><strong>Sin coche:</strong> el transporte público es limitado; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Valdediós" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

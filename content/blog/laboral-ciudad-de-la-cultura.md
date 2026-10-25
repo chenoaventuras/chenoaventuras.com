@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/gijon/free-tour-gijon/"
 faqTitulo: "Dudas sobre la Laboral"
 faq:
+  - q: "¿Cuándo se construyó la Universidad Laboral de Gijón?"
+    a: "Entre 1946 y 1956, según proyecto de Luis Moya Blanco."
+  - q: "¿Qué es hoy la Laboral?"
+    a: "Un centro cultural con exposiciones, teatro, conciertos y visitas guiadas, abierto como Laboral Ciudad de la Cultura desde 2007."
   - q: "¿Qué es la Laboral de Gijón?"
     a: "Un complejo cultural en la antigua Universidad Laboral."
   - q: "¿Cuánto mide la torre?"
@@ -62,6 +66,12 @@ Te cuento qué ver, cómo visitarla y cuánto cuesta aproximadamente 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Gijón:</strong> <a href='/blog/gijon-que-ver.html'>qué ver en Gijón</a>.</li><li><strong>Jardín Botánico:</strong> en los alrededores.</li><li><strong>Avilés:</strong> <a href='/blog/aviles-que-ver.html'>Centro Niemeyer</a> a poca distancia.</li><li><strong>Cabo Peñas:</strong> <a href='/blog/cabo-penas-que-ver.html'>faro y acantilados</a>.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>El mayor edificio de España en su época</h2></div>
+<p>La <strong>Universidad Laboral de Gijón</strong> se construyó entre <strong>1946 y 1956</strong>, según un proyecto del arquitecto <strong>Luis Moya Blanco</strong>, para educar a los hijos de mineros y trabajadores del país, con un gran patio, una iglesia de planta elíptica, teatro, talleres y cientos de habitaciones. Es uno de los mayores edificios de España, con una torre de unos <strong>117 metros</strong> que se ve desde medio Gijón.</p>
+<p>Dejó de ser universidad a finales del siglo XX y, tras una importante rehabilitación, en <strong>2007</strong> reabrió como <strong>Laboral Ciudad de la Cultura</strong>, un centro con exposiciones, teatro, conciertos y visitas guiadas. Hoy es uno de los lugares más visitados de la ciudad.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>La iglesia:</strong> con planta ovalada y una gran cúpula, está pensada para que se oiga bien sin micrófonos.</li><li><strong>El teatro:</strong> con capacidad para unas 1.500 personas.</li><li><strong>Los patios:</strong> tiene un patio central y varios patios más pequeños, con fuentes y jardines.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde el centro de Gijón por la carretera de Villaviciosa, unos 10 minutos (aprox.).</p><p><strong>Sin coche:</strong> hay autobuses urbanos hasta la Laboral; <strong>confirma líneas y horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laboral+Ciudad+de+la+Cultura" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

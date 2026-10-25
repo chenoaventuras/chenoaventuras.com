@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
 faqTitulo: "Dudas sobre el Naranco"
 faq:
+  - q: "¿Quién mandó construir Santa María del Naranco?"
+    a: "El rey Ramiro I de Asturias, hacia mediados del siglo IX."
+  - q: "¿Para qué se construyó Santa María del Naranco?"
+    a: "Lo más aceptado es que fue una sala de recepciones de un palacio real; más tarde se usó como iglesia."
   - q: "¿Qué es Santa María del Naranco?"
     a: "Un edificio prerrománico del siglo IX, hoy iglesia, que fue un palacio de Ramiro I."
   - q: "¿Es Patrimonio de la Humanidad?"
@@ -61,6 +65,12 @@ Te cuento su historia, cómo visitarlo y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Oviedo:</strong> <a href='/blog/oviedo-que-ver.html'>qué ver en la ciudad</a>.</li><li><strong>Gijón:</strong> <a href='/blog/gijon-que-ver.html'>ciudad costera</a> cercana.</li><li><strong>Santa Cristina de Lena:</strong> otro monumento prerrománico en la comarca.</li><li><strong>Mirador:</strong> vistas de Oviedo desde el monte Naranco.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un palacio de rey que se hizo iglesia</h2></div>
+<p>Santa María del Naranco y San Miguel de Lillo pertenecen al <strong>prerrománico asturiano</strong>, el arte del reino de Asturias entre los siglos VIII y X. Los dos edificios se levantaron en tiempos del rey <strong>Ramiro I</strong> (842-850) en la ladera del monte Naranco, que dominaba la ciudad de Oviedo. Santa María era probablemente una <strong>sala de recepciones y fiestas</strong> de un palacio real; San Miguel era la iglesia del conjunto.</p>
+<p>Lo que sorprende al verla por dentro es que, <strong>hace más de mil años</strong>, ya usaba <strong>bóvedas de medio cañón con arcos que descargan el peso en contrafuertes</strong>, algo muy avanzado para su época, y una decoración de medallones y cuerdas tallados en piedra. De San Miguel de Lillo se conserva solo una parte (la zona de los pies de la iglesia), con unas <strong>celosías de piedra</strong> y unos relieves en las jambas con escenas de circo que son únicos en Europa.</p>
+<p>Con los siglos Santa María se convirtió en iglesia, hasta que en la primera mitad del siglo XX se quitaron los añadidos para devolverle su aspecto original. Desde <strong>1985</strong> forman parte del conjunto Patrimonio de la Humanidad.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Oviedo por la carretera del Naranco, unos 4 km.</p><p><strong>Sin coche:</strong> hay autobús urbano hasta el Naranco; <strong>confirma líneas y horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Santa+María+del+Naranco" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

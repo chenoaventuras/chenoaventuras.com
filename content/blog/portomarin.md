@@ -12,6 +12,10 @@ tags:
   - Galicia
 wide: true
 faq:
+  - q: "¿Por qué se mudó Portomarín?"
+    a: "Porque el embalse de Belesar, construido en 1962, inundó el pueblo antiguo; se reconstruyó en la parte alta."
+  - q: "¿Qué es lo más especial de Portomarín?"
+    a: "La iglesia de San Nicolás, una iglesia-fortaleza que se trasladó piedra a piedra y todavía conserva las marcas de montaje."
   - q: "¿Por qué trasladaron Portomarín?"
     a: "Porque el embalse de Belesar (1962) iba a inundar el pueblo antiguo."
   - q: "¿Se movió la iglesia piedra a piedra?"
@@ -64,6 +68,12 @@ Te cuento cómo fue y qué se ve cuando baja el agua 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/portomarin/rio.webp" alt="Restos del Portomarín antiguo en el río Miño" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El pueblo sumergido</h3><p>Con el agua baja aparecen los cimientos del antiguo Portomarín.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/portomarin/calle.webp" alt="Letras de Portomarín en el pueblo" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El pueblo nuevo</h3><p>Calles con soportales llenas de peregrinos.</p></div></li>
 </ol>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>El pueblo que subió la colina</h2></div>
+<p>El Portomarín original estaba en un cruce de caminos: tenía un <strong>puente romano</strong> sobre el Miño y era una de las paradas principales del <strong>Camino Francés</strong>. En la Edad Media, la <strong>Orden de San Juan de Jerusalén</strong> (los hospitalarios) levantó aquí la iglesia fortificada de San Nicolás para proteger a los peregrinos.</p>
+<p>En <strong>1962</strong> se llenó el embalse de Belesar, y los vecinos tuvieron que abandonar sus casas. Se hizo un trabajo poco común: se <strong>desmontó la iglesia piedra a piedra, se numeró cada sillar</strong> y se volvió a montar en el nuevo emplazamiento, en lo alto del monte. En sus muros todavía se ven las marcas, y su rosetón y su portada románica son de lo mejor del Camino en Galicia.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Los números:</strong> si miras bien las piedras de San Nicolás verás signos grabados que servían para montarlas en orden.</li><li><strong>El Camino:</strong> desde aquí se sube una larga cuesta hacia el pueblo, y se entra por una escalinata.</li><li><strong>El agua baja:</strong> cuando el embalse está bajo se ven restos del antiguo pueblo.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Portomarín</h2></div>
 <div class="guide__howto"><p>Desde <strong>Lugo</strong>, unos 40 minutos. Desde Santiago, alrededor de 1 hora y cuarto.</p><p>Si haces el Camino Francés, Portomarín es final de etapa desde Sarria.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Portomar%C3%ADn%2C%20Lugo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

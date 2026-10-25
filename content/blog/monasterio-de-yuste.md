@@ -14,6 +14,10 @@ wide: true
 faqTitulo: "Dudas sobre el Monasterio de Yuste"
 faq:
   - q: "¿Quién vivió en el Monasterio de Yuste?"
+    a: "El emperador Carlos V, que se retiró aquí en 1557 y murió en 1558."
+  - q: "¿Dónde está enterrado Carlos V?"
+    a: "En el Monasterio de El Escorial: su cuerpo se trasladó desde Yuste en 1574."
+  - q: "¿Quién vivió en el Monasterio de Yuste?"
     a: "El emperador Carlos V (Carlos I de España), que se retiró allí y murió en 1558."
   - q: "¿Dónde está Yuste?"
     a: "Junto a Cuacos de Yuste, en la comarca de La Vera (Cáceres)."
@@ -69,6 +73,12 @@ Te cuento cómo vivía el emperador retirado y qué ver hoy 👇
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>El monasterio antes y después del emperador</h2></div>
+<p>El monasterio de <strong>San Jerónimo de Yuste</strong> se fundó a principios del <strong>siglo XV</strong> por unos ermitaños que se acogieron a la orden jerónima. Carlos V lo conoció pasando por la comarca y lo eligió para retirarse porque tenía <strong>buen clima, agua abundante y silencio</strong>. Llegó en <strong>febrero de 1557</strong> y vivió aquí menos de dos años.</p>
+<p>Su cuerpo estuvo enterrado en la iglesia hasta que, en <strong>1574</strong>, su hijo <strong>Felipe II</strong> lo trasladó al Monasterio de El Escorial. En <strong>1809</strong>, durante la Guerra de la Independencia, las tropas francesas incendiaron el edificio; en <strong>1835</strong> la desamortización lo dejó abandonado y en ruinas. Se fue recuperando poco a poco a lo largo del siglo XX y hoy se gestiona por <strong>Patrimonio Nacional</strong> y está habitado por una comunidad de monjes jerónimos.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Una casa sencilla:</strong> el emperador quería austeridad, pero su casa tenía salas con chimenea, algo poco habitual entonces.</li><li><strong>El entorno:</strong> está en pleno valle de La Vera, famoso por su pimentón, los cerezos y las gargantas de agua.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Yuste</h2></div>
 <div class="guide__howto"><p>Desde <strong>Plasencia</strong>, unos 45 minutos por la EX-203 hacia Jaraíz de la Vera y Cuacos de Yuste.</p><p>El monasterio está a 2 km de Cuacos, con aparcamiento.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Monasterio%20de%20Yuste%2C%20Cuacos%20de%20Yuste" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

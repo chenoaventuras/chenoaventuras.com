@@ -13,6 +13,12 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Sagrada Familia"
 faq:
+  - q: "¿Quién empezó la Sagrada Familia?"
+    a: "La primera piedra se puso en 1882 con el arquitecto Francisco de Paula del Villar; un año después Gaudí se hizo cargo del proyecto y lo transformó."
+  - q: "¿Cuántas torres tendrá la Sagrada Familia?"
+    a: "Dieciocho: doce por los apóstoles, cuatro por los evangelistas, una por la Virgen y la central por Jesucristo."
+  - q: "¿Cómo se financia la Sagrada Familia?"
+    a: "Con donativos y con la venta de entradas a los visitantes, no con dinero público."
   - q: "¿Cuál es la iglesia más alta del mundo?"
     a: "La Sagrada Familia de Barcelona, desde el 30 de octubre de 2025. Terminada medirá 172,5 metros."
   - q: "¿Cuándo se terminará la Sagrada Familia?"
@@ -73,6 +79,15 @@ Te cuento cómo lo consiguió, sus curiosidades y cómo visitarla sin quedarte s
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Más de 140 años de obras</h2></div>
+<p>La primera piedra se puso el <strong>19 de marzo de 1882</strong>, con un proyecto de otro arquitecto, <strong>Francisco de Paula del Villar</strong>. Al año siguiente el encargo pasó a <strong>Antoni Gaudí</strong>, que lo cambió por completo y le dedicó <strong>más de cuarenta años</strong> de su vida, los últimos casi en exclusiva.</p>
+<p>La Sagrada Familia se paga con <strong>donativos y con las entradas de los visitantes</strong>, por eso las obras han avanzado a ritmos tan distintos. Cuando Gaudí murió, en <strong>1926</strong>, estaba terminada solo una pequeña parte; de la fachada del Nacimiento llegó a ver acabado un campanario. En <strong>1936</strong> se quemaron el taller y gran parte de sus planos y maquetas, y los arquitectos posteriores tuvieron que reconstruir el proyecto a partir de los fragmentos que se salvaron.</p>
+<p>Las obras han ido por fachadas: la del <strong>Nacimiento</strong> (la de Gaudí, llena de vida y naturaleza), la de la <strong>Pasión</strong> (más seca y angulosa, obra de Josep Maria Subirachs) y la de la <strong>Gloria</strong>, la principal, aún en construcción. En <strong>2010</strong> el papa Benedicto XVI consagró el templo como <strong>basílica</strong> y en <strong>2018</strong> el Ayuntamiento le concedió por fin la licencia de obras, más de un siglo después de empezar.</p>
+<div class="guide__head"><span class="eyebrow">El proyecto</span><h2>Dieciocho torres con un significado</h2></div>
+<p>Cuando esté terminada tendrá <strong>dieciocho torres</strong>: doce dedicadas a los apóstoles, cuatro a los evangelistas, una a la Virgen María y la más alta, la central, a <strong>Jesucristo</strong>. La torre de Jesucristo, coronada por una cruz, es la que le da el récord de altura. El año <strong>2026</strong> es especial porque se cumple el <strong>centenario de la muerte de Gaudí</strong>, y se había fijado como objetivo para tener lista la torre central.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Patrimonio:</strong> la cripta y la fachada del Nacimiento forman parte de las «Obras de Antoni Gaudí», Patrimonio de la Humanidad de la UNESCO.</li><li><strong>Estilo:</strong> Gaudí partió del gótico, pero se inspiró en la naturaleza: árboles, huesos, conchas y panales.</li><li><strong>Luz:</strong> las vidrieras de un lado y otro del templo están pensadas para que el color cambie a lo largo del día.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Sagrada Familia</h2></div>
 <div class="guide__howto"><p>En metro, parada <strong>Sagrada Família</strong> (líneas L2 y L5). También hay muchos autobuses.</p><p>En coche es mejor no ir: el aparcamiento en la zona es caro y difícil.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sagrada%20Familia%2C%20Barcelona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

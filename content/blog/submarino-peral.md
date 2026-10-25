@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Submarino Peral"
 faq:
+  - q: "¿Quién inventó el primer submarino eléctrico?"
+    a: "El marino cartagenero Isaac Peral, con un submarino botado en 1888."
+  - q: "¿Dónde se puede ver el submarino Peral?"
+    a: "En el Museo Naval de Cartagena, junto al puerto."
   - q: "¿Cuál fue el primer submarino eléctrico?"
     a: "El submarino de Isaac Peral, botado en 1888: el primer submarino totalmente eléctrico y con torpedos."
   - q: "¿Dónde está el Submarino Peral?"
@@ -67,6 +71,12 @@ Te cuento su historia, por qué no siguió adelante y dónde verlo hoy en Cartag
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">El inventor</span><h2>Isaac Peral: de marino a inventor</h2></div>
+<p><strong>Isaac Peral</strong> nació en Cartagena en 1851 y fue oficial de la Armada. Además de marino era un gran aficionado a la física, y en la década de 1880 convenció a la Marina de que una embarcación <strong>eléctrica y sumergible</strong> sería más segura y más silenciosa que las de vapor. El submarino se construyó en el <strong>arsenal de La Carraca (Cádiz)</strong> y se botó el <strong>8 de septiembre de 1888</strong>.</p>
+<p>Sus pruebas en la bahía de Cádiz mostraron que <strong>podía sumergirse, avanzar bajo el agua y lanzar torpedos</strong>, pero no se aprobó su producción en serie y Peral abandonó la Armada en 1891 disgustado. Murió en Berlín en 1895 con solo 43 años. El mérito de su invento no se reconoció del todo hasta mucho después: en los mismos años se desarrollaban submarinos en otros países y la tecnología terminó imponiéndose.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Tamaño:</strong> mide unos 22 metros de largo y desplaza unas 77 toneladas.</li><li><strong>Propulsión:</strong> baterías eléctricas y dos motores, sin humos ni emisiones.</li><li><strong>Estado actual:</strong> tras su restauración se expone junto a otras piezas del Museo Naval de Cartagena.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Museo Naval</h2></div>
 <div class="guide__howto"><p>Está en el <strong>paseo Alfonso XII</strong>, junto al puerto de Cartagena, a pocos minutos andando del centro.</p><p>Si vienes en coche, hay aparcamientos públicos en el puerto.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Museo%20Naval%20de%20Cartagena" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Puente de Vizcaya"
 faq:
+  - q: "¿Cuándo se inauguró el Puente de Vizcaya?"
+    a: "En 1893."
+  - q: "¿Es verdad que es Patrimonio de la Humanidad?"
+    a: "Sí, la UNESCO lo declaró Patrimonio de la Humanidad en 2006."
   - q: "¿Cuánto cuesta cruzar el Puente de Vizcaya?"
     a: "En barquilla, menos de 1 euro por persona. La pasarela superior cuesta unos 11 euros ida y vuelta."
   - q: "¿Qué horario tiene el Puente de Vizcaya?"
@@ -74,6 +78,12 @@ Además, puedes cruzarlo por arriba, a 45 metros de altura. Te cuento precios y 
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Un puente pensado para que pasen los barcos</h2></div>
+<p>La ría de Bilbao era una de las zonas industriales y comerciales más activas de España, y los barcos con mástiles altos no podían pasar bajo un puente normal. La solución del arquitecto <strong>Alberto de Palacio</strong>, con la ayuda del ingeniero <strong>Ferdinand Arnodin</strong>, fue un puente con una <strong>plataforma muy alta</strong> y una <strong>góndola colgada</strong> de cables que cruza la ría casi a ras de agua. Se inauguró en <strong>1893</strong> y se ha seguido usando todos los días desde entonces.</p>
+<p>Durante la Guerra Civil, en <strong>1937</strong>, fue volado y se reconstruyó después con un diseño ligeramente distinto. La UNESCO lo declaró <strong>Patrimonio de la Humanidad en 2006</strong> y es el puente transbordador en funcionamiento más antiguo del mundo.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Altura:</strong> la pasarela superior está a unos 45 m sobre la ría.</li><li><strong>Longitud:</strong> unos 160 m de orilla a orilla.</li><li><strong>Cómo funciona:</strong> la góndola cuelga de unos carros que corren por la viga superior, y cada trayecto dura apenas minuto y medio.</li><li><strong>Réplicas:</strong> se hicieron puentes parecidos en Francia, Inglaterra, Alemania o Argentina, y solo algunos siguen en pie.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Puente de Vizcaya</h2></div>
 <div class="guide__howto"><p>En <strong>metro de Bilbao</strong>, parada Portugalete (lado izquierdo) o Areeta (lado de Getxo), a pocos minutos andando del puente.</p><p>En coche puedes cruzar en la barquilla pagando el billete del vehículo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Puente%20de%20Vizcaya%2C%20Portugalete" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
