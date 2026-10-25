@@ -2403,3 +2403,25 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Mi equipo con la cabecera de burbuja de cristal: un poco de aire antes de los objetos */
 .fondo-acuarela .gearsection .gearlist { margin-top: clamp(14px, 2vw, 24px); }
+
+/* Guías: 4 tarjetas en 2×2, calendario de colores y fichas con dibujo */
+.guide__tips--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 680px) { .guide__tips--2 { grid-template-columns: 1fr; } }
+.cal { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; margin: 22px 0 8px; }
+.cal__mes { background: var(--white); border-radius: var(--radius); padding: 16px 14px 14px; box-shadow: var(--shadow-sm); }
+.cal__mes h3 { margin: 0 0 10px; font-size: 1.05rem; color: var(--night); text-align: center; }
+.cal__grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
+.cal__dow { font-size: .68rem; text-align: center; color: var(--ink-soft); font-weight: 700; padding-bottom: 2px; }
+.cal__d { aspect-ratio: 1 / 1; display: flex; align-items: center; justify-content: center; border-radius: 8px; font-size: .84rem; font-weight: 600; }
+.cal__d--off { background: transparent; color: #b9b4aa; }
+.cal__d--ok { background: #dcefd9; color: #2f6b34; }
+.cal__d--fam { background: #f6c94c; color: #5a4300; }
+.cal__d--cer { background: #ebe7e0; color: #9b958a; text-decoration: line-through; }
+.cal__d--ini { background: #274c78; color: #fff; }
+.cal__d--fin { background: #8a5a9e; color: #fff; }
+.cal__leyenda { display: flex; flex-wrap: wrap; gap: 8px 16px; justify-content: center; margin: 12px 0 4px; font-size: .86rem; color: var(--ink-soft); }
+.cal__leyenda span::before { content: ""; display: inline-block; width: 12px; height: 12px; border-radius: 4px; margin-right: 6px; vertical-align: -1px; background: var(--c); }
+.etiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 10px; margin: 18px 0 26px; }
+.etiles > div { background: var(--white); border-radius: 14px; padding: 14px 8px 12px; text-align: center; box-shadow: var(--shadow-sm); }
+.etiles b { display: block; font-size: 2rem; line-height: 1.1; margin-bottom: 4px; font-weight: 400; }
+.etiles span { font-size: .8rem; color: var(--ink-soft); line-height: 1.25; display: block; }
