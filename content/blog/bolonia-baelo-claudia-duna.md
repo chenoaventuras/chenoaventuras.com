@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Bolonia"
 faq:
+  - q: "¿Qué producía Baelo Claudia?"
+    a: "Salazones y garum de pescado, que se exportaban por el Mediterráneo."
   - q: "¿Dónde está Baelo Claudia?"
     a: "En la ensenada de Bolonia, en el término de Tarifa (Cádiz), a unos 8 km de la N-340 por la carretera CA-8202."
   - q: "¿Cuándo abre el yacimiento?"
@@ -43,6 +45,11 @@ Te cuento cómo llegar, qué ver y cómo organizar el día 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La duna de Bolonia</h2></div>
 <p>La <strong>Duna de Bolonia</strong> es Monumento Natural desde 2001 y tiene más de <strong>30 metros de altura</strong>, en el extremo de la ensenada, hacia punta Camarinal. Se llega por un sendero de unos <strong>1,1 km</strong> de dificultad baja, con pasarela de madera, que se recorre en unos 30 minutos.</p><p>Esta duna es un espacio protegido y <strong>tiene restricciones de acceso</strong> para conservarla: consulta antes de ir qué está permitido en la fecha de tu visita.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Una ciudad romana que vivía del atún</h2></div>
+<p><strong>Baelo Claudia</strong> nació en el <strong>siglo II a. C.</strong> como puerto y enclave pesquero, y su gran momento llegó entre los siglos I a. C. y II d. C., cuando el emperador <strong>Claudio</strong> le dio el rango de <strong>municipio</strong> (de ahí el nombre). Era una pequeña ciudad que exportaba <strong>pescado en salazón y garum</strong>, la salsa de pescado fermentado que usaban los romanos para casi todo: se han excavado una decena de factorías con piletas para salar el pescado, y en 2015 aparecieron restos orgánicos de aquellas salazones.</p>
+<p>La ciudad se debilitó en el siglo II, posiblemente por terremotos o un maremoto, se recuperó en el siglo IV y se abandonó definitivamente a finales del siglo VI o comienzos del VII (las fechas del declive varían según el estudio). Sus ruinas, enterradas bajo la arena durante siglos, las dio a conocer a comienzos del siglo XX el hispanista francés <strong>Pierre Paris</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Historia y playa en el mismo sitio.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

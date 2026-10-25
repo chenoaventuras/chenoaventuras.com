@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Zumaia"
 faq:
+  - q: "¿Qué es el flysch de Zumaia?"
+    a: "Una sucesión de capas de caliza, margas y arenisca depositadas en un mar profundo hace entre unos 110 y 50 millones de años."
+  - q: "¿Se ve aquí el fin de los dinosaurios?"
+    a: "Sí: una línea de arcilla con iridio marca el límite K-Pg, de hace unos 66 millones de años."
   - q: "¿Dónde se rodó Juego de Tronos en Zumaia?"
     a: "En la playa de Itzurun, que fue la costa de Rocadragón en la séptima temporada."
   - q: "¿Qué es el flysch?"
@@ -61,6 +65,11 @@ Te cuento qué ver, cuándo ir según la marea y dónde está la ermita de pelí
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Dragones y dinosaurios</h2></div>
 <p>En <strong>2017</strong>, el equipo de Juego de Tronos rodó aquí escenas de la séptima temporada: la playa fue la costa de <strong>Rocadragón</strong>, la isla de Daenerys. Junto con San Juan de Gaztelugatxe, convirtió esta costa en lugar de peregrinación para fans.</p><div class="guide__legend"><h3>🪨 El libro de piedra</h3><p>El <strong>flysch</strong> son capas de roca colocadas en vertical como las páginas de un libro. Cada capa es un trozo de tiempo. Aquí se ve incluso la huella de la <strong>extinción de los dinosaurios</strong>. Algunas capas de Itzurun son referencia mundial para los geólogos.</p></div><div class="guide__legend"><h3>🎬 Ocho apellidos vascos</h3><p>La <strong>ermita de San Telmo</strong>, sobre el acantilado, también sale en <em>Ocho apellidos vascos</em>.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un libro de piedra de 60 millones de años</h2></div>
+<p>Lo que se ve en Zumaia es el <strong>flysch</strong>: capas alternas de caliza, margas y arenisca que se depositaron en un <strong>mar profundo y tranquilo</strong> entre el Cretácico superior y el Eoceno, hace unos 110 a 50 millones de años. Con más de <strong>3.000 metros de espesor</strong>, es un archivo casi continuo de la historia de la Tierra, y por eso se estudia en todo el mundo.</p>
+<p>Entre esas capas hay una fina línea de <strong>arcilla rica en iridio</strong> que marca el <strong>límite K-Pg</strong>, el momento, hace unos <strong>66 millones de años</strong>, en que el impacto de un asteroide acabó con los dinosaurios. Itzurun es el lugar más citado para verla, aunque el centro del geoparque la sitúa en la cala de Algorri. El flysch forma parte del <strong>Geoparque de la Costa Vasca</strong>, declarado Geoparque Mundial de la UNESCO en <strong>2015</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Zumaia</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

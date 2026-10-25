@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Fervenza do Ézaro"
 faq:
+  - q: "¿Es verdad que es la única cascada que cae al mar en Europa?"
+    a: "Es lo que repiten las guías sobre el río Xallas; la caída principal mide unos 40 metros."
   - q: "¿Es la Fervenza do Ézaro la única cascada de Europa que cae al mar?"
     a: "Así se la conoce: el río Xallas desemboca directamente en el mar en forma de cascada."
   - q: "¿Cuándo tiene más agua la cascada de Ézaro?"
@@ -50,6 +52,11 @@ A media hora tienes el cabo de **Fisterra**, el que los romanos creían el fin d
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un río que muere saltando</h2></div>
 <p>El río <strong>Xallas</strong> recorre el interior de A Coruña y, al llegar a la costa, se encuentra con el granito rosado del <strong>monte Pindo</strong>. Ahí se precipita en cascada hasta la ría de Corcubión. Durante décadas sus aguas se aprovecharon en la central hidroeléctrica que verás al lado, y por eso la cascada no siempre ha tenido caudal.</p><div class="guide__legend"><h3>🌍 El fin del mundo</h3><p>Para los romanos, <strong>Fisterra</strong> (<em>Finis Terrae</em>) era el lugar donde se acababa la tierra conocida. Hoy es el final del Camino de Santiago para muchos peregrinos, que llegan hasta el kilómetro 0 junto al faro.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La cascada que se apagó… y volvió</h2></div>
+<p>El río <strong>Xallas</strong> es, según se repite en las guías, <strong>el único de Europa que desemboca en el mar en forma de cascada</strong>. La caída total es de unos 150 metros en el tramo final, y la fervenza principal mide unos 40 m (algunas fuentes dicen 50). Ya se menciona en documentos del siglo XVIII, hacia 1724, como un lugar singular de la Costa da Morte.</p>
+<p>Su historia moderna es industrial. Desde <strong>1897</strong> se instalaron aquí fábricas y en <strong>1900</strong> se concedió a la Sociedad Hidroeléctrica del Pindo el aprovechamiento del río: la central de O Ézaro daba electricidad a la fábrica de carburo de calcio de Brens, que abrió en <strong>1906</strong>. En los años 60 se hizo el gran embalse de la Fervenza, y durante décadas la cascada casi no llevó agua, salvo en las épocas de crecida. Tras años de reclamaciones de grupos ecologistas, desde 2011 se garantiza un <strong>caudal ecológico</strong> y la cascada vuelve a caer al mar. La antigua central, a los pies, es hoy un museo sobre la energía.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Ézaro y Fisterra</h2><p>Agua, granito y el fin del mundo.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

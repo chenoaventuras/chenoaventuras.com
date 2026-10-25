@@ -13,6 +13,8 @@ tags:
 wide: true
 faq:
   - q: "¿Qué significa «vai de morto quen non foi de vivo»?"
+    a: "Que quien no hizo la peregrinación en vida la hará después de muerto."
+  - q: "¿Qué significa «vai de morto quen non foi de vivo»?"
     a: "Que quien no vaya a San Andrés de Teixido en vida, irá después de muerto, reencarnado en un animal pequeño como una lagartija o un sapo."
   - q: "¿Qué son los sanandresiños?"
     a: "Figuritas de miga de pan pintadas de colores que se venden en la aldea como amuleto de buena suerte."
@@ -39,6 +41,11 @@ Así que mejor ir ahora, que además el paisaje es de los más bestias de Españ
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>El santo que se quedó sin peregrinos</h2></div>
 <p>Cuenta la leyenda que San Andrés llegó a estas costas en barca y naufragó. Mientras Santiago recibía peregrinos sin parar en Compostela, a él no lo visitaba nadie. Dios le prometió entonces que <strong>todo el mundo pasaría por su santuario</strong>: quien no fuera en vida, iría después de muerto, reencarnado en un animalillo. Por eso, en el camino a Teixido no se pisa ni se mata a ningún bicho: podría ser un alma cumpliendo su visita.</p><div class="guide__legend"><h3>🌿 Los rituales</h3><p>Bebe de la <strong>fuente de los tres caños</strong> y, según la tradición, echa una miga de pan pidiendo un deseo: si flota, se cumple. Compra un <strong>sanandresiño</strong>, figuritas de miga de pan pintadas que dan suerte, y busca la <strong>herba de namorar</strong>, una flor de los acantilados que, metida en el bolsillo de quien te gusta, lo enamora. Y por el camino, deja una piedra en los <strong>milladoiros</strong>: te servirá para la otra vida.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un santuario en el fin del mundo</h2></div>
+<p>Los primeros escritos sobre el monasterio de Teixido datan, según una fuente, de <strong>1162</strong>, y en <strong>1196</strong> el lugar se entregó a la <strong>Orden de San Juan de Jerusalén</strong>. El santuario actual es del <strong>siglo XVI</strong>, construido sobre un monasterio más antiguo. El lugar está en un paraje remoto y atrae peregrinos desde hace siglos, lo que explica la leyenda del «<em>vai de morto quen non foi de vivo</em>»: según la tradición, quien no peregrina en vida deberá hacerlo después de muerto.</p>
+<p>Entre las costumbres que se conservan está llevar una <strong>piedra</strong> y dejarla en uno de los <strong>milladoiros</strong> del camino, y comprar los <strong>sanandresiños</strong>, amuletos de miga de pan sin fermentar que se venden en la romería. Algunos estudiosos relacionan esta tradición con antiguas creencias celtas sobre el más allá.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en San Andrés de Teixido</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

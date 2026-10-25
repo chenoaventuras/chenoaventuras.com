@@ -12,6 +12,10 @@ tags:
   - Cataluña
 wide: true
 faq:
+  - q: "¿Cuándo se fundó el monasterio de Montserrat?"
+    a: "En 1025, por impulso del abad Oliba."
+  - q: "¿Por qué la Virgen se llama la Moreneta?"
+    a: "Porque su rostro y sus manos se han oscurecido con los siglos; es una talla románica de finales del siglo XII."
   - q: "¿Cómo se llega a Montserrat desde Barcelona?"
     a: "En tren FGC (línea R5) desde Plaça Espanya hasta Monistrol, donde se coge el cremallera, o hasta Montserrat-Aeri, para subir en teleférico. También se puede ir en coche."
   - q: "¿Hay que pagar para entrar al monasterio de Montserrat?"
@@ -52,6 +56,11 @@ Te cuento cómo llegar, qué ver y qué ruta hacer para subir a lo más alto �
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La montaña serrada</h2></div>
 <p>«Mont-serrat» significa literalmente <strong>«monte serrado»</strong>, por la forma de sierra que dibujan sus agujas de roca. Están hechas de <strong>conglomerado</strong>: cantos rodados y arena de un antiguo delta, cementados y luego esculpidos por la erosión durante millones de años.</p><div class="guide__legend"><h3>⚫ La Moreneta</h3><p>En la basílica se venera a la <strong>Virgen de Montserrat</strong>, una talla románica conocida como la Moreneta por su color oscuro. Es la patrona de Cataluña y hay cola para subir a su camarín y tocar la esfera que sostiene.</p></div><div class="guide__legend"><h3>🎶 La Escolania</h3><p>La <strong>Escolania de Montserrat</strong> es uno de los coros de niños más antiguos de Europa. Si coincides con alguna de sus actuaciones en la basílica, no te la pierdas.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Mil años de monasterio en una montaña sagrada</h2></div>
+<p>El monasterio de <strong>Santa María de Montserrat</strong> se fundó en <strong>1025</strong> por impulso del abad <strong>Oliba</strong>, de Ripoll, sobre una pequeña ermita más antigua. En <strong>1082</strong> pasó a tener abad propio y dejó de depender de Ripoll. La tradición sitúa el hallazgo de la imagen de la Virgen hacia el año 880, aunque lo que consta es que en <strong>888</strong> ya existía una capilla dedicada a la Madre de Dios.</p>
+<p>La <strong>Moreneta</strong> es una talla de madera policromada <strong>románica de finales del siglo XII</strong>; su rostro y sus manos se han ido oscureciendo con los siglos, y de ahí su nombre. Montserrat también tiene una de las <strong>escolanías más antiguas de Europa</strong>, un coro de niños cantores cuyo origen las fuentes sitúan entre el siglo XIII y el XIV.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Montserrat</h2><p>Del monasterio a las cumbres.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

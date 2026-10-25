@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el volcán Tajogaite"
 faq:
+  - q: "¿Cuánto duró la erupción del Tajogaite?"
+    a: "85 días y 8 horas: del 19 de septiembre al 13 de diciembre de 2021."
+  - q: "¿Cuánta superficie cubrió la lava?"
+    a: "1.219 hectáreas, según los datos del PEVOLCA."
   - q: "¿Cuándo fue la erupción de La Palma?"
     a: "Del 19 de septiembre al 13 de diciembre de 2021, 85 días."
   - q: "¿Se puede visitar el volcán Tajogaite?"
@@ -58,6 +62,11 @@ Te cuento qué pasó, cómo está ahora y cómo verlo con respeto 👇
 
 <div class="guide__head"><span class="eyebrow">El récord</span><h2>La tierra más nueva de España</h2></div>
 <p>La erupción empezó el <strong>19 de septiembre de 2021</strong> y terminó el <strong>13 de diciembre</strong>: <strong>85 días</strong>, la erupción histórica más larga de La Palma. La lava cubrió más de mil hectáreas y miles de edificaciones.</p><p>Cuando la lava llegó al mar, se enfrió y fue ganando terreno: así nacieron las <strong>fajanas</strong>, nuevas tierras que antes eran océano. Están protegidas y se estudian para ver cómo la vida coloniza una tierra recién nacida.</p><div class="guide__legend"><h3>🏷️ El nombre</h3><p>Al principio se llamó «volcán de Cumbre Vieja». En 2023 el Cabildo oficializó el nombre <strong>Tajogaite</strong>, como llamaban los vecinos a esa zona de la montaña.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Los datos</span><h2>Una erupción de casi tres meses y 1.219 hectáreas de lava</h2></div>
+<p>La erupción empezó el <strong>19 de septiembre de 2021</strong> y se dio por terminada oficialmente el <strong>13 de diciembre de 2021</strong>, tras <strong>85 días y 8 horas</strong>. El comité científico del PEVOLCA la clasificó como <strong>fisural estromboliana</strong>, con pulsos freatomagmáticos y magnitud <strong>VEI 3</strong>.</p>
+<p>Las coladas ocuparon <strong>1.219 hectáreas</strong>, con un espesor medio de unos <strong>12 metros</strong> y máximos de hasta <strong>70 metros</strong>. Según el Catastro, 1.676 construcciones quedaron afectadas, de ellas 1.345 viviendas, y más de <strong>7.000 personas</strong> tuvieron que ser evacuadas. La lava dañó casi 74 km de carreteras y unas 370 hectáreas de cultivos. Las cifras de edificaciones «destruidas» y «afectadas» se mezclan a veces: conviene citar siempre la fuente.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>El volcán hoy</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

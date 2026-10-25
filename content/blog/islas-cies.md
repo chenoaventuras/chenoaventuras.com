@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre las Islas Cíes"
 faq:
+  - q: "¿Desde cuándo son parque nacional las Cíes?"
+    a: "Desde la Ley 15/2002, de 1 de julio, que creó el Parque Nacional de las Islas Atlánticas de Galicia."
+  - q: "¿Cómo se formó la playa de Rodas?"
+    a: "La arena unió dos islas, la del Faro y la del Norte, y formó una playa de unos 1.200 m con una laguna detrás."
   - q: "¿Hace falta autorización para ir a las Islas Cíes?"
     a: "Sí, en Semana Santa y del 15 de mayo al 15 de septiembre. Es gratuita y se pide en la web de la Xunta antes de comprar el barco. El resto del año basta con el billete."
   - q: "¿Desde dónde salen los barcos a las Islas Cíes?"
@@ -53,6 +57,11 @@ Para ir hay que coger un barco y, en temporada alta, **pedir una autorización**
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Tres islas y una playa que las une</h2></div>
 <p>Las Cíes son tres islas: <strong>Monteagudo</strong> (la del norte), <strong>do Faro</strong> (la del medio) y <strong>San Martiño</strong> (la del sur, a la que no llegan los barcos de línea). La <strong>playa de Rodas</strong> es un arenal de más de un kilómetro que une Monteagudo y do Faro y deja detrás una laguna de agua tranquila.</p><div class="guide__legend"><h3>🏆 ¿La mejor playa del mundo?</h3><p>En 2007 el periódico británico <strong>The Guardian</strong> eligió Rodas como la mejor playa del mundo, y desde entonces la fama de las Cíes no ha parado de crecer.</p></div><div class="guide__legend"><h3>🗑️ Sin papeleras</h3><p>En las islas no hay papeleras: todo lo que lleves, <strong>te lo vuelves a llevar</strong>. Es parque nacional y se nota.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>De las «islas de los dioses» a parque nacional</h2></div>
+<p>Las Cíes llevan habitadas o visitadas desde la <strong>Prehistoria</strong>: hay restos del Paleolítico y del Neolítico, y un poblado de la <strong>Edad del Bronce</strong> en As Hortas, en el Monte Faro. Los romanos las llamaron las <strong>Islas de los Dioses</strong>. En la Edad Media hubo dos monasterios, <strong>San Martiño</strong> en la isla sur y <strong>San Estevo</strong> en la isla del medio, pero los ataques de piratas, entre ellos incursiones normandas, hicieron que la población se marchara y las islas quedaron casi vacías entre los siglos XVI y XVIII.</p>
+<p>Su forma actual tiene un origen geológico: son las cumbres de una antigua sierra costera de <strong>granito</strong> que quedó parcialmente sumergida cuando la costa se hundió a finales del Terciario y se formaron las rías. La arena unió la isla del Faro con la del Norte y creó la <strong>playa de Rodas</strong>, de unos 1.200 m, con una laguna detrás que se llena con la marea alta. Fueron Parque Natural en <strong>1980</strong>, zona de protección para aves en 1988 y, por la <strong>Ley 15/2002 de 1 de julio</strong>, parte del <strong>Parque Nacional Marítimo-Terrestre de las Islas Atlánticas de Galicia</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en las Islas Cíes</h2><p>Playas, miradores y senderos con vistas al Atlántico.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

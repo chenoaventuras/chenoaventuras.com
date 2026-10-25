@@ -12,6 +12,8 @@ tags:
   - Extremadura
 wide: true
 faq:
+  - q: "¿Cuándo es parque nacional Monfragüe?"
+    a: "Desde la Ley 1/2007, de 2 de marzo; antes fue parque natural desde 1979."
   - q: "¿Cuánto cuesta entrar a Monfragüe?"
     a: "Nada: el Parque Nacional de Monfragüe es de acceso gratuito."
   - q: "¿Qué ver en Monfragüe en un día?"
@@ -55,6 +57,11 @@ Se visita gratis y en coche llegas a casi todos los miradores. Te cuento cómo a
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un paraíso para las aves</h2></div>
 <p>Monfragüe es <strong>Parque Nacional</strong> desde 2007 y Reserva de la Biosfera. En sus roquedos crían el <strong>buitre leonado</strong>, el <strong>buitre negro</strong> (con una de las colonias más grandes del mundo), el <strong>águila imperial ibérica</strong> y la cigüeña negra. Por eso viene gente de toda Europa a fotografiarlos.</p><div class="guide__legend"><h3>🎨 Pinturas de hace miles de años</h3><p>Junto al castillo hay un abrigo con <strong>pinturas rupestres</strong> esquemáticas. Se llega por una escalera metálica desde el camino del castillo.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un parque nacional con mucha historia detrás</h2></div>
+<p>Monfragüe fue <strong>Parque Natural en 1979</strong> y <strong>Parque Nacional</strong> por la <strong>Ley 1/2007, de 2 de marzo</strong>. Desde julio de 2003 forma parte de la <strong>Reserva de la Biosfera</strong> de Monfragüe, y toda la zona es también Zona de Especial Protección para las Aves, de las más importantes de Europa por sus rapaces. Las cifras de superficie del parque varían entre unas 17.800 y unas 18.400 hectáreas según la fuente.</p>
+<p>La historia humana es larga: la presencia del ser humano se remonta al Epipaleolítico, con pinturas rupestres en el entorno del castillo, y su nombre se atribuye al latín <em>mons fragorum</em> («monte fragoso») y al árabe <em>Al-Mofrag</em>. El <strong>castillo</strong>, de origen musulmán, se levantó, según una fuente local, en el siglo IX y fue una atalaya clave para vigilar el paso del Tajo.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Monfragüe</h2><p>Miradores, castillo y aves.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
