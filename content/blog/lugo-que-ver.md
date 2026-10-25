@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Lugo"
 faq:
+  - q: "¿Cuándo se construyó la muralla de Lugo?"
+    a: "A finales del siglo III; es Patrimonio de la Humanidad desde 2000."
   - q: "¿Se puede pasear por encima de la muralla de Lugo?"
     a: "Sí, y es gratis: el paseo de ronda (el adarve) es de uso público en todo su perímetro, de más de 2 km, y se puede recorrer a cualquier hora."
   - q: "¿Por qué la muralla de Lugo es tan especial?"
@@ -70,6 +72,11 @@ Te cuento qué ver en Lugo, cómo recorrer la muralla, dónde tapear, sus fiesta
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Arde Lucus y San Froilán</h2></div>
 <p><img src="/assets/img/blog/lugo-que-ver/arde-lucus.webp" alt="Personas vestidas de romanos en la fiesta del Arde Lucus de Lugo" loading="lazy" decoding="async" /></p>
 <div class="guide__howto"><p><strong>Arde Lucus (junio):</strong> durante un fin de semana largo, Lugo vuelve a ser <em>Lucus Augusti</em>. Miles de vecinos se visten de romanos y castreños, hay mercado, campamentos, desfiles de legiones, bodas romanas y un circo con carreras y gladiadores. En 2027 está previsto del 18 al 21 de junio.</p><p><strong>San Froilán (4 al 12 de octubre):</strong> las fiestas grandes de la ciudad. El símbolo son las <strong>casetas del pulpo</strong> en el parque Rosalía de Castro, donde se come pulpo á feira en mesas corridas. También hay feria medieval junto a la muralla y la <strong>Mostra de Música Tradicional</strong>.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Lucus Augusti, la ciudad de la muralla</h2></div>
+<p>Lugo la fundó en el año <strong>13 a. C.</strong> el legado romano <strong>Paulo Fabio Máximo</strong> con el nombre de <em>Lucus Augusti</em>, «bosque sagrado de Augusto». A finales del <strong>siglo III</strong> se construyó su <strong>muralla</strong>, de unos <strong>2 kilómetros</strong>, que se conserva completa, hecho único en el mundo, y fue declarada Patrimonio de la Humanidad por la UNESCO en <strong>2000</strong>.</p>
+<p>Se puede recorrer entera por el adarve, con varias puertas y torres a lo largo del camino. Cada junio, en <strong>Arde Lucus</strong>, la ciudad recuerda su pasado romano y celta con mercados, espectáculos y desfiles.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Lugo y dónde aparcar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Santiago o A Coruña, alrededor de 1 hora por la A-54 o la A-6. Desde Madrid, unos 510 km por la A-6 (unas 5 horas). <strong>En tren y autobús</strong> hay conexiones con las principales ciudades gallegas y con Madrid.</p><p><strong>Dónde aparcar:</strong> en los aparcamientos subterráneos que hay junto a la muralla (Praza Maior, la Ronda). Dentro de la muralla, buena parte es peatonal.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Muralla%20romana%20de%20Lugo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

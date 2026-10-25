@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Madrid"
 faq:
+  - q: "¿Desde cuándo es Madrid la capital de España?"
+    a: "Desde 1561, cuando Felipe II trasladó la Corte, con una breve excepción en el siglo XVII."
   - q: "¿Qué ver en Madrid en 2 días?"
     a: "El primer día, el Palacio Real, la Catedral de la Almudena, la Plaza Mayor y el Templo de Debod. El segundo, el Museo del Prado, el Parque del Retiro, el Palacio de Cristal y la Puerta de Alcalá."
   - q: "¿Hay que reservar el Palacio Real y el Prado?"
@@ -52,7 +54,12 @@ Un **palacio real**, un **templo egipcio** de más de dos mil años, la mayor co
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Mercado de San Miguel:</strong> junto a la Plaza Mayor, para picar de pie (turístico y con precios altos).</li><li><strong>Thyssen y Reina Sofía:</strong> la colección de pintura de siglos y el arte del siglo XX; el Guernica está en el Reina Sofía.</li><li><strong>Gran Vía:</strong> el gran eje de edificios históricos, teatros y tiendas.</li><li><strong>Miradores:</strong> <a href='/blog/miradores-de-madrid.html'>los mejores miradores de Madrid</a>.</li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y moverse</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>De fortaleza musulmana a capital de España</h2></div>
+<p>Madrid nació como una pequeña fortaleza musulmana del emirato de Córdoba, <em>Mayrit</em>, en el <strong>siglo IX</strong>. Los cristianos la conquistaron en <strong>1085</strong> y siguió siendo una villa modesta hasta que <strong>Felipe II</strong> estableció aquí la Corte en <strong>1561</strong>. Desde entonces es la capital de España, con una breve excepción.</p>
+<p>Los Austrias dejaron la <strong>Plaza Mayor</strong> y el Madrid más antiguo, y los Borbones, el <strong>Palacio Real</strong> y los grandes ejes y parques. <strong>Carlos III</strong> (1759-1788) tuvo un papel especial: urbanizó la ciudad, abrió el Prado y el Jardín Botánico y la hizo más limpia e iluminada.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y moverse</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> Madrid tiene AVE a Barcelona, Sevilla, Valencia y otras ciudades. Las estaciones de Atocha y Chamartín conectan con el metro.</p><p><strong>En coche:</strong> el centro tiene zonas de bajas emisiones y es difícil aparcar; deja el coche en un parking y usa metro o ve a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Madrid" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Madrid en dos días</h2><ul><li><b>Día 1 (mañana)</b>: Palacio Real y Catedral de la Almudena, con entradas reservadas.</li><li><b>Día 1 (tarde)</b>: Plaza Mayor, Barrio de las Letras y Templo de Debod al atardecer.</li><li><b>Día 2 (mañana)</b>: Museo del Prado, con un recorrido corto y planificado.</li><li><b>Día 2 (tarde)</b>: Retiro, Palacio de Cristal, Cibeles y Puerta de Alcalá.</li><li><b>Con niños o calor</b>: museos en las horas centrales, parques a primera y última hora.</li></ul></div>

@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Logroño"
 faq:
+  - q: "¿Qué fue lo primero que hizo Logroño famoso?"
+    a: "Ser una parada del Camino de Santiago, gracias al fuero concedido por Alfonso VI en 1095."
   - q: "¿Cómo funciona la calle Laurel?"
     a: "Cada bar está especializado en uno o dos pinchos. Lo típico es ir de bar en bar pidiendo la especialidad de cada uno con un vino o un zurito, y pasar a la calle San Juan y Albornoz. Hay más ambiente de jueves a domingo por la noche."
   - q: "¿Qué ver en Logroño en un día?"
@@ -71,6 +73,11 @@ Te cuento qué ver, cómo ir de pinchos como un local, sus fiestas del vino y la
 
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>San Bernabé y San Mateo</h2></div>
 <div class="guide__howto"><p><strong>San Bernabé (11 de junio):</strong> la ciudad recuerda que en <strong>1521</strong> resistió el asedio de las tropas francesas. La Cofradía del Pez reparte <strong>pez, pan y vino</strong> (más de 25.000 raciones) junto a la muralla del Revellín, y el alcalde hace los tradicionales banderazos.</p><p><strong>San Mateo (en torno al 21 de septiembre):</strong> las fiestas de la vendimia. El acto central es el <strong>pisado de la uva</strong> en el Espolón: dos pisadores descalzos pisan las uvas en un lagar al ritmo de la banda hasta obtener el primer mosto, que se ofrece a la <strong>Virgen de Valvanera</strong>, patrona de La Rioja. En 2026 se celebran del 19 al 25 de septiembre.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Un paso del Camino y de la tierra del vino</h2></div>
+<p>Logroño creció gracias al <strong>Camino de Santiago</strong> y a un <strong>fuero</strong> que le dio el rey <strong>Alfonso VI en 1095</strong>, que atrajo a pobladores y peregrinos. Su situación junto al Ebro y al límite con Navarra la convirtió en plaza fuerte: en <strong>1521</strong> resistió un cerco de tropas franco-navarras y de ese episodio nació una de las fiestas de la ciudad.</p>
+<p>La <strong>Denominación de Origen Calificada Rioja</strong> fue en <strong>1991</strong> la primera de España en recibir esa categoría, y Logroño es la capital de esa región vinícola.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Logroño y dónde aparcar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Madrid, unos 330 km por la A-1 y la N-232 o por Soria (unas 3 horas y media). Desde Bilbao, unos 140 km por la AP-68 (1 hora y media). Desde Pamplona, unos 90 km por la A-12. <strong>En tren y autobús</strong> hay conexiones con Madrid, Barcelona, Bilbao y Zaragoza.</p><p><strong>Dónde aparcar:</strong> en los aparcamientos subterráneos del centro (Espolón, Ayuntamiento, Mercado de San Blas). El casco antiguo es peatonal y está a dos pasos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Calle%20del%20Laurel%2C%20Logro%C3%B1o" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

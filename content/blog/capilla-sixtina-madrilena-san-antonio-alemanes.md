@@ -13,6 +13,10 @@ tags:
 igPermalink: 'https://www.instagram.com/reel/DUu0s56jALL/'
 faqTitulo: "Dudas sobre San Antonio de los Alemanes"
 faq:
+  - q: "¿Por qué se llama San Antonio de los Alemanes?"
+    a: "Porque tras la independencia de Portugal en 1640 acabó en manos de la comunidad de alemanes católicos de Madrid."
+  - q: "¿Quién pintó los frescos?"
+    a: "Juan Carreño de Miranda y Francisco Rizi, con retoques posteriores de Luca Giordano."
   - q: "¿Dónde está la iglesia de San Antonio de los Alemanes?"
     a: "En el barrio de Malasaña, en pleno centro de Madrid, en la calle de la Puebla."
   - q: "¿Por qué se llama San Antonio de los Alemanes?"
@@ -77,6 +81,12 @@ Si te gusta la fotografía de interiores, pocos sitios en Madrid dan tanto juego
 
 
 <!--actividades-->
+
+<!--enr-->
+## De hospital de portugueses a iglesia alemana
+
+<p>La iglesia se levantó a comienzos del <strong>siglo XVII</strong>, en tiempos de <strong>Felipe III</strong>, como parte de un hospital para <strong>portugueses</strong> pobres y enfermos que llegaban a Madrid, y se llamó <strong>San Antonio de los Portugueses</strong>. Cuando Portugal se independizó en <strong>1640</strong> el edificio quedó sin uso, y a finales del siglo XVII pasó a manos de la comunidad de alemanes católicos de Madrid, de donde viene su nombre actual.</p>
+<p>Su <strong>planta ovalada</strong> es una de las más originales del barroco madrileño. Los frescos que cubren todas sus paredes y su cúpula se pintaron en varias fases: el de la década de 1660 se atribuye a <strong>Juan Carreño de Miranda</strong> y <strong>Francisco Rizi</strong>, y más tarde el napolitano <strong>Luca Giordano</strong> retocó y completó partes a comienzos del siglo XVIII. Las fuentes no siempre coinciden en el reparto exacto del trabajo.</p>
 
 ## Cómo llegar a San Antonio de los Alemanes
 

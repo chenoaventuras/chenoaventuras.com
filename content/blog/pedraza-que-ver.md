@@ -12,6 +12,8 @@ tags:
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DavqMrZxpzl/'
 faq:
+  - q: "¿Quién salvó el castillo de Pedraza?"
+    a: "El pintor Ignacio Zuloaga, que lo restauró y lo usó como casa y taller."
   - q: "¿A cuánto está Pedraza de Madrid?"
     a: "A poco más de una hora en coche. Está en la provincia de Segovia."
   - q: "¿Se puede visitar el castillo de Pedraza?"
@@ -83,6 +85,12 @@ Si puedes elegir cuándo ir, resérvate los dos primeros sábados de julio para 
 > **Mi consejo:** Para los Conciertos de las Velas, compra la entrada del concierto y reserva cena y alojamiento con meses de antelación: se agota todo.
 
 <!--actividades-->
+
+<!--enr-->
+## Una villa medieval que vivió de la lana
+
+<p>Pedraza aparece ya en documentos del <strong>siglo X</strong> como lugar de frontera entre cristianos y musulmanes, y se consolidó como plaza fuerte en el siglo XI. Su <strong>castillo</strong>, de origen medieval (fechado entre los siglos XII y XIII y reformado en el XV), perteneció a los Velasco, condestables de Castilla. En <strong>1529</strong> estuvieron retenidos aquí, como rehenes, los hijos del rey francés Francisco I.</p>
+<p>La villa conoció su época dorada en los siglos XVI y XVII gracias al comercio de la <strong>lana merina</strong>. Después quedó casi detenida en el tiempo, y por eso conserva tan bien su aspecto medieval; en <strong>1951</strong> fue declarada conjunto histórico. En el siglo XX, el pintor <strong>Ignacio Zuloaga</strong> salvó el castillo de la ruina y lo convirtió en su casa y taller; hoy alberga un museo con su obra.</p>
 
 ## Cómo llegar a Pedraza
 

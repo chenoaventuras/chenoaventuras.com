@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Palma de Mallorca"
 faq:
+  - q: "¿Quién conquistó Palma de Mallorca?"
+    a: "El rey Jaume I de Aragón, en 1229."
   - q: "¿Cuánto cuesta entrar a la catedral de Palma?"
     a: "Alrededor de 10-11 € la entrada general, que incluye el Museo de Arte Sacro. Consulta el precio actual en la web oficial de la catedral."
   - q: "¿Qué es el «ocho» de la catedral de Palma?"
@@ -71,6 +73,11 @@ Te cuento qué ver, el famoso «ocho de luz» de la catedral, el castillo de Bel
 
 <div class="guide__head"><span class="eyebrow">Comer</span><h2>Qué comer en Palma</h2></div>
 <p>La <strong>ensaimada</strong> es obligatoria (lisa o rellena de cabello de ángel), mejor en un horno o café tradicional. Prueba también la <strong>sobrasada</strong>, el <strong>pa amb oli</strong> con jamón o queso de Mahón, el <strong>tumbet</strong> (verduras al horno), el <strong>frit mallorquí</strong> y los <strong>panades</strong> en Semana Santa. El <strong>Mercat de l'Olivar</strong> es perfecto para tapear al mediodía.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Romana, musulmana y capital del reino de Mallorca</h2></div>
+<p>Los romanos fundaron <strong>Palmaria</strong> en el año <strong>123 a. C.</strong> Con los musulmanes se llamó <em>Madina Mayurqa</em>, y en <strong>1229</strong> la conquistó el rey <strong>Jaume I de Aragón</strong>. Ese mismo año se empezó la <strong>catedral gótica</strong> (La Seu), que tardó más de tres siglos en terminarse y que, a comienzos del siglo XX, fue reformada en su interior por <strong>Antoni Gaudí</strong>.</p>
+<p>Palma fue capital del <strong>reino de Mallorca</strong> y vivió una época de esplendor comercial en el siglo XIV, de ahí la <strong>Lonja</strong>. A partir de mediados del siglo XX, el turismo transformó la isla.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y moverse</h2></div>
 <div class="guide__howto"><p><strong>Desde el aeropuerto:</strong> autobús al centro en unos 20 minutos.</p><p><strong>En barco:</strong> ferris desde Barcelona, Valencia, Dénia, Ibiza y Menorca.</p><p><strong>Por la ciudad:</strong> el casco antiguo es peatonal y se recorre a pie; para Bellver o Santa Catalina, autobús urbano, bici o taxi. Aparcar en el centro es difícil y caro.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Palma%20de%20Mallorca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

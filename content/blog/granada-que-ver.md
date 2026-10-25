@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Granada"
 faq:
+  - q: "¿Cuándo se entregó Granada a los Reyes Católicos?"
+    a: "El 2 de enero de 1492."
   - q: "¿Cuánto cuesta la entrada a la Alhambra?"
     a: "La entrada general (Palacios Nazaríes, Alcazaba y Generalife) cuesta 21 € en taquilla y unos 22,27 € online. Los menores de 12 años entran gratis, pero necesitan su entrada."
   - q: "¿Con cuánta antelación hay que comprar las entradas de la Alhambra?"
@@ -91,6 +93,11 @@ En este post te cuento todo lo que necesitas: cómo conseguir entradas para la A
 <div class="guide__head"><span class="eyebrow">Comer</span><h2>Las tapas de Granada</h2></div>
 <p>Granada es de las pocas ciudades de España donde en casi todos los bares te ponen <strong>una tapa gratis con cada bebida</strong>, y muchas veces cada ronda trae una distinta. Así que lo de cenar de tapeo aquí es casi obligatorio. Las zonas con más ambiente son la <strong>calle Navas</strong>, el <strong>Realejo</strong> y los alrededores de la <strong>plaza Nueva</strong>.</p>
 <p>Prueba las <strong>habas con jamón</strong>, la <strong>tortilla del Sacromonte</strong> (lleva sesos y criadillas, ojo) y los <strong>piononos</strong> de Santa Fe de postre.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>El último reino de al-Ándalus</h2></div>
+<p>En <strong>1238</strong> Muhammad I, el primer rey nazarí, fundó en Granada el último reino musulmán de la península y empezó a levantar la <strong>Alhambra</strong>, que se amplió y decoró durante los siglos XIII y XIV. El <strong>2 de enero de 1492</strong>, con la entrega de la ciudad a los Reyes Católicos, terminó la Reconquista.</p>
+<p>Después, <strong>Carlos V</strong> mandó construir su palacio renacentista dentro de la Alhambra (desde 1527). El <strong>Albaicín</strong>, con sus casas y callejuelas de origen musulmán, es Patrimonio de la Humanidad, y el <strong>Sacromonte</strong>, con sus cuevas, es el barrio donde nació el flamenco gitano granadino.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Granada y dónde aparcar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> hay AVE directo desde Madrid (algo más de 3 horas) y conexiones con Málaga, Sevilla y Barcelona.</p><p><strong>En avión:</strong> el aeropuerto Federico García Lorca está a unos 15 km del centro.</p><p><strong>En coche:</strong> desde Madrid son unos 420 km por la A-4 y la A-44 (unas 4 horas).</p><p><strong>Ojo con el coche:</strong> el Albaicín, el Sacromonte y buena parte del centro tienen <strong>acceso restringido con cámaras</strong>, y si entras sin autorización te llega la multa a casa. Lo mejor es dejar el coche en un aparcamiento público (o en el de la propia Alhambra) y moverte a pie o en los <strong>microbuses rojos</strong> que suben a la Alhambra, el Albaicín y el Sacromonte desde plaza Nueva e Isabel la Católica.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Alhambra%2C%20Granada" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

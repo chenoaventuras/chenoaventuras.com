@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Sevilla"
 faq:
+  - q: "¿Cuándo se construyó la Catedral de Sevilla?"
+    a: "Se empezó en 1401 y se terminó a principios del siglo XVI, sobre la antigua mezquita almohade."
   - q: "¿Qué ver en Sevilla en 2 días?"
     a: "El primer día, la Catedral con la Giralda, el Archivo de Indias, el Real Alcázar, el Barrio de Santa Cruz y las Setas. El segundo, la Plaza de España, el Parque de María Luisa y Triana."
   - q: "¿Hay que reservar la Catedral y el Alcázar?"
@@ -51,7 +53,12 @@ Una **catedral gótica con un antiguo minarete**, un **palacio mudéjar** todav�
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con mucho encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Archivo de Indias:</strong> junto a la catedral.</li><li><strong>Parque de María Luisa:</strong> jardines, fuentes y la Plaza de América.</li><li><strong>Triana:</strong> el barrio de los alfareros y del flamenco.</li><li><strong>Carmona e Itálica:</strong> si tienes más días, consulta nuestro artículo de Carmona y los alrededores.</li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y moverse</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>De Hispalis a la puerta de América</h2></div>
+<p>Sevilla fue la romana <strong>Hispalis</strong> y, cerca de ella, nació <strong>Itálica</strong>, la ciudad de los emperadores Trajano y Adriano. Con los almohades, en el <strong>siglo XII</strong>, se levantó la gran mezquita cuyo alminar es hoy la <strong>Giralda</strong> (1184-1198). Fernando III conquistó la ciudad en <strong>1248</strong>, y la mezquita acabó convertida en catedral: a partir de <strong>1401</strong> se construyó una enorme catedral gótica sobre ella.</p>
+<p>Tras el descubrimiento de América, la <strong>Casa de la Contratación</strong> (1503) dio a Sevilla el monopolio del comercio con las Indias y la convirtió en una de las ciudades más ricas de Europa. Más cerca en el tiempo, la <strong>Exposición Universal de 1992</strong> transformó la isla de la Cartuja y renovó la ciudad.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y moverse</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> la estación de Santa Justa queda a unos 25-30 minutos andando del centro, o a pocos minutos en bus o taxi.</p><p><strong>En coche:</strong> el centro tiene muchas calles peatonales y es difícil aparcar; deja el coche en un aparcamiento y muévete a pie o en transporte público.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sevilla" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Sevilla en dos días</h2><ul><li><b>Día 1 (mañana)</b>: Catedral y Giralda, Archivo de Indias y Real Alcázar, con entradas reservadas.</li><li><b>Día 1 (tarde)</b>: Barrio de Santa Cruz, Iglesia del Salvador y Setas de Sevilla.</li><li><b>Día 2</b>: Plaza de España, Parque de María Luisa y, al atardecer, Torre del Oro y Triana.</li><li><b>Ropa</b>: hombros y rodillas cubiertos en la catedral.</li><li><b>Calor</b>: evita el mediodía en verano: deja los interiores para las horas centrales.</li></ul></div>

@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Barcelona"
 faq:
+  - q: "¿Quién planificó el Eixample de Barcelona?"
+    a: "El ingeniero Ildefons Cerdà, con un plan aprobado a mediados del siglo XIX."
   - q: "¿Qué ver en Barcelona en 3 días?"
     a: "Día 1: Sagrada Família y Park Güell. Día 2: Casa Batlló, La Pedrera y el Barrio Gótico. Día 3: Barceloneta y Montjuïc."
   - q: "¿Hay que reservar la Sagrada Família?"
@@ -56,7 +58,12 @@ Una basílica de **Gaudí** que lleva en obras desde 1882, un casco gótico de c
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Para completar el viaje</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Búnkers del Carmel:</strong> uno de los mejores miradores gratuitos de la ciudad: <a href='/blog/bunkers-del-carmel.html'>leer</a>.</li><li><strong>Montserrat:</strong> <a href='/blog/montserrat.html'>excursión de medio día</a>.</li><li><strong>Sant Romà de Sau:</strong> <a href='/blog/sant-roma-de-sau.html'>una escapada diferente</a>.</li><li><strong>La Rambla y la Boqueria:</strong> para comer y pasear, aunque muy turísticos.</li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y moverse</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>De Barcino al Eixample</h2></div>
+<p>Los romanos fundaron <strong>Barcino</strong> hace unos dos mil años, en el actual Barrio Gótico, y todavía se ven restos de su muralla y de un templo bajo el centro. En la Edad Media fue la capital de la Corona de Aragón. A mediados del siglo XIX se derribaron las murallas y se aprobó el plan del ingeniero <strong>Ildefons Cerdà</strong> para el <strong>Eixample</strong>, la cuadrícula de calles con las esquinas achaflanadas.</p>
+<p>La burguesía de esa época financió el <strong>Modernismo</strong>: Gaudí, Domènech i Montaner y Puig i Cadafalch. Las exposiciones universales de <strong>1888</strong> y <strong>1929</strong> y los Juegos Olímpicos de <strong>1992</strong> modernizaron la ciudad.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y moverse</h2></div>
 <div class="guide__howto"><p><strong>En avión o tren:</strong> el aeropuerto de El Prat y la estación de Sants conectan con el centro en metro, tren y autobús. Desde Madrid hay AVE en unas 2 horas y media.</p><p><strong>En la ciudad:</strong> el metro y el autobús llegan a todas partes; evita el coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Barcelona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Barcelona en tres días</h2><ul><li><b>Día 1 · Gaudí</b>: Sagrada Família por la mañana, Park Güell después y paseo por Gràcia.</li><li><b>Día 2 · Modernismo y gótico</b>: Casa Batlló y La Pedrera; por la tarde Barrio Gótico y plaza del Rei.</li><li><b>Día 3 · Mar y montaña</b>: Barceloneta y Montjuïc en teleférico, o excursión a Montserrat.</li><li><b>Reserva todo</b>: Sagrada Família, Park Güell, Batlló y Pedrera se agotan.</li><li><b>Cuidado</b>: con los carteristas en La Rambla y el metro.</li></ul></div>

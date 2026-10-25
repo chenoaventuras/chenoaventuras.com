@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Valencia"
 faq:
+  - q: "¿Qué pasó en Valencia en 1957?"
+    a: "Una gran riada del Turia inundó la ciudad; después se desvió el río y su antiguo cauce se transformó en un parque."
   - q: "¿Cuántos días hacen falta para ver Valencia?"
     a: "Con dos días ves lo imprescindible: el casco antiguo, el Turia y la Ciudad de las Artes y las Ciencias. Con un tercero puedes ir a la Albufera y a la playa con calma."
   - q: "¿Qué es lo más famoso de Valencia?"
@@ -91,6 +93,11 @@ Te cuento qué ver en Valencia, cómo organizarte, dónde comer una **paella de 
 
 <div class="guide__head"><span class="eyebrow">Playa</span><h2>La playa en plena ciudad</h2></div>
 <p>A 20 minutos en tranvía del centro tienes la <strong>Malvarrosa</strong> y la <strong>playa de Las Arenas</strong>: arena fina, un paseo marítimo largo y muchos chiringuitos. Si buscas algo más salvaje, al sur están las playas de <strong>El Saler</strong> y la <strong>Devesa</strong>, entre dunas y pinares, ya dentro del parque natural de la Albufera.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Más de 2.100 años de historia</h2></div>
+<p>Valencia la fundaron los romanos en el año <strong>138 a. C.</strong> con el nombre de <em>Valentia</em>. En <strong>1094</strong> la tomó el Cid, y en <strong>1238</strong> la conquistó definitivamente el rey Jaume I. En el siglo XV, el llamado <strong>Siglo de Oro valenciano</strong>, fue una de las ciudades más ricas del Mediterráneo, y de entonces es la <strong>Lonja de la Seda</strong>, Patrimonio de la Humanidad.</p>
+<p>En <strong>1957</strong> una gran riada del río Turia inundó la ciudad. Como consecuencia, se desvió el río, y el antiguo cauce se convirtió en el <strong>Jardín del Turia</strong>, un parque de casi nueve kilómetros que cruza la ciudad. En él se levantó, desde 1998, la <strong>Ciudad de las Artes y las Ciencias</strong>, de Santiago Calatrava.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Valencia y dónde aparcar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> AVE desde Madrid en menos de 2 horas hasta la estación Joaquín Sorolla, en pleno centro.</p><p><strong>En avión:</strong> el aeropuerto de Manises está a unos 8 km y se conecta con el centro en metro.</p><p><strong>En coche:</strong> desde Madrid son unos 360 km por la A-3 (unas 3 horas y media).</p><p>Si vas en coche, déjalo en un aparcamiento público o en el hotel y olvídate de él: Valencia tiene <strong>zona de bajas emisiones</strong> y el centro se disfruta mucho más a pie o en bici (hay alquiler público de bicis, Valenbisi, y muchas tiendas de alquiler).</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Ciudad%20de%20las%20Artes%20y%20las%20Ciencias%2C%20Valencia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

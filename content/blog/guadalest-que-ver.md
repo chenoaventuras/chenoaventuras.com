@@ -13,6 +13,8 @@ tags:
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/p/Db_YXJ8xcVo/'
 faq:
+  - q: "¿Cuándo fue declarado conjunto histórico Guadalest?"
+    a: "En 1974."
   - q: "¿Cómo llegar a Guadalest?"
     a: "En coche es lo más cómodo: desde Benidorm son unos 25 km por la CV-70 (media hora) y desde Altea, un tiempo similar por la CV-755. Hay autobús desde Benidorm, pero solo un trayecto al día en cada sentido."
   - q: "¿Cuánto cuesta entrar en Guadalest?"
@@ -67,6 +69,12 @@ Guadalest tiene origen musulmán, y su castillo —el Castell de Guadalest, o ca
 <!--actividades-->
 
 <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Lo mejor es asomarte al mirador y ver el embalse: el agua es de un turquesa que parece retocado, y te aseguro que no lo es.</p></div>
+
+<!--enr-->
+## Un castillo entre dos rocas
+
+<p>Guadalest ya existía en época musulmana y fue conquistado por los cristianos a mediados del <strong>siglo XIII</strong>. Su <strong>castillo de San José</strong> se levantó sobre una roca casi inaccesible, que daba al pueblo una defensa natural; sobre su origen las fuentes dan fechas distintas, entre el siglo VIII y el XI. Con el paso de los siglos sufrió <strong>terremotos y guerras</strong>: durante la guerra de Sucesión española una parte de la fortaleza fue destruida, y la torre y la iglesia se reconstruyeron después.</p>
+<p>En 1974 se declaró el pueblo <strong>conjunto histórico-artístico</strong>. Con la llegada del turismo y la construcción del embalse, que da color turquesa al valle, Guadalest se convirtió en uno de los pueblos más visitados de la Costa Blanca interior, con museos curiosos y tiendas.</p>
 
 ## Cómo llegar a Guadalest
 

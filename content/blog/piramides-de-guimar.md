@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre las Pirámides de Güímar"
 faq:
+  - q: "¿Quién fue Thor Heyerdahl y qué tiene que ver con Güímar?"
+    a: "Un explorador noruego famoso por la expedición Kon-Tiki; estudió las pirámides desde 1990 y defendió que no eran simples montones de piedras."
+  - q: "¿Son realmente pirámides?"
+    a: "No hay consenso: unos las consideran construcciones antiguas y otros, terrazas o montones de piedras de agricultores, quizá del siglo XIX."
   - q: "¿Quién hizo las Pirámides de Güímar?"
     a: "Los arqueólogos creen que las levantaron agricultores en el siglo XIX al limpiar los campos de piedras; Thor Heyerdahl defendía un origen mucho más antiguo."
   - q: "¿Cuántas pirámides hay en Güímar?"
@@ -70,6 +74,11 @@ Te cuento el misterio y cómo visitarlas 👇
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">El debate</span><h2>¿Pirámides o montones de piedras?</h2></div>
+<p>Las pirámides de Chacona se dieron a conocer al gran público en <strong>1990</strong> gracias a un periodista local, y ese mismo año las visitó el explorador noruego <strong>Thor Heyerdahl</strong>. Heyerdahl defendió que no eran simples montones de piedras de agricultores porque sus <strong>escalones y orientación</strong> parecían seguir los solsticios, y pensó en un posible vínculo con culturas antiguas. Gracias a su impulso se frenó una urbanización en los terrenos y el naviero <strong>Fred Olsen</strong> adquirió la zona para crear el actual <strong>Parque Etnográfico</strong>.</p>
+<p>Hay otra explicación, la más aceptada por muchos arqueólogos: serían <strong>majanos</strong>, apilamientos de piedras de los agricultores que despejaban el campo, o <strong>terrazas de cultivo</strong> de época moderna, quizá del siglo XIX. Ningún dato es definitivo, así que el misterio forma parte de la visita. Lo que sí es cierto es que el parque, con su jardín botánico y su exposición sobre la navegación antigua, merece la pena aunque no creas en las pirámides.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a las Pirámides de Güímar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Santa Cruz de Tenerife</strong>, por la autopista TF-1 hacia el sur hasta la salida de Güímar (unos 25 minutos). El parque tiene aparcamiento.</p><p>Desde el sur de la isla (Los Cristianos) son unos 45 minutos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pir%C3%A1mides%20de%20G%C3%BC%C3%ADmar" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

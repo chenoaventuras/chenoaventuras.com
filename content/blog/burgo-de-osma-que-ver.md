@@ -12,6 +12,8 @@ tags:
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DVnhTcgjD7C/'
 faq:
+  - q: "¿Cuándo se empezó a construir la catedral de El Burgo de Osma?"
+    a: "En 1232, con un proyecto gótico."
   - q: "¿Dónde está El Burgo de Osma?"
     a: "En la provincia de Soria (Castilla y León), a orillas del río Ucero."
   - q: "¿Qué ver en El Burgo de Osma?"
@@ -81,6 +83,12 @@ Y si quieres las mejores vistas, sube al **Castillo de Osma**, entre El Burgo de
 <!--actividades-->
 
 <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Mi consejo: quédate hasta que anochezca. La catedral iluminada es otra cosa, y desde el cerro del castillo tienes el pueblo entero a tus pies.</p></div>
+
+<!--enr-->
+## Una villa levantada alrededor de su catedral
+
+<p>La historia de El Burgo de Osma gira en torno a su <strong>catedral</strong>. La <strong>diócesis de Osma</strong> tiene una larga tradición y su obispo <strong>San Pedro de Osma</strong> (siglo XII) levantó la primera catedral románica. En <strong>1232</strong>, con el obispo <strong>Juan Díaz</strong> (que estuvo en la sede entre 1231 y 1240), se empezó una nueva catedral <strong>gótica</strong>, y las obras se alargaron durante siglos hasta la fachada neoclásica y la torre barroca. En su interior está el sepulcro gótico de San Pedro, de mediados del siglo XIII.</p>
+<p>La villa se independizó de la vecina Osma por privilegio de <strong>Alfonso VIII</strong> y creció a la sombra de la catedral y de sus obispos, de ahí que tenga tantos edificios nobles, soportales y una plaza mayor con encanto. Muy cerca están las ruinas de la antigua <strong>Uxama</strong>, la ciudad celtíbera y romana.</p>
 
 ## Cómo llegar a El Burgo de Osma
 

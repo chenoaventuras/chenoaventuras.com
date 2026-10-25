@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Vitoria-Gasteiz"
 faq:
+  - q: "¿Quién fundó Vitoria?"
+    a: "El rey Sancho VI de Navarra, en 1181."
+  - q: "¿Cuándo fue Capital Verde Europea?"
+    a: "En 2012."
   - q: "¿Qué es lo más bonito de Vitoria?"
     a: "El casco medieval con forma de almendra, la catedral de Santa María, la plaza de la Virgen Blanca, los Arquillos y la plaza de España, y su Anillo Verde de parques."
   - q: "¿Cuánto cuesta visitar la catedral de Santa María?"
@@ -77,6 +81,11 @@ Te cuento qué ver en Vitoria, cómo organizarte, dónde está el mejor ambiente
 <div class="guide__head"><span class="eyebrow">Comer</span><h2>Pintxos y pintxo-pote</h2></div>
 <p>Vitoria se toma muy en serio los pintxos. Ha ganado varias veces premios de pintxos de Euskadi, y la mejor forma de conocerla es ir de bar en bar. Las zonas clave son la <strong>calle Cuchillería</strong> y alrededores, en el casco viejo, y la <strong>calle Dato</strong> y el Ensanche.</p>
 <p>No te pierdas el <strong>pintxo-pote</strong>: un día a la semana (normalmente el jueves por la tarde) muchos bares ofrecen un pintxo con cada consumición a precio cerrado, y la ciudad se llena de gente. Prueba también los <strong>goxuas</strong>, el postre típico de Vitoria: capas de nata, bizcocho y crema tostada.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Una villa fundada en 1181</h2></div>
+<p>Vitoria se fundó en <strong>1181</strong> por el rey <strong>Sancho VI de Navarra</strong>, con el nombre de <em>Nueva Victoria</em>, sobre una colina que ya estaba ocupada por una aldea. Pocos años después, en <strong>1200</strong>, pasó a la Corona de Castilla. El casco medieval conserva su <strong>forma de almendra</strong>, con calles concéntricas y cuestas.</p>
+<p>En <strong>1813</strong> fue escenario de la <strong>batalla de Vitoria</strong>, en la que el duque de Wellington derrotó a las tropas de José Bonaparte y aceleró el final de la Guerra de la Independencia. Hoy es una ciudad conocida por sus parques y su apuesta verde: fue <strong>Capital Verde Europea en 2012</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Vitoria y dónde aparcar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Madrid son unos 350 km por la A-1 (unas 3 horas y media); desde Bilbao, unos 45 minutos por la AP-68 o la A-68/N-622.</p><p><strong>En tren:</strong> hay conexiones con Madrid, Barcelona y San Sebastián.</p><p><strong>En avión:</strong> el aeropuerto de Foronda está a unos 8 km, aunque la mayoría de vuelos llegan a Bilbao.</p><p><strong>Dónde aparcar:</strong> en los aparcamientos públicos del centro y el Ensanche, o en zonas de la periferia y moverte en tranvía. El casco viejo es peatonal. Vitoria es muy llana fuera del casco viejo y tiene muchísimos <strong>carriles bici</strong>: alquilar una es la mejor idea.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Santa%20Mar%C3%ADa%2C%20Vitoria-Gasteiz" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
