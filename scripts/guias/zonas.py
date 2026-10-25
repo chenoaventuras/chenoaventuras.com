@@ -129,7 +129,7 @@ ZONAS = {
         ("Día 2", "**Medina del Campo** y el Castillo de la Mota, y atardecer en la muralla de **Urueña**.")],
 ),
 "zamora": dict(
-  nombre="Zamora", h1_txt="Zamora", portada="zamora-que-ver",
+  nombre="Zamora", h1_txt="Zamora", portada="zamora-que-ver", portada_img="/assets/img/blog/toro-que-ver/puente.webp",
   sub="El románico de Zamora, Toro y su Colegiata, Puebla de Sanabria y un pueblo partido con Portugal.",
   titulo_intro="Románico<br>y frontera",
   intro=["Zamora tiene una de las mayores concentraciones de **iglesias románicas** de Europa, y a media hora está **Toro**, con su Colegiata y su vino.",
@@ -145,22 +145,23 @@ ZONAS = {
 ),
 "soria": dict(
   nombre="Soria", h1_txt="Soria", portada="laguna-negra-de-urbion",
-  sub="La Laguna Negra, el campanario hundido, la capital del Duero, Calatañazor, el Cañón del Río Lobos, El Burgo de Osma y Medinaceli.",
+  sub="La Laguna Negra, el campanario hundido, la capital del Duero, La Fuentona, Calatañazor, el Cañón del Río Lobos, El Burgo de Osma y Medinaceli.",
   titulo_intro="Lagunas<br>y leyendas",
   intro=["Soria es naturaleza y leyenda: la **Laguna Negra** de los Picos de Urbión, un **campanario que asoma en mitad de un pantano**, el **Cañón del Río Lobos** con su ermita templaria y el **Monte de las Ánimas** de Bécquer.",
-         "Y pueblos que parecen detenidos en la Edad Media, como **Calatañazor**, **Medinaceli** y **El Burgo de Osma**, además de una capital tranquila a orillas del Duero."],
+         "Y pueblos que parecen detenidos en la Edad Media, como **Calatañazor**, **Medinaceli** y **El Burgo de Osma**, la poza turquesa de **La Fuentona** y una capital tranquila a orillas del Duero, con un parque lleno de ardillas."],
   tips=[("🚗 Cómo moverte", "En **coche**: es una provincia muy despoblada y con poco transporte público."),
         ("🌤️ Cuándo ir", "**Otoño** (colores, setas y niebla) y **primavera**. En invierno hace mucho frío y nieva a menudo."),
         ("🥓 Mi consejo", "No te vayas sin probar los **torreznos de Soria** y la mantequilla.")],
   provincias=["Soria"], fuera=["guia-soria"], orden=["laguna-negra-de-urbion", "la-muedra-campanario-hundido", "soria-que-ver", "monte-de-las-animas-soria", "calatanazor-que-ver", "canon-del-rio-lobos", "burgo-de-osma-que-ver", "medinaceli-que-ver"],
-  plan_titulo="Soria en 3 días",
-  plan=[("Día 1", "**Laguna Negra** por la Senda del Bosque y, al atardecer, el **campanario hundido de La Muedra**."),
-        ("Día 2", "**Soria capital**: San Saturio y el paseo del Duero por la mañana, el centro y el **Monte de las Ánimas** por la tarde."),
-        ("Día 3", "**Calatañazor**, el **Cañón del Río Lobos** y **El Burgo de Osma**; o **Medinaceli** si vuelves hacia Madrid.")],
+  plan_titulo="Soria en 4 días",
+  plan=[("Día 1", "**Soria capital**: San Saturio y el paseo del Duero, San Juan de Duero, la **Alameda de Cervantes** y el **Monte de las Ánimas**. Por la tarde, **Numancia** (a 7 km)."),
+        ("Día 2", "**Laguna Negra** por la Senda del Bosque, **Vinuesa** a mediodía y, al atardecer, el **campanario hundido de La Muedra**."),
+        ("Día 3", "El **Cañón del Río Lobos**, **El Burgo de Osma**, **La Fuentona** y atardecer en **Calatañazor**."),
+        ("Día 4", "Los castillos del sur: **Gormaz**, **Berlanga de Duero**, la ermita de **San Baudelio** y **Almazán**; o **Medinaceli** si vuelves hacia Madrid.")],
 ),
 
 "almeria": dict(
-  nombre="Almería", h1_txt="Almería", portada="cabo-de-gata-que-ver", provincias=["Almería"],
+  nombre="Almería", h1_txt="Almería", portada="cabo-de-gata-que-ver", portada_img="/assets/img/blog/almeria-que-ver/plaza-vieja.webp", provincias=["Almería"],
   orden=["almeria-que-ver", "cabo-de-gata-que-ver", "desierto-de-tabernas", "geoda-de-pulpi", "palomares-bombas"],
   sub="Cabo de Gata, el desierto de Tabernas, la Alcazaba, la Geoda de Pulpí y la historia de Palomares.",
   titulo_intro="Desierto, calas<br>y mucho sol",
@@ -175,7 +176,7 @@ ZONAS = {
         ("Día 3", "**Desierto de Tabernas** por la mañana y, si tienes reserva, la **Geoda de Pulpí**.")],
 ),
 "cadiz": dict(
-  nombre="Cádiz", h1_txt="Cádiz", portada="cadiz-que-ver", provincias=["Cádiz"],
+  nombre="Cádiz", h1_txt="Cádiz", portada="cadiz-que-ver", portada_img="/assets/img/blog/cadiz-que-ver/catedral.webp", provincias=["Cádiz"],
   orden=["cadiz-que-ver", "setenil-de-las-bodegas-que-ver", "grazalema", "punta-de-tarifa", "faro-de-chipiona"],
   sub="La Tacita de Plata, pueblos blancos bajo la roca, la sierra de Grazalema, Tarifa y Chipiona.",
   titulo_intro="Mar, luz<br>y pueblos blancos",
@@ -190,7 +191,7 @@ ZONAS = {
         ("Día 3", "**Tarifa** y la Punta, o **Chipiona** y su faro si vas hacia Sanlúcar.")],
 ),
 "cordoba": dict(
-  nombre="Córdoba", h1_txt="Córdoba", portada="mezquita-de-cordoba", provincias=["Córdoba"],
+  nombre="Córdoba", h1_txt="Córdoba", portada="mezquita-de-cordoba", portada_img="/assets/img/blog/mezquita-de-cordoba/columnas.webp", provincias=["Córdoba"],
   orden=["mezquita-de-cordoba", "cordoba-patios-juderia", "medina-azahara", "priego-de-cordoba"],
   sub="La Mezquita, los patios y la judería, Medina Azahara y Priego, la joya barroca de la Subbética.",
   titulo_intro="La capital<br>del califato",
@@ -204,7 +205,7 @@ ZONAS = {
         ("Día 2", "**Medina Azahara** por la mañana y **Priego de Córdoba** por la tarde.")],
 ),
 "granada": dict(
-  nombre="Granada", h1_txt="Granada", portada="granada-que-ver", provincias=["Granada"],
+  nombre="Granada", h1_txt="Granada", portada="granada-que-ver", portada_img="/assets/img/blog/granada-que-ver/leones.webp", provincias=["Granada"],
   orden=["granada-que-ver", "alpujarra-granada", "guadix-cuevas", "los-cahorros-de-monachil"],
   sub="La Alhambra y el Albaicín, los pueblos de la Alpujarra, las cuevas de Guadix y los Cahorros de Monachil.",
   titulo_intro="La Alhambra<br>y mucho más",
@@ -219,7 +220,7 @@ ZONAS = {
         ("Día 3", "**Guadix** y sus cuevas, o los **Cahorros de Monachil** si te va caminar.")],
 ),
 "huelva": dict(
-  nombre="Huelva", h1_txt="Huelva", portada="rio-tinto", provincias=["Huelva"],
+  nombre="Huelva", h1_txt="Huelva", portada="rio-tinto", portada_img="/assets/img/blog/rio-tinto/tren.webp", provincias=["Huelva"],
   orden=["lugares-colombinos-huelva", "el-rocio-donana", "rio-tinto", "gruta-de-las-maravillas-aracena"],
   sub="Los Lugares Colombinos, El Rocío y Doñana, el río rojo de Riotinto y la Gruta de las Maravillas.",
   titulo_intro="De Colón<br>a Marte",
@@ -234,7 +235,7 @@ ZONAS = {
         ("Día 3", "**Riotinto** y la **Gruta de las Maravillas** de Aracena.")],
 ),
 "jaen": dict(
-  nombre="Jaén", h1_txt="Jaén", portada="ubeda-baeza-que-ver", provincias=["Jaén"],
+  nombre="Jaén", h1_txt="Jaén", portada="ubeda-baeza-que-ver", portada_img="/assets/img/blog/alcala-la-real-fortaleza-de-la-mota/portada.webp", provincias=["Jaén"],
   orden=["jaen-que-ver", "ubeda-baeza-que-ver", "sierra-de-cazorla", "ruta-rio-borosa"],
   sub="La capital del aceite, Úbeda y Baeza, la Sierra de Cazorla y la ruta del río Borosa.",
   titulo_intro="Renacimiento<br>entre olivos",
@@ -249,7 +250,7 @@ ZONAS = {
         ("Día 3", "**Cazorla** y la **ruta del río Borosa**.")],
 ),
 "malaga": dict(
-  nombre="Málaga", h1_txt="Málaga", portada="ronda-que-ver", provincias=["Málaga"],
+  nombre="Málaga", h1_txt="Málaga", portada="ronda-que-ver", portada_img="/assets/img/blog/ronda-que-ver/fondo.webp", provincias=["Málaga"],
   orden=["malaga-que-ver", "ronda-que-ver", "caminito-del-rey", "frigiliana-que-ver", "juzcar-pueblo-pitufo", "castillo-de-colomares"],
   sub="La capital, Ronda y su Tajo, el Caminito del Rey, Frigiliana, Júzcar y el castillo de Colomares.",
   titulo_intro="Costa, tajos<br>y pueblos blancos",
@@ -264,7 +265,7 @@ ZONAS = {
         ("Día 3", "**Frigiliana** y la costa oriental, o **Júzcar** por la Serranía de Ronda.")],
 ),
 "sevilla": dict(
-  nombre="Sevilla", h1_txt="Sevilla", portada="plaza-de-espana-sevilla", provincias=["Sevilla"],
+  nombre="Sevilla", h1_txt="Sevilla", portada="plaza-de-espana-sevilla", portada_img="/assets/img/blog/catedral-de-sevilla/giralda.webp", provincias=["Sevilla"],
   orden=["real-alcazar-sevilla", "catedral-de-sevilla", "plaza-de-espana-sevilla", "carmona-que-ver"],
   sub="El Real Alcázar, la catedral y la Giralda, la Plaza de España y Carmona, a media hora.",
   titulo_intro="Sevilla tiene<br>un color especial",
@@ -279,7 +280,7 @@ ZONAS = {
         ("Día 3", "Excursión a **Carmona**.")],
 ),
 "prepirineo-huesca": dict(
-  nombre="Loarre, Alquézar y Guara", h1_txt="Loarre,<br>Alquézar<br>y Guara", portada="castillo-de-loarre", h1="4rem", completa=("Huesca", "https://www.chenoaventuras.com/blog/guia-huesca.html"),
+  nombre="Loarre, Alquézar y Guara", h1_txt="Loarre,<br>Alquézar<br>y Guara", portada="castillo-de-loarre", portada_img="/assets/img/blog/pasarelas-de-alquezar/portada.webp", h1="4rem", completa=("Huesca", "https://www.chenoaventuras.com/blog/guia-huesca.html"),
   lugares=["castillo-de-loarre", "san-juan-de-la-pena", "pasarelas-de-alquezar", "templo-budista-panillo"],
   sub="El castillo de Loarre, el monasterio de San Juan de la Peña, las pasarelas de Alquézar y el templo budista de Panillo.",
   titulo_intro="Castillos, cañones<br>y monasterios",
@@ -293,7 +294,7 @@ ZONAS = {
         ("Día 2", "**Pasarelas de Alquézar** y el templo budista de **Panillo**.")],
 ),
 "huesca": dict(
-  nombre="Huesca", h1_txt="Huesca", portada="ainsa-que-ver", provincias=["Huesca"], fuera=["guia-huesca"],
+  nombre="Huesca", h1_txt="Huesca", portada="ainsa-que-ver", portada_img="/assets/img/instagram/18153484630375383.webp", provincias=["Huesca"], fuera=["guia-huesca"],
   orden=["pirineo-aragones-que-ver", "ainsa-que-ver", "ruta-cola-de-caballo-ordesa", "senda-de-los-cazadores-ordesa", "castillo-de-loarre", "san-juan-de-la-pena", "pasarelas-de-alquezar"],
   sub="El Pirineo aragonés, Ordesa, Aínsa, Loarre, San Juan de la Peña, Alquézar y la estación de Canfranc.",
   titulo_intro="El Pirineo<br>y su sierra",
@@ -309,7 +310,7 @@ ZONAS = {
         ("Día 4", "**Canfranc** y **San Juan de la Peña**.")],
 ),
 "teruel": dict(
-  nombre="Teruel", h1_txt="Teruel", portada="albarracin-que-ver", provincias=["Teruel"],
+  nombre="Teruel", h1_txt="Teruel", portada="albarracin-que-ver", portada_img="/assets/img/blog/albarracin-que-ver/catedral.webp", provincias=["Teruel"],
   orden=["albarracin-que-ver", "amantes-de-teruel", "que-ver-en-matarrana", "calamocha-pueblo-mas-frio"],
   sub="Albarracín, la ciudad de los Amantes, los pueblos de piedra del Matarraña y el pueblo más frío.",
   titulo_intro="Teruel existe<br>(y enamora)",
@@ -324,7 +325,7 @@ ZONAS = {
         ("Día 3", "El **Matarraña**: Beceite y el Parrizal.")],
 ),
 "zaragoza": dict(
-  nombre="Zaragoza", h1_txt="Zaragoza", portada="monasterio-de-piedra", provincias=["Zaragoza"],
+  nombre="Zaragoza", h1_txt="Zaragoza", portada="monasterio-de-piedra", portada_img="/assets/img/blog/zaragoza-que-ver/plaza-pilar.webp", provincias=["Zaragoza"],
   orden=["zaragoza-que-ver", "monasterio-de-piedra", "belchite-pueblo-viejo", "trasmoz-pueblo-maldito"],
   sub="El Pilar y la Aljafería, el Monasterio de Piedra, el pueblo fantasma de Belchite y Trasmoz.",
   titulo_intro="Basílicas, cascadas<br>y pueblos con historia",
@@ -338,7 +339,7 @@ ZONAS = {
         ("Día 2", "**Monasterio de Piedra** o **Belchite** y **Trasmoz**, según tu ruta.")],
 ),
 "tenerife": dict(
-  nombre="Tenerife", h1_txt="Tenerife", portada="teide", provincias=["Tenerife"],
+  nombre="Tenerife", h1_txt="Tenerife", portada="teide", portada_img="/assets/img/instagram/18075135229685841.webp", provincias=["Tenerife"],
   orden=["tenerife-que-ver", "teide", "barranco-del-infierno-tenerife", "mirador-de-chipeque-tenerife", "drago-milenario-icod", "lago-martianez-puerto-de-la-cruz", "piramides-de-guimar", "arco-de-tajao-tenerife"],
   sub="El Teide, barrancos, miradores sobre el mar de nubes y rincones volcánicos de norte a sur.",
   titulo_intro="Una isla,<br>dos mundos",
@@ -353,7 +354,7 @@ ZONAS = {
         ("Día 3", "Sur: **Barranco del Infierno**, Pirámides de Güímar y el **Arco de Tajao**.")],
 ),
 "gran-canaria": dict(
-  nombre="Gran Canaria", h1_txt="Gran<br>Canaria", portada="roque-nublo", provincias=["Gran Canaria"],
+  nombre="Gran Canaria", h1_txt="Gran<br>Canaria", portada="roque-nublo", portada_img="/assets/img/blog/dunas-de-maspalomas/huellas.webp", provincias=["Gran Canaria"],
   orden=["gran-canaria-que-ver", "las-palmas-vegueta", "arucas", "faro-de-sardina", "piscinas-naturales-agaete", "roque-nublo", "barranco-de-las-vacas", "guayadeque", "dunas-de-maspalomas", "azulejos-de-veneguera", "patalavaca", "puerto-de-mogan"],
   sub="Las Palmas, el Roque Nublo, los barrancos del este, las dunas de Maspalomas y el continente en miniatura.",
   titulo_intro="Un continente<br>en miniatura",
@@ -369,7 +370,7 @@ ZONAS = {
         ("Día 4", "Sur: las **dunas de Maspalomas**, **Patalavaca**, **Los Azulejos de Veneguera** y **Puerto de Mogán**.")],
 ),
 "lanzarote": dict(
-  nombre="Lanzarote y La Graciosa", h1_txt="Lanzarote<br>y La Graciosa", h1="3.9rem", portada="timanfaya", provincias=["Lanzarote", "La Graciosa"],
+  nombre="Lanzarote y La Graciosa", h1_txt="Lanzarote<br>y La Graciosa", h1="3.9rem", portada="timanfaya", portada_img="/assets/img/blog/playa-de-las-conchas-la-graciosa/bermeja.webp", provincias=["Lanzarote", "La Graciosa"],
   orden=["lanzarote-que-ver", "timanfaya", "jameos-del-agua-cueva-de-los-verdes", "barco-telamon-lanzarote", "la-graciosa", "playa-de-las-conchas-la-graciosa", "montana-amarilla-la-graciosa"],
   sub="Timanfaya, los Jameos del Agua, el arte de César Manrique y La Graciosa, la isla sin asfalto.",
   titulo_intro="Volcanes<br>y una isla sin asfalto",
@@ -415,7 +416,7 @@ ZONAS = {
         ("Día 3", "La zona del **volcán Tajogaite** y la costa oeste.")],
 ),
 "la-gomera": dict(
-  nombre="La Gomera", h1_txt="La Gomera", portada="garajonay", provincias=["La Gomera"],
+  nombre="La Gomera", h1_txt="La Gomera", portada="garajonay", portada_img="/assets/img/blog/san-sebastian-de-la-gomera-que-ver/portada.webp", provincias=["La Gomera"],
   orden=["la-gomera-que-ver", "garajonay", "valle-gran-rey", "hermigua-agulo-la-gomera"],
   sub="El bosque de Garajonay, Valle Gran Rey, el norte de Hermigua y Agulo y el silbo gomero.",
   titulo_intro="La isla<br>del silbo",
@@ -477,7 +478,7 @@ ZONAS = {
         ("Día 4", "**Santoña** y el **Faro del Caballo** por la mañana, y **Castro Urdiales** por la tarde.")],
 ),
 "cantabria-occidental": dict(
-  nombre="Comillas, San Vicente y El Soplao", h1_txt="Comillas,<br>San Vicente<br>y El Soplao", portada="comillas-que-ver", h1="3.8rem", completa=("Cantabria", "https://www.chenoaventuras.com/blog/guia-cantabria.html"),
+  nombre="Comillas, San Vicente y El Soplao", h1_txt="Comillas,<br>San Vicente<br>y El Soplao", portada="comillas-que-ver", portada_img="/assets/img/blog/cueva-el-soplao/mirador.webp", h1="3.8rem", completa=("Cantabria", "https://www.chenoaventuras.com/blog/guia-cantabria.html"),
   lugares=["comillas-que-ver", "laberinto-de-villapresente", "san-vicente-de-la-barquera", "cueva-el-soplao", "bosque-de-secuoyas-cabezon-de-la-sal"],
   sub="Comillas y el Capricho de Gaudí, el laberinto de Villapresente, San Vicente de la Barquera, la cueva El Soplao y el bosque de secuoyas.",
   titulo_intro="La costa<br>occidental",
@@ -491,7 +492,7 @@ ZONAS = {
         ("Día 2", "**El Soplao** por la mañana y **San Vicente de la Barquera** por la tarde.")],
 ),
 "liebana": dict(
-  nombre="Picos de Europa: Liébana", h1_txt="Picos<br>de Europa", portada="teleferico-fuente-de", completa=("Cantabria", "https://www.chenoaventuras.com/blog/guia-cantabria.html"),
+  nombre="Picos de Europa: Liébana", h1_txt="Picos<br>de Europa", portada="teleferico-fuente-de", portada_img="/assets/img/blog/desfiladero-de-la-hermida/portada.webp", completa=("Cantabria", "https://www.chenoaventuras.com/blog/guia-cantabria.html"),
   lugares=["desfiladero-de-la-hermida", "potes-santo-toribio-de-liebana", "teleferico-fuente-de"],
   sub="El desfiladero de La Hermida, Potes, el monasterio de Santo Toribio y el teleférico de Fuente Dé.",
   titulo_intro="La Cantabria<br>de montaña",
@@ -539,7 +540,7 @@ ZONAS = {
         ("Día 5", "Picos de Europa: **La Hermida**, **Potes**, **Santo Toribio** y el **teleférico de Fuente Dé**.")],
 ),
 "albacete": dict(
-  nombre="Albacete", h1_txt="Albacete", portada="alcala-del-jucar", provincias=["Albacete"],
+  nombre="Albacete", h1_txt="Albacete", portada="alcala-del-jucar", portada_img="/assets/img/blog/nacimiento-rio-mundo/cascada.webp", provincias=["Albacete"],
   orden=["alcala-del-jucar", "nacimiento-rio-mundo", "chinchilla-de-montearagon", "lagunas-de-ruidera"],
   sub="Alcalá del Júcar, el nacimiento del río Mundo, Chinchilla de Montearagón y las Lagunas de Ruidera.",
   titulo_intro="Hoces, cascadas<br>y castillos",
@@ -567,7 +568,7 @@ ZONAS = {
         ("Día 2", "**Cabañeros**: la raña al amanecer y una ruta.")],
 ),
 "cuenca-mancha": dict(
-  nombre="La Mancha de Cuenca", h1_txt="La Mancha<br>de Cuenca", portada="belmonte-castillo", completa=("Cuenca", "https://www.chenoaventuras.com/blog/guia-cuenca-provincia.html"),
+  nombre="La Mancha de Cuenca", h1_txt="La Mancha<br>de Cuenca", portada="belmonte-castillo", portada_img="/assets/img/blog/belmonte-castillo/noche.webp", completa=("Cuenca", "https://www.chenoaventuras.com/blog/guia-cuenca-provincia.html"),
   lugares=["belmonte-castillo", "finca-antigua-bodega", "ruta-de-las-caras-buendia"],
   sub="El castillo de Belmonte, la bodega Finca Antigua y la Ruta de las Caras de Buendía.",
   titulo_intro="Castillos,<br>vino y misterio",
@@ -596,7 +597,7 @@ ZONAS = {
         ("Día 3", "**Ruta de las Caras** y **castillo de Belmonte**.")],
 ),
 "guadalajara": dict(
-  nombre="Guadalajara", h1_txt="Guada-<br>lajara", portada="siguenza-que-ver", provincias=["Guadalajara"],
+  nombre="Guadalajara", h1_txt="Guada-<br>lajara", portada="siguenza-que-ver", portada_img="/assets/img/blog/atienza-que-ver/portada.webp", provincias=["Guadalajara"],
   orden=["siguenza-que-ver", "pueblos-negros-guadalajara", "brihuega-lavanda", "pastrana-que-ver"],
   sub="Sigüenza y el Doncel, los pueblos negros, la lavanda de Brihuega y la Pastrana de la Princesa de Éboli.",
   titulo_intro="Pizarra, lavanda<br>y villas medievales",
@@ -610,7 +611,7 @@ ZONAS = {
         ("Día 2", "La Alcarria: **Brihuega** y **Pastrana**.")],
 ),
 "toledo": dict(
-  nombre="Toledo", h1_txt="Toledo", portada="consuegra-molinos", provincias=["Toledo"],
+  nombre="Toledo", h1_txt="Toledo", portada="consuegra-molinos", portada_img="/assets/img/blog/toledo/portada.webp", provincias=["Toledo"],
   orden=["cueva-de-hercules-toledo", "piedra-del-rey-moro-toledo", "consuegra-molinos", "puy-du-fou-toledo", "illan-de-vacas"],
   sub="El Toledo de las leyendas, los molinos de Consuegra, Puy du Fou y el pueblo más pequeño de España.",
   titulo_intro="Leyendas<br>y gigantes",
@@ -639,7 +640,7 @@ ZONAS = {
         ("Día 3", "**Sant Romà de Sau** y el pantano.")],
 ),
 "girona": dict(
-  nombre="Girona", h1_txt="Girona", portada="cabo-de-creus", provincias=["Girona"],
+  nombre="Girona", h1_txt="Girona", portada="cabo-de-creus", portada_img="/assets/img/blog/tossa-de-mar-ava-gardner/vila-vella-mar.webp", provincias=["Girona"],
   orden=["besalu-que-ver", "cabo-de-creus", "casa-dali-portlligat", "tossa-de-mar-ava-gardner", "llivia"],
   sub="Besalú, el Cabo de Creus, la casa de Dalí en Portlligat, Tossa de Mar y Llívia, rodeada por Francia.",
   titulo_intro="Costa Brava<br>y pueblos medievales",
@@ -654,7 +655,7 @@ ZONAS = {
         ("Día 3", "**Tossa de Mar**, o **Llívia** si vas hacia el Pirineo.")],
 ),
 "lleida": dict(
-  nombre="Lleida", h1_txt="Lleida", portada="aiguestortes", provincias=["Lleida"],
+  nombre="Lleida", h1_txt="Lleida", portada="aiguestortes", portada_img="/assets/img/blog/congost-de-mont-rebei/c6.webp", provincias=["Lleida"],
   orden=["aiguestortes", "valle-de-aran", "congost-de-mont-rebei", "os-de-civis"],
   sub="Aigüestortes y Sant Maurici, el Valle de Arán, el Congost de Mont-rebei y Os de Civís.",
   titulo_intro="El Pirineo<br>de los lagos",
@@ -683,7 +684,7 @@ ZONAS = {
         ("Día 2", "**Montblanc** y **Miravet**.")],
 ),
 "ceuta-melilla": dict(
-  nombre="Ceuta y Melilla", h1_txt="Ceuta<br>y Melilla", portada="ceuta-que-ver", provincias=["Ceuta", "Melilla"],
+  nombre="Ceuta y Melilla", h1_txt="Ceuta<br>y Melilla", portada="ceuta-que-ver", portada_img="/assets/img/blog/ceuta-que-ver/foso.webp", provincias=["Ceuta", "Melilla"],
   orden=["ceuta-que-ver", "murallas-reales-ceuta", "melilla-que-ver", "melilla-ruta-modernista", "penon-de-velez-de-la-gomera"],
   sub="Las Murallas Reales de Ceuta, Melilla la Vieja, la ruta modernista y el Peñón de Vélez de la Gomera.",
   titulo_intro="España<br>en África",
@@ -712,7 +713,7 @@ ZONAS = {
         ("Día 3", "**Laguna rosa de Torrevieja** o **Benidorm**.")],
 ),
 "castellon": dict(
-  nombre="Castellón", h1_txt="Castellón", portada="peniscola-que-ver", provincias=["Castellón"],
+  nombre="Castellón", h1_txt="Castellón", portada="peniscola-que-ver", portada_img="/assets/img/blog/morella-que-ver/portada.webp", provincias=["Castellón"],
   orden=["peniscola-que-ver", "morella-que-ver", "cuevas-de-san-jose-vall-duixo", "fuente-de-los-banos-montanejos"],
   sub="Peñíscola y el Papa Luna, Morella amurallada, el río subterráneo de San José y las aguas de Montanejos.",
   titulo_intro="Castillos<br>y agua",
@@ -742,7 +743,7 @@ ZONAS = {
         ("Día 3", "**Chulilla** o **Xàtiva**.")],
 ),
 "badajoz": dict(
-  nombre="Badajoz", h1_txt="Badajoz", portada="merida-que-ver", provincias=["Badajoz"],
+  nombre="Badajoz", h1_txt="Badajoz", portada="merida-que-ver", portada_img="/assets/img/blog/zafra-que-ver/portada.webp", provincias=["Badajoz"],
   orden=["merida-que-ver", "zafra-que-ver", "jerez-de-los-caballeros", "olivenza-que-ver"],
   sub="La Mérida romana, Zafra, la templaria Jerez de los Caballeros y Olivenza, que fue portuguesa.",
   titulo_intro="Roma<br>y la frontera",
@@ -757,7 +758,7 @@ ZONAS = {
         ("Día 3", "**Olivenza**.")],
 ),
 "caceres-trujillo": dict(
-  nombre="Cáceres, Trujillo y Monfragüe", h1_txt="Cáceres,<br>Trujillo y<br>Monfragüe", portada="trujillo-que-ver", h1="3.8rem", completa=("Cáceres", "https://www.chenoaventuras.com/blog/guia-caceres.html"),
+  nombre="Cáceres, Trujillo y Monfragüe", h1_txt="Cáceres,<br>Trujillo y<br>Monfragüe", portada="trujillo-que-ver", portada_img="/assets/img/blog/trujillo-que-ver/plaza.webp", h1="3.8rem", completa=("Cáceres", "https://www.chenoaventuras.com/blog/guia-caceres.html"),
   lugares=["caceres-que-ver", "los-barruecos", "trujillo-que-ver", "monfrague", "guadalupe-que-ver"],
   sub="La Ciudad Monumental de Cáceres, Los Barruecos, Trujillo, el Parque Nacional de Monfragüe y Guadalupe.",
   titulo_intro="Piedra<br>y dehesa",
@@ -772,7 +773,7 @@ ZONAS = {
         ("Día 3", "**Guadalupe** y su Real Monasterio.")],
 ),
 "norte-de-caceres": dict(
-  nombre="Norte de Cáceres", h1_txt="Norte de<br>Cáceres", portada="los-pilones-jerte", completa=("Cáceres", "https://www.chenoaventuras.com/blog/guia-caceres.html"),
+  nombre="Norte de Cáceres", h1_txt="Norte de<br>Cáceres", portada="los-pilones-jerte", portada_img="/assets/img/blog/hervas-que-ver/juderia.webp", completa=("Cáceres", "https://www.chenoaventuras.com/blog/guia-caceres.html"),
   lugares=["hervas-que-ver", "los-pilones-jerte", "monasterio-de-yuste", "granadilla-pueblo-abandonado", "meandro-del-melero"],
   sub="Hervás, Los Pilones del Valle del Jerte, el Monasterio de Yuste, Granadilla y el Meandro del Melero.",
   titulo_intro="Valles<br>y gargantas",
@@ -787,7 +788,7 @@ ZONAS = {
         ("Día 3", "Las Hurdes y el **Meandro del Melero**.")],
 ),
 "caceres": dict(
-  nombre="Cáceres", h1_txt="Cáceres", portada="caceres-que-ver", provincias=["Cáceres"], fuera=["guia-caceres"],
+  nombre="Cáceres", h1_txt="Cáceres", portada="caceres-que-ver", portada_img="/assets/img/blog/caceres-que-ver/tejados.webp", provincias=["Cáceres"], fuera=["guia-caceres"],
   orden=["caceres-que-ver", "trujillo-que-ver", "monfrague", "guadalupe-que-ver", "los-barruecos", "monasterio-de-yuste", "hervas-que-ver", "los-pilones-jerte", "granadilla-pueblo-abandonado", "meandro-del-melero"],
   sub="Cáceres medieval, Trujillo, Monfragüe, Guadalupe, Los Barruecos, el Jerte, Hervás y Las Hurdes.",
   titulo_intro="Piedra, buitres<br>y gargantas",
@@ -833,7 +834,7 @@ ZONAS = {
         ("Día 3", "**Cañón del Sil** en catamarán.")],
 ),
 "pontevedra": dict(
-  nombre="Pontevedra", h1_txt="Pontevedra", portada="islas-cies", provincias=["Pontevedra"],
+  nombre="Pontevedra", h1_txt="Pontevedra", portada="islas-cies", portada_img="/assets/img/blog/combarro-que-ver/atardecer.webp", provincias=["Pontevedra"],
   orden=["pontevedra-que-ver", "islas-cies", "combarro-que-ver", "cambados-que-ver"],
   sub="Las Rías Baixas: las Islas Cíes, Combarro, Cambados y la ciudad de Pontevedra.",
   titulo_intro="Las Rías<br>Baixas",
@@ -848,7 +849,7 @@ ZONAS = {
         ("Día 3", "**Cambados** y una bodega.")],
 ),
 "mallorca": dict(
-  nombre="Mallorca", h1_txt="Mallorca", portada="mallorca-que-ver", provincias=["Mallorca"],
+  nombre="Mallorca", h1_txt="Mallorca", portada="mallorca-que-ver", portada_img="/assets/img/blog/palma-de-mallorca-que-ver/portada.webp", provincias=["Mallorca"],
   orden=["mallorca-que-ver", "palma-de-mallorca-que-ver", "soller-que-ver", "hotel-formentor"],
   sub="Palma y su catedral, la Serra de Tramuntana, Sóller y su tren de madera, y Formentor.",
   titulo_intro="Calas<br>y Tramuntana",
@@ -863,7 +864,7 @@ ZONAS = {
         ("Día 3", "**Formentor** y calas del norte.")],
 ),
 "menorca": dict(
-  nombre="Menorca", h1_txt="Menorca", portada="menorca-calas", provincias=["Menorca"],
+  nombre="Menorca", h1_txt="Menorca", portada="menorca-calas", portada_img="/assets/img/blog/favaritx-albufera-des-grau/portada.webp", provincias=["Menorca"],
   orden=["menorca-calas", "ciutadella-que-ver", "mahon-menorca", "favaritx-albufera-des-grau"],
   sub="Calas turquesa, Ciutadella, el puerto de Mahón, el faro de Favàritx y s'Albufera des Grau.",
   titulo_intro="La isla<br>tranquila",
@@ -922,7 +923,7 @@ ZONAS = {
         ("Día 4", "Formentera: **Cala Saona** y el **faro de Cap de Barbaria**.")],
 ),
 "la-rioja": dict(
-  nombre="La Rioja", h1_txt="La Rioja", portada="haro-que-ver", provincias=["La Rioja"],
+  nombre="La Rioja", h1_txt="La Rioja", portada="haro-que-ver", portada_img="/assets/img/blog/logrono-que-ver/portada.webp", provincias=["La Rioja"],
   orden=["logrono-que-ver", "haro-que-ver", "san-millan-de-la-cogolla", "cuzcurrita-rio-tiron-que-ver"],
   sub="Logroño y la calle Laurel, Haro y su Barrio de la Estación, San Millán de la Cogolla y Cuzcurrita.",
   titulo_intro="Vino<br>y monasterios",
@@ -936,7 +937,7 @@ ZONAS = {
         ("Día 2", "**Haro** y sus bodegas, y **San Millán de la Cogolla**.")],
 ),
 "navarra": dict(
-  nombre="Navarra", h1_txt="Navarra", portada="bardenas-reales", provincias=["Navarra"],
+  nombre="Navarra", h1_txt="Navarra", portada="bardenas-reales", portada_img="/assets/img/blog/olite-que-ver/portada.webp", provincias=["Navarra"],
   orden=["pamplona-que-ver", "bardenas-reales", "selva-de-irati", "cuevas-de-zugarramurdi", "fuente-del-vino-irache"],
   sub="Pamplona y San Fermín, el desierto de las Bardenas, la Selva de Irati, las brujas de Zugarramurdi y la fuente del vino.",
   titulo_intro="Del desierto<br>al hayedo",
@@ -951,7 +952,7 @@ ZONAS = {
         ("Día 3", "**Selva de Irati** o **Zugarramurdi**.")],
 ),
 "bizkaia": dict(
-  nombre="Bizkaia", h1_txt="Bizkaia", portada="san-juan-de-gaztelugatxe", provincias=["Bizkaia"],
+  nombre="Bizkaia", h1_txt="Bizkaia", portada="san-juan-de-gaztelugatxe", portada_img="/assets/img/blog/castillo-de-butron/torres.webp", provincias=["Bizkaia"],
   orden=["bilbao-que-ver", "san-juan-de-gaztelugatxe", "puente-de-vizcaya", "castillo-de-butron", "bosque-de-oma"],
   sub="Bilbao y el Guggenheim, Gaztelugatxe, el Puente de Vizcaya, el castillo de Butrón y el bosque de Oma.",
   titulo_intro="Costa brava<br>del norte",
@@ -966,7 +967,7 @@ ZONAS = {
         ("Día 3", "**Puente de Vizcaya** y **castillo de Butrón**.")],
 ),
 "gipuzkoa": dict(
-  nombre="Gipuzkoa", h1_txt="Gipuzkoa", portada="zumaia-juego-de-tronos", provincias=["Gipuzkoa"], fuera=["guia-monte-igueldo"],
+  nombre="Gipuzkoa", h1_txt="Gipuzkoa", portada="zumaia-juego-de-tronos", portada_img="/assets/img/blog/san-sebastian-que-ver/ayuntamiento.webp", provincias=["Gipuzkoa"], fuera=["guia-monte-igueldo"],
   orden=["san-sebastian-que-ver", "zumaia-juego-de-tronos", "hondarribia-que-ver", "isla-de-los-faisanes"],
   sub="San Sebastián y sus pintxos, el flysch de Zumaia, Hondarribia y la isla que cambia de país.",
   titulo_intro="Pintxos<br>y acantilados",
@@ -981,7 +982,7 @@ ZONAS = {
         ("Día 3", "**Hondarribia** y la **isla de los Faisanes**.")],
 ),
 "alava": dict(
-  nombre="Álava", h1_txt="Álava", portada="valle-salado-anana", provincias=["Álava"],
+  nombre="Álava", h1_txt="Álava", portada="valle-salado-anana", portada_img="/assets/img/blog/laguardia-que-ver/calles.webp", provincias=["Álava"],
   orden=["vitoria-gasteiz-que-ver", "laguardia-que-ver", "valle-salado-anana", "parque-natural-valderejo"],
   sub="Vitoria-Gasteiz, Laguardia y la Rioja Alavesa, el Valle Salado de Añana y el parque de Valderejo.",
   titulo_intro="Verde,<br>vino y sal",
@@ -996,7 +997,7 @@ ZONAS = {
         ("Día 3", "**Laguardia** y la Rioja Alavesa.")],
 ),
 "murcia": dict(
-  nombre="Región de Murcia", h1_txt="Región<br>de Murcia", portada="bateria-castillitos-cartagena", provincias=["Murcia"],
+  nombre="Región de Murcia", h1_txt="Región<br>de Murcia", portada="bateria-castillitos-cartagena", portada_img="/assets/img/blog/cartagena-que-ver/portada.webp", provincias=["Murcia"],
   fuera=["medusa-huevo-frito", "ctenoforo-arcoiris-marino", "cormoran-cabo-de-palos", "basura-mar-cabo-de-palos"],
   orden=["snorkel-cabo-de-palos", "naufragio-del-sirio", "pecio-naranjito-cabo-de-palos", "bateria-castillitos-cartagena", "submarino-peral", "caravaca-de-la-cruz", "cueva-del-puerto-calasparra", "rafting-canon-de-almadenes", "fuente-del-gorgoton-cieza"],
   sub="Cabo de Palos, baterías de costa, naufragios, cuevas luminiscentes y rafting por el río Segura.",

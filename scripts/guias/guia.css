@@ -296,3 +296,21 @@ body { font-size: 14px; }
 .article__body .chap--t2 .chap__body .gcard__media { aspect-ratio: 2 / 1; }
 .article__body .chap--t2 .chap__body .guide__head { margin: 10px 0 6px; }
 .chap--t2 .chap__body .guide__plan { padding: 14px 18px; }
+
+/* tarjeta de autor compacta (cuando si no se quedaría sola en la última página) */
+.gauthor--sm { margin-top: 14px; padding: 12px 16px; gap: 14px; }
+.gauthor--sm .authorbox__img { width: 60px; height: 60px; }
+.gauthor--sm .gauthor__btn { margin: 6px 0 2px; }
+
+/* compactación fuerte (niveles 4-6) */
+.chap--t3 .chap__hero { height: 46mm; }
+.chap--t3 .chap__body > p, .chap--t3 .chap__body li { font-size: .78rem; line-height: 1.45; }
+.article__body .chap--t3 .chap__body .gcard__media { aspect-ratio: 5 / 2; }
+.article__body .chap--t3 .chap__body .guide__head { margin: 8px 0 5px; }
+.chap--t3 .chap__body figure.ph img { max-height: 60mm; }
+.chap--t3 .chap__body .gallery img { max-height: 52mm; }
+.chap--t3 .chap__body .guide__plan { padding: 12px 16px; }
+.article__body .chap__body .gallery figure { break-inside: avoid; }
+.article__body .chap__body .gallery.grid--cont { margin-top: -10px; }
+.keepnext { break-after: avoid; }
+.keepnext + p { orphans: 3; widows: 3; }

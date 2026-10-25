@@ -195,6 +195,7 @@ export const ZONE_GUIDES = {
   "juzcar-pueblo-pitufo": {"title": "Guía Málaga", "file": "/assets/guias/guia-malaga-chenoaventuras.pdf"},
   "la-alberca-que-ver": {"title": "Guía Salamanca", "file": "/assets/guias/guia-salamanca-chenoaventuras.pdf"},
   "la-cuevona-cuevas-del-agua": {"title": "Guía Asturias", "file": "/assets/guias/guia-asturias-chenoaventuras.pdf"},
+  "la-fuentona-de-muriel": {"title": "Guía Soria", "file": "/assets/guias/guia-soria-chenoaventuras.pdf"},
   "la-gomera-que-ver": {"title": "Guía La Gomera", "file": "/assets/guias/guia-la-gomera-chenoaventuras.pdf"},
   "la-graciosa": {"title": "Guía Lanzarote y La Graciosa", "file": "/assets/guias/guia-lanzarote-chenoaventuras.pdf"},
   "la-muedra-campanario-hundido": {"title": "Guía Soria", "file": "/assets/guias/guia-soria-chenoaventuras.pdf"},

@@ -66,10 +66,9 @@ El bosque original murió, pero hay uno nuevo. Te cuento cómo visitarlo 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Bosque de Oma</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-oma/ojos.webp" alt="Árboles pintados con ojos en el Bosque de Oma" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Los ojos del bosque</h3><p>La imagen más famosa: ojos que te miran desde los troncos.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-oma/colores.webp" alt="Árboles pintados de colores en el Bosque de Oma" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las rayas de colores</h3><p>Bandas de colores que cruzan varios árboles a la vez.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-oma/figuras.webp" alt="Figuras pintadas en el Bosque de Oma" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las figuras</h3><p>Colócate en el punto marcado y verás cómo se forman.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-oma/santimamine.webp" alt="Cueva de Santimamiñe en Kortezubi" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Cueva de Santimamiñe</h3><p>Al lado del bosque: arte rupestre de hace más de 13.000 años (se visita con reserva).</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-oma/colores.webp" alt="Árboles pintados de colores en el Bosque de Oma" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las rayas de colores</h3><p>Bandas de colores que cruzan varios árboles a la vez.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-oma/figuras.webp" alt="Figuras pintadas en el Bosque de Oma" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las figuras</h3><p>Colócate en el punto marcado y verás cómo se forman.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-oma/santimamine.webp" alt="Cueva de Santimamiñe en Kortezubi" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Cueva de Santimamiñe</h3><p>Al lado del bosque: arte rupestre de hace más de 13.000 años (se visita con reserva).</p></div></li>
 </ol>
 
 

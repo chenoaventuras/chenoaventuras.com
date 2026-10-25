@@ -44,7 +44,6 @@ Te cuento cómo es y cómo llegar 👇
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/patalavaca/portada.webp" alt="Playa de Patalavaca con rocas en primer plano y edificios al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La playa y las rocas</h3><p>La arena oscura, las rocas en primer plano y los edificios escalonados de la urbanización al fondo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/patalavaca/rocas.webp" alt="Rocas y arena de la playa de Patalavaca" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las rocas</h3><p>Entre las rocas se forman rincones muy fotogénicos, sobre todo cuando rompen las olas.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>

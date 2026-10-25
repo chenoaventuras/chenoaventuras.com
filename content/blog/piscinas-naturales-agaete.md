@@ -44,7 +44,6 @@ Te cuento cómo llegar y qué saber antes de meterte 👇
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Agua cristalina en un marco de lava.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piscinas-naturales-agaete/portada.webp" alt="Piscina natural de Las Salinas de Agaete, rodeada de roca volcánica" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las piscinas</h3><p>Agua clarísima encajada entre muros de lava negra. Con mar tranquilo es ideal para nadar.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piscinas-naturales-agaete/piscina.webp" alt="Otra vista de la piscina natural de Agaete con el mar al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Con el mar al fondo</h3><p>La costa de Agaete y sus montañas se ven desde el borde de las piscinas.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>

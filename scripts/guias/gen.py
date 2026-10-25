@@ -136,6 +136,8 @@ def fingerprint(key, posts):
         f = img_file(p["cover"])
         if f:
             h.update(f.read_bytes())
+    if z.get("portada_img") and img_file(z["portada_img"]):
+        h.update(img_file(z["portada_img"]).read_bytes())
     return h.hexdigest()
 
 
@@ -190,7 +192,14 @@ def keep_heads(h):
         if n < len(h) and h[n] == "<" and not re.match(r'<div class="guide__head">|<h[23][ >]', h[n:]):
             c = _end_of(h, n)
             g = re.match(r'<ol class="(guide__grid[^"]*)">', h[n:])
-            if g:
+            gal = re.match(r'<div class="gallery">', h[n:])
+            if gal:
+                # galería de fotos: igual, el título solo se lleva la primera fila
+                figs = re.findall(r"<figure>.*?</figure>", h[n:c], re.S)
+                out.append(f'<div class="keep">{h[a:b]}<div class="gallery">{"".join(figs[:2])}</div></div>')
+                if figs[2:]:
+                    out.append(f'<div class="gallery grid--cont">{"".join(figs[2:])}</div>')
+            elif g:
                 # cuadrícula de fotos: el título solo arrastra la primera fila; el resto sigue en otra lista
                 items, k = [], n + g.end()
                 while True:
@@ -204,6 +213,9 @@ def keep_heads(h):
                 out.append(f'<div class="keep">{h[a:b]}<ol class="{g.group(1)}">{"".join(first)}</ol></div>')
                 if rest:
                     out.append(f'<ol class="{g.group(1)} grid--cont">{"".join(rest)}</ol>')
+            elif h.startswith("<p>", n) and len(re.sub(r"<[^>]+>", "", h[n:c])) > 350:
+                # párrafo largo: puede partirse; el título se queda con sus primeras líneas
+                out.append(f'<div class="keepnext">{h[a:b]}</div>{h[n:c]}')
             else:
                 out.append(f'<div class="keep">{h[a:c]}</div>')
             i = c
@@ -213,7 +225,39 @@ def keep_heads(h):
     return "".join(out)
 
 
-def clean_body(html_, jpg):
+def img_key(path):
+    """Huella del contenido de una foto: dos rutas con el mismo archivo cuentan como la misma foto."""
+    f = img_file(path) if path.startswith("/assets/") else None
+    return hashlib.md5(f.read_bytes()).hexdigest() if f else path
+
+
+def drop_repeated(h, keep):
+    """Quita las fotos que ya salen en otra parte de la guía (keep(src) dice si se queda).
+    Una ficha nunca se queda sin foto: si su foto está repetida, sale la ficha entera; en las demás, la figura."""
+    def media(m):
+        src = re.search(r'src="([^"]+)"', m.group(0)).group(1)
+        return m.group(0) if keep(src) else ""
+
+    def card(m):
+        img = re.search(r'<div class="gcard__media"><img[^>]*src="([^"]+)"', m.group(0))
+        return m.group(0) if not img or keep(img.group(1)) else ""
+
+    def grid(m):
+        g = re.sub(r'<li class="gcard.*?</li>', card, m.group(0), flags=re.S)
+        if "<li" not in g:
+            return ""
+        if g != m.group(0):  # se renumeran las fichas que quedan, sin saltos
+            nums = re.findall(r'<span class="gcard__n">(\d+)</span>', m.group(0))
+            n = iter(range(int(nums[0]) if nums else 1, 999))
+            g = re.sub(r'<span class="gcard__n">\d+</span>', lambda x: f'<span class="gcard__n">{next(n):02d}</span>', g)
+        return g
+    h = re.sub(r'<ol class="guide__grid[^"]*">.*?</ol>', grid, h, flags=re.S)  # todas las fichas van en cuadrícula
+    h = re.sub(r'<figure[^>]*>\s*<img[^>]*>.*?</figure>', media, h, flags=re.S)
+    h = re.sub(r'<p>\s*<img[^>]*>\s*</p>', media, h)
+    return h
+
+
+def clean_body(html_, jpg, keep=None):
     """El cuerpo del post, listo para imprimir: sin botones, notas, CTA ni animaciones."""
     h = re.sub(r"<!--.*?-->", "", html_, flags=re.S)
     h = re.sub(r'<div class="guide__cta">.*?</div>', "", h, flags=re.S)
@@ -225,6 +269,8 @@ def clean_body(html_, jpg):
     h = h.replace(" reveal", "").replace('class="reveal"', "")
     h = re.sub(r'href="/', f'href="{SITE}/', h)
     h = re.sub(r'\s(loading|decoding)="[^"]*"', "", h)
+    if keep:
+        h = drop_repeated(h, keep)
 
     def img(m):
         tag, src = m.group(0), m.group(1)
@@ -269,7 +315,7 @@ def chapter_tails(pdf, n):
                 for sp in ln["spans"]:
                     t = sp["text"].strip()
                     # el número grande del capítulo (los de las fichas de fotos son pequeños)
-                    if sp["size"] > 15 and sp["bbox"][1] < 140 and re.fullmatch(r"\d\d", t) and 1 <= int(t) <= n and int(t) not in starts:
+                    if sp["size"] > 15 and sp["bbox"][1] < 140 and re.fullmatch(r"\d\d", t) and int(t) == len(starts) + 1 <= n:  # van en orden: 01, 02…
                         starts[int(t)] = k
     out, order = [], sorted(starts.items(), key=lambda x: x[1])
     for j, (c, k) in enumerate(order):
@@ -312,12 +358,40 @@ def build(key, posts, tmp):
         src = img_file(path)
         if not src:
             return path
-        out = tmp / (re.sub(r"[^\w-]", "_", path.strip("/")) + f"_{width}.jpg")
+        out = tmp / (re.sub(r"[^\w-]", "_", path.strip("/")) + f"_{width}q.jpg")
         if not out.exists():
-            subprocess.run(["sips", "-Z", str(width), "-s", "format", "jpeg", "-s", "formatOptions", "42", str(src), "--out", str(out)], capture_output=True)
+            # las portadas (de la guía y de cada capítulo) van con buena calidad; las fotos pequeñas, más comprimidas
+            q = "85" if width >= 900 else "60"
+            subprocess.run(["sips", "-Z", str(width), "-s", "format", "jpeg", "-s", "formatOptions", q, str(src), "--out", str(out)], capture_output=True)
         return out.as_uri()
 
     places = places_of(z, posts)
+
+    # cada foto sale una sola vez en toda la guía (salvo la portada, otra vez en su capítulo): primero se reservan las portadas,
+    # luego las fotos de los posts de cada lugar y por último las de los posts resumen (que enlazan a otros lugares)
+    owner = {img_key(posts[s]["cover"]): ("hero", s) for s in places if posts[s]["cover"]}
+    def card_link(li, s):
+        """Lugar de la guía al que lleva una ficha (None si no lleva a otro capítulo)."""
+        m = re.search(r'href="/blog/([\w-]+)\.html"', li)
+        return m.group(1) if m and m.group(1) in places and m.group(1) != s else None
+
+    # posts resumen: los que tienen al menos 2 fichas que llevan a otros lugares con capítulo propio
+    hubs = {s for s in places if sum(1 for li in re.findall(r'<li class="gcard.*?</li>', posts[s]["body"], re.S) if card_link(li, s)) >= 2}
+    for s in [x for x in places if x not in hubs] + [x for x in places if x in hubs]:
+        for src in re.findall(r'<img[^>]*src="(/assets/[^"]+)"', posts[s]["body"]):
+            owner.setdefault(img_key(src), ("body", s))
+
+    def keeper(s):
+        shown = set()
+
+        def keep(src):
+            k = img_key(src)
+            # la portada del capítulo puede repetirse una vez dentro de su propio capítulo
+            if owner.get(k) not in (("body", s), ("hero", s)) or k in shown:
+                return False
+            shown.add(k)
+            return True
+        return keep
 
     def name_of(s):
         p = posts[s]
@@ -333,21 +407,22 @@ def build(key, posts, tmp):
         q = f"{p['lat']},{p['lng']}" if p.get("lat") else quote(name)
         title = p["title"].split(":", 1)[1].strip() if ":" in p["title"] else ""
         eat = ""
-        if p.get("comer"):
+        if p.get("comer") and tight.get(i, 0) < 6:  # nivel 6: «Dónde comer» solo en el post
             lis = "".join(f'<li><strong>{e(r.get("n", ""))}</strong>'
                           + (f' · {r["r"]} ★' if r.get("r") else "")
                           + (f' <span>({r["o"]:,} opiniones)</span>'.replace(",", ".") if r.get("o") else "")
-                          + (f'<br><small>{e(r.get("d", ""))}</small>' if r.get("d") else "") + "</li>" for r in p["comer"])
+                          + (f'<br><small>{e(r.get("d", ""))}</small>' if r.get("d") else "") + "</li>"
+                          for r in p["comer"][:2 if tight.get(i, 0) >= 5 else None])
             eat = f'<div class="eat"><h3>🍽️ Dónde comer</h3><p class="eat__lead">Los restaurantes con mejores opiniones de la zona en Google.</p><ul>{lis}</ul></div>'
         links = (f'<p class="chap__links"><a class="gbtn gbtn--reel" href="{SITE}/blog/{s}.html">Leer el post completo</a>'
                  f'<a class="gbtn" href="https://www.google.com/maps/search/?api=1&query={q}">{PIN} Cómo llegar</a></p>')
-        body = clean_body(p["body"], jpg)
+        body = clean_body(p["body"], jpg, keeper(s))
         acts_here = []
         for a in p["act"][:3]:
             href, plat = aff(a["u"])
             if plat:
                 acts_here.append((a["t"], href, plat))
-        if acts_here:
+        if acts_here and tight.get(i, 0) < 4:  # nivel 4: los planes ya salen en «Actividades recomendadas»
             items = "".join(f'<li><a href="{e(h)}"><span class="pl pl--{"gyg" if pl == "GetYourGuide" else "civ"}">{pl}</span><span>{e(t)}</span><b>Reservar →</b></a></li>' for t, h, pl in acts_here)
             eat += (f'<div class="acts acts--here"><h3>🎟️ Planes para reservar aquí</h3><ul class="acts__list">{items}</ul>'
                     + (CODE_GYG if any(pl == "GetYourGuide" for *_, pl in acts_here) else "") + "</div>")
@@ -357,13 +432,14 @@ def build(key, posts, tmp):
         # cierre del capítulo: los consejos van en un bloque y dónde comer + planes + enlaces en otro
         # (así los consejos pueden quedarse en la página anterior y no dejan un hueco; nunca una página solo con botones)
         body += f'<div class="chap__end">{eat}{links}</div>'
-        return (f'<section class="chap{" chap--t%d" % min(tight.get(i, 0), 2) if tight.get(i) else ""}"><div class="chap__keep">'
+        return (f'<section class="chap{" chap--t%d" % (1 if tight[i] == 1 else 2 if tight[i] < 4 else 3) if tight.get(i) else ""}"><div class="chap__keep">'
                 f'<div class="chap__hero"><img src="{jpg(p["cover"], 900)}" alt="" /><span class="chap__n">{i:02d}</span></div>'
                 f'<div class="chap__head"><span class="eyebrow">{e(kind)}{" · " + e(p["prov"]) if p.get("prov") else ""}</span><h2>{e(name)}</h2>'
                 + (f'<p class="chap__sub">{e(title)}</p>' if title else "")
                 + f'<p class="chap__dek">{e(p["excerpt"])}</p></div></div>'
                 f'<div class="chap__body">{body}</div></section>')
 
+    small_author = False
     tight = {}  # capítulos que se compactan un poco para no dejar una última página casi vacía
     index = "".join(f'<li><b>{i + 1:02d}</b><span>{e(name_of(s))}</span><em>{e(next((TYPES[t] for t in posts[s]["tags"] if t in TYPES), "Lugar"))}</em></li>' for i, s in enumerate(places))
     tips = "".join(f'<div class="guide__tip"><h3>{t}</h3><p>{md(d)}</p></div>' for t, d in z["tips"])
@@ -419,7 +495,7 @@ def build(key, posts, tmp):
 </style></head>
 <body>
 <section class="cover">
-  <img src="{jpg(posts[z['portada']]['cover'], 1500)}" alt="" />
+  <img src="{jpg(z.get('portada_img') or posts[z['portada']]['cover'], 1500)}" alt="" />
   <div class="cover__in"><span class="eyebrow">Guía Chenoaventuras</span><h1>{z['h1_txt']}</h1><p>{e(z['sub'])}</p></div>
   <div class="cover__foot"><span class="brand"><span class="brand__name">Cheno</span><span class="brand__tag">Aventuras</span></span><small>@chenoaventuras<br>chenoaventuras.com</small></div>
 </section>
@@ -433,7 +509,7 @@ def build(key, posts, tmp):
   {"".join(chapter(i + 1, s) for i, s in enumerate(places))}
   {tail}
   {full}
-  {AUTHOR}
+  {AUTHOR.replace("gauthor keep", "gauthor gauthor--sm keep") if small_author else AUTHOR}
 </section>
 </body></html>"""
 
@@ -442,8 +518,13 @@ def build(key, posts, tmp):
     def render(at_end):
         hp = tmp / f"{key}.html"
         hp.write_text(make_doc(at_end))
-        subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--no-pdf-header-footer", "--allow-file-access-from-files",
-                        "--virtual-time-budget=15000", f"--print-to-pdf={out}", hp.as_uri()], capture_output=True)
+        for _ in range(3):  # a veces Chrome se queda colgado: se corta a los 3 minutos y se reintenta
+            try:
+                subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--no-pdf-header-footer", "--allow-file-access-from-files",
+                                "--virtual-time-budget=15000", f"--print-to-pdf={out}", hp.as_uri()], capture_output=True, timeout=180)
+                break
+            except subprocess.TimeoutExpired:
+                pass
         if "--html" in sys.argv:
             shutil.copyfile(hp, OUT.parent.parent / f"guia-{key}.html")
         return last_fill(out)
@@ -464,13 +545,39 @@ def build(key, posts, tmp):
         if tails[c] >= 0.3:
             continue
         before = pages(out)
-        for lvl in (1, 2, 3):
+        for lvl in (1, 2, 3, 4, 5, 6):
             tight[c] = lvl
             fill = render(best)
             if pages(out) < before:
                 break
         else:
             del tight[c]
+            fill = render(best)
+    # la tarjeta de Instagram del final nunca sola en una página: se compacta la tarjeta y, si hace falta, el último capítulo
+    if fill < 0.3:
+        before, last = pages(out), len(places)
+        prev = tight.get(last)
+        small_author = True
+        fill = render(best)
+        for lvl in range((prev or 0) + 1, 7):
+            if pages(out) < before:
+                break
+            tight[last] = lvl
+            fill = render(best)
+        if pages(out) >= before:  # último recurso: se compactan un poco todos los capítulos
+            saved = dict(tight)
+            for c in range(1, last + 1):
+                tight[c] = max(tight.get(c, 0), 2)
+            fill = render(best)
+            if pages(out) >= before:
+                tight.clear()
+                tight.update(saved)
+        if pages(out) >= before:
+            small_author = False
+            if prev:
+                tight[last] = prev
+            else:
+                tight.pop(last, None)
             fill = render(best)
     print(f"  {key}: {len(places)} lugares, {len(acts)} actividades, {out.stat().st_size // 1024} KB, última página al {fill:.0%}")
     return out

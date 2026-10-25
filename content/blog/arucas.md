@@ -45,7 +45,6 @@ Te cuento qué ver y cómo organizarte 👇
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/arucas/portada.webp" alt="Fachada y torres de la iglesia de San Juan Bautista de Arucas" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La iglesia de San Juan Bautista</h3><p>Torres, rosetones y arcos apuntados: de cerca impresiona más todavía que en las fotos.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/arucas/torre.webp" alt="Torre con reloj de la iglesia de San Juan Bautista de Arucas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La torre del reloj</h3><p>Una de las torres neogóticas con su reloj. Sube la vista: los detalles de piedra son lo mejor.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/arucas/fachada.webp" alt="Torres de la iglesia de Arucas con cielo azul" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Desde la plaza</h3><p>El mejor ángulo para fotografiarla es desde abajo, con las torres recortadas contra el cielo.</p></div></li>
 </ol>
 
 <!--cerca-->
