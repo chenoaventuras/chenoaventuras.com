@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre las Bardenas Reales"
 faq:
+  - q: "¿Cómo se formaron las Bardenas Reales?"
+    a: "Con sedimentos de ríos y lagos de hace entre 38 y 2,5 millones de años, que la lluvia y el viento han ido erosionando de forma desigual."
+  - q: "¿Cuándo es Reserva de la Biosfera?"
+    a: "Desde el 7 de noviembre de 2000; fue parque natural en 1999."
   - q: "¿Hay que pagar para entrar en las Bardenas Reales?"
     a: "No, la entrada es gratuita y no necesita reserva."
   - q: "¿Qué horario tienen las Bardenas Reales?"
@@ -51,6 +55,13 @@ Se pueden recorrer en coche, en bici o a pie, pero tienen sus normas (y un polí
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un desierto con aviones de combate</h2></div>
 <p>Las Bardenas son <strong>Parque Natural</strong> y <strong>Reserva de la Biosfera</strong>, pero en mitad de la Bardena Blanca hay un <strong>polígono de tiro del Ejército del Aire</strong>. Es muy normal ver y oír cazas haciendo maniobras, y algunos días se corta parte de la pista que lo rodea.</p><p>El paisaje lo ha esculpido la erosión: la lluvia, escasa pero torrencial, y el cierzo han ido arrastrando las arcillas blandas y dejando en pie las capas más duras. Así nacen los <strong>cabezos</strong> y chimeneas como Castildetierra.</p><div class="guide__legend"><h3>🎬 De plató</h3><p>Aquí se rodaron escenas del <strong>mar Dothraki</strong> en la sexta temporada de <strong>Juego de Tronos</strong> y de la película de James Bond <strong>«El mundo nunca es suficiente»</strong>.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un desierto hecho de barro de los Pirineos</h2></div>
+<p>Las Bardenas no son arena, sino <strong>sedimentos continentales</strong>: arcillas, limos, areniscas y yesos que ríos y lagos fueron depositando entre el <strong>final del Eoceno (hace unos 38 millones de años)</strong> y los comienzos del <strong>Cuaternario</strong>. Los materiales venían de los Pirineos y del Sistema Ibérico, y se fueron apilando en capas horizontales.</p>
+<p>Luego el clima hizo el resto: lluvias escasas pero torrenciales y el <strong>cierzo</strong> ataron a la roca blanda y la dura de forma desigual. Las arcillas se deshacen y las capas más resistentes se quedan en pie, y así nacieron las mesetas, los <strong>cabezos</strong> y las chimeneas como <strong>Castildetierra</strong>. La gran depresión de la <strong>Bardena Blanca</strong> es el resultado de esa erosión, y la <strong>Bardena Negra</strong>, al sur, es una zona más alta de plataformas escalonadas.</p>
+<div class="guide__head"><span class="eyebrow">La protección</span><h2>De zona de uso común a Reserva de la Biosfera</h2></div>
+<p>Parte del territorio se protegió en <strong>1987</strong> con dos reservas naturales. En <strong>1999</strong>, la <strong>Ley Foral 10/1999, de 6 de abril</strong>, lo declaró Parque Natural, el tercero de Navarra, y el <strong>7 de noviembre de 2000</strong> la UNESCO lo incluyó en la Red de Reservas de la Biosfera (la primera de Navarra y la 17.ª de España). Pese a su aspecto de desierto, es un lugar de gran valor para las aves esteparias y los reptiles.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en las Bardenas Reales</h2><p>Los paisajes más icónicos del parque.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

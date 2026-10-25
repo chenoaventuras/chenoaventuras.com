@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Valporquero"
 faq:
+  - q: "¿Cuándo se abrió la Cueva de Valporquero?"
+    a: "En julio de 1966."
+  - q: "¿Cuánto mide el recorrido?"
+    a: "Unos 1.300 metros, con seis salas."
   - q: "¿Cuánto dura la visita a Valporquero?"
     a: "El recorrido normal dura alrededor de una hora, el largo cerca de hora y media y el Insólito unas tres horas."
   - q: "¿Qué temperatura hay dentro?"
@@ -43,6 +47,11 @@ Te cuento los recorridos, los horarios (orientativos) y cómo organizar el día 
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Tres recorridos distintos</h2></div>
 <p>Hay varias opciones. El <strong>recorrido normal</strong> cubre las cinco primeras salas y dura alrededor de una hora. El <strong>recorrido largo</strong> añade las salas Columna Solitaria y Maravillas y dura cerca de hora y media. Y el <strong>Valporquero Insólito</strong> es una visita de unas tres horas que empieza a oscuras, con frontales, y está recomendada para mayores de 12 años.</p><p>Según la web oficial (precios provisionales de 2026), el recorrido normal cuesta 6 € por adulto, el largo 8,50 € y el Insólito 18 €, con tarifas reducidas para niños de 6 a 14 años. <strong>Ojo:</strong> de marzo a abril y de octubre a diciembre la cueva solo abre de jueves a domingo (y festivos); de mayo a septiembre, todos los días.</p><div class="guide__legend"><h3>🔦 Mi consejo</h3><p>Si vas con niños pequeños o con poco tiempo, elige el <strong>recorrido normal</strong>. Si te gusta la aventura, el <strong>Insólito</strong> es una experiencia diferente.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Una cueva que tardó siglos en abrirse</h2></div>
+<p>Valporquero se formó cuando el agua se fue filtrando por las grietas de la <strong>caliza</strong> y la disolvió poco a poco, una obra que sigue hoy: gota a gota crecen estalactitas, estalagmitas, columnas y las famosas formaciones de colores. El recorrido turístico mide unos <strong>1.300 metros</strong> y atraviesa seis salas, con nombres como la <strong>Gran Rotonda</strong>, las <strong>Hadas</strong> o el <strong>Cementerio Estalactítico</strong>.</p>
+<p>La primera exploración registrada es de <strong>1925</strong>, aunque los vecinos conocían la boca desde siempre, y tras muchos años de exploraciones la <strong>Diputación de León</strong> la abrió al público en <strong>julio de 1966</strong> (las fuentes dan el 30 o el 31). Desde entonces ha recibido millones de visitantes, y hoy es una de las visitas más populares de la provincia.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la Cueva de Valporquero</h2><p>Salas, estalactitas y luces.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

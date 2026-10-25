@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Desierto de Tabernas"
 faq:
+  - q: "¿Cuándo es paraje natural el Desierto de Tabernas?"
+    a: "Desde 1989, con unos 280 km²."
+  - q: "¿Quién rodó aquí los spaghetti western?"
+    a: "Sergio Leone, que llegó en 1964 para rodar «Por un puñado de dólares»."
   - q: "¿El Desierto de Tabernas es el único desierto de Europa?"
     a: "Así se le conoce: es una de las zonas más áridas del continente, con muy pocas lluvias y un paisaje de cárcavas y ramblas típico de desierto."
   - q: "¿Qué películas se rodaron en el Desierto de Tabernas?"
@@ -56,6 +60,11 @@ Te cuento qué tiene de especial, qué ver y cómo exprimir una escapada al «sa
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>¿Es de verdad el único desierto de Europa?</h2></div>
 <p>Así se le conoce. Es una de las zonas <strong>más secas de Europa</strong>: llueve muy poco y la sierra que lo rodea frena las nubes del mar. El resultado es un paisaje de <em>badlands</em>, cárcavas de arcilla y yeso que la poca lluvia que cae ha ido arañando. Está protegido como <strong>Paraje Natural desde 1989</strong>.</p><div class="guide__legend"><h3>🎬 Un plató de cine</h3><p>Desde los años 60 se han rodado aquí <strong>cientos de películas y series</strong>: la trilogía del dólar de Sergio Leone con Clint Eastwood («Por un puñado de dólares», «La muerte tenía un precio» y «El bueno, el feo y el malo»), escenas de «Lawrence de Arabia» o «Indiana Jones y la última cruzada», y también «Juego de Tronos».</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>De lecho de mar a plató del Oeste</h2></div>
+<p>Tabernas es un paisaje de <strong>badlands</strong>: arcillas y yesos que llevan millones de años sometidos a una lluvia casi inexistente (menos de unos 200-250 mm al año, según la fuente) y a lluvias torrenciales que abren <strong>cárcavas</strong> y ramblas. Por eso nada crece y todo parece una pared cortada: es un paisaje muy distinto al del resto de Almería. Desde <strong>1989</strong> es <strong>Paraje Natural</strong>, con unos 280 km².</p>
+<p>Su aspecto de Far West no pasó inadvertido: en <strong>1964</strong> llegó <strong>Sergio Leone</strong> buscando escenarios para <em>Por un puñado de dólares</em>, y el desierto se convirtió en el plató de la <strong>trilogía del dólar</strong>. De esa época nacieron los poblados que hoy se visitan: <strong>Fort Bravo (Texas Hollywood)</strong>, el más antiguo, <strong>Mini Hollywood (Oasys)</strong> y <strong>Western Leone</strong>. El número exacto de películas rodadas varía mucho entre fuentes (de más de 150 a más de 600 producciones), así que lo más prudente es decir «cientos».</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Desierto de Tabernas</h2><p>Paisaje lunar y decorados de película.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

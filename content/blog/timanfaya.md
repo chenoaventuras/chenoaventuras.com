@@ -12,6 +12,10 @@ tags:
   - Canarias
 wide: true
 faq:
+  - q: "¿Cuándo fue la erupción de Timanfaya?"
+    a: "Del 1 de septiembre de 1730 al 16 de abril de 1736, casi seis años."
+  - q: "¿Cuántos volcanes tiene el parque?"
+    a: "Más de 25."
   - q: "¿Cuánto cuesta entrar a Timanfaya?"
     a: "La entrada a las Montañas del Fuego incluye la Ruta de los Volcanes y las demostraciones. Consulta el precio actual en la web de los Centros Turísticos de Lanzarote."
   - q: "¿Se puede visitar Timanfaya por libre?"
@@ -58,6 +62,13 @@ Y la tierra sigue caliente: a pocos metros de profundidad hay cientos de grados.
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un restaurante que cocina con el volcán</h2></div>
 <p>En el <strong>Islote de Hilario</strong>, la temperatura a pocos metros bajo el suelo supera los <strong>400 °C</strong>. Los guías echan agua por un tubo y sale disparada en forma de géiser, o meten ramas secas en un agujero y arden solas. Y en el restaurante El Diablo, diseñado por César Manrique, <strong>asan la carne sobre un pozo</strong> que sale directamente del volcán.</p><div class="guide__legend"><h3>🍗 Comer pollo hecho con el calor del volcán</h3><p>La idea es muy curiosa: la carne se asa en una parrilla colocada encima del pozo, solo con el calor que sale del volcán. Yo al final no lo probé porque me pareció <strong>carísimo</strong>: en la carta actual el <strong>medio pollo cuesta 21 €</strong>, los muslos 18 €, la brocheta de cerdo y pollo 20 €, el entrecot 26 € y las papas con mojo 7,50 €. Y eso sin contar la entrada al parque. Si te apetece darte el capricho, adelante; si no, ver la parrilla ya merece la pena.</p></div><div class="guide__legend"><h3>🚌 No se puede ir por libre</h3><p>Para proteger el parque, la Ruta de los Volcanes solo se hace en el autobús oficial. Si quieres caminar entre volcanes, hay rutas guiadas gratuitas del Parque Nacional con reserva previa.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La erupción que duró casi seis años y cambió Lanzarote</h2></div>
+<p>El <strong>1 de septiembre de 1730</strong>, de noche, se abrió la tierra cerca de Timanfaya, a pocas leguas de Yaiza. Aquel fue el comienzo de una de las erupciones más largas de la historia: duró hasta el <strong>16 de abril de 1736</strong>, es decir, <strong>cinco años, siete meses y dieciséis días</strong>. Lo sabemos por la crónica del párroco de Yaiza, <strong>Andrés Lorenzo Curbelo</strong>, que fue anotando lo que veía mientras ríos de lava enterraban pueblos enteros.</p>
+<p>Las coladas cubrieron una buena parte de las mejores tierras de cultivo y arrasaron aldeas como Timanfaya, Rodeo, Mancha Blanca, Maretas, Santa Catalina o Mazo. Muchos vecinos tuvieron que huir, y la isla quedó casi despoblada durante unos años: se emigró sobre todo a Fuerteventura. Las cifras de superficie cubierta varían según la fuente, entre unos 50 y unos 200 km², así que mejor tomarlas como aproximadas.</p>
+<p>Después llegaron otras erupciones más breves, como la de <strong>1824</strong>, que remodelaron algo el mismo paisaje. Hoy el parque tiene más de <strong>25 volcanes</strong>, y los campos de lava negra, rojiza y ocre son tan parecidos a otro planeta que se ha usado como escenario de cine y como zona de pruebas para la exploración espacial.</p>
+<div class="guide__legend"><h3>🔥 Un volcán que sigue caliente</h3><p>Bajo el Islote de Hilario la temperatura a pocos metros de profundidad supera los 400 °C. Es el calor residual de aquel magma, casi tres siglos después.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Timanfaya y alrededores</h2><p>Volcanes, lagos verdes y acantilados de lava.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

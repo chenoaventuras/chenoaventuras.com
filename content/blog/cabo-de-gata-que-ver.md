@@ -12,6 +12,10 @@ tags:
   - Andalucía
 wide: true
 faq:
+  - q: "¿Cuándo es parque natural Cabo de Gata-Níjar?"
+    a: "Desde 1987."
+  - q: "¿De dónde viene el oro de Rodalquilar?"
+    a: "De fluidos calientes ligados al antiguo volcanismo, que depositaron minerales en las rocas."
   - q: "¿Se puede ir en coche a la playa de Mónsul?"
     a: "Fuera de temporada, sí. En verano el acceso está regulado, con aparcamiento de pago y autobús lanzadera desde San José."
   - q: "¿Qué película se rodó en la playa de Mónsul?"
@@ -60,6 +64,11 @@ En la playa de **Mónsul** rodaron una escena de *Indiana Jones*, y en el faro h
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>El Arrecife de las Sirenas</h2></div>
 <p>Cabo de Gata es de origen <strong>volcánico</strong>: sus playas de arena oscura, sus calas encajadas entre coladas de lava y sus formas imposibles vienen de volcanes de hace millones de años. Es uno de los pocos parques naturales volcánicos de la península.</p><div class="guide__legend"><h3>🧜 Las sirenas eran focas</h3><p>Junto al faro hay unos islotes de roca llamados el <strong>Arrecife de las Sirenas</strong>. Los marineros oían por la noche unos lamentos y creían que eran sirenas… pero eran <strong>focas monje</strong>, que vivieron aquí hasta mediados del siglo XX.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un volcán que ya no está, pero se ve</h2></div>
+<p>Hace entre <strong>15 y 8 millones de años</strong> (las fechas exactas varían según la fuente) esta costa fue un campo volcánico muy activo, del que solo emerge una pequeña parte: el resto sigue bajo el mar. De entonces son los acantilados negros, las calas encajadas entre coladas de lava, y también el <strong>caldera de Rodalquilar</strong>, un gran cráter hundido que es de los mejores ejemplos de España.</p>
+<p>El volcán dejó otra herencia: el <strong>oro</strong>. Los fluidos calientes que circularon por las rocas depositaron minerales, y a principios del siglo XX se empezó a explotar en <strong>Rodalquilar</strong>. La minería a escala industrial se mantuvo desde <strong>1931</strong> (en otras fuentes, desde 1940) hasta <strong>1966</strong>, y todavía se ven las ruinas de las instalaciones. El espacio es <strong>Parque Natural desde 1987</strong> y Reserva de la Biosfera de la UNESCO.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Cabo de Gata</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

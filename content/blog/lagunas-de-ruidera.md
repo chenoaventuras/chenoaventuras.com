@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre las Lagunas de Ruidera"
 faq:
+  - q: "¿Cuándo es parque natural Ruidera?"
+    a: "Desde el 13 de julio de 1979."
+  - q: "¿Qué es la Cueva de Montesinos?"
+    a: "Una cueva de origen kárstico donde Cervantes sitúa un famoso episodio del Quijote."
   - q: "¿Se puede bañar en las Lagunas de Ruidera?"
     a: "Sí, en verano el baño está permitido en zonas autorizadas de varias lagunas. En el resto está prohibido para proteger el parque natural."
   - q: "¿Cuántas lagunas hay en Ruidera?"
@@ -50,6 +54,11 @@ Te cuento dónde bañarte, qué actividades hacer y qué rincones no te puedes p
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un río que baja en escalera</h2></div>
 <p>Las lagunas son en realidad el <strong>alto Guadiana</strong> represado de forma natural por barreras de <strong>toba</strong>, una roca caliza que forma el propio agua. Así se crea una escalera de quince lagunas que bajan unos 120 metros en unos 30 km, saltando de una a otra en cascadas. Son <strong>Parque Natural desde 1979</strong>.</p><div class="guide__legend"><h3>📖 Ruidera en el Quijote</h3><p>Cervantes situó aquí uno de los episodios más famosos del Quijote: la bajada de don Quijote a la <strong>Cueva de Montesinos</strong>, que está en el parque y se puede visitar. Según la novela, las lagunas eran la dueña Ruidera y sus hijas, encantadas por el mago Merlín.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Una dueña encantada, una cueva y dos castillos</h2></div>
+<p>El parque natural se declaró el <strong>13 de julio de 1979</strong> y abarca unas <strong>3.800 hectáreas</strong> en cinco municipios. Las fuentes dan entre <strong>15 y 16 lagunas</strong>, según cómo se cuenten las más pequeñas, enlazadas por saltos, arroyos y corrientes subterráneas.</p>
+<p>Cervantes situó aquí los capítulos XXII y XXIII de la segunda parte del <em>Quijote</em>, cuando don Quijote desciende a la <strong>Cueva de Montesinos</strong> y cuenta que ha visto a la dueña <strong>Ruidera</strong> y a sus hijas, convertidas por el encantador Merlín en río y lagunas. La cueva existe, está en Ossa de Montiel, y es una cavidad de origen endocárstico, con un pequeño lago interior que se sabe conectado por corrientes subterráneas con las lagunas. Dentro del parque también quedan el <strong>castillo de Peñarroya</strong> y las ruinas del <strong>castillo de Rochafrida</strong>, un nombre ligado a la poesía de romances.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en las Lagunas de Ruidera</h2><p>Agua turquesa, cascadas y algún guiño al Quijote.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

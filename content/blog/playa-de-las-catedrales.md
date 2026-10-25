@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Playa de las Catedrales"
 faq:
+  - q: "¿Por qué hay arcos en la Playa de las Catedrales?"
+    a: "Porque el mar ha excavado la roca fracturada (pizarras y cuarcitas) y ha dejado cuevas, túneles y arcos."
   - q: "¿Hay que reservar para ir a la Playa de las Catedrales?"
     a: "Sí, pero solo en Semana Santa y del 1 de julio al 30 de septiembre. La reserva es gratuita y se hace en la web oficial de la Xunta, con hasta 30 días de antelación. El resto del año el acceso es libre."
   - q: "¿Cuánto cuesta visitar la Playa de las Catedrales?"
@@ -73,6 +75,11 @@ Además, en temporada alta **hay que reservar**. Te explico cómo organizar la v
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Por qué se llama «de las Catedrales»</h2></div>
 <p>Su nombre oficial es <strong>praia de Augas Santas</strong>, pero todo el mundo la llama de las Catedrales por sus arcos de roca, que recuerdan a los <strong>arbotantes de una catedral gótica</strong>. Los ha ido tallando el mar durante miles de años en las pizarras y esquistos del acantilado.</p><div class="guide__legend"><h3>⚠️ Ojo con la marea</h3><p>Con la marea alta el agua llega hasta los acantilados y no hay playa. Es muy fácil quedarse aislado en una cueva si te despistas: <strong>mira la tabla de mareas</strong> y no apures.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Quinientos millones de años de roca… y el mar como escultor</h2></div>
+<p>Los acantilados están hechos de <strong>pizarras y cuarcitas</strong> de unos <strong>500 millones de años</strong>, que se plegaron y se endurecieron durante la orogenia varisca. Esa roca está muy <strong>fracturada</strong>: el mar, con los siglos, se ha ido colando por las grietas y ha excavado <strong>cuevas, túneles y arcos</strong>. Según el Instituto Geológico y Minero, este tramo de costa tiene <strong>el mayor número de arcos marinos de España</strong>.</p>
+<p>Es <strong>Monumento Natural</strong>, forma parte de la Red Natura 2000 y está dentro de la Reserva de la Biosfera Eo-Oscos y Terras de Burón. Su nombre oficial es <strong>Augas Santas</strong>; el de «las Catedrales», por sus arcos de aire gótico, se popularizó hacia mediados del siglo XX.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la Playa de las Catedrales</h2><p>Con la marea baja, la playa es un laberinto de roca.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

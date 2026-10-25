@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre las Hoces del Duratón"
 faq:
+  - q: "¿Cuándo es parque natural las Hoces del Duratón?"
+    a: "Desde 1989."
+  - q: "¿Cuántos buitres hay en las Hoces del Duratón?"
+    a: "Los censos citados hablan de más de 700 parejas de buitre leonado."
   - q: "¿Cómo se llega a la ermita de San Frutos?"
     a: "Desde Villaseca, por una pista de unos 4 km hasta el aparcamiento de San Frutos, y desde allí unos 20 minutos andando."
   - q: "¿Se puede hacer kayak en las Hoces del Duratón?"
@@ -65,6 +69,11 @@ A una hora y media de Madrid, es uno de los paisajes más bestias del centro de 
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>San Frutos y La Cuchillada</h2></div>
 <p>En el siglo VII vivieron aquí como ermitaños <strong>San Frutos</strong> y sus hermanos Valentín y Engracia, hoy patrones de Segovia. Siglos después, los monjes benedictinos levantaron un <strong>priorato románico</strong> en el mismo sitio, al borde del cañón, del que hoy quedan la iglesia y algunas ruinas.</p><div class="guide__legend"><h3>⚔️ La Cuchillada</h3><p>Antes de llegar a la ermita, una grieta corta la roca: <strong>La Cuchillada</strong>. Cuenta la leyenda que San Frutos, perseguido por un grupo de musulmanes, trazó una raya en el suelo con su cayado y la roca se abrió, dejando a sus perseguidores al otro lado. Hoy se cruza por un puente de piedra.</p></div><div class="guide__legend"><h3>👏 El eco de San Frutos</h3><p>Una curiosidad que te recomiendo probar: al final de la iglesia de San Frutos, junto al cementerio, <strong>da una palmada</strong> y escucha cómo el sonido rebota en las paredes del cañón y vuelve en forma de eco. Hazlo con respeto, sin gritar: es un lugar tranquilo y lleno de buitres.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un cañón excavado en la caliza</h2></div>
+<p>Las hoces son el resultado de millones de años de trabajo del <strong>río Duratón</strong>, que ha ido encajándose en la <strong>caliza y la dolomía</strong> hasta formar un cañón de unos <strong>100 metros</strong> de profundidad (algunas fuentes dan 70) con meandros muy cerrados. En el entorno de la Silla de Caballo se ve un <strong>pliegue en rodilla</strong> de las capas, una huella de la <strong>orogenia alpina</strong>, el mismo empujón que levantó los Pirineos.</p>
+<p>Esas paredes verticales tienen cornisas y cuevas, el hábitat perfecto del <strong>buitre leonado</strong>: el parque alberga una de las mayores colonias de la especie en Europa, con más de 700 parejas según los censos que se citan. El espacio se declaró <strong>Parque Natural en 1989</strong>, con unas <strong>5.000 hectáreas</strong>, y también es zona de especial protección para las aves.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en las Hoces del Duratón</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
