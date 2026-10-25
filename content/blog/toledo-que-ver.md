@@ -33,6 +33,9 @@ Una ciudad amurallada sobre un meandro del Tajo, con **catedral gótica, un alc�
 
 Te cuento qué ver, en qué orden hacerlo en un día (o en dos) y cómo ahorrar tiempo y dinero 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral Primada</span></div><div><b>🏰</b><span>Alcázar</span></div><div><b>🕍</b><span>Sinagogas</span></div><div><b>🎨</b><span>El Greco</span></div><div><b>🗡️</b><span>Mazapán</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Toledo: lo básico antes de ir</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚆 Cómo llegar</h3><p>Desde Madrid-Atocha hay tren Avant en unos <strong>30-35 minutos</strong>, bus en torno a una hora y coche en una hora aproximadamente. La estación y el casco histórico están separados por una cuesta: cuenta 20-30 minutos andando o un bus urbano.</p></div>

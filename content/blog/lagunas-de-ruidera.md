@@ -38,6 +38,9 @@ En mitad de la llanura manchega, de repente, aparece un rosario de **quince lagu
 
 Te cuento dónde bañarte, qué actividades hacer y qué rincones no te puedes perder 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏊</b><span>Baño</span></div><div><b>🛶</b><span>Kayak</span></div><div><b>💧</b><span>Lagunas</span></div><div><b>🥾</b><span>Rutas</span></div><div><b>📖</b><span>El Quijote</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ruidera</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Entre las provincias de <strong>Ciudad Real y Albacete</strong>, alrededor de los pueblos de Ruidera y Ossa de Montiel, a unas 2 horas y media de Madrid.</p></div>

@@ -36,6 +36,9 @@ Una **iglesia del siglo IX** en lo alto de una colina, con planta de cruz griega
 
 Te cuento qué ver, cuándo se puede entrar y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Iglesia prerrománica</span></div><div><b>🌍</b><span>Patrimonio de la Humanidad</span></div><div><b>🏔️</b><span>Montañas</span></div><div><b>🌳</b><span>Árboles</span></div><div><b>🕐</b><span>Horarios</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Santa Cristina de Lena: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛪ Qué es</h3><p>Una iglesia prerrománica de mediados del siglo IX (hacia 852, en tiempos de Ramiro I), de estilo ramirense.</p></div>

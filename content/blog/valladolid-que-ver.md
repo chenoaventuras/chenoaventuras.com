@@ -37,6 +37,9 @@ Aquí nació Felipe II, aquí murió Colón, aquí vivió Cervantes cuando se pu
 
 Te cuento qué ver en Valladolid, cómo organizar el día y dónde ir de pinchos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🏛️</b><span>Colegio de San Gregorio</span></div><div><b>⛪</b><span>San Pablo</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🔥</b><span>Incendio de 1561</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Valladolid</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el centro de Castilla y León, junto al río Pisuerga. A <strong>una hora de Madrid en AVE</strong>.</p></div>

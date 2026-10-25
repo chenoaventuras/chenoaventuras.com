@@ -28,6 +28,9 @@ Casas blancas con balcones de colores, buganvillas en cascada, canales con puent
 
 Te cuento qué ver y cuándo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⚓</b><span>Puerto</span></div><div><b>🌸</b><span>Calles con flores</span></div><div><b>🛍️</b><span>Mercadillo</span></div><div><b>🏘️</b><span>Casas blancas</span></div><div><b>🚤</b><span>Pequeña Venecia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Puerto de Mogán: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚤 El puerto</h3><p>Un <strong>muelle deportivo y pesquero</strong> con unos 246 puestos de atraque. Las barcas de pesca conviven con los yates, y unos canales lo conectan con el pueblo.</p></div>

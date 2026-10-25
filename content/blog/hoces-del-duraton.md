@@ -53,6 +53,9 @@ Un río que serpentea en curvas imposibles al fondo de un cañón, cientos de **
 
 A una hora y media de Madrid, es uno de los paisajes más bestias del centro de España 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦅</b><span>Buitres</span></div><div><b>⛪</b><span>Ermita de San Frutos</span></div><div><b>🏞️</b><span>Hoces</span></div><div><b>🛶</b><span>Kayak</span></div><div><b>📸</b><span>La Cuchillada</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de las Hoces del Duratón</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el nordeste de <strong>Segovia</strong>, entre <strong>Sepúlveda</strong> y el embalse de Burgomillodo, a 1 h 30 de Madrid.</p></div>

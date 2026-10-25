@@ -29,7 +29,10 @@ guiaTitulo: 'Guía A Coruña en PDF'
 ---
 Un **faro romano** que sigue en funcionamiento, un paseo marítimo que rodea casi toda la ciudad, fachadas acristaladas frente al puerto y una plaza con soportales. **A Coruña** es una ciudad de mar muy cómoda de recorrer y se ve bien en **un día**. Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>A Coruña: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Torre de Hércules</span></div><div><b>🏘️</b><span>Avenida de la Marina</span></div><div><b>🏛️</b><span>Plaza de María Pita</span></div><div><b>🏖️</b><span>Orzán y Riazor</span></div><div><b>🦪</b><span>Marisco</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>A Coruña: lo básico</h2></div>
 <p>El tiempo en Galicia cambia rápido: aunque haya sol, lleva un cortavientos o un paraguas pequeño, sobre todo junto al mar. El centro es pequeño; la Torre de Hércules queda a un buen paseo (andando por el paseo marítimo o en bus urbano). Hay tren desde Santiago de Compostela en poco más de media hora y conexiones con Madrid y el resto de Galicia.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>La Torre de Hércules</h2></div>

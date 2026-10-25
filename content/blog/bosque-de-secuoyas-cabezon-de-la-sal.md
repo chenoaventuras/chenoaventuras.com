@@ -46,6 +46,9 @@ Parece California, pero estás a 10 minutos de Comillas. En el **Monte Cabezón*
 
 Es gratis, fácil de visitar y está al lado de la autovía. Te cuento todo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌲</b><span>848 secuoyas</span></div><div><b>📏</b><span>35 metros</span></div><div><b>🥾</b><span>Senderos</span></div><div><b>🎟️</b><span>Entrada</span></div><div><b>🚫</b><span>No abrazarlas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del bosque de secuoyas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Cabezón de la Sal (Cantabria)</strong>, junto a la autovía A-8, a unos <strong>45 km de Santander</strong>.</p></div>

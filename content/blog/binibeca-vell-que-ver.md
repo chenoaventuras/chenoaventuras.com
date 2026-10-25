@@ -30,6 +30,9 @@ Un **pueblo blanco** de callejones laberínticos, arcos bajos y puertas de mader
 
 Te cuento cuándo ir, cómo aparcar y cómo comportarte 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Pueblo blanco</span></div><div><b>⚓</b><span>Muelle</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🅿️</b><span>Aparcamiento</span></div><div><b>🌅</b><span>Cuándo ir</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Binibeca Vell: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏘️ Es privado y habitado</h3><p>Binibeca Vell es un conjunto de viviendas. La comunidad de propietarios fija un horario de visitas (según su web, de 10 a 22 h, aunque aparece también otro aviso de 11 a 23 h): <strong>confírmalo</strong>. Respeta el silencio y no entres en patios ni te asomes a las ventanas.</p></div>

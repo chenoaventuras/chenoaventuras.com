@@ -53,6 +53,9 @@ Paisajes de lava negra, cráteres rojos, viñedos plantados en hoyos de ceniza y
 
 Es **Reserva de la Biosfera** y se recorre fácil en coche. Te dejo los 13 sitios que no te puedes perder 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌋</b><span>Timanfaya</span></div><div><b>🏖️</b><span>Playas de Papagayo</span></div><div><b>🍇</b><span>La Geria</span></div><div><b>🧂</b><span>Salinas de Janubio</span></div><div><b>🏝️</b><span>La Graciosa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Lanzarote</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Moverte</h3><p>Con <strong>coche de alquiler</strong>: la isla es pequeña y de norte a sur hay poco más de una hora.</p></div>

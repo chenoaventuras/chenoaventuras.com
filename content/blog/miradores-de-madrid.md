@@ -18,6 +18,9 @@ Madrid se ve mejor desde arriba. Entre cerros, azoteas y torres, la ciudad tiene
 
 Guárdate la lista para tu próxima escapada 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌅</b><span>Cerro del Tío Pío</span></div><div><b>⛩️</b><span>Templo de Debod</span></div><div><b>🏛️</b><span>Círculo de Bellas Artes</span></div><div><b>🏢</b><span>Palacio de Cibeles</span></div><div><b>🆓</b><span>Gratis</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de los miradores de Madrid</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💸 Gratis</h3><p><strong>Cerro del Tío Pío</strong>, <strong>Templo de Debod</strong> y <strong>Las Vistillas</strong>.</p></div>

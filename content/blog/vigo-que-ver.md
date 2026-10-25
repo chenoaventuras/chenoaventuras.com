@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Pontevedra en PDF'
 ---
 Una **ría enorme** con las Islas Cíes en el horizonte, un casco viejo de piedra, un monte con una fortaleza y unas **ostras** que se comen de pie en plena calle. **Vigo** es la ciudad más grande de Galicia, más auténtica que turística, y se ve bien en **un día** (o en dos si añades las Cíes). Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Vigo: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Casco Vello</span></div><div><b>🦪</b><span>Calle de las ostras</span></div><div><b>⛰️</b><span>Monte do Castro</span></div><div><b>⚓</b><span>Berbés</span></div><div><b>🏝️</b><span>Islas Cíes</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Vigo: lo básico</h2></div>
 <p>Si quieres ir a las <strong>Islas Cíes</strong>, hay que reservar el barco y la autorización con antelación en temporada alta: es una excursión de día completo (mira <a href='/blog/islas-cies.html'>Islas Cíes</a>). Vigo es una ciudad de cuestas: para el monte do Castro, sube con calma o ve en coche o taxi. Hay tren desde Santiago, Ourense y Pontevedra, y AVE desde Madrid con trasbordo; la estación de Vigo-Urzaiz queda a pocos minutos del centro.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>El Casco Vello, la plaza de la Constitución y la Concatedral</h2></div>

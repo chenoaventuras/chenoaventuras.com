@@ -60,6 +60,9 @@ He ido zona por zona y aquí te dejo todo lo que he visto y lo que no te puedes 
 
 <!--guia-->
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏔️</b><span>Ordesa</span></div><div><b>💧</b><span>Ibón de Anayet</span></div><div><b>🌉</b><span>Pasarelas de Panticosa</span></div><div><b>♨️</b><span>Balneario</span></div><div><b>🏘️</b><span>Pueblos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cómo organizar tu viaje</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Coche imprescindible</h3><p>Las zonas están separadas por carreteras de montaña. Para moverte con libertad necesitas <strong>coche propio</strong>.</p>

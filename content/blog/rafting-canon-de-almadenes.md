@@ -37,6 +37,9 @@ guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Entre **Cieza y Calasparra**, el río **Segura** se abre paso entre paredes de roca de **más de 150 metros**, en uno de los rincones más espectaculares de la Región de Murcia. Bajarlo en balsa es un plan tranquilo, precioso y apto para casi todo el mundo: no hace falta experiencia ni ser un aventurero.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🛶</b><span>Rafting</span></div><div><b>🪨</b><span>Paredes de 150 m</span></div><div><b>🏞️</b><span>Río Segura</span></div><div><b>🦺</b><span>Equipo incluido</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DPMiJbsDDrn/), grabado en el Cañón de Almadenes.
 
 ## Lo básico

@@ -37,6 +37,9 @@ Una fuente monumental con 139 caños de los que no deja de brotar agua, un barri
 
 Te cuento qué ver, la historia de su riqueza, sus fiestas y cómo combinarlo con otros pueblos de la Subbética 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛲</b><span>Fuente del Rey</span></div><div><b>💧</b><span>139 caños</span></div><div><b>🏘️</b><span>Barrio de la Villa</span></div><div><b>🌄</b><span>Balcón del Adarve</span></div><div><b>🏰</b><span>Castillo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Priego</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el sureste de <strong>Córdoba</strong>, a unos 80 km de Granada.</p></div>

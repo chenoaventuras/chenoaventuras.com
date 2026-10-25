@@ -47,6 +47,9 @@ Calles de arena, casas blancas, ni un semáforo y playas de agua turquesa casi v
 
 Se llega en un ferry de unos 25 minutos y se recorre en bici o andando. Te cuento cómo organizarte 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛴️</b><span>Ferry desde Órzola</span></div><div><b>🏖️</b><span>Playa de las Conchas</span></div><div><b>🌋</b><span>Montaña Amarilla</span></div><div><b>🏘️</b><span>Caleta de Sebo</span></div><div><b>🚲</b><span>Sin asfalto</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de La Graciosa</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛴️ Cómo llegar</h3><p>En <strong>ferry desde Órzola</strong>, en el norte de Lanzarote. El trayecto dura unos 25 minutos.</p></div>

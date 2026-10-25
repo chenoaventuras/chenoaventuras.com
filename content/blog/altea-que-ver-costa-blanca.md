@@ -44,6 +44,9 @@ guiaTitulo: 'Guía Alicante en PDF'
 ---
 Hoy toca escapada a uno de los pueblos más fotografiados de la Costa Blanca: **Altea**. Casas blancas, calles empedradas que suben y bajan sin avisar, y el Mediterráneo asomando por cada esquina. Es de esos sitios que parecen sacados de una postal y que, aun así, merecen la pena en persona.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🔵</b><span>Cúpulas azules</span></div><div><b>🏘️</b><span>Casco antiguo</span></div><div><b>📸</b><span>Miradores</span></div><div><b>🏖️</b><span>Playas</span></div><div><b>🍤</b><span>Gastronomía</span></div></div>
+
 *Puedes ver el vídeo de esta escapada en [este reel de Instagram](https://www.instagram.com/reel/DcZMPGpRAHv/).*
 
 ## Un pueblo con mucha más historia de la que parece

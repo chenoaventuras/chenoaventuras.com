@@ -40,6 +40,9 @@ Un barranco gigantesco que baja desde las cumbres de La Gomera hasta el mar, con
 
 Te cuento qué ver, el mirador de César Manrique, las playas, el avistamiento de delfines y por qué aquí los atardeceres son un ritual 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌴</b><span>Palmeras</span></div><div><b>🌄</b><span>Mirador del Palmarejo</span></div><div><b>🏖️</b><span>Playas</span></div><div><b>💦</b><span>Cascada de Arure</span></div><div><b>🏘️</b><span>La Calera</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Valle Gran Rey</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>oeste de La Gomera</strong>, a alrededor de <strong>hora y media en coche</strong> de San Sebastián, atravesando Garajonay.</p></div>

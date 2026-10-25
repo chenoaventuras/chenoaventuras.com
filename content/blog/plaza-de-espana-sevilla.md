@@ -50,6 +50,9 @@ Hay sitios que salen en todas las fotos de Sevilla, y la **Plaza de España** es
 
 Te cuento sus curiosidades, qué no te puedes perder y lo que tienes que saber antes de ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Cuatro puentes</span></div><div><b>🚣</b><span>Barcas</span></div><div><b>🪐</b><span>Star Wars</span></div><div><b>🖼️</b><span>Bancos de provincias</span></div><div><b>🏛️</b><span>Galería</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Plaza de España</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Precio</h3><p>A día de hoy, <strong>la entrada es gratis</strong>. El Ayuntamiento ha planteado cobrar a los turistas, así que conviene mirarlo antes de ir.</p></div>

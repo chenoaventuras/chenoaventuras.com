@@ -30,6 +30,9 @@ Una cristalera abierta en lo alto de un acantilado, dentro de la propia montaña
 
 Te cuento cuánto cuesta, a qué hora ir y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏝️</b><span>La Graciosa</span></div><div><b>🎨</b><span>César Manrique</span></div><div><b>🌋</b><span>Risco</span></div><div><b>🌬️</b><span>Viento</span></div><div><b>🎟️</b><span>Entrada</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Mirador del Río: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entrada</h3><p>Es de pago, incluso si solo vas a la cafetería. Las guías recientes hablan de unos <strong>9 € por adulto</strong>, con precios reducidos para niños y residentes, pero los precios cambian: <strong>confírmalo y compra online en la web del CACT</strong> (Centros de Arte, Cultura y Turismo de Lanzarote).</p></div>

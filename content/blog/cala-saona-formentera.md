@@ -37,6 +37,9 @@ Arena blanca y fina encajada entre **acantilados rojizos**, agua turquesa tan qu
 
 Te cuento cómo es, cómo llegar y dónde aparcar, los rincones de alrededor para hacer snorkel y cómo combinarla con el Cap de Barbaria 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Arena blanca</span></div><div><b>🪨</b><span>Acantilados rojizos</span></div><div><b>🛶</b><span>Varaderos</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>🤿</b><span>Agua turquesa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cala Saona</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>costa oeste de Formentera</strong>, a unos 4-6 km de <strong>Sant Francesc Xavier</strong> por la carretera del Cap de Barbaria.</p></div>

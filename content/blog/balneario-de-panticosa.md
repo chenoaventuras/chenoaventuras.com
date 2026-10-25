@@ -58,6 +58,9 @@ Así se vive una tarde de termas en plena alta montaña 👇
 
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DIZdAF1owCn/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver mi reel del balneario</a></p>
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>♨️</b><span>Aguas termales</span></div><div><b>🏔️</b><span>Circo glaciar</span></div><div><b>🏛️</b><span>Termas romanas</span></div><div><b>💆</b><span>Circuito termal</span></div><div><b>🥾</b><span>Rutas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Precio y circuito termal</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Precio</h3><p>Pasear por el entorno es <strong>gratis</strong>. El acceso al spa y las termas va <strong>desde 39 €</strong>, según temporada y servicios.</p>

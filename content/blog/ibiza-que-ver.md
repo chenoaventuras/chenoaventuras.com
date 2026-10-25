@@ -52,6 +52,9 @@ Ibiza tiene fama de fiesta, pero también es una isla de **calas de agua transpa
 
 Parte de la isla es **Patrimonio de la Humanidad** por su historia y por las praderas de posidonia. Te dejo la Ibiza más tranquila y natural 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧱</b><span>Dalt Vila</span></div><div><b>🏝️</b><span>Es Vedrà</span></div><div><b>🏖️</b><span>Cala d'Hort</span></div><div><b>🧂</b><span>Ses Salines</span></div><div><b>🌅</b><span>Atardeceres</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ibiza</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Moverte</h3><p>Con <strong>coche o moto</strong> para llegar a las calas. Hay buses, pero no llegan a las más escondidas.</p></div>

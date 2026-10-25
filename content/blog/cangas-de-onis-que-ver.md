@@ -38,6 +38,9 @@ La **primera capital del reino de Asturias**, con un puente en arco sobre el rí
 
 Te cuento qué ver, su historia y qué hacer alrededor 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puente «romano»</span></div><div><b>⛪</b><span>Capilla de la Santa Cruz</span></div><div><b>🏞️</b><span>Río Sella</span></div><div><b>🏔️</b><span>Picos de Europa</span></div><div><b>🍎</b><span>Sidra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cangas de Onís: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Historia</h3><p>Fue capital del Reino de Asturias hasta el año 774. Pelayo se estableció aquí y la batalla de Covadonga (722) tuvo lugar dentro de su término municipal.</p></div>

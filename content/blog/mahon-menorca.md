@@ -37,6 +37,9 @@ Un fiordo mediterráneo de cinco kilómetros, salpicado de islotes con hospitale
 
 Te cuento qué ver, cómo recorrer el puerto, la herencia británica que se nota en cada esquina, la historia de la mayonesa y qué hay cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⚓</b><span>Puerto natural</span></div><div><b>⛵</b><span>Paseo en barco</span></div><div><b>🎹</b><span>Órgano de Santa María</span></div><div><b>🛒</b><span>Mercados</span></div><div><b>🥚</b><span>Mayonesa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Mahón</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>extremo este de Menorca</strong>, a 5 km del aeropuerto y a 45 km de Ciutadella.</p></div>

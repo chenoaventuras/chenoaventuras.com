@@ -31,6 +31,9 @@ Un **castillo de casi un kilómetro** sobre la ciudad, un **teatro romano** con 
 
 Te cuento qué ver, en qué orden y cómo aprovechar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo</span></div><div><b>🎭</b><span>Teatro Romano</span></div><div><b>🕍</b><span>Judería</span></div><div><b>🌊</b><span>Vistas al mar</span></div><div><b>🆓</b><span>Entrada gratuita</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Sagunto: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🆓 Entrada gratuita</h3><p>Según la web oficial de Patrimonio Cultural de la Generalitat, la entrada al conjunto del <strong>Teatro Romano, el Museo y el Castillo</strong> (con el Antiquarium Epigráfico) es <strong>gratuita</strong>. En invierno (desde mediados de octubre) abre de martes a sábado de 10:00 a 18:00 y domingos y festivos de 10:00 a 14:00; en verano, hasta las 20:00. Último acceso media hora antes del cierre.</p></div>

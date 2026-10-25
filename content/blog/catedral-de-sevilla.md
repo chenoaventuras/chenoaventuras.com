@@ -51,6 +51,9 @@ En 1988 el **Libro Guinness** la reconoció como la **catedral con mayor superfi
 
 Te cuento sus curiosidades más llamativas: una torre que se sube en rampa, la tumba de Colón y un lagarto colgado del techo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral gótica</span></div><div><b>🗼</b><span>Giralda</span></div><div><b>⚰️</b><span>Tumba de Colón</span></div><div><b>🐊</b><span>Lagarto colgado</span></div><div><b>🍊</b><span>Patio de los Naranjos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Catedral</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En pleno centro de Sevilla, junto al Real Alcázar y el Archivo de Indias.</p></div>

@@ -37,6 +37,9 @@ Todo el mundo conoce Pamplona por una semana al año: la de los mozos vestidos d
 
 Te cuento qué ver, cómo recorrer el camino del encierro (con o sin toros), todo sobre los Sanfermines y dónde comer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🐂</b><span>Encierro</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>🏘️</b><span>Plaza del Castillo</span></div><div><b>🍢</b><span>Pinchos</span></div><div><b>⛪</b><span>Catedral</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Pamplona</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el centro de <strong>Navarra</strong>, a 90 km de San Sebastián y a unos 400 km de Madrid.</p></div>

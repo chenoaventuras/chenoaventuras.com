@@ -37,6 +37,9 @@ En **El Hierro** casi no hay playas de arena. Es la isla más joven de Canarias 
 
 Te cuento cuáles son las mejores, cómo llegar a cada una, qué servicios tienen y, muy importante, cuándo **no** bañarse 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Charco Azul</span></div><div><b>🏊</b><span>Pozo de las Calcosas</span></div><div><b>🌊</b><span>Charco Manso</span></div><div><b>🏘️</b><span>Tamaduste</span></div><div><b>📅</b><span>Cuándo ir</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde están</h3><p>Repartidas por toda la costa: en el valle de <strong>El Golfo</strong> (norte-oeste), en el <strong>noreste</strong> cerca de Valverde y en el <strong>sur</strong>, en el Mar de las Calmas.</p></div>

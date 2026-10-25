@@ -31,6 +31,9 @@ Una **gruta llena de lagos y estalactitas**, un castillo con vistas a la sierra,
 
 Te cuento qué ver, qué comprar y cómo organizarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦇</b><span>Gruta de las Maravillas</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>⛪</b><span>Iglesia prioral</span></div><div><b>🥓</b><span>Jamón ibérico</span></div><div><b>🌳</b><span>Sierra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Aracena: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Reserva la gruta</h3><p>La <strong>Gruta de las Maravillas</strong> es lo más visitado y en temporada alta las entradas se agotan. Reserva online. Hay una tarjeta turística que reúne gruta, castillo y Museo del Jamón y puede salir más barata: <strong>confirma precios en la web oficial</strong>.</p></div>

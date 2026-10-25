@@ -45,6 +45,9 @@ Agua roja como el vino, orillas naranjas y ocres, y ni un pez. El **Río Tinto**
 
 Te cuento por qué es así y cómo verlo de cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🔴</b><span>Río rojo</span></div><div><b>🚂</b><span>Tren minero</span></div><div><b>⛏️</b><span>Corta Atalaya</span></div><div><b>🪐</b><span>Aspecto de Marte</span></div><div><b>⚽</b><span>Cuna del fútbol</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Río Tinto</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Nace en la sierra de <strong>Nerva</strong> y recorre unos <strong>100 km</strong> hasta la ría de <strong>Huelva</strong>.</p></div>

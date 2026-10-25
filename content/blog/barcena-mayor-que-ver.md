@@ -42,6 +42,9 @@ Calles empedradas, casas de piedra con balcones de madera llenos de flores y un 
 
 Es también el sitio al que todo el mundo va a comer **cocido montañés**. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Casas con solana</span></div><div><b>🪨</b><span>Calles empedradas</span></div><div><b>🥘</b><span>Cocido montañés</span></div><div><b>🦌</b><span>Cabaña Pasiega</span></div><div><b>🥾</b><span>A pie</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Bárcena Mayor</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el municipio de <strong>Los Tojos</strong>, a unos <strong>60 km de Santander</strong>.</p></div>

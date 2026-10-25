@@ -37,6 +37,9 @@ Un valle verdísimo lleno de plataneras que baja hasta un mar bravo, pilares de 
 
 Te cuento qué ver en los dos pueblos, cómo es el Mirador de Abrante y qué rutas hacer por la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌄</b><span>Mirador de Abrante</span></div><div><b>🌴</b><span>Bancales</span></div><div><b>🏘️</b><span>Agulo</span></div><div><b>🌊</b><span>Costa norte</span></div><div><b>🏞️</b><span>Valle de Hermigua</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del norte de La Gomera</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>costa norte</strong>, a media hora de San Sebastián de La Gomera.</p></div>

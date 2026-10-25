@@ -28,6 +28,9 @@ Una playa de **arena oscura** y aguas tranquilas rodeada de rocas, en la costa s
 
 Te cuento cómo es y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Arena oscura</span></div><div><b>🌊</b><span>Mar tranquilo</span></div><div><b>🪨</b><span>Rocas</span></div><div><b>🚿</b><span>Servicios</span></div><div><b>🏨</b><span>Junto a Anfi</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Patalavaca: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏖️ Cómo es la playa</h3><p>Mide unos <strong>300 metros de largo por 50 de ancho</strong>, con arena fina de tonos oscuros y agua clara. Suele estar bastante concurrida.</p></div>

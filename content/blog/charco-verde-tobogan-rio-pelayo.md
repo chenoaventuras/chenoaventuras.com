@@ -49,6 +49,9 @@ guiaTitulo: 'Guía Ávila en PDF'
 ---
 En la cara sur de la **Sierra de Gredos** hay pozas que el agua y la roca han ido formando durante siglos, sin que nadie las toque. El **Charco Verde** y el **tobogán natural del río Pelayos** son dos de esos rincones, perfectos para un chapuzón de agua fría y transparente en verano.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Pozas naturales</span></div><div><b>🛝</b><span>Tobogán natural</span></div><div><b>🏊</b><span>Baño</span></div><div><b>🌳</b><span>Entorno verde</span></div><div><b>☀️</b><span>Cuándo ir</span></div></div>
+
 Puedes verlos en [este reel de Instagram](https://www.instagram.com/reel/DalUcTPxSOE/), grabado en Arenas de San Pedro.
 
 ## Lo básico

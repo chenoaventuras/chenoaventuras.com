@@ -37,6 +37,9 @@ Pueblos enteros de piedra roja, como si estuvieran hechos de barro cocido; otros
 
 Te cuento cómo es cada pueblo, la ruta en orden para no perderte ninguno y qué añadir para completar la escapada: Riaza, Ayllón, Maderuelo, las Hoces del Riaza y los hayedos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🔴</b><span>Pueblos rojos</span></div><div><b>🏘️</b><span>Madriguera</span></div><div><b>🏘️</b><span>Villacorta</span></div><div><b>⛪</b><span>El Muyo</span></div><div><b>🚗</b><span>Ruta en coche</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la ruta</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Alrededor de <strong>Riaza</strong>, en la sierra de Ayllón, a unos 120 km de Madrid.</p></div>

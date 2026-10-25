@@ -30,6 +30,9 @@ Una cala de cantos rodados encajada entre **paredes de roca de más de 200 metro
 
 Te cuento cómo llegar (en coche, en barco o a pie), dónde aparcar y qué esperar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏞️</b><span>Torrent de Pareis</span></div><div><b>🛣️</b><span>Carretera de curvas</span></div><div><b>🏖️</b><span>Cala</span></div><div><b>🪨</b><span>Acantilados</span></div><div><b>⛴️</b><span>Barco</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Sa Calobra: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 La carretera</h3><p>La <strong>MA-2141</strong> sale de la Ma-10 y baja hasta la cala con curvas muy cerradas, incluida la famosa del <strong>Nudo de la Corbata</strong>, donde la carretera pasa por debajo de sí misma. La diseñó el ingeniero mallorquín <strong>Antonio Parietti Coll</strong>. Es estrecha y con mucho tráfico en verano.</p></div>

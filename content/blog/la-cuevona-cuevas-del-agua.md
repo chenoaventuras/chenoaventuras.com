@@ -34,6 +34,9 @@ Un pueblo al que solo se entra **atravesando una cueva**: la carretera pasa por 
 
 Te cuento cómo llegar, qué ver y qué hacer en el pueblo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕳️</b><span>Cueva de 300 m</span></div><div><b>🛣️</b><span>Carretera por la cueva</span></div><div><b>🏘️</b><span>Pueblo</span></div><div><b>🍎</b><span>Sidra</span></div><div><b>🏞️</b><span>Entorno</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La Cuevona: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🕳️ Qué es</h3><p>Una cueva natural de unos 300 m de longitud convertida en un túnel por el que pasa la carretera.</p></div>

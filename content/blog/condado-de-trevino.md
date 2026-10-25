@@ -47,6 +47,9 @@ Si miras un **mapa** de Álava verás un agujero en medio: no es Álava, es **Bu
 
 Te cuento por qué pasa esto y qué ver allí 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗺️</b><span>Enclave de Burgos</span></div><div><b>🏘️</b><span>Pueblo de Ochate</span></div><div><b>🏛️</b><span>Palacio de los Condes</span></div><div><b>🌾</b><span>Campos</span></div><div><b>🧭</b><span>Rareza geográfica</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Condado de Treviño</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>sur de Álava</strong>, a unos <strong>15 km de Vitoria-Gasteiz</strong>. Pertenece a Burgos.</p></div>

@@ -37,6 +37,9 @@ Cúpulas blancas y plateadas brillando al sol sobre un mar de nubes, a más de 2
 
 Te cuento cómo subir, qué ver arriba, cómo visitar los telescopios y por qué el cielo de La Palma está protegido por ley 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌌</b><span>Gran Telescopio</span></div><div><b>☁️</b><span>Mar de nubes</span></div><div><b>🪨</b><span>Roques de la cumbre</span></div><div><b>🌋</b><span>Caldera de Taburiente</span></div><div><b>🚗</b><span>Cómo subir</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Roque</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>borde norte de la Caldera de Taburiente</strong>, a unos 2.426 m.</p></div>

@@ -46,6 +46,9 @@ guiaTitulo: 'Guía Palencia en PDF'
 ---
 Todo el mundo conoce Aguilar de Campoo por sus galletas, pero quien solo se queda con eso se pierde uno de los pueblos más completos que hay para visitar en la Montaña Palentina: castillo, románico, un embalse y un casco histórico que da para todo un día.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Colegiata</span></div><div><b>🏛️</b><span>Monasterio de Santa María</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🍪</b><span>Galletas</span></div><div><b>🌊</b><span>Embalse</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DWo64-nDPc5/), grabado en Aguilar de Campoo, Palencia.
 
 ## La Colegiata de San Miguel, símbolo del pueblo

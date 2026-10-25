@@ -42,6 +42,9 @@ Fachadas de colores con caras de mujer, flores y guirnaldas, balcones curvos, c�
 
 Te propongo una ruta a pie por el llamado **Triángulo de Oro**, edificio a edificio, con la historia de cómo llegó tanto modernismo a una ciudad tan pequeña 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Palacio de la Asamblea</span></div><div><b>🏘️</b><span>Plaza de España</span></div><div><b>🏠</b><span>Casa Melul</span></div><div><b>🏗️</b><span>Enrique Nieto</span></div><div><b>🥾</b><span>Ruta a pie</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la ruta</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde empieza</h3><p>En la <strong>Plaza de España</strong>, junto al puerto y a Melilla la Vieja.</p></div>

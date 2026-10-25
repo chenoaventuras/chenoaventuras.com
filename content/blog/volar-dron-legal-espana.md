@@ -24,6 +24,9 @@ faq:
 ---
 Volar un dron parece tan sencillo como sacarlo de la caja y despegar, pero hacerlo de forma legal en España implica cumplir una normativa concreta. Si tienes o quieres comprarte un dron de menos de 250 gramos para uso recreativo, esto es lo que necesitas saber para no llevarte una multa.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚁</b><span>Dron</span></div><div><b>📝</b><span>Registro en AESA</span></div><div><b>📲</b><span>App ENAIRE Drones</span></div><div><b>📏</b><span>Altura máxima</span></div><div><b>🛡️</b><span>Seguro</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DWhMemtDLew/).
 
 ## Regístrate como operador en AESA

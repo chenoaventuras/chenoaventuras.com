@@ -36,6 +36,9 @@ Un **camino verde sin coches** por un antiguo tren minero, con túneles excavado
 
 Te cuento el trazado, los tramos y cómo organizarla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚲</b><span>Bici o a pie</span></div><div><b>🚂</b><span>Antiguo tren minero</span></div><div><b>🚇</b><span>Túneles</span></div><div><b>🐻</b><span>Osos</span></div><div><b>💧</b><span>Embalse de Valdemurio</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Senda del Oso: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🛤️ Qué es</h3><p>Un Camino Natural y Vía Verde sobre una antigua plataforma ferroviaria, de unos 25 km (otras fuentes dan más, según los ramales) en forma de «Y».</p></div>

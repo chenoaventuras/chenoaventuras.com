@@ -51,6 +51,9 @@ Entre Arrecife y Costa Teguise hay un barco oxidado que parece salido de una pel
 
 Te cuento su historia y dónde hacer la mejor foto del «barco fantasma» 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚢</b><span>Barco encallado</span></div><div><b>🕰️</b><span>Desde 1981</span></div><div><b>🌊</b><span>Costa de Teguise</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🚶</b><span>Paseo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Telamon</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Frente a la costa de <strong>Las Caletas</strong>, entre Arrecife y Costa Teguise.</p></div>

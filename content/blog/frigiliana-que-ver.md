@@ -43,6 +43,9 @@ Casas blancas encaladas, macetas azules, calles empinadas que se retuercen lader
 
 En sus paredes, unos azulejos cuentan la batalla en la que los moriscos se hicieron fuertes en lo alto del pueblo y resistieron hasta el final 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Barrio morisco</span></div><div><b>🖼️</b><span>Azulejos de historia</span></div><div><b>⚔️</b><span>Batalla del Peñón</span></div><div><b>🍯</b><span>Miel de caña</span></div><div><b>🌄</b><span>Vistas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Frigiliana</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Axarquía</strong>, a solo <strong>6 km de Nerja</strong> y una hora de Málaga.</p></div>

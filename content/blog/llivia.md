@@ -45,6 +45,9 @@ Para llegar a **Llívia** desde España tienes que **pasar por Francia**. Este p
 
 Te cuento cómo pasó, qué es la carretera «neutral» y la farmacia medieval que guarda su museo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗺️</b><span>Rodeado por Francia</span></div><div><b>💊</b><span>Farmacia antigua</span></div><div><b>🛣️</b><span>Carretera neutral</span></div><div><b>🏛️</b><span>Museo Municipal</span></div><div><b>🏘️</b><span>Pueblo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Llívia</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Cerdanya</strong>, a unos 6 km de Puigcerdà, rodeada por el departamento francés de los Pirineos Orientales.</p></div>

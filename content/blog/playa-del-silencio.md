@@ -36,6 +36,9 @@ Una playa de **500 metros de cantos rodados** entre acantilados de cuarcita, sin
 
 Te cuento cómo llegar, cómo es y qué tener en cuenta antes de ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Gavieiru</span></div><div><b>🪨</b><span>Acantilados</span></div><div><b>🌊</b><span>Mar</span></div><div><b>🅿️</b><span>Aparcar</span></div><div><b>🌍</b><span>Protegida</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Playa del Silencio: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En Castañeras, concejo de Cudillero, en la costa occidental de Asturias.</p></div>

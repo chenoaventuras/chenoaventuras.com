@@ -49,6 +49,9 @@ En **1950** llegó a un pequeño pueblo de la Costa Brava la actriz más famosa 
 
 Te cuento la historia y qué ver en su espectacular **Vila Vella** amurallada 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Vila Vella</span></div><div><b>🗽</b><span>Estatua de Ava</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>🌄</b><span>Mirador</span></div><div><b>🏖️</b><span>Playa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Tossa</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Costa Brava</strong> (Girona), a 1 hora y cuarto de Barcelona.</p></div>

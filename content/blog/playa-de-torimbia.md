@@ -36,6 +36,9 @@ Una playa de **500 metros** en un paisaje verde, con un acceso estrecho solo a p
 
 Te cuento cómo llegar, cómo se comporta con la marea y qué ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Playa</span></div><div><b>🌊</b><span>Mareas</span></div><div><b>🥾</b><span>A pie desde Niembro</span></div><div><b>🪨</b><span>Costa</span></div><div><b>📜</b><span>Normas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Playa de Torimbia: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En Niembro (Llanes), dentro del Paisaje Protegido de la Costa Oriental de Asturias.</p></div>

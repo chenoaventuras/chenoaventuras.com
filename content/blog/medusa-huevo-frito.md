@@ -32,6 +32,9 @@ actividades:
 ---
 Buceando por [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) es fácil cruzarte con una medusa que parece sacada de una sartén: centro amarillo brillante rodeado de un cuerpo blanquecino, flotando tranquila cerca de la superficie. No es casualidad que la conozcan como medusa huevo frito. Y aunque la primera vez que la ves de cerca impone (puede rozar los 40 centímetros), es de las medusas más tranquilas que te vas a encontrar en el Mediterráneo.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪼</b><span>Medusa huevo frito</span></div><div><b>🍳</b><span>Centro amarillo</span></div><div><b>⚠️</b><span>¿Pica?</span></div><div><b>🩹</b><span>Si te roza</span></div><div><b>🌊</b><span>Mediterráneo</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DdW9IzJRGUK/), grabado en Cabo de Palos, Cartagena, Región de Murcia.
 
 ## ¿Qué es la medusa huevo frito?

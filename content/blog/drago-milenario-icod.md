@@ -50,6 +50,9 @@ Parece un árbol sacado de la época de los dinosaurios. El **Drago Milenario** 
 
 Te cuento su edad real (no es tan «milenario» como dice el nombre), sus leyendas y cómo verlo de cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌳</b><span>Drago milenario</span></div><div><b>🩸</b><span>Sangre de drago</span></div><div><b>🌴</b><span>Parque del Drago</span></div><div><b>🏘️</b><span>Icod de los Vinos</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Drago</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Icod de los Vinos</strong>, al norte de Tenerife, a unos 50 minutos de Santa Cruz.</p></div>

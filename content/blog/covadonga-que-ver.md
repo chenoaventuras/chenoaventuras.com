@@ -30,6 +30,9 @@ Una cueva colgada en la roca con una cascada saliendo justo debajo, una basílic
 
 Y en parte lo son: aquí empieza, según la tradición, la historia de España tal y como la estudiamos en el colegio 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Santa Cueva</span></div><div><b>🏛️</b><span>Basílica</span></div><div><b>💧</b><span>Lago Enol</span></div><div><b>💧</b><span>Lago Ercina</span></div><div><b>⛲</b><span>Fuente de los siete caños</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Covadonga</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la entrada del <strong>Parque Nacional de los Picos de Europa</strong>, a unos <strong>10 km de Cangas de Onís</strong>.</p></div>

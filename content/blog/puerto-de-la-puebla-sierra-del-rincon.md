@@ -49,6 +49,9 @@ comerFecha: "octubre de 2026"
 ---
 En la esquina noreste de la Comunidad de Madrid, la **Sierra del Rincón** esconde un paso de montaña que une tres pueblos muy distintos, cada uno con su propio motivo para visitarlo. Es el **Puerto de la Puebla**, y es igual de bonito recorrerlo en coche que parar en cada uno de sus extremos.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚗</b><span>Ruta en coche</span></div><div><b>🏘️</b><span>Montejo de la Sierra</span></div><div><b>🏘️</b><span>Prádena del Rincón</span></div><div><b>🌄</b><span>Miradores</span></div><div><b>🌳</b><span>Sierra del Rincón</span></div></div>
+
 Puedes ver la ruta en [este reel de Instagram](https://www.instagram.com/reel/DUlwz4MjDhZ/), grabado en la Sierra del Rincón.
 
 ## Lo básico

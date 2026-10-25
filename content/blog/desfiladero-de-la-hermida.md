@@ -42,6 +42,9 @@ Paredes de caliza de hasta **600 metros** que casi se tocan, el río Deva rugien
 
 Mucha gente lo atraviesa solo de paso hacia Potes y Fuente Dé, pero merece parar. Te cuento dónde 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏞️</b><span>21 km de cañón</span></div><div><b>🚗</b><span>Carretera</span></div><div><b>♨️</b><span>Aguas termales</span></div><div><b>🌄</b><span>Mirador de Santa Catalina</span></div><div><b>🏔️</b><span>Picos de Europa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Desfiladero de La Hermida</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Entre <strong>Panes (Asturias) y Potes (Cantabria)</strong>, siguiendo la N-621 y el río Deva.</p></div>

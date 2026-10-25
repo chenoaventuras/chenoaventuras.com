@@ -31,6 +31,9 @@ guiaTitulo: 'Guía Tarragona en PDF'
 
 Te cuento qué ver, cuándo ir y cómo moverte por el delta 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌾</b><span>Arrozales</span></div><div><b>🦩</b><span>Flamencos</span></div><div><b>🚲</b><span>En bici</span></div><div><b>🏖️</b><span>Riumar</span></div><div><b>🏞️</b><span>Río Ebro</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Delta del Ebro: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚲 Muévete en bici</h3><p>Hay unos 80 km de senderos llanos sobre los diques de los canales: es ideal para recorrerlo en bicicleta. También se puede hacer kayak por los canales desde Deltebre o Riumar.</p></div>

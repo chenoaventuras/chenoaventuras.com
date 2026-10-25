@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 Un **puente romano** con cinco arcos, una catedral con un pórtico que recuerda al de Santiago, **fuentes de agua hirviendo en plena calle** y la mejor zona de tapas de Galicia. **Ourense** es la capital de las termas y se ve bien en **un día**, con un baño en aguas termales para terminar. Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Ourense: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puente Romano</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>♨️</b><span>Termas</span></div><div><b>🏘️</b><span>As Burgas</span></div><div><b>🥖</b><span>Praza do Trigo</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Ourense: lo básico</h2></div>
 <p>Según el Ayuntamiento (actualización del 1 de octubre de 2026), los baños gratuitos abiertos son A Chavasqueira y Burga de Canedo (10:00 a 19:00, todos los días); las pozas gratuitas de Outariz y Muíño da Veiga y la poza de As Burgas están cerradas. Las Termas de Outariz (de pago) están abiertas. Lleva bañador y toalla y confirma el estado en la oficina de turismo. La catedral tiene horario y visitas guiadas que varían según la época y las celebraciones: reserva con antelación y confirma en la web oficial. Hay AVE desde Madrid y tren desde Vigo y Santiago; el centro histórico se recorre a pie y la estación queda a unos 15 minutos.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>Puente Romano y Catedral</h2></div>

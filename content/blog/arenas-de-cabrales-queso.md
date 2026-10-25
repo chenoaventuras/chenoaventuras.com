@@ -34,6 +34,9 @@ Un **queso azul** que madura en **cuevas naturales de los Picos de Europa**, y u
 
 Te cuento qué es el queso de Cabrales, cómo se hace y dónde probarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧀</b><span>Queso Cabrales</span></div><div><b>⛰️</b><span>Cuevas de maduración</span></div><div><b>🏞️</b><span>Valle</span></div><div><b>🏅</b><span>Certamen del queso</span></div><div><b>🌄</b><span>Picos de Europa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Arenas de Cabrales: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🧀 Qué es</h3><p>Queso azul con denominación de origen protegida (DOP, desde 1981), de leche de vaca, cabra u oveja sin pasteurizar, o mezcla de dos o tres.</p></div>

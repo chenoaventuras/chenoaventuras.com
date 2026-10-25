@@ -36,6 +36,9 @@ Un jardín en Cabueñes (Gijón) con **unas 30.000 plantas de unas 2.000 especie
 
 Te cuento qué ver y qué tener en cuenta 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌿</b><span>2.000 especies</span></div><div><b>🏛️</b><span>Quintana de Rionda</span></div><div><b>💧</b><span>Cascadas</span></div><div><b>🥾</b><span>Caminos</span></div><div><b>🌳</b><span>Colecciones</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Jardín Botánico Atlántico: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🌳 Qué es</h3><p>Un jardín botánico en Cabueñes, Gijón, abierto el 25 de abril de 2003.</p></div>

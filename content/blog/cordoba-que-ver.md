@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Córdoba en PDF'
 ---
 Una **mezquita que es catedral**, un puente romano, una judería de calles estrechas con flores y un palacio califal a las afueras. **Córdoba** es una de las ciudades con más historia de España y se ve bien en **un día** si te centras en el casco histórico. Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Córdoba: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕌</b><span>Mezquita-Catedral</span></div><div><b>🏘️</b><span>Judería</span></div><div><b>🏰</b><span>Alcázar</span></div><div><b>🌉</b><span>Puente Romano</span></div><div><b>🍲</b><span>Salmorejo</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Córdoba: lo básico</h2></div>
 <p>Según la web oficial, la entrada general a la <strong>Mezquita-Catedral</strong> cuesta 15 € (12 € reducida) y el campanario 4 € aparte. De lunes a sábado, de 8:30 a 9:30, hay visita individual gratuita (llega antes de las 9:20; no admite grupos). Confirma horarios y precios antes de ir. Hay AVE desde Madrid en unas 1 h 45 min y desde Sevilla en unos 45 minutos; el casco histórico se recorre a pie. En <strong>mayo</strong>, con la Fiesta de los Patios, la ciudad está llena de flores; en verano hace mucho calor: ve por la mañana o al atardecer.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>La Mezquita-Catedral</h2></div>

@@ -37,6 +37,9 @@ Hórreos de piedra con los pies metidos en el agua, cruceiros mirando a la ría,
 
 Te cuento qué ver, cuándo ir para tener las mejores fotos (la marea importa, y mucho), una ruta costera muy fácil, qué comer y qué más visitar en la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏚️</b><span>Más de 30 hórreos</span></div><div><b>🌊</b><span>Junto al mar</span></div><div><b>✝️</b><span>Cruceiros</span></div><div><b>🏘️</b><span>Rúa do Mar</span></div><div><b>🦪</b><span>Marisco</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Combarro</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la orilla norte de la <strong>ría de Pontevedra</strong>, en el concello de Poio, a unos <strong>6 km de Pontevedra</strong>.</p></div>

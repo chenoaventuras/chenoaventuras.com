@@ -40,6 +40,9 @@ Desde el ferry, cuando te acercas a Ceuta, lo primero que se distingue es un mon
 
 Te cuento qué ver, cómo recorrerlo y lo que conviene saber antes de ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Fortaleza del Hacho</span></div><div><b>⛪</b><span>Ermita de San Antonio</span></div><div><b>🏖️</b><span>Cala del Desnarigado</span></div><div><b>🌊</b><span>Vuelta al monte</span></div><div><b>🏛️</b><span>Columna de Hércules</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Monte Hacho</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>extremo este de Ceuta</strong>, a continuación del centro. Una carretera lo rodea por completo.</p></div>

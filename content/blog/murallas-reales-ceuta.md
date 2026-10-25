@@ -40,6 +40,9 @@ Una muralla de piedra que cae a plomo sobre un canal de **agua de mar**, de lado
 
 Te cuento su historia (que empieza mucho antes de lo que parece), qué ver en el conjunto, cómo visitar la Puerta Califal escondida dentro de la muralla y cómo recorrer el foso en kayak 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧱</b><span>Murallas Reales</span></div><div><b>🌊</b><span>Foso de mar</span></div><div><b>🚪</b><span>Puerta escondida</span></div><div><b>🏛️</b><span>Museo</span></div><div><b>🛡️</b><span>Baluarte</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de las Murallas Reales</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde están</h3><p>En el <strong>istmo</strong> que une el centro de Ceuta con el continente, a unos minutos andando de la estación marítima.</p></div>

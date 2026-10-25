@@ -45,6 +45,9 @@ En la calle Cuchilleros, a dos pasos de la Plaza Mayor, hay un restaurante que a
 
 Te cuento su historia, las leyendas que lo rodean y qué pedir si te sientas a comer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍽️</b><span>Restaurante más antiguo</span></div><div><b>🏆</b><span>Guinness</span></div><div><b>🐖</b><span>Cochinillo</span></div><div><b>📍</b><span>Plaza Mayor</span></div><div><b>📜</b><span>Historia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Botín</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>calle de Cuchilleros, 17</strong>, bajando por el Arco de Cuchilleros desde la Plaza Mayor.</p></div>

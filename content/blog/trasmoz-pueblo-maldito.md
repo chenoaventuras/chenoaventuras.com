@@ -41,6 +41,9 @@ Hay pueblos con leyenda y luego está **Trasmoz**. Un pueblecito del Moncayo, co
 
 Brujas, un castillo en ruinas y un poeta que se inspiró en todo ello. Te cuento la historia 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧙</b><span>Tía Casca</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>⛪</b><span>Excomunión</span></div><div><b>🏔️</b><span>Moncayo</span></div><div><b>📖</b><span>Bécquer</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Trasmoz</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En las faldas del <strong>Moncayo</strong> (Zaragoza), a unos <strong>20 km de Tarazona</strong> y una hora de Zaragoza.</p></div>

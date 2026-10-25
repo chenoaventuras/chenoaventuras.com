@@ -51,6 +51,9 @@ guiaTitulo: 'Guía Toledo en PDF'
 ---
 En el valle del **Tajo**, frente a Toledo, hay una roca solitaria con una de las leyendas más curiosas de la ciudad: la **Piedra del Rey Moro**. El paseo hasta ella, con la ciudad entera delante, es una de las mejores formas de ver **Toledo desde fuera**.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>📜</b><span>Leyenda</span></div><div><b>👑</b><span>Último rey musulmán</span></div><div><b>🪨</b><span>Piedra</span></div><div><b>🥾</b><span>Paseo</span></div><div><b>🌅</b><span>Vistas a Toledo</span></div></div>
+
 Puedes verla en [este reel de Instagram](https://www.instagram.com/p/DMtB3-VI4mr/), grabado en el valle del Tajo.
 
 ## Lo básico

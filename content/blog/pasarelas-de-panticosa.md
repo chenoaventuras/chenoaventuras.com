@@ -55,6 +55,9 @@ Te las enseño en vídeo 👇
 
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DZqD7LhNvuV/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver mi reel de las pasarelas</a></p>
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puentes colgantes</span></div><div><b>🏞️</b><span>Río Caldarés</span></div><div><b>😨</b><span>Vértigo</span></div><div><b>🎟️</b><span>Precio</span></div><div><b>🕐</b><span>Horario</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Precio, horario y requisitos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Precio</h3><p>Aforo limitado a <strong>60 personas cada 20 minutos</strong>: mejor compra online.</p>

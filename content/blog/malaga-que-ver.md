@@ -37,6 +37,9 @@ Una fortaleza árabe sobre un teatro romano, un castillo en lo alto del monte co
 
 Te cuento qué ver, cuándo entrar gratis en la Alcazaba, cómo subir a las cubiertas de la catedral, el Málaga de Picasso y dónde comer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Alcazaba</span></div><div><b>🏰</b><span>Gibralfaro</span></div><div><b>⛪</b><span>La Manquita</span></div><div><b>🎭</b><span>Teatro romano</span></div><div><b>🍤</b><span>Pescaíto</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Málaga</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Costa del Sol</strong>, a 8 km del aeropuerto y a 2 horas y media de Madrid en AVE.</p></div>

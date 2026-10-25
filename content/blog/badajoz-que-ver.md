@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Badajoz en PDF'
 ---
 Una **alcazaba almohade** con una torre albarrana, una plaza con casas pintadas de rojo, un puente sobre el Guadiana y la frontera con Portugal a pocos kilómetros. **Badajoz** es una ciudad desconocida que se ve bien en **un día** y que tiene museos gratuitos. Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Badajoz: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Alcazaba</span></div><div><b>🗼</b><span>Torre de Espantaperros</span></div><div><b>🏘️</b><span>Plaza Alta</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🌉</b><span>Puente de Palmas</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Badajoz: lo básico</h2></div>
 <p>En verano hace mucho calor: ve por la mañana o al atardecer. Badajoz queda a unos 6 km de la frontera con Portugal y a unos 60 km de Mérida; lo más cómodo es el coche, aunque hay tren con Mérida y Madrid (consulta horarios). El MUBA es gratuito según su web oficial, el MEIAC también (según Turismo de Extremadura) y el Museo Arqueológico Provincial es gratuito para ciudadanos de la UE: confirma horarios en sus webs.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>La Alcazaba y la Torre de Espantaperros</h2></div>

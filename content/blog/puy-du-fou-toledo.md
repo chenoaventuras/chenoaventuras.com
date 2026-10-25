@@ -49,6 +49,9 @@ guiaTitulo: 'Guía Toledo en PDF'
 ---
 Hay parques temáticos con montañas rusas, y luego está **Puy du Fou**, donde lo importante son los **espectáculos en vivo**: batallas medievales, caballos, aves rapaces y una puesta en escena que está a otro nivel. Si estás pensando en ir, aquí tienes todo lo que necesitas saber.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Parque temático</span></div><div><b>🎭</b><span>Espectáculos históricos</span></div><div><b>🌙</b><span>Show nocturno</span></div><div><b>🐎</b><span>Caballos</span></div><div><b>🎟️</b><span>Entradas</span></div></div>
+
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DMxQCRKo6vO/), grabado en Puy du Fou España.
 
 ## Lo básico de la temporada 2026

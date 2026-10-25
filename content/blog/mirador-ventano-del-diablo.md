@@ -36,6 +36,9 @@ Una cueva en la roca con dos enormes ventanas que se asoman al vacío, y abajo, 
 
 Lo mejor: está junto a la carretera, a 20 minutos de Cuenca, y se llega en 2 minutos andando. Te cuento cómo llegar, su leyenda y qué más hacer en la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕳️</b><span>Cueva abierta</span></div><div><b>😈</b><span>Leyenda</span></div><div><b>🌄</b><span>Vistas</span></div><div><b>🏔️</b><span>Altura</span></div><div><b>🚗</b><span>Acceso</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Ventano del Diablo: lo práctico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💸 Precio</h3><p><strong>Gratis</strong> y de acceso libre a cualquier hora.</p>

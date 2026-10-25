@@ -37,6 +37,9 @@ Un castillo enorme y cuadrado en lo alto de un cerro, que se ve desde kilómetro
 
 Te cuento qué ver, la historia del castillo y su preso más famoso, César Borgia, y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>⛪</b><span>Santa María del Salvador</span></div><div><b>🌄</b><span>Vistas</span></div><div><b>🕳️</b><span>Cuevas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Chinchilla</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A <strong>15 km de Albacete</strong>, junto a la autovía hacia Valencia y Murcia.</p></div>

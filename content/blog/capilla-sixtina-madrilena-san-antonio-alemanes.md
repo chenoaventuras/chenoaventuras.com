@@ -48,6 +48,9 @@ comerFecha: "octubre de 2026"
 ---
 Por fuera es una iglesia más entre las calles de Malasaña. Por dentro, es de esos sitios donde te quedas mirando al techo durante varios minutos sin darte cuenta del tiempo que pasa. Así es la iglesia de San Antonio de los Alemanes, conocida como la "Capilla Sixtina madrileña".
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎨</b><span>Frescos barrocos</span></div><div><b>⛪</b><span>Iglesia</span></div><div><b>🏛️</b><span>Malasaña</span></div><div><b>📸</b><span>Pared a pared</span></div><div><b>🕰️</b><span>Visita rápida</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DUu0s56jALL/), grabado en Madrid.
 
 ## Un interior pintado sin un solo hueco vacío

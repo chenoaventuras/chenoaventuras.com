@@ -36,6 +36,9 @@ El concejo de la **sidra**: manzanos por todas partes, una **ría** con reserva 
 
 Te cuento qué ver, cómo organizarlo y qué probar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍎</b><span>Capital de la sidra</span></div><div><b>🏞️</b><span>Ría</span></div><div><b>🏖️</b><span>Playa de Rodiles</span></div><div><b>⛪</b><span>Santa María de la Oliva</span></div><div><b>🎉</b><span>Fiestas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Villaviciosa: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🍎 Sidra</h3><p>El concejo es conocido por la calidad de su sidra y la abundancia de manzanos.</p></div>

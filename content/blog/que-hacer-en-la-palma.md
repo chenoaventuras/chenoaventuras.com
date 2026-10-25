@@ -34,6 +34,9 @@ Bosques de laurisilva, un cráter gigante lleno de pinos, volcanes recién nacid
 
 Te dejo **12 planes imprescindibles**, con los accesos y reservas actualizados, y cómo repartirlos en 5 o 7 días 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌋</b><span>Caldera de Taburiente</span></div><div><b>🌈</b><span>Cascada de Colores</span></div><div><b>🌌</b><span>Roque de los Muchachos</span></div><div><b>🥾</b><span>Ruta de los Volcanes</span></div><div><b>🍌</b><span>Plátanos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de La Palma</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>✈️ Cómo llegar</h3><p>Vuelos directos desde la península y desde Tenerife Norte, o ferry desde Tenerife.</p></div>

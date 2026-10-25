@@ -48,6 +48,9 @@ Dicen que **Santillana del Mar** es la villa de las tres mentiras: **ni es santa
 
 Casonas con escudos, balcones de madera llenos de flores, una colegiata románica y, a dos kilómetros, la réplica de la cueva con las pinturas más famosas de la prehistoria 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Colegiata</span></div><div><b>🏘️</b><span>Calles empedradas</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🏛️</b><span>Casonas blasonadas</span></div><div><b>🎨</b><span>Altamira</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Santillana del Mar</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el centro de <strong>Cantabria</strong>, a unos <strong>30 km de Santander</strong> (media hora en coche) y muy cerca de Torrelavega.</p></div>

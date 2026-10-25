@@ -46,6 +46,9 @@ Entre septiembre y diciembre de **2021**, el volcán de **Tajogaite** estuvo **8
 
 Te cuento qué pasó, cómo está ahora y cómo verlo con respeto 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌋</b><span>Erupción de 2021</span></div><div><b>🏔️</b><span>Cono</span></div><div><b>🌑</b><span>Mar de lava</span></div><div><b>🥾</b><span>Visitas</span></div><div><b>🤫</b><span>Respeto</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del volcán</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Cumbre Vieja</strong>, en el municipio de El Paso, en el oeste de La Palma.</p></div>

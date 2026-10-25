@@ -31,6 +31,9 @@ La **villa mudéjar** de Isabel la Católica, con una plaza de soportales de col
 
 Te cuento qué ver, en qué orden y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Plaza de la Villa</span></div><div><b>⛪</b><span>Iglesias mudéjares</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>👑</b><span>Isabel la Católica</span></div><div><b>🍖</b><span>Lechazo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Arévalo: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Queda a unos 120 km de Madrid por la A-6 (salida 124 y la CL-605). También hay trenes directos y autobús. <strong>Confirma horarios</strong> en Renfe o en la empresa de autobuses.</p></div>

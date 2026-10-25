@@ -34,6 +34,9 @@ Una villa sobre un promontorio, **frente a Ribadeo**, al otro lado de la ría de
 
 Te cuento qué ver y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Casco histórico</span></div><div><b>🏞️</b><span>Ría del Eo</span></div><div><b>⛪</b><span>Iglesia de Santiago</span></div><div><b>🏖️</b><span>Playa</span></div><div><b>🏅</b><span>Pueblo Ejemplar</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Castropol: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el occidente de Asturias, a unos 132 km de Oviedo, sobre la ría del Eo.</p></div>

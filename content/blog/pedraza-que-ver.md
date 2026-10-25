@@ -48,6 +48,9 @@ guiaTitulo: 'Guía Segovia en PDF'
 ---
 Hay pueblos a los que entras por varias calles y pueblos a los que solo se entra por un sitio. Pedraza es de los segundos, y esa sola puerta ya dice mucho de lo bien conservada que está esta villa medieval de Segovia.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚪</b><span>Única puerta</span></div><div><b>🏰</b><span>Castillo de Zuloaga</span></div><div><b>⛓️</b><span>Cárcel medieval</span></div><div><b>🕯️</b><span>Noche de las Velas</span></div><div><b>🐑</b><span>Cordero</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DavqMrZxpzl/), grabado en Pedraza.
 
 ## La Puerta de la Villa, el único acceso al casco histórico

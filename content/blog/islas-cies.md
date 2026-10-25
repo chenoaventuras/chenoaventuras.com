@@ -41,6 +41,9 @@ Arena blanca, agua cristalina (y fría, eso sí) y senderos que suben a faros co
 
 Para ir hay que coger un barco y, en temporada alta, **pedir una autorización** antes. Te explico cómo hacerlo paso a paso 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Playa de Rodas</span></div><div><b>🎟️</b><span>Autorización</span></div><div><b>⛴️</b><span>Barco</span></div><div><b>🗼</b><span>Faro de Cíes</span></div><div><b>💧</b><span>Laguna</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Islas Cíes: autorización y barco</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📝 Autorización</h3><p><strong>Gratis</strong> y <strong>obligatoria en Semana Santa y del 15 de mayo al 15 de septiembre</strong>. Se pide en la web de la Xunta (hasta 90 días antes) y después compras el barco. Hay un cupo diario de visitantes.</p></div>

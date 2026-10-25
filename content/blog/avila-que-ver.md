@@ -37,6 +37,9 @@ Dos kilómetros y medio de piedra, 87 torres y 9 puertas rodeando por completo u
 
 Te cuento qué ver en Ávila, cómo subir a la muralla (y cuándo es gratis), el mejor mirador, qué comer y qué ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧱</b><span>Muralla</span></div><div><b>⛪</b><span>Catedral-fortaleza</span></div><div><b>⛪</b><span>San Vicente</span></div><div><b>✝️</b><span>Santa Teresa</span></div><div><b>🥩</b><span>Chuletón</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ávila</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A unos <strong>110 km de Madrid</strong>, a más de 1.100 metros de altitud: es la capital de provincia más alta de España.</p></div>

@@ -34,6 +34,9 @@ Un valle tranquilo con **dos iglesias de épocas muy distintas** casi pegadas: u
 
 Te cuento qué ver, su historia y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Monasterio cisterciense</span></div><div><b>⛪</b><span>El Conventín</span></div><div><b>🌿</b><span>Valle</span></div><div><b>🏛️</b><span>Fachada</span></div><div><b>🎟️</b><span>Visitas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Valdediós: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la parroquia de Puelles (Villaviciosa), a unos 8 km de la villa.</p></div>

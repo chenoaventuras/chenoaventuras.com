@@ -52,6 +52,9 @@ Agua tan transparente que los barcos parecen flotar en el aire, playas de arena 
 
 Se llega en ferry desde Ibiza y se recorre en bici o moto. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Ses Illetes</span></div><div><b>🏝️</b><span>Espalmador</span></div><div><b>🗼</b><span>Far de la Mola</span></div><div><b>🌅</b><span>Cap de Barbaria</span></div><div><b>🚲</b><span>En bici</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Formentera</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛴️ Cómo llegar</h3><p>En <strong>ferry desde el puerto de Ibiza</strong> hasta La Savina, en unos 30-60 minutos según el barco.</p></div>

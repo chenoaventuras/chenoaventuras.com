@@ -40,6 +40,9 @@ guiaTitulo: 'Guía El Hierro en PDF'
 
 Te cuento por qué las sabinas tienen esas formas, cómo llegar, qué más ver en esta esquina salvaje de la isla y la historia del faro donde terminaba el mundo conocido 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌳</b><span>Sabinas retorcidas</span></div><div><b>🌬️</b><span>Viento</span></div><div><b>🌊</b><span>Vistas al mar</span></div><div><b>⛪</b><span>Ermita</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de El Sabinar</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>oeste de El Hierro</strong>, en la meseta de La Dehesa, sobre el valle de El Golfo.</p></div>

@@ -50,6 +50,9 @@ Una ciudad partida en dos por un tajo de casi **100 metros de profundidad**, uni
 
 Te cuento qué ver, cómo hacer la mejor foto del Puente Nuevo (desde abajo) y algunas curiosidades que no todo el mundo conoce 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puente Nuevo</span></div><div><b>🏞️</b><span>El Tajo</span></div><div><b>🏘️</b><span>Casas al borde</span></div><div><b>🐂</b><span>Plaza de toros</span></div><div><b>🛁</b><span>Baños Árabes</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ronda</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Serranía de Ronda</strong>, al oeste de Málaga, a cerca de <strong>hora y media en coche</strong> de la capital o de la Costa del Sol.</p></div>

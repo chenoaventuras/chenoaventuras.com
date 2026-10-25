@@ -42,6 +42,9 @@ Una fortaleza árabe enorme sobre la ciudad, una catedral con almenas para defen
 
 Te cuento qué ver, su historia, dónde tapear y cómo combinarla con Cabo de Gata y el desierto de Tabernas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Alcazaba</span></div><div><b>⛪</b><span>Catedral-fortaleza</span></div><div><b>🕳️</b><span>Refugios guerra civil</span></div><div><b>🍤</b><span>Tapas</span></div><div><b>🎬</b><span>Plató de cine</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Almería</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el sureste de <strong>Andalucía</strong>, junto al Mediterráneo, a unos 165 km de Granada.</p></div>

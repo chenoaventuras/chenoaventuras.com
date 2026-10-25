@@ -47,6 +47,9 @@ Un granero de piedra de **casi 35 metros**, levantado sobre decenas de patas de 
 
 Te cuento su historia, la pelea entre pueblos por tener el hórreo más largo y qué más ver en Carnota 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏚️</b><span>Hórreo de 35 m</span></div><div><b>🪨</b><span>Piedra</span></div><div><b>🌊</b><span>Costa da Morte</span></div><div><b>🕊️</b><span>Palomar</span></div><div><b>🧭</b><span>Más largo de Galicia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del hórreo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Carnota</strong> (A Coruña), junto a la iglesia de Santa Comba, en plena Costa da Morte.</p></div>

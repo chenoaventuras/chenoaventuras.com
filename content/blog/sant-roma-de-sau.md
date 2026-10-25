@@ -44,6 +44,9 @@ En medio del pantano de **Sau** (Barcelona) asoma un **campanario románico**. E
 
 Te cuento su historia y desde dónde verla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Campanario</span></div><div><b>💧</b><span>Pantano</span></div><div><b>🛶</b><span>Kayak</span></div><div><b>🌄</b><span>Mirador de Tavertet</span></div><div><b>🌵</b><span>Sequía</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Sant Romà</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>pantano de Sau</strong>, en Vilanova de Sau (Osona), a 1 hora y cuarto de Barcelona.</p></div>

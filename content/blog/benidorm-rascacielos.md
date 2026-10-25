@@ -55,6 +55,9 @@ La llaman la **«Nueva York del Mediterráneo»**, y no es exagerado: **Benidorm
 
 Te cuento por qué un pueblo de pescadores acabó así y dónde ver su skyline 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏙️</b><span>Rascacielos</span></div><div><b>🌇</b><span>Skyline</span></div><div><b>🏝️</b><span>Isla</span></div><div><b>🏖️</b><span>Playas</span></div><div><b>🛵</b><span>Vespa y bikini</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Benidorm</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Costa Blanca</strong> (Alicante), a unos 45 minutos del aeropuerto de Alicante.</p></div>

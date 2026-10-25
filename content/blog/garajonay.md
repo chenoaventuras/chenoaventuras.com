@@ -37,6 +37,9 @@ guiaTitulo: 'Guía La Gomera en PDF'
 
 Te cuento qué es la laurisilva, las mejores rutas (de la más fácil a la más bonita), los miradores, la leyenda que le da nombre y todo lo práctico para ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌲</b><span>Laurisilva</span></div><div><b>🌫️</b><span>Bosque de niebla</span></div><div><b>⛰️</b><span>Alto de Garajonay</span></div><div><b>🪨</b><span>Roque de Agando</span></div><div><b>💧</b><span>Laguna Grande</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Garajonay</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el centro y las cumbres de <strong>La Gomera</strong>. Ocupa cerca del 10 % de la isla, a 30-40 minutos de San Sebastián.</p></div>

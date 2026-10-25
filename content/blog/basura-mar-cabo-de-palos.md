@@ -34,6 +34,9 @@ actividades:
 ---
 Iba metiendo la GoPro entre las rocas de [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) buscando pulpos y peces de colores, y en vez de eso me encontré con algo que no debería sorprenderme tanto a estas alturas: bolsas, restos de plástico y trozos de basura enredados entre la posidonia. El mar no es un cubo donde tirar lo que sobra, aunque a veces lo parezca. Puedes ver el [vídeo completo en Instagram](https://www.instagram.com/reel/Ddo7BVURiEb/).
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌊</b><span>Basura en el mar</span></div><div><b>🤿</b><span>Fondo marino</span></div><div><b>♻️</b><span>Cómo evitarla</span></div><div><b>🐟</b><span>Fauna</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 ## Por qué me hierve la sangre cada vez que veo esto
 
 Cabo de Palos no es una cala cualquiera. Sus fondos forman parte de la Reserva Marina de Cabo de Palos - Islas Hormigas, una de las zonas protegidas con más biodiversidad de todo el Mediterráneo español, declarada Lugar de Interés Comunitario por la Unión Europea y elegida en 2015 como uno de los mejores destinos de buceo de Europa. Y aun así, en pleno espacio protegido, sigue apareciendo basura. Si pasa aquí, imagina en calas sin ningún tipo de vigilancia.

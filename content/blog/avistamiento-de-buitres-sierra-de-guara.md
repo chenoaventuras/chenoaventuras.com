@@ -38,6 +38,9 @@ Te lo enseño en vídeo 👇
 
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DLYBHuVI9Ja/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver mi reel de los buitres</a></p>
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦅</b><span>Buitres leonados</span></div><div><b>🦴</b><span>Quebrantahuesos</span></div><div><b>🔭</b><span>Observatorio</span></div><div><b>📅</b><span>Mejor época</span></div><div><b>📸</b><span>Fotografía</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La actividad en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💶 Precio</h3><p>Funciona con un <strong>donativo de 10 €</strong> por persona, que incluye el avistamiento y la entrada al museo Casa del Buitre.</p>

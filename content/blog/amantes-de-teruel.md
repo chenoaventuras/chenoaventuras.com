@@ -57,6 +57,9 @@ Mucho antes de que Shakespeare escribiera *Romeo y Julieta*, Teruel ya tenía su
 
 Visitar a los **Amantes de Teruel** es la excusa perfecta para descubrir una ciudad mudéjar que mucha gente se salta 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💘</b><span>Isabel y Diego</span></div><div><b>⚰️</b><span>Mausoleo</span></div><div><b>🗼</b><span>Torres mudéjares</span></div><div><b>🪜</b><span>Escalinata</span></div><div><b>🐂</b><span>Torico</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Teruel</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el sur de <strong>Aragón</strong>, a unas <strong>dos horas de Valencia y de Zaragoza</strong> por la A-23.</p></div>

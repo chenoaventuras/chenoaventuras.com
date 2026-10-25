@@ -37,6 +37,9 @@ Las cúpulas de colores del Pilar reflejadas en el Ebro, un palacio musulmán de
 
 Te cuento qué ver, cuánto cuesta (y cuándo es gratis), dónde ir de tapas y cómo son las Fiestas del Pilar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Basílica del Pilar</span></div><div><b>🏰</b><span>Aljafería</span></div><div><b>⛪</b><span>La Seo</span></div><div><b>🏘️</b><span>Plaza del Pilar</span></div><div><b>🆓</b><span>Días gratis</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Zaragoza</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A orillas del <strong>Ebro</strong>, a mitad de camino entre Madrid y Barcelona: <strong>1 hora y cuarto en AVE</strong> desde Madrid.</p></div>

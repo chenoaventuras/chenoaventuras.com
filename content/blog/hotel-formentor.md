@@ -38,6 +38,9 @@ En una playa de pinos y agua turquesa al norte de **Mallorca** hay un hotel con 
 
 Te cuento su historia y cómo disfrutar de la península de Formentor aunque no te alojes allí 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏨</b><span>Hotel histórico</span></div><div><b>🌊</b><span>Playa</span></div><div><b>🏖️</b><span>Terraza</span></div><div><b>🌄</b><span>Mirador del Colomer</span></div><div><b>📚</b><span>Premios Formentor</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Formentor</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>península de Formentor</strong>, a unos 20 minutos de Port de Pollença.</p></div>

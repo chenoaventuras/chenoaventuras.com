@@ -41,6 +41,9 @@ Iglesias sin techo, calles llenas de escombros y fachadas agujereadas por las ba
 
 Es uno de los lugares más impactantes de España, con fama de **pueblo fantasma** y visitas nocturnas que ponen la piel de gallina 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏚️</b><span>Ruinas de 1937</span></div><div><b>👻</b><span>Leyendas</span></div><div><b>🎬</b><span>Plató de cine</span></div><div><b>🧭</b><span>Visita guiada</span></div><div><b>⛪</b><span>San Agustín</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Belchite</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A unos <strong>45 km de Zaragoza</strong>, unos 40 minutos en coche.</p></div>

@@ -54,6 +54,9 @@ Yo la hice y te la enseño en vídeo 👇 Aquí tienes todo lo práctico: distan
 
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DbbVfXTMlKA/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver mi reel de la ruta</a></p>
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>Cola de Caballo</span></div><div><b>🥾</b><span>17,5 km</span></div><div><b>🏞️</b><span>Valle de Ordesa</span></div><div><b>⛰️</b><span>Desnivel</span></div><div><b>🚌</b><span>Acceso en bus</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La ruta en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🥾 Distancia y tiempo</h3><p>Ruta lineal de ida y vuelta por el mismo camino (GR-11).</p>

@@ -37,6 +37,9 @@ Torres barrocas cubiertas de azulejos y ladrillo que asoman sobre los tejados, u
 
 Te cuento qué ver, la leyenda de los templarios, la historia de sus conquistadores y cuándo ir para disfrutar del jamón ibérico 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Fortaleza templaria</span></div><div><b>🗼</b><span>Torre Sangrienta</span></div><div><b>⛪</b><span>San Bartolomé</span></div><div><b>⛪</b><span>San Miguel</span></div><div><b>🧭</b><span>Ciudad de las torres</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Jerez de los Caballeros</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>sur de Badajoz</strong>, a unos 40 km de Zafra y 75 de Badajoz.</p></div>

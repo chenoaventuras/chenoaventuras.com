@@ -53,6 +53,9 @@ Doce molinos blancos alineados en lo alto de un cerro, con un castillo medieval 
 
 Te cuento qué ver, qué molinos se pueden visitar por dentro y cuándo ir para la mejor foto 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌬️</b><span>Molinos del Quijote</span></div><div><b>🏰</b><span>Castillo de la Muela</span></div><div><b>🌅</b><span>Vistas</span></div><div><b>🌸</b><span>Rosa del Azafrán</span></div><div><b>🎟️</b><span>Precio</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Consuegra</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la provincia de <strong>Toledo</strong>, a unos 45 minutos de la capital y a algo más de una hora y media de Madrid.</p></div>

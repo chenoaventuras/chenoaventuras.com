@@ -51,6 +51,9 @@ Hace más de 2.000 años, los romanos fundaron aquí **Augusta Emerita**, una de
 
 El teatro romano, con su escena de columnas, es de esos sitios que te dejan sin palabras. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎭</b><span>Teatro romano</span></div><div><b>🏟️</b><span>Anfiteatro</span></div><div><b>⛩️</b><span>Templo de Diana</span></div><div><b>🌉</b><span>Puente romano</span></div><div><b>🏰</b><span>Alcazaba</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Mérida</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la provincia de Badajoz, junto al río Guadiana: a 45 minutos de Cáceres y unas 3 horas y media de Madrid.</p></div>

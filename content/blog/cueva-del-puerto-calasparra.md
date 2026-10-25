@@ -39,6 +39,9 @@ guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Bajo tierra, a pocos kilómetros de **Calasparra**, se esconde un tesoro que ha tardado **millones de años** en formarse: estalactitas, estalagmitas y, lo más especial, **dos salas donde los minerales brillan en la oscuridad**. Es la **Cueva del Puerto**, y es la única cueva turística de la Región de Murcia.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>✨</b><span>Minerales luminiscentes</span></div><div><b>🕳️</b><span>Dos salas</span></div><div><b>🔦</b><span>Visita guiada</span></div><div><b>🏞️</b><span>Cañón</span></div><div><b>🌡️</b><span>Temperatura</span></div></div>
+
 Puedes verla por dentro en [este reel de Instagram](https://www.instagram.com/reel/DPtFBuKjCay/), grabado en la Cueva del Puerto.
 
 ## Lo básico antes de ir

@@ -37,6 +37,9 @@ En mitad de La Mancha, entre viñedos y llanuras secas, hay un laberinto de agua
 
 Te cuento cómo es la visita, los tres itinerarios, qué aves ver, cuándo ir para encontrarlo con agua y su historia de supervivencia 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦆</b><span>Aves</span></div><div><b>🌉</b><span>Pasarelas sobre el agua</span></div><div><b>🔥</b><span>Humedal que ardió</span></div><div><b>🏝️</b><span>Isla del Pan</span></div><div><b>🗼</b><span>Torre de Prado Ancho</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A 11 km de <strong>Daimiel (Ciudad Real)</strong>, a unos 30 km de la capital y 190 de Madrid.</p></div>

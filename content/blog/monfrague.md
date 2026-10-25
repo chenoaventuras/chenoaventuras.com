@@ -43,6 +43,9 @@ Una pared de roca gigante sobre el río Tajo y decenas de **buitres** planeando 
 
 Se visita gratis y en coche llegas a casi todos los miradores. Te cuento cómo aprovecharlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦅</b><span>Buitres</span></div><div><b>🪨</b><span>Salto del Gitano</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🎨</b><span>Pinturas rupestres</span></div><div><b>🏞️</b><span>Río Tajo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Monfragüe</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de Cáceres, entre <strong>Plasencia</strong> y <strong>Trujillo</strong>. La carretera EX-208 cruza el parque y pasa por los miradores.</p></div>

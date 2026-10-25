@@ -31,6 +31,9 @@ Pozas de **agua caliente junto al río Miño**, en pleno campo, a pocos minutos 
 
 Te cuento cómo llegar, cuándo ir y cómo evitar sorpresas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>♨️</b><span>Termas junto al río</span></div><div><b>🏊</b><span>Pozas de Outariz</span></div><div><b>🏘️</b><span>Burga de Canedo</span></div><div><b>🚂</b><span>Tren de las termas</span></div><div><b>⚠️</b><span>Ojo con el río</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Outariz y Burga de Canedo: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>♨️ Qué hay</h3><p>Dos zonas de baño separadas por una pasarela: <strong>Outariz</strong> (tres pozas de agua caliente y una fría) y <strong>Burga de Canedo</strong> (tres pozas dobles calientes y una fría). Hay aseos, taquillas y vestuarios.</p></div>

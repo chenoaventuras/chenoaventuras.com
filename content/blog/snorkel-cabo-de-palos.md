@@ -56,6 +56,9 @@ comerFecha: "octubre de 2026"
 ---
 Metí la cabeza bajo el agua en Cabo de Palos sin esperar gran cosa, la verdad, y en menos de cinco minutos ya tenía alrededor un puñado de peces, un fondo de roca lleno de vida y una pradera de posidonia que no tiene nada que envidiar a según qué destinos "exóticos". Y cuando empecé a moverme entre sus distintas calas me di cuenta de lo diferente que puede ser el fondo de un lado a otro del mismo cabo. Puedes ver el [vídeo completo en Instagram](https://www.instagram.com/reel/Ddo2u7rxbIc/).
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🤿</b><span>Snorkel</span></div><div><b>🏝️</b><span>Islas Hormigas</span></div><div><b>🐠</b><span>Fauna marina</span></div><div><b>🏖️</b><span>Calas</span></div><div><b>⛵</b><span>Barco</span></div></div>
+
 ## ¿Dónde está exactamente Cabo de Palos?
 
 Cabo de Palos es una localidad pesquera dentro del municipio de Cartagena, en la Región de Murcia, pegada a la entrada de La Manga del Mar Menor. Su faro, subido sobre el cabo, es la imagen más reconocible del pueblo, pero lo que de verdad merece la pena está bajo el agua: sus fondos forman parte de la Reserva Marina de Cabo de Palos - Islas Hormigas, un espacio protegido de referencia en todo el Mediterráneo.

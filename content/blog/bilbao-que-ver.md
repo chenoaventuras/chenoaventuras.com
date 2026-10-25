@@ -37,6 +37,9 @@ Hace cuarenta años Bilbao era una ciudad gris de astilleros y altos hornos. Hoy
 
 Te cuento qué ver, cuánto cuesta el Guggenheim, dónde comer pintxos, cómo subir a Artxanda y qué ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎨</b><span>Guggenheim</span></div><div><b>🏘️</b><span>Casco Viejo</span></div><div><b>🍢</b><span>Pintxos</span></div><div><b>🌉</b><span>Paseo de la ría</span></div><div><b>🛒</b><span>Mercado de la Ribera</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Bilbao</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Bizkaia</strong>, a orillas de la ría del Nervión, a unos 14 km del mar.</p></div>

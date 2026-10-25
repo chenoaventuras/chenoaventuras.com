@@ -39,6 +39,9 @@ Llanuras de arcilla agrietada, cabezos que parecen mesas gigantes y una chimenea
 
 Se pueden recorrer en coche, en bici o a pie, pero tienen sus normas (y un polígono de tiro militar en medio). Te cuento todo lo que tienes que saber 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏜️</b><span>Desierto</span></div><div><b>🗼</b><span>Castildetierra</span></div><div><b>🎬</b><span>Plató de cine</span></div><div><b>🚙</b><span>En coche o bici</span></div><div><b>🌅</b><span>Atardecer</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Bardenas Reales: horario y normas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Precio</h3><p><strong>Gratis</strong>. No hay entrada ni hace falta reservar.</p></div>

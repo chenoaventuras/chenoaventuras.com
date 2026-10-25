@@ -37,6 +37,9 @@ Agua tan transparente que los barcos parecen flotar en el aire, rocas doradas, p
 
 Te cuento cómo es, cómo llegar, cuándo ir para evitar el agobio y qué ver alrededor 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Aguas turquesa</span></div><div><b>🏝️</b><span>Islotes</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>🏘️</b><span>Calas pequeñas</span></div><div><b>⚠️</b><span>Ojo con el sol</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cala Comte</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>oeste de Ibiza</strong>, a unos 20 minutos de Sant Antoni.</p></div>

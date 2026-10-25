@@ -52,6 +52,9 @@ El **2 de julio de 1965**, en plena Beatlemanía, **John, Paul, George y Ringo**
 
 Te cuento cómo fue aquella noche y cómo visitar hoy la plaza 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎸</b><span>Los Beatles</span></div><div><b>🐂</b><span>Las Ventas</span></div><div><b>📅</b><span>2 de julio de 1965</span></div><div><b>🇪🇸</b><span>Único concierto en España</span></div><div><b>📜</b><span>Historia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Las Ventas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la calle de Alcalá, barrio de <strong>Ventas</strong>, con metro propio (Ventas, líneas 2 y 5).</p></div>

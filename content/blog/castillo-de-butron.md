@@ -60,7 +60,10 @@ guiaTitulo: 'Guía Bizkaia en PDF'
 ---
 Torres con almenas, un puente sobre el agua y un bosque centenario a su alrededor: el **Castillo de Butrón** parece sacado de un cuento, pero es **el único castillo romántico de Euskadi**. Tiene más de **siete siglos de historia**, estuvo abandonado, se convirtió en restaurante, en sede de estudios de cine y en escenario de películas, y hoy es una propiedad privada en obras. Te cuento su historia, qué se puede ver ahora, cómo llegar y qué hacer por la zona 👇
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Castillo de Butrón</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo romántico</span></div><div><b>📜</b><span>Siete siglos de historia</span></div><div><b>🎬</b><span>Escenario de cine</span></div><div><b>🌳</b><span>Parque con 70 especies</span></div><div><b>🚌</b><span>Bus desde Bilbao</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Castillo de Butrón</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Gatika</strong> (Bizkaia), en la comarca de Uribe, a unos 17-25 km de Bilbao según la ruta (unos 20-30 minutos en coche).</p></div>
 <div class="guide__tip"><h3>⏱️ Tiempo</h3><p>Verlo por fuera y pasear por el parque: <strong>1 hora</strong>. Con una ruta o un picnic, media jornada.</p></div>

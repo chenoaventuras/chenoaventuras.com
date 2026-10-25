@@ -34,6 +34,9 @@ Un **poblado fortificado de más de 2.000 años** con calles enlosadas, cabañas
 
 Te cuento qué ver, su historia y cómo visitarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>80 cabañas</span></div><div><b>🧱</b><span>Muralla</span></div><div><b>🛣️</b><span>Calles enlosadas</span></div><div><b>🕰️</b><span>Edad del Hierro</span></div><div><b>🎫</b><span>Visitas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Castro de Coaña: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏺 Cuándo se habitó</h3><p>Desde el siglo IV a. C. o antes (Edad del Hierro) y, posiblemente, hasta el siglo I, incluso tras la conquista romana.</p></div>

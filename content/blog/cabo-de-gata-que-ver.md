@@ -48,6 +48,9 @@ Playas vírgenes entre volcanes, agua transparente y paisajes de desierto que pa
 
 En la playa de **Mónsul** rodaron una escena de *Indiana Jones*, y en el faro hay un arrecife con nombre de leyenda 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Playa de Mónsul</span></div><div><b>🏝️</b><span>Los Genoveses</span></div><div><b>🧜</b><span>Arrecife de las Sirenas</span></div><div><b>🗼</b><span>Faro</span></div><div><b>🏘️</b><span>San José</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cabo de Gata</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Almería</strong>, en el Parque Natural Cabo de Gata-Níjar, a unos <strong>40 minutos de Almería</strong> capital.</p></div>

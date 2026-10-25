@@ -42,6 +42,9 @@ Una catedral renacentista enorme que sirvió de modelo para las de América, un 
 
 Te cuento qué ver, la historia de la ciudad, sus leyendas y cómo combinarla con Úbeda, Baeza y Cazorla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral de Vandelvira</span></div><div><b>🏰</b><span>Castillo de Santa Catalina</span></div><div><b>🛁</b><span>Baños árabes</span></div><div><b>🏛️</b><span>Palacio de Villardompardo</span></div><div><b>🫒</b><span>Aceite de oliva</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Jaén</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de <strong>Andalucía</strong>, a unos 95 km de Granada y 110 de Córdoba.</p></div>

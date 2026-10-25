@@ -31,6 +31,9 @@ Una villa que se despliega sobre una colina, con **iglesias románicas**, un cas
 
 Te cuento qué ver y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Iglesias románicas</span></div><div><b>🐑</b><span>Cordero asado</span></div><div><b>🏞️</b><span>Hoces del Duratón</span></div><div><b>🏘️</b><span>Casco histórico</span></div><div><b>🧗</b><span>Calles empinadas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Sepúlveda: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛪ Románico</h3><p>La villa tiene un notable conjunto de <strong>iglesias románicas</strong>: San Salvador, Nuestra Señora de la Peña, Santos Justo y Pastor, San Bartolomé y Santiago, entre otras.</p></div>

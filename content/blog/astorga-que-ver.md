@@ -54,6 +54,9 @@ Un **palacio de Gaudí** que parece un castillo de cuento, una catedral gigantes
 
 Te cuento qué ver, qué comer (spoiler: el cocido se come al revés) y qué pueblo de la Maragatería no te puedes perder 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Palacio de Gaudí</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🧱</b><span>Murallas romanas</span></div><div><b>🍫</b><span>Chocolate</span></div><div><b>🥘</b><span>Cocido maragato</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Astorga</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la provincia de <strong>León</strong>, a unos <strong>45 minutos de la capital</strong> por la autovía, a las puertas de la comarca de la Maragatería.</p></div>

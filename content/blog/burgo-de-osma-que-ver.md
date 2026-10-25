@@ -50,6 +50,9 @@ guiaTitulo: 'Guía Soria en PDF'
 ---
 Hay pueblos que crecieron alrededor de un castillo, y otros que crecieron alrededor de una catedral. El Burgo de Osma es de los segundos: durante siglos fue una importante ciudad episcopal, y ese pasado se nota en cada esquina de su casco histórico.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral</span></div><div><b>💊</b><span>Farmacia antigua</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🍖</b><span>Gastronomía</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DVnhTcgjD7C/), grabado en El Burgo de Osma, Soria.
 
 ## Una catedral que mezcla tres estilos

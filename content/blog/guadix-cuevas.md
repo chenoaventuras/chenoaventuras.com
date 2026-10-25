@@ -37,6 +37,9 @@ Cientos de chimeneas blancas asomando del suelo entre colinas de tierra rojiza, 
 
 Te cuento qué ver, cómo son las cuevas por dentro, por qué la gente vive en ellas y cómo aprovechar para dormir en una 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕳️</b><span>Barrio de Cuevas</span></div><div><b>🏠</b><span>2.000 cuevas</span></div><div><b>🔥</b><span>Chimeneas</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🏰</b><span>Alcazaba</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Guadix</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A unos <strong>60 km de Granada</strong>, al pie de Sierra Nevada.</p></div>

@@ -34,6 +34,9 @@ Un balcón natural en la **Sierra del Sueve** con vistas al **mar Cantábrico** 
 
 Te cuento qué se ve, cómo llegar y cuándo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌄</b><span>360 grados</span></div><div><b>🏔️</b><span>Picos de Europa</span></div><div><b>🌊</b><span>Mar</span></div><div><b>⛰️</b><span>Sierra del Sueve</span></div><div><b>🌫️</b><span>Entre nubes</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Mirador del Fitu: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛰️ Altura</h3><p>Alrededor de 600 m, según una guía turística.</p></div>

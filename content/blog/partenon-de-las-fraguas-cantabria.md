@@ -42,6 +42,9 @@ guiaTitulo: 'Guía Cantabria interior en PDF'
 ---
 Entre montañas y prados del **valle de Iguña**, en Cantabria, hay un edificio que parece teletransportado desde Grecia. Lo llaman el **«Partenón cántabro»**, y la primera vez que lo ves aparecer entre los árboles cuesta creer que estás en el norte de España.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Iglesia neoclásica</span></div><div><b>🏛️</b><span>40 columnas corintias</span></div><div><b>⛪</b><span>San Jorge</span></div><div><b>🌿</b><span>Escondido</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DYSX22UMI_t/), grabado en Las Fraguas.
 
 ## Lo básico

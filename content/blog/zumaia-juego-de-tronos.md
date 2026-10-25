@@ -49,6 +49,9 @@ Si has visto **Juego de Tronos**, ya has estado en **Zumaia**. Su playa de **Itz
 
 Te cuento qué ver, cuándo ir según la marea y dónde está la ermita de película 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Playa de Itzurun</span></div><div><b>📚</b><span>Flysch</span></div><div><b>🐉</b><span>Juego de Tronos</span></div><div><b>⛪</b><span>Ermita de San Telmo</span></div><div><b>🌊</b><span>Marea</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Zumaia</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa de <strong>Gipuzkoa</strong>, a 30 minutos de San Sebastián.</p></div>

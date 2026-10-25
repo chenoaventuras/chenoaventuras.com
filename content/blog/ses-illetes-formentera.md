@@ -37,6 +37,9 @@ Una lengua de arena blanca que se estira hacia el norte entre dos mares, agua ta
 
 Te cuento por qué el agua es así, cómo llegar (en bici, bus o coche, y lo que se paga), los rincones menos llenos y cómo combinarla con Llevant y Espalmador 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Ses Illetes</span></div><div><b>🏖️</b><span>Playa de Llevant</span></div><div><b>🏝️</b><span>Espalmador</span></div><div><b>💧</b><span>Agua turquesa</span></div><div><b>🌅</b><span>Es Trucadors</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ses Illetes</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>norte de Formentera</strong>, a unos <strong>5 km del puerto de La Savina</strong>, dentro del Parque Natural de Ses Salines.</p></div>

@@ -31,6 +31,9 @@ guiaTitulo: 'Guía Marrakech y alrededores en PDF'
 ---
 En pleno Atlas Medio marroquí, a poco más de dos horas de Marrakech, el agua se despeña casi 100 metros entre paredes de roca ocre, creando uno de los paisajes más espectaculares de todo Marruecos. Son las Cascadas de Ouzoud, y si estás por la zona, merecen una excursión de un día entero.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>Cataratas</span></div><div><b>🏊</b><span>Pozas</span></div><div><b>🐒</b><span>Monos</span></div><div><b>🛶</b><span>Barca</span></div><div><b>🇲🇦</b><span>Marruecos</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DR7WTgNDCew/), grabado en las Cascadas de Ouzoud, Marruecos.
 
 ## Las cataratas más altas de Marruecos

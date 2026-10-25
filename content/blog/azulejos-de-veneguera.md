@@ -28,6 +28,9 @@ Una ladera de roca verde, azulada, ocre y rojiza que parece pintada, junto a la 
 
 Te cuento cómo llegar y qué esperar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌈</b><span>Rocas de colores</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🥾</b><span>Paseo corto</span></div><div><b>🚗</b><span>Junto a la GC-200</span></div><div><b>🌄</b><span>Valle de Veneguera</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Los Azulejos de Veneguera: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde están</h3><p>Junto a la carretera <strong>GC-200</strong>, en el municipio de Mogán. Desde el centro de Mogán, unos 15 minutos en coche.</p></div>

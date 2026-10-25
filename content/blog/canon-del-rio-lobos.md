@@ -42,6 +42,9 @@ Paredes de roca de cien metros, buitres planeando por encima de tu cabeza y, en 
 
 El **Cañón del Río Lobos** es uno de los rincones más mágicos de Soria 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Ermita templaria</span></div><div><b>🕳️</b><span>Cueva Grande</span></div><div><b>🦅</b><span>Buitres</span></div><div><b>🥾</b><span>Senda</span></div><div><b>🏞️</b><span>Cañón</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de el Cañón del Río Lobos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Entre <strong>Soria y Burgos</strong>. La entrada más usada es <strong>Ucero</strong>, a 15 minutos de El Burgo de Osma.</p></div>

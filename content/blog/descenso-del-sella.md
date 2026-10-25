@@ -38,6 +38,9 @@ Una **fiesta de piraguas** que baja el río Sella desde Arriondas hasta Ribadese
 
 Te cuento cuándo es, qué recorrido hace y cómo hacerlo como actividad 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🛶</b><span>Canoas</span></div><div><b>📅</b><span>Cuándo es</span></div><div><b>🏞️</b><span>Arriondas a Ribadesella</span></div><div><b>🏁</b><span>La llegada</span></div><div><b>🎉</b><span>Ambiente</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Descenso del Sella: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📅 Cuándo es</h3><p>El primer sábado de agosto posterior al día 2. En 2027 sería el <strong>sábado 7 de agosto</strong> (confirma la fecha oficial).</p></div>

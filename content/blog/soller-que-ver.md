@@ -49,6 +49,9 @@ Un valle lleno de **naranjos** rodeado por las montañas más altas de Mallorca,
 
 Te cuento qué ver, cómo llegar en el tren y qué ruta hacer por la Serra de Tramuntana 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚂</b><span>Tren de madera</span></div><div><b>🚋</b><span>Tranvía</span></div><div><b>⚓</b><span>Puerto</span></div><div><b>🍊</b><span>Valle de los naranjos</span></div><div><b>⛪</b><span>Sant Bartomeu</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Sóller</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa norte de <strong>Mallorca</strong>, a unos 30 km de Palma, en plena <strong>Serra de Tramuntana</strong>.</p></div>

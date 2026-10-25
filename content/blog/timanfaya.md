@@ -46,6 +46,9 @@ Entre 1730 y 1736, Lanzarote vivió una de las erupciones más largas de la hist
 
 Y la tierra sigue caliente: a pocos metros de profundidad hay cientos de grados. Te cuento cómo visitarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌋</b><span>Montañas del Fuego</span></div><div><b>🍗</b><span>Pollo cocinado con el calor</span></div><div><b>🚌</b><span>Ruta de los Volcanes</span></div><div><b>🐪</b><span>Camellos</span></div><div><b>🏜️</b><span>Paisajes</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Timanfaya</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el suroeste de Lanzarote, entre Yaiza y Tinajo. La entrada a las Montañas del Fuego está en la carretera LZ-67.</p></div>

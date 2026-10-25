@@ -29,6 +29,9 @@ guiaTitulo: 'Guía Granada en PDF'
 ---
 Palacios de yeserías y mármol, jardines con acequias, una fortaleza con vistas a toda Granada y la **Sierra Nevada** al fondo. La **Alhambra** es el monumento más visitado de España y también uno de los que **más cuesta conseguir entrada**: aquí te cuento cómo hacerlo bien, qué incluye cada ticket y cómo recorrerla.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎟️</b><span>Entradas</span></div><div><b>🕌</b><span>Palacios Nazaríes</span></div><div><b>🦁</b><span>Patio de los Leones</span></div><div><b>🌿</b><span>Generalife</span></div><div><b>🏰</b><span>Alcazaba</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Alhambra: cómo conseguir entradas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entrada general</h3><p>La <strong>Alhambra General</strong> (diurna) incluye los <strong>Palacios Nazaríes, el Generalife y la Alcazaba</strong>. Según el Patronato, cuesta <strong>21 € por adulto</strong> (22,27 € si compras en la web de venta); los menores de 12 años entran gratis. Confirma siempre el precio en la web oficial.</p></div>

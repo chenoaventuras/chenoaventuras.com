@@ -36,6 +36,9 @@ Un acuario de **2.000 m² de exposición** con **60 tanques**, unas **250 especi
 
 Te cuento qué ver, cuánto dura la visita y qué hacer cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦈</b><span>Tiburones</span></div><div><b>🐠</b><span>250 especies</span></div><div><b>🧪</b><span>12 zonas temáticas</span></div><div><b>🌊</b><span>Playa de Poniente</span></div><div><b>⏱️</b><span>Visita de 2 h</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Acuario de Gijón: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🐠 Qué es</h3><p>Un acuario inaugurado el 9 de junio de 2006 y abierto al público el día siguiente.</p></div>

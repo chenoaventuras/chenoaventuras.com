@@ -30,6 +30,9 @@ Murallas almenadas, torres, un puente levadizo y la cruz templaria por todas par
 
 Además, Ponferrada es la puerta de entrada a **Las Médulas**, otro de los paisajes más increíbles de España 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo templario</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>⛪</b><span>Basílica de la Encina</span></div><div><b>🌙</b><span>Noche Templaria</span></div><div><b>⛏️</b><span>Las Médulas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ponferrada</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Ponferrada</strong>, capital de El Bierzo (León), en pleno Camino de Santiago.</p></div>

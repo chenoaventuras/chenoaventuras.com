@@ -46,6 +46,9 @@ En **menos de 4 minutos** pasas de un valle verde a un mundo de roca a **1.823 m
 
 Te cuento cómo funciona, cuándo ir para no hacer horas de cola y qué rutas hacer arriba 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚠</b><span>753 metros</span></div><div><b>⏱️</b><span>Menos de 4 minutos</span></div><div><b>🪨</b><span>Pared</span></div><div><b>🌄</b><span>Mirador del Cable</span></div><div><b>🥾</b><span>Rutas por arriba</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del teleférico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Al final del valle de <strong>Liébana</strong> (Cantabria), a unos 25 km de Potes.</p></div>

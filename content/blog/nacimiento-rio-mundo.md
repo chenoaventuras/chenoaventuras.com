@@ -37,6 +37,9 @@ Imagina una pared de roca de cientos de metros en mitad de un bosque y, a media 
 
 Te cuento cómo es la ruta, qué es el famoso **reventón**, cuándo ir para verlo con agua, qué hay dentro de la cueva y qué más ver por la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Río que brota de una roca</span></div><div><b>💦</b><span>Cascadas</span></div><div><b>🥾</b><span>Sendero</span></div><div><b>🌄</b><span>Mirador</span></div><div><b>🏘️</b><span>Riópar</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Nacimiento del río Mundo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A unos 6-8 km de <strong>Riópar</strong>, en el suroeste de Albacete, a unos 120 km de la capital.</p></div>

@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 Un **teatro romano** que apareció bajo las casas, una **muralla púnica** que habla de cartagineses, un castillo con vistas y un puerto con más de dos mil años. **Cartagena** es una de las ciudades con más historia de la costa mediterránea y se ve bien en **un día**, aunque merece más. Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cartagena: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎭</b><span>Teatro Romano</span></div><div><b>🧱</b><span>Muralla Púnica</span></div><div><b>🏛️</b><span>Foro Romano</span></div><div><b>🏰</b><span>Castillo de la Concepción</span></div><div><b>⚓</b><span>Puerto</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cartagena: lo básico</h2></div>
 <p>Hay entradas que juntan el <strong>Museo del Teatro Romano</strong>, el <strong>Museo del Foro Romano Molinete</strong> y el centro de la <strong>Muralla Púnica</strong>, y salen mejor que pagar cada uno por separado: confirma precios y horarios en la web oficial. Según la web oficial del Teatro Romano, de octubre a abril (excepto Semana Santa) abre de martes a sábado de 10:00 a 18:00 y los domingos de 10:00 a 14:00; de mayo a septiembre, de martes a sábado de 10:00 a 20:00. Cierra los lunes. La entrada general cuesta 7 € (6 € reducida) y los martes, en las dos últimas horas de apertura, el acceso presencial es gratuito. Hay tren desde Murcia y buena conexión por carretera; el casco histórico se recorre a pie.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>Teatro Romano y Muralla Púnica</h2></div>

@@ -49,6 +49,9 @@ Calles estrechísimas, casas de entramado de madera de castaño que casi se toca
 
 Te cuento qué ver y qué rutas hacer por el Valle del Ambroz 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕍</b><span>Barrio judío</span></div><div><b>🏠</b><span>Casas de castaño</span></div><div><b>🏍️</b><span>Museo de motos</span></div><div><b>🥾</b><span>Entorno</span></div><div><b>🌳</b><span>Castaños</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Hervás</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Valle del Ambroz</strong>, al norte de Cáceres, junto a la A-66 (Ruta de la Plata), casi en el límite con Salamanca.</p></div>

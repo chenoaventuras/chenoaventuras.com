@@ -53,6 +53,9 @@ En el río Bidasoa, entre **Irun** y **Hendaya**, hay una isla diminuta que **ca
 
 Y aquí se firmó la paz entre España y Francia en 1659. Te lo cuento 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗺️</b><span>Cambia de país</span></div><div><b>🌉</b><span>Río Bidasoa</span></div><div><b>👑</b><span>Boda real</span></div><div><b>🗿</b><span>Monumento</span></div><div><b>🏘️</b><span>Hondarribia y Hendaya</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Isla de los Faisanes</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>río Bidasoa</strong>, frente al barrio de <strong>Behobia (Irun)</strong>, en la frontera con Francia.</p></div>

@@ -34,6 +34,9 @@ Una playa de **arena fina oscura**, con **dunas, marismas y un estuario**, prote
 
 Te cuento cómo llegar, qué ver y las normas del lugar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Dunas</span></div><div><b>🦆</b><span>Marismas</span></div><div><b>🌍</b><span>Reserva natural</span></div><div><b>🌊</b><span>Marea baja</span></div><div><b>📜</b><span>Normas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Playa de Barayo: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏖️ Cómo es</h3><p>Unos 670 m de longitud y una anchura media de unos 85 m, con arena fina de color oscuro.</p></div>

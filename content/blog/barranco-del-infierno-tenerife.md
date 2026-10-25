@@ -51,6 +51,9 @@ Con ese nombre, uno espera algo terrible, pero lo que hay al final es lo contrar
 
 El **Barranco del Infierno** es una de las rutas más famosas de la isla, con plazas limitadas y reserva obligatoria. Te cuento cómo hacerla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>Cascada</span></div><div><b>🥾</b><span>Ruta de 6,5 km</span></div><div><b>🎟️</b><span>Reserva obligatoria</span></div><div><b>🌿</b><span>Flora canaria</span></div><div><b>⛰️</b><span>Barranco</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de el Barranco del Infierno</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Adeje</strong>, en el sur de Tenerife. La ruta sale del casco antiguo del pueblo.</p></div>

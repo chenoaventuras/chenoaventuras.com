@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Asturias en PDF'
 ---
 Una escultura de **500 toneladas** frente al mar, un barrio de pescadores sobre una península, una playa en forma de concha y un gran edificio de los años 50 convertido en ciudad de la cultura. **Gijón** es la ciudad más grande de Asturias y se ve bien en **un día** (o en dos con calma). Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Gijón: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Cimadevilla</span></div><div><b>🗿</b><span>Elogio del Horizonte</span></div><div><b>🏖️</b><span>Playa de San Lorenzo</span></div><div><b>🌊</b><span>Muro</span></div><div><b>🍎</b><span>Sidra</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Gijón: lo básico</h2></div>
 <p>Asturias es verde porque llueve: mira la previsión y lleva un chubasquero fino, porque la mayoría de los lugares son de exterior. Cimadevilla, el cerro de Santa Catalina y la playa de San Lorenzo están a pocos minutos unos de otros: se hace a pie. Hay tren desde Oviedo en menos de una hora y buenas conexiones por autovía con Avilés y el resto de la costa; la estación queda a unos 15 minutos andando de Cimadevilla y de la playa de San Lorenzo.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>Cimadevilla, el barrio de los pescadores</h2></div>

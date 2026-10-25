@@ -36,6 +36,9 @@ La **Villa Blanca**: casas blancas con balcones, un puerto muy pintoresco, puent
 
 Te cuento qué ver, cómo llegar y qué probar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⚓</b><span>Puerto</span></div><div><b>🗼</b><span>Faro</span></div><div><b>⛪</b><span>Ermita de la Virgen</span></div><div><b>🏞️</b><span>Río Negro</span></div><div><b>🏘️</b><span>Villa Blanca</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Luarca: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el concejo de Valdés, a unos 90 km de Oviedo, en el occidente asturiano.</p></div>

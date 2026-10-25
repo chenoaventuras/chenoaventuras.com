@@ -47,6 +47,9 @@ Hay rutas que se ganan las vistas a pulso, y la **Senda de los Cazadores** es la
 
 La foto de portada es mía, en el mirador, y te aseguro que las piernas se olvidan en cuanto te asomas 😅 Te cuento cómo es la subida, cuánto se tarda y cómo convertirla en una de las rutas circulares más bonitas del Pirineo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥾</b><span>Senda</span></div><div><b>🌄</b><span>Mirador de Calcilarruego</span></div><div><b>🏔️</b><span>Ordesa</span></div><div><b>📏</b><span>Desnivel</span></div><div><b>🔁</b><span>Ruta circular</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La subida en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛰️ Hasta el mirador</h3><p>Subida corta pero muy empinada, en zigzag por el bosque.</p>

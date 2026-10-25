@@ -37,6 +37,9 @@ Imagina un valle entero cubierto de **terrazas de madera y piedra** escalonadas,
 
 Te cuento cómo se formó, qué se ve en la visita, cuánto cuesta, cómo meter los pies en su spa salino y qué más hacer por la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧂</b><span>Salinas de interior</span></div><div><b>🌍</b><span>Patrimonio Agrícola Mundial</span></div><div><b>💧</b><span>Manantiales</span></div><div><b>🪵</b><span>Canales de madera</span></div><div><b>🏞️</b><span>Eras</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Valle Salado</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Salinas de Añana (Álava)</strong>, a unos <strong>30 km de Vitoria</strong> y a una hora de Bilbao.</p></div>

@@ -40,6 +40,9 @@ Un lago enorme y tranquilo rodeado de arrozales, barcas de madera deslizándose 
 
 Te cuento cómo hacer el paseo en barca, dónde ver el atardecer, qué comer en El Palmar y cuándo ir para ver aves 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🛶</b><span>Paseo en barca</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>🥘</b><span>Paella</span></div><div><b>🌾</b><span>Arrozales</span></div><div><b>🦆</b><span>Aves</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Albufera</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A unos <strong>15-20 km al sur de Valencia</strong>, entre la ciudad y Sueca.</p></div>

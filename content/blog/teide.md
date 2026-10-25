@@ -42,6 +42,9 @@ Con sus **3.715 metros**, el **Teide** es el pico más alto de España y uno de 
 
 Pero llegar al cráter no es tan simple como coger el teleférico: hace falta un **permiso** (y desde 2026, pagar una tasa si no eres residente). Te lo explico todo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚠</b><span>Teleférico</span></div><div><b>🌋</b><span>Cráter</span></div><div><b>🎟️</b><span>Permiso al pico</span></div><div><b>🌅</b><span>Sombra del Teide</span></div><div><b>☁️</b><span>Mar de nubes</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Teide: permiso, tasa y teleférico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📝 Permiso al pico</h3><p>Para recorrer el último tramo hasta el cráter (sendero <strong>Telesforo Bravo</strong>) necesitas <strong>reserva previa</strong>, con horario de 9:00 a 17:00 en franjas de dos horas. Hay cupo diario y se agota con semanas de antelación.</p></div>

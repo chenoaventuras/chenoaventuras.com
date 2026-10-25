@@ -30,6 +30,9 @@ Una **antigua capital** escondida entre montañas, con casas blancas, una iglesi
 
 Te cuento qué ver, el estado del mirador y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Iglesia de Santa María</span></div><div><b>🏺</b><span>Museo arqueológico</span></div><div><b>🌄</b><span>Mirador de Morro Velosa</span></div><div><b>🏘️</b><span>Casas blancas</span></div><div><b>👑</b><span>Antigua capital</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Betancuria: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⚠️ Mirador de Morro Velosa</h3><p>Según la información más reciente, el edificio del mirador diseñado por César Manrique está <strong>cerrado temporalmente</strong>; la carretera y las vistas siguen accesibles. <strong>Compruébalo antes de ir</strong>.</p></div>

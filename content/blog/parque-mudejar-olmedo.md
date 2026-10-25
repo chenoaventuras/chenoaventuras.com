@@ -31,6 +31,9 @@ Un parque donde puedes **entrar dentro de un castillo de ladrillo** y pasear jun
 
 Te cuento qué hay, cuánto cuesta (orientativo) y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Maquetas de castillos</span></div><div><b>🧱</b><span>Arcos de ladrillo</span></div><div><b>🗼</b><span>Torres y almenas</span></div><div><b>👨‍👩‍👧</b><span>Para familias</span></div><div><b>🎟️</b><span>Entrada</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Parque Mudéjar de Olmedo: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entrada</h3><p>Según el portal oficial de turismo, la entrada general ronda los <strong>4,50 €</strong> y la reducida unos <strong>3,75 €</strong>, con descuentos para niños y familias numerosas. <strong>Confirma precios</strong> antes de ir.</p></div>

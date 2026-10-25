@@ -67,6 +67,9 @@ Una bahía considerada de las más bonitas del mundo, un palacio inglés en una 
 
 Te cuento qué ver, la historia del gran incendio que cambió la ciudad, sus playas, dónde comer rabas y qué escapadas hacer por Cantabria 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Palacio de la Magdalena</span></div><div><b>🏖️</b><span>El Sardinero</span></div><div><b>🎨</b><span>Centro Botín</span></div><div><b>🚶</b><span>Paseo de Pereda</span></div><div><b>⚓</b><span>Bahía</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Santander</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa de <strong>Cantabria</strong>, a unos 100 km de Bilbao y 390 de Madrid.</p></div>

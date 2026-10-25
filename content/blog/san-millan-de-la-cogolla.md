@@ -37,6 +37,9 @@ Dos monasterios en un valle verde de La Rioja, uno pequeño y austero pegado a u
 
 Te cuento qué ver en Suso y Yuso, la historia de las Glosas, la leyenda de los bueyes y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Monasterio de Suso</span></div><div><b>⛪</b><span>Monasterio de Yuso</span></div><div><b>🌍</b><span>Patrimonio de la Humanidad</span></div><div><b>📖</b><span>Cuna del castellano</span></div><div><b>🏘️</b><span>Pueblo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de San Millán</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el valle del Cárdenas, en <strong>La Rioja</strong>, a unos 45 km de Logroño.</p></div>

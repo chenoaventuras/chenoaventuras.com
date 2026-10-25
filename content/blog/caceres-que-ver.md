@@ -50,6 +50,9 @@ Torres de piedra, palacios con escudos, calles empedradas en cuesta y ni un solo
 
 Tan bien conservada está que Juego de Tronos la eligió para rodar escenas de Desembarco del Rey. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Ciudad Monumental</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🗼</b><span>Torre de Bujaco</span></div><div><b>🐉</b><span>Juego de Tronos</span></div><div><b>💧</b><span>Aljibe</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cáceres</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el centro de Extremadura, a unas <strong>3 horas de Madrid</strong> por la A-5 y a 45 minutos de Mérida.</p></div>

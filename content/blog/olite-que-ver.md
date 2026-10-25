@@ -31,6 +31,9 @@ Un **castillo-palacio de cuento**, calles empedradas medievales y buen vino. **O
 
 Te cuento qué ver y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Palacio Real</span></div><div><b>🏰</b><span>Palacio Viejo</span></div><div><b>🗼</b><span>Torres</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>🍷</b><span>Vinos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Olite: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏰 Palacio Real</h3><p>Según las guías, es el <strong>monumento más visitado de Navarra</strong>. Se puede subir a las torres, recorrer las salas y caminar por las murallas. Compra las entradas con antelación en fin de semana y festivos.</p></div>

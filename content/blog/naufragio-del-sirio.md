@@ -35,6 +35,9 @@ Seis años antes del Titanic, el Mediterráneo vivió su propia tragedia. El **4
 
 Te cuento qué pasó, los héroes de la historia y dónde descansan sus restos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚢</b><span>Transatlántico Sirio</span></div><div><b>⚓</b><span>Cabo de Palos</span></div><div><b>📅</b><span>1906</span></div><div><b>🧳</b><span>Emigrantes</span></div><div><b>📜</b><span>El «Titanic español»</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Sirio</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde fue</h3><p>En el <strong>Bajo de Fuera</strong>, entre Cabo de Palos y las Islas Hormigas (Murcia).</p></div>

@@ -48,6 +48,9 @@ Torres redondas, murallas almenadas que bajan hasta el pueblo y un patio que par
 
 Te cuento qué ver y algunas curiosidades que lo hacen único 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo en estrella</span></div><div><b>🎬</b><span>Plató de cine</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>👑</b><span>Eugenia de Montijo</span></div><div><b>🎭</b><span>Eventos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del castillo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Belmonte</strong>, al sur de la provincia de Cuenca, a unos 90 minutos de Cuenca capital y a unas dos horas de Madrid.</p></div>

@@ -31,6 +31,9 @@ Un pueblo del occidente asturiano famoso por sus **navajas y cuchillos artesanos
 
 Te cuento qué ver, qué comprar y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🔪</b><span>Navajas artesanas</span></div><div><b>⚙️</b><span>Molinos</span></div><div><b>🏘️</b><span>Conjunto etnográfico</span></div><div><b>🌿</b><span>Turismo rural</span></div><div><b>🎉</b><span>Fiestas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Taramundi: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🔪 Navajas</h3><p>Los ferreiros forjan cuchillos con acero al carbono y mangos de boj, tradicionalmente decorados con goma-laca.</p></div>

@@ -37,6 +37,9 @@ Hubo un tiempo en que en España se iba al teatro como hoy se va al fútbol: en 
 
 Y no es lo único. Este pueblo de Ciudad Real tiene una de las plazas mayores más bonitas de España, con galerías verdes que no se parecen a nada de La Mancha, palacios de banqueros alemanes y unas berenjenas famosas en todo el país. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎭</b><span>Corral de Comedias</span></div><div><b>🟩</b><span>Plaza Mayor verde</span></div><div><b>🍆</b><span>Berenjenas</span></div><div><b>🎪</b><span>Festival de Teatro</span></div><div><b>🏛️</b><span>Palacios</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Almagro</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Campo de Calatrava</strong>, a 23 km de Ciudad Real y a unos <strong>200 km de Madrid</strong>.</p></div>

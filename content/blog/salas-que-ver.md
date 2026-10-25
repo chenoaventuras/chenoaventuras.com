@@ -36,6 +36,9 @@ Una villa con **conjunto histórico declarado bien de interés cultural**, una *
 
 Te cuento qué ver, su historia y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Colegiata de Santa María</span></div><div><b>🗼</b><span>Torre y palacio</span></div><div><b>🏘️</b><span>Conjunto histórico</span></div><div><b>🏛️</b><span>Arco</span></div><div><b>🌿</b><span>Entorno</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Salas: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Conjunto histórico</h3><p>Es bien de interés cultural desde 1994.</p></div>

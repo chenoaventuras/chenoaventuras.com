@@ -41,6 +41,9 @@ Aguas verdes y turquesas, pasarelas de madera entre los juncos y enormes paredes
 
 El pueblo de **Uña** apenas tiene un centenar de vecinos, pero su laguna es una de las más bonitas de Castilla-La Mancha. Te cuento qué ver, la ruta que no te puedes perder y todo lo práctico 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚶</b><span>Pasarelas de madera</span></div><div><b>🥾</b><span>Ruta del Escalerón</span></div><div><b>🦅</b><span>Buitres</span></div><div><b>💧</b><span>Laguna</span></div><div><b>🚫</b><span>Baño prohibido</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Laguna de Uña: lo que tienes que saber</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💸 Precio</h3><p>La visita es <strong>gratis</strong> y de acceso libre, todo el año.</p>

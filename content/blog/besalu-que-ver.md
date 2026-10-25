@@ -53,6 +53,9 @@ Un puente de piedra en zigzag con una torre fortificada en medio, un río tranqu
 
 Te cuento qué ver y cómo combinarlo con la zona volcánica de la Garrotxa 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puente románico</span></div><div><b>🕍</b><span>Baño judío</span></div><div><b>🏘️</b><span>Calles medievales</span></div><div><b>🏞️</b><span>Río Fluvià</span></div><div><b>🎪</b><span>Fiestas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Besalú</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la comarca de la <strong>Garrotxa</strong> (Girona), a unos 30 minutos de Girona y a hora y media de Barcelona.</p></div>

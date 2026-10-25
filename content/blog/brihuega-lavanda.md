@@ -37,6 +37,9 @@ Cada mes de julio, la meseta de la Alcarria que rodea **Brihuega** se tiñe de m
 
 Te cuento cuándo ir para pillar la floración, dónde ver los campos, cómo sacar las mejores fotos sin estropearlos, el Festival de la Lavanda y qué más ver en este pueblo amurallado 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💜</b><span>Campos de lavanda</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>🏭</b><span>Real Fábrica de Paños</span></div><div><b>🎉</b><span>Festival de la Lavanda</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Alcarria de Guadalajara</strong>, a unos <strong>90 km de Madrid</strong>, en el valle del río Tajuña.</p></div>

@@ -52,6 +52,9 @@ Dunas de desierto, bosques de pinos, barrancos de palmeras, pueblos con casas cu
 
 Casi la mitad de la isla es **Reserva de la Biosfera**. Te dejo mis 17 imprescindibles, de la costa a las cumbres 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗿</b><span>Roque Nublo</span></div><div><b>🏘️</b><span>Vegueta</span></div><div><b>🏖️</b><span>Las Canteras</span></div><div><b>🏜️</b><span>Maspalomas</span></div><div><b>🌋</b><span>Caldera de Bandama</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Gran Canaria</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Moverte</h3><p>Con <strong>coche de alquiler</strong> para las cumbres y los pueblos. Entre Las Palmas y el sur hay guaguas frecuentes.</p></div>

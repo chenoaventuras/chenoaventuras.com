@@ -26,6 +26,9 @@ faq:
 ---
 El otro día grabando bajo el agua me crucé con unas cuantas medusas y [ctenóforos](/blog/ctenoforo-arcoiris-marino.html) nadando tranquilamente entre la posidonia, y como siempre que subo un vídeo así a chenoaventuras, la pregunta se repite en los comentarios: "¿pero tú bañas tranquilamente ahí?". Pues sí, sin dudarlo. Y hoy te explico por qué, porque el miedo a las medusas tiene mucho más de mito que de realidad.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪼</b><span>Medusas</span></div><div><b>✅</b><span>Casi nunca peligrosas</span></div><div><b>🩹</b><span>Qué hacer</span></div><div><b>🌊</b><span>Mediterráneo</span></div><div><b>☀️</b><span>Verano</span></div></div>
+
 Puedes ver el [vídeo original en Instagram](https://www.instagram.com/reel/DdE6jF_xzTj/), grabado a pulmón libre en un fondo lleno de vida.
 
 ## ¿Son peligrosas las medusas del Mediterráneo?

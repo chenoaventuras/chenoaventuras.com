@@ -25,6 +25,9 @@ Aquí tienes todos los sitios agrupados por zonas, y la **guía completa en PDF*
 
 <!--guia-->
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧱</b><span>Dalt Vila</span></div><div><b>🏝️</b><span>Es Vedrà</span></div><div><b>🏖️</b><span>Cala Comte</span></div><div><b>🌊</b><span>Ses Illetes</span></div><div><b>🗼</b><span>Faro de la Mola</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Guía corta 1</span><h2>Ibiza</h2><p>Dalt Vila, Es Vedrà y Cala Comte, para 2 o 3 días.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ibiza-que-ver/portada.webp" alt="Ibiza" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Ibiza</h3><p>Qué ver en Ibiza más allá de la fiesta: Dalt Vila, Es Vedrà y Cala d'Hort, Cala Salada, Ses Salines, Punta de sa Galera, Santa Eulària y los atardeceres de Sant Antoni, con ruta y consejos.</p><p class="gcard__links"><a class="gbtn gbtn--reel" href="/blog/ibiza-que-ver.html">Leer más</a></p></div></li>

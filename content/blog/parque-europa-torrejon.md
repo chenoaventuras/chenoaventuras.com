@@ -34,7 +34,10 @@ faq:
 ---
 Viajar por **Europa sin salir de Madrid**: la **Torre Eiffel**, la **Puerta de Brandeburgo**, la **Fontana di Trevi**, el **Atomium**, la **Torre de Belém** y hasta un trozo del auténtico **Muro de Berlín**, todo junto en un parque de **23 hectáreas** con lagos, cascadas, barcas y una fuente cibernética. El **Parque Europa de Torrejón de Ardoz** es **gratis** y se recorre en una tarde. Te cuento todo: qué ver, horarios, actividades, cómo llegar y trucos para sacarle partido 👇
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Parque Europa: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Torre Eiffel</span></div><div><b>🏛️</b><span>Puerta de Brandeburgo</span></div><div><b>🌉</b><span>Puente de Londres</span></div><div><b>🌍</b><span>Réplicas de capitales</span></div><div><b>🎢</b><span>Atracciones</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Parque Europa: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde</h3><p>Ronda Sur esquina con Paseo de los Cipreses, en Torrejón de Ardoz (Madrid, 28850). También se entra por la calle Hilados (donde está la réplica de la Puerta de Alcalá) y por la calle Brújula con calle Álamo.</p></div>
 <div class="guide__tip"><h3>🎟️ Entrada</h3><p><strong>Gratis</strong>. Las atracciones son de pago y las gestionan concesiones privadas; los billetes se compran en la taquilla de cada una.</p></div>

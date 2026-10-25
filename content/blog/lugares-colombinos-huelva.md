@@ -42,6 +42,9 @@ Tres barcos de madera a tamaño real que puedes recorrer por dentro, un monaster
 
 Te cuento qué ver en el Muelle de las Carabelas, La Rábida, Palos de la Frontera y Moguer, la historia que une a todos ellos y cómo organizar la ruta 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⚓</b><span>Muelle de las Carabelas</span></div><div><b>⛪</b><span>Monasterio de La Rábida</span></div><div><b>🏘️</b><span>Palos de la Frontera</span></div><div><b>🏛️</b><span>Museo</span></div><div><b>🌍</b><span>Descubrimiento de América</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la ruta</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Junto a la <strong>ría del Tinto</strong>, a 10-20 minutos de Huelva capital.</p></div>

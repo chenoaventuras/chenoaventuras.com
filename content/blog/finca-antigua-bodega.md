@@ -18,6 +18,9 @@ Llegamos a **Finca Antigua** y qué gusto cuando alguien te recibe con alma. Fui
 
 Te cuento cómo fue la visita y cómo reservarla 👇 (y si quieres verla en vídeo, aquí tienes <a href="https://www.instagram.com/reel/DQOf8K7DKBY/" target="_blank" rel="noopener">el reel que hicimos juntos</a>).
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍷</b><span>Cata de vinos</span></div><div><b>🍇</b><span>Viñedos</span></div><div><b>🏛️</b><span>Sala de catas</span></div><div><b>🗝️</b><span>Vino de la llave</span></div><div><b>📅</b><span>Reservas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Finca Antigua</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Los Hinojosos (Cuenca)</strong>, en la carretera de Quintanar a Los Hinojosos, km 11,5, entre las provincias de Cuenca y Toledo.</p></div>

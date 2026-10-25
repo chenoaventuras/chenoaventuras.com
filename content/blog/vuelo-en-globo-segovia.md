@@ -53,6 +53,9 @@ guiaTitulo: 'Guía Segovia en PDF'
 ---
 Ver el **acueducto**, el **Alcázar** y la **catedral de Segovia** desde el aire, flotando en silencio mientras sale el sol, es de esas experiencias que se te quedan para siempre. Si estás pensando en regalarlo (o regalártelo), aquí te cuento todo lo que necesitas saber: precio, qué incluye, cuándo ir y qué llevar.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎈</b><span>Vuelo en globo</span></div><div><b>🏛️</b><span>Acueducto</span></div><div><b>🏰</b><span>Alcázar</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🌅</b><span>Amanecer</span></div></div>
+
 Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/DKP5_zQIwIo/), grabado en Segovia.
 
 ## Lo básico antes de reservar

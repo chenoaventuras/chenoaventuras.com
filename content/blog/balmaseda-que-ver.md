@@ -31,6 +31,9 @@ La **villa más antigua de Bizkaia**, con puente medieval con torreón, un casco
 
 Te cuento qué ver, qué comer y cuándo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puente Viejo</span></div><div><b>🏘️</b><span>Casco histórico</span></div><div><b>🍲</b><span>Putxera</span></div><div><b>🏞️</b><span>Paseo fluvial</span></div><div><b>⛪</b><span>Iglesias</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Balmaseda: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏰 La más antigua</h3><p>Según Turismo Euskadi, la villa se fundó en <strong>1199</strong> y es la fundación urbana documentada más antigua de Bizkaia. Todavía conserva el trazado del siglo XIII.</p></div>

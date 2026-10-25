@@ -36,6 +36,9 @@ Un museo donde **bajas a una mina** (reproducida con gran realismo) de la mano d
 
 Te cuento qué incluye la visita, cómo reservar y qué ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛏️</b><span>Mina</span></div><div><b>🚇</b><span>Bajada</span></div><div><b>🏛️</b><span>Museo</span></div><div><b>🧑‍🏫</b><span>Guías</span></div><div><b>🎟️</b><span>Reservas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>MUMI Museo de la Minería: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛏️ Qué es</h3><p>Museo inaugurado en 1994, dedicado a la historia de la minería y de la industria de Asturias.</p></div>

@@ -37,6 +37,9 @@ En el sur de Badajoz hay un pueblo de casas blancas, plazas con soportales y pal
 
 Te cuento qué ver, la curiosa historia de su vara de medir, cuándo es la Feria y qué escapadas hacer desde allí 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Plaza Grande</span></div><div><b>🏘️</b><span>Plaza Chica</span></div><div><b>🏰</b><span>Alcázar de los Duques</span></div><div><b>🚪</b><span>Arquillo del Pan</span></div><div><b>🏙️</b><span>Sevilla chica</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Zafra</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el sur de <strong>Badajoz</strong>, a unos 75 km de Badajoz capital, 60 km de Mérida y 140 km de Sevilla.</p></div>

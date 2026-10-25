@@ -27,7 +27,10 @@ faq:
 ---
 Un **palacio real**, un **templo egipcio** de más de dos mil años, la mayor colección de pintura española del mundo y un parque Patrimonio de la Humanidad. **Madrid** es una ciudad grande, pero lo esencial se ve a pie en **dos días** si lo organizas por zonas. Aquí tienes el plan **día por día**, con qué ver, curiosidades, dónde comer y **actividades para reservar** en cada jornada.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Madrid: lo que conviene saber</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>👑</b><span>Palacio Real</span></div><div><b>🎨</b><span>Museo del Prado</span></div><div><b>🌳</b><span>El Retiro</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>⛩️</b><span>Templo de Debod</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Madrid: lo que conviene saber</h2></div>
 <p>El <strong>Palacio Real</strong> y el <strong>Museo del Prado</strong> son los más visitados: compra la entrada online y ahorrarás cola, sobre todo en fines de semana y puentes. Según la web oficial del Reina Sofía, la entrada es gratuita de lunes a sábado de 19:00 a 21:00 (los martes cierra) y los domingos de 12:30 a 14:30, reservando una entrada gratuita; la general cuesta 12 €. El centro se recorre a pie y el metro es rápido y barato para saltar entre zonas. Los precios y horarios cambian: confírmalos en las webs oficiales.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Día 1</span><h2>La Madrid de los Austrias y los Borbones</h2></div>

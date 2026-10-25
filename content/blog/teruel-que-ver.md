@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Teruel en PDF'
 ---
 Torres de ladrillo y cerámica verde, una plaza con un toro de piedra y una historia de amor trágica. **Teruel** es una de las capitales de provincia más pequeñas de España y uno de los mejores ejemplos del **arte mudéjar**, declarado Patrimonio de la Humanidad. Te lo cuento **en dos días**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Teruel: lo esencial</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Torres mudéjares</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🐂</b><span>Plaza del Torico</span></div><div><b>💘</b><span>Amantes</span></div><div><b>🏘️</b><span>Casco antiguo</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Teruel: lo esencial</h2></div>
 <p>Las torres de <strong>San Pedro, el Salvador y San Martín</strong>, junto a la torre, el cimborrio y la techumbre de la <strong>Catedral</strong>, son los grandes monumentos del mudéjar turolense. Teruel no tiene alta velocidad: lo más habitual es ir en coche, en autobús o en tren regional desde Zaragoza o Valencia (revisa horarios en Renfe y en las compañías de autobús). Los monumentos tienen horarios restringidos y las calles tienen cuestas: lleva calzado cómodo. Con un día ves lo principal; con dos puedes sumar Albarracín.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Día 1 · Mañana</span><h2>La Plaza del Torico y las torres mudéjares</h2></div>

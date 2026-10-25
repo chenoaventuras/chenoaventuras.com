@@ -51,6 +51,9 @@ Toda **Barcelona** a tus pies: la Sagrada Familia, el mar, Montjuïc y el Tibida
 
 Pero no son búnkeres, y tienen horario. Te lo cuento 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌇</b><span>Vistas de 360º</span></div><div><b>🏙️</b><span>Barcelona</span></div><div><b>💥</b><span>Antiaéreos</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>🆓</b><span>Gratis</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de los Búnkers del Carmel</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En lo alto del <strong>Turó de la Rovira</strong> (262 m), en el barrio del Carmel.</p></div>

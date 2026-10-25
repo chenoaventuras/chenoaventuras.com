@@ -37,6 +37,9 @@ Una ciudad casi rodeada por el mar, con una catedral de cúpula dorada asomada a
 
 Te cuento qué ver, la cámara oscura de la Torre Tavira, cuándo ver el atardecer en la Caleta, qué comer y cómo es el Carnaval 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>La Caleta</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🏰</b><span>Castillo de San Sebastián</span></div><div><b>🔭</b><span>Torre Tavira</span></div><div><b>🎭</b><span>Carnaval</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cádiz</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En una península casi isla en la costa atlántica de Andalucía, a 120 km de Sevilla.</p></div>

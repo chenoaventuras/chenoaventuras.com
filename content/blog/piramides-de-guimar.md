@@ -45,6 +45,9 @@ En **Tenerife** hay **pirámides**. Seis, de piedra volcánica negra y con escal
 
 Te cuento el misterio y cómo visitarlas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🔺</b><span>Seis pirámides</span></div><div><b>🌅</b><span>Doble atardecer</span></div><div><b>🪜</b><span>Escalones</span></div><div><b>🕳️</b><span>Cueva Chacona</span></div><div><b>🧭</b><span>Misterio</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de las Pirámides de Güímar</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Güímar</strong>, en el sureste de Tenerife, a unos <strong>25 km de Santa Cruz</strong>.</p></div>

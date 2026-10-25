@@ -47,6 +47,9 @@ Madrid tiene un lado oscuro que no sale en las guías: palacios con niñas que l
 
 Te propongo una **ruta de fantasmas por el centro de Madrid**, perfecta para Halloween 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>👻</b><span>Palacio de Linares</span></div><div><b>🕯️</b><span>Siete Chimeneas</span></div><div><b>🏘️</b><span>Calle de la Cabeza</span></div><div><b>📜</b><span>Leyendas</span></div><div><b>🌙</b><span>Ruta nocturna</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de el Madrid de los fantasmas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>centro de Madrid</strong>: de Cibeles a la plaza del Rey y Lavapiés, todo a pie.</p></div>

@@ -40,6 +40,9 @@ Una montaña de roca con forma de sierra, llena de agujas gigantes, y encajado e
 
 Te cuento cómo llegar, qué ver y qué ruta hacer para subir a lo más alto 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚠</b><span>Cremallera</span></div><div><b>🖤</b><span>La Moreneta</span></div><div><b>🎶</b><span>Escolania</span></div><div><b>⛪</b><span>Basílica</span></div><div><b>🥾</b><span>Rutas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Montserrat</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A unos <strong>60 km de Barcelona</strong>, alrededor de una hora en coche o en tren.</p></div>

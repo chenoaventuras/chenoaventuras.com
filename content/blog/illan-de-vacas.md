@@ -39,6 +39,9 @@ Tiene ayuntamiento, alcalde, iglesia y fiestas... y **8 vecinos**. **Illán de V
 
 Te cuento cómo ha llegado a esto y qué te vas a encontrar si vas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>El pueblo más pequeño</span></div><div><b>👥</b><span>8 vecinos</span></div><div><b>🗳️</b><span>Elecciones en miniatura</span></div><div><b>⛪</b><span>Iglesia</span></div><div><b>🪦</b><span>Cementerio</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Illán de Vacas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la comarca de <strong>Torrijos (Toledo)</strong>, a 23 km de <strong>Talavera de la Reina</strong> y 46 de Toledo.</p></div>

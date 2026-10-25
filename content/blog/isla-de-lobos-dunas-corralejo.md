@@ -45,6 +45,9 @@ Un islote volcánico de arena blanca y agua transparente a 15 minutos en barco, 
 
 Para ir a Lobos necesitas un permiso gratuito. Te explico cómo organizarlo todo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛴️</b><span>Ferry</span></div><div><b>🏖️</b><span>Playa de la Concha</span></div><div><b>🌋</b><span>La Caldera</span></div><div><b>🗼</b><span>Faro de Martiño</span></div><div><b>🏜️</b><span>Dunas de Corralejo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📝 Permiso</h3><p>Para visitar Lobos hace falta una <strong>autorización gratuita</strong> por franjas horarias. Pídela online con antelación: hay cupo diario.</p></div>

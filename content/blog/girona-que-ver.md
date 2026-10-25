@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Girona en PDF'
 ---
 Casas de colores colgadas sobre un río, un **barrio judío medieval**, una catedral con **90 escalones**, unas murallas que se recorren con vistas y un puente de hierro rojo que muchos atribuyen a la empresa de Eiffel. **Girona** es pequeña, bonita y perfecta para **un día entero** a pie. Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Girona: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Casas del Onyar</span></div><div><b>🌉</b><span>Puente rojo</span></div><div><b>⛪</b><span>Catedral y 90 escalones</span></div><div><b>🕍</b><span>Barrio judío</span></div><div><b>🍫</b><span>Chocolate</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Girona: lo básico</h2></div>
 <p>Hay AVE y trenes regionales desde Barcelona en menos de una hora y desde Figueres en unos 20 minutos; la estación queda a unos 10-15 minutos andando del casco antiguo. El casco histórico es empedrado, con cuestas y escaleras: lleva calzado con buen agarre, sobre todo si llueve. La catedral, Sant Feliu y algunos museos tienen entradas o bonos combinados: confirma precios y horarios en las webs oficiales.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>La Catedral, Sant Feliu y el Call Jueu</h2></div>

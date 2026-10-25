@@ -31,6 +31,9 @@ Un **castillo en ruinas sobre un cerro** de 830 metros de altura, con muros de a
 
 Te cuento su historia, qué ver y lo que debes saber antes de subir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Ruinas del castillo</span></div><div><b>⚔️</b><span>Batalla de 1809</span></div><div><b>🧱</b><span>Muralla</span></div><div><b>🌄</b><span>Vistas</span></div><div><b>🆓</b><span>Acceso libre</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Castillo de Almonacid: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⚠️ Estado actual</h3><p>En 2025 se derrumbó una de las torres más reconocibles del castillo, conocida como «la barbacana». Según una reseña reciente, el acceso puede estar restringido. <strong>Consulta con el ayuntamiento</strong> antes de subir y no entres en zonas cerradas.</p></div>

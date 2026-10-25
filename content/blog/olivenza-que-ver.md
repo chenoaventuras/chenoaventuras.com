@@ -48,6 +48,9 @@ Calles blancas con nombres en dos idiomas, azulejos azules en las iglesias, colu
 
 Te cuento su curiosa historia y qué ver en uno de los pueblos más bonitos de Extremadura 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🇵🇹</b><span>Pasado portugués</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>⛪</b><span>Santa María Magdalena</span></div><div><b>🖼️</b><span>Azulejos</span></div><div><b>🍊</b><span>Naranjas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Olivenza</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la frontera con Portugal, a unos <strong>25 minutos de Badajoz</strong> y a menos de una hora de Elvas, ya en Portugal.</p></div>

@@ -45,6 +45,9 @@ Un monolito de roca volcánica de unos **80 metros** plantado en lo alto de la i
 
 Desde 2025 subir tiene sus normas: hay **reserva obligatoria** en horario de día y ya no se puede aparcar al pie del sendero. Te explico cómo organizarte 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪨</b><span>Símbolo de Gran Canaria</span></div><div><b>🥾</b><span>Sendero</span></div><div><b>🎟️</b><span>Reserva</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>🌄</b><span>Pico de las Nieves</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Roque Nublo: reserva y acceso</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📝 Reserva</h3><p>Para entrar al sendero desde la <strong>Degollada de La Goleta</strong> durante el día hay que <strong>reservar</strong> en la web oficial. El cupo es de <strong>60 personas por hora</strong>: reserva con días de antelación.</p></div>

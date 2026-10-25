@@ -41,6 +41,9 @@ El **17 de diciembre de 1963**, el termómetro de **Calamocha** (Teruel) marcó 
 
 Te cuento qué es el «triángulo del frío», por qué en verano se está tan bien y qué ver en la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥶</b><span>-30 grados</span></div><div><b>🐖</b><span>Jamón de Teruel</span></div><div><b>🌉</b><span>Puente romano</span></div><div><b>🏘️</b><span>Molina de Aragón</span></div><div><b>❄️</b><span>Triángulo del frío</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Calamocha</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>valle del Jiloca</strong>, a medio camino entre Teruel y Zaragoza, junto a la A-23.</p></div>

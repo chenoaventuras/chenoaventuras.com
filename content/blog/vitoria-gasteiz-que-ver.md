@@ -37,6 +37,9 @@ Es la capital de Euskadi y, aun así, mucha gente pasa por al lado camino de Bil
 
 Te cuento qué ver en Vitoria, cómo organizarte, dónde está el mejor ambiente y qué escapadas hacer desde allí 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral abierta por obras</span></div><div><b>🏘️</b><span>Plaza de la Virgen Blanca</span></div><div><b>🏘️</b><span>Arquillos</span></div><div><b>🎨</b><span>Murales</span></div><div><b>📖</b><span>Ken Follett</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Vitoria-Gasteiz</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el centro de <strong>Álava</strong>, a 65 km de Bilbao, a 100 de San Sebastián y a unos <strong>350 km de Madrid</strong>.</p></div>

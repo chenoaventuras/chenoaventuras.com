@@ -50,6 +50,9 @@ Un pueblo marinero de Cantabria con una **casa de Gaudí** cubierta de girasoles
 
 Te cuento qué ver, cuánto cuesta El Capricho y algunas curiosidades 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌻</b><span>Capricho de Gaudí</span></div><div><b>🏛️</b><span>Palacio de Sobrellano</span></div><div><b>😇</b><span>Ángel del cementerio</span></div><div><b>🎓</b><span>Universidad Pontificia</span></div><div><b>🏖️</b><span>Playa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>El Capricho de Gaudí: precio y horario</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entradas</h3><p>Se compran online o en taquilla. El aforo es limitado: reserva si vas en verano o en puente.</p>

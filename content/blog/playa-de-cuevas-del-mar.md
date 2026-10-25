@@ -36,6 +36,9 @@ Una **pequeña playa de 125 metros** en la desembocadura del río Nueva, entre *
 
 Te cuento cómo llegar, cómo cambia con la marea y qué ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>125 metros</span></div><div><b>🪨</b><span>Acantilados</span></div><div><b>🕳️</b><span>Cuevas</span></div><div><b>🌊</b><span>Mareas</span></div><div><b>🥾</b><span>Acceso</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Playa de Cuevas del Mar: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la desembocadura del río Nueva, concejo de Llanes.</p></div>

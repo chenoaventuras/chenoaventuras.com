@@ -36,6 +36,9 @@ Un agujero en la roca que **lanza chorros de agua de mar de más de diez metros*
 
 Te cuento qué son, cuándo funcionan y cómo verlos sin riesgos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌊</b><span>Bufones</span></div><div><b>⏳</b><span>Marea alta</span></div><div><b>🪨</b><span>Acantilado</span></div><div><b>⚠️</b><span>Seguridad</span></div><div><b>🏖️</b><span>Costa de Llanes</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Bufones de Pría: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🌊 Qué son</h3><p>Formaciones kársticas: un orificio vertical abierto a pocos metros del borde de un acantilado de caliza, que se comunica por debajo con el mar.</p></div>

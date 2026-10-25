@@ -60,6 +60,9 @@ Una ciudad española en el norte de África, entre el Mediterráneo y el Atlánt
 
 Te cuento qué ver y qué aventuras hacer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🛶</b><span>Foso en kayak</span></div><div><b>🧱</b><span>Murallas Reales</span></div><div><b>🏰</b><span>Monte Hacho</span></div><div><b>🏘️</b><span>Plaza de África</span></div><div><b>🛍️</b><span>Sin IVA</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ceuta</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛴️ Cómo llegar</h3><p>En <strong>ferry desde Algeciras</strong> (alrededor de una hora) o en helicóptero desde Málaga o Algeciras.</p></div>

@@ -43,6 +43,9 @@ guiaTitulo: 'Guía Burgos en PDF'
 ---
 Al norte de la provincia de Burgos hay una comarca donde los pueblos se construyen bajo puentes de roca, las ermitas se excavan dentro de cuevas y hasta la ciudad más pequeña de España guarda su propio castillo. Se llama Las Merindades, y da para una escapada entera sin repetir paisaje ni una sola vez.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puentedey</span></div><div><b>🏘️</b><span>Orbaneja del Castillo</span></div><div><b>🏞️</b><span>Desfiladero de la Yecla</span></div><div><b>🏘️</b><span>Frías</span></div><div><b>🏰</b><span>Castillo</span></div></div>
+
 Puedes ver el resumen completo de la ruta en [esta publicación de Instagram](https://www.instagram.com/p/DTyTMSajP_5/).
 
 ## Puentedey, el pueblo bajo la roca

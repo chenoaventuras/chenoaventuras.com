@@ -31,6 +31,9 @@ Casas de **piedra y entramado de madera** con balcones llenos de flores, una **p
 
 Te cuento qué ver, la tradición del Marrano de San Antón y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🏠</b><span>Casas de entramado</span></div><div><b>🐖</b><span>Marrano de San Antón</span></div><div><b>🎉</b><span>Fiestas</span></div><div><b>🌳</b><span>Sierra de Francia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La Alberca: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚶 Casco peatonal</h3><p>El casco antiguo es peatonal: deja el coche en el aparcamiento de la entrada y recorre el pueblo andando.</p></div>

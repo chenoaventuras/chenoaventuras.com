@@ -37,6 +37,9 @@ Peregrinos que llegan llorando a la plaza del Obradoiro después de semanas cami
 
 Te cuento qué ver en la catedral (y qué se paga), cuándo puedes ver volar el botafumeiro, los mejores rincones del casco histórico, dónde comer y qué pasará en el Año Santo 2027 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral</span></div><div><b>🔥</b><span>Botafumeiro</span></div><div><b>🏛️</b><span>Plaza del Obradoiro</span></div><div><b>🍢</b><span>Rúa do Franco</span></div><div><b>🥾</b><span>Peregrinos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Santiago</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el centro de <strong>Galicia</strong>, a 65 km de A Coruña y 90 de Vigo. Tiene aeropuerto propio.</p></div>

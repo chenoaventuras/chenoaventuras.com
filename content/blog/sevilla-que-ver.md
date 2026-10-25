@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Sevilla en PDF'
 ---
 Una **catedral gótica con un antiguo minarete**, un **palacio mudéjar** todavía en uso, una plaza de cuento y barrios de callejuelas con azulejos y naranjos. **Sevilla** es una de las ciudades más bonitas de España y se ve lo esencial en **dos días** si reservas bien las entradas. Te lo cuento **día por día**, con qué ver, curiosidades, dónde comer y **actividades para reservar** cada jornada.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Sevilla: lo que tienes que reservar</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral y Giralda</span></div><div><b>🏰</b><span>Real Alcázar</span></div><div><b>🏛️</b><span>Plaza de España</span></div><div><b>🍄</b><span>Las Setas</span></div><div><b>🍤</b><span>Tapas</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Sevilla: lo que tienes que reservar</h2></div>
 <p>La <strong>Catedral (con la Giralda)</strong> y el <strong>Real Alcázar</strong> son los dos monumentos que más se llenan: compra las entradas con antelación, sobre todo en temporada alta, y elige franjas de mañana. Según la web oficial de la Catedral, abre de lunes a sábado de 10:45 a 19:00 (la taquilla cierra a las 18:00) y los domingos de 14:30 a 19:00; la entrada general cuesta 13 € online (14 € en taquilla). El Real Alcázar abre de 9:30 a 17:00 de octubre a marzo y hasta las 19:00 de abril a septiembre, con entrada general de 15,50 €. Los horarios cambian por culto y fiestas: confírmalos antes de ir. Para entrar en la catedral hay que cubrir hombros y rodillas. Hay AVE desde Madrid en unas 2 horas y media y desde Córdoba en menos de una hora.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Día 1</span><h2>Catedral, Giralda, Alcázar y Santa Cruz</h2></div>

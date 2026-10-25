@@ -48,6 +48,9 @@ Un casco medieval amurallado en lo alto, un barrio de pescadores con balcones de
 
 Te cuento qué ver y qué ruta hacer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧱</b><span>Murallas</span></div><div><b>🏰</b><span>Castillo de Carlos V</span></div><div><b>🏘️</b><span>La Marina</span></div><div><b>🌈</b><span>Casas de colores</span></div><div><b>🍢</b><span>Pintxos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Hondarribia</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la desembocadura del <strong>Bidasoa</strong>, frente a Hendaya (Francia), a unos 25 minutos de San Sebastián.</p></div>

@@ -60,6 +60,9 @@ Arcos de roca de hasta 30 metros que parecen los arbotantes de una catedral gót
 
 Además, en temporada alta **hay que reservar**. Te explico cómo organizar la visita para no quedarte en la escalera 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪨</b><span>Arcos de roca</span></div><div><b>🕳️</b><span>Cuevas</span></div><div><b>🌊</b><span>Mareas</span></div><div><b>🎟️</b><span>Reserva</span></div><div><b>🧑‍🏫</b><span>Visita guiada</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Playa de las Catedrales: reserva y mareas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Reserva</h3><p><strong>Gratis</strong>, pero <strong>obligatoria en Semana Santa y del 1 de julio al 30 de septiembre</strong>, en la web oficial de la Xunta, con hasta 30 días de antelación. El resto del año no hace falta reservar.</p></div>

@@ -34,6 +34,9 @@ Una playa de **arena tostada y fina**, de unos **800 metros**, entre dos acantil
 
 Te cuento cómo llegar, cómo es y qué tener en cuenta 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>800 m de arena</span></div><div><b>🪨</b><span>Acantilados</span></div><div><b>🌍</b><span>Monumento natural</span></div><div><b>🌊</b><span>Oleaje</span></div><div><b>🥾</b><span>Acceso</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Playa de Frexulfe: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el concejo de Navia, cerca de la aldea de Frexulfe, a unos 5 km al este de Navia.</p></div>

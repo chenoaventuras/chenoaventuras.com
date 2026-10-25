@@ -52,6 +52,9 @@ Una catedral gótica que se refleja en el mar, pueblos de piedra colgados en la 
 
 La **Serra de Tramuntana** es Patrimonio de la Humanidad. Te dejo mis imprescindibles 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Calas</span></div><div><b>⛰️</b><span>Serra de Tramuntana</span></div><div><b>⛪</b><span>Catedral de Palma</span></div><div><b>🏘️</b><span>Valldemossa</span></div><div><b>🏘️</b><span>Deià</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Mallorca</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Moverte</h3><p>Con <strong>coche</strong> para la Tramuntana y las calas. Ojo: al <strong>Cap de Formentor</strong> en temporada alta solo se puede subir en bus lanzadera durante el día.</p></div>

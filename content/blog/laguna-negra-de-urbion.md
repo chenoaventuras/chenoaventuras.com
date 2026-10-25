@@ -49,6 +49,9 @@ Agua oscura como la tinta, un paredón de roca enorme y un bosque de pinos alred
 
 Fui a principios de noviembre, con el bosque en plena explosión de otoño, y te lo digo ya: **sube andando por la Senda del Bosque**. Llegar a la laguna después de 2 km entre pinos, hayas y serbales cargados de bolitas rojas no tiene nada que ver con bajarte del coche y verla. Te cuento todo lo que necesitas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Laguna sin fondo</span></div><div><b>🌲</b><span>Pinar</span></div><div><b>💦</b><span>Cascada</span></div><div><b>🌄</b><span>Mirador</span></div><div><b>📖</b><span>Machado</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Laguna Negra</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Parque Natural de la Laguna Negra y Circos Glaciares de Urbión</strong>, a unos <strong>18 km de Vinuesa</strong> y menos de una hora de Soria.</p></div>

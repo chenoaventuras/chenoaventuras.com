@@ -37,6 +37,9 @@ Hay un rincón de Jaén donde el Renacimiento italiano se plantó en mitad de un
 
 Plazas de piedra dorada, palacios con escudos, iglesias que parecen sacadas de Florencia y miradores sobre millones de olivos. Te cuento qué ver en cada una, cómo organizarte para hacer las dos y algunas curiosidades que no te esperas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Plaza Vázquez de Molina</span></div><div><b>⛪</b><span>Sacra Capilla del Salvador</span></div><div><b>🏛️</b><span>Palacio de las Cadenas</span></div><div><b>🌍</b><span>Renacimiento</span></div><div><b>🫒</b><span>Aceite</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Úbeda y Baeza</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde están</h3><p>En el centro de la provincia de <strong>Jaén</strong>, a unos 50 km de la capital y a unos <strong>320 km de Madrid</strong>.</p></div>

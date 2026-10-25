@@ -31,6 +31,9 @@ Calles empedradas, casas de **entramado de madera de sabina**, una muralla con o
 
 Te cuento qué ver, la leyenda y cómo combinarlo con el sabinar y La Fuentona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Calles medievales</span></div><div><b>🏠</b><span>Casas de entramado</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🧱</b><span>Muralla</span></div><div><b>📜</b><span>Leyenda de Almanzor</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Calatañazor: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Mejor en coche</h3><p>Queda a unos 30 km de Soria (unos 25-30 minutos). Hay autobús algunos días, pero los horarios son limitados: <strong>confírmalos antes de ir</strong>.</p></div>

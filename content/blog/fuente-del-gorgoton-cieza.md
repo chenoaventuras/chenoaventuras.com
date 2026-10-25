@@ -51,6 +51,9 @@ comerFecha: "octubre de 2026"
 ---
 Junto al **río Segura**, en el campo de **Cieza**, hay un rincón donde el agua **sale a borbotones** desde las profundidades de la tierra. Se llama **Fuente del Gorgotón**, y aunque es una parada corta, tiene algo hipnótico: te quedas mirando cómo burbujea el agua sin darte cuenta del tiempo.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Manantial</span></div><div><b>🆓</b><span>Acceso libre</span></div><div><b>🏊</b><span>Baño</span></div><div><b>🌳</b><span>Entorno</span></div><div><b>🌡️</b><span>Agua fría</span></div></div>
+
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DNTITyJI_Y8/), grabado en Cieza.
 
 ## Lo básico

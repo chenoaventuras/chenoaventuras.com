@@ -38,6 +38,9 @@ La villa del **Descenso Internacional del Sella**, una playa urbana enorme, un p
 
 Te cuento qué ver, cómo visitar la cueva y cuándo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎨</b><span>Tito Bustillo</span></div><div><b>🏖️</b><span>Santa Marina</span></div><div><b>🛶</b><span>Descenso del Sella</span></div><div><b>🏘️</b><span>Casco histórico</span></div><div><b>🍎</b><span>Sidra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Ribadesella: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el oriente de Asturias, a unos 83 km de Oviedo, en la desembocadura del río Sella.</p></div>

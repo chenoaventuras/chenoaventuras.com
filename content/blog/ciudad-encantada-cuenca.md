@@ -44,6 +44,9 @@ Imagina un bosque de pinos donde, entre los árboles, aparecen setas gigantes, b
 
 Es una de las visitas imprescindibles de la **Serranía de Cuenca** y se hace en hora y media, así que encaja en cualquier escapada. Aquí te cuento cuánto cuesta, el horario, qué formaciones no te puedes perder y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪨</b><span>Formaciones de roca</span></div><div><b>🥾</b><span>Ruta de 3 km</span></div><div><b>🐘</b><span>Tormo Alto</span></div><div><b>🛝</b><span>El Tobogán</span></div><div><b>🌲</b><span>Pinares</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Ciudad Encantada: precio y horario</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Precio de la entrada</h3><p>Se compra <strong>solo en taquilla</strong>: no hay venta online ni reserva.</p>

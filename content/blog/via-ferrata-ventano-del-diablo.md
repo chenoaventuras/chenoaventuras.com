@@ -40,6 +40,9 @@ guiaTitulo: 'Guía de Cuenca en PDF'
 ---
 Colgado sobre la **Hoz del Júcar**, con el río corriendo decenas de metros más abajo, este recorrido de **vía ferrata** es uno de los planes de aventura más completos de la provincia de Cuenca. Se llama como el mirador natural que lo corona: el **Ventano del Diablo**.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧗</b><span>Vía ferrata</span></div><div><b>🌉</b><span>Puentes colgantes</span></div><div><b>🏞️</b><span>Hoz del Júcar</span></div><div><b>🦺</b><span>Equipo</span></div><div><b>😅</b><span>Adrenalina</span></div></div>
+
 Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/DQkUrhujNoJ/), grabado en la vía ferrata del Ventano del Diablo.
 
 ## Lo básico

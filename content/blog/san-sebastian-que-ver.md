@@ -37,6 +37,9 @@ Una bahía en forma de concha, con una isla en medio y dos montes a los lados, u
 
 Te cuento qué ver, los mejores miradores, cómo ir de pintxos sin agobiarte, sus playas y sus fiestas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>La Concha</span></div><div><b>🏘️</b><span>Parte Vieja</span></div><div><b>🌊</b><span>Peine del Viento</span></div><div><b>🏛️</b><span>Kursaal</span></div><div><b>🍢</b><span>Pintxos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de San Sebastián</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa de <strong>Gipuzkoa</strong>, a 20 km de Francia y 100 km de Bilbao.</p></div>

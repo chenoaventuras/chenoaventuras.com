@@ -37,6 +37,9 @@ Verano de 1968. Un agricultor de Palencia, **Javier Cortes**, decide allanar un 
 
 Hoy la **Villa Romana La Olmeda** es uno de los yacimientos romanos más espectaculares de España, con cientos de metros cuadrados de mosaicos intactos protegidos dentro de un edificio moderno. Te cuento su historia, qué ver, cuándo entrar gratis y qué más hacer por la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🖼️</b><span>Mosaicos romanos</span></div><div><b>🏛️</b><span>Peristilo</span></div><div><b>🔥</b><span>Hipocausto</span></div><div><b>🛁</b><span>Termas</span></div><div><b>🏺</b><span>Museo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de La Olmeda</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Pedrosa de la Vega</strong>, en el norte de <strong>Palencia</strong>, a 5 km de Saldaña y unos 60 km de la capital.</p></div>

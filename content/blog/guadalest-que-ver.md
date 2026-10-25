@@ -47,6 +47,9 @@ guiaTitulo: 'Guía Alicante en PDF'
 ---
 Hay pueblos bonitos, y luego está Guadalest, que parece dibujado a propósito para que se te caiga el móvil al suelo de tanto hacer fotos. Encajado entre las sierras de Aitana y Xortá, con un peñón rocoso partido en dos y un embalse de un azul turquesa casi de mentira a sus pies, entiendo perfectamente por qué es de los pueblos con más visitas de toda España a pesar de tener poco más de 200 vecinos.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo del siglo XI</span></div><div><b>💧</b><span>Embalse turquesa</span></div><div><b>🏘️</b><span>Casco antiguo</span></div><div><b>📸</b><span>Miradores</span></div><div><b>🚗</b><span>Cómo llegar</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/p/Db_YXJ8xcVo/).
 
 ## Un pueblo con más historia de la que parece

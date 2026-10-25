@@ -45,6 +45,9 @@ Un camino excavado en la roca, colgado sobre un precipicio, con el río Cares tu
 
 Te cuento cómo hacerla sin morir en el intento (y cómo volver, que es la gran pregunta) 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥾</b><span>12 km</span></div><div><b>🪨</b><span>Camino en la roca</span></div><div><b>🚇</b><span>Túneles</span></div><div><b>🌉</b><span>Puentes</span></div><div><b>🏞️</b><span>Garganta divina</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Ruta del Cares</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En los <strong>Picos de Europa</strong>, entre <strong>Poncebos</strong> (Asturias) y <strong>Caín</strong> (León).</p></div>

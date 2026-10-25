@@ -13,6 +13,9 @@ Acantilados de más de 600 metros, volcanes, la Alhambra al atardecer y picos qu
 
 Estos son mis **10 favoritos**, de norte a sur y de las islas a la península, con cómo llegar y cuáles son gratis 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌄</b><span>10 miradores</span></div><div><b>🏝️</b><span>Mirador del Río</span></div><div><b>🌊</b><span>Garita de Herbeira</span></div><div><b>🕌</b><span>San Nicolás</span></div><div><b>🏔️</b><span>Ordiales</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de los miradores</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🗺️ Por toda España</h3><p>De Galicia a Canarias, pasando por los Picos de Europa, Andalucía y Baleares.</p></div>

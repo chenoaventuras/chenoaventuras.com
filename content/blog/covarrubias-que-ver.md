@@ -19,6 +19,9 @@ Casas de entramado de madera, soportales, un torreón del siglo X y una princesa
 
 La llaman la **cuna de Castilla** porque aquí está enterrado Fernán González, el conde que la hizo independiente. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Torreón de Fernán González</span></div><div><b>⛪</b><span>Colegiata</span></div><div><b>🏘️</b><span>Plazas y soportales</span></div><div><b>📜</b><span>Doña Urraca</span></div><div><b>🕊️</b><span>Cuna de Castilla</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Covarrubias</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>valle del Arlanza (Burgos)</strong>, a unos <strong>40 km al sur de Burgos</strong>.</p></div>

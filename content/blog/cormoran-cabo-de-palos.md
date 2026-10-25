@@ -29,6 +29,9 @@ actividades:
 ---
 Grabando en las rocas de [Cabo de Palos](/blog/snorkel-cabo-de-palos.html) me crucé con uno de esos animales que a primera vista parecen de lo más tranquilo del mundo: un pájaro negro posado en una roca, sin hacer mucho más. Y sin embargo, en cuanto se tira al agua, el cormorán se convierte en uno de los mejores buceadores de toda la fauna española.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🐦</b><span>Cormorán</span></div><div><b>🤿</b><span>Bucea a gran profundidad</span></div><div><b>☀️</b><span>Alas al sol</span></div><div><b>🌊</b><span>Costa rocosa</span></div><div><b>🔭</b><span>Dónde verlo</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/p/Dc1dhLOxx2H/), grabado en Cabo de Palos, Cartagena, Región de Murcia.
 
 Y es que el cormorán es prácticamente un triatleta con plumas: anda por las rocas sin problema, vuela de un punto a otro de la costa y, encima, bucea mejor que la mayoría de aves marinas. Pocos animales dominan tan bien los tres terrenos a la vez.

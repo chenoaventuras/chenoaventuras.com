@@ -51,6 +51,9 @@ Una ciudadela amurallada encaramada a un acantilado sobre el Mediterráneo, tún
 
 Te cuento qué ver en una escapada 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Melilla la Vieja</span></div><div><b>🕳️</b><span>Cuevas del Conventico</span></div><div><b>🏛️</b><span>Ruta modernista</span></div><div><b>⚓</b><span>Puerto</span></div><div><b>🚪</b><span>Túneles</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Melilla</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>✈️ Cómo llegar</h3><p>En <strong>avión</strong> desde Málaga, Madrid, Almería y otras ciudades, o en <strong>ferry</strong> desde Málaga, Almería o Motril.</p></div>

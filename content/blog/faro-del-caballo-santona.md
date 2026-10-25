@@ -44,6 +44,9 @@ Un faro diminuto colgado de un acantilado, una cala de agua verde turquesa y **7
 
 Está en el **monte Buciero**, en Santoña, la villa de las anchoas. Te cuento cómo llegar andando o en barco, qué hay que saber antes de bajar y qué más ver en Santoña 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪜</b><span>763 escalones</span></div><div><b>🗼</b><span>Faro</span></div><div><b>🥾</b><span>Monte Buciero</span></div><div><b>💧</b><span>Lleva agua</span></div><div><b>🌊</b><span>Vistas al Cantábrico</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Faro del Caballo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la cara norte del <strong>monte Buciero</strong>, en <strong>Santoña</strong>, a unos 45 km de Santander.</p></div>

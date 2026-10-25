@@ -38,6 +38,9 @@ Pocos sitios de España juntan tanta leyenda en tan poco espacio 👇
 
 <div class="guide__legend"><h3>⚠️ Antes de ir</h3><p>En agosto de 2026 el <strong>incendio de Las Peñas de Riglos</strong> llegó hasta el entorno del monasterio. El conjunto y la carretera de acceso (A-1603) se cerraron hasta nuevo aviso y los restos de los reyes se trasladaron al Museo de Huesca como precaución. <strong>Comprueba que ha reabierto antes de ir</strong> en la web de Turismo de Aragón.</p></div>
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Monasterio bajo la roca</span></div><div><b>🍷</b><span>Santo Grial</span></div><div><b>⛪</b><span>Monasterio Viejo</span></div><div><b>👑</b><span>Panteón Real</span></div><div><b>🏞️</b><span>Claustro</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de San Juan de la Peña</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la sierra de San Juan de la Peña, a unos <strong>25 km de Jaca</strong>, por Santa Cruz de la Serós.</p></div>

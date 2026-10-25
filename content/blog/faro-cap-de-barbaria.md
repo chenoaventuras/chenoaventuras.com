@@ -42,6 +42,9 @@ Un faro blanco solitario al borde de un acantilado, una llanura de piedra y mato
 
 Te cuento cómo llegar con la restricción de coches del verano, qué ver alrededor, la historia de la torre de vigilancia y algunos consejos para disfrutarlo sin agobios 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Faro</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>🪨</b><span>Acantilados</span></div><div><b>🏰</b><span>Torre des Garroveret</span></div><div><b>🏝️</b><span>Sur de Formentera</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cap de Barbaria</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>extremo suroeste de Formentera</strong>, a unos 8-9 km de Sant Francesc Xavier.</p></div>

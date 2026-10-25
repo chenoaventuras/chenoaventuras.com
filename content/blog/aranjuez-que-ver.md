@@ -54,6 +54,9 @@ Un palacio real rodeado de jardines, fuentes y bosques junto al río Tajo, a men
 
 Y para llegar hay una forma de cuento: el **Tren de la Fresa**, un tren histórico de madera que sale de Madrid. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Palacio Real</span></div><div><b>🌳</b><span>Jardines</span></div><div><b>🍓</b><span>Tren de la Fresa</span></div><div><b>🎸</b><span>Concierto de Aranjuez</span></div><div><b>⛲</b><span>Fuentes</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Palacio Real de Aranjuez: precio y horario</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Palacio Real</h3><p>Se compran en la web de Patrimonio Nacional o en taquilla.</p>

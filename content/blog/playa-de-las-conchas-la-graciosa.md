@@ -44,6 +44,9 @@ Arena dorada casi blanca, un mar de azules imposibles, un volcán rojo a un lado
 
 Te cuento cómo llegar, qué llevar, cuándo bañarse (y cuándo no), la subida a Montaña Bermeja y qué más ver en el norte de la isla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Playa de las Conchas</span></div><div><b>🏜️</b><span>Dunas</span></div><div><b>🌋</b><span>Montaña Bermeja</span></div><div><b>🏝️</b><span>Montaña Clara y Alegranza</span></div><div><b>⛴️</b><span>Cómo ir</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Playa de las Conchas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>noroeste de La Graciosa</strong>, a unos 5-6 km de Caleta de Sebo.</p></div>

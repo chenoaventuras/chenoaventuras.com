@@ -51,6 +51,9 @@ guiaTitulo: 'Guía Bizkaia en PDF'
 
 El bosque original murió, pero hay uno nuevo. Te cuento cómo visitarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎨</b><span>Árboles pintados</span></div><div><b>👁️</b><span>Ojos del bosque</span></div><div><b>🌈</b><span>Rayas de colores</span></div><div><b>🗿</b><span>Figuras de Ibarrola</span></div><div><b>🕳️</b><span>Cueva de Santimamiñe</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Bosque de Oma</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Kortezubi (Bizkaia)</strong>, en la Reserva de la Biosfera de Urdaibai, a unos <strong>5 km de Gernika</strong>.</p></div>

@@ -44,6 +44,9 @@ En el Camino de Santiago, a la salida de Estella, hay una fuente con **dos grifo
 
 Te cuento cómo funciona, a qué hora ir y qué ver al lado 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍷</b><span>Grifo de vino</span></div><div><b>💧</b><span>Grifo de agua</span></div><div><b>🥾</b><span>Camino de Santiago</span></div><div><b>🆓</b><span>Gratis</span></div><div><b>📍</b><span>Irache</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Fuente del vino</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Ayegui (Navarra)</strong>, junto al Monasterio de Irache, a unos <strong>3 km de Estella</strong> y 45 km de Pamplona.</p></div>

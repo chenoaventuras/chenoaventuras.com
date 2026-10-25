@@ -45,6 +45,9 @@ En julio de 1969, mientras el mundo miraba la Luna, unas antenas en un pueblo de
 
 Te cuento su historia y qué se puede visitar hoy 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🛰️</b><span>Estación de la NASA</span></div><div><b>🌕</b><span>Apolo 11</span></div><div><b>📡</b><span>Antenas</span></div><div><b>📍</b><span>Fresnedillas de la Oliva</span></div><div><b>📜</b><span>Historia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el oeste de la Comunidad de Madrid, a unos <strong>50 km de la capital</strong>, cerca de Robledo de Chavela.</p></div>

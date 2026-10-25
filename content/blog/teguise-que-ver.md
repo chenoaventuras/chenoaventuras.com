@@ -30,6 +30,9 @@ Casas blancas con balcones de madera, una iglesia del siglo XV, un castillo sobr
 
 Te cuento qué ver y cómo organizarte un domingo en Teguise 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🛍️</b><span>Mercadillo del domingo</span></div><div><b>🏘️</b><span>Casas blancas</span></div><div><b>⛪</b><span>Iglesia</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>🅿️</b><span>Aparcar</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Teguise: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🛍️ Mercadillo del domingo</h3><p>Se celebra <strong>cada domingo de 9:00 a 14:00</strong> en el casco histórico, con artesanía, cerámica, cestería, vinos y productos de aloe. Es gratis y es el más antiguo y concurrido de la isla.</p></div>

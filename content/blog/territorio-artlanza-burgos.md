@@ -44,6 +44,9 @@ guiaTitulo: 'Guía Burgos en PDF'
 ---
 Hay quien hace maquetas. El escultor **Félix Yáñez** decidió construir **un pueblo castellano entero, a tamaño real**, con sus propias manos y con **materiales reciclados**. El resultado se llama **Territorio Artlanza**, y está considerado la escultura más grande del mundo hecha por una sola persona.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Pueblo en miniatura</span></div><div><b>🎨</b><span>Obra de una persona</span></div><div><b>🏠</b><span>Casas</span></div><div><b>🏗️</b><span>Escultura gigante</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DZAwD6dsanE/), grabado en Quintanilla del Agua.
 
 ## Lo básico

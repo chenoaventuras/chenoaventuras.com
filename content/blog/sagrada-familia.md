@@ -51,6 +51,9 @@ Lleva en obras desde **1882** y aún no está terminada, pero ya tiene un récor
 
 Te cuento cómo lo consiguió, sus curiosidades y cómo visitarla sin quedarte sin entrada 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Iglesia más alta del mundo</span></div><div><b>🌲</b><span>Bosque de piedra</span></div><div><b>🌅</b><span>Fachada del Nacimiento</span></div><div><b>🗼</b><span>Torres</span></div><div><b>🎟️</b><span>Entradas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Sagrada Familia</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el barrio del Eixample de Barcelona, con parada de metro propia: <strong>Sagrada Família</strong> (líneas 2 y 5).</p></div>

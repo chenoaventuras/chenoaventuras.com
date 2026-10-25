@@ -44,6 +44,9 @@ Estalactitas que crecen hacia los lados, como si la gravedad no existiera. Eso s
 
 Se descubrió excavando una **mina de plomo y zinc**, y hoy la visita empieza subiendo a un tren minero. Además de la visita normal, puedes hacer la **visita espeleológica**, con mono, casco y frontal. Te lo cuento todo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦴</b><span>Helictitas</span></div><div><b>🚂</b><span>Tren minero</span></div><div><b>🕳️</b><span>Galería</span></div><div><b>🎟️</b><span>Precio y horario</span></div><div><b>♿</b><span>Accesibilidad</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de El Soplao</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Entre <strong>Celis y Rábago</strong>, en la sierra de Arnero, a unos 45 minutos de Santander y 20 de San Vicente de la Barquera.</p></div>

@@ -34,6 +34,9 @@ Una villa costera del occidente de Asturias con **siete playas**, un puerto pesq
 
 Te cuento qué ver, qué playas elegir y cuándo son las fiestas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Playas</span></div><div><b>🏝️</b><span>Islas Pantorgas</span></div><div><b>⚓</b><span>Puerto</span></div><div><b>🏘️</b><span>Ayuntamiento</span></div><div><b>🎉</b><span>Fiestas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Tapia de Casariego: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏖️ Playas</h3><p>Porcia, Tapia, La Paloma, Serantes (Sarello), La Mixota, Santa Gadea y Peñarronda.</p></div>

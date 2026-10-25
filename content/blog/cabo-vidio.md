@@ -36,6 +36,9 @@ Un faro blanco al borde de unos de los **acantilados más altos de Asturias**, c
 
 Te cuento qué ver, cómo llegar y qué tener en cuenta 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Faro de 1950</span></div><div><b>🌊</b><span>Acantilados de 100 m</span></div><div><b>⚠️</b><span>Seguridad</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🏘️</b><span>Cudillero</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cabo Vidío: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la localidad de Oviñana, concejo de Cudillero.</p></div>

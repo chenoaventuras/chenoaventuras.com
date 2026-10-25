@@ -39,6 +39,9 @@ Imagina vivir en España pero tener que **salir del país** cada vez que quieres
 
 Es lo que se llama un *pene-enclave*. Te cuento cómo es y cómo visitarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🇫🇷</b><span>Pasar por Francia</span></div><div><b>🛂</b><span>Documentación</span></div><div><b>🏘️</b><span>Pueblo</span></div><div><b>❄️</b><span>Invierno</span></div><div><b>🏔️</b><span>Montaña</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Os de Civís</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Alt Urgell (Lleida)</strong>, a casi 1.500 m de altitud, a 10 km de <strong>Sant Julià de Lòria</strong> (Andorra).</p></div>

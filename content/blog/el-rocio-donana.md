@@ -42,6 +42,9 @@ Un pueblo blanco donde las calles no tienen asfalto sino arena, donde los caball
 
 Te cuento qué ver en la aldea, cómo visitar el Parque Nacional (que no se puede recorrer por libre), cuándo ir para ver aves y qué más hacer por la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Ermita del Rocío</span></div><div><b>🏜️</b><span>Calles de arena</span></div><div><b>🦆</b><span>Marisma</span></div><div><b>🐎</b><span>Romería</span></div><div><b>🌿</b><span>Doñana</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el término de <strong>Almonte (Huelva)</strong>, a unos 65 km de Sevilla y 15 km de la playa de Matalascañas.</p></div>

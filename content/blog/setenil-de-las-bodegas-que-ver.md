@@ -42,6 +42,9 @@ Hay pueblos blancos bonitos… y luego está **Setenil de las Bodegas**. Aquí, 
 
 Te cuento qué ver, el origen de su curioso nombre y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏠</b><span>Casas bajo la roca</span></div><div><b>🕳️</b><span>Cuevas de la Sombra</span></div><div><b>☀️</b><span>Cuevas del Sol</span></div><div><b>🗼</b><span>Torre del Homenaje</span></div><div><b>🌄</b><span>Miradores</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Setenil</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Sierra de Cádiz</strong>, casi en el límite con Málaga, a unos <strong>20 minutos de Ronda</strong> en coche.</p></div>

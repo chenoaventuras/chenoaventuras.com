@@ -53,6 +53,9 @@ Un lago de alta montaña que refleja un pico puntiagudo y, al fondo, la silueta 
 
 La foto de portada es mía, dando saltos de alegría al llegar arriba (literalmente 😄). Te cuento cómo es la ruta, cuánto se tarda y qué tienes que saber antes de subir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥾</b><span>Ruta desde Formigal</span></div><div><b>💧</b><span>Ibones</span></div><div><b>⛰️</b><span>Antiguo volcán</span></div><div><b>📏</b><span>Desnivel</span></div><div><b>⏱️</b><span>Ida y vuelta</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La ruta en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🥾 Subida a los ibones</h3><p>Por el <strong>GR-11</strong>, bien marcado, remontando el barranco de Culivillas.</p>

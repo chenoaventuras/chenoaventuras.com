@@ -37,6 +37,9 @@ Una montaña de casas de piedra que se encaraman hasta una enorme roca, con un c
 
 Te cuento qué ver, cómo subir al castillo, la escalera imposible de su basílica, qué comer (los flaons y la trufa) y su fiesta, que se celebra solo cada seis años 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>⛪</b><span>Basílica de Santa María</span></div><div><b>🏛️</b><span>Acueducto</span></div><div><b>🏘️</b><span>Calles</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Morella</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la comarca de <strong>Els Ports</strong> (Castellón), a unos 100 km de Castellón de la Plana y cerca del límite con Teruel.</p></div>

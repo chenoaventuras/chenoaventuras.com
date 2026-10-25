@@ -28,6 +28,9 @@ Tres piscinas de agua de mar encajadas en la roca volcánica, a pocos pasos del 
 
 Te cuento cómo llegar y qué saber antes de meterte 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏊</b><span>Tres piscinas</span></div><div><b>🌊</b><span>Agua de mar</span></div><div><b>🧴</b><span>Servicios</span></div><div><b>👟</b><span>Calzado de agua</span></div><div><b>🌅</b><span>Las Salinas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Las piscinas de Agaete: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🌊 Qué son</h3><p>Tres piscinas naturales formadas por el agua sobre terreno volcánico, <strong>conectadas por pequeños túneles</strong>. Cada una tiene un tamaño y una profundidad distintos.</p></div>

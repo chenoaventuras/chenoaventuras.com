@@ -50,6 +50,9 @@ Una de las plazas mayores más bonitas de España, un castillo árabe en lo alto
 
 Está a 40 minutos de Cáceres y es perfecta para medio día o una noche. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🏛️</b><span>Palacio de la Conquista</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🧀</b><span>Feria del Queso</span></div><div><b>⚔️</b><span>Conquistadores</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Trujillo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la provincia de Cáceres, junto a la <strong>A-5</strong>: a unas 2 horas y media de Madrid y a 40 minutos de Cáceres.</p></div>

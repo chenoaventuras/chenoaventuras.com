@@ -51,6 +51,9 @@ comerFecha: "octubre de 2026"
 ---
 En el sur de Tenerife, a un paso de la autopista y casi sin que nadie lo sepa, hay un arco de roca que parece sacado de otro planeta. Es el **Arco de Tajao**, y si te gustan los sitios fotogénicos y poco masificados, apúntatelo: es de esas paradas que te sacan una sonrisa.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌋</b><span>Arco volcánico</span></div><div><b>📏</b><span>30 metros</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🌊</b><span>Costa sur</span></div><div><b>🚗</b><span>Fácil de llegar</span></div></div>
+
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DH9KUHwokxB/), grabado en Arico, Tenerife.
 
 ## Lo básico antes de ir

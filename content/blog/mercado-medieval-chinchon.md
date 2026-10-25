@@ -52,6 +52,9 @@ guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 ---
 [Chinchón](/blog/chinchon-castillo-de-noche.html) ya es, de por sí, uno de los pueblos más bonitos de la Comunidad de Madrid. Pero una vez al año, sus calles empedradas y su **Plaza Mayor** viajan varios siglos atrás para llenarse de caballeros, juglares, antorchas y artesanos: es el **Mercado Medieval de Chinchón**.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🛡️</b><span>Luchas</span></div><div><b>🎺</b><span>Pasacalles</span></div><div><b>🏺</b><span>Artesanía</span></div><div><b>🍖</b><span>Gastronomía</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div></div>
+
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DUygejhDDnD/), grabado en Chinchón.
 
 ## Lo básico

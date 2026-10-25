@@ -34,6 +34,9 @@ La gran roca de los Picos de Europa: una **torre de caliza de 2.519 metros** que
 
 Te cuento su historia, cómo verlo y qué rutas hay 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛰️</b><span>2.519 metros</span></div><div><b>🧗</b><span>Primera ascensión</span></div><div><b>🏠</b><span>Refugio</span></div><div><b>🥾</b><span>Cómo verlo</span></div><div><b>📸</b><span>Mirador</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Naranjo de Bulnes: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛰️ Altura</h3><p>2.519 m. No es el pico más alto de la Cordillera Cantábrica, pero sí uno de los más famosos.</p></div>

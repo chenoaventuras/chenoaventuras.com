@@ -39,6 +39,9 @@ guiaTitulo: 'Guía de Cuenca en PDF'
 ---
 Saltos al agua, **toboganes** tallados por el río durante siglos y un cañón que no parece de Castilla-La Mancha: así es el **barranquismo en el río Júcar**, en plena **Serranía de Cuenca**. Si nunca lo has probado, es un plan perfecto para estrenarse.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧗</b><span>Descenso de cañones</span></div><div><b>💦</b><span>Rapel y saltos</span></div><div><b>🏞️</b><span>Río Júcar</span></div><div><b>🦺</b><span>Material incluido</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/DaZ1lCyPTde/), grabado en el cañón del río Júcar.
 
 ## Lo básico

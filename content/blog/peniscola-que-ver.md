@@ -53,6 +53,9 @@ Un peñón rodeado de mar casi por completo, con casas blancas trepando por la r
 
 Te cuento qué ver, sus curiosidades y una ruta de costa salvaje a pocos minutos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo del Papa Luna</span></div><div><b>🐉</b><span>Juego de Tronos</span></div><div><b>🌊</b><span>Bufador</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>🏘️</b><span>Casco antiguo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Peñíscola</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de <strong>Castellón</strong>, en la Costa del Azahar, a hora y media de Valencia y a unas dos horas de Tarragona.</p></div>

@@ -50,6 +50,9 @@ comerFecha: "octubre de 2026"
 ---
 De día, **Chinchón** es uno de los pueblos con más ambiente de la Comunidad de Madrid. De noche, con la **Plaza Mayor** iluminada y las calles tranquilas, cambia por completo, y el protagonista pasa a ser el **castillo** que vigila el pueblo desde lo alto.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌙</b><span>Plaza Mayor iluminada</span></div><div><b>🏰</b><span>Castillo de los Condes</span></div><div><b>🍽️</b><span>Cena en la plaza</span></div><div><b>📸</b><span>Fotos de noche</span></div><div><b>🕯️</b><span>Ambiente</span></div></div>
+
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DQFNvQQDF7i/), grabado en Chinchón.
 
 ## Lo básico

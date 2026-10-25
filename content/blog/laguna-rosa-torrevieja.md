@@ -44,6 +44,9 @@ Agua de color **rosa chicle**, montañas de sal blanca y flamencos al fondo. La 
 
 Lo primero que todo el mundo pregunta es si se puede bañar. Te lo cuento 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🩷</b><span>Agua rosa</span></div><div><b>🧂</b><span>Salinas</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🚫</b><span>Baño</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Laguna Rosa</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Torrevieja (Alicante)</strong>, dentro del Parque Natural de las Lagunas de La Mata y Torrevieja.</p></div>

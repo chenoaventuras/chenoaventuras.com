@@ -36,6 +36,9 @@ Un cabo azotado por el viento, con **acantilados de más de cien metros** y un f
 
 Te cuento qué ver, qué hay en el faro y qué otros sitios visitar cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Faro de 1852</span></div><div><b>🏛️</b><span>Museo</span></div><div><b>🌊</b><span>Acantilados</span></div><div><b>🏖️</b><span>Playa de Verdicio</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cabo Peñas: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💡 El faro</h3><p>Funciona desde 1852 y está a unos 100 m sobre el mar, a unos 60 m del borde del acantilado.</p></div>

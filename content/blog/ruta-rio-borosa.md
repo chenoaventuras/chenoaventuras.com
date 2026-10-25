@@ -42,6 +42,9 @@ Agua turquesa, pasarelas de madera encajadas entre paredes de roca, cascadas y h
 
 Lo mejor es que la puedes adaptar: desde un paseo de un par de horas hasta un día completo de montaña. Te cuento las opciones 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Pozas turquesa</span></div><div><b>🌉</b><span>Pasarelas</span></div><div><b>🕳️</b><span>Túneles</span></div><div><b>💦</b><span>Cascadas</span></div><div><b>🥾</b><span>Cerrada de Elías</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La ruta en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🥾 Opción corta</h3><p>Hasta la <strong>Cerrada de Elías</strong>: unos <strong>8-10 km ida y vuelta</strong>, 2-3 horas. Casi llana y la más popular.</p></div>

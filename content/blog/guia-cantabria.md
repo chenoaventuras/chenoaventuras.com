@@ -27,6 +27,9 @@ Aquí tienes todos los sitios que he recopilado, agrupados por zonas, y la **gu�
 
 <!--guia-->
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Santander</span></div><div><b>🦁</b><span>Cabárceno</span></div><div><b>🎨</b><span>Altamira</span></div><div><b>🏘️</b><span>Santillana del Mar</span></div><div><b>🕳️</b><span>El Soplao</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Guía corta 1</span><h2>Santander y alrededores</h2><p>A menos de una hora de Santander. Ideal para una escapada de 4 días.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/santander-que-ver/portada.webp" alt="Santander" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Santander</h3><p>Qué ver en Santander: el Palacio y la península de la Magdalena, las playas del Sardinero, el Centro Botín, el Paseo de Pereda, la catedral, el faro de Cabo Mayor, las rabas y la historia del incendio de 1941.</p><p class="gcard__links"><a class="gbtn gbtn--reel" href="/blog/santander-que-ver.html">Leer más</a></p></div></li>

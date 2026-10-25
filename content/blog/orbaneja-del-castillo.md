@@ -47,6 +47,9 @@ Un pueblo de piedra encajado bajo unas peñas gigantes, en pleno cañón del Ebr
 
 Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cómo llegar 👇 Y si quieres verla en movimiento, la tienes en [este reel de Instagram](https://www.instagram.com/reel/DTdpjjYDDI8/).
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>Cascada bajo el pueblo</span></div><div><b>🏘️</b><span>Calles</span></div><div><b>🧱</b><span>Peñas</span></div><div><b>💧</b><span>Pozas de toba</span></div><div><b>🏞️</b><span>Ciudad de roca</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Orbaneja</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de <strong>Burgos</strong>, en el <strong>Parque Natural de las Hoces del Alto Ebro y Rudrón</strong>, casi en el límite con Cantabria.</p></div>

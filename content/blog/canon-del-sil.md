@@ -52,6 +52,9 @@ Paredes de granito de cientos de metros cayendo al río, laderas cubiertas de **
 
 La mejor forma de verlo es desde dos sitios: **desde el río, en catamarán**, y desde lo alto, en sus miradores. Te cuento cómo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛴️</b><span>Catamarán</span></div><div><b>📸</b><span>Miradores</span></div><div><b>🍇</b><span>Viñedos en terrazas</span></div><div><b>🪨</b><span>Paredes de granito</span></div><div><b>🍷</b><span>Ribeira Sacra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Cañón del Sil</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛴️ Catamarán</h3><p>Hay rutas en catamarán por el cañón, como las de la Diputación de Lugo (unos <strong>9 €</strong> la general) y otras desde los embarcaderos de Ourense, como el de Santo Estevo. En temporada alta, <strong>reserva</strong>.</p></div>

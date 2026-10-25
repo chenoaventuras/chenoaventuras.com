@@ -45,6 +45,9 @@ En 1888, en San Fernando (Cádiz), se botó un invento que se adelantó a su tie
 
 Te cuento su historia, por qué no siguió adelante y dónde verlo hoy en Cartagena 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌊</b><span>Primer submarino eléctrico</span></div><div><b>🏛️</b><span>Cartagena</span></div><div><b>🔧</b><span>Interior</span></div><div><b>🗼</b><span>Torreta</span></div><div><b>🏠</b><span>Su antigua casa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Submarino Peral</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Museo Naval de Cartagena</strong>, junto al puerto.</p></div>

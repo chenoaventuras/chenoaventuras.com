@@ -31,6 +31,9 @@ Un pueblo de la **Alta Rioja** con plazas porticadas, casas de piedra y balcones
 
 Te cuento qué ver, qué comprar y cómo combinarlo con la nieve 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Plazas</span></div><div><b>🧶</b><span>Mantas</span></div><div><b>🏭</b><span>Real Fábrica</span></div><div><b>🌉</b><span>Puente</span></div><div><b>⛷️</b><span>Valdezcaray</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Ezcaray: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🍂 Cuándo ir</h3><p>En <strong>otoño</strong> el paisaje se llena de colores y en <strong>invierno</strong> puedes combinarlo con esquí en Valdezcaray. En verano es más tranquilo.</p></div>

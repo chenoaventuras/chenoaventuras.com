@@ -30,6 +30,9 @@ En la costa de Marruecos, entre Ceuta y Melilla, hay una roca de 87 metros de al
 
 Te cuento cómo una isla se convirtió en península por un terremoto y si se puede visitar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏝️</b><span>Peñón</span></div><div><b>🇪🇸</b><span>Trozo de España</span></div><div><b>🇲🇦</b><span>Costa de Marruecos</span></div><div><b>🛂</b><span>Frontera más corta</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Peñón</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa mediterránea de <strong>Marruecos</strong>, a más de 100 km de Ceuta y de Melilla.</p></div>

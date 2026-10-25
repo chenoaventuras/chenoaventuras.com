@@ -35,6 +35,9 @@ Imagina un parque lleno de **cascadas**, lagos, cuevas y pasarelas, donde el agu
 
 Y lo mejor: bajas por dentro de una gruta para ver una cascada de 50 metros desde atrás. Te cuento cómo es la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>Cola de Caballo</span></div><div><b>🕳️</b><span>Gruta Iris</span></div><div><b>🌊</b><span>Cascadas</span></div><div><b>⛪</b><span>Monasterio</span></div><div><b>🍫</b><span>Primer chocolate</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Monasterio de Piedra: precio y horario</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entrada 2026</h3><p>La entrada incluye parque y monasterio. Comprando online es un poco más barata.</p>

@@ -37,6 +37,9 @@ Más de dos kilómetros de muralla romana rodeando una ciudad entera, y puedes d
 
 Te cuento qué ver en Lugo, cómo recorrer la muralla, dónde tapear, sus fiestas romanas y del pulpo, y qué ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧱</b><span>Muralla romana</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🌉</b><span>Puente romano</span></div><div><b>🏘️</b><span>Praza Maior</span></div><div><b>🚶</b><span>Paseo gratis</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Lugo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el interior de Galicia, junto al río <strong>Miño</strong>. A unos 100 km de Santiago y de A Coruña.</p></div>

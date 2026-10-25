@@ -44,6 +44,9 @@ Un río que ya no tiene agua y se ha convertido en un parque de 9 kilómetros, u
 
 Te cuento qué ver en Valencia, cómo organizarte, dónde comer una **paella de verdad** (pista: sin marisco y a mediodía) y algunos trucos para no hacer el guiri 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Ciudad de las Artes</span></div><div><b>⛪</b><span>Catedral y Miguelete</span></div><div><b>🏛️</b><span>Lonja de la Seda</span></div><div><b>🛒</b><span>Mercado Central</span></div><div><b>🌳</b><span>Jardín del Turia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Valencia</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa mediterránea, a <strong>menos de 2 horas de Madrid en AVE</strong> y a unos 350 km de Barcelona.</p></div>

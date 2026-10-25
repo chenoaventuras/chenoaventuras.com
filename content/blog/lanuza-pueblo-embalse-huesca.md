@@ -54,6 +54,9 @@ Para mí es el pueblo más bonito de todo el Pirineo Aragonés, y te lo enseño 
 
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DZdIrmTPtoA/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver mi reel de Lanuza</a></p>
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌊</b><span>Pueblo bajo el agua</span></div><div><b>🏘️</b><span>Pueblo renacido</span></div><div><b>🎵</b><span>Pirineos Sur</span></div><div><b>💧</b><span>Embalse</span></div><div><b>🥾</b><span>Entorno</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lanuza en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💸 Precio</h3><p>El acceso al pueblo es <strong>totalmente gratuito</strong>.</p>

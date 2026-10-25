@@ -121,6 +121,9 @@ Aquí no se paga una pulsera: **cada atracción tiene su propio precio**, casi t
 </div>
 </div>
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎢</b><span>19 atracciones</span></div><div><b>🚠</b><span>Funicular</span></div><div><b>🎡</b><span>Noria</span></div><div><b>🌊</b><span>Vistas de San Sebastián</span></div><div><b>🎟️</b><span>Precios</span></div></div>
+
 <div class="guide__head">
 <span class="eyebrow">Las 19 atracciones</span>
 <h2>Qué hay y cuánto cuesta</h2>

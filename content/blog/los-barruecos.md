@@ -43,6 +43,9 @@ Rocas de granito enormes, redondeadas como si alguien las hubiera colocado a man
 
 Y al lado hay un museo de arte contemporáneo con coches enterrados en hormigón. Te lo cuento 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪨</b><span>Bolos de granito</span></div><div><b>🦩</b><span>Cigüeñas</span></div><div><b>💧</b><span>Charcas</span></div><div><b>🎨</b><span>Grabados</span></div><div><b>🏛️</b><span>Museo Vostell</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Los Barruecos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Malpartida de Cáceres</strong>, a unos 14 km de Cáceres por la N-521.</p></div>

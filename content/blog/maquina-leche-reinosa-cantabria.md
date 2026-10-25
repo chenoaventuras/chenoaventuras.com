@@ -47,6 +47,9 @@ guiaTitulo: 'Guía Cantabria interior en PDF'
 ---
 Hay curiosidades que encuentras por casualidad y que te alegran el viaje. En **Reinosa**, en el corazón de Cantabria, hay una **máquina que despacha leche recién ordeñada** de vacas de la zona, como si fuera una fuente pública. Echas la moneda, pones la botella y listo.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥛</b><span>Leche recién ordeñada</span></div><div><b>🚰</b><span>Como una fuente</span></div><div><b>🐄</b><span>Reinosa</span></div><div><b>🧴</b><span>Pasteurizada</span></div><div><b>💶</b><span>Precio</span></div></div>
+
 Puedes verla funcionando en [este reel de Instagram](https://www.instagram.com/reel/DWE2X_CCJX5/), grabado en Reinosa.
 
 ## Lo básico

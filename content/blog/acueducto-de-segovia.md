@@ -57,6 +57,9 @@ Más de 160 arcos de granito, casi 30 metros de altura en su punto más alto y *
 
 Te cuento qué ver, las mejores vistas y algunos trucos para la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Acueducto romano</span></div><div><b>🏰</b><span>Alcázar</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>😈</b><span>Leyenda del diablo</span></div><div><b>🐷</b><span>Cochinillo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Segovia</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A menos de <strong>media hora de Madrid en AVE</strong> o algo más de una hora en coche, al otro lado de la sierra de Guadarrama.</p></div>

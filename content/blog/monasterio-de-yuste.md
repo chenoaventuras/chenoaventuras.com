@@ -47,6 +47,9 @@ Gobernó medio mundo: España, Alemania, los Países Bajos, Italia y América. Y
 
 Te cuento cómo vivía el emperador retirado y qué ver hoy 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>👑</b><span>Carlos V</span></div><div><b>🏛️</b><span>Monasterio</span></div><div><b>🌳</b><span>Jardines</span></div><div><b>🏠</b><span>Casa del emperador</span></div><div><b>⚰️</b><span>Cementerio alemán</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Yuste</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Junto a <strong>Cuacos de Yuste</strong>, en la comarca de La Vera, a 45 minutos de Plasencia.</p></div>

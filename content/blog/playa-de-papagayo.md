@@ -28,6 +28,9 @@ guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
 ---
 Cinco calas de **arena dorada y aguas turquesas** al sur de Lanzarote, dentro del **Monumento Natural de Los Ajaches**. Las **playas de Papagayo** son de las más bonitas de Canarias, pero también de las más concurridas: te cuento cómo llegar, cuánto cuesta y cómo evitar las masas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Calas de arena</span></div><div><b>💧</b><span>Aguas turquesas</span></div><div><b>🥾</b><span>Sendero entre calas</span></div><div><b>⛵</b><span>En barco</span></div><div><b>🎟️</b><span>Entrada con coche</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Papagayo: lo que tienes que saber</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Entrada con coche</h3><p>Según varias guías y la prensa local, para llegar en coche se paga una <strong>tasa de unos 3 € por vehículo</strong> (2 € las motos; los residentes en Lanzarote, exentos), con pago con tarjeta, y el acceso se controla de 9:00 a 19:00 (alguna guía cita desde las 7:00). No he encontrado la tarifa publicada en una web oficial, así que <strong>confírmala con el Ayuntamiento de Yaiza</strong>.</p></div>

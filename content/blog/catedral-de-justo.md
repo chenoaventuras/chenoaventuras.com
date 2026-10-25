@@ -48,6 +48,9 @@ A 20 km de Madrid hay una catedral que no levantó ningún obispo ni ningún arq
 
 Esta es su historia, y lo que tienes que saber antes de ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral</span></div><div><b>🧱</b><span>Obra de un solo hombre</span></div><div><b>⏳</b><span>60 años</span></div><div><b>📍</b><span>Mejorada del Campo</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Catedral de Justo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Mejorada del Campo</strong> (Madrid), a unos <strong>20 km</strong> del centro de la capital.</p></div>

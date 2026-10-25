@@ -47,6 +47,9 @@ Una isla pequeñita, plana, con un pueblo amurallado, un faro y unas aguas tan c
 
 Te cuento cómo llegar, dónde meterte al agua y qué ver en la isla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛴️</b><span>Barco</span></div><div><b>🤿</b><span>Snorkel</span></div><div><b>🐠</b><span>Reserva marina</span></div><div><b>🧱</b><span>Pueblo amurallado</span></div><div><b>🏖️</b><span>Calas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Tabarca</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛴️ Cómo llegar</h3><p>En <strong>barco</strong>: el trayecto más corto sale de <strong>Santa Pola</strong> (unos 25-30 minutos). También hay barcos desde <strong>Alicante</strong> y, en temporada, desde otros puertos como Torrevieja o Benidorm.</p></div>

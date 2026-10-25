@@ -43,6 +43,9 @@ Una playa de arena fina, con olas y agua salada… en mitad de un prado verde, s
 
 El truco está en la marea. Te cuento cuándo ir para verla con agua 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Playa sin mar</span></div><div><b>🌿</b><span>Prado</span></div><div><b>🌊</b><span>Marea alta</span></div><div><b>🌍</b><span>Monumento natural</span></div><div><b>🏘️</b><span>Llanes</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Gulpiyuri</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Entre <strong>Naves y San Antolín</strong>, en el concejo de <strong>Llanes</strong> (Asturias).</p></div>

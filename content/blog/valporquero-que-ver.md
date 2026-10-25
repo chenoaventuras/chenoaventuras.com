@@ -31,6 +31,9 @@ Una cueva con **salas enormes llenas de estalactitas**, un recorrido iluminado a
 
 Te cuento los recorridos, los horarios (orientativos) y cómo organizar el día 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕳️</b><span>Cueva</span></div><div><b>✨</b><span>Salas iluminadas</span></div><div><b>🪨</b><span>Formaciones de roca</span></div><div><b>🧥</b><span>Abrígate</span></div><div><b>🎟️</b><span>Reserva online</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Valporquero: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Reserva online</h3><p>Todas las visitas son <strong>en grupo y con guía</strong>. Según la web oficial, la temporada 2026 va del 1 de marzo al 13 de diciembre. Los pases salen a las 12:00 y 15:30 (marzo, abril y de octubre a diciembre, solo jueves a domingo y festivos) y a las 11:30, 13:00 y 16:30 (mayo a septiembre, todos los días). Conviene reservar online. <strong>Confirma horarios y precios</strong>.</p></div>

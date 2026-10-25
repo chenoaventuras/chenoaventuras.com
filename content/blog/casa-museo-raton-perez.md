@@ -46,6 +46,9 @@ Si alguna vez te preguntaste dónde vive el **Ratoncito Pérez**, la respuesta e
 
 Te cuento de dónde sale el cuento y cómo visitar su casita-museo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🐭</b><span>Ratoncito Pérez</span></div><div><b>📍</b><span>Calle del Arenal, 8</span></div><div><b>📖</b><span>Cuento para el rey</span></div><div><b>🏠</b><span>Casa-museo</span></div><div><b>👶</b><span>Para niños</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>calle del Arenal, 8</strong>, entre Sol y Ópera.</p></div>

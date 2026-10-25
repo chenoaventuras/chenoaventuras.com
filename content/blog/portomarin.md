@@ -45,6 +45,9 @@ Imagina desmontar una **iglesia románica** piedra a piedra, **numerar cada pied
 
 Te cuento cómo fue y qué se ve cuando baja el agua 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌊</b><span>Pueblo sumergido</span></div><div><b>⛪</b><span>San Nicolás</span></div><div><b>🏘️</b><span>Pueblo nuevo</span></div><div><b>🥾</b><span>Camino de Santiago</span></div><div><b>🍷</b><span>Fiesta del aguardiente</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Portomarín</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Camino Francés</strong> de Santiago, a unos 35 km de Lugo, junto al río Miño.</p></div>

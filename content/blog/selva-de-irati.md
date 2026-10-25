@@ -36,6 +36,9 @@ En otoño, la **Selva de Irati** se pone de todos los colores: amarillos, naranj
 
 Te cuento cómo llegar, qué rutas hacer y cómo evitar las colas de coches 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍂</b><span>Hayedo en otoño</span></div><div><b>💦</b><span>Cascada del Cubo</span></div><div><b>💧</b><span>Embalse de Irabia</span></div><div><b>🥾</b><span>Rutas</span></div><div><b>🧙</b><span>Mitología vasca</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Selva de Irati</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Pirineo navarro</strong>, entre los valles de Salazar y Aezkoa, a unas <strong>1 h 30 de Pamplona</strong>.</p></div>

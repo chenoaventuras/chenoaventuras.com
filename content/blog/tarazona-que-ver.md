@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Zaragoza en PDF'
 ---
 Una **catedral mudéjar**, una **plaza de toros octogonal** rodeada de viviendas, casas colgadas sobre el río y una judería conservada. **Tarazona**, al pie del Moncayo, es una de las ciudades más monumentales de Aragón y se ve bien en **un día**. Te lo cuento **por franjas del día**, con qué ver, curiosidades y dónde comer.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Tarazona: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral mudéjar</span></div><div><b>🐂</b><span>Plaza de Toros Vieja</span></div><div><b>🕍</b><span>Judería</span></div><div><b>🏠</b><span>Casas Colgadas</span></div><div><b>🏘️</b><span>Casco antiguo</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Tarazona: lo básico</h2></div>
 <p>Tarazona queda a algo más de una hora en coche de Zaragoza y es una buena base para visitar el Moncayo: lo mejor es ir en coche. El casco histórico tiene cuestas y escaleras, así que lleva calzado cómodo. La catedral y otros monumentos tienen horarios y visitas guiadas variables: confirma en la web oficial antes de ir. Consejo: empieza en la parte baja, junto a la catedral, y sube hacia la Plaza de España.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>La Catedral y la Plaza de Toros Vieja</h2></div>

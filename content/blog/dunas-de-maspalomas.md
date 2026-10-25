@@ -48,6 +48,9 @@ Montañas de arena dorada que se mueven con el viento, el océano a un lado y un
 
 Se recorren andando, gratis, y al atardecer son espectaculares. Te cuento cómo visitarlas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏜️</b><span>Campo de dunas</span></div><div><b>💧</b><span>La Charca</span></div><div><b>🦆</b><span>Aves</span></div><div><b>🗼</b><span>Faro</span></div><div><b>🐪</b><span>Paseos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de las Dunas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el sur de Gran Canaria, entre <strong>Playa del Inglés</strong> y el <strong>Faro de Maspalomas</strong>.</p></div>

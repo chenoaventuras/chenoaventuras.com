@@ -28,6 +28,9 @@ Un cañón pequeño, de paredes de colores y formas redondeadas, al que se llega
 
 Es corto y fácil, pero tiene truco: el GPS te puede llevar a otro sitio y casi no hay aparcamiento. Te cuento cómo organizarte 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌈</b><span>Tobas de colores</span></div><div><b>📍</b><span>GPS</span></div><div><b>🌵</b><span>Entre Agüimes y Temisas</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🥾</b><span>Paseo corto</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Barranco de las Vacas: lo que tienes que saber</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Entre <strong>Agüimes y Temisas</strong>. Desde Las Palmas de Gran Canaria son unos 40-50 minutos en coche; desde Maspalomas, unos 40; desde Agüimes, unos 10.</p></div>

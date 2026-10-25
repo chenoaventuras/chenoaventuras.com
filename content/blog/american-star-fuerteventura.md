@@ -43,6 +43,9 @@ Durante más de diez años, un transatlántico gigante estuvo varado frente a un
 
 Te cuento su historia, por qué encalló y lo que queda hoy 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚢</b><span>Transatlántico</span></div><div><b>🏖️</b><span>Playa de Garcey</span></div><div><b>⚓</b><span>Encalló en 1994</span></div><div><b>📸</b><span>Fotos</span></div><div><b>📜</b><span>Historia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del American Star</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde estaba</h3><p>En la <strong>playa de Garcey</strong>, en la costa oeste de Fuerteventura (municipio de Pájara).</p></div>

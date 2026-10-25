@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Cantabria completa en PDF'
 ---
 Cantabria tiene **mar y montaña a menos de una hora**: la elegante Santander, los acantilados de la Costa Quebrada, los elefantes de Cabárceno, las cuevas de Altamira y El Soplao, la villa de Santillana y los Picos de Europa con Potes y Fuente Dé. Este es el **itinerario de 5 días en coche**, **día por día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de salir</span><h2>Cómo organizar los 5 días</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Santander</span></div><div><b>🌊</b><span>Costa Quebrada</span></div><div><b>🦁</b><span>Cabárceno</span></div><div><b>🎨</b><span>Altamira</span></div><div><b>🏘️</b><span>Santillana</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de salir</span><h2>Cómo organizar los 5 días</h2></div>
 <p>Cantabria es pequeña pero con curvas: cuenta con más tiempo del que marque el mapa y confirma los tiempos en Google Maps. Lo ideal es dormir <strong>tres noches en Santander o alrededores</strong> (días 1-3) y <strong>dos en la zona de Potes o San Vicente</strong> (días 4-5). Reserva con antelación las cuevas (Altamira, El Soplao y Puente Viesgo tienen aforo limitado) y mira siempre el tiempo: si llueve, cambia las playas por las cuevas. Tienes también la <a href='/blog/guia-cantabria.html'>guía de Cantabria en PDF</a> gratis para llevarla en el móvil.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Día 1</span><h2>Santander y la Costa Quebrada</h2></div>

@@ -30,6 +30,9 @@ Una costa de lava donde el mar **entra y revienta en cuevas y túneles**, y a po
 
 Te cuento cómo llegar y qué se puede (y qué no) hacer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌊</b><span>Olas contra la lava</span></div><div><b>🕳️</b><span>Cuevas</span></div><div><b>🟢</b><span>Charco de los Clicos</span></div><div><b>🏖️</b><span>Playa de El Golfo</span></div><div><b>🌋</b><span>Costa de lava</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Los Hervideros y El Golfo: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde están</h3><p>En la costa suroeste de Lanzarote, entre las <strong>Salinas de Janubio</strong> y el pueblo de <strong>El Golfo</strong>, por la carretera <strong>LZ-703</strong>. Desde las salinas son unos 5 minutos en coche, y de Los Hervideros al Charco de los Clicos, unos 3 km.</p></div>

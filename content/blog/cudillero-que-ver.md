@@ -48,6 +48,9 @@ Casas de colores apiladas en la ladera, una encima de otra, mirando todas a un p
 
 Te cuento qué ver, desde qué miradores sacar la mejor foto y cómo combinarlo con la **Playa del Silencio** 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Casas de colores</span></div><div><b>🌄</b><span>Miradores</span></div><div><b>⚓</b><span>Puerto</span></div><div><b>🗼</b><span>Faro</span></div><div><b>🐟</b><span>Pescado</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cudillero</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa occidental de <strong>Asturias</strong>, a unos <strong>45 minutos de Oviedo</strong> y a media hora de Avilés.</p></div>

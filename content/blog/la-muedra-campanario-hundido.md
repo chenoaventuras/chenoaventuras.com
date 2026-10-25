@@ -31,6 +31,9 @@ Una **torre de piedra que sale del agua** en mitad de un embalse, el único rest
 
 Te cuento qué es, cuándo se ve y qué hacer por los alrededores 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🔔</b><span>Campanario</span></div><div><b>💧</b><span>Embalse</span></div><div><b>📅</b><span>Cuándo se ve</span></div><div><b>📍</b><span>Soria</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>El campanario de La Muedra: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💧 Depende del nivel del agua</h3><p>Según las guías, la torre del antiguo pueblo <strong>no siempre es visible</strong>: emerge cuando baja el nivel del embalse. Antes de ir, mira el estado del agua o pregunta en el ayuntamiento de Vinuesa.</p></div>

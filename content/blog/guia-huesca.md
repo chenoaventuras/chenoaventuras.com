@@ -26,6 +26,9 @@ Aquí tienes todos los sitios agrupados por zonas, y la **guía completa en PDF*
 
 <!--guia-->
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏔️</b><span>Ordesa</span></div><div><b>🏘️</b><span>Aínsa</span></div><div><b>🚂</b><span>Canfranc</span></div><div><b>♨️</b><span>Panticosa</span></div><div><b>🏞️</b><span>Lanuza</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Pirineo aragonés</span><h2>El Pirineo</h2><p>Ordesa, Aínsa, el valle de Tena y Canfranc. Estos posts te ofrecen mi guía del Pirineo aragonés.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pirineo/cazadores-monte-perdido.webp" alt="Pirineo Aragonés" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Pirineo Aragonés</h3><p>Mi guía completa del Pirineo Aragonés: 30 pueblos, rutas, cascadas e ibones del Valle de Tena, Ordesa, Jaca, Benasque y Guara, con cómo llegar y cuándo ir.</p><p class="gcard__links"><a class="gbtn gbtn--reel" href="/blog/pirineo-aragones-que-ver.html">Leer más</a></p></div></li>

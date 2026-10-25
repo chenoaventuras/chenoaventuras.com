@@ -28,6 +28,9 @@ Un barranco de **11 kilómetros** lleno de **cuevas donde vivieron los antiguos 
 
 Te cuento cómo recorrerlo y qué no te puedes perder 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕳️</b><span>Cuevas aborígenes</span></div><div><b>🍽️</b><span>Restaurantes en la roca</span></div><div><b>🏞️</b><span>Barranco de 11 km</span></div><div><b>ℹ️</b><span>Centro de interpretación</span></div><div><b>🌿</b><span>Flora y fauna</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Guayadeque: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏞️ Qué es</h3><p>Un <strong>Monumento Natural</strong> (desde el año 2000) y <strong>Bien de Interés Cultural</strong> como zona arqueológica (desde 1991): es el lugar con más yacimientos de toda Gran Canaria.</p></div>

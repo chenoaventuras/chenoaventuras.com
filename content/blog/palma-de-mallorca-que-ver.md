@@ -40,6 +40,9 @@ Una catedral gótica que se levanta sobre las murallas, a pie del mar, con uno d
 
 Te cuento qué ver, el famoso «ocho de luz» de la catedral, el castillo de Bellver, los patios del casco antiguo, qué comer y cómo moverte 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral</span></div><div><b>🏰</b><span>Palacio de la Almudaina</span></div><div><b>🌳</b><span>Parc de la Mar</span></div><div><b>🛁</b><span>Baños árabes</span></div><div><b>🏛️</b><span>La Lonja</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Palma</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la bahía de Palma, en el suroeste de <strong>Mallorca</strong>, a 20 minutos del aeropuerto.</p></div>

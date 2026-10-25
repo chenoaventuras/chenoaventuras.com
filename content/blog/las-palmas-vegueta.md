@@ -37,6 +37,9 @@ Un barrio colonial de calles empedradas y balcones de madera, una catedral con m
 
 Te cuento qué ver en Vegueta y Triana, cómo subir a la torre de la catedral, la historia de los perros de la plaza de Santa Ana y por qué Las Canteras es tan especial 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral de Santa Ana</span></div><div><b>🏛️</b><span>Casa de Colón</span></div><div><b>🏘️</b><span>Calles de Vegueta</span></div><div><b>🏺</b><span>Museo Canario</span></div><div><b>🏖️</b><span>Las Canteras</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Las Palmas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el noreste de <strong>Gran Canaria</strong>, a unos 20 km del aeropuerto.</p></div>

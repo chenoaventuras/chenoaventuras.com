@@ -38,6 +38,9 @@ Una ciudad con **casco histórico medieval**, calles con soportales y un edifici
 
 Te cuento qué ver, sus fiestas y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Casco histórico</span></div><div><b>🏠</b><span>Calle Galiana</span></div><div><b>🎨</b><span>Centro Niemeyer</span></div><div><b>🍬</b><span>Dulces típicos</span></div><div><b>⛪</b><span>Iglesias</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Avilés: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Casco histórico</h3><p>Declarado conjunto histórico-artístico en 1955, con calles como Galiana, Rivero, La Ferrería y San Francisco, con soportales.</p></div>

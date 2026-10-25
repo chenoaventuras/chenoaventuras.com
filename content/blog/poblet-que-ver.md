@@ -31,6 +31,9 @@ Un **monasterio cisterciense** con murallas, torres y un claustro de película, 
 
 Te cuento qué ver, cuánto cuesta (orientativo) y cómo combinarlo con Montblanc 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Monasterio vivo</span></div><div><b>🚪</b><span>Puerta Real</span></div><div><b>🧱</b><span>Torres de entrada</span></div><div><b>🎟️</b><span>Entradas</span></div><div><b>🕰️</b><span>Horarios</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Poblet: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entradas y horarios</h3><p>Según la web oficial, la entrada general cuesta <strong>10,50 €</strong> (7,50 € reducida). Abre de lunes a sábado de 10:00 a 12:30 y de 15:00 a 18:00, y domingos y festivos de 10:30 a 12:30 y de 15:00 a 18:00; del 15 de junio al 14 de septiembre la tarde llega hasta las 18:30. Cierra el 1 y 6 de enero y el 25 y 26 de diciembre. <strong>Confirma</strong> el calendario especial de 2026.</p></div>

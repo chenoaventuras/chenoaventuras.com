@@ -37,6 +37,9 @@ Lagos de aguas transparentes en los que se reflejan picos de granito, prados don
 
 Te cuento cómo se entra (sin coche), las mejores rutas para todos los niveles, la leyenda de Els Encantats, cuándo ir y qué más ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>200 lagos</span></div><div><b>🚙</b><span>Taxi 4x4</span></div><div><b>⛰️</b><span>Els Encantats</span></div><div><b>🥾</b><span>Rutas</span></div><div><b>⛪</b><span>Románico de Boí</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del parque</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Pirineo de Lleida</strong>, entre el Pallars Sobirà (entrada por <strong>Espot</strong>) y la Alta Ribagorça (entrada por <strong>Boí</strong>).</p></div>

@@ -37,6 +37,9 @@ Un anfiteatro romano con gradas que miran directamente al Mediterráneo, un circ
 
 Te cuento qué ver, la entrada conjunta para los monumentos romanos, la tradición de «tocar ferro», el Pont del Diable y qué comer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏟️</b><span>Anfiteatro</span></div><div><b>🏛️</b><span>Circo y Pretorio</span></div><div><b>🌉</b><span>Pont del Diable</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🌊</b><span>Mar</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Tarragona</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa de Cataluña, a unos <strong>100 km al sur de Barcelona</strong> (1 hora en tren).</p></div>

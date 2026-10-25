@@ -48,6 +48,9 @@ Un castillo gigantesco que recorre la cresta de una sierra, una ciudad con casi 
 
 Te cuento qué ver y cómo organizar la subida al castillo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo</span></div><div><b>🏛️</b><span>Los Borja</span></div><div><b>📜</b><span>Primer papel de Europa</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>⛪</b><span>Capilla de Sant Jordi</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>El castillo de Xàtiva: precio y reserva</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entrada</h3><p>La entrada general cuesta unos <strong>6 €</strong> (reducida para jubilados y Carnet Jove). Hay aforo diario limitado: <strong>compra online</strong> en la web de turismo de Xàtiva, porque en taquilla solo sale una parte de las entradas.</p></div>

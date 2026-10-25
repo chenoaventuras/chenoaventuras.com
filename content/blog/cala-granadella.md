@@ -31,6 +31,9 @@ Una cala de **cantos rodados y agua turquesa** encajada entre acantilados blanco
 
 Te cuento cómo llegar (ojo con las restricciones de verano) y cómo aprovecharla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Agua turquesa</span></div><div><b>🤿</b><span>Snorkel</span></div><div><b>🛶</b><span>Kayak</span></div><div><b>🪨</b><span>Acantilados</span></div><div><b>🅿️</b><span>Aparcamiento</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cala Granadella: lo que tienes que saber</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Acceso regulado en verano</h3><p>Según el Ayuntamiento de Xàbia (verano de 2026), el acceso en coche está regulado con barrera y aparcamiento de pago: <strong>9 € por vehículo y día</strong>, de 9:00 a 19:00, todos los días del 1 de junio al 6 de septiembre y solo fines de semana hasta el 12 de octubre (sin reserva, unas 130 plazas). También hay tren turístico desde La Guardia. Las normas cambian cada año: <strong>confírmalas</strong>.</p></div>

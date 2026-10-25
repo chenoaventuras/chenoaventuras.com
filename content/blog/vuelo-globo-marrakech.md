@@ -48,6 +48,9 @@ comerFecha: "octubre de 2026"
 ---
 Empezar el día en **silencio total**, flotando sobre el desierto mientras sale el sol y la cordillera del **Atlas** se enciende al fondo. El **vuelo en globo sobre Marrakech** es una de esas experiencias que cuestan de describir con palabras... y que, comparado con Europa, sale bastante más barato.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎈</b><span>Vuelo en globo</span></div><div><b>🌅</b><span>Amanecer</span></div><div><b>🏔️</b><span>Atlas</span></div><div><b>🏜️</b><span>Desierto</span></div><div><b>🇲🇦</b><span>Marrakech</span></div></div>
+
 Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/DR9ZId0jKtW/), grabado en Marrakech.
 
 ## Lo básico

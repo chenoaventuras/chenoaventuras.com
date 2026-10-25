@@ -49,6 +49,9 @@ Puentes de piedra sobre el río Quiviesa, una torre medieval en mitad de la plaz
 
 A solo 3 km está el **Monasterio de Santo Toribio**, uno de los cinco lugares santos de la cristiandad porque guarda el **Lignum Crucis**, el trozo más grande que se conserva de la cruz de Cristo. Te cuento qué ver en los dos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puentes de Potes</span></div><div><b>⛪</b><span>Santo Toribio</span></div><div><b>✝️</b><span>Año Jubilar</span></div><div><b>🥃</b><span>Orujo</span></div><div><b>🏔️</b><span>Picos de Europa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Potes y Liébana</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el sur de Cantabria, en el valle de Liébana, a unos <strong>115 km de Santander</strong> (1 h 45 min).</p></div>

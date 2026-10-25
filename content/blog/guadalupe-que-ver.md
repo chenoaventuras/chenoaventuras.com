@@ -53,6 +53,9 @@ Un monasterio gigantesco que parece un castillo, plantado en mitad de un pueblo 
 
 Aquí está la Virgen de Guadalupe, patrona de Extremadura, y una de las mejores colecciones de Zurbarán. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Real Monasterio</span></div><div><b>🎨</b><span>Ocho Zurbarán</span></div><div><b>⛪</b><span>Basílica</span></div><div><b>🏘️</b><span>Plaza de Santa María</span></div><div><b>🌍</b><span>Patrimonio de la Humanidad</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Guadalupe</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el este de Cáceres, en las <strong>Villuercas</strong>: a unas 2 horas de Cáceres y casi 3 de Madrid. Las carreteras son de curvas.</p></div>

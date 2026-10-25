@@ -49,6 +49,9 @@ Es el primer sitio de la península donde sale el sol. El **Cabo de Creus**, en 
 
 Te cuento qué ver, cómo llegar desde Cadaqués y el truco para ver el amanecer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪨</b><span>Rocas imposibles</span></div><div><b>🌅</b><span>Primer amanecer</span></div><div><b>🗼</b><span>Faro</span></div><div><b>🏖️</b><span>Calas</span></div><div><b>🎨</b><span>Dalí</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Cap de Creus</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Parque Natural del Cap de Creus</strong>, a unos 8 km de Cadaqués.</p></div>

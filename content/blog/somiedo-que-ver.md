@@ -31,6 +31,9 @@ Una reserva de la biosfera en la Cordillera Cantábrica con **lagos glaciares, c
 
 Te cuento qué ver, qué rutas hacer y cómo comportarte en el parque 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Lagos de Saliencia</span></div><div><b>🐻</b><span>Osos</span></div><div><b>🏠</b><span>Teitos</span></div><div><b>🏞️</b><span>Valle del Lago</span></div><div><b>ℹ️</b><span>Centro de interpretación</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Somiedo: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏞️ Qué es</h3><p>Parque natural desde 1988 y Reserva de la Biosfera de la UNESCO desde 2000.</p></div>

@@ -37,6 +37,9 @@ Un palacio renacentista donde una princesa con parche en el ojo pasó sus últim
 
 Te cuento qué ver, la vida de la Princesa de Éboli, el tesoro de la Colegiata y todo lo práctico para organizar la escapada 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Palacio Ducal</span></div><div><b>👸</b><span>Princesa de Éboli</span></div><div><b>🏘️</b><span>Plaza de la Hora</span></div><div><b>⛪</b><span>Colegiata</span></div><div><b>🍯</b><span>Miel de la Alcarria</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Pastrana</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Alcarria</strong>, a unos 45 km de Guadalajara y alrededor de 1 h 15 de Madrid.</p></div>

@@ -30,6 +30,9 @@ guiaTitulo: 'Guía Burgos en PDF'
 ---
 Hay nidos de cigüeña por toda España, pero solo uno al que ya llaman la **«Torre de Pisa» de los nidos**. Está en **Burgos**, pesa cerca de **una tonelada** y lleva temporada tras temporada desafiando la gravedad.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪹</b><span>Nido de cigüeña</span></div><div><b>⚖️</b><span>Casi una tonelada</span></div><div><b>📏</b><span>Dos metros</span></div><div><b>📐</b><span>Inclinación</span></div><div><b>🏗️</b><span>Refuerzos</span></div></div>
+
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DXcVzdDDLIK/), grabado en la provincia de Burgos.
 
 ## Casi una tonelada y dos metros de alto

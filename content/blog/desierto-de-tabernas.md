@@ -44,6 +44,9 @@ Cárcavas peladas, ramblas secas, un sol que no perdona… y de repente, un pobl
 
 Te cuento qué tiene de especial, qué ver y cómo exprimir una escapada al «salvaje oeste» europeo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏜️</b><span>Único desierto de Europa</span></div><div><b>🤠</b><span>Salvaje oeste</span></div><div><b>🎬</b><span>Plató de cine</span></div><div><b>🪨</b><span>Cárcavas</span></div><div><b>🎭</b><span>Espectáculos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del desierto</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el interior de <strong>Almería</strong>, alrededor del pueblo de Tabernas, a unos <strong>30 km de la capital</strong>.</p></div>

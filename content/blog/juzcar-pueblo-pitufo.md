@@ -48,6 +48,9 @@ En la Serranía de Ronda todos los pueblos son blancos... menos uno. **Júzcar**
 
 Te cuento cómo pasó, por qué ya no puede llamarse «pueblo pitufo» y qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🔵</b><span>Pueblo azul</span></div><div><b>🍄</b><span>Pitufos</span></div><div><b>🏭</b><span>Fábrica de hojalata</span></div><div><b>🌰</b><span>Castaños</span></div><div><b>🏘️</b><span>Calles azules</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Júzcar</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Valle del Genal</strong>, a unos 25 km de Ronda (Málaga).</p></div>

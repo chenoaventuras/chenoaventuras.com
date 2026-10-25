@@ -40,6 +40,9 @@ Dos lagos de origen glaciar a **1.134 metros de altura**, vacas pastando sin val
 
 Te cuento cómo llegar (hay restricciones de tráfico en temporada alta), qué ver, la ruta circular y qué tener en cuenta antes de ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Lago Enol</span></div><div><b>💧</b><span>Lago Ercina</span></div><div><b>🚌</b><span>Acceso en bus</span></div><div><b>🚲</b><span>Para ciclistas</span></div><div><b>🥾</b><span>Rutas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lagos de Covadonga: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde están</h3><p>En el concejo de Cangas de Onís, en la parte asturiana del Parque Nacional de los Picos de Europa. Son dos lagos: el <strong>Enol</strong> y el <strong>Ercina</strong> (hay un tercero, el Bricial, que solo tiene agua en el deshielo).</p></div>

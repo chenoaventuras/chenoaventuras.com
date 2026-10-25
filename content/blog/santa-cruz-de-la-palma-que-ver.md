@@ -30,6 +30,9 @@ guiaTitulo: 'Guía La Palma en PDF'
 
 Te cuento qué ver, en qué orden y cómo organizarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏠</b><span>Balcones canarios</span></div><div><b>🏘️</b><span>Avenida Marítima</span></div><div><b>🏛️</b><span>Plaza de España</span></div><div><b>⛵</b><span>Barco de la Virgen</span></div><div><b>🚶</b><span>A pie</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Santa Cruz de La Palma: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚶 A pie</h3><p>El casco histórico se recorre caminando. La Avenida Marítima, la calle Real y la plaza de España están muy cerca unas de otras.</p></div>

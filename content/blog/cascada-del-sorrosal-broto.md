@@ -56,6 +56,9 @@ Y si quieres verla desde dentro, tiene una **vía ferrata** pegada al agua que y
 
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DbToa3ERawQ/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver la cascada en mi reel</a></p>
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>80 metros</span></div><div><b>🚶</b><span>5 minutos</span></div><div><b>🧗</b><span>Vía ferrata</span></div><div><b>🌿</b><span>Mejor época</span></div><div><b>🏘️</b><span>Broto</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cascada del Sorrosal: lo práctico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💸 Precio y acceso</h3><p><strong>Gratis</strong> y de acceso libre. Desde el centro de Broto se llega en unos <strong>5 minutos</strong> andando.</p>

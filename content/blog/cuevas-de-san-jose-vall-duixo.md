@@ -53,6 +53,9 @@ guiaTitulo: 'Guía Castellón en PDF'
 ---
 Bajo la **Vall d'Uixó**, en Castellón, corre un **río subterráneo** que se puede recorrer **en barca**. Es el **río subterráneo navegable más largo de Europa** y uno de esos planes que gustan a todo el mundo: a los niños, a los abuelos y a los que buscan algo diferente. Y como dentro siempre hay unos 20 °C, vale tanto en pleno agosto como en enero.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🛶</b><span>Río subterráneo</span></div><div><b>💧</b><span>Cuevas</span></div><div><b>🏛️</b><span>Historia</span></div><div><b>🎟️</b><span>Precio</span></div><div><b>⏱️</b><span>Duración</span></div></div>
+
 Puedes ver cómo es por dentro en [este reel de Instagram](https://www.instagram.com/reel/DMqc0iQIVwi/), grabado en las Cuevas de San José.
 
 ## Lo básico antes de ir

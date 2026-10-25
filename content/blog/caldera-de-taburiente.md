@@ -37,6 +37,9 @@ Un gigantesco anfiteatro de roca de unos 8 kilómetros de diámetro, con paredes
 
 Te cuento cómo es la ruta clásica (con el truco del taxi), la Cascada de Colores, los miradores, la reserva para La Cumbrecita y la subida al Roque de los Muchachos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥾</b><span>Ruta de Los Brecitos</span></div><div><b>🚙</b><span>Taxi</span></div><div><b>🌈</b><span>Cascada de Colores</span></div><div><b>🪨</b><span>Roque Idafe</span></div><div><b>🌄</b><span>La Cumbrecita</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Caldera</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el centro-norte de <strong>La Palma</strong>. El centro de visitantes está en <strong>El Paso</strong>; la ruta clásica termina cerca de <strong>Los Llanos de Aridane</strong>.</p></div>

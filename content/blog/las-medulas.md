@@ -46,6 +46,9 @@ Picos rojos que parecen de otro planeta, castaños centenarios y galerías excav
 
 Te cuento cómo llegar, qué ruta hacer y desde dónde se ve mejor 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪨</b><span>Montañas rojas</span></div><div><b>⛏️</b><span>Mina romana</span></div><div><b>🌄</b><span>Mirador de Orellán</span></div><div><b>🌰</b><span>Castaños</span></div><div><b>💧</b><span>Lago de Carucedo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Las Médulas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Bierzo (León)</strong>, a unos <strong>25 km de Ponferrada</strong>.</p></div>

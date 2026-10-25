@@ -52,6 +52,9 @@ comerFecha: "octubre de 2026"
 ---
 No es un decorado para turistas: es trabajo de verdad, cada mañana, desde hace décadas. En el puerto de **Essaouira**, en la costa atlántica de Marruecos, las barcas azules llegan, el pescado sube a las mesas y empieza la **subasta**. Y lo mejor: puedes comprar ahí mismo y que te lo hagan **a la brasa** a dos pasos.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🐟</b><span>Pescado fresco</span></div><div><b>⚓</b><span>Puerto</span></div><div><b>🔨</b><span>Subastas</span></div><div><b>🐟</b><span>Sardinas</span></div><div><b>🇲🇦</b><span>Marruecos</span></div></div>
+
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DUESvStDHi5/), grabado en el puerto de Essaouira.
 
 ## Lo básico

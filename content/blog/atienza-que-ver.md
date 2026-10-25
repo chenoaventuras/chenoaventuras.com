@@ -31,6 +31,9 @@ Un **castillo en ruinas** con vistas a toda la comarca, una plaza porticada, una
 
 Te cuento qué ver, la historia de La Caballada y cómo organizarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo</span></div><div><b>🏘️</b><span>Plaza del Trigo</span></div><div><b>⛪</b><span>Iglesias románicas</span></div><div><b>🐎</b><span>La Caballada</span></div><div><b>🧱</b><span>Calles medievales</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Atienza: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏰 Castillo libre</h3><p>Según las guías, el acceso al castillo es libre y la torre del homenaje es visitable. <strong>Confirma</strong> el estado y los horarios antes de ir.</p></div>

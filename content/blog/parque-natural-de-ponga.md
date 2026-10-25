@@ -31,6 +31,9 @@ Un parque de **más de 20.000 hectáreas** de bosque, caliza y valles verdes en 
 
 Te cuento qué ver, qué rutas hacer y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍂</b><span>Hayedo de Peloño</span></div><div><b>⛪</b><span>San Juan de Beleño</span></div><div><b>🌍</b><span>Reserva de la Biosfera</span></div><div><b>🏞️</b><span>Valle</span></div><div><b>ℹ️</b><span>Centro de interpretación</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Parque Natural de Ponga: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏞️ Qué es</h3><p>Parque natural de 20.533 ha, declarado por la Ley 4/2003 y también Reserva de la Biosfera.</p></div>

@@ -50,6 +50,9 @@ Hace miles de años, el **volcán de La Corona** escupió un río de lava que co
 
 Están a 1 km uno del otro, así que mejor verlos juntos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦀</b><span>Cangrejos ciegos</span></div><div><b>🏊</b><span>Piscina de Manrique</span></div><div><b>🕳️</b><span>Cueva de los Verdes</span></div><div><b>💧</b><span>Lago de los Jameos</span></div><div><b>🌋</b><span>Lanzarote volcánico</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de los Jameos y la Cueva de los Verdes</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de Lanzarote, en el municipio de <strong>Haría</strong>, a unos <strong>30 km de Arrecife</strong>.</p></div>

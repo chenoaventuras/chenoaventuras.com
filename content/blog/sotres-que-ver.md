@@ -34,6 +34,9 @@ Un pueblo de **casas de piedra**, calles empinadas y vacas por todas partes, a m
 
 Te cuento qué ver, cómo llegar y qué rutas salen de aquí 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏔️</b><span>Pueblo a 1.000 m</span></div><div><b>🧀</b><span>Quesos</span></div><div><b>🏠</b><span>Casas de piedra</span></div><div><b>🥾</b><span>Rutas</span></div><div><b>🌄</b><span>Valle</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Sotres: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛰️ Altitud</h3><p>1.050 m, según el texto de Wikipedia (otra cifra da 1.023 m): es uno de los pueblos más altos del Principado.</p></div>

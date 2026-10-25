@@ -30,6 +30,9 @@ Un **faro sobre un acantilado** al final de la isla, un molino de 1778 y un merc
 
 Te cuento cómo llegar, qué ver y cuándo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Faro</span></div><div><b>🌅</b><span>Amanecer</span></div><div><b>🏛️</b><span>Museo del faro</span></div><div><b>🌾</b><span>Molí Vell</span></div><div><b>🏞️</b><span>Acantilado</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Faro de la Mola: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Queda a unos 20 km del puerto de La Savina por la PM-820, unos 25-40 minutos en coche. Hay aparcamiento junto al faro. También hay autobús (línea 2), con frecuencia que cambia según la época: <strong>consulta horarios</strong>.</p></div>

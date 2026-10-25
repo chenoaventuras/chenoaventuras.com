@@ -37,6 +37,9 @@ En lo alto de un cerro, sobre los campos de viñedos de la Ribera del Duero, hay
 
 Si te gustan los castillos, el vino o el buen lechazo, Peñafiel es una escapada redonda. Te cuento qué ver, cuánto cuesta y cómo organizar el día 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo en forma de barco</span></div><div><b>🏘️</b><span>Plaza del Coso</span></div><div><b>🗼</b><span>Torre del homenaje</span></div><div><b>🍷</b><span>Ribera del Duero</span></div><div><b>🎉</b><span>Fiestas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Peñafiel</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el este de <strong>Valladolid</strong>, en plena <strong>Ribera del Duero</strong>, a 56 km de la capital y a unos 180 km de Madrid.</p></div>

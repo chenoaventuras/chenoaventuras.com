@@ -31,6 +31,9 @@ El **mayor robledal de España**: casi 6.000 hectáreas de bosque protegido, con
 
 Te cuento cómo conseguir el permiso, qué ver y cómo prepararte 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌳</b><span>Robledal</span></div><div><b>🎟️</b><span>Permiso</span></div><div><b>🐻</b><span>Fauna</span></div><div><b>🥾</b><span>Ruta</span></div><div><b>🌿</b><span>Reserva integral</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Reserva de Muniellos: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🌳 Qué es</h3><p>Reserva Natural Integral y Reserva de la Biosfera de la UNESCO desde el año 2000. Protege el mayor robledal de España.</p></div>

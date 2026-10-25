@@ -50,6 +50,9 @@ Un pueblo amurallado en lo alto de una colina, rodeado de viñedos… y con una 
 
 Te cuento qué ver, desde el pórtico que conserva sus colores medievales hasta las lagunas y los dólmenes de los alrededores 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍷</b><span>Bodegas bajo las casas</span></div><div><b>🧱</b><span>Muralla</span></div><div><b>⛪</b><span>Santa María de los Reyes</span></div><div><b>🏘️</b><span>Casco sin coches</span></div><div><b>🎨</b><span>Pórtico policromado</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Laguardia</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Rioja Alavesa</strong>, a solo <strong>15-20 minutos de Logroño</strong> y a unos 45 de Vitoria.</p></div>

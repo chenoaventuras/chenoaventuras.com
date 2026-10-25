@@ -46,6 +46,9 @@ Una iglesia gótica que parece una catedral, un castillo que hace de faro y un p
 
 Está pegado al País Vasco, a 30 km de Bilbao, y es perfecto para una escapada de un día. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Iglesia gótica</span></div><div><b>🏰</b><span>Castillo-faro</span></div><div><b>🌉</b><span>Puente medieval</span></div><div><b>🏖️</b><span>Playas</span></div><div><b>🍤</b><span>Qué comer</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Castro Urdiales</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el extremo oriental de Cantabria, a <strong>75 km de Santander</strong> y unos <strong>30 km de Bilbao</strong>.</p></div>

@@ -31,6 +31,9 @@ El **pueblo de las mil bodegas**, un casco histórico de piedra sobre un cerro y
 
 Te cuento qué ver, las bodegas y los miradores 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍷</b><span>Bodegas subterráneas</span></div><div><b>🏘️</b><span>Casco antiguo</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🏞️</b><span>Río Duero</span></div><div><b>🏛️</b><span>Casa del Parque</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Fermoselle: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🍷 Bodegas</h3><p>Más de 900 bodegas subterráneas excavadas bajo las casas. Varias empresas locales hacen visitas guiadas y catas (los precios y los días dependen de cada empresa; suelen requerir reserva). <strong>Confirma precios y fechas</strong>.</p></div>

@@ -45,6 +45,9 @@ Seguro que lo has visto cientos de veces sin saberlo: el arco que aparece en las
 
 Te cuento qué ver en uno de los pueblos más bonitos de Castilla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Arco romano</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🏘️</b><span>Calles</span></div><div><b>🏰</b><span>Pueblo en lo alto</span></div><div><b>🌄</b><span>Vistas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Medinaceli</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el sur de <strong>Soria</strong>, junto a la A-2, a algo más de hora y media de Madrid y a dos de Zaragoza.</p></div>

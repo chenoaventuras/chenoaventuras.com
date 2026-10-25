@@ -38,6 +38,9 @@ Islotes de roca que salen del mar como torres, láminas de piedra inclinadas que
 
 Desde **2023** es **Geoparque Mundial de la UNESCO** por su geología, que guarda millones de años de historia en sus rocas. Te cuento qué ver y cómo recorrerla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪨</b><span>Urros de Liencres</span></div><div><b>🏖️</b><span>Playa de la Arnía</span></div><div><b>🌍</b><span>Geoparque UNESCO</span></div><div><b>🌊</b><span>Mareas</span></div><div><b>📸</b><span>La foto</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Costa Quebrada</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Entre la bahía de Santander y Puerto Calderón, sobre todo en <strong>Liencres (Piélagos)</strong>, a unos 15 km de Santander.</p></div>

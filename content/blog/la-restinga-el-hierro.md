@@ -37,6 +37,9 @@ Casas blancas apiñadas junto a un puerto pequeño, un volcán pelado detrás, c
 
 Te cuento su historia (incluida la erupción submarina de 2011), por qué el mar es así, cómo bucear o hacer snorkel, qué ver alrededor y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🤿</b><span>Buceo</span></div><div><b>🌋</b><span>Volcán Tagoro</span></div><div><b>⚓</b><span>Puerto</span></div><div><b>🪨</b><span>Lavas cordadas</span></div><div><b>🌊</b><span>Mar de las Calmas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de La Restinga</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>punta sur de El Hierro</strong>, municipio de El Pinar, a unos <strong>50 minutos en coche</strong> de Valverde.</p></div>

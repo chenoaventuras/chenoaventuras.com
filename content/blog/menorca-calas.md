@@ -53,6 +53,9 @@ Agua turquesa, arena blanca y pinos que llegan hasta la orilla. Las **calas del 
 
 Te cuento mis calas favoritas, cómo llegar a ellas en verano y todo lo demás que ver en la isla, de Ciutadella a Mahón 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Macarella</span></div><div><b>🏖️</b><span>Cala en Turqueta</span></div><div><b>🌊</b><span>Cova d'en Xoroi</span></div><div><b>🗿</b><span>Talayots</span></div><div><b>🗼</b><span>Faros</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Menorca</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Moverte</h3><p>Con <strong>coche o moto</strong>. En verano, a las calas más famosas se llega en <strong>bus lanzadera</strong> o pagando aparcamiento con plazas limitadas.</p></div>

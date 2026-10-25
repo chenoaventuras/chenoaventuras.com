@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Soria en PDF'
 ---
 Una **ermita que se esconde en una cueva** sobre el río Duero, una plaza mayor donde se casó **Antonio Machado**, una concatedral con un claustro románico y paseos de álamos junto al agua. **Soria** es una de las capitales más tranquilas de España, perfecta para **un día** de otoño o de primavera. Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Soria: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>San Saturio</span></div><div><b>🏞️</b><span>Paseo del Duero</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>📜</b><span>Antonio Machado</span></div><div><b>🌳</b><span>Alameda</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Soria: lo básico</h2></div>
 <p>Soria es una de las capitales más frías del país: incluso en primavera y otoño, lleva una chaqueta, sobre todo para los paseos junto al río. El paseo hasta San Saturio es llano pero largo, y en otoño las hojas mojadas resbalan: unas zapatillas con buen agarre son suficientes. La ermita de San Saturio es de entrada gratuita, pero cierra los lunes y tiene horario partido: confirma horarios en la web de turismo. Soria queda a unas 2 horas y media de Madrid.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>Paseo por el Duero hasta San Saturio</h2></div>

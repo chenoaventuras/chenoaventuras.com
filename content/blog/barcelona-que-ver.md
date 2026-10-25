@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Barcelona en PDF'
 ---
 Una basílica de **Gaudí** que lleva en obras desde 1882, un casco gótico de calles medievales, un paseo marítimo con playa y una montaña con vistas. **Barcelona** se disfruta mejor en **tres días**: aquí tienes el plan **día por día**, con qué ver en cada parada, curiosidades, dónde comer y las **actividades que puedes reservar** para cada jornada.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo que hay que reservar (y cuándo)</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Sagrada Família</span></div><div><b>🦎</b><span>Park Güell</span></div><div><b>🏠</b><span>Casa Batlló</span></div><div><b>🏘️</b><span>Barrio Gótico</span></div><div><b>🏖️</b><span>Barceloneta</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo que hay que reservar (y cuándo)</h2></div>
 <p>Barcelona se llena todo el año. Reserva <strong>antes de viajar</strong> la Sagrada Família (las entradas se compran online, con franja horaria y, según la web oficial, con unos dos meses de antelación; la básica cuesta 26 € y la que incluye torres, 36 €), la <strong>zona monumental del Park Güell</strong> (entrada con hora; el resto del parque es de acceso libre) y la <strong>Casa Batlló</strong> y <strong>La Pedrera</strong> (visitas desde unos 29 € según sus webs oficiales; en taquilla suele salir más cara). Muévete en <strong>metro y a pie</strong>, evita el coche y vigila los carteristas en La Rambla y el metro. Los precios y franjas cambian: confírmalos en las webs oficiales.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Día 1</span><h2>Gaudí: la Sagrada Família y el Park Güell</h2></div>

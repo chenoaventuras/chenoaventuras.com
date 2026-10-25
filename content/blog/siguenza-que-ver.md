@@ -48,6 +48,9 @@ Una ciudad medieval de piedra rojiza, con una **catedral que parece una fortalez
 
 Te cuento qué ver y cómo combinar historia y naturaleza 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral</span></div><div><b>🗿</b><span>El Doncel</span></div><div><b>🏰</b><span>Castillo-parador</span></div><div><b>🚂</b><span>Tren Medieval</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Sigüenza</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de <strong>Guadalajara</strong>, a algo menos de dos horas de Madrid en coche o en tren.</p></div>

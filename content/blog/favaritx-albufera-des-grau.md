@@ -37,6 +37,9 @@ Un faro blanco y negro en espiral sobre un cabo de pizarra oscura que parece de 
 
 Te cuento qué ver, cómo llegar con las restricciones del verano y qué rutas hacer por la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌑</b><span>Paisaje lunar</span></div><div><b>🗼</b><span>Faro de Favàritx</span></div><div><b>🏖️</b><span>Cala Presili</span></div><div><b>🦆</b><span>Albufera des Grau</span></div><div><b>🏘️</b><span>Es Grau</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>costa noreste de Menorca</strong>, a unos 20 km de Maó.</p></div>

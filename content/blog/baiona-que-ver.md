@@ -31,6 +31,9 @@ Una **fortaleza sobre el mar** convertida en Parador, una réplica de la carabel
 
 Te cuento qué ver, el paseo de Monte Boi y cómo organizarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Fortaleza de Monterreal</span></div><div><b>⛵</b><span>Réplica de La Pinta</span></div><div><b>🌊</b><span>Monte Boi</span></div><div><b>⛪</b><span>Virgen de la Roca</span></div><div><b>🐟</b><span>Marisco</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Baiona: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚶 Todo a pie</h3><p>El casco histórico, el puerto y la fortaleza se recorren caminando. El paseo de Monte Boi es circular y fácil.</p></div>

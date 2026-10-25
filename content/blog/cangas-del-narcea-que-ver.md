@@ -34,6 +34,9 @@ La capital del **concejo más grande de Asturias** (más de 800 km²), con un **
 
 Te cuento qué ver, qué comer y qué fiestas no te puedes perder 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Monasterio de Corias</span></div><div><b>🌳</b><span>Reserva de Muniellos</span></div><div><b>🎉</b><span>Fiestas</span></div><div><b>🏞️</b><span>Dos ríos</span></div><div><b>🍲</b><span>Gastronomía</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cangas del Narcea: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📏 Tamaño</h3><p>Es el concejo de mayor superficie de Asturias: unos 823 km².</p></div>

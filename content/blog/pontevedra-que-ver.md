@@ -37,6 +37,9 @@ Imagina una ciudad donde los niños van solos al colegio, donde puedes cruzar el
 
 Te cuento qué ver, el porqué de su fama de ciudad sin coches, la historia del loro más famoso de Galicia y qué hacer alrededor 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚶</b><span>Ciudad sin coches</span></div><div><b>⛪</b><span>La Peregrina</span></div><div><b>🏘️</b><span>Plaza de la Leña</span></div><div><b>🏛️</b><span>Ferrería</span></div><div><b>⛪</b><span>Santa María la Mayor</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Pontevedra</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Al fondo de la <strong>ría de Pontevedra</strong>, en las Rías Baixas. A 30 km de Vigo y 60 de Santiago.</p></div>

@@ -40,6 +40,9 @@ La Mezquita es lo primero que ve todo el mundo en Córdoba, y con razón. Pero l
 
 En este post te cuento todo lo que ver en Córdoba además de la Mezquita (que tienes explicada en <a href="/blog/mezquita-de-cordoba.html">su propio post</a>): cómo vivir el Festival de los Patios, dónde ver patios el resto del año y una ruta por la judería 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌺</b><span>Patios de San Basilio</span></div><div><b>🏛️</b><span>Palacio de Viana</span></div><div><b>🏘️</b><span>Calleja de las Flores</span></div><div><b>🕍</b><span>Sinagoga</span></div><div><b>🎉</b><span>Festival de los Patios</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>La judería rodea la Mezquita, junto al Guadalquivir. A <strong>menos de 2 horas de Madrid en AVE</strong> y a 45 minutos de Sevilla.</p></div>

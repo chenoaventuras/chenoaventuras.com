@@ -36,6 +36,9 @@ Un **edificio monumental** de piedra, con una **torre de 117 metros** y un patio
 
 Te cuento qué ver, cómo visitarla y cuánto cuesta aproximadamente 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Antigua Universidad Laboral</span></div><div><b>🗼</b><span>Torre</span></div><div><b>🎟️</b><span>Visitas</span></div><div><b>⛪</b><span>Iglesia</span></div><div><b>🪨</b><span>Piedra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Laboral Ciudad de la Cultura: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏗️ Qué es</h3><p>La antigua Universidad Laboral de Gijón, hoy Laboral Ciudad de la Cultura.</p></div>

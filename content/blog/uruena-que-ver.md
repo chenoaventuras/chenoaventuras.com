@@ -39,6 +39,9 @@ Un pueblo de unos 200 habitantes, encerrado en una muralla medieval en lo alto d
 
 Además, desde su muralla tienes una de las vistas más amplias de Tierra de Campos. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>📚</b><span>Librerías</span></div><div><b>🧱</b><span>Muralla</span></div><div><b>🌄</b><span>Vistas</span></div><div><b>🏛️</b><span>Museos</span></div><div><b>🏘️</b><span>Villa del Libro</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Urueña</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la provincia de <strong>Valladolid</strong>, a unos 50 minutos de la capital y a unas dos horas de Madrid, junto a la A-6.</p></div>

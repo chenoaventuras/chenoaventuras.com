@@ -25,6 +25,9 @@ Aquí tienes todos los sitios agrupados por zonas, y la **guía completa en PDF*
 
 <!--guia-->
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Cuenca</span></div><div><b>🪨</b><span>Ciudad Encantada</span></div><div><b>😈</b><span>Ventano del Diablo</span></div><div><b>💧</b><span>Laguna de Uña</span></div><div><b>🌾</b><span>Vega del Codorno</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Ciudad y Serranía</span><h2>Cuenca y la Serranía</h2><p>La ciudad, la Serranía y las aventuras. Estos posts te ofrecen mi guía de Cuenca.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/catedral.webp" alt="Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Cuenca</h3><p>Mi guía de Cuenca: qué ver en la ciudad, la tirolina, la vía ferrata, los quads y el barranquismo, y la Serranía con la Ciudad Encantada, Uña y el río Cuervo.</p><p class="gcard__links"><a class="gbtn gbtn--reel" href="/blog/guia-cuenca.html">Leer más</a></p></div></li>

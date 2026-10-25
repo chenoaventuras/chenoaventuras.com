@@ -31,6 +31,9 @@ Una **torre modernista** de casa indiana, un cargadero de mineral junto a la rí
 
 Te cuento qué ver, en qué orden y cómo combinarlo con As Catedrais 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Torre de los Moreno</span></div><div><b>🗼</b><span>Faro de la Isla Pancha</span></div><div><b>🌊</b><span>Mareas</span></div><div><b>🚢</b><span>Cargadero</span></div><div><b>🏖️</b><span>Playa de las Catedrales</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Ribadeo: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🌊 Mira las mareas</h3><p>Si quieres ir a la <strong>Playa de las Catedrales</strong>, que queda a pocos kilómetros, necesitas marea baja y <strong>reserva de acceso en temporada alta</strong>. Consulta la web oficial antes.</p></div>

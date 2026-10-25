@@ -50,6 +50,9 @@ Imagina un río de agua cristalina que ha ido excavando el granito hasta dejarlo
 
 Se llega con una ruta corta y fácil, y en verano es una de las mejores piscinas naturales de España. Te cuento cómo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Pozas naturales</span></div><div><b>🍒</b><span>Valle de los cerezos</span></div><div><b>🪨</b><span>Granito pulido</span></div><div><b>🥾</b><span>Ruta corta</span></div><div><b>🌊</b><span>Garganta de los Infiernos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La ruta en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🥾 Distancia</h3><p>Unos <strong>6 km ida y vuelta</strong> desde el Centro de Interpretación, en torno a <strong>2 horas</strong> sin contar el rato en las pozas.</p></div>

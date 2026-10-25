@@ -38,6 +38,9 @@ Dentro de un monte con forma de cono hay manos pintadas en rojo hace más de **4
 
 Está en **Puente Viesgo**, a media hora de Santander, junto a otras cuevas del mismo monte. Te cuento cómo visitarlas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕳️</b><span>Cueva El Castillo</span></div><div><b>🎨</b><span>Pinturas antiguas</span></div><div><b>🕳️</b><span>Las Monedas</span></div><div><b>🎟️</b><span>Visitas</span></div><div><b>⏳</b><span>Prehistoria</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de las cuevas de Puente Viesgo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Monte Castillo</strong>, en Puente Viesgo, a unos <strong>30 km de Santander</strong>.</p></div>

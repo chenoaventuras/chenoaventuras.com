@@ -44,6 +44,9 @@ Tres epidemias en diez años que apenas tocaron a los pueblos de alrededor, una 
 
 Se llega andando, entre robles, y lo que queda impone 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏚️</b><span>Pueblo abandonado</span></div><div><b>⛪</b><span>Torre de la iglesia</span></div><div><b>🔺</b><span>Triángulo</span></div><div><b>⛪</b><span>Ermita de Burgondo</span></div><div><b>🌿</b><span>Ruinas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ochate</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Condado de Treviño</strong> (Burgos), un enclave rodeado por Álava, a unos <strong>25-30 minutos de Vitoria</strong>.</p></div>

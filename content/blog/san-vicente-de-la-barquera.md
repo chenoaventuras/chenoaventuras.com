@@ -55,6 +55,9 @@ Una villa marinera con su castillo, una iglesia gótica en lo alto y un puente d
 
 **San Vicente de la Barquera** es parada del Camino de Santiago del Norte, tiene playas enormes y una de las fiestas marineras más bonitas de España. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puente de la Maza</span></div><div><b>🏰</b><span>Castillo del Rey</span></div><div><b>🏖️</b><span>Playas</span></div><div><b>🎉</b><span>Fiesta</span></div><div><b>⚓</b><span>Puerto</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de San Vicente de la Barquera</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa occidental de Cantabria, a <strong>60 km de Santander</strong> y muy cerca de Asturias.</p></div>

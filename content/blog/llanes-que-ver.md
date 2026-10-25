@@ -40,6 +40,9 @@ Una villa marinera con muralla, un puerto con **cubos de hormigón pintados** po
 
 Te cuento qué ver, qué playas y bufones no perderte y cómo organizarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧊</b><span>Cubos de la Memoria</span></div><div><b>⚓</b><span>Puerto</span></div><div><b>🏘️</b><span>Casco antiguo</span></div><div><b>🏖️</b><span>Playas</span></div><div><b>🍎</b><span>Sidra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Llanes: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el oriente de Asturias, junto a la Autovía del Cantábrico. El concejo tiene unas cuarenta playas de arena.</p></div>

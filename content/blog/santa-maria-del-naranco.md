@@ -36,6 +36,9 @@ Un palacio del siglo IX convertido en iglesia, en la ladera de un monte con vist
 
 Te cuento su historia, cómo visitarlo y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Santa María del Naranco</span></div><div><b>⛪</b><span>San Miguel de Lillo</span></div><div><b>🌍</b><span>Patrimonio de la Humanidad</span></div><div><b>🏛️</b><span>Prerrománico</span></div><div><b>🌄</b><span>Monte Naranco</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Santa María del Naranco: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Origen</h3><p>Se construyó en la década del 840, por orden de Ramiro I. Lo más aceptado es que era un aula regia palaciega.</p></div>

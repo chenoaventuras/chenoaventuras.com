@@ -38,6 +38,9 @@ En 1674, un joven de este pueblo se tiró a nadar y desapareció. Cinco años de
 
 Es la leyenda del **Hombre Pez**, y el pueblo donde nació es uno de los más bonitos de Cantabria. Te cuento la historia y qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🐟</b><span>Hombre Pez</span></div><div><b>📜</b><span>Francisco de la Vega</span></div><div><b>⚓</b><span>Cádiz 1674</span></div><div><b>🏘️</b><span>Liérganes</span></div><div><b>🌉</b><span>Puente</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Liérganes</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el valle del río Miera, a <strong>25 km de Santander</strong>.</p></div>

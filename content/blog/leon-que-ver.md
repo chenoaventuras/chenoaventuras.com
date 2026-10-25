@@ -40,6 +40,9 @@ Una catedral que parece hecha más de cristal que de piedra, un panteón de reye
 
 Te cuento qué ver, cuánto cuestan los monumentos (y cuándo son gratis), cómo funciona el tapeo en el Barrio Húmedo y qué ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral</span></div><div><b>🌈</b><span>Vidrieras</span></div><div><b>⚰️</b><span>Panteón de los Reyes</span></div><div><b>🏛️</b><span>Casa Botines</span></div><div><b>🍢</b><span>Tapas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de León</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el noroeste de Castilla y León, a unos <strong>330 km de Madrid</strong> (2 horas en AVE). Es parada del Camino de Santiago.</p></div>

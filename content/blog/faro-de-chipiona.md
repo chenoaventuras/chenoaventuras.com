@@ -49,6 +49,9 @@ En la punta de Chipiona, donde el Guadalquivir se junta con el Atlántico, hay u
 
 Te cuento por qué está aquí, su curiosa conexión con los romanos y qué hacer en Chipiona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>62 metros</span></div><div><b>🏛️</b><span>Torre romana</span></div><div><b>🏖️</b><span>Playa de Regla</span></div><div><b>🪜</b><span>Subida</span></div><div><b>🌊</b><span>Costa de Cádiz</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del faro</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Punta del Perro</strong>, en Chipiona (Cádiz), a unos 30 minutos de Jerez y de Sanlúcar.</p></div>

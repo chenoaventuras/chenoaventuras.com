@@ -37,6 +37,9 @@ En el extremo oeste de Menorca hay una ciudad de piedra dorada con palacios nobl
 
 Además, es la mejor base para las calas del sur más famosas de Menorca y la ciudad de la fiesta más espectacular de Baleares. Te cuento qué ver, cuándo ir y cómo llegar a Macarella sin dramas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⚓</b><span>Puerto</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🏘️</b><span>Ses Voltes</span></div><div><b>🛒</b><span>Mercado</span></div><div><b>🏰</b><span>Castillo de San Nicolás</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ciutadella</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>extremo oeste de Menorca</strong>, a unos 45 km de Mahón (unos 45 minutos en coche).</p></div>

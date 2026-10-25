@@ -31,6 +31,9 @@ Un pueblo que parece colgar de una **roca imposible**, un castillo en lo alto, u
 
 Te cuento qué ver, qué calzado llevar y cómo organizarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪨</b><span>Roca Grossa</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🎨</b><span>MACVAC</span></div><div><b>🏘️</b><span>Calles empinadas</span></div><div><b>🖼️</b><span>Arte</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Vilafamés: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>👟 Cuestas</h3><p>El casco antiguo es un laberinto de calles estrechas y empinadas. Lleva calzado cómodo.</p></div>

@@ -40,6 +40,9 @@ Un lago de origen glaciar enorme, rodeado de montañas que en invierno se cubren
 
 Te cuento qué ver, dónde bañarte y qué rutas hacer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Lago de Sanabria</span></div><div><b>🏖️</b><span>Playas</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🛶</b><span>Actividades</span></div><div><b>📖</b><span>Leyenda de Valverde</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Sanabria</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el noroeste de <strong>Zamora</strong>, casi en el límite con Galicia y Portugal. El lago está a unos 15 km de Puebla de Sanabria.</p></div>

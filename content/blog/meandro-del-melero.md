@@ -40,6 +40,9 @@ El río Alagón da una vuelta tan cerrada que casi rodea por completo un monte c
 
 Está en **Las Hurdes**, en la frontera con Salamanca, y se ve desde un mirador al que se llega en coche. Te cuento cómo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏞️</b><span>Casi isla</span></div><div><b>🌄</b><span>Mirador de La Antigua</span></div><div><b>🌿</b><span>Las Hurdes</span></div><div><b>🥾</b><span>Paseo</span></div><div><b>📸</b><span>Panorámica</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Meandro</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Junto a <strong>Riomalo de Abajo</strong> (Caminomorisco), en el norte de Cáceres, en el límite con la provincia de Salamanca.</p></div>

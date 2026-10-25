@@ -36,6 +36,9 @@ Un pueblo colgado sobre el mar, con calles empinadas, casas que bajan hasta el p
 
 Te cuento qué ver, de qué es famoso y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⚓</b><span>Puerto</span></div><div><b>⛪</b><span>Capilla de San Roque</span></div><div><b>📺</b><span>Doctor Mateo</span></div><div><b>🌄</b><span>Miradores</span></div><div><b>🐟</b><span>Pescado</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lastres: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏆 Reconocimientos</h3><p>Pueblo Ejemplar de Asturias (2010) y miembro de Los Pueblos Más Bonitos de España desde 2014.</p></div>

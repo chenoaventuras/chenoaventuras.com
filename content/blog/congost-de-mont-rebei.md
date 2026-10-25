@@ -21,6 +21,9 @@ Paredes de **500 metros** de altura, un río de color turquesa y un camino **exc
 
 Te cuento la ruta, cómo reservar parking, cómo hacerlo en kayak y la situación de las **pasarelas de Montfalcó**, que están cerradas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥾</b><span>Camino tallado</span></div><div><b>🌉</b><span>Puente colgante</span></div><div><b>🛶</b><span>Kayak</span></div><div><b>🏞️</b><span>Desfiladero</span></div><div><b>🅿️</b><span>Parking</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Mont-rebei</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Montsec</strong>, entre Lleida y Huesca: el río Noguera Ribagorzana hace de frontera entre Cataluña y Aragón.</p></div>

@@ -44,6 +44,9 @@ Hay ciudades bonitas y luego está **Granada**: un palacio nazarí colgado sobre
 
 En este post te cuento todo lo que necesitas: cómo conseguir entradas para la Alhambra (que es lo que más quebraderos de cabeza da), qué ver en el Albaicín y el Sacromonte, los mejores miradores, dónde aparcar sin llevarte una multa y qué hacer si te sobra un día 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕌</b><span>Alhambra</span></div><div><b>🏘️</b><span>Albaicín</span></div><div><b>🌄</b><span>Mirador de San Nicolás</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🍢</b><span>Tapas gratis</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Granada</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Al pie de <strong>Sierra Nevada</strong>, en Andalucía oriental. A unos <strong>420 km de Madrid</strong> y a hora y media de la costa.</p></div>

@@ -48,6 +48,9 @@ A un lado, el **Atlántico**. Al otro, el **Mediterráneo**. Y enfrente, a solo 
 
 Te cuento cómo llegar al cartel de los dos mares y qué más hacer en Tarifa 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧭</b><span>Punto más al sur</span></div><div><b>🌍</b><span>África enfrente</span></div><div><b>🌬️</b><span>Capital del viento</span></div><div><b>🏖️</b><span>Playa de los Lances</span></div><div><b>🌊</b><span>Dos mares</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Punta de Tarifa</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Isla de las Palomas</strong>, unida a Tarifa (Cádiz) por un camino junto al puerto.</p></div>

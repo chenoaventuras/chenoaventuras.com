@@ -40,6 +40,9 @@ Montañas de caliza cubiertas de pinos, ríos de agua transparente que se despe�
 
 Te cuento qué ver en el pueblo de Cazorla, las rutas imprescindibles, los pueblos de la sierra y consejos para organizar un fin de semana 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Nacimiento del Guadalquivir</span></div><div><b>🏰</b><span>Castillo de la Yedra</span></div><div><b>⛪</b><span>Ruinas de Santa María</span></div><div><b>💦</b><span>Cerrada del Utrero</span></div><div><b>🏘️</b><span>La Iruela</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Sierra de Cazorla</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el este de <strong>Jaén</strong>, a unos 100 km de la capital. Cazorla es la puerta de entrada al parque.</p></div>

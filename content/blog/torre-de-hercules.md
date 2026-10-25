@@ -52,6 +52,9 @@ Lleva casi **2.000 años** avisando a los barcos. La **Torre de Hércules**, en 
 
 Te cuento por qué se llama así, qué queda de la torre romana y cómo subir hasta arriba 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Faro romano</span></div><div><b>🌍</b><span>Patrimonio de la Humanidad</span></div><div><b>🗿</b><span>Menhires</span></div><div><b>🌊</b><span>Paseo marítimo</span></div><div><b>⚔️</b><span>Leyenda de Hércules</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Torre de Hércules</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la península de A Coruña, a unos <strong>2 km del centro</strong>, rodeada por un gran parque junto al mar.</p></div>

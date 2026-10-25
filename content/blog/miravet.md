@@ -40,6 +40,9 @@ Un pueblo de casas de piedra colgado de un risco, un **castillo templario** coro
 
 Te cuento qué ver y cómo vivir este rincón de las Terres de l'Ebre 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo templario</span></div><div><b>⛵</b><span>Barca de paso</span></div><div><b>🏺</b><span>Calle de alfareros</span></div><div><b>🏞️</b><span>Río Ebro</span></div><div><b>🏘️</b><span>Pueblo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Miravet</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la comarca de la <strong>Ribera d'Ebre</strong> (Tarragona), a una hora de Tarragona y a dos de Barcelona.</p></div>

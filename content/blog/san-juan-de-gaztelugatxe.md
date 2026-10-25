@@ -45,6 +45,9 @@ Un islote unido a la costa por un puente de piedra, un camino en zigzag de **241
 
 La visita es gratis, pero hay días en los que **tienes que reservar**. Te cuento cuándo, cómo llegar y lo que tienes que saber 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪜</b><span>241 escalones</span></div><div><b>🔔</b><span>Campana de los deseos</span></div><div><b>🐉</b><span>Rocadragón</span></div><div><b>🌉</b><span>Puente</span></div><div><b>🎟️</b><span>Reserva</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Gaztelugatxe: reserva y horario</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entrada</h3><p><strong>Gratis</strong>, pero en temporada alta hay que <strong>reservar</strong> en la web oficial de la Diputación de Bizkaia: Semana Santa, puentes, fines de semana de primavera y otoño y <strong>todos los días en verano</strong>. El resto del año se entra sin reserva.</p></div>

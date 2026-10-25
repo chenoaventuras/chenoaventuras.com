@@ -37,6 +37,9 @@ Hay ciudades a las que vas a ver monumentos, y luego está **Logroño**, a la qu
 
 Te cuento qué ver, cómo ir de pinchos como un local, sus fiestas del vino y las mejores escapadas por La Rioja 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍷</b><span>Calle Laurel</span></div><div><b>⛪</b><span>Concatedral de la Redonda</span></div><div><b>⛪</b><span>San Bartolomé</span></div><div><b>🌉</b><span>Puente de Piedra</span></div><div><b>🍢</b><span>Pinchos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Logroño</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A orillas del <strong>Ebro</strong>, en La Rioja. A unos 90 km de Pamplona, 140 de Bilbao y 330 de Madrid.</p></div>

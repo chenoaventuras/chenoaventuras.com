@@ -31,6 +31,9 @@ Una de las **plazas renacentistas más bellas de España**, dos torres enfrentad
 
 Te cuento qué ver, en qué orden y cómo combinar con la naturaleza de la sierra 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🗼</b><span>Torre del Tardón</span></div><div><b>🏛️</b><span>Lonjas</span></div><div><b>🏚️</b><span>Castillo en ruinas</span></div><div><b>🌙</b><span>Plaza de noche</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Alcaraz: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Alcaraz queda en el sur de la provincia de Albacete, en las faldas de la sierra. Lo más cómodo es el coche. Hay una Vía Verde desde Albacete hasta Alcaraz (unos 74 km).</p></div>

@@ -51,6 +51,9 @@ Casas blancas encaramadas a una pared de roca, un castillo coronándolo todo y u
 
 Y lo mejor está dentro de la roca: **cuevas que atraviesan la montaña de lado a lado**, con miradores al otro extremo. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo almohade</span></div><div><b>🕳️</b><span>Casas-cueva</span></div><div><b>🌉</b><span>Puente</span></div><div><b>🏞️</b><span>Río Júcar</span></div><div><b>📸</b><span>Miradores</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Alcalá del Júcar</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el noreste de <strong>Albacete</strong>, a unos <strong>50 minutos de la capital</strong> y a hora y media de Valencia.</p></div>

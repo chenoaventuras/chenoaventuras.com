@@ -43,6 +43,9 @@ Pasarelas metálicas colgadas de la roca, un río de aguas turquesas por debajo 
 
 Te cuento cómo hacerla y qué ver en **Alquézar** antes o después 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Pasarelas</span></div><div><b>🏞️</b><span>Río Vero</span></div><div><b>🥾</b><span>Ruta circular</span></div><div><b>⛪</b><span>Colegiata</span></div><div><b>🧗</b><span>Barranquismo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Alquézar</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Alquézar</strong>, en el Somontano (Huesca), a unos <strong>25 minutos de Barbastro</strong> y 45 de Huesca.</p></div>

@@ -51,6 +51,9 @@ Ni se levanta ni tiene carretera: el **Puente de Vizcaya** cruza la ría con una
 
 Además, puedes cruzarlo por arriba, a 45 metros de altura. Te cuento precios y cómo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puente colgante</span></div><div><b>🚠</b><span>Barquilla</span></div><div><b>🚶</b><span>Pasarela superior</span></div><div><b>🌍</b><span>Patrimonio de la Humanidad</span></div><div><b>🏘️</b><span>Portugalete y Getxo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Puente de Vizcaya</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Une <strong>Portugalete</strong> y <strong>Getxo</strong> (Las Arenas), en la ría de Bilbao.</p></div>

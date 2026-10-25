@@ -31,6 +31,9 @@ Una **ciudad-fortaleza medieval** de la frontera entre musulmanes y cristianos, 
 
 Te cuento qué ver, horarios (orientativos) y consejos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Alcazaba</span></div><div><b>🗼</b><span>Torre del Homenaje</span></div><div><b>⛪</b><span>Iglesia abacial</span></div><div><b>🎧</b><span>Audioguía</span></div><div><b>🍷</b><span>Bodega medieval</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La Mota: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entrada y audioguía</h3><p>Según la web oficial de turismo, la entrada general cuesta <strong>8 €</strong> y la reducida <strong>4 €</strong> (de 7 a 16 años y mayores de 65); los menores de 6 años entran gratis. Incluye mapa y audioguía. <strong>Confirma precios y horarios</strong>.</p></div>

@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Alicante en PDF'
 ---
 Una **fortaleza sobre un monte** con vistas a todo el mar, un paseo con suelo ondulado de mosaico entre palmeras, un barrio antiguo encalado y una playa junto al centro. **Alicante** es una ciudad luminosa y fácil, perfecta para **un día** (o una escapada de fin de semana). Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Alicante: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo de Santa Bárbara</span></div><div><b>🌴</b><span>Explanada</span></div><div><b>🏘️</b><span>Barrio de Santa Cruz</span></div><div><b>🏖️</b><span>Playas</span></div><div><b>🍚</b><span>Arroces</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Alicante: lo básico</h2></div>
 <p>El calor es fuerte entre junio y septiembre: deja el castillo para el atardecer y los museos para las horas centrales. La Explanada, el barrio de Santa Cruz, el Postiguet y el castillo quedan a pocos minutos unos de otros. Hay AVE desde Madrid en poco más de dos horas y Cercanías desde Murcia y Valencia; el aeropuerto está a pocos kilómetros del centro. La estación queda a unos 10-15 minutos andando de la Explanada.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>La Explanada, el centro y la Concatedral</h2></div>

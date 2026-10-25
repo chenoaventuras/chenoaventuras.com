@@ -31,6 +31,9 @@ Una catedral donde **viven un gallo y una gallina**, un milagro del Camino de Sa
 
 Te cuento qué ver, la historia del gallo y la gallina y cómo organizarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral</span></div><div><b>🐔</b><span>Gallo y gallina</span></div><div><b>🗼</b><span>Torre</span></div><div><b>🏨</b><span>Parador</span></div><div><b>🥾</b><span>Camino de Santiago</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Santo Domingo de la Calzada: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🕙 Horarios</h3><p>Según la web oficial, la catedral abre de 9:00 a 20:00 (sábados hasta las 19:00); la entrada cuesta <strong>7 €</strong> (menores de 12 años gratis) y la torre exenta <strong>4 €</strong>. Hay una pulsera de 10 € con acceso a cuatro monumentos. Los horarios cambian por actos religiosos: <strong>confírmalos</strong>.</p></div>

@@ -31,6 +31,9 @@ Un **casco histórico declarado** de piedra, un puente románico sobre el río A
 
 Te cuento qué ver, en qué orden y cómo combinarlo con Ourense 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Casco histórico</span></div><div><b>🌉</b><span>Puente medieval</span></div><div><b>⛪</b><span>Convento de Santa Clara</span></div><div><b>🌳</b><span>Parque etnográfico</span></div><div><b>🛍️</b><span>Outlets</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Allariz: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Queda a unos <strong>20 minutos en coche</strong> de Ourense capital. Puedes aparcar en el Campo da Barreira, justo al lado del centro.</p></div>

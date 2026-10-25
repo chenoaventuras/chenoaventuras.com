@@ -48,6 +48,9 @@ A las afueras de **Córdoba** hay una ciudad entera que fue la más lujosa de Eu
 
 Te cuento su historia y cómo organizar la visita (ojo, que no se llega en coche hasta la puerta) 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Ciudad palatina</span></div><div><b>👑</b><span>Califato</span></div><div><b>🏛️</b><span>Salón Rico</span></div><div><b>🧱</b><span>Arcos</span></div><div><b>📜</b><span>Leyenda de Azahara</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Medina Azahara</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A unos <strong>8 km de Córdoba</strong>, en las faldas de Sierra Morena.</p></div>

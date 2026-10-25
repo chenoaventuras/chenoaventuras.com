@@ -37,6 +37,9 @@ Una catedral baja y ancha, como arrodillada, presidiendo una plaza de soportales
 
 Te cuento qué ver, su historia, el dulce que no puedes dejar de probar y cuándo ir para vivir su feria más antigua 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral arrodillada</span></div><div><b>🖋️</b><span>Cunqueiro</span></div><div><b>⛲</b><span>Fonte Vella</span></div><div><b>🏘️</b><span>Barrio dos Muíños</span></div><div><b>🌉</b><span>Pasatempo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Mondoñedo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de <strong>Lugo</strong>, a unos 60 km de la capital y a media hora de la costa.</p></div>

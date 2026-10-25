@@ -51,6 +51,9 @@ Un bosque húmedo y lleno de musgo que parece sacado de un cuento, barrancos eno
 
 Está a menos de una hora en ferry desde Tenerife, así que se puede ver incluso en una excursión de un día. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌲</b><span>Garajonay</span></div><div><b>🪨</b><span>Los Órganos</span></div><div><b>🏞️</b><span>Valle Gran Rey</span></div><div><b>🗣️</b><span>Silbo gomero</span></div><div><b>⚓</b><span>Última parada de Colón</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de La Gomera</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛴️ Cómo llegar</h3><p>En <strong>ferry desde Los Cristianos</strong> (Tenerife) hasta San Sebastián de La Gomera, en menos de una hora.</p></div>

@@ -32,7 +32,10 @@ guiaTitulo: 'Guía Asturias en PDF'
 Cuatro días dan para ver **lo mejor de Asturias** sin ir con la lengua fuera: una ciudad con joyas de hace más de mil años, el santuario donde empezó el reino, dos lagos a 1.000 metros, pueblos marineros y buena sidra. Este es el itinerario que yo haría **en coche**, día por día, con **qué ver, dónde comer, curiosidades y actividades** para reservar.
 
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de salir</span><h2>Cómo organizar los 4 días</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Oviedo</span></div><div><b>⛰️</b><span>Covadonga y lagos</span></div><div><b>🏖️</b><span>Costa de Llanes</span></div><div><b>🐟</b><span>Lastres</span></div><div><b>🍎</b><span>Sidra</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de salir</span><h2>Cómo organizar los 4 días</h2></div>
 <p>Asturias es pequeña, pero tiene <strong>curvas y mucha lluvia</strong>, así que cuenta con más tiempo del que marque el mapa. Los tiempos que doy son <strong>aproximados</strong>: confírmalos en Google Maps el día de salir. Lo ideal es dormir <strong>dos noches en Oviedo o Gijón</strong> (días 1 y 4) y <strong>dos en Cangas de Onís o Ribadesella</strong> (días 2 y 3), para no hacer maletas a diario. Lleva chubasquero fino y calzado cómodo en cualquier época. Y una regla de oro: <strong>mira el tiempo cada mañana</strong> y, si la montaña está en niebla, cambia el día de los lagos por la costa.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Día 1</span><h2>Oviedo: la capital del primer reino y el prerrománico</h2></div>

@@ -50,6 +50,9 @@ Así es la **Estación Internacional de Canfranc** en mi vídeo 👇
 
 <p class="guide__reel"><a class="btn guide__btn" href="https://www.instagram.com/reel/DMAXmrWIKC9/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> Ver mi reel de Canfranc</a></p>
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚂</b><span>Estación internacional</span></div><div><b>🕵️</b><span>Contrabando y refugiados</span></div><div><b>🏛️</b><span>Edificio</span></div><div><b>🎟️</b><span>Visitas</span></div><div><b>🏔️</b><span>Pirineo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cómo visitar la estación</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Precio</h3><p>Los <strong>exteriores son gratis</strong>. Para algunas zonas interiores hace falta entrada, a la venta en la web del Ayuntamiento.</p>

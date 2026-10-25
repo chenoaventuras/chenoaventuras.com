@@ -30,6 +30,9 @@ Un **faro en el fin del mundo**: durante siglos, el **meridiano cero** pasó por
 
 Te cuento cómo llegar, qué ver y qué combinar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Faro</span></div><div><b>🧭</b><span>Antiguo meridiano cero</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>🌫️</b><span>Niebla</span></div><div><b>🌋</b><span>Paisaje volcánico</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Faro de Orchilla: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Hay dos accesos: por la <strong>HI-400</strong> desde Valverde o El Pinar, o por la <strong>HI-500</strong> pasando por El Golfo y la playa del Verodal. La carretera es tranquila pero sinuosa. Confirma el estado del firme antes de ir.</p></div>

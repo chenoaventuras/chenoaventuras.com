@@ -52,6 +52,9 @@ A solo 20 minutos de Granada, el río Monachil se cuela por un cañón de roca c
 
 Es gratis, no hay que reservar y es apta para casi todo el mundo. Te cuento cómo es la ruta, dónde aparcar y lo que tienes que saber antes de ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puentes colgantes</span></div><div><b>🥾</b><span>Ruta circular</span></div><div><b>🧗</b><span>Escalada</span></div><div><b>🏞️</b><span>Desfiladero</span></div><div><b>💧</b><span>Acequia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La ruta en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Precio</h3><p><strong>Gratis</strong>. Es un sendero público: no hay entrada, ni reserva, ni permiso.</p></div>

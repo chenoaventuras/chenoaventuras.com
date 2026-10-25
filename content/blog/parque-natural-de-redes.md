@@ -34,6 +34,9 @@ Un parque de **377 km²** con hayedos, robledales, cumbres de más de 800 metros
 
 Te cuento qué ver, qué rutas hacer y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥾</b><span>Ruta del Alba</span></div><div><b>💧</b><span>Embalse de Tanes</span></div><div><b>🏞️</b><span>Río Nalón</span></div><div><b>🌍</b><span>Reserva de la Biosfera</span></div><div><b>🏔️</b><span>Montañas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Parque Natural de Redes: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏞️ Qué es</h3><p>Parque natural desde el 27 de diciembre de 1996 y Reserva de la Biosfera de la UNESCO desde septiembre de 2001.</p></div>

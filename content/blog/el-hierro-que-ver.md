@@ -49,6 +49,9 @@ Sin grandes hoteles, sin colas y con paisajes que parecen de otro planeta. **El 
 
 Es **Reserva de la Biosfera** y uno de los mejores sitios de Europa para bucear. Te cuento qué no te puedes perder 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌲</b><span>El Sabinar</span></div><div><b>🪨</b><span>Roque de la Bonanza</span></div><div><b>💧</b><span>Charco Azul</span></div><div><b>🌄</b><span>Mirador de la Peña</span></div><div><b>🌬️</b><span>Energía del viento</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de El Hierro</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛴️ Cómo llegar</h3><p>En <strong>ferry desde Los Cristianos</strong> (Tenerife) o en avión desde Tenerife Norte o Gran Canaria.</p></div>

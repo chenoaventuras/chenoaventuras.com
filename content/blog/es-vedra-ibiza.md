@@ -37,6 +37,9 @@ Una roca enorme que sale del mar como una catedral, envuelta en leyendas de sire
 
 Te cuento sus leyendas (las reales y las inventadas), los mejores miradores, cómo llegar, la ruta a la Torre des Savinar, Cala d'Hort y la famosa (y peligrosa) Atlantis 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏝️</b><span>Islote de 382 m</span></div><div><b>🧲</b><span>Leyendas</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>🗼</b><span>Torre des Savinar</span></div><div><b>🏖️</b><span>Cala d'Hort</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Es Vedrà</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Frente a la costa suroeste de <strong>Ibiza</strong>, en el municipio de Sant Josep, junto a <strong>Cala d'Hort</strong>.</p></div>

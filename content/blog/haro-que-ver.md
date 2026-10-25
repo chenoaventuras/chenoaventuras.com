@@ -48,6 +48,9 @@ Si hay un pueblo que huele a vino, es **Haro**. Junto a la vieja estación de tr
 
 Te cuento qué ver, cómo visitar sus bodegas y alguna curiosidad que no conoce casi nadie 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍷</b><span>Bodegas</span></div><div><b>🚂</b><span>Barrio de la Estación</span></div><div><b>🎉</b><span>Batalla del Vino</span></div><div><b>⛪</b><span>Santo Tomás</span></div><div><b>🥂</b><span>Catas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Haro</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el noroeste de <strong>La Rioja</strong>, a unos <strong>40 minutos de Logroño</strong> y a una hora de Bilbao o Vitoria.</p></div>

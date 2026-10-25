@@ -36,6 +36,9 @@ Un pueblo escondido entre montañas **al que no llega ninguna carretera**. Hasta
 
 Te cuento cómo llegar, qué ver y qué tener en cuenta 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚠</b><span>Funicular</span></div><div><b>🥾</b><span>Senda del Tejo</span></div><div><b>🏘️</b><span>Pueblo sin carretera</span></div><div><b>⛰️</b><span>Picu Urriellu</span></div><div><b>🧀</b><span>Queso</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Bulnes: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚡 Funicular</h3><p>Une Poncebos con Bulnes por un túnel recto de 2.227 metros. Confirma horarios y precios en la web oficial.</p></div>

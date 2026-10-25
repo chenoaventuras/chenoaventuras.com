@@ -51,6 +51,9 @@ En una cripta de Salamanca, dice la leyenda, el mismísimo **diablo** daba clase
 
 La **Cueva de Salamanca** existe, se puede visitar, y es el punto de partida perfecto para una ruta por la Salamanca más misteriosa 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>😈</b><span>Diablo</span></div><div><b>🕳️</b><span>Cueva</span></div><div><b>🏰</b><span>Torre de Villena</span></div><div><b>🐸</b><span>Rana de la Universidad</span></div><div><b>📖</b><span>Leyenda</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Salamanca</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el casco histórico de <strong>Salamanca</strong>, en la plaza del Padre Jerónimo Muñoz, cerca de la Cueva y la Torre de Villena.</p></div>

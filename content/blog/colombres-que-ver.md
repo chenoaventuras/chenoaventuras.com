@@ -34,6 +34,9 @@ El pueblo de las **casas de indianos**, los asturianos que volvieron ricos de Am
 
 Te cuento qué ver y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Quinta Guadalupe</span></div><div><b>🌴</b><span>Palmeras indianas</span></div><div><b>📚</b><span>Archivo de Indianos</span></div><div><b>🏘️</b><span>Pueblo Ejemplar</span></div><div><b>🧳</b><span>Historia de emigrantes</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Colombres: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏠 Quinta Guadalupe</h3><p>Casa de indianos construida por Íñigo Noriega Laso (1906), hoy sede de la Fundación Archivo de Indianos – Museo de la Emigración.</p></div>

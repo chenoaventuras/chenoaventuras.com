@@ -52,6 +52,9 @@ Tiene más de **2.000 años**, viene de las orillas del **Nilo** y está en plen
 
 Te cuento su historia y cómo visitarlo (también por dentro) 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛩️</b><span>Templo egipcio</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>💧</b><span>Estanque</span></div><div><b>🌙</b><span>De noche</span></div><div><b>🏙️</b><span>Vistas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Templo de Debod</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Parque del Oeste</strong>, junto a Plaza de España, en la calle Ferraz.</p></div>

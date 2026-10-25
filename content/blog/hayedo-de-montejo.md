@@ -44,6 +44,9 @@ A una hora y poco de Madrid hay un bosque de hayas que es **Patrimonio de la Hum
 
 Eso sí: no se entra por libre. Te cuento cómo reservar y qué hacer por la zona 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍂</b><span>Hayedo</span></div><div><b>🌍</b><span>Patrimonio de la Humanidad</span></div><div><b>🌳</b><span>Árboles centenarios</span></div><div><b>🏞️</b><span>Río Jarama</span></div><div><b>🏘️</b><span>Montejo de la Sierra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de el Hayedo de Montejo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Montejo de la Sierra</strong>, en la Sierra del Rincón, a unos <strong>100 km de Madrid</strong> por la A-1.</p></div>

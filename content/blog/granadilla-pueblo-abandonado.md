@@ -48,6 +48,9 @@ Un pueblo con **muralla**, **castillo** y casas de colores... y sin vecinos. **G
 
 Te cuento su historia, cómo lo están recuperando y cómo visitarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏚️</b><span>Pueblo abandonado</span></div><div><b>🧱</b><span>Muralla</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🌊</b><span>Embalse</span></div><div><b>🏫</b><span>Pueblo-escuela</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Granadilla</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la comarca de <strong>Tierras de Granadilla</strong>, junto al embalse de Gabriel y Galán, a unos 35 minutos de Plasencia.</p></div>

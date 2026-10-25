@@ -31,6 +31,9 @@ Un pueblo del **occidente de Asturias**, junto a un **gran embalse** y con un **
 
 Te cuento qué ver, cómo llegar y cuándo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌊</b><span>Embalse de Salime</span></div><div><b>🏛️</b><span>Museo Etnográfico</span></div><div><b>🧱</b><span>Presa de 1954</span></div><div><b>🥾</b><span>Camino Primitivo</span></div><div><b>🏞️</b><span>Mirador</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Grandas de Salime: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Museo Etnográfico</h3><p>Creado en 1986 en la antigua casa rectoral, reúne más de 8.000 piezas.</p></div>

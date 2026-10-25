@@ -40,6 +40,9 @@ Elefantes paseando entre rocas que parecen esculpidas, osos pardos en un recinto
 
 Está a solo 17 km de Santander y es, con diferencia, el plan más famoso de Cantabria. Te cuento precios, horarios, si puedes llevar comida y cómo organizar el día para verlo bien 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🐘</b><span>Elefantes</span></div><div><b>🦁</b><span>Animales</span></div><div><b>🚠</b><span>Teleférico</span></div><div><b>🚗</b><span>Visita en coche</span></div><div><b>🎟️</b><span>Entradas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Parque de Cabárceno</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el municipio de <strong>Penagos</strong>, a unos <strong>17 km de Santander</strong> y 25-30 minutos de Santillana del Mar.</p></div>

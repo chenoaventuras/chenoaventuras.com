@@ -37,6 +37,9 @@ Una cueva llena de estalactitas, columnas y coladas de colores que cinco niños 
 
 Te cuento cómo es la visita a la cueva, qué ver en Arenas y cómo organizar el día 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦅</b><span>Cuevas del Águila</span></div><div><b>💎</b><span>Formaciones</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🏛️</b><span>Palacio de la Mosquera</span></div><div><b>🌉</b><span>Puente medieval</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>sur de Ávila</strong>, en el valle del Tiétar, a unos 150 km de Madrid.</p></div>

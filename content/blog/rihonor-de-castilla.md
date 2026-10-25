@@ -36,6 +36,9 @@ Imagina que vas a casa de tu vecino y **cambias de país**. En **Rihonor de Cast
 
 Te cuento cómo es, cómo se llaman las dos mitades y qué ver allí 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🇵🇹</b><span>Mitad en Portugal</span></div><div><b>🏘️</b><span>Un solo pueblo</span></div><div><b>🧱</b><span>Frontera</span></div><div><b>🏞️</b><span>Río</span></div><div><b>🤝</b><span>Pueblo comunitario</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Rihonor</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Al norte de la <strong>Sierra de la Culebra</strong> (Zamora), a 22 km de Bragança (Portugal).</p></div>

@@ -30,6 +30,9 @@ La villa donde **Colón** hizo escala antes de partir hacia América, con una to
 
 Te cuento qué ver y la historia de Colón en la isla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Torre del Conde</span></div><div><b>⛪</b><span>Iglesia de la Asunción</span></div><div><b>⚓</b><span>Colón</span></div><div><b>🏘️</b><span>Villa</span></div><div><b>🚶</b><span>A pie</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>San Sebastián de La Gomera: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚶 A pie</h3><p>El casco histórico es pequeño y se recorre caminando. La calle Real une la plaza de la Constitución con la iglesia.</p></div>

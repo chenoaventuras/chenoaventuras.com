@@ -35,6 +35,9 @@ La noche del **13 al 14 de abril de 1946**, un viejo carguero cargado de **naran
 
 Hoy es el **pecio más visitado de Cabo de Palos** y uno de los más famosos del Mediterráneo español. Te cuento su historia completa (tuvo **tres nombres** antes de hundirse), cómo es por dentro y qué necesitas para bucearlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚢</b><span>Pecio hundido</span></div><div><b>🍊</b><span>Barco de naranjas</span></div><div><b>🤿</b><span>Buceo</span></div><div><b>📏</b><span>Profundidad</span></div><div><b>⚠️</b><span>No apto para principiantes</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Naranjito</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A <strong>menos de una milla</strong> del puerto de Cabo de Palos (Cartagena, Murcia). Se llega en barco desde los centros de buceo del puerto.</p></div>

@@ -37,6 +37,9 @@ Una colegiata románica con un cimborrio que parece una corona, un pórtico gót
 
 Te cuento qué ver, su papel en la historia de Castilla, la curiosa mosca de un cuadro y cómo combinar la visita con una bodega 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Colegiata</span></div><div><b>🎨</b><span>Pórtico de la Majestad</span></div><div><b>🏰</b><span>Alcázar</span></div><div><b>🕰️</b><span>Torre del Reloj</span></div><div><b>🍷</b><span>Vinos de Toro</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Toro</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Sobre un cerro junto al <strong>Duero</strong>, a 33 km de Zamora y 60 de Valladolid.</p></div>

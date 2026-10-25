@@ -42,6 +42,9 @@ guiaTitulo: 'Guía Castellón en PDF'
 ---
 En **Montanejos**, en el interior de Castellón, hay un río de aguas **cristalinas** que salen de la tierra a unos **25 °C** todo el año. Es la **Fuente de los Baños**, y bañarte aquí en pleno otoño, rodeado de paredes de roca, es uno de esos planes que no esperas encontrar tan cerca.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>♨️</b><span>Aguas a 25 °C</span></div><div><b>🏊</b><span>Baño</span></div><div><b>🏞️</b><span>Río Mijares</span></div><div><b>🌳</b><span>Entorno natural</span></div><div><b>🎟️</b><span>Precio</span></div></div>
+
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DMXRT6iIYC6/), grabado en Montanejos.
 
 ## Lo básico antes de ir

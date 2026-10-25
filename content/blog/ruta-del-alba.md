@@ -31,6 +31,9 @@ Una senda de **unos 7 kilómetros** junto al **río Alba**, con **cascadas, poza
 
 Te cuento el recorrido, qué ver y qué tener en cuenta antes de ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥾</b><span>7 km</span></div><div><b>💧</b><span>Río Alba</span></div><div><b>💦</b><span>Cascada</span></div><div><b>🌳</b><span>Foces de Llaímo</span></div><div><b>🏘️</b><span>Soto de Agües</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Ruta del Alba: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🥾 Qué es</h3><p>El sendero de pequeño recorrido PR-AS 62, en el concejo de Sobrescobio, dentro del Parque Natural de Redes.</p></div>

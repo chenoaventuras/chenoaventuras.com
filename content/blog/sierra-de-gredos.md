@@ -32,6 +32,9 @@ Una laguna de origen glaciar encajada a casi 2.000 metros, rodeada de paredes de
 
 Te cuento cómo es la ruta, cuánto se tarda y lo que tienes que saber antes de ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💧</b><span>Laguna Grande</span></div><div><b>🐐</b><span>Cabras montesas</span></div><div><b>🥾</b><span>Senda</span></div><div><b>🏠</b><span>Refugio Elola</span></div><div><b>🏔️</b><span>Circo glaciar</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La ruta en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🥾 Distancia</h3><p>Unos <strong>13 km ida y vuelta</strong> desde la Plataforma, con unas <strong>4 horas</strong> de caminata sin contar paradas.</p></div>

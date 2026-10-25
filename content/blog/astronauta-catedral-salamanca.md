@@ -57,6 +57,9 @@ En una catedral del siglo XVI hay un **astronauta** tallado en piedra, con su es
 
 Te cuento dónde está cada uno y su historia 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧑‍🚀</b><span>Astronauta</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🐸</b><span>Rana de la Universidad</span></div><div><b>🔎</b><span>Cómo encontrarlos</span></div><div><b>📸</b><span>Fotos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del astronauta y la rana</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>El astronauta, en la <strong>Puerta de Ramos</strong> de la Catedral Nueva. La rana, en la <strong>fachada de la Universidad</strong>, a 3 minutos andando.</p></div>

@@ -44,6 +44,9 @@ En el sur de Tarragona, en **Ulldecona**, hay un olivo que se calcula que se pla
 
 Te cuento cómo verlo y por qué esta zona es un museo de olivos milenarios al aire libre 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🫒</b><span>Olivo milenario</span></div><div><b>🪵</b><span>Árbol gigante</span></div><div><b>🌳</b><span>Territorio Sénia</span></div><div><b>🪧</b><span>Placas</span></div><div><b>🌅</b><span>Paseo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Farga</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la finca de <strong>l'Arion</strong>, en Ulldecona (Tarragona), muy cerca del límite con Castellón.</p></div>

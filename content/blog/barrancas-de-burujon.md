@@ -31,6 +31,9 @@ Paredes de arcilla rojiza, cárcavas y un embalse a los pies que recuerdan al **
 
 Te cuento cómo llegar, dónde aparcar y qué esperar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🔴</b><span>Cárcavas rojizas</span></div><div><b>🌊</b><span>Embalse del Tajo</span></div><div><b>🥾</b><span>Senda</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🚗</b><span>Cerca de Toledo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Las Barrancas de Burujón: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde están</h3><p>Junto al pueblo de <strong>Burujón</strong>, a unos 30 km de Toledo capital y a una hora y media de Madrid. Se llega por la <strong>CM-4000</strong>, y a la altura del km 26 sale una pista de tierra hacia los miradores.</p></div>

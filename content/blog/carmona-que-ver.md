@@ -40,6 +40,9 @@ Un mar de tejados blancos con torres de iglesias asomando, murallas romanas que 
 
 Te cuento qué ver, su larguísima historia, la visita a la necrópolis romana y dónde ver el mejor atardecer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⚰️</b><span>Necrópolis romana</span></div><div><b>🏰</b><span>Alcázar</span></div><div><b>🐘</b><span>Tumba del Elefante</span></div><div><b>🏘️</b><span>Plaza de San Fernando</span></div><div><b>🌅</b><span>Vistas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Carmona</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A unos <strong>35 km de Sevilla</strong>, sobre una colina que domina la vega.</p></div>

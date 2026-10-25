@@ -46,6 +46,9 @@ Al norte de la Castellana hay cuatro gigantes que se ven desde casi todo Madrid.
 
 Te cuento sus curiosidades y dónde hacer las mejores fotos de las Cuatro Torres 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏢</b><span>Rascacielos más alto</span></div><div><b>🪟</b><span>Reflejos</span></div><div><b>🌙</b><span>De noche</span></div><div><b>📏</b><span>Récord</span></div><div><b>🏙️</b><span>Cuatro Torres</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Torre de Cristal</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Cuatro Torres Business Area</strong>, al final del Paseo de la Castellana, junto a la estación de Chamartín.</p></div>

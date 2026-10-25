@@ -33,6 +33,9 @@ La noche de Difuntos, en Soria, las campanas doblan solas y los muertos salen de
 
 Y el monte existe: está al otro lado del Duero, y cada año la ciudad celebra **Halloween a lo soriano** con su Festival de las Ánimas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>👻</b><span>Leyenda de Bécquer</span></div><div><b>🏔️</b><span>Monte</span></div><div><b>⛪</b><span>San Juan de Duero</span></div><div><b>🏞️</b><span>Río Duero</span></div><div><b>🌳</b><span>Paseo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Soria</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Soria</strong>, en la orilla izquierda del Duero, frente a la ciudad, junto a San Juan de Duero y San Polo.</p></div>

@@ -51,6 +51,9 @@ Entras y, de repente, estás en un **bosque de columnas** con arcos rojos y blan
 
 Te cuento cuánto cuesta, cómo entrar gratis y las curiosidades que no te puedes perder 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕌</b><span>Mezquita-Catedral</span></div><div><b>🌲</b><span>Bosque de columnas</span></div><div><b>🕌</b><span>Mihrab</span></div><div><b>🎟️</b><span>Entradas</span></div><div><b>🆓</b><span>Visita gratis</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Mezquita de Córdoba: entradas y horario</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entradas</h3><p>Se compran en la web oficial o en el centro de recepción del <strong>Patio de San Eulogio</strong>.</p>

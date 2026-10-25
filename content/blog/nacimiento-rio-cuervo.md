@@ -46,6 +46,9 @@ Agua que brota de la roca entre musgo verde intenso y cae en pequeñas cascadas 
 
 Está en **Vega del Codorno**, en lo más alto de la Serranía, y se visita con un paseo cortito y fácil. Te cuento cuándo ir, la ruta y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>Cascadas de toba</span></div><div><b>🥾</b><span>Ruta de 1,5 km</span></div><div><b>🌳</b><span>Entorno</span></div><div><b>🎟️</b><span>Precio</span></div><div><b>📅</b><span>Cuándo ir</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Nacimiento del río Cuervo: lo práctico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💸 Precio y horario</h3><p><strong>Gratis y de acceso libre</strong>: se puede visitar a cualquier hora, todo el año. Parking gratuito.</p>

@@ -29,7 +29,10 @@ guiaTitulo: 'Guía Lleida en PDF'
 ---
 Una **catedral gótica sobre un cerro**, un castillo donde nació la Corona de Aragón, el río Segre y un casco antiguo con paeria. **Lleida** es una ciudad subestimada, con una de las mejores vistas de Cataluña desde la **Seu Vella**, y se ve bien en **un día**. Te lo cuento **por franjas del día**, con qué ver, horarios (orientativos), dónde comer y **actividades para reservar**.
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lleida: lo básico</h2></div>
+<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Seu Vella</span></div><div><b>🏰</b><span>La Suda</span></div><div><b>🏛️</b><span>Paeria</span></div><div><b>🏘️</b><span>Casco antiguo</span></div><div><b>🌄</b><span>Vistas</span></div></div>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lleida: lo básico</h2></div>
 <p>Según La Paeria, la entrada general al conjunto de la <strong>Seu Vella</strong> cuesta 7 € (5 € reducida; menores de 7 años gratis) y el primer martes de cada mes es gratuita: confirma precios en turoseuvella.cat. De octubre a abril abre de martes a viernes de 10:00 a 13:30 y de 15:00 a 17:30, sábados de 10:00 a 17:30 y domingos y festivos de 10:00 a 15:00; en verano, de martes a sábado de 10:00 a 14:00 y de 16:30 a 19:30. Los lunes está cerrado. Hay AVE desde Barcelona (en torno a una hora) y desde Zaragoza y Madrid; desde la estación de Lleida-Pirineus, el centro y el cerro quedan a unos 15-20 minutos andando.</p>
 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Mañana</span><h2>La Seu Vella, La Suda y las murallas</h2></div>

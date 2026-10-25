@@ -38,6 +38,9 @@ Un río que, en vez de llegar tranquilo al mar, se lanza al vacío por una pared
 
 A media hora tienes el cabo de **Fisterra**, el que los romanos creían el fin del mundo. Te cuento cómo combinar los dos 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>Cascada al mar</span></div><div><b>🌉</b><span>Pasarela</span></div><div><b>🌄</b><span>Mirador</span></div><div><b>🏞️</b><span>Río Xallas</span></div><div><b>🌍</b><span>Fin del mundo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ézaro</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Precio</h3><p>Ver la cascada desde la pasarela es <strong>gratis</strong>.</p></div>

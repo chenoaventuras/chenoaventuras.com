@@ -31,6 +31,9 @@ Una playa larga de **arena dorada**, dunas protegidas, aguas tranquilas y amanec
 
 Te cuento cómo es, cuándo ir y qué ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌅</b><span>Amaneceres</span></div><div><b>🏖️</b><span>Dunas</span></div><div><b>🚶</b><span>Paseo marítimo</span></div><div><b>🏖️</b><span>Arena</span></div><div><b>🚗</b><span>Cómo llegar</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Playa de Daimús: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏖️ Cómo es</h3><p>Según las guías, es un arenal de unos 1.000 metros, con dunas y aguas tranquilas. Forma parte de la zona de las <strong>Dunas de la Safor</strong>: hay que respetar la vegetación y no pisar las dunas.</p></div>

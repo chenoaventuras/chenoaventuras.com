@@ -32,6 +32,9 @@ Una pista de **4.200 metros**, una de las más largas de Europa. Una inversión 
 
 Te cuento su historia y en qué se ha convertido 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>✈️</b><span>Aeropuerto sin vuelos</span></div><div><b>💶</b><span>1.100 millones</span></div><div><b>📏</b><span>Pista larguísima</span></div><div><b>🏗️</b><span>Obra gigante</span></div><div><b>📉</b><span>Poco uso</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del aeropuerto</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Entre <strong>Ciudad Real y Puertollano</strong>, junto a la A-41.</p></div>

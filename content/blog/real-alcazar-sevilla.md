@@ -37,6 +37,9 @@ Mil años de historia en un solo recinto: una fortaleza árabe, un palacio mudé
 
 Te cuento qué ver dentro, en qué orden, cuánto cuesta, cómo entrar gratis los lunes y trucos para no pasarte la visita entre colas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Puerta del León</span></div><div><b>🏛️</b><span>Patio de las Doncellas</span></div><div><b>👑</b><span>Salón de Embajadores</span></div><div><b>🌿</b><span>Jardines</span></div><div><b>🛁</b><span>Baños de María de Padilla</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Real Alcázar</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En pleno centro de <strong>Sevilla</strong>, junto a la catedral y el barrio de Santa Cruz. Se entra por la <strong>Puerta del León</strong>.</p></div>

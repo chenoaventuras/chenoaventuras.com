@@ -56,6 +56,9 @@ comerFecha: "octubre de 2026"
 ---
 En **Puerto de la Cruz**, al norte de Tenerife, el arte y el Atlántico se juntan en un complejo de **piscinas de agua de mar** diseñado por **César Manrique**. Se llama **Lago Martiánez**, y si buscas un plan de playa sin arena negra, con las olas rompiendo al lado y un diseño que no verás en ningún otro sitio, es aquí.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏊</b><span>Piscinas de agua salada</span></div><div><b>🎨</b><span>César Manrique</span></div><div><b>🌊</b><span>Frente al mar</span></div><div><b>🌴</b><span>Jardines</span></div><div><b>🎟️</b><span>Entrada</span></div></div>
+
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DGbXoV2Iaq6/), grabado en Puerto de la Cruz.
 
 ## Lo básico antes de ir

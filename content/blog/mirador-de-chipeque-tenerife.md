@@ -53,6 +53,9 @@ comerFecha: "octubre de 2026"
 ---
 A **más de 1.800 metros** de altura, en plena cumbre de Tenerife, hay un mirador que mucha gente pasa de largo camino del Teide. Es el **Mirador de Chipeque**, y desde él tienes el **Teide** de frente, el **mar de nubes** a tus pies y, en días claros, hasta la silueta de **La Palma** en el horizonte.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌋</b><span>Vistas al Teide</span></div><div><b>☁️</b><span>Mar de nubes</span></div><div><b>⭐</b><span>Cielos estrellados</span></div><div><b>⛰️</b><span>1.800 metros</span></div><div><b>🌲</b><span>Secreto</span></div></div>
+
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DHCAhKOoGQG/), grabado en Tenerife.
 
 ## Lo básico

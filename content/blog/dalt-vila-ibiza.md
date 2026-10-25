@@ -37,6 +37,9 @@ Ibiza tiene fama de fiesta, pero su capital esconde una de las ciudades amuralla
 
 Te cuento cómo recorrerla paso a paso, qué no perderte, su historia fenicia y los barrios de alrededor 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧱</b><span>Murallas</span></div><div><b>🚪</b><span>Portal de ses Taules</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🏛️</b><span>Patrimonio de la Humanidad</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Dalt Vila</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En lo alto de un cerro sobre el puerto de <strong>Eivissa</strong>, la capital de Ibiza. A 10 minutos del aeropuerto.</p></div>

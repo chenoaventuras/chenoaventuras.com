@@ -30,6 +30,9 @@ Un pueblo de piedra entre montañas, una **cartuja** donde pasaron un invierno C
 
 Te cuento qué ver, en qué orden y cómo evitar las colas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Cartuja de Chopin</span></div><div><b>🥐</b><span>Coca de patata</span></div><div><b>🏘️</b><span>Calles</span></div><div><b>🌄</b><span>Pueblo desde arriba</span></div><div><b>🧼</b><span>Lavadero</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Valldemossa: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⏰ Llega pronto</h3><p>Es uno de los pueblos más visitados de la isla. Si llegas a primera hora o al final de la tarde, lo disfrutas con menos gente.</p></div>

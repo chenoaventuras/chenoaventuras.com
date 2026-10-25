@@ -37,6 +37,9 @@ En la cara sur de Sierra Nevada, colgados de laderas imposibles, hay unos pueblo
 
 Te cuento qué pueblos ver, en qué orden, la ruta a pie más bonita (la del Barranco de Poqueira), qué comer y cómo acercarte al Mulhacén 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Pueblos blancos</span></div><div><b>🥓</b><span>Jamón de Trevélez</span></div><div><b>🥾</b><span>Barranco de Poqueira</span></div><div><b>🏔️</b><span>Mulhacén</span></div><div><b>🧶</b><span>Artesanía</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Alpujarra</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la ladera sur de <strong>Sierra Nevada</strong>, entre Granada y Almería. Lanjarón está a <strong>45 minutos de Granada</strong>.</p></div>

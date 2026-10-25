@@ -31,6 +31,9 @@ Un **cañón de 400 metros de profundidad** donde el Duero hace de frontera con 
 
 Te cuento cuáles son los mejores, cómo ordenarlos y qué más ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>📸</b><span>Mirador del Fraile</span></div><div><b>🌄</b><span>Picón de Felipe</span></div><div><b>🏞️</b><span>Presa de Aldeadávila</span></div><div><b>🏘️</b><span>Fermoselle</span></div><div><b>🍷</b><span>Vinos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Arribes del Duero: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Necesitas coche</h3><p>Los miradores están repartidos por carreteras secundarias. Lo más cómodo es hacer la ruta en coche y parar en cada uno.</p></div>

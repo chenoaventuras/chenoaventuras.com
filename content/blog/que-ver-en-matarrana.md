@@ -35,6 +35,9 @@ La llaman la **«Toscana española»**: colinas de olivos y almendros, pueblos m
 
 Te cuento los pueblos imprescindibles, las mejores pozas, cómo reservar el **Parrizal de Beceite** y cómo organizar 2, 3 o 4 días 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Valderrobres</span></div><div><b>🏘️</b><span>Calaceite</span></div><div><b>🏘️</b><span>Beceite</span></div><div><b>💧</b><span>Parrizal</span></div><div><b>🌿</b><span>Pasarelas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Matarraña</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el noreste de <strong>Teruel</strong>, junto a Tarragona y Castellón. A 2 horas de Zaragoza y unas 2 h 15 min de Valencia o Barcelona.</p></div>

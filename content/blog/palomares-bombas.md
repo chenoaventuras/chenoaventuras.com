@@ -46,6 +46,9 @@ El **17 de enero de 1966**, un bombardero B-52 y un avión cisterna de Estados U
 
 Te cuento qué pasó, la búsqueda de la bomba perdida y el baño más famoso de la historia de España 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>✈️</b><span>Dos aviones</span></div><div><b>💣</b><span>Cuatro bombas</span></div><div><b>📅</b><span>1966</span></div><div><b>📍</b><span>Palomares</span></div><div><b>📜</b><span>Historia</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Palomares</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el municipio de <strong>Cuevas del Almanzora</strong> (Almería), cerca de Vera y Mojácar.</p></div>

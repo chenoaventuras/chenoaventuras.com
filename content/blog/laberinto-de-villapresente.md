@@ -46,6 +46,9 @@ Más de **5 kilómetros** de pasillos entre muros de ciprés de **2,5 metros** d
 
 Te cuento cómo es, cuánto se tarda en salir y por qué es un plan perfecto para combinar con Santillana del Mar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌿</b><span>Laberinto de setos</span></div><div><b>📏</b><span>5 km de pasillos</span></div><div><b>🗼</b><span>Mirador</span></div><div><b>🧭</b><span>Truco de la mano</span></div><div><b>🎟️</b><span>Precio</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del laberinto</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Villapresente</strong> (Reocín), a unos 10 minutos de Santillana del Mar y de Torrelavega.</p></div>

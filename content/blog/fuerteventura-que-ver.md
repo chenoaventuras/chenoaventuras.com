@@ -48,6 +48,9 @@ Playas de kilómetros sin edificios, lagunas turquesa que aparecen con la marea,
 
 Es **Reserva de la Biosfera** y se recorre de norte a sur en unas dos horas de coche. Te dejo mis 11 imprescindibles 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏜️</b><span>Dunas de Corralejo</span></div><div><b>🏖️</b><span>Playas infinitas</span></div><div><b>🌋</b><span>Calderón Hondo</span></div><div><b>🏘️</b><span>Betancuria</span></div><div><b>🌬️</b><span>Viento</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Fuerteventura</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Moverte</h3><p>Con <strong>coche de alquiler</strong>. A sitios como Cofete se llega por pistas de tierra: mira las condiciones del seguro antes de entrar.</p></div>

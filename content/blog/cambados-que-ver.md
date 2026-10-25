@@ -37,6 +37,9 @@ Una plaza de granito enorme cerrada por un pazo señorial, viñedos que llegan c
 
 Te cuento qué ver, su historia, cuándo es la Fiesta del Albariño y dónde comer el mejor marisco 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🍷</b><span>Albariño</span></div><div><b>🏛️</b><span>Pazo de Fefiñáns</span></div><div><b>⛪</b><span>Ruinas de Santa Mariña</span></div><div><b>🏘️</b><span>Plaza</span></div><div><b>🦪</b><span>Marisco</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cambados</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la comarca de <strong>O Salnés</strong>, a orillas de la ría de Arousa, a unos 30 km de Pontevedra.</p></div>

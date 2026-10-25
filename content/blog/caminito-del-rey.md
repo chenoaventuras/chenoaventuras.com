@@ -57,6 +57,9 @@ Durante años tuvo fama de ser **el camino más peligroso del mundo**. Hoy el **
 
 Aquí te cuento cuánto cuestan las entradas, cómo es el recorrido, qué tienes que saber antes de ir y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎟️</b><span>Entradas</span></div><div><b>🥾</b><span>8 km de recorrido</span></div><div><b>🌉</b><span>Pasarelas</span></div><div><b>🏞️</b><span>Desfiladero</span></div><div><b>🦅</b><span>Vistas al vacío</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Caminito del Rey: precio y horario</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entradas</h3><p>Se compran en la <strong>web oficial</strong> o en la taquilla del acceso norte si quedan plazas. En temporada alta se agotan: <strong>reserva con antelación</strong>.</p>

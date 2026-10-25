@@ -50,6 +50,9 @@ Imagina un pueblo de la sierra con su castillo en lo alto… y, justo debajo de 
 
 Te cuento cómo es la visita, el horario y qué más hacer en Aracena 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦇</b><span>Gruta</span></div><div><b>💧</b><span>Lagos subterráneos</span></div><div><b>🪨</b><span>Estalactitas</span></div><div><b>✨</b><span>Excéntricas</span></div><div><b>🎟️</b><span>Entradas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Gruta de las Maravillas: horario y visita</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🕒 Horario</h3><p>Visitas de <strong>10:00 a 14:00</strong> y de <strong>15:30 a 18:00</strong>. Abre todo el año salvo el <strong>24, 25 y 31 de diciembre y el 1 y 6 de enero</strong>.</p></div>

@@ -31,6 +31,9 @@ Una hilera de **molinos blancos** sobre una sierra, el barrio del Albaicín con 
 
 Te cuento qué ver, qué molinos se visitan y cuándo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌬️</b><span>Molinos de Don Quijote</span></div><div><b>🏔️</b><span>Sierra de los Molinos</span></div><div><b>🏘️</b><span>Pueblo</span></div><div><b>📖</b><span>Quijote</span></div><div><b>🌅</b><span>Vistas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Campo de Criptana: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🌬️ Los molinos</h3><p>El pueblo conserva <strong>diez molinos</strong>, y tres (<strong>Burleta, Infanto y Sardinero</strong>) se remontan al siglo XVI. Según las guías, algunos se pueden visitar por dentro, pero las fuentes no coinciden en cuáles: <strong>pregunta en la oficina de turismo</strong> (en el molino Poyatos).</p></div>

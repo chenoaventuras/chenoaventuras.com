@@ -34,6 +34,9 @@ Un puerto pesquero pequeño, con casas en escalera, una **casa cubierta de conch
 
 Te cuento qué ver y cómo llegar 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⚓</b><span>Puerto pesquero</span></div><div><b>🚣</b><span>Barcas</span></div><div><b>🐚</b><span>Casa de las Conchas</span></div><div><b>👑</b><span>Carlos V</span></div><div><b>⛪</b><span>San Roque</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Tazones: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🐟 Puerto</h3><p>Es uno de los 18 puertos pesqueros de Asturias, con pequeñas barcas de bajura y lonja.</p></div>

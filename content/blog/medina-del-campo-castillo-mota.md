@@ -37,6 +37,9 @@ Un castillo de ladrillo rojizo con un foso enorme y una torre del homenaje de un
 
 Te cuento qué ver, la historia del castillo y sus presos, la de las ferias y cómo organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo de la Mota</span></div><div><b>🗼</b><span>Torre del homenaje</span></div><div><b>🧱</b><span>Murallas de ladrillo</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🏛️</b><span>Palacio Dueñas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Medina del Campo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A unos <strong>50 km de Valladolid</strong> y 155 de Madrid.</p></div>

@@ -53,6 +53,9 @@ Calles empedradas, casas de piedra, una plaza medieval con soportales y las mont
 
 Está en la comarca del **Sobrarbe**, donde se juntan los ríos Cinca y Ara, y es la base perfecta para moverte entre Ordesa, Añisclo y Pineta. Te cuento qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🦅</b><span>Quebrantahuesos</span></div><div><b>⛪</b><span>Santa María</span></div><div><b>🎭</b><span>La Morisma</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Aínsa en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏰 El casco antiguo</h3><p>Todo el casco medieval está declarado <strong>Conjunto Histórico-Artístico</strong> y es peatonal: aparca abajo y sube andando.</p>

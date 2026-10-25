@@ -49,6 +49,9 @@ Románico, gótico, mudéjar y bizantino, todo mezclado en el mismo edificio. El
 
 Te cuento su historia y cómo visitarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo de Colón</span></div><div><b>⛪</b><span>Iglesia más pequeña</span></div><div><b>🗼</b><span>Torres</span></div><div><b>🧱</b><span>Detalles</span></div><div><b>🕌</b><span>Estupa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Castillo de Colomares</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Benalmádena (Málaga)</strong>, en una colina sobre la Costa del Sol, a 20 km de Málaga.</p></div>

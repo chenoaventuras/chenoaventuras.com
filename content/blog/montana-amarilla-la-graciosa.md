@@ -42,6 +42,9 @@ Un volcán de colores amarillos, ocres y rojizos que cae directamente al mar, pl
 
 Te cuento la ruta paso a paso, las playas, la subida al volcán y todo lo que necesitas saber para hacerla 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌋</b><span>Montaña Amarilla</span></div><div><b>🏖️</b><span>Playa Francesa</span></div><div><b>🏖️</b><span>Playa de la Cocina</span></div><div><b>🥾</b><span>Ruta del sur</span></div><div><b>🌊</b><span>Costa</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la ruta</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Recorrido</h3><p>De <strong>Caleta de Sebo</strong> a Montaña Amarilla por la costa, unos 4 km.</p></div>

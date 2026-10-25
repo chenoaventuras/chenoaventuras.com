@@ -50,6 +50,9 @@ Un valle verde en pleno Pirineo donde los ríos corren hacia el Atlántico, se h
 
 Te cuento los rincones imprescindibles y qué aventuras hacer según la época 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>Saut deth Pish</span></div><div><b>💧</b><span>Uelhs deth Joèu</span></div><div><b>🏘️</b><span>Vielha</span></div><div><b>🏘️</b><span>Salardú y Arties</span></div><div><b>🗣️</b><span>Aranés</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Valle de Arán</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el noroeste de <strong>Lleida</strong>, pegado a Francia. Se entra por el túnel de Vielha (desde el sur) o por el puerto de la Bonaigua (desde el Pallars).</p></div>

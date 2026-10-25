@@ -37,6 +37,9 @@ Un valle cerrado por muros de roca caliza, con buitres planeando sobre los corta
 
 Te cuento qué ver, la ruta del desfiladero del Purón, la historia de sus pueblos abandonados y todo lo práctico para organizar la visita 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦅</b><span>Buitres</span></div><div><b>🏞️</b><span>Desfiladero del Purón</span></div><div><b>🏚️</b><span>Ribera abandonado</span></div><div><b>🎨</b><span>Pinturas de la iglesia</span></div><div><b>🥾</b><span>Rutas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Valderejo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Valdegovía (Álava)</strong>, junto a Burgos, a unos 55 km de Vitoria.</p></div>

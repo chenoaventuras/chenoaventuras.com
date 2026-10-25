@@ -50,6 +50,9 @@ Una ciudad entera rodeada de murallas por las que puedes **pasear por arriba**, 
 
 Te cuento qué ver y por qué su carnaval es de los más especiales de España 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧱</b><span>Muralla de 2 km</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🐂</b><span>Carnaval del Toro</span></div><div><b>🥩</b><span>Gastronomía</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ciudad Rodrigo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el oeste de <strong>Salamanca</strong>, a una hora de la capital por la A-62 y a menos de media hora de Portugal.</p></div>

@@ -56,6 +56,9 @@ Aquí te dejo todo lo que he visitado y hecho allí: lo imprescindible de la ciu
 
 <!--guia-->
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏠</b><span>Casas Colgadas</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🌉</b><span>Puente de San Pablo</span></div><div><b>🧗</b><span>Vía ferrata</span></div><div><b>🪂</b><span>Tirolina urbana</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">La ciudad</span><h2>Qué ver en Cuenca</h2><p>Casi todo se ve a pie y gratis. Cuenta con cuestas: calzado cómodo sí o sí.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuenca/casas-colgadas.webp" alt="Casas Colgadas, Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Casas Colgadas</h3><p class="gcard__meta"><span class="gcard__price">Gratis</span><span class="gcard__age">Museo gratis · cierra lunes</span></p><p>El símbolo de Cuenca: casas de los siglos XIV y XV asomadas literalmente al vacío sobre la Hoz del Huécar. Dentro está el Museo de Arte Abstracto Español, y la entrada es gratis.</p><p class="gcard__links"><a class="gbtn " href="https://www.google.com/maps/search/?api=1&query=Casas+Colgadas%2C+Cuenca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar</a></p></div></li>

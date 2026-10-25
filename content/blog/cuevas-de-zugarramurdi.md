@@ -46,6 +46,9 @@ Un riachuelo que atraviesa la montaña, una cueva enorme abierta por el agua y u
 
 Hoy puedes recorrer la cueva donde supuestamente se celebraban los **akelarres** y entender qué pasó de verdad 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧙</b><span>Brujas</span></div><div><b>🕳️</b><span>Cueva</span></div><div><b>🔥</b><span>Auto de fe de 1610</span></div><div><b>🏛️</b><span>Museo de las Brujas</span></div><div><b>🌿</b><span>Prado del akelarre</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Zugarramurdi</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de <strong>Navarra</strong>, junto a la frontera francesa, a unos <strong>80 km de Pamplona</strong> (1 hora y cuarto en coche).</p></div>

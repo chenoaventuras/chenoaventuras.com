@@ -37,6 +37,9 @@ Casas de piedra oscura, tejados de lajas de pizarra que brillan con la lluvia, c
 
 Te cuento qué pueblos ver, en qué orden, la ruta a la cascada de **Despeñalagua**, cuándo ir al hayedo de **Tejera Negra** y todo lo práctico para organizar la escapada desde Madrid 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⬛</b><span>Pizarra</span></div><div><b>🏘️</b><span>Tamajón</span></div><div><b>🏘️</b><span>Majaelrayo</span></div><div><b>🏘️</b><span>Campillo de Ranas</span></div><div><b>🏔️</b><span>Sierra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de los pueblos negros</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde están</h3><p>En la <strong>Sierra Norte de Guadalajara</strong>, a los pies del pico Ocejón. Tamajón está a unos <strong>130 km de Madrid</strong>.</p></div>

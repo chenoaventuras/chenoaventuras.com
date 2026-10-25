@@ -27,6 +27,9 @@ En Galicia hay un dicho que no deja escapatoria: **«A San Andrés de Teixido va
 
 Así que mejor ir ahora, que además el paisaje es de los más bestias de España 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Santuario</span></div><div><b>🌄</b><span>Garita de Herbeira</span></div><div><b>🌊</b><span>Acantilados</span></div><div><b>✝️</b><span>Rituales</span></div><div><b>🏘️</b><span>Aldea</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de San Andrés de Teixido</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la Serra da Capelada, a unos <strong>12 km de Cedeira</strong> y una hora de Ferrol (A Coruña).</p></div>

@@ -51,6 +51,9 @@ guiaTitulo: 'Guía de Cuenca en PDF'
 ---
 Pocas tirolinas del mundo tienen un decorado como este: la **Hoz del Huécar** bajo tus pies y las **Casas Colgadas** de Cuenca al fondo. Son unos 40 segundos de vuelo que se recuerdan mucho más tiempo. Si estás pensando en tirarte, te cuento todo lo que necesitas saber.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🪂</b><span>Tirolina urbana</span></div><div><b>🏠</b><span>Casas Colgadas</span></div><div><b>🏞️</b><span>Hoz del Huécar</span></div><div><b>⏱️</b><span>Duración</span></div><div><b>🎟️</b><span>Precio</span></div></div>
+
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DQXf5ldjME1/), grabado en Cuenca.
 
 ## Lo básico

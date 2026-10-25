@@ -25,6 +25,9 @@ faq:
 ---
 Cierras el pestillo del baño del avión y das por hecho que ahí dentro tienes toda la intimidad del mundo. Pues hay un detalle que casi nadie conoce: **la tripulación puede abrir esa puerta desde fuera**, aunque el pestillo esté echado. Y no es lo único que esconde un avión a simple vista.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🚪</b><span>Puerta del baño</span></div><div><b>🔓</b><span>Se abre desde fuera</span></div><div><b>✈️</b><span>Avión</span></div><div><b>🧑‍✈️</b><span>Tripulación</span></div><div><b>🤔</b><span>Por qué existe</span></div></div>
+
 Puedes ver cómo funciona en [este reel de Instagram](https://www.instagram.com/reel/DYcrqgZMxkL/).
 
 ## Un mecanismo escondido en la propia puerta

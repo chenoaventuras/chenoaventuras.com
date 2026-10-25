@@ -45,6 +45,9 @@ guiaTitulo: 'Guía La Rioja en PDF'
 ---
 Entre viñedos de la Rioja Alta, con un río cruzando el pueblo y un castillo que hoy sabe más a vino que a guerra, Cuzcurrita de Río Tirón es de esas escapadas donde el plan es simplemente pasear, parar y disfrutar sin prisa.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo-bodega</span></div><div><b>🌉</b><span>Puente medieval</span></div><div><b>🌄</b><span>Mirador</span></div><div><b>🍷</b><span>Vinos de La Rioja</span></div><div><b>🏘️</b><span>Pueblo</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DX4osIysp4I/), grabado en Cuzcurrita de Río Tirón, La Rioja.
 
 ## Un castillo del siglo XIV que hoy es bodega

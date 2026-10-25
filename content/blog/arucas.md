@@ -28,6 +28,9 @@ Una iglesia neogótica de piedra gris azulada que parece una catedral, una fábr
 
 Te cuento qué ver y cómo organizarte 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral neogótica</span></div><div><b>🥃</b><span>Ron Arehucas</span></div><div><b>🌄</b><span>Montaña de Arucas</span></div><div><b>🌸</b><span>Flores</span></div><div><b>🕰️</b><span>Torre del reloj</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Arucas: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>⛪ La «catedral»</h3><p>La <strong>Iglesia de San Juan Bautista</strong> es el símbolo del pueblo. Se la conoce como la «Catedral de Arucas», aunque en realidad no lo es.</p></div>

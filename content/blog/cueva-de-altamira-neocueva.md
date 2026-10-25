@@ -50,6 +50,9 @@ Bisontes rojos y negros pintados hace más de 14.000 años, aprovechando los bul
 
 La cueva original está cerrada para protegerla, pero puedes ver una **réplica exacta**, la Neocueva, en el museo que hay al lado. Te cuento cómo es la visita, cuánto cuesta y qué días es gratis 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎨</b><span>Neocueva</span></div><div><b>🏛️</b><span>Museo</span></div><div><b>🎟️</b><span>Precios</span></div><div><b>🆓</b><span>Días gratis</span></div><div><b>🚪</b><span>Se puede entrar?</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Altamira</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A <strong>2 km de Santillana del Mar</strong> y unos 30 km de Santander.</p></div>

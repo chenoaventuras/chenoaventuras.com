@@ -52,6 +52,9 @@ comerFecha: "octubre de 2026"
 ---
 Una vez al año, el casco histórico de **Alcalá de Henares** viaja al siglo XVI: puestos ambientados, oficios de época, pasacalles y, como colofón, un **torneo de justas** con caballeros a caballo. Es el **Mercado Cervantino**, el mercado de época más grande de Europa según sus organizadores, y en 2026 la **Semana Cervantina** ha sido declarada **Fiesta de Interés Turístico Internacional**.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🛍️</b><span>Puestos</span></div><div><b>⚔️</b><span>Torneo de justas</span></div><div><b>🎭</b><span>Siglo XVI</span></div><div><b>🍖</b><span>Comida</span></div><div><b>🎶</b><span>Ambiente</span></div></div>
+
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DPyKoVcjODe/), grabado en Alcalá de Henares.
 
 ## Lo básico

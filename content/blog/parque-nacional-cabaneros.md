@@ -37,6 +37,9 @@ Una llanura enorme salpicada de encinas aisladas, manadas de ciervos corriendo a
 
 Te cuento qué ver, las mejores rutas, cuándo ir para escuchar la berrea y la curiosa historia de cómo se salvó de ser un campo de tiro 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🦌</b><span>Ciervos</span></div><div><b>🌾</b><span>La raña</span></div><div><b>🎶</b><span>Berrea</span></div><div><b>🌳</b><span>Bosque mediterráneo</span></div><div><b>🥾</b><span>Boquerón del Estena</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cabañeros</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En los <strong>Montes de Toledo</strong>, a unos 75 km de Ciudad Real y 100 de Toledo.</p></div>

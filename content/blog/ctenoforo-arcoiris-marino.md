@@ -35,6 +35,9 @@ actividades:
 ---
 Grabando bajo el agua me crucé con un bicho transparente que, al moverse, dejaba una especie de estela de luces de colores recorriéndole el cuerpo, como si llevara un cable de neón por dentro. Lo subí a chenoaventuras preguntando "¿es una medusa o una salpa?" y, como imaginaba, la respuesta sorprende a casi todo el mundo: no es ninguna de las dos cosas. Es un ctenóforo, y puedes ver el [vídeo en Instagram](https://www.instagram.com/reel/DdPNSojxUaT/).
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌈</b><span>Arcoíris marino</span></div><div><b>🪼</b><span>No es medusa</span></div><div><b>🌊</b><span>Mar</span></div><div><b>✨</b><span>Luces</span></div><div><b>🤿</b><span>Dónde verlo</span></div></div>
+
 ## ¿Qué es exactamente un ctenóforo?
 
 El nombre suena a trabalenguas, pero el bicho es fascinante. Los ctenóforos (también llamados "medusas peine", aunque el apodo confunde más de lo que ayuda) son un grupo de animales marinos completamente distinto al de las medusas, con más de 150 especies descritas en todo el mundo y unas 30 avistadas en el Mediterráneo. Su cuerpo es gelatinoso y casi transparente, de forma ovalada más que de "paraguas", y se mueven gracias a ocho hileras de cilios diminutos que baten el agua sin parar, como remeros microscópicos trabajando en equipo.

@@ -50,6 +50,9 @@ Unos **huevos gigantes** sobre el tejado, un **oso disecado** en la entrada y un
 
 Te cuento su historia, cómo conseguir entrada (se agotan) y qué ver 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🥚</b><span>Huevos gigantes</span></div><div><b>🐻</b><span>Oso</span></div><div><b>🏠</b><span>Casa de pescadores</span></div><div><b>🌅</b><span>Ventana del amanecer</span></div><div><b>🎟️</b><span>Reserva</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la casa</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la cala de <strong>Portlligat</strong>, a 15 minutos andando de Cadaqués (Girona).</p></div>

@@ -31,6 +31,9 @@ Una **ciudad romana junto al mar**, una **duna de más de 30 metros** y una play
 
 Te cuento cómo llegar, qué ver y cómo organizar el día 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Baelo Claudia</span></div><div><b>🏜️</b><span>Duna de Bolonia</span></div><div><b>🏖️</b><span>Playa</span></div><div><b>🎟️</b><span>Entrada</span></div><div><b>🅿️</b><span>Aparcamiento</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Bolonia: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Baelo Claudia</h3><p>El yacimiento romano se puede recorrer a pie: calles, teatro, foro, basílica y los restos de las factorías de salazón. Una guía calcula <strong>1,5 a 2 horas</strong> de visita.</p></div>

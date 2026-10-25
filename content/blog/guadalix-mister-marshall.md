@@ -46,6 +46,9 @@ comerFecha: "octubre de 2026"
 
 Te cuento la historia de la película y qué queda de ella en el pueblo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎬</b><span>Bienvenido, Mister Marshall</span></div><div><b>🗿</b><span>Escultura</span></div><div><b>🪧</b><span>Placa de Berlanga</span></div><div><b>🏘️</b><span>Pueblo</span></div><div><b>🎥</b><span>Reestreno</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Guadalix</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>sierra norte de Madrid</strong>, a unos 45 minutos de la capital por la A-1.</p></div>

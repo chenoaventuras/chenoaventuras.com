@@ -53,6 +53,9 @@ Hay sitios que sorprenden por las vistas, otros por la historia, y luego está l
 
 Aquí te cuento cómo llegar, dónde aparcar, qué ver y las fotos que no te puedes perder 👇 Y si quieres verlo en movimiento, tienes el vídeo en [este reel de Instagram](https://www.instagram.com/reel/DcOyoVXRSZy/).
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💣</b><span>Cañones Vickers</span></div><div><b>🏰</b><span>Fortaleza</span></div><div><b>🌊</b><span>Acantilado</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🕰️</b><span>Visitas guiadas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la visita</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Precio</h3><p><strong>Gratis</strong>, tanto la visita como el aparcamiento. No hay que reservar.</p></div>

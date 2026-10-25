@@ -44,6 +44,9 @@ comerFecha: "octubre de 2026"
 ---
 En la sierra de Madrid, junto al **puerto de Somosierra**, el agua se despeña en varios saltos que suman unos **40 metros** de caída. Es la **Chorrera de los Litueros**, considerada una de las cascadas más espectaculares de la Comunidad de Madrid, y lo mejor es que se llega con un paseo muy corto.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>Cascada de 40 m</span></div><div><b>🌲</b><span>Somosierra</span></div><div><b>🥾</b><span>Paseo</span></div><div><b>📸</b><span>Fotos</span></div><div><b>🏞️</b><span>Río Duratón</span></div></div>
+
 Puedes verla en [este reel de Instagram](https://www.instagram.com/reel/DVWktJLDPZS/), grabado en Somosierra.
 
 ## Lo básico

@@ -31,6 +31,9 @@ Una villa del **Camino de Santiago** con un monasterio plateresco, una iglesia r
 
 Te cuento qué ver, la leyenda y cómo organizarlo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>San Zoilo</span></div><div><b>⛪</b><span>Santa María del Camino</span></div><div><b>🥾</b><span>Camino de Santiago</span></div><div><b>🏘️</b><span>Calles</span></div><div><b>🌳</b><span>Jardines</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Carrión de los Condes: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ San Zoilo</h3><p>Según las webs oficiales de turismo, la entrada cuesta <strong>2,50 €</strong> (2 € reducida; menores de 9 años gratis). Los horarios cambian por temporada y las fuentes no coinciden (el portal de Castilla y León indica que en invierno puede permanecer cerrado hasta la primavera): <strong>llama al 979 88 09 02</strong> antes de ir.</p></div>

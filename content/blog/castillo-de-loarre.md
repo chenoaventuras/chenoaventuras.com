@@ -37,6 +37,9 @@ Mil años en lo alto de una peña, murallas con torres redondas, una iglesia rom
 
 Está considerado uno de los castillos románicos mejor conservados de Europa, y se nota en cuanto cruzas la puerta 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Castillo románico</span></div><div><b>🎬</b><span>Reino de los cielos</span></div><div><b>⛪</b><span>Iglesia de San Pedro</span></div><div><b>🕳️</b><span>Cripta</span></div><div><b>🗼</b><span>Torre del homenaje</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Loarre</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la sierra de Loarre, sobre la Hoya de Huesca, a unos <strong>35 km de Huesca</strong> (40 minutos en coche).</p></div>

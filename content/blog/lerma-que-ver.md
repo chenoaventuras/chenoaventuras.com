@@ -30,6 +30,9 @@ Hace 400 años, un pueblo de Burgos se convirtió en el lugar de recreo de la **
 
 Te cuento qué ver, sus curiosidades más llamativas (incluida una boda real con un novio de 15 años) y qué hacer cerca en el valle del Arlanza 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏛️</b><span>Palacio Ducal</span></div><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>⛪</b><span>Colegiata de San Pedro</span></div><div><b>🌉</b><span>Arco de la Cárcel</span></div><div><b>🌄</b><span>Mirador de los Arcos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Lerma</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Junto a la <strong>A-1</strong>, a unos <strong>39 km de Burgos</strong> y 2 horas de Madrid, sobre un cerro que domina el río Arlanza.</p></div>

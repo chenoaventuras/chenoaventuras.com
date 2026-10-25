@@ -39,6 +39,9 @@ Asturias se come **bien y abundante**: fabes con compango, cachopos enormes, que
 
 Te cuento qué pedir, qué probar de postre y qué tener en cuenta en una sidrería 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🫘</b><span>Fabada</span></div><div><b>🥩</b><span>Cachopo</span></div><div><b>🧀</b><span>Quesos</span></div><div><b>🍎</b><span>Sidra</span></div><div><b>🍰</b><span>Dulces</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Gastronomía de Asturias: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🫘 Fabada</h3><p>Fabes (faba asturiana) con compango: chorizo, morcilla, lacón y tocino. Se cocina despacio y se dice que sabe mejor al día siguiente.</p></div>

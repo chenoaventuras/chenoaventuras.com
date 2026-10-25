@@ -34,6 +34,9 @@ Una cueva con **pinturas de hace miles de años** a pocos metros del acantilado.
 
 Te cuento qué se ve, cómo visitarla y qué hay cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🎨</b><span>Arte rupestre</span></div><div><b>🏛️</b><span>Patrimonio de la Humanidad</span></div><div><b>🕳️</b><span>Interior de la cueva</span></div><div><b>🌊</b><span>Costa de Pimiango</span></div><div><b>🎟️</b><span>Visitas guiadas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cueva del Pindal: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Reconocimiento</h3><p>Patrimonio de la Humanidad desde julio de 2008 (grupo «Cueva de Altamira y arte rupestre paleolítico de la cornisa cantábrica»).</p></div>

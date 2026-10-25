@@ -31,6 +31,9 @@ Un **hotel de titanio** diseñado por **Frank Gehry** en mitad de viñedos, una 
 
 Te cuento qué ver, cómo visitar la bodega y qué más hay cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏨</b><span>Hotel de Gehry</span></div><div><b>🍷</b><span>Bodega Marqués de Riscal</span></div><div><b>🏘️</b><span>Pueblo</span></div><div><b>🍇</b><span>Viñedos</span></div><div><b>🎟️</b><span>Visita</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Elciego: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🍷 Visita a la bodega</h3><p>La visita básica de Marqués de Riscal dura unos 90 minutos y, según la web oficial, cuesta <strong>30 €</strong> por adulto, con bodega, viñedo y cata de tres vinos; hay otras de 1 h 45 min por 45 € y 60 €. Reserva en la web oficial con antelación.</p></div>

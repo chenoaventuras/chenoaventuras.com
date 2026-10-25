@@ -50,6 +50,9 @@ comerFecha: "octubre de 2026"
 ---
 A poco más de una hora de Madrid capital hay un pueblo que conserva algo que ningún otro de la comunidad puede presumir: su muralla medieval completa, casi abrazada por un río. Se llama Buitrago del Lozoya, y es de esas escapadas que no hace falta planear con meses de antelación.
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🧱</b><span>Muralla completa</span></div><div><b>🎨</b><span>Museo Picasso</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🌉</b><span>Río Lozoya</span></div><div><b>🥾</b><span>Sierra Norte</span></div></div>
+
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DVO6MY5jNxb/), grabado en Buitrago del Lozoya, Sierra Norte de Madrid.
 
 ## La única muralla íntegra de la Comunidad de Madrid

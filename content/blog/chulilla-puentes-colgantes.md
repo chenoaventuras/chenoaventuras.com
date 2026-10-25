@@ -37,6 +37,9 @@ Un pueblo blanco encaramado en lo alto de un cañón, un castillo árabe vigilan
 
 Te cuento cómo es la ruta paso a paso, cuánto miden los puentes, el Charco Azul, dónde aparcar y cómo evitar las aglomeraciones 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌉</b><span>Puentes colgantes</span></div><div><b>🏞️</b><span>Cañón del Turia</span></div><div><b>💧</b><span>Charco Azul</span></div><div><b>🥾</b><span>Ruta de los Pantaneros</span></div><div><b>🌄</b><span>Mirador</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Chulilla</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la comarca de Los Serranos, a unos <strong>60 km de Valencia</strong>, sobre el cañón del río <strong>Turia</strong>.</p></div>

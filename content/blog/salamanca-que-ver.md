@@ -40,6 +40,9 @@ Hay ciudades doradas y luego está **Salamanca**, donde la piedra de Villamayor 
 
 Te cuento qué ver, dónde buscar la rana, las mejores vistas desde las torres, cuánto cuesta entrar en cada sitio y qué comer 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏘️</b><span>Plaza Mayor</span></div><div><b>🐸</b><span>Rana de la Universidad</span></div><div><b>⛪</b><span>Dos catedrales</span></div><div><b>🐚</b><span>Casa de las Conchas</span></div><div><b>⛪</b><span>La Clerecía</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Salamanca</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A orillas del <strong>Tormes</strong>, a unos 210 km de Madrid y 100 de Ávila y Zamora.</p></div>

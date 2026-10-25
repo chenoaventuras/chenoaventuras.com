@@ -37,6 +37,9 @@ Casi catorce kilómetros de arena dorada sin un solo edificio, olas del Atlánti
 
 Te cuento cómo llegar por la pista (y si tu coche de alquiler puede), por qué no hay que bañarse, el misterio de Villa Winter, el cementerio junto al mar y qué más ver en la península de Jandía 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏖️</b><span>Playa salvaje</span></div><div><b>🏚️</b><span>Villa Winter</span></div><div><b>🪦</b><span>Cementerio</span></div><div><b>🌊</b><span>Oleaje</span></div><div><b>🚙</b><span>Pista de tierra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Cofete</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa oeste de la <strong>península de Jandía</strong>, al sur de Fuerteventura, a unos 20 km de Morro Jable por pista.</p></div>

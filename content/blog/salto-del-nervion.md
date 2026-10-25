@@ -41,6 +41,9 @@ Entre **Álava y Burgos** hay un cortado donde el río Nervión se lanza al vac�
 
 Pero tiene truco: no siempre lleva agua. Te cuento cuándo ir y cómo llegar al mirador que cuelga sobre el precipicio 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>💦</b><span>222 metros</span></div><div><b>🏞️</b><span>Cañón de Délica</span></div><div><b>🦅</b><span>Buitres</span></div><div><b>🍂</b><span>Hayedo</span></div><div><b>🌄</b><span>Mirador</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico del Salto del Nervión</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Monte Santiago</strong> (Burgos), en la frontera con Álava, cerca del puerto de Orduña.</p></div>

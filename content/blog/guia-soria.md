@@ -32,6 +32,9 @@ Aquí tienes todo lo que ver en Soria, la capital y la provincia, con una ruta d
 
 <!--guia-->
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Soria capital</span></div><div><b>💧</b><span>Laguna Negra</span></div><div><b>🏞️</b><span>Río Lobos</span></div><div><b>⛰️</b><span>Monte de las Ánimas</span></div><div><b>🍄</b><span>Setas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Soria</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Cómo moverte</h3><p>En <strong>coche</strong>: es una provincia muy despoblada y con poco transporte público. Soria capital está a unas 2 h 15 min de Madrid.</p></div>

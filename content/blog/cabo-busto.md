@@ -34,6 +34,9 @@ Un faro blanco con la palabra **«BUSTO»** pintada en la torre, sobre un cabo d
 
 Te cuento qué ver, cómo llegar y qué sendero pasa cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗼</b><span>Faro</span></div><div><b>🌊</b><span>Acantilados</span></div><div><b>🥾</b><span>Sendero PR-AS 4</span></div><div><b>⚠️</b><span>Seguridad</span></div><div><b>🌿</b><span>Vegetación</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cabo Busto: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la localidad de Busto, concejo de Valdés.</p></div>

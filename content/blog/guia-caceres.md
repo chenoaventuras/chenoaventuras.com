@@ -26,6 +26,9 @@ Aquí tienes todos los sitios agrupados por zonas, y la **guía completa en PDF*
 
 <!--guia-->
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🏰</b><span>Cáceres</span></div><div><b>🐦</b><span>Monfragüe</span></div><div><b>🏘️</b><span>Trujillo</span></div><div><b>🏛️</b><span>Guadalupe</span></div><div><b>🪨</b><span>Los Barruecos</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Guía corta 1</span><h2>Cáceres, Trujillo y Monfragüe</h2><p>El centro de la provincia, para 3 días.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/caceres-que-ver/portada.webp" alt="Cáceres" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Cáceres</h3><p>Qué ver en Cáceres: la Ciudad Monumental, la Plaza Mayor, la Torre de Bujaco, el Arco de la Estrella, el aljibe árabe y los rincones donde se rodó Juego de Tronos.</p><p class="gcard__links"><a class="gbtn gbtn--reel" href="/blog/caceres-que-ver.html">Leer más</a></p></div></li>

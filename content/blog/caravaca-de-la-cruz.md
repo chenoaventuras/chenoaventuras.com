@@ -49,6 +49,9 @@ Un castillo en lo alto de un cerro con una basílica barroca dentro, un casco an
 
 Te cuento qué ver y cuándo ir 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>✝️</b><span>Vera Cruz</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🐎</b><span>Caballos del Vino</span></div><div><b>🧱</b><span>Murallas</span></div><div><b>🎉</b><span>Fiestas</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Caravaca</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>noroeste de la Región de Murcia</strong>, a una hora de la capital.</p></div>

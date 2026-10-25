@@ -37,6 +37,9 @@ Una ciudad dorada sobre un cerro, asomada al Duero, con más iglesias románicas
 
 Te cuento qué ver, la historia del cerco que dio lugar a un refrán, su ruta del románico y del modernismo, qué comer y qué ver cerca 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>Catedral</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🌉</b><span>Puente de Piedra</span></div><div><b>🏺</b><span>Aceñas de Olivares</span></div><div><b>⛪</b><span>Románico</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Zamora</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>A orillas del <strong>Duero</strong>, a 65 km de Salamanca, 100 de Valladolid y unos 250 de Madrid.</p></div>

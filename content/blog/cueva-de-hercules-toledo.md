@@ -54,6 +54,9 @@ Bajo las calles de Toledo hay una cueva cerrada con candados. Cada rey visigodo 
 
 La **Cueva de Hércules** se puede visitar, y es la puerta de entrada a un Toledo lleno de leyendas 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🕳️</b><span>Cueva de Hércules</span></div><div><b>👑</b><span>Rey Rodrigo</span></div><div><b>🛁</b><span>Baños de la Cava</span></div><div><b>✝️</b><span>Cristo de la Vega</span></div><div><b>🌉</b><span>Puente de San Martín</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de el Toledo de las leyendas</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>casco histórico de Toledo</strong>, en el callejón de San Ginés, a unos 100 metros de la Catedral.</p></div>

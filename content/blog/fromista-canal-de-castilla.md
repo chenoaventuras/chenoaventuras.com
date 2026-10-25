@@ -37,6 +37,9 @@ En mitad de los campos de cereal de Tierra de Campos, donde el horizonte es una 
 
 Te cuento qué ver en San Martín, la historia del canal, cómo navegarlo en barco o recorrerlo en bici y qué ver cerca en el Camino de Santiago 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>⛪</b><span>San Martín románico</span></div><div><b>🔒</b><span>Esclusa cuádruple</span></div><div><b>🏞️</b><span>Canal de Castilla</span></div><div><b>🥾</b><span>Camino de Santiago</span></div><div><b>🏘️</b><span>Pueblo</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En <strong>Tierra de Campos</strong> (Palencia), a unos 30 km de la capital, en pleno Camino de Santiago.</p></div>

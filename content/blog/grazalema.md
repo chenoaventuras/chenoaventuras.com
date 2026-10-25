@@ -50,6 +50,9 @@ En plena Andalucía hay un pueblo blanco donde llueve **más que en muchos sitio
 
 Te cuento por qué llueve tanto, el bosque «de la época del hielo» que esconde y qué ver en el pueblo 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🌧️</b><span>Lugar más lluvioso</span></div><div><b>🌲</b><span>Pinsapar</span></div><div><b>🧶</b><span>Mantas</span></div><div><b>🏘️</b><span>Pueblo blanco</span></div><div><b>🥾</b><span>Sierra</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Grazalema</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Sierra de Cádiz</strong>, a unos 30 minutos de Ronda, dentro del Parque Natural Sierra de Grazalema.</p></div>

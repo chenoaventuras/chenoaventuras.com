@@ -28,6 +28,9 @@ En mitad de un pinar, junto a un embalse, aparecen de repente **caras gigantes t
 
 La **Ruta de las Caras** es uno de los paseos más curiosos de Cuenca, con un aire misterioso que engancha 👇
 
+<div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
+<div class="etiles"><div><b>🗿</b><span>Rostros en la roca</span></div><div><b>🌲</b><span>Pinar</span></div><div><b>🏞️</b><span>Embalse</span></div><div><b>🧘</b><span>Lugar con energía</span></div><div><b>🥾</b><span>Ruta</span></div></div>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Ruta de las Caras</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>Junto a <strong>Buendía</strong>, en la provincia de <strong>Cuenca</strong>, al lado del embalse de Buendía. A 1 h 45 de Madrid.</p></div>
