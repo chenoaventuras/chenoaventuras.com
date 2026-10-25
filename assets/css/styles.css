@@ -2418,11 +2418,11 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .cal__d--off { background: transparent; color: #b9b4aa; }
 .cal__d--ok { background: #dcefd9; color: #2f6b34; }
 .cal__d--fam { background: #f6c94c; color: #5a4300; }
-.cal__d--cer { background: #ebe7e0; color: #9b958a; text-decoration: line-through; }
+.cal__d--cer { background: #f2c4bd; color: #8c2f25; text-decoration: line-through; }
 .cal__d--ini { background: #274c78; color: #fff; }
 .cal__d--fin { background: #8a5a9e; color: #fff; }
 .cal__leyenda { display: flex; flex-wrap: wrap; gap: 8px 16px; justify-content: center; margin: 12px 0 4px; font-size: .86rem; color: var(--ink-soft); }
-.cal__leyenda span::before { content: ""; display: inline-block; width: 12px; height: 12px; border-radius: 4px; margin-right: 6px; vertical-align: -1px; background: var(--c); }
+.cal__leyenda span::before { content: ""; display: inline-block; width: 12px; height: 12px; border-radius: 4px; margin-right: 6px; vertical-align: -1px; background: var(--c); box-shadow: inset 0 0 0 1px rgba(0,0,0,.18); }
 .etiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 10px; margin: 18px 0 26px; }
 .etiles > div { background: var(--white); border-radius: 14px; padding: 14px 8px 12px; text-align: center; box-shadow: var(--shadow-sm); }
 .etiles b { display: block; font-size: 2rem; line-height: 1.1; margin-bottom: 4px; font-weight: 400; }
