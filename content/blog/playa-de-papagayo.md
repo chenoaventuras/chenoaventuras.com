@@ -49,6 +49,8 @@ Cinco calas de **arena dorada y aguas turquesas** al sur de Lanzarote, dentro de
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-papagayo/aerea.webp" alt="Vista aérea de la costa de Papagayo en Lanzarote" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Vista desde arriba</h3><p>La punta sur de Lanzarote vista desde el aire, con las calas y los acantilados de Los Ajaches.</p></div></li>
 </ol>
 
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Si te gustan las playas salvajes, cruza en barco desde Órzola, en el norte de Lanzarote, a <a href="/blog/la-graciosa.html">La Graciosa</a>: su <a href="/blog/playa-de-las-conchas-la-graciosa.html">Playa de las Conchas</a> es de las más bonitas de Canarias.</p></div>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>Se llega desde <strong>Playa Blanca</strong> (Yaiza), por una pista de tierra de unos 5 km hasta el primer aparcamiento. Hay un camino cómodo desde el parking hasta las calas.</p><p>Como alternativa, el barco-taxi o los veleros que salen de Playa Blanca llegan directamente, sin pista. Revisa horarios y precios.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa+de+Papagayo+Lanzarote" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

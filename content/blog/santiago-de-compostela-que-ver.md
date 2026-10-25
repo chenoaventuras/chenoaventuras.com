@@ -19,7 +19,9 @@ faq:
   - q: "¿Cuándo funciona el botafumeiro?"
     a: "En las grandes solemnidades (Reyes, Pascua, Pentecostés, Santiago, Todos los Santos, Navidad…) y cuando un grupo lo solicita y paga. No se anuncia con antelación, y en 2026 ha estado parado temporalmente por obras: consulta su estado."
   - q: "¿Cuánto cuesta ver el Pórtico de la Gloria?"
-    a: "Se visita con entrada y horario, en grupos reducidos. Los precios varían según el tipo de visita y si se combina con el museo; consulta la web oficial de la catedral."
+    a: "Se visita con entrada y hora fija, en grupos reducidos, dentro de la visita completa del Museo Catedral: 23 € (19 € la reducida). Se compra en visitas.catedraldesantiago.es."
+  - q: "¿Cuánto cuesta subir a las cubiertas de la catedral de Santiago?"
+    a: "15 € la entrada general y 12 € la reducida (estudiantes, peregrinos acreditados, mayores de 65, desempleados, familias numerosas y menores de 12 años). La visita sale del Palacio de Gelmírez, en la plaza del Obradoiro."
   - q: "¿Cuándo es el próximo Año Santo Compostelano?"
     a: "En 2027, porque el 25 de julio cae en domingo. Se abrirá la Puerta Santa de la catedral y se espera una gran afluencia de peregrinos."
   - q: "¿Cómo conseguir la Compostela?"
@@ -58,6 +60,7 @@ Te cuento qué ver en la catedral (y qué se paga), cuándo puedes ver volar el 
 <li><strong>Las cubiertas</strong>: una visita guiada por los tejados de piedra de la catedral, con vistas de toda la ciudad. Imprescindible si hace buen tiempo.</li>
 <li><strong>El Museo de la Catedral</strong>: con el claustro, tapices y la biblioteca.</li>
 </ul>
+<div class="guide__howto"><h3>🎟️ Precios de la catedral</h3><p><strong>Basílica:</strong> gratis.</p><p><strong>Museo Catedral</strong> (colección permanente): 9 €, reducida 7 €; gratis para menores de 12 años.</p><p><strong>Cubiertas y Torre de la Carraca:</strong> 15 €, reducida 12 € (también para menores de 12 años).</p><p><strong>Visita completa del Museo con el Pórtico de la Gloria:</strong> 23 €, reducida 19 €.</p><p>La reducida es para estudiantes, peregrinos acreditados, mayores de 65, desempleados, familias numerosas y personas con discapacidad. Las entradas se compran en <a href="https://visitas.catedraldesantiago.es/" target="_blank" rel="noopener">visitas.catedraldesantiago.es</a>. Sé puntual en el Pórtico y las cubiertas, y no lleves mochilas de más de 40×40 cm.</p></div>
 <p><img src="/assets/img/blog/santiago-de-compostela-que-ver/portico-gloria.webp" alt="Pantocrátor del Pórtico de la Gloria de la catedral de Santiago" loading="lazy" decoding="async" /></p>
 <div class="guide__legend"><h3>🔥 El botafumeiro</h3><p>Un incensario gigante, de más de 50 kilos, que ocho hombres (los <strong>tiraboleiros</strong>) hacen volar de lado a lado del crucero a toda velocidad, casi rozando el techo. Antiguamente servía para perfumar la catedral llena de peregrinos. Hoy funciona en las <strong>grandes solemnidades</strong> (Reyes, Pascua, Pentecostés, el día de Santiago, Todos los Santos, Navidad…) y cuando un grupo lo solicita y paga, sin anunciarse antes. En 2026 se ha parado temporalmente por obras de restauración en la cúpula de cara al Año Santo: consulta si está funcionando.</p></div>
 <p><img src="/assets/img/blog/santiago-de-compostela-que-ver/botafumeiro.webp" alt="Botafumeiro colgado en la catedral de Santiago" loading="lazy" decoding="async" /></p>

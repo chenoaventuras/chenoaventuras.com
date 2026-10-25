@@ -57,6 +57,8 @@ Te cuento qué ver, el paseo de Monte Boi y cómo organizarlo 👇
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Carabela La Pinta:</strong> la réplica anclada en el puerto, junto al castillo.</li><li><strong>Virgen de la Roca:</strong> una escultura sobre una roca, con escalera de caracol hasta el barco que sostiene la imagen.</li><li><strong>Cabo Silleiro:</strong> a unos 5 km, con dos faros y miradores.</li><li><strong>Puente de la Ramallosa y Monasterio de Oia:</strong> excursiones cercanas.</li><li><strong>Cerca:</strong> <a href="/blog/vigo-que-ver.html">Vigo</a> y <a href="/blog/islas-cies.html">las Islas Cíes</a>.</li></ul>
 
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Si sigues hacia el norte, <a href="/blog/santiago-de-compostela-que-ver.html">Santiago de Compostela</a> queda a algo más de una hora por la AP-9: la catedral, el Obradoiro y el final del Camino.</p></div>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Vigo, unos 25 km por la autovía y la carretera de la costa. Aparca cerca del puerto.</p><p><strong>Consejo:</strong> en verano, llega temprano para aparcar.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Baiona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

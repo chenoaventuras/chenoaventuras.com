@@ -86,6 +86,8 @@ Aprovecha el viaje, porque Alcalá es **Patrimonio de la Humanidad**:
 - **La Catedral Magistral**, una de las dos únicas iglesias del mundo con el título de «Magistral».
 - **Las cigüeñas**: Alcalá tiene decenas de nidos en sus torres y tejados.
 
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>A 15 minutos de Alcalá, en Torrejón de Ardoz, están las <a href="/blog/magicas-navidades-torrejon.html">Mágicas Navidades de Torrejón</a>, uno de los parques de Navidad más grandes de España. Y sin salir de la Comunidad de Madrid: el Palacio Real y los jardines de <a href="/blog/aranjuez-que-ver.html">Aranjuez</a>, o una ruta por el <a href="/blog/madrid-fantasmas-leyendas.html">Madrid de los fantasmas y las leyendas</a>.</p></div>
+
 <!--actividades-->
 
 ## Cómo llegar

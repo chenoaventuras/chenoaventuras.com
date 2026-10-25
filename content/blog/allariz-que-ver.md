@@ -67,6 +67,8 @@ Te cuento qué ver, en qué orden y cómo combinarlo con Ourense 👇
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Museo del Cuero:</strong> en la antigua fábrica de curtidos Nogueiras, con las herramientas del curtido.</li><li><strong>Muíño do Burato y Museo del Tejido:</strong> junto al río.</li><li><strong>Castillo:</strong> quedan pocos restos; sirve más de mirador.</li><li><strong>Cerca:</strong> <a href="/blog/ourense-que-ver.html">Ourense</a>, las <a href="/blog/pozas-de-outariz-ourense.html">Pozas de Outariz</a> y el <a href="/blog/canon-del-sil.html">Cañón del Sil</a>.</li></ul>
 
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Desde Ourense, en algo más de una hora llegas a <a href="/blog/santiago-de-compostela-que-ver.html">Santiago de Compostela</a>, con su catedral y el casco histórico Patrimonio de la Humanidad.</p></div>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Ourense, unos 20 minutos por la autovía. Aparca en el Campo da Barreira.</p><p><strong>Consejo:</strong> los horarios de los museos cambian, así que confírmalos antes de ir.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Allariz, Ourense" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

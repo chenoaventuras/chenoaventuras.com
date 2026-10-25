@@ -14,6 +14,8 @@ wide: true
 faq:
   - q: "¿Se puede pasear por la muralla de Ciudad Rodrigo?"
     a: "Sí, el adarve de la muralla, de unos 2 km, se puede recorrer casi entero y gratis."
+  - q: "¿Cuánto cuesta entrar en la catedral de Ciudad Rodrigo?"
+    a: "8 € la entrada general con audioguía (7 € mayores de 65 y 6 € jóvenes y estudiantes de 12 a 18 años). De lunes a jueves, de 11:00 a 11:30, la entrada es gratis salvo festivos."
   - q: "¿Por qué la catedral de Ciudad Rodrigo tiene marcas de disparos?"
     a: "Son impactos de los cañones durante los asedios de la Guerra de la Independencia, en 1810 y 1812."
   - q: "¿Cuándo es el Carnaval del Toro?"
@@ -72,6 +74,7 @@ Te cuento qué ver y por qué su carnaval es de los más especiales de España �
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/plaza.webp" alt="Plaza Mayor de Ciudad Rodrigo" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Plaza Mayor</h3><p>Con el Ayuntamiento porticado. En Carnaval, se convierte en plaza de toros.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ciudad-rodrigo-que-ver/palacio.webp" alt="Fachada de un palacio en Ciudad Rodrigo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Los palacios</h3><p>Casas nobles y palacios renacentistas por todo el casco histórico.</p></div></li>
 </ol>
+<div class="guide__howto"><h3>🎟️ Visitar la catedral</h3><p><strong>Entrada:</strong> 8 € (catedral y museo, con audioguía gratis); 7 € para mayores de 65 y pensionistas y 6 € para jóvenes y estudiantes de 12 a 18 años. <strong>Gratis de lunes a jueves de 11:00 a 11:30</strong> (excepto festivos).</p><p><strong>Horario:</strong> de lunes a sábado, de 11 a 14 h y de 17 a 20 h; domingos, de 11 a 14 h y de 17 a 19 h. La venta de entradas cierra media hora antes.</p><p><strong>Visitas guiadas</strong> (mínimo 5 personas): subida a la torre 5,50 €, catedral 10 € y catedral con torre 12 €. Se reservan en el 923 48 14 24.</p></div>
 
 
 <!--actividades-->
