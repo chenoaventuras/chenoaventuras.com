@@ -108,7 +108,7 @@ Chinchón está a unos **45 km de Madrid** por la **A-3** (salida Arganda / Chin
 
 - El **[Mercado Medieval de Chinchón](/blog/mercado-medieval-chinchon.html)**, con todo el pueblo ambientado.
 - **[Aranjuez](/blog/aranjuez-que-ver.html)**, con su Palacio Real y sus jardines, a 25 minutos.
-- **[Alcalá de Henares](/blog/mercado-cervantino-alcala-de-henares.html)**, la ciudad de Cervantes, a unos 40 minutos.
+- **Alcalá de Henares**, la ciudad de Cervantes, a unos 40 minutos.
 
 <!--faq-->
 
