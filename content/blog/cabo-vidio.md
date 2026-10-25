@@ -19,6 +19,8 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/excursion-aviles-cudillero-luarca/"
 faqTitulo: "Dudas sobre Cabo Vidío"
 faq:
+  - q: "¿Cuándo se inauguró el faro de Cabo Vidío?"
+    a: "En 1950."
   - q: "¿Qué es Cabo Vidío?"
     a: "Un cabo con faro y acantilados de casi 100 m en Cudillero."
   - q: "¿Cuándo se inauguró el faro?"
@@ -61,6 +63,11 @@ Te cuento qué ver, cómo llegar y qué tener en cuenta 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Cudillero:</strong> <a href='/blog/cudillero-que-ver.html'>pueblo marinero</a> con casas de colores.</li><li><strong>Playa del Silencio:</strong> <a href='/blog/playa-del-silencio.html'>playa de cantos</a> a poca distancia.</li><li><strong>Luarca:</strong> <a href='/blog/luarca-que-ver.html'>Villa Blanca</a> hacia el oeste.</li><li><strong>Quinta de Selgas:</strong> palacio-museo del siglo XIX con arte de Goya y El Greco (confirma horarios).</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más datos</span><h2>Un faro levantado después de varios naufragios</h2></div>
+<p>La Dirección General de Puertos solo había previsto una simple señal en este cabo, pero tras varios <strong>naufragios</strong> se decidió construir un faro. Las obras se proyectaron en 1944 y el faro, obra del arquitecto <strong>José María González del Valle</strong>, entró en funcionamiento en <strong>1950</strong>. Sigue activo, automatizado, y no se puede visitar por dentro.</p>
+<p>La altura de los acantilados que se citan (entre 80 y casi 100 metros) varía según la fuente, pero la caída es muy vertical. Muy cerca está <strong>La Iglesiona</strong>, una gran cueva marina que solo se puede recorrer con marea baja y con mucha precaución.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> hasta Oviñana (Cudillero) y de ahí al cabo, por carretera local.</p><p><strong>Sin coche:</strong> el transporte público es limitado; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cabo+Vidío" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -19,6 +19,8 @@ actividades:
     u: "https://www.civitatis.com/es/gijon/free-tour-gijon/"
 faqTitulo: "Dudas sobre Cabo Peñas"
 faq:
+  - q: "¿Cuándo se encendió el faro de Cabo Peñas?"
+    a: "El 15 de agosto de 1852."
   - q: "¿Qué es Cabo Peñas?"
     a: "Un cabo del concejo de Gozón con un faro, acantilados y vistas al mar Cantábrico."
   - q: "¿Desde cuándo funciona el faro?"
@@ -63,6 +65,11 @@ Te cuento qué ver, qué hay en el faro y qué otros sitios visitar cerca 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Luanco:</strong> pueblo marinero con puerto, playa e iglesia.</li><li><strong>Verdicio:</strong> playa y zona de baño al oeste.</li><li><strong>Candás:</strong> pueblo pesquero cercano.</li><li><strong>Cerca:</strong> <a href='/blog/aviles-que-ver.html'>Avilés</a> y <a href='/blog/gijon-que-ver.html'>Gijón</a>.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más datos</span><h2>El faro más potente de Asturias</h2></div>
+<p>El faro del <strong>Cabo Peñas</strong> se encendió por primera vez el <strong>15 de agosto de 1852</strong>. Funcionaba con una lámpara de aceite con mecanismo de relojería, y se electrificó en <strong>1946</strong>; la linterna actual es de <strong>1930</strong>. Su luz llega a unas <strong>41 millas</strong> en días claros, la mayor de la costa asturiana, y es uno de los pocos faros de España que todavía tiene farero.</p>
+<p>El edificio acoge un centro de interpretación con salas dedicadas a la historia de los faros, la relación con el mar y la biodiversidad marina. Todo el cabo es <strong>Paisaje Protegido</strong> y forma parte de la Red Natura 2000.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Avilés o Gijón hasta Gozón y sigue las indicaciones a Cabo Peñas (el último tramo es de carretera local).</p><p><strong>Sin coche:</strong> hay autobuses a Luanco desde Gijón; el último tramo se hace en coche o a pie. <strong>Confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cabo+de+Peñas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

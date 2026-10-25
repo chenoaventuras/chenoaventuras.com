@@ -19,6 +19,8 @@ actividades:
     u: "https://www.civitatis.com/es/llanes/free-tour-llanes/"
 faqTitulo: "Dudas sobre Torimbia"
 faq:
+  - q: "¿Es Torimbia una playa nudista?"
+    a: "Sí, es una playa de uso naturista, aunque cada persona puede bañarse con o sin ropa."
   - q: "¿Dónde está Torimbia?"
     a: "En Niembro, concejo de Llanes."
   - q: "¿Cuánto mide?"
@@ -62,6 +64,11 @@ Te cuento cómo llegar, cómo se comporta con la marea y qué ver cerca 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Llanes:</strong> <a href='/blog/llanes-que-ver.html'>villa marinera</a> a pocos minutos.</li><li><strong>Gulpiyuri:</strong> <a href='/blog/playa-de-gulpiyuri.html'>playa sin mar</a>.</li><li><strong>Cuevas del Mar:</strong> playa y arcos naturales en el entorno de Nueva.</li><li><strong>Ribadesella:</strong> <a href='/blog/ribadesella-que-ver.html'>Tito Bustillo y el Sella</a>.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más datos</span><h2>Un paisaje protegido a pie desde Niembro</h2></div>
+<p>Torimbia mide unos <strong>500 metros</strong> de arena y su anchura cambia mucho con la marea (de unos 75 a unos 100 metros). Está dentro del <strong>Paisaje Protegido de la Costa Oriental de Asturias</strong>, al pie de la sierra de Cuera, y se llega a pie desde <strong>Niembro</strong> por una carretera asfaltada hasta el cabo Prieto y un camino de bajada hasta la arena.</p>
+<p>Es conocida por ser una playa de uso <strong>naturista</strong> (con ropa o sin ella). En verano tiene socorristas y un chiringuito, y con marea baja se puede ir andando hasta las pequeñas playas de <strong>Portacos</strong> y <strong>Peñadrada</strong>. Consulta las normas vigentes (por ejemplo, restricciones a perros en temporada).</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> hasta Niembro y de ahí por el camino señalizado (2 km a pie).</p><p><strong>Sin coche:</strong> el transporte público es limitado; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa+de+Torimbia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

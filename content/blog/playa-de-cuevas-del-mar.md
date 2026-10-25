@@ -19,6 +19,8 @@ actividades:
     u: "https://www.civitatis.com/es/llanes/tour-kayak-llanes/"
 faqTitulo: "Dudas sobre Cuevas del Mar"
 faq:
+  - q: "¿Por qué se llama Cuevas del Mar?"
+    a: "Porque el mar ha excavado cuevas y túneles en los acantilados de caliza."
   - q: "¿Dónde está Cuevas del Mar?"
     a: "En Nueva, concejo de Llanes."
   - q: "¿Cuánto mide?"
@@ -59,6 +61,11 @@ Te cuento cómo llegar, cómo cambia con la marea y qué ver cerca 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Llanes:</strong> <a href='/blog/llanes-que-ver.html'>villa marinera</a>.</li><li><strong>Torimbia:</strong> <a href='/blog/playa-de-torimbia.html'>playa nudista</a> cercana.</li><li><strong>Bufones de Pría:</strong> <a href='/blog/bufones-de-pria.html'>chorros de agua en la costa</a>.</li><li><strong>Gulpiyuri:</strong> <a href='/blog/playa-de-gulpiyuri.html'>la playa sin mar</a>.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más datos</span><h2>Una playa tallada por el mar</h2></div>
+<p>El nombre de <strong>Cuevas del Mar</strong> viene de lo que se ve: el oleaje ha ido excavando durante miles de años las paredes de caliza hasta dejar <strong>cuevas, túneles y rocas perforadas</strong>, un paisaje <strong>kárstico</strong> típico del oriente de Asturias. La playa, de unos 125 metros, está en la desembocadura de un pequeño río junto al pueblo de Nueva, y forma parte del <strong>Paisaje Protegido de la Costa Oriental de Asturias</strong>.</p>
+<p>Es una de las playas más fotografiadas de Llanes y muy concurrida en verano, así que conviene ir temprano. Además de bañarse, es un sitio donde se practica buceo y escalada en los acantilados.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> por la A-8 hasta Nueva (Llanes) y las indicaciones a la playa.</p><p><strong>Sin coche:</strong> el transporte público es limitado; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa+de+Cuevas+del+Mar" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

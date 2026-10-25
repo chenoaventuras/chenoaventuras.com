@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el faro de Chipiona"
 faq:
+  - q: "¿Cuántos escalones tiene el faro de Chipiona?"
+    a: "Entre 322 y 344, según la fuente."
+  - q: "¿Se puede subir al faro de Chipiona?"
+    a: "Hay visitas guiadas al interior desde 1998, pero no se llega a la linterna."
   - q: "¿Cuál es el faro más alto de España?"
     a: "El faro de Chipiona, en Cádiz, con 62 metros de altura."
   - q: "¿Se puede subir al faro de Chipiona?"
@@ -71,6 +75,11 @@ Te cuento por qué está aquí, su curiosa conexión con los romanos y qué hace
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Obras, escalones y un faro romano que no se ha encontrado</h2></div>
+<p>La primera piedra se puso el <strong>30 de abril de 1863</strong>, y el faro se encendió por primera vez a finales de <strong>1867</strong>, según el proyecto del ingeniero <strong>Jaime Font Escolá</strong>. Las obras se dieron por acabadas en <strong>1869</strong>. La torre mide <strong>62 metros</strong> (unos 69 contando la base), y las fuentes dan entre <strong>322 y 344 escalones</strong>.</p>
+<p>La relación con la torre romana atribuida a <strong>Quinto Servilio Cepión</strong> (140 a. C.) es una tradición histórica: no se han conservado restos de aquella construcción. Desde <strong>1998</strong> se organizan visitas turísticas al interior, pero no se puede subir a la linterna porque sigue en funcionamiento.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al faro de Chipiona</h2></div>
 <div class="guide__howto"><p>Desde <strong>Jerez de la Frontera</strong> son unos 35 km por la A-480. Desde <strong>Sanlúcar de Barrameda</strong>, unos 10 km.</p><p>El faro está al final del paseo marítimo, se llega andando desde el centro del pueblo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Faro%20de%20Chipiona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -17,6 +17,10 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/excursion-aviles-cudillero-luarca/"
 faqTitulo: "Dudas sobre Barayo"
 faq:
+  - q: "¿Desde cuándo está protegida la playa de Barayo?"
+    a: "Desde 1995, como Reserva Natural Parcial."
+  - q: "¿Cómo se llega a la playa de Barayo?"
+    a: "Se deja el coche en un aparcamiento y se camina unos 800 metros por una pista forestal."
   - q: "¿Dónde está Barayo?"
     a: "Entre Navia y Valdés, en la costa occidental."
   - q: "¿Cuánto mide?"
@@ -58,6 +62,11 @@ Te cuento cómo llegar, qué ver y las normas del lugar 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Luarca:</strong> <a href='/blog/luarca-que-ver.html'>Villa Blanca</a>.</li><li><strong>Cudillero:</strong> <a href='/blog/cudillero-que-ver.html'>pueblo marinero</a>.</li><li><strong>Puerto de Vega:</strong> pueblo marinero al lado.</li><li><strong>Respeto:</strong> Evita las dunas y el estuario: es una reserva.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más datos</span><h2>Una reserva natural entre dos concejos</h2></div>
+<p>La playa y su entorno son la <strong>Reserva Natural Parcial de Barayo</strong>, declarada en <strong>1995</strong>. Protege unos <strong>3,4 km²</strong> en el límite entre los concejos de Valdés y Navia, desde la Punta de Arnao hasta la Punta de los Aguiones, con la <strong>ría de Barayo</strong>, un sistema de dunas, marismas y varios islotes. También forma parte de la zona de especial protección para aves de Peñarronda-Barayo.</p>
+<p>Es un buen sitio para ver <strong>aves marinas</strong> y, con suerte, <strong>nutrias</strong> en el río. Para llegar hay que dejar el coche en un aparcamiento y caminar unos <strong>800 metros</strong> por un camino entre el bosque; por eso la playa se mantiene tan tranquila y sin servicios.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> por la A-8 hasta Navia/Valdés y de ahí a Barayo; deja el coche en el aparcamiento junto al pueblo.</p><p><strong>Sin coche:</strong> el transporte público es limitado; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa+de+Barayo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
