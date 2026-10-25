@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Frómista y el Canal de Castilla"
 faq:
+  - q: "¿Cuándo se construyó la iglesia de San Martín de Frómista?"
+    a: "En 1066, por orden de la reina doña Mayor."
+  - q: "¿Para qué se construyó el Canal de Castilla?"
+    a: "Para transportar cereal y otras mercancías de Castilla hacia el Cantábrico; se empezó a mediados del siglo XVIII."
   - q: "¿Qué tiene de especial San Martín de Frómista?"
     a: "Es una de las iglesias románicas más puras y perfectas de España, del siglo XI, con más de 300 canecillos tallados en sus aleros. Es Monumento Nacional desde 1894."
   - q: "¿Qué es el Canal de Castilla?"
@@ -69,6 +73,11 @@ Te cuento qué ver en San Martín, la historia del canal, cómo navegarlo en bar
 
 <div class="guide__head"><span class="eyebrow">Camino de Santiago</span><h2>Frómista, parada jacobea</h2></div>
 <p>Frómista es final de etapa del <strong>Camino Francés</strong>, y verás peregrinos por todas partes. Además de San Martín, pasea por la iglesia de <strong>San Pedro</strong> y la de <strong>Santa María del Castillo</strong>, y busca la estatua de <strong>San Telmo</strong>, patrón de los marineros, que nació en Frómista (curioso, un patrón del mar en plena meseta). El pueblo celebra en su honor las fiestas de San Telmo, el lunes de Pascua.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Un románico perfecto y un canal de ingeniería</h2></div>
+<p>La iglesia de <strong>San Martín</strong> la mandó construir en <strong>1066</strong> la reina <strong>doña Mayor</strong>, viuda de Sancho III de Navarra, como parte de un monasterio. Es uno de los mejores ejemplos del <strong>románico puro</strong> en España, tanto que entre <strong>1896 y 1904</strong> se restauró eliminando las capillas y la torre que se habían añadido con los siglos para devolverle su aspecto original. Por eso para algunos es «demasiado perfecta».</p>
+<p>El <strong>Canal de Castilla</strong> es una obra de ingeniería ilustrada que se empezó a mediados del <strong>siglo XVIII</strong> para dar salida al trigo y a otros productos de Castilla hasta el Cantábrico. Las <strong>cuatro esclusas</strong> de Frómista, que salvan un desnivel con una sola «escalera» de agua, son el conjunto más grande de los tres ramales del canal. Hoy se recorre andando o en bici por los caminos de sirga.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Frómista</h2></div>
 <div class="guide__howto"><p><strong>Desde Palencia:</strong> unos 30 km por la A-67 (media hora).</p><p><strong>Desde Burgos:</strong> unos 80 km por la A-231.</p><p><strong>Desde Madrid:</strong> unos 270 km (2 horas y 45 minutos). Hay estación de tren en Frómista en la línea Palencia-Santander.</p><p><strong>Dónde aparcar:</strong> sin problema junto a San Martín o en las calles de alrededor, y junto a la esclusa.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20San%20Mart%C3%ADn%2C%20Fr%C3%B3mista" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Sierra de Cazorla"
 faq:
+  - q: "¿Es el mayor parque natural de España?"
+    a: "Sí, con más de 200.000 hectáreas es el mayor espacio protegido del país."
+  - q: "¿Qué ríos nacen en Cazorla?"
+    a: "El Guadalquivir y el Segura."
   - q: "¿Qué ver en la Sierra de Cazorla en un fin de semana?"
     a: "El pueblo de Cazorla con las ruinas de Santa María y el castillo de la Yedra, La Iruela, la Cerrada del Utrero, el nacimiento del Guadalquivir, la ruta del río Borosa y el embalse del Tranco."
   - q: "¿Es la Sierra de Cazorla el parque natural más grande de España?"
@@ -76,6 +80,11 @@ Te cuento qué ver en el pueblo de Cazorla, las rutas imprescindibles, los puebl
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/sierra-de-cazorla/cabra-montes.webp" alt="Cabra montés en las rocas de la Cerrada del Utrero" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La fauna</h3><p>Cabras montesas en los riscos, ciervos en los prados y buitres sobre los cortados. En septiembre y octubre, la <strong>berrea</strong> de los ciervos llena el parque de sonido.</p></div></li>
 </ol>
 <p>Además, merece la pena <strong>Hornos de Segura</strong>, en un peñón sobre el Tranco, con un planetario y un mirador; y los miradores de la carretera del parque, como el de <strong>Rodríguez de la Fuente</strong>.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más datos</span><h2>El mayor espacio protegido de España</h2></div>
+<p>El <strong>Parque Natural de las Sierras de Cazorla, Segura y Las Villas</strong> es el <strong>mayor espacio protegido de España</strong> y uno de los mayores de Europa, con más de <strong>200.000 hectáreas</strong>. Se declaró <strong>Reserva de la Biosfera en 1983</strong> y <strong>Parque Natural en 1986</strong>, y también es zona de especial protección para las aves.</p>
+<p>Aquí nacen dos grandes ríos: el <strong>Guadalquivir</strong> y el <strong>Segura</strong>. Eso explica la abundancia de agua, de bosques de pino laricio, de cascadas y de fauna: ciervos, gamos, cabras monteses y buitres. Algunas fuentes discrepan sobre el punto exacto del nacimiento del Guadalquivir, en el entorno de Quesada y Cazorla.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Sierra de Cazorla</h2></div>
 <div class="guide__howto"><p><strong>A Cazorla:</strong> desde Jaén, unos 100 km por la A-316 y la A-322 (alrededor de 1 hora y media). Desde Granada, unas 2 horas. Desde Madrid, unos 360 km (4 horas). Úbeda y Baeza están a 45 minutos.</p><p><strong>Dentro del parque:</strong> necesitas coche. La carretera principal (A-319) recorre el valle del Guadalquivir hasta el Tranco. Hay muchos tramos de curvas: calcula tiempo de sobra. Aparcamientos en los inicios de ruta y áreas recreativas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Cerrada%20del%20Utrero%2C%20Cazorla" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

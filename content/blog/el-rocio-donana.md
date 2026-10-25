@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre El Rocío y Doñana"
 faq:
+  - q: "¿Cuándo es la romería del Rocío?"
+    a: "En Pentecostés, normalmente en mayo o junio; la salida de la Virgen es de madrugada, el lunes."
   - q: "¿Se puede entrar por libre en el Parque Nacional de Doñana?"
     a: "El interior del Parque Nacional solo se visita con las rutas guiadas autorizadas (en 4x4 desde El Acebuche o combinando barco desde Sanlúcar). Por libre puedes recorrer los senderos de los centros de visitantes y el entorno de El Rocío."
   - q: "¿Cuánto cuesta la visita en 4x4 por Doñana?"
@@ -82,6 +84,11 @@ Te cuento qué ver en la aldea, cómo visitar el Parque Nacional (que no se pued
 
 <div class="guide__head"><span class="eyebrow">Comer</span><h2>Qué comer</h2></div>
 <p>Estás en tierra de <strong>carne de retinto</strong>, <strong>caza</strong>, <strong>jamón de Huelva</strong> (Jabugo, en la sierra), <strong>gambas y coquinas</strong> de la costa, <strong>fresas</strong> en primavera y vinos del Condado de Huelva. Alrededor de la plaza de El Rocío hay varios restaurantes con terraza frente a la marisma.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Una devoción de siglos y la romería más grande de España</h2></div>
+<p>La tradición cuenta que un pastor o cazador encontró una talla de la Virgen en el hueco de un árbol de la marisma, y que en ese lugar se levantó una ermita dedicada a la <strong>Virgen de las Rocinas</strong>. Las referencias documentales de la ermita son de principios del <strong>siglo XIV</strong>, y se dice que pudo existir antes, desde la época de Alfonso X. La Virgen fue nombrada patrona de <strong>Almonte</strong> en <strong>1649</strong>. La ermita original se destruyó con el <strong>terremoto de Lisboa de 1755</strong>, y el santuario actual es del siglo XX.</p>
+<p>La <strong>romería</strong> se celebra en <strong>Pentecostés</strong>: miles de peregrinos llegan en carretas, a caballo y a pie desde toda Andalucía y más allá, atraviesan Doñana y, de madrugada, los almonteños «saltan la reja» para sacar a la Virgen en procesión. Es de las romerías más multitudinarias de España y fue declarada de Interés Turístico Internacional.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a El Rocío</h2></div>
 <div class="guide__howto"><p><strong>Desde Sevilla:</strong> unos 65 km por la A-49 hasta Bollullos o Almonte y la A-483 (unos 50 minutos).</p><p><strong>Desde Huelva:</strong> unos 70 km. El centro de El Acebuche está en la misma A-483, entre El Rocío y Matalascañas.</p><p><strong>Dónde aparcar:</strong> en los aparcamientos de las afueras de la aldea y junto a la ermita. Fuera de fiestas, no hay problema.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Ermita%20del%20Roc%C3%ADo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

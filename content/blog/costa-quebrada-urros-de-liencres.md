@@ -18,7 +18,7 @@ faq:
   - q: '¿Cuándo es mejor ir a la playa de la Arnía?'
     a: 'Con marea baja, que deja ver las capas de roca y las calas, y al atardecer, cuando la luz es más bonita.'
   - q: '¿Es Geoparque de la UNESCO la Costa Quebrada?'
-    a: 'Sí. Fue declarada Geoparque Mundial de la UNESCO en 2023 por su geología.'
+    a: 'Sí. Fue declarada Geoparque Mundial de la UNESCO en 2025 por su geología.'
 comer:
   - n: "Bellota y Garnacha"
     r: 4.6

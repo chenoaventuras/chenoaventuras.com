@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Aigüestortes"
 faq:
+  - q: "¿Cuándo se creó el Parque Nacional de Aigüestortes?"
+    a: "El 21 de octubre de 1955."
+  - q: "¿Qué significa Aigüestortes?"
+    a: "«Aguas torcidas», por los ríos que serpentean en una llanura glaciar."
   - q: "¿Se puede entrar en coche al Parque Nacional de Aigüestortes?"
     a: "No: el interior del parque está cerrado al coche particular. Se puede aparcar a la entrada (Prat de Pierró, desde Espot, o Palanca de la Molina, desde Boí) y seguir a pie, en bici o en los taxis 4x4."
   - q: "¿Cuánto cuesta el taxi 4x4 de Aigüestortes?"
@@ -71,6 +75,11 @@ Te cuento cómo se entra (sin coche), las mejores rutas para todos los niveles, 
 
 <div class="guide__head"><span class="eyebrow">Cerca</span><h2>La Vall de Boí y el románico</h2></div>
 <p>Junto a la entrada de Boí está la <strong>Vall de Boí</strong>, con un conjunto de <strong>iglesias románicas</strong> de los siglos XI y XII declaradas Patrimonio de la Humanidad. La más famosa es <strong>Sant Climent de Taüll</strong>, con su campanario esbelto y la reproducción de su Pantocrátor (el original está en el MNAC de Barcelona). En Espot, el valle del <strong>Noguera Pallaresa</strong> es la capital del rafting. Y al norte, el <a href="/blog/valle-de-aran.html">Valle de Arán</a>. Si te gusta el Pirineo, mira también el <a href="/blog/congost-de-mont-rebei.html">Congost de Mont-rebei</a>, en la misma provincia.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>El único parque nacional de Cataluña</h2></div>
+<p>El <strong>Parque Nacional de Aigüestortes i Estany de Sant Maurici</strong> se creó el <strong>21 de octubre de 1955</strong> y fue el quinto parque nacional de España, el segundo de los Pirineos tras Ordesa. Al principio tenía unas 9.800 hectáreas; una ampliación posterior lo dejó en unas <strong>14.000 hectáreas</strong>, más una zona periférica protegida mayor.</p>
+<p>Es un paisaje <strong>glaciar</strong>: durante las glaciaciones el hielo excavó valles en forma de «U» y dejó cientos de <strong>lagos y estanques</strong> (el número exacto depende de cómo se cuenten) a lo largo de todo el parque. El nombre <em>Aigüestortes</em> («aguas torcidas») se refiere a los ríos que serpentean por una llanura plana, y <em>Sant Maurici</em> es el lago más conocido, bajo la silueta de los <strong>Encantats</strong>. Además, en la Vall de Boí hay iglesias románicas del siglo XI-XII declaradas Patrimonio de la Humanidad.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Aigüestortes</h2></div>
 <div class="guide__howto"><p><strong>A Espot:</strong> desde Lleida, unos 170 km por la C-13 por Sort (unas 2 horas y media). Desde Barcelona, unos 270 km (3 horas y media).</p><p><strong>A Boí:</strong> desde Lleida, unos 150 km por la N-230 hacia el Pont de Suert (2 horas y media).</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Estany%20de%20Sant%20Maurici" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

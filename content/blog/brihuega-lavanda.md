@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la lavanda de Brihuega"
 faq:
+  - q: "¿Qué pasó en Brihuega en 1710?"
+    a: "Se libró la batalla de Brihuega, en la guerra de Sucesión, con victoria de las tropas de Felipe V."
   - q: "¿Cuándo florece la lavanda en Brihuega?"
     a: "Normalmente en la primera quincena de julio, aunque se puede adelantar o retrasar una o dos semanas según el tiempo. A finales de julio o principios de agosto se siega."
   - q: "¿Cuánto cuesta ver los campos de lavanda de Brihuega?"
@@ -76,6 +78,11 @@ Te cuento cuándo ir para pillar la floración, dónde ver los campos, cómo sac
 
 <div class="guide__head"><span class="eyebrow">Comer</span><h2>Qué comer y comprar</h2></div>
 <p>La <strong>miel de la Alcarria</strong>, con denominación de origen, es imprescindible. Prueba también el <strong>cordero asado</strong>, el <strong>morteruelo</strong> y los <strong>bizcochos borrachos</strong> de Guadalajara. Y llévate productos de lavanda: aceite esencial, jabones o miel de lavanda.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La villa de los arzobispos y de una gran batalla</h2></div>
+<p>Brihuega pasó a ser propiedad del <strong>Arzobispado de Toledo</strong> en <strong>1085</strong> y los arzobispos usaron su <strong>castillo de Peña Bermeja</strong>, de origen árabe, como residencia. En <strong>1710</strong>, durante la Guerra de Sucesión, la villa fue escenario de la <strong>batalla de Brihuega</strong>, en la que las tropas de Felipe V derrotaron a un ejército aliado que se retiraba de Madrid.</p>
+<p>Después de la guerra, en <strong>1750</strong> el rey <strong>Fernando VI</strong> fundó aquí una sucursal de la fábrica de paños de Guadalajara, la <strong>Real Fábrica de Paños</strong>, para reactivar la economía local. Es un edificio circular, con una portada barroca y unos jardines en forma de laberinto de setos. La lavanda es mucho más reciente y se ha convertido en la imagen del pueblo.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Brihuega</h2></div>
 <div class="guide__howto"><p><strong>Desde Madrid:</strong> unos 90 km por la <strong>A-2</strong> hasta la salida de Torija o Brihuega (alrededor de una hora y cuarto).</p><p><strong>Desde Guadalajara:</strong> unos 33 km.</p><p><strong>Dónde aparcar:</strong> en el pueblo hay aparcamientos junto a la muralla; en temporada de lavanda, los fines de semana, llega pronto. Para los campos, necesitas el coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Campos%20de%20lavanda%20Brihuega" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
