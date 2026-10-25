@@ -71,6 +71,10 @@ Te cuento cómo hacerla sin morir en el intento (y cómo volver, que es la gran 
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> de mayo a octubre; con lluvia o nieve el camino puede ser peligroso.</li><li><strong>Qué llevar:</strong> calzado cómodo, agua, comida y chubasquero; la ruta es larga.</li><li><strong>Ojo:</strong> hay tramos junto a un precipicio: no hagas fotos andando y vigila a los niños.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Ruta del Cares</h2></div>
 <div class="guide__howto"><p>La mayoría empieza en <strong>Poncebos</strong>, a unos 30 minutos de Arenas de Cabrales. El primer tramo desde allí es el más duro: unos 2 km de subida fuerte.</p><p>Como es una ruta lineal, piensa antes cómo volver: hacer <strong>ida y vuelta</strong> (24 km), o solo ida y volver en <strong>taxi o transfer</strong>. Por carretera, Caín y Poncebos están a más de 2 horas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Poncebos%2C%20Asturias" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

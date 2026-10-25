@@ -71,6 +71,10 @@ La foto de portada es mía, en el mirador, y te aseguro que las piernas se olvid
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> de junio a octubre; con nieve o hielo es una ruta muy peligrosa.</li><li><strong>Qué llevar:</strong> botas con buen agarre, bastones, agua y comida; la subida es dura.</li><li><strong>Ojo:</strong> hay tramos expuestos en la faja: evítalos si tienes vértigo.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al inicio de la senda</h2></div>
 <div class="guide__howto"><p>La ruta empieza en la <strong>Pradera de Ordesa</strong>, a la que se llega desde Torla. En <strong>temporada alta</strong> (verano y fechas punta) no se puede subir en coche a la Pradera de Ordesa: se deja el coche en el <strong>parking de Torla</strong> y se sube en <strong>autobús lanzadera</strong> (6 € ida y vuelta, 4 € solo ida, gratis para menores de 10 años; los billetes se compran en el parking de Torla, no hay venta online). El valle tiene un aforo máximo de 1.800 personas a la vez, así que en agosto conviene madrugar.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Aparcamiento+de+autobuses%2C+Torla-Ordesa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Parking de Torla en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Pradera+de+Ordesa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Pradera de Ordesa</a></div></div>
 

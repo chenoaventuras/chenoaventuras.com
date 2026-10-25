@@ -63,6 +63,10 @@ Te cuento el trazado, los tramos y cómo organizarla 👇
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Peñas Juntas:</strong> desfiladero espectacular.</li><li><strong>Teverga:</strong> valle con prados y pueblos.</li><li><strong>Quirós:</strong> valle de montaña.</li><li><strong>Oviedo:</strong> <a href='/blog/oviedo-que-ver.html'>la capital</a> está a unos 30-40 minutos.</li></ul>
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> todo el año; en primavera y otoño hay menos calor y menos gente.</li><li><strong>Qué llevar:</strong> una luz (linterna o la de la bici) por si algún túnel está oscuro, agua y algo de abrigo.</li><li><strong>Ojo:</strong> los túneles son frescos y algo húmedos incluso en verano.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Oviedo hasta Tuñón o Proaza (menos de una hora).</p><p><strong>Sin coche:</strong> hay autobuses a Proaza desde Oviedo; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Proaza" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

@@ -71,6 +71,10 @@ Te cuento la ruta paso a paso, las playas, la subida al volcán y todo lo que ne
 <div class="guide__head"><span class="eyebrow">Curiosidad</span><h2>La octava isla de Canarias</h2></div>
 <p>Durante años, La Graciosa fue «el islote» de Lanzarote. En <strong>2018</strong>, el Senado aprobó por unanimidad reconocerla como la <strong>octava isla habitada de Canarias</strong>, aunque administrativamente sigue perteneciendo al municipio de <strong>Teguise</strong>. Tiene unos pocos cientos de habitantes, casi todos en Caleta de Sebo, y ni una sola carretera asfaltada.</p>
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> todo el año; en verano el sol es fuerte y no hay sombra.</li><li><strong>Qué llevar:</strong> agua, comida, gorra, crema y calzado cómodo para caminar por arena.</li><li><strong>Ojo:</strong> el viento puede ser fuerte y las corrientes en las playas también: baña solo si el mar está tranquilo.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a La Graciosa</h2></div>
 <div class="guide__howto"><p><strong>En barco:</strong> desde Órzola, en el norte de Lanzarote, en unos 25 minutos.</p><p><strong>Por la isla:</strong> andando, en bici de alquiler o en taxi 4x4 desde el puerto de Caleta de Sebo.</p><p><strong>Consejo:</strong> coge el primer barco y vuelve en el último para aprovechar el día.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Monta%C3%B1a%20Amarilla%2C%20La%20Graciosa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

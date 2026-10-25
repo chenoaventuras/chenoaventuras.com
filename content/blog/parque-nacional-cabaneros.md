@@ -66,6 +66,10 @@ Te cuento qué ver, las mejores rutas, cuándo ir para escuchar la berrea y la c
 <div class="guide__head"><span class="eyebrow">Fauna</span><h2>Qué animales se pueden ver</h2></div>
 <p>Además de <strong>ciervos</strong>, que verás casi seguro, en Cabañeros viven corzos, jabalíes, zorros y, aunque son muy difíciles de ver, gatos monteses. Es un paraíso para los aficionados a las aves: tiene una importante población de <strong>buitre negro</strong>, además de buitres leonados, <strong>águila imperial ibérica</strong>, águila real, cigüeña negra y, en invierno, grullas. Lleva prismáticos y madruga.</p>
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> otoño para la berrea y primavera para el campo verde; en verano hace mucho calor.</li><li><strong>Qué llevar:</strong> prismáticos, calzado cómodo y ropa de colores neutros.</li><li><strong>Mejor hora:</strong> amanecer y atardecer, cuando los ciervos salen a la raña.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Cabañeros</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Ciudad Real, alrededor de una hora hasta Horcajo de los Montes o Casa Palillos; desde Toledo y Madrid, entra por los Montes de Toledo.</p><p><strong>Centros de visitantes:</strong> Horcajo de los Montes, Casa Palillos (carretera de Pueblonuevo del Bullaque a Santa Quiteria) y Torre de Abraham. Infórmate allí de rutas, reservas y la berrea. No hay transporte público útil: necesitas coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Centro%20de%20visitantes%20Casa%20Palillos%2C%20Caba%C3%B1eros" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

@@ -68,6 +68,10 @@ Lo mejor es que la puedes adaptar: desde un paseo de un par de horas hasta un d�
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> primavera, otoño y principios de verano; en pleno invierno puede haber hielo.</li><li><strong>Qué llevar:</strong> calzado de monte, agua y comida; para la ruta larga, frontal por si se hace tarde.</li><li><strong>Ojo:</strong> la vuelta es el mismo camino: calcula las horas de luz.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al río Borosa</h2></div>
 <div class="guide__howto"><p>La ruta empieza junto a la <strong>antigua piscifactoría del río Borosa</strong>, en el desvío de la carretera <strong>A-319</strong> pasado el Centro de Visitantes de la <strong>Torre del Vinagre</strong>, en pleno parque natural.</p><p>Hay zona de aparcamiento al inicio, pero en puentes y fines de semana de primavera y otoño se llena pronto. El pueblo grande más cercano para dormir es <strong>Cazorla</strong>, aunque hay alojamientos más cerca, en la zona de Coto Ríos y Arroyo Frío.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sendero+del+Río+Borosa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

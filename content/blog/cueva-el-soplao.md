@@ -74,6 +74,10 @@ Se descubrió excavando una **mina de plomo y zinc**, y hoy la visita empieza su
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> todo el año: dentro siempre hay unos 12-13 ºC.</li><li><strong>Qué llevar:</strong> una chaqueta y calzado cómodo con suela de goma.</li><li><strong>Consejo:</strong> reserva con antelación en verano y puentes.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a El Soplao</h2></div>
 <div class="guide__howto"><p>En <strong>coche</strong>: desde la A-8 toma la salida de Pesués o de Cabezón de la Sal y sigue las indicaciones hacia Celis y El Soplao. La última parte es una carretera de montaña con curvas.</p><p>El <strong>aparcamiento es gratuito</strong>. Desde allí se accede al centro de visitantes, donde se coge el tren.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cueva%20El%20Soplao%2C%20Celis%2C%20Cantabria" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

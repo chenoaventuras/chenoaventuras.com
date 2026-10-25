@@ -77,6 +77,10 @@ La foto de portada es mía, dando saltos de alegría al llegar arriba (literalme
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> de junio a octubre; antes puede haber nieve en los ibones.</li><li><strong>Qué llevar:</strong> botas, chubasquero y una capa de abrigo: en alta montaña el tiempo cambia rápido.</li><li><strong>Evita:</strong> salir tarde con tormentas de verano: en el Pirineo suelen caer por la tarde.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al inicio de la ruta</h2></div>
 <div class="guide__howto"><p>Desde <strong>Sallent de Gállego</strong> o Formigal, sigue la carretera A-136 hacia el Portalet. El punto de inicio es el <strong>Corral de las Mulas</strong>, donde hay espacio para aparcar.</p><p>En invierno la zona está nevada y la ruta cambia por completo: solo con raquetas o esquís y con experiencia en montaña invernal.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Corral+de+las+Mulas%2C+Formigal" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Corral de las Mulas en Google Maps</a></div></div>
 

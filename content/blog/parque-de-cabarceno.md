@@ -74,6 +74,10 @@ Está a solo 17 km de Santander y es, con diferencia, el plan más famoso de Can
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> primavera y otoño son las mejores épocas, con temperaturas suaves.</li><li><strong>Qué llevar:</strong> calzado cómodo, comida y agua si quieres hacer picnic, y paraguas.</li><li><strong>Consejo:</strong> llega pronto: se tarda un día entero en recorrerlo.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Parque de Cabárceno</h2></div>
 <div class="guide__howto"><p>En <strong>coche</strong> es lo más práctico, porque además lo necesitas para moverte por dentro del parque. Desde Santander son unos 20 minutos por la S-10 y la A-8, saliendo hacia Sobarzo o Cabárceno.</p><p>Hay tres accesos: <strong>Obregón</strong> (el principal, con oficina de información, reptilario y cafetería), <strong>Cabárceno pueblo</strong> y <strong>Sobarzo</strong>. Te recomiendo entrar por Obregón y pedir allí el mapa en papel.</p><p>Sin coche, hay excursiones organizadas desde Santander que incluyen el transporte.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Parque%20de%20la%20Naturaleza%20de%20Cab%C3%A1rceno%2C%20Obreg%C3%B3n" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

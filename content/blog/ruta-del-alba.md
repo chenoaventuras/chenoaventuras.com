@@ -57,6 +57,10 @@ Te cuento el recorrido, qué ver y qué tener en cuenta antes de ir 👇
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Redes:</strong> <a href='/blog/parque-natural-de-redes.html'>qué ver en el parque</a>.</li><li><strong>Brañagallones:</strong> otra ruta clásica del parque.</li><li><strong>Campo de Caso:</strong> museo de la madera y base de visita.</li><li><strong>Senda del Oso:</strong> <a href='/blog/senda-del-oso.html'>otra ruta fácil</a>.</li></ul>
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> todo el año, pero con lluvia el camino resbala.</li><li><strong>Qué llevar:</strong> calzado de monte y agua; no hay servicios en el recorrido.</li><li><strong>Ojo:</strong> es una ruta muy frecuentada: consulta posibles limitaciones de acceso antes de ir.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> hasta Soto de Agües por carreteras de montaña; aparca donde se indique.</p><p><strong>Sin coche:</strong> el transporte público es muy limitado; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Soto+de+Agües" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

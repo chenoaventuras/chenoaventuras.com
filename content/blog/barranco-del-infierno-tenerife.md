@@ -76,6 +76,10 @@ El **Barranco del Infierno** es una de las rutas más famosas de la isla, con pl
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> todo el año, pero mejor por la mañana: al mediodía el barranco se calienta.</li><li><strong>Qué llevar:</strong> zapatillas con buen agarre, agua, gorra y ropa ligera; el casco te lo dan en la entrada.</li><li><strong>Ojo:</strong> el acceso está limitado y se cierra con lluvias o alerta meteorológica: confirma tu reserva el día anterior.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a el Barranco del Infierno</h2></div>
 <div class="guide__howto"><p>Desde <strong>Costa Adeje</strong> o <strong>Los Cristianos</strong>, en 10-20 minutos en coche hasta el casco de Adeje. La ruta empieza al final de la calle de los Molinos, por encima del pueblo.</p><p>El aparcamiento junto a la salida es pequeño: mejor dejar el coche en el pueblo y subir andando. Hay que llegar <strong>15 minutos antes</strong> de la hora de tu reserva.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Barranco%20del%20Infierno%2C%20Adeje" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

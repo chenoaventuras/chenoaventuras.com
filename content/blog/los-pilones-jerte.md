@@ -76,6 +76,10 @@ Se llega con una ruta corta y fácil, y en verano es una de las mejores piscinas
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> de finales de primavera a septiembre para bañarte; el agua es muy fría casi todo el año.</li><li><strong>Qué llevar:</strong> bañador, toalla, calzado antideslizante y algo de abrigo para después.</li><li><strong>Ojo:</strong> las rocas mojadas resbalan: no saltes sin comprobar la profundidad.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Los Pilones</h2></div>
 <div class="guide__howto"><p>La ruta sale del <strong>Centro de Interpretación de la Reserva Natural Garganta de los Infiernos</strong>, entre Jerte y Cabezuela del Valle, junto a la N-110. Desde Plasencia se tarda unos 40 minutos.</p><p>Hay aparcamiento junto al centro. En verano y fines de semana se llena pronto: llega a primera hora.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Centro+de+Interpretación+Garganta+de+los+Infiernos" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

@@ -69,6 +69,10 @@ Te cuento cómo hacerla y qué ver en **Alquézar** antes o después 👇
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> de primavera a otoño; en verano ve a primera hora.</li><li><strong>Qué llevar:</strong> calzado con suela de agarre y agua.</li><li><strong>Ojo:</strong> con lluvia fuerte el recorrido puede cerrar: consulta el estado antes de ir.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Alquézar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Huesca</strong>, por la A-22 hacia Barbastro y el desvío a Alquézar (unos 45 minutos). Desde Barbastro, 25 minutos.</p><p>Deja el coche en los <strong>aparcamientos de la entrada</strong> del pueblo. La ruta de las pasarelas sale del mismo Alquézar, y la entrada se compra online o en el pueblo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pasarelas%20de%20Alqu%C3%A9zar" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

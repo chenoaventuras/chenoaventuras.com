@@ -79,6 +79,10 @@ Te las enseño en vídeo 👇
 
 <!--actividades-->
 
+<!--cuando-->
+<div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> verano y principios de otoño, con todos los días abiertos; fuera de temporada, solo fines de semana.</li><li><strong>Qué llevar:</strong> calzado cómodo y cortavientos: el cañón es fresco.</li><li><strong>Recuerda:</strong> hay edad y altura mínimas y no se admiten mochilas grandes, carritos ni mascotas.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a las Pasarelas de Panticosa</h2></div>
 <div class="guide__howto"><p>Las pasarelas salen del propio pueblo de <strong>Panticosa</strong>, en el Valle de Tena. Aparca en el pueblo y sigue las indicaciones hasta la máquina de tickets del inicio.</p><p>No hay fuentes en el recorrido: lleva la botella llena.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pasarelas+de+Panticosa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Panticosa en Google Maps</a></div></div>
 
