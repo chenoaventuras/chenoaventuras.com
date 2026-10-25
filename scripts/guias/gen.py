@@ -548,7 +548,8 @@ def build(key, posts, tmp):
         for lvl in (1, 2, 3, 4, 5, 6):
             tight[c] = lvl
             fill = render(best)
-            if pages(out) < before:
+            # vale cuando el final del capítulo ya no queda casi vacío (no basta con ahorrar una página dentro)
+            if pages(out) <= before and dict(chapter_tails(out, len(places))).get(c, 1) >= 0.3:
                 break
         else:
             del tight[c]
