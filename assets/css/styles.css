@@ -563,6 +563,8 @@ p { margin: 0 0 1em; }
 .guide__plan li b { color: #fff; }
 .article__body .guide__plan p { margin: 0; color: rgba(255,255,255,.88); }
 .guide__plan strong { color: var(--gold-soft); }
+.article__body .guide__plan a { color: var(--gold-soft); text-decoration: underline; text-underline-offset: 3px; }
+.article__body .guide__plan a:hover { color: #fff; }
 .guide__cta { text-align: center; padding: clamp(48px, 8vw, 84px) 0 20px; }
 .article__body .guide__cta > p { max-width: 46ch; margin-inline: auto; color: var(--ink-soft); }
 .article__body a.guide__btn { --btn-bg: var(--gold); --btn-fg: var(--night); color: var(--night); border-color: var(--gold); font-size: 1rem; padding: 1em 2.4em; margin: 10px 0 18px; box-shadow: var(--shadow-md); }
