@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Tarazona"
 faq:
+  - q: "¿Qué es el Cipotegato?"
+    a: "Una fiesta de Tarazona, el 27 de agosto, en la que un personaje vestido de colores sale corriendo y la gente le lanza tomates."
+  - q: "¿Cómo era la ciudad romana de Tarazona?"
+    a: "Se llamaba Turiaso y era un municipio importante del valle del Ebro."
   - q: "¿Qué ver en Tarazona?"
     a: "La Catedral de Santa María de la Huerta, la Plaza de Toros Vieja, la judería con las Casas Colgadas, la Plaza de España y el Palacio Episcopal."
   - q: "¿Por qué es especial la plaza de toros de Tarazona?"
@@ -54,7 +58,12 @@ Una **catedral mudéjar**, una **plaza de toros octogonal** rodeada de viviendas
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Si tienes más días</span><h2>El Moncayo y los alrededores</h2></div>
 <p>El Moncayo, el Monasterio de Veruela, el Monasterio de Piedra y Zaragoza están cerca.</p>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>De ciudad romana a capital mudéjar</h2></div>
+<p>Tarazona fue la ciudad romana de <strong>Turiaso</strong>, un municipio importante del valle del Ebro, y durante la Edad Media fue sede de un obispado y residencia real. Convivieron aquí cristianos, judíos y musulmanes, y de ahí viene su arquitectura <strong>mudéjar</strong>: en la torre de la catedral y en la decoración de ladrillo se ve la mano de los maestros musulmanes que trabajaron para los reyes cristianos.</p>
+<p>La <strong>catedral de Santa María de la Huerta</strong> se empezó a construir en el siglo XII y se terminó siglos después, por lo que mezcla estilos. La <strong>Plaza de Toros Vieja</strong>, de 1792, es octogonal y está rodeada de viviendas, de modo que desde los balcones se veía la corrida. Las <strong>Casas Colgadas</strong> se asoman al río Queiles, y cada 27 de agosto el pueblo celebra el <strong>Cipotegato</strong>, una fiesta única en la que un personaje vestido de colores corre perseguido por la gente.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Zaragoza, por carretera hacia Tarazona, en algo más de una hora. Deja el coche abajo y sube a pie por las calles del casco antiguo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Tarazona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Tarazona en un día</h2><ul><li><b>Mañana</b>: Catedral y Plaza de Toros Vieja.</li><li><b>Mediodía</b>: Comida en el casco antiguo.</li><li><b>Tarde</b>: Judería y Casas Colgadas.</li><li><b>Atardecer</b>: Plaza de España y mirador del Palacio Episcopal.</li><li><b>Si tienes más días</b>: el Moncayo, el Monasterio de Veruela y los pueblos de la comarca.</li></ul></div>

@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Alicante"
 faq:
+  - q: "¿Cuándo son las Hogueras de Alicante?"
+    a: "Del 20 al 24 de junio; la gran quema de las figuras es la noche del 24."
   - q: "¿Qué ver en Alicante en un día?"
     a: "La Explanada de España, el barrio de Santa Cruz, la playa del Postiguet, la Concatedral de San Nicolás y el Castillo de Santa Bárbara."
   - q: "¿Se sube andando al Castillo de Santa Bárbara?"
@@ -55,7 +57,12 @@ Una **fortaleza sobre un monte** con vistas a todo el mar, un paseo con suelo on
 <p>Con un día más, sal al mar o al interior: el <a href="https://www.civitatis.com/es/alicante/ferry-isla-tabarca/?aid=110968" target="_blank" rel="noopener sponsored">ferry a la isla de Tabarca</a> o una <a href="https://www.civitatis.com/es/alicante/excursion-guadalest-altea/?aid=110968" target="_blank" rel="noopener sponsored">excursión a Guadalest y Altea</a>. Cerca están Cala Granadella y otras calas de la Costa Blanca.</p>
 <p style="margin:1.2rem 0 .5rem;font-weight:700">🎟️ Actividades para reservar</p><ul class="actbox" style="margin-bottom:2rem"><li><a href="https://www.civitatis.com/es/alicante/ferry-isla-tabarca/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Ferry a la isla de Tabarca</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li><li><a href="https://www.civitatis.com/es/alicante/excursion-guadalest-altea/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Excursión a Guadalest, Altea y las Fuentes del Algar</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Del monte Benacantil al paseo marítimo</h2></div>
+<p>El <strong>Castillo de Santa Bárbara</strong> corona el monte Benacantil desde hace más de mil años: de origen musulmán, fue ampliado por los cristianos y se mantuvo como fortaleza hasta el siglo XVIII. La ciudad se extendió después alrededor del puerto, y a mediados del XIX se construyó la <strong>Explanada de España</strong>, un paseo con más de seis millones de baldosas de mármol en forma de ola.</p>
+<p>Cada junio se celebran las <strong>Hogueras de San Juan</strong>, la gran fiesta de Alicante, declarada de Interés Turístico Internacional, con grandes figuras de cartón piedra que se queman en la noche del 24.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> la estación está a unos 10-15 minutos andando de la Explanada.</p><p><strong>En coche:</strong> aparca en un parking cerca de la Explanada o del puerto y recorre la ciudad a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Alicante" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Alicante en un día</h2><ul><li><b>Mañana</b>: Explanada de España, Plaza del Ayuntamiento y Concatedral de San Nicolás.</li><li><b>Mediodía</b>: Comida en Santa Cruz y horchata en la Heladería Sirvent.</li><li><b>Tarde</b>: MARQ o baño en el Postiguet.</li><li><b>Atardecer</b>: Castillo de Santa Bárbara.</li><li><b>Noche</b>: Paseo por la Explanada.</li></ul></div>

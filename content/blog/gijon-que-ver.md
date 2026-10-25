@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Gijón"
 faq:
+  - q: "¿Quién nació en Gijón?"
+    a: "El ilustrado Gaspar Melchor de Jovellanos, en 1744."
   - q: "¿Qué ver en Gijón en un día?"
     a: "Cimadevilla, el Elogio del Horizonte, la playa de San Lorenzo con el Muro y, si hay tiempo, la Laboral Ciudad de la Cultura."
   - q: "¿Quién hizo el Elogio del Horizonte?"
@@ -55,7 +57,12 @@ Una escultura de **500 toneladas** frente al mar, un barrio de pescadores sobre 
 <p>La <strong>Laboral Ciudad de la Cultura</strong> es un gran complejo de los años 50, antigua Universidad Laboral, con una torre y un patio monumental: mira <a href='/blog/laboral-ciudad-de-la-cultura.html'>cómo visitarla</a> (hay un <a href="https://www.civitatis.com/es/gijon/free-tour-laboral-ciudad-cultura/?aid=110968" target="_blank" rel="noopener sponsored">free tour por la Laboral</a>). Si prefieres un plan tranquilo, el <a href='/blog/jardin-botanico-atlantico.html'>Jardín Botánico Atlántico</a> queda algo alejado del centro, y desde Gijón se llega fácilmente a <a href='/blog/oviedo-que-ver.html'>Oviedo</a>, <a href='/blog/covadonga-que-ver.html'>Covadonga</a> y los pueblos de la costa; mira también <a href='/blog/asturias-en-4-dias.html'>Asturias en 4 días</a>.</p>
 <p style="margin:1.2rem 0 .5rem;font-weight:700">🎟️ Actividades para reservar</p><ul class="actbox" style="margin-bottom:2rem"><li><a href="https://www.civitatis.com/es/gijon/free-tour-laboral-ciudad-cultura/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Free tour por Laboral Ciudad de la Cultura</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Gigia, Cimadevilla y Jovellanos</h2></div>
+<p>La ciudad se asienta en la península de <strong>Cimadevilla</strong>, donde los romanos levantaron la <strong>Gigia</strong>. Todavía se conservan las <strong>Termas Romanas de Campo Valdés</strong>, del siglo I. Durante siglos fue un pueblo de pescadores; en el siglo XVIII nació aquí el escritor e ilustrado <strong>Gaspar Melchor de Jovellanos</strong> (1744), y en el XIX la industria y el puerto la convirtieron en la ciudad más poblada de Asturias.</p>
+<p>En lo alto de la colina de Santa Catalina está el <strong>Elogio del Horizonte</strong>, la obra del escultor <strong>Eduardo Chillida</strong> de 1990, que se ha convertido en un símbolo de Gijón.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> la estación queda a unos 15 minutos andando de Cimadevilla y de la playa de San Lorenzo.</p><p><strong>En coche:</strong> aparca en un parking cerca de la playa o del puerto y recorre la ciudad andando.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Gijón" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Gijón en un día</h2><ul><li><b>Mañana</b>: Cimadevilla: Plaza Mayor, Torre del Reloj y calles del barrio.</li><li><b>Mediodía</b>: Comida en una sidrería: cachopo o fabada.</li><li><b>Tarde</b>: Paseo por el Muro y la playa de San Lorenzo.</li><li><b>Atardecer</b>: Elogio del Horizonte, en el cerro de Santa Catalina.</li><li><b>Si tienes más tiempo</b>: Laboral Ciudad de la Cultura.</li></ul></div>

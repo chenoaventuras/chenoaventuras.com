@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Badajoz"
 faq:
+  - q: "¿Quién fundó Badajoz?"
+    a: "Ibn Marwan, en el año 875."
   - q: "¿Qué ver en Badajoz en un día?"
     a: "La Alcazaba, la Torre de Espantaperros, la Plaza Alta, la Catedral, la Puerta y el Puente de Palmas."
   - q: "¿Es la Alcazaba la más grande de Europa?"
@@ -55,7 +57,12 @@ Una **alcazaba almohade** con una torre albarrana, una plaza con casas pintadas 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Si tienes más días</span><h2>Cerca de Badajoz</h2></div>
 <p>Con más tiempo, ve a <a href='/blog/merida-que-ver.html'>Mérida</a>, <a href='/blog/olivenza-que-ver.html'>Olivenza</a>, <a href='/blog/zafra-que-ver.html'>Zafra</a> o <a href='/blog/jerez-de-los-caballeros.html'>Jerez de los Caballeros</a>.</p>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Una ciudad fundada por un rey de taifa</h2></div>
+<p>Badajoz nació en el año <strong>875</strong> cuando <strong>Ibn Marwan</strong>, un caudillo muladí, la fundó junto al Guadiana. Más tarde fue la capital de un <strong>reino de taifas</strong> (siglo XI), y por su situación fronteriza con Portugal vivió asedios y guerras durante siglos. Esa herencia se ve en la <strong>Alcazaba</strong>, una de las más grandes de Europa, y en la <strong>Torre de Espantaperros</strong>, de origen almohade.</p>
+<p>Las murallas y baluartes abaluartados de época moderna, como el <strong>Fuerte de San Cristóbal</strong>, se construyeron para defender la frontera. Es una ciudad con mucho patrimonio sin la afluencia de otras capitales, y que además es puerta de entrada a Extremadura.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Mérida, unos 60 km por la autovía. Deja el coche en un parking del centro y recorre la ciudad a pie.</p><p><strong>En tren:</strong> hay conexión con Mérida y Madrid; consulta horarios.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Badajoz" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Badajoz en un día</h2><ul><li><b>Mañana</b>: Alcazaba y Torre de Espantaperros.</li><li><b>Mediodía</b>: Comida en la Plaza Alta.</li><li><b>Tarde</b>: Catedral, Plaza de España y museos.</li><li><b>Atardecer</b>: Puerta y Puente de Palmas.</li><li><b>Si tienes más días</b>: Mérida, Olivenza y Zafra.</li></ul></div>

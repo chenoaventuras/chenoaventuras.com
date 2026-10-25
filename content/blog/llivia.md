@@ -12,6 +12,10 @@ tags:
   - Cataluña
 wide: true
 faq:
+  - q: "¿Por qué Llívia es española?"
+    a: "Porque en el Tratado de los Pirineos (1659) era una villa y el texto solo cedía pueblos; el Tratado de Llívia de 1660 lo confirmó."
+  - q: "¿Cuántos habitantes tiene Llívia?"
+    a: "Alrededor de 1.500."
   - q: "¿Por qué Llívia es de España si está en Francia?"
     a: "Por el Tratado de los Pirineos (1659): según la explicación tradicional, Llívia era villa y el tratado solo cedía pueblos."
   - q: "¿Hay que pasar por Francia para llegar a Llívia?"
@@ -64,6 +68,11 @@ Te cuento cómo pasó, qué es la carretera «neutral» y la farmacia medieval q
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/llivia/farmacia.webp" alt="Interior de la farmacia Esteve en el museo de Llívia" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Museo Municipal</h3><p>Además de la farmacia, cuenta la historia del enclave.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/llivia/pueblo.webp" alt="Vista aérea de Llívia en la Cerdanya" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El pueblo</h3><p>Sube al Puig del Castell: desde arriba ves cómo Francia rodea Llívia por todos lados.</p></div></li>
 </ol>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>De capital romana a pueblo rodeado por Francia</h2></div>
+<p>La historia de Llívia es mucho más larga que su «rareza». En época romana se la conocía como <strong>Julia Lybica</strong> y fue durante siglos la <strong>capital de la Cerdaña</strong>, función que mantuvo hasta el siglo XII. Su castillo, en lo alto de una colina, fue una fortaleza clave en la Edad Media y fue destruido en una guerra del siglo XV tras un largo asedio.</p>
+<p>La situación actual viene del <strong>Tratado de los Pirineos (1659)</strong>, que cedió a Francia 33 pueblos de la Cerdaña pero dejó Llívia en manos españolas porque tenía el rango de <strong>villa</strong>, no de pueblo. El <strong>Tratado de Llívia (1660)</strong> confirmó esa situación. Desde entonces es un municipio español de unos 1.500 habitantes, dentro de Francia, unido a España por una carretera «neutral» de unos pocos kilómetros.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Llívia</h2></div>
 <div class="guide__howto"><p>Desde <strong>Puigcerdà</strong> son unos 10 minutos en coche por la carretera que cruza Francia.</p><p>Desde Barcelona, unas 2 horas por el túnel del Cadí.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Ll%C3%ADvia%2C%20Girona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

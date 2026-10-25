@@ -17,6 +17,10 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/excursion-aviles-cudillero-luarca/"
 faqTitulo: "Dudas sobre Cabo Busto"
 faq:
+  - q: "¿Cuándo se construyó el faro de Cabo Busto?"
+    a: "Según la Autoridad Portuaria de Avilés, se encendió en 1847; otras fuentes lo sitúan en 1858."
+  - q: "¿Quién gestiona el faro de Cabo Busto?"
+    a: "La Autoridad Portuaria de Avilés."
   - q: "¿Dónde está Cabo Busto?"
     a: "En Busto, concejo de Valdés."
   - q: "¿Qué alcance tiene el faro?"
@@ -58,6 +62,11 @@ Te cuento qué ver, cómo llegar y qué sendero pasa cerca 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Luarca:</strong> <a href='/blog/luarca-que-ver.html'>Villa Blanca</a>.</li><li><strong>Cudillero:</strong> <a href='/blog/cudillero-que-ver.html'>pueblo marinero</a>.</li><li><strong>Cabo Vidío:</strong> <a href='/blog/cabo-vidio.html'>otro faro y acantilados</a>.</li><li><strong>Playa del Silencio:</strong> <a href='/blog/playa-del-silencio.html'>playa de cantos</a>.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>El faro que vigila el Cantábrico desde hace más de siglo y medio</h2></div>
+<p>El faro de <strong>Cabo Busto</strong> es uno de los más antiguos de Asturias. Según el expediente de la <strong>Autoridad Portuaria de Avilés</strong>, que lo gestiona, se encendió por primera vez el <strong>1 de abril de 1847</strong> (algunas guías dan 1858). Al principio era un edificio en forma de «U» con la torre en el ala central; en <strong>1920</strong> se amplió y en <strong>1961</strong> se hicieron reformas que cambiaron mucho su aspecto original.</p>
+<p>Su luz tiene una altura focal de <strong>86 metros</strong> y ayuda a los barcos que bordean este tramo de costa, famoso por sus nieblas y sus temporales. A su alrededor hay <strong>prados de ganadería</strong>, acantilados verticales y algunos de los mejores atardeceres de la costa occidental asturiana, mucho más tranquilos que los de pueblos como <a href="/blog/cudillero-que-ver.html">Cudillero</a> o <a href="/blog/luarca-que-ver.html">Luarca</a>.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> hasta Busto (Valdés) por carretera local y las indicaciones al faro.</p><p><strong>Sin coche:</strong> el transporte público es limitado; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cabo+Busto" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

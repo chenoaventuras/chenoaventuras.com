@@ -17,6 +17,10 @@ actividades:
     u: "https://www.civitatis.com/es/gijon/picos-europa-cueva-queso-cabrales/"
 faqTitulo: "Dudas sobre el Naranjo de Bulnes"
 faq:
+  - q: "¿Quién subió por primera vez al Naranjo de Bulnes?"
+    a: "Pedro Pidal y el pastor Gregorio Pérez, «El Cainejo», el 5 de agosto de 1904, por la cara norte."
+  - q: "¿Por qué se llama Naranjo de Bulnes?"
+    a: "Por el color anaranjado que toman sus paredes al atardecer; en asturiano se llama Picu Urriellu."
   - q: "¿Cuánto mide el Naranjo de Bulnes?"
     a: "2.519 metros."
   - q: "¿Quién lo escaló primero?"
@@ -58,6 +62,12 @@ Te cuento su historia, cómo verlo y qué rutas hay 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Bulnes:</strong> <a href='/blog/bulnes-funicular-y-pueblo.html'>pueblo sin carretera</a> al pie del macizo.</li><li><strong>Ruta del Cares:</strong> <a href='/blog/ruta-del-cares.html'>garganta famosa</a> del mismo macizo.</li><li><strong>Covadonga:</strong> <a href='/blog/covadonga-que-ver.html'>santuario</a> y <a href='/blog/lagos-de-covadonga.html'>lagos</a>.</li><li><strong>Cabrales:</strong> queso azul y pueblos de montaña.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>El pico que cambió el montañismo español</h2></div>
+<p>La primera ascensión se hizo el <strong>5 de agosto de 1904</strong> por la cara norte, en una ruta que hoy se conoce como la <strong>Vía Pidal</strong>. La protagonizaron <strong>Pedro Pidal</strong>, marqués de Villaviciosa de Asturias, y el pastor de Cabrales <strong>Gregorio Pérez, «El Cainejo»</strong>, que conocía bien la montaña y se jugó el pellejo en una subida muy arriesgada para la época. Algunas fuentes citan también a otros acompañantes: no todas coinciden.</p>
+<p>Pidal era un aristócrata aficionado a la caza y a la montaña, y su ascensión dio al pico una enorme fama. Además fue una de las personas que impulsó en <strong>1918</strong> la creación del <strong>primer parque nacional de España</strong> en los Picos de Europa. El nombre «Naranjo» tiene que ver con el color anaranjado que toman sus paredes calizas al atardecer. Hoy es un lugar de peregrinación para escaladores de todo el mundo, con vías abiertas en una pared de unos 550 metros.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Nombre asturiano:</strong> Picu Urriellu.</li><li><strong>Refugio:</strong> el de Vega de Urriellu, a unos 1.960 m, es el punto de partida habitual de las escaladas.</li><li><strong>Mirador:</strong> sin escalar se ve muy bien desde el mirador de Pandébano o desde la propia Vega.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> hasta Sotres (Cabrales) o Poncebos, según la ruta.</p><p><strong>Sin coche:</strong> autobuses a Cabrales; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sotres" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

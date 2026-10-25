@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Ourense"
 faq:
+  - q: "¿Cuál es la temperatura de las Burgas de Ourense?"
+    a: "Unos 67 °C, lo que las convierte en una de las fuentes termales más calientes de la península."
   - q: "¿Qué ver en Ourense en un día?"
     a: "El Puente Romano, la catedral, As Burgas, la Praza do Trigo, la Praza Maior y las termas del río Miño."
   - q: "¿Qué son As Burgas?"
@@ -55,7 +57,12 @@ Un **puente romano** con cinco arcos, una catedral con un pórtico que recuerda 
 <p>Las <a href="/blog/pozas-de-outariz-ourense.html">Pozas de Outariz</a> y el <a href="/blog/canon-del-sil.html">Cañón del Sil</a> están muy cerca; hay una <a href="https://www.civitatis.com/es/orense/excursion-ribeira-sacra/?aid=110968" target="_blank" rel="noopener sponsored">excursión a la Ribeira Sacra</a>.</p>
 <p style="margin:1.2rem 0 .5rem;font-weight:700">🎟️ Actividades para reservar</p><ul class="actbox" style="margin-bottom:2rem"><li><a href="https://www.civitatis.com/es/orense/excursion-ribeira-sacra/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Excursión a la Ribeira Sacra</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>La ciudad de las aguas calientes</h2></div>
+<p>Ourense debe su fama a las <strong>aguas termales</strong>: los romanos la fundaron junto a unas fuentes de agua caliente que brotan a unos <strong>67 °C</strong>, las <strong>Burgas</strong>, y la llamaron <em>Aquae Urentes</em> («aguas ardientes»). Su <strong>Puente Romano</strong> es de origen romano, aunque se reconstruyó en la Edad Media. En la <strong>catedral de San Martiño</strong> está el <strong>Pórtico del Paraíso</strong>, una joya del gótico gallego.</p>
+<p>Las aguas siguen siendo un símbolo de la ciudad: puedes bañarte gratis en algunas termas junto al Miño, como las de <a href="/blog/pozas-de-outariz-ourense.html">Outariz y Burga de Canedo</a>.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> hay AVE desde Madrid y trenes regionales desde Vigo, Santiago y Lugo. La estación queda a unos 15 minutos andando del centro.</p><p><strong>En coche:</strong> el casco histórico es peatonal en gran parte: aparca en un parking y recorre el centro andando.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Ourense" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Ourense en un día</h2><ul><li><b>Mañana</b>: Puente Romano, catedral y casco antiguo.</li><li><b>Mediodía</b>: As Burgas y comida en Os Viños.</li><li><b>Tarde</b>: Praza Maior, Praza do Trigo y paseo por el río.</li><li><b>Atardecer</b>: Baño en unas termas del Miño.</li><li><b>Si tienes más días</b>: Pozas de Outariz y Cañón del Sil.</li></ul></div>

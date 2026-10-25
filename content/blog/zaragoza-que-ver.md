@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Zaragoza"
 faq:
+  - q: "¿Cuándo se fundó Zaragoza?"
+    a: "Hacia el año 14 a. C., con el nombre de Caesaraugusta."
   - q: "¿Se puede subir a la torre del Pilar?"
     a: "Sí, a la torre de San Francisco de Borja. Un ascensor sube hasta 62 metros y se puede seguir por escalera hasta los 82. La entrada cuesta unos 4 €."
   - q: "¿Cuánto cuesta entrar a la Aljafería?"
@@ -74,6 +76,11 @@ Te cuento qué ver, cuánto cuesta (y cuándo es gratis), dónde ir de tapas y c
 
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Las Fiestas del Pilar</h2></div>
 <p>En torno al <strong>12 de octubre</strong>, Zaragoza celebra sus fiestas grandes. El acto más impresionante es la <strong>Ofrenda de Flores</strong>: cientos de miles de personas vestidas con traje regional desfilan durante todo el día para dejar flores ante la Virgen, formando un manto gigante en la plaza del Pilar. También hay ofrenda de frutos, rosario de cristal, gigantes y cabezudos, conciertos y fuegos artificiales.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Caesaraugusta, el Pilar y los Sitios</h2></div>
+<p>Zaragoza se fundó hacia el año <strong>14 a. C.</strong> como <strong>Caesaraugusta</strong>, en honor del emperador Augusto, y de ese nombre viene el actual. En el siglo XI fue capital de un reino de taifa y construyó la <strong>Aljafería</strong>, un palacio de esa época. Después fue capital del reino de Aragón.</p>
+<p>La tradición dice que la Virgen se apareció al apóstol Santiago a orillas del Ebro, y por eso el <strong>Pilar</strong> es uno de los santuarios marianos más antiguos. En <strong>1808-1809</strong> la ciudad resistió dos asedios franceses, los <em>Sitios de Zaragoza</em>, en los que se hizo famosa <strong>Agustina de Aragón</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Zaragoza</h2></div>
 <div class="guide__howto"><p><strong>En AVE:</strong> alrededor de 1 hora y cuarto desde Madrid y 1 hora y media desde Barcelona hasta la estación Delicias, y desde allí en autobús al centro.</p><p><strong>En coche:</strong> por la A-2 desde Madrid (unos 320 km) o la AP-2 desde Barcelona.</p><p><strong>Dónde aparcar:</strong> en los aparcamientos subterráneos de la plaza del Pilar o de César Augusto. El centro se recorre a pie y el tranvía cruza la ciudad.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20del%20Pilar%2C%20Zaragoza" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

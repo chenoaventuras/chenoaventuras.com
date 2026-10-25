@@ -12,6 +12,10 @@ tags:
   - Extremadura
 wide: true
 faq:
+  - q: "¿Cuándo se inauguró el Museo Vostell?"
+    a: "En octubre de 1976, según las fuentes."
+  - q: "¿Desde cuándo es monumento natural Los Barruecos?"
+    a: "Desde 1996, según la Junta de Extremadura."
   - q: "¿Dónde están Los Barruecos?"
     a: "En Malpartida de Cáceres, a unos 14 km de la ciudad de Cáceres."
   - q: "¿Cuánto cuesta visitar Los Barruecos?"
@@ -62,6 +66,11 @@ Y al lado hay un museo de arte contemporáneo con coches enterrados en hormigón
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/los-barruecos/rocas.webp" alt="Rocas de granito en Los Barruecos" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los bolos de granito</h3><p>Formas imposibles: rocas en equilibrio, piedras con caras y bloques del tamaño de una casa.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/los-barruecos/grabados.webp" alt="Grabados rupestres en Los Barruecos" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los grabados</h3><p>Busca los grabados prehistóricos en algunas rocas: llevan aquí miles de años.</p></div></li>
 </ol>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Un paisaje de granito con arte contemporáneo</h2></div>
+<p>Los Barruecos se formaron hace millones de años: el granito, que salió de las profundidades en forma de grandes bloques, fue erosionado por el agua hasta redondearse y dejar las enormes «bolas» que se ven hoy junto a las <strong>charcas</strong>. Las charcas son zonas de agua embalsada que se aprovecharon desde hace siglos para el ganado y la lana, y hoy son el hábitat de aves, como las <strong>cigüeñas</strong> que anidan en las rocas.</p>
+<p>Desde <strong>1996</strong> está declarado <strong>monumento natural</strong>. En sus rocas se han encontrado restos prehistóricos, grabados y tumbas excavadas, además de restos romanos. En <strong>1976</strong> el artista <strong>Wolf Vostell</strong> abrió su museo en un antiguo lavadero de lanas del siglo XVIII, y desde entonces el arte contemporáneo convive con el paisaje.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Los Barruecos</h2></div>
 <div class="guide__howto"><p>Desde Cáceres, toma la <strong>N-521</strong> hacia Malpartida de Cáceres (unos 15 minutos). El aparcamiento está junto al Museo Vostell.</p><p>Desde allí salen senderos señalizados y fáciles alrededor de las charcas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Museo+Vostell+Malpartida" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

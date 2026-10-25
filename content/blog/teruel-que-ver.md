@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Teruel"
 faq:
+  - q: "¿Cuándo se fundó Teruel?"
+    a: "En 1171, por orden de Alfonso II de Aragón."
+  - q: "¿Por qué es famoso el mudéjar de Teruel?"
+    a: "Porque sus torres y la catedral son Patrimonio de la Humanidad de la UNESCO."
   - q: "¿Qué ver en Teruel?"
     a: "Las torres mudéjares, la Catedral y su techumbre, la Plaza del Torico, el Mausoleo de los Amantes y los edificios modernistas del centro."
   - q: "¿Qué es el Torico?"
@@ -48,7 +52,12 @@ Torres de ladrillo y cerámica verde, una plaza con un toro de piedra y una hist
 <p>Dedica el segundo día a <a href='/blog/albarracin-que-ver.html'>Albarracín</a> y la sierra. Y si viajas con niños, <strong>Dinópolis</strong> es un parque paleontológico sobre dinosaurios: tienes la <a href="https://www.civitatis.com/es/teruel/entrada-dinopolis/?aid=110968" target="_blank" rel="noopener sponsored">entrada a Dinópolis</a>.</p>
 <p style="margin:1.2rem 0 .5rem;font-weight:700">🎟️ Actividades para reservar</p><ul class="actbox" style="margin-bottom:2rem"><li><a href="https://www.civitatis.com/es/teruel/entrada-dinopolis/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Entrada a Dinópolis</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Una ciudad de frontera, de torres y de leyendas</h2></div>
+<p>Teruel se fundó en <strong>1171</strong>, cuando el rey <strong>Alfonso II de Aragón</strong> levantó una villa fortificada en un cerro para asegurar la frontera frente al territorio musulmán. Aquí convivieron cristianos, musulmanes y judíos, y de esa mezcla nació el <strong>mudéjar turolense</strong>, un estilo que une las formas cristianas con ladrillo, cerámica vidriada y carpintería de tradición islámica.</p>
+<p>Sus <strong>torres mudéjares</strong> (San Pedro, San Salvador, San Martín y la catedral) forman un conjunto declarado <strong>Patrimonio de la Humanidad por la UNESCO</strong>. La leyenda de <a href="/blog/amantes-de-teruel.html">los Amantes de Teruel</a> les pone un toque romántico, y el movimiento ciudadano <em>«Teruel existe»</em> convirtió el nombre de la ciudad en símbolo de la España poco poblada.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren o autobús:</strong> Teruel no tiene línea de alta velocidad. Lo más habitual es ir en coche, en autobús o en tren regional desde Zaragoza o Valencia.</p><p><strong>En la ciudad:</strong> todo se recorre a pie desde la Plaza del Torico.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Teruel" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Teruel en uno o dos días</h2><ul><li><b>Día 1 · Mañana</b>: Plaza del Torico y torres mudéjares.</li><li><b>Día 1 · Tarde</b>: Catedral y Mausoleo de los Amantes.</li><li><b>Día 2</b>: Albarracín y la sierra, o Dinópolis con niños.</li><li><b>Calzado</b>: cómodo: hay cuestas.</li><li><b>Horarios</b>: los monumentos tienen horarios restringidos.</li></ul></div>

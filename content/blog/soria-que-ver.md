@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Soria"
 faq:
+  - q: "¿Cuándo vivió Antonio Machado en Soria?"
+    a: "Entre 1907 y 1912, como profesor de francés en el instituto."
   - q: "¿Qué ver en Soria en un día?"
     a: "La ermita de San Saturio, el paseo del Duero, la Plaza Mayor con la estatua de Leonor, la Concatedral de San Pedro, San Juan de Rabanera y la Alameda de Cervantes."
   - q: "¿Cómo se llega a la ermita de San Saturio?"
@@ -54,7 +56,12 @@ Una **ermita que se esconde en una cueva** sobre el río Duero, una plaza mayor 
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Si tienes más días</span><h2>Monte de las Ánimas y San Juan de Duero</h2></div>
 <p>Visita el <strong>Monasterio de San Juan de Duero</strong>, junto al río, con un claustro único, y el <a href='/blog/monte-de-las-animas-soria.html'>Monte de las Ánimas</a>, con su leyenda de Bécquer, y los pueblos de la provincia.</p>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Numancia, Machado y el Duero</h2></div>
+<p>La historia de Soria empieza en <strong>Numancia</strong>, la ciudad celtíbera que resistió años a los romanos y cuyo asedio terminó en el año <strong>133 a. C.</strong> En la Edad Media, la ciudad fue frontera entre Castilla y Aragón, y de aquella época son sus iglesias románicas, como <strong>San Juan de Duero</strong>.</p>
+<p>En el siglo XX la hizo célebre el poeta <strong>Antonio Machado</strong>, que fue profesor de francés en el instituto de Soria entre 1907 y 1912. Aquí conoció a <strong>Leonor Izquierdo</strong>, con quien se casó, y varios de sus poemas recorren los paisajes de la ciudad y del Duero. Hoy Soria es una de las capitales de provincia menos pobladas de España, y su calma es parte del encanto.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> Soria queda a unas 2 horas y media de Madrid. Aparca cerca del centro y recórrelo a pie.</p><p><strong>A San Saturio:</strong> se va andando por el paseo del Duero desde el centro (unos 30 minutos) o en coche hasta un aparcamiento cercano.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Soria" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Soria en un día</h2><ul><li><b>Mañana</b>: Paseo por el Duero hasta la ermita de San Saturio, con la visita al interior.</li><li><b>Mediodía</b>: Comida en el centro: torreznos de Soria, cordero o productos de la zona.</li><li><b>Tarde</b>: Plaza Mayor, estatua de Leonor, Concatedral de San Pedro y San Juan de Rabanera.</li><li><b>Atardecer</b>: Alameda de Cervantes o el paseo del Mirón.</li><li><b>Si tienes más días</b>: Monte de las Ánimas, San Juan de Duero y los pueblos de la provincia.</li></ul></div>

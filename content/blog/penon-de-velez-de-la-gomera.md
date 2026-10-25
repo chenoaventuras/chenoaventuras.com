@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Peñón de Vélez de la Gomera"
 faq:
+  - q: "¿Quién conquistó el Peñón de Vélez de la Gomera?"
+    a: "Una flota española al mando de Pedro Navarro, en 1508; se perdió en 1522 y se recuperó en 1564."
+  - q: "¿Cuándo se formó el istmo que lo une a tierra?"
+    a: "En 1930, según las fuentes."
   - q: "¿Cuál es la frontera más corta del mundo?"
     a: "La del Peñón de Vélez de la Gomera entre España y Marruecos, de unos 85 metros."
   - q: "¿Se puede visitar el Peñón de Vélez?"
@@ -49,6 +53,12 @@ Te cuento cómo una isla se convirtió en península por un terremoto y si se pu
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/penon-de-velez-de-la-gomera/b.webp" alt="Edificios del Peñón de Vélez de la Gomera" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La fortaleza</h3><p>Edificios militares encaramados a la roca.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/penon-de-velez-de-la-gomera/f.webp" alt="Playa de Badis frente al Peñón de Vélez" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La playa de Badis</h3><p>Desde la costa marroquí se ve el istmo de arena que lo une al continente.</p></div></li>
 </ol>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Una plaza fuerte en la costa de Marruecos</h2></div>
+<p>El Peñón fue durante siglos un <strong>refugio de corsarios berberiscos</strong>, y por eso la Corona española decidió conquistarlo: lo tomó una flota al mando de <strong>Pedro Navarro</strong> en <strong>1508</strong>, y en <strong>1522</strong> pasó a manos del sultán de Fez. España lo recuperó definitivamente en <strong>1564</strong> y, desde entonces, ha sido una guarnición militar.</p>
+<p>Fue también <strong>presidio</strong> (cárcel militar) durante mucho tiempo. En <strong>1930</strong> un temporal y un movimiento de tierras formaron un istmo de arena que lo unió al continente, y de ahí viene la frontera de solo unos 85 metros. Sigue siendo una de las <strong>plazas de soberanía</strong> españolas en el norte de África, junto a Ceuta, Melilla, las islas Chafarinas y el peñón de Alhucemas.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Los vecinos:</strong> no hay población civil; viven allí militares destinados en turnos.</li><li><strong>La playa:</strong> la de Badis, en la costa marroquí, es el sitio habitual para ver la fortaleza.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo verlo</h2></div>
 <div class="guide__howto"><p>No se puede visitar. La única forma de verlo es desde Marruecos: la playa de <strong>Badis</strong>, en el parque nacional de Alhucemas, está justo enfrente.</p><p>Recuerda que no puedes acercarte a la frontera ni cruzarla.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pe%C3%B1%C3%B3n%20de%20V%C3%A9lez%20de%20la%20Gomera" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Ver en Google Maps</a></div></div>

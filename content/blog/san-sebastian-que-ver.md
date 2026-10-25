@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre San Sebastián"
 faq:
+  - q: "¿Cuándo empezó el Festival de Cine de San Sebastián?"
+    a: "En 1953."
+  - q: "¿Por qué el centro de San Sebastián parece tan ordenado?"
+    a: "Porque tras el incendio de 1813 se reconstruyó con calles rectas."
   - q: "¿Qué ver en San Sebastián en un día?"
     a: "Paseo por la Concha hasta el Peine del Viento, subida al monte Igueldo o Urgull, la Parte Vieja con la plaza de la Constitución y la basílica de Santa María, y pintxos por la tarde-noche."
   - q: "¿Dónde comer pintxos en San Sebastián?"
@@ -73,6 +77,11 @@ Te cuento qué ver, los mejores miradores, cómo ir de pintxos sin agobiarte, su
 
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>La Tamborrada y la Semana Grande</h2></div>
 <p>El <strong>20 de enero</strong>, día de San Sebastián, la ciudad celebra la <strong>Tamborrada</strong>: desde la medianoche, en la plaza de la Constitución, y durante 24 horas, compañías de tambores y barriles vestidas de cocineros y soldados recorren las calles. En agosto llega la <strong>Semana Grande</strong>, con un famoso concurso internacional de fuegos artificiales sobre la bahía. Y en septiembre, las <strong>regatas de traineras</strong> de la Concha y el <strong>Festival de Cine</strong>.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Una ciudad destruida y reconstruida</h2></div>
+<p>En <strong>1813</strong>, durante la Guerra de la Independencia, la ciudad vieja fue incendiada y arrasada por las tropas aliadas que la tomaron a los franceses; se reconstruyó después con calles rectas, y por eso el centro tiene aspecto tan ordenado. Desde 1845, la reina <strong>Isabel II</strong> visitó la Concha por prescripción médica para bañarse, y la ciudad se puso de moda entre la aristocracia.</p>
+<p>En la <em>Belle Époque</em> se levantaron el <strong>Gran Casino</strong> y el Hotel María Cristina, y desde <strong>1953</strong> se celebra el <strong>Festival Internacional de Cine</strong>. En la actualidad el <strong>Peine del Viento</strong> (Chillida, 1977) y el <strong>Kursaal</strong> (Moneo, 1999) son dos de sus símbolos más modernos.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a San Sebastián</h2></div>
 <div class="guide__howto"><p><strong>En avión:</strong> el aeropuerto de San Sebastián (Hondarribia) está a 20 km, y el de Bilbao a una hora.</p><p><strong>En coche:</strong> por la AP-8 desde Bilbao o la A-15 desde Pamplona.</p><p><strong>En tren:</strong> conexiones con Madrid y el tren de cercanías (el «Topo») a Hendaya.</p><p><strong>Dónde aparcar:</strong> en los aparcamientos subterráneos del centro; es caro, así que mejor muévete a pie o en bici.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Playa%20de%20La%20Concha%2C%20San%20Sebasti%C3%A1n" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

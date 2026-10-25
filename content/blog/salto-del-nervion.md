@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Salto del Nervión"
 faq:
+  - q: "¿Cuándo hay agua en el Salto del Nervión?"
+    a: "Solo después de lluvias intensas o con el deshielo, normalmente en invierno y primavera; en verano suele estar seco."
+  - q: "¿Dónde está el Salto del Nervión?"
+    a: "En el Monumento Natural de Monte Santiago, en el límite entre Burgos y Álava, cerca del puerto de Orduña."
   - q: "¿Cuál es la cascada más alta de España?"
     a: "El Salto del Nervión, con 222 metros de caída, es la más alta de la península ibérica."
   - q: "¿Cuándo lleva agua el Salto del Nervión?"
@@ -63,6 +67,12 @@ Pero tiene truco: no siempre lleva agua. Te cuento cuándo ir y cómo llegar al 
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Qué hay detrás</span><h2>Un salto que depende del agua y de la roca</h2></div>
+<p>El Salto del Nervión está dentro del <strong>Monumento Natural de Monte Santiago</strong>, un espacio protegido de unas <strong>2.400 hectáreas</strong> en el límite entre Burgos, Álava y Bizkaia. El agua cae al borde de un gran anfiteatro rocoso de la <strong>Sierra Salvada</strong>, en dirección al pueblo alavés de <strong>Délica</strong>. Las cifras de altura que se dan varían según la fuente: el inventario geológico del Gobierno Vasco habla de una caída próxima a los <strong>220 metros</strong>, y otras guías dan cifras más altas, así que conviene tomarlas como aproximadas.</p>
+<p>Es un paisaje <strong>kárstico</strong>: la roca caliza se llena de cuevas y de cauces subterráneos, y por eso el salto solo lleva agua con lluvias o deshielo. El resto del año el río se pierde bajo tierra y reaparece en las paredes del cañón. Cerca de la Casa del Parque, junto a la Fuente de Santiago, están las ruinas del antiguo <strong>monasterio de Sancti Iacobi de Langriz</strong>, y a lo largo de la ruta se ve una antigua <strong>lobera</strong> (una trampa para lobos), un recuerdo de cuando los pastores protegían así sus rebaños.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Rutas:</strong> la principal sale de la Casa del Parque y llega al Mirador del Nervión; hay senderos señalizados de pequeño recorrido en la zona.</li><li><strong>Mejor época:</strong> después de varios días de lluvia o con el deshielo; si no, solo verás el cañón seco.</li><li><strong>Con niños:</strong> no te acerques al borde: el mirador cae directamente al vacío.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Salto del Nervión</h2></div>
 <div class="guide__howto"><p>Lo más fácil es ir al <strong>aparcamiento de Monte Santiago</strong> (Burgos), subiendo el puerto de Orduña desde Orduña o desde Berberana.</p><p>Desde el aparcamiento, sigue la pista señalizada: unos <strong>2 km</strong> llanos hasta el mirador. También hay una ruta más dura desde Délica (Álava) por abajo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Mirador%20del%20Salto%20del%20Nervi%C3%B3n%2C%20Monte%20Santiago" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

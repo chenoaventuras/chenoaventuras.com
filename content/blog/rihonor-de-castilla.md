@@ -12,6 +12,10 @@ tags:
   - Castilla y León
 wide: true
 faq:
+  - q: "¿Cuántos habitantes tiene Rihonor de Castilla?"
+    a: "Muy pocos: alrededor de medio centenar entre las dos partes del pueblo, según fuentes recientes."
+  - q: "¿Por qué hay una hora de diferencia con Rio de Onor?"
+    a: "Porque España utiliza la hora de Europa central y Portugal la de Europa occidental."
   - q: "¿Qué pueblo está dividido entre España y Portugal?"
     a: "Rihonor de Castilla (España) y Rio de Onor (Portugal) forman un solo pueblo dividido por la frontera."
   - q: "¿Hay control de frontera?"
@@ -55,6 +59,11 @@ Te cuento cómo es, cómo se llaman las dos mitades y qué ver allí 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rihonor-de-castilla/riodeonor.webp" alt="Rio de Onor con el río y sus casas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Rio de Onor</h3><p>La parte portuguesa, con casas de piedra y pizarra junto al río.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rihonor-de-castilla/rio.webp" alt="Río Fontano en Rihonor de Castilla" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El río</h3><p>El río cruza el pueblo y es el lugar más bonito para pasear.</p></div></li>
 </ol>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Un pueblo dividido por una línea en el mapa</h2></div>
+<p>Rihonor de Castilla pertenece al municipio de <strong>Pedralba de la Pradería</strong>, en la comarca zamorana de Aliste, y comparte casi todo con <strong>Rio de Onor</strong>, en el concelho portugués de Bragança. Es un solo pueblo repartido en dos países: durante siglos sus vecinos cruzaron la frontera a diario para trabajar los campos, llevar el ganado o ir a la fiesta de los vecinos de enfrente.</p>
+<p>La vida se organizaba con <strong>reglas comunales</strong>: los hornos, los molinos, los pastos y el rebaño eran de todos, y cada familia tenía asignados turnos y tareas. Esa forma de vida llamó la atención de antropólogos y se estudió ampliamente, aunque hoy apenas se conserva porque quedan pocos habitantes, con una edad media alta. Una curiosidad: <strong>entre un lado y otro hay una hora de diferencia</strong>, porque España y Portugal no siguen el mismo huso horario.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Rihonor de Castilla</h2></div>
 <div class="guide__howto"><p>Desde <strong>Puebla de Sanabria</strong>, unos 35 minutos hacia Pedralba de la Pradería y luego hasta Rihonor.</p><p>Desde Bragança (Portugal) son unos 25 minutos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Rihonor%20de%20Castilla%2C%20Zamora" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

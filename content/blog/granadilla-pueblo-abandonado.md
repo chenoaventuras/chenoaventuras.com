@@ -12,6 +12,10 @@ tags:
   - Extremadura
 wide: true
 faq:
+  - q: "¿Por qué se abandonó Granadilla?"
+    a: "Por la construcción del embalse de Gabriel y Galán: se expropió el pueblo al considerarlo inundable, aunque el agua nunca llegó a cubrirlo."
+  - q: "¿Cuándo se fueron los últimos vecinos de Granadilla?"
+    a: "Hacia 1964; el municipio se disolvió en 1965."
   - q: "¿Por qué está abandonado Granadilla?"
     a: "Fue expropiado hacia 1960 al construirse el embalse de Gabriel y Galán, aunque el agua nunca lo cubrió."
   - q: "¿Se puede visitar Granadilla?"
@@ -70,6 +74,12 @@ Te cuento su historia, cómo lo están recuperando y cómo visitarlo 👇
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Un pueblo que se vació por un error de cálculo</h2></div>
+<p>La construcción del embalse de <strong>Gabriel y Galán</strong>, en los años cincuenta y sesenta, hizo que las autoridades declararan Granadilla <strong>zona inundable</strong> y expropiaran casi todo el término municipal, incluido el casco urbano. Los vecinos fueron saliendo y los <strong>últimos se marcharon hacia 1964</strong>; en <strong>1965</strong> el municipio se disolvió y su territorio se repartió entre Zarza de Granadilla y Mohedas de Granadilla.</p>
+<p>Pero el agua nunca llegó a cubrir el pueblo: está en lo alto de una colina y, cuando se llenó el embalse, quedó convertido en una <strong>península</strong> con un único acceso. Eso explica que se conserve tan bien la muralla y el castillo. En <strong>1980</strong> se declaró Conjunto Histórico-Artístico y, en <strong>1984</strong>, entró en el programa de recuperación de pueblos abandonados de la Administración, que permitió rehabilitar edificios para alojamientos, talleres y actividades educativas.</p>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Hoy:</strong> figura sin habitantes empadronados y se visita por fuera con horario.</li><li><strong>Reencuentros:</strong> los antiguos vecinos y sus descendientes suelen volver para fechas señaladas como el 15 de agosto.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Granadilla</h2></div>
 <div class="guide__howto"><p>Desde <strong>Plasencia</strong>, unos 35 minutos hacia Zarza de Granadilla y luego por la carretera del embalse.</p><p>Se deja el coche en el aparcamiento junto a la puerta de la muralla.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Granadilla%2C%20Zarza%20de%20Granadilla%2C%20C%C3%A1ceres" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

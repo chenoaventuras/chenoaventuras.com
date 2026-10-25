@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Málaga"
 faq:
+  - q: "¿Por qué se llama «La Manquita» la catedral de Málaga?"
+    a: "Porque solo tiene una de sus dos torres terminadas."
+  - q: "¿Quién nació en Málaga?"
+    a: "Pablo Picasso, en 1881."
   - q: "¿Cuánto cuesta entrar a la Alcazaba y Gibralfaro?"
     a: "Con las tarifas actualizadas, unos 7 € cada monumento y unos 10 € la entrada conjunta, con reducidas para estudiantes y mayores. Los domingos a partir de las 14:00 la entrada a ambos es gratuita."
   - q: "¿Por qué llaman «la Manquita» a la catedral de Málaga?"
@@ -75,6 +79,11 @@ Te cuento qué ver, cuándo entrar gratis en la Alcazaba, cómo subir a las cubi
 
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Semana Santa y la Feria</h2></div>
 <p>La <strong>Semana Santa</strong> de Málaga es famosa por sus enormes tronos, llevados por cientos de portadores. En agosto llega la <strong>Feria</strong> (en 2026, del 15 al 22 de agosto): de día en el centro, con verdiales y vino dulce por la calle Larios, y de noche en el recinto del Cortijo de Torres.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Casi 3.000 años de historia</h2></div>
+<p>Málaga se fundó hace unos <strong>2.800 años</strong> como <em>Malaka</em>, una colonia fenicia, y por eso presume de ser una de las ciudades más antiguas de Europa. Los romanos le dejaron su <strong>teatro</strong>; los musulmanes, la <strong>Alcazaba</strong> (siglo XI) y el <strong>castillo de Gibralfaro</strong>, que se ampliaron en el siglo XIV, ya en época nazarí.</p>
+<p>La catedral, apodada <strong>«La Manquita»</strong> porque solo tiene una torre terminada, se construyó entre los siglos XVI y XVIII. Es también la ciudad natal de <strong>Pablo Picasso</strong> (1881), que tiene un museo en el palacio de Buenavista desde 2003.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Málaga</h2></div>
 <div class="guide__howto"><p><strong>En avión:</strong> el aeropuerto está a 8 km; tren de cercanías o autobús al centro en unos 15-20 minutos.</p><p><strong>En AVE:</strong> desde Madrid, unas 2 horas y media.</p><p><strong>Dónde aparcar:</strong> en los aparcamientos subterráneos del centro o del puerto; el centro histórico es peatonal.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Alcazaba%20de%20M%C3%A1laga" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

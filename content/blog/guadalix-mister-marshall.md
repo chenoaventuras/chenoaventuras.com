@@ -14,6 +14,10 @@ wide: true
 faqTitulo: "Dudas sobre Bienvenido, Mister Marshall"
 faq:
   - q: "¿Dónde se rodó Bienvenido, Mister Marshall?"
+    a: "En Guadalix de la Sierra (Madrid), que en la película se llama Villar del Río."
+  - q: "¿Quién dirigió Bienvenido, Mister Marshall?"
+    a: "Luis García Berlanga, en 1952; se estrenó en 1953."
+  - q: "¿Dónde se rodó Bienvenido, Mister Marshall?"
     a: "En Guadalix de la Sierra (Madrid), en 1952."
   - q: "¿Cómo se llama el pueblo en la película?"
     a: "Villar del Río."
@@ -65,6 +69,11 @@ Te cuento la historia de la película y qué queda de ella en el pueblo 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/guadalix-mister-marshall/placa.webp" alt="Placa de Berlanga en Guadalix de la Sierra" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La placa de Berlanga</h3><p>Recuerda que Berlanga rodó aquí la película.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/guadalix-mister-marshall/portada.webp" alt="Guadalix de la Sierra con la sierra al fondo" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El pueblo</h3><p>La plaza y la iglesia aparecen en muchas escenas.</p></div></li>
 </ol>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Una película que casi nadie esperaba que triunfara</h2></div>
+<p><em>Bienvenido, Mister Marshall</em> se rodó en 1952 y la dirigió <strong>Luis García Berlanga</strong> con un guion suyo, de <strong>Juan Antonio Bardem</strong> y de <strong>Miguel Mihura</strong>. Su historia, la del pueblo que se disfraza para recibir una ayuda que nunca llega, se entendió como una <strong>sátira amable</strong> de la España de la época. Se estrenó en <strong>1953</strong> y ese mismo año recibió reconocimientos en el Festival de Cannes.</p>
+<p>Para la película se eligió Guadalix de la Sierra porque su plaza y sus calles parecían el pueblo castellano que Berlanga buscaba, lo bastante cerca de Madrid como para rodar sin complicaciones. Muchos vecinos hicieron de extras. Hoy el pueblo recuerda la película con una <strong>escultura</strong> y una <strong>placa dedicada a Berlanga</strong> en la plaza.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Guadalix</h2></div>
 <div class="guide__howto"><p>Desde <strong>Madrid</strong>, por la A-1 hasta San Agustín de Guadalix y luego la M-608: unos 45 minutos.</p><p>También hay autobuses interurbanos desde Plaza de Castilla.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Guadalix%20de%20la%20Sierra%2C%20Madrid" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

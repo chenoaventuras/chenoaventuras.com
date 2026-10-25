@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Córdoba"
 faq:
+  - q: "¿Cuándo se empezó a construir la Mezquita de Córdoba?"
+    a: "En el año 785, por orden del emir Abderramán I."
   - q: "¿Qué ver en Córdoba en un día?"
     a: "La Mezquita-Catedral, la Judería y la Calleja de las Flores, el Alcázar de los Reyes Cristianos y el Puente Romano al atardecer."
   - q: "¿Cuánto cuesta la Mezquita de Córdoba?"
@@ -55,7 +57,12 @@ Una **mezquita que es catedral**, un puente romano, una judería de calles estre
 <p>La ciudad palatina del Califato, <strong>Medina Azahara</strong>, es Patrimonio de la Humanidad y queda a unos 8 km (consulta <a href='/blog/medina-azahara.html'>nuestro artículo</a>). Hay una <a href="https://www.civitatis.com/es/cordoba/visita-guiada-medina-azahara/?aid=110968" target="_blank" rel="noopener sponsored">visita guiada por Medina Azahara</a>. Si tienes más días, <a href="/blog/priego-de-cordoba.html">Priego de Córdoba</a> es un pueblo precioso.</p>
 <p style="margin:1.2rem 0 .5rem;font-weight:700">🎟️ Actividades para reservar</p><ul class="actbox" style="margin-bottom:2rem"><li><a href="https://www.civitatis.com/es/cordoba/visita-guiada-medina-azahara/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Visita guiada por Medina Azahara</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Capital de Roma, del califato y de la tolerancia</h2></div>
+<p>Córdoba fue la capital de la provincia romana de la <strong>Bética</strong> y, después, de <strong>al-Ándalus</strong>. En <strong>785</strong> el emir <strong>Abderramán I</strong> empezó la <strong>Mezquita</strong>, que se amplió varias veces. En <strong>929</strong> Abderramán III proclamó el <strong>califato</strong>, y en el siglo X Córdoba fue una de las ciudades más grandes y cultas de Europa, con bibliotecas, científicos y filósofos.</p>
+<p>Aquí nacieron dos figuras clave del pensamiento: el filósofo <strong>Averroes</strong> (1126) y el médico y filósofo judío <strong>Maimónides</strong> (1135, según la tradición). Tras la conquista castellana de 1236, la Mezquita se convirtió en catedral, y en el siglo XVI se construyó la nave renacentista en su interior. El Centro Histórico es Patrimonio de la Humanidad desde 1984 (ampliado en 1994).</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> la estación está a unos 20-25 minutos andando de la Mezquita, o a pocos minutos en bus o taxi.</p><p><strong>En coche:</strong> es mejor aparcar a las afueras o en un aparcamiento público y recorrer el casco histórico a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Córdoba" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Córdoba en un día</h2><ul><li><b>Mañana</b>: Mezquita-Catedral, con la entrada reservada.</li><li><b>Mediodía</b>: Judería y Calleja de las Flores, y comida con salmorejo o flamenquín.</li><li><b>Tarde</b>: Alcázar de los Reyes Cristianos y sus jardines.</li><li><b>Atardecer</b>: Puente Romano y Torre de la Calahorra.</li><li><b>Si tienes un día más</b>: Medina Azahara y los patios.</li></ul></div>

@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Lleida"
 faq:
+  - q: "¿Cuándo se empezó a construir la Seu Vella de Lleida?"
+    a: "En 1203."
+  - q: "¿Por qué la Seu Vella parece una fortaleza?"
+    a: "Porque en el siglo XVIII se usó como cuartel militar y se rodeó de defensas."
   - q: "¿Qué ver en Lleida en un día?"
     a: "La Seu Vella, el castillo de la Suda, las murallas, la Paeria, La Llotja y el casco antiguo."
   - q: "¿Es gratis la Seu Vella?"
@@ -55,7 +59,12 @@ Una **catedral gótica sobre un cerro**, un castillo donde nació la Corona de A
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Si tienes más días</span><h2>Cerca de Lleida</h2></div>
 <p>El Congost de Mont-rebei y el Valle de Arán quedan a poca distancia.</p>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>De Ilerda a la Seu Vella</h2></div>
+<p>Lleida es una de las ciudades más antiguas de Cataluña: fue la <strong>Ilerda</strong> de los íberos y de los romanos, y en el año <strong>49 a. C.</strong> sus alrededores fueron escenario de una batalla de la guerra civil entre César y los partidarios de Pompeyo. En la Edad Media fue conquistada por los cristianos en <strong>1149</strong>, y en <strong>1203</strong> se empezó a construir la <strong>Seu Vella</strong>, una catedral de transición del románico al gótico en lo alto del cerro.</p>
+<p>Tras la guerra de Sucesión, en el siglo XVIII, los Borbones transformaron la catedral en <strong>cuartel militar</strong>, uso que mantuvo hasta el siglo XX, cuando se restauró. Por eso hoy parece una fortaleza. Junto a ella queda el <strong>castillo de la Suda</strong>, y en el casco antiguo, la <strong>Paeria</strong> (el ayuntamiento), con una parte del siglo XIII.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> la estación de Lleida-Pirineus tiene AVE. Desde allí, el centro y el cerro quedan a unos 15-20 minutos andando.</p><p><strong>En coche:</strong> deja el coche en un parking y sube andando al cerro.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Lleida" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Lleida en un día</h2><ul><li><b>Mañana</b>: Seu Vella, castillo de la Suda y murallas.</li><li><b>Mediodía</b>: Comida con caracoles a la llauna o platos de la huerta.</li><li><b>Tarde</b>: La Paeria, La Llotja y el casco antiguo.</li><li><b>Atardecer</b>: Vistas desde el campanario o desde el cerro.</li><li><b>Si tienes más días</b>: Congost de Mont-rebei y Valle de Arán.</li></ul></div>

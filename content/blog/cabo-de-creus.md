@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Cap de Creus"
 faq:
+  - q: "¿Cuándo se construyó el faro del Cap de Creus?"
+    a: "Se encendió por primera vez el 29 de julio de 1853."
+  - q: "¿Qué hay en el faro del Cap de Creus?"
+    a: "En el edificio del faro está hoy el Espai Cap de Creus, centro de información del parque natural."
   - q: "¿Cuál es el punto más oriental de España?"
     a: "De la península ibérica, el Cabo de Creus (Girona). Si cuentas las islas, es Menorca."
   - q: "¿Se puede ir en coche al faro?"
@@ -71,6 +75,11 @@ Te cuento qué ver, cómo llegar desde Cadaqués y el truco para ver el amanecer
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>El faro y la roca más oriental de la península</h2></div>
+<p>El faro del <strong>Cap de Creus</strong> se encendió por primera vez el <strong>29 de julio de 1853</strong>, dentro del primer plan de faros del reinado de Isabel II. Su torre mide unos 11 metros, pero está sobre un punto a unos <strong>87 metros</strong> sobre el mar y es el faro más oriental de la península. Hoy el edificio acoge la oficina de información del parque, el <strong>Espai Cap de Creus</strong>.</p>
+<p>El paisaje es obra del <strong>viento</strong>: la tramontana golpea esta punta con tanta fuerza que ha ido puliendo las rocas durante milenios hasta darles formas de animales, cabezas o figuras. Esa geología y la mezcla de mar y monte fueron los que inspiraron a <strong>Salvador Dalí</strong>, que vivía a pocos kilómetros en <a href="/blog/casa-dali-portlligat.html">Portlligat</a>.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Cap de Creus</h2></div>
 <div class="guide__howto"><p>Desde <strong>Cadaqués</strong>, sigue la carretera GIV-6141 hacia el faro: unos 8 km. En verano, mira si hay restricciones y lanzadera.</p><p>Desde Barcelona son unas 2 horas y cuarto en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Far%20de%20Cap%20de%20Creus" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

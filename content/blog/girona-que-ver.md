@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Girona"
 faq:
+  - q: "¿Quién construyó el puente rojo de Girona?"
+    a: "El taller de Gustave Eiffel, en 1876; es el puente de les Peixateries Velles."
   - q: "¿Qué ver en Girona en un día?"
     a: "Las Casas del Onyar, el puente rojo, la Catedral con sus 90 escalones, Sant Feliu, el barrio judío (Call), los Banys Àrabs y un paseo por las murallas."
   - q: "¿Desde dónde se ven mejor las Casas del Onyar?"
@@ -56,7 +58,12 @@ Casas de colores colgadas sobre un río, un **barrio judío medieval**, una cate
 <p>Besalú, el Cap de Creus o Tossa de Mar quedan a poca distancia. Hay una <a href="https://www.civitatis.com/es/gerona/excursion-cadaques-cabo-creus/?aid=110968" target="_blank" rel="noopener sponsored">excursión a Cadaqués y Cabo de Creus</a> y un <a href="https://www.civitatis.com/es/gerona/tour-pueblos-medievales-costa-brava/?aid=110968" target="_blank" rel="noopener sponsored">tour por la Costa Brava y sus pueblos medievales</a>.</p>
 <p style="margin:1.2rem 0 .5rem;font-weight:700">🎟️ Actividades para reservar</p><ul class="actbox" style="margin-bottom:2rem"><li><a href="https://www.civitatis.com/es/gerona/excursion-cadaques-cabo-creus/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Excursión a Cadaqués y Cabo de Creus</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li><li><a href="https://www.civitatis.com/es/gerona/tour-pueblos-medievales-costa-brava/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Tour por la Costa Brava y sus pueblos medievales</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Gerunda, la ciudad de las murallas y los asedios</h2></div>
+<p>Girona fue la romana <strong>Gerunda</strong>, junto a la Vía Augusta, y conserva su <strong>Força Vella</strong> con murallas romanas y medievales. Su <strong>barrio judío (el Call)</strong> es uno de los mejor conservados de Europa y tuvo una de las comunidades más importantes de la Corona de Aragón hasta 1492.</p>
+<p>En <strong>1809</strong>, durante la Guerra de la Independencia, la ciudad resistió siete meses el sitio de las tropas napoleónicas: los <em>Sitios de Girona</em> son un episodio famoso de la historia local. El colorido de las <strong>casas del Onyar</strong> es relativamente reciente, y el <strong>puente rojo</strong> (de las Peixateries Velles) fue construido por el taller de Gustave Eiffel en <strong>1876</strong>.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> la estación está a 10-15 minutos andando del casco antiguo, pasando el río por el Pont de Pedra o el de Sant Agustí.</p><p><strong>En coche:</strong> el casco antiguo está limitado al tráfico: aparca en un parking a las afueras (por ejemplo cerca de la estación) y entra caminando.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Girona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Girona en un día</h2><ul><li><b>Mañana</b>: Catedral, Sant Feliu y el Call Jueu.</li><li><b>Mediodía</b>: Comida en el barrio antiguo, con platos catalanes de mercado.</li><li><b>Tarde</b>: Banys Àrabs y paseo por las murallas (Passeig Arqueològic).</li><li><b>Atardecer</b>: Casas del Onyar desde el Pont de Sant Agustí y el puente rojo.</li><li><b>Si tienes más días</b>: Besalú, Cap de Creus y Tossa de Mar.</li></ul></div>

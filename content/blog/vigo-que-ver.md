@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Vigo"
 faq:
+  - q: "¿Qué fue la batalla de Rande?"
+    a: "Un ataque de una flota anglo-holandesa en 1702 a los galeones españoles que volvían de América en la ría de Vigo."
   - q: "¿Qué ver en Vigo en un día?"
     a: "El Casco Vello, la Concatedral, la Puerta del Sol, el Berbés, el monte do Castro y, si hay tiempo, una excursión a las Cíes."
   - q: "¿Dónde se comen las ostras en Vigo?"
@@ -57,7 +59,12 @@ Una **ría enorme** con las Islas Cíes en el horizonte, un casco viejo de piedr
 <div style="display:grid;grid-template-columns:repeat(1,1fr);gap:.6rem;margin:1.2rem 0 1.8rem"><figure style="margin:0"><img src="/assets/img/blog/vigo-que-ver/cies.webp" alt="Islas Cíes desde el paseo de Alfonso XII" loading="lazy" decoding="async" style="width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:10px;display:block;margin:0" /><figcaption style="font-size:.78em;opacity:.75;margin:.3rem 0 0;line-height:1.25">Islas Cíes</figcaption></figure></div>
 <p style="margin:1.2rem 0 .5rem;font-weight:700">🎟️ Actividades para reservar</p><ul class="actbox" style="margin-bottom:2rem"><li><a href="https://www.civitatis.com/es/vigo/barco-islas-cies/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Ferry a las Islas Cíes</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li><li><a href="https://www.civitatis.com/es/vigo/excursion-isla-san-simon/?aid=110968" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--civ">Civitatis</span><span class="actbox__name">Excursión a la isla de San Simón en barco</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li></ul>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Un puerto con más de dos mil años</h2></div>
+<p>Antes de ser la ciudad más grande de Galicia, Vigo fue un <strong>castro</strong> prerromano en el monte <strong>O Castro</strong>, desde donde se vigilaba la ría. Con los siglos creció como puerto pesquero y comercial, y su ría, una de las más grandes de Galicia, se convirtió en una de las más importantes del Atlántico.</p>
+<p>En <strong>1702</strong> se libró en sus aguas la <strong>batalla de Rande</strong> (o de la ría de Vigo), en la que una flota anglo-holandesa atacó a los galeones españoles que volvían de América con plata; de ahí nacieron leyendas sobre tesoros hundidos. En <strong>1809</strong> sus vecinos expulsaron por sí solos a las tropas francesas, un episodio que la ciudad recuerda como la <em>Reconquista</em>. Hoy es uno de los principales puertos pesqueros de Europa y la puerta de las <a href="/blog/islas-cies.html">Islas Cíes</a>.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> hay trenes desde Santiago, Ourense y Pontevedra. La estación de Vigo-Urzaiz queda a pocos minutos del centro.</p><p><strong>En coche:</strong> el centro tiene mucho tráfico; deja el coche en un parking y recorre el casco viejo a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Vigo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Vigo en un día</h2><ul><li><b>Mañana</b>: Casco Vello, plaza de la Constitución y Concatedral.</li><li><b>Mediodía</b>: Ostras y comida en el Berbés.</li><li><b>Tarde</b>: Monte do Castro y fortaleza.</li><li><b>Atardecer</b>: Puerta del Sol y paseo por el puerto.</li><li><b>Si tienes más días</b>: Islas Cíes, Baiona y Cabo Silleiro.</li></ul></div>

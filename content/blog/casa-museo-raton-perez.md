@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Ratón Pérez"
 faq:
+  - q: "¿Quién inventó al Ratoncito Pérez?"
+    a: "El escritor jesuita Luis Coloma, hacia 1894, para el niño rey Alfonso XIII."
+  - q: "¿Dónde vive el Ratoncito Pérez?"
+    a: "Según el cuento, en una caja de galletas de la confitería Prast, en la calle del Arenal, 8, de Madrid."
   - q: "¿Dónde vive el Ratón Pérez?"
     a: "Según el cuento del padre Coloma, en la calle del Arenal, 8, de Madrid."
   - q: "¿Quién inventó el Ratón Pérez?"
@@ -67,6 +71,11 @@ Te cuento de dónde sale el cuento y cómo visitar su casita-museo 👇
 
 
 <!--actividades-->
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más historia</span><h2>Quién fue Luis Coloma y por qué existe el Ratón Pérez</h2></div>
+<p><strong>Luis Coloma</strong> (1851-1915) era un jesuita y escritor muy conocido en su tiempo, autor de la novela <em>Pequeñeces</em>. Hacia <strong>1894</strong> escribió <em>Ratón Pérez</em> para entretener al pequeño <strong>Alfonso XIII</strong>, que acababa de perder un diente. En el cuento, el ratón vive en una caja de galletas de la <strong>confitería Prast</strong>, que estaba precisamente en el número 8 de la calle del Arenal, y se lleva el diente a cambio de un regalo.</p>
+<p>La figura se extendió a muchos países de habla hispana y hoy el «Ratoncito Pérez» es una <strong>tradición familiar</strong> en España y buena parte de América. En otras culturas ocupa su lugar el <em>Hada de los dientes</em> (en el mundo anglosajón) o la <em>petite souris</em> (en Francia). En la casa-museo se ven la <strong>casita del ratón</strong>, objetos y dioramas de la historia, y es una visita muy recomendable con niños.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>En metro, paradas <strong>Sol</strong> u <strong>Ópera</strong>, a dos minutos andando.</p><p>Está en pleno centro, ideal para combinar con un paseo por el Madrid de los Austrias.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Calle%20del%20Arenal%208%2C%20Madrid" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -15,6 +15,8 @@ wide: true
 faqTitulo: "Dudas sobre Pamplona"
 faq:
   - q: "¿Cuándo son los Sanfermines?"
+    a: "Del 6 al 14 de julio."
+  - q: "¿Cuándo son los Sanfermines?"
     a: "Del 6 al 14 de julio. Empiezan con el chupinazo desde el balcón del Ayuntamiento el 6 a mediodía y terminan con el «Pobre de mí» la medianoche del 14."
   - q: "¿A qué hora es el encierro de San Fermín?"
     a: "A las 8:00 de la mañana, del 7 al 14 de julio. Recorre unos 850 metros desde los corrales de Santo Domingo hasta la plaza de toros, y suele durar entre dos y cuatro minutos."
@@ -78,6 +80,11 @@ Te cuento qué ver, cómo recorrer el camino del encierro (con o sin toros), tod
 
 <div class="guide__head"><span class="eyebrow">Comer</span><h2>Pintxos en Pamplona</h2></div>
 <p>Pamplona tiene una gran tradición de <strong>pintxos</strong> de autor, con una semana del pincho cada año. Las mejores calles son <strong>San Nicolás</strong>, <strong>Estafeta</strong> y los alrededores de la Plaza del Castillo. Prueba también los productos de Navarra: <strong>pimientos del piquillo</strong>, <strong>espárragos</strong>, <strong>alcachofas</strong> de Tudela, <strong>chistorra</strong>, queso <strong>Idiazabal</strong> o <strong>Roncal</strong>, y de beber, un rosado navarro o un pacharán.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>De Pompaelo a los Sanfermines</h2></div>
+<p>Pamplona se llama así por <strong>Pompeyo</strong>: el general romano fundó <em>Pompaelo</em> en el año <strong>74 a. C.</strong> En el siglo XVI se construyó la <strong>Ciudadela</strong>, una fortaleza en forma de estrella, que es uno de los mejores ejemplos de arquitectura militar renacentista de España. La ciudad fue capital del reino de Navarra.</p>
+<p>Los <strong>Sanfermines</strong> se celebran desde el siglo XVI del 6 al 14 de julio, y se hicieron famosos en todo el mundo cuando el escritor <strong>Ernest Hemingway</strong> los describió en su novela <em>Fiesta</em> (1926).</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Pamplona</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Madrid, unos 400 km por la A-15 (4 horas); desde San Sebastián, unos 90 km por la A-15.</p><p><strong>En tren:</strong> conexiones con Madrid y Barcelona.</p><p><strong>En avión:</strong> el aeropuerto de Noáin está a 7 km.</p><p><strong>Dónde aparcar:</strong> en los aparcamientos subterráneos de la Plaza del Castillo o junto a la muralla. En San Fermín, mejor no ir en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Plaza%20del%20Castillo%2C%20Pamplona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

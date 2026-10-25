@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre A Coruña"
 faq:
+  - q: "¿Quién fue María Pita?"
+    a: "Una vecina de A Coruña que, según la tradición, destacó en la defensa de la ciudad contra el ataque inglés de 1589."
+  - q: "¿Por qué A Coruña es «la ciudad de cristal»?"
+    a: "Por las galerías acristaladas de las casas de la Avenida de la Marina."
   - q: "¿Qué ver en A Coruña en un día?"
     a: "La Torre de Hércules, el paseo marítimo, la Avenida de la Marina, la Plaza de María Pita, la Ciudad Vieja y las playas de Riazor y Orzán."
   - q: "¿Por qué es famosa la Torre de Hércules?"
@@ -55,7 +59,12 @@ Un **faro romano** que sigue en funcionamiento, un paseo marítimo que rodea cas
 <div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Si tienes más días</span><h2>Cerca de A Coruña</h2></div>
 <p>Betanzos, Pontedeume o la Costa da Morte (hay una <a href="https://www.civitatis.com/es/la-coruna/excursion-finisterre-costa-morte/?aid=110968" target="_blank" rel="noopener sponsored">excursión a Finisterre y la Costa da Morte</a>).</p>
 
-<div style="clear:both"></div><div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
+<div style="clear:both"></div><!--enr-->
+<div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Brigantium, la Armada y María Pita</h2></div>
+<p>A Coruña es una de las ciudades más antiguas de la costa gallega: los romanos la conocían como <strong>Brigantium</strong> y levantaron en la península la <a href="/blog/torre-de-hercules.html">Torre de Hércules</a>, el faro romano que sigue en uso. En <strong>1588</strong> partió de su puerto una parte de la <strong>Armada Invencible</strong>, y al año siguiente, en <strong>1589</strong>, la ciudad resistió el ataque de la flota inglesa de Drake gracias, según la tradición, a la valentía de <strong>María Pita</strong>.</p>
+<p>A finales del siglo XIX la burguesía del puerto construyó las <strong>galerías de cristal de la Marina</strong> que dan fama a la ciudad como «la ciudad de cristal». En el siglo XX nacieron aquí empresas textiles que se hicieron mundiales, entre ellas Zara, en 1975.</p>
+
+<div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> la estación de San Cristóbal queda a pocos minutos en bus o taxi del centro.</p><p><strong>En coche:</strong> el centro tiene zonas de pago: mejor aparcar en un parking. La Torre de Hércules tiene aparcamiento cercano.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=A+Coruña" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>A Coruña en un día</h2><ul><li><b>Mañana</b>: Torre de Hércules y su parque de esculturas.</li><li><b>Mediodía</b>: Paseo marítimo y comida en la Ciudad Vieja o María Pita: pulpo á feira o empanada.</li><li><b>Tarde</b>: Avenida de la Marina y la Domus.</li><li><b>Atardecer</b>: Playas de Orzán y Riazor.</li><li><b>Si llueve</b>: Museo de Bellas Artes o Fundación Luis Seoane.</li></ul></div>
