@@ -1,12 +1,12 @@
 ---
-title: 'Cabo Vidío: el faro y los acantilados de casi 100 metros de Cudillero, cómo llegar y qué ver'
+title: 'Cabo Vidío: el faro y los acantilados de más de 100 metros de Cudillero, cómo llegar y qué ver'
 seoTitle: 'Cabo Vidío: faro, acantilados y cómo llegar (Cudillero)'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Cabo Vidío'
 lat: 43.5945
 lng: -6.2441
 provincia: 'Asturias'
-excerpt: 'Cabo Vidío (Cudillero): faro de 1950, acantilados de casi 100 metros, cómo llegar, consejos y qué ver cerca: Cudillero, playa del Silencio y Luarca.'
+excerpt: 'Cabo Vidío (Cudillero): faro de 1950, acantilados de más de 100 metros, cómo llegar, consejos y qué ver cerca: Cudillero, playa del Silencio y Luarca.'
 cover: /assets/img/blog/cabo-vidio/portada.webp
 tags:
   - Spots
@@ -22,7 +22,7 @@ faq:
   - q: "¿Cuándo se inauguró el faro de Cabo Vidío?"
     a: "En 1950."
   - q: "¿Qué es Cabo Vidío?"
-    a: "Un cabo con faro y acantilados de casi 100 m en Cudillero."
+    a: "Un cabo con faro y acantilados de más de 100 m en Cudillero, según el Ayuntamiento."
   - q: "¿Cuándo se inauguró el faro?"
     a: "En 1950."
   - q: "¿Qué alcance tiene?"
@@ -34,7 +34,7 @@ faq:
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
 ---
-Un faro blanco al borde de unos de los **acantilados más altos de Asturias**, casi **100 metros** sobre el mar. **Cabo Vidío**, en Oviñana (concejo de Cudillero), es un mirador espectacular de la costa occidental y se visita en poco tiempo.
+Un faro blanco al borde de unos de los **acantilados más altos de Asturias**, más de **100 metros** sobre el mar, según el Ayuntamiento de Cudillero. **Cabo Vidío**, en Oviñana (concejo de Cudillero), es un mirador espectacular de la costa occidental y se visita en poco tiempo.
 
 Te cuento qué ver, cómo llegar y qué tener en cuenta 👇
 
@@ -44,8 +44,8 @@ Te cuento qué ver, cómo llegar y qué tener en cuenta 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cabo Vidío: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la localidad de Oviñana, concejo de Cudillero.</p></div>
-<div class="guide__tip"><h3>💡 El faro</h3><p>Se inauguró en 1950. Tiene unos 101 m de altura focal, 9 m de torre y un alcance de 25 millas náuticas.</p></div>
-<div class="guide__tip"><h3>⛰️ Los acantilados</h3><p>Alcanzan casi 100 m de altura.</p></div>
+<div class="guide__tip"><h3>💡 El faro</h3><p>Se inauguró en 1950. Las guías dan alturas focales y alcances distintos, así que no las cito: el dato que se repite es que es un faro automatizado, de torre baja y muy visible.</p></div>
+<div class="guide__tip"><h3>⛰️ Los acantilados</h3><p>Más de 100 m de altura, según el Ayuntamiento de Cudillero.</p></div>
 <div class="guide__tip"><h3>⚠️ Seguridad</h3><p>El borde es peligroso: no te acerques y vigila a los niños.</p></div>
 </div>
 
@@ -56,7 +56,7 @@ Te cuento qué ver, cómo llegar y qué tener en cuenta 👇
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-vidio/portada.webp" alt="Cabo y faro de Vidío" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El cabo y el faro</h3><p>El faro blanco sobre los acantilados.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-vidio/faro.webp" alt="Faro de Cabo Vidío" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El faro</h3><p>Inaugurado en 1950.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-vidio/cabo1.webp" alt="Acantilado de Cabo Vidío" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El acantilado</h3><p>Casi 100 m de caída sobre el mar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-vidio/cabo1.webp" alt="Acantilado de Cabo Vidío" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El acantilado</h3><p>Más de 100 m de caída sobre el mar.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-vidio/cabo2.webp" alt="Costa de Cabo Vidío" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La costa</h3><p>El mar bate contra la roca.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cabo-vidio/cabo3.webp" alt="Vistas desde Cabo Vidío" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Un mirador abierto al Cantábrico.</p></div></li>
 </ol>
@@ -67,7 +67,7 @@ Te cuento qué ver, cómo llegar y qué tener en cuenta 👇
 <!--enr-->
 <div class="guide__head"><span class="eyebrow">Más datos</span><h2>Un faro levantado después de varios naufragios</h2></div>
 <p>La Dirección General de Puertos solo había previsto una simple señal en este cabo, pero tras varios <strong>naufragios</strong> se decidió construir un faro. Las obras se proyectaron en 1944 y el faro, obra del arquitecto <strong>José María González del Valle</strong>, entró en funcionamiento en <strong>1950</strong>. Sigue activo, automatizado, y no se puede visitar por dentro.</p>
-<p>La altura de los acantilados que se citan (entre 80 y casi 100 metros) varía según la fuente, pero la caída es muy vertical. Muy cerca está <strong>La Iglesiona</strong>, una gran cueva marina que solo se puede recorrer con marea baja y con mucha precaución.</p>
+<p>El Ayuntamiento de Cudillero habla de <strong>acantilados de más de 100 metros</strong>; otras guías dan cifras algo menores, pero la caída es muy vertical. Toda esta zona forma parte del <strong>Paisaje Protegido de la Costa Occidental</strong>. Muy cerca está <strong>La Iglesiona</strong>, una gran cueva marina que solo se puede recorrer con marea baja y con mucha precaución.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> hasta Oviñana (Cudillero) y de ahí al cabo, por carretera local.</p><p><strong>Sin coche:</strong> el transporte público es limitado; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cabo+Vidío" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

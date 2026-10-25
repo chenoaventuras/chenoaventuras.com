@@ -41,12 +41,12 @@ Te cuento cómo llegar, cómo es y qué tener en cuenta 👇
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el concejo de Navia, cerca de la aldea de Frexulfe, a unos 5 km al este de Navia.</p></div>
 <div class="guide__tip"><h3>🏖️ Cómo es</h3><p>Entre 800 y 820 m de longitud y unos 90 m de ancho, con arena fina de tono tostado y mucha variación con la marea.</p></div>
-<div class="guide__tip"><h3>🌿 Protección</h3><p>Monumento natural desde 2002 (decreto 125/2002), además de ZEPA y LIC; ocupa unas 15 ha con sistema dunar.</p></div>
+<div class="guide__tip"><h3>🌿 Protección</h3><p>Monumento natural declarado por el <strong>Decreto 125/2002, de 3 de octubre</strong> (BOPA del 24 de octubre de 2002), con <strong>14,92 hectáreas</strong>: la playa, su sistema dunar, parte de los acantilados y el estuario del río Frexulfe.</p></div>
 <div class="guide__tip"><h3>⚠️ Mar</h3><p>El oleaje es fuerte y la playa suele estar bastante ocupada en verano.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
-<p>En el extremo oriental desemboca el <strong>río Frexulfe</strong>. En el sistema dunar crecen especies protegidas, como <em>Euphorbia peplis</em>, así que <strong>no pises las dunas</strong>. El acceso a pie es fácil y señalizado, y en coche hay aparcamiento.</p>
+<p>En el extremo oriental desemboca el <strong>río Frexulfe</strong>. En el sistema dunar hay plantas protegidas, sobre todo especies de dunas blancas como el barrón, y en la zona húmeda del estuario crece <em>Eleocharis parvula</em>, una planta muy rara en el Cantábrico; así que <strong>no pises las dunas</strong>. El acceso a pie es fácil y señalizado, y en coche hay aparcamiento.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Cómo es Frexulfe</h2><p>Arena, acantilados y mar bravo.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

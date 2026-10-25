@@ -14,7 +14,7 @@ wide: true
 faqTitulo: "Dudas sobre el faro de Chipiona"
 faq:
   - q: "¿Cuántos escalones tiene el faro de Chipiona?"
-    a: "Entre 322 y 344, según la fuente."
+    a: "344 hasta la linterna según la Diputación de Cádiz; la oficina de turismo de Chipiona cita 322."
   - q: "¿Se puede subir al faro de Chipiona?"
     a: "Hay visitas guiadas al interior desde 1998, pero no se llega a la linterna."
   - q: "¿Cuál es el faro más alto de España?"
@@ -78,7 +78,7 @@ Te cuento por qué está aquí, su curiosa conexión con los romanos y qué hace
 
 <!--enr-->
 <div class="guide__head"><span class="eyebrow">Más historia</span><h2>Obras, escalones y un faro romano que no se ha encontrado</h2></div>
-<p>La primera piedra se puso el <strong>30 de abril de 1863</strong>, y el faro se encendió por primera vez a finales de <strong>1867</strong>, según el proyecto del ingeniero <strong>Jaime Font Escolá</strong>. Las obras se dieron por acabadas en <strong>1869</strong>. La torre mide <strong>62 metros</strong> (unos 69 contando la base), y las fuentes dan entre <strong>322 y 344 escalones</strong>.</p>
+<p>La primera piedra se puso el <strong>30 de abril de 1863</strong> y el faro iluminó por primera vez el <strong>28 de noviembre de 1867</strong>, según la Diputación de Cádiz; el proyecto fue del ingeniero <strong>Jaime Font Escolá</strong> y las obras se dieron por acabadas en 1869. La torre mide <strong>62 metros</strong> (unos <strong>69 desde la base</strong>) y, según la Diputación, hay que subir <strong>344 escalones</strong> hasta la linterna (la oficina de turismo local cita 322).</p>
 <p>La relación con la torre romana atribuida a <strong>Quinto Servilio Cepión</strong> (140 a. C.) es una tradición histórica: no se han conservado restos de aquella construcción. Desde <strong>1998</strong> se organizan visitas turísticas al interior, pero no se puede subir a la linterna porque sigue en funcionamiento.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al faro de Chipiona</h2></div>

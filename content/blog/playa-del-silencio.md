@@ -42,9 +42,9 @@ Te cuento cómo llegar, cómo es y qué tener en cuenta antes de ir 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Playa del Silencio: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En Castañeras, concejo de Cudillero, en la costa occidental de Asturias.</p></div>
-<div class="guide__tip"><h3>🪨 Cómo es</h3><p>Unos 500 m de playa de cantos (pedrero), rodeada de imponentes acantilados cuarcíticos.</p></div>
-<div class="guide__tip"><h3>🚶 Acceso</h3><p>No tiene acceso rodado directo hasta la arena. En los días buenos de verano, el camino y las parcelas cercanas se llenan de coches.</p></div>
-<div class="guide__tip"><h3>🛡️ Protegida</h3><p>Está dentro de una ZEPA y un LIC (zonas protegidas).</p></div>
+<div class="guide__tip"><h3>🪨 Cómo es</h3><p>Según el Ayuntamiento de Cudillero, <strong>500 metros</strong> de cantos rodados de color claro y <strong>escasa arena</strong>, rodeados de acantilados cuarcíticos.</p></div>
+<div class="guide__tip"><h3>🚶 Acceso</h3><p>El Ayuntamiento indica un recorrido de unos <strong>25 minutos</strong> por camino, pista peatonal y escaleras. Hay un aparcamiento muy pequeño (unos <strong>5 coches</strong>) y recomienda dejar el coche en el pueblo. No hay servicios.</p></div>
+<div class="guide__tip"><h3>🛡️ Entorno natural</h3><p>El Ayuntamiento la define como <strong>paraje natural</strong> y pide respeto al entorno: llévate la basura y no dejes nada.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
