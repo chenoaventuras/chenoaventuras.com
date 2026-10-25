@@ -2408,7 +2408,8 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Guías: 4 tarjetas en 2×2, calendario de colores y fichas con dibujo */
 .guide__tips--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-@media (max-width: 680px) { .guide__tips--2 { grid-template-columns: 1fr; } }
+.guide__tips:has(> :nth-child(4):last-child) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 680px) { .guide__tips--2, .guide__tips:has(> :nth-child(4):last-child) { grid-template-columns: 1fr; } }
 .cal { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; margin: 22px 0 8px; }
 .cal__mes { background: var(--white); border-radius: var(--radius); padding: 16px 14px 14px; box-shadow: var(--shadow-sm); }
 .cal__mes h3 { margin: 0 0 10px; font-size: 1.05rem; color: var(--night); text-align: center; }
