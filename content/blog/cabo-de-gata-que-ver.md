@@ -67,7 +67,7 @@ En la playa de **Mónsul** rodaron una escena de *Indiana Jones*, y en el faro h
 
 <!--enr-->
 <div class="guide__head"><span class="eyebrow">La formación</span><h2>Un volcán que ya no está, pero se ve</h2></div>
-<p>Hace entre <strong>15 y 8 millones de años</strong> (las fechas exactas varían según la fuente) esta costa fue un campo volcánico muy activo, del que solo emerge una pequeña parte: el resto sigue bajo el mar. De entonces son los acantilados negros, las calas encajadas entre coladas de lava, y también el <strong>caldera de Rodalquilar</strong>, un gran cráter hundido que es de los mejores ejemplos de España.</p>
+<p>Hace entre <strong>15 y 8 millones de años</strong> (las fechas exactas varían según la fuente) esta costa fue un campo volcánico muy activo, del que solo emerge una pequeña parte: el resto sigue bajo el mar. De entonces son los acantilados negros, las calas encajadas entre coladas de lava, y también la <strong>caldera de Rodalquilar</strong>, un gran cráter hundido que es de los mejores ejemplos de España.</p>
 <p>El volcán dejó otra herencia: el <strong>oro</strong>. Los fluidos calientes que circularon por las rocas depositaron minerales, y a principios del siglo XX se empezó a explotar en <strong>Rodalquilar</strong>. La minería a escala industrial se mantuvo desde <strong>1931</strong> (en otras fuentes, desde 1940) hasta <strong>1966</strong>, y todavía se ven las ruinas de las instalaciones. El espacio es <strong>Parque Natural desde 1987</strong> y Reserva de la Biosfera de la UNESCO.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Cabo de Gata</h2></div>
