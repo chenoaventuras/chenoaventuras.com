@@ -74,6 +74,10 @@ Te cuento qué ver, cómo visitar sus bodegas y alguna curiosidad que no conoce 
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/cuzcurrita-rio-tiron-que-ver.html">Cuzcurrita de Río Tirón</a>:</strong> castillo hecho bodega (a unos 30 minutos en coche).</li><li><strong><a href="/blog/santo-domingo-de-la-calzada-que-ver.html">Santo Domingo de la Calzada</a>:</strong> catedral y Camino de Santiago (a unos 30 minutos en coche).</li><li><strong><a href="/blog/laguardia-que-ver.html">Laguardia</a>:</strong> bodegas bajo las casas (a menos de una hora en coche).</li><li><strong><a href="/blog/elciego-que-ver.html">Elciego</a>:</strong> el hotel de Gehry y la bodega Marqués de Riscal (a unos 30 minutos en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Haro</h2></div>
 <div class="guide__howto"><p>Haro está junto a la <strong>AP-68</strong>, a unos 40 minutos de Logroño y a una hora de Bilbao. También tiene <strong>estación de tren</strong>, justo en el Barrio de la Estación: puedes llegar en tren y bajarte entre bodegas.</p><p>Del centro al Barrio de la Estación se va andando en unos 10-15 minutos, cruzando el Ebro.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Barrio+de+la+Estación+Haro" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

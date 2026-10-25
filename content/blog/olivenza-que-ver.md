@@ -77,6 +77,10 @@ Te cuento su curiosa historia y qué ver en uno de los pueblos más bonitos de E
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/badajoz-que-ver.html">Badajoz</a>:</strong> Alcazaba, plazas y catedral (a menos de una hora en coche).</li><li><strong><a href="/blog/jerez-de-los-caballeros.html">Jerez de los Caballeros</a>:</strong> la ciudad templaria de las torres (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Olivenza</h2></div>
 <div class="guide__howto"><p>Desde <strong>Badajoz</strong>, unos 25 minutos por la EX-107. Desde Mérida, alrededor de una hora.</p><p>El centro es pequeño y se recorre a pie; aparca en las calles de alrededor del castillo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castillo+de+Olivenza" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

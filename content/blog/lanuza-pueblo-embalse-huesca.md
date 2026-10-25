@@ -81,6 +81,10 @@ Para mí es el pueblo más bonito de todo el Pirineo Aragonés, y te lo enseño 
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/pasarelas-de-panticosa.html">Panticosa</a>:</strong> puentes colgantes sobre el Caldarés (a pocos minutos en coche).</li><li><strong><a href="/blog/balneario-de-panticosa.html">Balneario de Panticosa</a>:</strong> termas en un circo glaciar (a pocos minutos en coche).</li><li><strong><a href="/blog/ibon-de-anayet.html">Valle de Tena</a>:</strong> ibones y paisaje de alta montaña (a unos 30 minutos en coche).</li><li><strong><a href="/blog/estacion-de-canfranc.html">Estación de Canfranc</a>:</strong> la gran estación internacional (a unos 30 minutos en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Lanuza</h2></div>
 <div class="guide__howto"><p>Lanuza está en el Valle de Tena, a un par de minutos de <strong>Sallent de Gállego</strong> por la A-136. Se aparca a la entrada del pueblo y se recorre andando.</p><p>Además de pasear por sus calles, el embalse permite practicar actividades acuáticas o simplemente sentarte a mirar el paisaje.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Lanuza%2C+Huesca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Lanuza en Google Maps</a></div></div>
 

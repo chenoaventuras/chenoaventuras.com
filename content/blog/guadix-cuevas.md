@@ -68,6 +68,10 @@ Te cuento qué ver, cómo son las cuevas por dentro, por qué la gente vive en e
 <div class="guide__head"><span class="eyebrow">Dormir</span><h2>Dormir en una cueva</h2></div>
 <p>La mejor forma de entender Guadix es <strong>pasar una noche en una casa cueva</strong>. Hay muchas acondicionadas como alojamiento, con cocina, baño y hasta piscina en algunas. Dentro se está fresco en verano y calentito en invierno, y el silencio es total. Reserva con antelación en temporada alta.</p>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/alpujarra-granada.html">Capileira</a>:</strong> pueblos blancos en la falda de Sierra Nevada (a poco más de una hora en coche).</li><li><strong><a href="/blog/granada-que-ver.html">Granada</a>:</strong> Alhambra, Albaicín y tapas (a poco más de una hora en coche).</li><li><strong><a href="/blog/los-cahorros-de-monachil.html">Los Cahorros de Monachil</a>:</strong> puentes colgantes en la sierra (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Guadix</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Granada, unos 60 km por la A-92, en menos de una hora; desde Almería, alrededor de hora y cuarto.</p><p><strong>En tren y autobús:</strong> hay conexiones desde Granada y Almería.</p><p><strong>Al Barrio de Cuevas:</strong> está a poco más de un kilómetro del centro; se puede ir andando o en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Mirador%20Padre%20Poveda%2C%20Guadix" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

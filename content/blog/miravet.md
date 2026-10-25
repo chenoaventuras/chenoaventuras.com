@@ -69,6 +69,10 @@ Te cuento qué ver y cómo vivir este rincón de las Terres de l'Ebre 👇
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/delta-del-ebro-que-ver.html">Delta del Ebro</a>:</strong> arrozales y flamencos (a poco más de una hora en coche).</li><li><strong><a href="/blog/que-ver-en-matarrana.html">Valderrobres, Matarraña</a>:</strong> pueblos de piedra y pozas (a poco más de una hora en coche).</li><li><strong>Tortosa:</strong> a unos 30 minutos, con catedral y castillo de la Suda.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Miravet</h2></div>
 <div class="guide__howto"><p>Desde la <strong>AP-7</strong> o la N-420 se llega en una hora desde Tarragona. Si vienes por la C-12, en la otra orilla, puedes cruzar con el <strong>pas de barca</strong>.</p><p>Al castillo se sube en coche por una carretera que rodea el pueblo; también se puede subir andando desde el casco viejo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castell+de+Miravet" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

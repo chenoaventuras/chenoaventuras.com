@@ -71,6 +71,10 @@ Te cuento cómo pasó, por qué ya no puede llamarse «pueblo pitufo» y qué ve
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/ronda-que-ver.html">Ronda</a>:</strong> Puente Nuevo y el Tajo (a unos 30 minutos en coche).</li><li><strong><a href="/blog/grazalema.html">Grazalema</a>:</strong> la sierra más lluviosa de España (a menos de una hora en coche).</li><li><strong><a href="/blog/setenil-de-las-bodegas-que-ver.html">Setenil de las Bodegas</a>:</strong> casas-cueva bajo la roca (a menos de una hora en coche).</li><li><strong>Valle del Genal:</strong> castañares y pueblos blancos como Genalguacil o Benalauría.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Júzcar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Ronda</strong>, unos 35 minutos por la A-397 y la MA-7306, una carretera de curvas.</p><p>Desde Málaga capital, alrededor de 2 horas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=J%C3%BAzcar%2C%20M%C3%A1laga" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

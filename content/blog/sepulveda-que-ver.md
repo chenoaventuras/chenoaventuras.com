@@ -52,6 +52,10 @@ Te cuento qué ver y cómo organizar la visita 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/sepulveda-que-ver/pena.webp" alt="Capitel románico esculpido en Nuestra Señora de la Peña, Sepúlveda" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Románico en detalle</h3><p>Los capiteles y las portadas esculpidas son uno de los mayores atractivos de las iglesias de Sepúlveda.</p></div></li>
 </ol>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/hoces-del-duraton.html">Hoces del Duratón</a>:</strong> buitres y la ermita de San Frutos (a unos 30 minutos en coche).</li><li><strong><a href="/blog/pedraza-que-ver.html">Pedraza</a>:</strong> villa medieval (a unos 30 minutos en coche).</li><li><strong><a href="/blog/chorrera-de-los-litueros.html">Chorrera de los Litueros</a>:</strong> cascada de Somosierra (a menos de una hora en coche).</li><li><strong><a href="/blog/pueblos-de-colores-segovia.html">Pueblos de colores (Riaza, Segovia)</a>:</strong> pueblos de colores (a menos de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>Sepúlveda está en el <strong>noreste de la provincia de Segovia</strong>, en una zona de carreteras con mucha curva y paisaje. Se llega en coche; el casco histórico es empinado, así que aparca abajo y sube andando.</p><p>Si vas a las Hoces del Duratón, aprovecha para ver la ermita de San Frutos, los miradores y, con reserva, hacer una excursión en piragua.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sepúlveda+Segovia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

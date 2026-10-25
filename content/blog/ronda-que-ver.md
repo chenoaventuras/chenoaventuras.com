@@ -79,6 +79,10 @@ Te cuento qué ver, cómo hacer la mejor foto del Puente Nuevo (desde abajo) y a
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/setenil-de-las-bodegas-que-ver.html">Setenil de las Bodegas</a>:</strong> casas bajo la roca (a unos 30 minutos en coche).</li><li><strong><a href="/blog/grazalema.html">Grazalema</a>:</strong> la sierra más lluviosa (a unos 30 minutos en coche).</li><li><strong><a href="/blog/juzcar-pueblo-pitufo.html">Júzcar</a>:</strong> el pueblo azul (a unos 30 minutos en coche).</li><li><strong><a href="/blog/caminito-del-rey.html">Caminito del Rey</a>:</strong> pasarelas sobre el desfiladero (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Ronda</h2></div>
 <div class="guide__howto"><p>En <strong>coche</strong> se llega desde Málaga o Marbella por carreteras de montaña con muy buenas vistas. Lo mejor es dejar el coche en uno de los <strong>aparcamientos públicos</strong> del centro y moverte andando.</p><p>Ronda también tiene <strong>estación de tren</strong> y autobuses desde Málaga, Sevilla y la Costa del Sol.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Puente+Nuevo+Ronda" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

@@ -73,6 +73,11 @@ Cuzcurrita está rodeada de bodegas y viñedos de la Rioja Alta, así que aprove
 
 <!--actividades-->
 
+<!--cerca-->
+## Para completar la escapada
+
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/haro-que-ver.html">Haro</a>:</strong> capital del vino de Rioja Alta (a unos 30 minutos en coche).</li><li><strong><a href="/blog/santo-domingo-de-la-calzada-que-ver.html">Santo Domingo de la Calzada</a>:</strong> catedral con gallinero (a unos 30 minutos en coche).</li><li><strong><a href="/blog/san-millan-de-la-cogolla.html">San Millán de la Cogolla</a>:</strong> los monasterios de Suso y Yuso (a menos de una hora en coche).</li><li><strong><a href="/blog/ezcaray-que-ver.html">Ezcaray</a>:</strong> plazas, mantas y esquí (a menos de una hora en coche).</li></ul>
+
 ## Cómo llegar a Cuzcurrita de Río Tirón
 
 El pueblo tiene fácil acceso en coche y aparcamiento sencillo en el propio casco urbano. Puedes consultar la ruta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Cuzcurrita%20de%20R%C3%ADo%20Tir%C3%B3n%2C%20La%20Rioja).

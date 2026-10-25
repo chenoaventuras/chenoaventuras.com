@@ -48,6 +48,10 @@ Te cuento qué ver y cuándo ir 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puerto-de-mogan/casas.webp" alt="Casas blancas con flores, palmeras y farolas en Puerto de Mogán" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Casas blancas y flores</h3><p>Balcones de colores, macetas con flores y palmeras: el rincón más fotografiado.</p></div></li>
 </ol>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/patalavaca.html">Playa de Patalavaca</a>:</strong> una playa de arena oscura (a unos 30 minutos en coche).</li><li><strong><a href="/blog/azulejos-de-veneguera.html">Los Azulejos de Veneguera</a>:</strong> rocas de colores (a unos 30 minutos en coche).</li><li><strong><a href="/blog/dunas-de-maspalomas.html">Dunas de Maspalomas</a>:</strong> un desierto junto al mar (a unos 30 minutos en coche).</li><li><strong><a href="/blog/roque-nublo.html">Roque Nublo</a>:</strong> el símbolo de la isla (a menos de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>Puerto de Mogán está en el <strong>suroeste de Gran Canaria</strong>. En coche, aparca en las zonas habilitadas a las afueras y entra andando. También se llega en barco con excursiones desde Puerto Rico.</p><p>Es el segundo núcleo más grande del municipio de Mogán, así que hay buena oferta de restaurantes y alojamientos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Puerto+de+Mogán" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

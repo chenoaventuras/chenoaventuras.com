@@ -69,6 +69,10 @@ Te cuento qué ver, su papel en la historia de Castilla, la curiosa mosca de un 
 <div class="guide__head"><span class="eyebrow">Vino</span><h2>La D.O. Toro</h2></div>
 <p>Toro es tierra de vino desde hace siglos, y su <strong>Denominación de Origen</strong>, que abarca municipios de Zamora y Valladolid, es famosa por sus <strong>tintos potentes</strong>, elaborados con <strong>tinta de Toro</strong>, una variedad local del tempranillo adaptada al clima extremo de la meseta. Muchas bodegas ofrecen visitas con cata, y bajo el casco antiguo hay bodegas tradicionales excavadas en el subsuelo.</p>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/uruena-que-ver.html">Urueña</a>:</strong> el pueblo de las librerías (a menos de una hora en coche).</li><li><strong><a href="/blog/zamora-que-ver.html">Zamora</a>:</strong> la ciudad del románico (a menos de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Toro</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Zamora, unos 33 km por la A-11; desde Valladolid, unos 60 km.</p><p><strong>En tren y autobús:</strong> hay conexiones con Zamora y Valladolid.</p><p><strong>Aparcar:</strong> mejor fuera del casco antiguo y subir andando.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Colegiata%20de%20Santa%20Mar%C3%ADa%20la%20Mayor%2C%20Toro" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

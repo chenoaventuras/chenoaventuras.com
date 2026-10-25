@@ -75,6 +75,10 @@ Te cuento qué ver y cuándo ir 👇
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/cueva-del-puerto-calasparra.html">Cueva del Puerto</a>:</strong> cueva con minerales luminiscentes (a menos de una hora en coche).</li><li><strong><a href="/blog/rafting-canon-de-almadenes.html">Cañón de Almadenes</a>:</strong> descenso en barca por un cañón (a menos de una hora en coche).</li><li><strong><a href="/blog/fuente-del-gorgoton-cieza.html">Cieza</a>:</strong> manantial de acceso libre (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Caravaca</h2></div>
 <div class="guide__howto"><p>Desde <strong>Murcia</strong> se llega en una hora por la autovía del Noroeste (RM-15). Desde Granada o Albacete, en unas dos horas.</p><p>Aparca en la zona baja y sube a pie al castillo, o usa los aparcamientos señalizados cerca de la cuesta.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Basílica+de+la+Vera+Cruz+Caravaca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Fuentes+del+Marqués+Caravaca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Fuentes del Marqués</a></div></div>
 

@@ -90,6 +90,11 @@ Pasear por el pueblo, el museo y buena parte de la muralla es gratuito. Si quier
 <p>Buitrago es uno de los pueblos con más historia de la sierra norte. Los autores antiguos mencionan una fortaleza celtíbera en este meandro del Lozoya, y los visigodos y los musulmanes la reforzaron. Tras la conquista cristiana pasó a Castilla, y en el <strong>siglo XII</strong> se reformó su <strong>muralla</strong>, que se amplió y reformó de nuevo en el siglo XIV. Hoy es una de las murallas más largas y mejor conservadas de la Comunidad de Madrid y es <strong>Monumento Nacional desde 1931</strong>.</p>
 <p>En la Edad Media la villa perteneció a la poderosa familia <strong>Mendoza</strong>, que construyó el castillo (entre finales del siglo XIV y el XVI) y promovió la iglesia gótico-mudéjar de <strong>Santa María del Castillo</strong>, del siglo XIV-XV. El castillo se dañó gravemente en la Guerra de la Independencia. Dentro de las murallas hay también un museo con obras del pintor Pablo Picasso.</p>
 
+<!--cerca-->
+## Para completar la escapada
+
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/hayedo-de-montejo.html">Hayedo de Montejo</a>:</strong> un hayedo Patrimonio de la Humanidad (a unos 30 minutos en coche).</li><li><strong><a href="/blog/puerto-de-la-puebla-sierra-del-rincon.html">Sierra del Rincón</a>:</strong> ruta panorámica por la Sierra del Rincón (a unos 30 minutos en coche).</li><li><strong><a href="/blog/pedraza-que-ver.html">Pedraza</a>:</strong> una villa medieval en Segovia (a menos de una hora en coche).</li><li><strong><a href="/blog/chorrera-de-los-litueros.html">Chorrera de los Litueros</a>:</strong> cascada en Somosierra (a unos 30 minutos en coche).</li></ul>
+
 ## Cómo llegar a Buitrago del Lozoya
 
 Buitrago del Lozoya tiene fácil acceso en coche desde Madrid capital, en aproximadamente una hora, con aparcamientos señalizados a la entrada del pueblo. Puedes consultar la ruta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Buitrago%20del%20Lozoya%2C%20Madrid).

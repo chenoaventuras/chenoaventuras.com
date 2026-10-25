@@ -69,6 +69,10 @@ Una muralla medieval casi intacta, torres, portales y un casco antiguo que parec
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Montblanc</h2></div>
 <div class="guide__legend"><h3>🐉 Setmana Medieval de Sant Jordi</h3><p>En <strong>abril</strong>, alrededor de Sant Jordi, Montblanc celebra su <strong>Semana Medieval</strong>: según la tradición, aquí mató Sant Jordi al dragón, y el pueblo lo representa en la calle. Más de 90 actividades, mercado medieval, torneos y espectáculos, con más de 150.000 visitantes. Está declarada de <strong>Interés Turístico Nacional</strong>.</p></div>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/poblet-que-ver.html">Monasterio de Poblet</a>:</strong> uno de los grandes monasterios cistercienses (a pocos minutos en coche).</li><li><strong><a href="/blog/tarragona-que-ver.html">Tarragona</a>:</strong> anfiteatro junto al mar (a menos de una hora en coche).</li><li><strong>Santes Creus:</strong> otro monasterio cisterciense de la Ruta del Císter.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Montblanc</h2></div>
 <div class="guide__howto"><p>Desde <strong>Tarragona</strong>, por la A-27 en unos 40 minutos. Desde <strong>Barcelona</strong>, por la AP-2 en algo más de una hora. También hay tren.</p><p>Aparca fuera de las murallas: el casco antiguo es pequeño y se recorre a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Portal%20de%20Sant%20Jordi%2C%20Montblanc" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

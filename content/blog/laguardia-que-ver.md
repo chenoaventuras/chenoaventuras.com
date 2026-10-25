@@ -79,6 +79,10 @@ Te cuento qué ver, desde el pórtico que conserva sus colores medievales hasta 
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/elciego-que-ver.html">Elciego</a>:</strong> el hotel de Gehry (a pocos minutos en coche).</li><li><strong><a href="/blog/logrono-que-ver.html">Logroño</a>:</strong> la calle Laurel (a unos 30 minutos en coche).</li><li><strong><a href="/blog/haro-que-ver.html">Haro</a>:</strong> las bodegas históricas (a menos de una hora en coche).</li><li><strong><a href="/blog/ochate-pueblo-maldito.html">Ochate</a>:</strong> un pueblo abandonado (a menos de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Laguardia</h2></div>
 <div class="guide__howto"><p>Desde <strong>Logroño</strong> se llega en unos 15-20 minutos por la A-124. Desde <strong>Vitoria</strong>, en unos 45 minutos cruzando el puerto de Herrera, con un mirador espectacular sobre la Rioja Alavesa.</p><p>Aparca en los <strong>aparcamientos junto a la muralla</strong>: el centro es peatonal.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laguardia+Álava" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

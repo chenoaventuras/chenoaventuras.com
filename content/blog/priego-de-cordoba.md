@@ -66,6 +66,10 @@ Te cuento qué ver, la historia de su riqueza, sus fiestas y cómo combinarlo co
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Los Domingos de Mayo</h2></div>
 <p>En mayo, Priego vive su fiesta más querida: los <strong>Domingos de Mayo</strong>. Cada semana, una hermandad celebra sus cultos y saca en procesión a su imagen el domingo, con rifas, música y mucha gente en la calle. Es una tradición muy viva y una de las mejores épocas para conocer el pueblo.</p>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/alcala-la-real-fortaleza-de-la-mota.html">Alcalá la Real</a>:</strong> una fortaleza fronteriza (a menos de una hora en coche).</li><li><strong>Zuheros:</strong> pueblo colgado sobre una peña con castillo y cueva de los Murciélagos, a unos 40 minutos.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Priego de Córdoba</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Córdoba, algo más de 100 km, alrededor de una hora y media; desde Granada, unos 80 km, en torno a una hora.</p><p><strong>Aparcar:</strong> hay aparcamientos en el centro; el Barrio de la Villa se recorre a pie.</p><p><strong>En autobús:</strong> hay líneas desde Córdoba y Granada.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Fuente%20del%20Rey%2C%20Priego%20de%20C%C3%B3rdoba" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

@@ -66,6 +66,10 @@ Brujas, un castillo en ruinas y un poeta que se inspiró en todo ello. Te cuento
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/tarazona-que-ver.html">Tarazona</a>:</strong> catedral mudéjar y Casas Colgadas (a unos 30 minutos en coche).</li><li><strong><a href="/blog/bardenas-reales.html">Bardenas Reales</a>:</strong> el desierto de Navarra (a poco más de una hora en coche).</li><li><strong>Monasterio de Veruela:</strong> a pocos minutos, con claustro y museo del vino.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Trasmoz</h2></div>
 <div class="guide__howto"><p>Desde <strong>Zaragoza</strong>, por la AP-68 o la N-232 hacia Tarazona y luego hacia Vera de Moncayo. Trasmoz está a pocos kilómetros, subiendo hacia el Moncayo.</p><p>Se aparca sin problema en la entrada del pueblo. Al castillo se sube andando en pocos minutos.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Trasmoz%2C%20Zaragoza" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

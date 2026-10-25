@@ -78,6 +78,10 @@ Te cuento qué ver, cómo llegar en el tren y qué ruta hacer por la Serra de Tr
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/valldemossa-que-ver.html">Valldemossa</a>:</strong> la Cartuja de Chopin (a unos 30 minutos en coche).</li><li><strong><a href="/blog/sa-calobra.html">Sa Calobra</a>:</strong> el Torrent de Pareis (a unos 30 minutos en coche).</li><li><strong><a href="/blog/palma-de-mallorca-que-ver.html">Palma de Mallorca</a>:</strong> catedral y Almudaina (a menos de una hora en coche).</li><li><strong><a href="/blog/hotel-formentor.html">Platja de Formentor</a>:</strong> el cabo de Formentor (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Sóller</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> desde la estación del Tren de Sóller en Palma, junto a la plaza de España. Es la opción más bonita.</p><p><strong>En coche o autobús:</strong> por el túnel de Sóller se llega en unos 30 minutos desde Palma. También hay autobuses regulares. En verano aparcar en el centro es complicado.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sóller+Mallorca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://trendesoller.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Tren de Sóller</a></div></div>
 

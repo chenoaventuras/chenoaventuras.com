@@ -73,6 +73,10 @@ Te cuento por qué llueve tanto, el bosque «de la época del hielo» que escond
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Grazalema</h2></div>
 <div class="guide__legend"><h3>🐂 Lunes del Toro de Cuerda</h3><p>El <strong>lunes siguiente al 16 de julio</strong>, dentro de las fiestas de la Virgen del Carmen, se sueltan toros atados con una <strong>larga cuerda</strong> por las calles del casco, y los mozos los guían y los torean. Es una tradición muy antigua y está declarada <strong>Bien de Interés Cultural</strong> por la Junta de Andalucía.</p></div>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/ronda-que-ver.html">Ronda</a>:</strong> el Puente Nuevo sobre el Tajo (a unos 30 minutos en coche).</li><li><strong><a href="/blog/setenil-de-las-bodegas-que-ver.html">Setenil de las Bodegas</a>:</strong> casas bajo la roca (a menos de una hora en coche).</li><li><strong><a href="/blog/juzcar-pueblo-pitufo.html">Júzcar</a>:</strong> el pueblo azul (a menos de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Grazalema</h2></div>
 <div class="guide__howto"><p>Desde <strong>Ronda</strong>, unos 30 minutos por la A-372. Desde Sevilla o Jerez, alrededor de 1 hora y media.</p><p>La subida por el puerto del Boyar desde Zahara es espectacular.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Grazalema%2C%20C%C3%A1diz" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

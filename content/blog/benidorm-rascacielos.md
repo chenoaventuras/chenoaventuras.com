@@ -78,6 +78,10 @@ Te cuento por qué un pueblo de pescadores acabó así y dónde ver su skyline �
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/altea-que-ver-costa-blanca.html">Altea</a>:</strong> el pueblo de las cúpulas azules (a unos 30 minutos en coche).</li><li><strong><a href="/blog/guadalest-que-ver.html">Guadalest</a>:</strong> castillo y embalse turquesa (a unos 30 minutos en coche).</li><li><strong><a href="/blog/cala-granadella.html">Cala Granadella</a>:</strong> una cala de agua cristalina (a poco más de una hora en coche).</li><li><strong><a href="/blog/alicante-que-ver.html">Alicante</a>:</strong> el castillo de Santa Bárbara (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Benidorm</h2></div>
 <div class="guide__howto"><p>Desde <strong>Alicante</strong>, unos 45 minutos por la AP-7 o la N-332. También llega el <strong>TRAM</strong> (línea 1) desde Alicante.</p><p>Dentro de la ciudad, lo mejor es moverse andando por el paseo marítimo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Balc%C3%B3n%20del%20Mediterr%C3%A1neo%2C%20Benidorm" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

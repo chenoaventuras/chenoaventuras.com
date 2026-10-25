@@ -62,6 +62,10 @@ Además, desde su muralla tienes una de las vistas más amplias de Tierra de Cam
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/uruena-que-ver/anunciada.webp" alt="Ermita de la Anunciada en Urueña" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La ermita de la Anunciada</h3><p>Al pie del páramo, una iglesia románica de estilo lombardo, rarísima en Castilla.</p></div></li>
 </ol>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/toro-que-ver.html">Toro</a>:</strong> la Colegiata y su Pórtico de la Majestad (a menos de una hora en coche).</li><li><strong><a href="/blog/valladolid-que-ver.html">Valladolid</a>:</strong> la Plaza Mayor y el Colegio de San Gregorio (a poco más de una hora en coche).</li><li><strong><a href="/blog/medina-del-campo-castillo-mota.html">Medina del Campo</a>:</strong> el castillo de la Mota (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Urueña</h2></div>
 <div class="guide__howto"><p>Desde la autovía <strong>A-6</strong> (Madrid-A Coruña) hay salida hacia Urueña. Desde Valladolid se llega en unos 50 minutos.</p><p>Aparca fuera de la muralla, en la entrada del pueblo, y recórrelo a pie. La ermita de la Anunciada está abajo, a unos minutos en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Urueña" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

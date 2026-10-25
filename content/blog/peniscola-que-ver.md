@@ -82,6 +82,10 @@ Te cuento qué ver, sus curiosidades y una ruta de costa salvaje a pocos minutos
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/olivo-farga-arion-ulldecona.html">Farga de l''Arion, Ulldecona</a>:</strong> un olivo milenario (a menos de una hora en coche).</li><li><strong>Sierra de Irta:</strong> parque natural con calas casi vírgenes y rutas junto al mar, a pocos minutos.</li><li><strong>Vinaròs:</strong> puerto pesquero con langostinos famosos, a unos 30 minutos.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Peñíscola</h2></div>
 <div class="guide__howto"><p>Desde la <strong>AP-7</strong> se llega en pocos minutos (salida Peñíscola-Benicarló). La estación de tren más cercana es <strong>Benicarló-Peñíscola</strong>, conectada con el pueblo por autobús.</p><p>En verano el tráfico es intenso: aparca en los parkings de la entrada y entra a pie al casco antiguo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Castillo+de+Peñíscola" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

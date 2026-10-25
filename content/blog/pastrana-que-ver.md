@@ -68,6 +68,10 @@ Te cuento qué ver, la vida de la Princesa de Éboli, el tesoro de la Colegiata 
 <div class="guide__head"><span class="eyebrow">Curiosidad</span><h2>Santa Teresa y la princesa</h2></div>
 <p>Los príncipes de Éboli invitaron a <strong>Santa Teresa</strong> a fundar en Pastrana un convento de monjas, el de San José, y otro de frailes, hoy convento del Carmen. Todo fue bien hasta que murió el príncipe en 1573 y la princesa decidió entrar como monja… a su manera, con criados y caprichos. Los choques fueron tales que, siguiendo instrucciones de Santa Teresa, las monjas abandonaron el convento de noche y se marcharon a Segovia. La santa incluso contó el episodio en sus escritos.</p>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/ruta-de-las-caras-buendia.html">Ruta de las Caras</a>:</strong> rostros tallados en la roca (a unos 30 minutos en coche).</li><li><strong><a href="/blog/brihuega-lavanda.html">Brihuega</a>:</strong> jardines y campos de lavanda (a poco más de una hora en coche).</li><li><strong>Embalse de Entrepeñas:</strong> el «mar de Castilla», a unos 15 minutos.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Pastrana</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Madrid, alrededor de 1 h 15 por la A-2 y después por carreteras de la Alcarria; desde Guadalajara, unos 45 minutos.</p><p><strong>Aparcar:</strong> hay sitio en la parte baja y junto a la Plaza de la Hora.</p><p><strong>Oficina de turismo:</strong> pregunta allí por las visitas al Palacio Ducal y al museo de tapices.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Palacio%20Ducal%20de%20Pastrana" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

@@ -44,6 +44,10 @@ La llaman la **cuna de Castilla** porque aquí está enterrado Fernán González
 
 <div class="guide__howto"><h3>Fiestas de Covarrubias</h3><p>En <strong>enero</strong>, el domingo siguiente a San Antón, la <strong>Fiesta de la Matanza</strong>. El <strong>segundo fin de semana de julio</strong>, la <strong>Fiesta Medieval y de la Cereza</strong>, con el pueblo entero vestido de época. Y a finales de <strong>septiembre</strong>, las fiestas patronales de San Cosme y San Damián.</p></div>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/lerma-que-ver.html">Lerma</a>:</strong> villa ducal con plaza enorme (a unos 30 minutos en coche).</li><li><strong><a href="/blog/territorio-artlanza-burgos.html">Quintanilla del Agua</a>:</strong> pueblo castellano en miniatura (a unos 30 minutos en coche).</li><li><strong>Santo Domingo de Silos:</strong> monasterio benedictino con claustro románico, a unos 25 minutos.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Covarrubias</h2></div>
 <div class="guide__howto"><p>Desde <strong>Burgos</strong>, unos 40 km hacia el sur: por la N-234 en dirección Soria y después por la BU-901 (unos 40 minutos). Desde la A-1 también puedes llegar por <strong>Lerma</strong>, por la BU-904.</p><p>Hay autobuses desde Burgos, aunque con pocas frecuencias: mejor en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Covarrubias%2C%20Burgos" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

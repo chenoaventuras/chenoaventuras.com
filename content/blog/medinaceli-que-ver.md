@@ -71,6 +71,10 @@ Te cuento qué ver en uno de los pueblos más bonitos de Castilla 👇
 <div class="guide__head"><span class="eyebrow">Fiestas</span><h2>Fiestas de Medinaceli</h2></div>
 <div class="guide__legend"><h3>🔥 Toro Jubilo</h3><p>En <strong>noviembre</strong>, el sábado más cercano al 13, durante las fiestas de los Cuerpos Santos, se celebra el <strong>Toro Jubilo</strong>: un toro con bolas de fuego en los cuernos recorre de noche un ruedo improvisado en la Plaza Mayor. Hay documentos de la fiesta desde el siglo XVI y en 2026 la Junta de Castilla y León la declaró bien cultural inmaterial. Es también una fiesta <strong>muy polémica</strong>, con protestas de asociaciones animalistas.</p></div>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/siguenza-que-ver.html">Sigüenza</a>:</strong> catedral y castillo-parador (a menos de una hora en coche).</li><li><strong><a href="/blog/atienza-que-ver.html">Atienza</a>:</strong> castillo y plaza del Trigo (a poco más de una hora en coche).</li><li><strong>Calatayud:</strong> a unos 45 minutos, con su casco mudéjar.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Medinaceli</h2></div>
 <div class="guide__howto"><p>Desde la <strong>A-2</strong> (Madrid-Zaragoza) hay una salida directa. El pueblo histórico está arriba, en el cerro; abajo, junto a la autovía, está la parte nueva.</p><p>Sube en coche al pueblo alto y aparca en la entrada, junto al arco.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Arco+romano+Medinaceli" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

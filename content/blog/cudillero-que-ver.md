@@ -74,6 +74,10 @@ Te cuento qué ver, desde qué miradores sacar la mejor foto y cómo combinarlo 
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/cabo-vidio.html">Cabo Vidío</a>:</strong> faro y acantilados (a unos 30 minutos en coche).</li><li><strong><a href="/blog/playa-del-silencio.html">Playa del Silencio</a>:</strong> una playa de cantos protegida (a unos 30 minutos en coche).</li><li><strong><a href="/blog/luarca-que-ver.html">Luarca</a>:</strong> la Villa Blanca de la Costa Verde (a menos de una hora en coche).</li><li><strong><a href="/blog/cabo-penas-que-ver.html">Cabo Peñas</a>:</strong> el extremo norte de Asturias (a menos de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Cudillero</h2></div>
 <div class="guide__howto"><p>Desde <strong>Oviedo</strong> se llega en unos 45 minutos por la autovía del Cantábrico (A-8). También hay tren de cercanías, aunque la estación queda lejos del puerto.</p><p>En verano el acceso en coche al centro está muy restringido: aparca en la entrada o en el puerto y camina. Las cuestas son serias, así que lleva calzado cómodo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cudillero" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Playa+del+Silencio+Asturias" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Playa del Silencio</a></div></div>
 

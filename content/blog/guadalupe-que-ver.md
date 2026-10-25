@@ -77,6 +77,10 @@ Aquí está la Virgen de Guadalupe, patrona de Extremadura, y una de las mejores
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Villuercas, Ibores y Jara:</strong> Geoparque con rutas, cascadas y cuevas en los alrededores.</li><li><strong><a href="/blog/monasterio-de-yuste.html">Monasterio de Yuste</a>:</strong> el retiro de Carlos V (a poco más de una hora en coche).</li><li><strong><a href="/blog/trujillo-que-ver.html">Trujillo</a>:</strong> plaza mayor y castillo (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Guadalupe</h2></div>
 <div class="guide__howto"><p>Desde <strong>Trujillo</strong>, unos 80 km (algo más de una hora). Desde Madrid, por la A-5 hasta Navalmoral u Oropesa y después carreteras de montaña.</p><p>Hay aparcamientos a la entrada del pueblo: el centro es pequeño y se recorre a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Real+Monasterio+de+Guadalupe" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

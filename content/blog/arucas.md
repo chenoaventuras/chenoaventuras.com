@@ -48,6 +48,10 @@ Te cuento qué ver y cómo organizarte 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/arucas/fachada.webp" alt="Torres de la iglesia de Arucas con cielo azul" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Desde la plaza</h3><p>El mejor ángulo para fotografiarla es desde abajo, con las torres recortadas contra el cielo.</p></div></li>
 </ol>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/las-palmas-vegueta.html">Las Palmas de Gran Canaria</a>:</strong> el casco colonial de Vegueta (a unos 30 minutos en coche).</li><li><strong><a href="/blog/piscinas-naturales-agaete.html">Piscinas naturales de Agaete</a>:</strong> piscinas de agua de mar (a unos 30 minutos en coche).</li><li><strong><a href="/blog/faro-de-sardina.html">Faro de Sardina</a>:</strong> un faro con buen atardecer (a unos 30 minutos en coche).</li><li><strong><a href="/blog/roque-nublo.html">Roque Nublo</a>:</strong> el símbolo del interior de Gran Canaria (a unos 30 minutos en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>Desde Las Palmas de Gran Canaria son unos <strong>15 minutos en coche</strong> por la GC-3, o unos 35 minutos en la guagua (línea 205).</p><p>Aparca cerca del centro y recórrelo andando: la iglesia, el casco antiguo y el parque están muy cerca unos de otros.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Iglesia+de+San+Juan+Bautista+Arucas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

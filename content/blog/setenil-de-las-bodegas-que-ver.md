@@ -65,6 +65,10 @@ Te cuento qué ver, el origen de su curioso nombre y cómo llegar 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/setenil-de-las-bodegas-que-ver/rio.webp" alt="Casas excavadas bajo la roca junto al río en Setenil" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Calle Calcetas y alrededores</h3><p>Piérdete por las calles junto al río: en cada esquina aparece otra casa encajada bajo la piedra.</p></div></li>
 </ol>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/ronda-que-ver.html">Ronda</a>:</strong> Puente Nuevo y el Tajo (a unos 30 minutos en coche).</li><li><strong><a href="/blog/grazalema.html">Grazalema</a>:</strong> el pinsapar y las mantas (a menos de una hora en coche).</li><li><strong><a href="/blog/juzcar-pueblo-pitufo.html">Júzcar</a>:</strong> el pueblo azul (a menos de una hora en coche).</li><li><strong><a href="/blog/caminito-del-rey.html">Caminito del Rey</a>:</strong> el camino sobre el desfiladero (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Setenil</h2></div>
 <div class="guide__howto"><p>Lo más práctico es ir en <strong>coche</strong>: está a unos 20 minutos de Ronda y a algo más de una hora y media de Málaga o Sevilla.</p><p>Dentro del pueblo las calles son estrechas y aparcar es complicado. Lo mejor es dejar el coche en los <strong>aparcamientos de la entrada</strong> del pueblo y entrar andando.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Setenil+de+las+Bodegas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

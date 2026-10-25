@@ -67,6 +67,10 @@ Te cuento qué ver, su larguísima historia, la visita a la necrópolis romana y
 <p><img src="/assets/img/blog/carmona-que-ver/alcazar.webp" alt="Alcázar del Rey Don Pedro y Parador de Carmona" loading="lazy" decoding="async" /></p>
 <p>En lo más alto, el <strong>Alcázar del Rey Don Pedro</strong>, residencia del rey Pedro I, está hoy en ruinas, y junto a él se levantó el <strong>Parador</strong>. Su terraza, sobre el precipicio, es el mejor sitio para ver el <strong>atardecer</strong> sobre la vega, aunque no estés alojado.</p>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/sevilla-que-ver.html">Sevilla</a>:</strong> catedral, Alcázar y Plaza de España (a menos de una hora en coche).</li><li><strong>Écija:</strong> la «ciudad de las torres», con iglesias barrocas y una plaza mayor singular.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Carmona</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Sevilla, unos 35 km por la A-4, alrededor de media hora.</p><p><strong>En autobús:</strong> hay autobuses frecuentes desde Sevilla.</p><p><strong>Aparcar:</strong> deja el coche fuera del casco antiguo, cerca de la Puerta de Sevilla; las calles del centro son estrechas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Alc%C3%A1zar%20de%20la%20Puerta%20de%20Sevilla%2C%20Carmona" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

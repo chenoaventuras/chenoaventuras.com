@@ -66,6 +66,10 @@ En sus paredes, unos azulejos cuentan la batalla en la que los moriscos se hicie
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/frigiliana-que-ver/nerja.webp" alt="Balcón de Europa en Nerja" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>Nerja</h3><p>A 10 minutos: el Balcón de Europa, sus calas y la Cueva de Nerja. El plan perfecto para completar el día.</p></div></li>
 </ol>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Nerja:</strong> cuevas, playas y el Balcón de Europa, a unos 10 minutos.</li><li><strong>Maro:</strong> calas de aguas cristalinas y acantilados protegidos, junto a Nerja.</li><li><strong>Torrox:</strong> pueblo y playas del este de la Axarquía.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Frigiliana</h2></div>
 <div class="guide__howto"><p>Desde <strong>Nerja</strong>, en 10 minutos por la MA-5105. Desde <strong>Málaga</strong>, por la A-7 hacia Almería y la salida de Nerja, en una hora más o menos.</p><p>Deja el coche en el <strong>aparcamiento municipal</strong> de la entrada: el barrio morisco es peatonal y sus calles son muy estrechas. También hay autobús desde Nerja.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Frigiliana%2C%20M%C3%A1laga" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

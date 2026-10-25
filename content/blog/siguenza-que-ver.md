@@ -77,6 +77,10 @@ Te cuento qué ver y cómo combinar historia y naturaleza 👇
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/medinaceli-que-ver.html">Medinaceli</a>:</strong> el arco romano de tres vanos (a menos de una hora en coche).</li><li><strong><a href="/blog/atienza-que-ver.html">Atienza</a>:</strong> castillo y La Caballada (a menos de una hora en coche).</li><li><strong><a href="/blog/brihuega-lavanda.html">Brihuega</a>:</strong> jardines y lavanda (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Sigüenza</h2></div>
 <div class="guide__howto"><p>Desde Madrid se llega en algo menos de dos horas por la A-2 o en <strong>tren regional</strong> desde Chamartín. El casco histórico se recorre a pie.</p><p>El <strong>Barranco del río Dulce</strong> está a unos 15-20 minutos en coche, entre Pelegrina y Aragosa, con aparcamientos en los puntos de inicio de las rutas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Catedral+de+Sigüenza" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Mirador+Félix+Rodríguez+de+la+Fuente+Pelegrina" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Mirador de Félix Rodríguez de la Fuente</a></div></div>
 

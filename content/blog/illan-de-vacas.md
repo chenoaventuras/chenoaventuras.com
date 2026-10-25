@@ -62,6 +62,10 @@ Te cuento cómo ha llegado a esto y qué te vas a encontrar si vas 👇
 
 <div class="guide__howto"><h3>Las fiestas</h3><p>Illán de Vacas celebra a <strong>San Illán</strong> el 16 de mayo y a la <strong>Virgen de la Paz</strong> el 24 de enero. Esos días vuelve gente con raíces en el pueblo.</p></div>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/barrancas-de-burujon.html">Barrancas de Burujón</a>:</strong> el «Gran Cañón del Tajo» (a menos de una hora en coche).</li><li><strong>Toledo:</strong> a unos 45 minutos, con su catedral, el Alcázar y las sinagogas.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Illán de Vacas</h2></div>
 <div class="guide__howto"><p>Desde <strong>Talavera de la Reina</strong>, unos 25 minutos en coche hacia el este. Desde <strong>Madrid</strong> son unos 110 km, 1 h 15 min por la A-5.</p><p>No hay transporte público: hace falta coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Ill%C3%A1n%20de%20Vacas%2C%20Toledo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

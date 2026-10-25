@@ -75,6 +75,10 @@ Te cuento cómo fue y qué se ve cuando baja el agua 👇
 <p>En <strong>1962</strong> se llenó el embalse de Belesar, y los vecinos tuvieron que abandonar sus casas. Se hizo un trabajo poco común: se <strong>desmontó la iglesia piedra a piedra, se numeró cada sillar</strong> y se volvió a montar en el nuevo emplazamiento, en lo alto del monte. En sus muros todavía se ven las marcas, y su rosetón y su portada románica son de lo mejor del Camino en Galicia.</p>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Los números:</strong> si miras bien las piedras de San Nicolás verás signos grabados que servían para montarlas en orden.</li><li><strong>El Camino:</strong> desde aquí se sube una larga cuesta hacia el pueblo, y se entra por una escalinata.</li><li><strong>El agua baja:</strong> cuando el embalse está bajo se ven restos del antiguo pueblo.</li></ul>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/lugo-que-ver.html">Lugo</a>:</strong> la muralla romana completa (a menos de una hora en coche).</li><li><strong><a href="/blog/canon-del-sil.html">Cañón del Sil</a>:</strong> miradores y catamarán (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Portomarín</h2></div>
 <div class="guide__howto"><p>Desde <strong>Lugo</strong>, unos 40 minutos. Desde Santiago, alrededor de 1 hora y cuarto.</p><p>Si haces el Camino Francés, Portomarín es final de etapa desde Sarria.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Portomar%C3%ADn%2C%20Lugo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

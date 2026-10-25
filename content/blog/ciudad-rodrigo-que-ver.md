@@ -76,6 +76,10 @@ Te cuento qué ver y por qué su carnaval es de los más especiales de España �
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/la-alberca-que-ver.html">La Alberca</a>:</strong> una villa de entramado de madera (a poco más de una hora en coche).</li><li><strong><a href="/blog/meandro-del-melero.html">Meandro del Melero</a>:</strong> mirador sobre el meandro del Alagón (a poco más de una hora en coche).</li><li><strong>Parque Natural de Arribes del Duero:</strong> miradores sobre el cañón del Duero, a unos 40-50 minutos.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Ciudad Rodrigo</h2></div>
 <div class="guide__howto"><p>Desde <strong>Salamanca</strong>, una hora por la autovía A-62. Desde Madrid son unas tres horas.</p><p>Aparca fuera de la muralla, junto a alguna de sus puertas, y recorre el casco a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Catedral+de+Ciudad+Rodrigo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

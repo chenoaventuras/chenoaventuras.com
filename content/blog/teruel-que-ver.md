@@ -57,6 +57,10 @@ Torres de ladrillo y cerámica verde, una plaza con un toro de piedra y una hist
 <p>Teruel se fundó en <strong>1171</strong>, cuando el rey <strong>Alfonso II de Aragón</strong> levantó una villa fortificada en un cerro para asegurar la frontera frente al territorio musulmán. Aquí convivieron cristianos, musulmanes y judíos, y de esa mezcla nació el <strong>mudéjar turolense</strong>, un estilo que une las formas cristianas con ladrillo, cerámica vidriada y carpintería de tradición islámica.</p>
 <p>Sus <strong>torres mudéjares</strong> (San Pedro, San Salvador, San Martín y la catedral) forman un conjunto declarado <strong>Patrimonio de la Humanidad por la UNESCO</strong>. La leyenda de <a href="/blog/amantes-de-teruel.html">los Amantes de Teruel</a> les pone un toque romántico, y el movimiento ciudadano <em>«Teruel existe»</em> convirtió el nombre de la ciudad en símbolo de la España poco poblada.</p>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/albarracin-que-ver.html">Albarracín</a>:</strong> pueblo rosa entre murallas (a menos de una hora en coche).</li><li><strong>Dinópolis:</strong> parque paleontológico en la propia ciudad.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren o autobús:</strong> Teruel no tiene línea de alta velocidad. Lo más habitual es ir en coche, en autobús o en tren regional desde Zaragoza o Valencia.</p><p><strong>En la ciudad:</strong> todo se recorre a pie desde la Plaza del Torico.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Teruel" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

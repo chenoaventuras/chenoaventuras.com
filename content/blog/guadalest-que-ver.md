@@ -73,8 +73,8 @@ Guadalest tiene origen musulmán, y su castillo —el Castell de Guadalest, o ca
 <!--enr-->
 ## Un castillo entre dos rocas
 
-<p>Guadalest ya existía en época musulmana y fue conquistado por los cristianos a mediados del <strong>siglo XIII</strong>. Su <strong>castillo de San José</strong> se levantó sobre una roca casi inaccesible, que daba al pueblo una defensa natural; sobre su origen las fuentes dan fechas distintas, entre el siglo VIII y el XI. Con el paso de los siglos sufrió <strong>terremotos y guerras</strong>: durante la guerra de Sucesión española una parte de la fortaleza fue destruida, y la torre y la iglesia se reconstruyeron después.</p>
-<p>En 1974 se declaró el pueblo <strong>conjunto histórico-artístico</strong>. Con la llegada del turismo y la construcción del embalse, que da color turquesa al valle, Guadalest se convirtió en uno de los pueblos más visitados de la Costa Blanca interior, con museos curiosos y tiendas.</p>
+<p>Guadalest era ya una fortaleza musulmana en el <strong>siglo XI</strong>, y los restos que se ven hoy son sobre todo del XII. Su <strong>castillo de San José</strong> y la torre de la <strong>Alcozaiba</strong> se levantaron sobre una roca casi inaccesible, que daba al pueblo una defensa natural. Los cristianos lo conquistaron a mediados del <strong>siglo XIII</strong> (con el rey Jaime I, hacia 1245) y en <strong>1293</strong> Jaime II lo cedió como feudo a Bernat de Sarrià.</p>
+<p>El castillo fue perdiendo piedra con los siglos: lo dañó un <strong>terremoto en 1644</strong>, la <strong>voladura de 1708</strong> durante la guerra de Sucesión lo dejó en ruinas y otro seísmo, en <strong>1748</strong>, acabó de arruinar el casco antiguo. En 1974 se declaró el pueblo <strong>conjunto histórico-artístico</strong>. Con la llegada del turismo y la construcción del embalse, que da color turquesa al valle, Guadalest se convirtió en uno de los pueblos más visitados de la Costa Blanca interior, con museos curiosos y tiendas.</p>
 
 ## Cómo llegar a Guadalest
 

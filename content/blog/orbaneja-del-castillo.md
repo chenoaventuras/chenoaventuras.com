@@ -70,6 +70,10 @@ Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cóm
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/orbaneja-del-castillo/canon.webp" alt="Cañón del Ebro junto a Orbaneja del Castillo" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>El cañón del Ebro</h3><p>Desde los miradores ves cómo el Ebro serpentea encajonado entre paredes de roca.</p></div></li>
 </ol>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/merindades-burgos-que-ver.html">Merindades de Burgos</a>:</strong> Puentedey, la Yecla y Frías (a poco más de una hora en coche).</li><li><strong><a href="/blog/aguilar-de-campoo-que-ver.html">Aguilar de Campoo</a>:</strong> la Colegiata y el monasterio (a poco más de una hora en coche).</li><li><strong>Cañón del Ebro:</strong> una ruta panorámica por los miradores del Ebro, a unos 20 minutos.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Orbaneja del Castillo</h2></div>
 <div class="guide__howto"><p>Desde <strong>Burgos</strong> se tarda algo más de una hora en coche, en dirección a Santander. Desde <strong>Santander</strong>, en torno a hora y media.</p><p>Hay aparcamiento a la entrada del pueblo, junto a la carretera. Los fines de semana de primavera y otoño se llena: mejor ir temprano.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Orbaneja+del+Castillo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

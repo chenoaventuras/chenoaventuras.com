@@ -83,6 +83,10 @@ Te cuento qué ver, qué comer (spoiler: el cocido se come al revés) y qué pue
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/leon-que-ver.html">León</a>:</strong> catedral, San Isidoro y la Casa Botines (a poco más de una hora en coche).</li><li><strong><a href="/blog/castillo-templario-ponferrada.html">Ponferrada</a>:</strong> el gran castillo del Bierzo (a poco más de una hora en coche).</li><li><strong>Castrillo de los Polvazares:</strong> pueblo maragato de piedra y puertas de colores, a unos 10 minutos de Astorga.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Astorga</h2></div>
 <div class="guide__howto"><p>Desde <strong>León</strong> se llega en unos 45 minutos por la autovía A-6/AP-71. Desde Madrid son unas tres horas y media por la A-6.</p><p>También hay <strong>tren y autobús</strong> desde León. El centro histórico se recorre andando sin problema.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Palacio+de+Gaudí+Astorga" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.palaciodegaudi.es/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Palacio de Gaudí</a></div></div>
 

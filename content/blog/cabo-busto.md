@@ -18,8 +18,8 @@ actividades:
 faqTitulo: "Dudas sobre Cabo Busto"
 faq:
   - q: "¿Cuándo se construyó el faro de Cabo Busto?"
-    a: "Según la Autoridad Portuaria de Avilés, se encendió en 1847; otras fuentes lo sitúan en 1858."
-  - q: "¿Quién gestiona el faro de Cabo Busto?"
+    a: "El 1 de abril de 1858; la luz eléctrica llegó en 1917 y la torre actual es de 1962."
+  - q: "¿Quién gestiona hoy el faro de Cabo Busto?"
     a: "La Autoridad Portuaria de Avilés."
   - q: "¿Dónde está Cabo Busto?"
     a: "En Busto, concejo de Valdés."
@@ -65,7 +65,7 @@ Te cuento qué ver, cómo llegar y qué sendero pasa cerca 👇
 
 <!--enr-->
 <div class="guide__head"><span class="eyebrow">Más historia</span><h2>El faro que vigila el Cantábrico desde hace más de siglo y medio</h2></div>
-<p>El faro de <strong>Cabo Busto</strong> es uno de los más antiguos de Asturias. Según el expediente de la <strong>Autoridad Portuaria de Avilés</strong>, que lo gestiona, se encendió por primera vez el <strong>1 de abril de 1847</strong> (algunas guías dan 1858). Al principio era un edificio en forma de «U» con la torre en el ala central; en <strong>1920</strong> se amplió y en <strong>1961</strong> se hicieron reformas que cambiaron mucho su aspecto original.</p>
+<p>El faro de <strong>Cabo Busto</strong> es uno de los más antiguos de Asturias. Se inauguró el <strong>1 de abril de 1858</strong>, con un aparato óptico de tercer orden que funcionaba con <strong>aceite</strong> (después con parafina y petróleo) y daba una luz fija con destellos rojos. En <strong>1917</strong> llegó la <strong>luz eléctrica</strong>, en <strong>1920</strong> se amplió el edificio y en <strong>1940</strong> se renovó la óptica. En <strong>1962</strong> se hizo la torre actual, más funcional que la original.</p>
 <p>Su luz tiene una altura focal de <strong>86 metros</strong> y ayuda a los barcos que bordean este tramo de costa, famoso por sus nieblas y sus temporales. A su alrededor hay <strong>prados de ganadería</strong>, acantilados verticales y algunos de los mejores atardeceres de la costa occidental asturiana, mucho más tranquilos que los de pueblos como <a href="/blog/cudillero-que-ver.html">Cudillero</a> o <a href="/blog/luarca-que-ver.html">Luarca</a>.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>

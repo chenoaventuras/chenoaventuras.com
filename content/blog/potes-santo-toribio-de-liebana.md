@@ -77,6 +77,10 @@ A solo 3 km está el **Monasterio de Santo Toribio**, uno de los cinco lugares s
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/desfiladero-de-la-hermida.html">La Hermida</a>:</strong> el cañón más largo de España (a unos 30 minutos en coche).</li><li><strong><a href="/blog/teleferico-fuente-de.html">Teleférico de Fuente Dé</a>:</strong> 753 metros de subida en minutos (a unos 30 minutos en coche).</li><li><strong><a href="/blog/naranjo-de-bulnes.html">Naranjo de Bulnes</a>:</strong> la gran montaña de los Picos (a unos 30 minutos en coche).</li><li><strong><a href="/blog/ruta-del-cares.html">Ruta del Cares</a>:</strong> la «garganta divina» (a menos de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Potes</h2></div>
 <div class="guide__howto"><p>Desde Santander o la costa, por la <strong>N-621 a través del Desfiladero de La Hermida</strong>: 21 km de cañón espectacular, pero con muchas curvas. Calcula 1 h 45 min desde Santander.</p><p>Desde Castilla, por el <strong>puerto de San Glorio</strong> (Palencia y León) o por Piedrasluengas.</p><p>Santo Toribio está a <strong>3 km de Potes</strong>, por una carretera estrecha que sube desde el pueblo. Hay aparcamiento junto al monasterio.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Potes%2C%20Cantabria" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

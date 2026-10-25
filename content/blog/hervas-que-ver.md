@@ -75,6 +75,10 @@ Te cuento qué ver y qué rutas hacer por el Valle del Ambroz 👇
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/los-pilones-jerte.html">Los Pilones</a>:</strong> pozas de la Garganta de los Infiernos (a unos 30 minutos en coche).</li><li><strong><a href="/blog/monasterio-de-yuste.html">Monasterio de Yuste</a>:</strong> donde murió Carlos V (a menos de una hora en coche).</li><li><strong><a href="/blog/granadilla-pueblo-abandonado.html">Granadilla</a>:</strong> pueblo amurallado vacío (a menos de una hora en coche).</li><li><strong><a href="/blog/la-alberca-que-ver.html">La Alberca</a>:</strong> arquitectura de la Sierra de Francia (a menos de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Hervás</h2></div>
 <div class="guide__howto"><p>Está junto a la autovía <strong>A-66</strong>, a una hora y cuarto de Cáceres y a una hora de Salamanca. Desde Madrid son unas tres horas.</p><p>Aparca en la parte baja del pueblo, cerca del río, y recorre el barrio judío a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Barrio+Judío+Hervás" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

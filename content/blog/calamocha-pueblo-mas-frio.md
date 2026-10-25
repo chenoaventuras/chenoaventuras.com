@@ -61,6 +61,10 @@ Te cuento qué es el «triángulo del frío», por qué en verano se está tan b
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/calamocha-pueblo-mas-frio/molina.webp" alt="Vista del castillo de Molina de Aragón" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las murallas</h3><p>Sube a la Torre de Aragón: vistas de todo el altiplano.</p></div></li>
 </ol>
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/teruel-que-ver.html">Teruel</a>:</strong> torres mudéjares y Plaza del Torico (a poco más de una hora en coche).</li><li><strong><a href="/blog/albarracin-que-ver.html">Albarracín</a>:</strong> pueblo rosa entre murallas (a poco más de una hora en coche).</li><li><strong>Laguna de Gallocanta:</strong> la mayor laguna natural de la península, famosa por las grullas en otoño e invierno, a unos 30 minutos.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Calamocha</h2></div>
 <div class="guide__howto"><p>Por la <strong>A-23</strong> (Autovía Mudéjar): 1 hora desde Zaragoza y 50 minutos desde Teruel.</p><p>Molina de Aragón está a unos 50 minutos por carretera.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Calamocha%2C%20Teruel" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

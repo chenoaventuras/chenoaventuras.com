@@ -82,6 +82,10 @@ Te cuento qué ver y cómo combinarlo con la zona volcánica de la Garrotxa 👇
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/girona-que-ver.html">Girona</a>:</strong> casas del Onyar y barrio judío (a menos de una hora en coche).</li><li><strong><a href="/blog/sant-roma-de-sau.html">Sant Romà de Sau</a>:</strong> el campanario que asoma del pantano (a poco más de una hora en coche).</li><li><strong>La Garrotxa:</strong> el Parque Natural de la Zona Volcánica, con Santa Pau y Castellfollit de la Roca, a unos 20-25 minutos.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Besalú</h2></div>
 <div class="guide__howto"><p>Desde <strong>Girona</strong> se llega en unos 30 minutos por la carretera de Olot (C-66). Desde <strong>Barcelona</strong>, en torno a hora y media por la AP-7.</p><p>Hay aparcamientos a la entrada del pueblo, junto al río. El casco histórico se recorre a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pont+de+Besalú" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

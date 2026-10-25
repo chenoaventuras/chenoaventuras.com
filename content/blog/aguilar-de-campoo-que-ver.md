@@ -77,6 +77,11 @@ Aguilar de Campoo lleva ligado a la fabricación de galletas desde hace generaci
 
 <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Lo que más me gustó fue la pasarela de la torre del embalse de Aguilar: es estrecha y solo puede pasar una persona a la vez. Si tienes vértigo, tómatelo con calma; las vistas merecen la pena.</p></div>
 
+<!--cerca-->
+## Para completar la escapada
+
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/maquina-leche-reinosa-cantabria.html">Reinosa</a>:</strong> la máquina de leche recién ordeñada, una parada curiosa (a menos de una hora en coche).</li><li><strong>Cervera de Pisuerga:</strong> puerta de la Montaña Palentina y del embalse de Compuerto, a unos 25 minutos.</li><li><strong><a href="/blog/barcena-mayor-que-ver.html">Bárcena Mayor</a>:</strong> el pueblo de piedra más puro de Cantabria (a poco más de una hora en coche).</li></ul>
+
 ## Cómo llegar y cuánto tiempo dedicarle
 
 El pueblo tiene fácil acceso en coche y aparcamiento gratuito. Puedes consultar la ruta en [Google Maps](https://www.google.com/maps/search/?api=1&query=Aguilar%20de%20Campoo%2C%20Palencia). Para verlo con calma —colegiata, castillo, monasterio, embalse y puente— hacen falta unas 5 horas, que se pasan volando dada la cantidad de sitios que hay que ver. Se puede visitar durante todo el año y la dificultad es baja, apta para todos los públicos.

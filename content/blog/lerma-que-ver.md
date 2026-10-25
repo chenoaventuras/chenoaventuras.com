@@ -61,6 +61,10 @@ Te cuento qué ver, sus curiosidades más llamativas (incluida una boda real con
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/covarrubias-que-ver.html">Covarrubias</a>:</strong> la cuna de Castilla (a unos 30 minutos en coche).</li><li><strong><a href="/blog/territorio-artlanza-burgos.html">Quintanilla del Agua</a>:</strong> un pueblo en miniatura (a unos 30 minutos en coche).</li><li><strong>Santo Domingo de Silos:</strong> monasterio con claustro románico.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Lerma</h2></div>
 <div class="guide__howto"><p>Está junto a la <strong>A-1</strong> (Madrid-Burgos): unos <strong>40 minutos desde Burgos</strong> y unas <strong>2 horas desde Madrid</strong>. Tiene una gran estación de autobuses con conexiones a Burgos, Madrid y otras ciudades del norte.</p><p>Deja el coche en la parte baja o en los aparcamientos señalizados y sube andando por la calle Mayor.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Plaza%20Mayor%20de%20Lerma%2C%20Burgos" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 

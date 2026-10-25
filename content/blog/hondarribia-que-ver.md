@@ -74,6 +74,10 @@ Te cuento qué ver y qué ruta hacer 👇
 
 <!--actividades-->
 
+<!--cerca-->
+<div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/isla-de-los-faisanes.html">Isla de los Faisanes</a>:</strong> la isla de España y Francia (a pocos minutos en coche).</li><li><strong><a href="/blog/san-sebastian-que-ver.html">San Sebastián</a>:</strong> La Concha y la Parte Vieja (a unos 30 minutos en coche).</li><li><strong><a href="/blog/cuevas-de-zugarramurdi.html">Zugarramurdi</a>:</strong> leyendas de brujas (a menos de una hora en coche).</li><li><strong><a href="/blog/zumaia-juego-de-tronos.html">Playa de Itzurun, Zumaia</a>:</strong> el flysch y la playa de Itzurun (a poco más de una hora en coche).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Hondarribia</h2></div>
 <div class="guide__howto"><p>Desde <strong>San Sebastián</strong> se llega en unos 25 minutos en coche o en autobús. El aeropuerto de San Sebastián está en el propio Hondarribia.</p><p>Aparca en la parte baja, cerca de La Marina, y sube andando al casco antiguo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Plaza+de+Armas+Hondarribia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.google.com/maps/dir/?api=1&destination=Faro+de+Higer" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Faro de Higer</a></div></div>
 
