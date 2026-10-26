@@ -45,6 +45,12 @@ entra el nuevo trío.
 descarga las 3 últimas publicaciones y sus miniaturas, escribe
 `assets/data/instagram.json` y hace `git push` si hay cambios. Vercel redespliega.
 
+**Los reels nuevos NO salen solos en la inicio.** El listado completo se actualiza solo,
+pero la inicio (carrusel y «Lo último») solo muestra los reels de la lista cerrada
+`SHOW_ON_HOME` de `scripts/fetch-instagram.mjs`. Para poner uno, añade su código
+corto (`instagram.com/reel/<CÓDIGO>/`) a esa lista y a `assets/data/instagram.json`
+(`"home": true`).
+
 **Falta configurar** (en *Settings → Secrets and variables → Actions* del repo):
 
 | Secret | Qué es |

@@ -89,15 +89,20 @@ const isExcluded = (m) =>
   );
 
 /**
- * Reels que siguen en el listado completo pero NO salen en "Lo último en
- * Instagram" de la inicio (se marcan con home:false en el JSON). Son los
- * que no tienen contador de me gusta visible en su ficha pública.
+ * Reels que salen en "Lo último en Instagram" y en el carrusel de la inicio.
+ * Es una lista CERRADA: los reels nuevos NO se publican solos en la inicio, solo
+ * aparecen en el listado completo. Para poner uno en la inicio, añade aquí su
+ * código corto (instagram.com/reel/<ESTO>/) cuando el dueño lo pida.
+ * El orden de la inicio es el de fecha (el más reciente primero).
  */
-const HIDE_FROM_HOME = [
-  "Ddo7BVURiEb", // NO HAGAS ESTO (basura en el mar)
-  "DdozPGTt96i", // Snorkel en Cabo de Palos (duplicado)
-  "DddcskJBp27", // Medusa huevo frito (duplicado)
-  "DePi4NbR66I", // Río Misterioso del Monte Igueldo (repite la barca)
+const SHOW_ON_HOME = [
+  "DexAY3rx7en", // Laguna Negra
+  "DeRNFLzxO23", // Mercado Cervantino de Alcalá de Henares
+  "DeM_bJkRRM8", // Parque de atracciones
+  "Ddo2u7rxbIc", // Snorkel en Cabo de Palos
+  "DdW9IzJRGUK", // Medusa huevo frito
+  "DdPNSojxUaT", // El arcoíris marino
+  "DdE6jF_xzTj", // ¿Te bañarías aquí?
 ];
 /** Encuadre de la miniatura cuadrada (object-position) para que se vea lo importante. */
 const FOCUS = {
@@ -107,8 +112,8 @@ const focusOf = (m) => {
   const code = Object.keys(FOCUS).find((c) => (m.permalink || "").includes("/" + c + "/"));
   return code ? FOCUS[code] : null;
 };
-const isHiddenFromHome = (m) =>
-  HIDE_FROM_HOME.some((code) => (m.permalink || "").includes("/" + code + "/"));
+const isOnHome = (m) =>
+  SHOW_ON_HOME.some((code) => (m.permalink || "").includes("/" + code + "/"));
 
 if (!TOKEN) {
   console.log("IG_ACCESS_TOKEN no definido — no se actualiza nada.");
@@ -192,7 +197,7 @@ for (const m of visibles.slice(0, LIMIT)) {
     type: m.media_type === "VIDEO" ? "REEL" : "IMAGE",
     timestamp: m.timestamp || null,
     ...(existsSync(join(IMG_DIR, `${m.id}-640.webp`)) ? { thumb: `assets/img/instagram/${m.id}-640.webp` } : {}),
-    ...(isHiddenFromHome(m) ? { home: false } : {}),
+    ...(isOnHome(m) ? { home: true } : { home: false }),
     ...(focusOf(m) ? { pos: focusOf(m) } : {}),
   });
 }

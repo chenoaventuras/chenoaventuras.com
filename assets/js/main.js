@@ -453,8 +453,8 @@
           var moreWrap = igWrap.parentElement ? igWrap.parentElement.querySelector("[data-ig-more-wrap]") : null;
           var moreBtn = moreWrap ? moreWrap.querySelector("[data-ig-more]") : null;
           var shown = 0;
-          // "Lo último" (no "all") se salta las marcadas con home:false.
-          var list = isAll ? posts : posts.filter(function (p) { return p.home !== false; });
+          // "Lo último" (no "all") solo muestra las marcadas con home:true (lista cerrada en scripts/fetch-instagram.mjs).
+          var list = isAll ? posts : posts.filter(function (p) { return p.home === true; });
 
           function renderNext(n) {
             list.slice(shown, shown + n).forEach(function (p) {
@@ -491,7 +491,7 @@
       .then(function (data) {
         var posts = data && Array.isArray(data.posts) ? data.posts : (Array.isArray(data) ? data : null);
         if (!posts) return;
-        posts = posts.filter(function (p) { return p && p.permalink && p.home !== false; }).slice(0, 7);
+        posts = posts.filter(function (p) { return p && p.permalink && p.home === true; }).slice(0, 7);
         if (!posts.length) return;
         var n = posts.length, active = -1;
         // Giro continuo: "pos" avanza a ritmo constante (SPEED tarjetas por
