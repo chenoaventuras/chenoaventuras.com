@@ -12,6 +12,8 @@ tags:
   - Comunidad Valenciana
 wide: true
 faq:
+  - q: "¿Quién fue el Papa Luna?"
+    a: "Pedro de Luna, Benedicto XIII, que se refugió en el castillo de Peñíscola y murió allí en 1423."
   - q: "¿Cuánto cuesta entrar al castillo de Peñíscola?"
     a: "La entrada general cuesta unos 5 €. Consulta horarios y tarifas actualizadas en la web municipal."
   - q: "¿Qué se rodó en Peñíscola de Juego de Tronos?"
@@ -65,6 +67,11 @@ Te cuento qué ver, sus curiosidades y una ruta de costa salvaje a pocos minutos
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>El papa que se encerró en un castillo</h2></div>
 <p>El castillo lo construyeron los <strong>templarios</strong> a finales del siglo XIII y principios del XIV. Un siglo después se convirtió en la residencia de <strong>Benedicto XIII, el Papa Luna</strong>, un papa aragonés que se negó a renunciar durante el Cisma de Occidente y se atrincheró en Peñíscola hasta su muerte. De ahí viene la expresión <strong>«seguir en sus trece»</strong>.</p><div class="guide__legend"><h3>🐉 Meereen está en Castellón</h3><p>En la sexta temporada de <strong>Juego de Tronos</strong>, el casco antiguo de Peñíscola se convirtió en la ciudad de <strong>Meereen</strong>. Se rodó en rincones como el Portal Fosc, la rampa de Felipe II o la plaza de Santa María.</p></div><div class="guide__legend"><h3>🌊 El Bufador</h3><p>En el casco antiguo hay una grieta natural en la roca que conecta con el mar. Los días de temporal, el agua entra con fuerza y sale disparada hacia arriba con un ruido como un resoplido: es <strong>el Bufador</strong>.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>De fortaleza templaria a sede del Papa Luna</h2></div>
+<p>El castillo se levantó sobre una fortificación árabe y lo construyeron los <strong>templarios</strong> entre <strong>1294 y 1307</strong>, después de que <strong>Jaime II de Aragón</strong> intercambiara Peñíscola por Tortosa con la Orden del Temple. Pero lo que le da fama es el <strong>Papa Luna</strong>.</p>
+<p><strong>Pedro de Luna</strong>, el <strong>Benedicto XIII</strong> de la época del Cisma de Occidente, fue depuesto por el Concilio de Constanza, pero se negó a aceptarlo y se refugió en el castillo de Peñíscola, desde donde siguió reivindicándose como verdadero papa hasta su muerte, en <strong>1423</strong>. Desde 1411 vivió en la fortaleza.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Peñíscola</h2><p>El peñón, sus murallas y la costa de alrededor.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

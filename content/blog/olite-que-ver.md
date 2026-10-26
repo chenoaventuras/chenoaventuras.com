@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Olite"
 faq:
+  - q: "¿Quién construyó el Palacio Real de Olite?"
+    a: "Carlos III el Noble y su esposa Leonor de Trastámara, a comienzos del siglo XV."
   - q: "¿Qué ver en Olite?"
     a: "El Palacio Real, el Palacio Viejo (Parador), las iglesias de Santa María la Real y San Pedro, la Torre del Chapitel, las galerías medievales y el Museo del Vino."
   - q: "¿Cuánto tiempo hace falta para visitar Olite?"
@@ -43,6 +45,11 @@ Te cuento qué ver y cómo organizar la visita 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un palacio para reyes</h2></div>
 <p>Entre finales del siglo XIV y principios del XV, el palacio fue residencia de <strong>Carlos III el Noble</strong> y de su esposa <strong>Leonor de Trastámara</strong>. Lo que se ve hoy es un conjunto de torres, salas y galerías que formaba una de las cortes más lujosas de su época. Una parte, el <strong>Palacio Viejo</strong>, es desde 1966 el <strong>Parador de Olite</strong>, y solo se conservan sus murallas y torres (no se visita por dentro).</p><p>Olite está además muy ligada al <strong>vino</strong>: se la considera la capital vitivinícola de Navarra y tiene el <strong>Museo del Vino de Navarra</strong>, además de bodegas que se pueden visitar.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La corte medieval más lujosa de Navarra</h2></div>
+<p>El <strong>Palacio Real de Olite</strong> se construyó por encargo de <strong>Carlos III el Noble</strong> y de su esposa <strong>Leonor de Trastámara</strong>, con obras que arrancaron en <strong>1402</strong> (otras fuentes dicen 1406) y se daban por terminadas hacia <strong>1424</strong>, bajo la dirección de <strong>Saúl de Arnedo</strong>. Se sumó al llamado Palacio Viejo (el palacio de los Teobaldos, de los siglos XIII y XIV), y formó un conjunto con torres, galerías y <strong>jardines colgantes</strong>, un aviario e incluso una pequeña casa de fieras.</p>
+<p>El palacio y la iglesia de Santa María fueron declarados <strong>Monumento Nacional el 17 de enero de 1925</strong>. Hoy el Palacio Viejo forma parte del Parador de Olite, y el Nuevo se visita.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Olite</h2><p>Un paseo de medio día por el pueblo medieval.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

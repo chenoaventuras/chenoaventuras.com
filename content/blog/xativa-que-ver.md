@@ -12,6 +12,8 @@ tags:
   - Comunidad Valenciana
 wide: true
 faq:
+  - q: "¿Por qué el retrato de Felipe V está del revés en Xàtiva?"
+    a: "Como recuerdo de la quema de la ciudad en 1707, en la guerra de Sucesión."
   - q: "¿Cuánto cuesta entrar al castillo de Xàtiva?"
     a: "La entrada general cuesta unos 6 €, con reducida para jubilados y titulares del Carnet Jove. Conviene comprarla online porque hay aforo limitado."
   - q: "¿Por qué el retrato de Felipe V está boca abajo en Xàtiva?"
@@ -60,6 +62,11 @@ Te cuento qué ver y cómo organizar la subida al castillo 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un rey boca abajo</h2></div>
 <p>En 1707, durante la Guerra de Sucesión, Xàtiva se puso del lado del archiduque Carlos. Cuando ganó <strong>Felipe V</strong>, mandó incendiar la ciudad y le cambió el nombre por «Colonia Nueva de San Felipe». Los setabenses no lo olvidaron: en el <strong>Museo de Bellas Artes</strong>, su retrato cuelga <strong>boca abajo</strong> desde 1957 como desagravio.</p><div class="guide__legend"><h3>⛪ La ciudad de los Borja</h3><p>En Xàtiva nacieron dos papas: <strong>Calixto III</strong> y su sobrino <strong>Alejandro VI</strong>, el famoso papa Borja. La Seu (la colegiata) guarda piezas relacionadas con ellos.</p></div><div class="guide__legend"><h3>📜 El primer papel de Europa</h3><p>En la época andalusí, Xàtiva fue uno de los primeros lugares de Europa donde se fabricó <strong>papel</strong>, una técnica que llegó desde Oriente.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Papel, papas y un retrato boca abajo</h2></div>
+<p>Xàtiva fue la ibera <strong>Saetabis</strong> y, tras la conquista romana, un municipio importante. En época musulmana fue capital de una comarca y, según las fuentes, en ella se instaló en el <strong>siglo XI</strong> (otro autor dice 1144) la <strong>primera fábrica de papel de Europa</strong>. <strong>Jaime I</strong> la conquistó en <strong>1244</strong>, y en 1347 Pedro IV le concedió el título de ciudad. Es cuna de dos papas de la familia <strong>Borgia</strong>: <strong>Calixto III</strong> (1455-1458) y <strong>Alejandro VI</strong> (1492-1503).</p>
+<p>En la <strong>guerra de Sucesión</strong>, Xàtiva apoyó al archiduque Carlos y, tras la batalla de Almansa, las tropas de Felipe V la asediaron y, en <strong>1707</strong>, la quemaron como castigo ejemplar (las fuentes dan el 6 o el 19 de junio); pasó a llamarse Colonia Nueva de San Felipe. En señal de protesta, el <strong>retrato de Felipe V</strong> se conserva boca abajo en el Museo de Bellas Artes de la ciudad.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Xàtiva</h2><p>Lo imprescindible.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

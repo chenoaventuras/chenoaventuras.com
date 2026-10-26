@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Tarragona"
 faq:
+  - q: "¿Cuándo se fundó Tarraco?"
+    a: "En el año 218 a. C., por los Escipiones, durante la Segunda Guerra Púnica."
   - q: "¿Cuánto cuesta ver los monumentos romanos de Tarragona?"
     a: "Cada recinto cuesta unos 5 € y la entrada conjunta a los cinco principales (anfiteatro, circo-pretorio, Passeig Arqueològic, foro de la colonia y Casa Canals) unos 15 €, con descuentos del 50 % para varios colectivos."
   - q: "¿Es gratis el Pont del Diable?"
@@ -58,6 +60,11 @@ Te cuento qué ver, la entrada conjunta para los monumentos romanos, la tradici�
 </ol>
 <p>Además, el <strong>Passeig Arqueològic</strong> recorre por fuera las <strong>murallas romanas</strong>, con bloques ciclópeos de época republicana, y el <strong>foro de la colonia</strong> conserva columnas y calles romanas. Algunos recintos pueden estar en obras: consúltalo antes.</p>
 <div class="guide__howto"><h3>🎫 Entradas</h3><p>Cada recinto del Museu d'Història de Tarragona cuesta unos <strong>5 €</strong>, y la <strong>entrada conjunta</strong> a los cinco principales, unos <strong>15 €</strong> (descuento del 50 % para jubilados, jóvenes y estudiantes; gratis menores de 12 años). Compensa desde tres recintos. El acceso termina 30 minutos antes del cierre.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La ciudad romana más antigua de la Península</h2></div>
+<p><strong>Tarraco</strong> nació en <strong>218 a. C.</strong>, durante la Segunda Guerra Púnica, cuando los <strong>Escipiones</strong> la fortificaron como base de operaciones. Es la <strong>ciudad romana más antigua</strong> de la península, y sus murallas, las primeras en levantarse, siguen siendo las estructuras más antiguas de la ciudad. Fue capital de la <strong>Hispania Citerior</strong> y, tras la reorganización de Augusto (27 a. C.), de la <strong>Hispania Tarraconensis</strong>.</p>
+<p>El <strong>anfiteatro</strong> se construyó entre finales del siglo I y comienzos del II para unos 15.000 espectadores, y en el siglo VI se levantó una basílica visigoda sobre su arena. En <strong>2000</strong> la UNESCO declaró Patrimonio Mundial el Conjunto Arqueológico de Tarraco.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>El casco antiguo y el mar</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -12,6 +12,8 @@ tags:
   - Extremadura
 wide: true
 faq:
+  - q: "¿Quién fundó Mérida?"
+    a: "Augusto, en el año 25 a. C., para los veteranos de sus legiones."
   - q: "¿Qué ver en Mérida en un día?"
     a: "El teatro y el anfiteatro romanos, el Museo Nacional de Arte Romano, el Templo de Diana, el puente romano, la Alcazaba y el Acueducto de los Milagros."
   - q: "¿Cuánto cuesta entrar al teatro romano de Mérida?"
@@ -63,6 +65,11 @@ El teatro romano, con su escena de columnas, es de esos sitios que te dejan sin 
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un teatro que sigue en uso</h2></div>
 <p>El teatro romano de Mérida se construyó hace unos 2.000 años y <strong>todavía se usa</strong>: cada verano acoge el <strong>Festival Internacional de Teatro Clásico</strong>, que se celebra desde 1933. Ver una obra sentado en sus gradas de piedra, de noche, es una experiencia única.</p><div class="guide__legend"><h3>🏛️ El Museo Nacional de Arte Romano</h3><p>Justo enfrente del teatro, en un edificio de ladrillo de Rafael Moneo, guarda mosaicos, estatuas y objetos de la ciudad romana. Imprescindible si te gusta la historia.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La ciudad que fundó Augusto para sus veteranos</h2></div>
+<p><strong>Emerita Augusta</strong> se fundó en el año <strong>25 a. C.</strong> por orden del emperador <strong>Augusto</strong> para que se instalaran los veteranos (<em>emeriti</em>) de las guerras cántabras, de legiones como la V Alaudae y la X Gemina. Fue capital de la provincia de <strong>Lusitania</strong> y, más tarde, ya en el siglo IV, de la diócesis de Hispania.</p>
+<p>El <strong>teatro</strong> se construyó entre el <strong>16 y el 15 a. C.</strong> con el patrocinio de <strong>Agripa</strong>, el yerno de Augusto, y el <strong>anfiteatro</strong> se inauguró en el <strong>8 a. C.</strong> En <strong>diciembre de 1993</strong> la UNESCO declaró el Conjunto Arqueológico de Mérida Patrimonio de la Humanidad.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Mérida</h2><p>Un paseo por la Roma de Hispania.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Sagunto"
 faq:
+  - q: "¿Por qué es famoso el asedio de Sagunto?"
+    a: "Porque en 219 a. C. Aníbal asedió la ciudad durante ocho meses y su caída desencadenó la Segunda Guerra Púnica."
   - q: "¿Qué ver en Sagunto?"
     a: "El Castillo, el Teatro Romano, la Judería, el Circo Romano, la Plaza Mayor y el museo histórico."
   - q: "¿Es gratis el Castillo de Sagunto?"
@@ -43,6 +45,11 @@ Te cuento qué ver, en qué orden y cómo aprovechar la visita 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una ciudad con más de 2.000 años</h2></div>
 <p>El <strong>Castillo de Sagunto</strong> ocupa una colina sobre la huerta y está rodeado por murallas de trazado romano y medieval. Dentro hay siete plazas, entre ellas la de Armas, con restos del foro romano. El <strong>teatro romano</strong>, del siglo I, está declarado Monumento Nacional y aprovecha la concavidad de la montaña, con unas condiciones acústicas excepcionales.</p><p>Sagunto también esconde una de las <strong>juderías más importantes de España</strong>, parte de la Red de Juderías, con el <strong>Portalet de la Sang</strong> como emblema.</p><div class="guide__legend"><h3>📸 Mi consejo</h3><p>Empieza por el <strong>castillo</strong> y baja hacia el teatro y la judería: todo está en la misma ladera y se hace en una mañana.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La ciudad que provocó la Segunda Guerra Púnica</h2></div>
+<p>Sagunto, la antigua <strong>Arse</strong> ibérica, entró en la historia en <strong>219 a. C.</strong>, cuando <strong>Aníbal</strong> la asedió durante unos <strong>ocho meses</strong> y la destruyó. Aquel ataque, a una ciudad aliada de Roma, desencadenó la <strong>Segunda Guerra Púnica</strong>, y con ella la entrada definitiva de Roma en la península. La ciudad se reconstruyó como <strong>Saguntum</strong> y llegó a ser municipio romano.</p>
+<p>El <strong>teatro romano</strong>, del siglo I, tenía capacidad para unos 4.000 espectadores y fue de los primeros monumentos nacionales declarados en España (1896); se restauró en los años noventa. El <strong>castillo</strong> ocupa un cerro de 211 metros y conserva estructuras de muchas épocas; es Monumento Nacional desde 1931. En la Edad Media, su <strong>aljama judía</strong> fue una de las más importantes del Reino de Valencia entre los siglos XIII y XV.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Sagunto: los imprescindibles</h2><p>Una mañana entre ruinas, murallas y calles antiguas.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

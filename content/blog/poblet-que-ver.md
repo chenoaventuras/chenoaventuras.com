@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Poblet"
 faq:
+  - q: "¿Quién fundó el Monasterio de Poblet?"
+    a: "Lo promovió el conde Ramón Berenguer IV, que lo entregó a monjes cistercienses de Fontfroide hacia 1150."
   - q: "¿Qué ver en el Monasterio de Poblet?"
     a: "La Puerta Real, el claustro, el Panteón Real, el refectorio, la antigua cocina y la biblioteca."
   - q: "¿Cuánto cuesta la entrada a Poblet?"
@@ -43,6 +45,11 @@ Te cuento qué ver, cuánto cuesta (orientativo) y cómo combinarlo con Montblan
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un panteón de reyes</h2></div>
 <p>Poblet es uno de los grandes monasterios del <strong>Císter</strong> y forma parte de la Ruta del Císter, junto con Santes Creus y Vallbona de les Monges. Es <strong>Patrimonio de la Humanidad</strong> y contiene el <strong>Panteón Real</strong>, donde están enterrados varios reyes de la Corona de Aragón. Dentro de las murallas hay también una antigua cocina, una biblioteca, el refectorio del siglo XIV y un claustro con puerta románica y conjunto gótico.</p><div class="guide__legend"><h3>🎧 Mi consejo</h3><p>Descarga la <strong>audioguía gratuita</strong> de la app oficial «Poblet, guía oficial» antes de llegar: ayuda a entender qué ves en cada sala.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un monasterio real que renació tras el abandono</h2></div>
+<p>El monasterio nació de una donación del conde <strong>Ramón Berenguer IV</strong> a monjes cistercienses de Fontfroide hacia <strong>1149-1151</strong> (las fuentes dan fechas distintas). Con el tiempo se convirtió en el lugar de descanso favorito de los reyes de la Corona de Aragón: en <strong>1340</strong> <strong>Pedro IV el Ceremonioso</strong> ordenó crear el <strong>Panteón Real</strong>, donde están enterrados varios monarcas.</p>
+<p>Su declive empezó en el siglo XVI y acabó en <strong>1835</strong>, con la desamortización de Mendizábal, que dejó el monasterio abandonado y expoliado. En <strong>1930</strong> se creó el Patronato de Poblet para recuperarlo y en <strong>1940</strong> volvieron los monjes. Es <strong>Patrimonio de la Humanidad desde 1991</strong> y el más importante de los tres monasterios de la Ruta del Císter, junto a Santes Creus y Vallbona de les Monges.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Monasterio de Poblet</h2><p>Una mañana entre murallas, claustros y silencio.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

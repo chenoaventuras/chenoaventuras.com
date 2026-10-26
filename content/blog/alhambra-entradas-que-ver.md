@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Alhambra"
 faq:
+  - q: "¿Quién fundó la Alhambra?"
+    a: "Muhammad I, fundador de la dinastía nazarí, que la convirtió en ciudad palatina hacia 1238 sobre una fortaleza anterior."
   - q: "¿Cuánto cuesta la entrada a la Alhambra?"
     a: "Según el Patronato, la entrada general cuesta 21 € por adulto (22,27 € en la web de venta). Confirma el precio en la web oficial."
   - q: "¿Qué incluye la entrada general?"
@@ -41,6 +43,11 @@ Palacios de yeserías y mármol, jardines con acequias, una fortaleza con vistas
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una ciudad palatina dentro de una colina</h2></div>
 <p>La Alhambra no es un solo edificio: es un <strong>conjunto de palacios, fortaleza, jardines y barrios</strong> de la época nazarí, la última dinastía musulmana de la Península. Los <strong>Palacios Nazaríes</strong> son el corazón del recinto y lo más delicado: salas con <strong>yeserías y azulejos</strong>, techos de madera labrada y patios con agua, como el famoso <strong>Patio de los Leones</strong>, con su fuente de doce leones de piedra.</p><p>Frente a ellos se alza el <strong>Palacio de Carlos V</strong>, renacentista y con un gran patio circular que contrasta con la delicadeza nazarí, y en lo alto la <strong>Alcazaba</strong>, la parte más antigua del recinto. Al otro lado, el <strong>Generalife</strong> era la casa de campo de los reyes, con jardines, fuentes y acequias.</p><div class="guide__legend"><h3>🌅 Mi consejo</h3><p>Para ver la Alhambra de fuera, sube al <strong>Mirador de San Nicolás</strong>, en el Albaicín, al atardecer: es gratis y es la vista clásica, con la Sierra Nevada detrás.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>De fortaleza a ciudad palatina nazarí</h2></div>
+<p>En la colina de la <strong>Sabika</strong> ya había una fortaleza entre los siglos IX y XI, la futura <strong>Alcazaba</strong>. Pero la Alhambra tal como la conocemos nace con el <strong>reino nazarí de Granada</strong>: <strong>Muhammad I</strong> (el fundador de la dinastía, nacido en Arjona hacia 1195) la convirtió en ciudad palatina hacia 1238, y sus sucesores la fueron ampliando. Su máximo esplendor fue en los siglos <strong>XIII y XIV</strong>, bajo reyes como <strong>Yusuf I</strong> (1333-1354) y <strong>Muhammad V</strong>.</p>
+<p>Tras la entrega de Granada a los Reyes Católicos en 1492, la Alhambra se conservó pero cambió: en 1527 <strong>Carlos V</strong> mandó levantar su palacio renacentista junto a los palacios nazaríes. La UNESCO la declaró <strong>Patrimonio de la Humanidad en 1984</strong> (junto al Generalife), y en 1994 amplió la declaración al Albaicín.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la Alhambra</h2><p>Por orden de visita.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
