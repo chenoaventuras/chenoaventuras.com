@@ -1,5 +1,6 @@
 ---
-title: 'Qué ver en Arévalo: la villa mudéjar de Isabel la Católica, su plaza y sus iglesias'
+title: 'Arévalo (Ávila): qué ver, villa mudéjar de Isabel la Católica'
+updated: 2026-10-26
 seoTitle: 'Qué ver en Arévalo (Ávila): plaza, iglesias mudéjares y castillo'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Arévalo'
@@ -60,6 +61,9 @@ Te cuento qué ver, en qué orden y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Iglesia de San Miguel:</strong> con una portada mudéjar en su fachada norte.</li><li><strong>Casa de los Sexmos:</strong> sede del Museo de Historia.</li><li><strong>Arcos de Medina y del Alcocer:</strong> restos de la muralla.</li><li><strong>Cerca:</strong> <a href="/blog/avila-que-ver.html">Ávila</a>, <a href="/blog/medina-del-campo-castillo-mota.html">Medina del Campo</a> y <a href="/blog/parque-mudejar-olmedo.html">el Parque Mudéjar de Olmedo</a>.</li></ul>
+
+<div class="guide__head"><span class="eyebrow">Visitas</span><h2>¿Se puede visitar el castillo de Arévalo?</h2></div>
+<p>Sí, pero <strong>solo con cita previa</strong>. Según el portal de turismo de Castilla y León (consultado en octubre de 2026), el castillo abre en horario de verano <strong>viernes, sábados y domingos de 10:00 a 20:00</strong>, la entrada cuesta <strong>4 €</strong> y la cita se pide en el <strong>920 30 00 05</strong> o el <strong>607 03 04 98</strong>. Cierra el 1 de mayo, el 25 de diciembre y el 1 y 6 de enero. El portal no da horario de invierno, así que llama antes de ir. El <strong>Centro de Actividades del Mudéjar</strong>, en la Plaza de la Villa, es gratuito y abre de martes a domingo de 11:00 a 14:00 (y los sábados también de 16:30 a 18:30).</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Madrid, por la A-6 hasta la salida de Arévalo, unos 120 km.</p><p><strong>En tren:</strong> hay conexión con Madrid y Ávila (unos 26 minutos en los servicios más rápidos); la estación está a las afueras.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Arévalo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -6,6 +6,7 @@ seoTitle: 'Cueva del Puerto (Calasparra): dos salas luminiscentes'
 lat: 38.2945
 lng: -1.6332
 excerpt: 'La Cueva del Puerto, en Calasparra, es la única cueva de Europa con dos salas de minerales luminiscentes. Qué ver, precio y cómo visitarla.'
+updated: 2026-10-26
 cover: /assets/img/instagram/17975666267783470.webp
 tags:
   - Actividades
@@ -16,7 +17,9 @@ faq:
   - q: "¿Dónde está la Cueva del Puerto?"
     a: "A 9 km de Calasparra, en la Región de Murcia. La ubicación exacta te la dan al reservar."
   - q: "¿Cuánto cuesta la Cueva del Puerto?"
-    a: "La visita turística cuesta desde 16 € por persona, con guía, casco, luz y seguro incluidos."
+    a: "A octubre de 2026, 16 € por persona (desde 12 años), 14 € niños y pensionistas y gratis menores de 4 años, según la web oficial."
+  - q: "¿Qué horario tiene la Cueva del Puerto?"
+    a: "Abre de martes a domingo; los lunes cierra, salvo grupos. Hay visitas a las 10:00, 11:30, 13:00 y 17:00 de martes a viernes, y algunas más los fines de semana. Solo con reserva."
   - q: "¿Cuánto dura la visita a la Cueva del Puerto?"
     a: "Algo más de una hora, recorriendo unos 900 metros de galerías."
   - q: "¿Hay que reservar la Cueva del Puerto?"
@@ -48,8 +51,9 @@ Puedes verla por dentro en [este reel de Instagram](https://www.instagram.com/re
 
 - **Dónde:** a unos **9 km de Calasparra** (Región de Murcia).
 - **Duración:** la visita turística dura **algo más de una hora**.
-- **Precio:** cuando fui, desde **16 € por persona**. Los precios cambian: consúltalos al reservar.
-- **Reserva:** **imprescindible**, los grupos son reducidos.
+- **Precio:** a octubre de 2026, **16 €** por persona (desde 12 años), **14 €** niños y pensionistas y gratis los menores de 4 años; incluye la sala de minerales luminiscentes. Los precios cambian: confírmalos al reservar.
+- **Horario:** de **martes a domingo** (los lunes cierra, salvo grupos). De martes a viernes hay visitas a las 10:00, 11:30, 13:00 y 17:00; sábados y domingos, a las 10:00, 11:00, 11:30, 12:30, 13:00 y 17:00.
+- **Reserva:** **imprescindible**, por teléfono (643 701 056); no se atienden visitas sin reserva previa.
 - **Para quién:** la visita turística es apta para **todos los públicos**.
 
 ## Una cueva de 15 millones de años

@@ -6,6 +6,7 @@ seoTitle: 'Cuevas de San José: el río subterráneo más largo de Europa'
 lat: 39.8245
 lng: -0.2526
 excerpt: 'Las Cuevas de San José, en la Vall d''Uixó, esconden el río subterráneo navegable más largo de Europa. Precio, duración y cómo reservar la visita.'
+updated: 2026-10-26
 cover: /assets/img/instagram/18072737909105340.webp
 tags:
   - Actividades
@@ -18,7 +19,7 @@ faq:
   - q: "¿Dónde están las Cuevas de San José?"
     a: "En la Vall d'Uixó, en la provincia de Castellón (Comunidad Valenciana)."
   - q: "¿Cuánto cuesta entrar a las Cuevas de San José?"
-    a: "15 € adultos, 8 € niños hasta 13 años y 10 € estudiantes, carnet joven, jubilados y personas con discapacidad. La ruta en kayak cuesta 50 €."
+    a: "A octubre de 2026: 18 € adultos, 12 € niños de 3 a 12 años (gratis de 0 a 2) y 14 € reducida (mayores de 65, estudiantes, carnet joven y adultos con discapacidad). La ruta en espeleokayak cuesta 60 €."
   - q: "¿Cuánto dura la visita a las Cuevas de San José?"
     a: "Unos 40 minutos: 800 metros en barca y 250 metros a pie."
   - q: "¿Se puede bañar en las Cuevas de San José?"
@@ -30,7 +31,7 @@ faq:
   - q: "¿Las Cuevas de San José son accesibles?"
     a: "Sí, están adaptadas para personas con movilidad reducida. Avísalo al reservar."
   - q: "¿Se puede hacer kayak en las Cuevas de San José?"
-    a: "Sí, hay una ruta en kayak de 1 hora y 45 minutos, con plazas limitadas. Hay que reservar con antelación."
+    a: "Sí, hay una ruta de espeleokayak de unas 2 horas por 60 € (niños desde 8 años acompañados). Hay que reservar con antelación."
 actividades:
   - t: "Cuevas de Sant Josep: paseo en barca por la cueva más larga de Europa"
     u: "https://www.getyourguide.es/valencia-l49/navega-a-traves-de-la-cueva-mas-larga-de-europa-las-cuevas-de-sant-josep-t1116430/"
@@ -64,7 +65,7 @@ Puedes ver cómo es por dentro en [este reel de Instagram](https://www.instagram
 
 - **Dónde:** en la **Vall d'Uixó** (Castellón), a unos **45 minutos de Valencia** y 30 de Castellón.
 - **Duración:** unos **40 minutos** de visita.
-- **Precio:** cuando fuimos, la entrada general costaba **15 €** (8 € niños hasta 13 años y 10 € reducida). Los precios pueden haber subido: **compruébalos en la web oficial** antes de ir.
+- **Precio:** a octubre de 2026, la entrada general cuesta **18 €** (12 € niños de 3 a 12 años, gratis de 0 a 2, y 14 € reducida). Confírmalo en la [web oficial](https://covesdesantjosep.es/tarifas-y-horarios/) antes de ir.
 - **Reserva:** muy recomendable en verano, Semana Santa y puentes.
 
 ## Cómo es la visita
@@ -84,7 +85,7 @@ El río subterráneo tiene unos **2.750 metros explorados**, pero la ruta turís
 
 ## Ruta en kayak
 
-Si quieres algo más activo, hay una **ruta en kayak** de **1 h 45 min** por **50 €**. Tiene pocas plazas: **resérvala con bastante antelación**.
+Si quieres algo más activo, hay una **ruta en espeleokayak** de unas **2 horas** por **60 €** (a octubre de 2026; niños desde 8 años acompañados). Tiene pocas plazas: **resérvala con bastante antelación**.
 
 ## Cuándo ir y cómo conseguir entrada
 

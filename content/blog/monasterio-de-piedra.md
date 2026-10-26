@@ -10,6 +10,7 @@ cover: /assets/img/blog/monasterio-de-piedra/portada.webp
 tags:
   - Spots
   - Aragón
+updated: 2026-10-26
 wide: true
 faqTitulo: "Dudas sobre el Monasterio de Piedra"
 faq:
@@ -22,7 +23,9 @@ faq:
   - q: "¿Es verdad que aquí se tomó el primer chocolate de Europa?"
     a: "Es la tradición que cuenta el monasterio: en 1534 un monje que estuvo en México habría enviado el cacao y la receta. No hay un documento de la época que lo confirme."
   - q: "¿Cuánto cuesta la entrada al Monasterio de Piedra en 2026?"
-    a: "19,70 € para adultos en taquilla (18,70 € online). Niños de 4 a 11 años y mayores de 65 pagan 14 € en taquilla."
+    a: "20 € para adultos (a octubre de 2026, según la web oficial). Niños de 4 a 11 años y mayores de 65 pagan 14,20 €. La entrada incluye parque y monasterio."
+  - q: "¿Qué horario tiene el Monasterio de Piedra?"
+    a: "El parque abre de 9:00 a 17:45 (último acceso a las 16:30) y el monasterio de 10:00 a 18:00. Del 10 de noviembre al 6 de enero de 2027 el parque cierra a las 17:30 y el último acceso es a las 16:00."
   - q: "¿Cuánto se tarda en recorrer el Monasterio de Piedra?"
     a: "El recorrido del parque mide unos 5 km y se hace en unas 2 horas. Con el monasterio, cuenta media jornada."
   - q: "¿Qué es la Gruta Iris?"
@@ -48,10 +51,10 @@ Y lo mejor: bajas por dentro de una gruta para ver una cascada de 50 metros desd
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Monasterio de Piedra: precio y horario</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🎟️ Entrada 2026</h3><p>La entrada incluye parque y monasterio. Comprando online es un poco más barata.</p>
-<ul class="guide__prices"><li><span>Adultos (taquilla)</span><b>19,70 €</b></li><li><span>Adultos (online)</span><b>18,70 €</b></li><li><span>Niños 4-11 y mayores de 65 (taquilla)</span><b>14 €</b></li></ul>
+<div class="guide__tip"><h3>🎟️ Entrada 2026</h3><p>La entrada incluye parque y monasterio. Precios a octubre de 2026 según la web oficial.</p>
+<ul class="guide__prices"><li><span>Adultos</span><b>20 €</b></li><li><span>Niños 4-11 y mayores de 65</span><b>14,20 €</b></li></ul>
 </div>
-<div class="guide__tip"><h3>🕒 Horario</h3><p>El parque abre a las <strong>9:00</strong> y el monasterio a las <strong>10:00</strong>. El último acceso al parque suele ser a las <strong>16:30</strong>; consulta el horario del día en la web.</p></div>
+<div class="guide__tip"><h3>🕒 Horario</h3><p>El parque abre a las <strong>9:00</strong> y el monasterio a las <strong>10:00</strong>. El último acceso al parque es a las <strong>16:30</strong> (el parque cierra a las 17:45 y el monasterio a las 18:00). <strong>Del 10 de noviembre al 6 de enero de 2027</strong> el último acceso al parque es a las <strong>16:00</strong>. En días de eventos puede cambiar: consulta el horario del día en la web.</p></div>
 <div class="guide__tip"><h3>🥾 La ruta</h3><p>Un recorrido señalizado de unos <strong>5 km</strong>, de unas <strong>2 horas</strong>. Hay escaleras y tramos húmedos: calzado cómodo.</p></div>
 </div>
 
@@ -89,7 +92,7 @@ Y lo mejor: bajas por dentro de una gruta para ver una cascada de 50 metros desd
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Monasterio de Piedra</h2></div>
 <div class="guide__howto"><p>Está junto al pueblo de <strong>Nuévalos</strong> (Zaragoza), a unas dos horas de Madrid y hora y media de Zaragoza por la A-2 (salida Alhama de Aragón o Calatayud).</p><p>Tiene aparcamiento propio junto a la entrada. Los fines de semana de primavera hay mucha gente: llega a primera hora.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Monasterio+de+Piedra" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://www.monasteriopiedra.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Web oficial</a></div></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra online</b>: es algo más barato y te ahorras la cola.</li><li><b>Ve en primavera u otoño</b>: con más caudal en las cascadas y menos calor.</li><li><b>Chubasquero en la Gruta Iris</b>: las gotas de la cascada empapan.</li><li><b>Combínalo con el Pantano de la Tranquera</b>: justo al lado, ideal para un paseo o kayak.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra online</b>: te ahorras la cola en taquilla.</li><li><b>Ve en primavera u otoño</b>: con más caudal en las cascadas y menos calor.</li><li><b>Chubasquero en la Gruta Iris</b>: las gotas de la cascada empapan.</li><li><b>Combínalo con el Pantano de la Tranquera</b>: justo al lado, ideal para un paseo o kayak.</li></ul></div>
 
 <!--faq-->
 
