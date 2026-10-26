@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Barranco del Infierno"
 faq:
+  - q: "¿Quién vivió en el Barranco del Infierno?"
+    a: "Los guanches, que usaron sus cuevas como viviendas y lugares de enterramiento."
   - q: "¿Hay que reservar para el Barranco del Infierno?"
     a: "Sí, la reserva online es obligatoria. Hay unas 300 plazas al día y cada entrada tiene una hora asignada."
   - q: "¿Cuánto cuesta el Barranco del Infierno?"
@@ -63,6 +65,11 @@ El **Barranco del Infierno** es una de las rutas más famosas de la isla, con pl
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>¿Por qué «del Infierno»?</h2></div>
 <p>No está claro de dónde viene el nombre. Hay quien lo atribuye al calor que hace en el barranco a mediodía, hay quien habla de las <strong>nieblas y los ruidos</strong> que salían de su fondo, y hay quien lo relaciona con los antiguos habitantes de la isla. Lo que sí es real es que en sus paredes hay <strong>cuevas funerarias guanches</strong>: los aborígenes de Tenerife enterraban aquí a sus muertos.</p><div class="guide__legend"><h3>💧 Un oasis en el sur</h3><p>Por el fondo corre uno de los <strong>pocos cursos de agua permanentes</strong> de Tenerife. Gracias a él, al final del barranco hay sauces, helechos y un microclima húmedo que contrasta con los cardones y tabaibas del principio. Es una <strong>Reserva Natural Especial</strong>, y por eso las visitas están tan controladas.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Cuevas guanches, momias y un barranco protegido</h2></div>
+<p>El barranco es una <strong>Reserva Natural Especial</strong> de unas <strong>1.843 hectáreas</strong> que incluye varios roques (como el Roque del Conde) y barrancos profundos separados por lomas estrechas. Se formó por la erosión durante miles de años sobre rocas volcánicas. Por el fondo corre uno de los pocos cursos de agua permanentes del sur de Tenerife, y ese agua explica que los <strong>guanches</strong> vivieran aquí.</p>
+<p>Las paredes tienen cientos de <strong>cuevas</strong> que usaron como vivienda y como lugar de enterramiento, y se han encontrado cuevas con grabados rupestres. Los hallazgos más importantes, entre ellos momias y utensilios, se conservan hoy en el museo de Santa Cruz de Tenerife. En el sendero hay un paraje llamado el <strong>Bailadero de las Brujas</strong>, que según un panel del recorrido era un espacio de bailes y fiestas. El acceso está controlado, con aforo limitado y reserva previa.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Barranco del Infierno</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Laguna Grande de Gredos"
 faq:
+  - q: "¿Cuánto mide el Almanzor?"
+    a: "2.592 metros: es la cumbre más alta del Sistema Central."
+  - q: "¿Desde cuándo es parque regional Gredos?"
+    a: "Desde la Ley 3/1996, de 20 de junio."
   - q: "¿Cuánto se tarda en llegar a la Laguna Grande de Gredos?"
     a: "Desde la Plataforma son unos 6,5 km de ida. Ida y vuelta se tarda unas 4 horas sin contar paradas."
   - q: "¿Es difícil la ruta a la Laguna Grande?"
@@ -58,6 +62,11 @@ Te cuento cómo es la ruta, cuánto se tarda y lo que tienes que saber antes de 
 <!--cuando-->
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> de junio a octubre; fuera de esas fechas puede haber nieve o hielo.</li><li><strong>Qué llevar:</strong> botas, ropa de abrigo, chubasquero y agua; en la laguna hace frío aunque haya sol.</li><li><strong>Ojo:</strong> el aparcamiento se llena pronto: sal temprano en fines de semana y en verano.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Una sierra modelada por el hielo</h2></div>
+<p>La Sierra de Gredos es la parte más alta del <strong>Sistema Central</strong>, con el <strong>Almanzor</strong> (2.592 m) como techo. Durante las glaciaciones, el hielo excavó en sus laderas grandes <strong>circos</strong>, y el más famoso es el <strong>Circo de Gredos</strong>, con la <strong>Laguna Grande</strong> a unos 1.940 metros en el fondo. Las cumbres afiladas, las morrenas y los lagos de la zona son restos de aquel paisaje glaciar.</p>
+<p>La sierra es <strong>Parque Regional</strong> desde la <strong>Ley 3/1996, de 20 de junio</strong>, y su especie emblemática es la <strong>cabra montés de Gredos</strong>, una subespecie propia de la sierra, que se ve con facilidad en la subida a la laguna. También viven aquí endemismos como la salamandra del Almanzor o el sapo de Gredos.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Plataforma de Gredos</h2></div>
 <div class="guide__howto"><p>La ruta empieza en la <strong>Plataforma de Gredos</strong>, al final de la carretera que sale de <strong>Hoyos del Espino</strong> (Ávila). Desde Madrid son unas dos horas y media en coche.</p><p>Lleva cambio o tarjeta para el aparcamiento regulado y llega temprano: en fines de semana de verano y otoño se llena a primera hora.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Plataforma+de+Gredos" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

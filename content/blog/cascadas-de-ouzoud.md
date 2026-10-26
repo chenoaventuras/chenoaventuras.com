@@ -13,6 +13,8 @@ tags:
 igPermalink: 'https://www.instagram.com/reel/DR7WTgNDCew/'
 faqTitulo: "Dudas sobre las cascadas de Ouzoud"
 faq:
+  - q: "¿Cuánto miden las Cascadas de Ouzoud?"
+    a: "Unos 110 metros de caída, repartidos en tres saltos."
   - q: "¿A cuánto están las cascadas de Ouzoud de Marrakech?"
     a: "A poco más de 2 horas en coche, así que se visitan bien en una excursión de un día."
   - q: "¿Cuánto miden las cascadas de Ouzoud?"
@@ -56,6 +58,12 @@ Existen varios senderos que permiten bajar hasta la base de las cascadas y verla
 <!--actividades-->
 
 <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Además de la cascada, los protagonistas son los monos de Berbería: se acercan muchísimo, así que guarda bien la comida. Y súbete a las barcas de colores que te llevan casi debajo del salto.</p></div>
+
+<!--enr-->
+## Una cascada de 110 metros en el Atlas
+
+<p>Las <strong>Cascadas de Ouzoud</strong>, en la provincia de Azilal (Medio Atlas), caen unos <strong>110 metros</strong> en tres saltos, formadas por el río <strong>Oued Ouzoud</strong>, que más abajo se une al Oued El Abid. El significado del nombre es incierto: unas fuentes lo traducen como «oliva» y otras como «moler», por los molinos de agua.</p>
+<p>En la parte alta hay una docena de pequeños <strong>molinos de agua</strong> tradicionales todavía en uso, y en las rocas viven <strong>macacos de Berbería</strong>. Algunas fuentes describen la cascada como una cascada de <strong>travertino</strong>, es decir, que el agua construye la roca por la que cae, pero los datos sobre la geología son escasos y las edades que se citan varían mucho.</p>
 
 ## Cómo llegar
 

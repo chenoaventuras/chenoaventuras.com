@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Los Hervideros y El Golfo"
 faq:
+  - q: "¿Por qué se llama Los Hervideros?"
+    a: "Porque el agua que entra en las cuevas de lava forma espuma y parece que hierve."
   - q: "¿Dónde están Los Hervideros?"
     a: "En la costa suroeste de Lanzarote, entre las Salinas de Janubio y El Golfo, junto a la carretera LZ-703."
   - q: "¿Se puede bajar a la Laguna Verde?"
@@ -42,6 +44,11 @@ Te cuento cómo llegar y qué se puede (y qué no) hacer 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Lava, mar y un cráter con lago</h2></div>
 <p>Los Hervideros se formaron cuando la lava de las erupciones de Timanfaya <strong>llegó al mar</strong> y se enfrió en capas, dejando una costa llena de grietas, túneles y miradores naturales. Cuando el oleaje es fuerte, el agua «hierve» al entrar y salir de los huecos: de ahí el nombre.</p><p>El Charco de los Clicos es lo que queda de un <strong>cráter volcánico</strong> abierto al mar, con una laguna de <strong>color verde intenso</strong> y una playa de arena negra. Según los expertos, la laguna se está reduciendo con el tiempo, y por eso la zona está vallada y protegida.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Lava de 1730 que llegó al mar</h2></div>
+<p>Los Hervideros son el resultado de las <strong>erupciones de Timanfaya (1730-1736)</strong>. La lava llegó hasta la costa, se enfrió al contacto con el agua y se solidificó en <strong>acantilados de roca negra</strong> llenos de huecos. Con los años, el oleaje ha ido excavando cuevas y túneles en esa roca, y el agua que se cuela por las grietas hace espuma y da la sensación de que «hierve»: de ahí el nombre.</p>
+<p>Muy cerca está el <strong>Charco de los Clicos</strong>, una laguna de agua de mar en un cráter volcánico de las mismas erupciones, junto a El Golfo. Su color verde intenso se atribuye a algas o fitoplancton; las fuentes no se ponen de acuerdo en cuál es la causa, así que conviene no darla por segura.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Dos paradas, mucho contraste de colores.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Ponga"
 faq:
+  - q: "¿Cuándo es parque natural Ponga?"
+    a: "Desde la Ley 4/2003; ocupa casi todo el concejo, con unas 20.500 hectáreas."
   - q: "¿Qué es el Parque Natural de Ponga?"
     a: "Un parque natural y Reserva de la Biosfera en el oriente de Asturias."
   - q: "¿Cuánto mide?"
@@ -44,6 +46,11 @@ Te cuento qué ver, qué rutas hacer y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>En el parque se hace el queso de <strong>Los Beyos</strong>, y por los pueblos se ven muchos <strong>hórreos</strong>. Las rutas van de lo fácil (hayedo de Peloño, subida a Taranes, la «senda del cartero») a lo exigente (Ventaniella, Valle Moro o la subida al Pico Pierzu). <strong>Consulta el estado de las rutas</strong> y el parte meteorológico antes de salir.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un valle aislado con 2.000 metros de desnivel</h2></div>
+<p>El relieve de Ponga, con desniveles de casi <strong>2.000 metros</strong>, nace de las orogenias <strong>herciniana y alpina</strong>, que plegaron y levantaron las rocas. Es un territorio de valles encajados y bosques que durante siglos quedó muy aislado, y por eso se ha conservado tan bien. Hay restos arqueológicos de la <strong>Edad del Bronce</strong>, y la primera referencia documentada a Ponga es de la época del rey <strong>Alfonso IX de León</strong>.</p>
+<p>El <strong>Parque Natural de Ponga</strong> se declaró por la <strong>Ley 4/2003</strong> y ocupa prácticamente todo el concejo, con unas <strong>20.500 hectáreas</strong>. Es también Reserva de la Biosfera. Su joya es el <strong>bosque de Peloño</strong>, un hayedo de unos 15 km² (las cifras varían) que está considerado uno de los mejor conservados de España.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Ponga</h2><p>Valles, pueblos y bosque.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

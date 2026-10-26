@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Los Cahorros"
 faq:
+  - q: "¿Qué significa cahorro?"
+    a: "En la zona, una garganta estrecha abierta por un río en la roca."
   - q: "¿Hay que pagar para hacer la ruta de Los Cahorros?"
     a: "No. La ruta es gratuita y no necesitas reserva ni permiso. El aparcamiento de tierra del inicio también es gratis."
   - q: "¿Cuántos kilómetros tiene la ruta de Los Cahorros?"
@@ -81,6 +83,11 @@ Es gratis, no hay que reservar y es apta para casi todo el mundo. Te cuento cóm
 <!--cuando-->
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> todo el año; en verano madruga para evitar el calor y la afluencia.</li><li><strong>Qué llevar:</strong> calzado con agarre y agua; los puentes se mueven pero son seguros.</li><li><strong>Ojo:</strong> con lluvias fuertes el sendero del cañón puede estar resbaladizo o con más agua de lo normal.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un tajo en la roca al pie de Sierra Nevada</h2></div>
+<p>«Cahorro» es el nombre que se da en la zona a las <strong>gargantas estrechas</strong> que abre un río en la roca. El <strong>río Monachil</strong> ha ido excavando durante miles de años este desfiladero en rocas calizas y conglomeradas, en el flanco occidental de Sierra Nevada, hasta dejar paredes que casi se tocan. Hay también paredes de dolomía, fallas y areniscas con fósiles marinos que recuerdan que aquí hubo mar.</p>
+<p>El recorrido sigue en algunos tramos una antigua <strong>acequia</strong>, testimonio del uso agrícola de estas tierras. Las paredes se convirtieron pronto en un lugar para escalar: se citan ascensiones desde los años treinta del siglo XX, y hoy son una de las escuelas de escalada más conocidas de Andalucía.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Los Cahorros</h2></div>
 <div class="guide__howto"><p>La ruta empieza en el pueblo de <strong>Monachil</strong>, a unos <strong>20-30 minutos en coche de Granada</strong>. Cruza el pueblo y sigue las indicaciones de «Los Cahorros» hasta el final de la calle, donde hay una <strong>explanada de tierra gratuita</strong> para aparcar junto al panel de inicio.</p><p>Ese aparcamiento es pequeño y <strong>se llena pronto los fines de semana</strong>, sobre todo en primavera y otoño. Si llega a estar lleno, tendrás que dejar el coche en el pueblo y caminar un poco más.</p><p>También puedes ir en <strong>autobús metropolitano</strong> desde Granada hasta Monachil pueblo. Consulta líneas y horarios en la web del Consorcio de Transportes de Granada.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Los+Cahorros+de+Monachil" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://ctagr.es/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Autobuses a Monachil</a></div></div>

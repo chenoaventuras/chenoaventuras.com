@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Los Azulejos de Veneguera"
 faq:
+  - q: "¿Por qué los Azulejos son de colores?"
+    a: "Por la alteración de la roca por fluidos hidrotermales: el hierro y las arcillas dan verdes, azules y rojos."
   - q: "¿Dónde están Los Azulejos de Veneguera?"
     a: "Junto a la carretera GC-200, en el municipio de Mogán, en el suroeste de Gran Canaria."
   - q: "¿Hay que pagar entrada?"
@@ -40,6 +42,11 @@ Te cuento cómo llegar y qué esperar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>¿De dónde salen los colores?</h2></div>
 <p>Los tonos verdes, azulados, amarillos y rojizos vienen de los <strong>minerales</strong> que quedaron en la roca. Según las explicaciones geológicas, agua muy caliente y gases volcánicos recorrieron el terreno y depositaron <strong>óxidos de hierro, clorita</strong> y otros minerales, que son los que dan los colores. Las fuentes no coinciden al detallar el origen exacto, pero todas hablan de la actividad volcánica de la isla.</p><div class="guide__legend"><h3>🌈 «Rainbow Rocks»</h3><p>En inglés se les llama <strong>Rainbow Rocks</strong>, las rocas arcoíris. Los colores se ven mejor con <strong>luz directa</strong>, y la roca mojada los intensifica.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Colores nacidos del agua caliente</h2></div>
+<p>Los Azulejos son parte del borde de la antigua <strong>Caldera de Tejeda</strong>, un enorme volcán de Gran Canaria. Están hechos de <strong>ignimbritas</strong>, rocas volcánicas finas que se depositaron en una erupción hace entre <strong>13 y 14 millones de años</strong> (las fuentes dan cifras distintas). Los colores no son del volcán, sino de lo que vino después: <strong>fluidos hidrotermales</strong> calientes que circularon por las fallas de la caldera y alteraron la roca.</p>
+<p>Los tonos verdes y azulados se deben a minerales de hierro reducido en arcillas como la illita o la esmectita, y los rojos y ocres, a hierro oxidado. Es el mismo proceso que se ve en otros puntos de las islas volcánicas. El enclave está catalogado como <strong>Bien de Interés Geológico</strong> y se encuentra en la cabecera del barranco de Veneguera.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Una ladera de colores en pleno barranco.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

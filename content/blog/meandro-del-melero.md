@@ -12,6 +12,8 @@ tags:
   - Extremadura
 wide: true
 faq:
+  - q: "¿Cómo se formó el Meandro del Melero?"
+    a: "Por la erosión del río Alagón sobre rocas paleozoicas muy plegadas y fracturadas, que obligan al río a cambiar de dirección."
   - q: "¿Dónde está el Meandro del Melero?"
     a: "En Riomalo de Abajo (Caminomorisco), en la comarca de Las Hurdes, al norte de Cáceres, junto al límite con Salamanca."
   - q: "¿Cómo se llega al mirador del Meandro del Melero?"
@@ -52,6 +54,11 @@ Está en **Las Hurdes**, en la frontera con Salamanca, y se ve desde un mirador 
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una isla que no es isla</h2></div>
 <p>El meandro se formó por la erosión del río durante miles de años, y hoy forma parte del embalse de Gabriel y Galán, por eso el agua está tan quieta. El monte del centro está unido a tierra solo por un estrecho istmo, y desde el mirador se ve como una <strong>isla redonda de pinos</strong>.</p><div class="guide__legend"><h3>🏞️ Las Hurdes</h3><p>La comarca es famosa por sus pueblos de pizarra, sus ríos de aguas limpias y sus piscinas naturales. Merece la pena dedicarle un fin de semana.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un río que da la vuelta sobre sí mismo</h2></div>
+<p>El <strong>Alagón</strong> dibuja aquí un meandro casi cerrado, tan estrecho en su base que forma una «casi isla». El relieve de <strong>Las Hurdes</strong> se ha desarrollado sobre materiales <strong>paleozoicos</strong>, sobre todo pizarras y cuarcitas muy plegadas y fracturadas, y esas diferencias de dureza explican los cambios de dirección del río. Es un buen ejemplo de geomorfología fluvial, tanto que está catalogado como lugar de interés geológico.</p>
+<p>El mejor punto de observación es el <strong>mirador de La Antigua</strong>, en Riomalo de Abajo (Caminomorisco). En primavera es cuando mejor se ve, porque el embalse de Gabriel y Galán regula el caudal del río y el paisaje cambia según la época.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>El Meandro desde todos los ángulos</h2><p>Diferentes miradores, diferentes fotos.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
