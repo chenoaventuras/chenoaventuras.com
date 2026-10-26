@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre las Barrancas de Burujón"
 faq:
+  - q: "¿Cómo se formaron las Barrancas de Burujón?"
+    a: "Con sedimentos de un antiguo lago del Mioceno que el Tajo y la lluvia han ido tallando en cárcavas."
   - q: "¿Dónde están las Barrancas de Burujón?"
     a: "Junto al pueblo de Burujón, en la provincia de Toledo, a unos 30 km de Toledo capital. Se llega por la CM-4000."
   - q: "¿Cuánto dura la ruta?"
@@ -43,6 +45,11 @@ Te cuento cómo llegar, dónde aparcar y qué esperar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>El Gran Cañón del Tajo</h2></div>
 <p>Se le llama el <strong>«Gran Cañón del Tajo»</strong>, el «western de Toledo» o incluso el «Cañón del Colorado español»: son <strong>cárcavas de arcilla</strong> excavadas por la erosión sobre el valle del Tajo, con tonos rojizos, ocres y anaranjados que contrastan con el verde de los campos y el color del agua.</p><p>Su aspecto de película ha hecho que se compare con escenarios de cine y que haya aparecido en <strong>videoclips</strong>. Es un buen ejemplo de paisaje frágil: la tierra es blanda, así que no te acerques a los bordes ni te salgas de la senda.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un lago de hace 25 millones de años convertido en barranco</h2></div>
+<p>Las barrancas se formaron sobre sedimentos del <strong>Mioceno</strong>, hace unos <strong>25 millones de años</strong> (las fuentes dan entre 23 y 25): entonces había una gran cuenca lacustre entre el Sistema Central y los Montes de Toledo, y la erosión de aquellas sierras fue llenándola de <strong>arcillas, arenas y yesos</strong>. Mucho más tarde, en el Pleistoceno, el <strong>Tajo</strong> excavó su valle y dos de sus meandros removieron esos sedimentos blandos, que la lluvia fue tallando en cárcavas.</p>
+<p>El resultado son paredes de unos <strong>100 metros</strong> y un punto máximo, el Pico del Cambrón, de unos 120. Se declararon <strong>Monumento Natural en 2010</strong> por la Junta de Castilla-La Mancha, y también forman parte de la Red Natura 2000. Se conocen también como Barrancas de Castrejón, por el embalse cercano.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Miradores sobre el barranco y el embalse.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

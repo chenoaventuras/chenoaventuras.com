@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Cañón del Sil"
 faq:
+  - q: "¿Por qué se llama Ribeira Sacra?"
+    a: "Por los monjes y eremitas que se instalaron en el cañón desde la época sueva: era la «ribera sagrada»."
   - q: "¿Cuánto cuesta el catamarán por el Cañón del Sil?"
     a: "Las rutas de la Diputación de Lugo cuestan unos 9 € la entrada general, con descuentos. Hay otras rutas desde embarcaderos de Ourense con precios distintos: reserva con antelación."
   - q: "¿Cuál es el mejor mirador del Cañón del Sil?"
@@ -64,6 +66,11 @@ La mejor forma de verlo es desde dos sitios: **desde el río, en catamarán**, y
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La viticultura heroica</h2></div>
 <p>En las laderas del cañón se cultiva vid desde la época romana en <strong>bancales</strong> de piedra con pendientes vertiginosas. Se llama <strong>viticultura heroica</strong> porque casi todo se hace a mano, y en la vendimia las cajas de uva se suben por las cuestas o se bajan al río.</p><div class="guide__legend"><h3>⛪ La «ribera sagrada»</h3><p>El nombre de Ribeira Sacra viene de la gran cantidad de <strong>monasterios</strong> que se fundaron en la Edad Media en estos bosques. El de <strong>Santo Estevo de Ribas de Sil</strong>, hoy Parador, es el más famoso.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La «ribera sagrada» de monjes, viñas y agua</h2></div>
+<p>El nombre de <strong>Ribeira Sacra</strong> viene del latín <em>Rivoyra Sacrata</em>: desde época sueva, monjes y eremitas se refugiaron en estas gargantas, y llegó a haber hasta una docena de monasterios, casi todos benedictinos. <strong>San Pedro de Rocas</strong> aparece documentado desde el año <strong>573</strong> y se considera el más antiguo de Galicia, <strong>Santo Estevo de Ribas de Sil</strong> tiene orígenes que algunas fuentes sitúan en el siglo VI, y <strong>Santa Cristina</strong> se consolidó como monasterio en el siglo XII.</p>
+<p>El Sil ha excavado un cañón de más de <strong>500 metros</strong> en sus tramos más abruptos. En las laderas, casi verticales, los viñadores han levantado durante siglos <strong>bancales de piedra</strong> para plantar viñas: los romanos ya valoraban este vino, que según la tradición llamaban «oro del río Sil». Hoy esas terrazas y las presas que embalsan el río conviven en una de las zonas más espectaculares de Galicia, protegida como parte de la Red Natura 2000.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Cañón del Sil</h2><p>Desde el agua y desde arriba.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

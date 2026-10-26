@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Laguna Negra"
 faq:
+  - q: "¿Cómo se formó la Laguna Negra de Urbión?"
+    a: "Por la erosión de un glaciar que excavó un circo en las sierras de Urbión durante el Cuaternario."
+  - q: "¿Es verdad que no tiene fondo?"
+    a: "No: es una leyenda; según una fuente su profundidad no supera los 8-10 metros."
   - q: "¿Por qué se llama Laguna Negra?"
     a: "Por el color oscuro de su agua, que se debe a la sombra del paredón de roca que la rodea. La leyenda dice que no tiene fondo, aunque en realidad su profundidad ronda los 8-10 metros."
   - q: "¿Se puede llegar en coche a la Laguna Negra?"
@@ -66,6 +70,11 @@ Fui a principios de noviembre, con el bosque en plena explosión de otoño, y te
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>La laguna sin fondo</h2></div>
 <p>Es un lago de <strong>origen glaciar</strong>, a unos <strong>1.750 metros</strong> de altitud, encajado al pie de un circo de roca que dejó el hielo hace más de 10.000 años. Lo oscuro del agua se debe a la sombra de las paredes, que la tapan casi todo el día. La gente de la zona siempre ha preferido otra explicación: que <strong>no tiene fondo</strong> y que por debajo se comunica con el mar. La realidad es menos dramática (ronda los <strong>8-10 metros</strong>), pero cuando la ves desde la orilla, con el agua quieta y negra, entiendes la leyenda.</p><div class="guide__legend"><h3>📖 La tierra de Alvargonzález</h3><p>En <em>Campos de Castilla</em>, Machado cuenta la historia de <strong>Alvargonzález</strong>, un labrador al que sus dos hijos mayores matan para quedarse con la herencia. Arrojan el cuerpo a la Laguna Negra, «que no tiene fondo», pensando que nunca lo encontrarán. Al final, la culpa los persigue hasta la misma orilla y acaban en el agua junto a su padre. Si lo lees antes de ir, la laguna impone el doble.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un lago que nació del hielo</h2></div>
+<p>La Laguna Negra es un <strong>lago glaciar</strong>: durante las glaciaciones del Cuaternario el hielo excavó en las <strong>Sierras de Urbión</strong> un gran <strong>circo glaciar</strong>, un anfiteatro de paredes verticales, y al retirarse dejó un lago en el fondo, a unos <strong>1.750 metros de altitud</strong> (las fuentes dan entre 1.740 y 1.773). Las paredes oscuras que la rodean explican su nombre.</p>
+<p>La leyenda dice que es «sin fondo» y que sus aguas comunican con el mar, pero según una de las fuentes su profundidad real no supera los 8-10 metros. Todo el espacio se protegió como <strong>espacio natural en 1991</strong> y desde <strong>2010</strong> es <strong>Parque Natural de la Laguna Negra y los Circos Glaciares de Urbión</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la Laguna Negra</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

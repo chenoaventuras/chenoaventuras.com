@@ -13,6 +13,8 @@ tags:
 igPermalink: 'https://www.instagram.com/reel/DMqc0iQIVwi/'
 faqTitulo: "Dudas sobre las Cuevas de San José"
 faq:
+  - q: "¿Cuánto mide el río subterráneo de San José?"
+    a: "Unos 2.350 m según el IGME (800 navegables); las guías turísticas citan 2.750 m."
   - q: "¿Dónde están las Cuevas de San José?"
     a: "En la Vall d'Uixó, en la provincia de Castellón (Comunidad Valenciana)."
   - q: "¿Cuánto cuesta entrar a las Cuevas de San José?"
@@ -97,6 +99,12 @@ Sí: es una de las pocas cuevas de este tipo **adaptadas para personas con movil
 Es un plan perfecto con niños: la visita es corta, en barca y con un guía que lo cuenta de forma amena. Lleva una **chaqueta fina** para ellos: la humedad hace que parezca más fresco.
 
 <!--actividades-->
+
+<!--enr-->
+## Un río que nace dentro de la montaña
+
+<p>Las Cuevas de San José forman un <strong>sistema kárstico</strong> excavado por el agua en calizas, dolomías y margas del <strong>Triásico</strong> (unos 230 millones de años), de la formación conocida como Muschelkalk. Según el Instituto Geológico y Minero, el sistema mide unos 2.350 metros, de los que unos 800 son navegables; las fuentes turísticas hablan de 2.750 metros. Por eso se presenta como <strong>el río subterráneo navegable más largo de Europa</strong>.</p>
+<p>Los vecinos conocían la cueva desde siempre, y las primeras exploraciones se citan hacia <strong>1902</strong>; en el siglo XX se hicieron voladuras controladas para abrir el paso. Todavía no se sabe con certeza dónde nace el río. La visita dura unos 40-45 minutos, casi toda en barca, y termina en una galería seca de unos 250 m, la zona que se recorre a pie.</p>
 
 ## Cómo llegar
 

@@ -13,6 +13,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre el Valle de Arán"
 faq:
+  - q: "¿Qué es la Querimònia de 1313?"
+    a: "Un documento en el que los reyes de la Corona de Aragón se comprometieron a respetar los privilegios y las leyes tradicionales del Valle de Arán."
+  - q: "¿Qué lengua se habla en el Valle de Arán?"
+    a: "El aranés, una variedad del occitano; es oficial en el valle desde 1990 y en toda Cataluña desde el Estatuto de 2006."
   - q: "¿Qué ver en el Valle de Arán?"
     a: "La cascada del Saut deth Pish, los Uelhs deth Joèu en la Artiga de Lin, Vielha, pueblos como Salardú, Arties o Bossòst, y el santuario de Montgarri."
   - q: "¿Qué idioma se habla en el Valle de Arán?"
@@ -62,6 +66,11 @@ Te cuento los rincones imprescindibles y qué aventuras hacer según la época �
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>El valle que mira al Atlántico</h2></div>
 <p>El Valle de Arán es el <strong>único valle de Cataluña de vertiente atlántica</strong>: por él nace el río <strong>Garona</strong>, que cruza Francia hasta desembocar en el Atlántico, en Burdeos. Por eso su clima es más húmedo y sus bosques, más verdes que los del resto del Pirineo catalán.</p><div class="guide__legend"><h3>💧 Los «Ojos del Judío»</h3><p>En la Artiga de Lin, el agua que se filtra por la roca del macizo de la Maladeta reaparece de golpe en una surgencia llamada <strong>Uelhs deth Joèu</strong>. Durante mucho tiempo se pensó que el Garona nacía aquí.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un valle con ley y lengua propias</h2></div>
+<p>El Valle de Arán, en el Pirineo, quedó durante siglos algo aislado por las montañas, y de ahí que haya conservado un derecho y una lengua propios. En <strong>1313</strong> los reyes de la Corona de Aragón firmaron la <strong>Querimònia</strong>, un documento por el que se comprometían a respetar los privilegios y el derecho consuetudinario de los aranés, y en <strong>1411</strong> el valle quedó confirmado como parte del Principado de Cataluña. Desde <strong>1987</strong> es una comarca administrativa.</p>
+<p>El <strong>aranés</strong> es una variedad del occitano (concretamente del gascón). La ley de régimen especial de Arán, de <strong>1990</strong>, lo declaró oficial en el valle, y el Estatuto de Autonomía de <strong>2006</strong> hizo oficial el occitano, llamado aranés en Arán, en toda Cataluña. Por eso verás los carteles y los nombres de los pueblos en tres lenguas: aranés, catalán y castellano.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Valle de Arán</h2><p>Agua, bosque y pueblos de montaña.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

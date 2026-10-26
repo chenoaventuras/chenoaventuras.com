@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre los Arribes"
 faq:
+  - q: "¿Cuándo es parque natural Arribes del Duero?"
+    a: "Desde la Ley 5/2002, de 11 de abril, con unas 106.000 hectáreas entre Salamanca y Zamora."
   - q: "¿Cuáles son los mejores miradores de los Arribes del Duero?"
     a: "El Mirador del Fraile, el Picón de Felipe, el Mirador de la Pipa, el de la presa de Aldeadávila y el de la Code, en Mieza."
   - q: "¿Dónde están los Arribes del Duero?"
@@ -43,6 +45,11 @@ Te cuento cuáles son los mejores, cómo ordenarlos y qué más ver 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un río que hace de frontera</h2></div>
 <p>Los <strong>Arribes</strong> forman un gran cañón excavado por el Duero, que aquí marca durante decenas de kilómetros la <strong>frontera entre España y Portugal</strong>. Hay saltos hidroeléctricos como el de <strong>Aldeadávila</strong>, una gran obra de ingeniería. El <strong>Picón de Felipe</strong> tiene una leyenda: un vecino enamorado de una portuguesa quiso tapar el río para cruzarlo, y los agujeros del mirador lo recordarían.</p><div class="guide__legend"><h3>🌅 Mi consejo</h3><p>Visita el <strong>Mirador del Fraile</strong> al atardecer: la luz sobre el cañón y la presa es de lo mejor de la zona.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Un cañón de granito que hace de frontera</h2></div>
+<p>Los <strong>Arribes del Duero</strong> son un tajo de casi <strong>cien kilómetros</strong> por el que el Duero hace de frontera entre España y Portugal. El río ha ido encajándose durante millones de años en un zócalo de <strong>granitos y granodioritas</strong> del Paleozoico, hasta dejar cortados verticales de más de <strong>400 metros</strong>. Esos granitos se formaron en una colisión de placas hace unos 300 millones de años y luego quedaron expuestos por la erosión.</p>
+<p>El espacio es <strong>Parque Natural</strong> desde la <strong>Ley 5/2002, de 11 de abril</strong>, con unas <strong>106.000 hectáreas</strong> repartidas entre Salamanca y Zamora, y forma parte de una Reserva de la Biosfera transfronteriza con Portugal. La <strong>presa de Aldeadávila</strong> se encaja entre las paredes del cañón y es una de las grandes obras hidroeléctricas de España. Fermoselle y Aldeadávila de la Ribera son las «capitales» de cada provincia dentro del parque.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Los mejores miradores de los Arribes del Duero</h2><p>Una ruta en coche, parando en los balcones.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

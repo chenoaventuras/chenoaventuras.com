@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Muniellos"
 faq:
+  - q: "¿Desde cuándo es Reserva de la Biosfera Muniellos?"
+    a: "Desde el 10 de noviembre de 2000; se amplió en 2003."
   - q: "¿Qué es Muniellos?"
     a: "El mayor robledal de España, Reserva Natural Integral y de la Biosfera."
   - q: "¿Se puede visitar libremente?"
@@ -44,6 +46,11 @@ Te cuento cómo conseguir el permiso, qué ver y cómo prepararte 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>Muniellos está dentro del <strong>Parque Natural de Fuentes del Narcea, Degaña e Ibias</strong>. La reserva incluye lagunas, como la <strong>Laguna de la Isla</strong>, la primera de las tres accesibles, y otras en el pico de la Candanosa. Por ser integral, hay normas estrictas: no se puede entrar sin permiso y hay que respetar los itinerarios marcados.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>El mayor robledal de España: de bosque explotado a reserva</h2></div>
+<p>Durante siglos Muniellos fue un bosque explotado para madera y carbón, y todavía se ven restos de la actividad humana: hay explotaciones de oro de época romana y la zona conserva un rico patrimonio etnográfico, como las <strong>pallozas</strong> y las construcciones para proteger las colmenas. Las talas se fueron frenando a lo largo del siglo XX, y en <strong>1982</strong> pasó a protegerse como reserva.</p>
+<p>La Reserva de la Biosfera que lo incluye se declaró el <strong>10 de noviembre de 2000</strong> y se amplió en 2003, hasta unas <strong>56.950 hectáreas</strong>; la reserva natural integral en sí, según la fuente, ocupa entre unas 5.500 y unas 6.000. En ella domina el <strong>roble albar</strong>, y hay lagunas y turberas de origen glaciar en las zonas altas. Es refugio del <strong>oso pardo</strong> y del <strong>urogallo cantábrico</strong>, y por eso solo se permiten 20 visitantes al día.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Muniellos</h2><p>Bosque, lagunas y silencio.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
