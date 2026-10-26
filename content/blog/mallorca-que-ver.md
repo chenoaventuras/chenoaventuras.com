@@ -12,6 +12,8 @@ tags:
   - Islas Baleares
 wide: true
 faq:
+  - q: "¿Desde cuándo es Patrimonio Mundial la Sierra de Tramuntana?"
+    a: "Desde 2011, como Paisaje Cultural de la UNESCO."
   - q: "¿Qué ver en Mallorca en 4 días?"
     a: "Palma (catedral y Castillo de Bellver), Valldemossa, Deià, Sóller, Sa Calobra, el Cap de Formentor, las Cuevas del Drach, Caló des Moro y Es Trenc."
   - q: "¿Se puede subir en coche al Cap de Formentor?"
@@ -64,6 +66,11 @@ La **Serra de Tramuntana** es Patrimonio de la Humanidad. Te dejo mis imprescind
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Gaudí en la catedral</h2></div>
 <p>La catedral de Palma, La Seu, tiene uno de los rosetones góticos más grandes del mundo. A principios del siglo XX, <strong>Antoni Gaudí</strong> trabajó en su interior: diseñó el baldaquino del altar mayor, una especie de corona gigante que cuelga sobre el presbiterio.</p><div class="guide__legend"><h3>🎹 El invierno de Chopin</h3><p>En la Cartuja de <strong>Valldemossa</strong> pasaron el invierno de 1838 el compositor Frédéric Chopin y la escritora George Sand. Hoy se pueden visitar las celdas donde vivieron.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">El paisaje</span><h2>La Serra de Tramuntana, un paisaje hecho por el hombre</h2></div>
+<p>La <strong>Serra de Tramuntana</strong> es una cadena de rocas calizas con el <strong>Puig Major</strong> (unos 1.436 m) como cima. Durante siglos los habitantes transformaron sus laderas con <strong>bancales de piedra seca</strong> para poder cultivar en la montaña, y con sistemas de riego, aljibes y norias. La ocupación musulmana, entre el siglo X y la conquista cristiana de 1229, introdujo muchas de esas técnicas.</p>
+<p>Por eso la UNESCO la declaró en <strong>2011</strong> <strong>Paisaje Cultural</strong>: no solo valora la naturaleza, sino la relación entre las personas y la montaña durante siglos. Pueblos como Valldemossa o Deià están dentro de este paisaje.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Mallorca</h2><p>De Palma a la Tramuntana y las calas del sureste.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

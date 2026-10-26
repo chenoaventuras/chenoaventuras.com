@@ -12,6 +12,8 @@ tags:
   - Islas Baleares
 wide: true
 faq:
+  - q: "¿Cuándo es Patrimonio Mundial Menorca Talayótica?"
+    a: "En 2023, con nueve zonas arqueológicas de la cultura talayótica."
   - q: "¿Qué ver en Menorca en 4 días?"
     a: "Ciutadella, la Naveta des Tudons, las calas del sur (Galdana, Mitjana, Macarella, Turqueta), Cala Pregonda, el Faro de Cavalleria, Fornells, Monte Toro, Mahón, Binibeca Vell y la Cova d'en Xoroi."
   - q: "¿Cuáles son las mejores calas de Menorca?"
@@ -65,6 +67,11 @@ Te cuento mis calas favoritas, cómo llegar a ellas en verano y todo lo demás q
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una isla que se rodea a pie</h2></div>
 <p>El <strong>Camí de Cavalls</strong> es un sendero de unos 185 km que da la vuelta completa a Menorca por la costa. Era el camino que usaban los soldados a caballo para vigilar la isla, y hoy une casi todas sus calas. Puedes hacer solo el tramo entre Macarella y Turqueta: es precioso.</p><div class="guide__legend"><h3>🗿 Talayots</h3><p>Menorca está llena de monumentos prehistóricos: <strong>talayots, taulas y navetas</strong>, como la Naveta des Tudons, cerca de Ciutadella.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La isla de los talayots, Patrimonio Mundial</h2></div>
+<p>Mucho antes de que existieran las calas turísticas, Menorca tuvo una cultura prehistórica propia, la <strong>cultura talayótica</strong>, entre la Edad del Bronce (hacia 1600 a. C.) y la Edad del Hierro tardía (hasta 123 a. C.). Sus monumentos son los <strong>talayots</strong> (torres de piedra), los <strong>taulas</strong> (recintos con un gran pilar en forma de T) y las <strong>navetas</strong>, tumbas con forma de nave invertida. La <strong>Naveta des Tudons</strong> es la más famosa, y <strong>Torre d’en Galmés</strong>, en Alaior, es uno de los mayores poblados talayóticos.</p>
+<p>En <strong>2023</strong> la UNESCO declaró <strong>Menorca Talayótica</strong> Patrimonio Mundial, en un conjunto de nueve zonas repartidas por la isla. Se puede combinar una mañana en las calas con una tarde entre talayots.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Menorca</h2><p>Calas, pueblos, faros y prehistoria.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

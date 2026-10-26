@@ -12,6 +12,8 @@ tags:
   - Islas Baleares
 wide: true
 faq:
+  - q: "¿Cuándo se repobló Formentera?"
+    a: "A partir de 1695, con las primeras concesiones reales de tierras."
   - q: "¿Cómo llegar a Formentera?"
     a: "En ferry desde el puerto de Ibiza hasta La Savina, en unos 30-60 minutos."
   - q: "¿Cuál es la mejor playa de Formentera?"
@@ -64,6 +66,11 @@ Se llega en ferry desde Ibiza y se recorre en bici o moto. Te cuento qué ver �
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>El secreto del agua transparente</h2></div>
 <p>El agua de Formentera es tan clara gracias a las praderas de <strong>posidonia</strong>, una planta marina que filtra el agua y produce oxígeno. Sus praderas entre Ibiza y Formentera son <strong>Patrimonio de la Humanidad</strong>. Por eso está prohibido fondear encima de ellas.</p><div class="guide__legend"><h3>📚 El faro de Julio Verne</h3><p>Julio Verne mencionó el <strong>Far de la Mola</strong> en una de sus novelas, y junto al faro hay un monumento en su honor.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Una isla casi despoblada durante siglos</h2></div>
+<p>Formentera tiene huellas de la <strong>Prehistoria</strong>: el sepulcro megalítico de <strong>Ca na Costa</strong> se fecha hacia finales del tercer milenio a. C. (otras fuentes lo sitúan hacia 1700 a. C.), y el entorno de <strong>Cap de Barbaria</strong> concentra restos de poblados antiguos. Hubo presencia romana y, después, la isla vivió siglos de inseguridad por la piratería y estuvo casi desierta, habitada solo de forma ocasional.</p>
+<p>La repoblación definitiva llegó a finales del siglo XVII: la primera concesión real de tierras a <strong>Marc Ferrer</strong> es del <strong>24 de diciembre de 1695</strong>. Desde entonces ha ido creciendo despacio, y por eso conserva un ritmo tan tranquilo.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Formentera</h2><p>Playas, faros y caminos de bici.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

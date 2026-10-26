@@ -12,6 +12,8 @@ tags:
   - Islas Baleares
 wide: true
 faq:
+  - q: "¿Por qué Ibiza es Patrimonio Mundial?"
+    a: "Por Dalt Vila, la necrópolis fenicio-púnica del Puig des Molins, Sa Caleta y las praderas de posidonia (declaración de 1999)."
   - q: "¿Qué ver en Ibiza además de fiesta?"
     a: "Dalt Vila, Ses Salines, Cala d'Hort y Es Vedrà, Punta de sa Galera, Cala Salada, Santa Eulària y los atardeceres de la costa oeste."
   - q: "¿Cuál es la cala más bonita de Ibiza?"
@@ -64,6 +66,11 @@ Parte de la isla es **Patrimonio de la Humanidad** por su historia y por las pra
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Patrimonio por la historia y el mar</h2></div>
 <p>La UNESCO declaró Patrimonio de la Humanidad la <strong>Ibiza, biodiversidad y cultura</strong>: las murallas renacentistas de Dalt Vila, la necrópolis fenicia de Puig des Molins, el poblado de Sa Caleta y las praderas de <strong>posidonia</strong> que hacen que el agua entre Ibiza y Formentera sea tan transparente.</p><div class="guide__legend"><h3>🗿 El misterio de Es Vedrà</h3><p>El islote de <strong>Es Vedrà</strong>, de unos 400 metros de altura, tiene fama de lugar mágico: hay leyendas de sirenas, ermitaños y hasta de interferencias en las brújulas. Lo mejor es verlo al atardecer desde Cala d'Hort.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Fenicios, cartagineses y Patrimonio Mundial</h2></div>
+<p>La tradición sitúa la fundación de la ciudad hacia el <strong>654 a. C.</strong>, cuando los fenicios la poblaron como <em>Ebusus</em>, y fue después un importante centro comercial bajo los cartagineses. De ese pasado queda la <strong>necrópolis del Puig des Molins</strong>, con más de 3.000 tumbas excavadas, y el poblado de <strong>Sa Caleta</strong>. La fecha exacta no se ha podido confirmar con fuentes arqueológicas primarias.</p>
+<p>En el siglo XVI la Corona levantó las <strong>murallas renacentistas de Dalt Vila</strong> para defender la isla de los piratas. En <strong>1999</strong> la UNESCO la declaró Patrimonio Mundial con el nombre de «<strong>Ibiza, biodiversidad y cultura</strong>», que incluye Dalt Vila, la necrópolis, Sa Caleta y las praderas de <strong>posidonia</strong> del mar que rodea la isla.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Ibiza</h2><p>Calas, miradores y el casco antiguo.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
