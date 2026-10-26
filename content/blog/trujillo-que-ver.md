@@ -12,6 +12,8 @@ tags:
   - Extremadura
 wide: true
 faq:
+  - q: "¿Quién nació en Trujillo?"
+    a: "Francisco Pizarro, Francisco de Orellana y Diego García de Paredes, entre otros conquistadores."
   - q: "¿Qué ver en Trujillo?"
     a: "La Plaza Mayor con la estatua de Pizarro, la iglesia de San Martín, el Palacio de la Conquista, el castillo, la iglesia de Santa María la Mayor y las murallas."
   - q: "¿Cuánto tiempo se necesita para ver Trujillo?"
@@ -62,6 +64,11 @@ Está a 40 minutos de Cáceres y es perfecta para medio día o una noche. Te cue
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>El oro de América</h2></div>
 <p>Muchos de los conquistadores que viajaron a América salieron de Trujillo y sus alrededores. Los que volvieron ricos construyeron palacios en la Plaza Mayor. El más famoso es el <strong>Palacio de la Conquista</strong>, de la familia de Pizarro: en su esquina hay un escudo con los bustos de Pizarro, su mujer inca y su hija.</p><div class="guide__legend"><h3>🧀 Feria del Queso</h3><p>Cada primavera, la Plaza Mayor se llena de puestos en la <strong>Feria Nacional del Queso</strong>, una de las más conocidas de España. Consulta las fechas cada año.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La cuna de los conquistadores</h2></div>
+<p>Trujillo fue conquistada por <strong>Fernando III</strong> en <strong>1232</strong> y recibió el título de <strong>ciudad en 1430</strong>, de manos de Juan II. Siglos después, de aquí saldrían algunos de los nombres más conocidos de la conquista de América: <strong>Francisco Pizarro</strong>, <strong>Francisco de Orellana</strong> (el primer europeo en recorrer el Amazonas) y <strong>Diego García de Paredes</strong>.</p>
+<p>En la Plaza Mayor, la <strong>estatua ecuestre de Pizarro</strong> se instaló en <strong>1929</strong>: la hizo el escultor estadounidense <strong>Charles Cary Rumsey</strong> y existe una copia casi idéntica en Lima. El <strong>Palacio de la Conquista</strong> lo levantó en el último tercio del siglo XVI su hermano <strong>Hernando Pizarro</strong>, y en su balcón de esquina se ve el escudo que Carlos V concedió a los hermanos.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Trujillo</h2><p>De la plaza al castillo, cuesta arriba.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -12,6 +12,8 @@ tags:
   - Castilla-La Mancha
 wide: true
 faq:
+  - q: "¿Quién construyó el castillo de Alcalá del Júcar?"
+    a: "Es de origen almohade (finales del siglo XII) y se reformó en el siglo XV."
   - q: "¿Qué ver en Alcalá del Júcar?"
     a: "Las casas colgadas sobre la hoz, las cuevas que atraviesan la montaña (como la Cueva del Diablo y la de Masagó), el castillo almohade, el puente sobre el Júcar y la playa fluvial."
   - q: "¿Se pueden visitar las cuevas de Alcalá del Júcar?"
@@ -63,6 +65,11 @@ Y lo mejor está dentro de la roca: **cuevas que atraviesan la montaña de lado 
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un pueblo excavado en la roca</h2></div>
 <p>Durante siglos, los vecinos de Alcalá ampliaron sus casas <strong>excavando la montaña</strong>. Algunas cuevas crecieron tanto que acabaron atravesando la roca de un lado a otro, con balcones abiertos en la pared opuesta. Hoy varias se pueden visitar, como la <strong>Cueva del Diablo</strong>, con una curiosa colección de objetos antiguos, o la de <strong>Masagó</strong>, convertida en bar.</p><div class="guide__legend"><h3>🏰 Un castillo almohade</h3><p>En lo alto se levanta un <strong>castillo almohade</strong> de origen medieval, con una torre de planta pentagonal. Desde arriba ves toda la hoz del Júcar.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un castillo almohade sobre casas excavadas en la roca</h2></div>
+<p>El <strong>castillo</strong> de Alcalá del Júcar es de origen <strong>almohade</strong>, de finales del siglo XII, cuando el Júcar era frontera entre Castilla y el imperio almohade. Todavía conserva torres de tapial. Los cristianos lo tomaron hacia <strong>1213</strong>, con Alfonso VIII, y su aspecto actual es sobre todo de reformas del siglo XV, con la familia Pacheco.</p>
+<p>Las <strong>casas-cueva</strong> se excavaron a mano en la roca blanda del cañón y todavía forman buena parte del casco antiguo; se usaron para vivir, guardar alimentos y refugiar a los animales. El pueblo fue declarado <strong>Conjunto Histórico-Artístico en 1982</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Alcalá del Júcar</h2><p>Arriba, abajo y dentro de la roca.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

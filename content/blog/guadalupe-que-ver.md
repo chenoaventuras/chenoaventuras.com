@@ -12,6 +12,8 @@ tags:
   - Extremadura
 wide: true
 faq:
+  - q: "¿Qué es la leyenda de Gil Cordero?"
+    a: "La del pastor que encontró una imagen de la Virgen en el río Guadalupe después de que su vaca muerta resucitara."
   - q: "¿Qué ver en Guadalupe?"
     a: "El Real Monasterio (basílica, claustro mudéjar, sacristía con cuadros de Zurbarán, museos y camarín de la Virgen), la Plaza de Santa María y el pueblo."
   - q: "¿Cuánto dura la visita al Monasterio de Guadalupe?"
@@ -65,6 +67,11 @@ Aquí está la Virgen de Guadalupe, patrona de Extremadura, y una de las mejores
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Colón y Guadalupe</h2></div>
 <p>Guadalupe está muy ligado a América. Cristóbal Colón vino a dar gracias a la Virgen tras su primer viaje, y según la tradición los primeros indígenas que trajo fueron <strong>bautizados en la fuente de la plaza</strong>. Por eso hay ciudades llamadas Guadalupe por toda América, y la Virgen de Guadalupe de México toma su nombre de esta.</p><div class="guide__legend"><h3>🎨 Ocho Zurbarán</h3><p>La <strong>sacristía</strong> del monasterio, llamada la «Capilla Sixtina extremeña», guarda ocho grandes cuadros de Zurbarán en su sitio original. Es lo más impresionante de la visita.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Del pastor Gil Cordero al monasterio real</h2></div>
+<p>Según la tradición, a finales del siglo XIII (otras versiones lo sitúan a comienzos del XIV) el pastor <strong>Gil Cordero</strong> encontró muerta una vaca junto al río Guadalupe. Al intentar desollarla, el animal revivió y una voz del cielo le indicó dónde estaba escondida una imagen de la Virgen. De allí nació la ermita.</p>
+<p>Hacia <strong>1335</strong>, el rey <strong>Alfonso XI</strong> conoció la devoción y el mal estado de la ermita, y la reconstruyó, y desde entonces el santuario recibió el título de «Real». El <strong>15 de agosto de 1389</strong> Juan I ordenó ampliarlo y convertirlo en monasterio, que gobernaron los <strong>monjes jerónimos</strong> hasta 1835. Fue declarado Monumento Nacional en 1879 y <strong>Patrimonio de la Humanidad por la UNESCO en 1993</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Guadalupe</h2><p>Del monasterio al pueblo.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

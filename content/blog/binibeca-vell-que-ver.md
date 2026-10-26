@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Binibeca Vell"
 faq:
+  - q: "¿Binibeca Vell es un pueblo de pescadores real?"
+    a: "No: es un conjunto residencial que se levantó desde 1964 imitando un pueblo de pescadores mediterráneo."
   - q: "¿Qué es Binibeca Vell?"
     a: "Un pueblo blanco que parece de pescadores, pero es una urbanización privada y habitada del sur de Menorca."
   - q: "¿Se puede visitar?"
@@ -42,6 +44,11 @@ Te cuento cuándo ir, cómo aparcar y cómo comportarte 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un pueblo blanco inventado</h2></div>
 <p>Binibeca Vell se construyó en el siglo XX como un <strong>pueblo de pescadores imaginado</strong>, con casas encaladas, arcos y pequeñas plazas. Hoy es uno de los lugares más visitados de Menorca. Junto al pueblo está <strong>Binibeca Nou</strong>, la urbanización de veraneo, que no es el casco antiguo.</p><div class="guide__legend"><h3>📸 Mi consejo</h3><p>Ve entre las 8:00 y las 10:00 si quieres fotos sin gente, o a las 18:00-20:00 para una luz cálida.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un pueblo de pescadores… que se inventó</h2></div>
+<p>Aunque lo parezca, Binibeca Vell <strong>no es un pueblo de pescadores de verdad</strong>. Es un conjunto de viviendas levantado a partir de <strong>1964</strong> (la comunidad de propietarios defiende esa fecha; algunas guías repiten 1972, pero parece un error) siguiendo el proyecto del arquitecto <strong>Francisco Juan Barba Corsini</strong>, que imitó el estilo de los pueblos costeros mediterráneos, con casas blancas, callejones estrechos y chimeneas pequeñas. Para algunos, su inspiración fueron las islas griegas.</p>
+<p>Pertenece al municipio de <strong>Sant Lluís</strong>, en el sur de Menorca. Es un lugar habitado por vecinos y visitantes que vienen a pasar el verano, así que conviene recorrerlo con respeto y sin hacer ruido.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Binibeca Vell: los imprescindibles</h2><p>Un par de horas entre callejones y mar.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

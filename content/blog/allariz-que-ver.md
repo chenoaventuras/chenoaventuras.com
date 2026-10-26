@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Allariz"
 faq:
+  - q: "¿Quién fundó el convento de Santa Clara de Allariz?"
+    a: "La reina Violante de Aragón, esposa de Alfonso X, en 1268."
   - q: "¿Qué ver en Allariz?"
     a: "El casco histórico, el puente medieval sobre el Arnoia, el Convento de Santa Clara, las iglesias de Santiago y San Pedro y el Parque Etnográfico."
   - q: "¿Cómo se llega desde Ourense?"
@@ -43,6 +45,11 @@ Te cuento qué ver, en qué orden y cómo combinarlo con Ourense 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una villa medieval a orillas del Arnoia</h2></div>
 <p>El casco antiguo de Allariz fue declarado <strong>Conjunto Histórico-Artístico en 1971</strong>, con calles empedradas, casas de piedra y restos de la muralla medieval (se ven en la Rúa Entrecercas y la Rúa Nova). Entre sus iglesias destacan la de <strong>Santiago</strong>, de origen románico, y la de <strong>San Pedro</strong>.</p><p>El <strong>Convento de Santa Clara</strong>, fundado por la reina Violante, esposa de Alfonso X el Sabio, tiene un claustro que una fuente describe como el claustro barroco más grande de España. Como es de clausura, solo se visita el museo de arte sacro y la iglesia.</p><div class="guide__legend"><h3>🌉 Mi consejo</h3><p>Camina por las <strong>sendas junto al río Arnoia</strong> y cruza el puente medieval: es la postal más conocida de Allariz.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Una villa real con rey sabio y reina clarisa</h2></div>
+<p>El nombre de <strong>Allariz</strong> se remonta, según el topónimo más repetido, a la época sueva, <em>Vila Aliaricii</em> (siglo VI). En <strong>1154</strong> Alfonso VII le dio fuero y la hizo <strong>Villa Real</strong>. El rey <strong>Alfonso X el Sabio</strong> pasó aquí largas temporadas de su infancia, y se cree que aprendió el gallego-portugués que luego usó en las <em>Cantigas</em>. Su esposa, la reina <strong>Violante de Aragón</strong>, fundó en <strong>1268</strong> el convento de clarisas, hoy Monasterio de Santa Clara, reconstruido en el siglo XVIII y con un gran claustro barroco.</p>
+<p>El castillo, que desapareció por la desamortización de Madoz en el siglo XIX, ya no se ve. En 1446 la villa pasó a los condes de Benavente. Su casco histórico es <strong>Conjunto Histórico-Artístico desde 1971</strong>, y recibió el Premio Europeo de Urbanismo en 1994 por la recuperación de su patrimonio.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Allariz: los imprescindibles</h2><p>Medio día entre piedra, río y museos.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

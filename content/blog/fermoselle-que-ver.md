@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Fermoselle"
 faq:
+  - q: "¿Cuántas bodegas hay en Fermoselle?"
+    a: "Se habla de más de mil, excavadas a mano en la roca."
   - q: "¿Qué ver en Fermoselle?"
     a: "Las bodegas subterráneas, el casco antiguo, la iglesia de la Asunción, el castillo de Doña Urraca y los miradores sobre los Arribes."
   - q: "¿Por qué es el pueblo de las mil bodegas?"
@@ -43,6 +45,11 @@ Te cuento qué ver, las bodegas y los miradores 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un pueblo agujereado</h2></div>
 <p>Bajo el casco urbano de Fermoselle hay <strong>cientos de bodegas subterráneas</strong> excavadas en la roca durante siglos: según las fuentes, más de 900 o incluso más de mil. Por eso se le llama «<strong>el pueblo de las mil bodegas</strong>». Algunas se pueden visitar con guía y catar el vino de la zona.</p><p>Además, Fermoselle acoge la <strong>Casa del Parque Natural de Arribes del Duero</strong>, un centro de interpretación sobre el parque.</p><div class="guide__legend"><h3>🌅 Mi consejo</h3><p>Sube a un mirador al atardecer: el del Torrejón, al final de la calle del Guapo, ofrece vistas de Fermoselle, los Arribes y Portugal.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Mil bodegas excavadas en la roca</h2></div>
+<p>Casi todo el casco antiguo de Fermoselle esconde bajo el suelo <strong>bodegas excavadas a mano</strong> en granito y gneis. Se habla de <strong>más de mil</strong>, algunas de hasta unos 6 metros de profundidad, con una temperatura constante de entre <strong>12 y 14 °C</strong> que favorece la fermentación y la crianza del vino. Hay un documento del <strong>siglo XIII</strong> que ya las menciona, aunque su origen exacto y su uso primitivo son todavía una conjetura; se citan incluso usos rituales en algunas.</p>
+<p>El vino local se hace con la uva <strong>Juan García</strong>, una variedad propia de la zona, y a veces con Bruñal. El casco histórico se declaró <strong>Conjunto Histórico-Artístico en 1974</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Fermoselle: los imprescindibles</h2><p>Medio día entre bodegas, calles y miradores.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

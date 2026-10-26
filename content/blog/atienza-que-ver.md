@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Atienza"
 faq:
+  - q: "¿Qué se celebra en La Caballada de Atienza?"
+    a: "El rescate, en 1162, del niño rey Alfonso VIII por los arrieros de Atienza; es el Domingo de Pentecostés."
   - q: "¿Qué ver en Atienza?"
     a: "El castillo, la Plaza del Trigo, el arco de Arrebatacapas, las iglesias románicas y la Casa del Cordón."
   - q: "¿Qué es La Caballada de Atienza?"
@@ -43,6 +45,11 @@ Te cuento qué ver, la historia de La Caballada y cómo organizarlo 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La Caballada de Atienza</h2></div>
 <p><strong>La Caballada</strong> es una fiesta de origen medieval, declarada de Interés Turístico Nacional, que se celebra el <strong>Domingo de Pentecostés</strong>. Conmemora la salida del rey niño Alfonso VIII en 1162: según el relato, los arrieros lograron burlar a las tropas que cercaban la villa. Los cofrades recorren el casco histórico a caballo hasta la ermita de la Estrella.</p><p>El <strong>castillo</strong> aparece en el <em>Cantar de Mío Cid</em> como «peña muy fuerte». Hoy son ruinas, pero conserva la <strong>torre del homenaje</strong>, el patio de armas y grandes aljibes tallados en la roca.</p><div class="guide__legend"><h3>🌅 Mi consejo</h3><p>Sube al <strong>castillo</strong> al atardecer: desde arriba se ven los tejados del pueblo y las lomas de la comarca con luz dorada.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La fiesta que recuerda a un niño rey</h2></div>
+<p><strong>La Caballada</strong> conmemora un episodio de <strong>1162</strong>: según la tradición, unos arrieros de Atienza ayudaron a rescatar al niño rey <strong>Alfonso VIII</strong> de las manos de su tío, Fernando II de León, que quería hacerse con el trono. La versión que cuentan algunos es que los arrieros engañaron a los soldados leoneses diciendo que iban de romería a la Virgen de la Estrella. Atienza, plaza fuerte con un castillo casi inexpugnable, fue refugio del rey.</p>
+<p>La fiesta se celebra el <strong>Domingo de Pentecostés</strong>, es de <strong>Interés Turístico Nacional</strong> y está declarada Bien de Interés Cultural inmaterial. El documento más antiguo que la menciona es de 1255, en tiempos de Alfonso X, y confirma otro de 1232.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Atienza: los imprescindibles</h2><p>Un día entre castillo, plazas e iglesias.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

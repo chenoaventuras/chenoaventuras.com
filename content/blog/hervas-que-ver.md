@@ -12,6 +12,8 @@ tags:
   - Extremadura
 wide: true
 faq:
+  - q: "¿Qué pasó con los judíos de Hervás en 1492?"
+    a: "Muchos marcharon a Portugal y otros se convirtieron al cristianismo tras el Edicto de Granada."
   - q: "¿Qué ver en Hervás?"
     a: "El barrio judío, la Travesía del Moral, la iglesia de Santa María, el puente sobre el río Ambroz y el Museo de la Moto Clásica."
   - q: "¿Cuál es la calle más estrecha de Hervás?"
@@ -61,6 +63,11 @@ Te cuento qué ver y qué rutas hacer por el Valle del Ambroz 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Casas pegadas para no ocupar sitio</h2></div>
 <p>El barrio judío de Hervás creció a partir del siglo XV junto al río Ambroz. Las casas se construyeron con <strong>adobe, piedra y entramado de madera de castaño</strong>, con los pisos de arriba volando sobre la calle para ganar espacio. Por eso hay calles tan estrechas que, en la <strong>Travesía del Moral</strong>, casi tocas las dos paredes con los brazos.</p><div class="guide__legend"><h3>🏍️ Un museo de motos</h3><p>Hervás tiene uno de los museos de motos y coches clásicos más grandes de España, con cientos de vehículos históricos. Un plan curioso si viajas con niños o si te gustan los motores.</p></div><div class="guide__legend"><h3>🎭 Los Conversos</h3><p>Cada verano, el pueblo celebra <strong>Los Conversos</strong>, una fiesta con teatro en la calle, mercado y comidas sefardíes que recuerda la historia de la comunidad judía.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>El barrio judío más bonito de Extremadura</h2></div>
+<p>La comunidad judía de Hervás se asentó en el barrio de la judería entre los siglos <strong>XIII y XV</strong> (las fuentes dan cronologías distintas) y vivió su mejor momento en el XV. No tuvo aljama propia, sino que dependió de la de Béjar. Tras el <strong>Edicto de Granada de 1492</strong>, muchas familias se marcharon a Portugal y otras se convirtieron al cristianismo, formando la cofradía católica de San Gervasio y San Protasio, que aún hoy se recuerda en la <strong>fiesta de los Conversos</strong>, en julio.</p>
+<p>El barrio, con sus casas de entramado de madera y sus calles empinadas, es <strong>Conjunto Histórico-Artístico desde 1969</strong>. Las cifras de población judía varían según la fuente (de unas 50 familias a unos 300 judíos), así que lo más prudente es hablar de una comunidad pequeña pero muy influyente en la vida del pueblo.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Hervás</h2><p>Un paseo por calles de cuento.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
