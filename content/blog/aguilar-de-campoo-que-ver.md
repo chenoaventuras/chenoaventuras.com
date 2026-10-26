@@ -12,6 +12,8 @@ tags:
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DWo64-nDPc5/'
 faq:
+  - q: "¿Quién creó las galletas Fontaneda?"
+    a: "El confitero burgalés Eugenio Fontaneda, que empezó a fabricarlas en Aguilar de Campoo en 1881."
   - q: "¿Dónde está Aguilar de Campoo?"
     a: "En el norte de Palencia, en plena Montaña Palentina y muy cerca de Cantabria: Reinosa queda a un paso."
   - q: "¿Cuánto tiempo hace falta para ver Aguilar de Campoo?"
@@ -81,6 +83,12 @@ Aguilar de Campoo lleva ligado a la fabricación de galletas desde hace generaci
 ## Para completar la escapada
 
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/maquina-leche-reinosa-cantabria.html">Reinosa</a>:</strong> la máquina de leche recién ordeñada, una parada curiosa (a menos de una hora en coche).</li><li><strong>Cervera de Pisuerga:</strong> puerta de la Montaña Palentina y del embalse de Compuerto, a unos 25 minutos.</li><li><strong><a href="/blog/barcena-mayor-que-ver.html">Bárcena Mayor</a>:</strong> el pueblo de piedra más puro de Cantabria (a poco más de una hora en coche).</li></ul>
+
+<!--enr-->
+## Por qué Aguilar huele a galleta
+
+<p>La fama galletera de Aguilar empezó en <strong>1881</strong>, cuando el confitero burgalés <strong>Eugenio Fontaneda</strong> empezó a hacer galletas y chocolates a mano en una casa de los soportales de la Plaza de España. Hacia 1920 compró un edificio cerca del castillo y allí fabricó de forma industrial la famosa <strong>galleta María</strong>. Llegaron a convivir en el pueblo cinco fábricas de galletas (Gullón, Ruvil, Fontaneda, Tefe y Fontibre), y todavía hoy el olor a galleta recién hecha se nota en algunas calles.</p>
+<p>La fábrica de Fontaneda cerró sus instalaciones en Aguilar en 2002, tras su paso por manos de varias multinacionales, y se demolió en 2014. Pero Aguilar no es solo galletas: su patrimonio religioso y su castillo vienen de la Edad Media y de ahí que el casco antiguo siga teniendo tanto encanto.</p>
 
 ## Cómo llegar y cuánto tiempo dedicarle
 

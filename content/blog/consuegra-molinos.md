@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre los molinos de Consuegra"
 faq:
+  - q: "¿Quién tuvo el castillo de Consuegra?"
+    a: "La Orden de San Juan de Jerusalén (hospitalarios), desde 1183."
   - q: "¿Cuántos molinos hay en Consuegra?"
     a: "En el cerro Calderico se conservan doce molinos de viento, cada uno con su propio nombre."
   - q: "¿Se pueden visitar los molinos por dentro?"
@@ -65,6 +67,11 @@ Te cuento qué ver, qué molinos se pueden visitar por dentro y cuándo ir para 
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Gigantes con nombre propio</h2></div>
 <p>En el cerro Calderico se conservan <strong>doce molinos</strong>, y cada uno tiene nombre: <strong>Bolero</strong>, Sancho, Rucio, Mambrino, Caballero del Verde Gabán… muchos inspirados en el Quijote. Algunos todavía conservan su maquinaria y se pueden visitar por dentro.</p><div class="guide__legend"><h3>🌸 La Fiesta de la Rosa del Azafrán</h3><p>A finales de octubre, Consuegra celebra la <strong>Fiesta de la Rosa del Azafrán</strong>, con concursos de monda de la flor y la molienda en los molinos. Es el mejor momento para ver uno en marcha.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un castillo hospitalario y doce gigantes de viento</h2></div>
+<p>Consuegra fue una plaza fuerte musulmana, a la que algunas fuentes remontan al siglo X, hasta que los cristianos la recuperaron en el siglo XII. En <strong>1183</strong> el castillo de la <strong>Muela</strong> y su territorio se entregaron a la <strong>Orden de San Juan de Jerusalén</strong>, que hizo de Consuegra la capital de su priorato en La Mancha. Cerca de aquí, en <strong>1097</strong>, se libró una batalla contra los almorávides en la que murió el hijo del Cid, Diego Rodríguez.</p>
+<p>Los <strong>doce molinos</strong> del cerro Calderico se construyeron sobre todo entre los siglos <strong>XVI y XIX</strong>: en una tierra de cereal y sin grandes ríos, el viento era la mejor fuerza para moler el grano. Cervantes los hizo famosos en el <em>Quijote</em>. Tras la desamortización del siglo XIX el castillo cayó en el abandono y no se rehabilitó hasta una reforma que empezó en 1985.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Consuegra</h2><p>Molinos, castillo y vistas infinitas.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

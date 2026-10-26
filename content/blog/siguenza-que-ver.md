@@ -12,6 +12,8 @@ tags:
   - Castilla-La Mancha
 wide: true
 faq:
+  - q: "¿Quién es el Doncel de Sigüenza?"
+    a: "Martín Vázquez de Arce, cuyo sepulcro gótico está en la capilla de los Arce de la catedral."
   - q: "¿Qué ver en Sigüenza?"
     a: "La catedral con el sepulcro del Doncel, el castillo-parador, la Plaza Mayor, la calle Mayor y, en los alrededores, el Barranco del río Dulce."
   - q: "¿Qué es el Doncel de Sigüenza?"
@@ -60,6 +62,11 @@ Te cuento qué ver y cómo combinar historia y naturaleza 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>El Doncel que lee para siempre</h2></div>
 <p>En la catedral está el sepulcro de <strong>Martín Vázquez de Arce, el Doncel</strong>, un joven caballero que murió en la guerra de Granada en 1486. Su escultura de alabastro no está tumbada como suele ser habitual: aparece <strong>recostado, leyendo un libro</strong>, con un gesto tan sereno y moderno que es una de las obras más famosas del gótico español.</p><div class="guide__legend"><h3>🏰 Dormir en un castillo</h3><p>El <strong>castillo</strong> de Sigüenza, antigua fortaleza de los obispos, es hoy un <strong>Parador</strong>. Aunque no te alojes, puedes entrar a su patio y a la cafetería.</p></div><div class="guide__legend"><h3>🦅 El barranco de Félix</h3><p>En el <strong>Barranco del río Dulce</strong>, cerca de Pelegrina, Félix Rodríguez de la Fuente rodó escenas de sus documentales. Hay un mirador con su nombre sobre el cañón.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Una ciudad de obispos y piedra</h2></div>
+<p><strong>Sigüenza</strong> fue reconquistada por el obispo <strong>Bernardo de Agén</strong> en <strong>1124</strong> (las fuentes dan 1123-1124), y a partir de entonces creció alrededor de la <strong>catedral</strong>, que se empezó como una iglesia-fortaleza románica y se terminó siglos después, ya con elementos góticos y renacentistas. Los obispos fueron también señores de la ciudad y fortificaron el castillo, que hoy es parador.</p>
+<p>En la catedral, la <strong>capilla de los Arce</strong> guarda el famoso <strong>Doncel de Sigüenza</strong>, el sepulcro de Martín Vázquez de Arce, una obra maestra del gótico final de finales del siglo XV. En la Guerra Civil la ciudad sufrió bombardeos y la catedral quedó muy dañada: se reconstruyó en los años cuarenta.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Sigüenza</h2><p>De la catedral al cañón del río Dulce.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

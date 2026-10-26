@@ -13,6 +13,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Betancuria"
 faq:
+  - q: "¿Quién fundó Betancuria?"
+    a: "El normando Jean de Béthencourt, en 1404."
   - q: "¿Qué ver en Betancuria?"
     a: "La iglesia de Santa María, el Museo Arqueológico, las calles del pueblo, el mirador de Morro Velosa y la Vega de Río Palmas."
   - q: "¿Está abierto el mirador de Morro Velosa?"
@@ -42,6 +44,11 @@ Te cuento qué ver, el estado del mirador y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La primera capital de la isla</h2></div>
 <p>Betancuria fue la <strong>antigua capital de Fuerteventura</strong>. La <strong>Iglesia de Santa María</strong> es el templo más antiguo de la isla; el edificio actual es una reconstrucción porque los piratas destruyeron el original varias veces. Dentro hay un retablo barroco y un techo mudéjar, y el suelo está hecho de antiguos enterramientos.</p><div class="guide__legend"><h3>🌄 Mi consejo</h3><p>Sube al <strong>mirador de Morro Velosa</strong> (aunque el edificio esté cerrado, se ven las vistas) y baja después a pasear por el pueblo con calma.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La capital de Fuerteventura durante más de cuatro siglos</h2></div>
+<p><strong>Betancuria</strong> la fundó en <strong>1404</strong> el normando <strong>Jean de Béthencourt</strong>, que había llegado con Gadifer de la Salle a conquistar las islas, y se llevó el nombre de su fundador. Se eligió un valle escondido entre montañas, lejos de la costa, para protegerse de los ataques de piratas. Fue capital de la isla durante siglos, hasta 1834 según la fuente más repetida (otras dicen 1836 o 1860).</p>
+<p>Los piratas igualmente la alcanzaron: la <strong>iglesia de Santa María</strong>, gótico-normanda, fue atacada por Xabán Arráez y casi destruida, y de ella solo se conserva parte del campanario. En <strong>1620</strong> los vecinos reconstruyeron la actual iglesia de tres naves. Hoy, con unos pocos cientos de habitantes, es uno de los pueblos más antiguos de Canarias.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Betancuria: los imprescindibles</h2><p>Medio día entre montaña y casas blancas.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

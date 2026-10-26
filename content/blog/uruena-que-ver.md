@@ -12,6 +12,8 @@ tags:
   - Castilla y León
 wide: true
 faq:
+  - q: "¿Por qué Urueña es Villa del Libro?"
+    a: "Porque desde 2007 fue la primera villa del libro de España, con librerías, museos y exposiciones dedicados a los libros."
   - q: "¿Por qué Urueña es la Villa del Libro?"
     a: "Porque en 2007 se convirtió en la primera Villa del Libro de España, con librerías, talleres y un centro dedicado a la lectura."
   - q: "¿Cuántas librerías hay en Urueña?"
@@ -51,6 +53,11 @@ Además, desde su muralla tienes una de las vistas más amplias de Tierra de Cam
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La primera Villa del Libro de España</h2></div>
 <p>En 2007, la Diputación de Valladolid convirtió Urueña en la <strong>primera Villa del Libro</strong> de España, siguiendo el modelo de pueblos como Hay-on-Wye, en Gales. Desde entonces se han instalado librerías, talleres de encuadernación y caligrafía y el <strong>Centro e-LEA Miguel Delibes</strong>, dedicado a la lectura.</p><div class="guide__legend"><h3>🔔 Museos sorprendentes</h3><p>Para un pueblo tan pequeño, Urueña tiene varios museos: el de la <strong>Fundación Joaquín Díaz</strong> (etnografía y música tradicional), un <strong>Museo de las Campanas</strong> y otro de instrumentos musicales.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>De fortaleza fronteriza a villa del libro</h2></div>
+<p>Urueña estuvo habitada desde época vaccea y romana, y su castillo, según las fuentes, es del siglo <strong>XI</strong>. Las <strong>murallas</strong>, de mampostería con cubos semicirculares, son de los siglos XII y XIII, y se conservan en buena parte (se habla de un 80 %). El casco antiguo es <strong>Conjunto Histórico-Artístico desde 1975</strong>.</p>
+<p>Su gran cambio llegó el <strong>15 de marzo de 2007</strong>, cuando se convirtió en la primera <strong>Villa del Libro</strong> de España, un proyecto de turismo cultural que llenó el pueblo de librerías, un museo del origen de la escritura y colecciones como la de campanas. Es un caso raro de pueblo pequeño que se ha reinventado sin perder su aspecto medieval.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Urueña</h2><p>Libros, muralla y horizonte.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

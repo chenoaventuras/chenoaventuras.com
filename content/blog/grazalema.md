@@ -12,6 +12,8 @@ tags:
   - Andalucía
 wide: true
 faq:
+  - q: "¿Cuándo es parque natural Grazalema?"
+    a: "Desde 1984, el primero de Andalucía."
   - q: "¿Cuál es el pueblo donde más llueve de Andalucía?"
     a: "Grazalema, con casi 2.000 litros por metro cuadrado de media al año."
   - q: "¿Por qué llueve tanto en Grazalema?"
@@ -62,6 +64,11 @@ Te cuento por qué llueve tanto, el bosque «de la época del hielo» que escond
 
 <div class="guide__head"><span class="eyebrow">El récord</span><h2>Por qué llueve tanto</h2></div>
 <p>Las nubes que llegan del <strong>Atlántico</strong> chocan contra la sierra, suben, se enfrían y descargan toda el agua aquí. El resultado: unos <strong>1.960 mm</strong> de lluvia media al año, una cifra rarísima en clima mediterráneo.</p><div class="guide__legend"><h3>🌲 El Pinsapar</h3><p>Gracias a tanta humedad sobrevive aquí el <strong>pinsapo</strong>, un abeto que quedó «atrapado» en estas sierras desde las glaciaciones. Solo crece en unas pocas montañas de Andalucía y Marruecos.</p></div><div class="guide__legend"><h3>🧶 Las mantas de Grazalema</h3><p>El pueblo es famoso por sus <strong>mantas de lana</strong>, tejidas en telares desde hace siglos. Aún se pueden comprar en el pueblo.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La naturaleza</span><h2>El primer parque natural de Andalucía</h2></div>
+<p>La <strong>Sierra de Grazalema</strong> fue el <strong>primer parque natural declarado en Andalucía, en 1984</strong>, y es también Reserva de la Biosfera. Su joya es el <strong>pinsapar</strong>, un bosque de pinsapo (<em>Abies pinsapo</em>), un abeto <strong>relicto</strong> de épocas más frías que sobrevivió aquí, en las zonas más húmedas, cuando el clima cambió.</p>
+<p>Las nubes cargadas de humedad del Atlántico chocan contra la sierra y descargan una enorme cantidad de lluvia: los puntos más lluviosos del parque rondan los <strong>2.000-2.200 litros por metro cuadrado</strong> al año, de ahí su fama. Por eso, en el pinsapar solo se puede entrar con permiso y en grupos limitados.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Grazalema</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

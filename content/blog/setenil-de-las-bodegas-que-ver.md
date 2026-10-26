@@ -12,6 +12,8 @@ tags:
   - Andalucía
 wide: true
 faq:
+  - q: "¿Cuándo se conquistó Setenil?"
+    a: "El 21 de septiembre de 1484, por los Reyes Católicos."
   - q: "¿Setenil de las Bodegas es de Cádiz o de Málaga?"
     a: "Es de la provincia de Cádiz, aunque está justo en el límite con Málaga y muy cerca de Ronda."
   - q: "¿Cuánto tiempo se necesita para ver Setenil?"
@@ -54,6 +56,11 @@ Te cuento qué ver, el origen de su curioso nombre y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>¿Por qué se llama Setenil de las Bodegas?</h2></div>
 <p>Cuenta la leyenda que los cristianos intentaron conquistar la fortaleza musulmana <strong>siete veces sin conseguirlo</strong>, y de ahí vendría el nombre: <em>«septem nihil»</em>, «siete veces nada». Al final cayó en <strong>1484</strong>, en manos de los Reyes Católicos.</p><p>Lo de «de las Bodegas» es más fácil: tras la conquista se llenó todo de viñedos y las cuevas bajo la roca se usaron como <strong>bodegas</strong> para guardar el vino.</p><div class="guide__legend"><h3>🏠 Casas-cueva de verdad</h3><p>Las casas bajo la roca no son un decorado: son viviendas, bares y tiendas donde la gente vive y trabaja. La roca mantiene una temperatura muy agradable tanto en verano como en invierno.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Un pueblo que resistió siete asedios</h2></div>
+<p>Setenil fue una de las plazas más difíciles de conquistar para Castilla. Se intentó tomar varias veces desde comienzos del siglo XV (un asedio fallido de 1407 duró unos 20 días) y por fin cayó ante los <strong>Reyes Católicos</strong> el <strong>21 de septiembre de 1484</strong>, tras un largo asedio. Su caída fue clave porque abrió el camino hacia Ronda, que cayó un año después. El torreón del castillo es de época almohade (siglos XII-XIII).</p>
+<p>Las casas bajo la roca no se excavaron a mano: los vecinos se limitaron a <strong>cerrar con muros los abrigos naturales</strong> que el río fue abriendo en la roca. El nombre tiene una explicación popular, el latín <em>septem nihil</em> («siete veces nada», por los asedios fallidos), pero lo más probable es que venga de su antiguo nombre árabe.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Setenil de las Bodegas</h2><p>Los rincones que no te puedes perder.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

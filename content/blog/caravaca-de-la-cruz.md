@@ -12,6 +12,8 @@ tags:
   - Región de Murcia
 wide: true
 faq:
+  - q: "¿Cuál es la leyenda de la Cruz de Caravaca?"
+    a: "Que dos ángeles trajeron una cruz de dos brazos al altar donde el sacerdote Ginés Pérez de Chirinos iba a decir misa ante el gobernador musulmán, que se convirtió."
   - q: "¿Qué ver en Caravaca de la Cruz?"
     a: "El castillo con la Basílica de la Vera Cruz, el casco antiguo, la iglesia del Salvador, el museo de los Caballos del Vino, la plaza de toros y las Fuentes del Marqués."
   - q: "¿Cuándo es la fiesta de los Caballos del Vino?"
@@ -61,6 +63,11 @@ Te cuento qué ver y cuándo ir 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una ciudad santa con Año Jubilar</h2></div>
 <p>En la basílica se guarda un relicario con un fragmento que, según la tradición, pertenece a la cruz de Cristo (el <strong>lignum crucis</strong>), y que apareció en la ciudad en el siglo XIII. Por eso Caravaca es una de las <strong>ciudades santas</strong> que celebran <strong>Año Jubilar</strong>, que aquí se repite cada siete años y atrae a peregrinos de todo el mundo.</p><div class="guide__legend"><h3>🐎 Los Caballos del Vino</h3><p>Cada 2 de mayo, caballos cubiertos con mantos bordados a mano suben la cuesta del castillo a la carrera, acompañados de cuatro corredores que no pueden soltarlos. Según la leyenda, recuerda a los caballeros que rompieron un asedio para llevar vino al castillo. La fiesta es <strong>Patrimonio Cultural Inmaterial de la Humanidad</strong>.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La leyenda</span><h2>El milagro de la Cruz de dos brazos</h2></div>
+<p>Según la tradición, el milagro ocurrió a comienzos del siglo XIII, cuando Caravaca estaba en manos del reino musulmán. El gobernador <strong>Zeyt Abuzeyt</strong> tenía preso al sacerdote <strong>Ginés Pérez de Chirinos</strong> y le pidió que le explicara una misa. Al preparar el altar, el cura notó que faltaba un crucifijo, y entonces dos ángeles trajeron una cruz de dos brazos. El gobernador y parte de su corte se habrían convertido al verlo. La fecha más repetida es el <strong>3 de mayo de 1232</strong>, aunque otras fuentes dan 1231 o 1227.</p>
+<p>Los historiadores han puesto en duda parte del relato, pero la devoción es real y antigua: la reliquia fue custodiada durante siglos por las órdenes militares del <strong>Temple</strong> y de <strong>Santiago</strong>, y se robó en 1934 (la fecha exacta varía según la fuente). Hoy la <strong>Cruz de Caravaca</strong> es uno de los símbolos más conocidos de la cristiandad y la ciudad celebra Años Jubilares.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Caravaca de la Cruz</h2><p>Del castillo a la plaza.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
