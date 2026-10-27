@@ -2616,3 +2616,6 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
   .svdron__view { margin-top: 40px; }
   .svdron__drone { right: 2%; width: 38%; }
 }
+
+/* Servicios: título «Con quién he colaborado» más grande */
+.title--xl { font-size: clamp(2.3rem, 6vw, 4.2rem); line-height: 1.02; margin-bottom: clamp(18px, 3vw, 30px); }
