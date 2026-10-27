@@ -2492,7 +2492,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .svnote { font-size: .85rem; color: var(--ink-soft); margin-top: 18px; }
 
 /* trabajos: reels en vertical */
-.svwork { display: grid; grid-template-columns: repeat(6, 1fr); gap: 14px; margin-top: clamp(22px, 3vw, 34px); }
+.svwork { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-top: clamp(22px, 3vw, 34px); }
 .svwork__item { position: relative; display: block; border-radius: 16px; overflow: hidden; aspect-ratio: 9 / 16; box-shadow: var(--shadow-md); text-decoration: none; isolation: isolate; }
 .svwork__item img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; transition: transform .5s ease; }
 .svwork__item::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(0deg, rgba(10,22,40,.88) 0%, rgba(10,22,40,.2) 45%, rgba(10,22,40,0) 70%); }
@@ -2526,7 +2526,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .svfinal .lead { color: rgba(255,255,255,.86); margin-bottom: 24px; }
 
 @media (max-width: 1000px) {
-  .svwork { grid-template-columns: repeat(3, 1fr); }
+  .svwork { grid-template-columns: repeat(2, 1fr); }
   .svinc, .svsteps { grid-template-columns: repeat(2, 1fr); }
   /* en 2x2 solo hay flecha de 1 a 2 y de 3 a 4 */
   .svsteps li:nth-child(2)::after { display: none; }
@@ -2616,3 +2616,85 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
   .svdron__view { margin-top: 40px; }
   .svdron__drone { right: 2%; width: 38%; }
 }
+
+
+/* =========================================================================
+   Servicios · PREVIEW de estilos (solo fondos, cuadros y adornos; la tipografía no cambia)
+   ========================================================================= */
+.svswitch { position: fixed; z-index: 90; left: 50%; bottom: 14px; transform: translateX(-50%); display: flex; gap: 6px; padding: 6px; background: rgba(20,30,50,.92); border-radius: 99px; box-shadow: 0 8px 28px rgba(0,0,0,.35); }
+.svswitch a { color: #fff; text-decoration: none; font: 600 .8rem/1 var(--font-head); padding: 9px 13px; border-radius: 99px; white-space: nowrap; }
+.svswitch a.on { background: var(--gold); color: var(--ink); }
+
+/* ---------- Estilo 1 · Cuaderno de viaje (papel, cinta, polaroids) ---------- */
+main.sv1.fondo-acuarela { background: #f6edd8; background-image: radial-gradient(rgba(150,115,60,.17) 1.3px, transparent 1.4px); background-size: 24px 24px; }
+.sv1 .svband { background: #ecdbb4; border-block: 2px dashed #b8955a; }
+.sv1 .placecard, .sv1 .svinc__item, .sv1 .svsteps li, .sv1 .svdron__list li, .sv1 .svads__list li, .sv1 .svads__col, .sv1 .svbrands {
+  background: #fffdf5; border: 2px dashed #c2a266; border-radius: 8px; box-shadow: 5px 6px 0 rgba(120,90,40,.2); }
+.sv1 .svinc__item, .sv1 .svsteps li { position: relative; border-top-width: 2px; }
+.sv1 .svinc__item { border-top-color: #c2a266 !important; }
+.sv1 .svinc__item::before, .sv1 .svsteps li::before, .sv1 .svwho .placecard::before { content: ""; position: absolute; top: -13px; left: 50%; width: 92px; height: 26px; background: rgba(246,201,69,.62); transform: translateX(-50%) rotate(-3deg); box-shadow: 0 1px 3px rgba(0,0,0,.12); z-index: 4; }
+.sv1 .svinc__item:nth-child(even)::before, .sv1 .svsteps li:nth-child(even)::before, .sv1 .svwho .placecard:nth-child(even)::before { background: rgba(155,171,104,.62); transform: translateX(-50%) rotate(4deg); }
+.sv1 .svinc__item:nth-child(odd), .sv1 .svsteps li:nth-child(odd) { transform: rotate(-.8deg); }
+.sv1 .svinc__item:nth-child(even), .sv1 .svsteps li:nth-child(even) { transform: rotate(.9deg); }
+.sv1 .svwho .placecard { border: 9px solid #fff; border-bottom-width: 12px; border-style: solid; border-radius: 4px; box-shadow: 4px 8px 18px rgba(80,60,30,.28); }
+.sv1 .svwho .placecard:nth-child(odd) { transform: rotate(-1.6deg); }
+.sv1 .svwho .placecard:nth-child(even) { transform: rotate(1.4deg); }
+.sv1 .svwork__item { border: 8px solid #fff; border-radius: 4px; box-shadow: 4px 9px 18px rgba(80,60,30,.3); }
+.sv1 .svwork__item:nth-child(odd) { transform: rotate(-1.4deg); }
+.sv1 .svwork__item:nth-child(even) { transform: rotate(1.2deg); }
+.sv1 .svsteps li:not(:last-child)::after { background: #c2a266; color: #fff; }
+.sv1 .svsteps__n { color: #ead8b0; }
+.sv1 .svads__col--good { border: 2px solid #77854f; }
+.sv1 .svfinal { border: 8px solid #fff; border-radius: 6px; transform: rotate(-.5deg); box-shadow: 5px 10px 24px rgba(80,60,30,.32); }
+
+/* ---------- Estilo 2 · Pop de colores (bloques vivos, bordes y sombras duras) ---------- */
+main.sv2.fondo-acuarela { background: #fff1cf; }
+.sv2 > section.section { position: relative; }
+.sv2 > section:nth-of-type(3) { background: #a5c26a; border-block: 3px solid #1b1b18; }
+.sv2 > section:nth-of-type(4) { background: #f6c945; border-block: 3px solid #1b1b18; }
+.sv2 > section:nth-of-type(5) { background: #274c78; border-block: 3px solid #1b1b18; }
+.sv2 > section:nth-of-type(6) { background: #ff9f8f; border-block: 3px solid #1b1b18; }
+.sv2 > section:nth-of-type(7) { background: #86d4da; border-block: 3px solid #1b1b18; }
+.sv2 > section:nth-of-type(8) { background: #fff1cf; }
+.sv2 > section:nth-of-type(5) .eyebrow, .sv2 > section:nth-of-type(5) .title, .sv2 > section:nth-of-type(5) .lead { color: #fff; }
+.sv2 > section:nth-of-type(5) .title .accent { background-image: linear-gradient(90deg, #f8d878, #ff9f8f, #86d4da, #f8d878); }
+.sv2 .svband { border-inline: 0; }
+.sv2 .placecard, .sv2 .svinc__item, .sv2 .svsteps li, .sv2 .svdron__list li, .sv2 .svads__list li, .sv2 .svads__col, .sv2 .svbrands, .sv2 .svwork__item {
+  background: #fff; border: 3px solid #1b1b18; border-radius: 18px; box-shadow: 7px 7px 0 #1b1b18; transition: transform .18s, box-shadow .18s; }
+.sv2 .svinc__item { border-top: 3px solid #1b1b18 !important; }
+.sv2 .svwork__item { background: #1b1b18; }
+.sv2 .placecard:hover, .sv2 .svinc__item:hover, .sv2 .svsteps li:hover, .sv2 .svwork__item:hover { transform: translate(-3px,-3px); box-shadow: 10px 10px 0 #1b1b18; }
+.sv2 .svsteps__n { color: #ffe3dd; -webkit-text-stroke: 2px #1b1b18; }
+.sv2 .svsteps li:not(:last-child)::after { background: #f6c945; border: 3px solid #1b1b18; color: #1b1b18; }
+.sv2 .svbrands { background: #fff; }
+.sv2 .svads__col--bad { background: #ffd9d2; } .sv2 .svads__col--good { background: #dff2b9; border: 3px solid #1b1b18; }
+.sv2 .svdron__shot { border: 3px solid #1b1b18; box-shadow: 8px 8px 0 #1b1b18; }
+.sv2 .svads__phone { box-shadow: 9px 9px 0 #1b1b18; }
+.sv2 .svfinal { border: 3px solid #1b1b18; box-shadow: 9px 9px 0 #1b1b18; border-radius: 22px; }
+.sv2 .svnote { color: #1b1b18; }
+
+/* ---------- Estilo 3 · Costa (mar, olas, cristal y arena) ---------- */
+main.sv3.fondo-acuarela { background: linear-gradient(180deg, #e8f7f6 0%, #cdeef0 38%, #f8efd6 100%); }
+.sv3 .svband { background: linear-gradient(180deg, #1f8aa0 0%, #176f8c 100%); border: 0; position: relative; }
+.sv3 > section:nth-of-type(6) { background: linear-gradient(180deg, #f6e5b8, #f1d796); }
+.sv3 > section:nth-of-type(7) { background: linear-gradient(180deg, #17607f 0%, #143f66 100%); }
+.sv3 .svband::before { content: ""; position: absolute; left: 0; right: 0; top: -1px; height: 30px; background: #e8f7f6; -webkit-mask: radial-gradient(circle at 25px -4px, transparent 26px, #000 27px) 0 0 / 50px 30px repeat-x; mask: radial-gradient(circle at 25px -4px, transparent 26px, #000 27px) 0 0 / 50px 30px repeat-x; }
+.sv3 > section:nth-of-type(4)::before { background: #cdeef0; }
+.sv3 > section:nth-of-type(6)::before { background: #cdeef0; }
+.sv3 > section:nth-of-type(7)::before { background: #f1d796; }
+.sv3 > section:nth-of-type(4) .eyebrow, .sv3 > section:nth-of-type(4) .title, .sv3 > section:nth-of-type(4) .lead, .sv3 > section:nth-of-type(4) .svnote,
+.sv3 > section:nth-of-type(7) .eyebrow, .sv3 > section:nth-of-type(7) .title, .sv3 > section:nth-of-type(7) .lead { color: #fff; }
+.sv3 > section:nth-of-type(4) .title .accent, .sv3 > section:nth-of-type(7) .title .accent { background-image: linear-gradient(90deg, #f8d878, #9ee3e8, #fff, #f8d878); }
+.sv3 .placecard, .sv3 .svinc__item, .sv3 .svsteps li, .sv3 .svdron__list li, .sv3 .svads__list li, .sv3 .svads__col, .sv3 .svbrands {
+  background: rgba(255,255,255,.78); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,.95); border-radius: 24px; box-shadow: 0 12px 34px rgba(20,70,100,.16); }
+.sv3 .svinc__item { border-top: 1px solid rgba(255,255,255,.95) !important; }
+.sv3 .svwork__item { border-radius: 24px; box-shadow: 0 16px 38px rgba(20,70,100,.28); }
+.sv3 .svsteps__n { color: #bfe3e6; }
+.sv3 .svsteps li:not(:last-child)::after { background: #1f8aa0; color: #fff; }
+.sv3 .svads__col--bad { background: rgba(255,225,215,.8); } .sv3 .svads__col--good { background: rgba(228,247,219,.9); border: 2px solid #7fc4a0; }
+.sv3 .svdron__list li > span, .sv3 .svads__list li > span { background: #e1f4f5; }
+.sv3 .svfinal { border-radius: 30px; }
+.sv2 > section:nth-of-type(3) .title .accent { background-image: linear-gradient(90deg, #1b1b18, #274c78); }
+.sv2 > section:nth-of-type(4) .title .accent { background-image: linear-gradient(90deg, #274c78, #a8321f); }
+.sv2 > section:nth-of-type(6) .title .accent, .sv2 > section:nth-of-type(7) .title .accent { background-image: linear-gradient(90deg, #274c78, #1b1b18); }
+.sv3 > section:nth-of-type(6) .title .accent { background-image: linear-gradient(90deg, #176f8c, #274c78); }
