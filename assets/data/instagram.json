@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-26T13:44:04.461Z",
+  "updated": "2026-10-27T12:52:06.522Z",
   "posts": [
+    {
+      "permalink": "https://www.instagram.com/reel/De-JiMsj3V2/",
+      "image": "assets/img/instagram/17955536862038296.webp",
+      "caption": "La cueva de las brujas de Navarra 🧙‍♀️ 🕯️ Durante siglos se dijo que en las cuevas de Zugarramurdi, junto a la frontera con Francia, las brujas celebraban sus",
+      "type": "REEL",
+      "timestamp": "2026-10-26T20:33:30+0000",
+      "thumb": "assets/img/instagram/17955536862038296-640.webp",
+      "home": false
+    },
     {
       "permalink": "https://www.instagram.com/reel/DexAY3rx7en/",
       "image": "assets/img/instagram/18648074650063840.webp",
@@ -17,8 +26,8 @@
       "type": "REEL",
       "timestamp": "2026-10-09T09:39:16+0000",
       "thumb": "assets/img/instagram/18284392981294728-640.webp",
-      "pos": "50% 22%",
-      "home": true
+      "home": true,
+      "pos": "50% 22%"
     },
     {
       "permalink": "https://www.instagram.com/reel/DePi4NbR66I/",
@@ -1018,15 +1027,6 @@
       "type": "REEL",
       "timestamp": "2025-02-23T19:49:25+0000",
       "thumb": "assets/img/instagram/17940651440967325-640.webp",
-      "home": false
-    },
-    {
-      "permalink": "https://www.instagram.com/reel/DGFrRlJohYT/",
-      "image": "assets/img/instagram/18060235126797063.webp",
-      "caption": "Toda la info 🐳⬇️ 🔐 ¡Guarda este Reel y compártelo con quien la harías! 📍 Ubicación: Costa Adeje, Tenerife Se trata de una actividad que encontré a través de ",
-      "type": "REEL",
-      "timestamp": "2025-02-15T09:37:50+0000",
-      "thumb": "assets/img/instagram/18060235126797063-640.webp",
       "home": false
     }
   ]
