@@ -2619,3 +2619,65 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Servicios: título «Con quién he colaborado» más grande */
 .title--xl { font-size: clamp(2.3rem, 6vw, 4.2rem); line-height: 1.02; margin-bottom: clamp(18px, 3vw, 30px); }
+
+/* Servicios: primera sección más compacta */
+.svhero { padding-block: clamp(2px, .8vw, 8px) 0; }
+.svhero .lead { margin-bottom: 0; }
+.svhero + .section { padding-top: clamp(14px, 2vw, 24px); }
+
+/* Servicios: sección Meta dentro de una ventana de navegador (panel de anuncios) */
+.mwin { --w-bg:#f0f2f5; --w-bar:#dfe3e8; --w-side:#fff; --w-line:rgba(20,30,50,.12); --w-ink:#1c2b33; --w-mute:#65676b;
+  border-radius: 16px; overflow: hidden; background: var(--w-bg); border: 1px solid var(--w-line); box-shadow: 0 30px 70px rgba(20,40,70,.22); }
+.mwin__bar { display: flex; align-items: center; gap: 14px; padding: 10px 14px; background: var(--w-bar); border-bottom: 1px solid var(--w-line); font: 500 .76rem/1 var(--font-body); color: var(--w-mute); }
+.mwin__dots { display: flex; gap: 6px; }
+.mwin__dots i { width: 11px; height: 11px; border-radius: 50%; background: #ff5f57; }
+.mwin__dots i:nth-child(2) { background: #febc2e; }
+.mwin__dots i:nth-child(3) { background: #28c840; }
+.mwin__tab { background: var(--w-bg); color: var(--w-ink); padding: 8px 14px; border-radius: 9px 9px 0 0; margin-bottom: -10px; padding-bottom: 14px; font-weight: 600; white-space: nowrap; }
+.mwin__url { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; background: rgba(255,255,255,.7); border-radius: 99px; padding: 7px 14px; }
+.mwin__body { display: grid; grid-template-columns: 78px minmax(0, 1fr); }
+.mwin__side { position: relative; display: flex; flex-direction: column; gap: 4px; padding: 14px 8px; background: var(--w-side); border-right: 1px solid var(--w-line); }
+.mwin__side button { display: flex; border: 0; background: none; cursor: pointer; font-family: inherit; flex-direction: column; align-items: center; gap: 3px; padding: 9px 2px; border-radius: 10px; font-size: 1.15rem; color: var(--w-mute); }
+.mwin__side small { font: 600 .62rem/1.1 var(--font-body); }
+.mwin__side button:hover { background: rgba(60,106,163,.08); }
+.mwin__side .on { background: rgba(60,106,163,.14); color: var(--teal); }
+.mwin__main { padding: clamp(16px, 3vw, 34px); min-width: 0; }
+.mwin__crumbs { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: clamp(14px, 2vw, 22px); font: 600 .78rem/1 var(--font-body); color: var(--w-mute); }
+.mwin__crumbs .on { color: var(--w-ink); }
+.mwin__crumbs em { margin-left: auto; font-style: normal; color: #1a8d4a; background: rgba(40,200,100,.14); padding: 6px 11px; border-radius: 99px; }
+.mwin .svads__vs { margin-top: clamp(22px, 3vw, 34px); }
+.mwin .svads__list li { box-shadow: none; border: 1px solid var(--w-line); background: #fff; }
+.mwin .svads__phone { transform: none; }
+.mwin__main .svads__text .title { margin-bottom: 14px; }
+
+}
+
+.mwin__pane[hidden] { display: none; }
+.mwin__pane.is-on { animation: mwin-in .3s ease; }
+@keyframes mwin-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.mwin__title { margin: 8px 0 10px; }
+.mwin__pane > .lead { max-width: 640px; }
+.mwin__cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 14px; margin-top: 22px; }
+.mwin__card { background: #fff; border: 1px solid var(--w-line); border-radius: 16px; padding: 18px 18px 20px; }
+.mwin__card span { display: grid; place-items: center; width: 46px; height: 46px; font-size: 1.5rem; background: var(--w-bg); border-radius: 12px; }
+.mwin__card b { display: block; margin-top: 12px; font: 700 1rem/1.25 var(--font-head); color: var(--night); }
+.mwin__card p { margin: 6px 0 0; font-size: .9rem; line-height: 1.5; color: var(--ink-soft); }
+
+/* en móvil se queda como antes: sin ventana de navegador, solo el anuncio */
+@media (max-width: 760px) {
+  .mwin { background: none; border: 0; box-shadow: none; border-radius: 0; overflow: visible; }
+  .mwin__bar, .mwin__side, .mwin__crumbs { display: none; }
+  .mwin__body { display: block; }
+  .mwin__main { padding: 0; }
+  .mwin__pane[hidden], .mwin__pane:not([data-p="anuncios"]) { display: none; }
+  .mwin__pane[data-p="anuncios"] { display: block; }
+  .mwin .svads__list li { border: 0; box-shadow: var(--shadow-sm); background: rgba(255,255,255,.75); }
+  .mwin .svads__phone { transform: rotate(3deg); }
+}
+
+/* flecha de ratón que sube y baja por el menú para invitar a pulsar */
+.mwin__cursor { position: absolute; left: 44px; top: 24px; z-index: 3; pointer-events: none; filter: drop-shadow(0 3px 5px rgba(20,30,50,.35)); animation: mwin-cursor 4.5s ease-in-out infinite; transition: opacity .25s ease; }
+@keyframes mwin-cursor { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(230px); } }
+.mwin__side:hover .mwin__cursor, .mwin--tocado .mwin__cursor { opacity: 0; animation-play-state: paused; }
+@media (prefers-reduced-motion: reduce) { .mwin__cursor { animation: none; top: 100px; } }
+@media (max-width: 760px) { .mwin__cursor { display: none; } }
