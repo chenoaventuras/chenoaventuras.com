@@ -2492,7 +2492,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .svnote { font-size: .85rem; color: var(--ink-soft); margin-top: 18px; }
 
 /* trabajos: reels en vertical */
-.svwork { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-top: clamp(22px, 3vw, 34px); }
+.svwork { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; max-width: 800px; margin: clamp(18px, 2.4vw, 26px) auto 0; }
 .svwork__item { position: relative; display: block; border-radius: 16px; overflow: hidden; aspect-ratio: 9 / 16; box-shadow: var(--shadow-md); text-decoration: none; isolation: isolate; }
 .svwork__item img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; transition: transform .5s ease; }
 .svwork__item::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(0deg, rgba(10,22,40,.88) 0%, rgba(10,22,40,.2) 45%, rgba(10,22,40,0) 70%); }
@@ -2681,3 +2681,143 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .mwin__side:hover .mwin__cursor, .mwin--tocado .mwin__cursor { opacity: 0; animation-play-state: paused; }
 @media (prefers-reduced-motion: reduce) { .mwin__cursor { animation: none; top: 100px; } }
 @media (max-width: 760px) { .mwin__cursor { display: none; } }
+
+/* logos oficiales de las marcas */
+.svbrands img { height: clamp(26px, 3.4vw, 38px); width: auto; max-width: 150px; object-fit: contain; }
+.svbrands { margin-bottom: clamp(20px, 3vw, 30px); }
+#trabajos .svhero__ctas { margin-top: 0; }
+
+/* reel dentro de la web */
+.svwork__item { cursor: pointer; }
+.reelmodal { position: fixed; inset: 0; z-index: 2000; display: grid; place-items: center; padding: 16px; background: rgba(10,22,40,.82); }
+.reelmodal[hidden] { display: none; }
+.reelmodal__box { position: relative; width: min(380px, 100%); background: #fff; border-radius: 18px; padding: 10px 10px 12px; box-shadow: var(--shadow-md); }
+.reelmodal__frame iframe { display: block; width: 100%; height: min(78vh, 640px); border: 0; border-radius: 12px; background: #f4f4f4; }
+.reelmodal__close { position: absolute; top: -14px; right: -14px; width: 36px; height: 36px; border: 0; border-radius: 50%; background: #fff; color: var(--night); font: 400 1.6rem/1 var(--font-head); cursor: pointer; box-shadow: var(--shadow-md); }
+.reelmodal__ig { display: block; margin-top: 10px; text-align: center; font: 600 .85rem/1 var(--font-head); color: var(--night); }
+.reelmodal-open { overflow: hidden; }
+.svbrands img[alt="GetYourGuide"] { height: clamp(52px, 6.5vw, 74px); }
+.svbrands img[alt="Civitatis"] { height: clamp(18px, 2.2vw, 26px); }
+.svbrands img[alt="Insta360"] { height: clamp(22px, 2.8vw, 32px); }
+.svbrands img[alt="Cuencaventura"] { height: clamp(34px, 4.2vw, 48px); }
+
+
+/* título «Publicidad en Meta» con el logo (solo ordenador) */
+.mwin__heading { display: flex; align-items: center; flex-wrap: wrap; gap: .25em .35em; }
+.mwin__heading img { height: .62em; width: auto; vertical-align: middle; }
+.mwin .svads__text .eyebrow { display: none; }
+@media (max-width: 760px) { .mwin__heading { display: none; } .mwin .svads__text .eyebrow { display: inline-flex; } }
+
+
+/* ¿Qué te llevas?: se van sumando y el cohete despega */
+.qe { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: clamp(22px, 3vw, 34px); }
+.qe__item { width: 165px; text-align: center; }
+.qe__item img { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; box-shadow: var(--shadow-md); border: 4px solid #fff; }
+.qe__emoji { display: block; font-size: 1.5rem; margin: -18px 0 4px 50px; position: relative; }
+.qe__item h3 { font: 700 1.02rem/1.2 var(--font-head); color: var(--night); margin: 0 0 4px; }
+.qe__item p { margin: 0; font-size: .86rem; line-height: 1.45; color: var(--ink-soft); }
+.qe__op { font: 900 2.4rem/1 var(--font-display); color: var(--gold-dark); }
+.qe__op--eq { display: none; }
+.qe__total { display: none; }
+.qe__launch { flex: 0 0 100%; display: flex; align-items: center; justify-content: center; gap: 14px; margin-top: 26px; padding-top: 22px; border-top: 2px dashed rgba(39,76,120,.25); position: relative; }
+.qe__eq { font: 900 2.4rem/1 var(--font-display); color: var(--gold-dark); }
+.qe__ltxt b { display: block; font: 900 clamp(1.2rem, 2.2vw, 1.7rem)/1.1 var(--font-display); text-transform: uppercase; color: var(--night); }
+.qe__ltxt span { font-size: 1rem; color: var(--ink-soft); }
+.qe__fly { position: relative; display: inline-block; }
+.qe__rocket { display: inline-block; font-size: 2.6rem; line-height: 1; }
+.qe__trail { position: absolute; right: 60%; top: 50%; width: 70vw; height: 8px; margin-top: -4px; border-radius: 8px; background: linear-gradient(90deg, rgba(255,160,40,0), rgba(255,170,50,.9)); opacity: 0; }
+.js .qe .qe__fly, .js .qe .qe__ltxt, .js .qe .qe__eq { opacity: 0; }
+.js .qe.is-visible .qe__fly { animation: rocket-fly 1.5s cubic-bezier(.2,.7,.2,1) .2s both; }
+.js .qe.is-visible .qe__rocket { animation: rocket-turn 1.5s ease-out .2s both; }
+.js .qe.is-visible .qe__trail { animation: trail-fade 1.5s ease-out .2s both; }
+.js .qe.is-visible .qe__eq { animation: fade-up .5s ease 1.5s both; }
+.js .qe.is-visible .qe__ltxt { animation: fade-up .6s ease 1.7s both; }
+@keyframes rocket-fly { 0% { opacity: 1; transform: translate(-100vw, 70px); } 80% { transform: translate(8px, -6px); } 100% { opacity: 1; transform: none; } }
+@keyframes rocket-turn { 0% { transform: rotate(45deg); } 75% { transform: rotate(40deg); } 100% { transform: rotate(0); } }
+@keyframes trail-fade { 0% { opacity: .9; } 70% { opacity: .9; } 100% { opacity: 0; } }
+@keyframes fade-up { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .js .qe .qe__fly, .js .qe .qe__ltxt, .js .qe .qe__eq { opacity: 1; animation: none !important; } .js .qe .qe__rocket, .qe__trail { animation: none !important; } }
+@media (max-width: 760px) {
+  .qe__launch { display: none; }
+  .qe__item { width: 100%; display: grid; grid-template-columns: 90px 1fr; column-gap: 14px; text-align: left; align-items: center; }
+  .qe__item img { grid-row: 1 / 4; width: 90px; height: 90px; }
+  .qe__emoji { display: none; }
+  .qe__op { width: 100%; text-align: center; font-size: 1.8rem; }
+  .qe__op--eq { display: block; }
+  .qe { gap: 6px; }
+  .qe__total { display: block; width: 100%; text-align: center; padding: 18px 16px 20px; background: var(--night); border-radius: 22px; box-shadow: var(--shadow-md); }
+  .qe__gift { font-size: 3rem; display: block; margin: 0 auto 6px; }
+  .qe__total h3 { font: 700 1.05rem/1.2 var(--font-head); color: #fff; margin: 0 0 4px; }
+  .qe__total p { margin: 0; font-size: .86rem; color: rgba(255,255,255,.8); }
+}
+
+/* ¿Cómo trabajamos?: camino ilustrado con Cheno de estación en estación */
+.cm { margin-top: clamp(22px, 3vw, 34px); display: flex; flex-direction: column; }
+.cm__steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.cm__step { position: relative; display: block; width: 100%; text-align: left; font-family: inherit; border: 0; cursor: pointer; padding: 16px 16px 16px; background: rgba(255,255,255,.72); border-radius: 16px; box-shadow: var(--shadow-sm); border-bottom: 4px solid transparent; transition: transform .3s, background .3s, box-shadow .3s, border-color .3s; }
+.cm__step.on { background: #fff; transform: translateY(-4px); box-shadow: var(--shadow-md); border-bottom-color: var(--gold); }
+.cm__n { position: absolute; top: 8px; right: 12px; font: 900 1.8rem/1 var(--font-display); color: var(--paper-3); }
+.cm__step b { display: block; font: 700 1rem/1.2 var(--font-head); color: var(--night); margin-bottom: 6px; }
+.cm__step small { display: block; font-size: .84rem; line-height: 1.45; color: var(--ink-soft); }
+.cm__world { margin-top: 14px; border-radius: 22px; overflow: hidden; box-shadow: var(--shadow-md); background: #bcdcf3; line-height: 0; }
+.cm__svg { display: block; width: 100%; height: auto; }
+.cm .cloud { animation: cm-drift 38s ease-in-out infinite alternate; }
+@keyframes cm-drift { from { transform: translateX(-14px); } to { transform: translateX(20px); } }
+.cm .drone { animation: cm-hover 1.8s ease-in-out infinite; }
+@keyframes cm-hover { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+.cm .prop { transform-box: fill-box; transform-origin: center; animation: cm-spin .14s linear infinite; }
+@keyframes cm-spin { 50% { transform: scaleX(.6); } }
+.cm .led { animation: cm-blink 1s steps(1) infinite; }
+@keyframes cm-blink { 50% { opacity: .2; } }
+.cm .flag { transform-box: fill-box; transform-origin: left center; animation: cm-wave 1.2s ease-in-out infinite alternate; }
+@keyframes cm-wave { from { transform: skewY(-6deg) scaleX(1); } to { transform: skewY(6deg) scaleX(.9); } }
+.cm .steam { animation: cm-steam 2.4s ease-in-out infinite; }
+@keyframes cm-steam { 0% { transform: translateY(2px); opacity: 0; } 40% { opacity: .8; } 100% { transform: translateY(-8px); opacity: 0; } }
+/* piezas que animan los tracks de main (JS) */
+.cm--anim .leg, .cm--anim .ua, .cm--anim .fa { transform-box: fill-box; transform-origin: 50% 0%; }
+.cm--anim .head { transform-box: fill-box; transform-origin: 50% 100%; }
+.cm--anim #s2, .cm--anim #s3, .cm--anim #s4, .cm--anim .bub, .cm--anim .pin, .cm--anim .note, .cm--anim .stamp, .cm--anim .flash, .cm--anim .wo, .cm--anim .cam, .cm--anim .vf, .cm--anim .polw, .cm--anim .planew .plane, .cm--anim .card, .cm--anim .heart, .cm--anim .igicon, .cm--anim .badge, .cm--anim .spark, .cm--anim #chenoSit, .cm--anim .cm__world { opacity: 0; }
+.cm--anim .route { clip-path: inset(0 100% 0 0); }
+.cm--anim .upl { transform-box: fill-box; transform-origin: left center; transform: scaleX(0); }
+.cm--anim .pin { transform-box: fill-box; transform-origin: center bottom; }
+.cm--anim .note, .cm--anim .stamp, .cm--anim .heart, .cm--anim .spark, .cm--anim .plane { transform-box: fill-box; transform-origin: center; }
+.cm--anim .badge, .cm--anim .card, .cm--anim .igicon { transform-box: fill-box; transform-origin: center; }
+.cm:not(.cm--anim) .b2, .cm:not(.cm--anim) .b3, .cm:not(.cm--anim) .flash, .cm:not(.cm--anim) .wo, .cm:not(.cm--anim) .cam, .cm:not(.cm--anim) .vf, .cm:not(.cm--anim) .polw, .cm:not(.cm--anim) #chenoSit, .cm:not(.cm--anim) .planew, .cm:not(.cm--anim) .spark { display: none; }
+@media (prefers-reduced-motion: reduce) { .cm * { animation: none !important; } }
+@media (max-width: 760px) {
+  .cm__steps { grid-template-columns: repeat(2, 1fr); order: 2; margin-top: 14px; }
+  .cm__world { order: 1; margin-top: 0; }
+  .cm__step { padding: 12px 12px 14px; } .cm__step small { font-size: .78rem; }
+}
+
+/* primer plano: flores que se mecen, mariposas y pájaros */
+.cm .fl { transform-box: fill-box; transform-origin: center bottom; animation: cm-sway 3.2s ease-in-out infinite alternate; }
+.cm .fl1 { animation-delay: -1s; } .cm .fl2 { animation-delay: -2s; }
+@keyframes cm-sway { from { transform: rotate(-2.5deg); } to { transform: rotate(2.5deg); } }
+.cm .bf1 { animation: cm-bf1 15s ease-in-out infinite alternate; }
+.cm .bf2 { animation: cm-bf2 19s ease-in-out infinite alternate; }
+@keyframes cm-bf1 { 0% { transform: translate(0,0); } 25% { transform: translate(90px,-26px); } 50% { transform: translate(170px,6px); } 75% { transform: translate(250px,-30px); } 100% { transform: translate(340px,-4px); } }
+@keyframes cm-bf2 { 0% { transform: translate(0,0); } 30% { transform: translate(-80px,-30px); } 60% { transform: translate(-170px,2px); } 100% { transform: translate(-300px,-24px); } }
+.cm .wing { transform-box: fill-box; transform-origin: center; animation: cm-flap .22s ease-in-out infinite alternate; }
+@keyframes cm-flap { from { transform: scaleX(1); } to { transform: scaleX(.35); } }
+.cm .bird { animation: cm-bird 26s linear infinite; }
+.cm .bird.b1 { animation-delay: -5s; } .cm .bird.b2 { animation-delay: -12s; }
+@keyframes cm-bird { from { transform: translateX(-80px); } to { transform: translateX(1100px); } }
+
+/* la clienta empieza mirando a la izquierda y se gira al irse Cheno */
+#client { transform-box: view-box; transform-origin: 238px 330px; transform: scaleX(-1); }
+.cm:not(.cm--anim) .hout { display: none; }
+/* rebobinado al pulsar un paso */
+.cm__world { position: relative; }
+.cm__svg { transition: filter .25s ease; }
+.cm__world.is-rewind .cm__svg { filter: blur(2.6px) saturate(.8) brightness(1.05); }
+.cm__rw { position: absolute; inset: 0; z-index: 2; display: grid; place-items: center; font-size: clamp(2.4rem, 8vw, 4.4rem); line-height: 1; opacity: 0; pointer-events: none; transition: opacity .2s ease; text-shadow: 0 4px 18px rgba(20,40,70,.5); }
+.cm__world.is-rewind .cm__rw { opacity: .95; }
+.cm__hint { margin: 10px 0 0; text-align: center; font: 600 .8rem/1.2 var(--font-head); color: var(--ink-mute); }
+@media (max-width: 760px) { .cm__hint { order: 3; } }
+
+/* ojos que siguen al ratón y taza clicable */
+.cm .pupils { transition: transform .12s ease-out; }
+.cm .cuphit { cursor: pointer; }
+.cm .cupw { transform-box: fill-box; transform-origin: center; }
+.cm .cuphit:focus-visible { outline: 2px dashed var(--gold-dark); }
