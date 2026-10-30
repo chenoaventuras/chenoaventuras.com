@@ -15,9 +15,6 @@ tags:
 wide: true
 cocheMensaje: "<strong>Lo más cómodo para ir es el tren</strong> (Cercanías C-2 y C-7, con la estación a unos 100 metros del recinto). Si prefieres ir en coche y no tienes uno disponible, compara precios de alquiler en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis."
 coche: true
-actividades:
-  - t: "Entradas a Mágicas Navidades de Torrejón de Ardoz"
-    u: "https://www.civitatis.com/es/torrejon-de-ardoz/entrada-magicas-navidades-torrejon-ardoz/"
 faqTitulo: "Dudas sobre las Mágicas Navidades"
 faq:
   - q: "¿Dónde aparcar en las Mágicas Navidades de Torrejón?"
@@ -101,6 +98,10 @@ Aquí tienes todo: fechas, horarios, precios, qué incluye la entrada, qué se p
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Un plan de 4-5 horas</h2><ul><li><b>Antes de salir</b>: Compra la entrada y reserva las experiencias con hora.</li><li><b>16:00</b>: Entrada y paseo por el Bosque de estrellas, Linternas de Asia y el mercado.</li><li><b>Tarde</b>: Ice Festival, Viaje de Noel o pista de hielo en su turno.</li><li><b>Noche</b>: Noria, Vuelo de Santa y fuegos del Rocking Christmas.</li><li><b>Combínalo</b>: con una comida en Torrejón antes de entrar.</li></ul></div>
 
 <!--faq-->
+
+<!-- ENTRADAS: de momento enlace a la web oficial. Cuando Civitatis tenga fechas de esta temporada, cambiar por
+     https://www.civitatis.com/es/torrejon-de-ardoz/entrada-magicas-navidades-torrejon-ardoz/ (afiliado). -->
+<div class="article__callout article__callout--booking" id="entradas">🎟️ <strong>¿Vas a ir?</strong> Las entradas se compran en la web oficial del parque y el aforo es limitado, así que mejor con antelación. <a class="btn" href="https://parquemagicasnavidades.es/entradas/" target="_blank" rel="noopener">Comprar entradas</a></div>
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
