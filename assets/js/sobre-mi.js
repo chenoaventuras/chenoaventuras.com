@@ -63,23 +63,23 @@
     var svg = document.getElementById("sky");
     var tip = document.getElementById("sky-tip");
     if (!svg) return;
-    var W = 1000, H = 840;
+    var W = 1000, MH = 840, H = 960;   // MH: alto del mapa de la península; debajo, el recuadro de Canarias
     svg.setAttribute("viewBox", "0 0 " + W + " " + H);
     // península + Baleares + Ceuta/Melilla
     var LON0 = -9.6, LON1 = 4.5, LAT0 = 35.0, LAT1 = 44.0;
     function proj(d) {
       if (d.lat < 30 && d.lng < -12) { // Canarias, en el recuadro
-        return [30 + (d.lng + 18.3) / 5 * 220, 712 + (29.6 - d.lat) / 2.1 * 100];
+        return [30 + (d.lng + 18.3) / 5 * 220, 836 + (29.6 - d.lat) / 2.1 * 100];
       }
       if (d.lng < LON0 || d.lng > LON1 || d.lat < LAT0 || d.lat > LAT1) return null; // Marruecos y otros
-      return [(d.lng - LON0) / (LON1 - LON0) * W, (LAT1 - d.lat) / (LAT1 - LAT0) * H];
+      return [(d.lng - LON0) / (LON1 - LON0) * W, (LAT1 - d.lat) / (LAT1 - LAT0) * MH];
     }
     // polvo de estrellas de fondo
     for (var i = 0; i < 140; i++) {
       svg.appendChild(el("circle", { cx: (rand(i + 1) * W).toFixed(1), cy: (rand(i + 99) * H).toFixed(1), r: (rand(i + 7) * 1.2 + .3).toFixed(2), class: "sky-dust" }, true));
     }
-    svg.appendChild(el("rect", { x: 14, y: 692, width: 252, height: 136, rx: 12, class: "sky-box" }, true));
-    var lbl = el("text", { x: 28, y: 818, class: "sky-label" }, true); lbl.textContent = "Canarias"; svg.appendChild(lbl);
+    svg.appendChild(el("rect", { x: 14, y: 816, width: 252, height: 136, rx: 12, class: "sky-box" }, true));
+    var lbl = el("text", { x: 28, y: 942, class: "sky-label" }, true); lbl.textContent = "Canarias"; svg.appendChild(lbl);
 
     var pts = [];
     all.forEach(function (d) { var p = proj(d); if (p) pts.push({ d: d, x: p[0], y: p[1] }); });
@@ -220,29 +220,29 @@
   });
 
   /* ---------- paisajes de fondo detrás de las polaroids ---------- */
-  // Fotos propias (de Instagram), en HD y elegidas a mano: sin texto encima.
+  // Solo paisajes (sin personas ni miniaturas de vídeo), ya usados en el blog.
   // Si alguna faltara, el fondo pasa por degradados de color de la marca.
   var BG_PHOTOS = [
-      "/assets/img/instagram/18124961662670705.webp",
-      "/assets/img/instagram/17975621367111494.webp",
-      "/assets/img/instagram/18131174488538752.webp",
-      "/assets/img/instagram/17908806873244673.webp",
-      "/assets/img/instagram/18047661281545002.webp",
-      "/assets/img/instagram/18083171645586039.webp",
-      "/assets/img/instagram/18304298470250182.webp",
-      "/assets/img/instagram/18067189766151364.webp",
-      "/assets/img/instagram/17877658149473059.webp",
-      "/assets/img/instagram/17905353456430797.webp",
-      "/assets/img/instagram/17946446847350699.webp",
-      "/assets/img/instagram/18028664105824895.webp",
-      "/assets/img/instagram/18077209043601154.webp",
-      "/assets/img/instagram/18097443854031877.webp",
-      "/assets/img/instagram/18100773881267979.webp",
-      "/assets/img/instagram/18104555819124635.webp",
-      "/assets/img/instagram/18105060155170195.webp",
-      "/assets/img/instagram/18133461967594850.webp",
-      "/assets/img/instagram/18421989400185366.webp",
-      "/assets/img/instagram/18446632297189343.webp"
+      "/assets/img/blog/bulnes-funicular-y-pueblo/canal.webp",
+      "/assets/img/blog/albufera-valencia/portada.webp",
+      "/assets/img/blog/cuenca/una-escaleron.webp",
+      "/assets/img/blog/laguna-negra-de-urbion/portada.webp",
+      "/assets/img/blog/ibiza-que-ver/portada.webp",
+      "/assets/img/blog/laguardia-que-ver/vistas.webp",
+      "/assets/img/blog/playa-de-las-conchas-la-graciosa/conchas-2.webp",
+      "/assets/img/blog/alcala-del-jucar/hoz.webp",
+      "/assets/img/blog/barrancas-de-burujon/miradores.webp",
+      "/assets/img/blog/ribadeo-que-ver/pancha.webp",
+      "/assets/img/blog/mejores-miradores-de-espana/cable.webp",
+      "/assets/img/blog/lanzarote-que-ver/papagayo-cala.webp",
+      "/assets/img/blog/playa-de-papagayo/playa.webp",
+      "/assets/img/blog/naranjo-de-bulnes/mirador.webp",
+      "/assets/img/blog/fermoselle-que-ver/arribes.webp",
+      "/assets/img/blog/el-hierro-que-ver/portada.webp",
+      "/assets/img/blog/canon-del-sil/portada.webp",
+      "/assets/img/blog/arribes-del-duero-miradores/presa.webp",
+      "/assets/img/blog/arribes-del-duero-miradores/portada.webp",
+      "/assets/img/blog/costa-quebrada-urros-de-liencres/flysch.webp"
   ];
   var GRADIENTS = [
     "linear-gradient(120deg, #1f3e64, #3c6aa3 55%, #77854f)",

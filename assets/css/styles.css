@@ -1814,21 +1814,6 @@ main::after {
 .sky-dust { fill: #fff; opacity: .35; }
 @keyframes twinkle { from { opacity: .55; } to { opacity: 1; } }
 
-/* --- Sellos --- */
-.about-stamps .title { margin-bottom: clamp(22px, 3vw, 34px); }
-.stamps { display: grid; grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); gap: 22px 16px; justify-items: center; }
-.stamp {
-  --rot: 0deg; width: 128px; aspect-ratio: 1; border-radius: 50%; display: grid; place-items: center; text-align: center;
-  border: 2px dashed var(--stamp, var(--night)); color: var(--stamp, var(--night)); rotate: var(--rot);
-  background: rgba(255,255,255,.55); padding: 14px; transition: rotate .3s, transform .3s, background .3s;
-}
-.stamp:hover { rotate: 0deg; transform: scale(1.06); background: #fff; }
-.stamp img { width: 40px; height: 27px; object-fit: cover; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0,0,0,.12); margin: 0 auto 6px; }
-.stamp b { display: block; font-family: var(--font-display); text-transform: uppercase; font-size: .72rem; line-height: 1.1; letter-spacing: .02em; }
-.stamp small { display: block; font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; opacity: .8; margin-top: 3px; }
-.about-stamps__note { margin-top: 26px; color: var(--ink-soft); }
-.about-stamps__note a { color: var(--olive-dark); font-weight: 600; text-decoration: underline; }
-
 /* --- Polaroids colgadas de una cuerda + Ford S-Max --- */
 .about-film { position: relative; isolation: isolate; padding-block: clamp(18px, 3vw, 30px) 0; overflow: hidden; overflow: clip; margin-block: clamp(10px, 2vw, 20px); }
 .about-film .road__car { filter: drop-shadow(0 -2px 8px rgba(0,0,0,.25)); }
@@ -1949,7 +1934,6 @@ main::after {
 .contact-block__head { text-align: center; max-width: 620px; margin: 0 auto clamp(26px, 4vw, 40px); }
 .contact-block__head .eyebrow { color: var(--gold-soft); }
 .contact-block__head .title { color: #fff; }
-.contact-block__head .title .accent { color: var(--gold); background: none; animation: none; }
 .contact-block__head p { color: rgba(255,255,255,.75); margin: 0; }
 
 .contact-reasons { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; border: 0; padding: 0; margin: 0 0 22px; }
@@ -2699,7 +2683,7 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .svbrands img[alt="GetYourGuide"] { height: clamp(52px, 6.5vw, 74px); }
 .svbrands img[alt="Civitatis"] { height: clamp(18px, 2.2vw, 26px); }
 .svbrands img[alt="Insta360"] { height: clamp(22px, 2.8vw, 32px); }
-.svbrands img[alt="Cuencaventura"] { height: clamp(34px, 4.2vw, 48px); }
+.svbrands img[alt="Cuencaventura"] { height: clamp(26px, 3.2vw, 34px); }
 
 
 /* título «Publicidad en Meta» con el logo (solo ordenador) */
@@ -2846,4 +2830,40 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
   @keyframes qe-ck { from { opacity: 0; transform: scale(0) rotate(-30deg); } to { opacity: 1; transform: none; } }
   .qe__total.is-done .qe__rocketbtn { cursor: default; }
   @media (prefers-reduced-motion: reduce) { .qe__rk { animation: none; } .qe__total.is-go .qe__rkw { animation: none; opacity: 0; } }
+}
+
+/* Contacto: mismo estilo visual que Servicios (acuarela clara, título grande, tarjetas con emoji) */
+.contact-block { background: linear-gradient(rgba(239,236,231,.66), rgba(239,236,231,.66)), url("../img/mapa/fondo-acuarela.webp") center top / 100% auto repeat-y; background-color: var(--paper); }
+.contact-block__head { max-width: 760px; }
+.contact-block__head .eyebrow { color: var(--olive-dark); }
+.contact-block__head .title { color: var(--ink); }
+.contact-block__head p { color: var(--ink-soft); font-size: 1.05rem; }
+.contact-block__direct { color: var(--ink-soft); }
+.contact-block__ok { color: var(--olive-dark); }
+.contact-reasons { grid-template-columns: repeat(5, 1fr); }
+.contact-reason { position: relative; padding: 18px 16px 18px; background: rgba(255,255,255,.88); }
+.contact-reason__emoji { display: grid; place-items: center; width: 46px; height: 46px; margin-bottom: 12px; font-size: 1.5rem; background: #fff; border-radius: 50%; box-shadow: var(--shadow-sm); }
+.contact-reasons input:checked + .contact-reason .contact-reason__emoji { background: rgba(255,255,255,.9); }
+@media (max-width: 1080px) { .contact-reasons { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 620px) {
+  .contact-reasons { grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 16px; }
+  .contact-reasons label:last-child { grid-column: 1 / -1; }
+  .contact-reason { display: grid; grid-template-columns: auto 1fr; align-items: center; column-gap: 8px; row-gap: 4px; padding: 12px 12px 13px; border-radius: 14px; }
+  .contact-reason__emoji { width: auto; height: auto; margin: 0; background: none; box-shadow: none; font-size: 1.15rem; border-radius: 0; }
+  .contact-reason b { font-size: .86rem; margin: 0; }
+  .contact-reason small { grid-column: 1 / -1; font-size: .76rem; line-height: 1.35; }
+  .contact-reasons input:checked + .contact-reason .contact-reason__emoji { background: none; }
+}
+.about-sky__ask { margin-top: 12px; color: rgba(255,255,255,.85); }
+.about-sky__ask a { color: var(--gold-soft); font-weight: 600; text-decoration: underline; }
+/* aviso al copiar el texto del mensaje de Instagram */
+.igtoast { position: fixed; left: 50%; bottom: 22px; transform: translate(-50%, 20px); z-index: 3000; max-width: min(92vw, 420px); background: var(--night); color: #fff; font: 600 .9rem/1.35 var(--font-head); padding: 12px 18px; border-radius: 14px; box-shadow: var(--shadow-md); opacity: 0; transition: opacity .25s, transform .25s; pointer-events: none; text-align: center; }
+.igtoast.is-on { opacity: 1; transform: translate(-50%, 0); }
+
+/* móvil: «Han confiado en mí» con los cuatro logos en una sola fila y de tamaño parecido */
+@media (max-width: 760px) {
+  .svbrands { display: grid; grid-template-columns: repeat(4, 1fr); align-items: center; justify-items: center; gap: 12px 10px; padding: 16px 12px; }
+  .svbrands > span { grid-column: 1 / -1; text-align: center; }
+  .svbrands img, .svbrands img[alt] { width: 100%; height: auto; max-width: 100%; max-height: 34px; object-fit: contain; }
+  .svbrands img[alt="GetYourGuide"] { width: auto; max-height: 46px; }
 }
