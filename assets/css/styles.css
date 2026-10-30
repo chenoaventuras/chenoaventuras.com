@@ -2824,3 +2824,26 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* al sentarse la bota recupera su forma (contra-escala sobre su parte de arriba) */
 .cm .boot { transform-origin: 0px 28px; }
+
+/* móvil: caja compacta con el cohete a la izquierda; al pulsarlo despega echando fuego y queda un check verde */
+@media (max-width: 760px) {
+  .qe__total { display: flex; align-items: center; gap: 14px; text-align: left; padding: 12px 16px; border-radius: 18px; overflow: visible; position: relative; }
+  .qe__rocketbtn { position: relative; flex: 0 0 auto; width: 56px; height: 56px; display: grid; place-items: center; border: 0; background: none; padding: 0; cursor: pointer; }
+  .qe__rkw { grid-area: 1 / 1; position: relative; width: 56px; height: 56px; display: grid; place-items: center; z-index: 2; }
+  .qe__rk, .qe__ck { grid-area: 1 / 1; font-size: 2.6rem; line-height: 1; z-index: 2; }
+  .qe__rk { animation: qe-rk-idle 1.8s ease-in-out infinite; }
+  @keyframes qe-rk-idle { 0%, 100% { transform: translateY(0) rotate(-3deg); } 50% { transform: translateY(-3px) rotate(3deg); } }
+  .qe__ck { opacity: 0; transform: scale(0); }
+  .qe__fire { position: absolute; left: 9px; top: 34px; width: 16px; height: 0; border-radius: 50% 50% 60% 60%; background: linear-gradient(0deg, rgba(255,214,90,0), #ff9d2e 40%, #fff3b0); transform-origin: 50% 0; transform: rotate(45deg); opacity: 0; z-index: 1; filter: blur(.4px); }
+  .qe__ttxt h3 { font: 700 1.02rem/1.2 var(--font-head); color: #fff; margin: 0 0 3px; }
+  .qe__ttxt p { margin: 0; font-size: .84rem; color: rgba(255,255,255,.82); }
+  .qe__total.is-go .qe__rkw { animation: qe-rk-fly 1.1s cubic-bezier(.5,0,.9,.4) forwards; }
+  .qe__total.is-go .qe__fire { animation: qe-fire 1.1s ease-in forwards; }
+  @keyframes qe-rk-fly { 0% { transform: translate(0,0) scale(1); } 14% { transform: translate(-2px,5px) scale(1.08); } 100% { transform: translate(150px,-340px) scale(.45); opacity: 0; } }
+  @keyframes qe-fire { 0% { height: 0; opacity: 0; } 12% { height: 30px; opacity: 1; } 60% { height: 56px; opacity: 1; } 100% { height: 70px; opacity: 0; } }
+  .qe__total.is-done .qe__rkw { display: none; }
+  .qe__total.is-done .qe__ck { animation: qe-ck .55s cubic-bezier(.2,1.6,.4,1) forwards; }
+  @keyframes qe-ck { from { opacity: 0; transform: scale(0) rotate(-30deg); } to { opacity: 1; transform: none; } }
+  .qe__total.is-done .qe__rocketbtn { cursor: default; }
+  @media (prefers-reduced-motion: reduce) { .qe__rk { animation: none; } .qe__total.is-go .qe__rkw { animation: none; opacity: 0; } }
+}

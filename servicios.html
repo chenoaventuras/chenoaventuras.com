@@ -26,7 +26,7 @@
   <meta name="twitter:title" content="Foto y vídeo con dron para marcas y turismo | Chenoaventuras" />
   <meta name="twitter:description" content="Chenoaventuras: creación de contenido, foto y vídeo con dron (piloto A1/A3), turismo y alojamientos, redes y colaboraciones para marcas y destinos." />
   <meta name="twitter:image" content="https://www.chenoaventuras.com/assets/img/og-portada.jpg" />
-  <link rel="stylesheet" href="assets/css/styles.css?v=20261030m" />
+  <link rel="stylesheet" href="assets/css/styles.css?v=20261031f" />
   <script>document.documentElement.classList.add("js");</script>
   <script type="application/ld+json">
   {
@@ -234,7 +234,7 @@
             <div class="qe__item"><img src="assets/img/servicios/pueblos.webp" alt="Cheno entre velas en Pedraza" width="320" height="320" loading="lazy" decoding="async" /><span class="qe__emoji" aria-hidden="true">📸</span><h3>Fotografía</h3><p>Fotos cuidadas para tu web, tus redes y tus folletos.</p></div><span class="qe__op" aria-hidden="true">+</span>
             <div class="qe__item"><img src="assets/img/hero-altea.webp" alt="Vista aérea de Altea" width="320" height="320" loading="lazy" decoding="async" /><span class="qe__emoji" aria-hidden="true">🚁</span><h3>Tomas aéreas</h3><p>Planos con dron que enseñan el lugar como nadie lo ha visto, siempre cumpliendo la normativa.</p></div><span class="qe__op" aria-hidden="true">+</span>
             <div class="qe__item"><img src="assets/img/blog/acueducto-de-segovia/arcos-azoguejo.webp" alt="Acueducto de Segovia" width="320" height="320" loading="lazy" decoding="async" /><span class="qe__emoji" aria-hidden="true">✍️</span><h3>Artículo en el blog</h3><p>Un post con qué ver, cómo llegar y consejos, enlazado a tu web y en el mapa de aventuras.</p></div><span class="qe__op qe__op--eq" aria-hidden="true">=</span>
-            <div class="qe__total"><button type="button" class="eyebrow__gift qe__gift" aria-label="Abrir el regalo" data-gift>🎁</button><h3>Todo listo para usar</h3><p>Tu proyecto contado en todos los formatos.</p></div>
+            <div class="qe__total" id="qeTotal"><button type="button" class="qe__rocketbtn" aria-label="Despegar el cohete"><span class="qe__rkw" aria-hidden="true"><span class="qe__fire"></span><span class="qe__rk">🚀</span></span><span class="qe__ck" aria-hidden="true">✅</span></button><div class="qe__ttxt"><h3>Todo listo para usar</h3><p>Tu proyecto contado en todos los formatos.</p></div></div>
             <div class="qe__launch"><span class="qe__fly" aria-hidden="true"><i class="qe__trail"></i><span class="qe__rocket">🚀</span></span><div class="qe__ltxt"><b>Todo listo para usar</b><span>Tu proyecto contado en todos los formatos</span></div></div>
         </div>
         <p class="svnote">*El contenido puede otorgarse para su uso interno sin necesidad de ser promocionado en mis redes sociales.</p>
@@ -666,6 +666,7 @@
   else { vis = true; run(); }
 })();
 </script>
+  <script>(function(){var b=document.querySelector(".qe__rocketbtn"),box=document.getElementById("qeTotal");if(!b||!box)return;b.addEventListener("click",function(){if(box.classList.contains("is-go"))return;box.classList.add("is-go");setTimeout(function(){box.classList.add("is-done");},1100);});})();</script>
   <script src="assets/js/main.js?v=20261026a"></script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
