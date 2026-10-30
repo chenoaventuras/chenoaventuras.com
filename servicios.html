@@ -454,18 +454,18 @@
   var mobile = matchMedia("(max-width: 760px)");
   if (reduce) return;
   cm.classList.add("cm--anim");
-  var K = .6, SH = 3.1, T = 41;          /* K acorta el guion; SH deja sitio a la charla del principio */
+  var K = .6, SH = 3.1, T = 41, I = 1.8;   /* I: al empezar, los dos se acercan a la mesa antes de hablar */          /* K acorta el guion; SH deja sitio a la charla del principio */
   var A = [], clock = 0, last = 0, raf = 0, vis = false, seek = null, curStep = -1;
   var $ = function (s, r) { return (r || svg).querySelector(s); };
   var sh = function (t) { return t >= 6 ? t + SH : t; };
-  var END = (T + SH) * K * 1000 + 500;
+  var END = (T + SH + I) * K * 1000 + 500;
   /* momentos a los que salta cada paso (segundos del guion) */
   var ANCHOR = [0, 9.3 + SH, 19.7 + SH, 29 + SH];
 
   /* track: una animación por elemento y propiedad, con puntos [segundo, valor]; raw = sin desplazar */
   function track(el, prop, pts, ease, raw) {
     if (!el) return;
-    var ts = pts.map(function (p) { return (raw ? p[0] : sh(p[0])) * K; });
+    var ts = pts.map(function (p) { return ((raw ? p[0] : sh(p[0])) + I) * K; });
     var t0 = ts[0], t1 = ts[ts.length - 1], d = Math.max(t1 - t0, .01);
     var kf = pts.map(function (p, i) {
       var v = p[1]; if (typeof v === "string" && /^-?[\d.]+deg$/.test(v)) v = "rotate(" + v + ")";
@@ -481,7 +481,7 @@
   }
   function fade(el, t0, t1, v0, v1) { track(el, "opacity", [[0, v0 === undefined ? 0 : v0], [t0, v0 === undefined ? 0 : v0], [t1, v1 === undefined ? 1 : v1]]); }
   function talk(mouth, head, wins) {      /* boca abierta/cerrada y cabeceo mientras habla (tiempos ya finales) */
-    var m = [[0, 0]], h = [[0, "none"]];
+    var m = [[-I, 0]], h = [[-I, "none"]];
     wins.forEach(function (w) {
       var t = w[0], k = 0;
       m.push([t - .01, 0]); h.push([t - .01, "none"]);
@@ -506,13 +506,16 @@
     else $("#world").style.transform = "none";
 
     /* ---- escena 1: se saludan ---- */
-    [[".b1", .05, 1.7], [".b2", 1.8, 3.4], [".b3", 3.5, 4.9], [".b4", 5.0, 7.0], [".b5", 7.1, 8.8]].forEach(function (b) {
+    [[".bub.b1", 0, 1.7], [".bub.b2", 1.8, 3.4], [".bub.b3", 3.5, 4.9], [".bub.b4", 5.0, 7.0], [".bub.b5", 7.1, 8.8]].forEach(function (b) {
       var e = $(b[0]);
-      track(e, "opacity", [[0, b[1] < .1 ? 1 : 0], [b[1], b[1] < .1 ? 1 : 0], [b[1] + .2, 1], [b[2] - .15, 1], [b[2], 0]], null, true);
-      track(e, "transform", [[0, b[1] < .1 ? "none" : "translateY(8px)"], [b[1], b[1] < .1 ? "none" : "translateY(8px)"], [b[1] + .25, "none"]], null, true);
+      track(e, "opacity", [[0, 0], [b[1], 0], [b[1] + .1, 1], [b[2] - .15, 1], [b[2], 0]], null, true);
+      track(e, "transform", [[0, "translateY(8px)"], [b[1], "translateY(8px)"], [b[1] + .2, "none"]], null, true);
     });
-    talk($(".mouthO", ch), $(".head", ch), [[.1, 1.7], [3.5, 4.9], [7.1, 8.8]]);
+    talk($(".mouthO", ch), $(".head", ch), [[0, 1.7], [3.5, 4.9], [7.1, 8.8]]);
     talk($(".mouthO", cl), $(".head", cl), [[1.8, 3.4], [5.0, 7.0], [sh(36.4), sh(39.5)]]);
+    /* entrada: se acercan a la mesa en dos pasos */
+    track($(".person", cl), "transform", [[-I, "translateX(-75px)"], [0, "translateX(0px)"]], "ease-out", true);
+    [".legB .leg", ".legF .leg"].forEach(function (s, i) { var p = [[-I - .02, "0deg"]]; swing(p, -I, 0, 24, i); track($(s, cl), "transform", p, null, true); });
     /* la clienta se gira para ver cómo se va Cheno */
     track(cl, "transform", [[0, "scaleX(-1)"], [sh(7.5), "scaleX(-1)"], [sh(7.75), "scaleX(.05)"], [sh(8.0), "scaleX(1)"], [T + SH, "scaleX(1)"]], "ease-in-out", true);
     /* gestos de la clienta al hablar y al celebrar */
@@ -526,9 +529,9 @@
     track($(".bodyg", cl), "transform", cj, null, true);
 
     /* ---- Cheno camina por las estaciones ---- */
-    track($("#walk"), "transform", [[0, "translateX(0px)"], [6.2, "translateX(0px)", "linear"], [9.1, "translateX(265px)"], [16, "translateX(265px)", "linear"], [19.5, "translateX(580px)"], [27, "translateX(580px)", "linear"], [30.6, "translateX(904px)"], [T, "translateX(904px)"]], "ease-in-out");
+    track($("#walk"), "transform", [[-I, "translateX(-75px)", "ease-out"], [0, "translateX(0px)"], [6.2, "translateX(0px)", "linear"], [9.1, "translateX(265px)"], [16, "translateX(265px)", "linear"], [19.5, "translateX(580px)"], [27, "translateX(580px)", "linear"], [30.6, "translateX(904px)"], [T, "translateX(904px)"]], "ease-in-out");
     var win = [[6.2, 9.1], [16, 19.5], [27, 30.6]];
-    function legs(sel, ph) { var p = [[0, "0deg"]]; win.forEach(function (w) { swing(p, w[0], w[1], 26, ph); }); p.push([30.65, "0deg"], [31.4, "-90deg"], [T, "-90deg"]); track($(sel, ch), "transform", p); }
+    function legs(sel, ph) { var p = [[-I - .02, "0deg"]]; swing(p, -I, 0, 26, ph); win.forEach(function (w) { swing(p, w[0], w[1], 26, ph); }); p.push([30.65, "0deg"], [31.4, "-90deg"], [T, "-90deg"]); track($(sel, ch), "transform", p); }
     legs(".legB .leg", 1); legs(".legF .leg", 0);
     [".legB", ".legF"].forEach(function (s) {   /* al sentarse el muslo y la espinilla se estiran un poco: postura natural */
       track($(s + " .thigh", ch), "transform", [[0, "scaleY(1)"], [30.65, "scaleY(1)"], [31.4, "scaleY(1.2)"], [T, "scaleY(1.2)"]]);
@@ -536,9 +539,10 @@
       track($(s + " .shin", ch), "transform", [[0, "rotate(0deg) scaleY(1)"], [30.65, "rotate(0deg) scaleY(1)"], [31.4, "rotate(90deg) scaleY(1.37)"], [T, "rotate(90deg) scaleY(1.37)"]]);
       track($(s + " .boot", ch), "transform", [[0, "scaleY(1)"], [30.65, "scaleY(1)"], [31.4, "scaleY(.73)"], [T, "scaleY(.73)"]]);
     });
-    var bob = [[0, "none"]]; win.forEach(function (w) { for (var t = w[0], k = 0; t < w[1]; t += .25, k++) bob.push([t, k % 2 ? "translateY(0px)" : "translateY(-3px)"]); bob.push([w[1], "none"]); }); bob.push([30.65, "none"], [31.4, "translateY(20px)"], [T, "translateY(20px)"]);
+    var bob = [[-I, "none"]]; for (var tb = -I, kb = 0; tb < 0; tb += .25, kb++) bob.push([tb, kb % 2 ? "translateY(0px)" : "translateY(-3px)"]); bob.push([0, "none"]); win.forEach(function (w) { for (var t = w[0], k = 0; t < w[1]; t += .25, k++) bob.push([t, k % 2 ? "translateY(0px)" : "translateY(-3px)"]); bob.push([w[1], "none"]); }); bob.push([30.65, "none"], [31.4, "translateY(20px)"], [T, "translateY(20px)"]);
     track($(".bodyg", ch), "transform", bob);
-    var aF = [[0, "0deg"]], aB = [[0, "0deg"]];
+    var aF = [[-I - .02, "0deg"]], aB = [[-I - .02, "0deg"]];
+    swing(aF, -I, 0, 20, 1); swing(aB, -I, 0, 20, 0);
     swing(aF, 6.2, 9.1, 20, 1); swing(aB, 6.2, 9.1, 20, 0);
     aF.push([9.4, "0deg"], [9.9, "-88deg"], [15.3, "-88deg"], [15.6, "-80deg"], [16, "0deg"]);
     swing(aF, 16, 19.2, 20, 1); swing(aB, 16, 19.2, 20, 0);
@@ -584,13 +588,13 @@
       track(sp, "transform", [[0, "translateY(6px) scale(.5)"], [t, "translateY(6px) scale(.5)"], [t + 1.4, "translateY(-10px) scale(1.1)"]]);
     });
     /* ---- fundido de cierre y de apertura ---- */
-    track(world, "opacity", [[0, 0], [.05, 1], [39.9, 1], [40.7, 0]], "linear");
+    track(world, "opacity", [[-I, 0], [-I + .3, 1], [39.9, 1], [40.7, 0]], "linear");
     apply();
   }
 
   /* ---- reloj maestro: todo se mueve a partir de «clock» (así se puede rebobinar) ---- */
   function apply() { A.forEach(function (a) { a.currentTime = clock; }); }
-  function stepOf(ms) { var s = ms / 1000 / K, i = 0; [6.2 + SH, 16 + SH, 27 + SH].forEach(function (t, k) { if (s >= t) i = k + 1; }); return i; }
+  function stepOf(ms) { var s = ms / 1000 / K - I, i = 0; [6.2 + SH, 16 + SH, 27 + SH].forEach(function (t, k) { if (s >= t) i = k + 1; }); return i; }
   function setStep(n) { if (n === curStep) return; curStep = n; steps.forEach(function (b, i) { b.classList.toggle("on", i === n); }); }
   function frame(ts) {
     raf = 0; if (!vis) return;
@@ -605,7 +609,7 @@
   }
   function run() { if (!raf && vis) { last = performance.now(); raf = requestAnimationFrame(frame); } }
   function goto(n) {     /* rebobinado: se difumina, el muñeco vuelve atrás y reanuda en el paso elegido */
-    var to = ANCHOR[n] * K * 1000; setStep(n);
+    var to = n ? (ANCHOR[n] + I) * K * 1000 : 0; setStep(n);
     seek = { from: clock, to: to, t: 0, dur: Math.max(450, Math.min(1100, Math.abs(to - clock) / 12)) };
     rw.textContent = to < clock ? "⏪" : "⏩";
     world.classList.add("is-rewind"); run();
