@@ -1,6 +1,6 @@
 ---
 title: 'Descenso del Sella: cuándo es, el recorrido de Arriondas a Ribadesella y cómo hacerlo en canoa'
-seoTitle: 'Descenso del Sella: fecha, recorrido y cómo hacerlo'
+seoTitle: 'Descenso del Sella: fecha, recorrido y cómo bajarlo en canoa'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Descenso del Sella'
 lat: 43.3894
@@ -21,6 +21,14 @@ actividades:
     u: "https://www.civitatis.com/es/arriondas/barranquismo-arriondas/"
 faqTitulo: "Dudas sobre el Descenso del Sella"
 faq:
+  - q: "¿Cuándo es el próximo Descenso del Sella?"
+    a: "Se celebra el primer sábado de agosto posterior al día 2, con salida a las 12:00 desde el puente de Arriondas. En 2026 fue el 8 de agosto (88.ª edición); en 2027 tocaría el sábado 7 de agosto. Confirma la fecha oficial."
+  - q: "¿Cuánto cuesta hacer el descenso del Sella en canoa?"
+    a: "Las empresas de Arriondas lo ofrecen desde unos 35 € por persona (a octubre de 2026), con canoa, remo, chaleco y vuelta en autobús al punto de salida."
+  - q: "¿Qué rutas hay para bajar el Sella en canoa?"
+    a: "Las habituales salen de Arriondas: 7 km hasta Toraño (1-2 h), 12 km hasta Llordón (2,5-3 h) y 15 km hasta Llovio, cerca de Ribadesella (unas 4 h)."
+  - q: "¿Desde qué edad se puede hacer el descenso del Sella?"
+    a: "Normalmente desde los 6 años y 1,20 m de altura, en canoa doble o triple con un adulto. Confirma las condiciones con la empresa."
   - q: "¿Cuándo se celebra?"
     a: "El primer sábado de agosto posterior al día 2."
   - q: "¿Qué recorrido tiene?"
@@ -31,6 +39,8 @@ faq:
     a: "Sí, hay descensos en canoa para visitantes."
   - q: "¿Es Fiesta de Interés Turístico?"
     a: "Sí, de interés turístico internacional desde 1980."
+seoDescription: 'Descenso del Sella: cuándo es, su historia, el recorrido de Arriondas a Ribadesella y cómo bajar el Sella en canoa: rutas de 7 a 15 km, precio y edad.'
+updated: 2026-10-31
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
 ---
@@ -64,6 +74,17 @@ Te cuento cuándo es, qué recorrido hace y cómo hacerlo como actividad 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Hacerlo tú:</strong> Hay una actividad de descenso en canoa por el Sella con guía; consulta los enlaces de reserva en la ficha.</li><li><strong>Ribadesella:</strong> <a href='/blog/ribadesella-que-ver.html'>qué ver en la meta</a>.</li><li><strong>Cangas de Onís:</strong> <a href='/blog/cangas-de-onis-que-ver.html'>villa histórica</a> cercana.</li><li><strong>Lagos de Covadonga:</strong> <a href='/blog/lagos-de-covadonga.html'>a poca distancia</a>.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Hazlo tú</span><h2>Cómo bajar el Sella en canoa (sin ser deportista)</h2></div>
+<p>Fuera del día de la carrera, el Sella se convierte en el río más famoso de España para bajar en canoa por libre. Lo ofrecen decenas de empresas en <strong>Arriondas</strong>, en temporada de primavera a otoño. Funciona así: te dan la canoa (individual, doble o triple), el remo y el chaleco, una explicación de unos minutos, y bajas a tu ritmo. Al final, un autobús te devuelve al punto de salida.</p>
+<ul>
+<li><strong>Ruta corta, 7 km</strong> (Arriondas – Toraño): 1-2 horas. Ideal con niños o si es tu primera vez.</li>
+<li><strong>Ruta media, 12 km</strong> (hasta Llordón): 2,5-3 horas. La más elegida.</li>
+<li><strong>Ruta larga, 15 km</strong> (hasta Llovio, casi en Ribadesella): unas 4 horas con paradas.</li>
+</ul>
+<p>Los precios parten de unos <strong>35 €</strong> por persona (consultados en octubre de 2026) y suele haber opción con pícnic. La edad mínima habitual es de <strong>6 años y 1,20 m</strong>, en canoa con un adulto. El agua del Sella es fría incluso en verano y hay tramos con poca profundidad, así que lo normal es acabar mojado: lleva <strong>escarpines o calzado que se pueda mojar</strong>, bañador, crema y ropa de recambio en el coche. El móvil, en una bolsa estanca.</p>
+<p><strong>Mejor época</strong>: de junio a septiembre, con el agua más templada. En julio y agosto reserva con antelación, y evita el fin de semana de la carrera: ese día el río es solo para los competidores.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> Arriondas y Ribadesella están junto a la A-8. En los días de la carrera, <strong>llega con mucha antelación</strong>: se cortan calles.</p><p><strong>Sin coche:</strong> hay autobuses desde Oviedo a Arriondas; <strong>confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Arriondas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

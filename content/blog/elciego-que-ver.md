@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Elciego: el hotel de Gehry, la bodega Marqués de Riscal y la Rioja Alavesa'
-seoTitle: 'Qué ver en Elciego (Álava): hotel de Gehry, bodega y visitas'
+seoTitle: 'Qué ver en Elciego: bodegas, Marqués de Riscal y el pueblo'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Elciego'
 lat: 42.5129
@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Elciego"
 faq:
+  - q: "¿Qué bodegas se pueden visitar en Elciego?"
+    a: "Las más conocidas son Marqués de Riscal (fundada en 1858), Bodegas Valdelana, de una familia con raíces en el pueblo desde el siglo XVI, y Bodegas Murua. Todas piden reserva previa."
+  - q: "¿Cuándo son las fiestas de Elciego?"
+    a: "Las fiestas de la Virgen de la Plaza, alrededor del 8 de septiembre, con danzas tradicionales al son de gaiteros y tamboril."
   - q: "¿Qué ver en Elciego?"
     a: "El Hotel Marqués de Riscal de Gehry, la bodega con cava centenaria y el pueblo."
   - q: "¿Se puede visitar el hotel sin alojarse?"
@@ -26,6 +30,7 @@ faq:
     a: "Laguardia, el Valle Salado de Añana y Vitoria-Gasteiz."
 guia: /assets/guias/guia-alava-chenoaventuras.pdf
 guiaTitulo: 'Guía Álava en PDF'
+updated: 2026-10-31
 ---
 Un **hotel de titanio** diseñado por **Frank Gehry** en mitad de viñedos, una bodega centenaria y un pueblo pequeño de la Rioja Alavesa. **Elciego**, en Álava, es el lugar para ver arquitectura de vanguardia y vino, y se visita bien en **medio día**.
 
@@ -58,6 +63,19 @@ Te cuento qué ver, cómo visitar la bodega y qué más hay cerca 👇
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Bodega Marqués de Riscal:</strong> visita guiada con cava centenaria y cata.</li><li><strong>Spa de vinoterapia:</strong> en el hotel (confirma condiciones).</li><li><strong>Cerca:</strong> <a href="/blog/laguardia-que-ver.html">Laguardia</a>, <a href="/blog/valle-salado-anana.html">el Valle Salado de Añana</a> y <a href="/blog/vitoria-gasteiz-que-ver.html">Vitoria-Gasteiz</a>.</li></ul>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Enoturismo</span><h2>Bodegas en Elciego que puedes visitar</h2></div>
+<p>Elciego tiene algo más de mil habitantes y, aun así, es uno de los pueblos con más bodegas de la <strong>Rioja Alavesa</strong>: el término municipal está cubierto de viñedos entre la sierra de Toloño y el Ebro. Estas son las visitas más habituales (todas con <strong>reserva previa</strong>):</p>
+<ul>
+<li><strong>Marqués de Riscal</strong>: fundada en <strong>1858</strong>, es una de las bodegas históricas de Rioja y la del hotel de Gehry. Visitas guiadas a los calados antiguos, el viñedo y cata.</li>
+<li><strong>Bodegas Valdelana</strong>: bodega familiar que remonta su historia en Elciego al siglo XVI, con calados subterráneos, un jardín con distintas variedades de uva y vistas al Ebro.</li>
+<li><strong>Bodegas Murua</strong>: a la salida del pueblo hacia Laguardia, en manos de la familia Masaveu desde 1974; visitas con cita previa.</li>
+</ul>
+<p>Si quieres encadenar varias, la <strong>Ruta del Vino de Rioja Alavesa</strong> reúne bodegas, restaurantes y alojamientos de la comarca, y Laguardia y Samaniego quedan a pocos minutos.</p>
+
+<div class="guide__head"><span class="eyebrow">El pueblo</span><h2>Qué ver en el casco de Elciego</h2></div>
+<p>Más allá del titanio, merece la pena pasear por el pueblo: la <strong>iglesia parroquial de San Andrés</strong>, que domina el caserío; la <strong>ermita de la Virgen de la Plaza</strong>, un capricho barroco del siglo XVII en la plaza Mayor; y las calles con <strong>casas de piedra blasonadas</strong>. Si vas a principios de septiembre, coincidirás con las <strong>fiestas de la Virgen de la Plaza</strong> (en torno al 8 de septiembre), con danzas tradicionales al son de gaiteros y tamboril.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> Elciego queda en la Rioja Alavesa, a pocos minutos de Laguardia. Hay aparcamiento cerca del hotel.</p><p><strong>Consejo:</strong> reserva la bodega con antelación y no conduzcas si vas a catar vino.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Elciego, Álava" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

@@ -17,6 +17,12 @@ actividades:
     u: "https://www.civitatis.com/es/gijon/picos-europa-cueva-queso-cabrales/"
 faqTitulo: "Dudas sobre Bulnes"
 faq:
+  - q: "¿Dónde se coge el funicular de Bulnes?"
+    a: "En Poncebos (Cabrales), al final de la carretera AS-264 desde Arenas de Cabrales. Allí está la estación inferior y el aparcamiento; es el mismo punto donde empieza la Ruta del Cares."
+  - q: "¿Cuánto tarda el funicular de Bulnes?"
+    a: "Unos 7 minutos para recorrer los 2.227 metros de túnel bajo la montaña. Sale cada media hora."
+  - q: "¿Cuánto cuesta el funicular de Bulnes?"
+    a: "El billete de ida y vuelta para visitantes ronda los 22 €. Lo gestiona Alsa: confirma tarifas y horarios en su web antes de ir."
   - q: "¿Se puede llegar a Bulnes en coche?"
     a: "No, no hay carretera: se llega en funicular o a pie."
   - q: "¿Cuánto mide el túnel del funicular?"
@@ -31,6 +37,7 @@ faq:
     a: "El Castillo, el barrio más antiguo."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-10-31
 ---
 Un pueblo escondido entre montañas **al que no llega ninguna carretera**. Hasta 2001 solo se podía entrar caminando; hoy puedes subir en un **funicular** desde Poncebos o seguir el sendero. **Bulnes**, en el corazón de los Picos de Europa, es uno de los lugares más especiales de Asturias.
 
@@ -49,6 +56,19 @@ Te cuento cómo llegar, qué ver y qué tener en cuenta 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>Bulnes se divide en <strong>Bulnes de Arriba (El Castillo)</strong>, el barrio más antiguo y con menos edificios, y <strong>Bulnes de Abajo (La Villa)</strong>, con más servicios. Tradicionalmente vivía de la ganadería y del <strong>queso de Cabrales</strong>; hoy es un gran destino turístico, sobre todo para montañeros. Desde 2021 forma parte de <strong>Los Pueblos Más Bonitos de España</strong>.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Su historia</span><h2>El pueblo que vivió siglos sin carretera</h2></div>
+<p>Bulnes está metido en un valle colgado sobre la garganta del Cares, rodeado de paredes de caliza. Durante siglos, la única forma de entrar y salir fue la <strong>senda de la Canal del Tejo</strong>: por ella subían a pie o con mulas los vecinos, el correo, las medicinas y hasta los materiales para las casas. La vida giraba en torno al ganado y al <strong>queso de Cabrales</strong>, que se curaba en las cuevas de la zona.</p>
+<p>Darle acceso sin abrir una carretera en pleno Parque Nacional de los Picos de Europa no era fácil, y la solución fue <strong>meter el acceso dentro de la montaña</strong>: en <strong>2001</strong> se inauguró el <strong>funicular</strong>, que recorre un túnel de <strong>2.227 metros</strong> desde Poncebos y salva el desnivel en unos siete minutos. Gracias a él el pueblo sigue vivo, aunque hoy apenas viven en él unas decenas de personas.</p>
+
+<div class="guide__head"><span class="eyebrow">Práctico</span><h2>Funicular o senda: cuál elegir</h2></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🚠 Funicular</h3><p>Sale de <strong>Poncebos</strong> cada media hora. En temporada alta (de junio a mediados de octubre) suele funcionar de mañana a tarde sin parar; el resto del año, con un descanso a mediodía. Ida y vuelta, unos <strong>22 €</strong>. Lo gestiona Alsa: mira horarios y precios en su web antes de ir.</p></div>
+<div class="guide__tip"><h3>🥾 Canal del Tejo</h3><p>La senda tradicional: unos <strong>4 km y 400 m de desnivel</strong> de subida, sobre <strong>1 h 15 min</strong>. Exigente pero muy bonita, entre paredes de roca. En invierno, ojo con el hielo.</p></div>
+<div class="guide__tip"><h3>💡 El combo</h3><p>Lo más cómodo: <strong>subir en funicular y bajar andando</strong> por la canal, con las piernas más frescas y las mejores vistas.</p></div>
+<div class="guide__tip"><h3>🏔️ Ver el Urriellu</h3><p>Desde el pueblo no se ve el Naranjo. Para verlo, el mirador más fácil está en <strong>Camarmeña</strong>, a un paso de Poncebos; los montañeros suben hacia el <strong>collado de Pandébano</strong> o van por Sotres.</p></div>
+</div>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Bulnes</h2><p>Funicular, senda y los dos barrios.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

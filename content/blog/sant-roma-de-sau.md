@@ -13,6 +13,12 @@ tags:
   - Cataluña
 wide: true
 faq:
+  - q: "¿Cuándo se inundó Sant Romà de Sau?"
+    a: "Con la puesta en marcha del embalse de Sau, en 1962. El agua cubrió el valle, las masías del antiguo pueblo y la iglesia."
+  - q: "¿De qué época es la iglesia de Sant Romà de Sau?"
+    a: "Es románica: su consagración se fecha en 1062 y el campanario es de estilo lombardo del siglo XI."
+  - q: "¿Se puede llegar andando a la iglesia del pantano de Sau?"
+    a: "Solo cuando el embalse está muy bajo, en épocas de sequía. Aun así, no entres en el edificio: la estructura es inestable."
   - q: "¿Qué es la iglesia del pantano de Sau?"
     a: "La iglesia románica de Sant Romà de Sau, del siglo XI, que quedó bajo el agua al construirse el embalse en los años 60."
   - q: "¿Cuándo se ve la iglesia?"
@@ -58,6 +64,12 @@ Te cuento su historia y desde dónde verla 👇
 
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>El pueblo bajo el pantano</h2></div>
 <p>La iglesia es <strong>románica, del siglo XI</strong>, y el pueblo de Sau aparece en documentos desde el año 917. Cuando en los años 60 se terminó el <strong>embalse de Sau</strong>, las aguas cubrieron las masías, un puente románico y la iglesia.</p><div class="guide__legend"><h3>🏜️ La sequía de 2024</h3><p>En la gran sequía de 2023-2024 el pantano bajó por debajo del <strong>5%</strong> y se pudo ver la iglesia entera, rodeada de barro seco. Las imágenes dieron la vuelta al mundo.</p></div><div class="guide__legend"><h3>🛶 En kayak</h3><p>Con agua, la mejor forma de acercarse es en <strong>kayak o barca</strong>: en la zona hay alquiler y rutas guiadas.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Mil años de historia</span><h2>De parroquia románica a campanario en el agua</h2></div>
+<p>El valle de Sau está documentado desde el año <strong>917</strong>, cuando era un término de varias parroquias bajo el castillo de Cornil. La iglesia de <strong>Sant Romà</strong> se consagró, según el acta que se conserva, en <strong>1062</strong>, y su campanario es un buen ejemplo del <strong>románico lombardo</strong> del siglo XI: piedra, ventanas geminadas y arcos ciegos decorativos.</p>
+<p>Durante casi novecientos años fue la parroquia de un pequeño pueblo de masías, molino, escuela y cementerio junto al río Ter. Todo cambió con la construcción del <strong>embalse de Sau</strong>, que entró en funcionamiento en <strong>1962</strong> para abastecer de agua a Barcelona y su área. Los vecinos tuvieron que marcharse y el agua cubrió el valle a los pies de los acantilados de Tavertet.</p>
+<p>Desde entonces, el campanario hace de <strong>medidor improvisado</strong> del nivel del pantano: si solo asoma la punta, el embalse está lleno; si se ve la nave entera, Cataluña está en sequía. En las sequías fuertes, como la de 2023-2024, salieron a la luz los restos del molino, del cementerio y de la escuela del antiguo pueblo, y algunos antiguos vecinos pudieron volver a pisar sus calles.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Sant Romà de Sau y alrededores</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
