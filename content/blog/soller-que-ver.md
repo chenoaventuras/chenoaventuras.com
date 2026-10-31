@@ -25,8 +25,8 @@ faq:
   - q: "¿Cuándo es Es Firó de Sóller?"
     a: "El lunes después del segundo domingo de mayo, con actos durante cuatro días en Sóller y el Port de Sóller."
 actividades:
-  - t: "Tren a Sóller y paseo en barco a Sa Calobra desde Palma"
-    u: "https://www.civitatis.com/es/palma-mallorca/excursion-soller-sa-calobra/"
+  - t: "Excursión a Sóller y Valldemossa"
+    u: "https://www.civitatis.com/es/palma-mallorca/excusion-soller-valldemosa/"
 comer:
   - n: "Tres Llunes"
     r: 4.9

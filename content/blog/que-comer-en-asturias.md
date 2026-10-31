@@ -16,8 +16,8 @@ sinGuia: true
 actividades:
   - t: "Tour de quesos y sidra por Gijón"
     u: "https://www.civitatis.com/es/gijon/tour-gastronomico-gijon/"
-  - t: "Degustación de sidra y quesos en Cuevas del Agua"
-    u: "https://www.civitatis.com/es/ribadesella/degustacion-sidra-quesos-cuevas-agua/"
+  - t: "Visita al llagar Sidra JR"
+    u: "https://www.civitatis.com/es/gijon/visita-llagar-sidra-jr/"
 faqTitulo: "Dudas sobre la comida de Asturias"
 faq:
   - q: "¿Qué es lo típico para comer en Asturias?"

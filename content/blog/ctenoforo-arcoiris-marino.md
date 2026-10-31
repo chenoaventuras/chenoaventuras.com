@@ -28,8 +28,8 @@ faq:
   - q: "¿Cuándo se ven ctenóforos en el Mediterráneo?"
     a: "Están casi todo el año, pero es más fácil verlos cerca de la costa entre finales de primavera y verano."
 actividades:
-  - t: "Scooter submarina en Cabo de Palos"
-    u: "https://www.civitatis.com/es/cabo-de-palos/scooter-submarina-cabo-palos/"
+  - t: "Free tour por Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/free-tour-cabo-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 ---

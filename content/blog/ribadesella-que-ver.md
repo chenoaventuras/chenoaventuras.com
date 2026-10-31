@@ -13,10 +13,10 @@ tags:
   - Asturias
 wide: true
 actividades:
-  - t: "Descenso del Sella en canoa"
-    u: "https://www.civitatis.com/es/ribadesella/descenso-sella/"
-  - t: "Degustación de sidra y quesos en Cuevas del Agua"
-    u: "https://www.civitatis.com/es/ribadesella/degustacion-sidra-quesos-cuevas-agua/"
+  - t: "Paddle surf en Ribadesella"
+    u: "https://www.civitatis.com/es/ribadesella/tour-paddle-surf-ribadesella/"
+  - t: "Espeleología en las cuevas de los Picos de Europa"
+    u: "https://www.civitatis.com/es/ribadesella/espeleologia-cuevas-picos-europa/"
 faqTitulo: "Dudas sobre Ribadesella"
 faq:
   - q: "¿Cuándo se fundó Ribadesella?"

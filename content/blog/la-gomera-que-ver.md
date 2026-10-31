@@ -23,8 +23,8 @@ faq:
   - q: "¿Es Garajonay Patrimonio de la Humanidad?"
     a: "Sí, el Parque Nacional de Garajonay es Patrimonio de la Humanidad desde 1986 por su bosque de laurisilva."
 actividades:
-  - t: "Free tour por San Sebastián de La Gomera"
-    u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/free-tour-san-sebastian-gomera/"
+  - t: "Avistamiento de delfines y ballenas en el sur de La Gomera"
+    u: "https://www.civitatis.com/es/valle-gran-rey/avistamiento-cetaceos-valle-gran-rey/"
   - t: "Tour por el interior de La Gomera y Garajonay"
     u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/tour-interior-gomera/"
 comer:

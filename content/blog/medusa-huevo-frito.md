@@ -25,8 +25,8 @@ faq:
   - q: "¿Cuánto mide la medusa huevo frito?"
     a: "Entre 30 y 40 centímetros de diámetro."
 actividades:
-  - t: "Scooter submarina en Cabo de Palos"
-    u: "https://www.civitatis.com/es/cabo-de-palos/scooter-submarina-cabo-palos/"
+  - t: "Free tour por Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/free-tour-cabo-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 ---

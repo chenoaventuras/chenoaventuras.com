@@ -33,8 +33,8 @@ faq:
 actividades:
   - t: "Paseo en barco por las calas de Formentera"
     u: "https://www.civitatis.com/es/formentera/barco-calas-formentera/"
-  - t: "Excursión a la isla de Espalmador"
-    u: "https://www.civitatis.com/es/formentera/excursion-isla-espalmador/"
+  - t: "Excursión a Formentera desde Ibiza"
+    u: "https://www.civitatis.com/es/san-antonio-abad/excursion-formentera/"
 guia: /assets/guias/guia-formentera-chenoaventuras.pdf
 guiaTitulo: 'Guía Formentera en PDF'
 ---

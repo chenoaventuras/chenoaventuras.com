@@ -14,8 +14,8 @@ tags:
   - Asturias
 wide: true
 actividades:
-  - t: "Degustación de sidra y quesos en Cuevas del Agua"
-    u: "https://www.civitatis.com/es/ribadesella/degustacion-sidra-quesos-cuevas-agua/"
+  - t: "Espeleología en las cuevas de los Picos de Europa"
+    u: "https://www.civitatis.com/es/ribadesella/espeleologia-cuevas-picos-europa/"
 faqTitulo: "Dudas sobre La Cuevona"
 faq:
   - q: "¿Se puede entrar en coche en la Cuevona?"

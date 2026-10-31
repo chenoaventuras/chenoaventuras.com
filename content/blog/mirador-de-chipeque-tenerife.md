@@ -29,8 +29,8 @@ faq:
   - q: "¿Hace frío en el Mirador de Chipeque?"
     a: "Sí, puede hacer bastante frío al atardecer y de noche por la altitud. Lleva abrigo."
 actividades:
-  - t: "Atardecer en Chipeque: tour por el Teide con cava"
-    u: "https://www.getyourguide.es/puerto-de-la-cruz-l4994/puesta-de-sol-en-chipeque-tour-al-atardecer-por-el-parque-nacional-del-teide-con-cava-t1438972/"
+  - t: "Observación de estrellas en el Teide"
+    u: "https://www.civitatis.com/es/las-canadas-del-teide/observacion-estrellas-teide-planetario/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
 comer:

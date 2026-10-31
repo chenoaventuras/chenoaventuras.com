@@ -31,8 +31,8 @@ faq:
   - q: "¿Son Patrimonio de la Humanidad?"
     a: "No. Son Bien de Interés Cultural desde 1985 y en varias ocasiones se ha pedido su candidatura a la UNESCO, pero de momento no están en la lista."
 actividades:
-  - t: "Alquiler de kayak en Ceuta (foso de las Murallas Reales)"
-    u: "https://www.civitatis.com/es/ceuta/alquiler-kayak-ceuta/"
+  - t: "Free tour por Ceuta"
+    u: "https://www.civitatis.com/es/ceuta/free-tour-ceuta/"
 guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
 guiaTitulo: 'Guía Ceuta y Melilla en PDF'
 ---

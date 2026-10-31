@@ -27,10 +27,8 @@ faq:
 actividades:
   - t: "Paseo en barco por las calas de Formentera desde La Savina"
     u: "https://www.civitatis.com/es/formentera/barco-calas-formentera/"
-  - t: "Excursión a la isla de Espalmador desde Formentera"
-    u: "https://www.civitatis.com/es/formentera/excursion-isla-espalmador/"
-  - t: "Bautismo de buceo en la playa de Migjorn"
-    u: "https://www.civitatis.com/es/formentera/bautismo-buceo-formentera/"
+  - t: "Excursión a Formentera desde Ibiza"
+    u: "https://www.civitatis.com/es/san-antonio-abad/excursion-formentera/"
 comer:
   - n: "Pastis"
     r: 4.8

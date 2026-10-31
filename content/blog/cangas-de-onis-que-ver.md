@@ -15,8 +15,8 @@ wide: true
 actividades:
   - t: "Excursión a los lagos de Covadonga y Cangas de Onís"
     u: "https://www.civitatis.com/es/llanes/excursion-covadonga-cangas-onis/"
-  - t: "Descenso del Sella en canoa"
-    u: "https://www.civitatis.com/es/arriondas/descenso-sella-canoa/"
+  - t: "Barranquismo en Arriondas"
+    u: "https://www.civitatis.com/es/arriondas/barranquismo-arriondas/"
 faqTitulo: "Dudas sobre Cangas de Onís"
 faq:
   - q: "¿Qué ver en Cangas de Onís?"

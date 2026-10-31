@@ -13,10 +13,10 @@ tags:
   - Asturias
 wide: true
 actividades:
-  - t: "Descenso del Sella en canoa desde Arriondas"
-    u: "https://www.civitatis.com/es/arriondas/descenso-sella-canoa/"
-  - t: "Descenso del Sella en canoa desde Ribadesella"
-    u: "https://www.civitatis.com/es/ribadesella/descenso-sella/"
+  - t: "Paddle surf en Ribadesella"
+    u: "https://www.civitatis.com/es/ribadesella/tour-paddle-surf-ribadesella/"
+  - t: "Espeleología en las cuevas de los Picos de Europa"
+    u: "https://www.civitatis.com/es/ribadesella/espeleologia-cuevas-picos-europa/"
   - t: "Barranquismo en Arriondas"
     u: "https://www.civitatis.com/es/arriondas/barranquismo-arriondas/"
 faqTitulo: "Dudas sobre el Descenso del Sella"

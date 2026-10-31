@@ -28,8 +28,8 @@ faq:
 actividades:
   - t: "Free tour de la Guerra Civil en Barcelona"
     u: "https://www.civitatis.com/es/barcelona/tour-guerra-civil-espanola/"
-  - t: "Barcelona: tours a pie Gótico, Gaudí y Búnkers"
-    u: "https://www.getyourguide.es/barcelona-l45/barcelona-walking-tours-pass-gothic-gaudi-bunker-sangria-t1229168/"
+  - t: "Barcelona: búnkers del Carmel, vistas panorámicas y fotos"
+    u: "https://www.getyourguide.es/barcelona-l45/barcelona-gracia-local-walk-bunkers-golden-hour-views-t1484309/"
 comer:
   - n: "Restaurante Saó BCN"
     r: 4.7

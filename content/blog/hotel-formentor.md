@@ -22,8 +22,8 @@ faq:
   - q: "¿Cómo llegar a Formentor?"
     a: "Desde Port de Pollença por la Ma-2210; en verano hay restricciones de tráfico."
 actividades:
-  - t: "Excursión en barco a Formentor desde Alcudia"
-    u: "https://www.civitatis.com/es/alcudia/excursion-barco-formentor/"
+  - t: "Kayak, snorkel y coasteering en la bahía de Alcudia"
+    u: "https://www.civitatis.com/es/alcudia/kayak-snorkel-coasteering-bahia-alcudia/"
 comer:
   - n: "Ca'n Pescador - Port de Pollença"
     r: 4.7

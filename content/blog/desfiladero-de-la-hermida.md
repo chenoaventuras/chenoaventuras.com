@@ -33,8 +33,8 @@ comerFecha: "octubre de 2026"
 actividades:
   - t: "Vía ferrata en el desfiladero de La Hermida"
     u: "https://www.civitatis.com/es/san-vicente-de-la-barquera/via-ferrata-desfiladero-hermida/"
-  - t: "Barranquismo en La Hermida"
-    u: "https://www.civitatis.com/es/san-vicente-de-la-barquera/barranquismo-hermida/"
+  - t: "Visita guiada por la Cueva El Soplao"
+    u: "https://www.civitatis.com/es/san-vicente-de-la-barquera/visita-guiada-cueva-soplao/"
 guia: /assets/guias/guia-liebana-chenoaventuras.pdf
 guiaTitulo: 'Guía Picos de Europa en PDF'
 ---

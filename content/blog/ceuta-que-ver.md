@@ -33,8 +33,8 @@ faq:
   - q: "¿Cuándo son las fiestas de Ceuta?"
     a: "La fiesta grande es el 5 de agosto, día de la Virgen de África, patrona de la ciudad, con la Feria en esas fechas. El 2 de septiembre es el Día de Ceuta."
 actividades:
-  - t: "Alquiler de kayak en Ceuta (foso de las Murallas Reales)"
-    u: "https://www.civitatis.com/es/ceuta/alquiler-kayak-ceuta/"
+  - t: "Free tour por Ceuta"
+    u: "https://www.civitatis.com/es/ceuta/free-tour-ceuta/"
   - t: "Free tour de los misterios y leyendas de Ceuta"
     u: "https://www.civitatis.com/es/ceuta/free-tour-misterios-leyendas-ceuta/"
 comer:

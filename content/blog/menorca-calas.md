@@ -29,8 +29,8 @@ faq:
 actividades:
   - t: "Paseo en barco por las calas del sur de Menorca desde Ciudadela"
     u: "https://www.civitatis.com/es/ciudadela/paseo-barco-menorca/"
-  - t: "Paseo en barco de visión submarina por el puerto de Mahón"
-    u: "https://www.civitatis.com/es/mahon/barco-vision-submarina-mahon/"
+  - t: "Free tour por Mahón"
+    u: "https://www.civitatis.com/es/mahon/free-tour-mahon/"
   - t: "Free tour por Ciudadela"
     u: "https://www.civitatis.com/es/ciudadela/free-tour-ciudadela/"
 comer:

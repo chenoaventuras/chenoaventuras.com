@@ -29,8 +29,8 @@ actividades:
     u: "https://www.civitatis.com/es/palma-mallorca/free-tour-palma-mallorca/"
   - t: "Visita guiada por la catedral de Palma de Mallorca"
     u: "https://www.civitatis.com/es/palma-mallorca/visita-guiada-catedral-palma/"
-  - t: "Paseo en catamarán por la bahía de Palma"
-    u: "https://www.civitatis.com/es/palma-mallorca/paseo-catamaran-bahia-palma/"
+  - t: "Paseo en barco por la bahía de Palma"
+    u: "https://www.civitatis.com/es/palma-mallorca/paseo-barco-bahia-palma/"
 comer:
   - n: "El Rinconcito del Norte"
     r: 4.9

@@ -27,8 +27,8 @@ faq:
   - q: "¿Se puede pescar en Cabo de Palos?"
     a: "Dentro de la Reserva Marina hay zonas protegidas con limitaciones a la pesca; en la reserva integral de las Islas Hormigas está prohibida. Consulta la normativa antes de ir."
 actividades:
-  - t: "Scooter submarina en Cabo de Palos"
-    u: "https://www.civitatis.com/es/cabo-de-palos/scooter-submarina-cabo-palos/"
+  - t: "Free tour por Cabo de Palos"
+    u: "https://www.civitatis.com/es/cabo-de-palos/free-tour-cabo-palos/"
   - t: "Kayak y snorkel en Cabo de Palos"
     u: "https://www.civitatis.com/es/cabo-de-palos/kayak-snorkel-cabo-palos/"
 ---
