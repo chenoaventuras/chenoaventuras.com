@@ -1,5 +1,7 @@
 ---
 title: 'Guía del Monte Igueldo: las 19 atracciones y sus precios'
+seoTitle: 'Monte Igueldo: las 19 atracciones, precios y funicular'
+seoDescription: 'Atracciones del Monte Igueldo una a una, con precios, el funicular, la Montaña Suiza, el Paseo de la Risa, dónde comer y las mejores vistas de la Concha.'
 date: 2026-10-06T10:00:00.000Z
 lugar: 'Monte Igueldo'
 lat: 43.3228
@@ -46,6 +48,7 @@ comer:
     t: "Bar restaurante"
     d: "Matia Kalea, 35"
 comerFecha: "octubre de 2026"
+updated: 2026-10-31
 ---
 Hay parques de atracciones más grandes, más rápidos y más modernos. Pero ninguno tiene **la bahía de La Concha a tus pies** mientras te subes a una montaña suiza de hace casi un siglo. El Monte Igueldo lleva más de un siglo divirtiendo a familias y sigue teniendo ese encanto de parque de toda la vida que ya cuesta encontrar.
 

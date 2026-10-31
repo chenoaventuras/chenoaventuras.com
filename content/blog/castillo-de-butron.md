@@ -1,6 +1,7 @@
 ---
 title: 'Castillo de Butrón: el castillo de cuento escondido en Bizkaia'
-seoTitle: 'Castillo de Butrón: horarios, visitas y cómo llegar'
+seoTitle: 'Castillo de Butrón: horarios, precio y si se puede entrar'
+seoDescription: 'Castillo de Butrón (Bizkaia): si está abierto, horarios, si se puede entrar o solo verlo por fuera, precio, cómo llegar y dónde aparcar. Datos de 2026.'
 date: 2026-10-10T10:50:00.000Z
 lugar: 'Castillo de Butrón'
 lat: 43.3596
@@ -57,6 +58,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-bizkaia-chenoaventuras.pdf
 guiaTitulo: 'Guía Bizkaia en PDF'
+updated: 2026-10-31
 ---
 Torres con almenas, un puente sobre el agua y un bosque centenario a su alrededor: el **Castillo de Butrón** parece sacado de un cuento, pero es **el único castillo romántico de Euskadi**. Tiene más de **siete siglos de historia**, estuvo abandonado, se convirtió en restaurante, en sede de estudios de cine y en escenario de películas, y hoy es una propiedad privada en obras. Te cuento su historia, qué se puede ver ahora, cómo llegar y qué hacer por la zona 👇
 

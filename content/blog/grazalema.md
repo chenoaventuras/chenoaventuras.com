@@ -1,6 +1,7 @@
 ---
 title: 'Grazalema: el pueblo donde más llueve del sur de España'
-seoTitle: 'Grazalema: el pueblo más lluvioso del sur de España y qué ver'
+seoTitle: 'Grazalema: el pueblo donde más llueve de España y qué ver'
+seoDescription: 'Grazalema, el pueblo más lluvioso de España: por qué llueve tanto, qué ver en el pueblo blanco, el pinsapar, rutas y la Sierra de Grazalema.'
 date: 2026-10-10T09:00:00.000Z
 lugar: 'Grazalema'
 lat: 36.7586
@@ -47,6 +48,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-cadiz-chenoaventuras.pdf
 guiaTitulo: 'Guía Cádiz en PDF'
+updated: 2026-10-31
 ---
 En plena Andalucía hay un pueblo blanco donde llueve **más que en muchos sitios de Galicia**. **Grazalema** (Cádiz) recoge de media casi **2.000 litros por metro cuadrado al año**: es el lugar más lluvioso de Andalucía y de toda la mitad sur de la península.
 

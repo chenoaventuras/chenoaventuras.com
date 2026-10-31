@@ -1,5 +1,7 @@
 ---
 title: 'Ciudad Encantada de Cuenca: precio, horario y qué ver'
+seoTitle: 'Ciudad Encantada de Cuenca: horario, precio y cuánto se tarda'
+seoDescription: 'Ciudad Encantada de Cuenca: precio de la entrada (5 €), horario, cuánto se tarda en verla (1,5 h), sus formaciones más famosas y cómo llegar desde Cuenca.'
 date: 2026-10-08T12:00:00.000Z
 destino: cuenca
 lugar: 'Ciudad Encantada'
@@ -39,6 +41,7 @@ comer:
     o: 2198
     d: "C. Egido, 23"
 comerFecha: "octubre de 2026"
+updated: 2026-10-31
 ---
 Imagina un bosque de pinos donde, entre los árboles, aparecen setas gigantes, barcos, osos y caras humanas… pero todo de piedra. Eso es la **Ciudad Encantada de Cuenca**: un laberinto de rocas que el agua, el viento y el hielo llevan millones de años esculpiendo, a media hora de la ciudad.
 

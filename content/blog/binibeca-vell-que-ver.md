@@ -1,6 +1,7 @@
 ---
 title: 'Binibeca Vell: el pueblo blanco de Menorca, cuándo ir y cómo visitarlo'
-seoTitle: 'Binibeca Vell (Menorca): horarios, aparcamiento y cuándo ir'
+seoTitle: 'Binibeca Vell (Menorca): qué ver, horario y aparcamiento'
+seoDescription: 'Qué ver en Binibeca Vell, el pueblo blanco de Menorca: horario de visita, dónde aparcar, cómo llegar desde Mahón, la mejor hora y su curiosa historia.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Binibeca Vell'
 lat: 39.8333
@@ -27,6 +28,7 @@ faq:
     a: "En coche, en unos 15 minutos por la Me-8."
 guia: /assets/guias/guia-menorca-chenoaventuras.pdf
 guiaTitulo: 'Guía Menorca en PDF'
+updated: 2026-10-31
 ---
 Un **pueblo blanco** de callejones laberínticos, arcos bajos y puertas de madera frente al mar. **Binibeca Vell**, en el sur de Menorca, parece un pueblo de pescadores de siempre, aunque en realidad es una urbanización privada y habitada. Se ve bien en **un par de horas**.
 

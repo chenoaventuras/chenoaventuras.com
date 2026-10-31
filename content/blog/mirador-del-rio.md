@@ -1,6 +1,7 @@
 ---
 title: 'Mirador del Río (Lanzarote): precio, horario y vistas de La Graciosa'
-seoTitle: 'Mirador del Río, Lanzarote: entrada, horario y cómo llegar'
+seoTitle: 'Mirador del Río (Lanzarote): entrada, horario y cómo llegar'
+seoDescription: 'Mirador del Río de César Manrique: precio de la entrada (9 €), horario, cómo llegar en coche y qué islas se ven, con La Graciosa a tus pies.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Mirador del Río'
 lat: 29.2144
@@ -25,6 +26,7 @@ faq:
     a: "En coche por la carretera LZ-202 desde el pueblo de Yé. En transporte público el acceso es limitado."
 guia: /assets/guias/guia-lanzarote-chenoaventuras.pdf
 guiaTitulo: 'Guía Lanzarote y La Graciosa en PDF'
+updated: 2026-10-31
 ---
 Una cristalera abierta en lo alto de un acantilado, dentro de la propia montaña, con **La Graciosa y los islotes del archipiélago Chinijo** a tus pies. El **Mirador del Río**, en el norte de **Lanzarote**, lo diseñó **César Manrique** y se inauguró en **1973**. Es de pago, pero es uno de los miradores más espectaculares de Canarias.
 

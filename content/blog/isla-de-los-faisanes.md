@@ -1,6 +1,7 @@
 ---
 title: 'Isla de los Faisanes: la isla que cambia de país cada 6 meses'
-seoTitle: 'Isla de los Faisanes: a quién pertenece y dónde verla'
+seoTitle: 'Isla de los Faisanes: a quién pertenece y si se puede visitar'
+seoDescription: 'La isla de los Faisanes es de España 6 meses y de Francia otros 6. Por qué, si tiene habitantes, si se puede visitar y dónde verla en el Bidasoa.'
 date: 2026-10-10T10:00:00.000Z
 lugar: 'Isla de los Faisanes'
 lat: 43.3428
@@ -48,6 +49,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-gipuzkoa-chenoaventuras.pdf
 guiaTitulo: 'Guía Gipuzkoa en PDF'
+updated: 2026-10-31
 ---
 En el río Bidasoa, entre **Irun** y **Hendaya**, hay una isla diminuta que **cambia de país cada seis meses**: de febrero a julio es española y de agosto a enero, francesa. Es la **Isla de los Faisanes**, el condominio más pequeño del mundo.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Tenerife: del Teide a Anaga, de norte a sur'
-seoTitle: 'Qué ver en Tenerife: 17 lugares imprescindibles y ruta'
+seoTitle: 'Qué ver en Tenerife: 17 lugares imprescindibles y qué hacer'
+seoDescription: 'Qué ver y qué hacer en Tenerife: el Teide, Anaga, Masca, La Laguna, Garachico, Los Gigantes y más. 17 lugares imprescindibles, ruta por días y consejos.'
 date: 2026-10-11T19:30:00.000Z
 lugar: 'Tenerife'
 lat: 28.2916
@@ -46,6 +47,7 @@ comer:
     o: 1309
     d: "C. Adelantado, 16 (La Laguna)"
 comerFecha: "octubre de 2026"
+updated: 2026-10-31
 ---
 El pico más alto de España, acantilados que caen cientos de metros al mar, bosques de laurisilva envueltos en niebla, pueblos coloniales Patrimonio de la Humanidad y playas de arena negra. **Tenerife** es la isla más grande de Canarias y la que más contrastes tiene.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Tossa de Mar: el pueblo que enamoró a Ava Gardner'
-seoTitle: 'Tossa de Mar: la Vila Vella, la estatua de Ava Gardner y qué ver'
+seoTitle: 'Tossa de Mar: la estatua de Ava Gardner y qué ver'
+seoDescription: 'La estatua de Ava Gardner en Tossa de Mar, por qué está allí y dónde encontrarla en la Vila Vella. Qué ver en Tossa: murallas, faro, calas y playa.'
 date: 2026-10-10T09:00:00.000Z
 lugar: 'Tossa de Mar'
 lat: 41.7206
@@ -44,6 +45,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-girona-chenoaventuras.pdf
 guiaTitulo: 'Guía Girona en PDF'
+updated: 2026-10-31
 ---
 En **1950** llegó a un pequeño pueblo de la Costa Brava la actriz más famosa del momento: **Ava Gardner**. Venía a rodar *Pandora y el holandés errante* con James Mason. Desde entonces, **Tossa de Mar** tiene una **estatua** suya mirando al mar.
 

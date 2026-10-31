@@ -1,8 +1,9 @@
 ---
 title: 'Batería de Castillitos (Cartagena): cómo llegar, fotos y qué ver'
-seoTitle: 'Batería de Castillitos: cómo llegar, fotos y qué ver'
+seoTitle: 'Batería de Castillitos: cómo llegar, precio y qué ver'
+seoDescription: 'Batería de Castillitos (Cartagena): cómo llegar por la carretera de Cabo Tiñoso, si se paga (es gratis), horario, sus cañones Vickers y las mejores fotos.'
 date: 2026-08-19T18:07:01.000Z
-updated: 2026-10-08
+updated: 2026-10-31
 lugar: 'Batería de Castillitos'
 lat: 37.54
 lng: -1.1209

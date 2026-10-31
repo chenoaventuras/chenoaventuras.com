@@ -1,6 +1,7 @@
 ---
 title: 'Piscinas naturales de Agaete (Las Salinas): cómo llegar y qué saber antes de bañarte'
-seoTitle: 'Piscinas naturales de Agaete: cómo llegar y consejos'
+seoTitle: 'Piscinas naturales de Agaete: cómo llegar y dónde aparcar'
+seoDescription: 'Piscinas naturales de Las Salinas de Agaete (Gran Canaria): cómo llegar, dónde aparcar, cuántas piscinas hay, qué calzado llevar y la mejor hora para ir.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Piscinas naturales de Agaete'
 lat: 28.1067
@@ -13,6 +14,14 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre las piscinas naturales de Agaete"
 faq:
+  - q: "¿Por qué se llaman Las Salinas de Agaete?"
+    a: "Porque en ese punto funcionó una pequeña salina desde el siglo XVII hasta mediados del siglo XX. Las piscinas ocupan su lugar."
+  - q: "¿Cuánto cuesta bañarse en las piscinas naturales de Agaete?"
+    a: "Nada: son de acceso libre y gratuito."
+  - q: "¿Hay socorrista en las piscinas de Agaete?"
+    a: "Solo en temporada alta: el Ayuntamiento activa el socorrismo en Las Salinas y en la playa de Las Nieves en verano. El resto del año, báñate con precaución."
+  - q: "¿Cuándo no conviene bañarse en Las Salinas?"
+    a: "Con mar de fondo o temporal del norte, cuando las olas rompen por encima de los muros. Mira el estado del mar antes de ir."
   - q: "¿Dónde están las piscinas naturales de Agaete?"
     a: "En Las Salinas de Agaete, junto a Puerto de las Nieves, en el noroeste de Gran Canaria."
   - q: "¿Cuántas piscinas hay?"
@@ -23,6 +32,7 @@ faq:
     a: "Cerca de Puerto de las Nieves; hay un aparcamiento a unos 200 metros de las piscinas."
 guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
 guiaTitulo: 'Guía Gran Canaria en PDF'
+updated: 2026-10-31
 ---
 Tres piscinas de agua de mar encajadas en la roca volcánica, a pocos pasos del pueblo marinero de **Puerto de las Nieves**. Las **piscinas naturales de Agaete** (Las Salinas) están en el noroeste de Gran Canaria y son uno de los mejores sitios de la isla para bañarte sin olas.
 
@@ -40,6 +50,15 @@ Te cuento cómo llegar y qué saber antes de meterte 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Antiguas salinas</h2></div>
 <p>Estas piscinas <strong>ocupan el lugar de unas antiguas salinas</strong>, de ahí el nombre de <strong>Las Salinas de Agaete</strong>. El mar entra y sale con las <strong>mareas</strong>, así que el agua se renueva sola, sin mantenimiento.</p><p>Como cada piscina tiene una profundidad distinta, ten en cuenta a los más pequeños: algunas son poco profundas y otras no.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Su historia</span><h2>Lava, sal y mar: cómo nacieron las piscinas</h2></div>
+<p>Todo empieza con un volcán. En esta punta de la costa de Agaete, las <strong>coladas de lava</strong> llegaron hasta el mar y se enfriaron formando una plataforma de roca negra llena de huecos y tubos. Con los siglos, la erosión del oleaje fue vaciando y puliendo esos huecos hasta dejar las tres pozas que hoy se conectan entre sí y con el mar por <strong>túneles volcánicos bajo el agua</strong>.</p>
+<p>El nombre viene de su otro uso: aquí funcionó una <strong>pequeña salina desde el siglo XVII hasta mediados del siglo XX</strong>. El mar entraba en las pozas, el sol evaporaba el agua y los vecinos recogían la sal. Cuando la salina dejó de usarse, las pozas se acondicionaron con escaleras y muros para el baño, y se convirtieron en uno de los lugares favoritos de los canarios del norte para nadar sin olas.</p>
+
+<div class="guide__head"><span class="eyebrow">Muy cerca</span><h2>Puerto de las Nieves y el Dedo de Dios</h2></div>
+<p>A un paseo de las piscinas está <strong>Puerto de las Nieves</strong>, el barrio marinero de Agaete, con su playa de cantos, su paseo y restaurantes de pescado. Desde su muelle salen los ferris hacia Tenerife.</p>
+<p>Frente a la costa asoma el <strong>Roque Partido</strong>, más conocido como el <strong>Dedo de Dios</strong>: un pináculo de roca que durante siglos tuvo forma de dedo apuntando al cielo. La <strong>tormenta tropical Delta</strong>, en noviembre de 2005, derribó la punta del «dedo», pero el roque sigue siendo el gran símbolo de Agaete y se ve perfecto desde el paseo al atardecer.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Agua cristalina en un marco de lava.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

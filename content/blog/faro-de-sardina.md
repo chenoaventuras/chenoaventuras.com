@@ -1,6 +1,7 @@
 ---
 title: 'Faro de Sardina (Gáldar): atardecer, historia y cómo llegar al faro rojo y blanco'
-seoTitle: 'Faro de Sardina (Gáldar, Gran Canaria): cómo llegar y atardecer'
+seoTitle: 'Faro de Sardina (Gáldar): cómo llegar y atardecer'
+seoDescription: 'Faro de Sardina o de Punta Sardina (Gáldar, Gran Canaria): cómo llegar, dónde aparcar, el atardecer sobre el Atlántico y la playa de Sardina del Norte.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Faro de Sardina'
 lat: 28.1647
@@ -25,6 +26,7 @@ faq:
     a: "Desde Gáldar por la carretera C-810 hacia Agaete, y a la altura del km 28 se gira hacia el faro: son unos 7 km."
 guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
 guiaTitulo: 'Guía Gran Canaria en PDF'
+updated: 2026-10-31
 ---
 Un faro de rayas rojas y blancas plantado sobre un cabo del norte de Gran Canaria, con el Atlántico a los pies. El **Faro de Sardina** (o de Punta Sardina) está en la costa de **Gáldar**, junto al pequeño puerto y la playa de **Sardina del Norte**, y es uno de los mejores sitios de la isla para ver el **atardecer**.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Cascada del Sorrosal (Broto): cómo llegar y su vía ferrata'
-seoTitle: 'Cascada del Sorrosal en Broto: cómo llegar y vía ferrata'
+seoTitle: 'Cascada del Sorrosal (Broto): cómo llegar y vía ferrata'
+seoDescription: 'Cascada del Sorrosal en Broto: cómo llegar, dónde aparcar, la vía ferrata del Sorrosal junto a la cascada, su dificultad y la mejor época para verla.'
 date: 2026-10-08T18:30:00.000Z
 destino: pirineo-aragones
 lugar: 'Broto'
@@ -49,6 +50,7 @@ comer:
     o: 962
     d: "Av. Ordesa, 10"
 comerFecha: "octubre de 2026"
+updated: 2026-10-31
 ---
 Una cascada de unos **80 metros** cayendo en dos saltos… a **5 minutos andando del pueblo**. La **Cascada del Sorrosal**, en **Broto**, es probablemente la cascada más fácil de ver de todo el Pirineo Aragonés, y una de las más espectaculares.
 

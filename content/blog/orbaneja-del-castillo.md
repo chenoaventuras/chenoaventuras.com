@@ -1,6 +1,7 @@
 ---
 title: 'Orbaneja del Castillo: el pueblo partido por una cascada'
-seoTitle: 'Orbaneja del Castillo: cascada, qué ver y cómo llegar'
+seoTitle: 'Orbaneja del Castillo: cómo llegar, cascada y qué ver'
+seoDescription: 'Cómo llegar a Orbaneja del Castillo (Burgos) en coche y dónde aparcar, su cascada entre las casas, las cuevas, miradores y qué ver en el cañón del Ebro.'
 destino: burgos
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Orbaneja del Castillo'
@@ -42,6 +43,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-burgos-chenoaventuras.pdf
 guiaTitulo: 'Guía Burgos en PDF'
+updated: 2026-10-31
 ---
 Un pueblo de piedra encajado bajo unas peñas gigantes, en pleno cañón del Ebro… y una **cascada que nace en una cueva y baja atravesando el pueblo** hasta el río. **Orbaneja del Castillo** parece sacado de un cuento, y es uno de los pueblos más fotografiados de Burgos.
 

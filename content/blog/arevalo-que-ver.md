@@ -1,7 +1,8 @@
 ---
 title: 'Arévalo (Ávila): qué ver, villa mudéjar de Isabel la Católica'
-updated: 2026-10-26
-seoTitle: 'Qué ver en Arévalo (Ávila): plaza, iglesias mudéjares y castillo'
+seoTitle: 'Arévalo (Ávila): qué ver en la villa de Isabel la Católica'
+seoDescription: 'Qué ver en Arévalo: la Plaza de la Villa, sus iglesias mudéjares, el castillo y La Lugareja. Historia, cómo llegar desde Madrid y plan para un día.'
+updated: 2026-10-31
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Arévalo'
 lat: 41.0617

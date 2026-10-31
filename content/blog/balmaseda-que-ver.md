@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Balmaseda: la villa más antigua de Bizkaia, el Puente Viejo y la putxera'
-seoTitle: 'Qué ver en Balmaseda (Bizkaia): Puente Viejo, casco histórico y putxera'
+seoTitle: 'Qué ver en Balmaseda (Bizkaia): Puente Viejo y casco histórico'
+seoDescription: 'Qué ver en Balmaseda: el Puente Viejo, el casco histórico, sus iglesias, la putxera y la Pasión Viviente de Semana Santa. Cómo llegar desde Bilbao y plan.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Balmaseda'
 lat: 43.1944
@@ -26,6 +27,7 @@ faq:
     a: "La representación de la Pasión de Cristo con vecinos de Balmaseda en Semana Santa. La edición de 2026 fue la 52ª."
 guia: /assets/guias/guia-bizkaia-chenoaventuras.pdf
 guiaTitulo: 'Guía Bizkaia en PDF'
+updated: 2026-10-31
 ---
 La **villa más antigua de Bizkaia**, con puente medieval con torreón, un casco histórico de calles de piedra y balcones de madera, y la **putxera**, su famoso cocido de alubias. **Balmaseda** está en las Encartaciones, a media hora de Bilbao, y es una escapada perfecta de medio día.
 

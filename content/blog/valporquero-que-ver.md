@@ -1,6 +1,7 @@
 ---
 title: 'Cueva de Valporquero (León): recorridos, horarios y consejos para visitarla'
-seoTitle: 'Cueva de Valporquero: recorridos, horarios, entradas y cómo llegar'
+seoTitle: 'Cuevas de Valporquero: cómo llegar, recorridos y precio'
+seoDescription: 'Cuevas de Valporquero (León): cómo llegar en coche desde León, los recorridos normal, largo e Insólito, cuánto duran, precio, reserva y temperatura dentro.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Cueva de Valporquero'
 lat: 42.9347
@@ -30,6 +31,7 @@ faq:
     a: "Del 1 de marzo al 13 de diciembre. De marzo a abril y de octubre a diciembre solo abre de jueves a domingo y festivos; de mayo a septiembre, todos los días. Confirma los horarios en la web oficial."
 guia: /assets/guias/guia-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía León en PDF'
+updated: 2026-10-31
 ---
 Una cueva con **salas enormes llenas de estalactitas**, un recorrido iluminado a unos **7 grados** todo el año y un paisaje de montaña en la Reserva de la Biosfera de los Argüellos. La **Cueva de Valporquero**, en León, es una de las cuevas turísticas más espectaculares del norte de España y se visita en **un par de horas**.
 

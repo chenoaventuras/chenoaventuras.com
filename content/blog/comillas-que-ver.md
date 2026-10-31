@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Comillas: El Capricho de Gaudí y el pueblo modernista de Cantabria'
-seoTitle: 'Qué ver en Comillas: El Capricho de Gaudí, precio y horario'
+seoTitle: 'Qué ver en Comillas: El Capricho de Gaudí y qué hacer'
+seoDescription: 'Qué ver y qué hacer en Comillas (Cantabria): El Capricho de Gaudí (precio y horario), el Palacio de Sobrellano, la Universidad Pontificia y su playa.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Comillas'
 lat: 43.3856
@@ -45,6 +46,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-cantabria-occidental-chenoaventuras.pdf
 guiaTitulo: 'Guía Comillas, San Vicente y El Soplao en PDF'
+updated: 2026-10-31
 ---
 Un pueblo marinero de Cantabria con una **casa de Gaudí** cubierta de girasoles, un palacio neogótico, un ángel gigante vigilando un cementerio en ruinas y una universidad que parece un castillo. **Comillas** es el pueblo modernista por excelencia del norte, y además tiene playa.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Senda de los Cazadores y mirador de Calcilarruego (Ordesa)'
-seoTitle: 'Senda de los Cazadores (Ordesa): mirador de Calcilarruego'
+seoTitle: 'Senda de los Cazadores (Ordesa) y mirador de Calcilarruego'
+seoDescription: 'Ruta de la Senda de los Cazadores en Ordesa: subida al mirador de Calcilarruego, desnivel, tiempo, la Faja de Pelay y la bajada a la Cola de Caballo.'
 date: 2026-10-08T18:10:00.000Z
 destino: pirineo-aragones
 lugar: 'Ordesa'
@@ -42,6 +43,7 @@ comer:
     t: "Bar restaurante"
     d: "Calle A'rruata, 45"
 comerFecha: "octubre de 2026"
+updated: 2026-10-31
 ---
 Hay rutas que se ganan las vistas a pulso, y la **Senda de los Cazadores** es la reina. En solo 2 kilómetros sube más de 600 metros en zigzag desde la Pradera de Ordesa hasta el **mirador de Calcilarruego**, un balcón a casi 2.000 metros desde el que ves todo el valle de Ordesa con Monte Perdido al fondo.
 

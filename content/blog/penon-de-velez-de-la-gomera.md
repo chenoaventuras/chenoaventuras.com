@@ -1,6 +1,7 @@
 ---
 title: 'Peñón de Vélez de la Gomera: la frontera más corta del mundo'
-seoTitle: 'Peñón de Vélez de la Gomera: la frontera de 85 metros entre España y Marruecos'
+seoTitle: 'Peñón de Vélez de la Gomera: la frontera más corta del mundo'
+seoDescription: 'El Peñón de Vélez de la Gomera es España en la costa de Marruecos, con una frontera de unos 85 metros. Su historia, por qué es español y si se puede visitar.'
 date: 2026-10-10T09:00:00.000Z
 lugar: 'Peñón de Vélez de la Gomera'
 lat: 35.1722
@@ -29,6 +30,7 @@ faq:
     a: "En la costa mediterránea de Marruecos, a más de 100 km tanto de Ceuta como de Melilla."
 guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
 guiaTitulo: 'Guía Ceuta y Melilla en PDF'
+updated: 2026-10-31
 ---
 En la costa de Marruecos, entre Ceuta y Melilla, hay una roca de 87 metros de altura que es **España**. El **Peñón de Vélez de la Gomera** tiene la **frontera terrestre más corta del mundo**: unos **85 metros**.
 

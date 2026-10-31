@@ -1,6 +1,7 @@
 ---
 title: 'Sant Romà de Sau: el campanario que sale del pantano'
-seoTitle: 'Sant Romà de Sau: la iglesia del pantano de Sau y cómo verla'
+seoTitle: 'Sant Romà de Sau: la iglesia del pantano de Sau'
+seoDescription: 'Sant Romà de Sau, la iglesia que asoma en el pantano de Sau: su historia, cuándo se ve entera según el nivel del agua, cómo llegar y miradores.'
 date: 2026-10-10T09:00:00.000Z
 lugar: 'Sant Romà de Sau'
 lat: 41.9653
@@ -39,6 +40,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-barcelona-chenoaventuras.pdf
 guiaTitulo: 'Guía Barcelona en PDF'
+updated: 2026-10-31
 ---
 En medio del pantano de **Sau** (Barcelona) asoma un **campanario románico**. Es lo que queda de **Sant Romà de Sau**, un pueblo que quedó bajo el agua en los años 60. Según llueva más o menos, la torre aparece entera, a medias... o se puede llegar andando hasta ella.
 

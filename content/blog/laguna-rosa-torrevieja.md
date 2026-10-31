@@ -1,6 +1,7 @@
 ---
 title: 'Laguna Rosa de Torrevieja: el lago rosa de Alicante'
-seoTitle: 'Laguna Rosa de Torrevieja: ¿se puede bañar? Cómo llegar'
+seoTitle: 'Laguna Rosa de Torrevieja: cómo llegar y ¿se puede bañar?'
+seoDescription: 'Laguna Rosa de Torrevieja: cómo llegar y dónde aparcar, por qué es rosa, si se puede bañar (no, con multa), cuándo está más rosa y la mejor hora para fotos.'
 date: 2026-10-10T09:10:00.000Z
 lugar: 'Laguna Rosa de Torrevieja'
 lat: 37.9905
@@ -39,6 +40,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-alicante-chenoaventuras.pdf
 guiaTitulo: 'Guía Alicante en PDF'
+updated: 2026-10-31
 ---
 Agua de color **rosa chicle**, montañas de sal blanca y flamencos al fondo. La **Laguna Rosa de Torrevieja** es uno de esos sitios que parecen editados... y no lo están.
 

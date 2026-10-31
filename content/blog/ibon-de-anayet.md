@@ -1,6 +1,7 @@
 ---
 title: 'Ibón de Anayet: ruta desde Formigal, distancia y desnivel'
 seoTitle: 'Ibón de Anayet: ruta desde Formigal paso a paso'
+seoDescription: 'Ruta al Ibón de Anayet desde Formigal: distancia, desnivel, tiempo, dónde aparcar y la mejor época. Con el pico Anayet reflejado en el agua.'
 date: 2026-10-08T18:20:00.000Z
 destino: pirineo-aragones
 lugar: 'Valle de Tena'
@@ -48,6 +49,7 @@ comer:
     t: "Restaurante de cocina española"
     d: "C. Única, 10"
 comerFecha: "octubre de 2026"
+updated: 2026-10-31
 ---
 Un lago de alta montaña que refleja un pico puntiagudo y, al fondo, la silueta del **Midi d'Ossau** ya en Francia: la postal de los **ibones de Anayet** es de las más famosas de todo el Pirineo. Y lo mejor es que se llega con una ruta asequible desde **Formigal**, en el Valle de Tena.
 

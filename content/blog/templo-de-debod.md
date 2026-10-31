@@ -1,6 +1,7 @@
 ---
 title: 'Templo de Debod: un templo egipcio de verdad en Madrid'
-seoTitle: 'Templo de Debod: horario, reservas, entrada gratis y atardecer'
+seoTitle: 'Templo de Debod: horario, entrada gratis y reservas'
+seoDescription: 'Templo de Debod (Madrid): horario del interior, si es gratis y si hay que reservar online, cómo verlo de noche y al atardecer y por qué está en Madrid.'
 date: 2026-10-10T10:10:00.000Z
 lugar: 'Templo de Debod'
 lat: 40.424
@@ -47,6 +48,7 @@ comer:
     t: "Restaurante italiano"
     d: "C. del Espíritu Santo, 16"
 comerFecha: "octubre de 2026"
+updated: 2026-10-31
 ---
 Tiene más de **2.000 años**, viene de las orillas del **Nilo** y está en pleno centro de **Madrid**. El **Templo de Debod** es un templo egipcio auténtico, piedra a piedra, y su atardecer es uno de los más famosos de la ciudad.
 

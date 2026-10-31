@@ -209,6 +209,8 @@ function readPosts() {
       destino: data.destino ? String(data.destino).trim() : "",
       provincia: data.provincia ? String(data.provincia).trim() : "",
       seoTitle: data.seoTitle ? String(data.seoTitle).trim() : "",
+      // meta description para Google (~155 caracteres); si no hay, se usa el extracto
+      seoDescription: data.seoDescription ? String(data.seoDescription).trim() : "",
       guia: data.guia ? String(data.guia) : "",
       evento: data.evento === true || data.evento === "true",
       guiaTitulo: data.guiaTitulo ? String(data.guiaTitulo) : "",
@@ -572,7 +574,7 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
         {
           "@type": "BlogPosting",
           headline: p.title,
-          description: p.excerpt,
+          description: p.seoDescription || p.excerpt,
           datePublished: p.date.toISOString(),
           dateModified: p.updated.toISOString(),
           image: coverAbs || OG_DEFAULT,
@@ -687,7 +689,7 @@ ${related.map((r) => blogCard(r, { level: 3 })).join("\n")}
 
   return shell({
     title: seoTitleOf(p),
-    description: p.excerpt,
+    description: p.seoDescription || p.excerpt,
     canonical: p.url,
     image: coverAbs,
     ogType: "article",

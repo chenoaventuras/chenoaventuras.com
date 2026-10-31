@@ -1,6 +1,7 @@
 ---
 title: 'Parque Temático del Mudéjar de Olmedo: maquetas de castillos y qué ver con niños'
-seoTitle: 'Parque Mudéjar de Olmedo (Valladolid): horarios, precio y qué ver'
+seoTitle: 'Parque Temático del Mudéjar de Olmedo: entradas y horario'
+seoDescription: 'Parque Temático del Mudéjar de Olmedo: precio de las entradas, horario, sus 20 maquetas de monumentos mudéjares, si es para niños y cómo llegar.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Olmedo'
 lat: 41.2927
@@ -26,6 +27,7 @@ faq:
     a: "En coche, en unos 40 minutos."
 guia: /assets/guias/guia-valladolid-chenoaventuras.pdf
 guiaTitulo: 'Guía Valladolid en PDF'
+updated: 2026-10-31
 ---
 Un parque donde puedes **entrar dentro de un castillo de ladrillo** y pasear junto a **veinte monumentos a escala**, con trenes en miniatura y ríos de juguete. El **Parque Temático del Mudéjar de Castilla y León**, en **Olmedo (Valladolid)**, es un plan perfecto para ir en familia y descubrir el arte mudéjar sin conducir por media región. Se visita en **una mañana o una tarde**.
 

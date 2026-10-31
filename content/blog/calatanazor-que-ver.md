@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Calatañazor: el pueblo medieval donde Almanzor perdió el tambor'
-seoTitle: 'Qué ver en Calatañazor (Soria): pueblo, castillo y leyenda de Almanzor'
+seoTitle: 'Calatañazor: qué ver y la leyenda de Almanzor'
+seoDescription: 'Qué ver en Calatañazor (Soria): su calle empedrada, el castillo, el sabinar y la leyenda de Almanzor. Cómo llegar desde Soria y plan para una mañana.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Calatañazor'
 lat: 41.7058
@@ -26,6 +27,7 @@ faq:
     a: "En otoño y primavera. En verano conviene ir a primera hora o al final de la tarde."
 guia: /assets/guias/guia-soria-chenoaventuras.pdf
 guiaTitulo: 'Guía Soria en PDF'
+updated: 2026-10-31
 ---
 Calles empedradas, casas de **entramado de madera de sabina**, una muralla con ocho torres cilíndricas y un castillo en ruinas con vistas a la llanura donde, según la leyenda, **Almanzor perdió el tambor**. **Calatañazor** es uno de los pueblos medievales mejor conservados de Soria y se ve en **medio día**.
 

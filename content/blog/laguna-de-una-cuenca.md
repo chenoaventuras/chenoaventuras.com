@@ -1,5 +1,7 @@
 ---
 title: 'Laguna de Uña (Cuenca): qué ver, ruta y cómo llegar'
+seoTitle: 'Laguna de Uña: cómo llegar, rutas y qué ver'
+seoDescription: 'Laguna de Uña (Cuenca): cómo llegar desde Cuenca (35 km), la pasarela, la ruta del Escalerón, si se puede bañar y qué animales verás. Visita gratis.'
 date: 2026-10-08T12:10:00.000Z
 destino: cuenca
 lugar: 'Uña'
@@ -36,6 +38,7 @@ comer:
     o: 2198
     d: "C. Egido, 23"
 comerFecha: "octubre de 2026"
+updated: 2026-10-31
 ---
 Aguas verdes y turquesas, pasarelas de madera entre los juncos y enormes paredes de roca alrededor: la **Laguna de Uña** es de esos sitios que no esperas encontrarte en plena **Serranía de Cuenca**. Y lo mejor es que está a solo 15 minutos de la Ciudad Encantada.
 

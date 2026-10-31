@@ -1,6 +1,7 @@
 ---
 title: 'Roque Nublo: reserva, sendero y cómo llegar al símbolo de Gran Canaria'
-seoTitle: 'Roque Nublo: reserva obligatoria, sendero y cómo llegar'
+seoTitle: 'Roque Nublo: reserva, cuánto mide y cómo llegar'
+seoDescription: 'Roque Nublo (Gran Canaria): cómo hacer la reserva obligatoria, dónde aparcar, cuánto mide (80 m), cuánto se tarda en subir y cómo se formó este volcán.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Roque Nublo'
 lat: 27.9707
@@ -42,6 +43,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
 guiaTitulo: 'Guía Gran Canaria en PDF'
+updated: 2026-10-31
 ---
 Un monolito de roca volcánica de unos **80 metros** plantado en lo alto de la isla, a más de 1.800 metros de altura, con el **Teide** asomando sobre el mar de nubes. El **Roque Nublo** es el símbolo de Gran Canaria y una de las excursiones más bonitas de Canarias.
 

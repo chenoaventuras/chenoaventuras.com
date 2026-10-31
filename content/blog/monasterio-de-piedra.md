@@ -1,6 +1,7 @@
 ---
 title: 'Monasterio de Piedra: cascadas, grutas y un monasterio entre el agua'
-seoTitle: 'Monasterio de Piedra: precio 2026, horario, cascadas y ruta'
+seoTitle: 'Monasterio de Piedra: entradas, precio y horario 2026'
+seoDescription: 'Monasterio de Piedra: precio de las entradas en 2026 (20 € adulto), horario del parque y del monasterio, la ruta de 5 km por sus cascadas y cómo llegar.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Monasterio de Piedra'
 lat: 41.192
@@ -10,7 +11,7 @@ cover: /assets/img/blog/monasterio-de-piedra/portada.webp
 tags:
   - Spots
   - Aragón
-updated: 2026-10-26
+updated: 2026-10-31
 wide: true
 faqTitulo: "Dudas sobre el Monasterio de Piedra"
 faq:

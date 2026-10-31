@@ -1,6 +1,7 @@
 ---
 title: 'Plaza de España de Sevilla: curiosidades, Star Wars y qué ver'
-seoTitle: 'Plaza de España de Sevilla: curiosidades, horario y Star Wars'
+seoTitle: 'Plaza de España de Sevilla: Star Wars, horario y curiosidades'
+seoDescription: 'Plaza de España de Sevilla: dónde se rodó Star Wars, a qué hora cierra, si es gratis, sus bancos de provincias y las curiosidades que casi nadie cuenta.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Plaza de España (Sevilla)'
 lat: 37.3772
@@ -45,6 +46,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-sevilla-chenoaventuras.pdf
 guiaTitulo: 'Guía Sevilla en PDF'
+updated: 2026-10-31
 ---
 Hay sitios que salen en todas las fotos de Sevilla, y la **Plaza de España** es el número uno. Un semicírculo enorme de ladrillo y azulejo, con torres, puentes, un canal donde puedes remar en barca… y tanto aire de palacio de cuento que **hasta Star Wars la eligió para rodar**.
 

@@ -1,6 +1,7 @@
 ---
 title: 'San Juan de Gaztelugatxe: reserva, escalones y cómo llegar'
-seoTitle: 'San Juan de Gaztelugatxe: reserva gratis, escalones y cómo llegar'
+seoTitle: 'San Juan de Gaztelugatxe: reserva, horario y 241 escalones'
+seoDescription: 'San Juan de Gaztelugatxe: cuándo hay que reservar (es gratis), horario, sus 241 escalones, cuánto se tarda en subir, Juego de Tronos y cómo llegar.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'San Juan de Gaztelugatxe'
 lat: 43.4471
@@ -40,6 +41,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-bizkaia-chenoaventuras.pdf
 guiaTitulo: 'Guía Bizkaia en PDF'
+updated: 2026-10-31
 ---
 Un islote unido a la costa por un puente de piedra, un camino en zigzag de **241 escalones** y, arriba del todo, una pequeña ermita con una campana que todo el mundo toca tres veces. **San Juan de Gaztelugatxe** es uno de los paisajes más famosos de la costa vasca… y desde que salió en **Juego de Tronos**, más todavía.
 

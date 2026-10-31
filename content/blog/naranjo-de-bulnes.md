@@ -1,6 +1,7 @@
 ---
 title: 'Naranjo de Bulnes (Picu Urriellu): altura, cómo verlo y rutas a la Vega de Urriellu'
 seoTitle: 'Naranjo de Bulnes: altura, historia y cómo verlo'
+seoDescription: 'El Naranjo de Bulnes mide 2.519 m. Dónde está, por qué se llama así, la primera escalada de 1904 y las mejores rutas y miradores para verlo de cerca.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Naranjo de Bulnes'
 lat: 43.2008
@@ -33,6 +34,7 @@ faq:
     a: "Las rutas largas sí; consulta tiempo y estado."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-10-31
 ---
 La gran roca de los Picos de Europa: una **torre de caliza de 2.519 metros** que se ve desde muchos puntos y que es el sueño de muchos escaladores. El **Naranjo de Bulnes**, o **Picu Urriellu**, está en el macizo de los Urrieles (concejo de Cabrales).
 

@@ -1,5 +1,7 @@
 ---
 title: 'Mirador del Ventano del Diablo: cómo llegar y su leyenda'
+seoTitle: 'Ventano del Diablo (Cuenca): cómo llegar y su leyenda'
+seoDescription: 'Cómo llegar al mirador del Ventano del Diablo en la Serranía de Cuenca, dónde aparcar, sus vistas a la hoz del Júcar y la leyenda que le da nombre.'
 date: 2026-10-08T12:30:00.000Z
 destino: cuenca
 lugar: 'Ventano del Diablo'
@@ -31,6 +33,7 @@ comer:
     r: 4.4
     o: 1430
 comerFecha: "octubre de 2026"
+updated: 2026-10-31
 ---
 Una cueva en la roca con dos enormes ventanas que se asoman al vacío, y abajo, a casi 200 metros, el río Júcar serpenteando entre pinares: así es el **mirador del Ventano del Diablo**, uno de los balcones naturales más espectaculares de la **Serranía de Cuenca**.
 

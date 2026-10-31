@@ -1,6 +1,7 @@
 ---
 title: 'Playa de Daimús: amaneceres, dunas y qué hacer en la costa de la Safor'
-seoTitle: 'Playa de Daimús (Valencia): servicios, cómo llegar y qué ver cerca'
+seoTitle: 'Playa de Daimús: cómo llegar, aparcamiento y servicios'
+seoDescription: 'Cómo llegar a la playa de Daimús (Valencia) en coche o autobús, dónde aparcar, qué servicios tiene y qué ver cerca en Gandia y la Safor.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Playa de Daimús'
 lat: 38.977
@@ -26,6 +27,7 @@ faq:
     a: "No, forman parte de las Dunas de la Safor y hay que respetar la vegetación."
 guia: /assets/guias/guia-valencia-chenoaventuras.pdf
 guiaTitulo: 'Guía Valencia en PDF'
+updated: 2026-10-31
 ---
 Una playa larga de **arena dorada**, dunas protegidas, aguas tranquilas y amaneceres rojizos sobre el Mediterráneo. La **playa de Daimús**, en la Safor (Valencia), es una de las más agradables de la costa entre Gandia y Oliva, y se disfruta en **medio día** o en un día de playa completo.
 

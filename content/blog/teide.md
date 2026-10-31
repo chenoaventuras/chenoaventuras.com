@@ -1,6 +1,7 @@
 ---
 title: 'Subir al Teide: permiso, teleférico y rutas al techo de España'
-seoTitle: 'Subir al Teide: permiso al pico, teleférico y precios 2026'
+seoTitle: 'Permiso para subir al pico del Teide: cómo pedirlo y rutas'
+seoDescription: 'Cómo conseguir el permiso para subir al pico del Teide, el teleférico y sus precios 2026, la ruta de Montaña Blanca, el refugio de Altavista y consejos.'
 destino: tenerife
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Teide'
@@ -41,6 +42,7 @@ actividades:
     u: "https://www.civitatis.com/es/puerto-de-la-cruz/entrada-teleferico-teide-senderismo-pico/"
 guia: /assets/guias/guia-tenerife-chenoaventuras.pdf
 guiaTitulo: 'Guía Tenerife en PDF'
+updated: 2026-10-31
 ---
 Con sus **3.715 metros**, el **Teide** es el pico más alto de España y uno de los volcanes más impresionantes del mundo. Subir hasta arriba, con el olor a azufre de las fumarolas y un mar de nubes bajo tus pies, es una de esas experiencias que hay que vivir al menos una vez.
 

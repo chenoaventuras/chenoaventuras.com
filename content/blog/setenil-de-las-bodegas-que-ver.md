@@ -1,6 +1,7 @@
 ---
 title: 'Setenil de las Bodegas: qué ver en el pueblo construido bajo la roca'
-seoTitle: 'Setenil de las Bodegas: qué ver, fotos y cómo llegar'
+seoTitle: 'Setenil de las Bodegas: cómo llegar y qué ver'
+seoDescription: 'Cómo llegar a Setenil de las Bodegas desde Sevilla, Málaga o Ronda y dónde aparcar. Qué ver: sus calles bajo la roca, el castillo y miradores.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Setenil de las Bodegas'
 lat: 36.8636
@@ -39,6 +40,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-cadiz-chenoaventuras.pdf
 guiaTitulo: 'Guía Cádiz en PDF'
+updated: 2026-10-31
 ---
 Hay pueblos blancos bonitos… y luego está **Setenil de las Bodegas**. Aquí, en vez de construir casas en una ladera, la gente aprovechó el tajo que abrió el río Trejo y **metió las casas debajo de la roca**: la propia piedra hace de tejado. Pasear por algunas calles es literalmente caminar por debajo de una montaña.
 

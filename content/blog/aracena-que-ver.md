@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Aracena: Gruta de las Maravillas, castillo, Casino y jamón ibérico'
-seoTitle: 'Qué ver en Aracena (Huelva): gruta, castillo, plaza y jamón'
+seoTitle: 'Qué ver en Aracena (Huelva): gruta, castillo y jamón'
+seoDescription: 'Qué ver en Aracena: la Gruta de las Maravillas, el castillo, la plaza del Marqués, el Museo del Jamón y pueblos cerca. Cómo llegar desde Sevilla y Huelva.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Aracena'
 lat: 37.8934
@@ -26,6 +27,7 @@ faq:
     a: "En coche, en algo más de una hora."
 guia: /assets/guias/guia-huelva-chenoaventuras.pdf
 guiaTitulo: 'Guía Huelva en PDF'
+updated: 2026-10-31
 ---
 Una **gruta llena de lagos y estalactitas**, un castillo con vistas a la sierra, una plaza modernista y el mejor **jamón ibérico** de bellota. **Aracena** es la capital de la Sierra de Aracena y Picos de Aroche, en Huelva, y se ve bien en **un día**.
 
