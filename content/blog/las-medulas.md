@@ -1,6 +1,7 @@
 ---
 title: 'Las Médulas: las montañas rojas que excavaron los romanos'
-seoTitle: 'Las Médulas: cómo llegar, rutas y Mirador de Orellán'
+seoTitle: 'Las Médulas: cómo llegar, rutas y estado tras el incendio'
+seoDescription: 'Las Médulas (León): la mina de oro romana Patrimonio de la Humanidad. Cómo llegar, rutas, el Mirador de Orellán y cómo está tras el incendio de 2025.'
 date: 2026-10-10T10:30:00.000Z
 lugar: 'Las Médulas'
 lat: 42.4589
@@ -12,6 +13,12 @@ tags:
   - Castilla y León
 wide: true
 faq:
+  - q: "¿Cómo está Las Médulas después del incendio de 2025?"
+    a: "El incendio que empezó el 9 de agosto de 2025 en Yeres quemó más de 3.800 hectáreas según la Junta, más de 2.000 de ellas dentro del Bien Patrimonio Mundial, y dañó muchos castaños. El diagnóstico técnico de 2026 concluye que los daños patrimoniales son en buena parte reversibles. El paraje se sigue visitando: consulta el estado de las sendas en el Centro de Recepción antes de ir."
+  - q: "¿Desde cuándo es Patrimonio de la Humanidad Las Médulas?"
+    a: "Desde el 4 de diciembre de 1997, como paisaje cultural."
+  - q: "¿Qué es la ruina montium?"
+    a: "La técnica minera romana que describió Plinio el Viejo: se excavaban galerías dentro de la montaña y se inundaban con agua embalsada en lo alto hasta que la montaña se derrumbaba; luego se lavaba la tierra para sacar el oro."
   - q: "¿Cuánto cuesta entrar en Las Médulas?"
     a: "El paraje es gratis. Algunas galerías y centros tienen entrada."
   - q: "¿Cómo llegar a Las Médulas?"
@@ -41,6 +48,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía León en PDF'
+updated: 2026-10-31
 ---
 Picos rojos que parecen de otro planeta, castaños centenarios y galerías excavadas en la montaña. **Las Médulas** no son naturales: son lo que quedó de la **mayor mina de oro del Imperio romano**.
 
@@ -58,6 +66,14 @@ Te cuento cómo llegar, qué ruta hacer y desde dónde se ve mejor 👇
 
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>Cómo los romanos «derrumbaron» una montaña</h2></div>
 <p>Los romanos usaron una técnica llamada <em>ruina montium</em>: excavaban galerías dentro de la montaña y luego soltaban por ellas enormes cantidades de <strong>agua</strong> traída por canales de decenas de kilómetros. La presión hacía que la montaña se <strong>derrumbara</strong>, y en el barro buscaban el oro.</p><p>Durante unos dos siglos sacaron toneladas de oro. Lo que queda son estos picos rojizos y cuevas, rodeados de castaños que plantaron también los romanos. En <strong>1997</strong> se declaró Patrimonio de la Humanidad.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Actualidad</span><h2>Las Médulas tras el incendio de 2025</h2></div>
+<p>En agosto de 2025, el incendio que empezó el <strong>9 de agosto en Yeres</strong> alcanzó Las Médulas. Según la Junta de Castilla y León, quemó más de <strong>3.800 hectáreas</strong>, y el informe técnico sobre el Bien Patrimonio Mundial cifra en más de <strong>2.000</strong> las hectáreas afectadas dentro de su perímetro. El daño más visible fue el de los <strong>castaños</strong>, muchos de ellos centenarios, y el de la vegetación que protegía el suelo de la erosión.</p>
+<p>La buena noticia es que el diagnóstico conocido en 2026 concluye que los daños al patrimonio son <strong>en buena parte reversibles</strong>, y ya hay trabajos de recuperación en marcha. Las Médulas se siguen visitando y el Mirador de Orellán ha recuperado las visitas, aunque el paisaje se ve distinto en algunas zonas. Antes de ir, <strong>pregunta en el Centro de Recepción</strong> qué sendas están abiertas, y si puedes, ve: los pueblos de la zona viven del turismo y la afluencia aún no se ha recuperado del todo.</p>
+
+<div class="guide__head"><span class="eyebrow">Patrimonio Mundial</span><h2>Por qué Las Médulas son únicas</h2></div>
+<p>La UNESCO inscribió Las Médulas como <strong>Patrimonio de la Humanidad el 4 de diciembre de 1997</strong>, en la categoría de <strong>paisaje cultural</strong>: un paisaje creado por el ser humano. La técnica de la <strong>ruina montium</strong> la describió el escritor romano <strong>Plinio el Viejo</strong>, que fue procurador en Hispania en el siglo I: el agua de los ríos de los Montes Aquilianos se traía por más de un centenar de kilómetros de canales, se embalsaba en lo alto y se soltaba por galerías excavadas en la montaña hasta derrumbarla. Después, el barro se lavaba en canales para separar el oro. Las colas de esos lavados taponaron el valle y dieron origen al <strong>lago de Carucedo</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Las Médulas</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -1,6 +1,7 @@
 ---
 title: 'Castillo de los Templarios de Ponferrada: historia y visita'
-seoTitle: 'Castillo Templario de Ponferrada: precio, horario y leyenda'
+seoTitle: 'Castillo de Ponferrada: horario, precio e historia templaria'
+seoDescription: 'Castillo de los Templarios de Ponferrada: horario, precio (miércoles gratis), su historia desde 1211, la leyenda de la Virgen de la Encina y la Noche Templaria.'
 date: 2026-10-11T09:00:00.000Z
 lugar: 'Ponferrada'
 lat: 42.5432
@@ -12,12 +13,14 @@ tags:
   - Castilla y León
 wide: true
 faq:
+  - q: "¿Cuándo llegaron los templarios a Ponferrada?"
+    a: "En 1211 el rey Alfonso IX donó la villa a la Orden del Temple, que en 1226 ya la había fortificado. Los templarios permanecieron hasta la disolución de la orden en 1312."
   - q: "¿Cuánto cuesta entrar al Castillo de Ponferrada?"
-    a: "La entrada general cuesta unos 6 €, con tarifa reducida para jóvenes, estudiantes y mayores. Consulta los precios actualizados en la web municipal."
+    a: "La entrada general cuesta 6 € y la reducida 4 € (estudiantes, jóvenes, jubilados y peregrinos con credencial, entre otros). Los miércoles la entrada es gratuita. Confirma los precios en la web municipal."
   - q: "¿Qué día cierra el Castillo de Ponferrada?"
-    a: "Normalmente los lunes. El horario cambia entre invierno y verano."
+    a: "Cierra todos los lunes. De martes a domingo abre de 10:00 a 14:00 y por la tarde con horario según la temporada: de 16:00 a 18:00 en invierno y de 16:30 a 20:30 de abril a septiembre."
   - q: "¿Cuándo es la Noche Templaria de Ponferrada?"
-    a: "A principios de julio, con desfiles, cenas históricas y mercado medieval."
+    a: "A finales de junio o principios de julio, según el año, con desfiles, cenas históricas y mercado medieval. En 2026 se celebró del 27 al 30 de junio."
   - q: "¿A qué distancia están Las Médulas de Ponferrada?"
     a: "A unos 20 km, unos 30 minutos en coche."
 actividades:
@@ -25,6 +28,7 @@ actividades:
     u: "https://www.civitatis.com/es/ponferrada/visita-guiada-ponferrada/"
 guia: /assets/guias/guia-leon-chenoaventuras.pdf
 guiaTitulo: 'Guía León en PDF'
+updated: 2026-10-31
 ---
 Murallas almenadas, torres, un puente levadizo y la cruz templaria por todas partes. El **Castillo de Ponferrada** parece sacado de una novela de caballeros… y en parte lo es, porque aquí la leyenda de los **templarios** está en cada piedra.
 
@@ -42,6 +46,21 @@ Además, Ponferrada es la puerta de entrada a **Las Médulas**, otro de los pais
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>Los templarios y la Virgen de la Encina</h2></div>
 <p>A finales del siglo XII, el rey <strong>Fernando II de León</strong> cedió Ponferrada a la <strong>Orden del Temple</strong> para proteger a los peregrinos del Camino de Santiago. Los templarios ampliaron la fortaleza hasta que la orden se disolvió a principios del siglo XIV. Después siguieron las obras, y por eso el castillo mezcla partes de varias épocas.</p><div class="guide__legend"><h3>🌳 La Virgen de la Encina</h3><p>Cuenta la tradición que los templarios, al cortar madera para el castillo, encontraron una imagen de la Virgen escondida en el tronco de una <strong>encina</strong>. Es la <strong>Virgen de la Encina</strong>, patrona de El Bierzo, que tiene su basílica a pocos pasos del castillo.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Del Temple a la fortaleza de hoy: fechas clave</h2></div>
+<ul>
+<li><strong>1211</strong>: el rey <strong>Alfonso IX de León</strong> hace las paces con la Orden del Temple y le dona la villa de Ponferrada, paso clave del Camino de Santiago sobre el río Sil.</li>
+<li><strong>1226</strong>: los templarios ya han fortificado la villa.</li>
+<li><strong>1312</strong>: el papa disuelve la Orden del Temple y los caballeros abandonan Ponferrada. La fortaleza pasa por varias manos nobles, que la amplían durante los siglos siguientes.</li>
+<li><strong>Hoy</strong>: el recinto ocupa más de <strong>8.000 m²</strong>, fue una de las mayores fortalezas del noroeste peninsular y mezcla partes de épocas distintas, aunque la gente la sigue conociendo como «el castillo de los templarios».</li>
+</ul>
+
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Horario y precio del Castillo de Ponferrada</h2></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🕒 Horario</h3><p>De martes a domingo, de <strong>10:00 a 14:00</strong> y por la tarde según la temporada: de 16:00 a 18:00 (noviembre a febrero) y de 16:30 a 20:30 (abril a septiembre). <strong>Cierra los lunes.</strong></p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p>General <strong>6 €</strong>, reducida <strong>4 €</strong>. Los <strong>miércoles es gratis</strong>. Precios consultados en octubre de 2026.</p></div>
+</div>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Ponferrada</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

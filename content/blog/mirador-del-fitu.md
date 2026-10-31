@@ -1,6 +1,7 @@
 ---
 title: 'Mirador del Fitu: la mejor panorámica de Asturias entre el mar y los Picos de Europa'
-seoTitle: 'Mirador del Fitu: vistas, cómo llegar y qué ver'
+seoTitle: 'Mirador del Fitu (Asturias): cómo llegar y qué se ve'
+seoDescription: 'Mirador del Fitu (o Fito): cómo llegar por la AS-260, qué se ve del Cantábrico a los Picos de Europa, la ruta al Picu Pienzu y los asturcones del Sueve.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Mirador del Fitu'
 lat: 43.439
@@ -17,6 +18,12 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/excursion-llanes-ribadesella-santillana-mar/"
 faqTitulo: "Dudas sobre el Fitu"
 faq:
+  - q: "¿Cómo se llega al Mirador del Fitu?"
+    a: "Por la carretera AS-260, que une Arriondas y Colunga. El mirador está en el Alto de la Cruz de Llames, con aparcamiento y área recreativa junto a él."
+  - q: "¿Qué se ve desde el Mirador del Fitu?"
+    a: "Al norte, el mar Cantábrico y la costa de Ribadesella, Caravia, Colunga y Villaviciosa; al sur, Parres, Cangas de Onís y los Picos de Europa. En días muy claros se distingue Gijón."
+  - q: "¿Qué rutas salen del Mirador del Fitu?"
+    a: "La más conocida sube al Picu Pienzu, el techo de la Sierra del Sueve, pasando por la majada de Bustacu. Tiene una subida final empinada: lleva calzado de montaña."
   - q: "¿Qué es el Mirador del Fitu?"
     a: "Un balcón natural en la Sierra del Sueve con vistas al mar y a los Picos de Europa."
   - q: "¿Cómo se llega?"
@@ -29,6 +36,7 @@ faq:
     a: "Una hora si solo vas al mirador."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-10-31
 ---
 Un balcón natural en la **Sierra del Sueve** con vistas al **mar Cantábrico** por un lado y a los **Picos de Europa** por el otro. El **Mirador del Fitu** (o Fito) es de los miradores más famosos de Asturias y se llega en coche.
 
@@ -47,6 +55,12 @@ Te cuento qué se ve, cómo llegar y cuándo ir 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>El mirador se encuentra en el <strong>Alto de la Cruz de Llames</strong>, en plena Sierra del Sueve, más o menos a mitad de camino entre Colunga y Arriondas. Según una guía, la estructura es de 1927 y los vecinos la llaman «el cazu» por su forma de cuenco. Desde aquí parten caminatas, como la subida al <strong>Picu Pienzu</strong> (1.149 m).</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Más allá del mirador</span><h2>La Sierra del Sueve: asturcones y la ruta al Picu Pienzu</h2></div>
+<p>El Fitu es la puerta de la <strong>Sierra del Sueve</strong>, una pequeña sierra de caliza que se levanta casi pegada al mar. Su cercanía a la costa es lo que hace tan especial el mirador: en pocos kilómetros pasas del nivel del mar a cumbres de más de mil metros, y por eso desde arriba se ve a la vez la playa y la alta montaña.</p>
+<p>El Sueve es famoso por los <strong>asturcones</strong>, los pequeños caballos autóctonos de Asturias que pastan en semilibertad por sus praderas. Si subes por la sierra, es fácil cruzarte con ellos: obsérvalos de lejos y no les des de comer.</p>
+<p>Desde el mismo aparcamiento sale la ruta más popular de la zona: la subida al <strong>Picu Pienzu</strong>, la cumbre del Sueve. El camino alterna pinar y pistas, pasa por la <strong>majada de Bustacu</strong> (con fuente y abrevadero, buen sitio para descansar) y la <strong>collada de Beluenzu</strong>, y termina con una ladera empinada hasta la cruz de hierro de la cima. Arriba, la vista es todavía más amplia que desde el mirador. Ve con calzado de montaña, agua y la previsión mirada: la niebla entra muy rápido.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver desde el Fitu</h2><p>Mar, montaña y niebla.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
