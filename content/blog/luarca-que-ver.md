@@ -19,6 +19,12 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/excursion-aviles-cudillero-luarca/"
 faqTitulo: "Dudas sobre Luarca"
 faq:
+  - q: "¿Cuál es la leyenda del Puente del Beso de Luarca?"
+    a: "Cuenta que el pirata Cambaral se enamoró de la hija del gobernador de Luarca. Cuando intentaban huir juntos, el gobernador los sorprendió y los decapitó en el puente mientras se daban un último beso. El barrio del Cambaral lleva el nombre del pirata."
+  - q: "¿Dónde está enterrado Severo Ochoa?"
+    a: "En el cementerio de Luarca, su villa natal, junto a su esposa Carmen Cobián. Ochoa nació en Luarca en 1905 y ganó el Premio Nobel de Medicina en 1959."
+  - q: "¿Qué es la Mesa de Mareantes de Luarca?"
+    a: "Un monumento en lo alto del pueblo que homenajea a los antiguos marineros que hicieron próspero el puerto. Se construyó a mediados del siglo XX aprovechando restos de una fortaleza del siglo XVI y tiene un panel de azulejos con los mareantes."
   - q: "¿Qué ver en Luarca?"
     a: "El puerto, el faro, la ermita de la Blanca y el palacio del marqués de Ferrera."
   - q: "¿Por qué se llama la Villa Blanca?"
@@ -31,6 +37,7 @@ faq:
     a: "Medio día."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-10-31
 ---
 La **Villa Blanca**: casas blancas con balcones, un puerto muy pintoresco, puentes sobre el **río Negro** y una ermita que domina todo desde lo alto. **Luarca**, en el occidente de Asturias, es de los pueblos más fotogénicos de la costa.
 
@@ -49,6 +56,13 @@ Te cuento qué ver, cómo llegar y qué probar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>La ermita de la <strong>Virgen de la Blanca o de la Atalaya</strong> domina la villa y fue reconstruida en 1961: conserva una figura de la Virgen con el Niño del siglo XIV. En el <strong>Palacio del Marqués de Ferrera</strong>, hoy casa de cultura, hay una sala-museo y un aula dedicada al paleolítico. Luarca es también cuna del Nobel <strong>Severo Ochoa</strong>.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Historia y leyendas</span><h2>Luarca: piratas, mareantes y un Nobel</h2></div>
+<p>Luarca vive mirando al mar desde la Edad Media, cuando ya era uno de los <strong>puertos pesqueros importantes</strong> de la costa asturiana. Uno de sus barrios fundacionales es <strong>El Cambaral</strong>, el barrio marinero que creció junto a la ría del río Negro, con sus casas apiñadas y escaleras.</p>
+<p>Ese nombre viene de su leyenda más famosa, la del <strong>Puente del Beso</strong>: el pirata <strong>Cambaral</strong> se enamoró de la hija del gobernador de Luarca. Cuando intentaban huir juntos, el gobernador los sorprendió y los decapitó en el puente mientras se daban un último beso. Es uno de los <strong>siete puentes</strong> que cruzan el río Negro en el centro, y hay quien dice que en las noches de luna llena se les oye desde el agua.</p>
+<p>En lo alto del pueblo está la <strong>Mesa de Mareantes y Navegantes</strong>, un homenaje a los marineros que hicieron próspero el puerto: se levantó a mediados del siglo XX aprovechando restos de una fortaleza del siglo XVI y luce un panel de azulejos con escenas marineras.</p>
+<p>Luarca es además la villa natal de <strong>Severo Ochoa</strong> (1905-1993), <strong>Premio Nobel de Medicina en 1959</strong>. Su casa natal está en el casco histórico, tiene una estatua en el centro y está enterrado, junto a su esposa Carmen Cobián, en el <strong>cementerio de Luarca</strong>: un cementerio blanco asomado al Cantábrico junto al faro y la <strong>ermita de la Atalaya</strong>, considerado uno de los más bonitos de la costa. Desde allí se tienen las mejores vistas del puerto.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Luarca</h2><p>El puerto, el faro y los miradores.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

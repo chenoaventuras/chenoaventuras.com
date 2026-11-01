@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Laguna Rosa de Torrevieja"
 faq:
+  - q: "¿Por qué la laguna de La Mata es verde y la de Torrevieja rosa?"
+    a: "Porque tienen distinta salinidad. En Torrevieja el agua es mucho más salada y la microalga Dunaliella salina acumula betacaroteno (un pigmento rojizo) para protegerse del sol; en La Mata, con menos sal, domina la clorofila y el agua se ve verdosa."
+  - q: "¿Se sigue sacando sal de la Laguna Rosa?"
+    a: "Sí. Las salinas de Torrevieja siguen en explotación y están entre las más importantes de Europa. Se pueden ver las montañas de sal blanca junto a la laguna."
   - q: "¿Se puede bañar en la Laguna Rosa de Torrevieja?"
     a: "No. Está prohibido por protección ambiental y por seguridad, con multas de 60 a 600 euros."
   - q: "¿Por qué la laguna de Torrevieja es rosa?"
@@ -58,6 +62,14 @@ Lo primero que todo el mundo pregunta es si se puede bañar. Te lo cuento 👇
 
 <div class="guide__head"><span class="eyebrow">La curiosidad</span><h2>¿Por qué el agua es rosa?</h2></div>
 <p>El color lo ponen unos seres diminutos: el alga <strong>Dunaliella salina</strong> y unas bacterias que viven en agua con muchísima sal. Para protegerse del sol fabrican pigmentos rojizos, y cuanta más sal y más sol, <strong>más rosa</strong> se ve la laguna.</p><p>Aquí se saca sal desde hace siglos: las <strong>salinas de Torrevieja</strong> están entre las más grandes de Europa, y las montañas blancas que verás son sal lista para salir.</p><div class="guide__legend"><h3>🚫 ¿Se puede bañar en la Laguna Rosa?</h3><p><strong>No.</strong> El Parque Natural lo prohíbe por dos motivos: proteger el ecosistema y la <strong>seguridad</strong>, porque bajo el agua trabajan máquinas de extracción de sal. Además, la sal y el barro dañan la piel y los ojos. Se multa con 60 a 600 euros.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Siete siglos de sal (y una ciudad que nació de ella)</h2></div>
+<p>La sal de esta laguna se explota desde hace siglos. Ya en <strong>1321</strong> la Corona concedió las salinas de Torrevieja al concejo de Orihuela. Durante mucho tiempo el centro de la actividad fue <strong>La Mata</strong>, la otra laguna, pero en <strong>1802</strong> las oficinas de la explotación se trasladaron a Torrevieja, junto al cabo Cervera, y alrededor de ellas creció el pueblo que hoy es una ciudad. Por eso se dice que <strong>Torrevieja nació de la sal</strong>.</p>
+<p>Las dos lagunas, unidas por un canal llamado <strong>El Acequión</strong>, forman hoy el <strong>Parque Natural de las Lagunas de La Mata y Torrevieja</strong>, con más de 3.700 hectáreas. Funcionan como una cadena: el agua del mar entra en La Mata, se va concentrando y pasa a Torrevieja, donde la evaporación deja la sal.</p>
+
+<div class="guide__head"><span class="eyebrow">Ciencia</span><h2>El truco del color rosa</h2></div>
+<p>El responsable del rosa es la <strong>Dunaliella salina</strong>, una microalga que vive en agua muchísimo más salada que el mar. Cuando la sal y el sol aprietan, produce grandes cantidades de <strong>betacaroteno</strong> (el mismo pigmento de la zanahoria) para protegerse, y tiñe el agua. Por eso la laguna está más rosa en <strong>verano y con días de sol fuerte</strong>, y puede verse más apagada en invierno o tras las lluvias. En La Mata, con menos sal, la misma vida microscópica no necesita protegerse tanto y el agua tira a verde.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la Laguna Rosa</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

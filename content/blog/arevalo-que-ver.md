@@ -16,6 +16,12 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Arévalo"
 faq:
+  - q: "¿Nació Isabel la Católica en Arévalo?"
+    a: "No: nació en 1451 en Madrigal de las Altas Torres. Pero pasó su infancia en Arévalo, adonde se trasladó con su madre, Isabel de Portugal, y su hermano Alfonso tras la muerte de su padre, Juan II, en 1454."
+  - q: "¿Se puede visitar el castillo de Arévalo?"
+    a: "Sí. Fue prisión en el siglo XVI y granero hasta 1968; se rehabilitó entre 2001 y 2010 y hoy se visita, sobre todo los fines de semana. Confirma el horario antes de ir."
+  - q: "¿Qué se firmó en Arévalo?"
+    a: "Los Reyes Católicos ratificaron el Tratado de Tordesillas el 2 de julio de 1494 en la Casa de los Sexmos, que hoy es el Museo de Historia de Arévalo."
   - q: "¿Qué ver en Arévalo?"
     a: "La Plaza de la Villa, las iglesias de San Martín y Santa María la Mayor, la Casa de los Sexmos, el castillo y La Lugareja."
   - q: "¿Por qué es la villa de Isabel la Católica?"
@@ -45,6 +51,15 @@ Te cuento qué ver, en qué orden y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>La villa de Isabel la Católica</h2></div>
 <p>Arévalo es conocida como la <strong>villa de Isabel la Católica</strong>, por su vínculo con la reina. En la <strong>Plaza de la Villa</strong>, los edificios tienen soportales con <strong>31 columnas de piedra y 25 de madera</strong>, con fachadas de entramado de madera y ladrillo, y una fuente de cuatro caños del siglo XV. En la Casa de los Sexmos, según una fuente, se ratificó en 1494 el Tratado de Tordesillas, y hoy alberga el Museo de Historia de Arévalo.</p><div class="guide__legend"><h3>🧱 Mi consejo</h3><p>Mira las <strong>torres de ladrillo</strong> de la iglesia de San Martín: la más baja se llama de los Ajedreces por el dibujo del ladrillo.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La infancia de Isabel la Católica en Arévalo</h2></div>
+<p>Isabel no nació aquí, sino en <strong>Madrigal de las Altas Torres</strong> (1451), pero Arévalo fue el escenario de su niñez. Cuando murió su padre, el rey <strong>Juan II</strong>, en 1454, su madre, <strong>Isabel de Portugal</strong>, que tenía el señorío de la villa, se retiró a Arévalo con sus hijos Isabel y Alfonso, lejos de la corte de su hermanastro Enrique IV.</p>
+<p>Aquí la futura reina recibió una educación muy cuidada, con un papel importante de los franciscanos, y aquí empezó su amistad de toda la vida con <strong>Beatriz de Bobadilla</strong>, hija del alcaide del castillo. El palacio real en el que vivían ha desaparecido, pero puedes ver su maqueta y fotografías en el museo de la villa.</p>
+<p>Ya como reina, el <strong>2 de julio de 1494</strong> ratificó junto a Fernando el <strong>Tratado de Tordesillas</strong>, que repartía con Portugal las nuevas tierras de ultramar, en la <strong>Casa de los Sexmos</strong>, hoy Museo de Historia de Arévalo.</p>
+
+<div class="guide__head"><span class="eyebrow">El castillo</span><h2>De fortaleza a granero (y vuelta)</h2></div>
+<p>El <strong>castillo de Arévalo</strong>, del siglo XV y de planta pentagonal, se alza en la punta donde se juntan los ríos <strong>Adaja y Arevalillo</strong>, que encierran la villa como un foso natural. En el siglo XVI se convirtió en <strong>prisión</strong> y después se usó como <strong>almacén de cereal hasta 1968</strong>. Tras años de abandono se rehabilitó entre <strong>2001 y 2010</strong> y hoy se puede visitar, sobre todo los fines de semana.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Arévalo: los imprescindibles</h2><p>Medio día entre ladrillo mudéjar y soportales.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -14,6 +14,12 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Isla de los Faisanes"
 faq:
+  - q: "¿Qué tratado se firmó en la Isla de los Faisanes?"
+    a: "El Tratado de los Pirineos, firmado el 7 de noviembre de 1659 por Luis de Haro, por España, y el cardenal Mazarino, por Francia. Puso fin a la guerra que ambos países mantenían desde 1635."
+  - q: "¿Desde cuándo la Isla de los Faisanes cambia de país cada seis meses?"
+    a: "El condominio se formalizó con los Tratados de Bayona de 1856. Hoy España la administra del 1 de febrero al 31 de julio y Francia del 1 de agosto al 31 de enero."
+  - q: "¿Qué pintor trabajó en la Isla de los Faisanes?"
+    a: "Diego Velázquez, como aposentador real de Felipe IV, se encargó de preparar el pabellón para el encuentro de los reyes en 1660. Murió pocas semanas después de volver a Madrid."
   - q: "¿A quién pertenece la Isla de los Faisanes?"
     a: "A España y Francia: es un condominio. España la administra de febrero a julio y Francia de agosto a enero."
   - q: "¿Cuántos habitantes tiene la Isla de los Faisanes?"
@@ -67,6 +73,17 @@ Y aquí se firmó la paz entre España y Francia en 1659. Te lo cuento 👇
 
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>¿A quién pertenece la Isla de los Faisanes?</h2></div>
 <p>A los dos países. En <strong>1659</strong> se firmó aquí el <strong>Tratado de los Pirineos</strong>, que puso fin a la guerra entre España y Francia. Se eligió esta isla porque estaba justo en medio: ninguno de los dos reyes tenía que pisar el territorio del otro.</p><p>Desde entonces es un <strong>condominio</strong>: España la administra del <strong>1 de febrero al 31 de julio</strong> y Francia del <strong>1 de agosto al 31 de enero</strong>. Los encargados son los comandantes de marina de San Sebastián y de Bayona, que se pasan el «turno» cada medio año.</p><div class="guide__legend"><h3>💍 Una boda real</h3><p>En 1660 la isla volvió a ser protagonista: aquí se entregó a la infanta <strong>María Teresa</strong>, hija de Felipe IV, para casarse con <strong>Luis XIV</strong> de Francia. Pintores como Velázquez trabajaron en la decoración del encuentro.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Cronología</span><h2>La historia de la Isla de los Faisanes en fechas</h2></div>
+<ul>
+<li><strong>1615</strong>: en el Bidasoa, junto a la isla, se hizo el famoso <strong>intercambio de princesas</strong>: Ana de Austria iba a casarse con Luis XIII de Francia e Isabel de Borbón con el futuro Felipe IV. La isla ya era el lugar «de nadie» para los encuentros entre ambas coronas.</li>
+<li><strong>1635</strong>: empieza la guerra entre España y Francia, dentro de la Guerra de los Treinta Años. El Bidasoa es la frontera y la isla, un terreno neutral en mitad del río.</li>
+<li><strong>7 de noviembre de 1659</strong>: tras meses de negociaciones en un pabellón levantado sobre la isla, <strong>Luis de Haro</strong> y el <strong>cardenal Mazarino</strong> firman el <strong>Tratado de los Pirineos</strong>. España cede a Francia el Rosellón y parte de la Cerdaña, y se fija buena parte de la frontera actual.</li>
+<li><strong>Junio de 1660</strong>: <strong>Felipe IV y Luis XIV</strong> se reúnen en la isla para ratificar la paz, y la infanta <strong>María Teresa</strong> es entregada para casarse con el rey francés. El pabellón lo preparó <strong>Diego Velázquez</strong>, aposentador del rey, que murió pocas semanas después de volver a Madrid.</li>
+<li><strong>1856</strong>: los <strong>Tratados de Bayona</strong> formalizan la isla como <strong>condominio</strong> entre los dos países. Desde entonces se alterna la administración por semestres.</li>
+<li><strong>Hoy</strong>: la vigilan, por turnos, las autoridades navales de San Sebastián y de Bayona. En la isla solo hay árboles y un <strong>monumento</strong> que recuerda la paz de 1659.</li>
+</ul>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la Isla de los Faisanes</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

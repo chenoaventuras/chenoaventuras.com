@@ -15,6 +15,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Balmaseda"
 faq:
+  - q: "¿Por qué se dice que Balmaseda es la primera villa de Bizkaia?"
+    a: "Porque su carta puebla, otorgada por Lope Sánchez de Mena con el Fuero de Logroño, se fecha tradicionalmente el 24 de enero de 1199, antes que la de cualquier otra villa vizcaína. Algunos historiadores locales sitúan el primer documento contrastado en 1234, pero 1199 sigue siendo la fecha oficial."
+  - q: "¿Cuándo es la Pasión Viviente de Balmaseda?"
+    a: "En Semana Santa, sobre todo el Jueves y el Viernes Santo, con cientos de vecinos representando la Pasión por las calles del casco histórico."
   - q: "¿Qué ver en Balmaseda?"
     a: "El Puente Viejo con su torreón, el casco histórico, la iglesia gótica de San Severino, los palacios de Urrutia y Horcasitas y el museo Boinas La Encartada."
   - q: "¿Por qué Balmaseda es la villa más antigua de Bizkaia?"

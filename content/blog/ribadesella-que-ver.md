@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/ribadesella/degustacion-sidra-quesos-cuevas-agua/"
 faqTitulo: "Dudas sobre Ribadesella"
 faq:
+  - q: "¿Cuándo se fundó Ribadesella?"
+    a: "Como villa, en torno a 1270, cuando el rey Alfonso X el Sabio unió los territorios de Leces y Maluerda, a uno y otro lado de la ría del Sella."
+  - q: "¿Cuáles son las fiestas de Ribadesella?"
+    a: "San Antón (17 de enero), San Juan (24 de junio), la Virgen de la Guía (en julio), Santa Marina (25 de agosto) y, sobre todo, el Descenso Internacional del Sella, en agosto."
   - q: "¿Qué ver en Ribadesella?"
     a: "La cueva de Tito Bustillo, la playa de Santa Marina, el paseo de la Grúa y el casco antiguo."
   - q: "¿Hay que reservar la cueva de Tito Bustillo?"
@@ -33,6 +37,7 @@ faq:
     a: "Un día completo si incluyes la cueva."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-10-31
 ---
 La villa del **Descenso Internacional del Sella**, una playa urbana enorme, un paseo con ilustraciones de Mingote y una de las cuevas de arte rupestre más importantes del mundo: **Tito Bustillo**. **Ribadesella** reúne mar, historia y naturaleza en un solo día.
 
@@ -50,6 +55,12 @@ Te cuento qué ver, cómo visitar la cueva y cuándo ir 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Arte de hace miles de años</h2></div>
 <p>La <strong>cueva de Tito Bustillo</strong> guarda pinturas paleolíticas y es una de las cuevas con arte rupestre más importantes del norte de España. Por su fragilidad solo se permite un <strong>número limitado de visitantes</strong>, así que hay que reservar con antelación (confirma en la web oficial). El centro de interpretación ayuda a entender lo que se ve.</p><div class="guide__legend"><h3>🚣 Mi consejo</h3><p>El <strong>Descenso del Sella</strong> es una fiesta de piraguas que atrae a miles de personas. Si vas esos días, reserva alojamiento con mucha antelación.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>De villa ballenera a destino de veraneo</h2></div>
+<p>Ribadesella nace como villa hacia <strong>1270</strong>, cuando <strong>Alfonso X el Sabio</strong> unió los territorios de <strong>Leces y Maluerda</strong>, uno a cada lado de la desembocadura del Sella. Los límites de entonces son casi los mismos que los del concejo actual.</p>
+<p>Durante siglos vivió del mar y del río: de la <strong>caza de ballenas</strong>, que en invierno se acercaban a la ría, de la <strong>pesca del salmón</strong> en el Sella y del comercio de <strong>madera</strong>. En el siglo XIX llegó a ser uno de los puertos destacados de Asturias.</p>
+<p>A finales del XIX y principios del XX, los <strong>indianos</strong> que volvían enriquecidos de América levantaron sus casonas y palacetes, muchos de ellos frente a la <strong>playa de Santa Marina</strong>, y la villa empezó a convertirse en lugar de veraneo. El gran salto llegó con el <strong>Descenso del Sella</strong>, que desde 1930 termina aquí cada agosto, y con el descubrimiento en <strong>1968</strong> de la <strong>cueva de Tito Bustillo</strong>, con pinturas paleolíticas Patrimonio de la Humanidad.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Ribadesella</h2><p>Playa, cueva y paseo marinero.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

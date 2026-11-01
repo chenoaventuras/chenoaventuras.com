@@ -15,6 +15,12 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Calatañazor"
 faq:
+  - q: "¿Existió de verdad la batalla de Calatañazor?"
+    a: "No hay pruebas: ninguna crónica cristiana ni musulmana de la época la menciona, y desde el siglo XVIII muchos historiadores la consideran legendaria. La historia aparece por escrito más de dos siglos después, con el cronista Lucas de Tuy. Lo seguro es que Almanzor murió en 1002 en Medinaceli."
+  - q: "¿Qué película se rodó en Calatañazor?"
+    a: "«Campanadas a medianoche» (1965), de Orson Welles, usó el pueblo como escenario."
+  - q: "¿A cuánto está Calatañazor de Soria?"
+    a: "A unos 30 km, entre 25 y 30 minutos en coche."
   - q: "¿Qué ver en Calatañazor?"
     a: "Las calles empedradas con casas de entramado, la iglesia, el rollo jurisdiccional, el castillo en ruinas, la muralla y las vistas al Valle de la Sangre."
   - q: "¿Qué significa «donde Almanzor perdió el tambor»?"
@@ -45,6 +51,13 @@ Te cuento qué ver, la leyenda y cómo combinarlo con el sabinar y La Fuentona �
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Donde Almanzor perdió el tambor</h2></div>
 <p>El dicho dice «<strong>Calatañazor, donde Almanzor perdió el tambor</strong>». La tradición sitúa aquí, en el año <strong>1002</strong>, la derrota de Almanzor, caudillo musulmán que atacó durante años a los reinos cristianos. La frase significa que perdió su talismán de invencibilidad.</p><p>El pueblo fue fortificado a principios del siglo XII, en época de <strong>Alfonso I el Batallador</strong>, y su conjunto histórico fue declarado en 1962. Las casas conservan su aspecto medieval, con <strong>entramado de madera de sabina</strong>, adobe y piedra.</p><div class="guide__legend"><h3>🍂 Mi consejo</h3><p>Sube al <strong>castillo</strong> al final de la tarde: desde las ruinas se ve la llanura conocida como <strong>Valle de la Sangre</strong> y la luz dorada sobre el pueblo.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Leyenda o historia</span><h2>¿Perdió de verdad Almanzor el tambor aquí?</h2></div>
+<p>La frase «<strong>En Calatañazor, Almanzor perdió el tambor</strong>» es de las más conocidas de la historia de España, pero la batalla que la inspiró probablemente <strong>nunca ocurrió</strong>, al menos como se cuenta.</p>
+<p>La leyenda dice que en el año <strong>1002</strong> un ejército cristiano, con el conde castellano Sancho García, derrotó aquí a Almanzor, el caudillo del califato de Córdoba que durante veinte años había hecho campañas victoriosas por todos los reinos cristianos. El «tambor» sería su fama de invencible. El relato aparece por escrito por primera vez más de dos siglos después, con el cronista <strong>Lucas de Tuy</strong> (siglo XIII), que añade un detalle fantástico: ese mismo día, en otra parte de la península, un pescador lloraba a gritos, en árabe y en romance, que en Calatañazor Almanzor había perdido el tambor... y luego desaparecía, porque era el diablo.</p>
+<p>Sin embargo, <strong>ninguna crónica de la época</strong>, ni cristiana ni musulmana, menciona una batalla en Calatañazor, y desde el siglo XVIII muchos historiadores la consideran legendaria. Lo que sí es seguro es que Almanzor murió en <strong>1002</strong> en <strong>Medinaceli</strong>, al volver de una campaña. La leyenda, en cualquier caso, quedó unida para siempre a este pueblo, y desde las ruinas del castillo se ve la llanura a la que la tradición llama <strong>Valle de la Sangre</strong>.</p>
+<p>Su aspecto medieval tan bien conservado también atrajo al cine: <strong>Orson Welles</strong> rodó aquí escenas de <strong>«Campanadas a medianoche»</strong> (1965).</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Calatañazor: los imprescindibles</h2><p>Medio día entre calles medievales y ruinas.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

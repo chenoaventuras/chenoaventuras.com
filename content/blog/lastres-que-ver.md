@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/gijon/excursion-covadonga-cangas-lastres/"
 faqTitulo: "Dudas sobre Lastres"
 faq:
+  - q: "¿Qué serie se rodó en Lastres?"
+    a: "«Doctor Mateo» (Antena 3, 2009-2011), con Gonzalo de Castro. En la ficción el pueblo se llamaba San Martín del Sella, pero casi todas las escenas se grabaron en Lastres; hay una ruta turística por sus escenarios."
+  - q: "¿Qué ver cerca de Lastres?"
+    a: "El Museo del Jurásico de Asturias (MUJA), entre Lastres y Colunga, las icnitas de dinosaurio de la costa, el Mirador del Fitu y la playa de La Griega."
   - q: "¿Qué ver en Lastres?"
     a: "El puerto, la iglesia de Santa María de Sábada, la capilla y el mirador de San Roque."
   - q: "¿Por qué es famoso Lastres?"
@@ -31,6 +35,7 @@ faq:
     a: "Por la A-8 hasta Colunga y de ahí a Lastres."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-10-31
 ---
 Un pueblo colgado sobre el mar, con calles empinadas, casas que bajan hasta el puerto y un mirador con vistas a la costa y a la **Sierra del Sueve**. **Lastres** fue elegido **Pueblo Ejemplar de Asturias** en 2010 y es uno de **Los Pueblos Más Bonitos de España**.
 
@@ -49,6 +54,11 @@ Te cuento qué ver, de qué es famoso y cómo organizar la visita 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>El nombre original de Lastres era <strong>Santa María de Sábada</strong>. Creció gracias a la pesca: hay constancia de caza de ballenas en el siglo XVI y, después, de pesca de sardinas, besugos y bonito. La iglesia de Santa María de Sábada es de estilo barroco neoclásico del siglo XVIII, con torre de finales del XIX, y la capilla de San Roque tiene un mirador con vistas al puerto, al Sueve y a la costa.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Muy cerca</span><h2>La torre del reloj y la costa de los dinosaurios</h2></div>
+<p>Subiendo por la calle Real llegas a la <strong>capilla del Buen Suceso</strong> y a la <strong>torre del reloj</strong>, uno de los rincones más fotografiados del pueblo, con vistas sobre los tejados hasta el puerto. Desde ahí también se ve bien la torre de la iglesia de <strong>Santa María de Sábada</strong>, barroca del siglo XVIII, que sirve de referencia desde casi cualquier punto del concejo.</p>
+<p>Lastres está en plena <strong>Costa de los Dinosaurios</strong>: el litoral entre Gijón y Ribadesella conserva <strong>huellas fósiles (icnitas)</strong> de dinosaurios del Jurásico en las rocas de varias playas, como la de <strong>La Griega</strong>, en Colunga. Para entenderlo, a unos minutos en coche, entre Lastres y Colunga, está el <strong>Museo del Jurásico de Asturias (MUJA)</strong>, un edificio con forma de huella de dinosaurio y réplicas a tamaño real. Es un plan perfecto si vas con niños o si el día sale de lluvia.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Lastres</h2><p>Las calles, el puerto y el mirador.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
