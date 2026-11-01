@@ -14,6 +14,10 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Taramundi"
 faq:
+  - q: "¿Qué es la Ruta de los Ferreiros de Taramundi?"
+    a: "Una ruta circular señalizada (PR-AS 18) de 7,5 km y dificultad fácil, con unos 317 m de desnivel, que sale y vuelve a Taramundi pasando por aldeas de cuchilleros, el Museo de los Molinos de Mazonovo y el Museo de la Cuchillería de Pardiñas. Se hace en 3-5 horas con paradas."
+  - q: "¿Dónde comprar navajas de Taramundi?"
+    a: "En los talleres de los propios artesanos, en aldeas como A Veiga de Llan o Pardiñas, donde también está el Museo de la Cuchillería, y en las tiendas del pueblo."
   - q: "¿Por qué es famoso Taramundi?"
     a: "Por sus navajas y cuchillos artesanos y por el turismo rural."
   - q: "¿Qué es Os Teixois?"
@@ -26,6 +30,7 @@ faq:
     a: "Unos 545 habitantes."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 Un pueblo del occidente asturiano famoso por sus **navajas y cuchillos artesanos**, por sus molinos y por ser **pionero del turismo rural en España**. **Taramundi** está al fondo de la sierra, a un paso de Galicia.
 
@@ -38,12 +43,25 @@ Te cuento qué ver, qué comprar y cómo organizar la visita 👇
 <div class="guide__tips">
 <div class="guide__tip"><h3>🔪 Navajas</h3><p>Los ferreiros forjan cuchillos con acero al carbono y mangos de boj, tradicionalmente decorados con goma-laca.</p></div>
 <div class="guide__tip"><h3>🏘️ Población</h3><p>Unos 545 habitantes (INE 2025) en 4 parroquias: Bres, Ouria, Taramundi y Veigas.</p></div>
-<div class="guide__tip"><h3>🏡 Turismo rural</h3><p>Fue pionera en España desde 1984: La Rectoral, la antigua casa parroquial, abrió como primer núcleo de turismo rural.</p></div>
+<div class="guide__tip"><h3>🏡 Turismo rural</h3><p>Fue pionera en España: según Turismo de Asturias, en 1986 abrió La Rectoral, la antigua casa parroquial, como primer hotel rural, el inicio del turismo rural en el país.</p></div>
 <div class="guide__tip"><h3>🎉 Fiestas</h3><p>Taramundi celebra San José (fin de semana cercano al 19 de marzo); Bres, San Pedro (27 de julio); Ouria, Virgen del Carmen (16 de julio).</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>El <strong>conjunto etnográfico de Os Teixois</strong> abrió al público en 1980 y reúne mazo, molino, batán, piedra de afilar y una pequeña central eléctrica. En <strong>Mazonovo</strong> hay un museo de molinos con <strong>19 molinos</strong> (8 manuales, 6 hidráulicos, 3 infantiles y 2 especiales), a unos 400 m a pie de la villa. En <strong>Esquíos</strong>, aldea de ferreiros, algunas casas guardan más de mil utensilios.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Ruta a pie</span><h2>La Ruta de los Ferreiros: cuchillos, molinos y aldeas</h2></div>
+<p>La mejor forma de entender Taramundi es caminar por la <strong>Ruta de los Ferreiros (PR-AS 18)</strong>: un recorrido <strong>circular de 7,5 km</strong>, de dificultad <strong>fácil</strong> (unos 317 m de subida y bajada), que sale y vuelve al pueblo, junto al monumento a Manuel Lombardero. Con las paradas en los museos, cuenta de <strong>3 a 5 horas</strong>.</p>
+<ul>
+<li><strong>A Veiga de Llan</strong>: aldea ligada a la cuchillería, con talleres que siguen trabajando.</li>
+<li><strong>O Mazonovo</strong>: donde se juntan los ríos Cabreira y Turía, con el <strong>Museo de los Molinos</strong>.</li>
+<li><strong>A Veiga da Sarza</strong>: con una antigua ferrería y un área recreativa junto al río.</li>
+<li><strong>A Garda y Vilanova</strong>: más casas de artesanos.</li>
+<li><strong>Pardiñas</strong>: con el <strong>Museo de la Cuchillería</strong> y una fragua en la que hacen demostraciones.</li>
+<li>De vuelta, la <strong>iglesia de San Martín</strong>, con torre del siglo XVIII, y vistas del valle del Turía.</li>
+</ul>
+<p>Toda la zona forma parte de la <strong>Reserva de la Biosfera Río Eo, Oscos y Terras de Burón</strong>. Ojo al cruzar la carretera AS-21, que la ruta atraviesa en un punto.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Taramundi</h2><p>Pueblo, molinos y paisaje.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

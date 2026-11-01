@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/aviles/visita-guiada-aviles/"
 faqTitulo: "Dudas sobre Avilés"
 faq:
+  - q: "¿Qué es el Fuero de Avilés?"
+    a: "Una carta de privilegios que convirtió Avilés en villa real, dependiente directamente de la Corona y no de un señor feudal. Se atribuye a Alfonso VI (1085) y la confirmó Alfonso VII en 1155; el original se guarda en el Archivo Histórico Municipal."
+  - q: "¿Quién fue Pedro Menéndez de Avilés?"
+    a: "Un marino avilesino del siglo XVI, almirante de la flota de Indias, que en 1565 fundó San Agustín, en Florida, la ciudad más antigua de origen europeo de Estados Unidos. Por eso Avilés y San Agustín son ciudades hermanadas."
   - q: "¿Qué ver en Avilés?"
     a: "El casco histórico, la calle Galiana, el palacio de Valdecarzana y el Centro Niemeyer."
   - q: "¿Qué es el Centro Niemeyer?"
@@ -33,6 +37,7 @@ faq:
     a: "Un día."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 Una ciudad con **casco histórico medieval**, calles con soportales y un edificio futurista de **Oscar Niemeyer** al otro lado de la ría. **Avilés** está a solo 25 km de Gijón y 27 de Oviedo y se ve bien en un día.
 
@@ -50,6 +55,13 @@ Te cuento qué ver, sus fiestas y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>El <strong>Centro Niemeyer</strong> abrió en la primavera de 2011 y es la <strong>única obra de Oscar Niemeyer en España</strong>. En Semana Santa se celebra la <strong>Fiesta del Bollo</strong>, el domingo y lunes de Pascua: un banquete popular que llena el casco histórico (la página habla de unas 15.000 personas por edición, con récord de casi 23.000 en 2010). La <strong>calle Galiana</strong> es famosa en Carnaval por el Descenso Internacional de Galiana, donde los vecinos echan agua a los participantes. El patrón, San Agustín, se celebra el <strong>28 de agosto</strong>.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Una villa medieval de puerto y fuero</h2></div>
+<p>Avilés creció alrededor de su ría y de su puerto, uno de los más activos de la costa cantábrica en la Edad Media. Su gran documento es el <strong>Fuero de Avilés</strong>, que se atribuye al rey <strong>Alfonso VI (1085)</strong> y que confirmó <strong>Alfonso VII en 1155</strong>: convirtió la villa en <strong>realengo</strong>, dependiente directamente de la Corona y no de un señor feudal, algo que atrajo comerciantes y marineros. El original se conserva en el Archivo Histórico Municipal.</p>
+<p>Fuera de la muralla quedaba <strong>Sabugo</strong>, el barrio de pescadores, separado durante siglos de la villa por una gran marisma que hoy es el <strong>parque del Muelle</strong>. Allí se conserva la <strong>iglesia vieja de Sabugo</strong>, su parroquia medieval.</p>
+<p>De Avilés salió en el siglo XVI uno de sus vecinos más famosos: el marino <strong>Pedro Menéndez de Avilés</strong>, almirante de la flota de Indias, que en <strong>1565</strong> fundó <strong>San Agustín (Florida)</strong>, la ciudad más antigua de origen europeo de los actuales Estados Unidos. Por eso las dos ciudades están hermanadas.</p>
+<p>El siglo XX trajo la industria (la siderurgia transformó la ría y la ciudad) y el siglo XXI, una nueva cara: el <strong>Centro Niemeyer</strong>, el único edificio del arquitecto brasileño Oscar Niemeyer en España.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Avilés</h2><p>Del casco antiguo a Niemeyer.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

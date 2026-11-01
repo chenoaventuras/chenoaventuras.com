@@ -17,6 +17,12 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
 faqTitulo: "Dudas sobre Cangas del Narcea"
 faq:
+  - q: "¿Por qué llaman al Monasterio de Corias el Escorial asturiano?"
+    a: "Por su enorme tamaño y su aspecto sobrio y monumental. El monasterio benedictino se fundó en el siglo XI (las fuentes sitúan su construcción entre 1022 y 1044) y el edificio que se ve hoy es en gran parte de una reconstrucción posterior. Desde 2013 es Parador de Turismo."
+  - q: "¿Qué es La Descarga de Cangas del Narcea?"
+    a: "El momento estrella de las fiestas del Carmen, a mediados de julio: una descarga de voladores (cohetes) tan larga y atronadora que se ha convertido en seña de identidad de la villa."
+  - q: "¿Qué vino se hace en Cangas del Narcea?"
+    a: "El vino de Cangas, de viñedos de montaña en las laderas del Narcea, con una tradición que se remonta a los monjes benedictinos de Corias y uvas autóctonas como la albarín o la carrasquín."
   - q: "¿Qué ver en Cangas del Narcea?"
     a: "El Monasterio de Corias, la villa y la reserva de Muniellos."
   - q: "¿Es el concejo más grande de Asturias?"
@@ -29,6 +35,7 @@ faq:
     a: "A unos 84-91 km."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 La capital del **concejo más grande de Asturias** (más de 800 km²), con un **monasterio del siglo XI convertido en Parador** y la puerta de entrada a la **Reserva de Muniellos**. **Cangas del Narcea** es el centro del suroccidente asturiano.
 
@@ -47,6 +54,12 @@ Te cuento qué ver, qué comer y qué fiestas no te puedes perder 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>En el concejo se come <strong>potaje o caldo de berzas</strong>, <strong>frixuelos</strong> y queso de <strong>Genestoso</strong>. Entre las fiestas: San Tisú (finales de enero), El Carmen y La Magdalena (14-22 de julio), Nuestra Señora del Acebo (8 de septiembre), la Fiesta de la Vendimia y Santa Bárbara (4 de diciembre).</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Historia y tradiciones</span><h2>Monjes, vino y voladores</h2></div>
+<p>La historia del concejo gira en torno al <strong>Monasterio de San Juan Bautista de Corias</strong>, a dos kilómetros de la villa. Lo fundaron monjes benedictinos en el <strong>siglo XI</strong> (las fuentes sitúan su construcción entre <strong>1022 y 1044</strong>), y en 1046 el rey Fernando I le concedió fuero. Por su tamaño y su aspecto severo se le llama el <strong>«Escorial asturiano»</strong>. Fue declarado Monumento Histórico-Artístico en 1983 y, tras una gran restauración, abrió en <strong>2013</strong> como <strong>Parador</strong>: se puede visitar parte del claustro y la iglesia aunque no duermas allí.</p>
+<p>Aquellos monjes también dejaron otra herencia: el <strong>vino de Cangas</strong>. Son viñedos de montaña, en laderas muy empinadas sobre el Narcea, con uvas autóctonas como la <strong>albarín</strong> o la <strong>carrasquín</strong>, y varias bodegas abren para visitas y catas.</p>
+<p>Y si vas a mediados de julio, prepárate: en las fiestas del <strong>Carmen</strong> se celebra <strong>La Descarga</strong>, una traca de voladores tan larga y ruidosa que se oye en todo el valle. Es la fiesta grande de la villa y se vive en la calle.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Cangas del Narcea</h2><p>Villa, monasterio y valles.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

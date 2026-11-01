@@ -17,6 +17,10 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/excursion-llanes-ribadesella-santillana-mar/"
 faqTitulo: "Dudas sobre Villaviciosa"
 faq:
+  - q: "¿Cuándo es el Festival de la Manzana de Villaviciosa?"
+    a: "Se celebra cada dos años, en los años impares, coincidiendo con la cosecha de la manzana de sidra (las fuentes lo sitúan entre septiembre y octubre). Nació en 1960 y en julio de 2026 fue declarado Fiesta de Interés Turístico Nacional. La próxima edición sería en 2027."
+  - q: "¿Es Valdediós Patrimonio de la Humanidad?"
+    a: "No. San Salvador de Valdediós es una de las iglesias más importantes del prerrománico asturiano y está en la lista indicativa de la UNESCO, pero no ha sido declarada Patrimonio de la Humanidad."
   - q: "¿Qué ver en Villaviciosa?"
     a: "La iglesia de Santa María de la Oliva, la ría, la playa de Rodiles y Valdediós."
   - q: "¿Por qué es la capital de la sidra?"
@@ -31,8 +35,9 @@ faq:
     a: "Un día."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
-El concejo de la **sidra**: manzanos por todas partes, una **ría** con reserva natural, una de las playas más grandes del litoral asturiano y un monasterio patrimonio de la humanidad en un valle escondido. **Villaviciosa** es una parada perfecta entre Gijón y Ribadesella.
+El concejo de la **sidra**: manzanos por todas partes, una **ría** con reserva natural, una de las playas más grandes del litoral asturiano y una joya del prerrománico asturiano en un valle escondido. **Villaviciosa** es una parada perfecta entre Gijón y Ribadesella.
 
 Te cuento qué ver, cómo organizarlo y qué probar 👇
 
@@ -48,7 +53,13 @@ Te cuento qué ver, cómo organizarlo y qué probar 👇
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
-<p>La iglesia de <strong>Santa María de la Oliva</strong> es un monumento nacional del siglo XIII, de transición entre el románico y el gótico. En el valle de Valdediós, el conjunto de <strong>San Salvador</strong>, la iglesia de Santa María y el monasterio forma parte del patrimonio de la humanidad según Wikipedia. En <strong>Amandi</strong> se celebra el 24 de junio San Juan, con hoguera, danza prima y salto del fuego. Y en <strong>Tazones</strong> se supone que desembarcó Carlos I en 1517, empujado por una tormenta.</p>
+<p>La iglesia de <strong>Santa María de la Oliva</strong> es un monumento nacional del siglo XIII, de transición entre el románico y el gótico. En el valle de Valdediós, está <strong>San Salvador</strong>, «el Conventín», una de las grandes iglesias del prerrománico asturiano, junto a la iglesia de Santa María y el monasterio (está en la lista indicativa de la UNESCO, aunque no ha sido declarado Patrimonio de la Humanidad). En <strong>Amandi</strong> se celebra el 24 de junio San Juan, con hoguera, danza prima y salto del fuego. Y en <strong>Tazones</strong> desembarcó en 1517 el joven Carlos I, en su primer viaje a España, antes de pasar por Villaviciosa.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La cultura de la manzana</span><h2>Por qué Villaviciosa es la capital de la sidra</h2></div>
+<p>El concejo está cubierto de <strong>pomaradas</strong> (huertos de manzanos) y es uno de los grandes productores de manzana de sidra de Asturias, con lagares que elaboran sidra natural y sidra con la <strong>Denominación de Origen Protegida «Sidra de Asturias»</strong>, hecha solo con variedades de manzana asturianas.</p>
+<p>Esa tradición tiene su gran fiesta: el <strong>Festival de la Manzana</strong>, que nació en <strong>1960</strong> por iniciativa del ingeniero Sergio Álvarez Requejo y se celebra <strong>cada dos años, en los años impares</strong>, con la cosecha. Hay concurso de manzanas y de sidra, desfile de carrozas y mucho ambiente en la calle. En <strong>julio de 2026</strong> fue declarado <strong>Fiesta de Interés Turístico Nacional</strong>; la próxima edición tocaría en 2027.</p>
+<p>Si vas otro año, muchos lagares del concejo hacen <strong>visitas guiadas con cata</strong>, y en las sidrerías de la villa puedes ver el <strong>escanciado</strong>: la sidra se echa desde lo alto para que «rompa» en el vaso y se oxigene.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Villaviciosa</h2><p>Sidra, ría y playa.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

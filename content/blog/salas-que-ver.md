@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
 faqTitulo: "Dudas sobre Salas"
 faq:
+  - q: "¿Quién está enterrado en la Colegiata de Salas?"
+    a: "Fernando de Valdés y Salas, arzobispo de Sevilla e inquisidor general en el siglo XVI, nacido en Salas. Su sepulcro de alabastro lo hizo el escultor Pompeo Leoni entre 1576 y 1582."
+  - q: "¿Pasa el Camino de Santiago por Salas?"
+    a: "Sí, el Camino Primitivo, el que sale de Oviedo, atraviesa la villa de Salas en su etapa hacia Tineo."
   - q: "¿Qué ver en Salas?"
     a: "La Colegiata de Santa María la Mayor, la torre y el palacio Valdés Salas."
   - q: "¿Quién fue Fernando Valdés Salas?"
@@ -31,6 +35,7 @@ faq:
     a: "La Romería del Viso es el 15 de agosto."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 Una villa con **conjunto histórico declarado bien de interés cultural**, una **colegiata** con el mausoleo del fundador de la Universidad de Oviedo y una **torre** medieval en pleno casco. **Salas**, conocida como la **Puerta del Occidente** de Asturias, está a unos 45 km de Oviedo.
 
@@ -49,6 +54,12 @@ Te cuento qué ver, su historia y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>La primera referencia escrita de Salas es una <strong>donación del año 896</strong>, y Alfonso X le dio la <strong>carta puebla</strong> en 1277. El concejo tiene 227 km² y unos 4.750 habitantes, con La Espina y Cornellana como núcleos principales. Las fiestas incluyen la Romería del Viso (15 de agosto) y las fiestas del Bollo; <strong>confirma fechas</strong>.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Arte e historia</span><h2>El sepulcro del inquisidor y el Camino Primitivo</h2></div>
+<p>La gran joya de Salas está dentro de la <strong>Colegiata de Santa María la Mayor</strong>: el <strong>sepulcro de alabastro</strong> de <strong>Fernando de Valdés y Salas</strong>, el hijo más ilustre de la villa. Fue obispo de varias diócesis, arzobispo de Sevilla, inquisidor general y presidente del Consejo de Castilla, y dejó en su testamento el dinero que dio origen a la Universidad de Oviedo. La colegiata la levantó como panteón de su familia, y su tumba la talló el escultor italiano <strong>Pompeo Leoni</strong> entre <strong>1576 y 1582</strong>. Sufrió daños en 1936 y la restauró después el escultor asturiano <strong>Víctor Hevia</strong>.</p>
+<p>Junto a ella están el <strong>palacio de Valdés Salas</strong>, del siglo XVI (hoy hotel, casa de cultura y oficina de turismo), y la <strong>torre medieval</strong>, que forman con la colegiata el conjunto histórico de la villa.</p>
+<p>Salas es además una de las paradas clásicas del <strong>Camino Primitivo</strong>, el Camino de Santiago que sale de Oviedo: verás peregrinos con mochila cruzando el casco antiguo camino de Tineo.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Salas</h2><p>Colegiata, torre y callejuelas.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

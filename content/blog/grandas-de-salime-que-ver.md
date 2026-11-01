@@ -14,6 +14,8 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Grandas de Salime"
 faq:
+  - q: "¿Cuándo se fundó el Museo Etnográfico de Grandas de Salime?"
+    a: "El 2 de junio de 1984, impulsado por José Naveiras, «Pepe el Ferreiro», que le da nombre. Hoy ocupa tres edificios tradicionales: la Casa Rectoral, la Casa del Molinero y A Casoa."
   - q: "¿Qué ver en Grandas de Salime?"
     a: "El embalse, el Museo Etnográfico y el Camino Primitivo."
   - q: "¿Cuántas piezas tiene el museo?"
@@ -26,6 +28,7 @@ faq:
     a: "A unos 149 km."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 Un pueblo del **occidente de Asturias**, junto a un **gran embalse** y con un **museo etnográfico** de lo mejor de la región. **Grandas de Salime** es además una etapa del **Camino Primitivo** de Santiago, justo antes de entrar en Galicia.
 
@@ -44,6 +47,11 @@ Te cuento qué ver, cómo llegar y cuándo ir 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>Grandas tiene unos <strong>767 habitantes</strong> (INE, 2025), pero llegó a tener casi 3.800 en 1952. Hay fiestas tradicionales como <strong>San Antonio</strong> en Villabolle (13 de junio, con subasta de productos), el <strong>Carmen</strong> (2 y 3 de julio), <strong>San Salvador</strong> (primer fin de semana de agosto) y la <strong>fiesta de la Sardina</strong> (último domingo de agosto).</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">El museo</span><h2>El museo que nació del empeño de un vecino</h2></div>
+<p>El <strong>Museo Etnográfico de Grandas de Salime</strong> lleva el nombre de quien lo hizo posible: <strong>José Naveiras, «Pepe el Ferreiro»</strong>, que dedicó años a reunir herramientas, aperos y objetos de la vida rural del occidente asturiano. Se inauguró el <strong>2 de junio de 1984</strong> en los bajos del Ayuntamiento y fue creciendo hasta ocupar <strong>tres edificios tradicionales</strong>: la <strong>Casa Rectoral</strong>, la <strong>Casa del Molinero</strong> y <strong>A Casoa</strong>.</p>
+<p>No es un museo de vitrinas: hay cocinas, talleres, una fragua, un molino y espacios que recrean los oficios tradicionales. Es la mejor forma de entender cómo se vivía en estos valles antes del embalse. Consulta horarios en la web del museo antes de ir, porque cambian según la temporada.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Grandas</h2><p>Embalse, camino y museo.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
