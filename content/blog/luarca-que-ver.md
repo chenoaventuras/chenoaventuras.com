@@ -49,7 +49,7 @@ Te cuento qué ver, cómo llegar y qué probar 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Luarca: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el concejo de Valdés, a unos 90 km de Oviedo, en el occidente asturiano.</p></div>
-<div class="guide__tip"><h3>🚤 Puerto</h3><p>Según Wikipedia, es el puerto más importante del occidente asturiano y el tercero de la región tras Avilés y Gijón.</p></div>
+<div class="guide__tip"><h3>🚤 Puerto</h3><p>Es el puerto pesquero más importante del occidente asturiano y el tercero de la región tras Avilés y Gijón.</p></div>
 <div class="guide__tip"><h3>🌊 Río Negro</h3><p>Atraviesa la villa y la divide en dos, antes de desembocar en el mar.</p></div>
 <div class="guide__tip"><h3>🍽️ Qué probar</h3><p>Pescado y marisco, y sidra. Confirma reservas en verano.</p></div>
 </div>

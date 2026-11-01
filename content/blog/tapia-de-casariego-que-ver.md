@@ -20,7 +20,7 @@ faq:
   - q: "¿Qué ver en Tapia de Casariego?"
     a: "Sus playas, el puerto, las islas Pantorgas y la playa de Peñarronda."
   - q: "¿Cuántas playas tiene?"
-    a: "Siete en el concejo, según la lista oficial de Wikipedia."
+    a: "Siete en el concejo."
   - q: "¿Qué es el FID'O?"
     a: "El Festival Intercéltico d'Occidente, en agosto."
   - q: "¿Es Peñarronda monumento natural?"

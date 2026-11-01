@@ -50,7 +50,7 @@ Te cuento cómo llegar, cómo cambia con la marea y qué ver cerca 👇
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
-<p>El nombre viene de las <strong>cavidades talladas por el oleaje</strong> en las paredes de roca de los acantilados. La ficha de Wikipedia da el acceso como «a pie difícil», mientras que el texto habla de accesos fáciles: <strong>confirma cómo llegar</strong> y lleva calzado cómodo.</p>
+<p>El nombre viene de las <strong>cavidades talladas por el oleaje</strong> en las paredes de roca de los acantilados. Lleva <strong>calzado cómodo</strong>: para recorrer las cuevas y los arcos hay que moverse por rocas, y es mejor hacerlo con la marea baja.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Cómo es Cuevas del Mar</h2><p>Arena, roca y mar.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

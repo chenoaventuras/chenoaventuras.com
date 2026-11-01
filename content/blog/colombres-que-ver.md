@@ -40,7 +40,7 @@ Te cuento qué ver y cómo organizar la visita 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Colombres: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏠 Quinta Guadalupe</h3><p>Casa de indianos construida por Íñigo Noriega Laso (1906), hoy sede de la Fundación Archivo de Indianos – Museo de la Emigración.</p></div>
-<div class="guide__tip"><h3>🏅 Pueblo Ejemplar</h3><p>Según Wikipedia, ganó el premio Princesa de Asturias a «Pueblo Ejemplar» en 2015.</p></div>
+<div class="guide__tip"><h3>🏅 Pueblo Ejemplar</h3><p>La Fundación Princesa de Asturias le concedió el premio al Pueblo Ejemplar de Asturias en 2015.</p></div>
 <div class="guide__tip"><h3>🎟️ Visitas</h3><p>Consulta horarios y tarifas en la web oficial del museo: las fuentes no coinciden en el precio de entrada.</p></div>
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el oriente de Asturias, cerca del límite con Cantabria.</p></div>
 </div>

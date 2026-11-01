@@ -49,7 +49,7 @@ Te cuento qué ver, sus fiestas y cómo llegar 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Avilés: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Casco histórico</h3><p>Declarado conjunto histórico-artístico en 1955, con calles como Galiana, Rivero, La Ferrería y San Francisco, con soportales.</p></div>
-<div class="guide__tip"><h3>🚗 Distancias</h3><p>A unos 25 km de Gijón, 27 de Oviedo y 15 del aeropuerto, según Wikipedia.</p></div>
+<div class="guide__tip"><h3>🚗 Distancias</h3><p>A unos 25 km de Gijón, 27 de Oviedo y 15 del aeropuerto de Asturias.</p></div>
 <div class="guide__tip"><h3>🍰 Dulce típico</h3><p>El mantecado de Avilés o bollo de Avilés, muy ligado a la fiesta del Bollo.</p></div>
 </div>
 

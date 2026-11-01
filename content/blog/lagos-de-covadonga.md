@@ -28,7 +28,7 @@ faq:
   - q: "¿A qué altura están los lagos?"
     a: "A unos 1.134 metros sobre el nivel del mar."
   - q: "¿Se puede ir en coche?"
-    a: "Fuera de la temporada alta sí. En temporada alta, unos 6 meses al año según Wikipedia, no: confirma las fechas."
+    a: "Fuera de la temporada alta sí. En los periodos de mayor afluencia (Semana Santa, puentes, verano y otras fechas que fija cada año el Principado) el acceso en coche particular está restringido y se sube en autobús lanzadera desde Cangas de Onís. Consulta el calendario en Turismo Asturias."
   - q: "¿Cuánto tiempo se necesita?"
     a: "Medio día para ver los dos lagos y hacer un paseo corto."
   - q: "¿Hay servicios arriba?"
@@ -50,7 +50,7 @@ Te cuento cómo llegar (hay restricciones de tráfico en temporada alta), qué v
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lagos de Covadonga: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde están</h3><p>En el concejo de Cangas de Onís, en la parte asturiana del Parque Nacional de los Picos de Europa. Son dos lagos: el <strong>Enol</strong> y el <strong>Ercina</strong> (hay un tercero, el Bricial, que solo tiene agua en el deshielo).</p></div>
-<div class="guide__tip"><h3>🚗 Acceso</h3><p>Se sube por una carretera de unos 14,5 km que sale del Real Sitio de Covadonga. Según Wikipedia, los vehículos particulares <strong>no pueden circular por ella durante unos 6 meses al año, en temporada alta</strong>. <strong>Confirma las fechas</strong> y el transporte alternativo en la web del Parque Nacional o del Ayuntamiento de Cangas de Onís.</p></div>
+<div class="guide__tip"><h3>🚗 Acceso</h3><p>Se sube por una carretera de unos 14,5 km que sale del Real Sitio de Covadonga. En los periodos de más afluencia (Semana Santa, puentes, verano y otras fechas que fija cada año el Principado), los coches particulares <strong>no pueden subir</strong> y hay autobús lanzadera desde Cangas de Onís. <strong>Confirma las fechas</strong> y el transporte alternativo en la web del Parque Nacional o del Ayuntamiento de Cangas de Onís.</p></div>
 <div class="guide__tip"><h3>🧥 Tiempo</h3><p>A más de mil metros la niebla y el frío llegan rápido, incluso en verano. Lleva abrigo y calzado de montaña ligero.</p></div>
 <div class="guide__tip"><h3>🅿️ Servicios</h3><p>En Buferrera hay aparcamiento, centro de visitantes, un refugio y dos bares-restaurante.</p></div>
 </div>

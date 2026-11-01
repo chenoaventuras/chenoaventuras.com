@@ -39,7 +39,7 @@ Te cuento qué ver, cómo llegar y qué rutas salen de aquí 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Sotres: lo básico</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>⛰️ Altitud</h3><p>1.050 m, según el texto de Wikipedia (otra cifra da 1.023 m): es uno de los pueblos más altos del Principado.</p></div>
+<div class="guide__tip"><h3>⛰️ Altitud</h3><p>Unos 1.050 m (algunas fuentes dan 1.023 m): es uno de los pueblos más altos del Principado.</p></div>
 <div class="guide__tip"><h3>👥 Habitantes</h3><p>Unos 109 vecinos (INE 2023).</p></div>
 <div class="guide__tip"><h3>🧀 Quesos</h3><p>Allí hay queserías con DOP Cabrales; una familia ganó el premio al mejor Cabrales en el certamen de Cangas de Onís.</p></div>
 <div class="guide__tip"><h3>🏅 Reconocimiento</h3><p>Premio al Pueblo Ejemplar de Asturias en 2024.</p></div>

@@ -44,12 +44,12 @@ Te cuento qué ver, su historia y qué hacer alrededor 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cangas de Onís: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Historia</h3><p>Fue capital del Reino de Asturias hasta el año 774. Pelayo se estableció aquí y la batalla de Covadonga (722) tuvo lugar dentro de su término municipal.</p></div>
-<div class="guide__tip"><h3>🚗 Distancias</h3><p>Está a unos 71 km de Oviedo, según Wikipedia. Es el punto de partida para subir a Covadonga y a los lagos.</p></div>
+<div class="guide__tip"><h3>🚗 Distancias</h3><p>Está a unos 71 km de Oviedo. Es el punto de partida para subir a Covadonga y a los lagos.</p></div>
 <div class="guide__tip"><h3>🧀 Qué probar</h3><p>Quesos de los Picos de Europa, miel y sidra. En octubre se celebran el Certamen del Queso de los Picos y la Feria de la Miel (confirma fechas).</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un puente que no es romano</h2></div>
-<p>El famoso <strong>puente «romano»</strong> sobre el Sella no lo es: según Wikipedia se construyó en la <strong>Edad Media, en tiempos de Alfonso XI</strong>. Aun así es el símbolo de la villa y Monumento Histórico Artístico. De su arco central cuelga una réplica de la <strong>Cruz de la Victoria</strong>, el emblema de Asturias.</p><div class="guide__legend"><h3>⛪ Mi consejo</h3><p>Cruza el puente y sube a la <strong>capilla de la Santa Cruz</strong>: en su cripta está el dolmen. Según Wikipedia la iglesia se atribuye al año 733, aunque la actual es una reconstrucción de posguerra.</p></div>
+<p>El famoso <strong>puente «romano»</strong> sobre el Sella no lo es: se construyó en la <strong>Edad Media, en tiempos de Alfonso XI</strong>. Aun así es el símbolo de la villa y Monumento Histórico Artístico. De su arco central cuelga una réplica de la <strong>Cruz de la Victoria</strong>, el emblema de Asturias.</p><div class="guide__legend"><h3>⛪ Mi consejo</h3><p>Cruza el puente y sube a la <strong>capilla de la Santa Cruz</strong>: en su cripta está el dolmen. La iglesia se atribuye al año 733, aunque la actual es una reconstrucción de posguerra.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Cangas de Onís</h2><p>Un paseo corto con mucha historia.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

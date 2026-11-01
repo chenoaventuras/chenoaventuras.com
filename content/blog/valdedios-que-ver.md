@@ -50,7 +50,7 @@ Te cuento qué ver, su historia y cómo llegar 👇
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
-<p>El monasterio lo fundaron <strong>Alfonso IX de León y Berenguela de Castilla</strong> el 27 de noviembre de 1200. La iglesia se construyó a partir de 1218 y se terminó hacia 1225. Junto a él está <strong>San Salvador de Valdediós</strong>, conocido como «El Conventín», que según Wikipedia levantó Alfonso III a finales del siglo IX. En 1835 la desamortización suprimió el monasterio y en 2020 quedó vacío tras décadas de uso religioso.</p>
+<p>El monasterio lo fundaron <strong>Alfonso IX de León y Berenguela de Castilla</strong> el 27 de noviembre de 1200. La iglesia se construyó a partir de 1218 y se terminó hacia 1225. Junto a él está <strong>San Salvador de Valdediós</strong>, conocido como «El Conventín», que levantó Alfonso III a finales del siglo IX. En 1835 la desamortización suprimió el monasterio y en 2020 quedó vacío tras décadas de uso religioso.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Valdediós</h2><p>Dos iglesias y un valle.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

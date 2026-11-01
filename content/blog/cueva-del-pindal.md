@@ -53,7 +53,7 @@ Te cuento qué se ve, cómo visitarla y qué hay cerca 👇
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
-<p>Según Wikipedia, las pinturas se concentran en los paneles de la derecha e incluyen <strong>13 bisontes, 8 caballos, una cierva, un ciervo, astas aisladas y un mamut</strong>, además de abundantes signos rojos (puntos, líneas, figuras en forma de maza). La cueva se desarrolla bajo una terraza marina (la «rasa»), entre calizas, y tiene estalactitas, estalagmitas y columnas.</p>
+<p>Las pinturas se concentran en los paneles de la derecha e incluyen <strong>13 bisontes, 8 caballos, una cierva, un ciervo, astas aisladas y un mamut</strong>, además de abundantes signos rojos (puntos, líneas, figuras en forma de maza). La cueva se desarrolla bajo una terraza marina (la «rasa»), entre calizas, y tiene estalactitas, estalagmitas y columnas.</p>
 
 <!--enr-->
 <div class="guide__head"><span class="eyebrow">La visita</span><h2>Qué vas a ver dentro (y cómo organizarte)</h2></div>

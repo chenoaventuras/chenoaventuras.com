@@ -28,7 +28,7 @@ faq:
   - q: "¿Cuánto mide el túnel del funicular?"
     a: "2.227 metros."
   - q: "¿Cuánto se tarda a pie?"
-    a: "Unas 1 h 15 min por la Canal del Tejo, según Wikipedia."
+    a: "Unas 1 h 15 min por la Canal del Tejo."
   - q: "¿Cuánta gente vive allí?"
     a: "Muy pocos vecinos, unas decenas."
   - q: "¿Se ve el Naranjo de Bulnes?"
@@ -49,7 +49,7 @@ Te cuento cómo llegar, qué ver y qué tener en cuenta 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Bulnes: lo básico</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚡 Funicular</h3><p>Une Poncebos con Bulnes por un túnel recto de 2.227 metros. Confirma horarios y precios en la web oficial.</p></div>
-<div class="guide__tip"><h3>🥾 Senda</h3><p>A pie se sube por la Canal del Tejo; según Wikipedia lleva unas 1 h 15 min.</p></div>
+<div class="guide__tip"><h3>🥾 Senda</h3><p>A pie se sube por la Canal del Tejo; se tarda unas 1 h 15 min.</p></div>
 <div class="guide__tip"><h3>👥 Habitantes</h3><p>Muy pocos: unas decenas de vecinos repartidos en dos barrios.</p></div>
 <div class="guide__tip"><h3>🏔️ Picu Urriellu</h3><p>Desde Bulnes salen caminos duros hacia el Naranjo de Bulnes: solo para montañeros.</p></div>
 </div>
