@@ -2833,15 +2833,17 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 }
 
 /* Contacto: mismo estilo visual que Servicios (acuarela clara, título grande, tarjetas con emoji) */
-.contact-block { background: linear-gradient(rgba(239,236,231,.66), rgba(239,236,231,.66)), url("../img/mapa/fondo-acuarela.webp") center top / 100% auto repeat-y; background-color: var(--paper); }
+.contact-block { background: linear-gradient(rgba(16,30,52,.74), rgba(16,30,52,.86)), url("../img/hero-altea.webp") center / cover no-repeat; background-color: #101e34; }
 .contact-block__head { max-width: 760px; }
-.contact-block__head .eyebrow { color: var(--olive-dark); }
-.contact-block__head .title { color: var(--ink); }
-.contact-block__head p { color: var(--ink-soft); font-size: 1.05rem; }
-.contact-block__direct { color: var(--ink-soft); }
-.contact-block__ok { color: var(--olive-dark); }
+.contact-block__head .eyebrow { color: var(--gold-soft); }
+.contact-block__head .title { color: #fff; }
+.contact-block__head .title .accent { background-image: linear-gradient(90deg, #f8d878, #9bab68, #8fb6e6, #f8d878); }
+.contact-block__head p { color: rgba(255,255,255,.86); font-size: 1.05rem; }
+.contact-block__direct { color: rgba(255,255,255,.8); }
+.contact-block__direct a { color: var(--gold-soft); }
+.contact-block__ok { color: var(--gold-soft); }
 .contact-reasons { grid-template-columns: repeat(5, 1fr); }
-.contact-reason { position: relative; padding: 18px 16px 18px; background: rgba(255,255,255,.88); }
+.contact-reason { position: relative; padding: 18px 16px 18px; background: rgba(255,255,255,.96); }
 .contact-reason__emoji { display: grid; place-items: center; width: 46px; height: 46px; margin-bottom: 12px; font-size: 1.5rem; background: #fff; border-radius: 50%; box-shadow: var(--shadow-sm); }
 .contact-reasons input:checked + .contact-reason .contact-reason__emoji { background: rgba(255,255,255,.9); }
 @media (max-width: 1080px) { .contact-reasons { grid-template-columns: repeat(3, 1fr); } }
@@ -2857,8 +2859,9 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .about-sky__ask { margin-top: 12px; color: rgba(255,255,255,.85); }
 .about-sky__ask a { color: var(--gold-soft); font-weight: 600; text-decoration: underline; }
 /* aviso al copiar el texto del mensaje de Instagram */
-.igtoast { position: fixed; left: 50%; bottom: 22px; transform: translate(-50%, 20px); z-index: 3000; max-width: min(92vw, 420px); background: var(--night); color: #fff; font: 600 .9rem/1.35 var(--font-head); padding: 12px 18px; border-radius: 14px; box-shadow: var(--shadow-md); opacity: 0; transition: opacity .25s, transform .25s; pointer-events: none; text-align: center; }
-.igtoast.is-on { opacity: 1; transform: translate(-50%, 0); }
+.igtoast { position: fixed; left: 50%; top: 50%; transform: translate(-50%, -40%); z-index: 3000; width: min(88vw, 380px); background: var(--night); color: #fff; font: 500 1rem/1.5 var(--font-head); padding: 22px 24px; border-radius: 18px; box-shadow: 0 20px 60px rgba(0,0,0,.45); opacity: 0; transition: opacity .25s, transform .25s; pointer-events: none; text-align: center; }
+.igtoast b { color: var(--gold-soft); font-weight: 700; }
+.igtoast.is-on { opacity: 1; transform: translate(-50%, -50%); }
 
 /* móvil: «Han confiado en mí» con los cuatro logos en una sola fila y de tamaño parecido */
 @media (max-width: 760px) {

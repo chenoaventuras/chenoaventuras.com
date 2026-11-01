@@ -953,16 +953,19 @@
     setTimeout(function () { books.forEach(function (b) { b.preload(); }); }, 2500);
   }
 
-  /* ---------- Mensaje directo de Instagram: abre el chat y deja copiado el texto para pegarlo ---------- */
+  /* ---------- Mensaje directo de Instagram: deja copiado el texto, avisa y abre el chat ---------- */
   document.querySelectorAll("[data-ig-dm]").forEach(function (a) {
-    a.addEventListener("click", function () {
+    a.addEventListener("click", function (ev) {
       var txt = a.getAttribute("data-ig-dm");
       try { navigator.clipboard && navigator.clipboard.writeText(txt); } catch (e) { /* sin portapapeles */ }
+      if (ev.metaKey || ev.ctrlKey || ev.shiftKey) return;     // abrir en pestaña nueva: que haga lo normal
+      ev.preventDefault();
       var t = document.querySelector(".igtoast");
       if (!t) { t = document.createElement("div"); t.className = "igtoast"; t.setAttribute("role", "status"); document.body.appendChild(t); }
-      t.textContent = "Texto copiado: «" + txt + "». Pégalo en el chat de Instagram.";
+      t.innerHTML = "✅ Texto copiado:<br><b>«" + txt + "»</b><br>Pégalo en el chat de Instagram";
       void t.offsetWidth; t.classList.add("is-on");
-      clearTimeout(t._h); t._h = setTimeout(function () { t.classList.remove("is-on"); }, 6000);
+      // se abre el chat en esta misma pestaña tras leer el aviso (así el aviso no queda escondido en otra pestaña)
+      setTimeout(function () { window.location.href = a.href; }, 2300);
     });
   });
 
