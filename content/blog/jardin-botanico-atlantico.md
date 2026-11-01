@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/gijon/visita-guiada-gijon/"
 faqTitulo: "Dudas sobre el Jardín Botánico"
 faq:
+  - q: "¿Qué es la finca de La Isla del Botánico de Gijón?"
+    a: "Una finca histórica de unos 17.000 m² incorporada al Jardín Botánico Atlántico, que abrió al público por primera vez el 25 y 26 de abril de 2026."
+  - q: "¿Hay entrada combinada con el Acuario o la Laboral?"
+    a: "Sí, el Ayuntamiento de Gijón ofrece entradas conjuntas del Jardín Botánico con el Acuario y con la Laboral Ciudad de la Cultura. Consulta precios y horarios en la web municipal."
   - q: "¿Dónde está el Jardín Botánico Atlántico?"
     a: "En Cabueñes, Gijón."
   - q: "¿Cuándo abrió?"
@@ -31,6 +35,7 @@ faq:
     a: "La Laboral y el centro de Gijón."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 Un jardín en Cabueñes (Gijón) con **unas 30.000 plantas de unas 2.000 especies** y un entorno de flora cantábrico-atlántica. El **Jardín Botánico Atlántico** abrió el 25 de abril de 2003 y es un plan tranquilo para un día con niños o con mala previsión.
 
@@ -43,12 +48,18 @@ Te cuento qué ver y qué tener en cuenta 👇
 <div class="guide__tips">
 <div class="guide__tip"><h3>🌳 Qué es</h3><p>Un jardín botánico en Cabueñes, Gijón, abierto el 25 de abril de 2003.</p></div>
 <div class="guide__tip"><h3>🪴 Colecciones</h3><p>Unas 30.000 plantas de unas 2.000 especies, con flora cantábrico-atlántica.</p></div>
-<div class="guide__tip"><h3>📐 Tamaño</h3><p>La superficie varía según la fuente (unas 15-25 ha); la ampliación estaba prevista.</p></div>
+<div class="guide__tip"><h3>📐 Tamaño</h3><p>Unas 25 hectáreas frente a la Universidad Laboral, a las que en 2026 se sumó la finca de La Isla.</p></div>
 <div class="guide__tip"><h3>🎓 Proyecto</h3><p>El Proyecto Botánico lo realizó el INDUROT de la Universidad de Oviedo.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>El jardín incluye espacios expositivos como el <strong>edificio de recepción</strong>, la <strong>Quintana de Rionda</strong> y <strong>El Llagar</strong>. <strong>Consulta horarios y precios</strong> en la web oficial: cambian según la temporada.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Novedad 2026</span><h2>La Isla: el jardín que se abrió por primera vez</h2></div>
+<p>El Botánico se inauguró en <strong>2003</strong> en Cabueñes, frente a la <strong>Universidad Laboral</strong>, y hoy ocupa unas <strong>25 hectáreas</strong> dedicadas a la flora del arco atlántico: desde los bosques cantábricos hasta plantas de otras regiones con un clima húmedo y templado parecido.</p>
+<p>En <strong>abril de 2026</strong> abrió al público por primera vez la <strong>finca de La Isla</strong>, unos 17.000 m² de jardín histórico que se han incorporado al recorrido. Es un buen motivo para volver aunque ya lo conozcas.</p>
+<p>Si vas a pasar el día en esta zona de Gijón, mira las <strong>entradas combinadas</strong> que ofrece el Ayuntamiento con el <strong>Acuario</strong> y con la <strong>Laboral Ciudad de la Cultura</strong>: salen más baratas que por separado.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Jardín</h2><p>Senderos, agua y verde.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
