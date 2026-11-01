@@ -1,7 +1,7 @@
 ---
 title: 'Templo de Debod: un templo egipcio de verdad en Madrid'
-seoTitle: 'Templo de Debod: horario, entrada gratis y reservas'
-seoDescription: 'Templo de Debod (Madrid): horario del interior, si es gratis y si hay que reservar online, cómo verlo de noche y al atardecer y por qué está en Madrid.'
+seoTitle: 'Templo de Debod: horario, entrada gratis y reserva'
+seoDescription: 'Templo de Debod (Madrid): horario del interior 2026, entrada gratuita y cómo reservar, cuándo ver el atardecer y por qué hay un templo egipcio en Madrid.'
 date: 2026-10-10T10:10:00.000Z
 lugar: 'Templo de Debod'
 lat: 40.424
@@ -15,11 +15,11 @@ wide: true
 faqTitulo: "Dudas sobre el Templo de Debod"
 faq:
   - q: "¿Hay que reservar para entrar al Templo de Debod?"
-    a: "No para visitas individuales: se entra por orden de llegada. Los grupos sí deben reservar."
+    a: "La entrada es gratuita y el Ayuntamiento recomienda reservarla con antelación en su web oficial de reservas. Sin reserva, entrarás solo si queda aforo libre en ese turno."
   - q: "¿Cuánto cuesta entrar al Templo de Debod?"
     a: "Es gratis, tanto el interior como el exterior."
   - q: "¿Qué horario tiene el Templo de Debod?"
-    a: "El interior abre de martes a domingo (cierra los lunes) y el horario cambia entre verano e invierno. El exterior está abierto siempre."
+    a: "El interior abre de martes a domingo y festivos de 10:00 a 20:00 (última entrada 19:30); del 15 de junio al 15 de septiembre, de 10:00 a 19:00. Cierra los lunes, el 1 y 6 de enero, el 1 de mayo y el 24, 25 y 31 de diciembre. El exterior está abierto siempre."
   - q: "¿Por qué hay un templo egipcio en Madrid?"
     a: "Egipto lo regaló a España en 1968 por su ayuda para salvar los templos de Nubia de la presa de Asuán."
   - q: "¿Dónde está el Templo de Debod?"
@@ -66,6 +66,16 @@ Te cuento su historia y cómo visitarlo (también por dentro) 👇
 
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>De Egipto a Madrid, piedra a piedra</h2></div>
 <p>El templo se levantó en el siglo II a. C. en <strong>Nubia</strong>, al sur de Egipto, dedicado a los dioses Amón e Isis. En los años 60, la construcción de la <strong>presa de Asuán</strong> iba a inundarlo, y España ayudó a salvar los templos de Abu Simbel.</p><p>Como agradecimiento, Egipto <strong>regaló el Templo de Debod a España</strong> en 1968. Llegó desmontado en cajas y se volvió a montar en el antiguo Cuartel de la Montaña. Abrió al público en <strong>1972</strong>.</p><div class="guide__legend"><h3>🌅 El atardecer</h3><p>Con el estanque y los arcos reflejados, el atardecer desde Debod es una de las postales de Madrid. Llega una hora antes: se llena.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Horario y entradas</span><h2>Templo de Debod: horario, precio y reserva</h2></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🕒 Horario del interior</h3><p>De martes a domingo y festivos, de <strong>10:00 a 20:00</strong> (última entrada 19:30). Del <strong>15 de junio al 15 de septiembre</strong>, de 10:00 a 19:00. <strong>Cierra los lunes</strong> y el 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p><strong>Gratis</strong>. El aforo del interior es pequeño, así que conviene <strong>reservar la entrada</strong> en la web oficial de reservas del Ayuntamiento de Madrid.</p></div>
+<div class="guide__tip"><h3>🌅 El exterior</h3><p>Los pórticos, el estanque y la explanada se pueden ver <strong>a cualquier hora</strong> y sin entrada. Es donde todo el mundo va al atardecer.</p></div>
+<div class="guide__tip"><h3>🌙 De noche</h3><p>Con el templo iluminado y reflejado en el estanque, la foto nocturna es casi tan buena como la del atardecer, y con mucha menos gente.</p></div>
+</div>
+<p>Datos consultados en noviembre de 2026 en la web turística oficial de Madrid. Los horarios pueden cambiar: confírmalos antes de ir.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Templo de Debod</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

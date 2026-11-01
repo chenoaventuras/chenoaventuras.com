@@ -66,7 +66,12 @@ case "$cmd" in
         git commit -q -m "Guías PDF por zonas actualizadas"
       fi
     fi
+    # posts nuevos o cambiados, para avisar a Bing por IndexNow después del push
+    changed_urls=$(git diff --name-only origin/main HEAD -- content/blog | sed -n 's|^content/blog/\(.*\)\.md$|https://www.chenoaventuras.com/blog/\1.html|p')
     git push origin HEAD:main
+    if [ -n "$changed_urls" ] && [ -f scripts/indexnow.mjs ]; then
+      node scripts/indexnow.mjs $changed_urls || echo "Aviso: no se pudo avisar a IndexNow."
+    fi
     echo "Subido a main. Si ya no la necesitas: scripts/sesion.sh limpiar $(basename "$top")"
     ;;
 

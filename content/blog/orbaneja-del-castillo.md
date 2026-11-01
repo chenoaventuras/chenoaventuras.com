@@ -16,6 +16,10 @@ tags:
 igPermalink: 'https://www.instagram.com/reel/DTdpjjYDDI8/'
 wide: true
 faq:
+  - q: "¿De dónde sale la cascada de Orbaneja del Castillo?"
+    a: "No es un río que cae por un desnivel: el agua brota de la Cueva del Agua, un manantial kárstico en lo alto del pueblo, y baja unos 25 metros en terrazas hasta el Ebro, partiendo el pueblo en dos."
+  - q: "¿Por qué el agua de Orbaneja es tan turquesa?"
+    a: "Porque va cargada de carbonato cálcico disuelto de la roca caliza. Al salir y moverse, ese carbonato se deposita y forma la toba, una roca porosa que crea las pozas y escalones; el fondo claro y la cal en el agua le dan ese color."
   - q: "¿Cuándo tiene más agua la cascada de Orbaneja del Castillo?"
     a: "En primavera, en otoño y después de días de lluvia. En verano el caudal suele bajar bastante."
   - q: "¿De dónde sale el agua de la cascada?"
@@ -61,6 +65,12 @@ Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cóm
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una cascada que sale de una cueva</h2></div>
 <p>El agua de la cascada brota de la <strong>Cueva del Agua</strong>, la salida natural de un enorme acuífero que hay bajo el <strong>páramo de Bricia</strong>. Desde allí baja por el pueblo en una cascada de unos <strong>25 metros</strong>, dividiéndolo en dos barrios, y forma pozas y terrazas de toba antes de llegar al Ebro.</p><div class="guide__legend"><h3>🪨 Una ciudad de roca</h3><p>Mira hacia arriba: sobre el pueblo, las peñas calizas forman torres y figuras caprichosas. Hay una senda que sube hasta ellas y desde arriba tienes una vista increíble del cañón del Ebro.</p></div>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Una cascada que nace dentro de una cueva</h2></div>
+<p>Lo más curioso de Orbaneja es que su cascada <strong>no viene de un río</strong> que cae por un precipicio. El agua brota de la <strong>Cueva del Agua</strong>, en la parte alta del pueblo: es una <strong>surgencia kárstica</strong>, el punto por el que sale a la luz el agua que se ha filtrado durante años por dentro de los páramos calizos de la zona. La cueva es larga y tiene varios sifones inundados que solo exploran espeleobuceadores.</p>
+<p>Esa agua sale <strong>cargada de carbonato cálcico</strong> disuelto de la caliza. Al moverse y oxigenarse en la cascada, lo va soltando y se deposita sobre el musgo y las plantas, que acaban petrificados: así se forma la <strong>toba</strong>, una roca porosa y ligera que construye, capa a capa, las <strong>terrazas y pozas</strong> por las que el agua baja unos <strong>25 metros</strong> hasta el Ebro, partiendo el pueblo en dos. Es un paisaje vivo, que sigue creciendo muy despacio.</p>
+<p>La toba también es el material de muchas casas del pueblo: fíjate en la <strong>Casa de los Pobres</strong>, un antiguo hospital del siglo XVI con su porche de madera y muros de esta piedra.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Orbaneja del Castillo</h2><p>Un pueblo pequeño, pero que da para mucho.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

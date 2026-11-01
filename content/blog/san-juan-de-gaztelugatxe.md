@@ -13,6 +13,10 @@ tags:
   - País Vasco
 wide: true
 faq:
+  - q: "¿Qué historia tiene San Juan de Gaztelugatxe?"
+    a: "La ermita está documentada desde el siglo X y en la zona se han hallado sepulturas medievales de los siglos IX al XII. Ha sufrido varios incendios; tras el último, en 1978, se reconstruyó y reabrió unos dos años después."
+  - q: "¿Es verdad que Francis Drake atacó Gaztelugatxe?"
+    a: "Es lo que cuenta la tradición, que sitúa el saqueo a finales del siglo XVI, pero las fuentes no coinciden en la fecha y algunos historiadores sostienen que es una leyenda sin base documental."
   - q: "¿Hay que pagar para visitar San Juan de Gaztelugatxe?"
     a: "No. La visita es gratuita, pero en temporada alta hay que reservar la entrada en la web oficial."
   - q: "¿Cuándo hay que reservar para ir a Gaztelugatxe?"
@@ -57,8 +61,12 @@ La visita es gratis, pero hay días en los que **tienes que reservar**. Te cuent
 <div class="guide__tip"><h3>🥾 La caminata</h3><p>Ida y vuelta desde el aparcamiento son casi <strong>3 km</strong> y unos <strong>75 minutos</strong>, con fuerte desnivel: bajar es fácil, la vuelta cuesta.</p></div>
 </div>
 
-<div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una ermita con mil años de historia</h2></div>
-<p>La ermita, dedicada a San Juan Bautista, tiene un origen muy antiguo: se habla del <strong>siglo IX o X</strong>, y ha sufrido ataques, saqueos e incendios. Tras el último gran incendio, a finales del siglo XX, se reconstruyó: la ermita que ves hoy es esa reconstrucción.</p><div class="guide__legend"><h3>🔔 La campana de los deseos</h3><p>La tradición dice que al llegar arriba hay que <strong>tocar la campana tres veces</strong> y pedir un deseo (o espantar a los malos espíritus, según a quién preguntes).</p></div><div class="guide__legend"><h3>🐉 Rocadragón</h3><p>En la séptima temporada de <strong>Juego de Tronos</strong>, el islote fue <strong>Rocadragón</strong>, el castillo de Daenerys Targaryen. En la serie, eso sí, la ermita se cambió por un castillo digital.</p></div>
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Mil años sobre una roca en el mar</h2></div>
+<p>«Gaztelugatxe» viene del euskera y suele traducirse como <strong>«peña del castillo»</strong>: un islote rocoso unido a tierra por un puente de piedra, que durante siglos fue lugar de culto y de vigilancia de la costa. La ermita dedicada a <strong>San Juan Bautista</strong> está documentada desde el <strong>siglo X</strong>, y en las excavaciones de la explanada se han encontrado <strong>sepulturas medievales de los siglos IX al XII</strong>.</p>
+<p>Su posición, asomada al Cantábrico, la convirtió en una atalaya natural, y alrededor de ella han crecido <strong>leyendas</strong>: la más repetida dice que el corsario inglés <strong>Francis Drake</strong> la saqueó a finales del siglo XVI. Ojo, porque las fuentes no se ponen de acuerdo ni en la fecha y algunos historiadores defienden que es una historia sin base documental.</p>
+<p>Lo que sí está documentado son sus <strong>incendios</strong>: la ermita ardió varias veces, la última en <strong>1978</strong>, y la que ves hoy es fruto de la reconstrucción que la reabrió unos dos años después. En <strong>2016-2017</strong> llegó su fama mundial, cuando la séptima temporada de <strong>Juego de Tronos</strong> la convirtió en <strong>Rocadragón</strong>, el castillo de Daenerys Targaryen (en pantalla, la ermita se sustituyó por un castillo digital); desde entonces las visitas se dispararon y la Diputación de Bizkaia tuvo que regular el acceso con reserva en temporada alta.</p>
+<p>🔔 <strong>La campana de los deseos</strong>: la tradición manda subir los <strong>241 escalones</strong>, tocar <strong>tres veces la campana</strong> y pedir un deseo (o espantar a los malos espíritus, según a quién preguntes).</p>
 
 <div class="guide__head"><span class="eyebrow">El camino</span><h2>Qué vas a ver en Gaztelugatxe</h2><p>La bajada desde el aparcamiento hasta la ermita, paso a paso.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
