@@ -213,6 +213,9 @@ function readPosts() {
       seoDescription: data.seoDescription ? String(data.seoDescription).trim() : "",
       guia: data.guia ? String(data.guia) : "",
       evento: data.evento === true || data.evento === "true",
+      // eventoInfo: { nombre, inicio, fin, lugar, localidad, cp, region, precioMin, precioMax, entradas, organizador }
+      // → Event en el JSON-LD (fechas en resultados de Google)
+      eventoInfo: data.eventoInfo && data.eventoInfo.inicio && data.eventoInfo.lugar ? data.eventoInfo : null,
       guiaTitulo: data.guiaTitulo ? String(data.guiaTitulo) : "",
       excerpt: excerpt || title,
       cover: data.cover ? String(data.cover) : "",
@@ -621,6 +624,46 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
             { "@type": "ListItem", position: 3, name: p.title, item: p.url },
           ],
         },
+        ...(p.eventoInfo
+          ? [
+              {
+                "@type": "Event",
+                name: String(p.eventoInfo.nombre || p.lugar || p.title),
+                description: p.seoDescription || p.excerpt,
+                startDate: String(p.eventoInfo.inicio),
+                ...(p.eventoInfo.fin ? { endDate: String(p.eventoInfo.fin) } : {}),
+                eventStatus: "https://schema.org/EventScheduled",
+                eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
+                image: coverAbs || OG_DEFAULT,
+                location: {
+                  "@type": "Place",
+                  name: String(p.eventoInfo.lugar),
+                  address: {
+                    "@type": "PostalAddress",
+                    ...(p.eventoInfo.direccion ? { streetAddress: String(p.eventoInfo.direccion) } : {}),
+                    ...(p.eventoInfo.localidad ? { addressLocality: String(p.eventoInfo.localidad) } : {}),
+                    ...(p.eventoInfo.cp ? { postalCode: String(p.eventoInfo.cp) } : {}),
+                    ...(p.eventoInfo.region ? { addressRegion: String(p.eventoInfo.region) } : {}),
+                    addressCountry: "ES",
+                  },
+                  ...(p.lat !== null && p.lng !== null ? { geo: { "@type": "GeoCoordinates", latitude: p.lat, longitude: p.lng } } : {}),
+                },
+                ...(p.eventoInfo.precioMin != null
+                  ? {
+                      offers: {
+                        "@type": "AggregateOffer",
+                        lowPrice: Number(p.eventoInfo.precioMin),
+                        highPrice: Number(p.eventoInfo.precioMax ?? p.eventoInfo.precioMin),
+                        priceCurrency: "EUR",
+                        availability: "https://schema.org/InStock",
+                        ...(p.eventoInfo.entradas ? { url: String(p.eventoInfo.entradas) } : {}),
+                      },
+                    }
+                  : {}),
+                ...(p.eventoInfo.organizador ? { organizer: { "@type": "Organization", name: String(p.eventoInfo.organizador), ...(p.eventoInfo.web ? { url: String(p.eventoInfo.web) } : {}) } } : {}),
+              },
+            ]
+          : []),
         ...(p.faq.length
           ? [
               {

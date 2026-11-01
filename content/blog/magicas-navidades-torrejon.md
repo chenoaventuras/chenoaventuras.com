@@ -1,6 +1,20 @@
 ---
 title: 'Mágicas Navidades de Torrejón de Ardoz 2026: fechas, precios, Papá Noel volador y todo lo que incluye'
-seoTitle: 'Mágicas Navidades Torrejón 2026: fechas, entradas y cómo llegar'
+seoTitle: 'Mágicas Navidades Torrejón 2026: precios, fechas y horarios'
+seoDescription: 'Navidad en Torrejón de Ardoz 2026: abre el 14 de noviembre. Entrada de 5 a 10 €, días de la Familia, Papá Noel volando cada noche, calendario y cómo llegar.'
+eventoInfo:
+  nombre: 'Mágicas Navidades de Torrejón de Ardoz 2026'
+  inicio: '2026-11-14T16:00:00+01:00'
+  fin: '2027-01-10T23:00:00+01:00'
+  lugar: 'Recinto Ferial de Torrejón de Ardoz'
+  localidad: 'Torrejón de Ardoz'
+  cp: '28850'
+  region: 'Madrid'
+  precioMin: 5
+  precioMax: 10
+  entradas: 'https://parquemagicasnavidades.es/es/entradas/'
+  organizador: 'Mágicas Navidades'
+  web: 'https://parquemagicasnavidades.es/'
 date: 2026-10-24T11:00:00.000Z
 evento: true
 lugar: 'Mágicas Navidades de Torrejón'
@@ -15,10 +29,33 @@ tags:
 wide: true
 cocheMensaje: "<strong>Lo más cómodo para ir es el tren</strong> (Cercanías C-2 y C-7, con la estación a unos 100 metros del recinto). Si prefieres ir en coche y no tienes uno disponible, compara precios de alquiler en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis."
 coche: true
+actividades:
+  - t: "Tour navideño por Madrid: Plaza Mayor, Cortylandia y luces"
+    u: "https://www.civitatis.com/es/madrid/tour-navidad-madrid/"
+  - t: "Tour privado de las luces de Navidad de Madrid en Eco Tuk-Tuk"
+    u: "https://www.getyourguide.es/madrid-l46/madrid-tour-privado-del-alumbrado-navideno-en-eco-tuk-tuk-t432703/"
 faqTitulo: "Dudas sobre las Mágicas Navidades"
 faq:
+  - q: "¿Cuándo son los Días de la Familia de 2026?"
+    a: "El 19 y el 26 de noviembre y el 3, 10, 17 y 22 de diciembre de 2026. Esos días la entrada general cuesta 5 € y el parque abre de 16:00 a 23:00."
+  - q: "¿Qué días cuesta 10 € la entrada?"
+    a: "El 14, 21 y 28 de noviembre; el 5, 6, 7, 8, 12, 19 y 26 de diciembre; y el 2 y 9 de enero. El resto de días abiertos cuesta 7 €, salvo los Días de la Familia (5 €)."
+  - q: "¿Cuánto cuesta ir con 2 adultos y 2 niños?"
+    a: "Los menores de 2 años no pagan; a partir de esa edad, todos pagan lo mismo. Con dos niños mayores de 2 años, la entrada general sale por 20 € los Días de la Familia, 28 € los días de 7 € y 40 € los días de 10 €. Las experiencias como el Ice Festival, la pista de hielo o la noria se pagan aparte."
+  - q: "¿Abre en Nochebuena, Navidad, Nochevieja y Año Nuevo?"
+    a: "Cierra el 24 y el 31 de diciembre. El 25 de diciembre y el 1 de enero abre de 16:00 a 00:00, con entrada a 7 €."
+  - q: "¿A qué hora es el Vuelo de Santa?"
+    a: "Es cada noche y está incluido con la entrada. El parque todavía no ha publicado los horarios de 2026; se ve desde la zona de la Puerta Mágica (acceso A2)."
+  - q: "¿Qué es El Viaje de Noel?"
+    a: "Una cúpula inmersiva de 360º con luz, imagen y sonido que cuenta una historia de Navidad. Es novedad de 2026, se paga aparte (desde 9 €) y tiene pases cada 30 minutos desde las 16:15."
+  - q: "¿Qué pasa si llueve?"
+    a: "El parque sigue abierto. Si contratas el servicio de cancelación al comprar, te devuelven el 100 % hasta 24 horas antes."
+  - q: "¿Hay entradas con hotel y tren?"
+    a: "Sí: la web oficial vende un pack con entrada, hotel y/o tren, y tiene ofertas para grupos de más de 20 personas."
+  - q: "¿Mágicas Navidades de Madrid y de Torrejón es lo mismo?"
+    a: "Sí. El parque se presenta como «Mágicas Navidades de Madrid», pero está en el Recinto Ferial de Torrejón de Ardoz, a unos 20 km del centro de Madrid y a 100 metros de la estación de Cercanías."
   - q: "¿Dónde aparcar en las Mágicas Navidades de Torrejón?"
-    a: "Hay tres parkings gratuitos junto al recinto: P1 (C/ Telémaco, 11), P2 (C/ Meridiano, 11) y P3 (C/ Margarita Salas). Hay dos aparcamientos accesibles, junto a la pasarela de Renfe y junto al acceso a las atracciones. Aun así, el parque recomienda el tren porque la estación está a unos 100 metros."
+    a: "Hay tres parkings gratuitos junto al recinto: P1 (C/ Meridiano), P2 (C/ Telémaco, 11) y P3 (C/ Margarita Salas). Hay dos aparcamientos accesibles, junto a la pasarela de Renfe y junto al acceso a las atracciones. Aun así, el parque recomienda el tren porque la estación está a unos 100 metros."
   - q: "¿Hay baños en el parque?"
     a: "Sí: hay varias zonas con aseos y todos tienen cambiador de bebé."
   - q: "¿Qué niños no pagan entrada?"
@@ -32,7 +69,7 @@ faq:
   - q: "¿Dónde se celebran?"
     a: "En el Recinto Ferial de Torrejón de Ardoz, en la Comunidad de Madrid."
   - q: "¿Cuánto cuesta la entrada?"
-    a: "La entrada general cuesta 5, 7 o 10 € según el día, con los menores de 2 años gratis. Los Días de la Familia cuesta 5 €."
+    a: "La entrada general cuesta 7 o 10 € según el día y 5 € los Días de la Familia. Los menores de 2 años entran gratis y los vecinos empadronados en Torrejón, con invitación."
   - q: "¿Qué es el Vuelo de Santa?"
     a: "Un espectáculo en el que Papá Noel vuela por el cielo del parque cada noche. Está incluido con la entrada."
   - q: "¿Qué se paga aparte?"
@@ -44,7 +81,7 @@ faq:
   - q: "¿Cuánto tiempo hace falta?"
     a: "Entre 4 y 5 horas en una primera visita."
 ---
-Las **Mágicas Navidades de Torrejón de Ardoz** son uno de los planes de Navidad más grandes de la Comunidad de Madrid y este año **abren el 14 de noviembre de 2026**.
+Las **Mágicas Navidades de Torrejón de Ardoz**, que el parque presenta como **Mágicas Navidades de Madrid**, son uno de los planes de Navidad más grandes de la Comunidad de Madrid y este año **abren el 14 de noviembre de 2026**.
 
 **Papá Noel vuela cada noche sobre el parque**, hay una **pista de hielo sobre un lago real**, una **noria de 42 metros**, un belén a tamaño real, linternas gigantes de Asia y esculturas de hielo de varios metros.
 
@@ -88,12 +125,14 @@ Aquí tienes todo: fechas, horarios, precios, qué incluye la entrada, qué se p
 <div class="etiles"><div><b>☕</b><span>Café y chocolate</span></div><div><b>🧁</b><span>Dulces (churros, bollería…)</span></div><div><b>🚚</b><span>Food trucks</span></div><div><b>🍺</b><span>Cervezas y cocina internacional</span></div><div><b>🌾</b><span>Opciones sin gluten</span></div><div><b>🎒</b><span>Puedes traer tu comida</span></div></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar y dónde aparcar</h2></div>
-<div class="guide__howto"><p><strong>En tren (lo más recomendable):</strong> Cercanías <strong>C-2 y C-7</strong> hasta Torrejón de Ardoz (Paseo de la Estación, 2). La estación queda a unos 100 metros del recinto, por el <strong>acceso A1</strong>.</p><p><strong>En autobús:</strong> parada en C/ Cristo, 2 (acceso A1), con las líneas urbanas L1a, L1b, L2, L3, L4, L5a y L5b y las interurbanas 223, 224, 340 y 824.</p><p><strong>En coche:</strong> tres parkings gratuitos: <strong>P1</strong> (C/ Telémaco, 11, accesos A1 y A2), <strong>P2</strong> (C/ Meridiano, 11, acceso A4) y <strong>P3</strong> (C/ Margarita Salas, acceso A5). El parking VIP está en C/ Telémaco, 11. Hay dos aparcamientos accesibles, junto a la pasarela de Renfe y junto al acceso a las atracciones.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Recinto+Ferial+Torrej%C3%B3n+de+Ardoz" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En tren (lo más recomendable):</strong> Cercanías <strong>C-2 y C-7</strong> hasta Torrejón de Ardoz (Paseo de la Estación, 2). La estación queda a unos 100 metros del recinto, por el <strong>acceso A1</strong>.</p><p><strong>En autobús:</strong> parada en C/ Cristo, 2 (acceso A1), con las líneas urbanas L1a, L1b, L2, L3, L4, L5a y L5b y las interurbanas 223, 224, 340 y 824.</p><p><strong>En coche:</strong> tres parkings gratuitos: <strong>P1</strong> (C/ Meridiano, accesos A1 y A2), <strong>P2</strong> (C/ Telémaco, 11, acceso A4) y <strong>P3</strong> (C/ Margarita Salas, acceso A5). El parking VIP está en C/ Telémaco, 11. Hay dos aparcamientos accesibles, junto a la pasarela de Renfe y junto al acceso a las atracciones.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Recinto+Ferial+Torrej%C3%B3n+de+Ardoz" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 <div class="etiles"><div><b>🚆</b><span>Cercanías C-2 y C-7</span></div><div><b>🚌</b><span>Autobuses urbanos e interurbanos</span></div><div><b>🅿️</b><span>Parkings gratuitos P1, P2 y P3</span></div><div><b>♿</b><span>Parkings accesibles</span></div></div>
 
 <div class="guide__head"><span class="eyebrow">Normas y consejos</span><h2>Lo que conviene saber antes de ir</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Entradas:</strong> solo valen para el día indicado y basta con tenerlas en el móvil. El aforo es limitado: compra con antelación.</li><li><strong>Entrar y salir:</strong> puedes salir y volver pidiendo el sello del día al personal de salida. No hay límite de tiempo dentro del horario de apertura.</li><li><strong>Lluvia:</strong> el parque sigue abierto. Con el servicio de cancelación contratado se devuelve el 100 % hasta 24 horas antes.</li><li><strong>Mascotas:</strong> no se admiten, salvo perros guía. Tampoco bicicletas ni patinetes, y no hay consigna.</li><li><strong>Accesibilidad:</strong> hay acceso rápido para personas con movilidad reducida, diversidad funcional o neurodivergencia, y los aseos tienen cambiador de bebé.</li><li><strong>Vecinos de Torrejón:</strong> entran gratis con invitación reservada en la web y acreditación de empadronamiento.</li><li><strong>Ropa:</strong> abrigo, guantes para patinar y batería externa para el móvil.</li></ul>
 <div class="etiles"><div><b>🎟️</b><span>Entrada en el móvil</span></div><div><b>🌧️</b><span>Abierto con lluvia</span></div><div><b>🐕‍🦺</b><span>Solo perros guía</span></div><div><b>🚼</b><span>Aseos con cambiador</span></div><div><b>🧤</b><span>Guantes para patinar</span></div></div>
+
+<div class="guide__howto"><h3>🎄 Más planes de Navidad</h3><p>Si vas a pasar el día, combínalo con las luces de Gran Vía, Cortylandia y el mercado de la Plaza Mayor: lo tienes todo en mi guía de <a href="/blog/navidad-en-madrid.html">Navidad en Madrid 2026</a>.</p></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Un plan de 4-5 horas</h2><ul><li><b>Antes de salir</b>: Compra la entrada y reserva las experiencias con hora.</li><li><b>16:00</b>: Entrada y paseo por el Bosque de estrellas, Linternas de Asia y el mercado.</li><li><b>Tarde</b>: Ice Festival, Viaje de Noel o pista de hielo en su turno.</li><li><b>Noche</b>: Noria, Vuelo de Santa y fuegos del Rocking Christmas.</li><li><b>Combínalo</b>: con una comida en Torrejón antes de entrar.</li></ul></div>
 
@@ -105,4 +144,4 @@ Aquí tienes todo: fechas, horarios, precios, qué incluye la entrada, qué se p
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Los precios, horarios y accesos cambian: consúltalos en las webs oficiales. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Magicas_Navidades_2024_-_Torrejon_de_Ardoz_-_Madrid_05.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Magicas_Navidades_2024_-_Torrejon_de_Ardoz_-_Madrid_01.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Magicas_Navidades_2024_-_Torrejon_de_Ardoz_-_Madrid_14.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Torrej%C3%B3n_de_Ardoz,_Navidad_2018_01.jpg" target="_blank" rel="noopener">juandiazhidalgo</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File:Torrej%C3%B3n_de_Ardoz,_Navidad_2018_02.jpg" target="_blank" rel="noopener">juandiazhidalgo</a> (CC BY-SA 2.0).</p>
+<p class="guide__note">Información consultada en la web oficial el 2 de noviembre de 2026. Los precios, horarios y accesos cambian: consúltalos en las webs oficiales. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Magicas_Navidades_2024_-_Torrejon_de_Ardoz_-_Madrid_05.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Magicas_Navidades_2024_-_Torrejon_de_Ardoz_-_Madrid_01.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Magicas_Navidades_2024_-_Torrejon_de_Ardoz_-_Madrid_14.jpg" target="_blank" rel="noopener">Javier Perez Montes</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Torrej%C3%B3n_de_Ardoz,_Navidad_2018_01.jpg" target="_blank" rel="noopener">juandiazhidalgo</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File:Torrej%C3%B3n_de_Ardoz,_Navidad_2018_02.jpg" target="_blank" rel="noopener">juandiazhidalgo</a> (CC BY-SA 2.0).</p>
