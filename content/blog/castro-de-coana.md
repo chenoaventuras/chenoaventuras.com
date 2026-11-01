@@ -17,6 +17,10 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/excursion-aviles-cudillero-luarca/"
 faqTitulo: "Dudas sobre el Castro de Coaña"
 faq:
+  - q: "¿Quién descubrió el Castro de Coaña?"
+    a: "Los primeros trabajos conocidos son de José María Flórez, entre 1877 y 1878. Las excavaciones que lo dieron a conocer fueron las de Antonio García y Bellido y Juan Uría Ríu en los años 40, y entre 2007 y 2010 el Principado hizo nuevas intervenciones."
+  - q: "¿Qué relación tiene el Castro de Coaña con el oro?"
+    a: "Los arqueólogos lo relacionan con las explotaciones de oro romanas de la cuenca del Navia: el castro tuvo su mayor importancia en época romana, sobre todo en el siglo I, y fue perdiendo peso a partir del siglo III."
   - q: "¿Qué es el Castro de Coaña?"
     a: "Un poblado fortificado de la Edad del Hierro en Coaña, Asturias."
   - q: "¿De cuándo es?"
@@ -29,6 +33,7 @@ faq:
     a: "Sí; consulta horarios y tarifas."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 Un **poblado fortificado de más de 2.000 años** con calles enlosadas, cabañas circulares y una muralla, en lo alto de una colina del occidente asturiano. El **Castro de Coaña** es el primer castro estudiado de Asturias y uno de los mejores para entender cómo se vivía antes de los romanos.
 
@@ -47,6 +52,12 @@ Te cuento qué ver, su historia y cómo visitarlo 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>Las viviendas son generalmente de <strong>planta circular con porche</strong>, de pizarra y barro, con tejado vegetal. Las calles estaban <strong>enlosadas y con desagüe</strong>. Hay un <strong>Torreón</strong> que servía de atalaya y dos construcciones que se interpretaron como hornos crematorios, aunque hoy se piensa que probablemente eran <strong>termas</strong>. La <strong>Piedra de Nuestra Señora</strong>, una estela discoidea de unos 1,5 m, está cerca: su origen es incierto.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Cómo se descubrió (y qué nos cuenta)</h2></div>
+<p>El Castro de Coaña fue de los <strong>primeros castros estudiados del norte de España</strong>. Los primeros trabajos conocidos son de <strong>José María Flórez</strong>, entre 1877 y 1878. Pero lo que le dio fama fueron las excavaciones de <strong>Antonio García y Bellido</strong> y <strong>Juan Uría Ríu</strong> en los <strong>años 40 del siglo XX</strong>, que sacaron a la luz el barrio de cabañas que hoy se recorre. Entre 2007 y 2010 se hicieron nuevas intervenciones.</p>
+<p>Las investigaciones más recientes muestran un castro que vivió su mejor momento ya en <strong>época romana</strong>: los arqueólogos lo relacionan con las <strong>explotaciones de oro de la cuenca del Navia</strong>, que Roma explotó a gran escala, y sitúan su mayor actividad en el siglo I, con un declive a partir del siglo III. En el concejo se encontró en 1942 un <strong>torques de oro</strong>, el collar rígido típico de los pueblos castreños.</p>
+<p>Coaña forma parte del <strong>Parque Histórico del Navia</strong>, que reúne castros, museos y pueblos de la comarca, como el castro de Pendia o el museo etnográfico de Grandas de Salime.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Castro de Coaña</h2><p>Cabañas, muralla y vistas.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

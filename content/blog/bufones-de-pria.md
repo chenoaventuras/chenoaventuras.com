@@ -19,6 +19,12 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/excursion-llanes-ribadesella-santillana-mar/"
 faqTitulo: "Dudas sobre los Bufones de Pría"
 faq:
+  - q: "¿Cuándo es mejor ver los Bufones de Pría?"
+    a: "Con pleamar y mar de fondo o temporal, algo más frecuente en otoño e invierno, que además es cuando hay menos gente. Mira la tabla de mareas y la previsión de oleaje antes de ir: con mar en calma no hacen nada."
+  - q: "¿Cómo se forman los bufones?"
+    a: "Son un fenómeno kárstico: el agua de lluvia disuelve la caliza de la rasa costera por sus grietas hasta abrir conductos verticales que conectan con cuevas a nivel del mar. Cuando entra una ola fuerte, el agua y el aire salen disparados hacia arriba por el agujero."
+  - q: "¿Son espacio protegido los Bufones de Pría?"
+    a: "Sí. El Principado los declaró Monumento Natural en 2001 y forman parte del Paisaje Protegido de la Costa Oriental de Asturias."
   - q: "¿Qué son los bufones?"
     a: "Orificios de roca caliza comunicados con el mar por los que sale agua con fuerza."
   - q: "¿Cuándo funcionan?"
@@ -31,6 +37,7 @@ faq:
     a: "Hay que mantener distancia con el borde y con los orificios."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 Un agujero en la roca que **lanza chorros de agua de mar de más de diez metros** y se oye a kilómetros. Los **Bufones de Pría** están en Llames de Pría, en el concejo de Llanes, y son uno de los fenómenos naturales más espectaculares de la costa asturiana.
 
@@ -49,6 +56,12 @@ Te cuento qué son, cuándo funcionan y cómo verlos sin riesgos 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>El nombre viene del <strong>bufido</strong> que se escucha cuando sube la marea y las olas golpean con fuerza. La columna de agua puede superar los <strong>diez metros</strong> y el sonido se oye a varios kilómetros. Sin oleaje y con marea baja no hay espectáculo: <strong>consulta la tabla de mareas y el estado del mar</strong> antes de ir.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La formación</span><h2>Cómo «respira» el acantilado</h2></div>
+<p>Toda la costa entre Llanes y Unquera es una <strong>rasa</strong>, una antigua plataforma marina plana de <strong>caliza del Carbonífero</strong> que quedó elevada sobre el mar. El agua de lluvia, ligeramente ácida, se cuela por las fracturas de esa caliza y la va disolviendo durante miles de años, como hace en las cuevas. Así se abren <strong>conductos verticales</strong> que bajan desde la superficie hasta galerías excavadas por el mar en la base del acantilado.</p>
+<p>Cuando hay <strong>pleamar y una ola grande</strong> entra en la galería, comprime el aire y el agua, que solo tienen una salida: el agujero de arriba. Por eso primero se oye el <strong>bufido</strong> y luego sale el chorro de agua pulverizada. Por su valor geológico, los Bufones de Pría fueron declarados <strong>Monumento Natural en 2001</strong>.</p>
+<p>⚠️ Los bordes de los agujeros son inestables y el agua sale con mucha fuerza: <strong>no te acerques a las bocas</strong> ni saltes las zonas señalizadas, sobre todo con temporal.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en los Bufones de Pría</h2><p>Un paisaje de caliza y mar.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

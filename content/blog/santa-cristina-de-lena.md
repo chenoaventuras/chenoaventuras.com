@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/oviedo/visita-guiada-oviedo/"
 faqTitulo: "Dudas sobre Santa Cristina de Lena"
 faq:
+  - q: "¿Cuánto cuesta entrar en Santa Cristina de Lena?"
+    a: "2 € los adultos y 1 € los jóvenes de 12 a 17 años; los menores de 12 acompañados entran gratis y los martes la entrada es gratuita para todos. Datos de Turismo de Asturias."
+  - q: "¿Qué horario tiene Santa Cristina de Lena?"
+    a: "De martes a domingo de 11:00 a 13:00; de abril a octubre, también de 16:30 a 18:30. Cierra los lunes y en noviembre, y se puede entrar hasta media hora antes del cierre. Se recomienda llamar antes de ir."
   - q: "¿Qué es Santa Cristina de Lena?"
     a: "Una iglesia prerrománica asturiana del siglo IX."
   - q: "¿Es Patrimonio de la Humanidad?"
@@ -31,6 +35,7 @@ faq:
     a: "Un elemento de tres arcos que separa la nave del presbiterio."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 Una **iglesia del siglo IX** en lo alto de una colina, con planta de cruz griega y un iconostasis de tres arcos único en el prerrománico asturiano. **Santa Cristina de Lena** es Patrimonio de la Humanidad desde 1985 y se visita en poco tiempo.
 
@@ -44,11 +49,17 @@ Te cuento qué ver, cuándo se puede entrar y cómo llegar 👇
 <div class="guide__tip"><h3>⛪ Qué es</h3><p>Una iglesia prerrománica de mediados del siglo IX (hacia 852, en tiempos de Ramiro I), de estilo ramirense.</p></div>
 <div class="guide__tip"><h3>🌍 Patrimonio</h3><p>Declarada Patrimonio de la Humanidad por la UNESCO en diciembre de 1985.</p></div>
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En una colina de Felgueras, cerca de Vega del Rey, a 3,5 km de Pola de Lena.</p></div>
-<div class="guide__tip"><h3>🕒 Horarios</h3><p>Según Wikipedia, se visita de martes a domingo (cerrado los lunes) y con horarios distintos según la época; algunos meses puede estar cerrada. <strong>Confirma en la web oficial</strong>.</p></div>
+<div class="guide__tip"><h3>🕒 Horario y precio</h3><p>De martes a domingo, de 11:00 a 13:00 (y de abril a octubre también de 16:30 a 18:30). Cierra los lunes y todo noviembre. Entrada: 2 € adultos, 1 € de 12 a 17 años; <strong>gratis los martes</strong> y para menores de 12. Mejor llamar antes.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>Tiene <strong>planta de cruz griega</strong>, un nártex y un <strong>iconostasis</strong> formado por tres arcos sobre columnas que separa la nave del presbiterio. Se encuentra en una colina con buenas vistas del valle del Huerna. Es uno de los monumentos del conjunto «Monumentos de Oviedo y del Reino de Asturias».</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">Arte prerrománico</span><h2>Por qué es una iglesia única</h2></div>
+<p>Santa Cristina se construyó hacia el año <strong>852</strong>, en los años de <strong>Ramiro I</strong> u <strong>Ordoño I</strong>, reyes de Asturias. Pertenece al llamado arte <strong>ramirense</strong>, el mismo de Santa María del Naranco y San Miguel de Lillo en Oviedo, y por eso forma parte del conjunto <strong>«Monumentos de Oviedo y del Reino de Asturias»</strong>, Patrimonio de la Humanidad.</p>
+<p>Por fuera parece pequeña y sencilla, pero su planta es muy original: una <strong>nave única rectangular con cuatro pequeños salientes</strong>, uno en cada lado, que le dan forma de cruz. Todo el interior está cubierto con <strong>bóvedas de cañón sobre arcos fajones</strong>, que reparten el peso de la piedra.</p>
+<p>Lo que más llama la atención dentro es el <strong>iconostasio</strong>: una pared de <strong>tres arcos sobre columnas</strong> que separa a los fieles del altar. Incorpora un <strong>cancel visigodo</strong> más antiguo, una pieza de piedra decorada reutilizada de un templo anterior, recuerdo de que el reino de Asturias se sentía heredero de los visigodos. No hay otro iconostasio así en el prerrománico asturiano.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Santa Cristina de Lena</h2><p>La iglesia y su entorno.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

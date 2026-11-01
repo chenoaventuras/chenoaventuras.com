@@ -17,6 +17,12 @@ actividades:
     u: "https://www.civitatis.com/es/llanes/free-tour-llanes/"
 faqTitulo: "Dudas sobre el Pindal"
 faq:
+  - q: "¿Cuánto cuesta visitar la Cueva del Pindal?"
+    a: "3,13 € la entrada general y 1,62 € la reducida (de 7 a 12 años, mayores de 65, familias numerosas y Carné Joven). No se admiten tarjetas, así que lleva efectivo. Datos de Turismo de Asturias."
+  - q: "¿Hay que reservar para la Cueva del Pindal?"
+    a: "Sí, la reserva telefónica previa es imprescindible: 608 175 284, de miércoles a domingo de 15:00 a 17:00. Los niños pueden entrar a partir de 7 años."
+  - q: "¿Qué antigüedad tienen las pinturas del Pindal?"
+    a: "Son sobre todo del Magdaleniense, de hace entre unos 18.000 y 13.000 años, aunque algunas podrían ser más antiguas."
   - q: "¿Qué es la Cueva del Pindal?"
     a: "Una cueva con arte rupestre paleolítico en Pimiango, Ribadedeva."
   - q: "¿Es Patrimonio de la Humanidad?"
@@ -29,6 +35,7 @@ faq:
     a: "Consúltalo en la web oficial o la oficina de turismo."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-01
 ---
 Una cueva con **pinturas de hace miles de años** a pocos metros del acantilado. La **Cueva del Pindal**, en Pimiango (concejo de Ribadedeva), es Patrimonio de la Humanidad y una de las visitas culturales más originales del oriente asturiano.
 
@@ -41,12 +48,22 @@ Te cuento qué se ve, cómo visitarla y qué hay cerca 👇
 <div class="guide__tips">
 <div class="guide__tip"><h3>🏛️ Reconocimiento</h3><p>Patrimonio de la Humanidad desde julio de 2008 (grupo «Cueva de Altamira y arte rupestre paleolítico de la cornisa cantábrica»).</p></div>
 <div class="guide__tip"><h3>📅 Descubrimiento</h3><p>Sus pinturas se conocen desde 1908. Es Bien de Interés Cultural desde 1924.</p></div>
-<div class="guide__tip"><h3>🔒 Visitas</h3><p>Solo se abre al público el sector oriental. <strong>Confirma horarios, aforo y reservas</strong> con la oficina de turismo o el Principado.</p></div>
+<div class="guide__tip"><h3>🔒 Visitas</h3><p>Solo con <strong>reserva telefónica previa</strong> (608 175 284, de miércoles a domingo de 15:00 a 17:00). Abre de miércoles a domingo; cierra lunes y martes. Desde 7 años.</p></div>
 <div class="guide__tip"><h3>📍 Dónde</h3><p>Cerca de Pimiango, junto a la costa.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>
 <p>Según Wikipedia, las pinturas se concentran en los paneles de la derecha e incluyen <strong>13 bisontes, 8 caballos, una cierva, un ciervo, astas aisladas y un mamut</strong>, además de abundantes signos rojos (puntos, líneas, figuras en forma de maza). La cueva se desarrolla bajo una terraza marina (la «rasa»), entre calizas, y tiene estalactitas, estalagmitas y columnas.</p>
+
+<!--enr-->
+<div class="guide__head"><span class="eyebrow">La visita</span><h2>Qué vas a ver dentro (y cómo organizarte)</h2></div>
+<p>La galería mide unos <strong>600 metros</strong>, pero la visita guiada recorre solo los <strong>primeros 300</strong>, donde se concentra el arte, repartido en <strong>cinco zonas</strong>. Entre las figuras hay <strong>bisontes, caballos y ciervos</strong>, además de dos rarezas que hacen famosa a esta cueva: un <strong>mamut</strong> y un <strong>pez</strong>. Las pinturas y grabados son del <strong>Magdaleniense</strong>, de hace entre unos 18.000 y 13.000 años.</p>
+<div class="guide__tips">
+<div class="guide__tip"><h3>📞 Reserva</h3><p>Imprescindible por teléfono: <strong>608 175 284</strong>, de miércoles a domingo de 15:00 a 17:00.</p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p>General <strong>3,13 €</strong>; reducida <strong>1,62 €</strong> (7-12 años, mayores de 65, familia numerosa, Carné Joven). <strong>Solo efectivo.</strong></p></div>
+<div class="guide__tip"><h3>👶 Edad</h3><p>A partir de <strong>7 años</strong>. Dentro hace fresco y hay humedad: lleva una chaqueta.</p></div>
+<div class="guide__tip"><h3>⛪ Junto a la cueva</h3><p>El <strong>Centro de Interpretación de San Emeterio</strong>, de entrada gratuita, y la senda por los acantilados de Pimiango.</p></div>
+</div>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Cómo es la visita</h2><p>Pinturas, calizas y mar.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
