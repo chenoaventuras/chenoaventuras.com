@@ -1599,3 +1599,12 @@
   lista.forEach(function (el) { io.observe(el); });
 })();
 
+
+/* Enlaces a #hablemos: la página crece al cargar (mapa, fotos) y el salto se quedaba corto; se recoloca hasta que el usuario se mueva */
+(function () {
+  if (location.hash !== '#hablemos') return;
+  var moved = false;
+  ['wheel', 'touchstart', 'keydown', 'mousedown'].forEach(function (t) { window.addEventListener(t, function () { moved = true; }, { passive: true, once: true }); });
+  function go() { var el = document.getElementById('hablemos'); if (el && !moved) el.scrollIntoView({ block: 'start' }); }
+  window.addEventListener('load', function () { go(); [300, 900, 1800].forEach(function (ms) { setTimeout(go, ms); }); });
+})();
