@@ -1,6 +1,6 @@
 ---
 title: 'Playa de las Catedrales: reserva, mareas y cómo visitarla'
-seoTitle: 'Playa de las Catedrales: reserva gratis, mareas y cómo llegar'
+seoTitle: 'Playa de las Catedrales (Ribadeo): reserva, mareas y cómo llegar'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Playa de las Catedrales'
 lat: 43.554

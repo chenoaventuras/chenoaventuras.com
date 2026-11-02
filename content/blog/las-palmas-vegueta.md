@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Las Palmas de Gran Canaria: Vegueta, la Casa de Colón, Triana y la playa de Las Canteras'
-seoTitle: 'Qué ver en Las Palmas de Gran Canaria: Vegueta y Canteras'
+seoTitle: 'Vegueta y qué ver en Las Palmas de Gran Canaria'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Las Palmas de Gran Canaria'
 provincia: Las Palmas

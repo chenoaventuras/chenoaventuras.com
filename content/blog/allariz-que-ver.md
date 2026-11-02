@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Allariz: casco histórico, convento de Santa Clara y río Arnoia'
-seoTitle: 'Qué ver en Allariz (Ourense): casco histórico, museos y río'
+seoTitle: 'Allariz (Ourense): qué ver, casco histórico y río Arnoia'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Allariz'
 lat: 42.1883

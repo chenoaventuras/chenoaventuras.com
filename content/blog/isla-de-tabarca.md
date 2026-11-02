@@ -1,6 +1,6 @@
 ---
 title: 'Isla de Tabarca: barcos, snorkel y qué ver en la primera reserva marina de España'
-seoTitle: 'Isla de Tabarca: barcos desde Santa Pola, snorkel y qué ver'
+seoTitle: 'Isla de Tabarca: qué hacer, barcos desde Santa Pola y snorkel'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Isla de Tabarca'
 lat: 38.166

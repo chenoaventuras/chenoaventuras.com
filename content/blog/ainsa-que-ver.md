@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Aínsa: el pueblo medieval más bonito del Pirineo'
-seoTitle: 'Qué ver en Aínsa (Huesca): guía del pueblo medieval'
+seoTitle: 'Aínsa (Huesca): qué ver en el pueblo medieval y dónde aparcar'
 date: 2026-10-08T18:40:00.000Z
 destino: pirineo-aragones
 lugar: 'Aínsa'

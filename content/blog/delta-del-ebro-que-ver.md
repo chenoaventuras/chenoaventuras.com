@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en el Delta del Ebro: arrozales, flamencos, Riumar y miradores'
-seoTitle: 'Qué ver en el Delta del Ebro: rutas, flamencos y cuándo ir'
+seoTitle: 'Delta del Ebro: qué ver, rutas, flamencos y cuándo ir'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Delta del Ebro'
 lat: 40.7167

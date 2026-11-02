@@ -1,6 +1,6 @@
 ---
 title: 'Cabo Peñas: el faro del punto más al norte de Asturias, los acantilados y las playas de Verdicio y Luanco'
-seoTitle: 'Cabo Peñas: faro, acantilados y qué ver en Gozón'
+seoTitle: 'Cabo de Peñas (Asturias): faro, acantilados y qué ver en Gozón'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Cabo Peñas'
 lat: 43.6567

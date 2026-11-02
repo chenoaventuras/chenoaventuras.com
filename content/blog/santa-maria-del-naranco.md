@@ -1,6 +1,8 @@
 ---
 title: 'Santa María del Naranco y San Miguel de Lillo: el prerrománico asturiano, visitas y cómo llegar'
-seoTitle: 'Santa María del Naranco: historia, visitas y cómo llegar'
+seoTitle: 'Santa María del Naranco: horario, precio y cómo llegar'
+seoDescription: 'Santa María del Naranco y San Miguel de Lillo (Oviedo): horario, precio de la visita guiada (5 €), lunes gratis, cómo llegar en coche o en el bus A e historia del palacio de Ramiro I.'
+updated: 2026-11-02
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Santa María del Naranco'
 lat: 43.379
@@ -27,10 +29,18 @@ faq:
     a: "Un edificio prerrománico del siglo IX, hoy iglesia, que fue un palacio de Ramiro I."
   - q: "¿Es Patrimonio de la Humanidad?"
     a: "Sí, desde 1985."
-  - q: "¿Cuánto cuesta visitarlo?"
-    a: "Consulta tarifas y horarios en la web oficial."
+  - q: "¿Cuánto cuesta visitar Santa María del Naranco?"
+    a: "La visita guiada cuesta 5 € por persona e incluye Santa María del Naranco y San Miguel de Lillo (4 € en grupos de 20 o más). Los lunes la entrada es gratis y sin guía. Las entradas se compran allí mismo."
+  - q: "¿Cuál es el horario de Santa María del Naranco?"
+    a: "En invierno (de octubre a marzo), de martes a sábado de 10:00 a 14:30 y domingos y lunes de 10:00 a 12:30. En verano (de abril a septiembre), de martes a sábado de 9:30 a 13:00 y de 15:30 a 19:00, y domingos y lunes de 9:30 a 13:00. Cierra el 1 y 6 de enero, el 8 y 21 de septiembre y el 25 de diciembre."
+  - q: "¿Está abierta Santa María del Naranco?"
+    a: "Estuvo cerrada por obras desde el 1 de abril de 2026, con la reapertura prevista para el final de septiembre. Antes de ir, confirma que ya ha abierto en santamariadelnaranco.es o en el 638 260 163."
+  - q: "¿Hay que reservar?"
+    a: "No para visitas individuales. Solo los grupos de 20 personas o más tienen que reservar. Los grupos de visita son de 25 personas como máximo, así que en verano puede tocar esperar."
+  - q: "¿Cuánto dura la visita?"
+    a: "La visita guiada dura unos 40 minutos y sale desde Santa María del Naranco."
   - q: "¿A qué distancia está de Oviedo?"
-    a: "A unos 4 km."
+    a: "A unos 4 km del centro, en la ladera del monte Naranco. Se llega en coche, en el autobús urbano A o andando en unos 40-50 minutos cuesta arriba."
   - q: "¿Qué es San Miguel de Lillo?"
     a: "Otra iglesia prerrománica, junto a Santa María del Naranco."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
@@ -73,7 +83,7 @@ Te cuento su historia, cómo visitarlo y cómo llegar 👇
 <p>Con los siglos Santa María se convirtió en iglesia, hasta que en la primera mitad del siglo XX se quitaron los añadidos para devolverle su aspecto original. Desde <strong>1985</strong> forman parte del conjunto Patrimonio de la Humanidad.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p><strong>En coche:</strong> desde Oviedo por la carretera del Naranco, unos 4 km.</p><p><strong>Sin coche:</strong> hay autobús urbano hasta el Naranco; <strong>confirma líneas y horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Santa+María+del+Naranco" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En coche:</strong> desde Oviedo por la carretera del Naranco, unos 4 km.</p><p><strong>Dónde aparcar:</strong> hay aparcamiento gratuito al pie de los monumentos y en el Centro de Recepción e Interpretación del Prerrománico, a unos 800 m andando por la avenida de los Monumentos.</p><p><strong>Sin coche:</strong> la línea A del autobús urbano de Oviedo sube hasta el Naranco.</p><p><strong>Horario y precio:</strong> visita guiada de unos 40 minutos, 5 € (incluye San Miguel de Lillo). Los lunes, gratis y sin guía. Entre abril y septiembre de 2026 estuvo cerrada por obras: <strong>confirma que está abierta antes de ir</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Santa+María+del+Naranco" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>El Naranco en una mañana</h2><ul><li><b>Antes</b>: Consulta horarios y cierres: pueden cambiar.</li><li><b>Cuándo</b>: Por la mañana hay menos gente.</li><li><b>Combínalo</b>: con la catedral y el casco antiguo de Oviedo.</li><li><b>Cámara</b>: Mira los detalles de las columnas y los arcos.</li></ul></div>
 

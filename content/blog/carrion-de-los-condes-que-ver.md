@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Carrión de los Condes: San Zoilo, Santa María del Camino y el Camino de Santiago'
-seoTitle: 'Qué ver en Carrión de los Condes (Palencia): San Zoilo y el Camino'
+seoTitle: 'Carrión de los Condes: qué ver, San Zoilo y el Camino'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Carrión de los Condes'
 lat: 42.3375

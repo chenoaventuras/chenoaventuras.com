@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Atienza: castillo, Plaza del Trigo, iglesias románicas y La Caballada'
-seoTitle: 'Qué ver en Atienza (Guadalajara): castillo, plaza e iglesias'
+seoTitle: 'Atienza (Guadalajara): qué ver, castillo y La Caballada'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Atienza'
 lat: 41.1978

@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Alcaraz: la plaza renacentista, las torres y la sierra'
-seoTitle: 'Qué ver en Alcaraz (Albacete): Plaza Mayor, torres y lonjas'
+seoTitle: 'Alcaraz (Albacete): qué ver y cómo llegar'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Alcaraz'
 lat: 38.6692

@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Cangas de Onís: el puente «romano», la capilla de la Santa Cruz y la capital del primer reino'
-seoTitle: 'Qué ver en Cangas de Onís: puente, capilla y cómo llegar'
+seoTitle: 'Cangas de Onís: qué ver, el puente y cómo llegar'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Cangas de Onís'
 lat: 43.3513

@@ -133,7 +133,8 @@
     "Bárcena Mayor"
   ],
   "barco-telamon-lanzarote": [
-    "Telamon"
+    "Telamon",
+    "Barco Telamon"
   ],
   "bardenas-reales": [
     "Bardenas Reales",
@@ -307,7 +308,8 @@
     "Sorrosal"
   ],
   "cascadas-de-ouzoud": [
-    "Ouzoud"
+    "Ouzoud",
+    "Cascadas de Ouzoud"
   ],
   "castillo-de-butron": [
     "Castillo de Butrón",
@@ -392,7 +394,8 @@
   ],
   "congost-de-mont-rebei": [
     "Mont-rebei",
-    "Montrebei"
+    "Montrebei",
+    "Congost de Mont-rebei"
   ],
   "consuegra-molinos": [
     "Consuegra"
@@ -546,10 +549,12 @@
     "Canal de Castilla"
   ],
   "fuente-de-los-banos-montanejos": [
-    "Montanejos"
+    "Montanejos",
+    "Fuente de los Baños de Montanejos"
   ],
   "fuente-del-gorgoton-cieza": [
-    "Gorgotón"
+    "Gorgotón",
+    "Fuente del Gorgotón"
   ],
   "fuente-del-vino-irache": [
     "Irache"
@@ -826,7 +831,8 @@
   ],
   "mahon-menorca": [
     "puerto de Mahón",
-    "qué ver en Mahón"
+    "qué ver en Mahón",
+    "Mahón"
   ],
   "malaga-que-ver": [
     "Alcazaba de Málaga",
@@ -874,21 +880,24 @@
     "Alcalá de Henares"
   ],
   "mercado-pescado-essaouira": [
-    "Essaouira"
+    "Essaouira",
+    "mercado de pescado de Essaouira"
   ],
   "merida-que-ver": [
     "Mérida"
   ],
   "merindades-burgos-que-ver": [
     "Las Merindades",
-    "las Merindades"
+    "las Merindades",
+    "Merindades de Burgos"
   ],
   "mezquita-de-cordoba": [
     "Mezquita de Córdoba",
     "Mezquita-Catedral"
   ],
   "mirador-de-chipeque-tenerife": [
-    "Chipeque"
+    "Chipeque",
+    "Mirador de Chipeque"
   ],
   "mirador-del-fitu": [
     "Mirador del Fitu"
@@ -946,7 +955,8 @@
     "Museo de la Minería"
   ],
   "muniellos-que-ver": [
-    "Muniellos"
+    "Muniellos",
+    "Reserva de Muniellos"
   ],
   "murallas-reales-ceuta": [
     "Murallas Reales",
@@ -991,8 +1001,7 @@
     "Ourense"
   ],
   "oviedo-que-ver": [
-    "Oviedo",
-    "Santa María del Naranco"
+    "Oviedo"
   ],
   "palencia-que-ver": [
     "qué ver en Palencia",
@@ -1199,7 +1208,8 @@
   "rafting-canon-de-almadenes": [
     "Cañón de Almadenes",
     "cañón de Almadenes",
-    "Almadenes"
+    "Almadenes",
+    "Rafting en el Cañón de Almadenes"
   ],
   "real-alcazar-sevilla": [
     "Real Alcázar de Sevilla",
@@ -1395,7 +1405,8 @@
   "tarragona-que-ver": [
     "Pont del Diable",
     "Tarraco",
-    "qué ver en Tarragona"
+    "qué ver en Tarragona",
+    "Tarragona"
   ],
   "tazones-que-ver": [
     "Tazones"
@@ -1419,7 +1430,8 @@
     "Tenerife"
   ],
   "territorio-artlanza-burgos": [
-    "Artlanza"
+    "Artlanza",
+    "Territorio Artlanza"
   ],
   "teverga-que-ver": [
     "Teverga"
@@ -1539,5 +1551,29 @@
   ],
   "zumaia-juego-de-tronos": [
     "Zumaia"
+  ],
+  "santa-maria-del-naranco": [
+    "Santa María del Naranco",
+    "San Miguel de Lillo"
+  ],
+  "navidad-en-madrid": [
+    "Navidad en Madrid"
+  ],
+  "mercado-medieval-chinchon": [
+    "Mercado Medieval de Chinchón"
+  ],
+  "magicas-navidades-torrejon": [
+    "Mágicas Navidades de Torrejón",
+    "Mágicas Navidades"
+  ],
+  "volar-dron-legal-espana": [
+    "Con dron",
+    "con dron"
+  ],
+  "medusas-mediterraneo-son-peligrosas": [
+    "medusas"
+  ],
+  "nido-ciguena-mas-famoso-espana": [
+    "nido de cigüeña más famoso de España"
   ]
 }
