@@ -130,7 +130,7 @@ const FOOTER = `
   <script src="/assets/js/main.js?v=20261026a"></script>
   <script defer src="/_vercel/insights/script.js"></script>`;
 
-function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog", mainClass = "" }) {
+function shell({ title, description, canonical, image, ogType = "website", jsonld = "", body, extraHead = "", current = "blog", mainClass = "", noindex = false }) {
   const img = image || OG_DEFAULT;
   return `<!DOCTYPE html>
 <html lang="es">
@@ -142,7 +142,7 @@ function shell({ title, description, canonical, image, ogType = "website", jsonl
   <link rel="preload" href="/assets/fonts/poppins-400.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/assets/fonts/Inter-Black.otf" as="font" type="font/otf" crossorigin />
   <link rel="canonical" href="${esc(canonical)}" />
-  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="robots" content="${noindex ? "noindex, follow" : "index, follow, max-image-preview:large"}" />
   <meta name="theme-color" content="#274c78" />
   <link rel="icon" href="/favicon.ico" sizes="32x32" />
   <link rel="icon" type="image/png" sizes="48x48" href="/assets/img/favicon-48.png" />
@@ -225,6 +225,8 @@ function readPosts() {
       // por delante de todo lo demás, ordenados por pinnedOrder. El resto
       // sigue ordenándose por fecha como hasta ahora.
       pinnedOrder: typeof data.pinnedOrder === "number" ? data.pinnedOrder : null,
+      // noindex: true → sigue en el blog, pero Google no la muestra y no va al sitemap
+      noindex: data.noindex === true,
       // wide: true → el cuerpo ocupa todo el ancho del contenedor (guías con tarjetas)
       wide: data.wide === true,
       // coche: true/false fuerza o quita el bloque de alquiler de coche (por defecto, solo en islas)
@@ -738,6 +740,7 @@ ${related.map((r) => blogCard(r, { level: 3 })).join("\n")}
     ogType: "article",
     jsonld,
     body,
+    noindex: p.noindex,
   });
 }
 
@@ -1299,7 +1302,7 @@ function renderSitemap(posts, destinos = []) {
       const lm = d.posts.reduce((m, p) => (p.updated > m ? p.updated : m), new Date(0)).toISOString().slice(0, 10);
       return `  <url><loc>${d.url}</loc><lastmod>${lm}</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>`;
     }),
-    ...posts.map(
+    ...posts.filter((p) => !p.noindex).map(
       (p) =>
         `  <url><loc>${p.url}</loc><lastmod>${p.updated.toISOString().slice(0, 10)}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>`
     ),

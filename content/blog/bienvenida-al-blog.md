@@ -6,6 +6,7 @@ excerpt: "Más de 300 lugares de España contados con calma: qué ver, cómo lle
 cover: /assets/img/cheno-perfil.jpg
 draft: false
 pinnedOrder: 0
+noindex: true
 ---
 
 Soy Cheno y llevo tiempo enseñando lugares en vídeos cortos. Pero hay cosas que no caben en 30 segundos: el porqué de un sitio, cómo llegar, qué llevar, cuándo ir, dónde comer. Para eso es este **cuaderno de aventuras**.
