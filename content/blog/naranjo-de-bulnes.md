@@ -34,7 +34,7 @@ faq:
     a: "Las rutas largas sí; consulta tiempo y estado."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 La gran roca de los Picos de Europa: una **torre de caliza de 2.519 metros** que se ve desde muchos puntos y que es el sueño de muchos escaladores. El **Naranjo de Bulnes**, o **Picu Urriellu**, está en el macizo de los Urrieles (concejo de Cabrales).
 
@@ -48,7 +48,7 @@ Te cuento su historia, cómo verlo y qué rutas hay 👇
 <div class="guide__tip"><h3>⛰️ Altura</h3><p>2.519 m. No es el pico más alto de la Cordillera Cantábrica, pero sí uno de los más famosos.</p></div>
 <div class="guide__tip"><h3>🧗 Primera ascensión</h3><p>El 5 de agosto de 1904, por la cara norte (vía Pidal-Cainejo), Pedro Pidal y Bernaldo de Quirós con el pastor Gregorio Pérez «El Cainejo».</p></div>
 <div class="guide__tip"><h3>🏠 Refugio</h3><p>El refugio de Urriellu está a 1.960 m, en la Vega de Urriellu.</p></div>
-<div class="guide__tip"><h3>🚶 Acceso</h3><p>Desde Sotres se llega a la Vega de Urriellu por pista y senda; al collado de Pandébano se va desde Bulnes (funicular o senda).</p></div>
+<div class="guide__tip"><h3>🚶 Acceso</h3><p>Desde <a href='/blog/sotres-que-ver.html'>Sotres</a> se llega a la Vega de Urriellu por pista y senda; al collado de Pandébano se va desde Bulnes (funicular o senda).</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Datos y curiosidades</h2></div>

@@ -30,9 +30,9 @@ faq:
     a: "En la costa mediterránea de Marruecos, a más de 100 km tanto de Ceuta como de Melilla."
 guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
 guiaTitulo: 'Guía Ceuta y Melilla en PDF'
-updated: 2026-10-31
+updated: 2026-11-02
 ---
-En la costa de Marruecos, entre Ceuta y Melilla, hay una roca de 87 metros de altura que es **España**. El **Peñón de Vélez de la Gomera** tiene la **frontera terrestre más corta del mundo**: unos **85 metros**.
+En la costa de Marruecos, entre [Ceuta](/blog/ceuta-que-ver.html) y [Melilla](/blog/melilla-que-ver.html), hay una roca de 87 metros de altura que es **España**. El **Peñón de Vélez de la Gomera** tiene la **frontera terrestre más corta del mundo**: unos **85 metros**.
 
 Te cuento cómo una isla se convirtió en península por un terremoto y si se puede visitar 👇
 

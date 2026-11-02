@@ -23,7 +23,7 @@ faq:
   - q: "¿Cuál es la mejor hora para ver el Mercado Cervantino?"
     a: "Por la mañana, cuando hay menos gente. Para el torneo, ve con tiempo si quieres buen sitio."
   - q: "¿Cuándo es el Mercado Cervantino 2026?"
-    a: "Del 8 al 12 de octubre de 2026, coincidiendo con la Semana Cervantina."
+    a: "Se celebró del 8 al 12 de octubre de 2026, coincidiendo con la Semana Cervantina. Las fechas de 2027 aún no están publicadas."
   - q: "¿Cómo llegar al Mercado Cervantino desde Madrid?"
     a: "En Cercanías (C-2 y C-7) en unos 35-40 minutos. En coche es muy difícil aparcar en el centro."
   - q: "¿Por qué se celebra en octubre?"
@@ -49,6 +49,7 @@ comer:
     o: 3287
     d: "C. San Diego, 5"
 comerFecha: "octubre de 2026"
+updated: 2026-11-02
 ---
 Una vez al año, el casco histórico de **Alcalá de Henares** viaja al siglo XVI: puestos ambientados, oficios de época, pasacalles y, como colofón, un **torneo de justas** con caballeros a caballo. Es el **Mercado Cervantino**, el mercado de época más grande de Europa según sus organizadores, y en 2026 la **Semana Cervantina** ha sido declarada **Fiesta de Interés Turístico Internacional**.
 
@@ -59,7 +60,7 @@ Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/D
 
 ## Lo básico
 
-- **Cuándo:** a principios de **octubre**, alrededor del **9 de octubre**, fecha en la que se bautizó a Cervantes. En **2026** es del **8 al 12 de octubre**.
+- **Cuándo:** a principios de **octubre**, alrededor del **9 de octubre**, fecha en la que se bautizó a Cervantes. En **2026** fue del **8 al 12 de octubre**; las fechas de 2027 se publicarán más adelante.
 - **Precio:** el mercado es **gratis**. El **torneo de justas** tiene entrada (unos **12 €** cuando fui).
 - **Dónde:** por todo el casco histórico, sobre todo la calle Mayor y alrededores.
 - **Cómo llegar:** en **Cercanías** desde Madrid (C-2 y C-7), en unos 35-40 minutos.
@@ -68,7 +69,7 @@ Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/D
 
 Durante varios días, las calles del centro se llenan de cientos de **puestos** de artesanía, comida y oficios: herreros, alfareros, cesteros, cuero, quesos, dulces, carne a la brasa... Muchos participantes van **vestidos de época**, y hay **pasacalles, teatro, música, danza, talleres y juegos** para todas las edades.
 
-El mercado forma parte de la **Semana Cervantina**, con exposiciones, conciertos y actividades culturales en toda la ciudad. El cartel de 2026 está dedicado al **Caballero de la Blanca Luna**, el personaje que derrota a don Quijote.
+El mercado forma parte de la **Semana Cervantina**, con exposiciones, conciertos y actividades culturales en toda la ciudad. El cartel de 2026 estuvo dedicado al **Caballero de la Blanca Luna**, el personaje que derrota a don Quijote.
 
 ## El torneo de justas
 

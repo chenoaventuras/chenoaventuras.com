@@ -47,6 +47,7 @@ comer:
     o: 500
     d: "C. de los Carpinteros, 5"
 comerFecha: "octubre de 2026"
+updated: 2026-11-02
 ---
 De día, **Chinchón** es uno de los pueblos con más ambiente de la Comunidad de Madrid. De noche, con la **Plaza Mayor** iluminada y las calles tranquilas, cambia por completo, y el protagonista pasa a ser el **castillo** que vigila el pueblo desde lo alto.
 
@@ -111,7 +112,7 @@ Chinchón está a unos **45 km de Madrid** por la **A-3** (salida Arganda / Chin
 
 - El **[Mercado Medieval de Chinchón](/blog/mercado-medieval-chinchon.html)**, con todo el pueblo ambientado.
 - **[Aranjuez](/blog/aranjuez-que-ver.html)**, con su Palacio Real y sus jardines, a 25 minutos.
-- **Alcalá de Henares**, la ciudad de Cervantes, a unos 40 minutos.
+- **[Alcalá de Henares](/blog/mercado-cervantino-alcala-de-henares.html)**, la ciudad de Cervantes, a unos 40 minutos.
 
 <!--faq-->
 
