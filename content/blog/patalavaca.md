@@ -1,6 +1,8 @@
 ---
 title: 'Playa de Patalavaca (Mogán): arena oscura, aguas tranquilas y Anfi del Mar al lado'
-seoTitle: 'Playa de Patalavaca (Mogán, Gran Canaria): cómo llegar y servicios'
+seoTitle: 'Playa de Patalavaca (Mogán): cómo llegar, aparcar y qué hay cerca'
+seoDescription: 'Playa de Patalavaca (Mogán, Gran Canaria): arena oscura y mar tranquilo junto a Anfi del Mar. Cómo llegar, dónde aparcar, el paseo hasta Arguineguín y planes cerca.'
+updated: 2026-11-03
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Playa de Patalavaca'
 lat: 27.7701
@@ -19,12 +21,20 @@ faq:
     a: "Es fina y de tonos oscuros. La playa mide unos 300 metros de largo por 50 de ancho."
   - q: "¿Cómo se llega?"
     a: "Por la carretera C-812 (desviación del km 69) o con la guagua de Mogán. Desde las urbanizaciones hay accesos con escaleras."
+  - q: "¿Dónde aparcar para ir a Patalavaca?"
+    a: "Hay una explanada de tierra para aparcar gratis junto a la playa, con acceso por una rampa desde la carretera junto a los apartamentos Green Beach. En temporada alta se llena pronto."
+  - q: "¿Se puede ir andando a Arguineguín o a Anfi del Mar?"
+    a: "Sí. Un paseo junto al mar une Patalavaca con Arguineguín y, en la otra dirección, con Anfi del Mar. Por el camino pasas por la pequeña playa de Aquamarina."
+  - q: "¿Es buena para ir con niños?"
+    a: "Suele tener el agua tranquila y hay socorristas. Para los más pequeños, la playa de Aquamarina, entre pequeños diques junto a Anfi, es aún más resguardada, aunque no tiene servicios."
+  - q: "¿Qué hay cerca de Patalavaca?"
+    a: "Puerto de Mogán está a unos 9 km por la costa y las Dunas de Maspalomas a unos 11 km en línea recta."
   - q: "¿Tiene servicios?"
     a: "Sí: hamacas, sombrillas, socorristas, actividades náuticas, restaurantes y paseo marítimo."
 guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
 guiaTitulo: 'Guía Gran Canaria en PDF'
 ---
-Una playa de **arena oscura** y aguas tranquilas rodeada de rocas, en la costa suroeste de Gran Canaria. **Patalavaca**, en el municipio de **Mogán**, está pegada a **Anfi del Mar** y es una playa urbana muy cómoda, con paseo marítimo, hamacas y servicios.
+Una playa de **arena oscura** y aguas tranquilas rodeada de rocas, en la costa suroeste de Gran Canaria, entre Arguineguín y Anfi del Mar. **Patalavaca**, en el municipio de **Mogán**, está pegada a **Anfi del Mar** y es una playa urbana muy cómoda, con paseo marítimo, hamacas y servicios.
 
 Te cuento cómo es y cómo llegar 👇
 
@@ -46,8 +56,12 @@ Te cuento cómo es y cómo llegar 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/patalavaca/portada.webp" alt="Playa de Patalavaca con rocas en primer plano y edificios al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La playa y las rocas</h3><p>La arena oscura, las rocas en primer plano y los edificios escalonados de la urbanización al fondo.</p></div></li>
 </ol>
 
+<div class="guide__head"><span class="eyebrow">Alrededores</span><h2>El paseo junto al mar: Arguineguín, Aquamarina y Anfi</h2></div>
+<p>Lo mejor de Patalavaca es que no hace falta coger el coche para moverse. Un <strong>paseo junto al mar</strong> la une con <strong>Arguineguín</strong>, el pueblo pesquero del municipio, y en la otra dirección con <strong>Anfi del Mar</strong>. A medio camino está la pequeña playa de <strong>Aquamarina</strong>, con el agua muy quieta porque queda entre pequeños diques: buena para niños, aunque allí no hay ni bares ni servicios. Al atardecer es uno de los paseos más agradables del sur de la isla.</p>
+<p>Si te quedas por la zona, tienes cerca otros planes: el <a href="/blog/puerto-de-mogan.html">Puerto de Mogán</a>, a unos 9 km por la costa, las <a href="/blog/dunas-de-maspalomas.html">Dunas de Maspalomas</a> y, hacia el interior de Mogán, las rocas de colores de los <a href="/blog/azulejos-de-veneguera.html">Azulejos de Veneguera</a>. Para organizar el resto de la isla, mira <a href="/blog/gran-canaria-que-ver.html">qué ver en Gran Canaria</a>.</p>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p>Se llega por la carretera <strong>C-812</strong>, con la desviación que hay en el <strong>km 69</strong>, o con la línea de guagua de Mogán.</p><p>Desde los alojamientos de la zona hay accesos peatonales con escaleras que llevan a la playa en <strong>8-15 minutos</strong>. Hay zonas de aparcamiento público cerca.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa+de+Patalavaca+Mogán" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Se llega por la carretera de la costa de Mogán (la <strong>GC-500</strong>, antigua C-812), con la desviación que hay en el <strong>km 69</strong>, o en guagua: las líneas de Global que recorren la costa de Mogán paran en Patalavaca.</p><p><strong>Dónde aparcar:</strong> hay una explanada de tierra gratuita junto a la playa; se baja por una rampa desde la carretera, al lado de los apartamentos Green Beach. En temporada alta se llena pronto.</p><p>Desde los alojamientos de la zona hay accesos peatonales con escaleras que llevan a la playa en <strong>8-15 minutos</strong>. Hay zonas de aparcamiento público cerca.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa+de+Patalavaca+Mogán" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Llega temprano</b>: la playa se llena de gente en temporada alta.</li><li><b>Protección solar</b>: hay poca sombra natural.</li><li><b>Bandera y socorristas</b>: mira siempre el estado del mar antes de bañarte.</li><li><b>Paseo hacia Anfi del Mar</b>: para ver su puerto y sus canales.</li></ul></div>
 
@@ -55,4 +69,4 @@ Te cuento cómo es y cómo llegar 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Servicios, accesos y aparcamiento pueden cambiar: consúltalos antes de ir. Fotos propias.</p>
+<p class="guide__note">Información consultada en noviembre de 2026. Servicios, accesos y aparcamiento pueden cambiar: consúltalos antes de ir. Fotos propias.</p>
