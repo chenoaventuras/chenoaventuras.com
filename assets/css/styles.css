@@ -3132,4 +3132,11 @@ main::after { height: 44px; }
 /* Descuentos: el texto del reverso, en dos líneas y más grande */
 .deal__back > .deal__benefit--lg { font-size: 1rem; line-height: 1.3; }
 @media (max-width: 680px) { .deal__back > .deal__benefit--lg { font-size: .88rem; line-height: 1.25; } }
+/* Menú: en ordenador, «Mapa» va en la lista; en móvil, sin «Mapa» en la lista y con el cuadrado de la silueta de España junto a los iconos */
+.nav__social a.nav__social--mapa { display: none; }
+@media (max-width: 1000px) {
+  .nav__links li.nav__maplink { display: none; }
+  .nav__social a.nav__social--mapa { display: grid; }
+  .nav__social a.nav__social--mapa svg { width: 22px; height: 22px; }
+}
 
