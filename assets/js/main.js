@@ -1461,6 +1461,7 @@
   const N = +D.n || (movil ? 5 : 6), SEG = +D.seg || (movil ? 17 : 24), SC0 = +D.sc || (movil ? .72 : 1), SCMAX = +D.scMax || SC0, STRETCH = +D.stretch || 0, G = 0.6, DAMP = 0.985;
   // Con data-sc-max el carné cuelga pequeño y, al tirar de él, la cinta se estira y crece para poder leerlo.
   let SC = SC0, SEGC = SEG, prog = 0;
+  const brazo = root.querySelector(".cc-over");
   const pequeno = window.matchMedia("(max-width: 900px)").matches && D.axM;
   let W = root.clientWidth, ax = pequeno ? +D.axM : (D.ax ? +D.ax : W / 2), ay = pequeno ? +D.ayM : (D.ay ? +D.ay : 22);
   const hook = root.querySelector("[data-hook]"), pin = root.querySelector("[data-hook-pin]");
@@ -1470,7 +1471,7 @@
     W = root.clientWidth; if (!D.ax && !pequeno) ax = W / 2;
     if (SCMAX !== SC0) {
       const rx = ax, ry = ay + (N - 1) * SEG, want = drag ? Math.max(0, Math.min(1, (Math.hypot(drag.x - rx, drag.y - ry) - 10) / 70)) : 0;
-      prog += (want - prog) * (drag ? .14 : .08);
+      prog += (want - prog) * (drag ? .14 : .05);
       SC = SC0 + (SCMAX - SC0) * prog; SEGC = SEG * (1 + STRETCH * prog);
     }
     for (let i = 1; i < N; i++) {
@@ -1493,7 +1494,10 @@
     const target = Math.max(-.9, Math.min(.9, Math.atan2(e.x - q.x, Math.abs(e.y - q.y)) * -1));
     av = av * 0.86 + (target - angle) * 0.12; angle += av;
     const vx = e.x - e.px;
-    card.style.transform = `translate(${e.x - 110}px, ${e.y - 8 * SC}px) rotate(${angle}rad) scale(${SC}) rotateY(${Math.max(-35, Math.min(35, vx * 2.2))}deg)`;
+    // Al tirar (tarjeta grande) se mantiene recta para poder leerla; al soltar vuelve a balancearse.
+    const recta = SCMAX !== SC0 ? Math.max(0, 1 - prog * 1.6) : 1;
+    if (brazo) root.classList.toggle("is-pulled", prog > .12);
+    card.style.transform = `translate(${e.x - 110}px, ${e.y - 8 * SC}px) rotate(${angle * recta}rad) scale(${SC}) rotateY(${Math.max(-35, Math.min(35, vx * 2.2)) * recta}deg)`;
     let d = `M ${pts[0].x} ${pts[0].y}`;
     for (let i = 1; i < N - 1; i++) { const m = pts[i], n = pts[i + 1]; d += ` Q ${m.x} ${m.y} ${(m.x + n.x) / 2} ${(m.y + n.y) / 2}`; }
     d += ` L ${e.x} ${e.y}`;
@@ -1504,10 +1508,20 @@
   function pos(ev) { const r = root.getBoundingClientRect(); return { x: ev.clientX - r.left, y: ev.clientY - r.top + 8 * SC }; }
   card.addEventListener("pointerdown", (ev) => { drag = pos(ev); moved = 0; card.setPointerCapture(ev.pointerId); });
   card.addEventListener("pointermove", (ev) => { if (!drag) return; if (ev.pointerType === "mouse" && ev.buttons === 0) { drag = null; return; } const p = pos(ev); moved += Math.abs(p.x - drag.x) + Math.abs(p.y - drag.y); drag = p; });
-  card.addEventListener("pointerup", () => { if (moved < 6) card.classList.toggle("flip"); drag = null; });
+  card.addEventListener("pointerup", () => { if (moved < 6 && SCMAX === SC0) card.classList.toggle("flip"); drag = null; });
   // Si se pierde el puntero (sale de la ventana, cambia de pestaña…), se suelta el carné.
   ["pointercancel", "lostpointercapture"].forEach((t) => card.addEventListener(t, () => { drag = null; }));
   window.addEventListener("blur", () => { drag = null; });
+  // Con el scroll, la tarjeta se mueve un poco (como si colgara de verdad) para que se entienda que se puede coger.
+  if (SCMAX !== SC0) {
+    let lastY = window.scrollY;
+    window.addEventListener("scroll", () => {
+      const d = window.scrollY - lastY; lastY = window.scrollY;
+      if (drag || !d) return;
+      const k = Math.max(-.06, Math.min(.06, d * .0012));
+      for (let i = 1; i < N; i++) { pts[i].px -= k * (i / N); pts[i].py -= Math.abs(k) * .35 * (i / N); }
+    }, { passive: true });
+  }
   requestAnimationFrame(step);
 })();
 

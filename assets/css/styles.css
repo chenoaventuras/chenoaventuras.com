@@ -2921,10 +2921,12 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 
 /* Servicios (dron): Cheno pequeño y de frente, señalándose el carné que lleva colgado (se tira de la tarjeta y crece) */
 .svdron__stage { position: relative; }
-.svdron__cheno { position: absolute; right: 22px; bottom: 6px; width: 120px; z-index: 3; }
+.svdron__cheno { position: absolute; right: 22px; bottom: -9px; width: 120px; z-index: 3; }
 .lan--cheno { position: relative; width: 120px; height: 200px; margin: 0; z-index: 3; }
-.lan--cheno .cc { position: absolute; left: 0; top: 0; width: 120px; height: auto; pointer-events: none; overflow: visible; filter: drop-shadow(0 6px 8px rgba(10,20,40,.35)); }
+.lan--cheno .cc { position: absolute; left: 0; top: 0; width: 120px; height: auto; pointer-events: none; overflow: visible; }
 .lan--cheno .cc-over { z-index: 4; filter: none; }
+.lan--cheno.is-pulled .cc-over { z-index: 1; }
+.lan--cheno .cc:not(.cc-over) { z-index: 0; }
 .lan--cheno svg.lan__strap { z-index: 2; }
 .lan--cheno .lan__strap use { stroke-width: 3px; }
 .lan--cheno .lan__strap text { display: none; }
