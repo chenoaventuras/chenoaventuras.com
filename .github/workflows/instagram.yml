@@ -1,12 +1,10 @@
 name: Actualizar últimas publicaciones de Instagram
 
+# Ya no se lanza sola cada día: en la inicio solo salen los reels de la lista
+# SHOW_ON_HOME (scripts/fetch-instagram.mjs). Cuando Cheno pide añadir un reel,
+# se añade a esa lista y se lanza a mano desde la pestaña Actions.
 on:
-  schedule:
-    # GitHub Actions no sigue el horario de verano, así que usamos dos cron
-    # para que quede lo más cerca posible de las 9:00 de España todo el año.
-    - cron: "0 7 * 4-10 *"       # 09:00 CEST (horario de verano, abr-oct)
-    - cron: "0 8 * 1-3,11-12 *"  # 09:00 CET  (horario de invierno, nov-mar)
-  workflow_dispatch: {}      # permite lanzarlo a mano desde la pestaña Actions
+  workflow_dispatch: {}
 
 permissions:
   contents: write
