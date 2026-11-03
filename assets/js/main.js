@@ -202,11 +202,15 @@
         return s;
       });
       if (today.length > 1) {
-        // fundido cruzado: una frase se apaga mientras la siguiente se enciende (sin saltos)
+        // primero la frase actual se desvanece y se desliza hacia la izquierda; cuando ya no se ve, entra la siguiente
         setInterval(function () {
-          items[i].classList.remove("is-active"); items[i].setAttribute("aria-hidden", "true");
-          i = (i + 1) % today.length;
-          items[i].classList.add("is-active"); items[i].removeAttribute("aria-hidden");
+          var old = items[i];
+          old.classList.remove("is-active"); old.classList.add("is-leaving"); old.setAttribute("aria-hidden", "true");
+          setTimeout(function () {
+            old.classList.remove("is-leaving");
+            i = (i + 1) % today.length;
+            items[i].classList.add("is-active"); items[i].removeAttribute("aria-hidden");
+          }, 520);
         }, 6000);
       }
     }

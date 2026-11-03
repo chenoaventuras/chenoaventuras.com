@@ -3123,3 +3123,13 @@ main::after { height: 44px; }
 .hiker--flat { top: calc(var(--pt) + clamp(40px, 4.6vw, 58px) * .06); }
 @media (max-width: 860px) { .contact-block { --pt: 56px; } }
 @media (max-width: 860px) { .about-story { padding-bottom: 36px; } }
+/* ¿Sabías que…?: sale una frase (se desvanece hacia la izquierda) y después entra la siguiente, sin solaparse */
+.curiosbar__text { overflow: hidden; }
+.curiosbar__item { opacity: 0; transform: translateX(26px); transition: opacity .45s ease, transform .45s ease; }
+.curiosbar__item.is-active { opacity: 1; transform: none; }
+.curiosbar__item.is-leaving { opacity: 0; transform: translateX(-26px); }
+
+/* Descuentos: el texto del reverso, en dos líneas y más grande */
+.deal__back > .deal__benefit--lg { font-size: 1rem; line-height: 1.3; }
+@media (max-width: 680px) { .deal__back > .deal__benefit--lg { font-size: .88rem; line-height: 1.25; } }
+
