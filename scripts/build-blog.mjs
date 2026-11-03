@@ -213,7 +213,7 @@ function readPosts() {
       seoDescription: data.seoDescription ? String(data.seoDescription).trim() : "",
       guia: data.guia ? String(data.guia) : "",
       evento: data.evento === true || data.evento === "true",
-      // eventoInfo: { nombre, inicio, fin, lugar, localidad, cp, region, precioMin, precioMax, entradas, organizador }
+      // eventoInfo: { nombre, inicio, fin, lugar, localidad, cp, region, precioMin, precioMax, entradas, organizador, web, artista?, ventaDesde? }
       // → Event en el JSON-LD (fechas en resultados de Google)
       eventoInfo: data.eventoInfo && data.eventoInfo.inicio && data.eventoInfo.lugar ? data.eventoInfo : null,
       guiaTitulo: data.guiaTitulo ? String(data.guiaTitulo) : "",
@@ -658,10 +658,12 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
                         highPrice: Number(p.eventoInfo.precioMax ?? p.eventoInfo.precioMin),
                         priceCurrency: "EUR",
                         availability: "https://schema.org/InStock",
+                        validFrom: new Date(p.eventoInfo.ventaDesde || p.date).toISOString(),
                         ...(p.eventoInfo.entradas ? { url: String(p.eventoInfo.entradas) } : {}),
                       },
                     }
                   : {}),
+                ...(p.eventoInfo.artista || p.eventoInfo.organizador ? { performer: { "@type": p.eventoInfo.artista ? "PerformingGroup" : "Organization", name: String(p.eventoInfo.artista || p.eventoInfo.organizador) } } : {}),
                 ...(p.eventoInfo.organizador ? { organizer: { "@type": "Organization", name: String(p.eventoInfo.organizador), ...(p.eventoInfo.web ? { url: String(p.eventoInfo.web) } : {}) } } : {}),
               },
             ]
