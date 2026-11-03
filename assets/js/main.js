@@ -819,10 +819,17 @@
       return EDGE[EDGE.length - 1][1];
     }
     var heroEl = hiker.parentElement;
-    var MARGIN = 120;                 // px fuera de pantalla antes de reaparecer
+    var MARGIN = Math.max(hiker.offsetWidth + 16, 70);   // px fuera de pantalla antes de reaparecer
     var dir = 1;                      // 1 = hacia la derecha, -1 = hacia la izquierda
-    var posX = -MARGIN;               // posición horizontal dentro del hero (px)
+    var posX = -hiker.offsetWidth * 0.3;   // empieza pegado al borde izquierdo: entra a su paso normal y se ve en medio segundo
     var last = null;
+    // En Contacto el muñeco está lejos de la cabecera: al llegar a él por primera vez, ya aparece a la vista.
+    if (hiker.hasAttribute("data-flat") && "IntersectionObserver" in window) {
+      var primera = new IntersectionObserver(function (es) {
+        if (es[0].isIntersecting) { posX = -hiker.offsetWidth * 0.3; primera.disconnect(); }
+      });
+      primera.observe(heroEl);
+    }
 
     // Al pulsar el senderista, se da la vuelta.
     hiker.addEventListener("click", function () {
@@ -836,7 +843,7 @@
       var dt = Math.min(((ts || 0) - last) / 1000, 0.05); // s, con tope anti-saltos
       last = ts || 0;
 
-      var speed = (heroW + 2 * MARGIN) / 30; // ~30 s de lado a lado, como antes
+      var speed = Math.max((heroW + 2 * MARGIN) / 30, 46); // ~30 s de lado a lado en ordenador; en móvil, al menos 46 px/s
       posX += dir * speed * dt;
       if (dir > 0 && posX > heroW + MARGIN) posX = -MARGIN;
       else if (dir < 0 && posX < -MARGIN) posX = heroW + MARGIN;
