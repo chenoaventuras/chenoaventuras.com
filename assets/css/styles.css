@@ -3113,3 +3113,13 @@ main::after { height: 44px; }
   .footer-links li { margin-bottom: 6px; font-size: .88rem; }
 }
 @media (max-width: 860px) { .film__track { animation-duration: 70s; } }
+
+/* Contacto: el muñeco apoya los pies justo en la línea del formulario y nunca ensancha la página al salir por la derecha */
+.contact-block { overflow: hidden; }
+.hiker--flat { top: calc(84px + clamp(40px, 4.6vw, 58px) * .06); }
+
+/* Contacto (móvil): menos distancia entre la cabeza del muñeco y el cuaderno */
+.contact-block { --pt: 84px; padding-top: var(--pt); }
+.hiker--flat { top: calc(var(--pt) + clamp(40px, 4.6vw, 58px) * .06); }
+@media (max-width: 860px) { .contact-block { --pt: 56px; } }
+@media (max-width: 860px) { .about-story { padding-bottom: 36px; } }
