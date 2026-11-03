@@ -306,3 +306,24 @@
     });
   }
 })();
+
+/* ---------- «Mi historia»: botón para escuchar la historia (solo aparece si existe el audio) ---------- */
+(function () {
+  var btn = document.querySelector("[data-audio]");
+  if (!btn) return;
+  var src = btn.getAttribute("data-audio");
+  fetch(src, { method: "HEAD" }).then(function (r) { if (r.ok) btn.hidden = false; }).catch(function () {});
+  var audio = null, tx = btn.querySelector(".notebook__play-tx");
+  // Mientras suena (o está en pausa a medias) el botón baja con el scroll, para poder pararlo sin volver a subir.
+  function flota(on) { btn.classList.toggle("is-floating", on); }
+  function estado(on) { btn.classList.toggle("is-on", on); btn.setAttribute("aria-pressed", on ? "true" : "false"); tx.textContent = on ? "Pausa" : (audio && audio.currentTime > 0 ? "Seguir" : "Escúchalo"); }
+  btn.addEventListener("click", function () {
+    if (!audio) {
+      audio = new Audio(src);
+      audio.addEventListener("ended", function () { audio.currentTime = 0; estado(false); flota(false); });
+      audio.addEventListener("error", function () { btn.hidden = true; });
+    }
+    if (audio.paused) { audio.play().then(function () { estado(true); flota(true); }).catch(function () {}); } else { audio.pause(); estado(false); }
+  });
+})();
+

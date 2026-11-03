@@ -202,14 +202,11 @@
         return s;
       });
       if (today.length > 1) {
+        // fundido cruzado: una frase se apaga mientras la siguiente se enciende (sin saltos)
         setInterval(function () {
-          out.classList.add("is-fading");
-          setTimeout(function () {
-            items[i].classList.remove("is-active"); items[i].setAttribute("aria-hidden", "true");
-            i = (i + 1) % today.length;
-            items[i].classList.add("is-active"); items[i].removeAttribute("aria-hidden");
-            out.classList.remove("is-fading");
-          }, 400);
+          items[i].classList.remove("is-active"); items[i].setAttribute("aria-hidden", "true");
+          i = (i + 1) % today.length;
+          items[i].classList.add("is-active"); items[i].removeAttribute("aria-hidden");
         }, 6000);
       }
     }
@@ -845,7 +842,7 @@
       var footX = her.left + posX + hiker.offsetWidth / 2;
       var origin = her.left + heroW / 2 - TILE / 2;
       var px = (((footX - origin) % TILE) + TILE) % TILE;
-      var lift = VALLEY - edgeY(px); // 0 en el valle, ~15 en la cresta
+      var lift = hiker.hasAttribute("data-flat") ? 0 : VALLEY - edgeY(px); // 0 en el valle, ~15 en la cresta (en línea recta, siempre 0)
       hikerInner.style.transform =
         "translateY(" + -lift + "px) scaleX(" + dir + ")";
 
@@ -918,7 +915,16 @@
       layout();
       return B;
     };
+    var bookHint = document.querySelector(".guiasinicio__hint");
+    var HINT_OPEN = "Pulsa aquí o fuera de la guía para cerrarla", HINT_CLOSED = bookHint ? bookHint.textContent : "";
+    var syncHint = function () {
+      if (!bookHint) return;
+      var open = books.some(function (b) { return b.isOpen(); });
+      bookHint.textContent = open ? HINT_OPEN : HINT_CLOSED;
+      bookHint.classList.toggle("is-cerrar", open);
+    };
     var books = [].slice.call(stack.querySelectorAll("[data-bookwrap]")).map(makeBook);
+    setInterval(syncHint, 250);
     var center = function () { return books.filter(function (b) { return b.wrap.getAttribute("data-pos") === "center"; })[0]; };
     var bringFront = function (target) {
       var cur = center();
@@ -1047,6 +1053,8 @@
     d.addEventListener("click", function (e) {
       if (e.target.closest("a, button")) return;
       if (window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
+      // al girar una, se cierra la que estuviera girada (como en ordenador)
+      document.querySelectorAll(".dealgrid .deal.is-flipped").forEach(function (o) { if (o !== d) o.classList.remove("is-flipped"); });
       var flipped = d.classList.toggle("is-flipped");
       clearTimeout(flipBackTimer);
       if (flipped) {

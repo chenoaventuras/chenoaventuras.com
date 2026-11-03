@@ -14,7 +14,7 @@
   <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicon-96.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/favicon-192.png" />
   <link rel="apple-touch-icon" href="/assets/img/favicon-180.png" />
-  <link rel="stylesheet" href="assets/css/styles.css?v=if5" />
+  <link rel="stylesheet" href="assets/css/styles.css?v=he3" />
   <script>
     document.documentElement.classList.add("js");
     (function () {
@@ -221,7 +221,7 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js?v=tr11"></script>
+  <script src="assets/js/main.js?v=he1"></script>
   <script defer src="/_vercel/insights/script.js"></script>
   <script>
   /* ============================================================
@@ -293,6 +293,7 @@
     var speed = BASE_SPEED;
     var raptorMode = false; // tecla D: modo velocirraptor, todo a x1.4
     var started = false, running = false, over = false;
+    var retryLockUntil = 0;   // tras perder, el botón tarda un momento en dejar reintentar (evita pulsarlo sin querer)
     var score = 0, best = 0;
     // el hueco hasta el próximo gato varía cada vez (no siempre a 300 en punto)
     function nextCatGap() { return Math.round(270 + Math.random() * 60); } // 270–330
@@ -323,7 +324,9 @@
     var jumpBtn = document.getElementById("run-jump");
     function syncBtn() {
       if (!jumpBtn) return;
-      jumpBtn.textContent = !started ? "EMPEZAR" : (over ? "REINTENTAR" : "SALTAR");
+      var locked = over && Date.now() < retryLockUntil;
+      jumpBtn.textContent = !started ? "EMPEZAR" : (over ? (locked ? "…" : "REINTENTAR") : "SALTAR");
+      jumpBtn.style.opacity = locked ? ".45" : "";
     }
 
     /* --- top 5 mundial: ranking online en Supabase, con copia local de respaldo --- */
@@ -510,6 +513,7 @@
 
     function action() {
       audioReady();
+      if (over && Date.now() < retryLockUntil) return;
       if (!started || over) { reset(); syncBtn(); return; }
       if (player.onGround) { player.vy = JUMP_V; player.onGround = false; }
     }
@@ -881,6 +885,8 @@
           if (o.x + o.w < -30) { obstacles.splice(k, 1); continue; }
           if (hit(o)) {
             running = false; over = true;
+            retryLockUntil = Date.now() + 1400;
+            setTimeout(syncBtn, 1450);
 
             var finalScore = Math.floor(score);
             pendingPlayed = runStart ? Math.max(0, Date.now() - runStart) : 0;

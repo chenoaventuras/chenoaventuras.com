@@ -3014,7 +3014,7 @@ main.main--contacto::after { height: 46px; background: linear-gradient(to bottom
 .notebook--wide .notebook__grid { grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); }
 .notebook--wide .notebook__grid > .passport { align-self: center; width: min(100%, 390px); margin-bottom: 0; }
 .herofoto img { object-position: 40% 30%; }
-.passport__photo img { object-position: 50% 30%; transform: none; }
+.passport__photo img { object-position: 50% 88%; transform: none; }
 
 /* Servicios, reels: entran de uno en uno subiendo y creciendo; con el ratón, la tarjeta crece un poco */
 .js .svwork__item.reveal { opacity: 0; transform: translateY(44px) scale(.92); transition: opacity .6s ease, transform .8s cubic-bezier(.16,1,.3,1), box-shadow .3s ease; }
@@ -3027,3 +3027,89 @@ main.main--contacto::after { height: 46px; background: linear-gradient(to bottom
 
 /* Contacto, «Mi historia»: texto justificado */
 .notebook--wide .notebook__left p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+
+/* Contacto, cabecera más baja: título más pequeño, foto mayor al lado (ordenador) o chiquita arriba a la derecha (móvil) */
+.about-hero { padding-block: clamp(26px, 3.6vw, 44px) clamp(44px, 6vw, 70px); }
+.about-hero__title { font-size: clamp(2.8rem, 6.2vw, 5rem); }
+.about-hero__grid { grid-template-columns: 1fr minmax(0, 420px); gap: clamp(28px, 5vw, 64px); }
+.about-hero__lead { max-width: 44ch; }
+.herofoto { width: min(100%, 400px); padding: 12px 12px 48px; }
+@media (max-width: 860px) {
+  .about-hero { padding-block: 20px 46px; }
+  .about-hero__grid { grid-template-columns: 1fr; position: relative; }
+  .about-hero__title { font-size: clamp(2.6rem, 13vw, 3.6rem); }
+  .herofoto { position: absolute; top: 14px; right: 22px; width: 104px; padding: 5px 5px 18px; z-index: 4; }
+  .herofoto__tape { width: 56px; height: 16px; top: -8px; margin-left: -28px; }
+  .about-hero__lead { max-width: none; margin-top: 30px; }
+}
+
+/* Contacto, «Mi historia» en móvil: una sola columna (la regla de ordenador la pisaba) y texto sin justificar */
+@media (max-width: 860px) {
+  .notebook--wide .notebook__grid { grid-template-columns: minmax(0, 1fr); }
+  .notebook--wide .notebook__left p { text-align: left; hyphens: manual; -webkit-hyphens: manual; }
+  .notebook--wide .notebook__grid > .passport { width: min(100%, 380px); justify-self: center; align-self: center; margin: 22px auto 6px; }
+}
+@media (max-width: 860px) { .notebook--wide .notebook__grid > .passport { display: none; } }
+
+/* Contacto: ajustes finales */
+/* el azul de la cabecera llega hasta debajo de «Escríbeme» y el degradado empieza después */
+.about-hero { padding-bottom: calc(clamp(70px, 9vw, 130px) + 44px); }
+@media (max-width: 860px) { .about-hero { padding-bottom: calc(clamp(70px, 9vw, 130px) + 30px); } }
+/* sin guiones: las palabras no se parten */
+.notebook--wide .notebook__left p { hyphens: none; -webkit-hyphens: none; word-break: normal; overflow-wrap: normal; }
+/* «Mi historia» sin banda clara detrás: se ve la acuarela del mapa */
+.about-story { background: none; }
+/* el formulario ocupa la pantalla de extremo a extremo */
+.contact-block > .container { max-width: none; width: 100%; padding-inline: 0; }
+.contact-card { border-radius: 0; box-shadow: none; padding-inline: max(20px, calc((100vw - 1100px) / 2)); }
+
+/* Contacto: Cheno andando en línea recta sobre el borde del azul; la carta de «Mi historia» asoma antes; sin rendija clara bajo el formulario */
+.hiker--flat { bottom: auto; top: 82px; z-index: 5; width: clamp(40px, 4.6vw, 58px); }
+.about-story { position: relative; z-index: 2; margin-top: calc(clamp(70px, 9vw, 130px) * -.85); padding-top: 0; }
+.about-film { -webkit-mask-image: none; mask-image: none; margin-top: -1px; }
+@media (max-width: 860px) { .about-story { margin-top: calc(clamp(70px, 9vw, 130px) * -.5); } }
+.contact-block { position: relative; padding-top: 84px; }
+
+/* Contacto: caballete de fotos más pequeñas, muñeco un poco más abajo y botón de audio en «Mi historia» */
+.film__track { gap: 22px; }
+.film__track a { width: 128px; padding: 7px 7px 30px; }
+@media (max-width: 860px) { .film__track a { width: 104px; padding: 6px 6px 26px; } }
+.hiker--flat { top: 92px; }
+.notebook__play { position: absolute; top: 18px; right: 22px; z-index: 3; display: inline-flex; align-items: center; gap: 9px; padding: 8px 16px 8px 8px; border: 0; border-radius: 99px; background: var(--night); color: #fff; font: 600 .82rem/1 var(--font-head); letter-spacing: .04em; cursor: pointer; box-shadow: 0 6px 16px rgba(20,35,60,.28); transition: transform .2s ease, background .2s ease; }
+.notebook__play[hidden] { display: none; }
+.notebook__play:hover { transform: scale(1.05); background: #274c78; }
+.notebook__play-ic { width: 30px; height: 30px; border-radius: 50%; background: var(--gold-bright, #f2c300); position: relative; flex: none; }
+.notebook__play-ic::before { content: ""; position: absolute; left: 12px; top: 8px; border-left: 11px solid var(--night); border-top: 7px solid transparent; border-bottom: 7px solid transparent; }
+.notebook__play.is-on .notebook__play-ic::before { left: 9px; top: 9px; width: 4px; height: 12px; border: 0; background: var(--night); box-shadow: 8px 0 0 var(--night); }
+@media (max-width: 860px) { .notebook__play { top: 12px; right: 12px; padding: 6px 12px 6px 6px; font-size: .74rem; } .notebook__play-ic { width: 26px; height: 26px; } .notebook__play-ic::before { left: 10px; top: 6px; } .notebook__play.is-on .notebook__play-ic::before { left: 7px; top: 7px; } }
+/* el botón de audio baja con el scroll mientras suena */
+.notebook__play.is-floating { position: fixed; top: auto; right: 18px; bottom: 18px; z-index: 90; box-shadow: 0 10px 26px rgba(10,20,40,.4); }
+@media (max-width: 860px) { .notebook__play.is-floating { right: 12px; bottom: 14px; } }
+
+/* ¿Sabías que…?: fundido cruzado entre frases */
+.curiosbar__item { visibility: visible; opacity: 0; transition: opacity .9s ease; }
+.curiosbar__item.is-active { opacity: 1; }
+/* guía abierta: la pista de abajo avisa de cómo cerrarla */
+.guiasinicio__hint.is-cerrar { color: var(--night); font-weight: 600; cursor: pointer; }
+
+/* Mapa: botón de volver a toda España y gesto de dos dedos en móvil */
+.mapback { display: inline-flex; align-items: center; gap: 7px; padding: 9px 14px; border: 0; border-radius: 99px; background: #fff; color: var(--night); font: 600 .82rem/1 var(--font-head); letter-spacing: .03em; cursor: pointer; box-shadow: 0 4px 14px rgba(20,35,60,.28); margin: 10px 0 0 10px; }
+.mapback[hidden] { display: none; }
+.mapback:hover { background: var(--night); color: #fff; }
+.mapa.is-dosdedos { touch-action: pan-y; }
+.mapa__tip { position: relative; z-index: 5; margin: -46px auto 12px; width: max-content; max-width: 90%; padding: 9px 14px; border-radius: 99px; background: rgba(20,35,60,.88); color: #fff; font: 600 .8rem/1.2 var(--font-head); text-align: center; opacity: 0; pointer-events: none; transition: opacity .25s ease; }
+.mapa__tip.is-on { opacity: 1; }
+@media (max-width: 760px) { .tablet .mapa { height: clamp(300px, 52vh, 460px); } }
+
+
+/* Pie de página más corto: menos aire antes del pie, y en móvil Explorar y Cheno van en dos columnas */
+main { padding-bottom: 44px; }
+main::after { height: 44px; }
+.site-footer { padding-block: 46px 26px; }
+@media (max-width: 520px) {
+  .site-footer { padding-block: 34px 22px; }
+  .footer-grid { grid-template-columns: 1fr 1fr; gap: 22px 16px; }
+  .footer-grid > :first-child, .footer-grid > :last-child { grid-column: 1 / -1; }
+  .footer-links li { margin-bottom: 6px; font-size: .88rem; }
+}
+@media (max-width: 860px) { .film__track { animation-duration: 70s; } }

@@ -23,10 +23,51 @@
   var sizedFit = el.clientWidth > 0;
   map.fitBounds(SPAIN);
 
+  // En pantallas táctiles el mapa no atrapa el dedo: con un dedo se sigue bajando por la página y
+  // el mapa se mueve y se amplía con dos dedos (se avisa si intentan moverlo con uno).
+  var touch = window.matchMedia && window.matchMedia("(pointer: coarse)").matches;
+  if (touch) {
+    map.dragging.disable();
+    el.classList.add("is-dosdedos");
+    var tip = document.createElement("div");
+    tip.className = "mapa__tip"; tip.textContent = "Usa dos dedos para mover el mapa";
+    tip.setAttribute("aria-hidden", "true");
+    el.parentNode.insertBefore(tip, el.nextSibling);
+    var tipT = 0, tx0 = 0, ty0 = 0;
+    el.addEventListener("touchstart", function (e) { if (e.touches.length === 1) { tx0 = e.touches[0].clientX; ty0 = e.touches[0].clientY; } }, { passive: true });
+    el.addEventListener("touchmove", function (e) {
+      if (e.touches.length !== 1) return;
+      if (Math.abs(e.touches[0].clientX - tx0) + Math.abs(e.touches[0].clientY - ty0) < 24) return;
+      tip.classList.add("is-on"); clearTimeout(tipT);
+      tipT = setTimeout(function () { tip.classList.remove("is-on"); }, 1600);
+    }, { passive: true });
+  }
+
   // La rueda del ratón solo hace zoom tras pulsar en el mapa (no atrapa el scroll de la página).
   map.on("click", function () { map.scrollWheelZoom.enable(); });
   map.on("mouseout", function () { map.scrollWheelZoom.disable(); });
 
+  // Botón «← Todas las zonas» (arriba a la izquierda): quita comunidad y provincia y vuelve a encuadrar toda España.
+  map.zoomControl.setPosition("topright");
+  var backBtn = null;
+  var BackCtl = L.Control.extend({
+    options: { position: "topleft" },
+    onAdd: function () {
+      var b = L.DomUtil.create("button", "mapback");
+      b.type = "button"; b.hidden = true;
+      b.innerHTML = '<span aria-hidden="true">←</span> Todas las zonas';
+      L.DomEvent.disableClickPropagation(b);
+      L.DomEvent.on(b, "click", function () {
+        state.region = ""; state.prov = "";
+        if (regionSel) regionSel.value = "";
+        fillProv();
+        render(false);
+        map.fitBounds(SPAIN, { animate: !reduce });
+      });
+      backBtn = b;
+      return b;
+    }
+  });
   var layer = L.layerGroup().addTo(map);
   var state = { types: [], region: "", prov: "", destino: new URLSearchParams(location.search).get("destino") || "" };
   var noticeEl = document.getElementById("map-notice");
@@ -123,6 +164,7 @@
       }
     }
     if (countEl) countEl.textContent = list.length + (list.length === 1 ? " lugar" : " lugares");
+    if (backBtn) backBtn.hidden = !(state.region || state.prov);
     if (fit) {
       if (!pts.length) return;
       if (!state.types.length && !state.region && !state.prov && !state.destino) map.fitBounds(SPAIN, { animate: !reduce });
@@ -172,6 +214,7 @@
       render(true);
     });
   }
+  new BackCtl().addTo(map);
   render(!!state.destino);
 
   if (window.ResizeObserver) {
