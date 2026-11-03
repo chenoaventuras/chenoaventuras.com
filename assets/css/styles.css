@@ -2964,3 +2964,10 @@ main.main--contacto::after { height: 46px; background: linear-gradient(to bottom
 .notebook--wide .notebook__right .notebook__sign { text-align: right; }
 @media (max-width: 860px) { .notebook--wide .notebook__grid { grid-template-columns: 1fr; } }
 
+/* Contacto, «Mi historia»: todo el texto a la izquierda y la foto, algo más grande, a la derecha abajo */
+.notebook--wide .notebook__grid { grid-template-columns: 1.3fr .7fr; }
+.notebook--wide .notebook__grid > .notebook__photo { align-self: end; width: min(320px, 100%); margin: 0 auto 8px; padding: 12px 12px 12px; }
+.notebook--wide .notebook__left .notebook__end { display: block; }
+.notebook--wide .notebook__left .notebook__end .notebook__sign { text-align: left; margin-bottom: 18px; }
+@media (max-width: 860px) { .notebook--wide .notebook__grid > .notebook__photo { align-self: center; width: min(260px, 80%); margin-top: 26px; } }
+
