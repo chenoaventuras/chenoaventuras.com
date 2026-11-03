@@ -2970,4 +2970,33 @@ main.main--contacto::after { height: 46px; background: linear-gradient(to bottom
 .notebook--wide .notebook__left .notebook__end { display: block; }
 .notebook--wide .notebook__left .notebook__end .notebook__sign { text-align: left; margin-bottom: 18px; }
 @media (max-width: 860px) { .notebook--wide .notebook__grid > .notebook__photo { align-self: center; width: min(260px, 80%); margin-top: 26px; } }
+/* Descuentos: reverso con la foto de la marca muy desenfocada y un velo claro; código, «Copiar» y botón con el color de cada marca */
+.deal[data-brand="holafly"] { --bc: #e8337f; --bt: #fff; --bd: #a3194f; --img: url("../descuentos/holafly.webp"); }
+.deal[data-brand="getyourguide"] { --bc: #f2531f; --bt: #fff; --bd: #a8330a; --img: url("../descuentos/getyourguide.webp"); }
+.deal[data-brand="insta360"] { --bc: #f2c300; --bt: #1b1b1b; --bd: #6b5200; --img: url("../descuentos/insta360.webp"); }
+.deal[data-brand="discovercars"] { --bc: #1f6fd6; --bt: #fff; --bd: #0e4896; --img: url("../descuentos/discovercars.webp"); }
+.deal__back { background: #f4f1ec; color: var(--ink); isolation: isolate;
+  display: grid; grid-template-rows: 44px 4.4em 40px; align-content: center; justify-items: center; gap: 12px; }
+.deal__back::before { content: ""; position: absolute; inset: -14%; z-index: -2; background: var(--img) center / cover; filter: blur(22px) saturate(1.25); }
+.deal__back::after { content: ""; position: absolute; inset: 0; z-index: -1; background: rgba(255,255,255,.62); }
+/* mismas alturas en todas las tarjetas: código arriba, texto en medio, botón abajo */
+.deal__back > .deal__code-row { grid-row: 1; align-self: center; }
+.deal__back > .deal__benefit { grid-row: 2; align-self: center; color: #1f2733; font-weight: 600; text-align: center; }
+.deal__back > .deal__link { grid-row: 3; align-self: center; }
+.deal__back .deal__code { background: #fff; box-shadow: 0 0 0 2px var(--bc); }
+.deal__back .deal__copy { color: var(--bd); border-color: var(--bc); background: rgba(255,255,255,.7); }
+.deal__back .deal__copy:hover { background: var(--bc); color: var(--bt); border-color: var(--bc); }
+.deal__back .deal__copy.is-copied { background: #2f9e5b; color: #fff; border-color: #2f9e5b; }
+.deal__back .deal__link--btn { background: var(--bc); color: var(--bt); border-color: var(--bc); }
+.deal__back .deal__link--btn:hover { background: var(--bd); color: #fff; border-color: var(--bd); }
+
+@media (max-width: 680px) {
+  .deal__back { grid-template-rows: 30px 4.3em auto; gap: 7px; padding: 12px 8px; }
+  .deal__back > .deal__benefit { font-size: .7rem; line-height: 1.3; }
+  .deal__back .deal__link--btn { font-size: .6rem; padding: .5em .6em; letter-spacing: .04em; line-height: 1.15; }
+  .deal__back .deal__copy { padding: .35em .7em; }
+}
+.deal__back > .deal__car { grid-row: 1; align-self: center; width: min(120px, 62%); height: auto; filter: drop-shadow(0 3px 4px rgba(0,0,0,.25)); }
+.deal__back .deal__hl { color: var(--bd); font-weight: 800; }
+@media (max-width: 680px) { .deal__back > .deal__car { width: min(84px, 62%); } }
 
