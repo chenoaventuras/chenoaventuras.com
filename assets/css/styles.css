@@ -2457,7 +2457,9 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .svstats { padding-top: 0; }
 
 /* banda translúcida sobre la acuarela */
-.svband { background: rgba(255,255,255,.42); border-block: 1px solid rgba(255,255,255,.7); }
+.svband { border: 0; }
+/* secciones alternas: acuarela del mapa / banda crema lisa */
+#como-trabajamos, #trabajos, .svads { --fade: clamp(54px, 8vw, 120px); padding-block: clamp(56px, 7vw, 96px); background: linear-gradient(180deg, rgba(251,246,232,0) 0, #fbf6e8 var(--fade), #fbf6e8 calc(100% - var(--fade)), rgba(251,246,232,0) 100%); }
 
 /* para quién: emoji en la esquina de cada foto */
 .svwho .placecard { position: relative; }
