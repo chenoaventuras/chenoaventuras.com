@@ -2918,3 +2918,25 @@ html.cheno-fade body { animation: chenoFade .7s ease both; }
 .notebook__end { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px 24px; flex-wrap: wrap; }
 .notebook__end .notebook__sign { margin: 0; }
 .notebook__end .btn { white-space: nowrap; }
+
+/* Servicios (dron): Cheno pequeño y de frente, señalándose el carné que lleva colgado (se tira de la tarjeta y crece) */
+.svdron__stage { position: relative; }
+.svdron__cheno { position: absolute; right: 22px; bottom: 6px; width: 120px; z-index: 3; }
+.lan--cheno { position: relative; width: 120px; height: 200px; margin: 0; z-index: 3; }
+.lan--cheno .cc { position: absolute; left: 0; top: 0; width: 120px; height: auto; pointer-events: none; overflow: visible; filter: drop-shadow(0 6px 8px rgba(10,20,40,.35)); }
+.lan--cheno .cc-over { z-index: 4; filter: none; }
+.lan--cheno svg.lan__strap { z-index: 2; }
+.lan--cheno .lan__strap use { stroke-width: 3px; }
+.lan--cheno .lan__strap text { display: none; }
+.lan--cheno .lan__card { z-index: 3; }
+.cc-body { transform-origin: 100px 318px; animation: ccBreath 3.4s ease-in-out infinite; }
+.cc-head { transform-origin: 100px 104px; animation: ccTilt 5.2s ease-in-out infinite; }
+.cc-arm { transform-origin: 64px 128px; animation: ccArm 2.6s ease-in-out infinite; }
+.cc-fore { transform-origin: 38px 182px; animation: ccPoint 1.3s ease-in-out infinite; }
+.cc-eyes { transform-box: fill-box; transform-origin: center; animation: ccBlink 4.6s infinite; }
+@keyframes ccBreath { 0%, 100% { transform: translateY(0) scaleY(1); } 50% { transform: translateY(-1.5px) scaleY(1.008); } }
+@keyframes ccTilt { 0%, 100% { transform: rotate(-2.5deg); } 50% { transform: rotate(2.5deg); } }
+@keyframes ccArm { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(-2deg); } }
+@keyframes ccPoint { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(-9deg); } }
+@keyframes ccBlink { 0%, 93%, 100% { transform: scaleY(1); } 96% { transform: scaleY(.1); } }
+@media (prefers-reduced-motion: reduce) { .cc-body, .cc-head, .cc-arm, .cc-fore, .cc-eyes { animation: none; } }
