@@ -3139,4 +3139,4 @@ main::after { height: 44px; }
   .nav__social a.nav__social--mapa { display: grid; }
   .nav__social a.nav__social--mapa svg { width: 22px; height: 22px; }
 }
-
+.nav__social a.nav__social--mapa svg { width: 24px; height: 24px; }
