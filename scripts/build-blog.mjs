@@ -239,6 +239,8 @@ function readPosts() {
         : [],
       faqTitulo: data.faqTitulo ? String(data.faqTitulo).trim() : "",
       // actividades: [{ t, u }] → bloque «Actividades recomendadas» (Civitatis / GetYourGuide con afiliado)
+      // actividadesTitulo: cambia el h2 cuando las actividades no son del propio lugar (p. ej. «Otras actividades en Madrid»)
+      actividadesTitulo: data.actividadesTitulo ? String(data.actividadesTitulo).trim() : "",
       actividades: Array.isArray(data.actividades)
         ? data.actividades.filter((a) => a && a.t && a.u).map((a) => ({ t: String(a.t).trim(), u: String(a.u).trim() }))
         : [],
@@ -489,7 +491,7 @@ function activitiesBox(p) {
   const items = p.actividades.map((a) => ({ ...a, ...affLink(a.u) }));
   const hasGyg = items.some((a) => a.plat === "GetYourGuide");
   return `
-<div class="guide__head" id="actividades"><span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">🎟️</span><span>Planes para reservar</span></span><h2>Actividades recomendadas</h2></div>
+<div class="guide__head" id="actividades"><span class="eyebrow"><span class="eyebrow__emoji" aria-hidden="true">🎟️</span><span>Planes para reservar</span></span><h2>${esc(p.actividadesTitulo || "Actividades recomendadas")}</h2></div>
 <ul class="actbox">${items
     .map(
       (a) => `<li><a href="${esc(a.href)}" target="_blank" rel="sponsored noopener"><span class="actbox__plat actbox__plat--${a.plat === "Civitatis" ? "civ" : "gyg"}">${esc(a.plat)}</span><span class="actbox__name">${esc(a.t)}</span><span class="actbox__go" aria-hidden="true">Ver &rarr;</span></a></li>`

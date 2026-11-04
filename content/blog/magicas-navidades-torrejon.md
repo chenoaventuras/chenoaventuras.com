@@ -30,6 +30,7 @@ tags:
 wide: true
 cocheMensaje: "<strong>Lo más cómodo para ir es el tren</strong> (Cercanías C-2 y C-7, con la estación a unos 100 metros del recinto). Si prefieres ir en coche y no tienes uno disponible, compara precios de alquiler en DiscoverCars: ves todas las compañías juntas, con el precio final y cancelación gratis."
 coche: true
+actividadesTitulo: 'Otras actividades en Madrid'
 actividades:
   - t: "Tour navideño por Madrid: Plaza Mayor, Cortylandia y luces"
     u: "https://www.civitatis.com/es/madrid/tour-navidad-madrid/"
