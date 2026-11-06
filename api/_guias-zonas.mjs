@@ -227,6 +227,7 @@ export const ZONE_GUIDES = {
   "lugares-colombinos-huelva": {"title": "Guía Huelva", "file": "/assets/guias/guia-huelva-chenoaventuras.pdf"},
   "lugo-que-ver": {"title": "Guía Lugo y Ourense", "file": "/assets/guias/guia-lugo-ourense-chenoaventuras.pdf"},
   "madrid-fantasmas-leyendas": {"title": "Guía Madrid curioso", "file": "/assets/guias/guia-madrid-curioso-chenoaventuras.pdf"},
+  "magicas-navidades-torrejon": {"title": "Guía Mágicas Navidades de Torrejón 2026", "file": "/assets/guias/guia-magicas-navidades-torrejon-chenoaventuras.pdf"},
   "mahon-menorca": {"title": "Guía Menorca", "file": "/assets/guias/guia-menorca-chenoaventuras.pdf"},
   "malaga-que-ver": {"title": "Guía Málaga", "file": "/assets/guias/guia-malaga-chenoaventuras.pdf"},
   "mallorca-que-ver": {"title": "Guía Mallorca", "file": "/assets/guias/guia-mallorca-chenoaventuras.pdf"},

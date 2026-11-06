@@ -86,6 +86,8 @@ faq:
     a: "Sí, se puede entrar con alimentos."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Entre 4 y 5 horas en una primera visita."
+guia: /assets/guias/guia-magicas-navidades-torrejon-chenoaventuras.pdf
+guiaTitulo: 'Guía Mágicas Navidades de Torrejón 2026 en PDF'
 ---
 Las **Mágicas Navidades de Torrejón de Ardoz**, que el parque presenta como **Mágicas Navidades de Madrid**, son uno de los planes de Navidad más grandes de la Comunidad de Madrid y este año **abren el 14 de noviembre de 2026**.
 

@@ -41,9 +41,9 @@ AUTHOR = ('<aside class="authorbox gauthor keep"><img class="authorbox__img" src
 def load_posts():
     js = r"""const fs=require("fs"),m=require("gray-matter"),{marked}=require("marked"),d0=process.argv[1];const o={};
 marked.setOptions({gfm:true,breaks:false});
-for(const f of fs.readdirSync(d0)){if(!f.endsWith(".md"))continue;const g=m(fs.readFileSync(d0+"/"+f,"utf8")),d=g.data;if(d.draft||d.evento===true||d.sinGuia===true)continue;
+for(const f of fs.readdirSync(d0)){if(!f.endsWith(".md"))continue;const g=m(fs.readFileSync(d0+"/"+f,"utf8")),d=g.data;if(d.draft||d.sinGuia===true)continue;
 o[f.slice(0,-3)]={title:d.title,lugar:d.lugar||"",excerpt:d.excerpt||"",cover:d.cover||"",lat:d.lat,lng:d.lng,tags:d.tags||[],act:d.actividades||[],
-comer:(d.comer||[]).slice(0,4),date:String(d.date||""),body:marked.parse(g.content)};}
+comer:(d.comer||[]).slice(0,4),evento:d.evento===true,date:String(d.date||""),body:marked.parse(g.content)};}
 process.stdout.write(JSON.stringify(o));"""
     r = subprocess.run(["node", "-e", js, str(ROOT / "content" / "blog")], cwd=ROOT, capture_output=True, text=True, check=True)
     posts = json.loads(r.stdout)
@@ -103,16 +103,17 @@ def places_of(z, posts):
     """Posts que entran en la guía: todos los de sus provincias/islas (zonas con `provincias`),
     una lista fija (`lugares`) o, en zonas por secciones, el post de cada isla y sus enlazados."""
     if "provincias" in z:
-        mine = [s for s, p in posts.items() if p.get("prov") in z["provincias"] and s not in z.get("fuera", [])]
+        # los eventos (con fecha) solo entran en guías con eventos=True y lista fija de `lugares`
+        mine = [s for s, p in posts.items() if p.get("prov") in z["provincias"] and s not in z.get("fuera", []) and not p["evento"]]
         first = [s for s in z.get("orden", []) if s in mine]
         rest = sorted((s for s in mine if s not in first), key=lambda s: (not s.endswith("-que-ver"), posts[s]["lugar"] or posts[s]["title"]))
         return first + rest
     if "secciones" not in z:
-        return [s for s in z["lugares"] if s in posts]
+        return [s for s in z["lugares"] if s in posts and (z.get("eventos") or not posts[s]["evento"])]
     seen = []
     for sec in z["secciones"]:
         for s in [sec["hub"]] + [c[3] for c in hub_cards(sec["hub"])] + sec.get("extra", []):
-            if s in posts and s not in seen:
+            if s in posts and s not in seen and not posts[s]["evento"]:
                 seen.append(s)
     return seen
 
@@ -476,11 +477,21 @@ def build(key, posts, tmp):
                 f'la tienes gratis en mi web.</p><a class="final__btn" href="{e(url)}">Descargar la guía completa →</a></div>')
     toc = f'<div class="toc"><div class="guide__head"><span class="eyebrow">En esta guía</span><h2>{len(places)} lugares imprescindibles</h2></div><ol>{index}</ol></div>'
 
+    if len(places) == 1:  # guía de un solo sitio (p. ej. un evento): sin índice, y la ruta y los planes ya van en su capítulo
+        toc = act_html = closing = ""
+
     # colocaciones posibles de ruta/índice/actividades: (antes de los capítulos, después)
     layouts = [(closing + toc + act_html, ""), ("", toc + act_html + closing), (closing, toc + act_html),
                (closing + toc, act_html), (toc + act_html, closing)]
 
     car_basic = car_box() if needs_car(" ".join(d for _, d in z["tips"])) else ""
+
+    # la página de introducción no hace falta en la guía de un solo sitio: su capítulo ya empieza con lo básico
+    intro_pg = "" if len(places) == 1 else (
+        f'<div class="pg__head"><span class="eyebrow">Antes de nada</span><h2>{z["titulo_intro"]}</h2></div>'
+        f'<div class="intro-box">{intro}</div>'
+        f'<div class="guide__head"><span class="eyebrow">Para organizarte</span><h2>Lo básico</h2></div>'
+        f'<div class="guide__tips">{tips}</div>{car_basic}')
 
     def make_doc(at_end):
         head, tail = layouts[at_end]
@@ -492,6 +503,7 @@ def build(key, posts, tmp):
 <style>{(HERE / 'guia.css').read_text()}
 .cover img {{ object-position: {z.get('pos', 'center 45%')}; }}
 .cover h1 {{ font-size: {z.get('h1', '4.6rem')}; }}
+{z.get('css', '')}
 </style></head>
 <body>
 <section class="cover">
@@ -500,11 +512,7 @@ def build(key, posts, tmp):
   <div class="cover__foot"><span class="brand"><span class="brand__name">Cheno</span><span class="brand__tag">Aventuras</span></span><small>@chenoaventuras<br>chenoaventuras.com</small></div>
 </section>
 <section class="flow article__body">
-  <div class="pg__head"><span class="eyebrow">Antes de nada</span><h2>{z['titulo_intro']}</h2></div>
-  <div class="intro-box">{intro}</div>
-  <div class="guide__head"><span class="eyebrow">Para organizarte</span><h2>Lo básico</h2></div>
-  <div class="guide__tips">{tips}</div>
-  {car_basic}
+  {intro_pg}
   {head}
   {"".join(chapter(i + 1, s) for i, s in enumerate(places))}
   {tail}

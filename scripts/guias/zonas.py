@@ -5,6 +5,18 @@ en el orden de `orden` y después el resto; `fuera` excluye posts. Zonas con `lu
 """
 
 ZONAS = {
+"magicas-navidades-torrejon": dict(
+  nombre="Mágicas Navidades de Torrejón 2026", h1_txt="Mágicas<br>Navidades", h1="4.2rem", portada="magicas-navidades-torrejon",
+  sub="Torrejón de Ardoz · del 14 de noviembre de 2026 al 10 de enero de 2027.",
+  titulo_intro="La Navidad más grande<br>de Madrid",
+  intro=["Las **Mágicas Navidades** llenan el Recinto Ferial de Torrejón de Ardoz de luces, espectáculos y atracciones: **Papá Noel vuela cada noche**, hay una **pista de hielo sobre un lago**, una noria de 42 metros y esculturas de hielo gigantes.",
+         "En esta guía tienes todo para ir: qué incluye la entrada, qué se paga aparte, el calendario con los Días de la Familia y cómo llegar."],
+  tips=[("🎟️ Compra antes", "Las entradas solo se venden en la **web oficial** y valen para un día concreto. El aforo es limitado."),
+        ("🚆 Ve en tren", "La estación de **Cercanías** (C-2 y C-7) está a unos **100 metros** del recinto."),
+        ("💰 Ahorra", "Los **Días de la Familia** la entrada cuesta **5 €** y las experiencias, menos.")],
+  lugares=["magicas-navidades-torrejon"], eventos=True,
+  css=".cover__in p { text-shadow: 0 1px 3px rgba(0,0,0,.9), 0 0 14px rgba(0,0,0,.75); font-weight: 600; }",
+),
 "escapadas-madrid": dict(
   nombre="Escapadas desde Madrid", h1_txt="Escapadas<br>desde Madrid", portada="buitrago-del-lozoya-que-ver", h1="4.2rem",
   sub="Pueblos con muralla, hayedos, cascadas y rincones con historia a menos de una hora y media de Madrid.",
