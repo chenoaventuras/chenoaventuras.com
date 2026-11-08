@@ -1,11 +1,12 @@
 ---
 title: 'Cabo Peñas: el faro del punto más al norte de Asturias, los acantilados y las playas de Verdicio y Luanco'
-seoTitle: 'Cabo de Peñas (Asturias): faro, acantilados y qué ver en Gozón'
+seoTitle: 'Cabo de Peñas (Asturias): faro, acantilados, playas y calas'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Cabo Peñas'
 lat: 43.6567
 lng: -5.8467
 provincia: 'Asturias'
+updated: 2026-11-09
 excerpt: 'Cabo Peñas: el faro del extremo norte de Asturias (1852), el museo, los acantilados, la playa de Verdicio y el pueblo marinero de Luanco. Cómo llegar y qué hacer.'
 cover: /assets/img/blog/cabo-penas-que-ver/portada.webp
 tags:
@@ -27,6 +28,8 @@ faq:
     a: "Desde 1852."
   - q: "¿Se puede visitar el faro?"
     a: "La planta baja tiene un centro de recepción y un museo; confirma horarios."
+  - q: "¿Qué playas hay cerca del Cabo Peñas?"
+    a: "Las más cercanas son Verdicio, La Carniciega y La Aguilera, a unos 5 km al oeste del faro (a La Aguilera solo se llega a pie). Más lejos están Xagó, con dunas protegidas, y Bañugues, al este del cabo."
   - q: "¿Qué ver cerca?"
     a: "Luanco, Verdicio, Candás y Avilés."
   - q: "¿Cuánto tiempo hace falta?"
@@ -64,12 +67,15 @@ Te cuento qué ver, qué hay en el faro y qué otros sitios visitar cerca 👇
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
-<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Luanco:</strong> pueblo marinero con puerto, playa e iglesia.</li><li><strong>Verdicio:</strong> playa y zona de baño al oeste.</li><li><strong>Candás:</strong> pueblo pesquero cercano.</li><li><strong>Cerca:</strong> <a href='/blog/aviles-que-ver.html'>Avilés</a> y <a href='/blog/gijon-que-ver.html'>Gijón</a>.</li></ul>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Luanco:</strong> pueblo marinero con puerto, playa e iglesia.</li><li><strong>Candás:</strong> pueblo pesquero cercano.</li><li><strong>Cerca:</strong> <a href='/blog/aviles-que-ver.html'>Avilés</a> y <a href='/blog/gijon-que-ver.html'>Gijón</a>.</li></ul>
 
 <!--enr-->
 <div class="guide__head"><span class="eyebrow">Más datos</span><h2>El faro más potente de Asturias</h2></div>
 <p>El faro del <strong>Cabo Peñas</strong> se encendió por primera vez el <strong>15 de agosto de 1852</strong>. Funcionaba con una lámpara de aceite con mecanismo de relojería, y se electrificó en <strong>1946</strong>; la linterna actual es de <strong>1930</strong>. Su luz llega a unas <strong>41 millas</strong> en días claros, la mayor de la costa asturiana, y es uno de los pocos faros de España que todavía tiene farero.</p>
 <p>El edificio acoge un centro de interpretación con salas dedicadas a la historia de los faros, la relación con el mar y la biodiversidad marina. Todo el cabo es <strong>Paisaje Protegido</strong> y forma parte de la Red Natura 2000.</p>
+
+<div class="guide__head"><span class="eyebrow">Playas</span><h2>Playas y calas cerca del Cabo Peñas</h2></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Verdicio:</strong> a unos 5 km al oeste del faro. Unos 330 m de arena con dunas, conocida por el surf. Tiene dos accesos señalizados desde la carretera AS-328 (entre el cabo y Avilés), aparcamiento pequeño y socorristas en verano. Con marea alta las olas rompen fuerte: báñate con cuidado.</li><li><strong>La Carniciega (o Barquera):</strong> justo al lado de Verdicio, unos 350 m de arena dorada y dunas. Con marea baja se une a Verdicio y a la Aguilera.</li><li><strong>La Aguilera:</strong> una cala de unos 400 m de arena y rocas, con el islote de Bermeo enfrente. Solo se llega a pie: por un sendero desde los prados de arriba del acantilado (allí se deja el coche) o desde Verdicio con marea baja. La suelen frecuentar naturistas.</li><li><strong>Xagó:</strong> la gran playa de dunas protegidas del concejo de Gozón, al oeste de Verdicio.</li><li><strong>Bañugues:</strong> al este del cabo, una ensenada de arena dentro del Paisaje Protegido, cómoda para ir en familia.</li><li><strong>Calas de piedra:</strong> alrededor del cabo hay pedreros y calas como Les Huelgues, Carranques o El Tranqueru, más para mirar que para bañarse.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> desde Avilés o Gijón hasta Gozón y sigue las indicaciones a Cabo Peñas (el último tramo es de carretera local).</p><p><strong>Sin coche:</strong> hay autobuses a Luanco desde Gijón; el último tramo se hace en coche o a pie. <strong>Confirma horarios</strong>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cabo+de+Peñas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

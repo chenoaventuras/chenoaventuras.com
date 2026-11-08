@@ -1,7 +1,7 @@
 ---
 title: 'Mágicas Navidades Torrejón 2026: fechas, precios y Papá Noel volador'
 seoTitle: 'Mágicas Navidades Torrejón 2026: precios, fechas y horarios'
-seoDescription: 'Navidad en Torrejón de Ardoz 2026: abre el 14 de noviembre. Entrada de 5 a 10 €, días de la Familia, Papá Noel volando cada noche, calendario y cómo llegar.'
+seoDescription: 'Navidad en Torrejón de Ardoz 2026: abre el 14 de noviembre. Entrada de 5 a 10 €, días de la Familia, horarios, calendario, cómo llegar y guía PDF gratis.'
 eventoInfo:
   nombre: 'Mágicas Navidades de Torrejón de Ardoz 2026'
   inicio: '2026-11-14T16:00:00+01:00'
