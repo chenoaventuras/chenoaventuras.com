@@ -1,6 +1,6 @@
 ---
 title: 'Templo de Debod: un templo egipcio de verdad en Madrid'
-seoTitle: 'Templo de Debod: horario, entrada gratis y reserva'
+seoTitle: 'Templo de Debod: horario 2026, entrada gratis y atardecer'
 seoDescription: 'Templo de Debod (Madrid): horario del interior 2026, entrada gratuita y cómo reservar, cuándo ver el atardecer y por qué hay un templo egipcio en Madrid.'
 date: 2026-10-10T10:10:00.000Z
 lugar: 'Templo de Debod'

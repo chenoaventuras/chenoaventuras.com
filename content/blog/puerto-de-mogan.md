@@ -1,6 +1,6 @@
 ---
 title: 'Puerto de Mogán: la «pequeña Venecia» de Gran Canaria, qué ver y cuándo ir'
-seoTitle: 'Puerto de Mogán: qué ver en la pequeña Venecia de Canarias'
+seoTitle: 'Puerto de Mogán: qué ver, dónde aparcar y cómo llegar'
 seoDescription: 'Puerto de Mogán (Gran Canaria): canales, casas blancas con flores, playa y mercadillo de los viernes. Qué ver, dónde aparcar y cómo llegar.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Puerto de Mogán'

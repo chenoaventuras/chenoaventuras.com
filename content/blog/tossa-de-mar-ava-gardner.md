@@ -1,6 +1,6 @@
 ---
 title: 'Tossa de Mar: el pueblo que enamoró a Ava Gardner'
-seoTitle: 'Tossa de Mar: la estatua de Ava Gardner y qué ver'
+seoTitle: 'Estatua de Ava Gardner en Tossa de Mar: dónde está y qué ver'
 seoDescription: 'La estatua de Ava Gardner en Tossa de Mar, por qué está allí y dónde encontrarla en la Vila Vella. Qué ver en Tossa: murallas, faro, calas y playa.'
 date: 2026-10-10T09:00:00.000Z
 lugar: 'Tossa de Mar'

@@ -1,6 +1,6 @@
 ---
 title: 'Naranjo de Bulnes (Picu Urriellu): altura, cómo verlo y rutas a la Vega de Urriellu'
-seoTitle: 'Naranjo de Bulnes: altura, historia y cómo verlo'
+seoTitle: 'Naranjo de Bulnes (2.519 m): miradores, rutas e historia'
 seoDescription: 'El Naranjo de Bulnes mide 2.519 m. Dónde está, por qué se llama así, la primera escalada de 1904 y las mejores rutas y miradores para verlo de cerca.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Naranjo de Bulnes'

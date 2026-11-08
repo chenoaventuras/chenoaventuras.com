@@ -1,6 +1,6 @@
 ---
 title: 'Isla de los Faisanes: la isla que cambia de país cada 6 meses'
-seoTitle: 'Isla de los Faisanes: a quién pertenece y si se puede visitar'
+seoTitle: 'Isla de los Faisanes: la isla que cambia de país cada 6 meses'
 seoDescription: 'La isla de los Faisanes es de España 6 meses y de Francia otros 6. Por qué, si tiene habitantes, si se puede visitar y dónde verla en el Bidasoa.'
 date: 2026-10-10T10:00:00.000Z
 lugar: 'Isla de los Faisanes'
