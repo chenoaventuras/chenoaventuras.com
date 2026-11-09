@@ -25,7 +25,7 @@ faq:
   - q: "¿Por qué hay un museo de Picasso en Buitrago?"
     a: "Porque Picasso era amigo de Eugenio Arias, el barbero del pueblo, y esa amistad dio forma a la colección que hoy se visita gratis."
   - q: "¿Cuándo es el Belén Viviente de Buitrago?"
-    a: "En Navidad. Tiene casi 40 escenas dentro del recinto amurallado y más de 200 vecinos participando. Consulta los días y horarios de cada año."
+    a: "En Navidad. La edición de 2026 es los días 12, 13, 19 y 20 de diciembre. Tiene casi 40 escenas dentro del recinto amurallado y más de 200 vecinos participando. Se necesita entrada: consulta horarios y disponibilidad en belenvivientebuitrago.es."
 actividades:
   - t: "Free tour por Buitrago del Lozoya"
     u: "https://www.civitatis.com/es/buitrago-lozoya/free-tour-buitrago-lozoya/"
@@ -49,6 +49,7 @@ comer:
     t: "Bar"
     d: "C. de la Villa, 19"
 comerFecha: "octubre de 2026"
+updated: 2026-11-09
 ---
 A poco más de una hora de Madrid capital hay un pueblo que conserva algo que ningún otro de la comunidad puede presumir: su muralla medieval completa, casi abrazada por un río. Se llama Buitrago del Lozoya, y es de esas escapadas que no hace falta planear con meses de antelación.
 
@@ -76,7 +77,7 @@ Pasear por el pueblo, el museo y buena parte de la muralla es gratuito. Si quier
 
 ## Fiestas de Buitrago del Lozoya
 
-**⭐ Belén Viviente.** En Navidad, Buitrago monta <strong>uno de los belenes vivientes más importantes de España</strong>: casi 40 escenas a lo largo de 1,3 km dentro del recinto amurallado, con más de 200 vecinos actuando. Lo visitan más de 25.000 personas cada año.
+**⭐ Belén Viviente.** En Navidad, Buitrago monta <strong>uno de los belenes vivientes más importantes de España</strong>: casi 40 escenas a lo largo de 1,3 km dentro del recinto amurallado, con más de 200 vecinos actuando. Lo visitan más de 25.000 personas cada año. En 2026 se celebra los días **12, 13, 19 y 20 de diciembre** y hace falta entrada (en [belenvivientebuitrago.es](https://belenvivientebuitrago.es)).
 
 **🛡️ Feria Medieval.** El <strong>primer fin de semana de septiembre</strong>, desde 2001, la villa vuelve a la Edad Media: más de 100 puestos de artesanía, teatro, música y pasacalles dentro de la muralla. Es de las ferias medievales con más éxito de Madrid.
 

@@ -11,7 +11,7 @@ cover: /assets/img/blog/monasterio-de-piedra/portada.webp
 tags:
   - Spots
   - Aragón
-updated: 2026-10-31
+updated: 2026-11-09
 wide: true
 faqTitulo: "Dudas sobre el Monasterio de Piedra"
 faq:
@@ -32,7 +32,7 @@ faq:
   - q: "¿Qué es la Gruta Iris?"
     a: "Una cueva situada detrás de la cascada Cola de Caballo, a la que se baja por una escalera excavada en la roca."
   - q: "¿Se puede ir con perro?"
-    a: "Consulta la normativa en la web oficial antes de ir: en el parque hay restricciones para mascotas."
+    a: "Sí, con correa en el parque-jardín. En las dependencias del monasterio solo pueden entrar en transportín o mochila (según las normas de la web oficial, a noviembre de 2026)."
   - q: "¿A cuánto está el Monasterio de Piedra de Zaragoza?"
     a: "Está en Nuévalos, a una hora y media en coche de Zaragoza."
   - q: "¿Cuánto dura el recorrido del Monasterio de Piedra?"

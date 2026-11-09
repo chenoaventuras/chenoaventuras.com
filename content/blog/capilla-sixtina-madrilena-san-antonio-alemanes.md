@@ -49,6 +49,7 @@ comer:
     t: "Restaurante italiano"
     d: "Calle Velázquez, 39"
 comerFecha: "octubre de 2026"
+updated: 2026-11-09
 ---
 Por fuera es una iglesia más entre las calles de Malasaña. Por dentro, es de esos sitios donde te quedas mirando al techo durante varios minutos sin darte cuenta del tiempo que pasa. Así es la iglesia de San Antonio de los Alemanes, conocida como la "Capilla Sixtina madrileña".
 
@@ -72,6 +73,10 @@ Antes de ser lo que es hoy, el templo perteneció durante distintas épocas a co
 ## Qué incluye la entrada
 
 El billete de acceso a la iglesia incluye también la visita al cercano **Monasterio de San Plácido**, a pocos minutos caminando, con audioguía incluida. Es una buena forma de aprovechar el mismo desplazamiento para conocer dos espacios con mucha menos gente que otros monumentos más conocidos de Madrid.
+
+## Horario y precio de San Antonio de los Alemanes
+
+Según la web de turismo del Ayuntamiento de Madrid (esMadrid, a noviembre de 2026), la entrada cuesta **12 €** e incluye también la iglesia del Monasterio de San Plácido. San Antonio de los Alemanes abre de **martes a sábado de 10:00 a 18:00** y los **domingos de 13:00 a 16:00**; San Plácido, de martes a sábado de 10:30 a 14:00 y de 15:00 a 17:30, y los domingos de 13:00 a 16:00. La Hermandad del Refugio hace visitas guiadas de martes a sábado a las 10:30, 11:30 y 12:30, y los domingos a las 15:00 hay una visita gratuita con reserva online. Los horarios pueden cambiar: confírmalos antes de ir.
 
 ## Cuándo ir y qué tener en cuenta
 
