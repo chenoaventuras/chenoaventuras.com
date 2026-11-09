@@ -11,6 +11,9 @@ tags:
   - Pueblos
   - Canarias
 wide: true
+actividades:
+  - t: "Excursión a La Oliva, Betancuria y dunas de Corralejo"
+    u: "https://www.civitatis.com/es/corralejo/excursion-la-oliva-betancuria-corralejo/"
 faqTitulo: "Dudas sobre Betancuria"
 faq:
   - q: "¿Quién fundó Betancuria?"

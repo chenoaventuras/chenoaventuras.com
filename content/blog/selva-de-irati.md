@@ -11,6 +11,11 @@ tags:
   - Spots
   - Navarra
 wide: true
+actividades:
+  - t: "Excursión a la Selva de Irati y Ochagavía desde Pamplona"
+    u: "https://www.civitatis.com/es/pamplona/excursion-selva-irati-ochagavia/"
+  - t: "Excursión al Valle del Baztán y las cuevas de Zugarramurdi"
+    u: "https://www.civitatis.com/es/pamplona/excursion-valle-baztan/"
 faqTitulo: "Dudas sobre la Selva de Irati"
 faq:
   - q: "¿Cuándo es mejor ir a la Selva de Irati?"
@@ -60,7 +65,7 @@ Te cuento cómo llegar, qué rutas hacer y cómo evitar las colas de coches 👇
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Selva de Irati</h2></div>
-<div class="guide__howto"><p>Hay dos accesos principales: desde <strong>Ochagavía</strong> (Valle de Salazar) por la carretera NA-2012 hasta <strong>Casas de Irati</strong>, y desde <strong>Orbaizeta</strong> (Valle de Aezkoa) hasta la zona del embalse de Irabia.</p><p>En los fines de semana y puentes de octubre y noviembre, los accesos se <strong>regulan</strong> y la carretera se puede cortar cuando los aparcamientos se llenan. Consulta el calendario en la web de Turismo de Navarra antes de ir.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Casas%20de%20Irati" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Hay dos accesos principales: desde <strong>Ochagavía</strong> (Valle de Salazar) por la carretera NA-2012 hasta <strong>Casas de Irati</strong>, y desde <strong>Orbaizeta</strong> (Valle de Aezkoa) hasta la zona del embalse de Irabia.</p><p>En los fines de semana y puentes de octubre y noviembre, los accesos se <strong>regulan</strong> y la carretera se puede cortar cuando los aparcamientos se llenan. Consulta el calendario en la web de Turismo de Navarra antes de ir.</p><p><strong>Sin coche:</strong> desde Pamplona hay una <a href="https://www.civitatis.com/es/pamplona/excursion-selva-irati-ochagavia/?aid=110968" target="_blank" rel="noopener sponsored">excursión a la Selva de Irati y Ochagavía</a>, y así te olvidas de buscar aparcamiento en los días de más gente.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Casas%20de%20Irati" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Madruga en otoño</b>: los fines de semana de octubre los aparcamientos se llenan pronto.</li><li><b>Ve entre semana si puedes</b>: el bosque está mucho más tranquilo.</li><li><b>Lleva calzado impermeable</b>: con las hojas y la humedad, los caminos resbalan.</li><li><b>Duerme en Ochagavía</b>: así puedes entrar al bosque a primera hora.</li></ul></div>
 

@@ -11,6 +11,12 @@ tags:
   - Pueblos
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DWo64-nDPc5/'
+actividades:
+  - t: "Visita guiada por la catedral de Palencia"
+    u: "https://www.civitatis.com/es/palencia/visita-guiada-catedral/"
+  - t: "Free tour por Palencia"
+    u: "https://www.civitatis.com/es/palencia/free-tour-palencia/"
+actividadesTitulo: 'Actividades en Palencia'
 faq:
   - q: "¿Quién creó las galletas Fontaneda?"
     a: "El confitero burgalés Eugenio Fontaneda, que empezó a fabricarlas en Aguilar de Campoo en 1881."

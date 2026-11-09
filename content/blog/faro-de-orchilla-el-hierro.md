@@ -11,6 +11,12 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividades:
+  - t: "Avistamiento de cetáceos en La Restinga"
+    u: "https://www.civitatis.com/es/la-restinga/avistamiento-cetaceos-restinga/"
+  - t: "Free tour por Valverde"
+    u: "https://www.civitatis.com/es/valverde/free-tour-valverde/"
+actividadesTitulo: 'Actividades en El Hierro'
 faqTitulo: "Dudas sobre el Faro de Orchilla"
 faq:
   - q: "¿Por qué es famoso el Faro de Orchilla?"

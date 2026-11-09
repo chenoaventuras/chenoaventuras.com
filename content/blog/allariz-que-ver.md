@@ -12,6 +12,10 @@ tags:
   - Pueblos
   - Galicia
 wide: true
+actividades:
+  - t: "Free tour por Ourense termal"
+    u: "https://www.civitatis.com/es/orense/free-tour-orense-termal/"
+actividadesTitulo: 'Actividades en Ourense'
 faqTitulo: "Dudas sobre Allariz"
 faq:
   - q: "¿Quién fundó el convento de Santa Clara de Allariz?"

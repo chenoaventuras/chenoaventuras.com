@@ -12,6 +12,13 @@ tags:
   - Spots
   - La Rioja
 wide: true
+actividades:
+  - t: "Free tour por Logroño"
+    u: "https://www.civitatis.com/es/logrono/free-tour-logrono/"
+  - t: "Visita a las Bodegas Campo Viejo"
+    u: "https://www.civitatis.com/es/logrono/visita-bodegas-campo-viejo/"
+  - t: "Excursión a Laguardia + visita a una bodega con cata"
+    u: "https://www.civitatis.com/es/logrono/excursion-laguardia-visita-bodega-cata/"
 faqTitulo: "Dudas sobre Logroño"
 faq:
   - q: "¿Qué fue lo primero que hizo Logroño famoso?"

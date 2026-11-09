@@ -11,6 +11,11 @@ coverPosition: center 50%
 tags:
   - Spots
   - Castilla-La Mancha
+actividades:
+  - t: "Excursión a la Ciudad Encantada y el nacimiento del río Cuervo"
+    u: "https://www.civitatis.com/es/cuenca/tour-ciudad-encantada-rio-cuervo/"
+  - t: "Excursión al río Cuervo y los Callejones de las Majadas"
+    u: "https://www.civitatis.com/es/cuenca/excursion-rio-cuervo-callejones-majadas/"
 guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
 guiaTitulo: 'Guía de Cuenca en PDF'
 wide: true
@@ -71,7 +76,7 @@ Está en **Vega del Codorno**, en lo más alto de la Serranía, y se visita con 
 <p>En <strong>primavera</strong>, con el deshielo, es cuando más agua lleva y cuando el musgo está más verde. En <strong>invierno</strong>, si las temperaturas bajan mucho, las cascadas pueden quedarse heladas: un espectáculo, pero ojo con la carretera. En verano y otoño suele llevar menos agua, aunque sigue siendo precioso y hace muy buena temperatura por la altitud.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Nacimiento del río Cuervo</h2></div>
-<div class="guide__howto"><p>Desde Cuenca, ve hacia Villalba de la Sierra y sigue por la carretera de la Serranía pasando por <strong>Tragacete</strong> hasta enlazar con la <strong>CM-2106</strong>. El Monumento Natural queda a unos 5,5 km de Vega del Codorno. En total, unos <strong>85 km</strong>.</p><p>Hay <strong>aparcamiento gratuito</strong> al inicio del sendero y un centro de interpretación.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Nacimiento+del+r%C3%ADo+Cuervo%2C+Vega+del+Codorno" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Desde Cuenca, ve hacia Villalba de la Sierra y sigue por la carretera de la Serranía pasando por <strong>Tragacete</strong> hasta enlazar con la <strong>CM-2106</strong>. El Monumento Natural queda a unos 5,5 km de Vega del Codorno. En total, unos <strong>85 km</strong>.</p><p>Hay <strong>aparcamiento gratuito</strong> al inicio del sendero y un centro de interpretación.</p><p><strong>Sin coche:</strong> desde Cuenca hay una <a href="https://www.civitatis.com/es/cuenca/tour-ciudad-encantada-rio-cuervo/?aid=110968" target="_blank" rel="noopener sponsored">excursión a la Ciudad Encantada y el nacimiento del río Cuervo</a>, que te ahorra los 85 km de curvas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Nacimiento+del+r%C3%ADo+Cuervo%2C+Vega+del+Codorno" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Haz la ruta circular</b> — son 1,5 km fáciles: cascadas, nacimiento y vuelta por el bosque.</li><li><b>Accesible</b> — los primeros 300 m son una pasarela adaptada, apta para sillas de ruedas y carritos.</li><li><b>Abrígate</b> — a casi 1.500 m de altitud refresca incluso en verano.</li><li><b>No te bañes</b> — el baño está prohibido para proteger el manantial.</li></ul><p>Si vienes desde Cuenca, aprovecha el viaje: de camino tienes el Ventano del Diablo, la Ciudad Encantada y Uña 😉</p></div>
 

@@ -10,6 +10,13 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+actividades:
+  - t: "Tour de Cuenca al completo con entradas"
+    u: "https://www.civitatis.com/es/cuenca/visita-guiada-cuenca-completa/"
+  - t: "Excursión a la Ciudad Encantada"
+    u: "https://www.civitatis.com/es/cuenca/excursion-ciudad-encantada/"
+  - t: "Excursión al río Cuervo y los Callejones de las Majadas"
+    u: "https://www.civitatis.com/es/cuenca/excursion-rio-cuervo-callejones-majadas/"
 guia: /assets/guias/guia-cuenca-provincia-chenoaventuras.pdf
 guiaTitulo: 'Guía Cuenca completa en PDF'
 faqTitulo: "Dudas sobre la guía"

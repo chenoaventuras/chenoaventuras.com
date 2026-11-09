@@ -12,6 +12,10 @@ tags:
   - Pueblos
   - Islas Baleares
 wide: true
+actividades:
+  - t: "Free tour por Mahón"
+    u: "https://www.civitatis.com/es/mahon/free-tour-mahon/"
+actividadesTitulo: 'Actividades en Mahón'
 faqTitulo: "Dudas sobre Binibeca Vell"
 faq:
   - q: "¿Binibeca Vell es un pueblo de pescadores real?"

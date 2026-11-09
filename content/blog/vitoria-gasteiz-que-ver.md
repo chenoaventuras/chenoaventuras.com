@@ -12,6 +12,13 @@ tags:
   - Spots
   - País Vasco
 wide: true
+actividades:
+  - t: "Free tour por Vitoria"
+    u: "https://www.civitatis.com/es/vitoria/free-tour-vitoria/"
+  - t: "Visita guiada por la Catedral Nueva de Vitoria"
+    u: "https://www.civitatis.com/es/vitoria/visita-guiada-catedral-vitoria/"
+  - t: "Tour por Vitoria con degustación de pinchos"
+    u: "https://www.civitatis.com/es/vitoria/tour-pinchos-vitoria/"
 faqTitulo: "Dudas sobre Vitoria-Gasteiz"
 faq:
   - q: "¿Quién fundó Vitoria?"

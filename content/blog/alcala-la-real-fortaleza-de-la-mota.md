@@ -12,6 +12,12 @@ tags:
   - Spots
   - Andalucía
 wide: true
+actividades:
+  - t: "Visita guiada por el castillo de Santa Catalina"
+    u: "https://www.civitatis.com/es/jaen/visita-guiada-castillo-santa-catalina/"
+  - t: "Visita guiada por la Catedral de Jaén"
+    u: "https://www.civitatis.com/es/jaen/visita-guiada-catedral-jaen/"
+actividadesTitulo: 'Actividades en Jaén'
 faqTitulo: "Dudas sobre la Mota"
 faq:
   - q: "¿Qué ver en la Fortaleza de la Mota?"

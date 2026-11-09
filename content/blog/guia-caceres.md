@@ -11,6 +11,13 @@ tags:
   - Spots
   - Extremadura
 wide: true
+actividades:
+  - t: "Visita guiada por Cáceres"
+    u: "https://www.civitatis.com/es/caceres/visita-guiada-caceres/"
+  - t: "Tour de los misterios y leyendas de Cáceres"
+    u: "https://www.civitatis.com/es/caceres/tour-misterios-leyendas-caceres/"
+  - t: "Tour histórico por Monfragüe"
+    u: "https://www.civitatis.com/es/torrejon-el-rubio/tour-historico-monfrague/"
 guia: /assets/guias/guia-caceres-chenoaventuras.pdf
 guiaTitulo: 'Guía Cáceres completa en PDF'
 faqTitulo: "Dudas sobre la guía"

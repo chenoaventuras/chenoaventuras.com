@@ -34,6 +34,8 @@ actividadesTitulo: 'Otras actividades en Madrid'
 actividades:
   - t: "Tour navideño por Madrid: Plaza Mayor, Cortylandia y luces"
     u: "https://www.civitatis.com/es/madrid/tour-navidad-madrid/"
+  - t: "Tour en el Navibús: las luces de Navidad de Madrid en autobús"
+    u: "https://www.civitatis.com/es/madrid/tour-navibus-madrid/"
   - t: "Tour privado de las luces de Navidad de Madrid en Eco Tuk-Tuk"
     u: "https://www.getyourguide.es/madrid-l46/madrid-tour-privado-del-alumbrado-navideno-en-eco-tuk-tuk-t432703/"
 faqTitulo: "Dudas sobre las Mágicas Navidades"

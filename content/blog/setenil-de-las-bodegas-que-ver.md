@@ -12,6 +12,11 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividades:
+  - t: "Visita guiada por Setenil de las Bodegas"
+    u: "https://www.civitatis.com/es/setenil-bodegas/visita-guiada-setenil-bodegas/"
+  - t: "Free tour por Setenil de las Bodegas"
+    u: "https://www.civitatis.com/es/setenil-bodegas/free-tour-setenil-bodegas/"
 faq:
   - q: "¿Cuándo se conquistó Setenil?"
     a: "El 21 de septiembre de 1484, por los Reyes Católicos."
@@ -79,7 +84,7 @@ Te cuento qué ver, el origen de su curioso nombre y cómo llegar 👇
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/ronda-que-ver.html">Ronda</a>:</strong> Puente Nuevo y el Tajo (a unos 30 minutos en coche).</li><li><strong><a href="/blog/grazalema.html">Grazalema</a>:</strong> el pinsapar y las mantas (a menos de una hora en coche).</li><li><strong><a href="/blog/juzcar-pueblo-pitufo.html">Júzcar</a>:</strong> el pueblo azul (a menos de una hora en coche).</li><li><strong><a href="/blog/caminito-del-rey.html">Caminito del Rey</a>:</strong> el camino sobre el desfiladero (a poco más de una hora en coche).</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Setenil</h2></div>
-<div class="guide__howto"><p>Lo más práctico es ir en <strong>coche</strong>: está a unos 20 minutos de Ronda y a algo más de una hora y media de Málaga o Sevilla.</p><p>Dentro del pueblo las calles son estrechas y aparcar es complicado. Lo mejor es dejar el coche en los <strong>aparcamientos de la entrada</strong> del pueblo y entrar andando.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Setenil+de+las+Bodegas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Lo más práctico es ir en <strong>coche</strong>: está a unos 20 minutos de Ronda y a algo más de una hora y media de Málaga o Sevilla.</p><p>Dentro del pueblo las calles son estrechas y aparcar es complicado. Lo mejor es dejar el coche en los <strong>aparcamientos de la entrada</strong> del pueblo y entrar andando.</p><p><strong>Con guía:</strong> para conocer la historia de las casas bajo la roca, hay una <a href="https://www.civitatis.com/es/setenil-bodegas/visita-guiada-setenil-bodegas/?aid=110968" target="_blank" rel="noopener sponsored">visita guiada por Setenil de las Bodegas</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Setenil+de+las+Bodegas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve entre semana</b>: los fines de semana y puentes se llena de visitantes.</li><li><b>Prueba los productos locales</b>: chacinas, quesos de la sierra y aceite: los bares bajo la roca son el sitio perfecto.</li><li><b>Combínalo con Ronda</b>: están a 20 minutos y juntos hacen un día redondo.</li><li><b>Aparca fuera</b>: entrar con el coche por las calles estrechas es una aventura que no merece la pena.</li></ul></div>
 

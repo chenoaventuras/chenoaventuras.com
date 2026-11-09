@@ -11,6 +11,11 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividades:
+  - t: "Excursión a Formentera desde San Antonio (Ibiza)"
+    u: "https://www.civitatis.com/es/san-antonio-abad/excursion-formentera/"
+  - t: "Barco por las calas de Formentera"
+    u: "https://www.civitatis.com/es/formentera/barco-calas-formentera/"
 faqTitulo: "Dudas sobre el Faro de la Mola"
 faq:
   - q: "¿Cómo se llega al Faro de la Mola?"

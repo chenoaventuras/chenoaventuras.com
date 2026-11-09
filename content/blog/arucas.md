@@ -11,6 +11,13 @@ tags:
   - Pueblos
   - Canarias
 wide: true
+actividades:
+  - t: "Free tour por Arucas"
+    u: "https://www.civitatis.com/es/arucas/free-tour-arucas/"
+  - t: "Visita a la destilería Arehucas"
+    u: "https://www.civitatis.com/es/arucas/visita-destileria-arehucas/"
+  - t: "Visita guiada por el Mundo del Plátano"
+    u: "https://www.civitatis.com/es/arucas/visita-guiada-museo-platano/"
 faqTitulo: "Dudas sobre Arucas"
 faq:
   - q: "¿Qué ver en Arucas?"

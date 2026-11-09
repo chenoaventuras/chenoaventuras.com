@@ -12,6 +12,13 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividades:
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
+  - t: "Visita guiada por la catedral de Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/visita-guiada-catedral-oviedo/"
+  - t: "Excursión a Covadonga desde Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/excursion-covadonga/"
 faqTitulo: "Dudas sobre Oviedo"
 faq:
   - q: "¿Qué ver en Oviedo en un día?"

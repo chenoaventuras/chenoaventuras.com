@@ -11,6 +11,9 @@ tags:
   - Spots
   - Andalucía
 wide: true
+actividades:
+  - t: "Desde Sevilla: Aracena y Minas de Riotinto en un día"
+    u: "https://www.getyourguide.es/sevilla-l48/desde-sevilla-tour-de-un-dia-de-aracena-y-minas-de-riotinto-t82914/"
 faqTitulo: "Dudas sobre el Río Tinto"
 faq:
   - q: "¿Por qué el Río Tinto es rojo?"

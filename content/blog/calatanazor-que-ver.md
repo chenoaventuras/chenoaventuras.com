@@ -13,6 +13,12 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividades:
+  - t: "Tour de Soria al completo con entradas"
+    u: "https://www.civitatis.com/es/soria/tour-soria-completo/"
+  - t: "Free tour por Soria"
+    u: "https://www.civitatis.com/es/soria/free-tour-soria/"
+actividadesTitulo: 'Actividades en Soria'
 faqTitulo: "Dudas sobre Calatañazor"
 faq:
   - q: "¿Existió de verdad la batalla de Calatañazor?"

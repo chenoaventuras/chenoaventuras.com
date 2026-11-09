@@ -13,6 +13,12 @@ tags:
   - Actividades
   - Castilla y León
 wide: true
+actividades:
+  - t: "Free tour por Valladolid"
+    u: "https://www.civitatis.com/es/valladolid/free-tour-valladolid/"
+  - t: "Paseo en el barco La Leyenda del Pisuerga"
+    u: "https://www.civitatis.com/es/valladolid/paso-barco-leyenda-pisuerga/"
+actividadesTitulo: 'Actividades en Valladolid'
 faqTitulo: "Dudas sobre el Parque Mudéjar"
 faq:
   - q: "¿Qué es el Parque Mudéjar de Olmedo?"

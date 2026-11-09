@@ -13,6 +13,13 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividades:
+  - t: "Visita guiada por Aracena y su castillo"
+    u: "https://www.civitatis.com/es/aracena/visita-guiada-aracena-castillo/"
+  - t: "Ruta del jamón ibérico por la Sierra de Aracena"
+    u: "https://www.civitatis.com/es/aracena/ruta-jamon-iberico/"
+  - t: "Desde Sevilla: Aracena y Minas de Riotinto en un día"
+    u: "https://www.getyourguide.es/sevilla-l48/desde-sevilla-tour-de-un-dia-de-aracena-y-minas-de-riotinto-t82914/"
 faqTitulo: "Dudas sobre Aracena"
 faq:
   - q: "¿Qué ver en Aracena?"
@@ -62,7 +69,7 @@ Te cuento qué ver, qué comprar y cómo organizarlo 👇
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Museo del Jamón:</strong> un centro de interpretación del cerdo ibérico.</li><li><strong>Alájar y Peña de Arias Montano:</strong> a poca distancia, con vistas de la sierra y ermitas.</li><li><strong>Fuenteheridos y Jabugo:</strong> pueblos de la sierra con jamón y castaños.</li><li><strong>Más Huelva:</strong> <a href="/blog/gruta-de-las-maravillas-aracena.html">la Gruta de las Maravillas</a>, <a href="/blog/rio-tinto.html">Riotinto</a> y <a href="/blog/el-rocio-donana.html">Doñana y El Rocío</a>.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p><strong>En coche:</strong> desde Sevilla, algo más de una hora por la N-433; desde Huelva, por la N-435 y la N-433.</p><p><strong>Consejo:</strong> llega temprano y reserva el turno de la gruta antes de nada.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Aracena" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En coche:</strong> desde Sevilla, algo más de una hora por la N-433; desde Huelva, por la N-435 y la N-433.</p><p><strong>Consejo:</strong> llega temprano y reserva el turno de la gruta antes de nada.</p><p><strong>Con guía:</strong> en el pueblo hay una <a href="https://www.civitatis.com/es/aracena/visita-guiada-aracena-castillo/?aid=110968" target="_blank" rel="noopener sponsored">visita guiada por Aracena y su castillo</a> y una <a href="https://www.civitatis.com/es/aracena/ruta-jamon-iberico/?aid=110968" target="_blank" rel="noopener sponsored">ruta del jamón ibérico por la sierra</a>. Y sin coche, desde Sevilla sale un <a href="https://www.getyourguide.es/sevilla-l48/desde-sevilla-tour-de-un-dia-de-aracena-y-minas-de-riotinto-t82914/?partner_id=PEUGCO9&utm_medium=online_publisher" target="_blank" rel="noopener sponsored">tour de un día a Aracena y las Minas de Riotinto</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Aracena" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Aracena en un día</h2><ul><li><b>Mañana</b>: Gruta de las Maravillas, con el turno reservado.</li><li><b>Mediodía</b>: Comida con jamón, secreto o plumas ibéricas.</li><li><b>Tarde</b>: Castillo, iglesia y plaza del Marqués.</li><li><b>Atardecer</b>: Paseo por el casco antiguo.</li><li><b>Si tienes más días</b>: Alájar, Jabugo y Fuenteheridos.</li></ul></div>
 

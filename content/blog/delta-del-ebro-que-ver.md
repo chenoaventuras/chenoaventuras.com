@@ -12,6 +12,11 @@ tags:
   - Spots
   - Cataluña
 wide: true
+actividades:
+  - t: "Tour en 4x4 y paseo en barco por el Delta del Ebro + degustación"
+    u: "https://www.civitatis.com/es/deltebre/tour-4x4-barco-delta-ebro/"
+  - t: "Avistamiento de flamencos en el Delta del Ebro al atardecer"
+    u: "https://www.civitatis.com/es/poblenou-del-delta/avistamiento-flamencos-delta-ebro-atardecer/"
 faqTitulo: "Dudas sobre el Delta del Ebro"
 faq:
   - q: "¿Cuándo es parque natural el Delta del Ebro?"
@@ -67,7 +72,7 @@ Te cuento qué ver, cuándo ir y cómo moverte por el delta 👇
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>El Garxal:</strong> una laguna reciente de unas 280 hectáreas, con mirador adaptado.</li><li><strong>Mirador Zigurat:</strong> una plataforma de madera con vistas a la desembocadura.</li><li><strong>Sant Carles de la Ràpita:</strong> con el mirador de Guardiola y vistas panorámicas del delta.</li><li><strong>Bassa de les Olles:</strong> una laguna pequeña cerca de l'Ampolla, con varios miradores.</li><li><strong>Cerca:</strong> <a href="/blog/miravet.html">Miravet</a> y <a href="/blog/tarragona-que-ver.html">Tarragona</a>.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p><strong>En coche:</strong> el delta queda a una hora y media aproximadamente de Tarragona y a unas dos horas de Valencia. Deltebre es un buen punto de partida.</p><p><strong>Consejo:</strong> alquila una bicicleta en Deltebre o Riumar para recorrer los diques.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Deltebre" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En coche:</strong> el delta queda a una hora y media aproximadamente de Tarragona y a unas dos horas de Valencia. Deltebre es un buen punto de partida.</p><p><strong>Consejo:</strong> alquila una bicicleta en Deltebre o Riumar para recorrer los diques.</p><p><strong>Con excursión:</strong> hay un <a href="https://www.civitatis.com/es/deltebre/tour-4x4-barco-delta-ebro/?aid=110968" target="_blank" rel="noopener sponsored">tour en 4x4 y barco por el Delta con degustación de mejillones</a> y <a href="https://www.civitatis.com/es/poblenou-del-delta/avistamiento-flamencos-delta-ebro-atardecer/?aid=110968" target="_blank" rel="noopener sponsored">avistamiento de flamencos al atardecer</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Deltebre" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Delta del Ebro en un día</h2><ul><li><b>Mañana</b>: Deltebre, el mirador Zigurat y un paseo por los arrozales.</li><li><b>Mediodía</b>: Arroz del delta con pescado o marisco.</li><li><b>Tarde</b>: El Garxal, Riumar y la playa.</li><li><b>Atardecer</b>: Observación de flamencos.</li><li><b>Si tienes más días</b>: Punta de la Banya (según el acceso), Sant Carles de la Ràpita y la Vía Verde.</li></ul></div>
 

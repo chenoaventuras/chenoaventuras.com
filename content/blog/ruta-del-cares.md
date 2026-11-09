@@ -11,6 +11,9 @@ tags:
   - Actividades
   - Asturias
 wide: true
+actividades:
+  - t: "Excursión a los Picos de Europa + Cueva del Queso de Cabrales"
+    u: "https://www.civitatis.com/es/cangas-onis/picos-europa-cueva-queso-cabrales/"
 faqTitulo: "Dudas sobre la Ruta del Cares"
 faq:
   - q: "¿Cuántos kilómetros tiene la Ruta del Cares?"
@@ -76,7 +79,7 @@ Te cuento cómo hacerla sin morir en el intento (y cómo volver, que es la gran 
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> de mayo a octubre; con lluvia o nieve el camino puede ser peligroso.</li><li><strong>Qué llevar:</strong> calzado cómodo, agua, comida y chubasquero; la ruta es larga.</li><li><strong>Ojo:</strong> hay tramos junto a un precipicio: no hagas fotos andando y vigila a los niños.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Ruta del Cares</h2></div>
-<div class="guide__howto"><p>La mayoría empieza en <strong>Poncebos</strong>, a unos 30 minutos de Arenas de Cabrales. El primer tramo desde allí es el más duro: unos 2 km de subida fuerte.</p><p>Como es una ruta lineal, piensa antes cómo volver: hacer <strong>ida y vuelta</strong> (24 km), o solo ida y volver en <strong>taxi o transfer</strong>. Por carretera, Caín y Poncebos están a más de 2 horas.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Poncebos%2C%20Asturias" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>La mayoría empieza en <strong>Poncebos</strong>, a unos 30 minutos de Arenas de Cabrales. El primer tramo desde allí es el más duro: unos 2 km de subida fuerte.</p><p>Como es una ruta lineal, piensa antes cómo volver: hacer <strong>ida y vuelta</strong> (24 km), o solo ida y volver en <strong>taxi o transfer</strong>. Por carretera, Caín y Poncebos están a más de 2 horas.</p><p><strong>Para completar el día:</strong> hay una <a href="https://www.civitatis.com/es/cangas-onis/picos-europa-cueva-queso-cabrales/?aid=110968" target="_blank" rel="noopener sponsored">excursión por los Picos de Europa con visita a una cueva de queso de Cabrales</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Poncebos%2C%20Asturias" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Empieza temprano</b>: en verano hace calor y a media mañana hay mucha gente.</li><li><b>Lleva agua y comida</b>: no hay fuentes fiables en el camino.</li><li><b>No te acerques al borde</b>: en muchos tramos no hay barandilla.</li><li><b>Si no quieres hacerla entera</b>: desde Poncebos, el tramo hasta los Collados ya merece la pena.</li></ul></div>
 

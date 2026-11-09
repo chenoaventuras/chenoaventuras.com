@@ -12,6 +12,11 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividades:
+  - t: "Observación de estrellas en el Roque de los Muchachos"
+    u: "https://www.civitatis.com/es/fuencaliente-de-la-palma/observacion-estrellas-roque-muchachos/"
+  - t: "Senderismo por el Roque de los Muchachos"
+    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/senderismo-roque-muchachos/"
 faqTitulo: "Dudas sobre el Roque de los Muchachos"
 faq:
   - q: "¿A qué altura está el Roque de los Muchachos?"
@@ -69,7 +74,7 @@ Te cuento cómo subir, qué ver arriba, cómo visitar los telescopios y por qué
 <p>Gracias a la Ley del Cielo, La Palma tiene uno de los cielos más oscuros del planeta y es <strong>Reserva Starlight</strong>. Por la noche, la zona del observatorio tiene restricciones para no interferir con los telescopios, así que la mejor forma de disfrutar del cielo es con una <strong>observación guiada</strong> con telescopio, que organizan empresas de la isla, o en los <strong>miradores astronómicos</strong> repartidos por La Palma. Elige noches sin luna y lleva mucho abrigo.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Roque de los Muchachos</h2></div>
-<div class="guide__howto"><p><strong>Desde Santa Cruz de La Palma:</strong> por la carretera <strong>LP-4</strong>, alrededor de 1 h 20 por una carretera de montaña con muchas curvas.</p><p><strong>Desde el norte:</strong> también se sube desde Garafía.</p><p><strong>Antes de ir:</strong> consulta el estado de la carretera, que puede cerrarse por nieve o hielo, y llena el depósito. No hay bares arriba.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Roque%20de%20los%20Muchachos%2C%20La%20Palma" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>Desde Santa Cruz de La Palma:</strong> por la carretera <strong>LP-4</strong>, alrededor de 1 h 20 por una carretera de montaña con muchas curvas.</p><p><strong>Desde el norte:</strong> también se sube desde Garafía.</p><p><strong>Antes de ir:</strong> consulta el estado de la carretera, que puede cerrarse por nieve o hielo, y llena el depósito. No hay bares arriba.</p><p><strong>Para ver las estrellas:</strong> si no quieres bajar la montaña de noche conduciendo, hay <a href="https://www.civitatis.com/es/fuencaliente-de-la-palma/observacion-estrellas-roque-muchachos/?aid=110968" target="_blank" rel="noopener sponsored">observación de estrellas organizada en el Roque de los Muchachos</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Roque%20de%20los%20Muchachos%2C%20La%20Palma" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <p>Combínalo con una ruta por la <a href="/blog/caldera-de-taburiente.html">Caldera de Taburiente</a>, el paisaje volcánico del <a href="/blog/volcan-tajogaite-la-palma.html">volcán Tajogaite</a> y más planes en <a href="/blog/que-hacer-en-la-palma.html">qué hacer en La Palma</a>.</p>
 

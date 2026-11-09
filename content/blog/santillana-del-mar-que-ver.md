@@ -11,6 +11,11 @@ tags:
   - Pueblos
   - Cantabria
 wide: true
+actividades:
+  - t: "Free tour por Santillana del Mar"
+    u: "https://www.civitatis.com/es/santillana-del-mar/free-tour-santillana-del-mar/"
+  - t: "Visita guiada a Altamira"
+    u: "https://www.civitatis.com/es/santillana-del-mar/visita-guiada-altamira/"
 faq:
   - q: "¿Por qué Santillana del Mar es la villa de las tres mentiras?"
     a: "Porque, según el dicho, ni es santa, ni es llana, ni tiene mar. El nombre viene de santa Juliana, el pueblo está en cuesta y queda tierra adentro."

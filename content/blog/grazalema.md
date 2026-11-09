@@ -12,6 +12,11 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividades:
+  - t: "Paseo a caballo por la Sierra de Grazalema"
+    u: "https://www.civitatis.com/es/grazalema/paseo-caballo-sierra-grazalema/"
+  - t: "Observación de estrellas en la Sierra de Grazalema"
+    u: "https://www.civitatis.com/es/grazalema/observacion-estrellas-sierra-grazalema/"
 faq:
   - q: "¿Cuándo es parque natural Grazalema?"
     a: "Desde 1984, el primero de Andalucía."
@@ -87,7 +92,7 @@ Te cuento por qué llueve tanto, el bosque «de la época del hielo» que escond
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/ronda-que-ver.html">Ronda</a>:</strong> el Puente Nuevo sobre el Tajo (a unos 30 minutos en coche).</li><li><strong><a href="/blog/setenil-de-las-bodegas-que-ver.html">Setenil de las Bodegas</a>:</strong> casas bajo la roca (a menos de una hora en coche).</li><li><strong><a href="/blog/juzcar-pueblo-pitufo.html">Júzcar</a>:</strong> el pueblo azul (a menos de una hora en coche).</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Grazalema</h2></div>
-<div class="guide__howto"><p>Desde <strong>Ronda</strong>, unos 30 minutos por la A-372. Desde Sevilla o Jerez, alrededor de 1 hora y media.</p><p>La subida por el puerto del Boyar desde Zahara es espectacular.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Grazalema%2C%20C%C3%A1diz" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Desde <strong>Ronda</strong>, unos 30 minutos por la A-372. Desde Sevilla o Jerez, alrededor de 1 hora y media.</p><p>La subida por el puerto del Boyar desde Zahara es espectacular.</p><p><strong>Planes en la sierra:</strong> puedes hacer un <a href="https://www.civitatis.com/es/grazalema/paseo-caballo-sierra-grazalema/?aid=110968" target="_blank" rel="noopener sponsored">paseo a caballo por la Sierra de Grazalema</a> o una <a href="https://www.civitatis.com/es/grazalema/observacion-estrellas-sierra-grazalema/?aid=110968" target="_blank" rel="noopener sponsored">observación de estrellas</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Grazalema%2C%20C%C3%A1diz" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Lleva chubasquero</b>: aunque estés en Cádiz.</li><li><b>Pide el permiso</b>: para el Pinsapar y la Garganta Verde, que tienen cupo.</li><li><b>Pueblos blancos</b>: combina con Zahara de la Sierra y Setenil.</li></ul></div>
 

@@ -12,6 +12,13 @@ tags:
   - Spots
   - Andalucía
 wide: true
+actividades:
+  - t: "Free tour por Cádiz"
+    u: "https://www.civitatis.com/es/cadiz/free-tour-cadiz/"
+  - t: "Visita guiada por la Catedral y la Torre Tavira"
+    u: "https://www.civitatis.com/es/cadiz/visita-catedral-torre-tavira/"
+  - t: "Paseo en catamarán por la bahía de Cádiz"
+    u: "https://www.civitatis.com/es/cadiz/paseo-catamaran-bahia-cadiz/"
 faqTitulo: "Dudas sobre Cádiz"
 faq:
   - q: "¿Qué ver en Cádiz en un día?"

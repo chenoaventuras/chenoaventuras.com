@@ -12,6 +12,9 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividades:
+  - t: "Free tour por Mahón"
+    u: "https://www.civitatis.com/es/mahon/free-tour-mahon/"
 faqTitulo: "Dudas sobre Mahón"
 faq:
   - q: "¿Qué ver en Mahón en un día?"

@@ -12,6 +12,11 @@ tags:
   - Pueblos
   - Galicia
 wide: true
+actividades:
+  - t: "Visita a las bodegas Martín Códax"
+    u: "https://www.civitatis.com/es/cambados/visita-bodegas-martin-codax/"
+  - t: "Paseo en barco por la ría + mejillones desde La Toja"
+    u: "https://www.civitatis.com/es/isla-de-la-toja/paseo-barco-ria-degustacion-mejillones/"
 faqTitulo: "Dudas sobre Cambados"
 faq:
   - q: "¿Qué ver en Cambados?"

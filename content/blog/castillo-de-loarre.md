@@ -11,6 +11,12 @@ tags:
   - Spots
   - Aragón
 wide: true
+actividades:
+  - t: "Visita guiada por Huesca"
+    u: "https://www.civitatis.com/es/huesca/visita-guiada-huesca/"
+  - t: "Free tour por Huesca"
+    u: "https://www.civitatis.com/es/huesca/free-tour-huesca/"
+actividadesTitulo: 'Actividades en Huesca'
 faqTitulo: "Dudas sobre Loarre"
 faq:
   - q: "¿Cuánto cuesta entrar al castillo de Loarre?"

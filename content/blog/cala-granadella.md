@@ -12,6 +12,11 @@ tags:
   - Spots
   - Comunidad Valenciana
 wide: true
+actividades:
+  - t: "Tour en kayak por Cala Granadella"
+    u: "https://www.civitatis.com/es/javea/tour-kayak-cala-granadella/"
+  - t: "Tour en kayak por el Cabo San Antonio y Cala Tangó"
+    u: "https://www.civitatis.com/es/javea/tour-kayak-snorkel-javea/"
 faqTitulo: "Dudas sobre Cala Granadella"
 faq:
   - q: "¿Dónde está la Cala Granadella?"
@@ -52,7 +57,7 @@ Te cuento cómo llegar (ojo con las restricciones de verano) y cómo aprovecharl
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p>Desde <strong>Xàbia</strong>, se toma la carretera hacia el <strong>Cabo de la Nao</strong> y se sigue la carretera de la Granadella hasta la cala, con muchas curvas. Usa GPS.</p><p>En verano el acceso en coche está regulado con barrera y aparcamiento de pago (en 2026, 9 € por vehículo y día, de 9:00 a 19:00), y hay un tren turístico desde La Guardia. <strong>Confirma las normas del año en curso</strong> y valora llegar a pie o en el transporte habilitado.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cala+Granadella+Xàbia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Desde <strong>Xàbia</strong>, se toma la carretera hacia el <strong>Cabo de la Nao</strong> y se sigue la carretera de la Granadella hasta la cala, con muchas curvas. Usa GPS.</p><p>En verano el acceso en coche está regulado con barrera y aparcamiento de pago (en 2026, 9 € por vehículo y día, de 9:00 a 19:00), y hay un tren turístico desde La Guardia. <strong>Confirma las normas del año en curso</strong> y valora llegar a pie o en el transporte habilitado.</p><p><strong>Desde el agua:</strong> la mejor forma de ver la cala y sus cuevas es un <a href="https://www.civitatis.com/es/javea/tour-kayak-cala-granadella/?aid=110968" target="_blank" rel="noopener sponsored">tour en kayak por la Granadella</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cala+Granadella+Xàbia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Llega antes de las 10</b>: antes de que el acceso en coche se restrinja y se llene el aparcamiento.</li><li><b>Lleva calzado de agua</b>: los cantos rodados pinchan.</li><li><b>Sin sombra</b>: no hay mucha: lleva sombrilla, agua y protector.</li><li><b>Alternativas cercanas</b>: si está llena, prueba <strong>Cala Portitxol</strong> o <strong>Cala Blanca</strong>, también en Xàbia.</li><li><b>Cuida el entorno</b>: no dejes basura ni toques los fondos marinos.</li></ul></div>
 

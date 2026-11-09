@@ -12,6 +12,13 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividades:
+  - t: "Úbeda y Baeza al completo con entradas"
+    u: "https://www.civitatis.com/es/ubeda/oferta-ubeda-baeza-completo/"
+  - t: "Free tour por Úbeda"
+    u: "https://www.civitatis.com/es/ubeda/free-tour-ubeda/"
+  - t: "Free tour por Baeza"
+    u: "https://www.civitatis.com/es/baeza/free-tour-baeza/"
 faqTitulo: "Dudas sobre Úbeda y Baeza"
 faq:
   - q: "¿Qué distancia hay entre Úbeda y Baeza?"
@@ -88,7 +95,7 @@ Plazas de piedra dorada, palacios con escudos, iglesias que parecen sacadas de F
 <p>Aquí todo lleva <strong>aceite de oliva virgen extra</strong>, y del bueno. Prueba los <strong>andrajos</strong> (un guiso con tortas de harina), la <strong>pipirrana</strong> (ensalada fresca de tomate, pimiento y huevo), los <strong>ochíos</strong> (un pan con pimentón y aceite típico de la zona) y las <strong>espinacas esparragadas</strong>. Y como en buena parte de Jaén, en muchos bares te ponen <strong>tapa con la bebida</strong>.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Úbeda y Baeza</h2></div>
-<div class="guide__howto"><p><strong>En coche</strong> es lo más cómodo. Desde Madrid son unos 320 km por la A-4 hasta Bailén y luego la A-32 (unas 3 horas). Desde Jaén capital, unos 50 km. Desde Granada, alrededor de hora y media.</p><p>Hay autobuses desde Jaén, Granada y Madrid, y una estación de tren llamada Linares-Baeza, pero está a unos 15 km de Baeza y tendrías que coger un autobús o un taxi.</p><p><strong>Dónde aparcar:</strong> en las dos ciudades lo mejor es dejar el coche en los aparcamientos de la entrada del casco histórico (en Úbeda, por ejemplo, junto a la plaza de Andalucía) y moverte a pie: las calles son estrechas y hay zonas de acceso restringido.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Plaza%20V%C3%A1zquez%20de%20Molina%2C%20%C3%9Abeda" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En coche</strong> es lo más cómodo. Desde Madrid son unos 320 km por la A-4 hasta Bailén y luego la A-32 (unas 3 horas). Desde Jaén capital, unos 50 km. Desde Granada, alrededor de hora y media.</p><p>Hay autobuses desde Jaén, Granada y Madrid, y una estación de tren llamada Linares-Baeza, pero está a unos 15 km de Baeza y tendrías que coger un autobús o un taxi.</p><p><strong>Dónde aparcar:</strong> en las dos ciudades lo mejor es dejar el coche en los aparcamientos de la entrada del casco histórico (en Úbeda, por ejemplo, junto a la plaza de Andalucía) y moverte a pie: las calles son estrechas y hay zonas de acceso restringido.</p><p><strong>Con guía y entradas:</strong> si quieres ver los monumentos por dentro sin organizarte, está la <a href="https://www.civitatis.com/es/ubeda/oferta-ubeda-baeza-completo/?aid=110968" target="_blank" rel="noopener sponsored">visita a Úbeda y Baeza al completo con entradas</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Plaza%20V%C3%A1zquez%20de%20Molina%2C%20%C3%9Abeda" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__head"><span class="eyebrow">Mi ruta</span><h2>Úbeda y Baeza en un día</h2></div>
 <div class="guide__howto"><p><strong>Mañana en Baeza:</strong> plaza del Pópulo, palacio de Jabalquinto, antigua universidad y aula de Machado, plaza de Santa María y catedral, y paseo de las Murallas.</p><p><strong>Comida</strong> en Úbeda (10 minutos en coche) y <strong>tarde en Úbeda:</strong> plaza Vázquez de Molina, Sacra Capilla del Salvador, Sinagoga del Agua (reserva el pase), barrio de los alfareros y atardecer desde los miradores de la muralla. Si duermes allí, la plaza Vázquez de Molina iluminada de noche es preciosa.</p></div>

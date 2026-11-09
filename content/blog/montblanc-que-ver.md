@@ -11,6 +11,12 @@ tags:
   - Pueblos
   - Cataluña
 wide: true
+actividades:
+  - t: "Visita guiada por la Tarragona romana"
+    u: "https://www.civitatis.com/es/tarragona/visita-guiada-tarragona-romana/"
+  - t: "Free tour por Tarragona"
+    u: "https://www.civitatis.com/es/tarragona/free-tour-tarragona/"
+actividadesTitulo: 'Actividades en Tarragona'
 faq:
   - q: "¿Por qué se dice que Sant Jordi mató al dragón en Montblanc?"
     a: "Porque el folclorista Joan Amades situó la leyenda delante de sus murallas, y uno de sus portales se llama Portal de Sant Jordi."

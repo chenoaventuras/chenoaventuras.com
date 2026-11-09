@@ -10,6 +10,13 @@ tags:
   - Spots
   - Cantabria
 wide: true
+actividades:
+  - t: "Excursión a Cabárceno desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-cabarceno/"
+  - t: "Excursión a Altamira y Santillana del Mar"
+    u: "https://www.civitatis.com/es/santander/excursion-altamira-santillana-del-mar/"
+  - t: "Excursión a los Picos de Europa desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-picos-europa/"
 guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
 guiaTitulo: 'Guía Cantabria completa en PDF'
 faqTitulo: "Dudas sobre la guía"

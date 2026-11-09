@@ -11,6 +11,9 @@ tags:
   - Pueblos
   - Islas Baleares
 wide: true
+actividades:
+  - t: "Excursión a Sóller y Valldemossa desde Palma"
+    u: "https://www.civitatis.com/es/palma-mallorca/excusion-soller-valldemosa/"
 faqTitulo: "Dudas sobre Valldemossa"
 faq:
   - q: "¿Qué ver en Valldemossa?"
@@ -56,7 +59,7 @@ Te cuento qué ver, en qué orden y cómo evitar las colas 👇
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Mirador de Sa Miranda dels Lledoners:</strong> una vista del valle y los olivos.</li><li><strong>Sa Foradada:</strong> desde Son Marroig hay un sendero, de unas dos horas según las guías, hasta el mirador.</li><li><strong>Cerca:</strong> <a href="/blog/soller-que-ver.html">Sóller</a> y <a href="/blog/sa-calobra.html">Sa Calobra</a>, para seguir por la Sierra de Tramuntana.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p><strong>En coche:</strong> desde Palma, por la Ma-1110, en unos 20-25 minutos. Los aparcamientos del pueblo se llenan en verano: llega temprano.</p><p><strong>En autobús:</strong> hay una línea desde la Estación Intermodal de Palma; confirma horarios.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Valldemossa, Mallorca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En coche:</strong> desde Palma, por la Ma-1110, en unos 20-25 minutos. Los aparcamientos del pueblo se llenan en verano: llega temprano.</p><p><strong>En autobús:</strong> hay una línea desde la Estación Intermodal de Palma; confirma horarios.</p><p><strong>Sin coche:</strong> desde Palma hay una <a href="https://www.civitatis.com/es/palma-mallorca/excusion-soller-valldemosa/?aid=110968" target="_blank" rel="noopener sponsored">excursión a Sóller y Valldemossa</a> que junta los dos pueblos en un día.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Valldemossa, Mallorca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Valldemossa en medio día</h2><ul><li><b>Mañana</b>: Real Cartuja, con la entrada y la celda de Chopin si te interesa.</li><li><b>Mediodía</b>: Coca de patata y paseo por el casco antiguo.</li><li><b>Tarde</b>: Son Marroig y las vistas hacia Sa Foradada.</li><li><b>Evita</b>: los días de cruceros y fines de semana de verano a mediodía.</li><li><b>Si tienes más días</b>: sigue hacia Deià, Sóller y Sa Calobra.</li></ul></div>
 

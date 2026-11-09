@@ -26,6 +26,8 @@ faq:
   - q: "¿Cómo llegar al Bosque de Oma desde Bilbao?"
     a: "En coche hasta Kortezubi, en Urdaibai, a unos 5 km de Gernika."
 actividades:
+  - t: "Excursión a San Juan de Gaztelugatxe, Guernica y Bermeo desde Bilbao"
+    u: "https://www.civitatis.com/es/bilbao/excursion-san-juan-gaztelugatxe/"
   - t: "Paseo en barco por la costa de Urdaibai desde Bermeo"
     u: "https://www.civitatis.com/es/bermeo/paseo-barco-costa-urdaibai/"
   - t: "Gernika: tour a pie «Guerra y paz»"

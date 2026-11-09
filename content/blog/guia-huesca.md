@@ -11,6 +11,13 @@ tags:
   - Spots
   - Aragón
 wide: true
+actividades:
+  - t: "Excursión al Parque Nacional de Ordesa y Monte Perdido"
+    u: "https://www.civitatis.com/es/huesca/excursion-ordesa-monte-perdido/"
+  - t: "Paseo con raquetas de nieve por el Valle de Tena"
+    u: "https://www.civitatis.com/es/biescas/paseo-raquetas-nieve-valle-tena/"
+  - t: "Visita guiada por la estación de tren de Canfranc"
+    u: "https://www.civitatis.com/es/canfranc-estacion/visita-guiada-estacion-canfranc/"
 guia: /assets/guias/guia-huesca-chenoaventuras.pdf
 guiaTitulo: 'Guía Huesca completa en PDF'
 faqTitulo: "Dudas sobre la guía"

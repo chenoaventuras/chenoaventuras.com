@@ -11,6 +11,11 @@ tags:
   - Pueblos
   - Canarias
 wide: true
+actividades:
+  - t: "Free tour por Teguise"
+    u: "https://www.civitatis.com/es/teguise/free-tour-teguise/"
+  - t: "Tour en buggy por Guatiza y Mala"
+    u: "https://www.civitatis.com/es/costa-teguise/tour-buggy-guatiza-mala/"
 faqTitulo: "Dudas sobre Teguise"
 faq:
   - q: "¿Qué ver en Teguise?"

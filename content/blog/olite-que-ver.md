@@ -12,6 +12,10 @@ tags:
   - Pueblos
   - Navarra
 wide: true
+actividades:
+  - t: "Free tour por Pamplona"
+    u: "https://www.civitatis.com/es/pamplona/free-tour-pamplona/"
+actividadesTitulo: 'Actividades en Pamplona'
 faqTitulo: "Dudas sobre Olite"
 faq:
   - q: "¿Quién construyó el Palacio Real de Olite?"
@@ -63,7 +67,7 @@ Te cuento qué ver y cómo organizar la visita 👇
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Iglesia de Santa María la Real:</strong> gótica y junto al Palacio, con una fachada de piedra con mucho detalle escultórico.</li><li><strong>Iglesia de San Pedro:</strong> con una torre estilizada en forma de aguja y un claustro románico.</li><li><strong>Torre del Chapitel:</strong> con restos romanos y medievales.</li><li><strong>Galerías medievales:</strong> hoy museo y sala de exposiciones, en la plaza.</li><li><strong>Museo del Vino de Navarra:</strong> para entender la tradición vinícola de la zona.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p><strong>En coche:</strong> desde Pamplona, unos 35 minutos por la AP-15. Aparca en las afueras y entra a pie.</p><p><strong>En bus:</strong> hay servicios desde Pamplona (unos 45 minutos). Revisa horarios antes de salir.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Olite+Navarra" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En coche:</strong> desde Pamplona, unos 35 minutos por la AP-15. Aparca en las afueras y entra a pie.</p><p><strong>En bus:</strong> hay servicios desde Pamplona (unos 45 minutos). Revisa horarios antes de salir.</p><p><strong>Desde Pamplona:</strong> si duermes en la capital, aprovecha para hacer el <a href="https://www.civitatis.com/es/pamplona/free-tour-pamplona/?aid=110968" target="_blank" rel="noopener sponsored">free tour por Pamplona</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Olite+Navarra" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Calzado cómodo</b>: las calles son empedradas.</li><li><b>Visita guiada o audioguía</b>: ayudan a entender la historia del palacio.</li><li><b>Combínalo con Ujué o Pamplona</b>: están cerca; mira nuestro artículo de <a href="/blog/pamplona-que-ver.html">Pamplona</a>.</li><li><b>Prueba el vino</b>: y los productos de la tierra, en una bodega o restaurante.</li><li><b>Evita el mediodía</b>: en verano el sol es fuerte.</li></ul></div>
 

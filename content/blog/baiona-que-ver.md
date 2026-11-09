@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - Galicia
 wide: true
+actividades:
+  - t: "Free tour por Vigo"
+    u: "https://www.civitatis.com/es/vigo/free-tour-vigo/"
+  - t: "Free tour de las luces de Navidad de Vigo"
+    u: "https://www.civitatis.com/es/vigo/free-tour-navidad-vigo/"
+actividadesTitulo: 'Actividades en Vigo'
 faqTitulo: "Dudas sobre Baiona"
 faq:
   - q: "¿Qué ver en Baiona?"

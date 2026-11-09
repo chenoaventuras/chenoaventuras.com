@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - Aragón
 wide: true
+actividades:
+  - t: "Tour en 4x4 por las Bardenas Reales"
+    u: "https://www.civitatis.com/es/arguedas/tour-4x4-bardenas-reales/"
+  - t: "Free tour por Tudela"
+    u: "https://www.civitatis.com/es/tudela/free-tour-tudela/"
+actividadesTitulo: 'Planes cerca de Tarazona'
 faqTitulo: "Dudas sobre Tarazona"
 faq:
   - q: "¿Qué es el Cipotegato?"

@@ -12,6 +12,11 @@ tags:
   - Spots
   - Comunidad Valenciana
 wide: true
+actividades:
+  - t: "Excursión a Tabarca en barco con visión submarina"
+    u: "https://www.civitatis.com/es/torrevieja/tabarca-barco-vision-submarina/"
+  - t: "Paseo en barco por la bahía de Torrevieja"
+    u: "https://www.civitatis.com/es/torrevieja/paseo-barco-bahia-torrevieja/"
 faqTitulo: "Dudas sobre la Laguna Rosa de Torrevieja"
 faq:
   - q: "¿Por qué la laguna de La Mata es verde y la de Torrevieja rosa?"
@@ -82,6 +87,8 @@ Lo primero que todo el mundo pregunta es si se puede bañar. Te lo cuento 👇
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Laguna Rosa</h2></div>
 <div class="guide__howto"><p>La laguna está junto a <strong>Torrevieja</strong>, a unos 50 km de Alicante por la AP-7 o la N-332. Hay varios puntos para verla desde los caminos del parque; el más conocido está en la zona de las salinas, con un pequeño aparcamiento de tierra.</p><p>Sigue siempre los caminos señalizados y no entres en las zonas de explotación salinera.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laguna%20Rosa%20Torrevieja" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+
+<p><strong>Desde el puerto:</strong> en Torrevieja salen <a href="https://www.civitatis.com/es/torrevieja/tabarca-barco-vision-submarina/?aid=110968" target="_blank" rel="noopener sponsored">barcos con visión submarina a la isla de Tabarca</a>, un buen plan para completar el día.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve con sol</b>: los días nublados el rosa se apaga mucho.</li><li><b>Atardecer</b>: la hora dorada da las mejores fotos, con el cielo también rosado.</li><li><b>Ni bañarse ni barro</b>: aunque veas a gente haciéndolo, está prohibido y es peligroso.</li><li><b>Lleva agua y gorra</b>: no hay sombra y en verano el calor aprieta.</li></ul></div>
 

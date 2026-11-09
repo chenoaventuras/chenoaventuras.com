@@ -11,6 +11,11 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividades:
+  - t: "Excursión al Timanfaya, La Geria y el Charco de los Clicos"
+    u: "https://www.civitatis.com/es/arrecife/excursion-sur-lanzarote/"
+  - t: "Tour en velero por las playas de Papagayo"
+    u: "https://www.civitatis.com/es/playa-blanca/excursion-velero-playas-papagayo/"
 faqTitulo: "Dudas sobre Los Hervideros y El Golfo"
 faq:
   - q: "¿Por qué se llama Los Hervideros?"
@@ -59,7 +64,7 @@ Te cuento cómo llegar y qué se puede (y qué no) hacer 👇
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p>Se llega por la <strong>LZ-703</strong>, la carretera costera del suroeste. Los Hervideros tiene aparcamiento propio y senderos señalizados. El Charco de los Clicos queda unos kilómetros más al norte, junto al pueblo de <strong>El Golfo</strong>, con aparcamiento y un pequeño sendero hasta el mirador.</p><p>Muchas excursiones por el sur de la isla combinan ambas paradas con Timanfaya y las Salinas de Janubio.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Los+Hervideros+Lanzarote" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Se llega por la <strong>LZ-703</strong>, la carretera costera del suroeste. Los Hervideros tiene aparcamiento propio y senderos señalizados. El Charco de los Clicos queda unos kilómetros más al norte, junto al pueblo de <strong>El Golfo</strong>, con aparcamiento y un pequeño sendero hasta el mirador.</p><p>Muchas excursiones por el sur de la isla combinan estas paradas con Timanfaya, como la <a href="https://www.civitatis.com/es/arrecife/excursion-sur-lanzarote/?aid=110968" target="_blank" rel="noopener sponsored">excursión al Timanfaya, La Geria y el Charco de los Clicos</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Los+Hervideros+Lanzarote" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Obedece las señales</b>: hay vallas por seguridad y por conservación.</li><li><b>Calzado con suela</b>: la lava es áspera e irregular.</li><li><b>Come en El Golfo</b>: los restaurantes sirven pescado fresco.</li><li><b>Combínalo con Timanfaya</b>: están a pocos minutos.</li><li><b>No bajes a la laguna</b>: está prohibido y la zona se está degradando.</li></ul></div>
 

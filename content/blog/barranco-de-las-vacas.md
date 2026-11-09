@@ -12,6 +12,11 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividades:
+  - t: "Excursión a Maspalomas, Mogán y el barranco de Guayadeque"
+    u: "https://www.civitatis.com/es/las-palmas-de-gran-canaria/excursion-maspalomas-mogan-barranco-guayadeque/"
+  - t: "Entrada al Cocodrilo Park (Agüimes)"
+    u: "https://www.civitatis.com/es/aguimes/entrada-cocodrilo-park-gran-canaria/"
 faqTitulo: "Dudas sobre el Barranco de las Vacas"
 faq:
   - q: "¿Qué son las tobas de colores?"
@@ -60,7 +65,7 @@ Es corto y fácil, pero tiene truco: el GPS te puede llevar a otro sitio y casi 
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p>La carretera llega a un <strong>puente de piedra con una curva muy cerrada</strong>, y desde allí ya se ve la formación. Para bajar, toma el sendero que sale de la carretera principal a unos <strong>200 metros de la curva</strong>: hasta el cañón son menos de cinco minutos andando, sin apenas dificultad.</p><p>La carretera de acceso es la <strong>GC-550</strong>. Deja el coche con cuidado, sin bloquear la carretera, y no cuentes con encontrar sitio a media mañana.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Tobas+de+Colores+del+Barranco+de+las+Vacas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>La carretera llega a un <strong>puente de piedra con una curva muy cerrada</strong>, y desde allí ya se ve la formación. Para bajar, toma el sendero que sale de la carretera principal a unos <strong>200 metros de la curva</strong>: hasta el cañón son menos de cinco minutos andando, sin apenas dificultad.</p><p>La carretera de acceso es la <strong>GC-550</strong>. Deja el coche con cuidado, sin bloquear la carretera, y no cuentes con encontrar sitio a media mañana.</p><p><strong>Sin coche:</strong> hay una <a href="https://www.civitatis.com/es/las-palmas-de-gran-canaria/excursion-maspalomas-mogan-barranco-guayadeque/?aid=110968" target="_blank" rel="noopener sponsored">excursión a Maspalomas, Mogán y el barranco de Guayadeque</a>, el barranco vecino, también en Agüimes.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Tobas+de+Colores+del+Barranco+de+las+Vacas" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve entre semana y temprano</b>: evitas la masificación y aparcas mejor.</li><li><b>Calzado con agarre</b>: hay piedra suelta y algún tramo irregular.</li><li><b>Es una visita corta</b>: en una hora lo ves todo, así que combínala con <strong>Agüimes</strong> y el <strong>Barranco de Guayadeque</strong>.</li><li><b>Barranquismo, solo con experiencia</b>: existe un descenso con rápeles (de la GC-550 a la GC-551) pensado para quien tenga material y práctica. Avisa a alguien de tu ruta y no dejes basura.</li></ul></div>
 

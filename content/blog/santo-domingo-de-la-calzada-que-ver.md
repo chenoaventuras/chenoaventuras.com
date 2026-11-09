@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - La Rioja
 wide: true
+actividades:
+  - t: "Visita a las bodegas Marqués de Cáceres (Cenicero)"
+    u: "https://www.civitatis.com/es/cenicero/visita-bodegas-marques-caceres/"
+  - t: "Free tour por Logroño"
+    u: "https://www.civitatis.com/es/logrono/free-tour-logrono/"
+actividadesTitulo: 'Bodegas y visitas en La Rioja'
 faqTitulo: "Dudas sobre Santo Domingo de la Calzada"
 faq:
   - q: "¿Qué ver en Santo Domingo de la Calzada?"

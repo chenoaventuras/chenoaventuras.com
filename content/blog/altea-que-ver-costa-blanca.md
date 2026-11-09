@@ -11,6 +11,9 @@ tags:
   - Pueblos
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/reel/DcZMPGpRAHv/'
+actividades:
+  - t: "Excursión a Guadalest y Altea desde Alicante"
+    u: "https://www.civitatis.com/es/alicante/excursion-guadalest-altea/"
 faq:
   - q: "¿Dónde está Altea?"
     a: "En la Costa Blanca, en la provincia de Alicante, entre Benidorm y Calpe. Desde el Mirador de los Cronistas, en días claros, se ve el perfil de Benidorm."

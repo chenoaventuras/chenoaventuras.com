@@ -12,6 +12,13 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividades:
+  - t: "Visita guiada por el castillo de Peñafiel + Museo del Vino"
+    u: "https://www.civitatis.com/es/penafiel/visita-guiada-castillo-penafiel-museo-vino/"
+  - t: "Visita a la bodega Convento Oreja"
+    u: "https://www.civitatis.com/es/penafiel/visita-bodega-convento-oreja/"
+  - t: "Cata de vino, queso y aceite en la Bodega Matarromera"
+    u: "https://www.civitatis.com/es/valbuena-duero/cata-vino-queso-aceite-bodega-matarromera/"
 faqTitulo: "Dudas sobre Peñafiel"
 faq:
   - q: "¿Cuánto cuesta entrar al castillo de Peñafiel?"

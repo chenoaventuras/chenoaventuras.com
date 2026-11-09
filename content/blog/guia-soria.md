@@ -13,6 +13,11 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividades:
+  - t: "Tour de Soria al completo con entradas"
+    u: "https://www.civitatis.com/es/soria/tour-soria-completo/"
+  - t: "Free tour por Soria"
+    u: "https://www.civitatis.com/es/soria/free-tour-soria/"
 guia: /assets/guias/guia-soria-chenoaventuras.pdf
 guiaTitulo: 'Guía Soria completa en PDF'
 faqTitulo: "Dudas sobre Soria"

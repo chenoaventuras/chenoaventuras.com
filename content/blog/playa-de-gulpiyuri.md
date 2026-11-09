@@ -11,6 +11,11 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividades:
+  - t: "Free tour por Llanes"
+    u: "https://www.civitatis.com/es/llanes/free-tour-llanes/"
+  - t: "Tour en kayak por Llanes"
+    u: "https://www.civitatis.com/es/llanes/tour-kayak-llanes/"
 faqTitulo: "Dudas sobre Gulpiyuri"
 faq:
   - q: "¿Cómo se formó la playa de Gulpiyuri?"

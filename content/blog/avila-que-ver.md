@@ -12,6 +12,13 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividades:
+  - t: "Free tour por Ávila"
+    u: "https://www.civitatis.com/es/avila/free-tour-avila/"
+  - t: "Visita guiada por Ávila y su catedral"
+    u: "https://www.civitatis.com/es/avila/catedral-avila-basilica-san-vicente/"
+  - t: "Tour de leyendas por la Ávila iluminada"
+    u: "https://www.civitatis.com/es/avila/tour-avila-iluminada/"
 faqTitulo: "Dudas sobre Ávila"
 faq:
   - q: "¿Cuánto cuesta subir a la muralla de Ávila?"

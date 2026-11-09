@@ -12,6 +12,10 @@ tags:
   - Pueblos
   - Castilla-La Mancha
 wide: true
+actividades:
+  - t: "Visita guiada por Consuegra"
+    u: "https://www.civitatis.com/es/consuegra/visita-guiada-consuegra/"
+actividadesTitulo: 'Planes cerca: Consuegra'
 faqTitulo: "Dudas sobre Campo de Criptana"
 faq:
   - q: "¿Qué ver en Campo de Criptana?"

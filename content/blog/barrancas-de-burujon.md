@@ -12,6 +12,12 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+actividades:
+  - t: "Free tour por Toledo"
+    u: "https://www.civitatis.com/es/toledo/free-tour-toledo/"
+  - t: "Visita guiada por la catedral de Toledo"
+    u: "https://www.civitatis.com/es/toledo/visita-guiada-catedral-toledo/"
+actividadesTitulo: 'Actividades en Toledo'
 faqTitulo: "Dudas sobre las Barrancas de Burujón"
 faq:
   - q: "¿Cómo se formaron las Barrancas de Burujón?"

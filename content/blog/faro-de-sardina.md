@@ -12,6 +12,11 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividades:
+  - t: "Tour por el oeste de Gran Canaria en grupo reducido"
+    u: "https://www.civitatis.com/es/las-palmas-de-gran-canaria/tour-oeste-gran-canaria/"
+  - t: "Excursión al Valle de Agaete"
+    u: "https://www.civitatis.com/es/las-palmas-de-gran-canaria/excursion-valle-agaete/"
 faqTitulo: "Dudas sobre el Faro de Sardina"
 faq:
   - q: "¿Cuándo se encendió el faro de Sardina?"

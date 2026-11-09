@@ -13,6 +13,12 @@ tags:
   - Spots
   - Comunidad Valenciana
 wide: true
+actividades:
+  - t: "Entrada al Palacio Ducal de los Borgia con audioguía"
+    u: "https://www.civitatis.com/es/gandia/entrada-palacio-ducal-borgia/"
+  - t: "Visita guiada por Gandía"
+    u: "https://www.civitatis.com/es/gandia/visita-guiada-gandia/"
+actividadesTitulo: 'Actividades en Gandía'
 faqTitulo: "Dudas sobre la playa de Daimús"
 faq:
   - q: "¿Cómo es la playa de Daimús?"

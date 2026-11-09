@@ -11,6 +11,9 @@ tags:
   - Pueblos
   - Canarias
 wide: true
+actividades:
+  - t: "Tour por el interior de La Gomera"
+    u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/tour-interior-gomera/"
 faqTitulo: "Dudas sobre San Sebastián de La Gomera"
 faq:
   - q: "¿Qué ver en San Sebastián de La Gomera?"

@@ -11,6 +11,9 @@ tags:
   - Spots
   - Cataluña
 wide: true
+actividades:
+  - t: "Excursión a Montserrat desde Barcelona"
+    u: "https://www.civitatis.com/es/barcelona/excursion-montserrat/"
 faq:
   - q: "¿Cuándo se fundó el monasterio de Montserrat?"
     a: "En 1025, por impulso del abad Oliba."
@@ -73,7 +76,7 @@ Te cuento cómo llegar, qué ver y qué ruta hacer para subir a lo más alto �
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Montserrat</h2></div>
-<div class="guide__howto"><p><strong>En tren:</strong> la línea R5 de FGC sale de Plaça Espanya (Barcelona). Bájate en <strong>Montserrat-Aeri</strong> para subir en teleférico o en <strong>Monistrol de Montserrat</strong> para el cremallera.</p><p><strong>En coche:</strong> se puede subir hasta el monasterio, donde hay aparcamiento de pago, o dejar el coche en Monistrol y coger el cremallera.</p><p>Una vez arriba, el <strong>funicular de Sant Joan</strong> te sube a la parte alta de la montaña y el de la <strong>Santa Cova</strong> baja hacia la cueva donde, según la leyenda, apareció la Virgen.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Monestir+de+Montserrat" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En tren:</strong> la línea R5 de FGC sale de Plaça Espanya (Barcelona). Bájate en <strong>Montserrat-Aeri</strong> para subir en teleférico o en <strong>Monistrol de Montserrat</strong> para el cremallera.</p><p><strong>En coche:</strong> se puede subir hasta el monasterio, donde hay aparcamiento de pago, o dejar el coche en Monistrol y coger el cremallera.</p><p>Una vez arriba, el <strong>funicular de Sant Joan</strong> te sube a la parte alta de la montaña y el de la <strong>Santa Cova</strong> baja hacia la cueva donde, según la leyenda, apareció la Virgen.</p><p><strong>Con excursión:</strong> si no quieres organizar trenes y cremalleras, hay una <a href="https://www.civitatis.com/es/barcelona/excursion-montserrat/?aid=110968" target="_blank" rel="noopener sponsored">excursión a Montserrat desde Barcelona</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Monestir+de+Montserrat" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Coge el primer tren</b>: a media mañana llegan los autobuses de excursiones.</li><li><b>Sube en funicular y vuelve andando</b>: bajar desde Sant Joan al monasterio a pie es precioso y fácil.</li><li><b>Ve a Sant Jeroni</b>: la ruta desde el funicular de Sant Joan es de las más bonitas de Cataluña.</li><li><b>Mira el estado de los funiculares</b>: a veces cierran por mantenimiento: consúltalo antes de ir.</li></ul></div>
 

@@ -12,6 +12,9 @@ tags:
   - Pueblos
   - Castilla-La Mancha
 wide: true
+actividades:
+  - t: "Visita guiada por Chinchilla de Montearagón"
+    u: "https://www.civitatis.com/es/chinchilla-de-montearagon/visita-guiada-chinchilla-montearagon/"
 faqTitulo: "Dudas sobre Chinchilla de Montearagón"
 faq:
   - q: "¿Qué ver en Chinchilla de Montearagón?"

@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - La Rioja
 wide: true
+actividades:
+  - t: "Visita a las bodegas Franco-Españolas (Logroño)"
+    u: "https://www.civitatis.com/es/logrono/tour-bodegas-franco-espanolas/"
+  - t: "Free tour por Logroño"
+    u: "https://www.civitatis.com/es/logrono/free-tour-logrono/"
+actividadesTitulo: 'Bodegas y visitas en La Rioja'
 faqTitulo: "Dudas sobre San Millán de la Cogolla"
 faq:
   - q: "¿Por qué San Millán es la cuna del castellano?"

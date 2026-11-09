@@ -11,6 +11,10 @@ tags:
   - Spots
   - Aragón
 wide: true
+actividades:
+  - t: "Visita guiada por Jaca"
+    u: "https://www.civitatis.com/es/jaca/visita-guiada-jaca/"
+actividadesTitulo: 'Planes cerca: Jaca'
 faq:
   - q: "¿Está abierto San Juan de la Peña?"
     a: "Tras el incendio de Las Peñas de Riglos de agosto de 2026, el conjunto y la carretera de acceso se cerraron hasta nuevo aviso. Comprueba si ha reabierto en la web de Turismo de Aragón antes de ir."

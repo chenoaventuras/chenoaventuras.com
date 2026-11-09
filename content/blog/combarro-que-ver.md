@@ -12,6 +12,11 @@ tags:
   - Pueblos
   - Galicia
 wide: true
+actividades:
+  - t: "Free tour por Combarro"
+    u: "https://www.civitatis.com/es/combarro/free-tour-combarro/"
+  - t: "Tour de las meigas de Combarro"
+    u: "https://www.civitatis.com/es/combarro/tour-meigas-combarro/"
 faqTitulo: "Dudas sobre Combarro"
 faq:
   - q: "¿Cuántos hórreos hay en Combarro?"
@@ -68,7 +73,7 @@ Te cuento qué ver, cuándo ir para tener las mejores fotos (la marea importa, y
 <p>El <strong>atardecer</strong> es el mejor momento: la luz dorada sobre el granito y la ría se tiñe de naranja. Y si puedes, evita el mediodía de julio y agosto: el pueblo es pequeño y se llena de excursiones. A primera hora o fuera de temporada lo disfrutarás muchísimo más.</p>
 
 <div class="guide__head"><span class="eyebrow">Ruta</span><h2>La ruta costera de Combarro</h2></div>
-<div class="guide__howto"><p>Si te apetece caminar, hay una <strong>ruta circular de unos 5 km</strong> muy fácil: sale de la playa do Padrón, sigue la costa hacia el oeste entre playas y calas hasta la <strong>playa de Laño</strong> y vuelve por el antiguo <strong>Camiño Real</strong>, con vistas de la ría y de la <strong>isla de Tambo</strong>. Calcula una hora y media con paradas. Es perfecta para bajar la comida.</p></div>
+<div class="guide__howto"><p>Si te apetece caminar, hay una <strong>ruta circular de unos 5 km</strong> muy fácil: sale de la playa do Padrón, sigue la costa hacia el oeste entre playas y calas hasta la <strong>playa de Laño</strong> y vuelve por el antiguo <strong>Camiño Real</strong>, con vistas de la ría y de la <strong>isla de Tambo</strong>. Calcula una hora y media con paradas. Es perfecta para bajar la comida.</p><p><strong>Con guía:</strong> hay un <a href="https://www.civitatis.com/es/combarro/free-tour-combarro/?aid=110968" target="_blank" rel="noopener sponsored">free tour por Combarro</a> y un <a href="https://www.civitatis.com/es/combarro/tour-meigas-combarro/?aid=110968" target="_blank" rel="noopener sponsored">tour de las meigas</a> para conocer sus leyendas.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Comer</span><h2>Qué comer en Combarro</h2></div>
 <p>Estás en las Rías Baixas, así que toca <strong>marisco y pescado</strong>: mejillones (en la ría hay cientos de bateas), zamburiñas, navajas, pulpo á feira y pescado a la brasa. Muchos restaurantes de la rúa do Mar tienen terraza sobre el agua, entre los hórreos.</p>

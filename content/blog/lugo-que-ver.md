@@ -12,6 +12,11 @@ tags:
   - Spots
   - Galicia
 wide: true
+actividades:
+  - t: "Free tour por Lugo"
+    u: "https://www.civitatis.com/es/lugo/free-tour-lugo/"
+  - t: "Visita guiada por la catedral de Lugo"
+    u: "https://www.civitatis.com/es/lugo/visita-guiada-catedral-lugo/"
 faqTitulo: "Dudas sobre Lugo"
 faq:
   - q: "¿Cuándo se construyó la muralla de Lugo?"

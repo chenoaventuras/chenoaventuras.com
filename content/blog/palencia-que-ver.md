@@ -12,6 +12,13 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividades:
+  - t: "Visita guiada por la catedral de Palencia"
+    u: "https://www.civitatis.com/es/palencia/visita-guiada-catedral/"
+  - t: "Free tour por Palencia"
+    u: "https://www.civitatis.com/es/palencia/free-tour-palencia/"
+  - t: "Visita guiada por Palencia"
+    u: "https://www.civitatis.com/es/palencia/visita-guiada-palencia/"
 faqTitulo: "Dudas sobre Palencia"
 faq:
   - q: "¿Por qué la catedral de Palencia se llama la Bella Desconocida?"

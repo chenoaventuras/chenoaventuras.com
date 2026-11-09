@@ -26,7 +26,9 @@ for (const f of readdirSync(join(ROOT, "content", "blog"))) {
   const { data, content } = matter(readFileSync(join(ROOT, "content", "blog", f), "utf8"));
   const slug = (data.slug || f.replace(/\.md$/, "")).toLowerCase();
   if (!data.draft) slugs.add(slug);
-  sources.push({ label: String(data.title || slug), page: `/blog/${slug}.html`, text: content });
+  // Las actividades de afiliado van en el frontmatter: se añaden para revisarlas también.
+  const acts = (Array.isArray(data.actividades) ? data.actividades : []).map((x) => x && x.u).filter(Boolean);
+  sources.push({ label: String(data.title || slug), page: `/blog/${slug}.html`, text: content + acts.map((u) => ` href="${u}"`).join("") });
 }
 for (const f of readdirSync(ROOT)) {
   if (!f.endsWith(".html") || f === "blog.html" || f === "mapa.html") continue;
@@ -64,6 +66,22 @@ for (const l of internal) {
 }
 
 async function check(url) {
+  // Civitatis no da 404 cuando retira una actividad: redirige a la página de la ciudad.
+  if (/(^|\.)civitatis\.com$/i.test(new URL(url).host)) {
+    try {
+      const r = await fetch(url, {
+        redirect: "manual",
+        headers: { "user-agent": UA, accept: "text/html,*/*;q=0.8", "accept-language": "es-ES,es;q=0.9" },
+        signal: AbortSignal.timeout(15000),
+      });
+      r.body?.cancel?.().catch(() => {});
+      const loc = r.headers.get("location");
+      if (r.status >= 300 && r.status < 400 && loc) {
+        const norm = (u) => new URL(u, url).pathname.replace(/\/$/, "");
+        if (norm(loc) !== norm(url)) return { ok: false, kind: "retirada", status: `${r.status} → ${norm(loc)}` };
+      }
+    } catch {}
+  }
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
       const r = await fetch(url, {
@@ -105,6 +123,7 @@ await Promise.all(
 );
 
 const broken = urls.filter((u) => results.get(u)?.kind === "roto");
+const retired = urls.filter((u) => results.get(u)?.kind === "retirada");
 const silent = urls.filter((u) => results.get(u)?.kind === "sin-respuesta");
 const where = (u) => [...new Set(external.get(u).map((x) => x.label))].slice(0, 3).join(", ");
 
@@ -116,6 +135,11 @@ if (!broken.length && !brokenInternal.length) {
   lines.push("### Rotos (hay que arreglarlos)");
   for (const u of broken) lines.push(`- ${u} → ${results.get(u).status}. En: ${where(u)}`);
   for (const l of brokenInternal) lines.push(`- ${l.url} no existe. En: ${l.label}`);
+  lines.push("");
+}
+if (retired.length) {
+  lines.push("### Actividades retiradas de Civitatis (cambiarlas por otra)");
+  for (const u of retired) lines.push(`- ${u} → ${results.get(u).status}. En: ${where(u)}`);
   lines.push("");
 }
 if (silent.length) {

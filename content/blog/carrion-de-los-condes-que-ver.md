@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividades:
+  - t: "Visita guiada por la catedral de Palencia"
+    u: "https://www.civitatis.com/es/palencia/visita-guiada-catedral/"
+  - t: "Free tour por Palencia"
+    u: "https://www.civitatis.com/es/palencia/free-tour-palencia/"
+actividadesTitulo: 'Actividades en Palencia'
 faqTitulo: "Dudas sobre Carrión de los Condes"
 faq:
   - q: "¿Qué ver en Carrión de los Condes?"

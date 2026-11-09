@@ -12,6 +12,13 @@ tags:
   - Spots
   - Galicia
 wide: true
+actividades:
+  - t: "Free tour de las luces de Navidad de Vigo"
+    u: "https://www.civitatis.com/es/vigo/free-tour-navidad-vigo/"
+  - t: "Free tour por Vigo"
+    u: "https://www.civitatis.com/es/vigo/free-tour-vigo/"
+  - t: "Paseo en barco por la ría de Vigo con degustación de mejillones"
+    u: "https://www.civitatis.com/es/vigo/paseo-barco-ria-degustacion-mejillones/"
 faqTitulo: "Dudas sobre Vigo"
 faq:
   - q: "¿Qué fue la batalla de Rande?"
@@ -66,6 +73,8 @@ Una **ría enorme** con las Islas Cíes en el horizonte, un casco viejo de piedr
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En tren:</strong> hay trenes desde Santiago, Ourense y Pontevedra. La estación de Vigo-Urzaiz queda a pocos minutos del centro.</p><p><strong>En coche:</strong> el centro tiene mucho tráfico; deja el coche en un parking y recorre el casco viejo a pie.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Vigo" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+
+<p><strong>En Navidad:</strong> Vigo se llena con unos 12 millones de luces y un árbol gigante en Porta do Sol. Fechas, horarios y qué ver en mi post de las <a href="/blog/luces-navidad-vigo.html">luces de Navidad de Vigo 2026</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Vigo en un día</h2><ul><li><b>Mañana</b>: Casco Vello, plaza de la Constitución y Concatedral.</li><li><b>Mediodía</b>: Ostras y comida en el Berbés.</li><li><b>Tarde</b>: Monte do Castro y fortaleza.</li><li><b>Atardecer</b>: Puerta del Sol y paseo por el puerto.</li><li><b>Si tienes más días</b>: Islas Cíes, Baiona y Cabo Silleiro.</li></ul></div>
 

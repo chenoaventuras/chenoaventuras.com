@@ -12,6 +12,11 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividades:
+  - t: "Excursión al Valle de Agaete"
+    u: "https://www.civitatis.com/es/las-palmas-de-gran-canaria/excursion-valle-agaete/"
+  - t: "Tour por el oeste de Gran Canaria en grupo reducido"
+    u: "https://www.civitatis.com/es/las-palmas-de-gran-canaria/tour-oeste-gran-canaria/"
 faqTitulo: "Dudas sobre las piscinas naturales de Agaete"
 faq:
   - q: "¿Por qué se llaman Las Salinas de Agaete?"
@@ -66,7 +71,7 @@ Te cuento cómo llegar y qué saber antes de meterte 👇
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p>Las piscinas están junto a <strong>Puerto de las Nieves</strong>, en el municipio de Agaete. Se puede <strong>aparcar cerca del puerto</strong> y caminar por el paseo marítimo; hay un aparcamiento a unos 200 metros de las piscinas.</p><p>Desde Las Palmas de Gran Canaria se llega por la carretera del norte hacia Agaete. Aprovecha para ver <strong>Puerto de las Nieves</strong>, pueblo pesquero con restaurantes de pescado y marisco en el paseo marítimo.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Piscinas+Naturales+Las+Salinas+Agaete" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Las piscinas están junto a <strong>Puerto de las Nieves</strong>, en el municipio de Agaete. Se puede <strong>aparcar cerca del puerto</strong> y caminar por el paseo marítimo; hay un aparcamiento a unos 200 metros de las piscinas.</p><p>Desde Las Palmas de Gran Canaria se llega por la carretera del norte hacia Agaete. Aprovecha para ver <strong>Puerto de las Nieves</strong>, pueblo pesquero con restaurantes de pescado y marisco en el paseo marítimo.</p><p><strong>Sin coche:</strong> hay una <a href="https://www.civitatis.com/es/las-palmas-de-gran-canaria/excursion-valle-agaete/?aid=110968" target="_blank" rel="noopener sponsored">excursión al Valle de Agaete</a> y un <a href="https://www.civitatis.com/es/las-palmas-de-gran-canaria/tour-oeste-gran-canaria/?aid=110968" target="_blank" rel="noopener sponsored">tour por el oeste de Gran Canaria en grupo reducido</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Piscinas+Naturales+Las+Salinas+Agaete" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve con marea y mar tranquilos</b>: con oleaje fuerte no es buen plan para bañarse.</li><li><b>Llega temprano en verano</b>: cuanto antes, más tranquilidad.</li><li><b>Come en Puerto de las Nieves</b>: el pescado del día en el paseo marítimo.</li><li><b>Alarga la excursión</b>: el Valle de Agaete queda a unos 10 minutos en coche.</li></ul></div>
 

@@ -12,6 +12,11 @@ tags:
   - Spots
   - Andalucía
 wide: true
+actividades:
+  - t: "Visita guiada por la Alhambra y los Palacios Nazaríes con entradas"
+    u: "https://www.civitatis.com/es/granada/tour-alhambra-palacios-nazaries/"
+  - t: "Free tour por el Albaicín"
+    u: "https://www.civitatis.com/es/granada/free-tour-albaicin/"
 faqTitulo: "Dudas sobre la Alhambra"
 faq:
   - q: "¿Quién fundó la Alhambra?"
@@ -60,7 +65,7 @@ Palacios de yeserías y mármol, jardines con acequias, una fortaleza con vistas
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p><strong>Llegar al recinto:</strong> desde el centro de Granada se sube en <strong>bus</strong> (hay líneas urbanas), en <strong>taxi</strong> o andando por la cuesta de Gomérez, unos 20-30 minutos. Si vas en coche, hay aparcamientos junto al monumento.</p><p><strong>Granada:</strong> el AVE y los autobuses conectan con Madrid, Sevilla y Málaga. Consulta los horarios en Renfe y Alsa.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Alhambra+de+Granada" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>Llegar al recinto:</strong> desde el centro de Granada se sube en <strong>bus</strong> (hay líneas urbanas), en <strong>taxi</strong> o andando por la cuesta de Gomérez, unos 20-30 minutos. Si vas en coche, hay aparcamientos junto al monumento.</p><p><strong>Granada:</strong> el AVE y los autobuses conectan con Madrid, Sevilla y Málaga. Consulta los horarios en Renfe y Alsa.</p><p><strong>Si se agotan las entradas sueltas:</strong> mira la <a href="https://www.civitatis.com/es/granada/tour-alhambra-palacios-nazaries/?aid=110968" target="_blank" rel="noopener sponsored">visita guiada por la Alhambra y los Palacios Nazaríes con entradas</a>, que lleva la entrada incluida.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Alhambra+de+Granada" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Cómo planificar la visita</h2><ul><li><b>Calcula 3-4 horas</b>: dos horas son lo mínimo para ver bien los palacios, la Alcazaba y el Generalife.</li><li><b>Orden recomendado</b>: empieza por el Generalife, sigue por la Alcazaba y llega a los Palacios a tu hora.</li><li><b>Visita nocturna</b>: hay entradas nocturnas más baratas que la general, para ver los Palacios iluminados.</li><li><b>Lleva agua y protección solar</b>: pasarás mucho rato al aire libre.</li><li><b>Cuidado con los intermediarios</b>: compra en la web oficial o en vendedores autorizados.</li></ul></div>
 

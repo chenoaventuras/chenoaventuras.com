@@ -21,6 +21,8 @@ faq:
   - q: "¿Qué dice la leyenda de la fuente de Covadonga?"
     a: "Según el dicho popular, «la moza que bebe en la fuente, se casa en el año»."
 actividades:
+  - t: "Excursión a Covadonga desde Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/excursion-covadonga/"
   - t: "Excursión a los lagos de Covadonga en grupo reducido"
     u: "https://www.civitatis.com/es/cangas-onis/excursion-lagos-covadonga/"
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf

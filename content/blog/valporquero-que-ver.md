@@ -13,6 +13,11 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividades:
+  - t: "Excursión a la Cueva de Valporquero desde León"
+    u: "https://www.civitatis.com/es/leon/excursion-cueva-valporquero/"
+  - t: "Visita guiada por la Catedral de León"
+    u: "https://www.civitatis.com/es/leon/visita-guiada-catedral-leon/"
 faqTitulo: "Dudas sobre Valporquero"
 faq:
   - q: "¿Cuándo se abrió la Cueva de Valporquero?"
@@ -71,7 +76,7 @@ Te cuento los recorridos, los horarios (orientativos) y cómo organizar el día 
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Hoces de Vegacervera:</strong> una carretera entre paredes de roca, muy bonita en coche.</li><li><strong>Reserva de la Biosfera de los Argüellos:</strong> senderos y pueblos de montaña.</li><li><strong>León capital:</strong> consulta nuestro artículo de <a href="/blog/leon-que-ver.html">León</a>.</li><li><strong>Cerca:</strong> <a href="/blog/las-medulas.html">Las Médulas</a> y <a href="/blog/astorga-que-ver.html">Astorga</a>.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p><strong>En coche desde León</strong> (unos 45-50 km, alrededor de una hora): sal por la <strong>LE-311</strong> hasta <strong>Matallana de Torío</strong>, sigue por la <strong>LE-315</strong> hasta <strong>Felmín</strong> y allí toma la carretera local que sube a <strong>Valporquero de Torío</strong> y a la cueva. Hay aparcamiento junto a la entrada.</p><p><strong>En invierno:</strong> es carretera de montaña; si ha nevado o helado, consulta el estado de la carretera y llama a la cueva antes de salir.</p><p><strong>Con excursión:</strong> hay tours desde León con traslado, guía y entrada.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cueva de Valporquero" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En coche desde León</strong> (unos 45-50 km, alrededor de una hora): sal por la <strong>LE-311</strong> hasta <strong>Matallana de Torío</strong>, sigue por la <strong>LE-315</strong> hasta <strong>Felmín</strong> y allí toma la carretera local que sube a <strong>Valporquero de Torío</strong> y a la cueva. Hay aparcamiento junto a la entrada.</p><p><strong>En invierno:</strong> es carretera de montaña; si ha nevado o helado, consulta el estado de la carretera y llama a la cueva antes de salir.</p><p><strong>Con excursión:</strong> hay una <a href="https://www.civitatis.com/es/leon/excursion-cueva-valporquero/?aid=110968" target="_blank" rel="noopener sponsored">excursión a la Cueva de Valporquero desde León</a> con traslado, guía y entrada.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cueva de Valporquero" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Visita a Valporquero</h2><ul><li><b>Antes</b>: reserva tu turno online y elige el recorrido.</li><li><b>Mañana o tarde</b>: visita de 1 a 3 horas según el recorrido.</li><li><b>Antes o después</b>: las hoces de Vegacervera y los pueblos del valle.</li><li><b>Ropa</b>: chaqueta, calzado con agarre y nada de tacones.</li><li><b>Con niños</b>: elige el recorrido normal y vigila las escaleras.</li></ul></div>
 

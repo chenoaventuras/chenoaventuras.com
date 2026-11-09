@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - Cantabria
 wide: true
+actividades:
+  - t: "Excursión a Cabárceno desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-cabarceno/"
+  - t: "Excursión a Altamira y Santillana del Mar"
+    u: "https://www.civitatis.com/es/santander/excursion-altamira-santillana-del-mar/"
+actividadesTitulo: 'Actividades en Cantabria'
 faq:
   - q: '¿Cómo se llega a Bárcena Mayor?'
     a: 'En coche, por una carretera de montaña desde Los Tojos que termina en el propio pueblo. Hay aparcamiento a la entrada y el casco es peatonal.'

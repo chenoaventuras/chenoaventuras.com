@@ -12,6 +12,11 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividades:
+  - t: "Tour de César Manrique por Lanzarote"
+    u: "https://www.civitatis.com/es/arrecife/tour-cesar-manrique-lanzarote/"
+  - t: "Excursión a La Graciosa + paseo en velero"
+    u: "https://www.civitatis.com/es/arrecife/excursion-isla-graciosa/"
 faqTitulo: "Dudas sobre el Mirador del Río"
 faq:
   - q: "¿Cuánto cuesta entrar al Mirador del Río?"
@@ -52,7 +57,7 @@ Te cuento cuánto cuesta, a qué hora ir y cómo llegar 👇
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mirador-del-rio/playa.webp" alt="Olas rompiendo sobre la arena negra desde el Mirador del Río" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Olas y arena volcánica</h3><p>Con luz clara se ve cada línea de olas llegando a la playa. Hay que mirar desde la cristalera y desde la terraza.</p></div></li>
 </ol>
 
-<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Lo que ves desde el mirador es <a href="/blog/la-graciosa.html">La Graciosa</a>, la isla sin carreteras asfaltadas. El barco sale de Órzola, a pocos minutos del mirador, y allí te esperan playas como la <a href="/blog/playa-de-las-conchas-la-graciosa.html">Playa de las Conchas</a>, con Montaña Bermeja al fondo.</p></div>
+<div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Lo que ves desde el mirador es <a href="/blog/la-graciosa.html">La Graciosa</a>, la isla sin carreteras asfaltadas. El barco sale de Órzola, a pocos minutos del mirador, y allí te esperan playas como la <a href="/blog/playa-de-las-conchas-la-graciosa.html">Playa de las Conchas</a>, con Montaña Bermeja al fondo.</p><p><strong>Con excursión:</strong> el mirador es obra de César Manrique, y hay un <a href="https://www.civitatis.com/es/arrecife/tour-cesar-manrique-lanzarote/?aid=110968" target="_blank" rel="noopener sponsored">tour de César Manrique por Lanzarote</a> que lo incluye.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>En coche: el mirador está al final de la carretera <strong>LZ-202</strong>, que sale del pueblo de <strong>Yé</strong>, a unos 40 km del aeropuerto. Hay aparcamiento junto a la entrada.</p><p>En transporte público es limitado: desde Arrecife llega una línea de guagua hasta Yé, y desde allí hay que caminar o coger un taxi. Lo más cómodo es ir en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Mirador+del+Río+Lanzarote" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

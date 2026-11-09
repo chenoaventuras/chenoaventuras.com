@@ -12,6 +12,12 @@ tags:
   - Spots
   - País Vasco
 wide: true
+actividades:
+  - t: "Tour por Laguardia + visita a una bodega con cata"
+    u: "https://www.civitatis.com/es/laguardia/tour-laguardia-visita-bodega-cata/"
+  - t: "Visita a las bodegas Campillo (Laguardia)"
+    u: "https://www.civitatis.com/es/laguardia/visita-bodegas-campillo/"
+actividadesTitulo: 'Bodegas y visitas cerca de Elciego'
 faqTitulo: "Dudas sobre Elciego"
 faq:
   - q: "¿Qué bodegas se pueden visitar en Elciego?"
@@ -78,7 +84,7 @@ Te cuento qué ver, cómo visitar la bodega y qué más hay cerca 👇
 <p>Más allá del titanio, merece la pena pasear por el pueblo: la <strong>iglesia parroquial de San Andrés</strong>, que domina el caserío; la <strong>ermita de la Virgen de la Plaza</strong>, un capricho barroco del siglo XVII en la plaza Mayor; y las calles con <strong>casas de piedra blasonadas</strong>. Si vas a principios de septiembre, coincidirás con las <strong>fiestas de la Virgen de la Plaza</strong> (en torno al 8 de septiembre), con danzas tradicionales al son de gaiteros y tamboril.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
-<div class="guide__howto"><p><strong>En coche:</strong> Elciego queda en la Rioja Alavesa, a pocos minutos de Laguardia. Hay aparcamiento cerca del hotel.</p><p><strong>Consejo:</strong> reserva la bodega con antelación y no conduzcas si vas a catar vino.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Elciego, Álava" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p><strong>En coche:</strong> Elciego queda en la Rioja Alavesa, a pocos minutos de Laguardia. Hay aparcamiento cerca del hotel.</p><p><strong>Consejo:</strong> reserva la bodega con antelación y no conduzcas si vas a catar vino.</p><p><strong>Con cata guiada:</strong> en Laguardia, a pocos minutos, hay un <a href="https://www.civitatis.com/es/laguardia/tour-laguardia-visita-bodega-cata/?aid=110968" target="_blank" rel="noopener sponsored">tour por el pueblo con visita a una bodega y cata</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Elciego, Álava" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Elciego en medio día</h2><ul><li><b>Mañana</b>: Visita guiada a la bodega Marqués de Riscal.</li><li><b>Mediodía</b>: Comida en la zona con vinos de Rioja.</li><li><b>Tarde</b>: Paseo por Elciego y fotos del hotel.</li><li><b>Atardecer</b>: Luz sobre el edificio de Gehry.</li><li><b>Si tienes más días</b>: Laguardia y Vitoria-Gasteiz.</li></ul></div>
 

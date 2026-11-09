@@ -12,6 +12,10 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividades:
+  - t: "Descenso del Sella en canoa"
+    u: "https://www.civitatis.com/es/cangas-onis/descenso-sella/"
+actividadesTitulo: 'Planes cerca de Ponga'
 faqTitulo: "Dudas sobre Ponga"
 faq:
   - q: "¿Cuándo es parque natural Ponga?"

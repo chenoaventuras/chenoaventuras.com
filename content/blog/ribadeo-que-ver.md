@@ -12,6 +12,11 @@ tags:
   - Pueblos
   - Galicia
 wide: true
+actividades:
+  - t: "Excursión a la playa de Las Catedrales desde Lugo"
+    u: "https://www.civitatis.com/es/lugo/excursion-playa-catedrales/"
+  - t: "Paseo en lancha a la playa de Las Catedrales"
+    u: "https://www.civitatis.com/es/foz/paseo-lancha-playa-catedrales/"
 faqTitulo: "Dudas sobre Ribadeo"
 faq:
   - q: "¿Qué ver en Ribadeo?"

@@ -12,6 +12,9 @@ tags:
   - Pueblos
   - Comunidad Valenciana
 wide: true
+actividades:
+  - t: "Visita guiada por Morella"
+    u: "https://www.civitatis.com/es/morella/visita-guiada-morella/"
 faqTitulo: "Dudas sobre Morella"
 faq:
   - q: "¿Qué ver en Morella en un día?"

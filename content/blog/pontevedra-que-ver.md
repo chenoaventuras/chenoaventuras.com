@@ -12,6 +12,13 @@ tags:
   - Spots
   - Galicia
 wide: true
+actividades:
+  - t: "Free tour por Pontevedra"
+    u: "https://www.civitatis.com/es/pontevedra/free-tour-pontevedra/"
+  - t: "Tour por Pontevedra + luces de Navidad de Vigo"
+    u: "https://www.civitatis.com/es/pontevedra/tour-pontevedra-luces-navidad-vigo/"
+  - t: "Tour gastronómico por Pontevedra"
+    u: "https://www.civitatis.com/es/pontevedra/tour-gastronomico-pontevedra/"
 faqTitulo: "Dudas sobre Pontevedra"
 faq:
   - q: "¿Por qué Pontevedra es famosa por no tener coches?"

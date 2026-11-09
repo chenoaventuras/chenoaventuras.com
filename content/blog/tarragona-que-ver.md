@@ -12,6 +12,13 @@ tags:
   - Spots
   - Cataluña
 wide: true
+actividades:
+  - t: "Visita guiada por la Tarragona romana"
+    u: "https://www.civitatis.com/es/tarragona/visita-guiada-tarragona-romana/"
+  - t: "Free tour por Tarragona"
+    u: "https://www.civitatis.com/es/tarragona/free-tour-tarragona/"
+  - t: "Visita guiada por la catedral de Tarragona"
+    u: "https://www.civitatis.com/es/tarragona/visita-catedral-tarragona/"
 faqTitulo: "Dudas sobre Tarragona"
 faq:
   - q: "¿Cuándo se fundó Tarraco?"
@@ -59,7 +66,7 @@ Te cuento qué ver, la entrada conjunta para los monumentos romanos, la tradici�
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tarragona-que-ver/pont-del-diable.webp" alt="Acueducto romano Pont del Diable cerca de Tarragona" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Pont del Diable</h3><p>El acueducto de <strong>les Ferreres</strong>, a 4 km de la ciudad, con dos pisos de arcos y unos 27 metros de altura. Se puede caminar por encima, por el canal. <strong>Gratis</strong>, con aparcamiento.</p></div></li>
 </ol>
 <p>Además, el <strong>Passeig Arqueològic</strong> recorre por fuera las <strong>murallas romanas</strong>, con bloques ciclópeos de época republicana, y el <strong>foro de la colonia</strong> conserva columnas y calles romanas. Algunos recintos pueden estar en obras: consúltalo antes.</p>
-<div class="guide__howto"><h3>🎫 Entradas</h3><p>Cada recinto del Museu d'Història de Tarragona cuesta unos <strong>5 €</strong>, y la <strong>entrada conjunta</strong> a los cinco principales, unos <strong>15 €</strong> (descuento del 50 % para jubilados, jóvenes y estudiantes; gratis menores de 12 años). Compensa desde tres recintos. El acceso termina 30 minutos antes del cierre.</p></div>
+<div class="guide__howto"><h3>🎫 Entradas</h3><p>Cada recinto del Museu d'Història de Tarragona cuesta unos <strong>5 €</strong>, y la <strong>entrada conjunta</strong> a los cinco principales, unos <strong>15 €</strong> (descuento del 50 % para jubilados, jóvenes y estudiantes; gratis menores de 12 años). Compensa desde tres recintos. El acceso termina 30 minutos antes del cierre.</p><p><strong>Con guía:</strong> si prefieres que te lo cuenten, hay una <a href="https://www.civitatis.com/es/tarragona/visita-guiada-tarragona-romana/?aid=110968" target="_blank" rel="noopener sponsored">visita guiada por la Tarragona romana</a> y un <a href="https://www.civitatis.com/es/tarragona/free-tour-tarragona/?aid=110968" target="_blank" rel="noopener sponsored">free tour por Tarragona</a>.</p></div>
 
 <!--enr-->
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>La ciudad romana más antigua de la Península</h2></div>

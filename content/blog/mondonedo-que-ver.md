@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - Galicia
 wide: true
+actividades:
+  - t: "Excursión a la playa de Las Catedrales desde Lugo"
+    u: "https://www.civitatis.com/es/lugo/excursion-playa-catedrales/"
+  - t: "Free tour por Lugo"
+    u: "https://www.civitatis.com/es/lugo/free-tour-lugo/"
+actividadesTitulo: 'Actividades en la provincia de Lugo'
 faqTitulo: "Dudas sobre Mondoñedo"
 faq:
   - q: "¿Por qué la llaman la catedral arrodillada?"

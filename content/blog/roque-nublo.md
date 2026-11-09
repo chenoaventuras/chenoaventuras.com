@@ -12,6 +12,11 @@ tags:
   - Actividades
   - Canarias
 wide: true
+actividades:
+  - t: "Excursión a Teror, el Roque Nublo y la caldera de Bandama"
+    u: "https://www.civitatis.com/es/las-palmas-de-gran-canaria/excursion-teror-roque-nublo-bandama/"
+  - t: "Excursión por las cumbres de Gran Canaria"
+    u: "https://www.civitatis.com/es/maspalomas/excursion-cumbres-gran-canaria/"
 faqTitulo: "Dudas sobre el Roque Nublo"
 faq:
   - q: "¿Cómo se formó el Roque Nublo?"
@@ -85,7 +90,7 @@ Desde 2025 subir tiene sus normas: hay **reserva obligatoria** en horario de dí
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> todo el año; el amanecer y el atardecer son los mejores momentos.</li><li><strong>Qué llevar:</strong> calzado cómodo y una prenda de abrigo: arriba hace más fresco y viento.</li><li><strong>Ojo:</strong> reserva el acceso con antelación: el cupo es limitado.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Roque Nublo</h2></div>
-<div class="guide__howto"><p>El sendero empieza en la <strong>Degollada de La Goleta</strong>, en la carretera entre Ayacata y Los Pechos, en el centro de Gran Canaria.</p><p>Como ya no se puede aparcar allí, deja el coche en <strong>Cruz de Los Llanos</strong> (desde allí la guagua lanzadera tarda unos 10 minutos) o en <strong>Tejeda</strong>. La línea de guagua que conecta con el Roque también tiene servicio desde el sur de la isla.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Degollada+de+La+Goleta" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://reservasroquenublo.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Reserva oficial</a></div></div>
+<div class="guide__howto"><p>El sendero empieza en la <strong>Degollada de La Goleta</strong>, en la carretera entre Ayacata y Los Pechos, en el centro de Gran Canaria.</p><p>Como ya no se puede aparcar allí, deja el coche en <strong>Cruz de Los Llanos</strong> (desde allí la guagua lanzadera tarda unos 10 minutos) o en <strong>Tejeda</strong>. La línea de guagua que conecta con el Roque también tiene servicio desde el sur de la isla.</p><p><strong>Sin coche:</strong> si no quieres conducir por las cumbres, hay una <a href="https://www.civitatis.com/es/las-palmas-de-gran-canaria/excursion-teror-roque-nublo-bandama/?aid=110968" target="_blank" rel="noopener sponsored">excursión a Teror, el Roque Nublo y la caldera de Bandama</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Degollada+de+La+Goleta" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://reservasroquenublo.com/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Reserva oficial</a></div></div>
 
 <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Antes de llegar al Roque, fíjate en las ventanas naturales que hay en la roca: enmarcan las montañas de Gran Canaria como si fueran un cuadro.</p></div>
 

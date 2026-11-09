@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividades:
+  - t: "Visita guiada por la catedral de Burgos"
+    u: "https://www.civitatis.com/es/burgos/visita-guiada-catedral-burgos/"
+  - t: "Free tour por Burgos"
+    u: "https://www.civitatis.com/es/burgos/free-tour-burgos/"
+actividadesTitulo: 'Actividades en Burgos'
 guia: /assets/guias/guia-burgos-chenoaventuras.pdf
 guiaTitulo: 'Guía Burgos en PDF'
 ---

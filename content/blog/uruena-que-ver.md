@@ -11,6 +11,12 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividades:
+  - t: "Free tour por Valladolid"
+    u: "https://www.civitatis.com/es/valladolid/free-tour-valladolid/"
+  - t: "Visita guiada por Valladolid"
+    u: "https://www.civitatis.com/es/valladolid/visita-guiada-valladolid/"
+actividadesTitulo: 'Actividades en Valladolid'
 faq:
   - q: "¿Por qué Urueña es Villa del Libro?"
     a: "Porque desde 2007 fue la primera villa del libro de España, con librerías, museos y exposiciones dedicados a los libros."

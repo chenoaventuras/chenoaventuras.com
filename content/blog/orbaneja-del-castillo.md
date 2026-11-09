@@ -15,6 +15,12 @@ tags:
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DTdpjjYDDI8/'
 wide: true
+actividades:
+  - t: "Visita guiada por la catedral de Burgos"
+    u: "https://www.civitatis.com/es/burgos/visita-guiada-catedral-burgos/"
+  - t: "Free tour por Burgos"
+    u: "https://www.civitatis.com/es/burgos/free-tour-burgos/"
+actividadesTitulo: 'Actividades en Burgos'
 faq:
   - q: "¿De dónde sale la cascada de Orbaneja del Castillo?"
     a: "No es un río que cae por un desnivel: el agua brota de la Cueva del Agua, un manantial kárstico en lo alto del pueblo, y baja unos 25 metros en terrazas hasta el Ebro, partiendo el pueblo en dos."

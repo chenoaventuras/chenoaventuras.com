@@ -12,6 +12,11 @@ tags:
   - Spots
   - Andalucía
 wide: true
+actividades:
+  - t: "Visita guiada por el Real Alcázar de Sevilla"
+    u: "https://www.civitatis.com/es/sevilla/visita-guiada-alcazar/"
+  - t: "Visita guiada por la catedral de Sevilla"
+    u: "https://www.civitatis.com/es/sevilla/visita-guiada-catedral-sevilla/"
 faqTitulo: "Dudas sobre el Real Alcázar de Sevilla"
 faq:
   - q: "¿Cuánto cuesta la entrada al Real Alcázar de Sevilla?"

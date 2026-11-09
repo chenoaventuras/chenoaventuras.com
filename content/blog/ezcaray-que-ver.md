@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - La Rioja
 wide: true
+actividades:
+  - t: "Free tour por Logroño"
+    u: "https://www.civitatis.com/es/logrono/free-tour-logrono/"
+  - t: "Visita a las bodegas Marqués de Cáceres (Cenicero)"
+    u: "https://www.civitatis.com/es/cenicero/visita-bodegas-marques-caceres/"
+actividadesTitulo: 'Bodegas y visitas en La Rioja'
 faqTitulo: "Dudas sobre Ezcaray"
 faq:
   - q: "¿Qué ver en Ezcaray?"

@@ -14,6 +14,12 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividades:
+  - t: "Free tour por Ávila"
+    u: "https://www.civitatis.com/es/avila/free-tour-avila/"
+  - t: "Visita guiada por Ávila y su catedral"
+    u: "https://www.civitatis.com/es/avila/catedral-avila-basilica-san-vicente/"
+actividadesTitulo: 'Actividades en Ávila'
 faqTitulo: "Dudas sobre Arévalo"
 faq:
   - q: "¿Nació Isabel la Católica en Arévalo?"

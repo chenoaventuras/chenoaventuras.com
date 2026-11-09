@@ -13,6 +13,12 @@ tags:
   - Pueblos
   - País Vasco
 wide: true
+actividades:
+  - t: "Free tour por Bilbao"
+    u: "https://www.civitatis.com/es/bilbao/free-tour-bilbao/"
+  - t: "Excursión a San Juan de Gaztelugatxe, Guernica y Bermeo"
+    u: "https://www.civitatis.com/es/bilbao/excursion-san-juan-gaztelugatxe/"
+actividadesTitulo: 'Actividades en Bilbao y alrededores'
 faqTitulo: "Dudas sobre Balmaseda"
 faq:
   - q: "¿Por qué se dice que Balmaseda es la primera villa de Bizkaia?"

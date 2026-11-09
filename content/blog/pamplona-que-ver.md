@@ -12,6 +12,13 @@ tags:
   - Spots
   - Navarra
 wide: true
+actividades:
+  - t: "Free tour por Pamplona"
+    u: "https://www.civitatis.com/es/pamplona/free-tour-pamplona/"
+  - t: "Tour de los Sanfermines"
+    u: "https://www.civitatis.com/es/pamplona/tour-sanfermines/"
+  - t: "Excursión a la Selva de Irati y Ochagavía"
+    u: "https://www.civitatis.com/es/pamplona/excursion-selva-irati-ochagavia/"
 faqTitulo: "Dudas sobre Pamplona"
 faq:
   - q: "¿Cuándo son los Sanfermines?"

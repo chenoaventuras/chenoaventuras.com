@@ -16,6 +16,13 @@ tags:
 guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
 guiaTitulo: 'Guía de Cuenca en PDF'
 wide: true
+actividades:
+  - t: "Excursión a la Ciudad Encantada y el nacimiento del río Júcar"
+    u: "https://www.civitatis.com/es/cuenca/excursion-ciudad-encantada-rio-jucar/"
+  - t: "Visita guiada por la Ciudad Encantada"
+    u: "https://www.civitatis.com/es/cuenca/visita-guiada-ciudad-encantada/"
+  - t: "Free tour por Cuenca"
+    u: "https://www.civitatis.com/es/cuenca/free-tour-cuenca/"
 faqTitulo: "Dudas sobre la Laguna de Uña"
 faq:
   - q: "¿Se puede bañar en la Laguna de Uña?"
@@ -71,7 +78,7 @@ El pueblo de **Uña** apenas tiene un centenar de vecinos, pero su laguna es una
 <p>Si te apetece caminar, la <strong>ruta del Escalerón</strong> es la más famosa de Uña. Sube por un sendero empinado entre los cortados hasta lo alto de la muela y te regala vistas de la laguna desde arriba. El circuito completo ronda los <strong>9 km</strong> y tiene tramos exigentes, pero lo hace cualquiera con una forma física normal. Si prefieres algo tranquilo, el paseo por la orilla y las pasarelas es llano y apto para todas las edades.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Laguna de Uña</h2></div>
-<div class="guide__howto"><p>Desde Cuenca, toma la carretera de Villalba de la Sierra (CM-2105) en dirección a la Ciudad Encantada y sigue hacia Uña. Son unos <strong>35 km</strong> por una carretera muy bonita que va siguiendo el Júcar.</p><p>Junto a la laguna y en el propio pueblo hay sitio para aparcar.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laguna+de+U%C3%B1a%2C+Cuenca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Desde Cuenca, toma la carretera de Villalba de la Sierra (CM-2105) en dirección a la Ciudad Encantada y sigue hacia Uña. Son unos <strong>35 km</strong> por una carretera muy bonita que va siguiendo el Júcar.</p><p>Junto a la laguna y en el propio pueblo hay sitio para aparcar.</p><p><strong>Con excursión:</strong> desde Cuenca hay una <a href="https://www.civitatis.com/es/cuenca/excursion-ciudad-encantada-rio-jucar/?aid=110968" target="_blank" rel="noopener sponsored">excursión a la Ciudad Encantada y el nacimiento del río Júcar</a>, la misma zona de la Serranía.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laguna+de+U%C3%B1a%2C+Cuenca" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Primera o última hora</b> — con el agua en calma la laguna hace de espejo y es cuando más fauna se ve.</li><li><b>Combínala</b> — con la Ciudad Encantada (15 min) y el Ventano del Diablo, todo en la misma carretera.</li><li><b>Respeta el entorno</b> — no se puede bañar y conviene no salirse de los caminos señalizados.</li><li><b>Primavera y otoño</b> — son las mejores épocas: colores, temperatura agradable y menos gente.</li></ul><p>Uña es el sitio perfecto para comer en mitad de la ruta por la Serranía 😋</p></div>
 

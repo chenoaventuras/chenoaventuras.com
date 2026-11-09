@@ -11,6 +11,11 @@ tags:
   - Pueblos
   - Canarias
 wide: true
+actividades:
+  - t: "Free tour por Santa Cruz de La Palma"
+    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/free-tour-santa-cruz-palma/"
+  - t: "Excursión al volcán Tajogaite"
+    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
 faqTitulo: "Dudas sobre Santa Cruz de La Palma"
 faq:
   - q: "¿Qué ver en Santa Cruz de La Palma?"

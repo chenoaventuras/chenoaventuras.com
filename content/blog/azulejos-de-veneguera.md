@@ -11,6 +11,11 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividades:
+  - t: "Kayak y snorkel en las cuevas de Taurito"
+    u: "https://www.civitatis.com/es/mogan/kayak-snorkel-cuevas-taurito/"
+  - t: "Paseo en barco por Puerto de Mogán + snorkel"
+    u: "https://www.civitatis.com/es/puerto-de-mogan/paseo-barco-puerto-mogan-snorkel/"
 faqTitulo: "Dudas sobre Los Azulejos de Veneguera"
 faq:
   - q: "¿Por qué los Azulejos son de colores?"

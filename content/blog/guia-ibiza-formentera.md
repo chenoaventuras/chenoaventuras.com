@@ -10,6 +10,11 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividades:
+  - t: "Excursión a Formentera desde San Antonio"
+    u: "https://www.civitatis.com/es/san-antonio-abad/excursion-formentera/"
+  - t: "Barco a Es Vedrà desde San Antonio"
+    u: "https://www.civitatis.com/es/san-antonio-abad/paseo-barco-es-vedra/"
 guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
 guiaTitulo: 'Guía Ibiza y Formentera completa en PDF'
 faqTitulo: "Dudas sobre la guía"

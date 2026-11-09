@@ -13,6 +13,11 @@ coverPosition: center 50%
 tags:
   - Spots
   - Castilla-La Mancha
+actividades:
+  - t: "Excursión a la Ciudad Encantada y el nacimiento del río Júcar"
+    u: "https://www.civitatis.com/es/cuenca/excursion-ciudad-encantada-rio-jucar/"
+  - t: "Visita guiada por la Ciudad Encantada"
+    u: "https://www.civitatis.com/es/cuenca/visita-guiada-ciudad-encantada/"
 guia: /assets/guias/guia-cuenca-chenoaventuras.pdf
 guiaTitulo: 'Guía de Cuenca en PDF'
 wide: true
@@ -65,7 +70,7 @@ Lo mejor: está junto a la carretera, a 20 minutos de Cuenca, y se llega en 2 mi
 <p>Además de asomarte al mirador, la zona es uno de los centros de aventura de Cuenca. Justo bajo el Ventano está la <a href="/blog/via-ferrata-ventano-del-diablo.html"><strong>vía ferrata del Ventano del Diablo</strong></a>, con puentes colgantes sobre el Júcar, y muy cerca se hace <a href="/blog/barranquismo-en-cuenca.html"><strong>barranquismo en el río Júcar</strong></a> y <a href="/blog/ruta-quads-serrania-de-cuenca.html"><strong>rutas en quad</strong></a> desde Villalba de la Sierra. Yo las he hecho todas y en cada post te enseño el vídeo.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Ventano del Diablo</h2></div>
-<div class="guide__howto"><p>Está en la carretera <strong>CM-2105</strong>, entre Villalba de la Sierra y la Ciudad Encantada, a unos 20 minutos de Cuenca. Hay un pequeño <strong>aparcamiento junto a la carretera</strong> y desde ahí son unos 150 metros a pie.</p><p>Al estar de camino, encaja perfecto en la ruta hacia la Ciudad Encantada y la Laguna de Uña.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Ventano+del+Diablo%2C+Villalba+de+la+Sierra" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>Está en la carretera <strong>CM-2105</strong>, entre Villalba de la Sierra y la Ciudad Encantada, a unos 20 minutos de Cuenca. Hay un pequeño <strong>aparcamiento junto a la carretera</strong> y desde ahí son unos 150 metros a pie.</p><p>Al estar de camino, encaja perfecto en la ruta hacia la Ciudad Encantada y la Laguna de Uña.</p><p><strong>Con excursión:</strong> desde Cuenca hay una <a href="https://www.civitatis.com/es/cuenca/excursion-ciudad-encantada-rio-jucar/?aid=110968" target="_blank" rel="noopener sponsored">excursión a la Ciudad Encantada y el nacimiento del río Júcar</a> que recorre esta misma carretera.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Ventano+del+Diablo%2C+Villalba+de+la+Sierra" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Las vistas desde los cortados impresionan: asómate a las ventanas de roca y verás el cañón del Júcar a tus pies. Es una parada corta, así que júntala con la vía ferrata que hay allí mismo o con la Ciudad Encantada.</p></div>
 

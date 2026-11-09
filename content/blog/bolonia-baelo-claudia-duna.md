@@ -12,6 +12,10 @@ tags:
   - Spots
   - Andalucía
 wide: true
+actividades:
+  - t: "Excursión a Vejer y Conil de la Frontera"
+    u: "https://www.civitatis.com/es/cadiz/excursion-vejer-medina-sidonia/"
+actividadesTitulo: 'Planes cerca de Bolonia'
 faqTitulo: "Dudas sobre Bolonia"
 faq:
   - q: "¿Qué producía Baelo Claudia?"

@@ -12,6 +12,9 @@ tags:
   - Pueblos
   - Comunidad Valenciana
 wide: true
+actividades:
+  - t: "Visita guiada por Sagunto"
+    u: "https://www.civitatis.com/es/sagunto/visita-guiada-sagunto/"
 faqTitulo: "Dudas sobre Sagunto"
 faq:
   - q: "¿Por qué es famoso el asedio de Sagunto?"

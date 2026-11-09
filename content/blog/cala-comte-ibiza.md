@@ -12,6 +12,9 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividades:
+  - t: "Barco a Es Vedrà desde San Antonio"
+    u: "https://www.civitatis.com/es/san-antonio-abad/paseo-barco-es-vedra/"
 faqTitulo: "Dudas sobre Cala Comte"
 faq:
   - q: "¿Dónde está Cala Comte?"

@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividades:
+  - t: "Free tour por Valladolid"
+    u: "https://www.civitatis.com/es/valladolid/free-tour-valladolid/"
+  - t: "Visita guiada por Valladolid"
+    u: "https://www.civitatis.com/es/valladolid/visita-guiada-valladolid/"
+actividadesTitulo: 'Actividades en Valladolid'
 faqTitulo: "Dudas sobre Medina del Campo"
 faq:
   - q: "¿Se puede visitar el Castillo de la Mota?"
