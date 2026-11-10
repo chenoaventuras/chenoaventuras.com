@@ -34,6 +34,8 @@ faq:
     a: "En las tiendas de deporte de Biescas, Panticosa, Formigal o Benasque, y en refugios como Gabardito o Pineta. Las salidas guiadas suelen incluir raquetas y bastones."
   - q: "¿Cuánto cuesta una excursión con raquetas en el Valle de Tena?"
     a: "La salida de 3 horas de GetYourGuide incluye guía de media montaña y recogida. La de Civitatis desde Biescas cuesta desde unos 60 €, dura unas 5 horas e incluye raquetas, bastones y fotos (mayores de 12 años)."
+guia: /assets/guias/guia-huesca-chenoaventuras.pdf
+guiaTitulo: 'Guía Huesca en PDF'
 ---
 Andar sobre la nieve sin hundirte, en silencio, entre pinos y con los picos del Pirineo alrededor. Las **raquetas de nieve** son la forma más fácil de disfrutar de la montaña en invierno: no hace falta saber esquiar ni estar en gran forma.
 

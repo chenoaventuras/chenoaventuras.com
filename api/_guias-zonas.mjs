@@ -326,6 +326,7 @@ export const ZONE_GUIDES = {
   "que-hacer-en-la-palma": {"title": "Guía La Palma", "file": "/assets/guias/guia-la-palma-chenoaventuras.pdf"},
   "que-ver-en-matarrana": {"title": "Guía Teruel", "file": "/assets/guias/guia-teruel-chenoaventuras.pdf"},
   "rafting-canon-de-almadenes": {"title": "Guía Región de Murcia", "file": "/assets/guias/guia-murcia-chenoaventuras.pdf"},
+  "raquetas-de-nieve-pirineo": {"title": "Guía Huesca", "file": "/assets/guias/guia-huesca-chenoaventuras.pdf"},
   "real-alcazar-sevilla": {"title": "Guía Sevilla", "file": "/assets/guias/guia-sevilla-chenoaventuras.pdf"},
   "ribadeo-que-ver": {"title": "Guía Lugo y Ourense", "file": "/assets/guias/guia-lugo-ourense-chenoaventuras.pdf"},
   "ribadesella-que-ver": {"title": "Guía Asturias", "file": "/assets/guias/guia-asturias-chenoaventuras.pdf"},
