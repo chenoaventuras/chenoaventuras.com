@@ -835,7 +835,6 @@
     "Mahón"
   ],
   "malaga-que-ver": [
-    "Alcazaba de Málaga",
     "Gibralfaro",
     "qué ver en Málaga"
   ],
@@ -1587,5 +1586,12 @@
   ],
   "raquetas-de-nieve-pirineo": [
     "raquetas de nieve"
+  ],
+  "alcazaba-de-malaga": [
+    "Alcazaba de Málaga",
+    "teatro romano de Málaga"
+  ],
+  "cueva-del-tesoro": [
+    "Cueva del Tesoro"
   ]
 }

@@ -14,8 +14,6 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre Málaga"
 faq:
-  - q: "¿Por qué se llama «La Manquita» la catedral de Málaga?"
-    a: "Porque solo tiene una de sus dos torres terminadas."
   - q: "¿Quién nació en Málaga?"
     a: "Pablo Picasso, en 1881."
   - q: "¿Cuánto cuesta entrar a la Alcazaba y Gibralfaro?"
@@ -34,6 +32,17 @@ faq:
     a: "Hay franjas gratuitas en algunos momentos del domingo, pero cambian; consulta la web del museo. Además, la Casa Natal de Picasso está en la plaza de la Merced."
   - q: "¿Cómo ir del aeropuerto al centro de Málaga?"
     a: "En tren de cercanías o autobús, en unos 15-20 minutos. El aeropuerto está a unos 8 km del centro."
+actividades:
+  - t: "Free tour por Málaga"
+    u: "https://www.civitatis.com/es/malaga/free-tour-malaga/"
+  - t: "Visita guiada por la Alcazaba y el Teatro Romano"
+    u: "https://www.civitatis.com/es/malaga/visita-alcazaba-teatro-romano/"
+  - t: "Tour de Málaga al completo con entradas"
+    u: "https://www.civitatis.com/es/malaga/tour-malaga-completo/"
+  - t: "Excursión al Caminito del Rey desde Málaga"
+    u: "https://www.civitatis.com/es/malaga/excursion-caminito-rey/"
+  - t: "Entrada a la Cueva del Tesoro (Rincón de la Victoria)"
+    u: "https://www.civitatis.com/es/rincon-de-la-victoria/entrada-cueva-tesoro/"
 guia: /assets/guias/guia-malaga-chenoaventuras.pdf
 guiaTitulo: 'Guía Málaga en PDF'
 ---
@@ -53,8 +62,8 @@ Te cuento qué ver, cuándo entrar gratis en la Alcazaba, cómo subir a las cubi
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>La colina de la Alcazaba</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/malaga-que-ver/alcazaba.webp" alt="Torre de la Alcazaba de Málaga" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Alcazaba</h3><p>Un palacio fortaleza musulmán del siglo XI, con patios, fuentes, jardines y arcos que recuerdan a la Alhambra, en la ladera del monte Gibralfaro.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/malaga-que-ver/teatro-romano.webp" alt="Teatro romano de Málaga a los pies de la Alcazaba" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El teatro romano</h3><p>Del siglo I, apareció en 1951 bajo un jardín. Está a los pies de la Alcazaba y se ve gratis desde la calle Alcazabilla; el centro de interpretación también es gratuito.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/malaga-que-ver/alcazaba.jpg" alt="Cheno en la Puerta de las Columnas de la Alcazaba de Málaga" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Alcazaba</h3><p>Un palacio fortaleza musulmán del siglo XI, con patios, fuentes, jardines y arcos que recuerdan a la Alhambra, en la ladera del monte Gibralfaro. Te lo cuento todo en el post de la <a href="/blog/alcazaba-de-malaga.html">Alcazaba de Málaga</a>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/malaga-que-ver/teatro-romano.jpg" alt="Teatro romano de Málaga a los pies de la Alcazaba" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El teatro romano</h3><p>Del siglo I, apareció en 1951 bajo un jardín. Está a los pies de la Alcazaba y se ve gratis desde la calle Alcazabilla; el centro de interpretación también es gratuito.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/malaga-que-ver/portada.webp" alt="Vista de Málaga y el puerto desde el castillo de Gibralfaro" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El castillo de Gibralfaro</h3><p>En lo alto del monte, unido a la Alcazaba por una muralla. Desde su paseo de ronda tienes la mejor vista de Málaga, el puerto y la plaza de toros. Se sube andando (cuesta) o en autobús.</p></div></li>
 </ol>
 <div class="guide__howto"><h3>🎫 Entradas</h3><p>Con las tarifas actualizadas, unos <strong>7 € cada monumento</strong> y <strong>unos 10 € la entrada conjunta</strong> (reducidas para estudiantes, mayores y desempleados). Los <strong>domingos a partir de las 14:00</strong>, la entrada a la Alcazaba y Gibralfaro es <strong>gratuita</strong>. Consulta los precios vigentes antes de ir.</p></div>
@@ -88,10 +97,10 @@ Te cuento qué ver, cuándo entrar gratis en la Alcazaba, cómo subir a las cubi
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Málaga</h2></div>
 <div class="guide__howto"><p><strong>En avión:</strong> el aeropuerto está a 8 km; tren de cercanías o autobús al centro en unos 15-20 minutos.</p><p><strong>En AVE:</strong> desde Madrid, unas 2 horas y media.</p><p><strong>Dónde aparcar:</strong> en los aparcamientos subterráneos del centro o del puerto; el centro histórico es peatonal.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Alcazaba%20de%20M%C3%A1laga" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
-<p>Desde Málaga, a menos de una hora tienes el <a href="/blog/caminito-del-rey.html">Caminito del Rey</a>, <a href="/blog/frigiliana-que-ver.html">Frigiliana</a> y <a href="/blog/ronda-que-ver.html">Ronda</a>, y el pueblo azul de <a href="/blog/juzcar-pueblo-pitufo.html">Júzcar</a>.</p>
+<p>Desde Málaga, a 15 minutos está la <a href="/blog/cueva-del-tesoro.html">Cueva del Tesoro</a>, que se formó bajo el mar, y a menos de una hora tienes el <a href="/blog/caminito-del-rey.html">Caminito del Rey</a>, <a href="/blog/frigiliana-que-ver.html">Frigiliana</a> y <a href="/blog/ronda-que-ver.html">Ronda</a>, y el pueblo azul de <a href="/blog/juzcar-pueblo-pitufo.html">Júzcar</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Domingo por la tarde</b>: Alcazaba y Gibralfaro gratis.</li><li><b>Sube a Gibralfaro</b> en autobús y baja andando.</li><li><b>Espetos al atardecer</b> en la Malagueta.</li><li><b>Pide un «sombra»</b> en una cafetería del centro.</li><li><b>Evita agosto a mediodía</b>: hace mucho calor y hay mucha gente.</li></ul></div>
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta los precios vigentes de la Alcazaba, Gibralfaro, la catedral y el Museo Picasso antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Vista_de_M%C3%A1laga_desde_el_castillo_de_Gibralfaro,_Espa%C3%B1a,_2023-05-20,_DD_113.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Alcazaba,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-20,_DD_98.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Catedral_de_la_Encarnaci%C3%B3n,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-19,_DD_37-39_HDR.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Teatro_romano,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-20,_DD_11.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Calle_Larios_6,_M%C3%A1laga_002.jpg" target="_blank" rel="noopener">Tyk</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Pescado_al_espeto,_playa_de_la_Malagueta,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-20,_DD_68.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:M%C3%A1laga_-_Mercado_Central_de_Atarazanas_2019-10-22.jpg" target="_blank" rel="noopener">Rafa Esteve</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Cathedral_of_M%C3%A1laga,_2016.jpg" target="_blank" rel="noopener">Euku</a> (CC BY-SA 3.0).</p>
+<p class="guide__note">Información consultada en octubre de 2026. Consulta los precios vigentes de la Alcazaba, Gibralfaro, la catedral y el Museo Picasso antes de ir. Fotos de la Alcazaba y el teatro romano: @chenoaventuras. Resto, de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Vista_de_M%C3%A1laga_desde_el_castillo_de_Gibralfaro,_Espa%C3%B1a,_2023-05-20,_DD_113.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Catedral_de_la_Encarnaci%C3%B3n,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-19,_DD_37-39_HDR.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Calle_Larios_6,_M%C3%A1laga_002.jpg" target="_blank" rel="noopener">Tyk</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Pescado_al_espeto,_playa_de_la_Malagueta,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-20,_DD_68.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:M%C3%A1laga_-_Mercado_Central_de_Atarazanas_2019-10-22.jpg" target="_blank" rel="noopener">Rafa Esteve</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Cathedral_of_M%C3%A1laga,_2016.jpg" target="_blank" rel="noopener">Euku</a> (CC BY-SA 3.0).</p>
