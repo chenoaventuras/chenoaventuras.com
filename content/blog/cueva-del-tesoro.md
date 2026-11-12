@@ -37,6 +37,8 @@ faq:
     a: "Solo en parte: hay un ascensor hasta la primera sala, pero el resto del recorrido tiene varios tramos de escaleras."
   - q: "¿Cuánto dura la visita?"
     a: "Cuenta con una hora entre la exposición de la entrada y el recorrido por la cueva. Se hace por libre, con una audioguía gratis en tu móvil."
+guia: /assets/guias/guia-malaga-chenoaventuras.pdf
+guiaTitulo: 'Guía Málaga en PDF'
 ---
 La mayoría de las cuevas se forman cuando el agua de lluvia va disolviendo la roca. La **Cueva del Tesoro** no: se formó **bajo el mar**, y por eso sus paredes parecen esculpidas por las olas. Es una de las **tres cuevas de origen marino** que se conocen en el mundo; las otras dos están en Asia y en Centroamérica. Y encima tiene leyenda: dicen que aquí dentro sigue escondido un tesoro almorávide.
 

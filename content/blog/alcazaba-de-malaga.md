@@ -37,6 +37,8 @@ faq:
     a: "Sí, hay un ascensor en la calle Guillén Sotelo, detrás del Ayuntamiento, que lleva a la parte alta. La entrada principal está en la calle Alcazabilla, junto al Teatro Romano."
   - q: "¿Se puede ir de la Alcazaba a Gibralfaro andando?"
     a: "Sí, pero no por dentro: hay que salir y subir por el camino de Gibralfaro, una cuesta de unos 20-30 minutos. También se puede subir en autobús y bajar andando."
+guia: /assets/guias/guia-malaga-chenoaventuras.pdf
+guiaTitulo: 'Guía Málaga en PDF'
 ---
 Una fortaleza árabe del siglo XI, con patios, fuentes y miradores sobre el puerto, y a sus pies un **teatro romano** de hace 2.000 años que estuvo enterrado hasta 1951. La **Alcazaba de Málaga** es lo primero que hay que ver en la ciudad, y además los domingos por la tarde es gratis.
 
