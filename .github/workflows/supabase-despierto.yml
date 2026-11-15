@@ -1,0 +1,26 @@
+name: Mantener despierto el ranking (Supabase)
+
+# Supabase pausa los proyectos gratis tras 7 días sin actividad. Este aviso
+# consulta el ranking del minijuego de la 404 cada 2 días, sin depender del
+# cron de Vercel (que ya hace lo mismo cada 3 días, pero no lo evitó en
+# noviembre de 2026). Si falla, GitHub manda un correo: señal de que el
+# proyecto se ha pausado y hay que reactivarlo desde el panel de Supabase.
+on:
+  schedule:
+    - cron: "17 7 */2 * *"
+  workflow_dispatch: {}
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Consultar el ranking
+        run: |
+          for i in 1 2 3; do
+            code=$(curl -s -o out.json -w "%{http_code}" -m 30 https://www.chenoaventuras.com/api/scores || true)
+            echo "Intento $i: HTTP $code"; cat out.json; echo
+            [ "$code" = "200" ] && exit 0
+            sleep 60
+          done
+          echo "El ranking no responde: revisa si Supabase ha pausado el proyecto."
+          exit 1
