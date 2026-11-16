@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Mahón (Maó): el gran puerto natural de Menorca, su herencia británica y la ginebra'
 seoTitle: 'Qué ver en Mahón (Menorca): puerto, ginebra y fortalezas'
+seoDescription: 'Qué ver en Mahón y alrededores (Menorca): el paseo en barco por el puerto, la Illa del Rei, La Mola, Santa María, la ginebra Xoriguer, Es Castell y calas.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Mahón'
 provincia: Islas Baleares

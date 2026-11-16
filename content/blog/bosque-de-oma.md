@@ -1,6 +1,7 @@
 ---
 title: 'Bosque de Oma: el bosque pintado de Ibarrola en Urdaibai'
 seoTitle: 'Bosque de Oma: reservas, ruta y el nuevo bosque pintado'
+seoDescription: 'Bosque de Oma (Bizkaia): los árboles pintados de Ibarrola, el nuevo bosque reabierto en 2023, cómo reservar, la ruta, si está abierto y qué ver cerca.'
 date: 2026-10-10T09:30:00.000Z
 lugar: 'Bosque de Oma'
 lat: 43.3393

@@ -1,5 +1,6 @@
 ---
 title: 'El nido de cigüeña más famoso de España: la "Torre de Pisa" burgalesa'
+seoDescription: '¿Cuánto pesa un nido de cigüeña? El más famoso de España, en Burgos, pesa casi una tonelada y mide dos metros. Dónde está y por qué hubo que reforzarlo.'
 date: 2026-04-22T17:46:32.000Z
 destino: burgos
 seoTitle: 'El nido de cigüeña más famoso de España, en Burgos'

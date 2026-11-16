@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Fuerteventura: dunas, playas infinitas y volcanes'
 seoTitle: 'Qué ver en Fuerteventura: 11 lugares imprescindibles y ruta'
+seoDescription: 'Qué ver y hacer en Fuerteventura: dunas de Corralejo, Isla de Lobos, Cofete, Sotavento, Cuevas de Ajuy, Betancuria, Calderón Hondo y Jandía, con ruta.'
 date: 2026-10-11T19:10:00.000Z
 lugar: 'Fuerteventura'
 lat: 28.3587

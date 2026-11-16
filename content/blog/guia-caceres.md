@@ -2,6 +2,7 @@
 coche: true
 title: 'Guía de Cáceres en PDF: 10 lugares y ruta'
 seoTitle: 'Guía de Cáceres gratis en PDF: qué ver y ruta'
+seoDescription: 'Qué ver en la provincia de Cáceres, con guía PDF gratis: Cáceres, Trujillo, Monfragüe, Guadalupe, Los Barruecos, el Valle del Jerte y más rutas.'
 date: 2026-10-18T10:05:00.000Z
 lugar: 'Cáceres'
 excerpt: 'Mi guía de Cáceres gratis en PDF: Cáceres, Trujillo, Monfragüe, Guadalupe, Los Barruecos, Hervás, el Valle del Jerte, Yuste, Granadilla y el Meandro del Melero.'

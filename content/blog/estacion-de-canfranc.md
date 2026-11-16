@@ -1,5 +1,6 @@
 ---
 title: 'Estación de Canfranc: la historia detrás de la estación más bonita de España'
+seoDescription: 'Estación Internacional de Canfranc (Huesca): cómo visitarla por dentro (visita guiada 6 €), su historia en la Segunda Guerra Mundial, el hotel y cómo llegar.'
 date: 2025-07-12T11:19:03.000Z
 updated: 2026-10-09T10:00:00.000Z
 destino: pirineo-aragones

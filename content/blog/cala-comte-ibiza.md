@@ -1,6 +1,7 @@
 ---
 title: 'Cala Comte: el agua más turquesa de Ibiza, sus islotes y uno de los mejores atardeceres del Mediterráneo'
 seoTitle: 'Cala Comte (Ibiza): cómo llegar, atardecer y consejos'
+seoDescription: 'Cómo llegar a Cala Comte (Ibiza) en coche, bus o barco desde Sant Antoni, dónde aparcar, sus calas turquesa, el atardecer y cómo evitar las aglomeraciones.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Cala Comte (Ibiza)'
 provincia: Islas Baleares

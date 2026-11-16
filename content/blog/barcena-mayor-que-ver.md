@@ -1,6 +1,7 @@
 ---
 title: 'Bárcena Mayor: el pueblo de piedra donde termina la carretera'
 seoTitle: 'Bárcena Mayor (Cantabria): qué ver y dónde comer cocido'
+seoDescription: 'Qué ver en Bárcena Mayor (Cantabria) y dónde comer el mejor cocido montañés: casas de piedra con balcones, el puente sobre el Argoza y el Saja-Besaya.'
 date: 2026-10-17T10:00:00.000Z
 lugar: 'Bárcena Mayor'
 provincia: Cantabria

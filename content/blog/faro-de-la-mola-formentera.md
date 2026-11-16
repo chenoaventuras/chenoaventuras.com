@@ -1,6 +1,7 @@
 ---
 title: 'Faro de la Mola (Formentera): amanecer, Molí Vell y mercadillo de El Pilar de la Mola'
 seoTitle: 'Faro de la Mola (Formentera): cómo llegar, amanecer y qué ver'
+seoDescription: 'Faro de la Mola (Formentera): cómo llegar, el amanecer, el museo, el monumento a Julio Verne, el Molí Vell y el mercadillo de El Pilar de la Mola.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Faro de la Mola'
 lat: 38.6667

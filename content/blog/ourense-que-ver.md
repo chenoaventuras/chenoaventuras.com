@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Ourense en un día: Puente Romano, As Burgas, Catedral y termas'
 seoTitle: 'Qué ver en Ourense en un día: imprescindibles, termas y tapas'
+seoDescription: 'Qué ver en Ourense en un día: el Puente Romano, la Catedral, As Burgas, la Praza do Trigo y las termas del Miño. Qué comer y cómo llegar.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Ourense'
 lat: 42.3358

@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Sagunto: Castillo, Teatro Romano, Judería y qué hacer en una mañana'
 seoTitle: 'Qué ver en Sagunto: castillo, teatro romano y judería (entrada gratis)'
+seoDescription: 'Qué ver y qué hacer en Sagunto: el Castillo y el Teatro Romano (entrada gratuita), horarios, la Judería, el Circo Romano y cómo llegar desde Valencia.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Sagunto'
 lat: 39.6794

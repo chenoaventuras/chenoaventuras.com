@@ -1,6 +1,7 @@
 ---
 title: 'Campos de lavanda de Brihuega: cuándo ir, dónde verlos y qué ver en la «Provenza española»'
 seoTitle: 'Lavanda de Brihuega: cuándo ir, dónde verla y consejos'
+seoDescription: 'Lavanda de Brihuega: cuándo florece, dónde ver los campos gratis, el Festival de la Lavanda, cómo llegar y qué ver en el pueblo: cuevas árabes y murallas.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Brihuega'
 provincia: Guadalajara

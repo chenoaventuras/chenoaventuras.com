@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Lastres: el pueblo marinero de «Doctor Mateo», su mirador de San Roque y su puerto'
 seoTitle: 'Qué ver en Lastres: puerto, mirador de San Roque y cómo llegar'
+seoDescription: 'Qué ver en Lastres (Asturias), el pueblo de «Doctor Mateo»: el puerto, el mirador de San Roque, la iglesia de Santa María de Sábada y cómo llegar.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Lastres'
 lat: 43.5126

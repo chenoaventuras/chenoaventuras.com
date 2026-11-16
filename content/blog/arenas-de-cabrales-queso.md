@@ -1,6 +1,7 @@
 ---
 title: 'Arenas de Cabrales y el queso de Cabrales: cómo se hace, dónde probarlo y la feria'
 seoTitle: 'Queso de Cabrales: qué es, cuevas y Arenas de Cabrales'
+seoDescription: 'Dónde se hace el queso de Cabrales: Arenas de Cabrales, la maduración en cuevas de los Picos de Europa, la DOP, dónde comprarlo y el certamen de agosto.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Arenas de Cabrales'
 lat: 43.3033

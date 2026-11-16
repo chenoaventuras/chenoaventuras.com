@@ -1,6 +1,7 @@
 ---
 title: 'San Millán de la Cogolla: los monasterios de Yuso y Suso, la cuna del castellano'
 seoTitle: 'San Millán de la Cogolla: Yuso, Suso y cómo visitarlos'
+seoDescription: 'Cómo llegar a San Millán de la Cogolla y visitar los monasterios de Suso y Yuso, cuna del castellano por las Glosas Emilianenses. Entradas y consejos.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'San Millán de la Cogolla'
 provincia: La Rioja

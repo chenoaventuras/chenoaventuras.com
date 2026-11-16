@@ -1,6 +1,7 @@
 ---
 title: 'Cantabria en 5 días: ruta en coche por Santander, Altamira, Comillas, El Soplao y los Picos de Europa'
 seoTitle: 'Cantabria en 5 días: itinerario en coche y qué ver'
+seoDescription: 'Qué ver en Cantabria en 5 días en coche: ruta día a día por Santander, Costa Quebrada, Cabárceno, Santillana, Comillas, El Soplao y Picos de Europa.'
 date: 2026-10-25T10:00:00.000Z
 lugar: 'Cantabria'
 lat: 43.4623

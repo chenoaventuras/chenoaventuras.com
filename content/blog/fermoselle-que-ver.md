@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Fermoselle: el pueblo de las mil bodegas y los Arribes del Duero'
 seoTitle: 'Qué ver en Fermoselle (Zamora): bodegas, miradores y casco antiguo'
+seoDescription: 'Qué ver en Fermoselle y alrededores: las bodegas subterráneas, el castillo, los miradores sobre el Duero y los Arribes. Cómo llegar desde Zamora.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Fermoselle'
 lat: 41.3158

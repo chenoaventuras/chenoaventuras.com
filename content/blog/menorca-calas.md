@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Menorca: calas turquesa, faros, pueblos blancos y talayots'
 seoTitle: 'Qué ver en Menorca: mejores calas, pueblos y ruta'
+seoDescription: 'Las mejores calas de Menorca, del sur y del norte: Macarella, Mitjana, Turqueta, Pregonda y las calas cerca de Mahón y Ciutadella. Y qué más ver en la isla.'
 date: 2026-10-11T11:10:00.000Z
 lugar: 'Menorca'
 lat: 39.9496

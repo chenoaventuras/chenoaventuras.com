@@ -1,6 +1,7 @@
 ---
 title: 'Sierra de Cazorla: qué ver, el nacimiento del Guadalquivir, la Cerrada del Utrero y sus pueblos'
 seoTitle: 'Sierra de Cazorla: qué ver, rutas y pueblos'
+seoDescription: 'Sierra de Cazorla (Jaén): dónde está y qué ver, el nacimiento del Guadalquivir, la Cerrada del Utrero, el Tranco, Segura de la Sierra, rutas y cabras montesas.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Cazorla'
 provincia: Jaén

@@ -1,6 +1,7 @@
 ---
 title: 'Playa de Cuevas del Mar (Nueva, Llanes): cómo llegar, mareas y qué ver en esta cala de acantilados'
 seoTitle: 'Playa de Cuevas del Mar: cómo llegar y mareas (Llanes)'
+seoDescription: 'Cómo llegar a la playa de Cuevas del Mar (Llanes, Asturias), cuándo ir según la marea para ver sus cuevas y arcos de roca y qué ver cerca.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Playa de Cuevas del Mar'
 lat: 43.443

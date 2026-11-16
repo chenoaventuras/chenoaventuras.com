@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Alcaraz: la plaza renacentista, las torres y la sierra'
 seoTitle: 'Alcaraz (Albacete): qué ver y cómo llegar'
+seoDescription: 'Cómo llegar a Alcaraz (Albacete) y qué ver en un día: la Plaza Mayor renacentista, la torre del Tardón, las lonjas y las ruinas del castillo.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Alcaraz'
 lat: 38.6692

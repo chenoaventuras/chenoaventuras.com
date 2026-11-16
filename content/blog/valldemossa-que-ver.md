@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Valldemossa: Cartuja de Chopin, coca de patata y Son Marroig'
 seoTitle: 'Qué ver en Valldemossa (Mallorca): Cartuja, calles y Son Marroig'
+seoDescription: 'Qué ver en Valldemossa (Mallorca): la Real Cartuja de Chopin, las calles con macetas, la coca de patata y Son Marroig. Cómo llegar desde Palma y cuándo ir.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Valldemossa'
 lat: 39.7106

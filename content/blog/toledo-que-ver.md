@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Toledo: catedral, Alcázar, sinagogas, El Greco y el mejor mirador'
 seoTitle: 'Qué ver en Toledo en un día: monumentos imprescindibles y mirador'
+seoDescription: 'Qué ver en Toledo en un día o dos: la catedral, el Alcázar, Santo Tomé y El Greco, las sinagogas y el Mirador del Valle. Cómo ir desde Madrid y la pulsera turística.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Toledo'
 lat: 39.8628

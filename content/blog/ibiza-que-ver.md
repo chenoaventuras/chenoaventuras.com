@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Ibiza: calas, Es Vedrà y Dalt Vila, la Ibiza tranquila'
 seoTitle: 'Qué ver en Ibiza: calas, Es Vedrà, Dalt Vila y atardeceres'
+seoDescription: 'Rincones de Ibiza más allá de la fiesta: Dalt Vila, Es Vedrà, Cala d''Hort, Cala Salada, Ses Salines, Punta de sa Galera y los atardeceres, con ruta y consejos.'
 date: 2026-10-11T19:50:00.000Z
 lugar: 'Ibiza'
 lat: 38.9067

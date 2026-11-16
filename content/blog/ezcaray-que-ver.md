@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Ezcaray: plazas, mantas, Real Fábrica y Valdezcaray'
 seoTitle: 'Qué ver en Ezcaray (La Rioja): plazas, mantas y esquí en Valdezcaray'
+seoDescription: 'Qué ver en Ezcaray (La Rioja): el casco antiguo y sus plazas, la Real Fábrica, las mantas de Ezcaray, Valdezcaray en invierno y un plan de un día.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Ezcaray'
 lat: 42.3239

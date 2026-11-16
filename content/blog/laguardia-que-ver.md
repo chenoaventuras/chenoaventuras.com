@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Laguardia: el pueblo con bodegas bajo sus calles'
 seoTitle: 'Qué ver en Laguardia (Álava): bodegas, pórtico y lagunas'
+seoDescription: 'Qué ver en Laguardia: visitar bodegas bajo el pueblo, el pórtico de Santa María de los Reyes, las lagunas, dólmenes y el Balcón de La Rioja en el puerto de Herrera.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Laguardia'
 lat: 42.5531

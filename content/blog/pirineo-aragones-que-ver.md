@@ -1,6 +1,7 @@
 ---
 title: 'Pirineo Aragonés: qué ver, pueblos, rutas, cascadas e ibones'
 seoTitle: 'Qué ver en el Pirineo Aragonés: guía completa'
+seoDescription: 'Qué ver en el Pirineo aragonés: 30 pueblos, rutas, cascadas e ibones del Valle de Tena, Ordesa, Jaca, Benasque y Guara. Cómo llegar y cuándo ir.'
 date: 2026-08-06T17:29:16.000Z
 updated: 2026-10-08T19:00:00.000Z
 destino: pirineo-aragones

@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Lugo: la única muralla romana completa del mundo, tapas gratis y pulpo'
 seoTitle: 'Qué ver en Lugo: muralla romana, catedral y tapas'
+seoDescription: 'Qué ver en Lugo gratis: el paseo por su muralla romana, la catedral, la Praza Maior, el puente romano, las tapas gratis con cada vino, el Arde Lucus y San Froilán.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Lugo'
 provincia: Lugo

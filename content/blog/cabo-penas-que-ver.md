@@ -1,6 +1,7 @@
 ---
 title: 'Cabo Peñas: el faro del punto más al norte de Asturias, los acantilados y las playas de Verdicio y Luanco'
 seoTitle: 'Cabo de Peñas (Asturias): faro, acantilados, playas y calas'
+seoDescription: 'Cabo Peñas (Asturias): el faro del extremo norte, los acantilados, las calas y playas cercanas como Verdicio, el museo, Luanco y cómo llegar.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Cabo Peñas'
 lat: 43.6567

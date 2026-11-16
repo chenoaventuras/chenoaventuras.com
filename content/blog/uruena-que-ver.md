@@ -1,6 +1,7 @@
 ---
 title: 'Urueña: el pueblo amurallado con más librerías que bares'
 seoTitle: 'Urueña, la Villa del Libro: qué ver, muralla y librerías'
+seoDescription: 'Dónde está Urueña (Valladolid) y qué ver en la primera Villa del Libro de España: sus librerías, la muralla para pasear, museos curiosos y la ermita de la Anunciada.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Urueña'
 lat: 41.727

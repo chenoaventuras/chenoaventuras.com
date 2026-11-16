@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Peñafiel: el castillo con forma de barco, la plaza del Coso y el vino de la Ribera'
 seoTitle: 'Qué ver en Peñafiel: castillo, plaza del Coso y bodegas'
+seoDescription: 'Castillo de Peñafiel y qué ver en un día: el Museo del Vino (6,60 €), la plaza del Coso, la Bajada del Ángel, visitas a bodegas de la Ribera del Duero y lechazo.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Peñafiel'
 provincia: Valladolid

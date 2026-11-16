@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Soria en un día: San Saturio, Plaza Mayor, Machado y el paseo del Duero'
 seoTitle: 'Qué ver en Soria en un día: imprescindibles, plan y consejos'
+seoDescription: 'Qué ver en Soria en un día: la ermita de San Saturio, el paseo del Duero, la Plaza Mayor, la Concatedral con su claustro románico y rincones curiosos.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Soria'
 lat: 41.7664

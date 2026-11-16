@@ -1,6 +1,7 @@
 ---
 title: 'Los Azulejos de Veneguera: las rocas de colores de Mogán, cómo llegar y qué saber'
 seoTitle: 'Los Azulejos de Veneguera (Mogán): rocas de colores y cómo llegar'
+seoDescription: 'Los Azulejos de Veneguera (Gran Canaria): la ladera de roca verde, azul y ocre junto a la GC-200. Cómo llegar, cuánto tiempo hace falta y consejos.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Los Azulejos de Veneguera'
 lat: 27.9225

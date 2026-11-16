@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Allariz: casco histórico, convento de Santa Clara y río Arnoia'
 seoTitle: 'Allariz (Ourense): qué ver, casco histórico y río Arnoia'
+seoDescription: 'Qué ver en Allariz (Ourense): el casco histórico, el puente medieval, el Convento de Santa Clara, el Parque Etnográfico del Arnoia y cómo llegar desde Ourense.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Allariz'
 lat: 42.1883

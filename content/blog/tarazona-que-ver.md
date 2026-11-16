@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Tarazona en un día: Catedral, Plaza de Toros Vieja y Casas Colgadas'
 seoTitle: 'Qué ver en Tarazona (Zaragoza): catedral mudéjar, judería y plaza de toros'
+seoDescription: 'Qué ver en Tarazona (Zaragoza): la Catedral mudéjar, la Plaza de Toros Vieja octogonal, la judería y las Casas Colgadas. Plan de un día y consejos.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Tarazona'
 lat: 41.9019

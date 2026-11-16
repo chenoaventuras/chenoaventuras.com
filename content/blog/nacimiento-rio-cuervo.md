@@ -1,5 +1,6 @@
 ---
 title: 'Nacimiento del río Cuervo: cascadas, ruta y cómo llegar'
+seoDescription: 'Cómo llegar al nacimiento del río Cuervo (Cuenca), la ruta circular de 1,5 km por sus cascadas de toba y cuándo ir para verlo con más agua o helado.'
 date: 2026-10-08T12:20:00.000Z
 destino: cuenca
 lugar: 'Vega del Codorno'

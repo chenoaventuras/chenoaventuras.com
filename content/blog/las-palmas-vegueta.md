@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Las Palmas de Gran Canaria: Vegueta, la Casa de Colón, Triana y la playa de Las Canteras'
 seoTitle: 'Vegueta y qué ver en Las Palmas de Gran Canaria'
+seoDescription: 'Barrio de Vegueta (Las Palmas de Gran Canaria): la catedral de Santa Ana y su torre, la Casa de Colón, el Museo Canario, Triana y la playa de Las Canteras.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Las Palmas de Gran Canaria'
 provincia: Las Palmas

@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Cudillero: el pueblo marinero en anfiteatro de Asturias'
 seoTitle: 'Qué ver en Cudillero: miradores, puerto y Playa del Silencio'
+seoDescription: 'Qué ver en Cudillero (Asturias): las casas de colores en anfiteatro, los miradores, el puerto y el faro, dónde aparcar y qué ver cerca, como la Playa del Silencio.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Cudillero'
 lat: 43.563

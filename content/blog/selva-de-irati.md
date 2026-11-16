@@ -1,6 +1,7 @@
 ---
 title: 'Selva de Irati: cómo visitar el gran hayedo de Navarra'
 seoTitle: 'Selva de Irati: rutas, cómo llegar y cuándo ir en otoño'
+seoDescription: 'Cómo llegar a la Selva de Irati desde Ochagavía u Orbaizeta, dónde aparcar, rutas como la Cascada del Cubo y cuándo ir para ver el bosque en otoño.'
 date: 2026-10-20T08:00:00.000Z
 lugar: 'Selva de Irati'
 lat: 43.0000

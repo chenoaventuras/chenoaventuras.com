@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Palencia: la «Bella Desconocida», su cripta visigoda, el Cristo del Otero y la Calle Mayor'
 seoTitle: 'Qué ver en Palencia: catedral, Cristo del Otero y más'
+seoDescription: 'Qué ver en Palencia: la catedral, la «Bella Desconocida», con su cripta visigoda, el Cristo del Otero, la Calle Mayor porticada y los paseos junto al Carrión.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Palencia'
 provincia: Palencia

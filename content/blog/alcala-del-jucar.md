@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Alcalá del Júcar: el pueblo colgado sobre la hoz'
 seoTitle: 'Qué ver en Alcalá del Júcar: cuevas, castillo y río'
+seoDescription: 'Qué ver en Alcalá del Júcar: casas colgadas en la roca, la Cueva del Diablo y Masagó, el castillo, el puente, la playa fluvial y pueblos cerca.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Alcalá del Júcar'
 lat: 39.1928

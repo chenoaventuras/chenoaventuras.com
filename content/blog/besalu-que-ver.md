@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Besalú: el puente medieval y el baño judío de Girona'
 seoTitle: 'Qué ver en Besalú: puente románico, judería y miqvé'
+seoDescription: 'Qué ver en Besalú (Girona): el puente románico sobre el Fluvià, la judería y su miqvé, las calles medievales, Besalú de noche y Castellfollit de la Roca.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Besalú'
 lat: 42.199

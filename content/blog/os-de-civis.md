@@ -1,6 +1,7 @@
 ---
 title: 'Os de Civís: el pueblo de España al que solo se llega por Andorra'
 seoTitle: 'Os de Civís: el pueblo español al que se llega por Andorra'
+seoDescription: 'Os de Civís, el pueblo español al que solo se llega en coche por Andorra: cómo llegar, por qué pasa, cómo es vivir allí y qué ver.'
 date: 2026-10-10T08:40:00.000Z
 lugar: 'Os de Civís'
 lat: 42.5106

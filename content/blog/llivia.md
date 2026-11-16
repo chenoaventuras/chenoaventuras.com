@@ -1,6 +1,7 @@
 ---
 title: 'Llívia: el pueblo español rodeado por Francia'
 seoTitle: 'Llívia: el enclave español en Francia y su farmacia medieval'
+seoDescription: 'Llívia, el pueblo español rodeado por Francia: por qué se quedó en España, qué ver y qué hacer, la farmacia más antigua y cómo llegar al enclave.'
 date: 2026-10-10T09:00:00.000Z
 lugar: 'Llívia'
 lat: 42.4639

@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Covadonga: la Santa Cueva, la basílica y los Lagos'
 seoTitle: 'Qué ver en Covadonga: Santa Cueva, basílica y Lagos'
+seoDescription: 'Qué ver en Covadonga y los Lagos: la Santa Cueva sobre la cascada, la basílica, la fuente de los siete caños, los lagos Enol y Ercina y cómo subir en temporada.'
 date: 2026-10-11T09:00:00.000Z
 lugar: 'Covadonga'
 lat: 43.3083

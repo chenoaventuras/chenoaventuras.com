@@ -1,6 +1,7 @@
 ---
 title: 'Sotres: el pueblo de montaña de los Picos de Europa, Pueblo Ejemplar de Asturias 2024'
 seoTitle: 'Sotres: qué ver, cómo llegar y rutas (Cabrales)'
+seoDescription: 'Cómo llegar a Sotres (Cabrales), uno de los pueblos más altos de Asturias, en los Picos de Europa: qué ver, el queso de Cabrales y rutas por la montaña.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Sotres'
 lat: 43.233

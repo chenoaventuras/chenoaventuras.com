@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Vitoria-Gasteiz: la catedral «abierta por obras», el casco medieval y pintxos'
 seoTitle: 'Qué ver en Vitoria-Gasteiz: catedral, casco viejo y pintxos'
+seoDescription: 'Qué ver y qué hacer en Vitoria-Gasteiz: la catedral de Santa María, la Virgen Blanca, los Arquillos, los murales, Salburua y el pintxo-pote. Y alrededores.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Vitoria-Gasteiz'
 provincia: Álava

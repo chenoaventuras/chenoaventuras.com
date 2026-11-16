@@ -1,6 +1,7 @@
 ---
 title: 'Bulnes: el pueblo de los Picos de Europa al que se llega en funicular desde Poncebos'
 seoTitle: 'Bulnes: funicular, senda y qué ver en el pueblo sin carretera'
+seoDescription: 'Bulnes (Asturias): precio y horario del funicular desde Poncebos, la ruta a pie por la Canal del Tejo, qué ver en el pueblo y cómo ver el Naranjo de Bulnes.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Bulnes'
 lat: 43.2368

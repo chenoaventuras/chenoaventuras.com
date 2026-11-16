@@ -1,6 +1,7 @@
 ---
 title: 'Río Tinto: el río rojo de Huelva que parece Marte'
 seoTitle: 'Río Tinto: mapa, tren minero y qué ver en Minas de Riotinto'
+seoDescription: 'Río Tinto (Huelva), el río rojo que la NASA estudia para buscar vida en Marte: cómo visitarlo, el tren minero, Corta Atalaya y Peña de Hierro.'
 date: 2026-10-10T11:00:00.000Z
 lugar: 'Río Tinto'
 lat: 37.6955

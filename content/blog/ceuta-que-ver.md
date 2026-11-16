@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Ceuta: kayak por un foso, fortalezas y dos mares'
 seoTitle: 'Qué ver en Ceuta: Murallas Reales, kayak y Monte Hacho'
+seoDescription: 'Qué ver en Ceuta en un día: las Murallas Reales y su foso en kayak, el Monte Hacho, la plaza de África, los baños árabes, playas, miradores y qué comer.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Ceuta'
 lat: 35.889

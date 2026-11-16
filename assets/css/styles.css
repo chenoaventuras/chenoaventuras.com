@@ -574,7 +574,7 @@ p { margin: 0 0 1em; }
 
 .guide__story { max-width: 68ch; margin: clamp(40px, 6vw, 64px) auto 0; }
 .article__body .guide__story h2 { font-family: var(--font-display); font-weight: 900; text-transform: uppercase; letter-spacing: -.02em; line-height: 1; font-size: clamp(1.8rem, 5vw, 3rem); color: var(--night); margin: 0 0 .5em; }
-.article__body .guide__timeline { list-style: none; padding: 0; margin: 30px 0; display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
+.article__body .guide__timeline { list-style: none; padding: 0; margin: 30px 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
 .article__body .guide__timeline li { margin: 0; background: var(--white); border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow-sm); border-top: 4px solid var(--gold); }
 .guide__timeline b { display: block; font-family: var(--font-display); font-weight: 900; font-size: 1.5rem; color: var(--night); line-height: 1.1; margin-bottom: 6px; }
 .guide__timeline span { display: block; font-size: .86rem; line-height: 1.45; color: var(--ink-soft); }

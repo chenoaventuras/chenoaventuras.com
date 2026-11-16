@@ -1,5 +1,6 @@
 ---
 title: 'Guadalest: qué ver en uno de los pueblos más bonitos de España'
+seoDescription: 'Qué ver en Guadalest y su valle (Alicante): el castillo del siglo XI sobre el peñón, el embalse turquesa, cómo llegar y cuándo ir.'
 date: 2026-08-13T18:28:28.000Z
 lugar: 'Guadalest'
 seoTitle: 'Guadalest: qué ver en uno de los pueblos más bonitos'

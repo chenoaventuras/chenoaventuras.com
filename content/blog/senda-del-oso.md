@@ -1,6 +1,7 @@
 ---
 title: 'Senda del Oso: ruta en bici o a pie por el antiguo tren minero entre Proaza, Teverga y Quirós'
 seoTitle: 'Senda del Oso: ruta, tramos y cómo hacerla'
+seoDescription: 'Ruta de la Senda del Oso (Asturias): 25 km por el antiguo tren minero, tramos, túneles, cómo hacerla a pie o en bici y qué ver en Proaza, Teverga y Quirós.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Senda del Oso'
 lat: 43.2406

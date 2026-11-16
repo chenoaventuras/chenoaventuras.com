@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Combarro: el pueblo de los hórreos asomados al mar en las Rías Baixas'
 seoTitle: 'Qué ver en Combarro: hórreos, cruceiros y ruta costera'
+seoDescription: 'Qué ver en Combarro (Pontevedra): más de 30 hórreos junto al mar, cruceiros, la rúa do Mar, la mejor hora para las fotos, qué comer y qué ver cerca.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Combarro'
 provincia: Pontevedra

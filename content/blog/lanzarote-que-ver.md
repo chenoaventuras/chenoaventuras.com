@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Lanzarote: volcanes, playas y la isla de César Manrique'
 seoTitle: 'Qué ver en Lanzarote: 13 lugares imprescindibles y ruta'
+seoDescription: 'Qué ver y qué hacer en Lanzarote: Timanfaya, Papagayo, Famara, el Mirador del Río, Jameos del Agua, La Geria, Teguise y El Golfo, con ruta y consejos.'
 date: 2026-10-11T19:00:00.000Z
 lugar: 'Lanzarote'
 lat: 29.0469

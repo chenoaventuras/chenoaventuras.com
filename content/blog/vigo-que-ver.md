@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Vigo en un día: Casco Vello, monte do Castro, ostras y Cíes'
 seoTitle: 'Qué ver en Vigo en un día: imprescindibles, ostras y consejos'
+seoDescription: 'Qué ver en Vigo en un día: el Casco Vello, el monte do Castro, la calle de las ostras, el Berbés y las Islas Cíes. Plan de un día y qué comer.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Vigo'
 lat: 42.2406

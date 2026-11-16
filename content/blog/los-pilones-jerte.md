@@ -1,6 +1,7 @@
 ---
 title: 'Los Pilones: las pozas de la Garganta de los Infiernos en el Valle del Jerte'
 seoTitle: 'Los Pilones (Jerte): ruta, pozas y cómo llegar'
+seoDescription: 'Cómo llegar a Los Pilones (Valle del Jerte): la ruta fácil de unos 6 km desde el Centro de Interpretación, las pozas de granito, cuándo ir y dónde aparcar.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Los Pilones'
 lat: 40.216

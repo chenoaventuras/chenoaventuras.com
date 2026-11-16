@@ -1,6 +1,7 @@
 ---
 title: 'Lago de Sanabria y Puebla de Sanabria: qué ver y qué hacer'
 seoTitle: 'Lago de Sanabria y Puebla de Sanabria: qué ver y playas'
+seoDescription: 'Qué ver en Puebla de Sanabria y el Lago de Sanabria en un día: el castillo, el casco antiguo, las playas del lago, rutas y la leyenda de Valverde de Lucerna.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Lago de Sanabria'
 lat: 42.12

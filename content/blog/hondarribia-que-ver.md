@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Hondarribia: murallas, casas de colores y el Cabo de Higer'
 seoTitle: 'Qué ver en Hondarribia: casco amurallado, La Marina y Jaizkibel'
+seoDescription: 'Qué ver en Hondarribia: el casco antiguo amurallado y su calle Mayor, la Plaza de Armas, el barrio de La Marina con casas de colores, el faro de Higer y Jaizkibel.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Hondarribia'
 lat: 43.368

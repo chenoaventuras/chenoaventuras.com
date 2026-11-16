@@ -1,6 +1,7 @@
 ---
 title: 'Ruta modernista de Melilla: el Triángulo de Oro de Enrique Nieto, edificio a edificio'
 seoTitle: 'Ruta modernista de Melilla: edificios y recorrido'
+seoDescription: 'Edificios modernistas de Melilla: ruta a pie por la Plaza de España, el Palacio de la Asamblea, la Casa Melul, el Economato y la obra del arquitecto Enrique Nieto.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Melilla'
 provincia: Melilla

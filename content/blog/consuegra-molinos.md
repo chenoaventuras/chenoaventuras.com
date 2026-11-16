@@ -1,6 +1,7 @@
 ---
 title: 'Molinos de Consuegra: los gigantes del Quijote y el castillo de la Muela'
 seoTitle: 'Molinos de Consuegra: qué ver, castillo y molinos visitables'
+seoDescription: 'Molinos de Consuegra: cuántos molinos hay (12), cuáles se visitan por dentro, el castillo de la Muela, el mejor momento para ir y la Fiesta de la Rosa del Azafrán.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Consuegra'
 lat: 39.4566

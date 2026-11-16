@@ -1,6 +1,7 @@
 ---
 title: 'Alhambra de Granada: cómo conseguir entradas, qué incluye cada ticket y qué ver'
 seoTitle: 'Alhambra de Granada: entradas, precio, horario y qué ver'
+seoDescription: 'Alhambra de Granada: precio de la entrada (21 €), cómo conseguir entradas, qué incluye (Palacios Nazaríes, Generalife y Alcazaba) y cómo organizar la visita.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Alhambra de Granada'
 lat: 37.1761

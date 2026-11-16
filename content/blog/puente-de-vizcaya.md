@@ -1,6 +1,7 @@
 ---
 title: 'Puente de Vizcaya: el puente colgante que lleva coches en una barquilla'
 seoTitle: 'Puente de Vizcaya (Puente Colgante): precio, pasarela y horario'
+seoDescription: 'Puente de Vizcaya o Puente Colgante (Portugalete-Getxo): precio de la barquilla y de la pasarela superior, horario, su historia y cómo llegar desde Bilbao.'
 date: 2026-10-10T10:40:00.000Z
 lugar: 'Puente de Vizcaya'
 lat: 43.3231

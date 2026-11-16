@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Haro: el Barrio de la Estación y la Batalla del Vino'
 seoTitle: 'Qué ver en Haro: Barrio de la Estación y Batalla del Vino'
+seoDescription: 'Qué ver y hacer en Haro (La Rioja): el Barrio de la Estación y sus bodegas centenarias, el casco histórico, la Batalla del Vino y el «Haro, París y Londres».'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Haro'
 lat: 42.5767

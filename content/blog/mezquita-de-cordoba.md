@@ -1,6 +1,7 @@
 ---
 title: 'Mezquita de Córdoba: entradas, visita gratis y curiosidades'
 seoTitle: 'Mezquita de Córdoba: entradas, horario y cómo entrar gratis'
+seoDescription: 'Mezquita-Catedral de Córdoba: precio de la entrada (15 €), horario, cómo visitarla gratis por la mañana, la torre, la visita nocturna y qué ver dentro.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Mezquita-Catedral de Córdoba'
 lat: 37.8789

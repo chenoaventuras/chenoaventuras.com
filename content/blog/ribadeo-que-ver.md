@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Ribadeo: Torre de los Moreno, Cargadero, Isla Pancha y la puerta de As Catedrais'
 seoTitle: 'Qué ver en Ribadeo (Lugo): imprescindibles, mareas y consejos'
+seoDescription: 'Qué ver en Ribadeo y alrededores: la Torre de los Moreno, el cargadero de mineral, el faro de la Isla Pancha, San Damián y cómo ir a la Playa de las Catedrales.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Ribadeo'
 lat: 43.5352

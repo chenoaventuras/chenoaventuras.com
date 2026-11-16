@@ -1,6 +1,7 @@
 ---
 title: 'Montserrat: cómo llegar, qué ver y rutas por la montaña de Barcelona'
 seoTitle: 'Montserrat: cómo llegar (cremallera o aeri), qué ver y rutas'
+seoDescription: 'Qué ver en Montserrat y cómo llegar: en coche, cremallera o teleférico desde Barcelona, el monasterio y la Moreneta, la Escolania, los funiculares y rutas.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Montserrat'
 lat: 41.5933

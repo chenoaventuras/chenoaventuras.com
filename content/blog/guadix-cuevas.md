@@ -1,6 +1,7 @@
 ---
 title: 'Guadix: uno de los mayores barrios de cuevas de Europa, su catedral y la alcazaba, junto al Geoparque de Granada'
 seoTitle: 'Qué ver en Guadix: casas cueva, catedral y miradores'
+seoDescription: 'Barrio de las Cuevas de Guadix: unas 2.000 casas cueva habitadas, el centro de interpretación, el mirador del Padre Poveda, la catedral y dónde dormir en una cueva.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Guadix'
 provincia: Granada

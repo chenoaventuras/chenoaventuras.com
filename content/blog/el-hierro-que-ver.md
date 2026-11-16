@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en El Hierro: la isla más salvaje y tranquila de Canarias'
 seoTitle: 'Qué ver en El Hierro: Roque de la Bonanza, El Sabinar y charcos'
+seoDescription: 'Qué ver y qué hacer en El Hierro: el Roque de la Bonanza, El Sabinar, el Mirador de la Peña, el Charco Azul, el Faro de Orchilla y el buceo en La Restinga.'
 date: 2026-10-11T10:10:00.000Z
 lugar: 'El Hierro'
 lat: 27.7406

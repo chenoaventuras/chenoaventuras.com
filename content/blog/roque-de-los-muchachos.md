@@ -1,6 +1,7 @@
 ---
 title: 'Roque de los Muchachos: el techo de La Palma, sus telescopios gigantes y el mejor cielo estrellado de Europa'
 seoTitle: 'Roque de los Muchachos (La Palma): cómo subir y qué ver'
+seoDescription: 'Roque de los Muchachos (La Palma): cómo subir en coche al punto más alto de la isla, el mirador de la Caldera de Taburiente, visitas al observatorio y estrellas.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Roque de los Muchachos (La Palma)'
 provincia: Santa Cruz de Tenerife

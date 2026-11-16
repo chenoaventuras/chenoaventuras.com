@@ -1,6 +1,7 @@
 ---
 title: 'Barrancas de Burujón: el «Gran Cañón del Tajo» a una hora de Madrid (cómo llegar y senda)'
 seoTitle: 'Barrancas de Burujón (Toledo): cómo llegar, senda y miradores'
+seoDescription: 'Cómo llegar a las Barrancas de Burujón (Toledo), dónde aparcar, la senda ecológica y los miradores del Cambrón y los Enebros sobre el Tajo.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Barrancas de Burujón'
 lat: 39.8723

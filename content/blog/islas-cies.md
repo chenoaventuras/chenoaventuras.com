@@ -1,6 +1,7 @@
 ---
 title: 'Islas Cíes: autorización, barcos y qué ver en el Caribe gallego'
 seoTitle: 'Islas Cíes: autorización, barco, rutas y playa de Rodas'
+seoDescription: 'Islas Cíes: cuándo hace falta la autorización (es gratis) y cómo pedirla, barcos desde Vigo, Cangas o Baiona, la playa de Rodas, rutas a los faros y consejos.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Islas Cíes'
 lat: 42.223
