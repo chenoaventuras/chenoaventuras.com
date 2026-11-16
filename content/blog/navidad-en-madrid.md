@@ -1,7 +1,7 @@
 ---
 title: 'Navidad en Madrid 2026: luces, Cortylandia, mercados y Mágicas Navidades'
 seoTitle: 'Navidad en Madrid 2026: luces, Cortylandia y mercados'
-seoDescription: 'Navidad en Madrid 2026: las luces se encienden el 21 de noviembre. Horarios, Cortylandia, mercado de la Plaza Mayor, pistas de hielo, Mágicas Navidades y fechas clave.'
+seoDescription: 'Navidad en Madrid 2026: luces desde el 21 de noviembre, Cortylandia, Plaza Mayor, belenes, Circo Price, Naturaleza Encendida, pistas de hielo y fechas clave.'
 date: 2026-11-02T12:00:00.000Z
 evento: true
 lugar: 'Navidad en Madrid'
@@ -26,6 +26,8 @@ actividades:
     u: "https://www.getyourguide.es/madrid-l46/madrid-tour-navideno-a-pie-con-belen-t1146287/"
 faqTitulo: "Dudas sobre la Navidad en Madrid"
 faq:
+  - q: "¿Qué planes de Navidad hay en Madrid con niños?"
+    a: "Cortylandia y las luces (gratis), las Mágicas Navidades de Torrejón, el Circo Price en Navidad (desde 14 €), el recorrido de luces Naturaleza Encendida en el Botánico de Ciudad Universitaria y la Navidad de Parque Warner. Y los belenes del Ayuntamiento, la Puerta del Sol y el Palacio Real, que son gratis."
   - q: "¿Cuándo se encienden las luces de Navidad de Madrid en 2026?"
     a: "El sábado 21 de noviembre de 2026, con un espectáculo inaugural en la plaza de Cibeles. Estarán encendidas hasta el 6 de enero de 2027."
   - q: "¿A qué hora se encienden las luces de Navidad en Madrid?"
@@ -40,6 +42,8 @@ faq:
     a: "Las luces, Cortylandia, el mercado de la Plaza Mayor, los belenes y la Cabalgata de Reyes. Se pagan las pistas de hielo, las Mágicas Navidades, el bus Naviluz y los tours guiados."
   - q: "¿Cuándo es la Cabalgata de Reyes de Madrid?"
     a: "El 5 de enero por la tarde, de 18:00 a 21:00, por el paseo de la Castellana hasta la plaza de Cibeles."
+guia: /assets/guias/guia-navidad-madrid-chenoaventuras.pdf
+guiaTitulo: 'Guía Navidad en Madrid 2026 en PDF'
 ---
 Madrid en Navidad tiene **más de 14 millones de bombillas**, muñecos que cantan en la fachada de unos grandes almacenes, un mercado de belenes en la Plaza Mayor y, a media hora en tren, un parque donde **Papá Noel vuela cada noche**.
 
@@ -68,8 +72,11 @@ Te cuento las fechas de 2026, qué es gratis, qué se paga y cómo verlo todo en
 <div class="guide__head"><span class="eyebrow">Patinar</span><h2>Pistas de hielo y mercadillos</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Pistas de hielo:</strong> las tradicionales son la de <strong>Matadero Madrid</strong>, la de la <strong>Galería de Cristal del Palacio de Cibeles</strong> y la de <strong>Plaza de España</strong>, dentro de La Navideña, que también tiene mercadillo. Sus fechas de 2026 están por confirmar.</li><li><strong>Feria de Artesanía de la Comunidad de Madrid:</strong> en el paseo de Recoletos, entre Colón y Cibeles, con más de 150 artesanos. En 2025 fue del 1 al 30 de diciembre.</li><li><strong>Otros puestos navideños:</strong> en la plaza de Juan Goytisolo, junto al Museo Reina Sofía, y en la plaza de Isabel II.</li></ul>
 
+<div class="guide__head"><span class="eyebrow">Más planes</span><h2>Más planes de Navidad en Madrid 2026</h2><p>Para ir con niños, en pareja o cuando ya has visto las luces.</p></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Naturaleza Encendida «Maravillas»:</strong> un recorrido de luces por el <strong>Real Jardín Botánico Alfonso XIII</strong>, en Ciudad Universitaria (no es el Botánico del Prado), inspirado en <em>Alicia en el País de las Maravillas</em>. Del <strong>24 de noviembre de 2026 al 10 de enero de 2027</strong>, con pases cada cuarto de hora. Dura unos 45 minutos y la entrada cuesta entre <strong>19 y 24 €</strong>.</li><li><strong>Circo Price en Navidad:</strong> este año con el <strong>Circo Raluy Legacy</strong>, en el Teatro Circo Price (Ronda de Atocha, 35). Del <strong>20 de noviembre al 6 de enero</strong>: de martes a viernes a las 18:30 y sábados y domingos a las 17:30. No hay función el 15, 16, 22, 24 ni 31 de diciembre. Entradas <strong>desde 14 €</strong>.</li><li><strong>Navidad en Parque Warner:</strong> el parque se decora de Navidad del <strong>21 de noviembre al 10 de enero</strong>, con espectáculos navideños. No abre todos los días y el precio cambia según la fecha: mira el calendario oficial antes de ir.</li><li><strong>Belenes gratis:</strong> los tres grandes son el del <strong>Ayuntamiento</strong>, en CentroCentro (Palacio de Cibeles); el de la <strong>Comunidad</strong>, en la Real Casa de Correos de la Puerta del Sol; y el <strong>Belén del Príncipe</strong> del Palacio Real. Sus fechas de 2026 aún no se han publicado; en 2025 abrieron el 28 de noviembre (los dos primeros) y el 5 de diciembre (el del Palacio Real).</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Calendario</span><h2>Fechas clave de la Navidad 2026 en Madrid</h2></div>
-<ul class="checklist" style="margin:0 0 1rem;"><li><strong>14 de noviembre:</strong> abren las <a href="/blog/magicas-navidades-torrejon.html">Mágicas Navidades de Torrejón</a>.</li><li><strong>21 de noviembre:</strong> encendido de las luces, con espectáculo en Cibeles.</li><li><strong>Finales de noviembre:</strong> empiezan Cortylandia y el mercado de la Plaza Mayor.</li><li><strong>22 de diciembre:</strong> sorteo de la Lotería de Navidad en el Teatro Real.</li><li><strong>31 de diciembre:</strong> San Silvestre Vallecana y campanadas en la Puerta del Sol.</li><li><strong>5 de enero:</strong> Cabalgata de Reyes, de 18:00 a 21:00, por la Castellana hasta Cibeles.</li><li><strong>6 de enero:</strong> se apagan las luces.</li></ul>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>14 de noviembre:</strong> abren las <a href="/blog/magicas-navidades-torrejon.html">Mágicas Navidades de Torrejón</a>.</li><li><strong>20 de noviembre:</strong> empieza el Circo Price en Navidad.</li><li><strong>21 de noviembre:</strong> encendido de las luces, con espectáculo en Cibeles. Ese día empieza también la Navidad en Parque Warner.</li><li><strong>24 de noviembre:</strong> abre Naturaleza Encendida en el Jardín Botánico de Ciudad Universitaria.</li><li><strong>Finales de noviembre:</strong> empiezan Cortylandia y el mercado de la Plaza Mayor.</li><li><strong>22 de diciembre:</strong> sorteo de la Lotería de Navidad en el Teatro Real.</li><li><strong>31 de diciembre:</strong> San Silvestre Vallecana y campanadas en la Puerta del Sol.</li><li><strong>5 de enero:</strong> Cabalgata de Reyes, de 18:00 a 21:00, por la Castellana hasta Cibeles.</li><li><strong>6 de enero:</strong> se apagan las luces.</li></ul>
 <div class="etiles"><div><b>🎅</b><span>14 nov · Mágicas Navidades</span></div><div><b>💡</b><span>21 nov · Luces</span></div><div><b>🎟️</b><span>22 dic · Lotería</span></div><div><b>🏃</b><span>31 dic · San Silvestre</span></div><div><b>🍇</b><span>31 dic · Campanadas</span></div><div><b>👑</b><span>5 ene · Cabalgata</span></div></div>
 
 <div class="guide__howto"><h3>🎟️ Con guía</h3><p>Si prefieres que te lo cuenten, el <strong>tour navideño de Civitatis</strong> (unos 12,50 €, hora y media) recorre el mercado de la Plaza Mayor y Cortylandia, y en diciembre hay pases casi todos los días. Para ver las luces sin andar, el <strong>tuk-tuk eléctrico</strong> (desde 40 € por persona) pasa por Cibeles, el Prado y el Retiro con mantas para el frío. Los tienes abajo.</p></div>

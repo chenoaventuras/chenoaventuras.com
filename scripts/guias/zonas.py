@@ -17,6 +17,18 @@ ZONAS = {
   lugares=["magicas-navidades-torrejon"], eventos=True,
   css=".cover__in p { text-shadow: 0 1px 3px rgba(0,0,0,.9), 0 0 14px rgba(0,0,0,.75); font-weight: 600; }",
 ),
+"navidad-madrid": dict(
+  nombre="Navidad en Madrid 2026", h1_txt="Navidad<br>en Madrid", h1="4.2rem", portada="navidad-en-madrid",
+  sub="Luces, Cortylandia, mercados, belenes y planes con niños · del 20 de noviembre de 2026 al 6 de enero de 2027.",
+  titulo_intro="Madrid<br>se ilumina",
+  intro=["En Navidad, Madrid **ilumina sus calles**, monta el **mercado de la Plaza Mayor** y llena la ciudad de planes: Cortylandia, belenes gratis, circo, pistas de hielo y recorridos de luces.",
+         "En esta guía tienes las fechas de 2026, qué es gratis, qué se paga y un plan para verlo todo en un día. Al final, las **Mágicas Navidades de Torrejón**, a media hora en tren."],
+  tips=[("💡 Cuándo ir", "Las luces se encienden el **21 de noviembre** y se ven a partir de las **18:00**."),
+        ("🚇 Cómo moverte", "En **metro** o a pie: el centro se llena y aparcar es difícil."),
+        ("🆓 Gratis", "Las **luces**, **Cortylandia**, el **mercado de la Plaza Mayor** y los **belenes** no cuestan nada.")],
+  lugares=["navidad-en-madrid", "magicas-navidades-torrejon"], eventos=True,
+  css=".cover__in p { text-shadow: 0 1px 3px rgba(0,0,0,.9), 0 0 14px rgba(0,0,0,.75); font-weight: 600; }",
+),
 "escapadas-madrid": dict(
   nombre="Escapadas desde Madrid", h1_txt="Escapadas<br>desde Madrid", portada="buitrago-del-lozoya-que-ver", h1="4.2rem",
   sub="Pueblos con muralla, hayedos, cascadas y rincones con historia a menos de una hora y media de Madrid.",

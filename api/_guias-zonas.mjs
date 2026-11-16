@@ -267,6 +267,7 @@ export const ZONE_GUIDES = {
   "nacimiento-rio-mundo": {"title": "Guía Albacete", "file": "/assets/guias/guia-albacete-chenoaventuras.pdf"},
   "naranjo-de-bulnes": {"title": "Guía Asturias", "file": "/assets/guias/guia-asturias-chenoaventuras.pdf"},
   "naufragio-del-sirio": {"title": "Guía Región de Murcia", "file": "/assets/guias/guia-murcia-chenoaventuras.pdf"},
+  "navidad-en-madrid": {"title": "Guía Navidad en Madrid 2026", "file": "/assets/guias/guia-navidad-madrid-chenoaventuras.pdf"},
   "nido-ciguena-mas-famoso-espana": {"title": "Guía Burgos", "file": "/assets/guias/guia-burgos-chenoaventuras.pdf"},
   "ochate-pueblo-maldito": {"title": "Guía Burgos", "file": "/assets/guias/guia-burgos-chenoaventuras.pdf"},
   "olite-que-ver": {"title": "Guía Navarra", "file": "/assets/guias/guia-navarra-chenoaventuras.pdf"},
