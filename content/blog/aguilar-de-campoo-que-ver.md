@@ -2,6 +2,7 @@
 title: 'Aguilar de Campoo: qué ver en el pueblo de las galletas (y mucho más)'
 date: 2026-04-02T18:30:47.000Z
 lugar: 'Aguilar de Campoo'
+provincia: Palencia
 seoTitle: 'Aguilar de Campoo: qué ver en el pueblo de las galletas'
 lat: 42.7956
 lng: -4.3037
@@ -11,6 +12,7 @@ tags:
   - Pueblos
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DWo64-nDPc5/'
+updated: 2026-11-16
 actividades:
   - t: "Visita guiada por la catedral de Palencia"
     u: "https://www.civitatis.com/es/palencia/visita-guiada-catedral/"
@@ -70,6 +72,10 @@ En lo alto del cerro que domina la villa se encuentran el **Castillo de Aguilar*
 ## El Monasterio de Santa María la Real, una joya del románico
 
 Uno de los rincones que más sorprende a quien visita Aguilar de Campoo por primera vez es el **Monasterio de Santa María la Real**: una iglesia con base románica y elementos góticos (arcos, sepulcros), una exposición de capiteles, un espectáculo de videomapping y un claustro que es, para muchos, el rincón más especial de todo el conjunto. Hoy, parte del edificio funciona además como instituto de educación secundaria.
+
+## ¿Cuánto cuesta entrar al Monasterio de Santa María la Real y cuál es su horario?
+
+Según la web de Turismo de Castilla y León (consultada en noviembre de 2026), la entrada general cuesta **7 €** y la reducida **4 €**; los menores de 10 años entran gratis. La visita guiada cuesta 7 € y requiere reserva previa (979 123 053 o 616 994 651). Del 12 de septiembre al 8 de diciembre abre de martes a viernes de 16:00 a 20:00, y sábados, domingos y festivos de 10:00 a 14:00 y de 16:00 a 20:00; del 9 de diciembre al 30 de junio el horario de tarde es de 16:00 a 19:30, y en verano (del 1 de julio al 11 de septiembre) abre de martes a domingo de 10:00 a 14:00 y de 16:00 a 20:00. En invierno hay entrada gratuita los miércoles de 18:00 a 20:00. Confirma siempre el horario antes de ir.
 
 ## El embalse y el puente medieval del Portazgo
 

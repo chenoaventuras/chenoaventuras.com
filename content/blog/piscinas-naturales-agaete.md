@@ -4,6 +4,7 @@ seoTitle: 'Piscinas naturales de Agaete: gratis, cómo llegar y aparcar'
 seoDescription: 'Piscinas naturales de Las Salinas de Agaete (Gran Canaria): cómo llegar, dónde aparcar, cuántas piscinas hay, qué calzado llevar y la mejor hora para ir.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Piscinas naturales de Agaete'
+provincia: Las Palmas
 lat: 28.1067
 lng: -15.7112
 excerpt: 'Piscinas naturales de Agaete (Las Salinas, Gran Canaria): tres piscinas de agua de mar junto a Puerto de las Nieves, cómo llegar, dónde aparcar y qué llevar.'

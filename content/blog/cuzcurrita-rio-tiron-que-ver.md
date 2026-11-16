@@ -2,6 +2,7 @@
 title: 'Cuzcurrita de Río Tirón: qué ver en este pueblo con encanto de La Rioja Alta'
 date: 2026-05-03T17:30:00.000Z
 lugar: 'Cuzcurrita de Río Tirón'
+provincia: La Rioja
 seoTitle: 'Cuzcurrita de Río Tirón: qué ver en La Rioja Alta'
 lat: 42.5405
 lng: -2.9636

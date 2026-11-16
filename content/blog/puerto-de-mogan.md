@@ -4,6 +4,7 @@ seoTitle: 'Puerto de Mogán: qué ver, dónde aparcar y cómo llegar'
 seoDescription: 'Puerto de Mogán (Gran Canaria): canales, casas blancas con flores, playa y mercadillo de los viernes. Qué ver, dónde aparcar y cómo llegar.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Puerto de Mogán'
+provincia: Las Palmas
 lat: 27.8175
 lng: -15.7653
 excerpt: 'Puerto de Mogán (Gran Canaria): la «pequeña Venecia» de Canarias, con canales, casas blancas con flores, puerto deportivo y mercadillo de los viernes. Qué ver y cómo llegar.'

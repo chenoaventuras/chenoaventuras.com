@@ -2,6 +2,7 @@
 title: 'El Burgo de Osma: qué ver en uno de los pueblos medievales más bonitos de Soria'
 date: 2026-03-08T08:56:30.000Z
 lugar: 'El Burgo de Osma'
+provincia: Soria
 seoTitle: 'El Burgo de Osma: qué ver en uno de los pueblos de Soria'
 lat: 41.5869
 lng: -3.0674
@@ -11,6 +12,7 @@ tags:
   - Pueblos
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DVnhTcgjD7C/'
+updated: 2026-11-16
 faq:
   - q: "¿Cuándo se empezó a construir la catedral de El Burgo de Osma?"
     a: "En 1232, con un proyecto gótico."
@@ -59,6 +61,10 @@ Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.
 
 La gran protagonista del pueblo es la **Catedral de la Asunción**, que combina elementos románicos, góticos y barrocos en un mismo edificio, reflejo de los muchos siglos que ha tardado en construirse y ampliarse. Es, sin duda, el motivo por el que El Burgo de Osma llegó a ser lo que es hoy.
 
+## ¿Cuánto cuesta entrar a la catedral de El Burgo de Osma?
+
+Según la web de Turismo de Castilla y León (consultada en noviembre de 2026), la entrada general cuesta **8 €** y la visita guiada **10 €**. Hay tarifa reducida de **7 €** para mayores de 65 años y de **5 €** para jóvenes de 12 a 18 años; los menores de 12 años y las personas con discapacidad superior al 65 % entran gratis. Además, **los miércoles no festivos por la tarde el acceso es gratuito**. Durante las celebraciones religiosas no hay visitas turísticas y el horario cambia según la temporada, así que míralo antes en la [web de la catedral](https://www.catedralburgodeosma.com).
+
 ## Una de las farmacias más antiguas de España
 
 En pleno casco histórico se encuentra el **Hospital de San Agustín**, del siglo XVII, que conserva en su interior una de las farmacias más antiguas de todo el país. Es de esos detalles que pasan desapercibidos si no sabes que están ahí, pero que merecen una parada dentro del paseo.
@@ -94,7 +100,7 @@ El pueblo está en la provincia de Soria, en Castilla y León. Puedes consultar 
 
 ## Qué combinar con la visita
 
-Con 2-3 horas puedes recorrer con calma todo el casco histórico, y la dificultad es baja salvo la pequeña subida al castillo. Si quieres alargar el día, a solo 20 minutos en coche tienes el **Parque Natural del Cañón del Río Lobos**, y también puedes combinar la ruta con otros pueblos con encanto de la zona como **Calatañazor**.
+Con 2-3 horas puedes recorrer con calma todo el casco histórico, y la dificultad es baja salvo la pequeña subida al castillo. Si quieres alargar el día, a solo 20 minutos en coche tienes el [**Parque Natural del Cañón del Río Lobos**](/blog/canon-del-rio-lobos.html), y también puedes combinar la ruta con otros pueblos con encanto de la zona como [**Calatañazor**](/blog/calatanazor-que-ver.html).
 
 <!--faq-->
 

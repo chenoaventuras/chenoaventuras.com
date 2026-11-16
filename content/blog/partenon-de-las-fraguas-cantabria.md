@@ -2,6 +2,7 @@
 title: 'El Partenón cántabro: la iglesia neoclásica escondida en Las Fraguas'
 date: 2026-05-13T17:23:11.000Z
 lugar: 'Las Fraguas'
+provincia: Cantabria
 seoTitle: 'El Partenón cántabro: la iglesia de Las Fraguas'
 lat: 43.1932
 lng: -4.0542
