@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Tarragona: el anfiteatro junto al mar, la Tarraco romana, el Pont del Diable y los castells'
-seoTitle: 'Qué ver en Tarragona: anfiteatro, Tarraco y Pont del Diable'
+seoTitle: 'Tarragona romana: ruinas de Tarraco, anfiteatro y qué ver'
+seoDescription: 'Ruinas romanas de Tarragona (Tarraco): anfiteatro junto al mar, circo, murallas y foro, con precios (5 € cada uno, 15 € la conjunta). Qué ver y cómo visitarla.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Tarragona'
 provincia: Tarragona

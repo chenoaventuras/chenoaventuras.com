@@ -1,6 +1,7 @@
 ---
 title: 'Monasterio de Poblet: qué ver, horarios, entradas y cómo llegar'
 seoTitle: 'Monasterio de Poblet: qué ver, entradas, horarios y consejos'
+seoDescription: 'Monasterio de Poblet: precio de la entrada (10,50 €), horario, qué ver (Panteón Real, claustro, Puerta Real) y cómo llegar desde Montblanc.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Monasterio de Poblet'
 lat: 41.3814

@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Toro: la Colegiata y su Pórtico de la Majestad, el alcázar sobre el Duero y la tierra del vino'
-seoTitle: 'Qué ver en Toro (Zamora): Colegiata, alcázar y vino'
+seoTitle: 'Qué ver en Toro (Zamora) en un día: Colegiata, alcázar y vino'
+seoDescription: 'Qué ver en Toro (Zamora) en un día: la Colegiata y el Pórtico de la Majestad, el alcázar sobre el Duero, la Torre del Reloj, Sancti Spiritus y bodegas.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Toro'
 provincia: Zamora
@@ -20,6 +21,8 @@ actividades:
 actividadesTitulo: 'Actividades en Zamora'
 faqTitulo: "Dudas sobre Toro"
 faq:
+  - q: "¿Qué ver en Toro en un día?"
+    a: "Por la mañana, la Colegiata con el Pórtico de la Majestad y el mirador del Espolón, justo al lado, con la vega del Duero a tus pies. Luego el alcázar, la Torre del Reloj y la Plaza Mayor. Por la tarde, el monasterio de Sancti Spiritus y una visita a alguna bodega de la Denominación de Origen Toro."
   - q: "¿Qué ver en Toro?"
     a: "La Colegiata de Santa María la Mayor y su Pórtico de la Majestad, el mirador del Espolón sobre el Duero, el alcázar, la Torre del Reloj, el monasterio de Sancti Spiritus, las iglesias mudéjares y una bodega de la D.O. Toro."
   - q: "¿Qué es el Pórtico de la Majestad?"

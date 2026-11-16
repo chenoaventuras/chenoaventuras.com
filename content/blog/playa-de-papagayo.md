@@ -1,6 +1,7 @@
 ---
 title: 'Playa de Papagayo (Lanzarote): cómo llegar, precio del parking y mejores calas'
 seoTitle: 'Playas de Papagayo (Lanzarote): cómo llegar, tasa y calas'
+seoDescription: 'Playas de Papagayo (Lanzarote): cómo llegar desde Playa Blanca, tasa del parking (3 € por coche), barcos y excursiones, las cinco calas y cuándo ir.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Playa de Papagayo'
 lat: 28.85

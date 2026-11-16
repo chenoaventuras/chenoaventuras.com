@@ -1,6 +1,7 @@
 ---
 title: 'Geoda de Pulpí: la geoda gigante que se puede visitar'
 seoTitle: 'Geoda de Pulpí: entradas online, precio y cómo es la visita'
+seoDescription: 'Geoda de Pulpí: cómo comprar las entradas online (22 € adultos), qué incluye la visita a la mina, cuánto dura y consejos para ir.'
 date: 2026-10-10T11:20:00.000Z
 lugar: 'Geoda de Pulpí'
 lat: 37.387

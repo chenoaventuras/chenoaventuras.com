@@ -1,6 +1,7 @@
 ---
 title: 'Cala Granadella (Xàbia): cómo llegar, aparcamiento y snorkel en la Costa Blanca'
 seoTitle: 'Cala Granadella (Jávea): cómo llegar, acceso en verano y snorkel'
+seoDescription: 'Cala Granadella (Jávea): cómo llegar, acceso limitado en verano, aparcamiento, kayak y snorkel entre acantilados en una de las calas más bonitas de Alicante.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Cala Granadella'
 lat: 38.7298

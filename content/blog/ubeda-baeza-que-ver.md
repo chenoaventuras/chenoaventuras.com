@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Úbeda y Baeza: las dos joyas del Renacimiento entre un mar de olivos'
 seoTitle: 'Qué ver en Úbeda y Baeza: ruta de un día por Jaén'
+seoDescription: 'Qué ver en Úbeda y Baeza en un día: los monumentos del Renacimiento, distancia entre las dos (unos 9 km), cuál es mejor, dónde aparcar y cuándo ir.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Úbeda'
 provincia: Jaén

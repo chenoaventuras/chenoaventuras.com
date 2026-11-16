@@ -1,6 +1,7 @@
 ---
 title: 'Torre de Cristal: el rascacielos más alto de España'
 seoTitle: 'Torre de Cristal (Madrid): el edificio más alto de España'
+seoDescription: 'Torre de Cristal (Madrid): con 249 metros es el edificio más alto de Madrid y de España. Dónde está, si se puede subir y dónde hacer las mejores fotos.'
 date: 2026-10-10T09:00:00.000Z
 lugar: 'Torre de Cristal, Madrid'
 lat: 40.4781

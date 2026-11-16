@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Olite: el Palacio Real, el pueblo medieval y el vino de Navarra'
 seoTitle: 'Qué ver en Olite (Navarra): Palacio Real, horarios y cómo llegar'
+seoDescription: 'Cómo llegar a Olite desde Pamplona y qué ver: el Palacio Real (entrada 4,40 €), el Parador, Santa María la Real, las galerías medievales y el vino.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Olite'
 lat: 42.4817

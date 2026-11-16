@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Elciego: el hotel de Gehry, la bodega Marqués de Riscal y la Rioja Alavesa'
-seoTitle: 'Qué ver en Elciego: bodegas, Marqués de Riscal y el pueblo'
+seoTitle: 'Bodegas en Elciego: Marqués de Riscal, Valdelana y qué ver'
+seoDescription: 'Bodegas en Elciego (Rioja Alavesa) que se pueden visitar: Marqués de Riscal, Valdelana y Murua. Además, el hotel de Gehry, qué ver en el pueblo y cómo llegar.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Elciego'
 lat: 42.5129

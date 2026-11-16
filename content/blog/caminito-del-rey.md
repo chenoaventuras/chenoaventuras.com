@@ -1,6 +1,7 @@
 ---
 title: 'Caminito del Rey: entradas, recorrido y cómo llegar'
 seoTitle: 'Caminito del Rey: entradas, precio, recorrido y cómo llegar'
+seoDescription: 'Caminito del Rey: precio de las entradas (10 €), cómo reservar, el recorrido de 8 km, bus lanzadera, excursiones desde Málaga y cómo llegar.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Caminito del Rey'
 lat: 36.918

@@ -1,6 +1,7 @@
 ---
 title: 'Trasmoz: el único pueblo excomulgado y maldito de España'
 seoTitle: 'Trasmoz, el pueblo maldito: brujas, castillo y Bécquer'
+seoDescription: 'Trasmoz (Zaragoza), el pueblo excomulgado y maldito: por qué lo excomulgaron, las brujas, Bécquer, el castillo y qué ver junto al Moncayo.'
 date: 2026-10-11T08:00:00.000Z
 lugar: 'Trasmoz'
 lat: 41.8269

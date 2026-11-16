@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Sevilla en 2 días: Catedral, Alcázar, Plaza de España y los mejores rincones'
 seoTitle: 'Qué ver en Sevilla en 2 días: monumentos, reservas y plan'
+seoDescription: 'Qué ver en Sevilla en dos días: plan día a día con la Catedral y la Giralda, el Real Alcázar, la Plaza de España, Santa Cruz, las Setas y Triana.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Sevilla'
 lat: 37.3891

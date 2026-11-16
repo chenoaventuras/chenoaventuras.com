@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Gran Canaria: el continente en miniatura'
 seoTitle: 'Qué ver en Gran Canaria: 17 lugares imprescindibles y ruta'
+seoDescription: 'Qué ver en Gran Canaria: Vegueta, el Roque Nublo, Tejeda, Agaete, las dunas de Maspalomas, Puerto de Mogán y más, con mapa y ruta por la isla.'
 date: 2026-10-11T19:20:00.000Z
 lugar: 'Gran Canaria'
 lat: 27.9202

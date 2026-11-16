@@ -1,7 +1,7 @@
 ---
 title: 'Mágicas Navidades Torrejón 2026: fechas, precios y Papá Noel volador'
 seoTitle: 'Mágicas Navidades Torrejón 2026: precios, fechas y horarios'
-seoDescription: 'Navidad en Torrejón de Ardoz 2026: abre el 14 de noviembre. Entrada de 5 a 10 €, días de la Familia, horarios, calendario, cómo llegar y guía PDF gratis.'
+seoDescription: 'Navidad en Torrejón de Ardoz 2026: abierto desde el 14 de noviembre. Entrada de 5 a 10 €, días de la Familia, horarios, calendario, cómo llegar y guía PDF gratis.'
 eventoInfo:
   nombre: 'Mágicas Navidades de Torrejón de Ardoz 2026'
   inicio: '2026-11-14T16:00:00+01:00'
@@ -69,7 +69,7 @@ faq:
   - q: "¿Estarán Los Guachis en 2026?"
     a: "Todavía no hay programación de 2026 publicada. En 2025, la Plaza de los Guachis abrió el 15 de noviembre en la Plaza Mayor de Torrejón, con un espectáculo y un videomapping, y era gratis para empadronados. Consulta el programa del Ayuntamiento cuando se publique."
   - q: "¿Cuándo abren las Mágicas Navidades de Torrejón 2026?"
-    a: "Abren el 14 de noviembre de 2026 y llegan hasta el 10 de enero de 2027, con algunos días cerrados."
+    a: "Abrieron el 14 de noviembre de 2026 y siguen hasta el 10 de enero de 2027, con algunos días cerrados (mira el calendario)."
   - q: "¿Dónde se celebran?"
     a: "En el Recinto Ferial de Torrejón de Ardoz, en la Comunidad de Madrid."
   - q: "¿Cuánto cuesta la entrada?"
@@ -91,7 +91,7 @@ faq:
 guia: /assets/guias/guia-magicas-navidades-torrejon-chenoaventuras.pdf
 guiaTitulo: 'Guía Mágicas Navidades de Torrejón 2026 en PDF'
 ---
-Las **Mágicas Navidades de Torrejón de Ardoz**, que el parque presenta como **Mágicas Navidades de Madrid**, son uno de los planes de Navidad más grandes de la Comunidad de Madrid y este año **abren el 14 de noviembre de 2026**.
+Las **Mágicas Navidades de Torrejón de Ardoz**, que el parque presenta como **Mágicas Navidades de Madrid**, son uno de los planes de Navidad más grandes de la Comunidad de Madrid y este año **están abiertas desde el 14 de noviembre de 2026** hasta el 10 de enero de 2027.
 
 **Papá Noel vuela cada noche sobre el parque**, hay una **pista de hielo sobre un lago real**, una **noria de 42 metros**, un belén a tamaño real, linternas gigantes de Asia y esculturas de hielo de varios metros.
 

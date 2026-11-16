@@ -1,6 +1,7 @@
 ---
 title: 'Condado de Treviño: un trozo de Burgos rodeado por Álava'
 seoTitle: 'Condado de Treviño: el enclave de Burgos en Álava (mapa)'
+seoDescription: 'Condado de Treviño: por qué este trozo de Burgos está rodeado por Álava, mapa del enclave, cómo es vivir allí y qué ver, con el pueblo maldito de Ochate.'
 date: 2026-10-10T11:30:00.000Z
 lugar: 'Condado de Treviño'
 lat: 42.7339

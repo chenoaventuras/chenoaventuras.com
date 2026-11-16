@@ -1,6 +1,7 @@
 ---
 title: 'Bardenas Reales: el desierto de Navarra, Castildetierra y cómo visitarlo'
 seoTitle: 'Bardenas Reales: cómo visitarlas, rutas, horario y normas'
+seoDescription: 'Bardenas Reales: la entrada es gratis y sin reserva. Horario, rutas en coche, bici o a pie, Castildetierra, normas y cortes por el polígono militar.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Bardenas Reales'
 lat: 42.195

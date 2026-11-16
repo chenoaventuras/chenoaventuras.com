@@ -1,6 +1,7 @@
 ---
 title: 'Playa de las Conchas: cómo llegar, Montaña Bermeja y el norte salvaje de La Graciosa'
 seoTitle: 'Playa de las Conchas (La Graciosa): cómo llegar y qué ver'
+seoDescription: 'Playa de las Conchas (La Graciosa): cómo llegar en bici, andando o en taxi 4x4 desde Caleta de Sebo, Montaña Bermeja y por qué no hay que bañarse.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'La Graciosa'
 provincia: Las Palmas

@@ -1,6 +1,7 @@
 ---
 title: 'Los Hervideros y el Charco de los Clicos (El Golfo): la costa de lava de Lanzarote'
 seoTitle: 'Los Hervideros y Laguna Verde de El Golfo (Lanzarote): cómo llegar'
+seoDescription: 'Cómo llegar a Los Hervideros y a la Laguna Verde de El Golfo (Lanzarote) por la LZ-703, dónde aparcar y qué ver en esta costa de lava.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Los Hervideros y El Golfo'
 lat: 28.9545

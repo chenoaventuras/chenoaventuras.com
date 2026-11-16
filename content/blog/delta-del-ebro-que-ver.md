@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en el Delta del Ebro: arrozales, flamencos, Riumar y miradores'
 seoTitle: 'Delta del Ebro: qué ver, rutas, flamencos y cuándo ir'
+seoDescription: 'Delta del Ebro (Tarragona): dónde está, qué ver (arrozales, flamencos, Riumar, Punta del Fangar), rutas en bici, actividades y la mejor época para ir.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Delta del Ebro'
 lat: 40.7167
@@ -19,6 +20,8 @@ actividades:
     u: "https://www.civitatis.com/es/poblenou-del-delta/avistamiento-flamencos-delta-ebro-atardecer/"
 faqTitulo: "Dudas sobre el Delta del Ebro"
 faq:
+  - q: "¿En qué provincia está el Delta del Ebro?"
+    a: "En la provincia de Tarragona (Cataluña), en su extremo sur, donde el Ebro desemboca en el Mediterráneo. Los pueblos principales son Deltebre, Sant Jaume d'Enveja, Amposta y Sant Carles de la Ràpita."
   - q: "¿Cuándo es parque natural el Delta del Ebro?"
     a: "Desde 1983; la protección se amplió en 1986 y la UNESCO lo declaró Reserva de la Biosfera en 2013."
   - q: "¿Qué ver en el Delta del Ebro?"

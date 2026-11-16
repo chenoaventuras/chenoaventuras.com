@@ -1,6 +1,7 @@
 ---
 title: 'Fortaleza de la Mota (Alcalá la Real): qué ver, horarios y entradas'
 seoTitle: 'Fortaleza de la Mota (Alcalá la Real): qué ver, entradas y horarios'
+seoDescription: 'Fortaleza de la Mota (Alcalá la Real): horarios y precios (8 €, reducida 4 €), qué ver dentro, audioguía y cómo llegar al castillo.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Alcalá la Real'
 lat: 37.4609

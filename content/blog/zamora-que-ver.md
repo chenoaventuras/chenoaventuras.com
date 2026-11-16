@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Zamora: la ciudad del románico, su catedral de escamas y el cerco de Zamora'
-seoTitle: 'Qué ver en Zamora: románico, catedral y castillo'
+seoTitle: 'Qué ver en Zamora en un día: catedral, románico y castillo'
+seoDescription: 'Qué ver en Zamora en un día: la catedral, el castillo, las iglesias románicas, el Portillo de la Lealtad, las Aceñas de Olivares y el modernismo.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Zamora'
 provincia: Zamora
@@ -21,6 +22,8 @@ actividades:
     u: "https://www.civitatis.com/es/zamora/tour-zamora-medieval/"
 faqTitulo: "Dudas sobre Zamora"
 faq:
+  - q: "¿Qué ver en Zamora en un día?"
+    a: "Por la mañana, la catedral (sube a ver el cimborrio de escamas) y el castillo, que están juntos. Después ve por la Rúa de los Francos, entre iglesias románicas, hasta la Plaza Mayor. Por la tarde, cruza el Puente de Piedra y acércate a las Aceñas de Olivares, con la ciudad vieja asomada al Duero."
   - q: "¿Por qué Zamora es la ciudad del románico?"
     a: "Porque conserva más de una veintena de iglesias románicas de los siglos XII y XIII, catorce de ellas en el casco histórico. Es una de las mayores concentraciones de románico urbano de Europa."
   - q: "¿Qué tiene de especial la catedral de Zamora?"
