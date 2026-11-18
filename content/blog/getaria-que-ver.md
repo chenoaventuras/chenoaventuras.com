@@ -25,6 +25,8 @@ faq:
     a: "Pescado a la brasa (rodaballo, besugo, sardinas o chipirones, según temporada) y txakoli de la denominación Getariako Txakolina, de las viñas que rodean el pueblo."
   - q: "¿Cómo llegar a Getaria?"
     a: "Está a unos 30 minutos de San Sebastián por la autopista AP-8 o por la carretera de la costa. También hay autobuses de Lurraldebus desde Donostia."
+guia: /assets/guias/guia-gipuzkoa-chenoaventuras.pdf
+guiaTitulo: 'Guía Gipuzkoa en PDF'
 ---
 **Getaria** es pequeña, pero ha dado al mundo a un navegante y a un genio de la moda. Aquí nació **Juan Sebastián Elcano**, el primero en completar la vuelta al mundo, y también el modisto **Cristóbal Balenciaga**. El pueblo se asoma al Cantábrico junto a un monte con forma de **ratón**, rodeado de viñas de **txakoli** y con un puerto lleno de **parrillas** donde se asa el pescado en la calle.
 

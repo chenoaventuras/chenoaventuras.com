@@ -26,6 +26,8 @@ faq:
     a: "Cuatro: Baqueira, la más grande y con el pueblo a pie de pistas; Beret, con pistas anchas y suaves; Bonaigua, en el puerto del mismo nombre; y Baciver, con pistas más técnicas."
   - q: "¿Cómo llegar a Baqueira?"
     a: "Está a unos 15 minutos de Vielha, en el Valle de Arán. Desde Lleida se llega en unas 2 horas y 45 minutos por el túnel de Vielha, y desde Barcelona en unas 4 horas."
+guia: /assets/guias/guia-lleida-chenoaventuras.pdf
+guiaTitulo: 'Guía Lleida en PDF'
 ---
 En el **Valle de Arán**, el rincón más atlántico del Pirineo catalán, está **Baqueira Beret**, la estación de esquí **más grande de España** y una de las de más nivel de Europa. Abrió en 1964, la frecuenta desde hace décadas la Familia Real y tiene nieve de calidad gracias al clima del valle, que mira al norte.
 

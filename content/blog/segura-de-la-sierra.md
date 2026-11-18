@@ -26,6 +26,8 @@ faq:
     a: "En coche: está a unas 2 horas y cuarto de Jaén y a hora y media de Úbeda. Los últimos kilómetros suben con curvas hasta el pueblo."
   - q: "¿Cuándo es mejor ir?"
     a: "En primavera y otoño. En invierno hace frío y alguna vez nieva, lo que deja el castillo precioso, pero revisa la carretera."
+guia: /assets/guias/guia-jaen-chenoaventuras.pdf
+guiaTitulo: 'Guía Jaén en PDF'
 ---
 En lo más alto de un cerro, a más de **1.100 metros**, el **castillo de Segura de la Sierra** vigila un mar de montañas y olivos. A sus pies, las casas blancas del pueblo bajan por la ladera. Es uno de los **pueblos más bonitos de España** y la puerta del mayor espacio natural protegido del país, el **Parque Natural de las Sierras de Cazorla, Segura y Las Villas**.
 
