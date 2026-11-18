@@ -74,7 +74,10 @@ La foto de portada es mía, dando saltos de alegría al llegar arriba (literalme
 <div class="guide__head"><span class="eyebrow">El recorrido</span><h2>Del Corral de las Mulas a los ibones</h2></div>
 <p>La ruta sale del <strong>Corral de las Mulas</strong>, en la carretera del Portalet, muy cerca de Formigal. Sigue las marcas del GR-11 y sube por el barranco de Culivillas, al principio por pradera y luego por terreno más pedregoso, hasta un rellano donde aparecen de golpe los <strong>ibones de Anayet</strong>, con el pico reflejado en el agua.</p>
 <div class="guide__legend"><h3>🌋 Un pico que fue volcán</h3><p>El <strong>pico Anayet</strong> (unos 2.545 m) es de origen volcánico, algo rarísimo en el Pirineo: por eso su roca oscura y su forma de cuerno contrastan tanto con las montañas de alrededor. Desde los ibones verás también el <strong>Midi d'Ossau</strong>, al otro lado de la frontera.</p></div>
-<div class="gallery"><figure><img src="/assets/img/blog/pirineo/anayet-ibones.webp" alt="Ibón de Anayet con el pico Anayet" loading="lazy" decoding="async" /><figcaption>El pico Anayet reflejado en el ibón</figcaption></figure><figure><img src="/assets/img/blog/pirineo/anayet-grande.webp" alt="Ibón grande de Anayet con el Midi d&#x27;Ossau" loading="lazy" decoding="async" /><figcaption>El Midi d'Ossau al fondo, ya en Francia</figcaption></figure></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pirineo/anayet-ibones.webp" alt="Ibón de Anayet con el pico Anayet" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El pico Anayet en el ibón</h3><p>Arriba, el pico se refleja en el agua. Se sube por el <strong>GR-11</strong> desde el Corral de las Mulas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pirineo/anayet-grande.webp" alt="Ibón grande de Anayet con el Midi d&amp;#x27;Ossau" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Midi d'Ossau</h3><p>Al fondo se ve el Midi d'Ossau, ya en <strong>Francia</strong>. Calcula 4 o 5 horas ida y vuelta.</p></div></li>
+</ol>
 
 
 <!--actividades-->
