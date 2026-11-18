@@ -25,6 +25,8 @@ faq:
     a: "En coche: está a unos 130 km de Zaragoza (algo menos de dos horas) y a una hora de Pamplona. Aparca a la entrada: el casco histórico es peatonal en buena parte."
   - q: "¿Cuánto tiempo hace falta para ver Sos?"
     a: "Medio día para recorrer el pueblo con calma y entrar en el Palacio de Sada y en San Esteban."
+guia: /assets/guias/guia-zaragoza-chenoaventuras.pdf
+guiaTitulo: 'Guía Zaragoza en PDF'
 ---
 En lo alto de un cerro en las **Cinco Villas** de Zaragoza, casi en la frontera con Navarra, hay un pueblo de piedra dorada que apenas ha cambiado en siglos. En **Sos del Rey Católico** nació en **1452** el rey **Fernando el Católico**, y sus calles empedradas fueron el escenario de **La vaquilla**, la película de Berlanga. Es Conjunto Histórico-Artístico y uno de los pueblos medievales mejor conservados de Aragón.
 

@@ -26,6 +26,8 @@ faq:
     a: "Es un yacimiento con arte rupestre paleolítico declarado Bien de Interés Cultural. Por protección, las visitas son muy limitadas: pregunta en el Ayuntamiento de Aýna antes de ir."
   - q: "¿Cómo llegar a Aýna?"
     a: "En coche desde Albacete, en algo más de una hora, por la CM-313 hacia Elche de la Sierra. Las últimas curvas bajan al cañón con vistas espectaculares."
+guia: /assets/guias/guia-albacete-chenoaventuras.pdf
+guiaTitulo: 'Guía Albacete en PDF'
 ---
 En la Mancha no todo es llanura. Al sur de Albacete, el **río Mundo** se abre paso entre montañas de roca y pinares, y en mitad del cañón, colgado de la ladera, aparece **Aýna**. Por su paisaje la llaman la **«Suiza manchega»**, y a muchos les sonará porque aquí se rodó la mítica **Amanece, que no es poco**.
 

@@ -26,6 +26,8 @@ faq:
     a: "Sí: en temporada hay paseos en barco por el embalse, y también se alquilan kayaks y tablas de paddle surf. En invierno estas actividades suelen parar."
   - q: "¿Cuándo es mejor ir a Riaño?"
     a: "En primavera, con el embalse lleno y nieve en las cumbres, y en otoño por los colores. En invierno nieva a menudo: el paisaje es precioso, pero revisa las carreteras."
+guia: /assets/guias/guia-leon-chenoaventuras.pdf
+guiaTitulo: 'Guía León en PDF'
 ---
 En el norte de León, entre picos calizos de más de 2.000 metros, un embalse de agua azul se mete por varios valles a la vez. Desde los miradores parece **Noruega**, y por eso lo llaman los **«fiordos leoneses»**. Pero bajo esa postal hay una historia dura: en **1987**, para llenar el pantano, se desalojaron e inundaron **nueve pueblos**, entre ellos el Riaño antiguo.
 

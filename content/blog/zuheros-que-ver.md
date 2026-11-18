@@ -25,6 +25,8 @@ faq:
     a: "En primavera y otoño para hacer rutas. A finales de invierno los almendros florecen alrededor del pueblo, y en septiembre se celebra la Fiesta del Queso."
   - q: "¿Cómo llegar a Zuheros?"
     a: "En coche: está a algo más de una hora de Córdoba y a una hora y cuarto de Jaén. Aparca a la entrada del pueblo, porque las calles son estrechas."
+guia: /assets/guias/guia-cordoba-chenoaventuras.pdf
+guiaTitulo: 'Guía Córdoba en PDF'
 ---
 Visto desde la carretera, **Zuheros** parece una cascada de casas blancas que cae desde una gran roca coronada por un **castillo**. Está en pleno **Parque Natural de las Sierras Subbéticas**, rodeado de un mar de olivos, y es uno de los pueblos más bonitos de Andalucía. Además tiene una cueva con **pinturas prehistóricas** y fama de hacer algunos de los mejores **quesos de cabra** de España.
 

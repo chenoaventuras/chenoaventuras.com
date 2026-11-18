@@ -34,6 +34,7 @@ export const ZONE_GUIDES = {
   "atienza-que-ver": {"title": "Guía Guadalajara", "file": "/assets/guias/guia-guadalajara-chenoaventuras.pdf"},
   "avila-que-ver": {"title": "Guía Ávila", "file": "/assets/guias/guia-avila-chenoaventuras.pdf"},
   "aviles-que-ver": {"title": "Guía Asturias", "file": "/assets/guias/guia-asturias-chenoaventuras.pdf"},
+  "ayna-que-ver": {"title": "Guía Albacete", "file": "/assets/guias/guia-albacete-chenoaventuras.pdf"},
   "azulejos-de-veneguera": {"title": "Guía Gran Canaria", "file": "/assets/guias/guia-gran-canaria-chenoaventuras.pdf"},
   "badajoz-que-ver": {"title": "Guía Badajoz", "file": "/assets/guias/guia-badajoz-chenoaventuras.pdf"},
   "baiona-que-ver": {"title": "Guía Pontevedra", "file": "/assets/guias/guia-pontevedra-chenoaventuras.pdf"},
@@ -335,6 +336,7 @@ export const ZONE_GUIDES = {
   "rafting-canon-de-almadenes": {"title": "Guía Región de Murcia", "file": "/assets/guias/guia-murcia-chenoaventuras.pdf"},
   "raquetas-de-nieve-pirineo": {"title": "Guía Huesca", "file": "/assets/guias/guia-huesca-chenoaventuras.pdf"},
   "real-alcazar-sevilla": {"title": "Guía Sevilla", "file": "/assets/guias/guia-sevilla-chenoaventuras.pdf"},
+  "riano": {"title": "Guía León", "file": "/assets/guias/guia-leon-chenoaventuras.pdf"},
   "ribadavia-que-ver": {"title": "Guía Lugo y Ourense", "file": "/assets/guias/guia-lugo-ourense-chenoaventuras.pdf"},
   "ribadeo-que-ver": {"title": "Guía Lugo y Ourense", "file": "/assets/guias/guia-lugo-ourense-chenoaventuras.pdf"},
   "ribadesella-que-ver": {"title": "Guía Asturias", "file": "/assets/guias/guia-asturias-chenoaventuras.pdf"},
@@ -385,6 +387,7 @@ export const ZONE_GUIDES = {
   "soller-que-ver": {"title": "Guía Mallorca", "file": "/assets/guias/guia-mallorca-chenoaventuras.pdf"},
   "somiedo-que-ver": {"title": "Guía Asturias", "file": "/assets/guias/guia-asturias-chenoaventuras.pdf"},
   "soria-que-ver": {"title": "Guía Soria", "file": "/assets/guias/guia-soria-chenoaventuras.pdf"},
+  "sos-del-rey-catolico": {"title": "Guía Zaragoza", "file": "/assets/guias/guia-zaragoza-chenoaventuras.pdf"},
   "sotres-que-ver": {"title": "Guía Asturias", "file": "/assets/guias/guia-asturias-chenoaventuras.pdf"},
   "submarino-peral": {"title": "Guía Región de Murcia", "file": "/assets/guias/guia-murcia-chenoaventuras.pdf"},
   "tablas-de-daimiel": {"title": "Guía Ciudad Real", "file": "/assets/guias/guia-ciudad-real-chenoaventuras.pdf"},
@@ -432,5 +435,6 @@ export const ZONE_GUIDES = {
   "zafra-que-ver": {"title": "Guía Badajoz", "file": "/assets/guias/guia-badajoz-chenoaventuras.pdf"},
   "zamora-que-ver": {"title": "Guía Zamora", "file": "/assets/guias/guia-zamora-chenoaventuras.pdf"},
   "zaragoza-que-ver": {"title": "Guía Zaragoza", "file": "/assets/guias/guia-zaragoza-chenoaventuras.pdf"},
+  "zuheros-que-ver": {"title": "Guía Córdoba", "file": "/assets/guias/guia-cordoba-chenoaventuras.pdf"},
   "zumaia-juego-de-tronos": {"title": "Guía Gipuzkoa", "file": "/assets/guias/guia-gipuzkoa-chenoaventuras.pdf"}
 };
