@@ -63,8 +63,8 @@ Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/D
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lago-martianez-puerto-de-la-cruz/lago.jpg" alt="Lago Martiánez visto desde el aire con Puerto de la Cruz al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Lago</h3><p>La zona central: una piscina enorme de agua de mar con <strong>islas y cascadas</strong>, diseñada por César Manrique.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lago-martianez-puerto-de-la-cruz/piscina.jpg" alt="Agua turquesa y roca volcánica en las piscinas del Lago Martiánez" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Agua de mar sin olas</h3><p>El agua es <strong>del Atlántico</strong>, pero sin oleaje. Lleva escarpines: la lava resbala y quema al sol.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lago-martianez-puerto-de-la-cruz/lago.webp" alt="Lago Martiánez visto desde el aire con Puerto de la Cruz al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Lago</h3><p>La zona central: una piscina enorme de agua de mar con <strong>islas y cascadas</strong>, diseñada por César Manrique.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/lago-martianez-puerto-de-la-cruz/piscina.webp" alt="Agua turquesa y roca volcánica en las piscinas del Lago Martiánez" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Agua de mar sin olas</h3><p>El agua es <strong>del Atlántico</strong>, pero sin oleaje. Lleva escarpines: la lava resbala y quema al sol.</p></div></li>
 </ol>
 
 ## Lo básico antes de ir
