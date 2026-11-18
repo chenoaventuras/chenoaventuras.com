@@ -52,6 +52,9 @@ Una muralla medieval casi intacta, torres, portales y un casco antiguo que parec
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>🐉</b><span>Sant Jordi y el dragón</span></div><div><b>🧱</b><span>Muralla medieval</span></div><div><b>🚪</b><span>Portal de Sant Jordi</span></div><div><b>⛪</b><span>Santa Maria la Major</span></div><div><b>🏘️</b><span>Casco antiguo</span></div></div>
 
+<div class="guide__legend"><h3>🎄 Candidato a pueblo de la Navidad 2026</h3><p><strong>Montblanc</strong> es uno de los 17 pueblos que compiten en el concurso «Juntos Brillamos Más» de Ferrero Rocher por la iluminación navideña de 2026. El ganador se conoce el 14 de diciembre: <a href="/blog/pueblo-navidad-ferrero-rocher-2026.html">aquí tienes los candidatos y cómo votar</a>.</p></div>
+
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Montblanc</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la Conca de Barberà (<strong>Tarragona</strong>), a unos <strong>40 minutos de Tarragona</strong> y una hora y cuarto de Barcelona.</p></div>

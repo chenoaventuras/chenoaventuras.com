@@ -29,6 +29,8 @@ faq:
     a: "Sí, por la ruta de Montaña Blanca, larga y exigente. Se puede partir en dos noches durmiendo en el refugio de Altavista."
   - q: "¿Cómo saber si el acceso al Teide está abierto hoy?"
     a: "Cuando nieva o hay hielo (sobre todo de diciembre a marzo), el Cabildo de Tenerife puede cerrar las carreteras TF-21, TF-24 y TF-38. Consulta sus avisos de carreteras y los del 112 Canarias antes de salir, y mira las webcams del observatorio de Izaña para ver cómo está la cumbre."
+  - q: "¿Cuándo nieva en el Teide?"
+    a: "Normalmente entre diciembre y marzo, aunque depende de cada año. Las nevadas más vistosas suelen llegar en enero y febrero; cuando pasa, el Cabildo puede restringir el acceso en coche."
   - q: "¿Hay webcam del Teide en directo?"
     a: "Sí: el observatorio de Izaña (AEMET), a 2.400 metros dentro del parque, tiene cámaras que se actualizan cada 10 minutos en izana.aemet.es/webcams."
   - q: "¿Qué altura tiene el Teide?"
@@ -82,6 +84,9 @@ Pero llegar al cráter no es tan simple como coger el teleférico: hace falta un
 <!--actividades-->
 
 <!--cuando-->
+<div class="guide__head"><span class="eyebrow">Invierno</span><h2>Ver el Teide con nieve</h2><p>De diciembre a marzo la cumbre suele blanquearse, y miles de personas suben a verla, sobre todo en Navidad y en los fines de semana de febrero.</p></div>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Mira si las carreteras están abiertas:</strong> con nieve o hielo, el Cabildo cierra o restringe la TF-21, la TF-24 y la TF-38. Consulta sus avisos y los del 112 Canarias el mismo día.</li><li><strong>Ve entre semana y temprano:</strong> los días de nevada se forman colas de coches y los aparcamientos se llenan antes de mediodía.</li><li><strong>Aparca solo en zonas habilitadas:</strong> parar en el arcén para jugar con la nieve es peligroso y te pueden multar.</li><li><strong>El teleférico puede cerrar</strong> por viento o hielo en la cumbre: compruébalo antes de ir si quieres subir.</li><li><strong>Respeta la nieve:</strong> no te salgas de los senderos: bajo la nieve hay plantas del parque muy frágiles.</li></ul>
+
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> todo el año; en invierno puede haber nieve y vientos que cierran el teleférico.</li><li><strong>Qué llevar:</strong> ropa de abrigo, gafas de sol, protector solar y agua: a 3.500 m el sol es muy fuerte.</li><li><strong>Ojo:</strong> si subes a pie al pico, necesitas permiso, y la altura puede dar mal de altura a algunas personas.</li></ul>
 

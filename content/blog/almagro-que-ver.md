@@ -40,6 +40,9 @@ Y no es lo único. Este pueblo de Ciudad Real tiene una de las plazas mayores m�
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>🎭</b><span>Corral de Comedias</span></div><div><b>🟩</b><span>Plaza Mayor verde</span></div><div><b>🍆</b><span>Berenjenas</span></div><div><b>🎪</b><span>Festival de Teatro</span></div><div><b>🏛️</b><span>Palacios</span></div></div>
 
+<div class="guide__legend"><h3>🎄 Candidato a pueblo de la Navidad 2026</h3><p><strong>Almagro</strong> es uno de los 17 pueblos que compiten en el concurso «Juntos Brillamos Más» de Ferrero Rocher por la iluminación navideña de 2026. El ganador se conoce el 14 de diciembre: <a href="/blog/pueblo-navidad-ferrero-rocher-2026.html">aquí tienes los candidatos y cómo votar</a>.</p></div>
+
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Almagro</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Campo de Calatrava</strong>, a 23 km de Ciudad Real y a unos <strong>200 km de Madrid</strong>.</p></div>

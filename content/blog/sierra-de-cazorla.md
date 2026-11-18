@@ -48,6 +48,9 @@ Te cuento qué ver en el pueblo de Cazorla, las rutas imprescindibles, los puebl
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>💧</b><span>Nacimiento del Guadalquivir</span></div><div><b>🏰</b><span>Castillo de la Yedra</span></div><div><b>⛪</b><span>Ruinas de Santa María</span></div><div><b>💦</b><span>Cerrada del Utrero</span></div><div><b>🏘️</b><span>La Iruela</span></div></div>
 
+<div class="guide__legend"><h3>🎄 Candidato a pueblo de la Navidad 2026</h3><p><strong>Cazorla</strong> es uno de los 17 pueblos que compiten en el concurso «Juntos Brillamos Más» de Ferrero Rocher por la iluminación navideña de 2026. El ganador se conoce el 14 de diciembre: <a href="/blog/pueblo-navidad-ferrero-rocher-2026.html">aquí tienes los candidatos y cómo votar</a>.</p></div>
+
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Sierra de Cazorla</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el este de <strong>Jaén</strong>, a unos 100 km de la capital. Cazorla es la puerta de entrada al parque.</p></div>

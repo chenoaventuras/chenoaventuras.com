@@ -51,6 +51,9 @@ Te cuento su curiosa historia y qué ver en uno de los pueblos más bonitos de E
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>🇵🇹</b><span>Pasado portugués</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>⛪</b><span>Santa María Magdalena</span></div><div><b>🖼️</b><span>Azulejos</span></div><div><b>🍊</b><span>Naranjas</span></div></div>
 
+<div class="guide__legend"><h3>🎄 Candidato a pueblo de la Navidad 2026</h3><p><strong>Olivenza</strong> es uno de los 17 pueblos que compiten en el concurso «Juntos Brillamos Más» de Ferrero Rocher por la iluminación navideña de 2026. El ganador se conoce el 14 de diciembre: <a href="/blog/pueblo-navidad-ferrero-rocher-2026.html">aquí tienes los candidatos y cómo votar</a>.</p></div>
+
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Olivenza</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la frontera con Portugal, a unos <strong>25 minutos de Badajoz</strong> y a menos de una hora de Elvas, ya en Portugal.</p></div>

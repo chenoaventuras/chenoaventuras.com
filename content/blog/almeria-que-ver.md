@@ -29,7 +29,7 @@ faq:
   - q: "¿Cuándo es la Feria de Almería?"
     a: "En la segunda quincena de agosto, en honor a la Virgen del Mar, con feria de día en el centro y feria de noche en el recinto ferial."
   - q: "¿Qué ver cerca de Almería?"
-    a: "El Parque Natural de Cabo de Gata y sus playas, el desierto de Tabernas con sus poblados del oeste y, más lejos, la Geoda de Pulpí."
+    a: "El Parque Natural de Cabo de Gata y sus playas, el desierto de Tabernas con sus poblados del oeste y, más al norte, el pueblo blanco de Mojácar y la Geoda de Pulpí."
 actividades:
   - t: "Tour por los refugios de la Guerra Civil"
     u: "https://www.civitatis.com/es/almeria/tour-refugios-guerra-civil/"
@@ -81,7 +81,7 @@ Te cuento qué ver, su historia, dónde tapear y cómo combinarla con Cabo de Ga
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Almería</h2></div>
 <div class="guide__howto"><p><strong>En avión:</strong> el aeropuerto está a unos 9 km del centro.</p><p><strong>En coche:</strong> desde Granada, unas dos horas por la A-92; desde Murcia, unas dos horas y media por la A-7.</p><p><strong>En barco:</strong> ferris a Melilla y al norte de África.</p><p><strong>Por la ciudad:</strong> el centro se recorre andando; la subida a la Alcazaba es corta pero empinada.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Alcazaba%20de%20Almer%C3%ADa" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
-<p>Desde Almería, en menos de una hora llegas a las playas de <a href="/blog/cabo-de-gata-que-ver.html">Cabo de Gata</a> y al <a href="/blog/desierto-de-tabernas.html">desierto de Tabernas</a>, y más al norte tienes la <a href="/blog/geoda-de-pulpi.html">Geoda de Pulpí</a>.</p>
+<p>Desde Almería, en menos de una hora llegas a las playas de <a href="/blog/cabo-de-gata-que-ver.html">Cabo de Gata</a> y al <a href="/blog/desierto-de-tabernas.html">desierto de Tabernas</a>, y más al norte tienes el pueblo blanco de <a href="/blog/mojacar-que-ver.html">Mojácar</a> y la <a href="/blog/geoda-de-pulpi.html">Geoda de Pulpí</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Alcazaba temprano</b>: en verano el sol pega fuerte y hay poca sombra.</li><li><b>Reserva los refugios</b>: los grupos son pequeños y se llenan.</li><li><b>Tapea de bar en bar</b>: con cada caña, una tapa distinta.</li><li><b>Atardecer en el Cable Inglés</b>.</li><li><b>Usa Almería de base</b> para Cabo de Gata y Tabernas.</li></ul></div>
 

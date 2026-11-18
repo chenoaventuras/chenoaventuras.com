@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Ciudad Rodrigo: murallas, catedral con cañonazos y Carnaval del Toro'
-seoTitle: 'Qué ver en Ciudad Rodrigo: muralla, catedral y castillo'
+seoTitle: 'Qué ver en Ciudad Rodrigo y Carnaval del Toro 2027 (fechas)'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Ciudad Rodrigo'
 lat: 40.599
@@ -19,7 +19,7 @@ faq:
   - q: "¿Por qué la catedral de Ciudad Rodrigo tiene marcas de disparos?"
     a: "Son impactos de los cañones durante los asedios de la Guerra de la Independencia, en 1810 y 1812."
   - q: "¿Cuándo es el Carnaval del Toro?"
-    a: "En febrero, coincidiendo con el Carnaval. Es Fiesta de Interés Turístico Internacional."
+    a: "En 2027 será del 5 al 9 de febrero, según las fechas que ha publicado el Ayuntamiento de Ciudad Rodrigo. Se celebra cada año coincidiendo con el Carnaval y es Fiesta de Interés Turístico Internacional."
   - q: "¿Qué ver cerca de Ciudad Rodrigo?"
     a: "La Sierra de Francia con La Alberca y Mogarraz, y los pueblos fronterizos con Portugal."
   - q: "¿A cuánto está Ciudad Rodrigo de Salamanca?"
@@ -55,11 +55,14 @@ Te cuento qué ver y por qué su carnaval es de los más especiales de España �
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>🧱</b><span>Muralla de 2 km</span></div><div><b>⛪</b><span>Catedral</span></div><div><b>🏰</b><span>Castillo</span></div><div><b>🐂</b><span>Carnaval del Toro</span></div><div><b>🥩</b><span>Gastronomía</span></div></div>
 
+<div class="guide__legend"><h3>🎄 Candidato a pueblo de la Navidad 2026</h3><p><strong>Ciudad Rodrigo</strong> es uno de los 17 pueblos que compiten en el concurso «Juntos Brillamos Más» de Ferrero Rocher por la iluminación navideña de 2026. El ganador se conoce el 14 de diciembre: <a href="/blog/pueblo-navidad-ferrero-rocher-2026.html">aquí tienes los candidatos y cómo votar</a>.</p></div>
+
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Ciudad Rodrigo</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el oeste de <strong>Salamanca</strong>, a una hora de la capital por la A-62 y a menos de media hora de Portugal.</p></div>
 <div class="guide__tip"><h3>⏱️ Tiempo</h3><p>Medio día para la muralla, la catedral y la Plaza Mayor. Un día si entras en los museos y paseas junto al río Águeda.</p></div>
-<div class="guide__tip"><h3>🎭 Carnaval del Toro</h3><p>En febrero, la Plaza Mayor se cierra con talanqueras de madera para los encierros y capeas del <strong>Carnaval del Toro</strong>, de Interés Turístico Internacional.</p></div>
+<div class="guide__tip"><h3>🎭 Carnaval del Toro 2027</h3><p><strong>Del 5 al 9 de febrero de 2027</strong>, la Plaza Mayor se cierra con talanqueras de madera para los encierros y capeas del <strong>Carnaval del Toro</strong>, de Interés Turístico Internacional.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una ciudad que resistió dos asedios</h2></div>

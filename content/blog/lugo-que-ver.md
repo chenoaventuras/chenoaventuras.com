@@ -90,6 +90,7 @@ Te cuento qué ver en Lugo, cómo recorrer la muralla, dónde tapear, sus fiesta
 <div class="guide__head"><span class="eyebrow">Cerca</span><h2>Qué ver cerca de Lugo</h2></div>
 <ul>
 <li><strong>La Ribeira Sacra</strong>: cañones del Miño y del Sil con viñedos imposibles. Te lo cuento en <a href="/blog/canon-del-sil.html">este post del Cañón del Sil</a>.</li>
+<li><strong>O Cebreiro</strong>, la aldea de las pallozas donde el Camino entra en Galicia, preciosa con nieve: <a href="/blog/o-cebreiro.html">te la enseño aquí</a>.</li>
 <li><strong>Portomarín</strong>, en el Camino Francés, con su iglesia trasladada piedra a piedra: <a href="/blog/portomarin.html">aquí su historia</a>.</li>
 <li><strong>La playa de las Catedrales</strong>, en la costa de Lugo, a una hora y media: <a href="/blog/playa-de-las-catedrales.html">cómo verla con marea baja</a>.</li>
 <li><strong>Santa Eulalia de Bóveda</strong>, a unos 15 km: un misterioso templo romano subterráneo con pinturas de aves.</li>
