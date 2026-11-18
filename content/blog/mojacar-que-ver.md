@@ -13,6 +13,12 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividades:
+  - t: "Visita guiada por Mojácar"
+    u: "https://www.civitatis.com/es/mojacar/visita-guiada-mojacar/"
+  - t: "Excursión al Cabo de Gata y Mojácar desde Almería"
+    u: "https://www.civitatis.com/es/almeria/excursion-cabo-gata-mojacar/"
+actividadesTitulo: 'Actividades en Mojácar'
 faqTitulo: "Dudas sobre Mojácar"
 faq:
   - q: "¿Qué ver en Mojácar en un día?"
@@ -65,6 +71,8 @@ Te cuento qué ver, de dónde viene el famoso **indalo** y cómo organizar la vi
 <p>Combínalo con las calas de <a href="/blog/cabo-de-gata-que-ver.html">Cabo de Gata</a>, la <a href="/blog/geoda-de-pulpi.html">Geoda de Pulpí</a> o el <a href="/blog/desierto-de-tabernas.html">desierto de Tabernas</a>. Tienes más planes en mi guía de <a href="/blog/almeria-que-ver.html">qué ver en Almería</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Calzado cómodo</b>: todo son cuestas y escaleras.</li><li><b>Sube al mirador al atardecer</b>: la luz sobre las casas blancas es preciosa.</li><li><b>Ven en invierno</b>: buen tiempo, sin colas y sin calor.</li><li><b>Busca indalos</b> en las puertas: es un juego estupendo con niños.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

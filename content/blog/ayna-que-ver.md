@@ -14,6 +14,10 @@ tags:
   - Pueblos
   - Castilla-La Mancha
 wide: true
+actividades:
+  - t: "Visita guiada por Albacete"
+    u: "https://www.civitatis.com/es/albacete/visita-guiada-albacete/"
+actividadesTitulo: 'Actividades en Albacete'
 faqTitulo: "Dudas sobre Aýna"
 faq:
   - q: "¿Por qué llaman a Aýna la Suiza manchega?"
@@ -63,6 +67,8 @@ Te cuento qué ver, los miradores imprescindibles y cómo llegar 👇
 <p>Siguiendo el río hacia arriba llegas al <a href="/blog/nacimiento-rio-mundo.html">nacimiento del río Mundo</a>, una de las cascadas más espectaculares de España. En la provincia tienes también <a href="/blog/alcala-del-jucar.html">Alcalá del Júcar</a>, <a href="/blog/alcaraz-que-ver.html">Alcaraz</a> y <a href="/blog/chinchilla-de-montearagon.html">Chinchilla</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Para en el Mirador del Diablo</b> al llegar: es la mejor vista del pueblo.</li><li><b>Ve en otoño</b> por los colores del río.</li><li><b>Combínalo con el nacimiento del río Mundo</b> en el mismo fin de semana.</li><li><b>Vuelve a ver la película</b> antes de ir.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

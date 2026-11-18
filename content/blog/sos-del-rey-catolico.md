@@ -13,6 +13,10 @@ tags:
   - Pueblos
   - Aragón
 wide: true
+actividades:
+  - t: "Excursión al Monasterio de Leyre y el Castillo de Javier desde Pamplona"
+    u: "https://www.civitatis.com/es/pamplona/excursion-leyre-castillo-javier/"
+actividadesTitulo: 'Actividades cerca de Sos'
 faqTitulo: "Dudas sobre Sos del Rey Católico"
 faq:
   - q: "¿Qué ver en Sos del Rey Católico?"
@@ -61,6 +65,8 @@ Te cuento qué ver y cómo organizar la visita 👇
 <p>Muy cerca, ya en Navarra, tienes las <a href="/blog/bardenas-reales.html">Bardenas Reales</a> y <a href="/blog/olite-que-ver.html">Olite</a>. Si vas hacia Zaragoza, para en el <a href="/blog/monasterio-de-piedra.html">Monasterio de Piedra</a> o en <a href="/blog/zaragoza-que-ver.html">la capital</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Empieza por el Palacio de Sada</b>: en la oficina de turismo te dan el plano.</li><li><b>Sube al castillo al atardecer</b>: la piedra se vuelve dorada.</li><li><b>Calzado cómodo</b>: todo son cuestas empedradas.</li><li><b>Ve fuera de puentes</b>: el pueblo es pequeño y se llena.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

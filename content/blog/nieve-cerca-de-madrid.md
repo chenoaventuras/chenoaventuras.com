@@ -14,6 +14,12 @@ tags:
   - Actividades
   - Madrid
 wide: true
+actividades:
+  - t: "Paseo con raquetas de nieve por la Sierra de Guadarrama"
+    u: "https://www.civitatis.com/es/navacerrada/paseo-raquetas-nieve-sierra-guadarrama/"
+  - t: "Raquetas de nieve y construcción de un iglú"
+    u: "https://www.civitatis.com/es/navacerrada/paseo-raquetas-nieve-construccion-iglu/"
+actividadesTitulo: 'Actividades en la nieve de Madrid'
 faqTitulo: "Dudas sobre la nieve cerca de Madrid"
 faq:
   - q: "¿Dónde hay nieve cerca de Madrid?"
@@ -56,6 +62,8 @@ Cuando nieva en la sierra, medio Madrid quiere subir a verla. La buena noticia: 
 <p>Si buscas una estación grande para un fin de semana, mira <a href="/blog/sierra-nevada-esqui.html">Sierra Nevada</a> o <a href="/blog/baqueira-beret.html">Baqueira Beret</a>. Y si prefieres pueblos con encanto cerca de la sierra, tienes <a href="/blog/buitrago-del-lozoya-que-ver.html">Buitrago del Lozoya</a> y <a href="/blog/pueblos-de-colores-segovia.html">los pueblos de colores de Segovia</a>, junto a La Pinilla.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Entre semana</b>: la diferencia de gente es enorme.</li><li><b>Sal antes de las 8</b> si vas en fin de semana.</li><li><b>Ropa impermeable</b> y guantes de repuesto para los niños.</li><li><b>Depósito lleno</b>: en los atascos de vuelta se gasta mucho.</li><li><b>Mira las webcams</b> de las estaciones antes de salir.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

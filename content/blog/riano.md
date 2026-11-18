@@ -14,6 +14,10 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividades:
+  - t: "Excursión a la Cueva de Valporquero"
+    u: "https://www.civitatis.com/es/leon/excursion-cueva-valporquero/"
+actividadesTitulo: 'Actividades en la provincia de León'
 faqTitulo: "Dudas sobre Riaño"
 faq:
   - q: "¿Por qué llaman a Riaño los fiordos leoneses?"
@@ -64,6 +68,8 @@ Te cuento qué ver, dónde están los mejores miradores y lo que pasó con los p
 <p>Combínalo con <a href="/blog/leon-que-ver.html">León</a> y la <a href="/blog/valporquero-que-ver.html">Cueva de Valporquero</a>, o cruza a Cantabria por los Picos de Europa hasta <a href="/blog/potes-santo-toribio-de-liebana.html">Potes</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve al amanecer o al atardecer</b>: la luz sobre el agua es lo mejor.</li><li><b>Mira el nivel del embalse</b> antes de ir: lleno es mucho más bonito.</li><li><b>Para en los apartaderos</b>, nunca en mitad de los puentes.</li><li><b>Lleva abrigo</b>: incluso en verano refresca al caer la tarde.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

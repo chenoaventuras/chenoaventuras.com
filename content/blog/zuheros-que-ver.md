@@ -13,6 +13,10 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividades:
+  - t: "Tour privado por Zuheros"
+    u: "https://www.civitatis.com/es/zuheros/tour-privado-zuheros/"
+actividadesTitulo: 'Actividades en Zuheros'
 faqTitulo: "Dudas sobre Zuheros"
 faq:
   - q: "¿Qué ver en Zuheros?"
@@ -63,6 +67,8 @@ Te cuento qué ver y cómo organizar la visita 👇
 <p>En la misma comarca tienes <a href="/blog/priego-de-cordoba.html">Priego de Córdoba</a>, la joya del barroco, y de vuelta a la capital, la <a href="/blog/mezquita-de-cordoba.html">Mezquita</a> y los <a href="/blog/cordoba-patios-juderia.html">patios de la judería</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva la cueva</b> con días de antelación.</li><li><b>Sube al mirador al atardecer</b>: la roca y el castillo se ponen dorados.</li><li><b>Calzado cómodo</b>: hay cuestas y escaleras por todas partes.</li><li><b>Prueba el queso</b> en una de las queserías del pueblo.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

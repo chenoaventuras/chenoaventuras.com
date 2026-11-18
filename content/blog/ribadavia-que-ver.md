@@ -13,6 +13,14 @@ tags:
   - Pueblos
   - Galicia
 wide: true
+actividades:
+  - t: "Visita guiada por Ribadavia"
+    u: "https://www.civitatis.com/es/ribadavia/visita-guiada-ribadavia/"
+  - t: "Visita a la bodega Pazo Toubes"
+    u: "https://www.civitatis.com/es/ribadavia/visita-bodega-pazo-toubes/"
+  - t: "Visita a la bodega Viña Costeira"
+    u: "https://www.civitatis.com/es/ribadavia/visita-bodega-vina-costeira/"
+actividadesTitulo: 'Actividades en Ribadavia'
 faqTitulo: "Dudas sobre Ribadavia"
 faq:
   - q: "¿Qué ver en Ribadavia?"
@@ -63,6 +71,8 @@ Además, en la Navidad de 2024 fue el **pueblo ganador de Ferrero Rocher**. Te c
 <p>Combínalo con <a href="/blog/ourense-que-ver.html">Ourense</a> y sus termas, el <a href="/blog/canon-del-sil.html">Cañón del Sil</a> o <a href="/blog/allariz-que-ver.html">Allariz</a>. Si vienes de la costa, tienes cerca <a href="/blog/vigo-que-ver.html">Vigo</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Prueba las tartas judías</b>: en las pastelerías del barrio judío hacen dulces de tradición sefardí.</li><li><b>Visita una bodega</b> del Ribeiro: muchas ofrecen catas con reserva.</li><li><b>Sube al castillo</b> por la tarde, con luz suave sobre la piedra.</li><li><b>Mira las puertas</b>: los símbolos judíos están en los detalles.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

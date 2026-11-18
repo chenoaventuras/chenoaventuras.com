@@ -13,6 +13,12 @@ tags:
   - Pueblos
   - País Vasco
 wide: true
+actividades:
+  - t: "Tour por la costa de Gipuzkoa desde San Sebastián"
+    u: "https://www.civitatis.com/es/san-sebastian/tour-costa-guipuzcoa/"
+  - t: "Excursión a San Sebastián, Hondarribia y Getaria desde Bilbao"
+    u: "https://www.civitatis.com/es/bilbao/excursion-san-sebastian/"
+actividadesTitulo: 'Actividades en la costa de Gipuzkoa'
 faqTitulo: "Dudas sobre Getaria"
 faq:
   - q: "¿Qué es el Ratón de Getaria?"
@@ -62,6 +68,8 @@ Te cuento qué ver y dónde comer 👇
 <p>A 10 minutos tienes el flysch de <a href="/blog/zumaia-juego-de-tronos.html">Zumaia</a>, y a media hora, <a href="/blog/san-sebastian-que-ver.html">San Sebastián</a>. En la misma costa, más al este, <a href="/blog/hondarribia-que-ver.html">Hondarribia</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva asador</b> si vas en fin de semana.</li><li><b>Sube al Ratón</b> antes de comer.</li><li><b>Camina hasta Zarautz</b>: hay un paseo junto al mar de unos 45 minutos.</li><li><b>Pide txakoli escanciado</b>: se sirve desde lo alto.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

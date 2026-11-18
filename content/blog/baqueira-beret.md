@@ -14,6 +14,12 @@ tags:
   - Actividades
   - Cataluña
 wide: true
+actividades:
+  - t: "Clase de esquí o snowboard en Baqueira Beret"
+    u: "https://www.civitatis.com/es/baqueira/clase-esqui-snowboard-baqueira-beret/"
+  - t: "Clase privada de esquí o snow en Baqueira Beret"
+    u: "https://www.civitatis.com/es/baqueira/clase-privada-esqui-snow-baqueira-beret/"
+actividadesTitulo: 'Clases en Baqueira Beret'
 faqTitulo: "Dudas sobre Baqueira Beret"
 faq:
   - q: "¿Cuándo abre Baqueira Beret en la temporada 2026-2027?"
@@ -62,6 +68,8 @@ Te cuento las fechas de esta temporada, cuánto cuesta y cómo organizarte 👇
 <p>Si vas al valle, mira también mi guía del <a href="/blog/valle-de-aran.html">Valle de Arán</a>. Y si prefieres esquiar en el sur, tienes <a href="/blog/sierra-nevada-esqui.html">Sierra Nevada</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra el forfait online</b> y con antelación.</li><li><b>Llega pronto</b>: el aparcamiento se llena en puentes y fines de semana.</li><li><b>Evita el puente de diciembre y Navidad</b> si no te gustan las colas.</li><li><b>Mira el parte de aludes</b> si sales fuera de pista.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

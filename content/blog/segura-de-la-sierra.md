@@ -14,6 +14,10 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividades:
+  - t: "Tour por las Sierras de Cazorla, Segura y Las Villas"
+    u: "https://www.civitatis.com/es/cazorla/tour-sierras-cazorla/"
+actividadesTitulo: 'Actividades en la Sierra de Cazorla'
 faqTitulo: "Dudas sobre Segura de la Sierra"
 faq:
   - q: "¿Qué ver en Segura de la Sierra?"
@@ -61,6 +65,8 @@ Te cuento qué ver y cómo llegar 👇
 <p>Combínalo con la <a href="/blog/sierra-de-cazorla.html">Sierra de Cazorla</a> y la <a href="/blog/ruta-rio-borosa.html">ruta del río Borosa</a>, o con <a href="/blog/ubeda-baeza-que-ver.html">Úbeda y Baeza</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube al castillo al atardecer</b>: la vista sobre la sierra es lo mejor del pueblo.</li><li><b>Calzado cómodo</b>: las calles son muy empinadas.</li><li><b>Duerme en la sierra</b> y aprovecha para hacer rutas.</li><li><b>Prueba los andrajos</b>, un guiso típico serrano.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 

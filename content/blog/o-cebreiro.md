@@ -14,6 +14,12 @@ tags:
   - Pueblos
   - Galicia
 wide: true
+actividades:
+  - t: "Excursión a la Ribeira Sacra"
+    u: "https://www.civitatis.com/es/lugo/excursion-ribeira-sacra/"
+  - t: "Free tour por Lugo"
+    u: "https://www.civitatis.com/es/lugo/free-tour-lugo/"
+actividadesTitulo: 'Actividades en Lugo'
 faqTitulo: "Dudas sobre O Cebreiro"
 faq:
   - q: "¿Qué ver en O Cebreiro?"
@@ -64,6 +70,8 @@ Te cuento qué ver, cuándo ir y cómo llegar 👇
 <p>Si sigues hacia el oeste, tienes la muralla romana de <a href="/blog/lugo-que-ver.html">Lugo</a> y <a href="/blog/portomarin.html">Portomarín</a>, otra parada clásica del Camino. Hacia el este, en León, están <a href="/blog/las-medulas.html">Las Médulas</a> y el <a href="/blog/castillo-templario-ponferrada.html">castillo templario de Ponferrada</a>.</p>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Abrígate</b>: aunque abajo haga bueno, arriba hace frío y viento.</li><li><b>Ve temprano</b>: para pillar el mar de nubes.</li><li><b>Respeta a los peregrinos</b>: el albergue y la iglesia son parte del Camino.</li><li><b>Come caldo gallego y queso con miel</b> en un mesón de la aldea.</li></ul></div>
+
+<!--actividades-->
 
 <!--faq-->
 
