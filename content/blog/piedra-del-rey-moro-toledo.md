@@ -57,6 +57,12 @@ En el valle del **Tajo**, frente a Toledo, hay una roca solitaria con una de las
 
 Puedes verla en [este reel de Instagram](https://www.instagram.com/p/DMtB3-VI4mr/), grabado en el valle del Tajo.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piedra-del-rey-moro-toledo/mirador.jpg" alt="Toledo al anochecer con la catedral y el Alcázar vistos desde el valle del Tajo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La vista de Toledo</h3><p>Desde el cerro del valle se ve <strong>toda la ciudad</strong>, con la catedral y el Alcázar. Al anochecer es espectacular.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piedra-del-rey-moro-toledo/toledo-tajo.jpg" alt="Toledo y el río Tajo vistos desde arriba en un día soleado" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Tajo rodeando la ciudad</h3><p>La piedra está a solo <strong>5 minutos</strong> a pie del Mirador del Valle, subiendo por el cerro.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Dónde:** en los cerros del valle del Tajo, junto a la **ermita de la Virgen del Valle**, al otro lado del río.

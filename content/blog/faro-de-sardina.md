@@ -40,6 +40,11 @@ Te cuento cómo llegar y qué esperar 👇
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>🗼</b><span>Faro de 1891</span></div><div><b>🌅</b><span>Atardecer</span></div><div><b>⚓</b><span>Puerto</span></div><div><b>🏖️</b><span>Playa</span></div><div><b>🟥</b><span>Rojo y blanco</span></div></div>
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-sardina/faro.jpg" alt="Faro de rayas rojas y blancas de Sardina del Norte con el cielo azul" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El faro</h3><p>La torre actual es de <strong>1986</strong> y sigue en servicio, en el extremo noroeste de Gran Canaria. El primer faro dio luz en 1891.</p></div></li>
+</ol>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Faro de Sardina: lo esencial</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🕯️ Un faro con historia</h3><p>El antiguo faro de Sardina del Norte emitió su primera luz en <strong>febrero de 1891</strong>, para proteger a los barcos de una zona de mucho tráfico por el comercio de la cochinilla, el azúcar, el plátano y el tomate.</p></div>
