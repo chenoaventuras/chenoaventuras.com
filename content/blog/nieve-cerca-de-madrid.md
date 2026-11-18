@@ -9,7 +9,7 @@ lat: 40.7856
 lng: -4.0089
 coche: true
 excerpt: 'Los sitios con nieve más cerca de Madrid: Navacerrada, Cotos, Valdesquí y La Pinilla. Cómo llegar sin quedarte atascado, dónde aparcar y qué está permitido en el Parque Nacional.'
-cover: /assets/img/blog/nieve-cerca-de-madrid/valdesqui.jpg
+cover: /assets/img/blog/nieve-cerca-de-madrid/valdesqui.webp
 tags:
   - Actividades
   - Madrid
@@ -43,10 +43,10 @@ Cuando nieva en la sierra, medio Madrid quiere subir a verla. La buena noticia: 
 
 <div class="guide__head"><span class="eyebrow">Dónde ir</span><h2>Los mejores sitios para ver nieve</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/nieve-cerca-de-madrid/telesillas.jpg" alt="Telesillas y pistas nevadas en la sierra de Madrid" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Puerto de Navacerrada</h3><p>A <strong>1.858 metros</strong>, el clásico de toda la vida. Tiene estación de esquí, pero su continuidad está en duda: confirma si abre antes de ir a esquiar. Para ver la nieve y pasear, sigue siendo una buena opción.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/nieve-cerca-de-madrid/penalara.jpg" alt="Cima y laguna de Peñalara en la sierra de Guadarrama" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Puerto de Cotos y Peñalara</h3><p>A unos 1.830 metros, es la puerta de <strong>Peñalara</strong>, el pico más alto de la sierra. Con nieve, las rutas a la Laguna Grande son preciosas, pero llévate ropa y calzado de montaña.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/nieve-cerca-de-madrid/valdesqui2.jpg" alt="Pistas de esquí nevadas de Valdesquí" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Valdesquí</h3><p>La estación de esquí más activa de Madrid, en el término de Rascafría. Si vas a esquiar o a dar clases, es la apuesta más segura. El aparcamiento se llena muy pronto.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/nieve-cerca-de-madrid/pinilla.jpg" alt="Pistas nevadas de la estación de La Pinilla, en Segovia" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Pinilla</h3><p>En <strong>Segovia</strong>, cerca de Riaza, a una hora y media de Madrid. Una estación familiar y con menos agobios que la sierra madrileña.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/nieve-cerca-de-madrid/telesillas.webp" alt="Telesillas y pistas nevadas en la sierra de Madrid" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Puerto de Navacerrada</h3><p>A <strong>1.858 metros</strong>, el clásico de toda la vida. Tiene estación de esquí, pero su continuidad está en duda: confirma si abre antes de ir a esquiar. Para ver la nieve y pasear, sigue siendo una buena opción.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/nieve-cerca-de-madrid/penalara.webp" alt="Cima y laguna de Peñalara en la sierra de Guadarrama" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Puerto de Cotos y Peñalara</h3><p>A unos 1.830 metros, es la puerta de <strong>Peñalara</strong>, el pico más alto de la sierra. Con nieve, las rutas a la Laguna Grande son preciosas, pero llévate ropa y calzado de montaña.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/nieve-cerca-de-madrid/valdesqui2.webp" alt="Pistas de esquí nevadas de Valdesquí" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Valdesquí</h3><p>La estación de esquí más activa de Madrid, en el término de Rascafría. Si vas a esquiar o a dar clases, es la apuesta más segura. El aparcamiento se llena muy pronto.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/nieve-cerca-de-madrid/pinilla.webp" alt="Pistas nevadas de la estación de La Pinilla, en Segovia" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Pinilla</h3><p>En <strong>Segovia</strong>, cerca de Riaza, a una hora y media de Madrid. Una estación familiar y con menos agobios que la sierra madrileña.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Sin coche</span><h2>Cómo subir a la nieve en transporte público</h2></div>
