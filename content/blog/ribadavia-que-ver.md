@@ -25,6 +25,8 @@ faq:
     a: "Está a unos 30 minutos de Ourense y a unos 45 de Vigo por la A-52. También tiene estación de tren en la línea Ourense-Vigo."
   - q: "¿Qué vino es el Ribeiro?"
     a: "Uno de los vinos con denominación de origen más antiguos de España. Sobre todo es blanco, de uvas como la treixadura, y se ha hecho en esta comarca desde hace siglos."
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 **Ribadavia** es pequeña, pero tiene historia para una ciudad entera. Fue corte de reyes gallegos en la Edad Media, tuvo una de las **comunidades judías** más importantes de Galicia y es la capital del **vino del Ribeiro**, uno de los más antiguos de España. Su casco histórico, entre el Miño y el Avia, está lleno de soportales, iglesias románicas y callejuelas con símbolos judíos en las puertas.
 

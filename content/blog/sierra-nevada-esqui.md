@@ -38,6 +38,8 @@ faq:
     a: "Sí: la Costa Tropical de Granada, con playas como las de Almuñécar o Salobreña, está a algo más de una hora y media en coche desde las pistas."
   - q: "¿Cuál es la cota más alta de Sierra Nevada?"
     a: "Las pistas llegan a unos 3.300 metros, a los pies del Veleta (3.398 m). Muy cerca está el Mulhacén, de 3.479 m, el pico más alto de la península ibérica."
+guia: /assets/guias/guia-granada-chenoaventuras.pdf
+guiaTitulo: 'Guía Granada en PDF'
 ---
 **Sierra Nevada** es la estación de esquí **más al sur de Europa** y la **más alta de España**: sus pistas suben hasta unos **3.300 metros**, a los pies del Veleta, y desde arriba, en días claros, se ve el Mediterráneo. Está a 45 minutos de Granada, así que puedes desayunar viendo la Alhambra y comer en la nieve.
 

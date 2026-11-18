@@ -35,6 +35,8 @@ faq:
     a: "Entre 45 minutos y una hora para la pasarela y el mirador. Si añades el Antiquarium, cuenta una hora y media."
   - q: "¿Por qué se llaman Setas?"
     a: "Su nombre oficial es Metropol Parasol, pero los sevillanos las bautizaron como «las Setas» por la forma de sus seis grandes «parasoles» de madera."
+guia: /assets/guias/guia-sevilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Sevilla en PDF'
 ---
 En plena **Plaza de la Encarnación**, entre casas encaladas e iglesias barrocas, se levanta algo que parece de otro planeta: seis enormes **setas de madera** unidas por arriba. Es el **Metropol Parasol**, para todos «las Setas», y según sus gestores es la **estructura de madera más grande del mundo**. Arriba hay una pasarela que serpentea sobre los tejados del centro con la Giralda al fondo.
 

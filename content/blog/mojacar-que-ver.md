@@ -27,6 +27,8 @@ faq:
     a: "Las calles del casco son estrechas y empinadas: aparca en los aparcamientos públicos de la entrada del pueblo y sube andando."
   - q: "¿Cómo llegar a Mojácar?"
     a: "En coche por la A-7 (autovía del Mediterráneo): está a algo más de una hora de Almería y a hora y media de Murcia."
+guia: /assets/guias/guia-almeria-chenoaventuras.pdf
+guiaTitulo: 'Guía Almería en PDF'
 ---
 Desde la carretera, **Mojácar** parece un montón de cubos blancos apilados en lo alto de un cerro, con el mar detrás. Es uno de los pueblos más bonitos de Almería: calles empinadas llenas de buganvillas, miradores sobre la costa y una historia que mezcla moros, cristianos, artistas y hasta una leyenda que dice que **Walt Disney nació aquí**.
 

@@ -35,6 +35,8 @@ faq:
     a: "Entre una hora y media y dos horas para el anfiteatro, las calles y los mosaicos. El teatro está aparte, en el pueblo de Santiponce."
   - q: "¿Nació Adriano en Itálica?"
     a: "Trajano sí nació en Itálica. De Adriano no hay seguridad: su familia era de Itálica y muchos historiadores creen que nació allí, pero otras fuentes antiguas dicen que nació en Roma."
+guia: /assets/guias/guia-sevilla-chenoaventuras.pdf
+guiaTitulo: 'Guía Sevilla en PDF'
 ---
 Mucho antes de que existiera Sevilla tal y como la conocemos, a 9 km de allí ya había una ciudad romana con calles empedradas, termas y un anfiteatro para miles de personas. **Itálica** se fundó en el **206 antes de Cristo** y fue la **primera ciudad romana de Hispania**. Aquí nació **Trajano**, el primer emperador nacido fuera de Italia, y su anfiteatro fue el **Pozo Dragón de Juego de Tronos**.
 

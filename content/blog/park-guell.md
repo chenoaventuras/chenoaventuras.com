@@ -35,6 +35,8 @@ faq:
     a: "En metro, línea 3 hasta Lesseps o Vallcarca, y después unos 20 minutos a pie cuesta arriba (hay escaleras mecánicas en parte del camino desde Vallcarca). El autobús 24 te deja más cerca de la entrada."
   - q: "¿La Casa-Museo Gaudí está incluida?"
     a: "No. La casa donde vivió Gaudí está dentro del parque, pero se visita con una entrada aparte."
+guia: /assets/guias/guia-barcelona-chenoaventuras.pdf
+guiaTitulo: 'Guía Barcelona en PDF'
 ---
 El **Park Güell** iba a ser una **urbanización de lujo**: el empresario Eusebi Güell encargó a Gaudí, en 1900, una ciudad jardín para la burguesía de Barcelona en lo alto de una colina. Se planearon unas 60 parcelas… y solo se construyeron **dos casas**. El negocio fracasó, el Ayuntamiento compró los terrenos y hoy es uno de los parques más visitados del mundo y **Patrimonio de la Humanidad** desde 1984.
 

@@ -26,6 +26,8 @@ faq:
     a: "Según la tradición, hacia el año 1300 el pan y el vino se convirtieron en carne y sangre durante una misa. El cáliz y la patena de esa misa se conservan en la iglesia, y muchos los relacionan con el cáliz del escudo de Galicia."
   - q: "¿Cómo llegar a O Cebreiro?"
     a: "En coche por la A-6: sal en Pedrafita do Cebreiro y sube unos 4 km por la LU-633. Está a algo más de una hora de Lugo y a unos 45 minutos de Ponferrada."
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 En lo alto de un puerto a unos **1.300 metros**, justo donde el Camino Francés entra en Galicia, hay una aldea de piedra que parece sacada de otro siglo. **O Cebreiro** tiene **pallozas** con techo de paja, una iglesia del siglo IX que guarda un cáliz de leyenda y unas vistas sobre las montañas que en invierno se cubren de **nieve** y, muchas mañanas, de un **mar de nubes**.
 
