@@ -486,6 +486,39 @@ function affLink(u) {
   const clean = u.split("?")[0];
   return { href: `${clean}?${AFF[key].params}`, plat: AFF[key].name };
 }
+// Actividades repartidas por el post (además de la caja de abajo): una franja
+// arriba, tras «Lo que vas a encontrar», y una tarjeta en medio, tras la lista
+// de «Qué ver». El objetivo es que se vean sin tener que llegar al final.
+function actStrip(p, items) {
+  const a = items[0];
+  const all = items.length > 1 ? `<a class="actstrip__all" href="#actividades">Ver los ${items.length} planes &darr;</a>` : "";
+  return `<div class="actstrip"><span class="actstrip__ico" aria-hidden="true">🎟️</span><div class="actstrip__txt"><span class="actstrip__k">Plan para reservar</span><a href="${esc(a.href)}" target="_blank" rel="sponsored noopener">${esc(a.t)} &rarr;</a></div>${all}</div>\n`;
+}
+function actMid(p, items) {
+  const a = items[1] || items[0];
+  return `<a class="actmid" href="${esc(a.href)}" target="_blank" rel="sponsored noopener"><span class="actmid__k">🎟️ ¿Te apetece ir con guía?</span><span class="actmid__t">${esc(a.t)}</span><span class="actmid__row"><span class="actbox__plat actbox__plat--${a.plat === "Civitatis" ? "civ" : "gyg"}">${esc(a.plat)}</span><span class="actmid__btn">Ver disponibilidad &rarr;</span></span></a>\n`;
+}
+function spreadActivities(html, p) {
+  if (!p.actividades.length) return html;
+  const items = p.actividades.map((a) => ({ ...a, ...affLink(a.u) }));
+  // franja de arriba
+  const et = html.match(/<div class="etiles">[^\n]*\n/);
+  if (et) html = html.replace(et[0], et[0] + actStrip(p, items));
+  else {
+    const i = html.indexOf("</p>");
+    if (i > -1) html = html.slice(0, i + 4) + "\n" + actStrip(p, items) + html.slice(i + 4);
+  }
+  // tarjeta en medio
+  const g = html.indexOf('class="guide__grid');
+  let pos = g > -1 ? html.indexOf("</ol>", g) : -1;
+  if (pos > -1) pos += 5;
+  else {
+    const heads = [...html.matchAll(/<div class="guide__head"/g)].map((m) => m.index);
+    if (heads.length >= 3) pos = heads[Math.floor(heads.length / 2)];
+  }
+  if (pos > -1) html = html.slice(0, pos) + "\n" + actMid(p, items) + html.slice(pos);
+  return html;
+}
 function activitiesBox(p) {
   if (!p.actividades.length) return "";
   const items = p.actividades.map((a) => ({ ...a, ...affLink(a.u) }));
@@ -720,7 +753,7 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
       <section class="section">
         <div class="container">
 ${guideBox(p)}          <div class="article__body${p.wide ? " article__body--wide" : ""}">
-${withNearby((p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->").replace("<!--guia-->", "").replace("<!--actividades-->", () => activitiesBox(p)).replace("<!--faq-->", () => (p.html.includes("<!--actividades-->") ? "" : activitiesBox(p)) + carBox(p) + eatBox(p) + faqBox(p)), nearbyBox(nearby, p))}
+${withNearby(spreadActivities(p.html.includes("<!--faq-->") ? p.html : p.html + "<!--faq-->", p).replace("<!--guia-->", "").replace("<!--actividades-->", () => activitiesBox(p)).replace("<!--faq-->", () => (p.html.includes("<!--actividades-->") ? "" : activitiesBox(p)) + carBox(p) + eatBox(p) + faqBox(p)), nearbyBox(nearby, p))}
           </div>
 ${authorBox()}${
   related.length

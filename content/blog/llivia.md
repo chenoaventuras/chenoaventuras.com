@@ -12,6 +12,12 @@ tags:
   - Pueblos
   - Cataluña
 wide: true
+actividades:
+  - t: "Entrada a Caldea, el balneario de Andorra"
+    u: "https://www.civitatis.com/es/escaldes-engordany/entrada-caldea/"
+  - t: "Paseo con raquetas de nieve en Grandvalira"
+    u: "https://www.civitatis.com/es/escaldes-engordany/paseo-raquetas-nieve-grandvalira/"
+actividadesTitulo: 'Actividades en Andorra, a una hora'
 faq:
   - q: "¿Por qué Llívia es española?"
     a: "Porque en el Tratado de los Pirineos (1659) era una villa y el texto solo cedía pueblos; el Tratado de Llívia de 1660 lo confirmó."

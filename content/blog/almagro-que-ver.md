@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Castilla-La Mancha
 wide: true
+actividades:
+  - t: "Visita guiada por Almagro"
+    u: "https://www.civitatis.com/es/almagro/visita-guiada-almagro/"
+  - t: "Tour por Almagro al completo"
+    u: "https://www.civitatis.com/es/almagro/tour-almagro-completo/"
+  - t: "Cata de aceite de oliva en Almagro"
+    u: "https://www.civitatis.com/es/almagro/cata-aceite-oliva/"
+actividadesTitulo: 'Actividades en Almagro'
 faqTitulo: "Dudas sobre Almagro"
 faq:
   - q: "¿Qué tiene de especial el Corral de Comedias de Almagro?"

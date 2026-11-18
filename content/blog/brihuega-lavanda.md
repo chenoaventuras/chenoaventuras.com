@@ -13,6 +13,10 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+actividades:
+  - t: "Excursión a los campos de lavanda de Brihuega desde Madrid"
+    u: "https://www.civitatis.com/es/madrid/excursion-campos-lavanda-brihuega/"
+actividadesTitulo: 'Actividades en Brihuega'
 faqTitulo: "Dudas sobre la lavanda de Brihuega"
 faq:
   - q: "¿Qué pasó en Brihuega en 1710?"

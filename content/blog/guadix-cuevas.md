@@ -13,6 +13,14 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividades:
+  - t: "Free tour por las cuevas de Guadix"
+    u: "https://www.civitatis.com/es/guadix/free-tour-cuevas-guadix/"
+  - t: "Tour en 4x4 por el Geoparque de Granada"
+    u: "https://www.civitatis.com/es/guadix/tour-4x4-geoparque-granada/"
+  - t: "Tren turístico de Guadix"
+    u: "https://www.civitatis.com/es/guadix/tren-turistico-guadix/"
+actividadesTitulo: 'Actividades en Guadix'
 faqTitulo: "Dudas sobre Guadix"
 faq:
   - q: "¿Cuántas casas cueva hay en Guadix?"

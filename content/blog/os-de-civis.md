@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Cataluña
 wide: true
+actividades:
+  - t: "Visita guiada por Andorra la Vieja"
+    u: "https://www.civitatis.com/es/andorra-la-vieja/visita-guiada-andorra-vieja/"
+  - t: "Entrada a Caldea, el balneario de Andorra"
+    u: "https://www.civitatis.com/es/escaldes-engordany/entrada-caldea/"
+  - t: "Paseo con raquetas de nieve en Grandvalira"
+    u: "https://www.civitatis.com/es/escaldes-engordany/paseo-raquetas-nieve-grandvalira/"
+actividadesTitulo: 'Actividades en Andorra'
 faq:
   - q: "¿Por qué a Os de Civís solo se llega por Andorra?"
     a: "Porque las montañas lo separan del resto de su municipio y la única carretera sale de Sant Julià de Lòria, en Andorra."
