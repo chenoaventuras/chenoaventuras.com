@@ -41,6 +41,12 @@ Te lo enseño en vídeo 👇
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>🦅</b><span>Buitres leonados</span></div><div><b>🦴</b><span>Quebrantahuesos</span></div><div><b>🔭</b><span>Observatorio</span></div><div><b>📅</b><span>Mejor época</span></div><div><b>📸</b><span>Fotografía</span></div></div>
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/avistamiento-de-buitres-sierra-de-guara/buitres.jpg" alt="Grupo de buitres leonados posados en la roca en la Sierra de Guara" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Los buitres de cerca</h3><p>Desde el observatorio los ves <strong>a pocos metros</strong>. La actividad funciona con un donativo de 10 €.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/avistamiento-de-buitres-sierra-de-guara/vuelo.jpg" alt="Buitres volando entre las nubes sobre la Sierra de Guara" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>En vuelo</h3><p>Cuando llegan, el cielo se llena de buitres. Al observatorio se llega con un <strong>paseo de 20 minutos</strong>.</p></div></li>
+</ol>
+
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>La actividad en datos</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>💶 Precio</h3><p>Funciona con un <strong>donativo de 10 €</strong> por persona, que incluye el avistamiento y la entrada al museo Casa del Buitre.</p>

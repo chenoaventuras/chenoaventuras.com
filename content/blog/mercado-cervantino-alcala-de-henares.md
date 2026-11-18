@@ -58,6 +58,12 @@ Una vez al año, el casco histórico de **Alcalá de Henares** viaja al siglo XV
 
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DPyKoVcjODe/), grabado en Alcalá de Henares.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-cervantino-alcala-de-henares/justas.jpg" alt="Caballero con armadura y lanza a caballo en el torneo de justas del Mercado Cervantino" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El torneo de justas</h3><p>Caballeros con armadura a caballo. El mercado es gratis; las justas tienen <strong>entrada</strong> aparte.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-cervantino-alcala-de-henares/horno.jpg" alt="Empanadillas recién horneadas en un puesto del Mercado Cervantino de Alcalá" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los puestos</h3><p>Comida, artesanía y ambiente del <strong>siglo XVI</strong> por todo el centro de Alcalá, a principios de octubre.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Cuándo:** a principios de **octubre**, alrededor del **9 de octubre**, fecha en la que se bautizó a Cervantes. En **2026** fue del **8 al 12 de octubre**; las fechas de 2027 se publicarán más adelante.

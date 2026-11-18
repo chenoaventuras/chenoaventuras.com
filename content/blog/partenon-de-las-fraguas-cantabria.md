@@ -54,6 +54,12 @@ Entre montañas y prados del **valle de Iguña**, en Cantabria, hay un edificio 
 
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DYSX22UMI_t/), grabado en Las Fraguas.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/partenon-de-las-fraguas-cantabria/templo.jpg" alt="Columnas corintias de la iglesia de San Jorge en Las Fraguas" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El «Partenón» cántabro</h3><p>La iglesia de San Jorge, con <strong>40 columnas corintias</strong> alrededor, como un templo clásico.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/partenon-de-las-fraguas-cantabria/entorno.jpg" alt="Iglesia de San Jorge de Las Fraguas vista desde el aire entre prados" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Escondido entre prados</h3><p>Mandada construir a finales del siglo XIX por los <strong>duques de Santo Mauro</strong>. A 40 minutos de Santander.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Dónde:** en **Las Fraguas** (Arenas de Iguña, Cantabria), a unos 40 minutos de Santander.

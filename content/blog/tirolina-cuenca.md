@@ -56,6 +56,12 @@ Pocas tirolinas del mundo tienen un decorado como este: la **Hoz del Huécar** b
 
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DQXf5ldjME1/), grabado en Cuenca.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tirolina-cuenca/hoz.jpg" alt="Hoz del Huécar y Cuenca al atardecer, con el Parador abajo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Hoz del Huécar</h3><p>Unos <strong>445 metros</strong> de vuelo sobre la hoz, desde el barrio del Castillo hasta el Parador.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tirolina-cuenca/vuelo.jpg" alt="Cheno colgado de la tirolina de Cuenca sobre la hoz" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El vuelo</h3><p>Hasta <strong>120 metros</strong> de altura y entre 70 y 80 km/h. Dura unos 40 segundos.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Recorrido:** unos **445 metros** cruzando la Hoz del Huécar, desde el barrio del Castillo hasta las inmediaciones del Parador.

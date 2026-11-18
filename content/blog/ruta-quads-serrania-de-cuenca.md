@@ -45,6 +45,12 @@ A solo **20 minutos de Cuenca**, la Serranía esconde pistas forestales, caminos
 
 Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/DRc6iVIDE0-/), grabado en la Serranía de Cuenca.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-quads-serrania-de-cuenca/barro.jpg" alt="Quad atravesando un charco de barro en un camino de la Serranía de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Caminos con barro</h3><p>Pistas de tierra y charcos por la Serranía. Hace falta <strong>carnet de coche</strong> para conducir.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-quads-serrania-de-cuenca/pinar.jpg" alt="Quads aparcados junto a un pinar de la Serranía de Cuenca" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Entre pinares</h3><p>Rutas de <strong>30 minutos o 1 hora</strong> desde Villalba de la Sierra, a 20 minutos de Cuenca.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Dónde:** en **Villalba de la Sierra**, a unos 20 minutos de Cuenca.

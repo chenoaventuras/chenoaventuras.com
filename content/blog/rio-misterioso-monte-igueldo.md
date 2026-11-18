@@ -18,6 +18,12 @@ autoDate: "2026-10-12"
 
 Las atracciones del Monte Igueldo no van de adrenalina. Van de **sentarte en una barca de madera mientras la bahía de La Concha te hace de decorado**. Y la que mejor lo consigue es el **Río Misterioso**. Mira cómo es en este [vídeo del Río Misterioso en Instagram](https://www.instagram.com/reel/DePi4NbR66I/) y sigue leyendo para decidir si te encaja.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rio-misterioso-monte-igueldo/canal.jpg" alt="Barcas en el canal del Río Misterioso del parque de Monte Igueldo, con el mar al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El canal</h3><p>Barcas de madera para unas cuatro personas que recorren un <strong>canal impulsado por una noria</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rio-misterioso-monte-igueldo/vistas.jpg" alt="Barca del Río Misterioso con vistas a la bahía de la Concha y la isla de Santa Clara" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Desde la barca se ve la <strong>bahía de la Concha</strong> y la isla de Santa Clara. Pocas atracciones tienen estas vistas.</p></div></li>
+</ol>
+
 ## ¿Qué es el Río Misterioso del Monte Igueldo?
 
 Es una atracción clásica de parque de toda la vida: un **canal por el que navegan barcas de madera**, con capacidad para unas cuatro personas, impulsadas por una noria. El recorrido es tranquilo, pensado para toda la familia, y va rodeando una pequeña zona del parque. La edad mínima suele rondar los 2 años, aunque conviene confirmarlo en taquilla.

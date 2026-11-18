@@ -58,6 +58,12 @@ Ver el **acueducto**, el **Alcázar** y la **catedral de Segovia** desde el aire
 
 Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/DKP5_zQIwIo/), grabado en Segovia.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/vuelo-en-globo-segovia/segovia.jpg" alt="Segovia vista desde un globo, con la catedral y el casco histórico" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Segovia desde el aire</h3><p>La catedral, el casco histórico y el <strong>acueducto</strong>, que desde arriba se ve como una línea perfecta.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/vuelo-en-globo-segovia/campos.jpg" alt="Campos verdes y un pueblo de Segovia vistos desde el globo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los campos de Castilla</h3><p>El vuelo dura <strong>alrededor de 1 hora</strong>; con montaje, aterrizaje y desayuno, unas 3.</p></div></li>
+</ol>
+
 ## Lo básico antes de reservar
 
 - **Precio:** el vuelo con el que fui parte de **170 € por persona**. En Segovia hay varias empresas y los precios van, más o menos, de **120 € a más de 300 €** según lo que incluya (desayuno, brindis, fotos, traslados o vuelo privado). A octubre de 2026, el listado oficial de turismo (Spain.info) muestra un vuelo desde **205 € por persona**.
