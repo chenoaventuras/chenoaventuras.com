@@ -60,8 +60,8 @@ Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/D
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-cervantino-alcala-de-henares/justas.jpg" alt="Caballero con armadura y lanza a caballo en el torneo de justas del Mercado Cervantino" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El torneo de justas</h3><p>Caballeros con armadura a caballo. El mercado es gratis; las justas tienen <strong>entrada</strong> aparte.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-cervantino-alcala-de-henares/horno.jpg" alt="Empanadillas recién horneadas en un puesto del Mercado Cervantino de Alcalá" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los puestos</h3><p>Comida, artesanía y ambiente del <strong>siglo XVI</strong> por todo el centro de Alcalá, a principios de octubre.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-cervantino-alcala-de-henares/justas.webp" alt="Caballero con armadura y lanza a caballo en el torneo de justas del Mercado Cervantino" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El torneo de justas</h3><p>Caballeros con armadura a caballo. El mercado es gratis; las justas tienen <strong>entrada</strong> aparte.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-cervantino-alcala-de-henares/horno.webp" alt="Empanadillas recién horneadas en un puesto del Mercado Cervantino de Alcalá" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los puestos</h3><p>Comida, artesanía y ambiente del <strong>siglo XVI</strong> por todo el centro de Alcalá, a principios de octubre.</p></div></li>
 </ol>
 
 ## Lo básico

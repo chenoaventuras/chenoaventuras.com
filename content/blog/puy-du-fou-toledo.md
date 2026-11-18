@@ -56,8 +56,8 @@ Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/D
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puy-du-fou-toledo/aguila.jpg" alt="Cabeza de un ave rapaz de cerca en Puy du Fou España" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las aves</h3><p>Las rapaces son protagonistas de uno de los espectáculos: pasan <strong>volando sobre el público</strong>.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puy-du-fou-toledo/cetreria.jpg" alt="Ave rapaz volando sobre el escenario de un espectáculo de cetrería en Puy du Fou" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los espectáculos de día</h3><p>Abre de marzo a enero, pero <strong>no todos los días</strong>. Entradas de día desde unos 31 €.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puy-du-fou-toledo/aguila.webp" alt="Cabeza de un ave rapaz de cerca en Puy du Fou España" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las aves</h3><p>Las rapaces son protagonistas de uno de los espectáculos: pasan <strong>volando sobre el público</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puy-du-fou-toledo/cetreria.webp" alt="Ave rapaz volando sobre el escenario de un espectáculo de cetrería en Puy du Fou" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los espectáculos de día</h3><p>Abre de marzo a enero, pero <strong>no todos los días</strong>. Entradas de día desde unos 31 €.</p></div></li>
 </ol>
 
 ## Lo básico de la temporada 2026

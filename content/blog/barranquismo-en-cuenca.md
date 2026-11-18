@@ -46,8 +46,8 @@ Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/barranquismo-en-cuenca/canon.jpg" alt="Cañón del río Júcar con pozas de agua verde entre paredes de roca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El cañón del Júcar</h3><p>Se baja el río por su propio cauce: caminando, nadando en pozas y <strong>deslizándote por la roca</strong>. Unas 3 horas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/barranquismo-en-cuenca/salto.jpg" alt="Persona con neopreno saltando a una poza verde en el barranco" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los saltos</h3><p>Hay saltos a las pozas desde las rocas. Imprescindible <strong>saber nadar</strong>; edad mínima habitual, 7 años.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/barranquismo-en-cuenca/canon.webp" alt="Cañón del río Júcar con pozas de agua verde entre paredes de roca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El cañón del Júcar</h3><p>Se baja el río por su propio cauce: caminando, nadando en pozas y <strong>deslizándote por la roca</strong>. Unas 3 horas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/barranquismo-en-cuenca/salto.webp" alt="Persona con neopreno saltando a una poza verde en el barranco" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los saltos</h3><p>Hay saltos a las pozas desde las rocas. Imprescindible <strong>saber nadar</strong>; edad mínima habitual, 7 años.</p></div></li>
 </ol>
 
 ## Lo básico

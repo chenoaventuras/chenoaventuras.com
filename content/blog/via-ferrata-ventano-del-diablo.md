@@ -47,8 +47,8 @@ Puedes ver cómo fue en [este reel de Instagram](https://www.instagram.com/reel/
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/via-ferrata-ventano-del-diablo/hoz.jpg" alt="Pared de roca de la Hoz del Júcar junto a Villalba de la Sierra" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La hoz del Júcar</h3><p>La vía recorre la pared sobre el río, junto a <strong>Villalba de la Sierra</strong>. Entre 2 y 3 horas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/via-ferrata-ventano-del-diablo/pared.jpg" alt="Escalador con casco en la vía ferrata del Ventano del Diablo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>En la pared</h3><p>Tramo de iniciación de <strong>500 metros</strong> con tirolina, y otro más técnico con puentes tibetanos hasta el Ventano.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/via-ferrata-ventano-del-diablo/hoz.webp" alt="Pared de roca de la Hoz del Júcar junto a Villalba de la Sierra" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La hoz del Júcar</h3><p>La vía recorre la pared sobre el río, junto a <strong>Villalba de la Sierra</strong>. Entre 2 y 3 horas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/via-ferrata-ventano-del-diablo/pared.webp" alt="Escalador con casco en la vía ferrata del Ventano del Diablo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>En la pared</h3><p>Tramo de iniciación de <strong>500 metros</strong> con tirolina, y otro más técnico con puentes tibetanos hasta el Ventano.</p></div></li>
 </ol>
 
 ## Lo básico

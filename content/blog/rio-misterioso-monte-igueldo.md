@@ -20,8 +20,8 @@ Las atracciones del Monte Igueldo no van de adrenalina. Van de **sentarte en una
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rio-misterioso-monte-igueldo/canal.jpg" alt="Barcas en el canal del Río Misterioso del parque de Monte Igueldo, con el mar al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El canal</h3><p>Barcas de madera para unas cuatro personas que recorren un <strong>canal impulsado por una noria</strong>.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rio-misterioso-monte-igueldo/vistas.jpg" alt="Barca del Río Misterioso con vistas a la bahía de la Concha y la isla de Santa Clara" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Desde la barca se ve la <strong>bahía de la Concha</strong> y la isla de Santa Clara. Pocas atracciones tienen estas vistas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rio-misterioso-monte-igueldo/canal.webp" alt="Barcas en el canal del Río Misterioso del parque de Monte Igueldo, con el mar al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El canal</h3><p>Barcas de madera para unas cuatro personas que recorren un <strong>canal impulsado por una noria</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rio-misterioso-monte-igueldo/vistas.webp" alt="Barca del Río Misterioso con vistas a la bahía de la Concha y la isla de Santa Clara" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Desde la barca se ve la <strong>bahía de la Concha</strong> y la isla de Santa Clara. Pocas atracciones tienen estas vistas.</p></div></li>
 </ol>
 
 ## ¿Qué es el Río Misterioso del Monte Igueldo?
