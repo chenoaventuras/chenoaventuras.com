@@ -57,6 +57,14 @@ No es un decorado para turistas: es trabajo de verdad, cada mañana, desde hace 
 
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DUESvStDHi5/), grabado en el puerto de Essaouira.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver en Essaouira</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-pescado-essaouira/barcas.jpg" alt="Barcas azules de pescadores amarradas en el puerto de Essaouira" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las barcas azules</h3><p>Cada mañana vuelven del Atlántico y empiezan las <strong>subastas</strong>. Una de las estampas más fotogénicas de Marruecos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-pescado-essaouira/puesto.jpg" alt="Puesto del mercado de pescado de Essaouira con sardinas y un atún" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los puestos</h3><p>Sardinas, pulpos, atunes y hasta pequeños tiburones. <strong>Acuerda el precio antes</strong> de elegir.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-pescado-essaouira/skala.jpg" alt="Torre de la muralla de Essaouira junto al mar con una gaviota delante" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Skala del puerto</h3><p>La fortificación junto al puerto, rodeada de <strong>gaviotas</strong>. Muy cerca de la medina.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-pescado-essaouira/medina.jpg" alt="Puerta azul y alfombras en una calle de la medina de Essaouira" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La medina</h3><p>Al lado del puerto, con puertas azules y tiendas de artesanía. Buen paseo <strong>después de comer</strong>.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Dónde:** en el **puerto pesquero** de Essaouira, junto a la medina.

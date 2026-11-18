@@ -61,6 +61,12 @@ Bajo la **Vall d'Uixó**, en Castellón, corre un **río subterráneo** que se p
 
 Puedes ver cómo es por dentro en [este reel de Instagram](https://www.instagram.com/reel/DMqc0iQIVwi/), grabado en las Cuevas de San José.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuevas-de-san-jose-vall-duixo/rio.jpg" alt="Barca navegando por el río subterráneo de agua turquesa de las Cuevas de San José" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>En barca por el río</h3><p>Unos <strong>800 metros</strong> en barca con guía, entre estalactitas y bóvedas que casi rozan la cabeza.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuevas-de-san-jose-vall-duixo/galerias.jpg" alt="Galería iluminada de las Cuevas de San José con formaciones en el techo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las galerías</h3><p>Después, unos <strong>250 metros a pie</strong> por galerías secas, pasando por salas como la Catedral.</p></div></li>
+</ol>
+
 ## Lo básico antes de ir
 
 - **Dónde:** en la **Vall d'Uixó** (Castellón), a unos **45 minutos de Valencia** y 30 de Castellón.

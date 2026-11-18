@@ -49,6 +49,13 @@ En la sierra de Madrid, junto al **puerto de Somosierra**, el agua se despeña e
 
 Puedes verla en [este reel de Instagram](https://www.instagram.com/reel/DVWktJLDPZS/), grabado en Somosierra.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/chorrera-de-los-litueros/cascada.jpg" alt="Chorrera de los Litueros cayendo entre rocas en Somosierra" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La chorrera</h3><p>Tres saltos que suman unos <strong>40 metros</strong>, a 1.400 metros de altitud. Es la cascada más alta de la Comunidad de Madrid.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/chorrera-de-los-litueros/saltos.jpg" alt="Saltos de agua de la Chorrera de los Litueros entre paredes de roca" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los saltos escalonados</h3><p>Con el <strong>deshielo de primavera</strong> baja con muchísima fuerza. En verano puede quedar en un hilo de agua.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/chorrera-de-los-litueros/arroyo.jpg" alt="Arroyo entre piedras y hojas en el camino a la Chorrera de los Litueros" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El camino</h3><p>Unos <strong>1,6 km</strong> fáciles desde Somosierra, unos 20 minutos. Los últimos metros pueden estar embarrados.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Dónde:** en **Somosierra**, el último pueblo de Madrid por la A-1 antes de Segovia.

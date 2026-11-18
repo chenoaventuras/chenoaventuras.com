@@ -47,6 +47,13 @@ En **Montanejos**, en el interior de Castellón, hay un río de aguas **cristali
 
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DMXRT6iIYC6/), grabado en Montanejos.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/fuente-de-los-banos-montanejos/poza.jpg" alt="Poza de agua turquesa de la Fuente de los Baños de Montanejos entre paredes de roca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La gran poza</h3><p>Agua de manantial a unos <strong>25 °C todo el año</strong>, en una poza del río Mijares rodeada de roca.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/fuente-de-los-banos-montanejos/roca.jpg" alt="Pared de roca anaranjada sobre el agua de la Fuente de los Baños" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las paredes de roca</h3><p>Hay zonas de <strong>unos 2,5 metros</strong> de profundidad sin dónde apoyarse: imprescindible saber nadar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/fuente-de-los-banos-montanejos/vegetacion.jpg" alt="Musgo y plantas colgando sobre el agua en la Fuente de los Baños de Montanejos" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Un rincón muy verde</h3><p>Lleva <strong>gafas de bucear</strong>: el agua es tan clara que merece la pena mirar bajo la superficie.</p></div></li>
+</ol>
+
 ## Lo básico antes de ir
 
 - **Dónde:** en **Montanejos** (Castellón), a 1 hora de Castellón y 1 h 15 min de Valencia.

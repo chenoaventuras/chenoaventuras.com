@@ -38,9 +38,11 @@ En pleno Atlas Medio marroquí, a poco más de dos horas de Marrakech, el agua s
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DR7WTgNDCew/), grabado en las Cascadas de Ouzoud, Marruecos.
 
-## Las cataratas más altas de Marruecos
-
-Con una caída de agua de casi 100 metros repartida en varios saltos, Ouzoud está considerada la cascada más alta de Marruecos. El contraste entre el rojo de la roca, el verde de la vegetación que crece alrededor y el blanco de la espuma del agua es lo que convierte a este lugar en una parada obligatoria para cualquiera que visite la región.
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en las Cascadas de Ouzoud</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascadas-de-ouzoud/cascada.jpg" alt="Cascada de Ouzoud cayendo entre rocas rojizas y vegetación" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las cataratas más altas de Marruecos</h3><p>Con una caída de agua de casi 100 metros repartida en varios saltos, Ouzoud está considerada la cascada más alta de Marruecos. El contraste entre el rojo de la roca, el verde de la vegetación que crece alrededor y el blanco de la espuma del agua es lo que convierte a este lugar en una parada obligatoria para cualquiera que visite la región.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascadas-de-ouzoud/barcas.jpg" alt="Barca de colores acercándose al pie de la cascada de Ouzoud" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Cómo visitar las cascadas</h3><p>Existen varios senderos que permiten bajar hasta la base de las cascadas y verlas desde distintos ángulos, y también es posible contratar pequeñas embarcaciones que se acercan hasta el pie del salto de agua para sentir de cerca la fuerza de la corriente. La mayoría de las excursiones desde Marrakech incluyen tiempo libre tanto para caminar por los miradores superiores como para bajar hasta el agua. <!--actividades--> <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Además de la cascada, los protagonistas son los monos de Berbería: se acercan muchísimo, así que guarda bien la comida. Y súbete a las barcas de colores que te llevan casi debajo del salto.</p></div> <!--enr--></p></div></li>
+</ol>
 
 ## Pozas naturales para el baño
 
@@ -50,16 +52,6 @@ En la base de las cascadas se forman varias **pozas naturales** donde es posible
 
 Una de las sorpresas de Ouzoud es la presencia de **monos de Berbería** viviendo en libertad entre los árboles del cañón. Es habitual verlos moverse entre las ramas cerca de los senderos, aunque, como con cualquier animal salvaje, lo mejor es observarlos sin darles de comer ni acercarse demasiado.
 
-## Cómo visitar las cascadas
-
-Existen varios senderos que permiten bajar hasta la base de las cascadas y verlas desde distintos ángulos, y también es posible contratar pequeñas embarcaciones que se acercan hasta el pie del salto de agua para sentir de cerca la fuerza de la corriente. La mayoría de las excursiones desde Marrakech incluyen tiempo libre tanto para caminar por los miradores superiores como para bajar hasta el agua.
-
-
-<!--actividades-->
-
-<div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Además de la cascada, los protagonistas son los monos de Berbería: se acercan muchísimo, así que guarda bien la comida. Y súbete a las barcas de colores que te llevan casi debajo del salto.</p></div>
-
-<!--enr-->
 ## Una cascada de 110 metros en el Atlas
 
 <p>Las <strong>Cascadas de Ouzoud</strong>, en la provincia de Azilal (Medio Atlas), caen unos <strong>110 metros</strong> en tres saltos, formadas por el río <strong>Oued Ouzoud</strong>, que más abajo se une al Oued El Abid. El significado del nombre es incierto: unas fuentes lo traducen como «oliva» y otras como «moler», por los molinos de agua.</p>
