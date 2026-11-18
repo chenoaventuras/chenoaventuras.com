@@ -61,6 +61,14 @@ Todo el mundo conoce Aguilar de Campoo por sus galletas, pero quien solo se qued
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DWo64-nDPc5/), grabado en Aguilar de Campoo, Palencia.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Aguilar de Campoo</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aguilar-de-campoo-que-ver/pueblo.jpg" alt="La Colegiata de San Miguel entre los tejados de Aguilar de Campoo, vista desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Colegiata de San Miguel</h3><p>En pleno centro, con origen en el <strong>siglo XIII</strong> y mezcla de gótico y románico. El gran símbolo del pueblo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aguilar-de-campoo-que-ver/puente.jpg" alt="Puente medieval de piedra sobre el río en Aguilar de Campoo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El puente medieval</h3><p>El <strong>Puente del Portazgo</strong> cruza el Pisuerga y es uno de los rincones más fotogénicos de Aguilar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aguilar-de-campoo-que-ver/embalse.jpg" alt="Embalse de Aguilar con la montaña palentina al fondo" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El embalse de Aguilar</h3><p>Agua azul con la <strong>montaña palentina</strong> de fondo: uno de los paisajes más bonitos de la zona.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/aguilar-de-campoo-que-ver/torre-embalse.jpg" alt="Torre del embalse de Aguilar con su pasarela sobre la roca" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La pasarela de la torre</h3><p>Una <strong>pasarela estrecha</strong> por la que solo pasa una persona a la vez. Si tienes vértigo, tómatelo con calma.</p></div></li>
+</ol>
+
 ## La Colegiata de San Miguel, símbolo del pueblo
 
 En pleno centro se alza la **Colegiata de San Miguel**, con origen en el siglo XIII y una mezcla de estilo gótico y románico que la convierte en uno de los grandes símbolos de Aguilar de Campoo.

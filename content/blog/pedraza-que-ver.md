@@ -55,6 +55,14 @@ Hay pueblos a los que entras por varias calles y pueblos a los que solo se entra
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DavqMrZxpzl/), grabado en Pedraza.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Pedraza</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pedraza-que-ver/tejados.jpg" alt="Tejados de Pedraza con la torre de la iglesia al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La villa medieval</h3><p>Un casco histórico tan bien conservado que fue declarado <strong>conjunto histórico en 1951</strong>. Solo se entra por la Puerta de la Villa.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pedraza-que-ver/plaza.jpg" alt="Soportales y reloj del Ayuntamiento en la plaza mayor de Pedraza" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La plaza mayor</h3><p>Porticada y con el <strong>Ayuntamiento</strong> y su reloj. Desde aquí se ve la iglesia de San Juan Bautista.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pedraza-que-ver/castillo.jpg" alt="Patio y murallas del castillo de Pedraza" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Gran Castillo</h3><p>Fortaleza medieval que fue residencia del pintor <strong>Ignacio Zuloaga</strong> y hoy es museo. Fue prisión de los hijos del rey Francisco I de Francia.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/pedraza-que-ver/velas.jpg" alt="Velas encendidas en el suelo de piedra durante la Noche de las Velas de Pedraza" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Noche de las Velas</h3><p>Los <strong>dos primeros sábados de julio</strong>, miles de velas iluminan el pueblo y hay concierto junto al castillo.</p></div></li>
+</ol>
+
 ## La Puerta de la Villa, el único acceso al casco histórico
 
 Pedraza conserva un rasgo poco habitual incluso entre los pueblos medievales españoles: todo su casco histórico tiene un único punto de entrada, la **Puerta de la Villa**. Sus portones de madera, enormes, se cerraban cada noche para proteger a los vecinos, y cruzarla hoy sigue siendo la manera de "viajar atrás en el tiempo" antes de perderte por sus calles empedradas.

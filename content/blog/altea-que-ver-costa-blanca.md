@@ -52,6 +52,14 @@ Hoy toca escapada a uno de los pueblos más fotografiados de la Costa Blanca: **
 
 *Puedes ver el vídeo de esta escapada en [este reel de Instagram](https://www.instagram.com/reel/DcZMPGpRAHv/).*
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Altea</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/altea-que-ver-costa-blanca/iglesia.jpg" alt="Cúpulas de cerámica azul y blanca de la iglesia de Altea vistas desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Iglesia del Consuelo</h3><p>El corazón de Altea, con sus <strong>cúpulas de cerámica azul y blanca</strong> que se ven desde medio pueblo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/altea-que-ver-costa-blanca/casco.jpg" alt="Casas blancas del casco antiguo de Altea junto a la iglesia al atardecer" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El casco antiguo</h3><p>Baja por la <strong>calle Mayor</strong>, llena de galerías y terrazas, hasta el Portal Vell. No te pierdas la calle de San Miguel.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/altea-que-ver-costa-blanca/bahia.jpg" alt="Bahía de Altea con el puerto y la montaña al fondo al atardecer" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las vistas a la bahía</h3><p>Desde el <strong>Mirador de los Cronistas</strong>, junto a la iglesia, se ve toda la bahía; en días claros, hasta Benidorm.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/altea-que-ver-costa-blanca/playa.jpg" alt="Cala de piedras con agua transparente en la costa de Altea" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Playas de piedra</h3><p>Aquí las playas son de <strong>piedra</strong>, no de arena: lleva escarpines. Las más conocidas, la Roda y la Olla.</p></div></li>
+</ol>
+
 ## Un pueblo con mucha más historia de la que parece
 
 El casco antiguo de Altea ocupa la zona que antiguamente estuvo amurallada, y por sus calles han pasado íberos, romanos y musulmanes a lo largo de los siglos. Su posición junto al mar la convirtió en un enclave estratégico… y también en un objetivo para los ataques de piratas berberiscos, lo que explica por qué el pueblo se construyó "hacia arriba", en alto y bien resguardado, en vez de pegado a la orilla.

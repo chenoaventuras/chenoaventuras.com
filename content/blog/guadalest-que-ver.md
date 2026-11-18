@@ -55,6 +55,14 @@ Hay pueblos bonitos, y luego está Guadalest, que parece dibujado a propósito p
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/p/Db_YXJ8xcVo/).
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Guadalest</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/guadalest-que-ver/pueblo.jpg" alt="El castillo de Guadalest sobre la roca, con el embalse turquesa al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Castillo de San José</h3><p>Una fortaleza musulmana sobre la <strong>roca más alta</strong> del pueblo. Se llega por un túnel excavado en la roca; la entrada cuesta unos 4 €.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/guadalest-que-ver/jardin.jpg" alt="Calle con palmeras que sube al casco antiguo de Guadalest, con el campanario sobre la roca" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El casco antiguo</h3><p>Calles empedradas y el barrio de <strong>El Arrabal</strong>, conectado con el castillo por el túnel de roca.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/guadalest-que-ver/embalse.jpg" alt="Embalse de Guadalest de color turquesa rodeado de montañas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El embalse</h3><p>Ese <strong>azul turquesa</strong> de todas las fotos, justo debajo del casco antiguo. Parece retocado, pero no lo es.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/guadalest-que-ver/mirador.jpg" alt="Muro de piedra de un mirador de Guadalest con el valle y el embalse" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los miradores</h3><p>Asómate a los muros de piedra para ver <strong>todo el valle</strong> y las montañas que lo rodean.</p></div></li>
+</ol>
+
 ## Un pueblo con más historia de la que parece
 
 Guadalest tiene origen musulmán, y su castillo —el Castell de Guadalest, o castillo de San José— es una fortaleza del siglo XI construida sobre la roca más alta del pueblo, desde donde se controlaba todo el valle. Fue plaza importante de las tropas árabes antes de la Reconquista, y a lo largo de los siglos ha sobrevivido a dos terremotos (1644 y 1748) y a una voladura durante la Guerra de Sucesión, así que lo que hoy ves entre las ruinas es, literalmente, lo que quedó en pie después de todo eso.
