@@ -56,6 +56,12 @@ De día, **Chinchón** es uno de los pueblos con más ambiente de la Comunidad d
 
 Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DQFNvQQDF7i/), grabado en Chinchón.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Chinchón de noche</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/chinchon-castillo-de-noche/plaza.jpg" alt="Plaza Mayor de Chinchón preparada como plaza de toros, con sus balcones de madera" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Plaza Mayor</h3><p>Irregular, con <strong>balcones corridos de madera</strong> verdes y soportales. Se usa como plaza de toros desde hace siglos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/chinchon-castillo-de-noche/castillo.jpg" alt="Castillo de los Condes de Chinchón al anochecer con el pueblo iluminado detrás" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El castillo de los Condes</h3><p>De finales del siglo XV, con foso y torres redondas. Es <strong>privado</strong>: se ve por fuera, y de noche iluminado es precioso.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Dónde:** a unos **45 km al sureste de Madrid**, unos 45 minutos en coche.

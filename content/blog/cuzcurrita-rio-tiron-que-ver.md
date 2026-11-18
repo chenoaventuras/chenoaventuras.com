@@ -51,21 +51,13 @@ Entre viñedos de la Rioja Alta, con un río cruzando el pueblo y un castillo qu
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DX4osIysp4I/), grabado en Cuzcurrita de Río Tirón, La Rioja.
 
-## Un castillo del siglo XIV que hoy es bodega
-
-El gran protagonista del pueblo es el **Castillo de los Velasco**, una fortaleza de finales del siglo XIV que con el tiempo cambió las armas por las barricas: hoy funciona como bodega, rodeada de viñedos, y conserva todo el carácter de una construcción defensiva medieval.
-
-## El puente que construyeron los propios vecinos
-
-Cruzando el río Tirón se encuentra un **puente de piedra medieval** con una curiosidad que le da un valor especial: no lo levantó la nobleza ni la Iglesia, sino los propios vecinos de Cuzcurrita, a finales del siglo XV. Casi seis siglos después, sigue en pie y sigue usándose para cruzar al otro lado del pueblo.
-
-## El Mirador del Bolo, de lugar de ajusticiamiento a mejor vista del pueblo
-
-Uno de los rincones con más historia (y la más oscura) es el **Mirador del Bolo**, un antiguo lugar de ajusticiamiento durante la Edad Media que hoy se ha reconvertido en un mirador tranquilo con vistas al entorno de Cuzcurrita, prácticamente lo contrario de lo que fue siglos atrás.
-
-## Iglesia de San Miguel y las ermitas del entorno
-
-En el casco histórico destaca la **iglesia de San Miguel**, una obra barroca del siglo XVIII declarada Monumento Nacional desde 1978. Alrededor del pueblo se reparten además dos ermitas con siglos de historia: la de **Nuestra Señora de Tironcillo** (siglo XVIII) y la de **Santa María de Sorejana**, del siglo XII, una de las construcciones religiosas más antiguas de toda la zona.
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Cuzcurrita de Río Tirón</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuzcurrita-rio-tiron-que-ver/castillo.jpg" alt="Castillo de los Velasco de Cuzcurrita con el pueblo y el río Tirón, visto desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Un castillo del siglo XIV que hoy es bodega</h3><p>El gran protagonista del pueblo es el <strong>Castillo de los Velasco</strong>, una fortaleza de finales del siglo XIV que con el tiempo cambió las armas por las barricas: hoy funciona como bodega, rodeada de viñedos, y conserva todo el carácter de una construcción defensiva medieval.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuzcurrita-rio-tiron-que-ver/puente.jpg" alt="Puente medieval de piedra sobre el río Tirón en Cuzcurrita" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El puente que construyeron los propios vecinos</h3><p>Cruzando el río Tirón se encuentra un <strong>puente de piedra medieval</strong> con una curiosidad que le da un valor especial: no lo levantó la nobleza ni la Iglesia, sino los propios vecinos de Cuzcurrita, a finales del siglo XV. Casi seis siglos después, sigue en pie y sigue usándose para cruzar al otro lado del pueblo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuzcurrita-rio-tiron-que-ver/mirador.jpg" alt="Columna de piedra del Mirador del Bolo con la pasarela de madera del mirador" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Mirador del Bolo, de lugar de ajusticiamiento a mejor vista del pueblo</h3><p>Uno de los rincones con más historia (y la más oscura) es el <strong>Mirador del Bolo</strong>, un antiguo lugar de ajusticiamiento durante la Edad Media que hoy se ha reconvertido en un mirador tranquilo con vistas al entorno de Cuzcurrita, prácticamente lo contrario de lo que fue siglos atrás.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cuzcurrita-rio-tiron-que-ver/iglesia.jpg" alt="Torre barroca de la iglesia de San Miguel de Cuzcurrita con los tejados del pueblo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Iglesia de San Miguel y las ermitas del entorno</h3><p>En el casco histórico destaca la <strong>iglesia de San Miguel</strong>, una obra barroca del siglo XVIII declarada Monumento Nacional desde 1978. Alrededor del pueblo se reparten además dos ermitas con siglos de historia: la de <strong>Nuestra Señora de Tironcillo</strong> (siglo XVIII) y la de <strong>Santa María de Sorejana</strong>, del siglo XII, una de las construcciones religiosas más antiguas de toda la zona.</p></div></li>
+</ol>
 
 ## Vino, río y una presa perfecta para el verano
 
