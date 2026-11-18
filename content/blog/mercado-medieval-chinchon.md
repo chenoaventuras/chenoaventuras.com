@@ -59,8 +59,8 @@ Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/D
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver en el mercado</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-medieval-chinchon/personajes.jpg" alt="Artistas con antorchas de fuego en el mercado medieval de Chinchón por la noche" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Personajes y espectáculos</h3><p>Justas, teatro de calle, música y <strong>espectáculos de fuego</strong>. El sábado por la noche, con las antorchas, es lo mejor.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-medieval-chinchon/puestos.jpg" alt="Parrilla con carne asada en un puesto del mercado medieval de Chinchón" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los puestos de comida</h3><p>Asados, embutidos, quesos y dulces. Lleva <strong>efectivo</strong> por si algún puesto no acepta tarjeta.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-medieval-chinchon/personajes.webp" alt="Artistas con antorchas de fuego en el mercado medieval de Chinchón por la noche" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Personajes y espectáculos</h3><p>Justas, teatro de calle, música y <strong>espectáculos de fuego</strong>. El sábado por la noche, con las antorchas, es lo mejor.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mercado-medieval-chinchon/puestos.webp" alt="Parrilla con carne asada en un puesto del mercado medieval de Chinchón" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los puestos de comida</h3><p>Asados, embutidos, quesos y dulces. Lleva <strong>efectivo</strong> por si algún puesto no acepta tarjeta.</p></div></li>
 </ol>
 
 ## Lo básico
