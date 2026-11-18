@@ -83,6 +83,7 @@ Te cuento qué ver, cuánto cuestan los monumentos (y cuándo son gratis), cómo
 <ul>
 <li><strong>Astorga</strong> (a 50 km): el Palacio Episcopal de Gaudí y el chocolate. <a href="/blog/astorga-que-ver.html">Qué ver en Astorga</a>.</li>
 <li><strong>Las Médulas</strong>: el paisaje rojo de las minas de oro romanas. <a href="/blog/las-medulas.html">Cómo verlas</a>.</li>
+<li><strong>Riaño</strong>: los «fiordos leoneses», un embalse entre picos al norte de la provincia. <a href="/blog/riano.html">Qué ver en Riaño</a>.</li>
 <li><strong>Ponferrada</strong> y su castillo templario: <a href="/blog/castillo-templario-ponferrada.html">aquí lo tienes</a>.</li>
 <li><strong>La Cueva de Valporquero</strong>, en la montaña leonesa, a unos 45 minutos.</li>
 </ul>

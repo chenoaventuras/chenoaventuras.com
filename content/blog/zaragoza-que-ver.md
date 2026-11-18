@@ -89,6 +89,7 @@ Te cuento qué ver, cuánto cuesta (y cuándo es gratis), dónde ir de tapas y c
 <ul>
 <li><strong>Belchite</strong>, el pueblo destruido en la Guerra Civil: <a href="/blog/belchite-pueblo-viejo.html">te lo cuento aquí</a>.</li>
 <li><strong>El Monasterio de Piedra</strong>, con sus cascadas: <a href="/blog/monasterio-de-piedra.html">cómo visitarlo</a>.</li>
+<li><strong>Sos del Rey Católico</strong>, el pueblo medieval donde nació Fernando el Católico: <a href="/blog/sos-del-rey-catolico.html">qué ver</a>.</li>
 <li><strong>Las Bardenas Reales</strong>, el desierto de Navarra: <a href="/blog/bardenas-reales.html">aquí lo tienes</a>.</li>
 <li><strong>Fuendetodos</strong>, el pueblo natal de Goya, y <a href="/blog/trasmoz-pueblo-maldito.html">Trasmoz</a>, el pueblo maldito.</li>
 </ul>
