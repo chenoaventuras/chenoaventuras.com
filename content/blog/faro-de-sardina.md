@@ -42,7 +42,7 @@ Te cuento cómo llegar y qué esperar 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-sardina/faro.jpg" alt="Faro de rayas rojas y blancas de Sardina del Norte con el cielo azul" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El faro</h3><p>La torre actual es de <strong>1986</strong> y sigue en servicio, en el extremo noroeste de Gran Canaria. El primer faro dio luz en 1891.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-sardina/faro.webp" alt="Faro de rayas rojas y blancas de Sardina del Norte con el cielo azul" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El faro</h3><p>La torre actual es de <strong>1986</strong> y sigue en servicio, en el extremo noroeste de Gran Canaria. El primer faro dio luz en 1891.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Faro de Sardina: lo esencial</h2></div>

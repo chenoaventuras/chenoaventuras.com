@@ -44,7 +44,7 @@ Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DPMiJbsD
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rafting-canon-de-almadenes/balsa.jpg" alt="Balsa de rafting en el río Segura bajo las paredes de roca del Cañón de Almadenes" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>En balsa por el Segura</h3><p>Unos <strong>5 km</strong> de río entre paredes de más de 150 metros. El río va tranquilo: es más paisaje que adrenalina.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/rafting-canon-de-almadenes/balsa.webp" alt="Balsa de rafting en el río Segura bajo las paredes de roca del Cañón de Almadenes" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>En balsa por el Segura</h3><p>Unos <strong>5 km</strong> de río entre paredes de más de 150 metros. El río va tranquilo: es más paisaje que adrenalina.</p></div></li>
 </ol>
 
 ## Lo básico

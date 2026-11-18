@@ -49,7 +49,7 @@ Puedes verla por dentro en [este reel de Instagram](https://www.instagram.com/re
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cueva-del-puerto-calasparra/estalactitas.jpg" alt="Estalactitas y coladas de roca en la Cueva del Puerto de Calasparra" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las formaciones</h3><p>Estalactitas y estalagmitas de <strong>millones de años</strong>, y dos salas con minerales que brillan en la oscuridad.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cueva-del-puerto-calasparra/estalactitas.webp" alt="Estalactitas y coladas de roca en la Cueva del Puerto de Calasparra" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las formaciones</h3><p>Estalactitas y estalagmitas de <strong>millones de años</strong>, y dos salas con minerales que brillan en la oscuridad.</p></div></li>
 </ol>
 
 ## Lo básico antes de ir
