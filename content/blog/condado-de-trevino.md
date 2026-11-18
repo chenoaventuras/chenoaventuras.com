@@ -12,6 +12,12 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividades:
+  - t: "Free tour por Vitoria"
+    u: "https://www.civitatis.com/es/vitoria/free-tour-vitoria/"
+  - t: "Tour por Vitoria con degustación de pinchos"
+    u: "https://www.civitatis.com/es/vitoria/tour-pinchos-vitoria/"
+actividadesTitulo: 'Actividades en Vitoria'
 faqTitulo: "Dudas sobre el Condado de Treviño"
 faq:
   - q: "¿El Condado de Treviño es de Álava o de Burgos?"

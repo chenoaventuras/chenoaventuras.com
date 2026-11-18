@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Aragón
 wide: true
+actividades:
+  - t: "Visita guiada por Teruel"
+    u: "https://www.civitatis.com/es/teruel/visita-guiada-teruel/"
+  - t: "Tour nocturno por Teruel"
+    u: "https://www.civitatis.com/es/teruel/tour-nocturno-teruel/"
+  - t: "Entrada a Dinópolis"
+    u: "https://www.civitatis.com/es/teruel/entrada-dinopolis/"
+actividadesTitulo: 'Actividades en Teruel'
 faqTitulo: "Dudas sobre Teruel"
 faq:
   - q: "¿Cuándo se fundó Teruel?"

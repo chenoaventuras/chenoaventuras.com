@@ -12,6 +12,10 @@ tags:
   - Spots
   - País Vasco
 wide: true
+actividades:
+  - t: "Tour por la costa de Gipuzkoa desde San Sebastián"
+    u: "https://www.civitatis.com/es/san-sebastian/tour-costa-guipuzcoa/"
+actividadesTitulo: 'Actividades en San Sebastián'
 faqTitulo: "Dudas sobre San Sebastián"
 faq:
   - q: "¿Cuándo empezó el Festival de Cine de San Sebastián?"

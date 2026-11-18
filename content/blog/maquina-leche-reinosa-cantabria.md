@@ -11,6 +11,12 @@ tags:
   - Curiosidades
   - Cantabria
 igPermalink: 'https://www.instagram.com/reel/DWE2X_CCJX5/'
+actividades:
+  - t: "Excursión a Potes, Santo Toribio y Fuente Dé desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-picos-europa/"
+  - t: "Excursión a Cabárceno desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-cabarceno/"
+actividadesTitulo: 'Actividades en Cantabria'
 faqTitulo: "Dudas sobre la máquina de leche de Reinosa"
 faq:
   - q: "¿Dónde está la máquina de leche de Reinosa?"

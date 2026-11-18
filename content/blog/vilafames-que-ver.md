@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Comunidad Valenciana
 wide: true
+actividades:
+  - t: "Excursión a Peñíscola desde Benicàssim"
+    u: "https://www.civitatis.com/es/benicassim/excursion-peniscola/"
+  - t: "Excursión a Morella desde Benicàssim"
+    u: "https://www.civitatis.com/es/benicassim/excursion-morella/"
+  - t: "Excursión a las Cuevas de San José"
+    u: "https://www.civitatis.com/es/benicassim/excursion-cuevas-san-jose/"
+actividadesTitulo: 'Actividades desde Benicàssim'
 faqTitulo: "Dudas sobre Vilafamés"
 faq:
   - q: "¿Qué ver en Vilafamés?"

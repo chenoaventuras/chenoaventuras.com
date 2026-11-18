@@ -15,6 +15,16 @@ tags:
 wide: true
 sinGuia: true
 coche: true
+actividades:
+  - t: "Excursión a Potes, Santo Toribio y Fuente Dé desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-picos-europa/"
+  - t: "Excursión a Cabárceno desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-cabarceno/"
+  - t: "Excursión a Altamira y Santillana del Mar"
+    u: "https://www.civitatis.com/es/santander/excursion-altamira-santillana-del-mar/"
+  - t: "Paseo en barco por la bahía de Santander"
+    u: "https://www.civitatis.com/es/santander/paseo-barco-bahia-santander/"
+actividadesTitulo: 'Actividades en Cantabria'
 faqTitulo: "Dudas sobre Cantabria en 5 días"
 faq:
   - q: "¿Cuántos días hacen falta para ver Cantabria?"

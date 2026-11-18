@@ -11,6 +11,10 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+actividades:
+  - t: "Tour del Quijote por Ciudad Real"
+    u: "https://www.civitatis.com/es/ciudad-real/tour-quijote-ciudad-real/"
+actividadesTitulo: 'Actividades en Ciudad Real'
 faqTitulo: "Dudas sobre las Lagunas de Ruidera"
 faq:
   - q: "¿Cuándo es parque natural Ruidera?"

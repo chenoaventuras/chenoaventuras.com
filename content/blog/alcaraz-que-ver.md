@@ -13,6 +13,10 @@ tags:
   - Pueblos
   - Castilla-La Mancha
 wide: true
+actividades:
+  - t: "Visita guiada por Albacete"
+    u: "https://www.civitatis.com/es/albacete/visita-guiada-albacete/"
+actividadesTitulo: 'Actividades en Albacete'
 faqTitulo: "Dudas sobre Alcaraz"
 faq:
   - q: "¿Qué ver en Alcaraz?"

@@ -12,6 +12,16 @@ tags:
   - Spots
   - Andalucía
 wide: true
+actividades:
+  - t: "Visita guiada por la Mezquita de Córdoba"
+    u: "https://www.civitatis.com/es/cordoba/visita-guiada-mezquita-cordoba/"
+  - t: "Entradas a la Mezquita-Catedral con audioguía"
+    u: "https://www.civitatis.com/es/cordoba/entradas-mezquita-cordoba/"
+  - t: "Visita guiada por Medina Azahara"
+    u: "https://www.civitatis.com/es/cordoba/visita-guiada-medina-azahara/"
+  - t: "Free tour por Córdoba"
+    u: "https://www.civitatis.com/es/cordoba/free-tour-cordoba/"
+actividadesTitulo: 'Actividades en Córdoba'
 faqTitulo: "Dudas sobre Córdoba"
 faq:
   - q: "¿Cuándo se empezó a construir la Mezquita de Córdoba?"

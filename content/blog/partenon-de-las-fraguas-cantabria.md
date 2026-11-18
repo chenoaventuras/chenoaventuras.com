@@ -12,6 +12,12 @@ tags:
   - Spots
   - Cantabria
 igPermalink: 'https://www.instagram.com/reel/DYSX22UMI_t/'
+actividades:
+  - t: "Excursión a Cabárceno desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-cabarceno/"
+  - t: "Excursión a Altamira y Santillana del Mar"
+    u: "https://www.civitatis.com/es/santander/excursion-altamira-santillana-del-mar/"
+actividadesTitulo: 'Actividades en Cantabria'
 faqTitulo: "Dudas sobre el Partenón de Las Fraguas"
 faq:
   - q: "¿Dónde está el Partenón de Las Fraguas?"

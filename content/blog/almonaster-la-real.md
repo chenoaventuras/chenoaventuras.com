@@ -30,6 +30,8 @@ faq:
     a: "Unas jornadas que se celebran en Almonaster cada otoño, normalmente en octubre, con mercado, música, conferencias y actividades alrededor de la mezquita."
   - q: "¿Cómo llegar a Almonaster la Real?"
     a: "En coche: a unos 30 minutos de Aracena y a alrededor de hora y media de Sevilla y de Huelva capital."
+guia: /assets/guias/guia-huelva-chenoaventuras.pdf
+guiaTitulo: 'Guía Huelva en PDF'
 ---
 En lo alto de **Almonaster la Real**, dentro de un castillo y rodeada de castaños y encinas, hay una **mezquita de hace más de mil años**. Pequeña, silenciosa y casi intacta, es uno de los rincones más sorprendentes de Andalucía. Y por si fuera poco, justo al lado hay una **plaza de toros**. Abajo, un pueblo blanco de la **Sierra de Aracena** que forma parte de **los pueblos más bonitos de España**.
 

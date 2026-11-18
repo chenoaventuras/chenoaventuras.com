@@ -13,6 +13,14 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividades:
+  - t: "Tour de Soria al completo con entradas"
+    u: "https://www.civitatis.com/es/soria/tour-soria-completo/"
+  - t: "Free tour por Soria"
+    u: "https://www.civitatis.com/es/soria/free-tour-soria/"
+  - t: "Tour de los misterios y leyendas de Soria"
+    u: "https://www.civitatis.com/es/soria/tour-misterios-leyendas/"
+actividadesTitulo: 'Actividades en Soria'
 faqTitulo: "Dudas sobre Soria"
 faq:
   - q: "¿Cuándo vivió Antonio Machado en Soria?"

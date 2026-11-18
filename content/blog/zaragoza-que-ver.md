@@ -12,6 +12,14 @@ tags:
   - Spots
   - Aragón
 wide: true
+actividades:
+  - t: "Free tour por Zaragoza"
+    u: "https://www.civitatis.com/es/zaragoza/free-tour-zaragoza/"
+  - t: "Visita guiada por la Basílica del Pilar"
+    u: "https://www.civitatis.com/es/zaragoza/catedral-basilica-pilar/"
+  - t: "Excursión a Ordesa y Monte Perdido desde Zaragoza"
+    u: "https://www.civitatis.com/es/zaragoza/excursion-ordesa-monte-perdido/"
+actividadesTitulo: 'Actividades en Zaragoza'
 faqTitulo: "Dudas sobre Zaragoza"
 faq:
   - q: "¿Cuándo se fundó Zaragoza?"

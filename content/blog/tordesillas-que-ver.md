@@ -31,6 +31,8 @@ faq:
     a: "Medio día: una visita a Santa Clara, un paseo por la plaza mayor y las Casas del Tratado, y bajar al puente sobre el Duero."
   - q: "¿Cómo llegar a Tordesillas?"
     a: "Está a unos 30 minutos de Valladolid y a unas 2 horas de Madrid por la autovía A-6. También hay autobuses desde Valladolid."
+guia: /assets/guias/guia-valladolid-chenoaventuras.pdf
+guiaTitulo: 'Guía Valladolid en PDF'
 ---
 En 1494, en un pueblo junto al **Duero**, Castilla y Portugal se repartieron medio mundo. **Tordesillas** dio nombre al tratado que marcó la historia de América, y años después fue el lugar donde vivió encerrada la reina **Juana I**. Hoy es un pueblo tranquilo, con una plaza mayor muy bonita y uno de los monumentos **mudéjares** más especiales de España.
 

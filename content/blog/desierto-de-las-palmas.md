@@ -34,6 +34,8 @@ faq:
     a: "El monasterio nuevo sigue habitado por carmelitas y tiene un museo de arte sacro con horario limitado. Las ruinas del monasterio antiguo se ven desde los caminos."
   - q: "¿Cómo llegar al Desierto de las Palmas?"
     a: "Por la carretera CV-147, que sube desde Benicàssim. Está a unos 20 minutos de Benicàssim y a media hora de Castellón. El centro de información La Bartola está en el kilómetro 8."
+guia: /assets/guias/guia-castellon-chenoaventuras.pdf
+guiaTitulo: 'Guía Castellón en PDF'
 ---
 Con ese nombre, cualquiera esperaría arena y dunas. Pero el **Desierto de las Palmas** es lo contrario: un **parque natural de montañas rojas**, pinares y barrancos a un paso de las playas de **Benicàssim**. Los frailes carmelitas eligieron este sitio para retirarse del mundo, y dejaron un monasterio, ermitas escondidas y uno de los mejores miradores del Mediterráneo: el **Bartolo**.
 

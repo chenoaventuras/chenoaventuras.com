@@ -30,6 +30,8 @@ faq:
     a: "Medio día para el centro histórico. Combínalo con las Lagunas de Ruidera, a unos 40 minutos."
   - q: "¿Cómo llegar a Villanueva de los Infantes?"
     a: "En coche: a 1 hora y cuarto de Ciudad Real y a unas 2 horas y tres cuartos de Madrid."
+guia: /assets/guias/guia-ciudad-real-chenoaventuras.pdf
+guiaTitulo: 'Guía Ciudad Real en PDF'
 ---
 **Villanueva de los Infantes** es uno de esos pueblos que sorprenden. En mitad del **Campo de Montiel**, en Ciudad Real, tiene una **plaza mayor** con balcones de madera, iglesias y palacios de piedra rojiza, y casonas con escudo en cada esquina. Aquí murió **Quevedo**, y hay quien defiende que este es el **«lugar de La Mancha»** con el que empieza el Quijote. Forma parte de **los pueblos más bonitos de España**.
 

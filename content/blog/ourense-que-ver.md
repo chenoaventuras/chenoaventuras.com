@@ -13,6 +13,14 @@ tags:
   - Spots
   - Galicia
 wide: true
+actividades:
+  - t: "Free tour por Ourense termal"
+    u: "https://www.civitatis.com/es/orense/free-tour-orense-termal/"
+  - t: "Visita guiada por Ribadavia"
+    u: "https://www.civitatis.com/es/ribadavia/visita-guiada-ribadavia/"
+  - t: "Excursión a la Ribeira Sacra"
+    u: "https://www.civitatis.com/es/lugo/excursion-ribeira-sacra/"
+actividadesTitulo: 'Actividades en Ourense'
 faqTitulo: "Dudas sobre Ourense"
 faq:
   - q: "¿Cuál es la temperatura de las Burgas de Ourense?"

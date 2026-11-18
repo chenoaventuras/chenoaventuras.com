@@ -12,6 +12,12 @@ tags:
   - Spots
   - Comunidad de Madrid
 wide: true
+actividades:
+  - t: "Free tour por Madrid"
+    u: "https://www.civitatis.com/es/madrid/free-tour-madrid/"
+  - t: "Visita guiada por el Palacio Real de Madrid"
+    u: "https://www.civitatis.com/es/madrid/visita-guiada-palacio-real/"
+actividadesTitulo: 'Actividades en Madrid'
 faqTitulo: "Dudas sobre la Torre de Cristal"
 faq:
   - q: "¿Cuál es el edificio más alto de España?"

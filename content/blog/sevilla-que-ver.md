@@ -13,6 +13,16 @@ tags:
   - Spots
   - Andalucía
 wide: true
+actividades:
+  - t: "Visita guiada por la catedral de Sevilla"
+    u: "https://www.civitatis.com/es/sevilla/visita-guiada-catedral-sevilla/"
+  - t: "Visita guiada por la Plaza de España y el Parque de María Luisa"
+    u: "https://www.civitatis.com/es/sevilla/visita-guiada-parque-maria-luisa/"
+  - t: "Paseo en barco por Sevilla con guía"
+    u: "https://www.civitatis.com/es/sevilla/paseo-barco-sevilla-guia/"
+  - t: "Excursión a Itálica desde Sevilla"
+    u: "https://www.civitatis.com/es/sevilla/excursion-italica/"
+actividadesTitulo: 'Actividades en Sevilla'
 faqTitulo: "Dudas sobre Sevilla"
 faq:
   - q: "¿Cuándo se construyó la Catedral de Sevilla?"

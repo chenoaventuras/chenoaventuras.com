@@ -32,6 +32,8 @@ faq:
     a: "Medio día para el pueblo y un museo. Combínalo con Mora de Rubielos, a unos 15 minutos, que tiene un gran castillo."
   - q: "¿Cómo llegar a Rubielos de Mora?"
     a: "En coche: a unos 50 minutos de Teruel y a una hora y tres cuartos de Valencia, por la A-23 y la carretera de la sierra."
+guia: /assets/guias/guia-teruel-chenoaventuras.pdf
+guiaTitulo: 'Guía Teruel en PDF'
 ---
 **Rubielos de Mora** parece hecho de una sola piedra dorada. Casonas con escudos, aleros de madera, portales medievales y calles empedradas: todo está tan bien conservado que el pueblo forma parte de **los pueblos más bonitos de España**. Está en la **sierra de Gúdar**, al sureste de Teruel, y en invierno tiene la nieve muy cerca.
 

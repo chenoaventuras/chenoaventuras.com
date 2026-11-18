@@ -12,6 +12,12 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividades:
+  - t: "Visita guiada por Zamora"
+    u: "https://www.civitatis.com/es/zamora/visita-guiada-zamora/"
+  - t: "Free tour por Zamora"
+    u: "https://www.civitatis.com/es/zamora/free-tour-zamora/"
+actividadesTitulo: 'Actividades en Zamora'
 faqTitulo: "Dudas sobre el Lago de Sanabria"
 faq:
   - q: "¿Se puede bañar en el Lago de Sanabria?"

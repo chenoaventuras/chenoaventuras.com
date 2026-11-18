@@ -13,6 +13,12 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividades:
+  - t: "Visita guiada por Zamora"
+    u: "https://www.civitatis.com/es/zamora/visita-guiada-zamora/"
+  - t: "Free tour por Zamora"
+    u: "https://www.civitatis.com/es/zamora/free-tour-zamora/"
+actividadesTitulo: 'Actividades en Zamora'
 faqTitulo: "Dudas sobre Fermoselle"
 faq:
   - q: "¿Cuántas bodegas hay en Fermoselle?"
