@@ -9,7 +9,7 @@ lat: 36.7193
 lng: -4.4213
 evento: true
 excerpt: 'Málaga enciende la Navidad el 27 de noviembre de 2026 en calle Larios, con concierto gratis de El Kanka. Horarios del espectáculo de luz y sonido, el videomapping de la Catedral y consejos para verlo sin agobios.'
-cover: /assets/img/blog/navidad-en-malaga/portada.jpg
+cover: /assets/img/blog/navidad-en-malaga/portada.webp
 tags:
   - Spots
   - Andalucía
@@ -53,10 +53,10 @@ Te cuento los horarios de cada espectáculo y cómo verlo sin agobios 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Los imprescindibles de la Navidad en Málaga</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/navidad-en-malaga/portada.jpg" alt="Calle Larios de Málaga iluminada por Navidad y llena de gente" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El espectáculo de calle Larios</h3><p>En 2026 repite el diseño <strong>«Natividad de luz»</strong>: 32 columnas con guirnaldas, 384 lazos rojos y 512 bolas que se encienden con música. Tres pases al día: <strong>18:30, 20:30 y 22:00</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/navidad-en-malaga/portada.webp" alt="Calle Larios de Málaga iluminada por Navidad y llena de gente" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El espectáculo de calle Larios</h3><p>En 2026 repite el diseño <strong>«Natividad de luz»</strong>: 32 columnas con guirnaldas, 384 lazos rojos y 512 bolas que se encienden con música. Tres pases al día: <strong>18:30, 20:30 y 22:00</strong>.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/malaga-que-ver/catedral.webp" alt="Catedral de Málaga" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El videomapping de la Catedral</h3><p>Este año se llama <strong>«El cielo desciende»</strong>: una niña recorre la fauna y la flora malagueñas y termina con fuegos artificiales en 3D y música de órgano. Se proyecta en la torre sur, en la calle Molina Lario.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/navidad-en-malaga/larios.jpg" alt="Arco de luces de Navidad en el centro de Málaga" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Arcos de luz y el gran abeto</h3><p>Los arcos de luz llenan el centro, y al final de calle Larios, en la plaza de la Constitución, hay un <strong>abeto de 18 metros</strong> bajo el que se puede caminar.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/navidad-en-malaga/calle.jpg" alt="Luces de Navidad en una calle del centro de Málaga" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El resto del centro</h3><p>Hay <strong>19 calles y plazas</strong> con decoración nueva este año. Pasea por el centro histórico, la calle Granada y el entorno de la Alcazaba.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/navidad-en-malaga/larios.webp" alt="Arco de luces de Navidad en el centro de Málaga" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Arcos de luz y el gran abeto</h3><p>Los arcos de luz llenan el centro, y al final de calle Larios, en la plaza de la Constitución, hay un <strong>abeto de 18 metros</strong> bajo el que se puede caminar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/navidad-en-malaga/calle.webp" alt="Luces de Navidad en una calle del centro de Málaga" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El resto del centro</h3><p>Hay <strong>19 calles y plazas</strong> con decoración nueva este año. Pasea por el centro histórico, la calle Granada y el entorno de la Alcazaba.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Horarios</span><h2>Horario del alumbrado</h2></div>
