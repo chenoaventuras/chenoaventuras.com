@@ -58,6 +58,13 @@ Por fuera es una iglesia más entre las calles de Malasaña. Por dentro, es de e
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/reel/DUu0s56jALL/), grabado en Madrid.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/capilla-sixtina-madrilena-san-antonio-alemanes/altar.jpg" alt="Interior de San Antonio de los Alemanes con frescos en paredes y cúpula" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Pared a pared</h3><p>El interior está decorado <strong>de arriba abajo</strong>, sin apenas un hueco en blanco.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/capilla-sixtina-madrilena-san-antonio-alemanes/cupula.jpg" alt="Cúpula pintada con frescos barrocos de San Antonio de los Alemanes" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La cúpula</h3><p>Frescos barrocos dedicados a <strong>San Antonio de Padua</strong>. Prepárate para mirar al techo un buen rato.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/capilla-sixtina-madrilena-san-antonio-alemanes/interior.jpg" alt="Retablo y frescos de una de las capillas de San Antonio de los Alemanes" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los detalles</h3><p>La entrada (12 €) incluye también la visita a la iglesia del <strong>Monasterio de San Plácido</strong>.</p></div></li>
+</ol>
+
 ## Un interior pintado sin un solo hueco vacío
 
 Lo que hace tan especial a esta iglesia es que su interior está decorado de arriba a abajo, sin dejar prácticamente ningún espacio en blanco: paredes, cúpula y techos forman un conjunto continuo de frescos que envuelve por completo a quien entra. Es precisamente esa sensación de estar dentro de una obra de arte, y no solo mirándola, lo que le ha ganado el apodo de Capilla Sixtina madrileña.
@@ -102,3 +109,5 @@ La iglesia se encuentra en el barrio de Malasaña, muy cerca de la parada de met
 
 
 ¿Conocías esta "Capilla Sixtina" en pleno Madrid? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones con historia, y échale un vistazo al resto del blog para seguir planeando tu próxima escapada.
+
+<p class="guide__note">Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Iglesia_de_los_alemanes_(3).JPG" target="_blank" rel="noopener">Javier Gzz Zapatero</a> (CC BY-SA 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:2014_Cupula_Iglesia_S_Antonio_Alemanes.jpg" target="_blank" rel="noopener">InésArrabel</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Interior_de_la_Iglesia_de_San_Antonio_de_los_Alemanes,_Madrid.jpg" target="_blank" rel="noopener">Joseac</a> (CC BY-SA 3.0 es).</p>

@@ -54,6 +54,14 @@ En la esquina noreste de la Comunidad de Madrid, la **Sierra del Rincón** escon
 
 Puedes ver la ruta en [este reel de Instagram](https://www.instagram.com/reel/DUlwz4MjDhZ/), grabado en la Sierra del Rincón.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la ruta</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puerto-de-la-puebla-sierra-del-rincon/hayedo.jpg" alt="Bosque del Hayedo de Montejo en otoño con hojas doradas" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Hayedo de Montejo</h3><p>Uno de los hayedos más al sur de Europa y <strong>Patrimonio de la Humanidad</strong>. Pide reserva.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puerto-de-la-puebla-sierra-del-rincon/pradena.jpg" alt="Fuente de piedra en una plaza de Prádena del Rincón" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Prádena del Rincón</h3><p>Junto a su iglesia apareció una <strong>necrópolis medieval</strong> con tumbas excavadas en la roca.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puerto-de-la-puebla-sierra-del-rincon/puebla.jpg" alt="La Puebla de la Sierra en el valle, rodeada de montes" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La Puebla de la Sierra</h3><p>El «<strong>pueblo museo</strong>», con esculturas y obras de arte al aire libre por sus calles.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/puerto-de-la-puebla-sierra-del-rincon/puebla-calle.jpg" alt="Ayuntamiento de La Puebla de la Sierra en su plaza" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Pueblos de la Biosfera</h3><p>La Sierra del Rincón es <strong>Reserva de la Biosfera</strong> desde 2005 y una de las zonas menos pobladas de Madrid.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Dónde:** en la carretera **M-130**, entre **Prádena del Rincón** y **La Puebla de la Sierra**, a unos 110 km de Madrid.
@@ -104,3 +112,5 @@ Desde **Madrid**, por la **A-1** hasta la salida de **Buitrago / La Hiruela** y 
 <!--faq-->
 
 ¿Conocías el Puerto de la Puebla? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rutas y pueblos de Madrid, y échale un vistazo al resto del blog.
+
+<p class="guide__note">Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Oto%C3%B1o_en_el_Hayedo_de_Montejo_(30777813011).jpg" target="_blank" rel="noopener">Pablo Cabezos</a> (CC BY 2.0) · <a href="https://commons.wikimedia.org/wiki/File:Fuente_en_Pr%C3%A1dena_del_Rinc%C3%B3n.jpg" target="_blank" rel="noopener">Comunidad de Madrid</a> (CC BY 3.0 es) · <a href="https://commons.wikimedia.org/wiki/File:PueblaDeLaSierra2_5062062_-_5062066-1.jpg" target="_blank" rel="noopener">Rowanwindwhistler</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Puebla_de_la_Sierra.jpg" target="_blank" rel="noopener">Comunidad de Madrid</a> (CC BY 3.0 es).</p>

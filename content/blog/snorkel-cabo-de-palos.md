@@ -59,6 +59,14 @@ Metí la cabeza bajo el agua en Cabo de Palos sin esperar gran cosa, la verdad, 
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>🤿</b><span>Snorkel</span></div><div><b>🏝️</b><span>Islas Hormigas</span></div><div><b>🐠</b><span>Fauna marina</span></div><div><b>🏖️</b><span>Calas</span></div><div><b>⛵</b><span>Barco</span></div></div>
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/snorkel-cabo-de-palos/faro.jpg" alt="Faro de Cabo de Palos sobre el cabo con el cielo azul" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El faro de Cabo de Palos</h3><p>La imagen más reconocible del pueblo. Justo debajo está la <strong>Cala Túnez</strong>, la más cómoda para empezar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/snorkel-cabo-de-palos/fondo.jpg" alt="Fondo marino con rocas, algas y peces en la reserva de Islas Hormigas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Bajo el agua</h3><p>Pulpos, <strong>castañuelas</strong>, salpas y praderas de posidonia en aguas muy transparentes.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/snorkel-cabo-de-palos/hormigas.jpg" alt="Islote con el faro de la isla de la Hormiga frente a Cabo de Palos" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Islas Hormigas</h3><p>Reserva marina desde <strong>1995</strong>, una de las más veteranas de España. Se llega en barco.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/snorkel-cabo-de-palos/cala.jpg" alt="Cala rocosa de aguas tranquilas en la Reserva Marina de Cabo de Palos" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las calas</h3><p>Calas rocosas con fondos llenos de vida. La de la Escalera tiene <strong>más fondo y más fauna</strong>.</p></div></li>
+</ol>
+
 ## ¿Dónde está exactamente Cabo de Palos?
 
 Cabo de Palos es una localidad pesquera dentro del municipio de Cartagena, en la Región de Murcia, pegada a la entrada de La Manga del Mar Menor. Su faro, subido sobre el cabo, es la imagen más reconocible del pueblo, pero lo que de verdad merece la pena está bajo el agua: sus fondos forman parte de la Reserva Marina de Cabo de Palos - Islas Hormigas, un espacio protegido de referencia en todo el Mediterráneo.
@@ -117,3 +125,5 @@ Si te pica la curiosidad por lo que puedes encontrarte bajo el agua, tengo posts
 <!--faq-->
 
 Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más vídeos de snorkel y buceo por la costa española, y échale un vistazo al resto del blog si estás planeando tu próxima escapada al Mediterráneo.
+
+<p class="guide__note">Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Faro,_Cabo_de_Palos,_Murcia,_Espa%C3%B1a,_2022-07-16,_DD_01.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Islas_Hormigas_-_buceo.jpg" target="_blank" rel="noopener">Marta T López</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Cabo_de_Palos_-_Faro_de_la_Isla_de_la_Hormiga.jpg" target="_blank" rel="noopener">Marta T López</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Cala_Fr%C3%ADa,_Reserva_Marina_de_Cabo_de_Palos_e_Islas_Hormigas_(6013944938).jpg" target="_blank" rel="noopener">amaianos</a> (CC BY 2.0).</p>

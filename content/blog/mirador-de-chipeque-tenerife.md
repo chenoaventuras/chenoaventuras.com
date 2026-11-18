@@ -58,6 +58,13 @@ A **más de 1.800 metros** de altura, en plena cumbre de Tenerife, hay un mirado
 
 Puedes ver cómo es en [este reel de Instagram](https://www.instagram.com/reel/DHCAhKOoGQG/), grabado en Tenerife.
 
+<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
+<ol class="guide__grid guide__grid--cuenca">
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mirador-de-chipeque-tenerife/teide.jpg" alt="El Teide visto desde el Mirador de Chipeque entre pinares" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Teide de frente</h3><p>A unos <strong>1.800 metros</strong>, con el valle de La Orotava a tus pies y el Teide enfrente.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mirador-de-chipeque-tenerife/nubes.jpg" alt="Mar de nubes sobre la costa norte de Tenerife entre pinos canarios" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El mar de nubes</h3><p>Cuando soplan los alisios, ves un <strong>manto blanco</strong> por debajo de ti. Rodeado de pinar canario.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/mirador-de-chipeque-tenerife/estrellas.jpg" alt="Vía Láctea en el cielo nocturno desde el Mirador de Chipeque" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las estrellas</h3><p>Por la altura y la poca luz, es un gran sitio para ver la <strong>Vía Láctea</strong> en verano. Lleva abrigo.</p></div></li>
+</ol>
+
 ## Lo básico
 
 - **Dónde:** en la carretera **TF-24** (carretera de La Esperanza), hacia el **km 26**, camino del Teide.
@@ -103,3 +110,5 @@ Desde **La Laguna**, sube por la **TF-24** hacia La Esperanza y el Teide. Hacia 
 <!--faq-->
 
 ¿Conocías el Mirador de Chipeque? Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para descubrir más rincones de Canarias, y échale un vistazo al resto del blog.
+
+<p class="guide__note">Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:20250704_Mirador_de_Chipeque_01.jpg" target="_blank" rel="noopener">Flocci Nivis</a> (CC BY 4.0) · <a href="https://commons.wikimedia.org/wiki/File:At_Tenerife_2019_024.jpg" target="_blank" rel="noopener">Mike Peel</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:V%C3%ADa_L%C3%A1ctea_desde_el_Mirador_de_Chipeque.jpg" target="_blank" rel="noopener">Ele.photo</a> (CC BY-SA 4.0).</p>
