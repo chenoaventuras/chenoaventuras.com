@@ -9,7 +9,7 @@ lat: 41.9168
 lng: -4.7806
 coche: true
 excerpt: 'Un castillo del siglo XV que parece de cuento, con una colección de arte y antigüedades dentro, y un pueblo de soportales de madera en plena Tierra de Campos, a media hora de Valladolid y Palencia.'
-cover: /assets/img/blog/castillo-de-ampudia/portada.jpg
+cover: /assets/img/blog/castillo-de-ampudia/portada.webp
 tags:
   - Pueblos
   - Castilla y León
@@ -51,11 +51,11 @@ Te cuento qué ver 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Ampudia</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/castillo.jpg" alt="Camino empedrado hacia el castillo de Ampudia con la torre del homenaje" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El castillo</h3><p>Torres almenadas, foso y una <strong>torre del homenaje</strong> que se ve desde lejos. Es Monumento Nacional desde 1931.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/puerta.jpg" alt="Puerta de entrada al castillo de Ampudia con cañones antiguos a los lados" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La colección Fontaneda</h3><p>Eugenio Fontaneda compró el castillo en 1960 y lo llenó de <strong>arqueología, arte sacro, juguetes</strong> y objetos antiguos.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/soportales.jpg" alt="Soportales con columnas de madera en la calle Corredera de Ampudia" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La calle Corredera</h3><p>Una calle larguísima de <strong>soportales con columnas de madera y piedra</strong>. Pasear por aquí es volver atrás en el tiempo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/casas.jpg" alt="Casa con entramado de madera y soportales en Ampudia" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las casas de entramado</h3><p>Casas de <strong>madera y adobe</strong> con soportales, típicas de Tierra de Campos.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/colegiata.jpg" alt="Colegiata de San Miguel de Ampudia con su alta torre" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Giralda de Campos</h3><p>La torre de la <strong>colegiata de San Miguel</strong> es tan alta y esbelta que la llaman así. Se ve desde kilómetros.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/castillo.webp" alt="Camino empedrado hacia el castillo de Ampudia con la torre del homenaje" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El castillo</h3><p>Torres almenadas, foso y una <strong>torre del homenaje</strong> que se ve desde lejos. Es Monumento Nacional desde 1931.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/puerta.webp" alt="Puerta de entrada al castillo de Ampudia con cañones antiguos a los lados" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La colección Fontaneda</h3><p>Eugenio Fontaneda compró el castillo en 1960 y lo llenó de <strong>arqueología, arte sacro, juguetes</strong> y objetos antiguos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/soportales.webp" alt="Soportales con columnas de madera en la calle Corredera de Ampudia" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La calle Corredera</h3><p>Una calle larguísima de <strong>soportales con columnas de madera y piedra</strong>. Pasear por aquí es volver atrás en el tiempo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/casas.webp" alt="Casa con entramado de madera y soportales en Ampudia" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Las casas de entramado</h3><p>Casas de <strong>madera y adobe</strong> con soportales, típicas de Tierra de Campos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-ampudia/colegiata.webp" alt="Colegiata de San Miguel de Ampudia con su alta torre" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>La Giralda de Campos</h3><p>La torre de la <strong>colegiata de San Miguel</strong> es tan alta y esbelta que la llaman así. Se ve desde kilómetros.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Ampudia</h2></div>

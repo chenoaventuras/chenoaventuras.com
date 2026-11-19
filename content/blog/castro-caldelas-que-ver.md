@@ -9,7 +9,7 @@ lat: 42.3756
 lng: -7.4153
 coche: true
 excerpt: 'Un pueblo de piedra coronado por un castillo del siglo XIV en plena Ribeira Sacra, a un paso de los Cañones del Sil. Qué ver, horario del castillo y cómo combinarlo con el barco.'
-cover: /assets/img/blog/castro-caldelas-que-ver/portada.jpg
+cover: /assets/img/blog/castro-caldelas-que-ver/portada.webp
 tags:
   - Pueblos
   - Galicia
@@ -51,11 +51,11 @@ Te cuento qué ver 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Castro Caldelas</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/castillo.jpg" alt="Garitas cilíndricas de piedra en lo alto del castillo de Castro Caldelas" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El castillo</h3><p>Del <strong>siglo XIV</strong>, en la parte alta del pueblo. Dentro hay un museo etnográfico y la oficina de turismo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/patio.jpg" alt="Patio interior del castillo de Castro Caldelas con la torre" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La torre y la muralla</h3><p>Sube a la <strong>torre del homenaje</strong> y recorre la muralla. Las vistas son lo mejor de la visita.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/vistas.jpg" alt="Valles verdes de la Ribeira Sacra vistos desde el castillo de Castro Caldelas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Desde arriba ves los <strong>valles de la Ribeira Sacra</strong>, con montes, bosques y viñedos.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/portada.jpg" alt="Casas del pueblo de Castro Caldelas vistas desde el castillo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El pueblo</h3><p>Casas de <strong>granito y pizarra</strong> que bajan por la ladera desde el castillo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/plaza.jpg" alt="Plaza de piedra con soportales en Castro Caldelas" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las plazas</h3><p>Plazas empedradas con casas de piedra y soportales. Busca también la <strong>Torre del Reloj</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/castillo.webp" alt="Garitas cilíndricas de piedra en lo alto del castillo de Castro Caldelas" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El castillo</h3><p>Del <strong>siglo XIV</strong>, en la parte alta del pueblo. Dentro hay un museo etnográfico y la oficina de turismo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/patio.webp" alt="Patio interior del castillo de Castro Caldelas con la torre" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La torre y la muralla</h3><p>Sube a la <strong>torre del homenaje</strong> y recorre la muralla. Las vistas son lo mejor de la visita.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/vistas.webp" alt="Valles verdes de la Ribeira Sacra vistos desde el castillo de Castro Caldelas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las vistas</h3><p>Desde arriba ves los <strong>valles de la Ribeira Sacra</strong>, con montes, bosques y viñedos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/portada.webp" alt="Casas del pueblo de Castro Caldelas vistas desde el castillo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El pueblo</h3><p>Casas de <strong>granito y pizarra</strong> que bajan por la ladera desde el castillo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castro-caldelas-que-ver/plaza.webp" alt="Plaza de piedra con soportales en Castro Caldelas" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las plazas</h3><p>Plazas empedradas con casas de piedra y soportales. Busca también la <strong>Torre del Reloj</strong>.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Castro Caldelas</h2></div>

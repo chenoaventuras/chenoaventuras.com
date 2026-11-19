@@ -9,7 +9,7 @@ lat: 38.9667
 lng: -5.9578
 coche: true
 excerpt: 'Un pueblo pequeño de Extremadura con un teatro romano excavado en la ladera de un cerro, un castillo medieval en lo alto y un puente de piedra sobre el Guadiana. A unos 40 minutos de Mérida.'
-cover: /assets/img/blog/medellin-badajoz-que-ver/portada.jpg
+cover: /assets/img/blog/medellin-badajoz-que-ver/portada.webp
 tags:
   - Pueblos
   - Extremadura
@@ -51,11 +51,11 @@ Te cuento qué ver 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Medellín</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/teatro.jpg" alt="Gradas del teatro romano de Medellín con el castillo encima" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El teatro romano</h3><p>Construido a finales del <strong>siglo I a. C.</strong> en la ladera del cerro. Se excavó entre 2007 y 2011 y ganó el premio <strong>Europa Nostra</strong>.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/castillo.jpg" alt="Castillo de Medellín sobre un cerro con olivos" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El castillo</h3><p>Una fortaleza medieval con largas murallas sobre el cerro. Desde arriba se ve toda la <strong>vega del Guadiana</strong>.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/torre.jpg" alt="Torre del homenaje del castillo de Medellín con banderas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La torre del homenaje</h3><p>La torre más alta del castillo. Sube la cuesta con calma: la recompensa son <strong>las vistas</strong>.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/puente.jpg" alt="Vista aérea del río Guadiana con el puente viejo de Medellín" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El puente sobre el Guadiana</h3><p>Un puente de piedra del <strong>siglo XVII</strong>, de la época de Felipe IV, con una lápida que lo recuerda.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/vistas.jpg" alt="El cerro del castillo de Medellín y el pueblo junto al río" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El pueblo y la vega</h3><p>Casas blancas a los pies del cerro y el río al lado. En la plaza está la <strong>estatua de Hernán Cortés</strong>, que nació aquí.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/teatro.webp" alt="Gradas del teatro romano de Medellín con el castillo encima" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El teatro romano</h3><p>Construido a finales del <strong>siglo I a. C.</strong> en la ladera del cerro. Se excavó entre 2007 y 2011 y ganó el premio <strong>Europa Nostra</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/castillo.webp" alt="Castillo de Medellín sobre un cerro con olivos" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El castillo</h3><p>Una fortaleza medieval con largas murallas sobre el cerro. Desde arriba se ve toda la <strong>vega del Guadiana</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/torre.webp" alt="Torre del homenaje del castillo de Medellín con banderas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La torre del homenaje</h3><p>La torre más alta del castillo. Sube la cuesta con calma: la recompensa son <strong>las vistas</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/puente.webp" alt="Vista aérea del río Guadiana con el puente viejo de Medellín" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El puente sobre el Guadiana</h3><p>Un puente de piedra del <strong>siglo XVII</strong>, de la época de Felipe IV, con una lápida que lo recuerda.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/medellin-badajoz-que-ver/vistas.webp" alt="El cerro del castillo de Medellín y el pueblo junto al río" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El pueblo y la vega</h3><p>Casas blancas a los pies del cerro y el río al lado. En la plaza está la <strong>estatua de Hernán Cortés</strong>, que nació aquí.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Medellín</h2></div>
