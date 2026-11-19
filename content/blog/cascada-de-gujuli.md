@@ -9,7 +9,7 @@ lat: 42.983
 lng: -2.914
 coche: true
 excerpt: 'Una de las cascadas más altas del País Vasco: el arroyo Oyardo se lanza más de 100 metros a un cañón de roca junto al pueblo de Goiuri. Mirador gratis y paseo corto desde el aparcamiento.'
-cover: /assets/img/blog/cascada-de-gujuli/portada.jpg
+cover: /assets/img/blog/cascada-de-gujuli/portada.webp
 tags:
   - Spots
   - País Vasco
@@ -51,10 +51,10 @@ Te cuento qué ver 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la cascada de Gujuli</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-gujuli/cascada.jpg" alt="Cascada de Gujuli cayendo por una pared de roca entre árboles otoñales" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La cascada</h3><p>Un chorro que cae <strong>más de 100 metros</strong> por una pared de roca a capas. Con lluvia, el ruido se oye desde lejos.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-gujuli/canon.jpg" alt="Cañón de paredes de roca con la cascada de Goiuri al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El cañón</h3><p>El arroyo ha excavado un <strong>barranco de más de 100 metros</strong>. Desde arriba se ven las capas de roca.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-gujuli/mirador.jpg" alt="Mirador con barandilla de madera y panel junto al cañón de Gujuli" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El mirador</h3><p>Barandilla de madera y <strong>paneles informativos</strong>. Es el mejor punto para la foto.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-gujuli/bosque.jpg" alt="La cascada de Gujuli vista entre árboles y ramas" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El bosque</h3><p>El camino pasa entre <strong>robles y hayas</strong>. En otoño, los colores son preciosos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-gujuli/cascada.webp" alt="Cascada de Gujuli cayendo por una pared de roca entre árboles otoñales" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La cascada</h3><p>Un chorro que cae <strong>más de 100 metros</strong> por una pared de roca a capas. Con lluvia, el ruido se oye desde lejos.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-gujuli/canon.webp" alt="Cañón de paredes de roca con la cascada de Goiuri al fondo" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El cañón</h3><p>El arroyo ha excavado un <strong>barranco de más de 100 metros</strong>. Desde arriba se ven las capas de roca.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-gujuli/mirador.webp" alt="Mirador con barandilla de madera y panel junto al cañón de Gujuli" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El mirador</h3><p>Barandilla de madera y <strong>paneles informativos</strong>. Es el mejor punto para la foto.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-gujuli/bosque.webp" alt="La cascada de Gujuli vista entre árboles y ramas" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El bosque</h3><p>El camino pasa entre <strong>robles y hayas</strong>. En otoño, los colores son preciosos.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la cascada de Gujuli</h2></div>

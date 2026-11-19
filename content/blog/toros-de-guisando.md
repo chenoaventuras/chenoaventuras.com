@@ -9,7 +9,7 @@ lat: 40.3545
 lng: -4.4016
 coche: true
 excerpt: 'Cuatro animales de granito tallados hace más de dos mil años, en fila en un prado de Ávila. Aquí se firmó en 1468 el pacto que convirtió a Isabel en heredera de Castilla. A una hora de Madrid.'
-cover: /assets/img/blog/toros-de-guisando/portada.jpg
+cover: /assets/img/blog/toros-de-guisando/portada.webp
 tags:
   - Curiosidades
   - Castilla y León
@@ -51,9 +51,9 @@ Te cuento qué ver 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en los Toros de Guisando</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/toros-de-guisando/fila.jpg" alt="Los cuatro Toros de Guisando en fila en un recinto de arena entre árboles" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Los cuatro verracos</h3><p>Cuatro esculturas en fila, mirando hacia el mismo lado. Son <strong>verracos</strong>, una escultura típica de los vetones.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/toros-de-guisando/detalle.jpg" alt="Detalle de uno de los Toros de Guisando con líquenes en el granito" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>¿Toros o cerdos?</h3><p>Se discute si son <strong>toros o verracos</strong> (cerdos). Fíjate en las formas y decide tú.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/toros-de-guisando/granito.jpg" alt="Toro de Guisando de granito de perfil" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El granito</h3><p>Tallados en un solo bloque de <strong>granito</strong>, con los líquenes de siglos encima.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/toros-de-guisando/fila.webp" alt="Los cuatro Toros de Guisando en fila en un recinto de arena entre árboles" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Los cuatro verracos</h3><p>Cuatro esculturas en fila, mirando hacia el mismo lado. Son <strong>verracos</strong>, una escultura típica de los vetones.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/toros-de-guisando/detalle.webp" alt="Detalle de uno de los Toros de Guisando con líquenes en el granito" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>¿Toros o cerdos?</h3><p>Se discute si son <strong>toros o verracos</strong> (cerdos). Fíjate en las formas y decide tú.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/toros-de-guisando/granito.webp" alt="Toro de Guisando de granito de perfil" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El granito</h3><p>Tallados en un solo bloque de <strong>granito</strong>, con los líquenes de siglos encima.</p></div></li>
 </ol>
 
 <div class="guide__legend"><h3>👑 El Tratado de los Toros de Guisando</h3><p>En septiembre de 1468, junto a estas esculturas, el rey <strong>Enrique IV</strong> reconoció a su hermanastra <strong>Isabel</strong> como heredera del trono, por delante de su hija Juana. Fue el primer paso para que Isabel llegara a reina de Castilla. Cada verano, El Tiemblo lo recuerda con unas jornadas medievales.</p></div>
