@@ -11,7 +11,7 @@ ZONAS = {
   titulo_intro="La Navidad más grande<br>de Madrid",
   intro=["Las **Mágicas Navidades** llenan el Recinto Ferial de Torrejón de Ardoz de luces, espectáculos y atracciones: **Papá Noel vuela cada noche**, hay una **pista de hielo sobre un lago**, una noria de 42 metros y esculturas de hielo gigantes.",
          "En esta guía tienes todo para ir: qué incluye la entrada, qué se paga aparte, el calendario con los Días de la Familia y cómo llegar."],
-  tips=[("🎟️ Compra antes", "Las entradas solo se venden en la **web oficial** y valen para un día concreto. El aforo es limitado."),
+  tips=[("🎟️ Compra antes", "Compra las entradas online en [Civitatis](https://www.civitatis.com/es/torrejon-de-ardoz/entrada-magicas-navidades-torrejon-ardoz/?aid=110968): valen para un día concreto y el aforo es limitado."),
         ("🚆 Ve en tren", "La estación de **Cercanías** (C-2 y C-7) está a unos **100 metros** del recinto."),
         ("💰 Ahorra", "Los **Días de la Familia** la entrada cuesta **5 €** y las experiencias, menos.")],
   lugares=["magicas-navidades-torrejon"], eventos=True,
