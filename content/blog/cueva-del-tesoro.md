@@ -1,7 +1,7 @@
 ---
 title: 'Cueva del Tesoro (Málaga): la cueva que se formó bajo el mar'
 seoTitle: 'Cueva del Tesoro: entradas, horario y la leyenda del tesoro'
-seoDescription: 'Cueva del Tesoro en Rincón de la Victoria (Málaga): una de las tres cuevas de origen marino conocidas en el mundo. Precio (4,65 €), horario, reserva obligatoria y la leyenda del tesoro almorávide.'
+seoDescription: 'Cueva del Tesoro en Rincón de la Victoria (Málaga): una de las tres cuevas de origen marino conocidas en el mundo. Precio (6 €), horario, reserva obligatoria y la leyenda del tesoro almorávide.'
 date: 2026-11-11T13:00:00.000Z
 lugar: 'Cueva del Tesoro'
 provincia: 'Málaga'
@@ -24,7 +24,7 @@ actividadesTitulo: 'Entradas y planes cerca'
 faqTitulo: "Dudas sobre la Cueva del Tesoro"
 faq:
   - q: "¿Cuánto cuesta la entrada a la Cueva del Tesoro?"
-    a: "4,65 € para adultos de 15 a 64 años y 2,75 € para niños de 4 a 14, mayores de 65 y estudiantes. Los menores de 4 años entran gratis."
+    a: "6 € para adultos y 4 € para niños de 4 a 14 años. Los menores de 4 años entran gratis."
   - q: "¿Hay que reservar para ver la Cueva del Tesoro?"
     a: "Sí. La reserva previa es obligatoria por seguridad, en la web de turismo de Rincón de la Victoria o por teléfono (952 40 61 62)."
   - q: "¿Qué horario tiene la Cueva del Tesoro?"
@@ -45,12 +45,12 @@ La mayoría de las cuevas se forman cuando el agua de lluvia va disolviendo la r
 Está en **Rincón de la Victoria**, a 15 minutos de Málaga. Te cuento cómo es por dentro, cuánto cuesta, cómo reservar y la historia del tesoro 👇
 
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
-<div class="etiles"><div><b>🌊</b><span>Origen marino</span></div><div><b>💰</b><span>Leyenda del tesoro</span></div><div><b>💧</b><span>Lagos interiores</span></div><div><b>🦴</b><span>Prehistoria</span></div><div><b>🎟️</b><span>4,65 €</span></div></div>
+<div class="etiles"><div><b>🌊</b><span>Origen marino</span></div><div><b>💰</b><span>Leyenda del tesoro</span></div><div><b>💧</b><span>Lagos interiores</span></div><div><b>🦴</b><span>Prehistoria</span></div><div><b>🎟️</b><span>6 €</span></div></div>
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Precio, horario y reserva</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Entradas</h3><p>La <strong>reserva es obligatoria</strong>, en la web de turismo de Rincón de la Victoria o por teléfono.</p>
-<ul class="guide__prices"><li><span>Adultos (15-64 años)</span><b>4,65 €</b></li><li><span>Niños, mayores y estudiantes</span><b>2,75 €</b></li><li><span>Menores de 4 años</span><b>Gratis</b></li></ul>
+<ul class="guide__prices"><li><span>Adultos</span><b>6 €</b></li><li><span>Niños (4-14 años)</span><b>4 €</b></li><li><span>Menores de 4 años</span><b>Gratis</b></li></ul>
 </div>
 <div class="guide__tip"><h3>🕒 Horario</h3><p><strong>Octubre a abril:</strong> 10:00-14:00 y 15:00-18:00. <strong>Mayo a septiembre:</strong> 10:30-14:00 y 16:30-20:00. El último pase es una hora antes de cada cierre.</p></div>
 <div class="guide__tip"><h3>🆓 Gratis</h3><p>De lunes a viernes en la <strong>primera hora</strong> de apertura (con reserva, hasta 25 personas) y el 28 de febrero, el 6 de junio y el 27 de septiembre.</p></div>
@@ -78,7 +78,7 @@ Está en **Rincón de la Victoria**, a 15 minutos de Málaga. Te cuento cómo es
 <!--actividades-->
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Cueva del Tesoro</h2></div>
-<div class="guide__howto"><p>Está en la <strong>urbanización del Cantal</strong>, en La Cala del Moral (Rincón de la Victoria), a unos <strong>15 minutos en coche</strong> del centro de Málaga por la A-7 o por la carretera de la costa. Tiene <strong>aparcamiento</strong> propio.</p><p>En transporte público, los autobuses interurbanos que van de Málaga a Rincón de la Victoria paran en La Cala del Moral; desde allí hay un paseo cuesta arriba.</p><p><strong>Reserva sin líos:</strong> también puedes sacar la <a href="https://www.civitatis.com/es/rincon-de-la-victoria/entrada-cueva-tesoro/?aid=110968" target="_blank" rel="noopener sponsored">entrada a la Cueva del Tesoro en Civitatis</a>, que cuesta algo más que la oficial.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=36.7198,-4.2976" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://entradas.turismoenrincon.es/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Reservar entradas oficiales</a></div></div>
+<div class="guide__howto"><p>Está en la <strong>urbanización del Cantal</strong>, en La Cala del Moral (Rincón de la Victoria), a unos <strong>15 minutos en coche</strong> del centro de Málaga por la A-7 o por la carretera de la costa. Tiene <strong>aparcamiento</strong> propio.</p><p>En transporte público, los autobuses interurbanos que van de Málaga a Rincón de la Victoria paran en La Cala del Moral; desde allí hay un paseo cuesta arriba.</p><p><strong>Reserva sin líos:</strong> también puedes sacar la <a href="https://www.civitatis.com/es/rincon-de-la-victoria/entrada-cueva-tesoro/?aid=110968" target="_blank" rel="noopener sponsored">entrada a la Cueva del Tesoro en Civitatis</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=36.7198,-4.2976" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a><a class="btn guide__mapbtn btn--ghost" href="https://entradas.turismoenrincon.es/" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg> Reservar entradas oficiales</a></div></div>
 
 <p>Combínala en el mismo día con <a href="/blog/malaga-que-ver.html">Málaga</a> y su <a href="/blog/alcazaba-de-malaga.html">Alcazaba</a>, o sigue por la costa hacia <a href="/blog/frigiliana-que-ver.html">Frigiliana</a>.</p>
 
