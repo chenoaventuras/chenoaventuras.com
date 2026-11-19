@@ -32,6 +32,12 @@ faq:
     a: "Saldaña y su museo, Carrión de los Condes y Frómista en el Camino de Santiago, el Canal de Castilla y la Montaña Palentina con Aguilar de Campoo."
 guia: /assets/guias/guia-palencia-chenoaventuras.pdf
 guiaTitulo: 'Guía Palencia en PDF'
+actividades:
+  - t: "Free tour por Palencia"
+    u: "https://www.civitatis.com/es/palencia/free-tour-palencia/"
+  - t: "Visita guiada por la catedral de Palencia"
+    u: "https://www.civitatis.com/es/palencia/visita-guiada-catedral/"
+actividadesTitulo: 'Actividades en Palencia'
 ---
 Verano de 1968. Un agricultor de Palencia, **Javier Cortes**, decide allanar un pequeño cerro de sus tierras para poder regar mejor. Al poco de empezar, los trabajadores dan con algo duro a unos 65 centímetros de profundidad: un **suelo de mosaico romano**. Siguieron excavando y apareció un palacio entero.
 

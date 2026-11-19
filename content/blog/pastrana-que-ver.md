@@ -32,6 +32,12 @@ faq:
     a: "Brihuega y sus campos de lavanda, Sigüenza y los pueblos negros de Guadalajara, además de los embalses de Entrepeñas y Buendía, el llamado mar de Castilla."
 guia: /assets/guias/guia-guadalajara-chenoaventuras.pdf
 guiaTitulo: 'Guía Guadalajara en PDF'
+actividades:
+  - t: "Free tour por el Alcalá de Henares desconocido"
+    u: "https://www.civitatis.com/es/alcala-de-henares/free-tour-alcala-henares-desconocida/"
+  - t: "Ruta de Cervantes por Alcalá de Henares"
+    u: "https://www.civitatis.com/es/alcala-de-henares/ruta-cervantes/"
+actividadesTitulo: 'Actividades cerca de Pastrana'
 ---
 Un palacio renacentista donde una princesa con parche en el ojo pasó sus últimos años presa por orden del rey, una plaza que debe su nombre a esa historia y unos tapices góticos que muchos museos querrían para sí. **Pastrana**, en plena **Alcarria** de Guadalajara, es una villa ducal de calles de piedra con más historia que muchas ciudades.
 

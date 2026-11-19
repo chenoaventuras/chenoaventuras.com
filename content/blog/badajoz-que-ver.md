@@ -28,6 +28,14 @@ faq:
     a: "En primavera y otoño. En verano hace mucho calor."
 guia: /assets/guias/guia-badajoz-chenoaventuras.pdf
 guiaTitulo: 'Guía Badajoz en PDF'
+actividades:
+  - t: "Free tour por Badajoz"
+    u: "https://www.civitatis.com/es/badajoz/free-tour-badajoz/"
+  - t: "Tour de los castillos de Badajoz y Elvas"
+    u: "https://www.civitatis.com/es/badajoz/tour-castillos-badajoz-elvas/"
+  - t: "Tour de misterios y leyendas de Badajoz"
+    u: "https://www.civitatis.com/es/badajoz/tour-misterios-leyendas-badajoz/"
+actividadesTitulo: 'Actividades en Badajoz'
 ---
 Una **alcazaba almohade** con una torre albarrana, una plaza con casas pintadas de rojo, un puente sobre el Guadiana y la frontera con Portugal a pocos kilómetros. **Badajoz** es una ciudad desconocida que se ve bien en **un día** y que tiene museos gratuitos. Te lo cuento **por franjas del día**, con qué ver, curiosidades, dónde comer y **actividades para reservar**.
 
