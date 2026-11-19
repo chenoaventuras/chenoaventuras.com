@@ -30,6 +30,8 @@ faq:
     a: "La visita al manantial es corta, de unos 30 minutos. Con el paseo junto al río y el pueblo, calcula una hora."
   - q: "¿Cómo llegar a Fontibre?"
     a: "En coche, a pocos minutos de Reinosa. Hay aparcamiento junto al nacimiento."
+guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria en PDF'
 ---
 Uno de los ríos más importantes de España empieza aquí, en una **poza verde** rodeada de árboles. En **Fontibre**, a pocos minutos de **Reinosa**, brota el **Ebro**, que recorrerá unos **910 kilómetros** hasta el Mediterráneo. Es un paseo corto y bonito, con un pequeño misterio incluido: ¿nace de verdad aquí?
 

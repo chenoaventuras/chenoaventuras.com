@@ -30,6 +30,8 @@ faq:
     a: "Según la Región de Murcia, tiene agua potable y aseos. No esperes chiringuitos grandes: es una cala tranquila."
   - q: "¿Qué hay cerca de Cala Reona?"
     a: "El Parque Regional de Calblanque empieza justo al lado, con calas vírgenes y senderos. El faro de Cabo de Palos está a unos minutos en coche."
+guia: /assets/guias/guia-murcia-chenoaventuras.pdf
+guiaTitulo: 'Guía Región de Murcia en PDF'
 ---
 En el extremo de **Cabo de Palos**, justo donde empieza el **Parque Regional de Calblanque**, hay una cala en forma de media luna con **arena fina dorada** y aguas muy tranquilas. Es **Cala Reona**: más recogida que las playas de La Manga y con algo que pocas calas tienen, el **faro de Cabo de Palos** a la vista desde los senderos que la rodean.
 

@@ -30,6 +30,8 @@ faq:
     a: "Sí, en determinadas fechas y con visitas organizadas, incluso teatralizadas. Los horarios cambian según la temporada: consúltalos con el Ayuntamiento de la Hermandad de Campoo de Suso antes de ir."
   - q: "¿Qué es el Poblado Cántabro de Argüeso?"
     a: "Una reconstrucción de un poblado de los antiguos cántabros, junto al castillo, que se visita con guía."
+guia: /assets/guias/guia-cantabria-chenoaventuras.pdf
+guiaTitulo: 'Guía Cantabria en PDF'
 ---
 En el sur de Cantabria, donde los valles verdes ya se parecen a Castilla, un **castillo de torres almenadas** corona un cerro sobre el pueblo de **Argüeso**. Vigilaba el antiguo camino entre la costa y la meseta. Al lado tienes un poblado cántabro reconstruido y, en invierno, la nieve de **Alto Campoo** a pocos kilómetros.
 
