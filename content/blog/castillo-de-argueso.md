@@ -9,7 +9,7 @@ lat: 43.0105
 lng: -4.2372
 coche: true
 excerpt: 'Un castillo medieval de torres almenadas sobre un cerro de Campoo, en el sur de Cantabria, con un poblado cántabro reconstruido al lado y la nieve de Alto Campoo a pocos kilómetros.'
-cover: /assets/img/blog/castillo-de-argueso/portada.jpg
+cover: /assets/img/blog/castillo-de-argueso/portada.webp
 tags:
   - Spots
   - Cantabria
@@ -49,10 +49,10 @@ Te cuento qué ver 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Argüeso</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-argueso/castillo.jpg" alt="Castillo de Argüeso con sus dos torres almenadas y el pueblo detrás, visto desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El castillo</h3><p>Dos <strong>torres almenadas</strong> unidas por murallas sobre un cerro a 979 metros. Perteneció a la familia <strong>Mendoza</strong>.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-argueso/murallas.jpg" alt="Murallas y patio del castillo de Argüeso desde arriba" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las murallas</h3><p>El recinto encierra un patio entre las torres. Controlaba el paso entre la costa y <strong>Castilla</strong> por el valle del Saja.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-argueso/pueblo.jpg" alt="El castillo de Argüeso y las casas del pueblo entre prados" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El pueblo de Argüeso</h3><p>Casas de piedra y tejados rojos a los pies del cerro, rodeadas de <strong>prados y montaña</strong>.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-argueso/caballos.jpg" alt="Caballos comiendo heno en un prado de Campoo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El valle de Campoo</h3><p>Caballos y vacas pastando por todas partes. Es la Cantabria de <strong>montaña</strong>, muy distinta a la costa.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-argueso/castillo.webp" alt="Castillo de Argüeso con sus dos torres almenadas y el pueblo detrás, visto desde el aire" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El castillo</h3><p>Dos <strong>torres almenadas</strong> unidas por murallas sobre un cerro a 979 metros. Perteneció a la familia <strong>Mendoza</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-argueso/murallas.webp" alt="Murallas y patio del castillo de Argüeso desde arriba" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las murallas</h3><p>El recinto encierra un patio entre las torres. Controlaba el paso entre la costa y <strong>Castilla</strong> por el valle del Saja.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-argueso/pueblo.webp" alt="El castillo de Argüeso y las casas del pueblo entre prados" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El pueblo de Argüeso</h3><p>Casas de piedra y tejados rojos a los pies del cerro, rodeadas de <strong>prados y montaña</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/castillo-de-argueso/caballos.webp" alt="Caballos comiendo heno en un prado de Campoo" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El valle de Campoo</h3><p>Caballos y vacas pastando por todas partes. Es la Cantabria de <strong>montaña</strong>, muy distinta a la costa.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cerca</span><h2>Qué combinar con el castillo</h2></div>

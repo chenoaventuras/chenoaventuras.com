@@ -8,7 +8,7 @@ provincia: 'Madrid'
 lat: 40.4229
 lng: -3.7058
 excerpt: 'La iglesia del Monasterio de San Plácido, en Malasaña, guarda una Anunciación de Claudio Coello, un Cristo yacente de Gregorio Fernández y una cúpula pintada. Para ella pintó Velázquez su famoso Cristo crucificado.'
-cover: /assets/img/blog/monasterio-san-placido-madrid/portada.jpg
+cover: /assets/img/blog/monasterio-san-placido-madrid/portada.webp
 tags:
   - Spots
   - Madrid
@@ -48,10 +48,10 @@ Estuvo cerrada al público durante mucho tiempo y ahora se puede visitar. Te cue
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en San Plácido</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-san-placido-madrid/anunciacion.jpg" alt="Anunciación de Claudio Coello en el retablo mayor de San Plácido" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Anunciación de Claudio Coello</h3><p>El gran cuadro del <strong>retablo mayor</strong>. Coello firmó también los dos retablos de los brazos del crucero.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-san-placido-madrid/cristo-yacente.jpg" alt="Cristo yacente de Gregorio Fernández en su urna dorada en San Plácido" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Cristo yacente</h3><p>Una talla de <strong>Gregorio Fernández</strong>, uno de los grandes escultores del barroco español, en su urna dorada.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-san-placido-madrid/cupula.jpg" alt="Cúpula decorada de la iglesia de San Plácido vista desde abajo" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La cúpula</h3><p>Frescos en la cúpula, el presbiterio y la nave. Algunas pinturas se atribuyen a <strong>Francisco de Ricci</strong>.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-san-placido-madrid/inmaculada.jpg" alt="Talla de la Inmaculada en un retablo dorado de San Plácido" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los retablos laterales</h3><p>Retablos dorados con tallas como esta <strong>Inmaculada</strong>. Fíjate en los detalles de cada capilla.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-san-placido-madrid/anunciacion.webp" alt="Anunciación de Claudio Coello en el retablo mayor de San Plácido" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Anunciación de Claudio Coello</h3><p>El gran cuadro del <strong>retablo mayor</strong>. Coello firmó también los dos retablos de los brazos del crucero.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-san-placido-madrid/cristo-yacente.webp" alt="Cristo yacente de Gregorio Fernández en su urna dorada en San Plácido" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Cristo yacente</h3><p>Una talla de <strong>Gregorio Fernández</strong>, uno de los grandes escultores del barroco español, en su urna dorada.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-san-placido-madrid/cupula.webp" alt="Cúpula decorada de la iglesia de San Plácido vista desde abajo" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La cúpula</h3><p>Frescos en la cúpula, el presbiterio y la nave. Algunas pinturas se atribuyen a <strong>Francisco de Ricci</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/monasterio-san-placido-madrid/inmaculada.webp" alt="Talla de la Inmaculada en un retablo dorado de San Plácido" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los retablos laterales</h3><p>Retablos dorados con tallas como esta <strong>Inmaculada</strong>. Fíjate en los detalles de cada capilla.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Historia</span><h2>De convento benedictino a monumento</h2></div>

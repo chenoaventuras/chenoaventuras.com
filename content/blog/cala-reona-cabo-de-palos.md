@@ -9,7 +9,7 @@ lat: 37.6264
 lng: -0.7066
 coche: true
 excerpt: 'Una cala de arena dorada y aguas tranquilas en Cabo de Palos, a la entrada de Calblanque, con el faro a la vista y senderos por la costa de roca oscura.'
-cover: /assets/img/blog/cala-reona-cabo-de-palos/portada.jpg
+cover: /assets/img/blog/cala-reona-cabo-de-palos/portada.webp
 tags:
   - Spots
   - Región de Murcia
@@ -49,10 +49,10 @@ Te cuento cómo llegar y qué hacer 👇
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Cala Reona</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cala-reona-cabo-de-palos/cala.jpg" alt="Cala Reona con su arena dorada en forma de media luna y Cabo de Palos al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La cala</h3><p>Arena fina en forma de <strong>media luna</strong> y agua sin apenas oleaje. Perfecta para ir con niños.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cala-reona-cabo-de-palos/faro.jpg" alt="El faro de Cabo de Palos visto a lo lejos desde la costa de Cala Reona" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las vistas al faro</h3><p>Desde los senderos de alrededor se ve el <strong>faro de Cabo de Palos</strong>. Al atardecer, la foto es preciosa.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cala-reona-cabo-de-palos/acantilado.jpg" alt="Costa rocosa y mar azul junto a Cala Reona" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La costa de roca</h3><p>A los lados de la cala, <strong>rocas oscuras</strong> y pequeñas calitas. El fondo marino es una reserva muy rica.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cala-reona-cabo-de-palos/calblanque.jpg" alt="Acantilados de roca oscura al atardecer en la entrada de Calblanque" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La entrada a Calblanque</h3><p>Aquí empieza el <strong>Parque Regional de Calblanque</strong>: calas vírgenes sin servicios. Lleva agua.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cala-reona-cabo-de-palos/cala.webp" alt="Cala Reona con su arena dorada en forma de media luna y Cabo de Palos al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La cala</h3><p>Arena fina en forma de <strong>media luna</strong> y agua sin apenas oleaje. Perfecta para ir con niños.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cala-reona-cabo-de-palos/faro.webp" alt="El faro de Cabo de Palos visto a lo lejos desde la costa de Cala Reona" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las vistas al faro</h3><p>Desde los senderos de alrededor se ve el <strong>faro de Cabo de Palos</strong>. Al atardecer, la foto es preciosa.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cala-reona-cabo-de-palos/acantilado.webp" alt="Costa rocosa y mar azul junto a Cala Reona" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La costa de roca</h3><p>A los lados de la cala, <strong>rocas oscuras</strong> y pequeñas calitas. El fondo marino es una reserva muy rica.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cala-reona-cabo-de-palos/calblanque.webp" alt="Acantilados de roca oscura al atardecer en la entrada de Calblanque" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La entrada a Calblanque</h3><p>Aquí empieza el <strong>Parque Regional de Calblanque</strong>: calas vírgenes sin servicios. Lleva agua.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Cala Reona</h2></div>
