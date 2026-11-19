@@ -32,6 +32,8 @@ faq:
     a: "Así llaman a la torre de la colegiata de San Miguel de Ampudia, que se ve desde muy lejos en la llanura."
   - q: "¿Dónde está Ampudia?"
     a: "En el sur de la provincia de Palencia, en Tierra de Campos, a unos 25 km de Valladolid y otros tantos de Palencia."
+guia: /assets/guias/guia-palencia-chenoaventuras.pdf
+guiaTitulo: 'Guía Palencia en PDF'
 ---
 En mitad de la llanura de **Tierra de Campos** aparece un castillo de torres y almenas que parece sacado de un cuento. Es el **castillo de Ampudia**, del **siglo XV**, y lo mejor es que por dentro guarda una colección enorme de arte y antigüedades. Abajo, el pueblo tiene unas calles con **soportales de madera** que son de lo más bonito de Castilla.
 

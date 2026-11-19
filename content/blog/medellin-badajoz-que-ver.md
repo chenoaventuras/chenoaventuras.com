@@ -32,6 +32,8 @@ faq:
     a: "Nació aquí. En la plaza que lleva su nombre hay una estatua suya, y allí está también la oficina de turismo."
   - q: "¿Cuánto cuesta visitar el teatro?"
     a: "La entrada es barata, de pocos euros, y cierra los lunes. Los precios y horarios cambian: confírmalos en la oficina de turismo de Medellín antes de ir."
+guia: /assets/guias/guia-badajoz-chenoaventuras.pdf
+guiaTitulo: 'Guía Badajoz en PDF'
 ---
 Pocos pueblos tienen algo así: un **teatro romano** excavado en la ladera de un cerro y, justo encima, un **castillo medieval** vigilando la vega del **Guadiana**. Es **Medellín**, en Badajoz, un pueblo pequeño con más de dos mil años de historia. El teatro estuvo escondido bajo tierra hasta hace muy poco.
 

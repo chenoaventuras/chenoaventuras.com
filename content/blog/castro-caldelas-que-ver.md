@@ -32,6 +32,8 @@ faq:
     a: "Sí. Desde Castro Caldelas sale el paseo en barco por los Cañones del Sil, y los miradores del cañón están cerca."
   - q: "¿Dónde aparcar en Castro Caldelas?"
     a: "En puentes y temporada alta, mejor en el aparcamiento del área de autocaravanas, a la entrada del pueblo."
+guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
+guiaTitulo: 'Guía Lugo y Ourense en PDF'
 ---
 En lo alto de un monte de la **Ribeira Sacra**, entre valles verdes y viñedos, un **castillo del siglo XIV** corona un pueblo de calles de piedra. Es **Castro Caldelas**, en Ourense, y es la puerta perfecta a los **Cañones del Sil**. Desde su torre ves media Galicia interior.
 

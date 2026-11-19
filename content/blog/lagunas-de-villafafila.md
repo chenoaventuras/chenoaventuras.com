@@ -32,6 +32,8 @@ faq:
     a: "Abre sobre todo de jueves o viernes a domingo y festivos, con horario de mañana y tarde que cambia según la temporada. Confírmalo antes de ir."
   - q: "¿Dónde está la Casa del Parque?"
     a: "En la carretera de Villalpando, a la salida de Villafáfila (Zamora)."
+guia: /assets/guias/guia-zamora-chenoaventuras.pdf
+guiaTitulo: 'Guía Zamora en PDF'
 ---
 En plena llanura de **Tierra de Campos**, en Zamora, hay unas **lagunas saladas** que en invierno se llenan de vida: miles de **gansos** llegan a pasar aquí los meses fríos, y en los campos de alrededor vive la **población de avutardas más importante del mundo**. Son las **Lagunas de Villafáfila**, uno de los mejores sitios de España para ver aves sin ser experto.
 

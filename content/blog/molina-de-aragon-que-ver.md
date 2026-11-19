@@ -32,6 +32,8 @@ faq:
     a: "Una torre de planta pentagonal, separada del castillo y unida a él por murallas. La que se ve hoy fue reconstruida en el siglo XIX."
   - q: "¿Cuánto se tarda en llegar desde Madrid?"
     a: "Unas dos horas y cuarto en coche, por la A-2 y la carretera de Alcolea del Pinar."
+guia: /assets/guias/guia-guadalajara-chenoaventuras.pdf
+guiaTitulo: 'Guía Guadalajara en PDF'
 ---
 Hay castillos que se ven desde lejos, y luego está el de **Molina de Aragón**: una fortaleza enorme de **piedra rojiza** con torres por todas partes, en lo alto de un cerro de Guadalajara. Abajo, el pueblo tiene un **puente viejo** sobre el río Gallo y un casco histórico de palacios e iglesias. Es una de esas escapadas que sorprenden.
 
