@@ -32,6 +32,8 @@ faq:
     a: "Un día entero. Hay museo, espectáculos y recorridos, y con niños se pasa rápido."
   - q: "¿Qué es el Territorio Dinópolis?"
     a: "Dinópolis Teruel es el parque principal, pero hay otros centros más pequeños repartidos por la provincia. La entrada de Teruel no los incluye."
+guia: /assets/guias/guia-teruel-chenoaventuras.pdf
+guiaTitulo: 'Guía Teruel en PDF'
 ---
 Teruel es una de las provincias de Europa con más **fósiles de dinosaurio**, y en la capital tienen un parque entero dedicado a ellos: **Dinópolis**. Hay un **museo paleontológico** con huesos reales encontrados en la provincia, réplicas a **tamaño real** por los jardines y un **tiranosaurio animatrónico** que impresiona a cualquiera. Es un plan de día completo, sobre todo con niños.
 

@@ -30,6 +30,8 @@ faq:
     a: "Ken Loach rodó aquí escenas de «Tierra y libertad» (1995). En el pueblo hay un paseo con su nombre."
   - q: "¿Dónde aparcar?"
     a: "Fuera de la muralla. El casco antiguo se recorre a pie."
+guia: /assets/guias/guia-teruel-chenoaventuras.pdf
+guiaTitulo: 'Guía Teruel en PDF'
 ---
 En el **Maestrazgo de Teruel**, en mitad de montes y barrancos, un pueblo entero de piedra sigue encerrado en su **muralla del siglo XIII**. Es **Mirambel**, y se entra por el **Portal de las Monjas**, con unas **celosías de yeso** preciosas por las que las monjas miraban a la calle sin ser vistas. Está entre los **Pueblos más bonitos de España**.
 

@@ -32,6 +32,8 @@ faq:
     a: "La Romería de la Reina de los Ángeles es cada 8 de septiembre. Es la que más gente reúne en la comarca."
   - q: "¿Cómo se llega?"
     a: "En coche desde Alájar, por una carretera corta que sube a la peña. Hay aparcamiento arriba."
+guia: /assets/guias/guia-huelva-chenoaventuras.pdf
+guiaTitulo: 'Guía Huelva en PDF'
 ---
 Encima del pueblo de **Alájar**, en plena **Sierra de Aracena**, una gran roca hace de balcón sobre los bosques de encinas y castaños. Es la **Peña de Arias Montano**, con una ermita, unos **campanarios blancos** y vistas que llegan muy lejos. Aquí se retiraba a estudiar **Benito Arias Montano**, hombre de confianza de **Felipe II**.
 

@@ -32,6 +32,8 @@ faq:
     a: "No. Están al aire libre y se pueden ver gratis."
   - q: "¿Dónde están?"
     a: "En el término de El Tiemblo (Ávila), junto a la carretera, a algo más de una hora de Madrid."
+guia: /assets/guias/guia-avila-chenoaventuras.pdf
+guiaTitulo: 'Guía Ávila en PDF'
 ---
 En un prado de **El Tiemblo**, en Ávila, hay **cuatro animales de granito** en fila, tallados hace más de dos mil años. Son los **Toros de Guisando**, y no solo son de lo más curioso de la prehistoria española: junto a ellos, en **1468**, se firmó el pacto que convirtió a **Isabel** —la futura Isabel la Católica— en heredera de Castilla.
 

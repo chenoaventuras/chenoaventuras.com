@@ -32,6 +32,8 @@ faq:
     a: "No. El mirador es gratuito y se puede visitar todo el año, sin horario."
   - q: "¿Cuánto hay que andar?"
     a: "Desde el aparcamiento hasta el mirador hay un paseo corto y llano, de menos de un kilómetro."
+guia: /assets/guias/guia-alava-chenoaventuras.pdf
+guiaTitulo: 'Guía Álava en PDF'
 ---
 A media hora de Vitoria, junto al pequeño pueblo de **Goiuri**, el arroyo **Oyardo** llega al borde de un cañón y se lanza al vacío. Son **más de 100 metros** de caída entre paredes de roca, una de las **cascadas más altas del País Vasco**. Y lo mejor: el mirador está a un paseo corto del coche. Ahora, en otoño e invierno, es cuando lleva más agua.
 
