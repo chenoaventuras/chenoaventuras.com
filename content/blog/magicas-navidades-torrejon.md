@@ -148,9 +148,8 @@ Aquí tienes todo: fechas, horarios, precios, qué incluye la entrada, qué se p
 
 <!--faq-->
 
-<!-- ENTRADAS: de momento enlace a la web oficial. Cuando Civitatis tenga fechas de esta temporada, cambiar por
-     https://www.civitatis.com/es/torrejon-de-ardoz/entrada-magicas-navidades-torrejon-ardoz/ (afiliado). -->
-<div class="article__callout article__callout--booking" id="entradas">🎟️ <strong>¿Vas a ir?</strong> Las entradas se compran en la web oficial del parque y el aforo es limitado, así que mejor con antelación. <a class="btn" href="https://parquemagicasnavidades.es/entradas/" target="_blank" rel="noopener">Comprar entradas</a></div>
+<!-- ENTRADAS: ya con Civitatis (afiliado aid=110968) desde el 19-nov-2026, cuando abrió fechas de la temporada 2026-27. -->
+<div class="article__callout article__callout--booking" id="entradas">🎟️ <strong>¿Vas a ir?</strong> Puedes comprar las entradas online y el aforo es limitado, así que mejor con antelación. <a class="btn" href="https://www.civitatis.com/es/torrejon-de-ardoz/entrada-magicas-navidades-torrejon-ardoz/?aid=110968" target="_blank" rel="noopener sponsored">Comprar entradas</a></div>
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
