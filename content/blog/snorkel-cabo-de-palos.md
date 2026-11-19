@@ -126,4 +126,6 @@ Si te pica la curiosidad por lo que puedes encontrarte bajo el agua, tengo posts
 
 Sígueme en Instagram como [@chenoaventuras](https://www.instagram.com/chenoaventuras/) para más vídeos de snorkel y buceo por la costa española, y échale un vistazo al resto del blog si estás planeando tu próxima escapada al Mediterráneo.
 
+Y si buscas una cala tranquila para pasar el día, muy cerca tienes [Cala Reona](/blog/cala-reona-cabo-de-palos.html), a la entrada de Calblanque.
+
 <p class="guide__note">Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Faro,_Cabo_de_Palos,_Murcia,_Espa%C3%B1a,_2022-07-16,_DD_01.jpg" target="_blank" rel="noopener">Diego Delso</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Islas_Hormigas_-_buceo.jpg" target="_blank" rel="noopener">Marta T López</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Cabo_de_Palos_-_Faro_de_la_Isla_de_la_Hormiga.jpg" target="_blank" rel="noopener">Marta T López</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Cala_Fr%C3%ADa,_Reserva_Marina_de_Cabo_de_Palos_e_Islas_Hormigas_(6013944938).jpg" target="_blank" rel="noopener">amaianos</a> (CC BY 2.0).</p>
