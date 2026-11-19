@@ -241,6 +241,9 @@ function readPosts() {
       // actividades: [{ t, u }] → bloque «Actividades recomendadas» (Civitatis / GetYourGuide con afiliado)
       // actividadesTitulo: cambia el h2 cuando las actividades no son del propio lugar (p. ej. «Otras actividades en Madrid»)
       actividadesTitulo: data.actividadesTitulo ? String(data.actividadesTitulo).trim() : "",
+      // actividadesSoloFinal: true → no se reparten por el post (franja y tarjeta del medio); solo el bloque del final.
+      // Para posts de un evento cuyas actividades son de otro sitio y confundirían en mitad del texto.
+      actividadesSoloFinal: data.actividadesSoloFinal === true,
       actividades: Array.isArray(data.actividades)
         ? data.actividades.filter((a) => a && a.t && a.u).map((a) => ({ t: String(a.t).trim(), u: String(a.u).trim() }))
         : [],
@@ -499,7 +502,7 @@ function actMid(p, items) {
   return `<a class="actmid" href="${esc(a.href)}" target="_blank" rel="sponsored noopener"><span class="actmid__k">🎟️ ¿Te apetece ir con guía?</span><span class="actmid__t">${esc(a.t)}</span><span class="actmid__row"><span class="actbox__plat actbox__plat--${a.plat === "Civitatis" ? "civ" : "gyg"}">${esc(a.plat)}</span><span class="actmid__btn">Ver disponibilidad &rarr;</span></span></a>\n`;
 }
 function spreadActivities(html, p) {
-  if (!p.actividades.length) return html;
+  if (!p.actividades.length || p.actividadesSoloFinal) return html;
   const items = p.actividades.map((a) => ({ ...a, ...affLink(a.u) }));
   // franja de arriba
   const et = html.match(/<div class="etiles">[^\n]*\n/);
