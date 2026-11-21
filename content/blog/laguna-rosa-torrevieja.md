@@ -49,7 +49,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-alicante-chenoaventuras.pdf
 guiaTitulo: 'Guía Alicante en PDF'
-updated: 2026-10-31
+updated: 2026-11-21
 ---
 Agua de color **rosa chicle**, montañas de sal blanca y flamencos al fondo. La **Laguna Rosa de Torrevieja** es uno de esos sitios que parecen editados... y no lo están.
 
@@ -86,7 +86,7 @@ Lo primero que todo el mundo pregunta es si se puede bañar. Te lo cuento 👇
 <div class="guide__howto"><h3>La Laguna de La Mata</h3><p>Al norte está la otra laguna del Parque Natural, la de <strong>La Mata</strong>, de color verde. Tiene centro de visitantes, sendas y observatorios de aves: flamencos, cigüeñuelas y garzas.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Laguna Rosa</h2></div>
-<div class="guide__howto"><p>La laguna está junto a <strong>Torrevieja</strong>, a unos 50 km de Alicante por la AP-7 o la N-332. Hay varios puntos para verla desde los caminos del parque; el más conocido está en la zona de las salinas, con un pequeño aparcamiento de tierra.</p><p>Sigue siempre los caminos señalizados y no entres en las zonas de explotación salinera.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laguna%20Rosa%20Torrevieja" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
+<div class="guide__howto"><p>La laguna está junto a <strong>Torrevieja</strong>, a unos 50 km de Alicante por la AP-7 o la N-332. Hay varios puntos para verla desde los caminos del parque; el más conocido está en la zona de las salinas, con un pequeño aparcamiento de tierra.</p><p><strong>Para llegar en coche</strong>, pon en el navegador «Laguna Rosa» o «Salinas de Torrevieja», o la zona de la urbanización El Hondo. El mirador tiene aparcamiento.</p><p><strong>Tren turístico:</strong> hay un trenecito que rodea la laguna con explicaciones. Mira horarios y precios en la web de visitas de las Salinas de Torrevieja.</p><p>Sigue siempre los caminos señalizados y no entres en las zonas de explotación salinera. <strong>Bañarse está prohibido</strong>: lo prohíbe el plan del Parque Natural.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Laguna%20Rosa%20Torrevieja" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
 <p><strong>Desde el puerto:</strong> en Torrevieja salen <a href="https://www.civitatis.com/es/torrevieja/tabarca-barco-vision-submarina/?aid=110968" target="_blank" rel="noopener sponsored">barcos con visión submarina a la isla de Tabarca</a>, un buen plan para completar el día.</p>
 

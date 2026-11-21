@@ -22,7 +22,7 @@ faq:
   - q: "¿Cómo se formó el Roque Nublo?"
     a: "Es lo que queda de un enorme volcán de hace unos 4-5 millones de años: la erosión se llevó la roca blanda y dejó el bloque más duro."
   - q: "¿Hace falta reserva para subir al Roque Nublo?"
-    a: "Sí, para acceder por la Degollada de La Goleta en horario diurno. El cupo es de 60 personas por hora y se reserva en la web oficial. Fuera del horario regulado no es necesaria."
+    a: "Sí, para acceder por la Degollada de La Goleta en horario diurno. El cupo es de 60 personas por hora y se reserva gratis en grancanariasenderos.com, la web del Cabildo. Cada persona puede hacer hasta cinco reservas y cancelarlas hasta tres días antes. Fuera del horario regulado no es necesaria."
   - q: "¿Dónde se aparca para subir al Roque Nublo?"
     a: "El aparcamiento de La Goleta ya no está disponible (salvo para personas con movilidad reducida). Hay que aparcar en Cruz de Los Llanos o en Tejeda y llegar en guagua o a pie."
   - q: "¿Cuánto se tarda en subir al Roque Nublo?"
@@ -48,7 +48,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
 guiaTitulo: 'Guía Gran Canaria en PDF'
-updated: 2026-10-31
+updated: 2026-11-21
 ---
 Un monolito de roca volcánica de unos **80 metros** plantado en lo alto de la isla, a más de 1.800 metros de altura, con el **Teide** asomando sobre el mar de nubes. El **Roque Nublo** es el símbolo de Gran Canaria y una de las excursiones más bonitas de Canarias.
 
@@ -59,7 +59,7 @@ Desde 2025 subir tiene sus normas: hay **reserva obligatoria** en horario de dí
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Roque Nublo: reserva y acceso</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>📝 Reserva</h3><p>Para entrar al sendero desde la <strong>Degollada de La Goleta</strong> durante el día hay que <strong>reservar</strong> en la web oficial. El cupo es de <strong>60 personas por hora</strong>: reserva con días de antelación.</p></div>
+<div class="guide__tip"><h3>📝 Reserva</h3><p>Para entrar al sendero desde la <strong>Degollada de La Goleta</strong> durante el día hay que <strong>reservar</strong> en <strong>grancanariasenderos.com</strong>, la web del Cabildo. El cupo es de <strong>60 personas por hora</strong>: reserva con días de antelación.</p></div>
 <div class="guide__tip"><h3>🅿️ Aparcar</h3><p>El aparcamiento de La Goleta <strong>se eliminó</strong> (salvo personas con movilidad reducida, 2 horas). Hay que aparcar en <strong>Cruz de Los Llanos</strong> o en <strong>Tejeda</strong> y subir en guagua o andando.</p></div>
 <div class="guide__tip"><h3>🥾 El sendero</h3><p>Desde La Goleta hasta el pie del Roque son unos <strong>40 minutos</strong> de subida por un camino bien marcado, con algún tramo de escalones.</p></div>
 </div>
