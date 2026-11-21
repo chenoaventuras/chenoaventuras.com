@@ -18,11 +18,17 @@ actividades:
     u: "https://www.civitatis.com/es/laguardia/tour-laguardia-visita-bodega-cata/"
   - t: "Visita a las bodegas Campillo (Laguardia)"
     u: "https://www.civitatis.com/es/laguardia/visita-bodegas-campillo/"
+  - t: "Visita a la bodega 1808 Casa Garabitero (Laguardia)"
+    u: "https://www.civitatis.com/es/laguardia/visita-bodegas-1808-casa-garabitero/"
+  - t: "Visita a las bodegas Solar de Samaniego"
+    u: "https://www.civitatis.com/es/laguardia/visita-bodegas-solar-samaniego/"
 actividadesTitulo: 'Bodegas y visitas cerca de Elciego'
 faqTitulo: "Dudas sobre Elciego"
 faq:
   - q: "¿Qué bodegas se pueden visitar en Elciego?"
-    a: "Las más conocidas son Marqués de Riscal (fundada en 1858), Bodegas Valdelana, de una familia con raíces en el pueblo desde el siglo XVI, y Bodegas Murua. Todas piden reserva previa."
+    a: "En el propio Elciego hay seis bodegas visitables: Marqués de Riscal (1858), Valdelana, Murua, Pago de Larrea, Luberri Monje Amestoy y Viña Salceda. Todas piden reserva previa."
+  - q: "¿Cuánto cuesta visitar Marqués de Riscal?"
+    a: "Según su web, la visita básica cuesta 30 € por adulto y dura 90 minutos, con cata de tres vinos y picoteo. Hay visitas más completas de 45 y 60 €."
   - q: "¿Cuándo son las fiestas de Elciego?"
     a: "Las fiestas de la Virgen de la Plaza, alrededor del 8 de septiembre, con danzas tradicionales al son de gaiteros y tamboril."
   - q: "¿Qué ver en Elciego?"
@@ -30,14 +36,14 @@ faq:
   - q: "¿Se puede visitar el hotel sin alojarse?"
     a: "Sí, se puede ver el edificio, y la bodega ofrece visitas guiadas con reserva."
   - q: "¿Cuánto dura la visita a la bodega?"
-    a: "Unos 90 minutos, con cava, viñedo y cata. Reserva con antelación."
+    a: "La visita básica de Marqués de Riscal dura unos 90 minutos, con calados, viñedo y cata. Reserva con antelación."
   - q: "¿Quién diseñó el hotel?"
     a: "Frank Gehry. Abrió el 10 de octubre de 2006."
   - q: "¿Qué hay cerca?"
     a: "Laguardia, el Valle Salado de Añana y Vitoria-Gasteiz."
 guia: /assets/guias/guia-alava-chenoaventuras.pdf
 guiaTitulo: 'Guía Álava en PDF'
-updated: 2026-10-31
+updated: 2026-11-21
 ---
 Un **hotel de titanio** diseñado por **Frank Gehry** en mitad de viñedos, una bodega centenaria y un pueblo pequeño de la Rioja Alavesa. **Elciego**, en Álava, es el lugar para ver arquitectura de vanguardia y vino, y se visita bien en **medio día**.
 
@@ -72,13 +78,17 @@ Te cuento qué ver, cómo visitar la bodega y qué más hay cerca 👇
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Bodega Marqués de Riscal:</strong> visita guiada con cava centenaria y cata.</li><li><strong>Spa de vinoterapia:</strong> en el hotel (confirma condiciones).</li><li><strong>Cerca:</strong> <a href="/blog/laguardia-que-ver.html">Laguardia</a>, <a href="/blog/valle-salado-anana.html">el Valle Salado de Añana</a> y <a href="/blog/vitoria-gasteiz-que-ver.html">Vitoria-Gasteiz</a>.</li></ul>
 
 <!--enr-->
-<div class="guide__head"><span class="eyebrow">Enoturismo</span><h2>Bodegas en Elciego que puedes visitar</h2></div>
-<p>Elciego tiene algo más de mil habitantes y, aun así, es uno de los pueblos con más bodegas de la <strong>Rioja Alavesa</strong>: el término municipal está cubierto de viñedos entre la sierra de Toloño y el Ebro. Estas son las visitas más habituales (todas con <strong>reserva previa</strong>):</p>
-<ul>
-<li><strong>Marqués de Riscal</strong>: fundada en <strong>1858</strong>, es una de las bodegas históricas de Rioja y la del hotel de Gehry. Visitas guiadas a los calados antiguos, el viñedo y cata.</li>
-<li><strong>Bodegas Valdelana</strong>: bodega familiar que remonta su historia en Elciego al siglo XVI, con calados subterráneos, un jardín con distintas variedades de uva y vistas al Ebro.</li>
-<li><strong>Bodegas Murua</strong>: a la salida del pueblo hacia Laguardia, en manos de la familia Masaveu desde 1974; visitas con cita previa.</li>
-</ul>
+<div class="guide__head"><span class="eyebrow">Enoturismo</span><h2>Bodegas en Elciego que puedes visitar</h2><p>Seis bodegas con dirección en el propio Elciego, según la Ruta del Vino de Rioja Alavesa. Todas piden <strong>reserva previa</strong>.</p></div>
+<p>Elciego tiene algo más de mil habitantes y, aun así, es uno de los pueblos con más bodegas de la <strong>Rioja Alavesa</strong>: el término municipal está cubierto de viñedos entre la sierra de Toloño y el Ebro.</p>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🍷 Marqués de Riscal</h3><p>Fundada en Elciego en <strong>1858</strong>, es una de las bodegas históricas de Rioja y la del hotel de Gehry. Según su web, la visita básica dura <strong>90 minutos</strong> y cuesta <strong>30 €</strong> (calados, viñedo, cata de tres vinos y picoteo); hay visitas más completas de 45 y 60 €, y una combinada con el Valle Salado de Añana. Abre todos los días.</p></div>
+<div class="guide__tip"><h3>🍷 Bodegas Valdelana</h3><p>Bodega familiar con calados de los <strong>siglos XV y XVI</strong>, una <strong>Bodega Museo</strong> y el <strong>Jardín de las Variedades</strong>, con distintas uvas plantadas. Abre de lunes a domingo y tiene experiencias gastronómicas y alojamiento.</p></div>
+<div class="guide__tip"><h3>🍷 Bodegas Murua</h3><p>A la salida del pueblo, en la carretera de Laguardia. Visitas a bodega y viñedo de martes a sábado, en grupos pequeños (hasta 12 personas).</p></div>
+<div class="guide__tip"><h3>🍷 Pago de Larrea</h3><p>En la carretera de Cenicero. Visita a bodega y viñedo, wine bar y experiencias gastronómicas, de martes a sábado por la mañana (más horario en julio y agosto).</p></div>
+<div class="guide__tip"><h3>🍷 Luberri Monje Amestoy</h3><p>Bodega familiar fundada en <strong>1995</strong>, con visita y cata de lunes a viernes.</p></div>
+<div class="guide__tip"><h3>🍷 Viña Salceda</h3><p>Fundada en Elciego en <strong>1969</strong>, junto al Ebro; desde 1998 pertenece al grupo Chivite. Consulta en su web las visitas disponibles.</p></div>
+</div>
+<p>¿No quieres conducir entre bodegas? Hay un <a href="https://www.civitatis.com/es/laguardia/tour-laguardia-visita-bodega-cata/?aid=110968" target="_blank" rel="noopener sponsored">tour por Laguardia con visita a una bodega y cata</a>, y a 10 minutos de Elciego puedes visitar las <a href="https://www.civitatis.com/es/laguardia/visita-bodegas-campillo/?aid=110968" target="_blank" rel="noopener sponsored">bodegas Campillo</a> o una <a href="https://www.civitatis.com/es/laguardia/visita-bodegas-1808-casa-garabitero/?aid=110968" target="_blank" rel="noopener sponsored">bodega subterránea en el casco de Laguardia</a>.</p>
 <p>Si quieres encadenar varias, la <strong>Ruta del Vino de Rioja Alavesa</strong> reúne bodegas, restaurantes y alojamientos de la comarca, y Laguardia y Samaniego quedan a pocos minutos.</p>
 
 <div class="guide__head"><span class="eyebrow">El pueblo</span><h2>Qué ver en el casco de Elciego</h2></div>
@@ -93,4 +103,4 @@ Te cuento qué ver, cómo visitar la bodega y qué más hay cerca 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Los precios, horarios y accesos cambian: consúltalos en las webs oficiales. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Elciego_-_Marqu%C3%A9s_de_Riscal_Hotel_RK01.jpg" target="_blank" rel="noopener">Roderich Kahn</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Hotel_Marqu%C3%A9s_de_Riscal_(2016).jpg" target="_blank" rel="noopener">Gotanero</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Marqu%C3%A9s_de_Riscal_Hotela.jpg" target="_blank" rel="noopener">Makeip</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Marqu%C3%A9s_De_Riscal_Hotela_2.jpg" target="_blank" rel="noopener">Makeip</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Marqu%C3%A9s_De_Riscal_Hotela_4.jpg" target="_blank" rel="noopener">Makeip</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Eltziego.jpg" target="_blank" rel="noopener">Imamon</a> (Dominio público) · <a href="https://commons.wikimedia.org/wiki/File:Elciego_-_Bodegas_Anti%C3%B3n_09.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File:Elciego_-_Bodegas_Anti%C3%B3n_07.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0).</p>
+<p class="guide__note">Información consultada en octubre y noviembre de 2026 (bodegas: Ruta del Vino de Rioja Alavesa y webs oficiales). Los precios, horarios y accesos cambian: consúltalos en las webs oficiales. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Elciego_-_Marqu%C3%A9s_de_Riscal_Hotel_RK01.jpg" target="_blank" rel="noopener">Roderich Kahn</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Hotel_Marqu%C3%A9s_de_Riscal_(2016).jpg" target="_blank" rel="noopener">Gotanero</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Marqu%C3%A9s_de_Riscal_Hotela.jpg" target="_blank" rel="noopener">Makeip</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Marqu%C3%A9s_De_Riscal_Hotela_2.jpg" target="_blank" rel="noopener">Makeip</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Marqu%C3%A9s_De_Riscal_Hotela_4.jpg" target="_blank" rel="noopener">Makeip</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Eltziego.jpg" target="_blank" rel="noopener">Imamon</a> (Dominio público) · <a href="https://commons.wikimedia.org/wiki/File:Elciego_-_Bodegas_Anti%C3%B3n_09.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File:Elciego_-_Bodegas_Anti%C3%B3n_07.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0).</p>
