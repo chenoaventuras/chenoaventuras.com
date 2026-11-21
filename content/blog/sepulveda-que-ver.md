@@ -18,14 +18,25 @@ faq:
     a: "Las iglesias románicas de San Salvador, Nuestra Señora de la Peña, Santos Justo y Pastor y Santiago, el casco histórico y la Prisión del Concejo."
   - q: "¿Qué se come en Sepúlveda?"
     a: "El cordero lechal asado en horno de leña, de raza churra, es la gran especialidad."
+  - q: "¿Dónde comer cordero asado en Sepúlveda?"
+    a: "En los asadores del pueblo, muchos alrededor de la Plaza de España. Entre los más citados están el Figón de Ismael, que presume de abrir en 1849, Casa Paulino y el restaurante del Hostal Villa de Sepúlveda. Los fines de semana, reserva."
+  - q: "¿Qué tiene de especial el cordero de Sepúlveda?"
+    a: "Es lechazo de raza churra asado en horno de leña, con poco más que agua y sal. Se sirve en cazuela de barro, normalmente por cuartos, con ensalada."
   - q: "¿Qué son las Hoces del Duratón?"
     a: "Un parque natural entre Sepúlveda y el embalse de Burgomillodo, con cañones, buitres leonados y la ermita de San Frutos."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Con medio día ves el casco histórico y comes; añade otra mitad si quieres ver las Hoces del Duratón."
   - q: "¿Cuál es la iglesia más antigua?"
     a: "San Salvador, de 1093 según algunas fuentes, con la torre separada de la nave."
+actividadesTitulo: 'Actividades en Sepúlveda y alrededores'
+actividades:
+  - t: "Alquiler de kayak en las Hoces del Duratón"
+    u: "https://www.civitatis.com/es/san-miguel-de-bernuy/alquiler-kayak-hoces-duraton/"
+  - t: "Entradas al castillo de Pedraza con audioguía"
+    u: "https://www.civitatis.com/es/pedraza/entradas-castillo-pedraza/"
 guia: /assets/guias/guia-segovia-chenoaventuras.pdf
 guiaTitulo: 'Guía Segovia en PDF'
+updated: 2026-11-21
 ---
 Una villa que se despliega sobre una colina, con **iglesias románicas**, un casco histórico de calles empinadas y un cordero asado en horno de leña que atrae a medio país. **Sepúlveda**, en el noreste de la provincia de **Segovia**, es la puerta del **Parque Natural de las Hoces del Duratón**.
 
@@ -54,6 +65,10 @@ Te cuento qué ver y cómo organizar la visita 👇
 <!--cerca-->
 <div class="guide__head"><span class="eyebrow">Qué ver cerca</span><h2>Para completar la escapada</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong><a href="/blog/hoces-del-duraton.html">Hoces del Duratón</a>:</strong> buitres y la ermita de San Frutos (a unos 30 minutos en coche).</li><li><strong><a href="/blog/pedraza-que-ver.html">Pedraza</a>:</strong> villa medieval (a unos 30 minutos en coche).</li><li><strong><a href="/blog/chorrera-de-los-litueros.html">Chorrera de los Litueros</a>:</strong> cascada de Somosierra (a menos de una hora en coche).</li><li><strong><a href="/blog/pueblos-de-colores-segovia.html">Pueblos de colores (Riaza, Segovia)</a>:</strong> pueblos de colores (a menos de una hora en coche).</li></ul>
+
+<div class="guide__head"><span class="eyebrow">Comer</span><h2>El cordero asado de Sepúlveda: dónde comerlo</h2></div>
+<p>Sepúlveda es uno de los templos del <strong>lechazo asado en horno de leña</strong>: cordero lechal de raza churra, asado lentamente con agua y sal y servido en <strong>cazuela de barro</strong>. Aquí la estrella no es el cochinillo, es el cordero.</p>
+<p>Hay varios asadores en el pueblo, muchos cerca de la <strong>Plaza de España</strong>. Entre los más conocidos están el <strong>Figón de Ismael</strong> (presume de abrir en 1849), <strong>Casa Paulino</strong> y el restaurante del <strong>Hostal Villa de Sepúlveda</strong>. Lo habitual es pedir un cuarto de cordero para dos con ensalada. <strong>Reserva</strong> los fines de semana y en puentes.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>Sepúlveda está en el <strong>noreste de la provincia de Segovia</strong>, en una zona de carreteras con mucha curva y paisaje. Se llega en coche; el casco histórico es empinado, así que aparca abajo y sube andando.</p><p>Si vas a las Hoces del Duratón, aprovecha para ver la ermita de San Frutos, los miradores y, con reserva, hacer una excursión en piragua.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Sepúlveda+Segovia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

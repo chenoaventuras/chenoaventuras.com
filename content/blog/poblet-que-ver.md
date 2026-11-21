@@ -14,6 +14,8 @@ tags:
   - Cataluña
 wide: true
 actividades:
+  - t: "Excursión a Montblanc y el Monasterio de Poblet"
+    u: "https://www.civitatis.com/es/salou/excursion-montblanc-monasterio-poblet/"
   - t: "Visita guiada por la Tarragona romana"
     u: "https://www.civitatis.com/es/tarragona/visita-guiada-tarragona-romana/"
   - t: "Free tour por Tarragona"
@@ -27,6 +29,10 @@ faq:
     a: "La Puerta Real, el claustro, el Panteón Real, el refectorio, la antigua cocina y la biblioteca."
   - q: "¿Cuánto cuesta la entrada a Poblet?"
     a: "Según la web oficial, 10,50 € la entrada general y 7,50 € la reducida. Confirma el precio y los horarios."
+  - q: "¿Hay visitas guiadas al Monasterio de Poblet?"
+    a: "Sí. Puedes visitarlo por libre o con guía; la guiada cuesta algo más. También hay excursiones organizadas que combinan Poblet con la villa medieval de Montblanc. Consulta horarios en poblet.cat."
+  - q: "¿Qué horario tiene el Monasterio de Poblet?"
+    a: "Abre de mañana y de tarde, con una pausa a mediodía, y cierra los lunes que no son festivos. En invierno, de lunes a sábado, suele abrir de 10:00 a 12:30 y de 15:00 a 18:00. Confírmalo en la web oficial antes de ir."
   - q: "¿Es Patrimonio de la Humanidad?"
     a: "Sí, el Monasterio de Poblet es Patrimonio de la Humanidad y forma parte de la Ruta del Císter."
   - q: "¿Todavía viven monjes?"
@@ -35,6 +41,7 @@ faq:
     a: "Montblanc, las cuevas de L'Espluga de Francolí, Santes Creus y Vallbona de les Monges."
 guia: /assets/guias/guia-tarragona-chenoaventuras.pdf
 guiaTitulo: 'Guía Tarragona en PDF'
+updated: 2026-11-21
 ---
 Un **monasterio cisterciense** con murallas, torres y un claustro de película, donde todavía viven **monjes** y donde descansan reyes de la Corona de Aragón. El **Monasterio de Poblet** es Patrimonio de la Humanidad, uno de los más visitados de la Ruta del Císter, y se ve bien en **una mañana**.
 
