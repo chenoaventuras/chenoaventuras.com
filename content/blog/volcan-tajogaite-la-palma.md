@@ -50,9 +50,16 @@ comer:
     r: 4.7
     o: 337
     d: "Calle Empalme Tajuya, 1"
+actividadesTitulo: 'Excursiones al volcán Tajogaite'
 actividades:
   - t: "Senderismo por el volcán Tajogaite"
     u: "https://www.civitatis.com/es/el-paso/senderismo-volcan-cumbre-vieja/"
+  - t: "Atardecer en el Tajogaite desde el mirador de Llano del Jable"
+    u: "https://www.civitatis.com/es/el-paso/atardecer-tajogaite-mirador-llanos-jable/"
+  - t: "Excursión al volcán Tajogaite"
+    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
+  - t: "Ruta de los volcanes de La Palma"
+    u: "https://www.civitatis.com/es/los-llanos-de-aridane/ruta-volcanes-la-palma/"
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-la-palma-chenoaventuras.pdf
 guiaTitulo: 'Guía La Palma en PDF'
