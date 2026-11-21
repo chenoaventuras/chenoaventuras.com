@@ -1,6 +1,6 @@
 ---
 title: 'Cueva de Valporquero (León): recorridos, horarios y consejos para visitarla'
-seoTitle: 'Cuevas de Valporquero: cómo llegar, recorridos y precio'
+seoTitle: 'Cuevas de Valporquero: cómo llegar en coche, horarios y precio'
 seoDescription: 'Cuevas de Valporquero (León): cómo llegar en coche desde León, los recorridos normal, largo e Insólito, cuánto duran, precio, reserva y temperatura dentro.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Cueva de Valporquero'

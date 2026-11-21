@@ -1,6 +1,6 @@
 ---
 title: 'La Cuevona de Cuevas del Agua: el pueblo asturiano al que se entra por una cueva de 300 metros'
-seoTitle: 'La Cuevona de Cuevas del Agua: cómo llegar y visitarla a pie'
+seoTitle: 'Cuevas del Agua (Asturias): cómo llegar a la Cuevona y aparcar'
 seoDescription: 'La Cuevona de Cuevas del Agua (Ribadesella): cómo llegar, dónde aparcar, por qué no se entra en coche y qué ver en esta cueva de 300 m con carretera.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'La Cuevona'
