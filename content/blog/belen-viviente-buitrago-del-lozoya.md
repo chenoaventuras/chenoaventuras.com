@@ -21,7 +21,7 @@ lat: 40.9917
 lng: -3.6375
 coche: true
 excerpt: 'Más de 200 vecinos recrean casi 40 escenas dentro de la muralla medieval de Buitrago del Lozoya. Fechas de 2026, entradas, pases y consejos para no quedarte sin sitio.'
-cover: /assets/img/blog/belen-viviente-buitrago-del-lozoya/portada.jpg
+cover: /assets/img/blog/belen-viviente-buitrago-del-lozoya/portada.webp
 tags:
   - Actividades
   - Comunidad de Madrid
@@ -64,7 +64,7 @@ Te cuento las fechas de 2026, cómo conseguir entrada y cómo organizar la visit
 
 <div class="guide__head"><span class="eyebrow">Cómo es</span><h2>Qué vas a ver en el Belén Viviente</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/belen-viviente-buitrago-del-lozoya/escena.jpg" alt="Escena del lagar en el Belén Viviente de Buitrago del Lozoya, de noche junto a la muralla" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las escenas</h3><p>Escenas como <strong>el lagar</strong> o <strong>el edicto imperial</strong> y, al final, el <strong>Nacimiento</strong>. Cada escena con sus vecinos vestidos de época.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/belen-viviente-buitrago-del-lozoya/escena.webp" alt="Escena del lagar en el Belén Viviente de Buitrago del Lozoya, de noche junto a la muralla" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las escenas</h3><p>Escenas como <strong>el lagar</strong> o <strong>el edicto imperial</strong> y, al final, el <strong>Nacimiento</strong>. Cada escena con sus vecinos vestidos de época.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/buitrago-del-lozoya-que-ver/pueblo.webp" alt="Vista aérea del recinto amurallado de Buitrago del Lozoya" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El recinto amurallado</h3><p>Todo pasa dentro de la <strong>muralla medieval</strong>, la única completa de la Comunidad de Madrid. De noche y con antorchas, impresiona.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/buitrago-del-lozoya-que-ver/castillo.webp" alt="Patio y torres del castillo de Buitrago del Lozoya visto desde arriba" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El castillo</h3><p>El castillo de los Mendoza, junto al recorrido. Si llegas de día, aprovecha para verlo.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/buitrago-del-lozoya-que-ver/muralla-rio.webp" alt="Muralla de Buitrago reflejada en el río Lozoya al atardecer" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La muralla y el río</h3><p>Antes de entrar, pasea junto al <strong>río Lozoya</strong>: la muralla reflejada en el agua al atardecer es la mejor foto del pueblo.</p></div></li>
