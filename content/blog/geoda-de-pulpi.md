@@ -17,7 +17,7 @@ faq:
   - q: "¿Cuánto cuesta la entrada a la Geoda de Pulpí?"
     a: "22 euros los adultos y 10 euros de 8 a 16 años. Los residentes tienen precio reducido."
   - q: "¿Cómo se compran las entradas de la Geoda de Pulpí?"
-    a: "Online, en la web oficial de la Geoda de Pulpí. Conviene reservar con antelación."
+    a: "Online y con antelación, porque el aforo es pequeño. También puedes reservar un tour en Civitatis que incluye la visita a la Mina Rica y la Geoda."
   - q: "¿Cuánto dura la visita a la Geoda de Pulpí?"
     a: "Alrededor de 1 hora y media."
   - q: "¿Se puede entrar dentro de la geoda?"
@@ -29,6 +29,8 @@ faq:
 actividades:
   - t: "Tour por Oleo Almanzora, Sala Negra, Mina Rica y Geoda de Pulpí"
     u: "https://www.civitatis.com/es/pulpi/tour-mina-rica-geoda-pulpi/"
+  - t: "Visita a la finca Oleo Almanzora con cata de aceite"
+    u: "https://www.civitatis.com/es/pulpi/visita-finca-oleo-almanzora-cata-aceite/"
 comer:
   - n: "Come y calla"
     r: 4.8
@@ -43,6 +45,7 @@ comer:
     r: 4.4
     o: 181
     t: "Bar restaurante"
+updated: 2026-11-21
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-almeria-chenoaventuras.pdf
 guiaTitulo: 'Guía Almería en PDF'
@@ -50,6 +53,9 @@ guiaTitulo: 'Guía Almería en PDF'
 Imagina una cueva forrada de **cristales transparentes de hasta 2 metros**, como si estuvieras dentro de un diamante. Existe, está en **Almería** y se puede visitar: es la **Geoda de Pulpí**, una de las más grandes del mundo.
 
 Las plazas vuelan, así que te cuento cómo conseguir entradas 👇
+
+<div class="article__callout article__callout--booking">🎟️ <strong>¿Quieres ir?</strong> Puedes reservar un tour con la visita a la Mina Rica y la Geoda. <a class="btn" href="https://www.civitatis.com/es/pulpi/tour-mina-rica-geoda-pulpi/?aid=110968" target="_blank" rel="noopener sponsored">Reservar la visita</a></div>
+
 
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>💎</b><span>Cristales gigantes</span></div><div><b>⛏️</b><span>Mina Rica</span></div><div><b>🏛️</b><span>Centro de visitantes</span></div><div><b>🎟️</b><span>Precio</span></div><div><b>🏜️</b><span>Paisaje minero</span></div></div>
@@ -74,6 +80,8 @@ Las plazas vuelan, así que te cuento cómo conseguir entradas 👇
 
 
 <!--actividades-->
+
+<div class="article__callout article__callout--booking">🎟️ <strong>Reserva con tiempo:</strong> los grupos son pequeños y en puentes y verano se llenan. <a class="btn" href="https://www.civitatis.com/es/pulpi/tour-mina-rica-geoda-pulpi/?aid=110968" target="_blank" rel="noopener sponsored">Reservar la visita</a></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a la Geoda de Pulpí</h2></div>
 <div class="guide__howto"><p>Desde <strong>Almería</strong>, por la A-7 hacia Murcia hasta la salida de Pulpí y luego a <strong>Pilar de Jaravía</strong> (unos 1 h 30 min). Desde Murcia o Cartagena, algo más de 1 hora.</p><p>El punto de encuentro está señalizado y tiene aparcamiento.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Geoda%20de%20Pulp%C3%AD" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

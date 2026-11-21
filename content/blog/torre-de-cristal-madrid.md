@@ -22,6 +22,12 @@ faqTitulo: "Dudas sobre la Torre de Cristal"
 faq:
   - q: "¿Cuál es el edificio más alto de España?"
     a: "La Torre de Cristal de Madrid, con 249 metros y 50 plantas."
+  - q: "¿Cuál es la torre más alta de Madrid?"
+    a: "La Torre de Cristal, con 249 metros. Le sigue muy de cerca la Torre Cepsa (hoy Torre Moeve), con unos 248 metros."
+  - q: "¿Cuántas plantas tiene la Torre de Cristal?"
+    a: "50 plantas, según el registro del CTBUH (el organismo internacional de rascacielos). Algunas fuentes hablan de 52 contando las técnicas."
+  - q: "¿Cuánto miden las Cuatro Torres?"
+    a: "Torre de Cristal, 249 m; Torre Cepsa, 248 m; Torre PwC, 236 m; y Torre Emperador, 224 m. La quinta, Caleido, ronda los 175-180 m."
   - q: "¿Se puede subir a la Torre de Cristal?"
     a: "No, son oficinas privadas y no tiene mirador público."
   - q: "¿Quién la diseñó?"
@@ -47,6 +53,7 @@ comer:
     o: 857
     t: "Restaurante especializado en tapas"
     d: "C. de Pedro Rico, 41"
+updated: 2026-11-21
 comerFecha: "octubre de 2026"
 ---
 Al norte de la Castellana hay cuatro gigantes que se ven desde casi todo Madrid. El más alto es la **Torre de Cristal**: **249 metros** y **50 plantas**. Es el **edificio más alto de España** y uno de los más altos de la Unión Europea.
@@ -65,6 +72,10 @@ Te cuento sus curiosidades y dónde hacer las mejores fotos de las Cuatro Torres
 
 <div class="guide__head"><span class="eyebrow">El récord</span><h2>El edificio más alto de España</h2></div>
 <p>La diseñó el arquitecto argentino <strong>César Pelli</strong> y se terminó en <strong>2008</strong>. Su forma acaba en planos inclinados, como un <strong>cristal tallado</strong>, y toda la fachada es de vidrio: según cómo le dé la luz, cambia de color.</p><p>Las otras torres del conjunto son la Torre Emperador (antes Torre Espacio), la Torre PwC y la Torre Cepsa, a las que se sumó después una quinta, la Torre Caleido.</p><div class="guide__legend"><h3>📏 Un récord europeo</h3><p>Es el edificio más alto de España y el <strong>cuarto más alto de la Unión Europea</strong>. En días claros, las torres se ven desde la sierra de Madrid.</p></div>
+
+<div class="guide__head"><span class="eyebrow">Alturas</span><h2>Cuánto miden las Cuatro Torres (y la quinta)</h2></div>
+<ul class="guide__prices" style="margin:0 0 1rem;"><li><span>🥇 Torre de Cristal</span><b>249 m · 50 plantas</b></li><li><span>🥈 Torre Cepsa (hoy Torre Moeve)</span><b>248 m</b></li><li><span>🥉 Torre PwC</span><b>236 m</b></li><li><span>Torre Emperador (antes Torre Espacio)</span><b>224 m</b></li><li><span>Torre Caleido (la quinta)</span><b>unos 175-180 m</b></li></ul>
+<p>La Torre de Cristal le gana a la Torre Cepsa por <strong>menos de un metro</strong>. Las cifras de plantas cambian según la fuente, porque unas cuentan solo las de oficinas y otras también las técnicas.</p>
 
 <div class="guide__head"><span class="eyebrow">Fotos</span><h2>Dónde ver la Torre de Cristal</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

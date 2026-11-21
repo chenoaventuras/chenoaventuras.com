@@ -20,6 +20,12 @@ faq:
     a: "Es gratis, tanto el interior como el exterior."
   - q: "¿Qué horario tiene el Templo de Debod?"
     a: "El interior abre de martes a domingo y festivos de 10:00 a 20:00 (última entrada 19:30); del 15 de junio al 15 de septiembre, de 10:00 a 19:00. Cierra los lunes, el 1 y 6 de enero, el 1 de mayo y el 24, 25 y 31 de diciembre. El exterior está abierto siempre."
+  - q: "¿El Templo de Debod es gratis?"
+    a: "Sí. Tanto el interior como el exterior son gratis. Para el interior conviene reservar porque el aforo es pequeño."
+  - q: "¿Dónde se sacan las entradas del Templo de Debod?"
+    a: "En la web de reservas del Ayuntamiento de Madrid: madrid.es/debodreservas. Son gratuitas."
+  - q: "¿Se puede ver el Templo de Debod de noche?"
+    a: "Sí, por fuera. El templo se ilumina y se refleja en el estanque. El interior solo abre de día, hasta las 20:00."
   - q: "¿Por qué hay un templo egipcio en Madrid?"
     a: "Egipto lo regaló a España en 1968 por su ayuda para salvar los templos de Nubia de la presa de Asuán."
   - q: "¿Dónde está el Templo de Debod?"
@@ -48,7 +54,7 @@ comer:
     t: "Restaurante italiano"
     d: "C. del Espíritu Santo, 16"
 comerFecha: "octubre de 2026"
-updated: 2026-10-31
+updated: 2026-11-21
 ---
 Tiene más de **2.000 años**, viene de las orillas del **Nilo** y está en pleno centro de **Madrid**. El **Templo de Debod** es un templo egipcio auténtico, piedra a piedra, y su atardecer es uno de los más famosos de la ciudad.
 
@@ -61,7 +67,7 @@ Te cuento su historia y cómo visitarlo (también por dentro) 👇
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el <strong>Parque del Oeste</strong>, junto a Plaza de España, en la calle Ferraz.</p></div>
 <div class="guide__tip"><h3>⏱️ Tiempo</h3><p>El interior son <strong>30 minutos</strong> como máximo. Fuera, lo que quieras.</p></div>
-<div class="guide__tip"><h3>🎟️ Precio</h3><p><strong>Gratis</strong>, por dentro y por fuera. No hay reserva online para visitas individuales.</p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p><strong>Gratis</strong>, por dentro y por fuera. Para el interior, mejor <strong>reservar</strong> en la web del Ayuntamiento (madrid.es/debodreservas).</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>De Egipto a Madrid, piedra a piedra</h2></div>
@@ -71,7 +77,7 @@ Te cuento su historia y cómo visitarlo (también por dentro) 👇
 <div class="guide__head"><span class="eyebrow">Horario y entradas</span><h2>Templo de Debod: horario, precio y reserva</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🕒 Horario del interior</h3><p>De martes a domingo y festivos, de <strong>10:00 a 20:00</strong> (última entrada 19:30). Del <strong>15 de junio al 15 de septiembre</strong>, de 10:00 a 19:00. <strong>Cierra los lunes</strong> y el 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</p></div>
-<div class="guide__tip"><h3>🎟️ Precio</h3><p><strong>Gratis</strong>. El aforo del interior es pequeño, así que conviene <strong>reservar la entrada</strong> en la web oficial de reservas del Ayuntamiento de Madrid.</p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p><strong>Gratis</strong>. El aforo del interior es pequeño, así que conviene <strong>reservar la entrada</strong> en la web de reservas del Ayuntamiento de Madrid (<strong>madrid.es/debodreservas</strong>). Sin reserva solo entras si queda sitio en ese turno.</p></div>
 <div class="guide__tip"><h3>🌅 El exterior</h3><p>Los pórticos, el estanque y la explanada se pueden ver <strong>a cualquier hora</strong> y sin entrada. Es donde todo el mundo va al atardecer.</p></div>
 <div class="guide__tip"><h3>🌙 De noche</h3><p>Con el templo iluminado y reflejado en el estanque, la foto nocturna es casi tan buena como la del atardecer, y con mucha menos gente.</p></div>
 </div>

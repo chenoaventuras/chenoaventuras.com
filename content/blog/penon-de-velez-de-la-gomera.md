@@ -20,21 +20,31 @@ faq:
     a: "En 1930, según las fuentes."
   - q: "¿Cuál es la frontera más corta del mundo?"
     a: "La del Peñón de Vélez de la Gomera entre España y Marruecos, de unos 85 metros."
+  - q: "¿Cuánto mide la frontera del Peñón de Vélez?"
+    a: "Unos 85 metros, en el istmo de arena que une el peñón con la costa de Marruecos. Por eso se la considera la frontera terrestre más corta del mundo."
+  - q: "¿Cuál es la frontera más corta de España?"
+    a: "La del Peñón de Vélez de la Gomera con Marruecos, de unos 85 metros."
   - q: "¿Se puede visitar el Peñón de Vélez?"
     a: "No, es zona militar y no se puede cruzar la frontera."
   - q: "¿Por qué es de España?"
     a: "Es una de las plazas de soberanía españolas en el norte de África desde el siglo XVI."
   - q: "¿Es una isla?"
-    a: "Lo era hasta 1930, cuando un terremoto lo unió al continente."
+    a: "Lo era hasta 1930, cuando se formó un istmo de arena que lo unió al continente. Las fuentes lo atribuyen a un temporal o a un terremoto."
   - q: "¿Dónde está el Peñón de Vélez de la Gomera?"
     a: "En la costa mediterránea de Marruecos, a más de 100 km tanto de Ceuta como de Melilla."
+actividadesTitulo: 'Actividades en Melilla'
+actividades:
+  - t: "Visita guiada por la ciudadela de Melilla la Vieja"
+    u: "https://www.civitatis.com/es/melilla/visita-guiada-melilla-vieja/"
+  - t: "Tour por la Melilla modernista"
+    u: "https://www.civitatis.com/es/melilla/tour-melilla-modernista/"
 guia: /assets/guias/guia-ceuta-melilla-chenoaventuras.pdf
 guiaTitulo: 'Guía Ceuta y Melilla en PDF'
-updated: 2026-11-02
+updated: 2026-11-21
 ---
 En la costa de Marruecos, entre [Ceuta](/blog/ceuta-que-ver.html) y [Melilla](/blog/melilla-que-ver.html), hay una roca de 87 metros de altura que es **España**. El **Peñón de Vélez de la Gomera** tiene la **frontera terrestre más corta del mundo**: unos **85 metros**.
 
-Te cuento cómo una isla se convirtió en península por un terremoto y si se puede visitar 👇
+Te cuento cómo una isla se convirtió en península y si se puede visitar 👇
 
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>🏝️</b><span>Peñón</span></div><div><b>🇪🇸</b><span>Trozo de España</span></div><div><b>🇲🇦</b><span>Costa de Marruecos</span></div><div><b>🛂</b><span>Frontera más corta</span></div><div><b>📸</b><span>Fotos</span></div></div>
@@ -47,7 +57,7 @@ Te cuento cómo una isla se convirtió en península por un terremoto y si se pu
 </div>
 
 <div class="guide__head"><span class="eyebrow">El récord</span><h2>Una frontera de 85 metros</h2></div>
-<p>Hasta <strong>1930</strong> era una isla. Ese año un <strong>terremoto</strong> movió la arena del fondo y la unió al continente con un istmo estrecho. La línea que separa España de Marruecos en ese istmo mide unos <strong>85 metros</strong>: la frontera terrestre más corta del mundo.</p><p>Es una de las <strong>plazas de soberanía</strong> españolas en el norte de África. Lo ocupan de forma permanente soldados del Ejército de Tierra y depende de Melilla.</p><div class="guide__legend"><h3>🏰 Una fortaleza en una roca</h3><p>Mide unas <strong>2 hectáreas</strong>, como dos campos de fútbol. Está lleno de edificios militares, una iglesia y murallas de varios siglos, colgados de la roca.</p></div>
+<p>Hasta <strong>1930</strong> era una isla. Ese año se acumuló arena entre la roca y la costa (las fuentes hablan de un <strong>temporal</strong> o de un <strong>terremoto</strong>) y se formó un istmo estrecho que la unió al continente. La línea que separa España de Marruecos en ese istmo mide unos <strong>85 metros</strong>: la frontera terrestre más corta del mundo.</p><p>Es una de las <strong>plazas de soberanía</strong> españolas en el norte de África. Lo ocupan de forma permanente soldados del Ejército de Tierra y depende de Melilla.</p><div class="guide__legend"><h3>🏰 Una fortaleza en una roca</h3><p>Mide unas <strong>2 hectáreas</strong>, como dos campos de fútbol. Está lleno de edificios militares, una iglesia y murallas de varios siglos, colgados de la roca.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Fotos</span><h2>El Peñón desde fuera</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
@@ -65,7 +75,7 @@ Te cuento cómo una isla se convirtió en península por un terremoto y si se pu
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo verlo</h2></div>
 <div class="guide__howto"><p>No se puede visitar. La única forma de verlo es desde Marruecos: la playa de <strong>Badis</strong>, en el parque nacional de Alhucemas, está justo enfrente.</p><p>Recuerda que no puedes acercarte a la frontera ni cruzarla.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Pe%C3%B1%C3%B3n%20de%20V%C3%A9lez%20de%20la%20Gomera" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Ver en Google Maps</a></div></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Curiosidades rápidas</h2><ul><li><b>Una isla que dejó de serlo</b>: por un terremoto en 1930.</li><li><b>Sin habitantes civiles</b>: solo militares españoles.</li><li><b>Otras plazas</b>: España también tiene el Peñón de Alhucemas y las islas Chafarinas, en la misma costa.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Curiosidades rápidas</h2><ul><li><b>Una isla que dejó de serlo</b>: en 1930 un istmo de arena la unió a tierra.</li><li><b>Sin habitantes civiles</b>: solo militares españoles.</li><li><b>Otras plazas</b>: España también tiene el Peñón de Alhucemas y las islas Chafarinas, en la misma costa.</li></ul></div>
 
 <!--faq-->
 
