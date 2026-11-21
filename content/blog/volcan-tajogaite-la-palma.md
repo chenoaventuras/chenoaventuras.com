@@ -54,7 +54,7 @@ actividadesTitulo: 'Excursiones al volcán Tajogaite'
 actividades:
   - t: "Senderismo por el volcán Tajogaite"
     u: "https://www.civitatis.com/es/el-paso/senderismo-volcan-cumbre-vieja/"
-  - t: "Atardecer en el Tajogaite desde el mirador de Llano del Jable"
+  - t: "Senderismo al atardecer por el volcán Tajogaite"
     u: "https://www.civitatis.com/es/el-paso/atardecer-tajogaite-mirador-llanos-jable/"
   - t: "Excursión al volcán Tajogaite"
     u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-volcan-tajogaite/"
