@@ -15,6 +15,8 @@ wide: true
 faq:
   - q: "¿Cuánto tiempo se necesita para ver Cudillero?"
     a: "Con 2-3 horas recorres el pueblo y subes a los miradores. Si añades la Playa del Silencio, cuenta un día."
+  - q: "¿Merece la pena ir a Cudillero en invierno?"
+    a: "Sí. Con menos gente se disfruta más de las casas de colores y los miradores. En el puente de diciembre y en Navidad se llena: ve temprano y lleva ropa de abrigo e impermeable."
   - q: "¿Dónde aparcar en Cudillero?"
     a: "En los aparcamientos de la entrada del pueblo o del puerto. El centro tiene calles muy estrechas y en verano el tráfico está restringido."
   - q: "¿Qué es L'Amuravela?"
@@ -44,6 +46,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-21
 ---
 Casas de colores apiladas en la ladera, una encima de otra, mirando todas a un pequeño puerto pesquero. **Cudillero** parece un anfiteatro natural, y por eso es uno de los pueblos más fotografiados de toda la costa asturiana.
 
@@ -57,6 +60,7 @@ Te cuento qué ver, desde qué miradores sacar la mejor foto y cómo combinarlo 
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la costa occidental de <strong>Asturias</strong>, a unos <strong>45 minutos de Oviedo</strong> y a media hora de Avilés.</p></div>
 <div class="guide__tip"><h3>⏱️ Tiempo</h3><p>El pueblo se ve en <strong>2-3 horas</strong>. Sumando la Playa del Silencio y una buena comida, sale un día redondo.</p></div>
 <div class="guide__tip"><h3>🚗 Aparcar</h3><p>El centro es estrechísimo. Deja el coche en los <strong>aparcamientos del puerto</strong> o a la entrada del pueblo y sube andando.</p></div>
+<div class="guide__tip"><h3>🎄 Puente de diciembre y Navidad</h3><p>Es de los planes favoritos del <strong>puente de la Constitución</strong> (6-8 de diciembre) y de las Navidades: hay mucha más gente. Llega por la mañana para aparcar y reserva mesa si quieres comer pescado en el puerto.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un pueblo con idioma propio</h2></div>

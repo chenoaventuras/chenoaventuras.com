@@ -23,6 +23,8 @@ faq:
     a: "Cientos. Las más famosas son los western de Sergio Leone con Clint Eastwood, como «El bueno, el feo y el malo», además de escenas de «Lawrence de Arabia», «Indiana Jones y la última cruzada» y la serie «Juego de Tronos»."
   - q: "¿Se puede visitar gratis?"
     a: "Sí, el paraje natural se puede recorrer libremente. Los poblados del oeste (Oasys MiniHollywood, Fort Bravo, Western Leone) son parques privados con entrada."
+  - q: "¿Qué es mejor, Oasys Mini Hollywood o Fort Bravo?"
+    a: "Oasys Mini Hollywood es el más completo, con zoo y espectáculos del Oeste. Fort Bravo (Texas Hollywood) es el más antiguo y el que conserva más el aire de plató. Si solo vas a uno con niños, Oasys suele ser la opción más cómoda."
   - q: "¿Cuál es la mejor época para ir?"
     a: "De otoño a primavera. En verano las temperaturas son muy altas y conviene ir a primera hora o al atardecer."
   - q: "¿Cómo llegar al Desierto de Tabernas?"
@@ -30,6 +32,8 @@ faq:
   - q: "¿Qué se puede ver gratis en el Desierto de Tabernas?"
     a: "Recorrer el paraje, sus ramblas y miradores es gratis. Los poblados del oeste tienen entrada."
 actividades:
+  - t: "Excursión a Oasys Mini Hollywood desde Almería"
+    u: "https://www.civitatis.com/es/almeria/excursion-mini-hollywood/"
   - t: "Tour en 4x4 por el desierto de Tabernas"
     u: "https://www.civitatis.com/es/tabernas/tour-desierto-tabernas/"
 comer:
@@ -43,6 +47,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-almeria-chenoaventuras.pdf
 guiaTitulo: 'Guía Almería en PDF'
+updated: 2026-11-21
 ---
 Cárcavas peladas, ramblas secas, un sol que no perdona… y de repente, un poblado del Far West con su saloon y su banco. No estás en Arizona: estás en el **Desierto de Tabernas**, a media hora de Almería capital, el sitio donde se rodaron los grandes *spaghetti western* de Sergio Leone.
 
