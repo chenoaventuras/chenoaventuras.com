@@ -11,6 +11,14 @@ tags:
   - Spots
   - Galicia
 wide: true
+actividadesTitulo: 'Actividades cerca de Fervenza do Ézaro'
+actividades:
+  - t: "Free tour por Santiago de Compostela"
+    u: "https://www.civitatis.com/es/santiago-de-compostela/visita-guiada-santiago-compostela/"
+  - t: "Visita guiada por la Catedral de Santiago"
+    u: "https://www.civitatis.com/es/santiago-de-compostela/visita-guiada-museo-catedral-santiago/"
+  - t: "Excursión a Finisterre, Muxía y Costa da Morte"
+    u: "https://www.civitatis.com/es/santiago-de-compostela/excursion-finisterre-costa-morte/"
 faqTitulo: "Dudas sobre la Fervenza do Ézaro"
 faq:
   - q: "¿Es verdad que es la única cascada que cae al mar en Europa?"

@@ -11,6 +11,14 @@ tags:
   - Curiosidades
   - Comunidad de Madrid
 wide: true
+actividadesTitulo: 'Actividades cerca de la Catedral de Justo'
+actividades:
+  - t: "Visita guiada por Alcalá de Henares"
+    u: "https://www.civitatis.com/es/alcala-de-henares/visita-guiada-alcala-de-henares/"
+  - t: "Free tour de Miguel de Cervantes en Alcalá de Henares"
+    u: "https://www.civitatis.com/es/alcala-de-henares/ruta-cervantes/"
+  - t: "Tour de Las Ventas"
+    u: "https://www.civitatis.com/es/madrid/tour-las-ventas/"
 faqTitulo: "Dudas sobre la Catedral de Justo"
 faq:
   - q: "¿Está abierta la Catedral de Justo?"

@@ -11,6 +11,14 @@ tags:
   - Curiosidades
   - Navarra
 wide: true
+actividadesTitulo: 'Actividades cerca de Fuente del vino de Irache'
+actividades:
+  - t: "Free tour por Pamplona"
+    u: "https://www.civitatis.com/es/pamplona/free-tour-pamplona/"
+  - t: "Tour de los Sanfermines"
+    u: "https://www.civitatis.com/es/pamplona/tour-sanfermines/"
+  - t: "Excursión a la Selva de Irati y Ochagavía"
+    u: "https://www.civitatis.com/es/pamplona/excursion-selva-irati-ochagavia/"
 faqTitulo: "Dudas sobre la Fuente del vino de Irache"
 faq:
   - q: "¿Es gratis la Fuente del vino de Irache?"

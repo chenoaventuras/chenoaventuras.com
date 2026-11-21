@@ -12,6 +12,14 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividadesTitulo: 'Actividades cerca de Favàritx (Menorca)'
+actividades:
+  - t: "Free tour por Mahón"
+    u: "https://www.civitatis.com/es/mahon/free-tour-mahon/"
+  - t: "Paseo en barco por las calas del sur de Menorca desde Ciudadela"
+    u: "https://www.civitatis.com/es/ciudadela/paseo-barco-menorca/"
+  - t: "Free tour por Ciudadela"
+    u: "https://www.civitatis.com/es/ciudadela/free-tour-ciudadela/"
 faqTitulo: "Dudas sobre Favàritx y s'Albufera des Grau"
 faq:
   - q: "¿Se puede ir en coche al faro de Favàritx?"

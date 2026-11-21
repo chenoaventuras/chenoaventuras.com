@@ -39,6 +39,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-burgos-chenoaventuras.pdf
 guiaTitulo: 'Guía Burgos en PDF'
+actividadesTitulo: 'Actividades cerca de Ochate'
+actividades:
+  - t: "Free tour por Vitoria"
+    u: "https://www.civitatis.com/es/vitoria/free-tour-vitoria/"
+  - t: "Tour por Vitoria con degustación de pinchos"
+    u: "https://www.civitatis.com/es/vitoria/tour-pinchos-vitoria/"
+  - t: "Visita guiada por la Catedral Nueva de Vitoria"
+    u: "https://www.civitatis.com/es/vitoria/visita-guiada-catedral-vitoria/"
 ---
 Tres epidemias en diez años que apenas tocaron a los pueblos de alrededor, una torre de iglesia en mitad del bosque y décadas de historias sobre **luces en el cielo**. **Ochate** es probablemente el pueblo abandonado con más misterio de España.
 

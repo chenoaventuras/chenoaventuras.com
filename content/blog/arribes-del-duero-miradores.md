@@ -12,6 +12,12 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividadesTitulo: 'Actividades cerca de Arribes del Duero'
+actividades:
+  - t: "Visita guiada por Zamora"
+    u: "https://www.civitatis.com/es/zamora/visita-guiada-zamora/"
+  - t: "Free tour por Zamora"
+    u: "https://www.civitatis.com/es/zamora/free-tour-zamora/"
 faqTitulo: "Dudas sobre los Arribes"
 faq:
   - q: "¿Cuándo es parque natural Arribes del Duero?"

@@ -11,6 +11,14 @@ tags:
   - Spots
   - Galicia
 wide: true
+actividadesTitulo: 'Actividades cerca de Hórreo de Carnota'
+actividades:
+  - t: "Visita a las bodegas Martín Códax"
+    u: "https://www.civitatis.com/es/cambados/visita-bodegas-martin-codax/"
+  - t: "Paseo en barco por la ría + mejillones desde La Toja"
+    u: "https://www.civitatis.com/es/isla-de-la-toja/paseo-barco-ria-degustacion-mejillones/"
+  - t: "Free tour por Santiago de Compostela"
+    u: "https://www.civitatis.com/es/santiago-de-compostela/visita-guiada-santiago-compostela/"
 faqTitulo: "Dudas sobre el hórreo de Carnota"
 faq:
   - q: "¿Cuánto mide el hórreo de Carnota?"

@@ -12,6 +12,14 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividadesTitulo: 'Actividades cerca de Reserva de Muniellos'
+actividades:
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
+  - t: "Excursión a la Ribeira Sacra"
+    u: "https://www.civitatis.com/es/lugo/excursion-ribeira-sacra/"
+  - t: "Free tour por Lugo"
+    u: "https://www.civitatis.com/es/lugo/free-tour-lugo/"
 faqTitulo: "Dudas sobre Muniellos"
 faq:
   - q: "¿Desde cuándo es Reserva de la Biosfera Muniellos?"

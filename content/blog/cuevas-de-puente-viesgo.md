@@ -33,6 +33,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-santander-chenoaventuras.pdf
 guiaTitulo: 'Guía Santander y alrededores en PDF'
+actividadesTitulo: 'Actividades cerca de Puente Viesgo'
+actividades:
+  - t: "Entrada al Parque de la Naturaleza de Cabárceno"
+    u: "https://www.getyourguide.es/santander-l95/obregon-ticket-de-entrada-al-parque-de-la-naturaleza-de-cabarceno-t485562/"
+  - t: "Excursión a Cabárceno desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-cabarceno/"
+  - t: "Excursión a Altamira y Santillana del Mar"
+    u: "https://www.civitatis.com/es/santander/excursion-altamira-santillana-del-mar/"
 ---
 Dentro de un monte con forma de cono hay manos pintadas en rojo hace más de **40.000 años**. La **cueva de El Castillo** guarda algunas de las pinturas rupestres más antiguas del mundo, y a diferencia de Altamira, **se puede visitar la original**.
 

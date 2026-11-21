@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Extremadura
 wide: true
+actividadesTitulo: 'Actividades cerca de Zafra'
+actividades:
+  - t: "Free tour por Mérida"
+    u: "https://www.civitatis.com/es/merida/visita-guiada-merida/"
+  - t: "Visita guiada por el anfiteatro y teatro romano de Mérida"
+    u: "https://www.civitatis.com/es/merida/visita-teatro-anfiteatro/"
+  - t: "Tour de los misterios y leyendas de Mérida"
+    u: "https://www.civitatis.com/es/merida/tour-misterios-leyendas-merida/"
 faqTitulo: "Dudas sobre Zafra"
 faq:
   - q: "¿Por qué llaman a Zafra la «Sevilla chica»?"

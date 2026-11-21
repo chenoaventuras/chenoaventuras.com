@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Canarias
 wide: true
+actividadesTitulo: 'Actividades cerca de Hermigua y Agulo (La Gomera)'
+actividades:
+  - t: "Avistamiento de delfines y ballenas en el sur de La Gomera"
+    u: "https://www.civitatis.com/es/valle-gran-rey/avistamiento-cetaceos-valle-gran-rey/"
+  - t: "Tour por el interior de La Gomera y Garajonay"
+    u: "https://www.civitatis.com/es/san-sebastian-de-la-gomera/tour-interior-gomera/"
+  - t: "Excursión a Masca y Los Gigantes con avistamiento de ballenas y delfines"
+    u: "https://www.civitatis.com/es/costa-adeje/excursion-masca-gigantes/"
 faqTitulo: "Dudas sobre Hermigua y Agulo"
 faq:
   - q: "¿Qué es el Mirador de Abrante?"

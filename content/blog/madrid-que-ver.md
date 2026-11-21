@@ -12,6 +12,14 @@ tags:
   - Spots
   - Comunidad de Madrid
 wide: true
+actividadesTitulo: 'Actividades en Madrid'
+actividades:
+  - t: "Tour por Madrid para familias"
+    u: "https://www.civitatis.com/es/madrid/tour-madrid-familias/"
+  - t: "Free tour por Chueca y Malasaña (incluye San Antonio de los Alemanes)"
+    u: "https://www.civitatis.com/es/madrid/free-tour-chueca-malasana/"
+  - t: "Free tour de los fantasmas de Madrid"
+    u: "https://www.civitatis.com/es/madrid/tour-fantasmas-madrid/"
 faqTitulo: "Dudas sobre Madrid"
 faq:
   - q: "¿Desde cuándo es Madrid la capital de España?"

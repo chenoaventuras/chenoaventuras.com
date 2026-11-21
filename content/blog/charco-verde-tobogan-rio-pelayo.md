@@ -11,6 +11,14 @@ tags:
   - Spots
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DalUcTPxSOE/'
+actividadesTitulo: 'Actividades cerca de Arenas de San Pedro'
+actividades:
+  - t: "Tour en 4x4 por la Garganta de los Infiernos y Los Pilones"
+    u: "https://www.civitatis.com/es/jerte/tour-4x4-garganta-infiernos/"
+  - t: "Tour en 4x4 por el Valle del Jerte + recogida de cerezas"
+    u: "https://www.civitatis.com/es/jerte/tour-4x4-jerte-recogida-cerezas/"
+  - t: "Tour privado por el monasterio de Yuste"
+    u: "https://www.civitatis.com/es/cuacos-de-yuste/tour-privado-monasterio-yuste/"
 faqTitulo: "Dudas sobre el Charco Verde y el Río Pelayo"
 faq:
   - q: "¿Dónde está el Charco Verde de Arenas de San Pedro?"

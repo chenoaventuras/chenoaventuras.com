@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividadesTitulo: 'Actividades cerca de Pueblos de colores (Riaza, Segovia)'
+actividades:
+  - t: "Alquiler de kayak en las Hoces del Duratón"
+    u: "https://www.civitatis.com/es/san-miguel-de-bernuy/alquiler-kayak-hoces-duraton/"
+  - t: "Entradas al castillo de Pedraza con audioguía"
+    u: "https://www.civitatis.com/es/pedraza/entradas-castillo-pedraza/"
+  - t: "Free tour por Buitrago del Lozoya"
+    u: "https://www.civitatis.com/es/buitrago-lozoya/free-tour-buitrago-lozoya/"
 faqTitulo: "Dudas sobre los pueblos de colores de Segovia"
 faq:
   - q: "¿Cuáles son los pueblos de colores de Segovia?"

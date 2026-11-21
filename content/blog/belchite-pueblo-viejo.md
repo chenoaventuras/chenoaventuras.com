@@ -36,6 +36,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-zaragoza-chenoaventuras.pdf
 guiaTitulo: 'Guía Zaragoza en PDF'
+actividadesTitulo: 'Actividades cerca de Belchite'
+actividades:
+  - t: "Free tour por Zaragoza"
+    u: "https://www.civitatis.com/es/zaragoza/free-tour-zaragoza/"
+  - t: "Visita guiada por la Basílica del Pilar"
+    u: "https://www.civitatis.com/es/zaragoza/catedral-basilica-pilar/"
+  - t: "Excursión a Ordesa y Monte Perdido desde Zaragoza"
+    u: "https://www.civitatis.com/es/zaragoza/excursion-ordesa-monte-perdido/"
 ---
 Iglesias sin techo, calles llenas de escombros y fachadas agujereadas por las balas. El **Pueblo Viejo de Belchite** se quedó tal y como acabó la batalla de 1937, y lleva casi noventa años así.
 

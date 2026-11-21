@@ -13,6 +13,14 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividadesTitulo: 'Actividades cerca de Playa de Patalavaca'
+actividades:
+  - t: "Paseo en barco por Puerto de Mogán + snorkel"
+    u: "https://www.civitatis.com/es/puerto-de-mogan/paseo-barco-puerto-mogan-snorkel/"
+  - t: "Kayak y snorkel en las cuevas de Taurito"
+    u: "https://www.civitatis.com/es/mogan/kayak-snorkel-cuevas-taurito/"
+  - t: "Excursión a Puerto de Mogán y su mercadillo desde Maspalomas"
+    u: "https://www.civitatis.com/es/maspalomas/excursion-puerto-mogan/"
 faqTitulo: "Dudas sobre la playa de Patalavaca"
 faq:
   - q: "¿Dónde está la playa de Patalavaca?"

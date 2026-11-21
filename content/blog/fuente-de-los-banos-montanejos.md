@@ -11,6 +11,14 @@ tags:
   - Spots
   - Comunidad Valenciana
 igPermalink: 'https://www.instagram.com/reel/DMXRT6iIYC6/'
+actividadesTitulo: 'Actividades cerca de Montanejos'
+actividades:
+  - t: "Entrada a Dinópolis"
+    u: "https://www.civitatis.com/es/teruel/entrada-dinopolis/"
+  - t: "Visita guiada por Teruel"
+    u: "https://www.civitatis.com/es/teruel/visita-guiada-teruel/"
+  - t: "Cuevas de Sant Josep: paseo en barca por la cueva más larga de Europa"
+    u: "https://www.getyourguide.es/valencia-l49/navega-a-traves-de-la-cueva-mas-larga-de-europa-las-cuevas-de-sant-josep-t1116430/"
 faqTitulo: "Dudas sobre la Fuente de los Baños"
 faq:
   - q: "¿Hay que pagar para bañarse en la Fuente de los Baños de Montanejos?"

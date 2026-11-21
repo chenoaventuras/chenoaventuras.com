@@ -42,6 +42,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-caceres-trujillo-chenoaventuras.pdf
 guiaTitulo: 'Guía Cáceres, Trujillo y Monfragüe en PDF'
+actividadesTitulo: 'Actividades cerca de Los Barruecos'
+actividades:
+  - t: "Free tour por Cáceres"
+    u: "https://www.civitatis.com/es/caceres/visita-guiada-caceres/"
+  - t: "Free tour de los misterios y leyendas de Cáceres"
+    u: "https://www.civitatis.com/es/caceres/tour-misterios-leyendas-caceres/"
+  - t: "Tour en 4x4 por la dehesa de Cáceres"
+    u: "https://www.civitatis.com/es/caceres/tour-dehesa-caceres/"
 ---
 Rocas de granito enormes, redondeadas como si alguien las hubiera colocado a mano, reflejándose en charcas tranquilas. Y encima de muchas de ellas, **nidos de cigüeña**. Son **Los Barruecos**, un Monumento Natural a solo 15 minutos de Cáceres.
 

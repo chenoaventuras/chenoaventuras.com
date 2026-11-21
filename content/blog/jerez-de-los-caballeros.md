@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Extremadura
 wide: true
+actividadesTitulo: 'Actividades cerca de Jerez de los Caballeros'
+actividades:
+  - t: "Visita guiada por Olivenza"
+    u: "https://www.civitatis.com/es/olivenza/visita-guiada-olivenza/"
+  - t: "Excursión a la Sierra de Aracena desde Sevilla"
+    u: "https://www.civitatis.com/es/sevilla/excursion-sierra-aracena/"
+  - t: "Visita guiada por Aracena y su castillo"
+    u: "https://www.civitatis.com/es/aracena/visita-guiada-aracena-castillo/"
 faqTitulo: "Dudas sobre Jerez de los Caballeros"
 faq:
   - q: "¿Qué ver en Jerez de los Caballeros?"

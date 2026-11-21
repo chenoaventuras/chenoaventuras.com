@@ -12,6 +12,14 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividadesTitulo: 'Actividades cerca de Cala Saona'
+actividades:
+  - t: "Paseo en barco por las calas de Formentera desde La Savina"
+    u: "https://www.civitatis.com/es/formentera/barco-calas-formentera/"
+  - t: "Excursión a Formentera desde Ibiza"
+    u: "https://www.civitatis.com/es/san-antonio-abad/excursion-formentera/"
+  - t: "Paseo en barco por Cala Bassa y Cala Conta desde San Antonio"
+    u: "https://www.civitatis.com/es/san-antonio-abad/barco-cala-bassa-conta/"
 faqTitulo: "Dudas sobre Cala Saona"
 faq:
   - q: "¿Dónde está Cala Saona?"

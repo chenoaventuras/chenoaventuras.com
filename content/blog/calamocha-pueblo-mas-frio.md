@@ -11,6 +11,14 @@ tags:
   - Pueblos
   - Aragón
 wide: true
+actividadesTitulo: 'Actividades cerca de Calamocha'
+actividades:
+  - t: "Tour privado por Sigüenza"
+    u: "https://www.civitatis.com/es/siguenza/tour-privado-siguenza/"
+  - t: "Free tour por Albarracín"
+    u: "https://www.civitatis.com/es/albarracin/free-tour-albarracin/"
+  - t: "Visita guiada por el Castillo de Albarracín"
+    u: "https://www.civitatis.com/es/albarracin/visita-guiada-castillo-albarracin/"
 faqTitulo: "Dudas sobre Calamocha y el frío"
 faq:
   - q: "¿Cuál es el pueblo más frío de España?"

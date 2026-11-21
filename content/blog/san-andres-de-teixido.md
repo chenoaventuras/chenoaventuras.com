@@ -24,6 +24,12 @@ faq:
     a: "La fiesta principal es el 30 de noviembre, día de San Andrés, pero hay peregrinos todo el año, sobre todo en verano."
 guia: /assets/guias/guia-a-coruna-chenoaventuras.pdf
 guiaTitulo: 'Guía A Coruña en PDF'
+actividadesTitulo: 'Actividades cerca de San Andrés de Teixido'
+actividades:
+  - t: "Free tour por el Parque Escultórico de la Torre de Hércules"
+    u: "https://www.civitatis.com/es/la-coruna/free-tour-torre-hercules/"
+  - t: "Free tour por La Coruña"
+    u: "https://www.civitatis.com/es/la-coruna/free-tour-coruna/"
 ---
 En Galicia hay un dicho que no deja escapatoria: **«A San Andrés de Teixido vai de morto quen non foi de vivo»**. A este pequeño santuario colgado sobre el Atlántico hay que ir sí o sí: o vas en vida, o irás después de muerto convertido en lagartija, sapo o culebra.
 

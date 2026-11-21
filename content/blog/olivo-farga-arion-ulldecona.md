@@ -11,6 +11,14 @@ tags:
   - Spots
   - Cataluña
 wide: true
+actividadesTitulo: 'Actividades cerca de Farga de l''''Arion, Ulldecona'
+actividades:
+  - t: "Tour en 4x4 y paseo en barco por el Delta del Ebro + degustación"
+    u: "https://www.civitatis.com/es/deltebre/tour-4x4-barco-delta-ebro/"
+  - t: "Avistamiento de flamencos en el Delta del Ebro al atardecer"
+    u: "https://www.civitatis.com/es/poblenou-del-delta/avistamiento-flamencos-delta-ebro-atardecer/"
+  - t: "Visita guiada por Peñíscola y el Castillo del Papa Luna"
+    u: "https://www.civitatis.com/es/peniscola/visita-guiada-peniscola/"
 faqTitulo: "Dudas sobre la Farga de l'Arion"
 faq:
   - q: "¿Dónde está el olivo más antiguo de España?"

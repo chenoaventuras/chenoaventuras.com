@@ -41,6 +41,14 @@ comer:
     d: "Salvatore Karrika, 33 (Urdax)"
 comerFecha: "octubre de 2026"
 guiaTitulo: 'Guía Navarra en PDF'
+actividadesTitulo: 'Actividades cerca de Zugarramurdi'
+actividades:
+  - t: "Free tour por Hondarribia"
+    u: "https://www.civitatis.com/es/hondarribia/free-tour-hondarribia/"
+  - t: "Tour por la costa de Gipuzkoa desde San Sebastián"
+    u: "https://www.civitatis.com/es/san-sebastian/tour-costa-guipuzcoa/"
+  - t: "San Sebastián: tour guiado en bici eléctrica"
+    u: "https://www.getyourguide.es/san-sebastian-l94/san-sebastian-tour-guiado-en-bici-electrica-t426639/"
 ---
 Un riachuelo que atraviesa la montaña, una cueva enorme abierta por el agua y un pueblo de caseríos blancos en la frontera con Francia. En **Zugarramurdi** se juntaron hace cuatro siglos la superstición, los chivatazos entre vecinos y la Inquisición, y el resultado fue uno de los juicios por brujería más famosos de Europa.
 

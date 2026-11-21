@@ -12,6 +12,14 @@ tags:
   - Spots
   - País Vasco
 wide: true
+actividadesTitulo: 'Actividades cerca de Valle Salado de Añana'
+actividades:
+  - t: "Free tour por Bilbao"
+    u: "https://www.civitatis.com/es/bilbao/free-tour-bilbao/"
+  - t: "Free tour por Vitoria"
+    u: "https://www.civitatis.com/es/vitoria/free-tour-vitoria/"
+  - t: "Tour por Vitoria con degustación de pinchos"
+    u: "https://www.civitatis.com/es/vitoria/tour-pinchos-vitoria/"
 faqTitulo: "Dudas sobre el Valle Salado de Añana"
 faq:
   - q: "¿Cuánto cuesta visitar el Valle Salado de Añana?"

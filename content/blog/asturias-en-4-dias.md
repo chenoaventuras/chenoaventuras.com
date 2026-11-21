@@ -14,6 +14,14 @@ tags:
 wide: true
 sinGuia: true
 coche: true
+actividadesTitulo: 'Actividades en Asturias'
+actividades:
+  - t: "Tour de quesos y sidra por Gijón"
+    u: "https://www.civitatis.com/es/gijon/tour-gastronomico-gijon/"
+  - t: "Visita al llagar Sidra JR"
+    u: "https://www.civitatis.com/es/gijon/visita-llagar-sidra-jr/"
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
 faqTitulo: "Dudas sobre Asturias en 4 días"
 faq:
   - q: "¿Cuántos días hacen falta para Asturias?"

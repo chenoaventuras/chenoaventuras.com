@@ -11,6 +11,14 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividadesTitulo: 'Actividades cerca de Lerma'
+actividades:
+  - t: "Visita guiada por la catedral de Burgos"
+    u: "https://www.civitatis.com/es/burgos/visita-guiada-catedral-burgos/"
+  - t: "Free tour por Burgos"
+    u: "https://www.civitatis.com/es/burgos/free-tour-burgos/"
+  - t: "Visita guiada por el castillo de Peñafiel + Museo del Vino"
+    u: "https://www.civitatis.com/es/penafiel/visita-guiada-castillo-penafiel-museo-vino/"
 faqTitulo: "Dudas sobre Lerma"
 faq:
   - q: "¿Qué ver en Lerma?"

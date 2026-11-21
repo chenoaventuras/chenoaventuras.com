@@ -11,6 +11,14 @@ tags:
   - Actividades
   - Cantabria
 wide: true
+actividadesTitulo: 'Actividades cerca de Laberinto de Villapresente'
+actividades:
+  - t: "Free tour por Santillana del Mar"
+    u: "https://www.civitatis.com/es/santillana-del-mar/free-tour-santillana-del-mar/"
+  - t: "Visita guiada a Altamira"
+    u: "https://www.civitatis.com/es/santillana-del-mar/visita-guiada-altamira/"
+  - t: "Excursión a Altamira y Santillana del Mar desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-altamira-santillana-del-mar/"
 faqTitulo: "Dudas sobre el Laberinto de Villapresente"
 faq:
   - q: "¿Cuál es el laberinto más grande de España?"

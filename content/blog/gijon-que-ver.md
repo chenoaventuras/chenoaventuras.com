@@ -12,6 +12,14 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividadesTitulo: 'Actividades en Gijón'
+actividades:
+  - t: "Free tour por Gijón"
+    u: "https://www.civitatis.com/es/gijon/free-tour-gijon/"
+  - t: "Tour de quesos y sidra por Gijón"
+    u: "https://www.civitatis.com/es/gijon/tour-gastronomico-gijon/"
+  - t: "Visita guiada por Gijón"
+    u: "https://www.civitatis.com/es/gijon/visita-guiada-gijon/"
 faqTitulo: "Dudas sobre Gijón"
 faq:
   - q: "¿Quién nació en Gijón?"

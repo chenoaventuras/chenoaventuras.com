@@ -13,6 +13,14 @@ tags:
 wide: true
 guia: /assets/guias/guia-madrid-curioso-chenoaventuras.pdf
 guiaTitulo: 'Guía Madrid curioso en PDF'
+actividadesTitulo: 'Actividades en Madrid'
+actividades:
+  - t: "Tour por Madrid para familias"
+    u: "https://www.civitatis.com/es/madrid/tour-madrid-familias/"
+  - t: "Free tour por Chueca y Malasaña (incluye San Antonio de los Alemanes)"
+    u: "https://www.civitatis.com/es/madrid/free-tour-chueca-malasana/"
+  - t: "Free tour de los fantasmas de Madrid"
+    u: "https://www.civitatis.com/es/madrid/tour-fantasmas-madrid/"
 ---
 Madrid se ve mejor desde arriba. Entre cerros, azoteas y torres, la ciudad tiene un montón de **miradores**, y muchos son **gratis**. Estos son los que más se buscan y los que yo te recomiendo, con lo que cuesta cada uno y cuál es el mejor para el **atardecer**.
 

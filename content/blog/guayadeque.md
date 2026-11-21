@@ -11,6 +11,14 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividadesTitulo: 'Actividades cerca de Barranco de Guayadeque'
+actividades:
+  - t: "Excursión a Maspalomas, Mogán y el barranco de Guayadeque"
+    u: "https://www.civitatis.com/es/las-palmas-de-gran-canaria/excursion-maspalomas-mogan-barranco-guayadeque/"
+  - t: "Entrada al Cocodrilo Park (Agüimes)"
+    u: "https://www.civitatis.com/es/aguimes/entrada-cocodrilo-park-gran-canaria/"
+  - t: "Free tour por Las Palmas de Gran Canaria"
+    u: "https://www.civitatis.com/es/las-palmas-de-gran-canaria/free-tour-las-palmas/"
 faqTitulo: "Dudas sobre el Barranco de Guayadeque"
 faq:
   - q: "¿Dónde está el Barranco de Guayadeque?"

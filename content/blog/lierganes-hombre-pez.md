@@ -33,6 +33,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-santander-chenoaventuras.pdf
 guiaTitulo: 'Guía Santander y alrededores en PDF'
+actividadesTitulo: 'Actividades cerca de Liérganes'
+actividades:
+  - t: "Entrada al Parque de la Naturaleza de Cabárceno"
+    u: "https://www.getyourguide.es/santander-l95/obregon-ticket-de-entrada-al-parque-de-la-naturaleza-de-cabarceno-t485562/"
+  - t: "Paseo en barco por la bahía de Santander"
+    u: "https://www.civitatis.com/es/santander/paseo-barco-bahia-santander/"
+  - t: "Visita guiada por el Palacio de la Magdalena"
+    u: "https://www.civitatis.com/es/santander/visita-guiada-palacio-magdalena/"
 ---
 En 1674, un joven de este pueblo se tiró a nadar y desapareció. Cinco años después, unos pescadores de **Cádiz** sacaron del mar a un ser con aspecto de hombre, escamas y membranas entre los dedos, que solo sabía decir una palabra: **«Liérganes»**.
 

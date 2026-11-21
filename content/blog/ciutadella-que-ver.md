@@ -12,6 +12,14 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividadesTitulo: 'Actividades cerca de Ciutadella de Menorca'
+actividades:
+  - t: "Paseo en barco por las calas del sur de Menorca desde Ciudadela"
+    u: "https://www.civitatis.com/es/ciudadela/paseo-barco-menorca/"
+  - t: "Free tour por Mahón"
+    u: "https://www.civitatis.com/es/mahon/free-tour-mahon/"
+  - t: "Free tour por Ciudadela"
+    u: "https://www.civitatis.com/es/ciudadela/free-tour-ciudadela/"
 faqTitulo: "Dudas sobre Ciutadella"
 faq:
   - q: "¿Qué ver en Ciutadella en un día?"

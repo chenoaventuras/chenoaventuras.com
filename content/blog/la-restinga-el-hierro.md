@@ -12,6 +12,12 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividadesTitulo: 'Actividades cerca de La Restinga'
+actividades:
+  - t: "Avistamiento de cetáceos en La Restinga"
+    u: "https://www.civitatis.com/es/la-restinga/avistamiento-cetaceos-restinga/"
+  - t: "Free tour por Valverde"
+    u: "https://www.civitatis.com/es/valverde/free-tour-valverde/"
 faqTitulo: "Dudas sobre La Restinga"
 faq:
   - q: "¿Dónde está La Restinga?"

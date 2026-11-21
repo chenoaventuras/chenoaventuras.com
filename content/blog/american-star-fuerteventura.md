@@ -11,6 +11,14 @@ tags:
   - Curiosidades
   - Canarias
 wide: true
+actividadesTitulo: 'Actividades cerca de Playa de Garcey, Fuerteventura'
+actividades:
+  - t: "Ferry a la isla de Lobos desde Corralejo"
+    u: "https://www.civitatis.com/es/corralejo/ferry-isla-lobos/"
+  - t: "Excursión a La Oliva, Betancuria y dunas de Corralejo"
+    u: "https://www.civitatis.com/es/corralejo/excursion-la-oliva-betancuria-corralejo/"
+  - t: "Ferry a la isla de Lobos + snorkel"
+    u: "https://www.civitatis.com/es/corralejo/excursion-isla-lobos/"
 faqTitulo: "Dudas sobre el American Star"
 faq:
   - q: "¿Dónde está el American Star?"

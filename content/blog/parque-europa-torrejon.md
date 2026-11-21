@@ -13,6 +13,14 @@ tags:
   - Madrid
 wide: true
 coche: true
+actividadesTitulo: 'Actividades cerca de Parque Europa'
+actividades:
+  - t: "Visita guiada por Alcalá de Henares"
+    u: "https://www.civitatis.com/es/alcala-de-henares/visita-guiada-alcala-de-henares/"
+  - t: "Free tour de Miguel de Cervantes en Alcalá de Henares"
+    u: "https://www.civitatis.com/es/alcala-de-henares/ruta-cervantes/"
+  - t: "Tour de Las Ventas"
+    u: "https://www.civitatis.com/es/madrid/tour-las-ventas/"
 faqTitulo: "Dudas sobre el Parque Europa"
 faq:
   - q: "¿Es gratis el Parque Europa de Torrejón?"

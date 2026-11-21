@@ -33,6 +33,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-santander-chenoaventuras.pdf
 guiaTitulo: 'Guía Santander y alrededores en PDF'
+actividadesTitulo: 'Actividades cerca de la Costa Quebrada'
+actividades:
+  - t: "Excursión a Potes, Santo Toribio y Fuente Dé desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-picos-europa/"
+  - t: "Excursión a Cabárceno desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-cabarceno/"
+  - t: "Excursión a Altamira y Santillana del Mar"
+    u: "https://www.civitatis.com/es/santander/excursion-altamira-santillana-del-mar/"
 ---
 Islotes de roca que salen del mar como torres, láminas de piedra inclinadas que parecen las páginas de un libro y calas que solo aparecen con la marea baja. La **Costa Quebrada** es el tramo de costa más fotogénico de Cantabria.
 

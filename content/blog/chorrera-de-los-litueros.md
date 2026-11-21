@@ -11,6 +11,14 @@ tags:
   - Spots
   - Comunidad de Madrid
 igPermalink: 'https://www.instagram.com/reel/DVWktJLDPZS/'
+actividadesTitulo: 'Actividades cerca de Chorrera de los Litueros'
+actividades:
+  - t: "Free tour por Buitrago del Lozoya"
+    u: "https://www.civitatis.com/es/buitrago-lozoya/free-tour-buitrago-lozoya/"
+  - t: "Alquiler de kayak en el embalse de Riosequillo"
+    u: "https://www.civitatis.com/es/pinilla-de-buitrago/alquiler-kayak-embalse-riosequillo/"
+  - t: "Entradas al castillo de Pedraza con audioguía"
+    u: "https://www.civitatis.com/es/pedraza/entradas-castillo-pedraza/"
 faqTitulo: "Dudas sobre la Chorrera de los Litueros"
 faq:
   - q: "¿Dónde está la Chorrera de los Litueros?"

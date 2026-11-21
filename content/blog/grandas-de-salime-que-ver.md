@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Asturias
 wide: true
+actividadesTitulo: 'Actividades cerca de Grandas de Salime'
+actividades:
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
+  - t: "Excursión a Avilés, Cudillero y Luarca"
+    u: "https://www.civitatis.com/es/oviedo/excursion-aviles-cudillero-luarca/"
+  - t: "Excursión a la playa de Las Catedrales, Tapia y Ribadeo"
+    u: "https://www.civitatis.com/es/oviedo/excursion-playa-catedrales-tapia-ribadeo/"
 faqTitulo: "Dudas sobre Grandas de Salime"
 faq:
   - q: "¿Cuándo se fundó el Museo Etnográfico de Grandas de Salime?"

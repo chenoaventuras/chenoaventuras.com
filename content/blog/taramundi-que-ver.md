@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Asturias
 wide: true
+actividadesTitulo: 'Actividades cerca de Taramundi'
+actividades:
+  - t: "Excursión a la playa de Las Catedrales, Tapia y Ribadeo"
+    u: "https://www.civitatis.com/es/oviedo/excursion-playa-catedrales-tapia-ribadeo/"
+  - t: "Excursión a la playa de Las Catedrales desde Lugo"
+    u: "https://www.civitatis.com/es/lugo/excursion-playa-catedrales/"
+  - t: "Paseo en lancha a la playa de Las Catedrales"
+    u: "https://www.civitatis.com/es/foz/paseo-lancha-playa-catedrales/"
 faqTitulo: "Dudas sobre Taramundi"
 faq:
   - q: "¿Qué es la Ruta de los Ferreiros de Taramundi?"

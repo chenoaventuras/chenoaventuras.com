@@ -12,6 +12,14 @@ tags:
   - Actividades
   - País Vasco
 wide: true
+actividadesTitulo: 'Actividades cerca de Valderejo'
+actividades:
+  - t: "Free tour por Bilbao"
+    u: "https://www.civitatis.com/es/bilbao/free-tour-bilbao/"
+  - t: "Free tour por Vitoria"
+    u: "https://www.civitatis.com/es/vitoria/free-tour-vitoria/"
+  - t: "Tour por Vitoria con degustación de pinchos"
+    u: "https://www.civitatis.com/es/vitoria/tour-pinchos-vitoria/"
 faqTitulo: "Dudas sobre Valderejo"
 faq:
   - q: "¿Dónde está el Parque Natural de Valderejo?"

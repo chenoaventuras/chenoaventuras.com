@@ -34,6 +34,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-toledo-chenoaventuras.pdf
 guiaTitulo: 'Guía Toledo en PDF'
+actividadesTitulo: 'Actividades cerca de Illán de Vacas'
+actividades:
+  - t: "Free tour por Toledo"
+    u: "https://www.civitatis.com/es/toledo/free-tour-toledo/"
+  - t: "Visita guiada por la catedral de Toledo"
+    u: "https://www.civitatis.com/es/toledo/visita-guiada-catedral-toledo/"
+  - t: "Entrada a Puy du Fou España + El Sueño de Toledo"
+    u: "https://www.civitatis.com/es/toledo/entrada-puy-fou-sueno-toledo/"
 ---
 Tiene ayuntamiento, alcalde, iglesia y fiestas... y **8 vecinos**. **Illán de Vacas**, en Toledo, es el **municipio con menos habitantes de España** según el INE.
 

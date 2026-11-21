@@ -12,6 +12,14 @@ tags:
   - Actividades
   - Castilla y León
 igPermalink: 'https://www.instagram.com/reel/DZAwD6dsanE/'
+actividadesTitulo: 'Actividades cerca de Quintanilla del Agua'
+actividades:
+  - t: "Visita guiada por la catedral de Burgos"
+    u: "https://www.civitatis.com/es/burgos/visita-guiada-catedral-burgos/"
+  - t: "Free tour por Burgos"
+    u: "https://www.civitatis.com/es/burgos/free-tour-burgos/"
+  - t: "Tour panorámico por El Burgo de Osma"
+    u: "https://www.civitatis.com/es/el-burgo-de-osma/tour-panoramico-burgo-osma/"
 faqTitulo: "Dudas sobre Territorio Artlanza"
 faq:
   - q: "¿Dónde está Territorio Artlanza?"

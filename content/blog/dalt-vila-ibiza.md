@@ -12,6 +12,14 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividadesTitulo: 'Actividades cerca de Dalt Vila'
+actividades:
+  - t: "Paseo en barco por Cala Bassa y Cala Conta desde San Antonio"
+    u: "https://www.civitatis.com/es/san-antonio-abad/barco-cala-bassa-conta/"
+  - t: "Paseo en barco por Es Vedrá desde San Antonio Abad"
+    u: "https://www.civitatis.com/es/san-antonio-abad/paseo-barco-es-vedra/"
+  - t: "Excursión a Formentera desde Ibiza"
+    u: "https://www.civitatis.com/es/san-antonio-abad/excursion-formentera/"
 faqTitulo: "Dudas sobre Dalt Vila"
 faq:
   - q: "¿Cuánto cuesta visitar Dalt Vila?"

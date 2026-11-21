@@ -12,6 +12,14 @@ tags:
   - Spots
   - Galicia
 wide: true
+actividadesTitulo: 'Actividades en A Coruña'
+actividades:
+  - t: "Free tour por el Parque Escultórico de la Torre de Hércules"
+    u: "https://www.civitatis.com/es/la-coruna/free-tour-torre-hercules/"
+  - t: "Free tour por La Coruña"
+    u: "https://www.civitatis.com/es/la-coruna/free-tour-coruna/"
+  - t: "Free tour por Santiago de Compostela"
+    u: "https://www.civitatis.com/es/santiago-de-compostela/visita-guiada-santiago-compostela/"
 faqTitulo: "Dudas sobre A Coruña"
 faq:
   - q: "¿Quién fue María Pita?"

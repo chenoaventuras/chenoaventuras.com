@@ -35,6 +35,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-zamora-chenoaventuras.pdf
 guiaTitulo: 'Guía Zamora en PDF'
+actividadesTitulo: 'Actividades cerca de Rihonor de Castilla'
+actividades:
+  - t: "Visita guiada por Zamora"
+    u: "https://www.civitatis.com/es/zamora/visita-guiada-zamora/"
+  - t: "Free tour por Zamora"
+    u: "https://www.civitatis.com/es/zamora/free-tour-zamora/"
+  - t: "Visita guiada por Las Médulas"
+    u: "https://www.civitatis.com/es/las-medulas/visita-guiada-medulas/"
 ---
 Imagina que vas a casa de tu vecino y **cambias de país**. En **Rihonor de Castilla** (Zamora) pasa eso: el pueblo forma **un solo núcleo** con **Rio de Onor**, en Portugal. Una calle hace de frontera.
 

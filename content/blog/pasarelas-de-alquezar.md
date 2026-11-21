@@ -38,6 +38,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-prepirineo-huesca-chenoaventuras.pdf
 guiaTitulo: 'Guía Loarre, Alquézar y Guara en PDF'
+actividadesTitulo: 'Actividades cerca de Alquézar'
+actividades:
+  - t: "Excursión al Parque Nacional de Ordesa y Monte Perdido desde Huesca"
+    u: "https://www.civitatis.com/es/huesca/excursion-ordesa-monte-perdido/"
+  - t: "Vía ferrata del Sorrosal desde Torla-Ordesa"
+    u: "https://www.civitatis.com/es/torla-ordesa/via-ferrata-sorrosal/"
+  - t: "Visita guiada por Huesca"
+    u: "https://www.civitatis.com/es/huesca/visita-guiada-huesca/"
 ---
 Pasarelas metálicas colgadas de la roca, un río de aguas turquesas por debajo y, al final, uno de los pueblos más bonitos de España. Las **Pasarelas de Alquézar** son la ruta más popular de la Sierra de Guara, y con razón.
 

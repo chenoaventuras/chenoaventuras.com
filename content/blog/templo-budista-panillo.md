@@ -11,6 +11,14 @@ tags:
   - Curiosidades
   - Aragón
 wide: true
+actividadesTitulo: 'Actividades cerca de Dag Shang Kagyu (Panillo)'
+actividades:
+  - t: "Excursión al Parque Nacional de Ordesa y Monte Perdido desde Huesca"
+    u: "https://www.civitatis.com/es/huesca/excursion-ordesa-monte-perdido/"
+  - t: "Alquiler de kayak en el Congost de Mont-rebei"
+    u: "https://www.getyourguide.es/barcelona-l45/barcelona-kayak-rental-in-the-mont-rebei-gorge-t1017662/"
+  - t: "Vía ferrata del Sorrosal desde Torla-Ordesa"
+    u: "https://www.civitatis.com/es/torla-ordesa/via-ferrata-sorrosal/"
 faqTitulo: "Dudas sobre el templo budista de Panillo"
 faq:
   - q: "¿El templo budista de Panillo está en Zaragoza?"

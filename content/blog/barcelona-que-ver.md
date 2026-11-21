@@ -12,6 +12,14 @@ tags:
   - Spots
   - Cataluña
 wide: true
+actividadesTitulo: 'Actividades en Barcelona'
+actividades:
+  - t: "Visita guiada a la Sagrada Familia"
+    u: "https://www.civitatis.com/es/barcelona/visita-guiada-sagrada-familia/"
+  - t: "Tour por la Sagrada Familia con subida a las torres"
+    u: "https://www.civitatis.com/es/barcelona/visita-sagrada-familia-torres/"
+  - t: "Visita guiada por el Park Güell"
+    u: "https://www.civitatis.com/es/barcelona/visita-guiada-parque-guell/"
 faqTitulo: "Dudas sobre Barcelona"
 faq:
   - q: "¿Quién planificó el Eixample de Barcelona?"

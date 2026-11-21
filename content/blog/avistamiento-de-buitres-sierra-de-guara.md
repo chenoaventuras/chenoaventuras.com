@@ -17,6 +17,14 @@ igPermalink: 'https://www.instagram.com/reel/DLYBHuVI9Ja/'
 guia: /assets/guias/guia-pirineo-aragones-chenoaventuras.pdf
 guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
+actividadesTitulo: 'Actividades cerca de Sierra de Guara'
+actividades:
+  - t: "Excursión al Parque Nacional de Ordesa y Monte Perdido desde Huesca"
+    u: "https://www.civitatis.com/es/huesca/excursion-ordesa-monte-perdido/"
+  - t: "Visita guiada por Huesca"
+    u: "https://www.civitatis.com/es/huesca/visita-guiada-huesca/"
+  - t: "Free tour por Huesca"
+    u: "https://www.civitatis.com/es/huesca/free-tour-huesca/"
 faqTitulo: "Dudas sobre el avistamiento de buitres"
 faq:
   - q: "¿Dónde se pueden ver buitres en la Sierra de Guara?"

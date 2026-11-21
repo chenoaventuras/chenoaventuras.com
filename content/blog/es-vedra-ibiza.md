@@ -12,6 +12,14 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividadesTitulo: 'Actividades cerca de Es Vedrà'
+actividades:
+  - t: "Barco a Es Vedrà desde San Antonio"
+    u: "https://www.civitatis.com/es/san-antonio-abad/paseo-barco-es-vedra/"
+  - t: "Paseo en barco por Cala Bassa y Cala Conta desde San Antonio"
+    u: "https://www.civitatis.com/es/san-antonio-abad/barco-cala-bassa-conta/"
+  - t: "Excursión a Formentera desde Ibiza"
+    u: "https://www.civitatis.com/es/san-antonio-abad/excursion-formentera/"
 faqTitulo: "Dudas sobre Es Vedrà"
 faq:
   - q: "¿Se puede subir a Es Vedrà?"

@@ -11,6 +11,14 @@ tags:
   - Spots
   - Cataluña
 wide: true
+actividadesTitulo: 'Actividades cerca de Cabo de Creus'
+actividades:
+  - t: "Cadaqués: paseo en el barco de Dalí con baño"
+    u: "https://www.getyourguide.es/port-lligat-l150580/cadaques-salvador-dali-boat-tour-with-swimming-stop-t1394437/"
+  - t: "Casa-Museo Dalí en Portlligat: tour desde Barcelona"
+    u: "https://www.getyourguide.es/barcelona-l45/barcelona-dali-portlligat-house-museum-cadaques-t871600/"
+  - t: "Vuelo en globo sobre los volcanes de la Garrotxa"
+    u: "https://www.getyourguide.es/costa-brava-l473/vuelo-en-globo-sobre-los-volcanes-de-la-costa-brava-desde-santa-pau-t35210/"
 faqTitulo: "Dudas sobre el Cap de Creus"
 faq:
   - q: "¿Cuándo se construyó el faro del Cap de Creus?"

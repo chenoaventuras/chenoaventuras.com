@@ -11,6 +11,14 @@ tags:
   - Spots
   - Islas Baleares
 wide: true
+actividadesTitulo: 'Actividades cerca de Sa Calobra'
+actividades:
+  - t: "Excursión a Sóller y Valldemossa"
+    u: "https://www.civitatis.com/es/palma-mallorca/excusion-soller-valldemosa/"
+  - t: "Free tour por Palma de Mallorca"
+    u: "https://www.civitatis.com/es/palma-mallorca/free-tour-palma-mallorca/"
+  - t: "Visita guiada por la catedral de Palma de Mallorca"
+    u: "https://www.civitatis.com/es/palma-mallorca/visita-guiada-catedral-palma/"
 faqTitulo: "Dudas sobre Sa Calobra"
 faq:
   - q: "¿Cómo se llega a Sa Calobra?"

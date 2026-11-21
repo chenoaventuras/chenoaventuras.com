@@ -12,6 +12,14 @@ tags:
   - Spots
   - Cataluña
 wide: true
+actividadesTitulo: 'Actividades cerca de Estany de Sant Maurici'
+actividades:
+  - t: "Clase de esquí o snowboard en Baqueira Beret"
+    u: "https://www.civitatis.com/es/baqueira/clase-esqui-snowboard-baqueira-beret/"
+  - t: "Clase privada de esquí o snow en Baqueira Beret"
+    u: "https://www.civitatis.com/es/baqueira/clase-privada-esqui-snow-baqueira-beret/"
+  - t: "Tour en 4x4 por el Valle de Arán: fauna, flora y paisajes"
+    u: "https://www.getyourguide.es/vielha-l218675/4x4-sightseeing-tour-in-valle-d-aran-wildlife-flora-and-alpine-landscapes-t838426/"
 faqTitulo: "Dudas sobre Aigüestortes"
 faq:
   - q: "¿Cuándo se creó el Parque Nacional de Aigüestortes?"

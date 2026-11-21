@@ -37,6 +37,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-norte-de-caceres-chenoaventuras.pdf
 guiaTitulo: 'Guía Norte de Cáceres en PDF'
+actividadesTitulo: 'Actividades cerca de Meandro del Melero'
+actividades:
+  - t: "Free tour por Granadilla"
+    u: "https://www.civitatis.com/es/granadilla/free-tour-granadilla/"
+  - t: "Excursión a Granadilla en barco"
+    u: "https://www.civitatis.com/es/guijo-de-granadilla/excursion-granadilla-barco/"
+  - t: "Free tour nocturno por Hervás"
+    u: "https://www.civitatis.com/es/hervas/free-tour-nocturno-hervas/"
 ---
 El río Alagón da una vuelta tan cerrada que casi rodea por completo un monte cubierto de pinos. Visto desde arriba parece una isla en mitad del agua. Es el **Meandro del Melero**, uno de los paisajes más fotografiados de Extremadura.
 

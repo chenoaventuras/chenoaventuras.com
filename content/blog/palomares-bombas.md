@@ -41,6 +41,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-almeria-chenoaventuras.pdf
 guiaTitulo: 'Guía Almería en PDF'
+actividadesTitulo: 'Actividades cerca de Palomares'
+actividades:
+  - t: "Visita guiada por Mojácar"
+    u: "https://www.civitatis.com/es/mojacar/visita-guiada-mojacar/"
+  - t: "Excursión al Cabo de Gata y Mojácar desde Almería"
+    u: "https://www.civitatis.com/es/almeria/excursion-cabo-gata-mojacar/"
+  - t: "Tour por Oleo Almanzora, Sala Negra, Mina Rica y Geoda de Pulpí"
+    u: "https://www.civitatis.com/es/pulpi/tour-mina-rica-geoda-pulpi/"
 ---
 El **17 de enero de 1966**, un bombardero B-52 y un avión cisterna de Estados Unidos chocaron en el cielo de **Palomares** (Almería). Cayeron **cuatro bombas termonucleares**. Ninguna explotó, pero la historia es de película.
 

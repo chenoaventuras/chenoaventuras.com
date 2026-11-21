@@ -29,6 +29,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-la-palma-chenoaventuras.pdf
 guiaTitulo: 'Guía La Palma en PDF'
+actividadesTitulo: 'Actividades cerca de La Palma'
+actividades:
+  - t: "Observación de estrellas en el Roque de los Muchachos"
+    u: "https://www.civitatis.com/es/fuencaliente-de-la-palma/observacion-estrellas-roque-muchachos/"
+  - t: "Senderismo por el Roque de los Muchachos"
+    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/senderismo-roque-muchachos/"
+  - t: "Senderismo por el volcán Tajogaite"
+    u: "https://www.civitatis.com/es/el-paso/senderismo-volcan-cumbre-vieja/"
 ---
 Bosques de laurisilva, un cráter gigante lleno de pinos, volcanes recién nacidos, piscinas naturales en la lava y uno de los **mejores cielos del mundo** para ver estrellas. **La Palma**, la **«Isla Bonita»**, es toda ella Reserva de la Biosfera.
 

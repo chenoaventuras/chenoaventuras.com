@@ -12,6 +12,12 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividadesTitulo: 'Actividades cerca de Charco Azul (El Hierro)'
+actividades:
+  - t: "Free tour por Valverde"
+    u: "https://www.civitatis.com/es/valverde/free-tour-valverde/"
+  - t: "Avistamiento de cetáceos en La Restinga"
+    u: "https://www.civitatis.com/es/la-restinga/avistamiento-cetaceos-restinga/"
 faqTitulo: "Dudas sobre las piscinas naturales de El Hierro"
 faq:
   - q: "¿Cuál es la mejor piscina natural de El Hierro?"

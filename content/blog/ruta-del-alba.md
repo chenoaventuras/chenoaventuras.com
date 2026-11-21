@@ -12,6 +12,14 @@ tags:
   - Actividades
   - Asturias
 wide: true
+actividadesTitulo: 'Actividades cerca de Ruta del Alba'
+actividades:
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
+  - t: "Visita guiada por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/visita-guiada-oviedo/"
+  - t: "Descenso del Sella en canoa"
+    u: "https://www.civitatis.com/es/cangas-onis/descenso-sella/"
 faqTitulo: "Dudas sobre la Ruta del Alba"
 faq:
   - q: "¿Cuánto mide la Ruta del Alba?"

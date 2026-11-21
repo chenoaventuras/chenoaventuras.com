@@ -12,6 +12,14 @@ tags:
   - Spots
   - Asturias
 wide: true
+actividadesTitulo: 'Actividades cerca de Somiedo'
+actividades:
+  - t: "Free tour por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/free-tour-oviedo/"
+  - t: "Visita guiada por Oviedo"
+    u: "https://www.civitatis.com/es/oviedo/visita-guiada-oviedo/"
+  - t: "Excursión a Avilés, Cudillero y Luarca"
+    u: "https://www.civitatis.com/es/oviedo/excursion-aviles-cudillero-luarca/"
 faqTitulo: "Dudas sobre Somiedo"
 faq:
   - q: "¿Qué es Somiedo?"

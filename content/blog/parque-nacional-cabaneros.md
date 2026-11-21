@@ -12,6 +12,14 @@ tags:
   - Actividades
   - Castilla-La Mancha
 wide: true
+actividadesTitulo: 'Actividades cerca de Parque Nacional de Cabañeros'
+actividades:
+  - t: "Free tour por Toledo"
+    u: "https://www.civitatis.com/es/toledo/free-tour-toledo/"
+  - t: "Visita guiada por la catedral de Toledo"
+    u: "https://www.civitatis.com/es/toledo/visita-guiada-catedral-toledo/"
+  - t: "Entrada a Puy du Fou España + El Sueño de Toledo"
+    u: "https://www.civitatis.com/es/toledo/entrada-puy-fou-sueno-toledo/"
 faqTitulo: "Dudas sobre Cabañeros"
 faq:
   - q: "¿Dónde está el Parque Nacional de Cabañeros?"

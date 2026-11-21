@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Castilla-La Mancha
 wide: true
+actividadesTitulo: 'Actividades cerca de Valverde de los Arroyos'
+actividades:
+  - t: "Tour privado por Sigüenza"
+    u: "https://www.civitatis.com/es/siguenza/tour-privado-siguenza/"
+  - t: "Free tour por Buitrago del Lozoya"
+    u: "https://www.civitatis.com/es/buitrago-lozoya/free-tour-buitrago-lozoya/"
+  - t: "Alquiler de kayak en el embalse de Riosequillo"
+    u: "https://www.civitatis.com/es/pinilla-de-buitrago/alquiler-kayak-embalse-riosequillo/"
 faqTitulo: "Dudas sobre los pueblos negros"
 faq:
   - q: "¿Cuáles son los pueblos negros de Guadalajara?"

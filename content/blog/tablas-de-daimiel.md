@@ -12,6 +12,14 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+actividadesTitulo: 'Actividades cerca de Tablas de Daimiel'
+actividades:
+  - t: "Visita guiada por Almagro"
+    u: "https://www.civitatis.com/es/almagro/visita-guiada-almagro/"
+  - t: "Tour por Almagro al completo"
+    u: "https://www.civitatis.com/es/almagro/tour-almagro-completo/"
+  - t: "Cata de aceite de oliva en Almagro"
+    u: "https://www.civitatis.com/es/almagro/cata-aceite-oliva/"
 faqTitulo: "Dudas sobre las Tablas de Daimiel"
 faq:
   - q: "¿Cuánto cuesta entrar a las Tablas de Daimiel?"

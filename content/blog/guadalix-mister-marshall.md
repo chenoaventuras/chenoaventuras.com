@@ -11,6 +11,14 @@ tags:
   - Pueblos
   - Comunidad de Madrid
 wide: true
+actividadesTitulo: 'Actividades cerca de Guadalix de la Sierra'
+actividades:
+  - t: "Free tour por Buitrago del Lozoya"
+    u: "https://www.civitatis.com/es/buitrago-lozoya/free-tour-buitrago-lozoya/"
+  - t: "Alquiler de kayak en el embalse de Riosequillo"
+    u: "https://www.civitatis.com/es/pinilla-de-buitrago/alquiler-kayak-embalse-riosequillo/"
+  - t: "Paseo con raquetas de nieve por la Sierra de Guadarrama"
+    u: "https://www.civitatis.com/es/navacerrada/paseo-raquetas-nieve-sierra-guadarrama/"
 faqTitulo: "Dudas sobre Bienvenido, Mister Marshall"
 faq:
   - q: "¿Dónde se rodó Bienvenido, Mister Marshall?"

@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividadesTitulo: 'Actividades cerca de Priego de Córdoba'
+actividades:
+  - t: "Tour privado por Zuheros"
+    u: "https://www.civitatis.com/es/zuheros/tour-privado-zuheros/"
+  - t: "Visita guiada por el castillo de Santa Catalina"
+    u: "https://www.civitatis.com/es/jaen/visita-guiada-castillo-santa-catalina/"
+  - t: "Visita guiada por la Catedral de Jaén"
+    u: "https://www.civitatis.com/es/jaen/visita-guiada-catedral-jaen/"
 faqTitulo: "Dudas sobre Priego de Córdoba"
 faq:
   - q: "¿Qué ver en Priego de Córdoba?"

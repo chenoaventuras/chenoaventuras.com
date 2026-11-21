@@ -12,6 +12,14 @@ tags:
   - Actividades
   - Castilla-La Mancha
 igPermalink: 'https://www.instagram.com/reel/DRc6iVIDE0-/'
+actividadesTitulo: 'Actividades cerca de Villalba de la Sierra'
+actividades:
+  - t: "Excursión a la Ciudad Encantada y el nacimiento del río Júcar"
+    u: "https://www.civitatis.com/es/cuenca/excursion-ciudad-encantada-rio-jucar/"
+  - t: "Visita guiada por la Ciudad Encantada"
+    u: "https://www.civitatis.com/es/cuenca/visita-guiada-ciudad-encantada/"
+  - t: "Free tour por Cuenca"
+    u: "https://www.civitatis.com/es/cuenca/free-tour-cuenca/"
 faqTitulo: "Dudas sobre la ruta en quad"
 faq:
   - q: "¿Dónde se hacen las rutas en quad en Cuenca?"

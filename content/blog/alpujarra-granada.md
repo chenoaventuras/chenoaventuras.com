@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Andalucía
 wide: true
+actividadesTitulo: 'Actividades cerca de Capileira'
+actividades:
+  - t: "Excursión a Sierra Nevada en 4x4"
+    u: "https://www.civitatis.com/es/granada/excursion-sierra-nevada/"
+  - t: "Visita guiada por la Alhambra y los Palacios Nazaríes"
+    u: "https://www.civitatis.com/es/granada/tour-alhambra-palacios-nazaries/"
+  - t: "Senderismo por los Cahorros de Monachil"
+    u: "https://www.civitatis.com/es/granada/senderismo-cahorros-monachil/"
 faqTitulo: "Dudas sobre la Alpujarra"
 faq:
   - q: "¿Cuáles son los pueblos más bonitos de la Alpujarra?"

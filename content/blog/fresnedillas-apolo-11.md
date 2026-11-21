@@ -11,6 +11,14 @@ tags:
   - Curiosidades
   - Comunidad de Madrid
 wide: true
+actividadesTitulo: 'Actividades cerca de Fresnedillas de la Oliva'
+actividades:
+  - t: "Free tour por Ávila"
+    u: "https://www.civitatis.com/es/avila/free-tour-avila/"
+  - t: "Visita guiada por Ávila y su catedral"
+    u: "https://www.civitatis.com/es/avila/catedral-avila-basilica-san-vicente/"
+  - t: "Tour de leyendas por la Ávila iluminada"
+    u: "https://www.civitatis.com/es/avila/tour-avila-iluminada/"
 faqTitulo: "Dudas sobre Fresnedillas y la NASA"
 faq:
   - q: "¿Participó España en la llegada a la Luna?"

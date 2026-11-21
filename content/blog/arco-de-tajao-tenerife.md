@@ -12,6 +12,14 @@ tags:
   - Spots
   - Canarias
 igPermalink: 'https://www.instagram.com/reel/DH9KUHwokxB/'
+actividadesTitulo: 'Actividades cerca de Arco de Tajao'
+actividades:
+  - t: "Entrada a las Pirámides de Güímar"
+    u: "https://www.civitatis.com/es/guimar/entrada-piramides-guimar/"
+  - t: "Teide: tour de medio día con billete de teleférico"
+    u: "https://www.getyourguide.es/tenerife-l350/volcan-del-teide-tour-de-medio-dia-y-billete-de-teleferico-t351351/"
+  - t: "Teleférico del Teide + senderismo al pico"
+    u: "https://www.civitatis.com/es/puerto-de-la-cruz/entrada-teleferico-teide-senderismo-pico/"
 faqTitulo: "Dudas sobre el Arco de Tajao"
 faq:
   - q: "¿Dónde está el Arco de Tajao?"

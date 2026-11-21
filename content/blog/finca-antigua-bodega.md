@@ -13,6 +13,12 @@ tags:
 wide: true
 guia: /assets/guias/guia-cuenca-mancha-chenoaventuras.pdf
 guiaTitulo: 'Guía La Mancha de Cuenca en PDF'
+actividadesTitulo: 'Actividades cerca de Finca Antigua (Los Hinojosos)'
+actividades:
+  - t: "Entrada al castillo de Belmonte"
+    u: "https://www.civitatis.com/es/belmonte/entrada-castillo-belmonte/"
+  - t: "Visita guiada por Consuegra"
+    u: "https://www.civitatis.com/es/consuegra/visita-guiada-consuegra/"
 ---
 Llegamos a **Finca Antigua** y qué gusto cuando alguien te recibe con alma. Fui con mi amigo <a href="https://www.instagram.com/conbuenvino/" target="_blank" rel="noopener">@conbuenvino</a>, que de vino sabe un rato, y nos guio **Rosa**. Rosa no solo trabaja allí: **Rosa es parte de la bodega**. Te habla de los vinos como quien te habla de sus hijos, con ese brillo en los ojos que solo tienen los que aman lo que hacen.
 

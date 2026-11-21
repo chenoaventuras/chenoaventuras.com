@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividadesTitulo: 'Actividades cerca de La Alberca'
+actividades:
+  - t: "Free tour por Granadilla"
+    u: "https://www.civitatis.com/es/granadilla/free-tour-granadilla/"
+  - t: "Excursión a Granadilla en barco"
+    u: "https://www.civitatis.com/es/guijo-de-granadilla/excursion-granadilla-barco/"
+  - t: "Free tour nocturno por Hervás"
+    u: "https://www.civitatis.com/es/hervas/free-tour-nocturno-hervas/"
 faqTitulo: "Dudas sobre La Alberca"
 faq:
   - q: "¿Qué ver en La Alberca?"

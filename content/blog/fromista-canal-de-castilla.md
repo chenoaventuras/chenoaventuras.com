@@ -12,6 +12,14 @@ tags:
   - Pueblos
   - Castilla y León
 wide: true
+actividadesTitulo: 'Actividades cerca de Frómista'
+actividades:
+  - t: "Visita guiada por la catedral de Palencia"
+    u: "https://www.civitatis.com/es/palencia/visita-guiada-catedral/"
+  - t: "Free tour por Palencia"
+    u: "https://www.civitatis.com/es/palencia/free-tour-palencia/"
+  - t: "Visita guiada por Palencia"
+    u: "https://www.civitatis.com/es/palencia/visita-guiada-palencia/"
 faqTitulo: "Dudas sobre Frómista y el Canal de Castilla"
 faq:
   - q: "¿Cuándo se construyó la iglesia de San Martín de Frómista?"

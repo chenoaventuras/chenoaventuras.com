@@ -12,6 +12,14 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividadesTitulo: 'Actividades cerca de La Fuentona'
+actividades:
+  - t: "Tour panorámico por El Burgo de Osma"
+    u: "https://www.civitatis.com/es/el-burgo-de-osma/tour-panoramico-burgo-osma/"
+  - t: "Entrada al balneario Castilla Termal Burgo de Osma"
+    u: "https://www.civitatis.com/es/el-burgo-de-osma/entrada-castilla-termal-burgo-osma/"
+  - t: "Tour de Soria al completo con entradas"
+    u: "https://www.civitatis.com/es/soria/tour-soria-completo/"
 faqTitulo: "Dudas sobre La Fuentona"
 faq:
   - q: "¿Qué es La Fuentona de Muriel?"

@@ -12,6 +12,14 @@ tags:
   - Spots
   - Castilla y León
 wide: true
+actividadesTitulo: 'Actividades en Valladolid'
+actividades:
+  - t: "Free tour por Valladolid"
+    u: "https://www.civitatis.com/es/valladolid/free-tour-valladolid/"
+  - t: "Paseo en el barco La Leyenda del Pisuerga"
+    u: "https://www.civitatis.com/es/valladolid/paso-barco-leyenda-pisuerga/"
+  - t: "Visita guiada por Valladolid"
+    u: "https://www.civitatis.com/es/valladolid/visita-guiada-valladolid/"
 faqTitulo: "Dudas sobre Valladolid"
 faq:
   - q: "¿Qué ver en Valladolid en un día?"

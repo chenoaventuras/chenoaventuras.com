@@ -12,6 +12,14 @@ tags:
   - Spots
   - Región de Murcia
 wide: true
+actividadesTitulo: 'Actividades en Cartagena'
+actividades:
+  - t: "Free tour por Cartagena"
+    u: "https://www.civitatis.com/es/cartagena/free-tour-cartagena/"
+  - t: "Entrada al Museo-Refugio de la Guerra Civil de Cartagena"
+    u: "https://www.civitatis.com/es/cartagena/entrada-museo-refugio-guerra-civil/"
+  - t: "Paseo en barco por la bahía de Cartagena"
+    u: "https://www.civitatis.com/es/cartagena/paseo-barco-bahia-cartagena/"
 faqTitulo: "Dudas sobre Cartagena"
 faq:
   - q: "¿Quién fundó Cartagena?"

@@ -12,6 +12,14 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+actividadesTitulo: 'Actividades cerca de Almonacid de Toledo'
+actividades:
+  - t: "Tour nocturno por el Toledo misterioso"
+    u: "https://www.civitatis.com/es/toledo/tour-toledo-misterioso/"
+  - t: "Tour de las leyendas de Toledo + Cuevas del Alcaná"
+    u: "https://www.civitatis.com/es/toledo/tour-leyendas-toledo/"
+  - t: "Free tour por Toledo"
+    u: "https://www.civitatis.com/es/toledo/free-tour-toledo/"
 faqTitulo: "Dudas sobre el Castillo de Almonacid"
 faq:
   - q: "¿Dónde está el Castillo de Almonacid?"

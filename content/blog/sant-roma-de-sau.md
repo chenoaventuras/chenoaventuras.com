@@ -47,6 +47,12 @@ comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-barcelona-chenoaventuras.pdf
 guiaTitulo: 'Guía Barcelona en PDF'
 updated: 2026-10-31
+actividadesTitulo: 'Actividades cerca de Sant Romà de Sau'
+actividades:
+  - t: "Vuelo en globo sobre los volcanes de la Garrotxa"
+    u: "https://www.getyourguide.es/costa-brava-l473/vuelo-en-globo-sobre-los-volcanes-de-la-costa-brava-desde-santa-pau-t35210/"
+  - t: "Tossa de Mar: kayak guiado y snorkel"
+    u: "https://www.getyourguide.es/tossa-de-mar-l90930/tossa-de-mar-excursion-guiada-en-kayak-y-snorkel-t475482/"
 ---
 En medio del pantano de **Sau** (Barcelona) asoma un **campanario románico**. Es lo que queda de **Sant Romà de Sau**, un pueblo que quedó bajo el agua en los años 60. Según llueva más o menos, la torre aparece entera, a medias... o se puede llegar andando hasta ella.
 

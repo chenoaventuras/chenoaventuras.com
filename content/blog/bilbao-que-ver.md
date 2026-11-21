@@ -12,6 +12,14 @@ tags:
   - Spots
   - País Vasco
 wide: true
+actividadesTitulo: 'Actividades en Bilbao'
+actividades:
+  - t: "Excursión a San Juan de Gaztelugatxe, Guernica y Bermeo desde Bilbao"
+    u: "https://www.civitatis.com/es/bilbao/excursion-san-juan-gaztelugatxe/"
+  - t: "Free tour por Bilbao"
+    u: "https://www.civitatis.com/es/bilbao/free-tour-bilbao/"
+  - t: "Paseo en barco por Bilbao y Portugalete"
+    u: "https://www.civitatis.com/es/bilbao/paseo-barco-bilbao-portugalete/"
 faqTitulo: "Dudas sobre Bilbao"
 faq:
   - q: "¿Cuánto cuesta la entrada al Guggenheim de Bilbao?"

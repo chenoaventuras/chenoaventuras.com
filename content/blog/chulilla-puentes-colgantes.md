@@ -12,6 +12,14 @@ tags:
   - Actividades
   - Comunidad Valenciana
 wide: true
+actividadesTitulo: 'Actividades cerca de Chulilla'
+actividades:
+  - t: "Free tour por Valencia"
+    u: "https://www.civitatis.com/es/valencia/free-tour-valencia/"
+  - t: "Entrada al Oceanogràfic"
+    u: "https://www.civitatis.com/es/valencia/entrada-oceanografic/"
+  - t: "Free tour de los misterios y leyendas de Valencia"
+    u: "https://www.civitatis.com/es/valencia/tour-misterios-leyendas-valencia/"
 faqTitulo: "Dudas sobre Chulilla"
 faq:
   - q: "¿Cómo es la ruta de los puentes colgantes de Chulilla?"

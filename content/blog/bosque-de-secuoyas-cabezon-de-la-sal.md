@@ -11,6 +11,14 @@ tags:
   - Spots
   - Cantabria
 wide: true
+actividadesTitulo: 'Actividades cerca de Bosque de secuoyas del Monte Cabezón'
+actividades:
+  - t: "Visita guiada por Comillas + Capricho de Gaudí"
+    u: "https://www.civitatis.com/es/comillas/visita-guiada-comillas-capricho-gaudi/"
+  - t: "Visita guiada por la Neocueva y el Museo de Altamira"
+    u: "https://www.civitatis.com/es/santillana-del-mar/visita-guiada-altamira/"
+  - t: "Excursión a Altamira y Santillana del Mar desde Santander"
+    u: "https://www.civitatis.com/es/santander/excursion-altamira-santillana-del-mar/"
 faqTitulo: "Dudas sobre el bosque de secuoyas"
 faq:
   - q: "¿Cuánto cuesta entrar al bosque de secuoyas?"

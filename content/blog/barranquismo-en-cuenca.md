@@ -11,6 +11,14 @@ tags:
   - Actividades
   - Castilla-La Mancha
 igPermalink: 'https://www.instagram.com/reel/DaZ1lCyPTde/'
+actividadesTitulo: 'Actividades cerca de Cuenca'
+actividades:
+  - t: "Excursión a la Ciudad Encantada y el nacimiento del río Júcar"
+    u: "https://www.civitatis.com/es/cuenca/excursion-ciudad-encantada-rio-jucar/"
+  - t: "Visita guiada por la Ciudad Encantada"
+    u: "https://www.civitatis.com/es/cuenca/visita-guiada-ciudad-encantada/"
+  - t: "Free tour por Cuenca"
+    u: "https://www.civitatis.com/es/cuenca/free-tour-cuenca/"
 faqTitulo: "Dudas sobre el barranquismo en Cuenca"
 faq:
   - q: "¿Dónde se hace barranquismo en Cuenca?"

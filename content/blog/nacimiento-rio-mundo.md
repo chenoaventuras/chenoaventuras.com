@@ -12,6 +12,14 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+actividadesTitulo: 'Actividades cerca de Nacimiento del río Mundo'
+actividades:
+  - t: "Tour por las Sierras de Cazorla, Segura y Las Villas"
+    u: "https://www.civitatis.com/es/cazorla/tour-sierras-cazorla/"
+  - t: "Visita guiada por Albacete"
+    u: "https://www.civitatis.com/es/albacete/visita-guiada-albacete/"
+  - t: "Tour del Quijote por Ciudad Real"
+    u: "https://www.civitatis.com/es/ciudad-real/tour-quijote-ciudad-real/"
 faqTitulo: "Dudas sobre el Nacimiento del río Mundo"
 faq:
   - q: "¿Cómo es la ruta al Nacimiento del río Mundo?"

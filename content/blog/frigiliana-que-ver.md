@@ -38,6 +38,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-malaga-chenoaventuras.pdf
 guiaTitulo: 'Guía Málaga en PDF'
+actividadesTitulo: 'Actividades cerca de Frigiliana'
+actividades:
+  - t: "Entrada a la Cueva del Tesoro"
+    u: "https://www.civitatis.com/es/rincon-de-la-victoria/entrada-cueva-tesoro/"
+  - t: "Free tour por Málaga"
+    u: "https://www.civitatis.com/es/malaga/free-tour-malaga/"
+  - t: "Excursión a Nerja y Frigiliana desde Málaga"
+    u: "https://www.civitatis.com/es/malaga/tour-frigiliana-cuevas-nerja/"
 ---
 Casas blancas encaladas, macetas azules, calles empinadas que se retuercen ladera arriba y el Mediterráneo al fondo. **Frigiliana** es uno de los pueblos más buscados de España y tiene una historia que muy poca gente conoce.
 

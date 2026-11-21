@@ -12,6 +12,14 @@ tags:
   - Curiosidades
   - Castilla y León
 wide: true
+actividadesTitulo: 'Actividades cerca de La Muedra (embalse de la Cuerda del Pozo)'
+actividades:
+  - t: "Free tour por Soria"
+    u: "https://www.civitatis.com/es/soria/free-tour-soria/"
+  - t: "Tour de Soria al completo con entradas"
+    u: "https://www.civitatis.com/es/soria/tour-soria-completo/"
+  - t: "Tour panorámico por El Burgo de Osma"
+    u: "https://www.civitatis.com/es/el-burgo-de-osma/tour-panoramico-burgo-osma/"
 faqTitulo: "Dudas sobre el campanario hundido"
 faq:
   - q: "¿Qué es el campanario hundido de Soria?"

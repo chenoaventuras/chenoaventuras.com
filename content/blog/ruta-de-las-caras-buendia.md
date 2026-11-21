@@ -11,6 +11,14 @@ tags:
   - Spots
   - Castilla-La Mancha
 wide: true
+actividadesTitulo: 'Actividades cerca de Ruta de las Caras'
+actividades:
+  - t: "Free tour por el Alcalá de Henares desconocido"
+    u: "https://www.civitatis.com/es/alcala-de-henares/free-tour-alcala-henares-desconocida/"
+  - t: "Ruta de Cervantes por Alcalá de Henares"
+    u: "https://www.civitatis.com/es/alcala-de-henares/ruta-cervantes/"
+  - t: "Excursión a los campos de lavanda de Brihuega desde Madrid"
+    u: "https://www.civitatis.com/es/madrid/excursion-campos-lavanda-brihuega/"
 faqTitulo: "Dudas sobre la Ruta de las Caras"
 faq:
   - q: "¿Quién hizo la Ruta de las Caras?"

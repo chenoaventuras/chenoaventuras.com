@@ -12,6 +12,14 @@ tags:
   - Spots
   - Canarias
 wide: true
+actividadesTitulo: 'Actividades cerca de Caldera de Taburiente'
+actividades:
+  - t: "Observación de estrellas en el Roque de los Muchachos"
+    u: "https://www.civitatis.com/es/fuencaliente-de-la-palma/observacion-estrellas-roque-muchachos/"
+  - t: "Senderismo por el Roque de los Muchachos"
+    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/senderismo-roque-muchachos/"
+  - t: "Senderismo por el volcán Tajogaite"
+    u: "https://www.civitatis.com/es/el-paso/senderismo-volcan-cumbre-vieja/"
 faqTitulo: "Dudas sobre la Caldera de Taburiente"
 faq:
   - q: "¿Cuál es la ruta más famosa de la Caldera de Taburiente?"

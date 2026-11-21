@@ -44,6 +44,14 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-lugo-ourense-chenoaventuras.pdf
 guiaTitulo: 'Guía Lugo y Ourense en PDF'
+actividadesTitulo: 'Actividades cerca de Portomarín'
+actividades:
+  - t: "Free tour por Lugo"
+    u: "https://www.civitatis.com/es/lugo/free-tour-lugo/"
+  - t: "Visita guiada por la catedral de Lugo"
+    u: "https://www.civitatis.com/es/lugo/visita-guiada-catedral-lugo/"
+  - t: "Paseo en barco por los cañones del Sil (Castro Caldelas)"
+    u: "https://www.civitatis.com/es/castro-caldelas/paseo-barco-canones-sil/"
 ---
 Imagina desmontar una **iglesia románica** piedra a piedra, **numerar cada piedra** y volver a montarla en lo alto de un monte. Es lo que se hizo en **Portomarín** (Lugo) cuando el embalse de Belesar iba a inundar el pueblo.
 

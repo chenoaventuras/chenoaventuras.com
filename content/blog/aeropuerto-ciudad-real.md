@@ -11,6 +11,14 @@ tags:
   - Curiosidades
   - Castilla-La Mancha
 wide: true
+actividadesTitulo: 'Actividades cerca del aeropuerto de Ciudad Real'
+actividades:
+  - t: "Visita guiada por Almagro"
+    u: "https://www.civitatis.com/es/almagro/visita-guiada-almagro/"
+  - t: "Tour por Almagro al completo"
+    u: "https://www.civitatis.com/es/almagro/tour-almagro-completo/"
+  - t: "Cata de aceite de oliva en Almagro"
+    u: "https://www.civitatis.com/es/almagro/cata-aceite-oliva/"
 faqTitulo: "Dudas sobre el aeropuerto de Ciudad Real"
 faq:
   - q: "¿Funciona el aeropuerto de Ciudad Real?"
