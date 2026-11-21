@@ -163,6 +163,8 @@ Aquí tienes todo: fechas, horarios, precios, qué incluye la entrada, qué se p
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Un plan de 4-5 horas</h2><ul><li><b>Antes de salir</b>: Compra la entrada y reserva las experiencias con hora.</li><li><b>16:00</b>: Entrada y paseo por el Bosque de estrellas, Linternas de Asia y el mercado.</li><li><b>Tarde</b>: Ice Festival, Viaje de Noel o pista de hielo en su turno.</li><li><b>Noche</b>: Noria, Vuelo de Santa y fuegos del Rocking Christmas.</li><li><b>Combínalo</b>: con una comida en Torrejón antes de entrar.</li></ul></div>
 
+<p class="navhub">🎄 <strong>Más Navidad en España:</strong> <a href="/blog/navidad-en-madrid.html">Madrid</a> · <a href="/blog/navidad-en-barcelona.html">Barcelona</a> · <a href="/blog/navidad-en-sevilla.html">Sevilla</a> · <a href="/blog/navidad-en-zaragoza.html">Zaragoza</a> · <a href="/blog/navidad-en-malaga.html">Málaga</a> · <a href="/blog/luces-navidad-vigo.html">luces de Vigo</a> · <a href="/blog/belen-viviente-buitrago-del-lozoya.html">Belén viviente de Buitrago</a> · <a href="/blog/pueblo-navidad-ferrero-rocher-2026.html">Pueblo Navidad Ferrero Rocher</a>.</p>
+
 <!--faq-->
 
 <!-- ENTRADAS: ya con Civitatis (afiliado aid=110968) desde el 19-nov-2026, cuando abrió fechas de la temporada 2026-27. -->

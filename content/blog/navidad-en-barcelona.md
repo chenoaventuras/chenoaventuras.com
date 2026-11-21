@@ -95,6 +95,8 @@ Te cuento las fechas oficiales de 2026, los horarios y qué ver 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Evita los fines de semana por la tarde</b> en la Fira de Santa Llúcia: entre semana y por la mañana se pasea mucho mejor.</li><li><b>Ojo con los carteristas</b> en las zonas con más gente: lleva la mochila delante.</li><li><b>El 24 de diciembre la Fira ya ha cerrado</b>: si quieres comprar figuras, ve antes del 23.</li><li><b>Combínalo con</b> la <a href="/blog/barcelona-que-ver.html">guía de qué ver en Barcelona</a>.</li></ul></div>
 
+<p class="navhub">🎄 <strong>Más Navidad en España:</strong> <a href="/blog/navidad-en-madrid.html">Madrid</a> · <a href="/blog/magicas-navidades-torrejon.html">Mágicas Navidades de Torrejón</a> · <a href="/blog/navidad-en-sevilla.html">Sevilla</a> · <a href="/blog/navidad-en-zaragoza.html">Zaragoza</a> · <a href="/blog/navidad-en-malaga.html">Málaga</a> · <a href="/blog/luces-navidad-vigo.html">luces de Vigo</a> · <a href="/blog/belen-viviente-buitrago-del-lozoya.html">Belén viviente de Buitrago</a> · <a href="/blog/pueblo-navidad-ferrero-rocher-2026.html">Pueblo Navidad Ferrero Rocher</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
