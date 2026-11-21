@@ -38,7 +38,7 @@ faq:
     a: "Cerca de Puerto de las Nieves; hay un aparcamiento a unos 200 metros de las piscinas."
 guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
 guiaTitulo: 'Guía Gran Canaria en PDF'
-updated: 2026-10-31
+updated: 2026-11-21
 ---
 Tres piscinas de agua de mar encajadas en la roca volcánica, a pocos pasos del pueblo marinero de **Puerto de las Nieves**. Las **piscinas naturales de Agaete** (Las Salinas) están en el noroeste de Gran Canaria y son uno de los mejores sitios de la isla para bañarte sin olas.
 
@@ -69,6 +69,11 @@ Te cuento cómo llegar y qué saber antes de meterte 👇
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Agua cristalina en un marco de lava.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piscinas-naturales-agaete/portada.webp" alt="Piscina natural de Las Salinas de Agaete, rodeada de roca volcánica" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Las piscinas</h3><p>Agua clarísima encajada entre muros de lava negra. Con mar tranquilo es ideal para nadar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piscinas-naturales-agaete/salinas.jpg" alt="Piscinas naturales de Las Salinas de Agaete con escaleras y muros de piedra" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Las escaleras y los muros</h3><p>Escaleras metálicas para entrar al agua y <strong>muros de piedra</strong> que frenan las olas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piscinas-naturales-agaete/muros.jpg" alt="Vista amplia de las piscinas naturales de Agaete con las montañas al fondo" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las montañas de fondo</h3><p>Detrás, los riscos del <strong>macizo de Tamadaba</strong>. Con mar en calma, el agua parece un espejo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piscinas-naturales-agaete/puerto.jpg" alt="Puerto de las Nieves con sus casas blancas junto al mar" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Puerto de las Nieves</h3><p>El barrio marinero, a un paseo: casas blancas, el muelle de los ferris a Tenerife y <strong>restaurantes de pescado</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piscinas-naturales-agaete/dedo-de-dios.jpg" alt="Acantilado del Roque Partido o Dedo de Dios en la costa de Agaete" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El Dedo de Dios</h3><p>El <strong>Roque Partido</strong>, símbolo de Agaete. Perdió la punta en la tormenta Delta de 2005, pero sigue impresionando.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/piscinas-naturales-agaete/ermita.jpg" alt="Ermita blanca de Nuestra Señora de las Nieves entre palmeras en Agaete" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La ermita de las Nieves</h3><p>La pequeña ermita blanca del puerto, entre palmeras. Merece la pena asomarse.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
@@ -80,4 +85,4 @@ Te cuento cómo llegar y qué saber antes de meterte 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Servicios, horarios y estado del mar pueden cambiar: consúltalos antes de ir. Fotos propias.</p>
+<p class="guide__note">Información consultada en octubre de 2026. Servicios, horarios y estado del mar pueden cambiar: consúltalos antes de ir. Fotos propias y de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Agaete_Piscina_Natural_2.jpg" target="_blank" rel="noopener">kallerna</a> (CC BY-SA 4.0), <a href="https://commons.wikimedia.org/wiki/File:Piscinas_naturales_de_Agaete.jpg" target="_blank" rel="noopener">Grgor12</a> (CC0), <a href="https://commons.wikimedia.org/wiki/File:Puerto_de_las_Nieves2.jpg" target="_blank" rel="noopener">Guido.Haeger at German Wikipedia</a> (CC BY-SA 3.0), <a href="https://commons.wikimedia.org/wiki/File:El_dedo_de_Dios,_Agaete,_Las_Palmas,_Grand_Canary,_Spain_-_panoramio.jpg" target="_blank" rel="noopener">trolvag</a> (CC BY-SA 3.0), <a href="https://commons.wikimedia.org/wiki/File:Iglesia,_Dedo_de_Dios_-_panoramio.jpg" target="_blank" rel="noopener">urskalberer</a> (CC BY-SA 3.0).</p>

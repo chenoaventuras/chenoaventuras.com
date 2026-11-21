@@ -31,7 +31,7 @@ faq:
     a: "Desde Gáldar por la carretera C-810 hacia Agaete, y a la altura del km 28 se gira hacia el faro: son unos 7 km."
 guia: /assets/guias/guia-gran-canaria-chenoaventuras.pdf
 guiaTitulo: 'Guía Gran Canaria en PDF'
-updated: 2026-10-31
+updated: 2026-11-21
 ---
 Un faro de rayas rojas y blancas plantado sobre un cabo del norte de Gran Canaria, con el Atlántico a los pies. El **Faro de Sardina** (o de Punta Sardina) está en la costa de **Gáldar**, junto al pequeño puerto y la playa de **Sardina del Norte**, y es uno de los mejores sitios de la isla para ver el **atardecer**.
 
@@ -43,6 +43,10 @@ Te cuento cómo llegar y qué esperar 👇
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-sardina/faro.webp" alt="Faro de rayas rojas y blancas de Sardina del Norte con el cielo azul" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El faro</h3><p>La torre actual es de <strong>1986</strong> y sigue en servicio, en el extremo noroeste de Gran Canaria. El primer faro dio luz en 1891.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-sardina/faro-camino.jpg" alt="Faro de rayas rojas y blancas de Sardina al final de un camino junto al mar" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El cabo</h3><p>El faro se alza sobre una <strong>punta de roca volcánica</strong> con el Atlántico alrededor. Se llega casi hasta el pie.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-sardina/playa.jpg" alt="Playa de Sardina del Norte con casas de colores y acantilado" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>La playa de Sardina del Norte</h3><p>Una playa pequeña de arena oscura, protegida por el muelle. Muy de <strong>pescadores</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-sardina/pueblo.jpg" alt="Casas de colores de Sardina del Norte sobre la ladera" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El pueblo</h3><p>Casas de colores en la ladera, el puertito y algún restaurante de <strong>pescado fresco</strong>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/faro-de-sardina/atardecer.jpg" alt="Atardecer sobre el mar en Sardina del Norte con un velero" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El atardecer</h3><p>El sol cae sobre el mar abierto, a veces con <strong>Tenerife y el Teide</strong> en el horizonte en días claros.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Faro de Sardina: lo esencial</h2></div>
@@ -54,9 +58,6 @@ Te cuento cómo llegar y qué esperar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Frente a la capital de los guanartemes</h2></div>
 <p>La posición de <strong>Sardina del Norte</strong> era estratégica para los conquistadores castellanos: estaba justo frente a <strong>Gáldar</strong>, donde residían los <strong>guanartemes</strong>, los reyes de la isla antes de la conquista. Después, el puerto siguió siendo importante para el comercio del azúcar, aunque perdió peso en la segunda mitad del siglo XVI.</p><p>El camino hasta el faro cruza <strong>invernaderos y plataneras</strong>, un buen retrato de la agricultura del norte de la isla, antes de abrirse a una costa escarpada y muy marinera.</p>
-
-<div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2></div>
-<ul class="checklist" style="margin:0 0 1rem;"><li>El <strong>faro rojo y blanco</strong>, el gran protagonista, con el cabo y el mar abierto a su alrededor.</li><li>La <strong>costa de roca volcánica</strong> y las olas rompiendo.</li><li>El <strong>puertito y la playa de Sardina del Norte</strong>, una playa de pescadores.</li></ul>
 
 <!--enr-->
 <div class="guide__head"><span class="eyebrow">Más historia</span><h2>Un faro para los barcos de la cochinilla y el plátano</h2></div>
@@ -72,4 +73,4 @@ Te cuento cómo llegar y qué esperar 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. El acceso y el estado de la costa pueden cambiar: consúltalos antes de ir. Fotos propias.</p>
+<p class="guide__note">Información consultada en octubre de 2026. El acceso y el estado de la costa pueden cambiar: consúltalos antes de ir. Fotos propias y de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Faro_nuevo_sardina_gran_canaria.jpg" target="_blank" rel="noopener">maccanti</a> (CC BY 2.0), <a href="https://commons.wikimedia.org/wiki/File:Sardina_del_Norte_1.jpg" target="_blank" rel="noopener">Wolfgang Sauber</a> (CC BY-SA 4.0), <a href="https://commons.wikimedia.org/wiki/File:Sardina_del_Norte_-_53433452021.jpg" target="_blank" rel="noopener">Nicolas Vigier</a> (CC0), <a href="https://commons.wikimedia.org/wiki/File:Sardina_del_Norte_3.jpg" target="_blank" rel="noopener">Wolfgang Sauber</a> (CC BY-SA 4.0).</p>

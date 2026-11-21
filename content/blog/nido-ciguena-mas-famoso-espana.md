@@ -20,6 +20,8 @@ faqTitulo: "Dudas sobre el nido de cigüeña"
 faq:
   - q: "¿Dónde está el nido de cigüeña más grande de España?"
     a: "En la provincia de Burgos. Su ubicación exacta no se hace pública para que los curiosos no molesten a las cigüeñas."
+  - q: "¿Cuánto pesa un nido de cigüeña normal?"
+    a: "Depende de los años que lleve usándose. Un nido nuevo pesa poco, pero los que se reutilizan durante décadas pueden pesar cientos de kilos. Se han medido nidos de casi 1.000 kg y cerca de 3 metros de alto."
   - q: "¿Cuánto pesa el nido de cigüeña más famoso de España?"
     a: "Alrededor de una tonelada, y mide cerca de 2 metros de altura."
   - q: "¿Por qué lo llaman la Torre de Pisa burgalesa?"
@@ -28,10 +30,9 @@ faq:
     a: "No por tu cuenta: la cigüeña blanca es una especie protegida y retirar o mover un nido necesita autorización de la administración ambiental."
   - q: "¿Por qué los nidos de cigüeña son tan grandes?"
     a: "Porque las cigüeñas vuelven al mismo nido cada año y le añaden ramas y barro en cada temporada."
-  - q: "¿Se pueden quitar los nidos de cigüeña?"
-    a: "No sin permiso: la cigüeña blanca es una especie protegida y sus nidos también."
   - q: "¿Las cigüeñas se van a África en invierno?"
     a: "Antes todas; hoy muchas se quedan todo el año en España."
+updated: 2026-11-21
 guia: /assets/guias/guia-burgos-chenoaventuras.pdf
 guiaTitulo: 'Guía Burgos en PDF'
 ---
@@ -45,6 +46,10 @@ Puedes verlo en [este reel de Instagram](https://www.instagram.com/reel/DXcVzdDD
 ## Casi una tonelada y dos metros de alto
 
 Las cigüeñas **vuelven al mismo nido** cada año y, en cada temporada, le añaden más ramas, barro y hierba. Así, un nido normal se va haciendo enorme con el paso de las décadas. Este ha llegado a pesar alrededor de **una tonelada** y a medir cerca de **2 metros de altura**: una auténtica obra de arquitectura animal.
+
+## ¿Cuánto pesa un nido de cigüeña normal?
+
+Depende sobre todo de **los años que lleve en uso**. Un nido recién hecho es poco más que un montón de ramas, pero como las cigüeñas lo amplían cada primavera, los nidos viejos llegan a pesar **cientos de kilos**. Un nido típico mide alrededor de **2 metros de diámetro**, y se han documentado nidos de casi **1.000 kg** y cerca de **3 metros de alto**. Por eso, en iglesias y torres antiguas, a veces hay que vigilar el peso que soportan los tejados.
 
 ## Por qué lo llaman la «Torre de Pisa» burgalesa
 

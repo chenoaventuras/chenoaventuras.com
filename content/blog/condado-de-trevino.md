@@ -24,6 +24,8 @@ faq:
     a: "Es de Burgos (Castilla y León), aunque está totalmente rodeado por Álava (País Vasco)."
   - q: "¿Por qué Treviño pertenece a Burgos?"
     a: "Por razones históricas: perteneció a Castilla desde la Edad Media y se respetó al crear las provincias en 1833."
+  - q: "¿Dónde está el Condado de Treviño en el mapa?"
+    a: "En el sur de Álava, justo debajo de Vitoria-Gasteiz. En el mapa se ve como una isla de Burgos rodeada por territorio alavés."
   - q: "¿Qué municipios forman el enclave de Treviño?"
     a: "El Condado de Treviño y La Puebla de Arganzón."
   - q: "¿A qué distancia está Treviño de Vitoria?"
@@ -46,6 +48,7 @@ comer:
     o: 704
     t: "Bar restaurante"
     d: "C. Mayor, 30"
+updated: 2026-11-21
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-burgos-chenoaventuras.pdf
 guiaTitulo: 'Guía Burgos en PDF'
@@ -67,12 +70,18 @@ Te cuento por qué pasa esto y qué ver allí 👇
 <div class="guide__head"><span class="eyebrow">La curiosidad</span><h2>¿Por qué Treviño es de Burgos?</h2></div>
 <p>En la Edad Media Treviño pasó a manos de los reyes de <strong>Castilla</strong>, y después fue un condado de la familia Manrique. Cuando en 1833 se dibujaron las provincias actuales, se respetó su pertenencia histórica a <strong>Burgos</strong>, aunque geográficamente estaba dentro de Álava.</p><p>Desde entonces, los vecinos han pedido en varias ocasiones pasar a Álava, porque hacen casi toda su vida en <strong>Vitoria</strong>: trabajo, compras, médicos. Pero el cambio de provincia nunca se ha aprobado, y el enclave sigue ahí.</p><div class="guide__legend"><h3>🏚️ El pueblo maldito de Ochate</h3><p>Dentro del Condado está <strong>Ochate</strong>, un pueblo abandonado famoso por sus leyendas de ovnis y maldiciones. Te lo cuento en <a href="/blog/ochate-pueblo-maldito.html">este post</a>.</p></div>
 
+<div class="guide__head"><span class="eyebrow">Mapa</span><h2>Dónde está el Condado de Treviño en el mapa</h2></div>
+<p>En el mapa de Álava, el enclave se ve como una <strong>isla en el sur de la provincia</strong>, a unos 15 km al sur de <strong>Vitoria-Gasteiz</strong>. Lo forman dos municipios de Burgos: el <strong>Condado de Treviño</strong>, el más grande, y <strong>La Puebla de Arganzón</strong>, al oeste, junto a la autovía A-1. Fuera del enclave, todo lo que lo rodea es Álava.</p>
+<div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/place/Condado+de+Trevi%C3%B1o,+Burgos" target="_blank" rel="noopener">🗺️ Ver el enclave en Google Maps</a></div>
+
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Condado de Treviño</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/condado-de-trevino/pueblo.webp" alt="Pueblo de Treviño en Burgos" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Treviño</h3><p>La capital del Condado, con su iglesia de San Pedro y casas de piedra.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/condado-de-trevino/palacio.webp" alt="Palacio de los Condes de Treviño" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Palacio de los Condes</h3><p>Hoy es el ayuntamiento del Condado de Treviño.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/condado-de-trevino/cerro.webp" alt="Cumbre del Cerro de Treviño" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Cerro de Treviño</h3><p>Una subida corta con vistas a todo el Condado y a los montes de Vitoria.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/condado-de-trevino/campos.webp" alt="Campos de colza en el Condado de Treviño" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los campos</h3><p>En primavera, los campos de colza tiñen el valle de amarillo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ochate-pueblo-maldito/torre.webp" alt="Campanario en ruinas del despoblado de Ochate en el Condado de Treviño" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Ochate, el pueblo maldito</h3><p>Un despoblado con fama de misterioso, dentro del Condado. Te lo cuento en <a href="/blog/ochate-pueblo-maldito.html">su post</a>.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ochate-pueblo-maldito/san-vicentejo.webp" alt="Ermita románica de San Vicentejo en el Condado de Treviño" loading="lazy" decoding="async" /><span class="gcard__n">06</span></div><div class="gcard__body"><h3>La ermita de San Vicentejo</h3><p>Una ermita <strong>románica</strong> pequeña y muy poco conocida, de camino a Ochate.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Condado de Treviño</h2></div>
@@ -84,4 +93,4 @@ Te cuento por qué pasa esto y qué ver allí 👇
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026.  Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ATrevi%C3%B1o_Pueblo_01.jpg" target="_blank" rel="noopener">Basotxerri</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATrevi%C3%B1o_Pueblo_02.jpg" target="_blank" rel="noopener">Basotxerri</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATrevi%C3%B1o_-_Palacio_de_los_Condes_de_Trevi%C3%B1o_%28Ayuntamiento_del_Condado_de_Trevi%C3%B1o%29_1.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3ATrevi%C3%B1o_-_Cerro_de_Trevi%C3%B1o_01.jpg" target="_blank" rel="noopener">Basotxerri</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACampo_de_colza_en_Trevi%C3%B1o_3.jpg" target="_blank" rel="noopener">Mentxuwiki</a> (CC BY-SA 4.0).</p>
+<p class="guide__note">Información consultada en octubre de 2026.  Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Otxate_-_Campanario_02.jpg" target="_blank" rel="noopener">Basotxerri</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3AErmita_de_San_Vicentejo.JPG" target="_blank" rel="noopener">Eltitomac</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATrevi%C3%B1o_Pueblo_01.jpg" target="_blank" rel="noopener">Basotxerri</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATrevi%C3%B1o_Pueblo_02.jpg" target="_blank" rel="noopener">Basotxerri</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ATrevi%C3%B1o_-_Palacio_de_los_Condes_de_Trevi%C3%B1o_%28Ayuntamiento_del_Condado_de_Trevi%C3%B1o%29_1.jpg" target="_blank" rel="noopener">Zarateman</a> (CC0) · <a href="https://commons.wikimedia.org/wiki/File%3ATrevi%C3%B1o_-_Cerro_de_Trevi%C3%B1o_01.jpg" target="_blank" rel="noopener">Basotxerri</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACampo_de_colza_en_Trevi%C3%B1o_3.jpg" target="_blank" rel="noopener">Mentxuwiki</a> (CC BY-SA 4.0).</p>

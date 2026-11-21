@@ -12,8 +12,27 @@ cover: /assets/img/blog/albarracin-que-ver/portada.webp
 tags:
   - Pueblos
 wide: true
+updated: 2026-11-21
+actividadesTitulo: 'Visitas guiadas en los pueblos candidatos'
+actividades:
+  - t: "Visita guiada por Albarracín"
+    u: "https://www.civitatis.com/es/albarracin/visita-guiada-albarracin/"
+  - t: "Visita guiada por Almagro"
+    u: "https://www.civitatis.com/es/almagro/visita-guiada-almagro/"
+  - t: "Free tour por Llanes"
+    u: "https://www.civitatis.com/es/llanes/free-tour-llanes/"
+  - t: "Free tour por Ciudad Rodrigo"
+    u: "https://www.civitatis.com/es/ciudad-rodrigo/free-tour-ciudad-rodrigo/"
+  - t: "Visita guiada por Olivenza"
+    u: "https://www.civitatis.com/es/olivenza/visita-guiada-olivenza/"
+  - t: "Visita guiada por Cazorla + cata de aceite"
+    u: "https://www.civitatis.com/es/cazorla/visita-guiada-cazorla-cata-aceite/"
 faqTitulo: "Dudas sobre el pueblo de Ferrero Rocher"
 faq:
+  - q: "¿Quiénes son los finalistas de Ferrero Rocher 2026?"
+    a: "Todavía no se conocen. Ahora mismo (21 de noviembre) los 17 pueblos siguen en votación. El 30 de noviembre se anuncian los 5 semifinalistas y el 7 de diciembre los 2 finalistas. Actualizaré este post en cuanto salgan."
+  - q: "¿Hasta cuándo se puede votar?"
+    a: "La segunda votación, entre los 17 pueblos, empezó el 9 de noviembre y dura unas tres semanas, hasta el anuncio de los semifinalistas el 30 de noviembre. Después se abre una votación nueva en cada fase."
   - q: "¿Qué pueblos compiten en Ferrero Rocher 2026?"
     a: "Tras la primera votación quedan 17, uno por comunidad: Cazorla, Albarracín, Llanes, Potes, Almagro, Ciudad Rodrigo, Montblanc, Los Molinos, Bocairent, Olivenza, Betanzos, Muro, Villa de Mazo, Alfaro, Estella-Lizarra, Urduña/Orduña y Cehegín."
   - q: "¿Cuándo se sabe el ganador del concurso de Ferrero Rocher 2026?"
@@ -27,6 +46,8 @@ faq:
 ---
 Cada Navidad, **Ferrero Rocher** elige un pueblo de España para llenarlo de luces con su campaña **«Juntos Brillamos Más»**. En 2026 empezaron **34 candidatos**, dos por comunidad autónoma, y tras la primera votación quedan **17**. El ganador se conoce el **14 de diciembre** y su iluminación se enciende el **16**.
 
+<div class="article__callout">🗳️ <strong>Cómo va el concurso (21 de noviembre):</strong> los <strong>17 pueblos siguen en votación</strong>. Todavía no hay semifinalistas ni finalistas: los 5 semifinalistas se anuncian el <strong>30 de noviembre</strong>. Actualizaré este post en cuanto salgan.</div>
+
 Muchos de los candidatos son pueblos de los que ya te he hablado en el blog. Te cuento el calendario, cómo votar y qué ver en cada uno, gane quien gane 👇
 
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
@@ -35,6 +56,7 @@ Muchos de los candidatos son pueblos de los que ya te he hablado en el blog. Te 
 <div class="guide__head"><span class="eyebrow">Fechas</span><h2>Calendario del concurso 2026</h2></div>
 <ol class="guide__timeline">
 <li><b>8 nov</b><span>Primera votación: de 34 a 17 pueblos</span></li>
+<li><b>9-30 nov</b><span>Segunda votación entre los 17 (fase actual)</span></li>
 <li><b>30 nov</b><span>Se anuncian los 5 semifinalistas</span></li>
 <li><b>7 dic</b><span>Se anuncian los 2 finalistas</span></li>
 <li><b>14 dic</b><span>Ganador</span></li>
@@ -56,8 +78,9 @@ Muchos de los candidatos son pueblos de los que ya te he hablado en el blog. Te 
 <div class="guide__head"><span class="eyebrow">El resto</span><h2>Los otros nueve candidatos</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Los Molinos</strong> (Comunidad de Madrid), en la sierra de Guadarrama.</li><li><strong>Bocairent</strong> (Comunidad Valenciana), con su casco medieval y las Covetes dels Moros.</li><li><strong>Betanzos</strong> (Galicia), uno de los cascos históricos más bonitos de A Coruña.</li><li><strong>Muro</strong> (Islas Baleares), en el norte de Mallorca.</li><li><strong>Villa de Mazo</strong> (Canarias), en la isla de La Palma.</li><li><strong>Alfaro</strong> (La Rioja), famoso por su colonia de cigüeñas en la colegiata.</li><li><strong>Estella-Lizarra</strong> (Navarra), parada clásica del Camino de Santiago.</li><li><strong>Urduña/Orduña</strong> (País Vasco), el único municipio con título de ciudad de Bizkaia.</li><li><strong>Cehegín</strong> (Región de Murcia), con un casco antiguo declarado conjunto histórico.</li></ul>
 
-<div class="guide__head"><span class="eyebrow">Cómo funciona</span><h2>Cómo votar</h2></div>
-<p>Se vota en la <strong>web oficial de la campaña «Juntos Brillamos Más»</strong> de Ferrero Rocher: eliges el pueblo y confirmas el voto. Hay una votación en cada fase, así que si quieres apoyar a uno tendrás que volver a votar cuando se anuncien los semifinalistas y los finalistas. En 2025 ganó <strong>Tejeda</strong>, en Gran Canaria, y en 2024, <a href="/blog/ribadavia-que-ver.html">Ribadavia</a>, en Ourense.</p>
+<div class="guide__head"><span class="eyebrow">Cómo funciona</span><h2>Cómo votar paso a paso</h2></div>
+<ol class="checklist" style="margin:0 0 1rem;"><li><strong>Entra en la web oficial de Ferrero Rocher</strong> y busca el apartado del concurso «Juntos Brillamos Más».</li><li><strong>Elige el pueblo</strong> que quieres apoyar entre los candidatos de la fase.</li><li><strong>Confirma tu voto.</strong></li><li><strong>Vuelve en cada fase:</strong> los votos no pasan de una fase a otra.</li></ol>
+<p>En 2025 ganó <strong>Tejeda</strong>, en Gran Canaria, y en 2024, <a href="/blog/ribadavia-que-ver.html">Ribadavia</a>, en Ourense.</p>
 <div class="guide__legend"><h3>🎄 Aunque no gane tu favorito</h3><p>Todos estos pueblos se visten de Navidad a su manera y son una escapada perfecta en diciembre. Además, en temporada baja hay menos gente y el alojamiento es más barato.</p></div>
 
 <p>Si buscas más planes de estas fechas, mira mi guía de <a href="/blog/navidad-en-madrid.html">Navidad en Madrid</a>, las <a href="/blog/luces-navidad-vigo.html">luces de Navidad de Vigo</a> o las <a href="/blog/magicas-navidades-torrejon.html">Mágicas Navidades de Torrejón</a>.</p>
