@@ -1,9 +1,9 @@
 ---
 title: 'Guadalest: qué ver en uno de los pueblos más bonitos de España'
-seoDescription: 'Qué ver en Guadalest y su valle (Alicante): el castillo del siglo XI sobre el peñón, el embalse turquesa, cómo llegar y cuándo ir.'
+seoDescription: 'Qué ver en Guadalest (Alicante): el castillo de San José y su túnel, el embalse turquesa, los museos, horario y precio, cómo llegar desde Benidorm y dónde aparcar.'
 date: 2026-08-13T18:28:28.000Z
 lugar: 'Guadalest'
-seoTitle: 'Guadalest: qué ver en uno de los pueblos más bonitos'
+seoTitle: 'Guadalest: qué ver, horario del castillo y cómo llegar'
 lat: 38.6755
 lng: -0.1996
 excerpt: 'Guía de Guadalest (Alicante): su castillo del siglo XI, el embalse turquesa, cómo llegar, cuándo ir y todo lo que hay que ver en el pueblo del peñón.'
@@ -24,9 +24,20 @@ faq:
     a: "No, el baño no está permitido en el embalse. Se disfruta desde los miradores del pueblo y del castillo."
   - q: "¿Cuál es la mejor hora para visitar Guadalest?"
     a: "Antes de las 10:00 o después de las 16:00: recibe más de dos millones de visitas al año y a esas horas hay mucha menos gente."
+  - q: "¿Qué horario tiene el castillo de Guadalest?"
+    a: "De 10:00 a 20:00 en verano (junio-septiembre) y de 10:00 a 18:00 el resto del año. La entrada, unos 4 €, incluye la Casa Orduña."
+  - q: "¿Qué museos hay en Guadalest?"
+    a: "Muchos y muy curiosos: el de microminiaturas, el microgigante, el etnológico, el de vehículos históricos, el de saleros y pimenteros, el de belenes y casas de muñecas y uno de instrumentos de tortura medievales."
   - q: "¿Qué ver en Guadalest?"
     a: "El castillo de San José y su túnel en la roca, el embalse turquesa, el casco antiguo y sus museos curiosos, como el de microminiaturas."
+actividadesTitulo: 'Excursiones y visitas a Guadalest'
 actividades:
+  - t: "Free tour por Guadalest"
+    u: "https://www.civitatis.com/es/guadalest/free-tour-guadalest/"
+  - t: "Excursión a Guadalest, Altea y Fuentes del Algar desde Benidorm"
+    u: "https://www.civitatis.com/es/benidorm/excursion-guadalest-altea/"
+  - t: "Excursión a Guadalest y Fuentes del Algar desde Alicante"
+    u: "https://www.civitatis.com/es/alicante/excursion-guadalest-fuentes-algar/"
   - t: "Tour privado por Guadalest"
     u: "https://www.civitatis.com/es/guadalest/tour-privado-guadalest/"
 comer:
@@ -45,6 +56,7 @@ comer:
     o: 630
     d: "Calle Sol, 12"
 comerFecha: "octubre de 2026"
+updated: 2026-11-21
 guia: /assets/guias/guia-alicante-chenoaventuras.pdf
 guiaTitulo: 'Guía Alicante en PDF'
 ---
@@ -55,6 +67,14 @@ Hay pueblos bonitos, y luego está Guadalest, que parece dibujado a propósito p
 
 Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.com/p/Db_YXJ8xcVo/).
 
+<div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Guadalest</h2></div>
+<div class="guide__tips guide__tips--2">
+<div class="guide__tip"><h3>📍 Dónde está</h3><p>En el interior de la <strong>Marina Baixa</strong> (Alicante), entre las sierras de Aitana y Xortà, a unos <strong>25 km de Benidorm</strong>.</p></div>
+<div class="guide__tip"><h3>💶 Precio</h3><p>El pueblo es <strong>gratis</strong>. El castillo cuesta unos <strong>4 €</strong> (con la Casa Orduña) y cada museo tiene su entrada.</p></div>
+<div class="guide__tip"><h3>🕙 Horario del castillo</h3><p>De <strong>10:00 a 18:00</strong> de octubre a mayo y hasta las <strong>20:00</strong> de junio a septiembre.</p></div>
+<div class="guide__tip"><h3>⏱️ Tiempo</h3><p>Dos horas para lo esencial; <strong>medio día</strong> si entras al castillo, a un par de museos y comes con vistas al embalse.</p></div>
+</div>
+
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Guadalest</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/guadalest-que-ver/pueblo.webp" alt="El castillo de Guadalest sobre la roca, con el embalse turquesa al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Castillo de San José</h3><p>Una fortaleza musulmana sobre la <strong>roca más alta</strong> del pueblo. Se llega por un túnel excavado en la roca; la entrada cuesta unos 4 €.</p></div></li>
@@ -63,17 +83,15 @@ Puedes ver el vídeo completo en [este reel de Instagram](https://www.instagram.
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/guadalest-que-ver/mirador.webp" alt="Muro de piedra de un mirador de Guadalest con el valle y el embalse" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>Los miradores</h3><p>Asómate a los muros de piedra para ver <strong>todo el valle</strong> y las montañas que lo rodean.</p></div></li>
 </ol>
 
-## Un pueblo con más historia de la que parece
-
-Guadalest tiene origen musulmán, y su castillo —el Castell de Guadalest, o castillo de San José— es una fortaleza del siglo XI construida sobre la roca más alta del pueblo, desde donde se controlaba todo el valle. Fue plaza importante de las tropas árabes antes de la Reconquista, y a lo largo de los siglos ha sobrevivido a dos terremotos (1644 y 1748) y a una voladura durante la Guerra de Sucesión, así que lo que hoy ves entre las ruinas es, literalmente, lo que quedó en pie después de todo eso.
-
-## Qué ver en Guadalest
-
-- **El Castillo de San José**, en lo más alto del peñón. Se accede cruzando un túnel excavado directamente en la roca, y arriba te espera la vista que hace famoso al pueblo: el valle entero y el embalse a los pies. La entrada (unos 4 €) incluye también la Casa Orduña, una casa señorial del siglo XVIII reconvertida en museo.
-- **El embalse de Guadalest**, ese azul turquesa que ves en todas las fotos. Está justo debajo del casco antiguo y es, para mí, el rincón más fotogénico de todo el pueblo.
-- **El casco antiguo**, con sus calles empedradas y el barrio de El Arrabal conectado con el Castell por el túnel de roca.
-- **Los museos**, que aquí son casi una atracción en sí misma: microminiaturas, microgigante, etnológico, vehículos históricos, saleros y pimenteros, belenes y casas de muñecas, e incluso uno de instrumentos de tortura medievales.
-
+<div class="guide__head"><span class="eyebrow">Museos</span><h2>Los museos más curiosos de Guadalest</h2><p>En un pueblo de 200 vecinos hay más museos que en muchas ciudades.</p></div>
+<div class="guide__tips guide__tips--2">
+<div class="guide__tip"><h3>🔍 Microminiaturas</h3><p>Obras tan diminutas que solo se aprecian con lupa.</p></div>
+<div class="guide__tip"><h3>🏠 Casa Orduña</h3><p>Casa señorial del siglo XVIII, incluida en la entrada del castillo.</p></div>
+<div class="guide__tip"><h3>🧂 Saleros y pimenteros</h3><p>Una colección enorme de saleros de todo el mundo.</p></div>
+<div class="guide__tip"><h3>🧺 Etnológico</h3><p>Cómo se vivía en el valle: aperos, cocina y oficios tradicionales.</p></div>
+<div class="guide__tip"><h3>🚗 Vehículos históricos</h3><p>Coches y motos antiguos.</p></div>
+<div class="guide__tip"><h3>⛓️ Instrumentos de tortura</h3><p>Réplicas de instrumentos medievales; no es para niños pequeños.</p></div>
+</div>
 
 <!--actividades-->
 
@@ -87,7 +105,9 @@ Guadalest tiene origen musulmán, y su castillo —el Castell de Guadalest, o ca
 
 ## Cómo llegar a Guadalest
 
-En coche es la forma más cómoda: desde Benidorm son unos 25 km por la CV-70 (media hora), y desde Altea se llega por la CV-755 en un tiempo similar. También hay una línea de autobús desde Benidorm, aunque con muy poca frecuencia (un único trayecto al día en cada sentido), así que si no tienes coche, lo más práctico suele ser una excursión organizada desde la Costa Blanca.
+En coche es la forma más cómoda: desde Benidorm son unos 25 km por la CV-70 (media hora), y desde Altea se llega por la CV-755 en un tiempo similar. También hay una línea de autobús desde Benidorm, aunque con muy poca frecuencia (un único trayecto al día en cada sentido), así que si no tienes coche, lo más práctico suele ser una <a href="https://www.civitatis.com/es/benidorm/excursion-guadalest-altea/?aid=110968" target="_blank" rel="noopener sponsored">excursión a Guadalest, Altea y Fuentes del Algar</a> desde Benidorm.
+
+Al llegar, deja el coche en los <strong>aparcamientos de pago</strong> de la entrada del pueblo: dentro del casco no se puede circular.
 
 📍 [Abrir Guadalest en Google Maps](https://www.google.com/maps/search/?api=1&query=Guadalest+Alicante) para llevar la ruta lista desde el móvil.
 
