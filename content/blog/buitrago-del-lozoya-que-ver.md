@@ -86,7 +86,7 @@ Pasear por el pueblo, el museo y buena parte de la muralla es gratuito. Si quier
 
 ## Fiestas de Buitrago del Lozoya
 
-**⭐ Belén Viviente.** En Navidad, Buitrago monta <strong>uno de los belenes vivientes más importantes de España</strong>: casi 40 escenas a lo largo de 1,3 km dentro del recinto amurallado, con más de 200 vecinos actuando. Lo visitan más de 25.000 personas cada año. En 2026 se celebra los días **12, 13, 19 y 20 de diciembre** y hace falta entrada (en [belenvivientebuitrago.es](https://belenvivientebuitrago.es)).
+**⭐ [Belén Viviente](/blog/belen-viviente-buitrago-del-lozoya.html).** En Navidad, Buitrago monta <strong>uno de los belenes vivientes más importantes de España</strong>: casi 40 escenas a lo largo de 1,3 km dentro del recinto amurallado, con más de 200 vecinos actuando. Lo visitan más de 25.000 personas cada año. En 2026 se celebra los días **12, 13, 19 y 20 de diciembre** y hace falta entrada (en [belenvivientebuitrago.es](https://belenvivientebuitrago.es)).
 
 **🛡️ Feria Medieval.** El <strong>primer fin de semana de septiembre</strong>, desde 2001, la villa vuelve a la Edad Media: más de 100 puestos de artesanía, teatro, música y pasacalles dentro de la muralla. Es de las ferias medievales con más éxito de Madrid.
 
