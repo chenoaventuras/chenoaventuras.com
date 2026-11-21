@@ -16,6 +16,12 @@ wide: true
 actividades:
   - t: "Tour en kayak por Cala Granadella"
     u: "https://www.civitatis.com/es/javea/tour-kayak-cala-granadella/"
+  - t: "Kayak y snorkel en la Cova del Llop Marí"
+    u: "https://www.civitatis.com/es/javea/kayak-snorkel-cova-llop-mari/"
+  - t: "Snorkel en Jávea"
+    u: "https://www.civitatis.com/es/javea/paseo-barco-snorkel-javea/"
+  - t: "Bautismo de buceo en Jávea"
+    u: "https://www.civitatis.com/es/javea/bautismo-buceo-javea/"
   - t: "Tour en kayak por el Cabo San Antonio y Cala Tangó"
     u: "https://www.civitatis.com/es/javea/tour-kayak-snorkel-javea/"
 faqTitulo: "Dudas sobre Cala Granadella"
@@ -28,10 +34,15 @@ faq:
     a: "De cantos rodados, no de arena, con agua muy clara y acantilados blancos con cuevas."
   - q: "¿Es buena para hacer snorkel?"
     a: "Sí, es una de las zonas más recomendadas de la Costa Blanca, con una ruta de dificultad baja desde la propia orilla."
+  - q: "¿Qué cuevas hay en la Cala Granadella?"
+    a: "Desde la cala salen rutas en kayak hacia el Cap de la Nau que pasan por En Caló, la Cova del Llop Marí y la Cova dels Òrguens, y hacia el sur por la Cova Blanca y la Cova dels Arcs, camino de la Falla del Moraig. Solo se llega por mar, en kayak o con excursiones autorizadas."
+  - q: "¿Cuántas plazas tiene el aparcamiento de la Granadella?"
+    a: "Unas 130 plazas en verano de 2026, sin reserva. Cuando se llenan, la barrera no deja pasar más coches."
   - q: "¿Cuándo es mejor ir?"
     a: "Temprano por la mañana y fuera de julio y agosto si puedes: hay menos gente y menos restricciones."
 guia: /assets/guias/guia-alicante-chenoaventuras.pdf
 guiaTitulo: 'Guía Alicante en PDF'
+updated: 2026-11-21
 ---
 Una cala de **cantos rodados y agua turquesa** encajada entre acantilados blancos, a pocos minutos de Xàbia (Jávea). La **Cala Granadella** es considerada una de las más bonitas de la Costa Blanca y uno de los mejores sitios de la zona para hacer **snorkel**.
 
@@ -43,7 +54,7 @@ Te cuento cómo llegar (ojo con las restricciones de verano) y cómo aprovecharl
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Cala Granadella: lo que tienes que saber</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Acceso regulado en verano</h3><p>Según el Ayuntamiento de Xàbia (verano de 2026), el acceso en coche está regulado con barrera y aparcamiento de pago: <strong>9 € por vehículo y día</strong>, de 9:00 a 19:00, todos los días del 1 de junio al 6 de septiembre y solo fines de semana hasta el 12 de octubre (sin reserva, unas 130 plazas). También hay tren turístico desde La Guardia. Las normas cambian cada año: <strong>confírmalas</strong>.</p></div>
-<div class="guide__tip"><h3>🅿️ Aparcamiento</h3><p>El aparcamiento es de tierra, está junto a la playa y se llena rápido: unas <strong>cien plazas</strong>. Si no hay sitio, no se puede entrar. Llega a primera hora.</p></div>
+<div class="guide__tip"><h3>🅿️ Aparcamiento</h3><p>El aparcamiento es de tierra, está junto a la playa y se llena rápido: unas <strong>130 plazas</strong>. Si no hay sitio, no se puede entrar. Llega a primera hora.</p></div>
 <div class="guide__tip"><h3>🤿 Snorkel y kayak</h3><p>Es una de las mejores zonas para snorkel de la Costa Blanca. Lleva tu equipo, calzado para los cantos rodados y protección solar: casi no hay sombra.</p></div>
 </div>
 
@@ -57,13 +68,20 @@ Te cuento cómo llegar (ojo con las restricciones de verano) y cómo aprovecharl
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cala-granadella/cala.webp" alt="Cala Granadella con kayaks y bañistas bajo los acantilados" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Cuevas en la pared</h3><p>En la pared de la cala se abren cuevas. Se puede llegar en kayak, con excursiones que salen de la propia Granadella.</p></div></li>
 </ol>
 
+<div class="guide__head"><span class="eyebrow">Cuevas</span><h2>Las cuevas de la Granadella en kayak</h2><p>Lo que más busca la gente… y solo se ve desde el agua.</p></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🧭 Hacia el Cap de la Nau</h3><p>La ruta más clásica sale de la cala hacia el norte: pasa por <strong>En Caló</strong>, la <strong>Cova del Llop Marí</strong> (llamada así porque la frecuentaba la foca monje), la <strong>Illa del Descobridor</strong> y la <strong>Cova dels Òrguens</strong>, con la cala Ambolo vista desde el mar.</p></div>
+<div class="guide__tip"><h3>🧭 Hacia el Moraig</h3><p>Hacia el sur, la costa sigue llena de huecos: la <strong>Cova Blanca</strong>, la <strong>Cala dels Testos</strong> y la <strong>Cova dels Arcs</strong>, hasta la Falla del Moraig, ya en Benitatxell.</p></div>
+<div class="guide__tip"><h3>🛶 Cómo ir</h3><p>Con empresas autorizadas por el Ayuntamiento de Xàbia, que salen de la propia cala. Por ejemplo, el <a href="https://www.civitatis.com/es/javea/tour-kayak-cala-granadella/?aid=110968" target="_blank" rel="noopener sponsored">tour en kayak por la Granadella</a> o el de <a href="https://www.civitatis.com/es/javea/kayak-snorkel-cova-llop-mari/?aid=110968" target="_blank" rel="noopener sponsored">kayak y snorkel a la Cova del Llop Marí</a>.</p></div>
+</div>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Xàbia</strong>, se toma la carretera hacia el <strong>Cabo de la Nao</strong> y se sigue la carretera de la Granadella hasta la cala, con muchas curvas. Usa GPS.</p><p>En verano el acceso en coche está regulado con barrera y aparcamiento de pago (en 2026, 9 € por vehículo y día, de 9:00 a 19:00), y hay un tren turístico desde La Guardia. <strong>Confirma las normas del año en curso</strong> y valora llegar a pie o en el transporte habilitado.</p><p><strong>Desde el agua:</strong> la mejor forma de ver la cala y sus cuevas es un <a href="https://www.civitatis.com/es/javea/tour-kayak-cala-granadella/?aid=110968" target="_blank" rel="noopener sponsored">tour en kayak por la Granadella</a>.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Cala+Granadella+Xàbia" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Llega antes de las 10</b>: antes de que el acceso en coche se restrinja y se llene el aparcamiento.</li><li><b>Lleva calzado de agua</b>: los cantos rodados pinchan.</li><li><b>Sin sombra</b>: no hay mucha: lleva sombrilla, agua y protector.</li><li><b>Alternativas cercanas</b>: si está llena, prueba <strong>Cala Portitxol</strong> o <strong>Cala Blanca</strong>, también en Xàbia.</li><li><b>Cuida el entorno</b>: no dejes basura ni toques los fondos marinos.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Llega pronto</b>: el aparcamiento se llena a primera hora en verano y, cuando no hay plazas, la barrera no deja pasar.</li><li><b>Lleva calzado de agua</b>: los cantos rodados pinchan.</li><li><b>Sin sombra</b>: no hay mucha: lleva sombrilla, agua y protector.</li><li><b>Alternativas cercanas</b>: si está llena, prueba <strong>Cala Portitxol</strong> o <strong>Cala Blanca</strong>, también en Xàbia.</li><li><b>Cuida el entorno</b>: no dejes basura ni toques los fondos marinos.</li></ul></div>
 
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Las normas de acceso, el transporte y el aparcamiento cambian cada temporada: consúltalas en el Ayuntamiento de Xàbia. Fotos propias.</p>
+<p class="guide__note">Información consultada en octubre y noviembre de 2026. Las normas de acceso, el transporte y el aparcamiento cambian cada temporada: consúltalas en el Ayuntamiento de Xàbia. Fotos propias.</p>
