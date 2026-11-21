@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en el Delta del Ebro: arrozales, flamencos, Riumar y miradores'
-seoTitle: 'Delta del Ebro: qué ver, rutas, flamencos y cuándo ir'
+seoTitle: 'Delta del Ebro (Tarragona): qué ver, playas, flamencos y rutas'
 seoDescription: 'Delta del Ebro (Tarragona): dónde está, qué ver (arrozales, flamencos, Riumar, Punta del Fangar), rutas en bici, actividades y la mejor época para ir.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Delta del Ebro'
@@ -36,6 +36,7 @@ faq:
     a: "Un día para lo esencial, y un fin de semana si quieres hacer rutas en bici."
 guia: /assets/guias/guia-tarragona-chenoaventuras.pdf
 guiaTitulo: 'Guía Tarragona en PDF'
+updated: 2026-11-21
 ---
 **22.000 hectáreas de arrozales**, colonias de **flamencos**, playas de dunas casi vírgenes y senderos planos entre canales. El **Delta del Ebro** es uno de los humedales más importantes del Mediterráneo y un destino perfecto para quien busca **naturaleza, aves y buen arroz** en la costa de Tarragona.
 

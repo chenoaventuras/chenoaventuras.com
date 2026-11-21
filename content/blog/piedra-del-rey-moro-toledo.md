@@ -3,7 +3,7 @@ title: 'La Piedra del Rey Moro: la leyenda escondida junto al Tajo en Toledo'
 seoDescription: 'Piedra del Rey Moro (Toledo): la leyenda del último rey musulmán, las vistas de la ciudad, cómo llegar desde el Mirador del Valle y qué tener en cuenta.'
 date: 2025-07-29T19:33:38.000Z
 lugar: 'Toledo'
-seoTitle: 'La Piedra del Rey Moro: leyenda junto al Tajo, Toledo'
+seoTitle: 'Piedra del Rey Moro (Toledo): cómo llegar, leyenda y mejor hora'
 lat: 39.8504
 lng: -4.0225
 excerpt: 'La Piedra del Rey Moro, en Toledo, guarda la leyenda del último rey musulmán de la ciudad. Cómo llegar desde el Mirador del Valle y qué tener en cuenta.'
@@ -49,6 +49,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-toledo-chenoaventuras.pdf
 guiaTitulo: 'Guía Toledo en PDF'
+updated: 2026-11-21
 ---
 En el valle del **Tajo**, frente a Toledo, hay una roca solitaria con una de las leyendas más curiosas de la ciudad: la **Piedra del Rey Moro**. El paseo hasta ella, con la ciudad entera delante, es una de las mejores formas de ver **Toledo desde fuera**.
 
