@@ -12,14 +12,6 @@ tags:
   - Spots
   - Cataluña
 wide: true
-actividadesTitulo: 'Actividades cerca de Lleida'
-actividades:
-  - t: "Excursión a Montblanc y el Monasterio de Poblet"
-    u: "https://www.civitatis.com/es/salou/excursion-montblanc-monasterio-poblet/"
-  - t: "Visita guiada por la Tarragona romana"
-    u: "https://www.civitatis.com/es/tarragona/visita-guiada-tarragona-romana/"
-  - t: "Free tour por Tarragona"
-    u: "https://www.civitatis.com/es/tarragona/free-tour-tarragona/"
 faqTitulo: "Dudas sobre Lleida"
 faq:
   - q: "¿Cuándo se empezó a construir la Seu Vella de Lleida?"

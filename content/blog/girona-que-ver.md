@@ -12,14 +12,6 @@ tags:
   - Spots
   - Cataluña
 wide: true
-actividadesTitulo: 'Actividades cerca de Girona'
-actividades:
-  - t: "Vuelo en globo sobre los volcanes de la Garrotxa"
-    u: "https://www.getyourguide.es/costa-brava-l473/vuelo-en-globo-sobre-los-volcanes-de-la-costa-brava-desde-santa-pau-t35210/"
-  - t: "Tossa de Mar: kayak guiado y snorkel"
-    u: "https://www.getyourguide.es/tossa-de-mar-l90930/tossa-de-mar-excursion-guiada-en-kayak-y-snorkel-t475482/"
-  - t: "Cadaqués: paseo en el barco de Dalí con baño"
-    u: "https://www.getyourguide.es/port-lligat-l150580/cadaques-salvador-dali-boat-tour-with-swimming-stop-t1394437/"
 faqTitulo: "Dudas sobre Girona"
 faq:
   - q: "¿Quién construyó el puente rojo de Girona?"

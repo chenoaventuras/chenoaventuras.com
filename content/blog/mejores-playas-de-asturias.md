@@ -14,14 +14,6 @@ tags:
 wide: true
 sinGuia: true
 coche: true
-actividadesTitulo: 'Actividades en Asturias'
-actividades:
-  - t: "Excursión a Llanes, Ribadesella y Tazones + Mirador del Fito"
-    u: "https://www.civitatis.com/es/oviedo/excursion-llanes-ribadesella-santillana-mar/"
-  - t: "Free tour por Gijón"
-    u: "https://www.civitatis.com/es/gijon/free-tour-gijon/"
-  - t: "Visita guiada por Gijón"
-    u: "https://www.civitatis.com/es/gijon/visita-guiada-gijon/"
 faqTitulo: "Dudas sobre las playas de Asturias"
 faq:
   - q: "¿Cuáles son las mejores playas de Asturias?"

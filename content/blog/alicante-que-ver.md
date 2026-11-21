@@ -12,14 +12,6 @@ tags:
   - Spots
   - Comunidad Valenciana
 wide: true
-actividadesTitulo: 'Actividades cerca de Alicante'
-actividades:
-  - t: "Excursión a Guadalest y Altea desde Alicante"
-    u: "https://www.civitatis.com/es/alicante/excursion-guadalest-altea/"
-  - t: "Excursión a Tabarca en barco desde Santa Pola"
-    u: "https://www.civitatis.com/es/santa-pola/excursion-tabarca-barco/"
-  - t: "Free tour por Benidorm"
-    u: "https://www.civitatis.com/es/benidorm/free-tour-benidorm/"
 faqTitulo: "Dudas sobre Alicante"
 faq:
   - q: "¿Cuándo son las Hogueras de Alicante?"
