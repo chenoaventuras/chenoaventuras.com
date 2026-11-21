@@ -21,7 +21,12 @@ actividades:
   - t: "Visita guiada por la catedral de Tarragona"
     u: "https://www.civitatis.com/es/tarragona/visita-catedral-tarragona/"
 faqTitulo: "Dudas sobre Tarragona"
+updated: 2026-11-21
 faq:
+  - q: "¿Qué ruinas romanas hay en Tarragona?"
+    a: "En la ciudad: anfiteatro, circo y Pretorio, murallas (Passeig Arqueològic), Foro de la Colonia y la Volta del Pallol del foro provincial. En los alrededores: el Pont del Diable, la Torre dels Escipions, la Pedrera del Mèdol, el Arco de Berà, la Villa dels Munts y Centcelles."
+  - q: "¿Qué días cierran las ruinas romanas de Tarragona?"
+    a: "Los lunes (salvo festivos programados) y el 24, 25, 26 y 31 de diciembre y el 1 y 6 de enero, según el Museu d'Història de Tarragona. En invierno, los domingos y festivos solo abren por la mañana, hasta las 14:30."
   - q: "¿Cuándo se fundó Tarraco?"
     a: "En el año 218 a. C., por los Escipiones, durante la Segunda Guerra Púnica."
   - q: "¿Cuánto cuesta ver los monumentos romanos de Tarragona?"
@@ -66,8 +71,26 @@ Te cuento qué ver, la entrada conjunta para los monumentos romanos, la tradici�
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tarragona-que-ver/circo.webp" alt="Restos del circo romano de Tarragona y la torre del Pretorio" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El circo y el Pretorio</h3><p>El circo de las carreras de cuadrigas, uno de los mejor conservados de Occidente. Se recorren sus <strong>galerías abovedadas</strong> y se sube a la torre del <strong>Pretorio</strong>, con vistas de la ciudad.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tarragona-que-ver/pont-del-diable.webp" alt="Acueducto romano Pont del Diable cerca de Tarragona" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Pont del Diable</h3><p>El acueducto de <strong>les Ferreres</strong>, a 4 km de la ciudad, con dos pisos de arcos y unos 27 metros de altura. Se puede caminar por encima, por el canal. <strong>Gratis</strong>, con aparcamiento.</p></div></li>
 </ol>
-<p>Además, el <strong>Passeig Arqueològic</strong> recorre por fuera las <strong>murallas romanas</strong>, con bloques ciclópeos de época republicana, y el <strong>foro de la colonia</strong> conserva columnas y calles romanas. Algunos recintos pueden estar en obras: consúltalo antes.</p>
+<p>Además, el <strong>Passeig Arqueològic</strong> recorre por fuera las <strong>murallas romanas</strong>, con bloques ciclópeos de época republicana, y el <strong>foro de la colonia</strong> conserva columnas y calles romanas. Más abajo tienes la lista completa y los horarios.</p>
 <div class="guide__howto"><h3>🎫 Entradas</h3><p>Cada recinto del Museu d'Història de Tarragona cuesta unos <strong>5 €</strong>, y la <strong>entrada conjunta</strong> a los cinco principales, unos <strong>15 €</strong> (descuento del 50 % para jubilados, jóvenes y estudiantes; gratis menores de 12 años). Compensa desde tres recintos. El acceso termina 30 minutos antes del cierre.</p><p><strong>Con guía:</strong> si prefieres que te lo cuenten, hay una <a href="https://www.civitatis.com/es/tarragona/visita-guiada-tarragona-romana/?aid=110968" target="_blank" rel="noopener sponsored">visita guiada por la Tarragona romana</a> y un <a href="https://www.civitatis.com/es/tarragona/free-tour-tarragona/?aid=110968" target="_blank" rel="noopener sponsored">free tour por Tarragona</a>.</p></div>
+
+
+<div class="guide__head"><span class="eyebrow">Ruinas romanas</span><h2>Todas las ruinas romanas de Tarragona</h2><p>El Conjunto Arqueológico de Tarraco tiene más monumentos de los que se suelen ver en un día. Estos son los que gestiona el Museu d'Història de Tarragona y los de los alrededores.</p></div>
+<div class="guide__tips guide__tips--2">
+<div class="guide__tip"><h3>🏟️ Anfiteatro</h3><p>Junto al mar, Patrimonio Mundial. Entrada de 5 € o con la conjunta.</p></div>
+<div class="guide__tip"><h3>🐎 Circo y Pretorio</h3><p>Galerías del circo y torre del Pretorio, con vistas. Abre hasta las 20:00 entre semana.</p></div>
+<div class="guide__tip"><h3>🧱 Passeig Arqueològic</h3><p>El paseo por fuera de las <strong>murallas romanas</strong>, las más antiguas de la ciudad.</p></div>
+<div class="guide__tip"><h3>🏛️ Foro de la Colonia</h3><p>Columnas, calles y restos del foro donde se hacía la vida pública de la colonia.</p></div>
+<div class="guide__tip"><h3>🏠 Casa Canals</h3><p>Casa señorial sobre la muralla, incluida en la entrada conjunta.</p></div>
+<div class="guide__tip"><h3>🎆 Volta del Pallol</h3><p>Bóveda del antiguo foro provincial con un <strong>video mapping</strong> sobre la Tarraco romana (5 €, gratis hasta 12 años).</p></div>
+<div class="guide__tip"><h3>🌉 Pont del Diable</h3><p>El acueducto de les Ferreres, a 4 km: <strong>acceso libre y gratuito</strong>.</p></div>
+<div class="guide__tip"><h3>🗿 Torre dels Escipions</h3><p>Torre funeraria romana junto a la antigua Vía Augusta, a unos 6 km hacia Barcelona.</p></div>
+<div class="guide__tip"><h3>⛏️ Pedrera del Mèdol</h3><p>La cantera de donde salió la piedra de Tarraco, con una aguja de roca que dejaron los canteros en el centro.</p></div>
+<div class="guide__tip"><h3>🏹 Arco de Berà</h3><p>Arco romano sobre la Vía Augusta en Roda de Berà, a unos 20 km.</p></div>
+<div class="guide__tip"><h3>🏡 Villa dels Munts</h3><p>Villa romana junto al mar en Altafulla, con termas y restos de pinturas.</p></div>
+<div class="guide__tip"><h3>✨ Centcelles</h3><p>En Constantí: un edificio tardorromano con una cúpula de mosaicos del siglo IV.</p></div>
+</div>
+<div class="guide__howto"><h3>🕘 Horario de invierno (27 de octubre-31 de marzo)</h3><p>Según el Museu d'Història de Tarragona: <strong>anfiteatro, Passeig Arqueològic y Foro de la Colonia</strong>, de martes a viernes de 9:00 a 18:30, sábados de 9:30 a 18:30 y domingos y festivos de 9:30 a 14:30. <strong>Circo-Pretorio y Casa Canals</strong>, igual pero hasta las 20:00 (domingos, hasta las 14:30). <strong>Los lunes cierra</strong>, y también el 24, 25, 26 y 31 de diciembre y el 1 y 6 de enero. En verano (abril-octubre) abren de martes a sábado hasta las 20:45.</p><p>La <strong>entrada conjunta de 15 €</strong> incluye cinco recintos: Passeig Arqueològic, Circo-Pretorio, Foro de la Colonia, anfiteatro y Casa Canals. Se compra en la web de entradas del museo o en taquilla.</p></div>
 
 <!--enr-->
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>La ciudad romana más antigua de la Península</h2></div>
