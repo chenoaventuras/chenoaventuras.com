@@ -78,6 +78,8 @@ Una basílica de **Gaudí** que lleva en obras desde 1882, un casco gótico de c
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Barcelona en tres días</h2><ul><li><b>Día 1 · Gaudí</b>: Sagrada Família por la mañana, Park Güell después y paseo por Gràcia.</li><li><b>Día 2 · Modernismo y gótico</b>: Casa Batlló y La Pedrera; por la tarde Barrio Gótico y plaza del Rei.</li><li><b>Día 3 · Mar y montaña</b>: Barceloneta y Montjuïc en teleférico, o excursión a Montserrat.</li><li><b>Reserva todo</b>: Sagrada Família, Park Güell, Batlló y Pedrera se agotan.</li><li><b>Cuidado</b>: con los carteristas en La Rambla y el metro.</li></ul></div>
 
+<p>🎄 <strong>¿Vas en diciembre?</strong> Mira las fechas de luces y mercados en <a href="/blog/navidad-en-barcelona.html">Navidad en Barcelona 2026</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
