@@ -1,7 +1,7 @@
 ---
 title: 'Luces de Navidad de Vigo 2026: encendido, horarios, noria y qué ver'
-seoTitle: 'Luces de Navidad de Vigo 2026: encendido el 14 de noviembre'
-seoDescription: 'Navidad de Vigo 2026: el encendido es el sábado 14 de noviembre a las 20:00 en Porta do Sol. Horarios, el árbol gigante, la noria, el Cíes Market, dónde aparcar y tours.'
+seoTitle: 'Luces de Navidad de Vigo 2026: ya encendidas, horarios y noria'
+seoDescription: 'Navidad de Vigo 2026: las luces están encendidas desde el sábado 14 de noviembre. Horarios, el árbol gigante, la noria, el Cíes Market, dónde aparcar y tours.'
 date: 2026-11-09T12:00:00.000Z
 evento: true
 lugar: 'Luces de Navidad de Vigo'
@@ -26,7 +26,7 @@ actividadesTitulo: 'Tours para ver las luces de Vigo'
 faqTitulo: "Dudas sobre la Navidad de Vigo"
 faq:
   - q: "¿Cuándo se encienden las luces de Navidad de Vigo en 2026?"
-    a: "El sábado 14 de noviembre de 2026 a las 20:00, en un acto junto al árbol gigante de Porta do Sol. Antes, a las 17:00, hay un desfile por la calle García Barbón."
+    a: "Fue el sábado 14 de noviembre de 2026 a las 20:00, en un acto junto al árbol gigante de Porta do Sol. Desde entonces se encienden cada tarde hasta mediados de enero."
   - q: "¿Hasta cuándo están las luces de Navidad de Vigo?"
     a: "El Concello aún no ha dado la fecha de apagado. Suelen quedarse hasta el segundo o tercer fin de semana de enero; en la edición anterior se apagaron el 11 de enero."
   - q: "¿A qué hora se encienden las luces de Vigo cada día?"
@@ -37,6 +37,7 @@ faq:
     a: "Cerca de Porta do Sol es casi imposible en las horas punta. Lo más práctico es dejar el coche en Samil o en Vialia y moverte en los autobuses urbanos de Vitrasa, que refuerzan el servicio en Navidad."
   - q: "¿Cuántas luces tiene Vigo en Navidad?"
     a: "Unos 12 millones de luces LED repartidas por cerca de 500 calles, con más de 7.000 motivos ornamentales, según el Concello."
+updated: 2026-11-21
 ---
 **Doce millones de luces LED**, un árbol que cada año intenta ser el más alto de España y una ciudad entera que sale a la calle para verlo encender. La **Navidad de Vigo** es ya una escapada en sí misma, y este año empieza antes que casi ninguna.
 
@@ -47,7 +48,7 @@ Te cuento la fecha del encendido, los horarios, qué ver y cómo organizarte �
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la Navidad de Vigo</h2></div>
 <div class="guide__tips guide__tips--2">
-<div class="guide__tip"><h3>📅 Cuándo</h3><p>Desde el <strong>sábado 14 de noviembre de 2026</strong> hasta mediados de enero. El encendido es a las <strong>20:00 en Porta do Sol</strong>.</p></div>
+<div class="guide__tip"><h3>📅 Cuándo</h3><p>Desde el <strong>sábado 14 de noviembre de 2026</strong> hasta mediados de enero. El encendido fue a las <strong>20:00 en Porta do Sol</strong>.</p></div>
 <div class="guide__tip"><h3>💶 Precio</h3><p>Pasear las luces es <strong>gratis</strong>. Se pagan la noria, la pista de hielo, los trenes y el bus navideño.</p></div>
 <div class="guide__tip"><h3>🕕 Horario</h3><p>Se encienden cada día a partir de las <strong>18:00</strong>. Las noches de Nochebuena, Navidad, Nochevieja y Reyes, hasta el amanecer.</p></div>
 <div class="guide__tip"><h3>💡 Mi consejo</h3><p>Ve <strong>entre semana</strong>. Los sábados de diciembre el centro está lleno y aparcar es casi imposible.</p></div>
