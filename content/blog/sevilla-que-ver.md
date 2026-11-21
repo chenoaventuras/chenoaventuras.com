@@ -82,6 +82,8 @@ Una **catedral gótica con un antiguo minarete**, un **palacio mudéjar** todav�
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Sevilla en dos días</h2><ul><li><b>Día 1 (mañana)</b>: Catedral y Giralda, Archivo de Indias y Real Alcázar, con entradas reservadas.</li><li><b>Día 1 (tarde)</b>: Barrio de Santa Cruz, Iglesia del Salvador y Setas de Sevilla.</li><li><b>Día 2</b>: Plaza de España, Parque de María Luisa y, al atardecer, Torre del Oro y Triana.</li><li><b>Ropa</b>: hombros y rodillas cubiertos en la catedral.</li><li><b>Calor</b>: evita el mediodía en verano: deja los interiores para las horas centrales.</li></ul></div>
 
+<p>🎄 <strong>¿Vas en diciembre?</strong> Mira las fechas de luces, mapping y belenes en <a href="/blog/navidad-en-sevilla.html">Navidad en Sevilla 2026</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
