@@ -14,6 +14,8 @@ tags:
   - Canarias
 wide: true
 actividades:
+  - t: "Excursión al Roque de los Muchachos"
+    u: "https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-roque-muchachos-caldera-taburiente/"
   - t: "Observación de estrellas en el Roque de los Muchachos"
     u: "https://www.civitatis.com/es/fuencaliente-de-la-palma/observacion-estrellas-roque-muchachos/"
   - t: "Senderismo por el Roque de los Muchachos"
@@ -25,7 +27,9 @@ faq:
   - q: "¿Cómo se sube al Roque de los Muchachos?"
     a: "En coche, por la carretera LP-4 desde Santa Cruz de La Palma (alrededor de 1 h 20 por curvas) o desde Garafía, en el norte. Arriba hay aparcamiento junto al mirador."
   - q: "¿Se pueden visitar los telescopios?"
-    a: "Sí, en visitas guiadas con reserva, siempre que el trabajo científico y el tiempo lo permitan. Hay además un Centro de Visitantes con exposición sobre el observatorio. Consulta la web del IAC o del Cabildo para reservar."
+    a: "Sí. Según el IAC, las visitas las hacen Guías Starlight acreditados, de día, en grupos reducidos y durante unos 90 minutos; se reservan con antelación en la web de la Fundación Starlight y empiezan en el Centro de Visitantes. Se suspenden de diciembre a marzo por el tiempo."
+  - q: "¿Se puede visitar el observatorio en invierno?"
+    a: "No: según el IAC, las visitas a los telescopios se suspenden de diciembre a marzo, ambos incluidos, por las condiciones meteorológicas. El mirador y la cumbre sí se pueden visitar si la carretera está abierta."
   - q: "¿Se puede ver las estrellas desde el Roque?"
     a: "El cielo es espectacular, pero de noche hay restricciones en la zona del observatorio para no molestar a los telescopios. Lo mejor es contratar una observación con guías Starlight o usar los miradores astronómicos de la isla."
   - q: "¿Qué es la Ley del Cielo?"
@@ -38,6 +42,7 @@ faq:
     a: "Mucho: el sol se pone sobre el mar de nubes y a veces se ven Tenerife, La Gomera y El Hierro asomando. Baja con precaución, porque la carretera es larga y de curvas."
 guia: /assets/guias/guia-la-palma-chenoaventuras.pdf
 guiaTitulo: 'Guía La Palma en PDF'
+updated: 2026-11-21
 ---
 Cúpulas blancas y plateadas brillando al sol sobre un mar de nubes, a más de 2.400 metros de altura, y a sus pies un cráter gigantesco de paredes verticales. El **Roque de los Muchachos**, el techo de **La Palma**, es a la vez un mirador natural impresionante y uno de los mejores observatorios astronómicos del mundo.
 
@@ -68,8 +73,14 @@ Te cuento cómo subir, qué ver arriba, cómo visitar los telescopios y por qué
 <p><img src="/assets/img/blog/roque-de-los-muchachos/telescopios.webp" alt="Cúpulas de varios telescopios en el Roque de los Muchachos" loading="lazy" decoding="async" /></p>
 <p>Además de estos, en la cumbre hay telescopios solares, nocturnos de varios tamaños y nuevos instrumentos de rayos gamma, de instituciones de muchos países. Respeta las zonas valladas: son instalaciones científicas en funcionamiento.</p>
 
-<div class="guide__head"><span class="eyebrow">Visitas</span><h2>Cómo visitar el observatorio</h2></div>
-<p>Hay dos opciones. El <strong>Centro de Visitantes del Roque de los Muchachos</strong>, con una exposición sobre el observatorio y la astronomía, y las <strong>visitas guiadas a los telescopios</strong>, que se hacen con reserva previa y guías especializados, siempre que la actividad científica y el tiempo lo permitan. Como las plazas son limitadas, reserva con antelación y consulta la web del IAC o del Cabildo de La Palma.</p>
+<div class="guide__head"><span class="eyebrow">Visitas</span><h2>Cómo visitar el observatorio</h2><p>Lo que dice el Instituto de Astrofísica de Canarias (IAC), que gestiona el observatorio.</p></div>
+<div class="guide__tips">
+<div class="guide__tip"><h3>🔭 Quién las hace</h3><p><strong>Guías Starlight</strong> formados y acreditados por la Fundación Starlight con el IAC. Te cuentan la historia de las instalaciones y para qué sirve cada telescopio.</p></div>
+<div class="guide__tip"><h3>🗓️ Cómo reservar</h3><p>Con <strong>antelación</strong>, en la web de la <strong>Fundación Starlight</strong> (el IAC enlaza la reserva desde su página de visitas). Si no quedan plazas, el IAC tiene lista de espera.</p></div>
+<div class="guide__tip"><h3>⏱️ Cómo es</h3><p>De <strong>día</strong>, en <strong>grupos reducidos</strong> y de unos <strong>90 minutos</strong>. Se queda en el <strong>Centro de Visitantes</strong>, que conviene ver antes porque explica lo básico de astrofísica.</p></div>
+<div class="guide__tip"><h3>❄️ Cuándo no hay</h3><p>Las visitas se <strong>suspenden de diciembre a marzo</strong> (ambos incluidos) por el tiempo, y siempre dependen de que el trabajo de los telescopios lo permita.</p></div>
+</div>
+<p>Si vas en invierno o no quieres conducir, hay una <a href="https://www.civitatis.com/es/santa-cruz-de-la-palma/excursion-roque-muchachos-caldera-taburiente/?aid=110968" target="_blank" rel="noopener sponsored">excursión al Roque de los Muchachos</a> con transporte, y por la noche una <a href="https://www.civitatis.com/es/santa-cruz-de-la-palma/observacion-estrellas-roque-muchachos/?aid=110968" target="_blank" rel="noopener sponsored">observación de estrellas con telescopio</a>.</p>
 
 <div class="guide__head"><span class="eyebrow">Estrellas</span><h2>Ver las estrellas en La Palma</h2></div>
 <p>Gracias a la Ley del Cielo, La Palma tiene uno de los cielos más oscuros del planeta y es <strong>Reserva Starlight</strong>. Por la noche, la zona del observatorio tiene restricciones para no interferir con los telescopios, así que la mejor forma de disfrutar del cielo es con una <strong>observación guiada</strong> con telescopio, que organizan empresas de la isla, o en los <strong>miradores astronómicos</strong> repartidos por La Palma. Elige noches sin luna y lleva mucho abrigo.</p>
@@ -83,4 +94,4 @@ Te cuento cómo subir, qué ver arriba, cómo visitar los telescopios y por qué
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta el estado de la carretera y las reservas de visitas en la web del IAC o del Cabildo de La Palma. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Roque_de_los_Muchachos_-_Caldera_de_Taburiente_-_La_Palma.jpg" target="_blank" rel="noopener">Rvr</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Roque_de_los_Muchachos_-_Rocks_01.jpg" target="_blank" rel="noopener">H. Zell</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Roque_de_los_Muchachos_-_ORM_-_ATC_-_WHT_-_DOT_-_LT_-_SST_-_GOTO_-_INT_-_JKT.jpg" target="_blank" rel="noopener">H. Zell</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Gran_Telescopio_Canarias_02.jpg" target="_blank" rel="noopener">Syrio</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Roque_de_los_Muchachos_-_ORM_-_MAGIC_I,_II_-_FACT_-_LST_-_TNG_-_GTC.jpg" target="_blank" rel="noopener">H. Zell</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Mar_de_nubes_en_el_roque_de_los_muchachos.JPG" target="_blank" rel="noopener">Aitor Fdez-Ceballos</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Mirador_del_Espig%C3%B3n_del_Roque_de_los_Muchachos_(2).jpg" target="_blank" rel="noopener">Rvr</a> (CC BY-SA 4.0).</p>
+<p class="guide__note">Información consultada en octubre y noviembre de 2026 (visitas: IAC). Consulta el estado de la carretera y las reservas de visitas en la web del IAC o del Cabildo de La Palma. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Roque_de_los_Muchachos_-_Caldera_de_Taburiente_-_La_Palma.jpg" target="_blank" rel="noopener">Rvr</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Roque_de_los_Muchachos_-_Rocks_01.jpg" target="_blank" rel="noopener">H. Zell</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Roque_de_los_Muchachos_-_ORM_-_ATC_-_WHT_-_DOT_-_LT_-_SST_-_GOTO_-_INT_-_JKT.jpg" target="_blank" rel="noopener">H. Zell</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Gran_Telescopio_Canarias_02.jpg" target="_blank" rel="noopener">Syrio</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Roque_de_los_Muchachos_-_ORM_-_MAGIC_I,_II_-_FACT_-_LST_-_TNG_-_GTC.jpg" target="_blank" rel="noopener">H. Zell</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Mar_de_nubes_en_el_roque_de_los_muchachos.JPG" target="_blank" rel="noopener">Aitor Fdez-Ceballos</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Mirador_del_Espig%C3%B3n_del_Roque_de_los_Muchachos_(2).jpg" target="_blank" rel="noopener">Rvr</a> (CC BY-SA 4.0).</p>
