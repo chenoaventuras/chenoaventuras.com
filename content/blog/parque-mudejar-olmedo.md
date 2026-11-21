@@ -1,6 +1,6 @@
 ---
 title: 'Parque Temático del Mudéjar de Olmedo: maquetas de castillos y qué ver con niños'
-seoTitle: 'Parque Temático del Mudéjar de Olmedo: entradas y horario'
+seoTitle: 'Parque Temático del Mudéjar de Castilla y León: entradas y horario'
 seoDescription: 'Parque Temático del Mudéjar de Olmedo: precio de las entradas, horario, sus 20 maquetas de monumentos mudéjares, si es para niños y cómo llegar.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Olmedo'
