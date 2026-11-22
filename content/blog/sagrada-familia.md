@@ -1,6 +1,6 @@
 ---
 title: 'Sagrada Familia: ya es la iglesia más alta del mundo'
-seoTitle: 'Sagrada Familia: la iglesia más alta del mundo y sus curiosidades'
+seoTitle: 'Sagrada Familia: precio de entradas, horario, torres y curiosidades'
 date: 2026-10-10T09:00:00.000Z
 lugar: 'Sagrada Familia, Barcelona'
 lat: 41.4037
@@ -12,7 +12,16 @@ tags:
   - Cataluña
 wide: true
 faqTitulo: "Dudas sobre la Sagrada Familia"
+updated: 2026-11-23
 faq:
+  - q: "¿Cuánto cuesta entrar a la Sagrada Familia?"
+    a: "Según la web oficial: Basílica con app audioguía, 26 €; con visita guiada, 30 €; Basílica y Torres, 36 €; Torres con visita guiada, 40 €. Los menores de 11 años y las personas con discapacidad entran gratis, y hay descuentos para jubilados, estudiantes y menores de 30."
+  - q: "¿Qué horario tiene la Sagrada Familia?"
+    a: "De noviembre a febrero, de lunes a sábado de 9:00 a 18:00 y los domingos de 10:30 a 18:00. De abril a septiembre abre hasta las 20:00 entre semana. El 25 y 26 de diciembre y el 1 y 6 de enero, de 9:00 a 14:00."
+  - q: "¿Se pueden comprar entradas en la puerta de la Sagrada Familia?"
+    a: "La web oficial indica que las entradas solo se venden online. Son nominativas: hay que llevar DNI o pasaporte."
+  - q: "¿Pueden subir los niños a las torres?"
+    a: "Los menores de 6 años no pueden subir y los menores de 16 tienen que ir con un adulto. Se sube en ascensor y se baja andando, y no es accesible para personas con movilidad reducida."
   - q: "¿Quién empezó la Sagrada Familia?"
     a: "La primera piedra se puso en 1882 con el arquitecto Francisco de Paula del Villar; un año después Gaudí se hizo cargo del proyecto y lo transformó."
   - q: "¿Cuántas torres tendrá la Sagrada Familia?"
@@ -66,6 +75,16 @@ Te cuento cómo lo consiguió, sus curiosidades y cómo visitarla sin quedarte s
 <div class="guide__tip"><h3>⏱️ Tiempo</h3><p>Entre <strong>1,5 y 2 horas</strong> dentro. Más si subes a las torres.</p></div>
 <div class="guide__tip"><h3>🎟️ Entradas</h3><p>Cómpralas <strong>online y con antelación</strong>: es el monumento más visitado de España y se agotan.</p></div>
 </div>
+
+<div class="guide__head"><span class="eyebrow">Entradas</span><h2>Precio de las entradas y horario</h2></div>
+<div class="guide__tips guide__tips--2">
+<div class="guide__tip"><h3>⛪ Basílica</h3><p><strong>26 €</strong> con app audioguía; <strong>30 €</strong> con visita guiada. Menores de 11 años, <strong>gratis</strong>.</p></div>
+<div class="guide__tip"><h3>🗼 Basílica + Torres</h3><p><strong>36 €</strong>, o <strong>40 €</strong> con guía. Torre del Nacimiento o de la Pasión; subida en ascensor y bajada a pie. Unos 90 minutos.</p></div>
+<div class="guide__tip"><h3>🕙 Horario (noviembre-febrero)</h3><p>Lunes a sábado, <strong>9:00-18:00</strong>; domingos, <strong>10:30-18:00</strong>. El 25 y 26 de diciembre y el 1 y 6 de enero, solo hasta las 14:00.</p></div>
+<div class="guide__tip"><h3>⚠️ A tener en cuenta</h3><p>Entradas <strong>solo online</strong> y nominativas (DNI o pasaporte). De 9:00 a 10:00 es la «hora del silencio»: auriculares obligatorios.</p></div>
+</div>
+<p>Descuentos oficiales: jubilados (21 € la Basílica), estudiantes y menores de 30 (24 €). Si quieres asegurarte, hay una <a href="https://www.civitatis.com/es/barcelona/visita-guiada-sagrada-familia/?aid=110968" target="_blank" rel="noopener sponsored">visita guiada a la Sagrada Familia</a> o la de <a href="https://www.civitatis.com/es/barcelona/visita-sagrada-familia-torres/?aid=110968" target="_blank" rel="noopener sponsored">Basílica y torres</a>.</p>
+<div class="guide__legend"><h3>👗 Cómo ir vestido</h3><p>Es una iglesia: pantalones y faldas que cubran al menos medio muslo, nada de ropa de baño ni transparencias, y sin gorra dentro de la nave.</p></div>
 
 <div class="guide__head"><span class="eyebrow">El récord</span><h2>La iglesia más alta del mundo</h2></div>
 <p>El récord lo tenía la catedral de Ulm (Alemania), con 161,5 metros. En octubre de 2025, la <strong>torre de Jesucristo</strong>, la central, la superó. Cuando esté terminada medirá <strong>172,5 metros</strong>.</p><p>Gaudí quiso que fuera un poco más baja que la montaña de <strong>Montjuïc</strong>, porque decía que su obra no debía superar a la obra de Dios.</p><div class="guide__legend"><h3>🌳 Un bosque de piedra</h3><p>Dentro, las columnas se abren en ramas como <strong>árboles</strong>, y las vidrieras tiñen la luz de colores fríos por la mañana y cálidos por la tarde.</p></div><div class="guide__legend"><h3>🚋 El final de Gaudí</h3><p>Gaudí dedicó a la Sagrada Familia sus últimos años. En 1926 lo atropelló un tranvía y murió días después. Está enterrado en la <strong>cripta</strong> del templo.</p></div>
