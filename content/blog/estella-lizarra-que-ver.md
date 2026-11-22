@@ -15,12 +15,12 @@ tags:
 wide: true
 actividadesTitulo: 'Visitas en Estella y Navarra'
 actividades:
-  - t: "Visita a las Bodegas Arínzano, Estella"
-    u: "https://www.civitatis.com/es/estella/visita-bodegas-arinzano/"
   - t: "Free tour por Pamplona"
     u: "https://www.civitatis.com/es/pamplona/free-tour-pamplona/"
   - t: "Excursión a Olite, Leyre, Javier y Ujué"
     u: "https://www.civitatis.com/es/pamplona/olite-leyre-castillo-javier-ujue/"
+  - t: "Excursión a Laguardia con visita a bodega y cata"
+    u: "https://www.civitatis.com/es/pamplona/excursion-laguardia-visita-bodega-cata/"
 faqTitulo: "Dudas sobre Estella-Lizarra"
 faq:
   - q: "¿Qué ver en Estella-Lizarra?"
@@ -48,7 +48,7 @@ Te cuento qué ver, su historia y cómo llegar 👇
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Estella</h2></div>
 <div class="guide__tips guide__tips--2">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la <strong>Tierra Estella</strong>, a unos 44 km de Pamplona y 47 km de Logroño.</p></div>
-<div class="guide__tip"><h3>⏱️ Tiempo</h3><p><strong>Medio día</strong> para el casco; un día si subes al Puy y visitas una bodega.</p></div>
+<div class="guide__tip"><h3>⏱️ Tiempo</h3><p><strong>Medio día</strong> para el casco; un día si subes al Puy y paseas junto al Ega.</p></div>
 <div class="guide__tip"><h3>🥾 Camino</h3><p>Final de etapa del <strong>Camino Francés</strong>, a 22 km de Puente la Reina.</p></div>
 <div class="guide__tip"><h3>🎪 Esta semana</h3><p><strong>Ferias de San Andrés</strong>, del 27 al 30 de noviembre de 2026.</p></div>
 </div>
@@ -73,7 +73,7 @@ Te cuento qué ver, su historia y cómo llegar 👇
 <div class="guide__tip"><h3>🚗 En coche</h3><p>Por la <strong>A-12</strong>, la autovía del Camino, entre Pamplona y Logroño.</p></div>
 <div class="guide__tip"><h3>🚌 En autobús</h3><p>Hay líneas desde <strong>Pamplona</strong> y <strong>Logroño</strong>.</p></div>
 <div class="guide__tip"><h3>🥾 Andando</h3><p>Etapa del Camino Francés desde <strong>Puente la Reina</strong> (22 km).</p></div>
-<div class="guide__tip"><h3>🍷 Con bodega</h3><p>Haz la <a href="https://www.civitatis.com/es/estella/visita-bodegas-arinzano/?aid=110968" target="_blank" rel="noopener sponsored">visita a las Bodegas Arínzano</a>, junto a Estella.</p></div>
+<div class="guide__tip"><h3>🏰 Desde Pamplona</h3><p>Completa la escapada con el <a href="https://www.civitatis.com/es/pamplona/free-tour-pamplona/?aid=110968" target="_blank" rel="noopener sponsored">free tour por Pamplona</a>.</p></div>
 </div>
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Empieza por la Rúa</b>: palacio, San Pedro y Santo Sepulcro están a pocos pasos.</li><li><b>Sube al Puy</b> para ver la ciudad desde arriba.</li><li><b>Ve a finales de noviembre</b> para las Ferias de San Andrés.</li><li><b>Combínalo con</b> <a href="/blog/pamplona-que-ver.html">Pamplona</a> u <a href="/blog/olite-que-ver.html">Olite</a>.</li></ul></div>
