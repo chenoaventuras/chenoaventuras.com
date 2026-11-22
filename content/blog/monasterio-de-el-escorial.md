@@ -82,6 +82,8 @@ Te cuento cuánto cuesta, cuándo es gratis, el horario y qué ver dentro 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve con guía o audioguía</b>: el edificio es enorme y sin explicaciones se pierde mucho. Hay una <a href="https://www.civitatis.com/es/el-escorial/tour-el-escorial-completo/?aid=110968" target="_blank" rel="noopener sponsored">visita guiada en español</a>.</li><li><b>Los lunes está cerrado</b>.</li><li><b>Sin mochila</b>: no es recomendable para la visita.</li><li><b>Abrígate en invierno</b>: dentro hace frío.</li><li><b>Combínalo con</b> el <a href="/blog/nieve-cerca-de-madrid.html">plan de nieve cerca de Madrid</a> o el resto de <a href="/blog/madrid-que-ver.html">Madrid</a>.</li></ul></div>
 
+<p>⛰️ Sierra arriba tienes <a href="/blog/los-molinos-que-ver.html">Los Molinos</a>, pueblo serrano candidato a pueblo de la Navidad de Ferrero Rocher 2026.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
