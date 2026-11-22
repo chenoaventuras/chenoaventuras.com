@@ -79,6 +79,8 @@ Te cuento su historia y cómo organizar la visita (ojo, que no se llega en coche
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Lleva el DNI</b>: para la entrada gratuita como ciudadano de la UE.</li><li><b>Ojo con los lunes</b>: cierra los lunes, y los domingos cierra antes.</li><li><b>En verano, temprano</b>: apenas hay sombra y en Córdoba el calor es serio.</li><li><b>Visita guiada</b>: merece la pena para entender lo que estás viendo.</li></ul></div>
 
+<p>🏰 <strong>Sigue hacia el oeste:</strong> el <a href="/blog/castillo-almodovar-del-rio.html">castillo de Almodóvar del Río</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
