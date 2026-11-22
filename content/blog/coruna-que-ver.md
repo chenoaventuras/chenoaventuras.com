@@ -79,6 +79,8 @@ Un **faro romano** que sigue en funcionamiento, un paseo marítimo que rodea cas
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>A Coruña en un día</h2><ul><li><b>Mañana</b>: Torre de Hércules y su parque de esculturas.</li><li><b>Mediodía</b>: Paseo marítimo y comida en la Ciudad Vieja o María Pita: pulpo á feira o empanada.</li><li><b>Tarde</b>: Avenida de la Marina y la Domus.</li><li><b>Atardecer</b>: Playas de Orzán y Riazor.</li><li><b>Si llueve</b>: Museo de Bellas Artes o Fundación Luis Seoane.</li></ul></div>
 
+<p>🏰 A 25 minutos tienes <a href="/blog/betanzos-que-ver.html">Betanzos</a>, uno de los cascos históricos más bonitos de Galicia y candidato a pueblo de la Navidad de Ferrero Rocher 2026.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
