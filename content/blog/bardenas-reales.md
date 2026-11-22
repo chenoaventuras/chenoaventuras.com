@@ -82,6 +82,8 @@ Se pueden recorrer en coche, en bici o a pie, pero tienen sus normas (y un polí
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlas al máximo</h2><ul><li><b>Mira los avisos antes de ir</b>: cacerías, rallies, maniobras militares o lluvias pueden cortar caminos.</li><li><b>Evita los días de lluvia</b>: las pistas de arcilla se convierten en barro y es fácil quedarse atascado.</li><li><b>Ve al amanecer o al atardecer</b>: la luz rasante hace que el paisaje se vuelva naranja.</li><li><b>Agua y depósito lleno</b>: dentro no hay ningún servicio.</li><li><b>No te salgas del camino</b>: es un espacio protegido y las multas son serias.</li></ul></div>
 
+<p>🪺 Muy cerca, ya en La Rioja, tienes <a href="/blog/alfaro-que-ver.html">Alfaro</a>, con su enorme colonia de cigüeñas en la Colegiata.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
