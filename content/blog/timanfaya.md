@@ -11,7 +11,12 @@ tags:
   - Spots
   - Canarias
 wide: true
+updated: 2026-11-23
 faq:
+  - q: "¿Cuánto cuesta la entrada a Timanfaya?"
+    a: "Según el CACT, la entrada a las Montañas del Fuego cuesta 30 € por adulto e incluye la Ruta de los Volcanes en guagua. Los niños de 0 a 6 años no pagan. Hay que reservar día y hora online."
+  - q: "¿Qué horario tiene Timanfaya?"
+    a: "Las Montañas del Fuego abren todos los días del año de 9:00 a 15:45. La guagua de la Ruta de los Volcanes sale cada 20 minutos."
   - q: "¿Cuándo fue la erupción de Timanfaya?"
     a: "Del 1 de septiembre de 1730 al 16 de abril de 1736, casi seis años."
   - q: "¿Cuántos volcanes tiene el parque?"
@@ -59,6 +64,8 @@ Y la tierra sigue caliente: a pocos metros de profundidad hay cientos de grados.
 <div class="guide__tip"><h3>🎟️ Entrada</h3><p>La entrada incluye la <strong>Ruta de los Volcanes</strong> en autobús y las demostraciones en el Islote de Hilario. Consulta precio y horario antes de ir.</p></div>
 <div class="guide__tip"><h3>⏰ Mi consejo</h3><p>Llega <strong>a primera hora</strong>: a media mañana se forman colas de coches para entrar al aparcamiento.</p></div>
 </div>
+<div class="guide__howto"><h3>🎟️ Precio y horario de las Montañas del Fuego</h3><p>Según los Centros Turísticos de Lanzarote (CACT): entrada <strong>30 €</strong> por adulto (niños de 0 a 6 años, gratis), con la <strong>Ruta de los Volcanes en guagua</strong> incluida (sale cada 20 minutos, unos 35-40 minutos de recorrido con audio). Abre <strong>todos los días de 9:00 a 15:45</strong>. La <strong>reserva con hora es obligatoria</strong> y no hay venta en taquilla: llega 15 minutos antes. Para residentes hay tarifa reducida en taquilla con documentación.</p></div>
+
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un restaurante que cocina con el volcán</h2></div>
 <p>En el <strong>Islote de Hilario</strong>, la temperatura a pocos metros bajo el suelo supera los <strong>400 °C</strong>. Los guías echan agua por un tubo y sale disparada en forma de géiser, o meten ramas secas en un agujero y arden solas. Y en el restaurante El Diablo, diseñado por César Manrique, <strong>asan la carne sobre un pozo</strong> que sale directamente del volcán.</p><div class="guide__legend"><h3>🍗 Comer pollo hecho con el calor del volcán</h3><p>La idea es muy curiosa: la carne se asa en una parrilla colocada encima del pozo, solo con el calor que sale del volcán. Yo al final no lo probé porque me pareció <strong>carísimo</strong>: en la carta actual el <strong>medio pollo cuesta 21 €</strong>, los muslos 18 €, la brocheta de cerdo y pollo 20 €, el entrecot 26 € y las papas con mojo 7,50 €. Y eso sin contar la entrada al parque. Si te apetece darte el capricho, adelante; si no, ver la parrilla ya merece la pena.</p></div><div class="guide__legend"><h3>🚌 No se puede ir por libre</h3><p>Para proteger el parque, la Ruta de los Volcanes solo se hace en el autobús oficial. Si quieres caminar entre volcanes, hay rutas guiadas gratuitas del Parque Nacional con reserva previa.</p></div>

@@ -60,7 +60,7 @@ Es **Reserva de la Biosfera** y se recorre fácil en coche. Te dejo los 13 sitio
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de Lanzarote</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🚗 Moverte</h3><p>Con <strong>coche de alquiler</strong>: la isla es pequeña y de norte a sur hay poco más de una hora.</p></div>
-<div class="guide__tip"><h3>🎟️ Centros turísticos</h3><p>Los espacios de Manrique (Jameos, Cueva de los Verdes, Mirador del Río, Jardín de Cactus) y Timanfaya tienen entrada. Hay <strong>bonos combinados</strong> que salen más baratos.</p></div>
+<div class="guide__tip"><h3>🎟️ Centros turísticos</h3><p>Los espacios de Manrique (Jameos, Cueva de los Verdes, Mirador del Río, Jardín de Cactus) y Timanfaya tienen entrada. Según el CACT: Timanfaya 30 €, Jameos y Cueva de los Verdes 17 € cada uno, Mirador del Río y Jardín de Cactus 9 €. Niños de 0 a 6, gratis.</p></div>
 <div class="guide__tip"><h3>☀️ Cuándo ir</h3><p><strong>Todo el año</strong>. El viento es habitual, sobre todo en verano en el norte: perfecto para surf, no tanto para tomar el sol.</p></div>
 </div>
 

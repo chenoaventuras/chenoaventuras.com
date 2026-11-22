@@ -12,7 +12,12 @@ tags:
   - Canarias
 wide: true
 faqTitulo: "Dudas sobre los Jameos del Agua y la Cueva de los Verdes"
+updated: 2026-11-23
 faq:
+  - q: "¿Cuánto cuestan los Jameos del Agua y la Cueva de los Verdes?"
+    a: "Según el CACT, 17 € cada uno por adulto; los niños de 0 a 6 años entran gratis. La Cueva de los Verdes se compra solo online con fecha y hora."
+  - q: "¿La Cueva de los Verdes es apta para todos?"
+    a: "No es accesible para personas con movilidad reducida ni recomendable con claustrofobia, y hay techos bajos. La visita guiada dura unos 50 minutos y recorre cerca de 1 km."
   - q: "¿Cuánto se tarda en ver los Jameos del Agua y la Cueva de los Verdes?"
     a: "Alrededor de una hora cada uno; con los dos, media jornada."
   - q: "¿Se puede bañar en la piscina de los Jameos del Agua?"
@@ -57,8 +62,10 @@ Están a 1 km uno del otro, así que mejor verlos juntos 👇
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En el norte de Lanzarote, en el municipio de <strong>Haría</strong>, a unos <strong>30 km de Arrecife</strong>.</p></div>
 <div class="guide__tip"><h3>⏱️ Tiempo</h3><p>1 hora cada uno. Con los dos, <strong>media jornada</strong>.</p></div>
-<div class="guide__tip"><h3>🎟️ Precio</h3><p>Los dos son de pago (Centros Turísticos del Cabildo). Hay <strong>bonos</strong> que juntan varios centros.</p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p>Los dos son de pago (Centros Turísticos del Cabildo). Cada centro tiene su entrada: 17 € cada uno (niños de 0 a 6, gratis).</p></div>
 </div>
+<div class="guide__howto"><h3>🎟️ Precios y horarios oficiales</h3><p>Según el CACT: <strong>Jameos del Agua</strong>, desde <strong>17 €</strong>, todos los días de 10:00 a 18:00 (último acceso 17:15), a tu ritmo y sin reservar hora. <strong>Cueva de los Verdes</strong>, <strong>17 €</strong>, todos los días de 9:30 a 16:45, con <strong>visita guiada de unos 50 minutos</strong> y entrada solo online con hora. Niños de 0 a 6 años, gratis en los dos. Los viernes hay <strong>Noches de Jameos</strong>, con cena y concierto junto al lago (desde 88 €).</p></div>
+
 
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>Un túnel de lava que acaba bajo el mar</h2></div>
 <p>La lava del volcán de La Corona se enfrió por fuera y siguió corriendo por dentro, como por una tubería. Así se formó el <strong>tubo volcánico de La Corona</strong>, de varios kilómetros, que incluso continúa <strong>bajo el mar</strong>. Donde el techo se hundió se abrieron los «jameos».</p><p>En los años 60, el artista lanzaroteño <strong>César Manrique</strong> convirtió uno de esos jameos en un espacio de arte con lago, jardines, piscina y un auditorio dentro de la roca.</p><div class="guide__legend"><h3>🦀 Los cangrejos ciegos</h3><p>En el lago de los Jameos viven unos <strong>cangrejitos albinos y ciegos</strong> (<em>Munidopsis polymorpha</em>), de apenas 1 cm, que solo existen aquí. Por eso está prohibido tirar monedas al agua: el metal los mata.</p></div>
@@ -82,10 +89,10 @@ Están a 1 km uno del otro, así que mejor verlos juntos 👇
 
 <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>En los Jameos busca los cangrejos ciegos en el lago: al principio no sabía que esos puntitos blancos eran ellos. Son diminutos y solo viven aquí. Y en la Cueva de los Verdes piensa que, en los siglos XVI y XVII, los vecinos se refugiaban en ella para protegerse de los ataques piratas.</p></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra un bono</b>: si vas a ver varios Centros Turísticos (Jameos, Cueva, Timanfaya, Mirador del Río) sale más barato.</li><li><b>Ve temprano</b>: a media mañana llegan las excursiones en autobús.</li><li><b>No tires monedas</b>: en el lago de los Jameos matarías a los cangrejos.</li><li><b>Vuelve de noche</b>: algunos días los Jameos abren por la noche y la iluminación es mágica.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra online</b>: la Cueva de los Verdes solo se vende con fecha y hora.</li><li><b>Ve temprano</b>: a media mañana llegan las excursiones en autobús.</li><li><b>No tires monedas</b>: en el lago de los Jameos matarías a los cangrejos.</li><li><b>Vuelve de noche</b>: algunos días los Jameos abren por la noche y la iluminación es mágica.</li></ul></div>
 
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta horarios, precios y bonos en la web de los Centros Turísticos de Lanzarote.</p>
+<p class="guide__note">Información consultada en octubre y noviembre de 2026. Consulta horarios y precios en la web de los Centros Turísticos de Lanzarote.</p>
