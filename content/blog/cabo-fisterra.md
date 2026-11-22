@@ -76,6 +76,8 @@ Te cuento qué ver, cómo llegar desde Santiago y cuándo ir 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Llega antes del atardecer</b> y busca sitio en las rocas del faro.</li><li><b>Cuidado en las rocas</b>: resbalan y el mar golpea fuerte.</li><li><b>Sube al Monte Facho</b> si tienes tiempo: las vistas del cabo desde arriba son otras.</li><li><b>Combínalo con</b> la <a href="/blog/fervenza-do-ezaro.html">Fervenza do Ézaro</a> y el <a href="/blog/horreo-de-carnota.html">hórreo de Carnota</a>, de camino.</li></ul></div>
 
+<p>⛪ <strong>Antes o después:</strong> la <a href="/blog/catedral-de-santiago.html">Catedral de Santiago</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
