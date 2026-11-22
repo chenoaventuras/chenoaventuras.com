@@ -94,6 +94,8 @@ Parte de la isla es **Patrimonio de la Humanidad** por su historia y por las pra
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Ibiza en 3 días</h2><ul><li><b>Día 1 · Sur</b>: Dalt Vila por la mañana, Ses Salines por la tarde.</li><li><b>Día 2 · Oeste</b>: Cala Salada, Punta de sa Galera y atardecer frente a Es Vedrà desde Cala d'Hort.</li><li><b>Día 3 · Formentera</b>: Ferry temprano desde el puerto de Ibiza y día de playa en Ses Illetes.</li><li><b>Mi consejo</b>: si vas en verano, mira los accesos limitados de algunas calas y aparca lejos.</li></ul></div>
 
+<p>🏖️ <strong>Otra cala imprescindible:</strong> <a href="/blog/cala-salada-ibiza.html">Cala Salada y Saladeta</a>, cerca de Sant Antoni.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
