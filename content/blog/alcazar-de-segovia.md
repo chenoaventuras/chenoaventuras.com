@@ -83,6 +83,8 @@ Te cuento cuánto cuesta, cuándo es gratis, el horario y lo que no te puedes pe
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Compra la entrada con torre online</b>: es la que primero se agota.</li><li><b>Llega a primera hora</b> o después de las 14:00 para evitar la hora punta.</li><li><b>Audioguía</b> (3,50 €): sin ella te pierdes la mitad de la historia.</li><li><b>Haz la foto desde abajo</b>: el mirador de la Pradera de San Marcos da la mejor vista del castillo.</li><li><b>En diciembre</b>, el <a href="https://www.civitatis.com/es/segovia/tour-navidad-segovia/?aid=110968" target="_blank" rel="noopener sponsored">tour de Segovia en Navidad</a>. Y combínalo con el <a href="/blog/acueducto-de-segovia.html">Acueducto</a>.</li></ul></div>
 
+<p>⛲ <strong>Muy cerca:</strong> el <a href="/blog/palacio-real-la-granja.html">Palacio Real de La Granja</a>, con jardines gratis.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

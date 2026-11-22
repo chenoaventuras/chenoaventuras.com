@@ -93,6 +93,8 @@ Te cuento qué ver, las mejores vistas y algunos trucos para la visita 👇
 
 <p>🏰 <strong>Al otro extremo del casco:</strong> el <a href="/blog/alcazar-de-segovia.html">Alcázar de Segovia</a>, con precios, horario y cuándo es gratis.</p>
 
+<p>🏰 <strong>A 20 minutos:</strong> el <a href="/blog/palacio-real-la-granja.html">Palacio Real de La Granja</a> y sus jardines.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
