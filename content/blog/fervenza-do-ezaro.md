@@ -81,6 +81,8 @@ A media hora tienes el cabo de **Fisterra**, el que los romanos creían el fin d
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Ve en invierno o tras lluvias</b>: la cascada con caudal es otra cosa.</li><li><b>Sube al mirador</b>: la vista de la cascada cayendo a la ría es la mejor foto.</li><li><b>Atardecer en Fisterra</b>: uno de los grandes atardeceres de España.</li><li><b>Recorre la Costa da Morte</b>: faros, playas salvajes y pueblos marineros como Muxía.</li></ul></div>
 
+<p>🗼 <strong>A unos minutos:</strong> el <a href="/blog/cabo-fisterra.html">Cabo de Fisterra</a>, el faro del fin del mundo.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

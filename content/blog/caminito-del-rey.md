@@ -128,6 +128,8 @@ Lo hice en noviembre de 2026 y todas las fotos de este post son de ese día. Aqu
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva pronto</b>: los fines de semana y en primavera se agotan las entradas.</li><li><b>Calzado de montaña</b>: es obligatorio llevar calzado bien sujeto al pie: con chanclas no te dejan pasar.</li><li><b>Sin palo selfie ni mochila grande</b>: están prohibidos, igual que paraguas, bastones y carritos.</li><li><b>Mira el tiempo</b>: con viento fuerte o lluvia pueden cerrarlo; si pasa, cambias la entrada de día.</li><li><b>Llega con margen</b>: hay que estar en el acceso norte 30 minutos antes, y desde El Kiosko son al menos 20-25 minutos andando.</li><li><b>No te pierdas el puente nuevo</b>: está al final, cuando ya piensas que se ha acabado.</li></ul></div>
 
+<p>🪨 <strong>Muy cerca:</strong> el <a href="/blog/torcal-de-antequera.html">Torcal de Antequera</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

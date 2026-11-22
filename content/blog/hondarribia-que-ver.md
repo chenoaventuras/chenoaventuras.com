@@ -86,6 +86,8 @@ Te cuento qué ver y qué ruta hacer 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Pintxos en La Marina</b>: la calle San Pedro concentra muchos de los mejores bares.</li><li><b>Sube a Jaizkibel</b>: en coche o andando desde Higer: las vistas de la costa vasca son espectaculares.</li><li><b>Cruza en lancha a Hendaya</b>: un paseo corto y diferente.</li><li><b>Ve el 8 de septiembre</b>: si quieres ver el Alarde, la gran fiesta del pueblo.</li></ul></div>
 
+<p>⛵ <strong>De camino a Donostia:</strong> <a href="/blog/pasaia-que-ver.html">Pasaia</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

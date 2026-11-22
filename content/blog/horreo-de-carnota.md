@@ -80,6 +80,8 @@ Te cuento su historia, la pelea entre pueblos por tener el hórreo más largo y 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Playa de Carnota</b>: una de las playas más largas de Galicia, con 7 km de arena.</li><li><b>Monte Pindo</b>: el «Olimpo celta», justo al lado, con rutas por rocas de granito.</li><li><b>Fervenza do Ézaro</b>: la cascada que cae directamente al mar, a 15 minutos.</li></ul></div>
 
+<p>🗼 <strong>Sigue la costa:</strong> el <a href="/blog/cabo-fisterra.html">Cabo de Fisterra</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
