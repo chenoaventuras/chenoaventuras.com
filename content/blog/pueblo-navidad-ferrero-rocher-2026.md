@@ -12,7 +12,7 @@ cover: /assets/img/blog/albarracin-que-ver/portada.webp
 tags:
   - Pueblos
 wide: true
-updated: 2026-11-21
+updated: 2026-11-23
 actividadesTitulo: 'Visitas guiadas en los pueblos candidatos'
 actividades:
   - t: "Visita guiada por Albarracín"
@@ -30,7 +30,7 @@ actividades:
 faqTitulo: "Dudas sobre el pueblo de Ferrero Rocher"
 faq:
   - q: "¿Quiénes son los finalistas de Ferrero Rocher 2026?"
-    a: "Todavía no se conocen. Ahora mismo (21 de noviembre) los 17 pueblos siguen en votación. El 30 de noviembre se anuncian los 5 semifinalistas y el 7 de diciembre los 2 finalistas. Actualizaré este post en cuanto salgan."
+    a: "Todavía no se conocen. A 23 de noviembre, la web oficial muestra que está haciendo el recuento de votos de la fase de los 17 pueblos. El 30 de noviembre empieza la fase de los 5 semifinalistas y el 7 de diciembre la de los 2 finalistas. Actualizaré este post en cuanto salgan."
   - q: "¿Hasta cuándo se puede votar?"
     a: "La segunda votación, entre los 17 pueblos, empezó el 9 de noviembre y dura unas tres semanas, hasta el anuncio de los semifinalistas el 30 de noviembre. Después se abre una votación nueva en cada fase."
   - q: "¿Qué pueblos compiten en Ferrero Rocher 2026?"
@@ -38,15 +38,21 @@ faq:
   - q: "¿Cuándo se sabe el ganador del concurso de Ferrero Rocher 2026?"
     a: "El 30 de noviembre se anuncian los 5 semifinalistas, el 7 de diciembre los 2 finalistas y el 14 de diciembre el ganador. La iluminación del pueblo ganador se enciende el 16 de diciembre."
   - q: "¿Cómo se vota al pueblo de Ferrero Rocher?"
-    a: "En la web oficial de la campaña «Juntos Brillamos Más» de Ferrero Rocher: eliges el pueblo y confirmas tu voto. Hay una votación en cada fase."
+    a: "En la web oficial de la campaña «Juntos brillamos más» de Ferrero Rocher: eliges comunidad y pueblo, confirmas que eres mayor de 18 años, aceptas las bases y pulsas «Vota». No hace falta registrarse para votar."
+  - q: "¿Cuántas veces se puede votar al pueblo de Ferrero Rocher?"
+    a: "Según la web oficial, una vez por fase y solo a un pueblo, hasta un total de 4 veces. Los votos son acumulativos entre las fases."
+  - q: "¿Se sabe qué pueblo va ganando?"
+    a: "No. Ferrero Rocher no publica el recuento ni un ranking: solo anuncia qué pueblos pasan de fase, que son los más votados."
+  - q: "¿Hay premios por votar?"
+    a: "No por votar. Hay un sorteo aparte con tique de compra de productos Ferrero de más de 5 €, hasta el 31 de diciembre de 2026: 100 pirámides de 96 bombones y 400 sets de copas de cava, con premio al momento."
   - q: "¿Qué pueblos ganaron en años anteriores?"
     a: "En 2025 ganó Tejeda (Gran Canaria), tras una final contra Fuentes del Maestre (Badajoz). En 2024 ganó Ribadavia (Ourense), que se impuso a Biar (Alicante)."
   - q: "¿Qué gana el pueblo?"
-    a: "La gran iluminación navideña de Ferrero Rocher, que transforma el pueblo durante las fiestas y le da mucha visibilidad turística."
+    a: "Según Ferrero Rocher, el pueblo más votado vive en diciembre una gran iluminación navideña, se queda en propiedad todas las luces para futuras Navidades y recibe el distintivo de «Pueblo ganador Ferrero Rocher 2026»."
 ---
 Cada Navidad, **Ferrero Rocher** elige un pueblo de España para llenarlo de luces con su campaña **«Juntos Brillamos Más»**. En 2026 empezaron **34 candidatos**, dos por comunidad autónoma, y tras la primera votación quedan **17**. El ganador se conoce el **14 de diciembre** y su iluminación se enciende el **16**.
 
-<div class="article__callout">🗳️ <strong>Cómo va el concurso (21 de noviembre):</strong> los <strong>17 pueblos siguen en votación</strong>. Todavía no hay semifinalistas ni finalistas: los 5 semifinalistas se anuncian el <strong>30 de noviembre</strong>. Actualizaré este post en cuanto salgan.</div>
+<div class="article__callout">🗳️ <strong>Cómo va el concurso:</strong> la web oficial de Ferrero Rocher muestra ahora el aviso «<em>Estamos haciendo el recuento de votos</em>» de la fase de los 17 pueblos. Los <strong>5 semifinalistas</strong> se conocen con el arranque de la siguiente fase, el <strong>30 de noviembre</strong>. Ferrero no publica cómo va el recuento. <em>Actualizado el 23 de noviembre de 2026.</em></div>
 
 Muchos de los candidatos son pueblos de los que ya te he hablado en el blog. Te cuento el calendario, cómo votar y qué ver en cada uno, gane quien gane 👇
 
@@ -79,7 +85,7 @@ Muchos de los candidatos son pueblos de los que ya te he hablado en el blog. Te 
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Los Molinos</strong> (Comunidad de Madrid), en la sierra de Guadarrama.</li><li><strong>Bocairent</strong> (Comunidad Valenciana), con su casco medieval y las Covetes dels Moros.</li><li><strong>Betanzos</strong> (Galicia), uno de los cascos históricos más bonitos de A Coruña.</li><li><strong>Muro</strong> (Islas Baleares), en el norte de Mallorca.</li><li><strong>Villa de Mazo</strong> (Canarias), en la isla de La Palma.</li><li><strong>Alfaro</strong> (La Rioja), famoso por su colonia de cigüeñas en la colegiata.</li><li><strong>Estella-Lizarra</strong> (Navarra), parada clásica del Camino de Santiago.</li><li><strong>Urduña/Orduña</strong> (País Vasco), el único municipio con título de ciudad de Bizkaia.</li><li><strong>Cehegín</strong> (Región de Murcia), con un casco antiguo declarado conjunto histórico.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo funciona</span><h2>Cómo votar paso a paso</h2></div>
-<ol class="checklist" style="margin:0 0 1rem;"><li><strong>Entra en la web oficial de Ferrero Rocher</strong> y busca el apartado del concurso «Juntos Brillamos Más».</li><li><strong>Elige el pueblo</strong> que quieres apoyar entre los candidatos de la fase.</li><li><strong>Confirma tu voto.</strong></li><li><strong>Vuelve en cada fase:</strong> los votos no pasan de una fase a otra.</li></ol>
+<ol class="checklist" style="margin:0 0 1rem;"><li><strong>Entra en la web oficial de la campaña</strong> «Juntos brillamos más» de Ferrero Rocher y pulsa «Vota».</li><li><strong>Elige comunidad y pueblo</strong> en el desplegable.</li><li><strong>Marca las casillas</strong>: que eres mayor de 18 años y que aceptas las bases y la política de privacidad (la de recibir publicidad es opcional).</li><li><strong>Pulsa «Vota».</strong> Solo puedes votar <strong>un pueblo por fase</strong>, hasta 4 veces en total.</li><li><strong>Vuelve en cada fase:</strong> según Ferrero, los votos <strong>se acumulan</strong> entre fases, así que cada voto cuenta hasta el final.</li></ol>
 <p>En 2025 ganó <strong>Tejeda</strong>, en Gran Canaria, y en 2024, <a href="/blog/ribadavia-que-ver.html">Ribadavia</a>, en Ourense.</p>
 <div class="guide__legend"><h3>🎄 Aunque no gane tu favorito</h3><p>Todos estos pueblos se visten de Navidad a su manera y son una escapada perfecta en diciembre. Además, en temporada baja hay menos gente y el alojamiento es más barato.</p></div>
 
