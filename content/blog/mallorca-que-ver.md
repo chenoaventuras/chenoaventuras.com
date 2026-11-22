@@ -95,6 +95,8 @@ La **Serra de Tramuntana** es Patrimonio de la Humanidad. Te dejo mis imprescind
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Mallorca en 4 días</h2><ul><li><b>Día 1 · Palma</b>: Catedral, casco antiguo, Castillo de Bellver al atardecer.</li><li><b>Día 2 · Tramuntana</b>: Valldemossa, Deià y Sóller (en coche o con el tren de madera desde Palma).</li><li><b>Día 3 · Norte</b>: Sa Calobra por la mañana y el Cap de Formentor por la tarde (consulta el horario del bus lanzadera en verano).</li><li><b>Día 4 · Sureste</b>: Cuevas del Drach, Caló des Moro temprano y Es Trenc para terminar.</li></ul></div>
 
+<p>🎻 <strong>En el este de la isla:</strong> las <a href="/blog/cuevas-del-drach.html">Cuevas del Drach</a>, con precios, pases y el concierto del lago.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
