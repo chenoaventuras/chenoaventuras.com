@@ -85,6 +85,8 @@ En sus paredes, unos azulejos cuentan la batalla en la que los moriscos se hicie
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Sube hasta el Peñón</b>: las vistas sobre los tejados blancos y el mar son la mejor foto del pueblo.</li><li><b>Sigue los azulejos</b>: es la forma más entretenida de recorrer el barrio morisco.</li><li><b>Evita el mediodía en verano</b>: las cuestas y el sol aprietan. Mejor por la mañana o al atardecer.</li><li><b>Ven al Festival de las Tres Culturas</b>: a finales de agosto el pueblo celebra su pasado cristiano, judío y musulmán.</li></ul></div>
 
+<p>🦇 <strong>A 15 minutos:</strong> la <a href="/blog/cueva-de-nerja.html">Cueva de Nerja</a>, con horario y precios.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
