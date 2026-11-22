@@ -91,6 +91,8 @@ Te cuento qué ver, las mejores vistas y algunos trucos para la visita 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Sube a la torre del Alcázar</b>: tiene escalones de sobra, pero las vistas lo compensan.</li><li><b>Come cochinillo</b>: es el plato estrella; lo tradicional es «partirlo con el plato».</li><li><b>Mira Segovia desde el aire</b>: si te va la aventura, hay vuelos en globo al amanecer sobre la ciudad.</li><li><b>Vuelve de noche</b>: el Acueducto y la catedral iluminados son otra visita.</li></ul></div>
 
+<p>🏰 <strong>Al otro extremo del casco:</strong> el <a href="/blog/alcazar-de-segovia.html">Alcázar de Segovia</a>, con precios, horario y cuándo es gratis.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
