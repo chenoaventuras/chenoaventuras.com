@@ -74,6 +74,8 @@ Te cuento qué ver, el estado del mirador y cómo llegar 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Betancuria en medio día</h2><ul><li><b>Mañana</b>: Iglesia de Santa María y paseo por el pueblo.</li><li><b>Mediodía</b>: Comida canaria con queso majorero y cabrito.</li><li><b>Tarde</b>: Museo arqueológico, Vega de Río Palmas y Morro Velosa.</li><li><b>Con poco tiempo</b>: el casco se ve en menos de una hora andando.</li><li><b>Consejo</b>: lleva abrigo: en la montaña hace más fresco que en la costa.</li></ul></div>
 
+<p>🕳️ <strong>A 20 minutos:</strong> las <a href="/blog/cuevas-de-ajuy.html">cuevas de Ajuy</a>, en la costa oeste.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

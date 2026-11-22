@@ -89,6 +89,8 @@ Es **Reserva de la Biosfera** y se recorre de norte a sur en unas dos horas de c
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Fuerteventura en 4 días</h2><ul><li><b>Día 1 · Norte</b>: Isla de Lobos por la mañana y atardecer en las Dunas de Corralejo.</li><li><b>Día 2 · Volcanes y centro</b>: Calderón Hondo, Mirador Morro Velosa, Betancuria y las Cuevas de Ajuy.</li><li><b>Día 3 · Este</b>: Faro de la Entallada y la Playa de Sotavento con marea baja.</li><li><b>Día 4 · Jandía</b>: Cofete y Punta Jandía (pista de tierra, ve con tiempo y depósito lleno).</li></ul></div>
 
+<p>🕳️ <strong>No te pierdas:</strong> las <a href="/blog/cuevas-de-ajuy.html">cuevas de Ajuy</a>, con las rocas más antiguas de Canarias.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
