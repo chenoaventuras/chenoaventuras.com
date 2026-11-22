@@ -75,6 +75,8 @@ Te cuento qué ver, en qué orden hacerlo en un día (o en dos) y cómo ahorrar 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Toledo en un día y en dos</h2><ul><li><b>Si tienes un día</b>: Catedral a primera hora, Santo Tomé, la sinagoga de Santa María la Blanca, San Juan de los Reyes, comida, Alcázar y atardecer en el Mirador del Valle.</li><li><b>Si tienes dos días</b>: El primero para el centro y el segundo para el Museo del Greco, las torres de los Jesuitas, el Cristo de la Luz y un paseo por el río.</li><li><b>Calzado cómodo</b>: las cuestas son empinadas y el suelo, de adoquín.</li><li><b>Mira los horarios</b>: los monumentos tienen horarios y días de cierre distintos: míralos antes de ir y reserva la catedral si puedes.</li><li><b>Prueba el mazapán</b>: es el dulce típico de Toledo, junto a platos como las carcamusas o la perdiz estofada.</li></ul></div>
 
+<p>⛪ <strong>Imprescindible:</strong> la <a href="/blog/catedral-de-toledo.html">Catedral de Toledo</a>, con precio, horario y quién entra gratis.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
