@@ -77,6 +77,8 @@ Te cuento cuánto cuesta, el horario, cómo ahorrar con las combinadas y cómo l
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira los pases de delfines</b> al entrar y organiza la visita en torno a ellos.</li><li><b>Entre semana y fuera de vacaciones</b> la entrada es más barata y hay menos gente.</li><li><b>Combínalo</b> con el Hemisfèric o el Museu de les Ciències el mismo día o al siguiente.</li><li><b>Hay extras</b> de pago (audioguía 4 €, cine 4D 3 €), pero no son necesarios.</li><li><b>Más Valencia:</b> la <a href="/blog/valencia-que-ver.html">guía de Valencia</a> y la <a href="/blog/albufera-valencia.html">Albufera</a>.</li></ul></div>
 
+<p>🦍 <strong>Otro plan con animales:</strong> el <a href="/blog/bioparc-valencia.html">Bioparc Valencia</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
