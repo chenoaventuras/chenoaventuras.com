@@ -81,6 +81,8 @@ Una **catedral gótica sobre un cerro**, un castillo donde nació la Corona de A
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Lleida en un día</h2><ul><li><b>Mañana</b>: Seu Vella, castillo de la Suda y murallas.</li><li><b>Mediodía</b>: Comida con caracoles a la llauna o platos de la huerta.</li><li><b>Tarde</b>: La Paeria, La Llotja y el casco antiguo.</li><li><b>Atardecer</b>: Vistas desde el campanario o desde el cerro.</li><li><b>Si tienes más días</b>: Congost de Mont-rebei y Valle de Arán.</li></ul></div>
 
+<p>⛪ <strong>En el Pirineo de Lleida:</strong> las iglesias románicas de la <a href="/blog/vall-de-boi-romanico.html">Vall de Boí</a>, Patrimonio Mundial.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
