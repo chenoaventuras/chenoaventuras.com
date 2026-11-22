@@ -94,6 +94,8 @@ Te cuento cómo lo consiguió, sus curiosidades y cómo visitarla sin quedarte s
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Entradas con tiempo</b>: en verano se agotan días antes.</li><li><b>Foto desde el estanque</b>: en la plaza de Gaudí, al otro lado, la Sagrada Familia se refleja en el agua.</li><li><b>Ve por la tarde</b>: la luz de las vidrieras es naranja y roja.</li></ul></div>
 
+<p>🐉 <strong>Más Gaudí:</strong> la <a href="/blog/casa-batllo.html">Casa Batlló</a>, en el paseo de Gràcia.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

@@ -76,6 +76,8 @@ Te cuento cuánto cuesta en 2026, qué ver dentro y cómo organizarte para no qu
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Primera hora</b>: a las 9:30 hay menos gente y mejor luz para el dragón.</li><li><b>Compra en la web oficial</b>: evita reventas más caras.</li><li><b>Sube después al Turó de les Tres Creus</b>: es gratis y tiene la mejor vista.</li><li><b>Calzado cómodo</b>: todo son cuestas.</li><li><b>Llega puntual</b>: entras en la franja horaria que has reservado.</li></ul></div>
 
+<p>🐉 <strong>Más Gaudí:</strong> la <a href="/blog/casa-batllo.html">Casa Batlló</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
