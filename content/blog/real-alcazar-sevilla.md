@@ -6,7 +6,7 @@ lugar: 'Real Alcázar de Sevilla'
 provincia: Sevilla
 lat: 37.3831
 lng: -5.9903
-excerpt: 'Real Alcázar de Sevilla: el Patio de las Doncellas, el Salón de Embajadores, los Baños de María de Padilla, los jardines de Juego de Tronos, precios, entrada gratis los lunes y consejos.'
+excerpt: 'Real Alcázar de Sevilla: el Patio de las Doncellas, el Salón de Embajadores, los Baños de María de Padilla, los jardines de Juego de Tronos, precios (15,50 €), quién entra gratis y consejos.'
 cover: /assets/img/blog/real-alcazar-sevilla/portada.webp
 tags:
   - Spots
@@ -18,11 +18,12 @@ actividades:
   - t: "Visita guiada por la catedral de Sevilla"
     u: "https://www.civitatis.com/es/sevilla/visita-guiada-catedral-sevilla/"
 faqTitulo: "Dudas sobre el Real Alcázar de Sevilla"
+updated: 2026-11-23
 faq:
   - q: "¿Cuánto cuesta la entrada al Real Alcázar de Sevilla?"
-    a: "La entrada general ronda los 14-15 € y el Cuarto Real Alto, la planta de arriba, se paga aparte (unos 5,50-6 €). Hay tarifas reducidas para estudiantes y mayores de 65. Consulta el precio vigente en la web oficial."
+    a: "Según el Real Alcázar, la entrada general cuesta 15,50 € (incluye también el Antiquarium y otros espacios municipales) y el Cuarto Real Alto, 5,50 € más. La reducida, 8 €, es para mayores de 65 y estudiantes o Carné Joven de 14 a 30 años."
   - q: "¿Se puede entrar gratis al Alcázar de Sevilla?"
-    a: "Sí, los lunes por la tarde la visita es gratuita, pero hay que reservar online con antelación (con un pequeño gasto de gestión). Las plazas se agotan rápido."
+    a: "Entran gratis, sacando su entrada gratuita, los nacidos o residentes en Sevilla, los menores de 13 años con un adulto, las personas con más del 33 % de discapacidad y su acompañante y los desempleados de la provincia. Además, el Patronato fija visitas públicas gratuitas en días y horas concretos (durante años fueron los lunes por la tarde): consulta la web oficial antes de ir."
   - q: "¿Cuánto tiempo hace falta para ver el Alcázar?"
     a: "Entre dos y tres horas para palacios y jardines. Si añades el Cuarto Real Alto, calcula una hora más."
   - q: "¿Qué escenas de Juego de Tronos se rodaron en el Alcázar?"
@@ -40,7 +41,7 @@ guiaTitulo: 'Guía Sevilla en PDF'
 ---
 Mil años de historia en un solo recinto: una fortaleza árabe, un palacio mudéjar de un rey cristiano, salones góticos, jardines renacentistas llenos de pavos reales y, encima, sigue siendo residencia oficial de la familia real. El **Real Alcázar de Sevilla** es uno de los palacios más bonitos del mundo y el palacio real en uso más antiguo de Europa. Y si eres fan de *Juego de Tronos*, aquí estaba Dorne.
 
-Te cuento qué ver dentro, en qué orden, cuánto cuesta, cómo entrar gratis los lunes y trucos para no pasarte la visita entre colas 👇
+Te cuento qué ver dentro, en qué orden, cuánto cuesta, quién entra gratis y trucos para no pasarte la visita entre colas 👇
 
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
 <div class="etiles"><div><b>🏰</b><span>Puerta del León</span></div><div><b>🏛️</b><span>Patio de las Doncellas</span></div><div><b>👑</b><span>Salón de Embajadores</span></div><div><b>🌿</b><span>Jardines</span></div><div><b>🛁</b><span>Baños de María de Padilla</span></div></div>
@@ -49,7 +50,7 @@ Te cuento qué ver dentro, en qué orden, cuánto cuesta, cómo entrar gratis lo
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En pleno centro de <strong>Sevilla</strong>, junto a la catedral y el barrio de Santa Cruz. Se entra por la <strong>Puerta del León</strong>.</p></div>
 <div class="guide__tip"><h3>⏱️ Tiempo</h3><p><strong>Dos o tres horas</strong> para palacios y jardines. Una más con el Cuarto Real Alto.</p></div>
-<div class="guide__tip"><h3>🎟️ Precio</h3><p>General: unos <strong>14-15 €</strong>. <strong>Gratis los lunes por la tarde</strong> con reserva online.</p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p>General <strong>15,50 €</strong>; reducida <strong>8 €</strong>; Cuarto Real Alto, 5,50 € más. Gratis para residentes en Sevilla y menores de 13.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>Un palacio construido durante mil años</h2></div>
@@ -73,7 +74,7 @@ Te cuento qué ver dentro, en qué orden, cuánto cuesta, cómo entrar gratis lo
 <p><img src="/assets/img/blog/real-alcazar-sevilla/marchena.webp" alt="Puerta de Marchena en los jardines del Alcázar de Sevilla" loading="lazy" decoding="async" /></p>
 
 <div class="guide__head"><span class="eyebrow">Entradas</span><h2>Precios, entrada gratis y horarios</h2></div>
-<div class="guide__howto"><ul><li><b>Entrada general</b>: unos 14-15 € (palacios de la planta baja y jardines). Hay tarifa reducida para estudiantes con carné y mayores de 65.</li><li><b>Cuarto Real Alto</b>: la planta alta del palacio de Pedro I, residencia de los reyes en Sevilla. Se visita en grupos con entrada adicional (unos 5,50-6 €).</li><li><b>Gratis los lunes por la tarde</b>: hay que reservar online la franja horaria con antelación, con un pequeño gasto de gestión. Se agotan pronto.</li><li><b>Compra online</b> con hora de entrada: es la mejor forma de evitar la cola de la taquilla.</li><li><b>Cierra</b> el 1 y el 6 de enero, Viernes Santo y el 25 de diciembre. El horario cambia según la temporada.</li></ul></div>
+<div class="guide__howto"><ul><li><b>Entrada general</b>: 15,50 € (palacios de la planta baja, jardines y otros espacios municipales como el Antiquarium). Hay tarifa reducida para estudiantes con carné y mayores de 65.</li><li><b>Cuarto Real Alto</b>: la planta alta del palacio de Pedro I, residencia de los reyes en Sevilla. Se visita en grupos con entrada adicional (5,50 €).</li><li><b>Gratis</b>: para nacidos o residentes en Sevilla, menores de 13 años acompañados, personas con discapacidad de más del 33 % y su acompañante y desempleados de la provincia, sacando la entrada gratuita. El Patronato fija además visitas públicas gratuitas en días y horas concretos: consúltalas en la web oficial.</li><li><b>Compra online</b> con hora de entrada: es la mejor forma de evitar la cola de la taquilla.</li><li><b>Horario de invierno</b> (1 de octubre-31 de marzo): de 9:30 a 17:00.</li><li><b>Cierra</b> el 1 y el 6 de enero, Viernes Santo y el 25 de diciembre. El horario cambia según la temporada.</li></ul></div>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Real Alcázar</h2></div>
 <div class="guide__howto"><p>Está en la <strong>plaza del Triunfo</strong>, junto a la catedral. Desde la estación de Santa Justa son unos 25 minutos andando o un rato en autobús; el tranvía para en la Puerta de Jerez y en Archivo de Indias, a dos minutos. El centro de Sevilla tiene tráfico restringido: deja el coche en un aparcamiento público (por ejemplo, cerca de la Puerta de Jerez o del Paseo de Colón).</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/search/?api=1&query=Real%20Alc%C3%A1zar%20de%20Sevilla" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
