@@ -1,6 +1,6 @@
 ---
 title: 'Monasterio de Yuste: donde el emperador Carlos V pasó sus últimos días'
-seoTitle: 'Monasterio de Yuste: historia de Carlos V, horario y qué ver'
+seoTitle: 'Yuste, donde murió Carlos V: horario, qué ver y dónde está enterrado'
 seoDescription: 'Monasterio de Yuste: dónde murió Carlos V (1558) y por qué está enterrado en El Escorial. Su historia, qué ver dentro y cómo llegar a La Vera.'
 date: 2026-10-10T09:00:00.000Z
 lugar: 'Monasterio de Yuste'

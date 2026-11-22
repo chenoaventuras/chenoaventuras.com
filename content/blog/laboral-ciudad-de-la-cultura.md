@@ -1,6 +1,6 @@
 ---
 title: 'Laboral Ciudad de la Cultura en Gijón: la antigua Universidad Laboral, su torre y cómo visitarla'
-seoTitle: 'Laboral Ciudad de la Cultura (Gijón): torre, visitas y entradas'
+seoTitle: 'Universidad Laboral de Gijón: horarios, precios y subir a la torre'
 seoDescription: 'Universidad Laboral de Gijón: horarios y precios (visita guiada 5 €, torre 2 €), cómo subir a la torre de 117 m, su historia y cómo llegar.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Laboral Ciudad de la Cultura'
