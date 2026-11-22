@@ -81,6 +81,8 @@ Te cuento cuánto cuestan las entradas, el horario, la visita nocturna y qué ve
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Compra con antelación</b>: es más barato y evitas colas.</li><li><b>Ve a primera hora o de noche</b>: a mediodía hay mucha gente.</li><li><b>Mira la fachada desde la acera de enfrente</b>: así se entiende el dragón.</li><li><b>Combínala con</b> <a href="/blog/sagrada-familia.html">la Sagrada Familia</a>, el <a href="/blog/park-guell.html">Park Güell</a> y, en diciembre, la <a href="/blog/navidad-en-barcelona.html">Navidad en Barcelona</a>.</li></ul></div>
 
+<p>🗿 <strong>A cinco minutos:</strong> <a href="/blog/la-pedrera-casa-mila.html">La Pedrera (Casa Milà)</a>, con su azotea de guerreros.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

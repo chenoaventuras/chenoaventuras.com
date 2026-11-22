@@ -82,6 +82,8 @@ Una basílica de **Gaudí** que lleva en obras desde 1882, un casco gótico de c
 
 <p>🐉 <strong>Gaudí en el paseo de Gràcia:</strong> la <a href="/blog/casa-batllo.html">Casa Batlló</a>, con precios y visita nocturna.</p>
 
+<p>🗿 <strong>Más Gaudí:</strong> <a href="/blog/la-pedrera-casa-mila.html">La Pedrera (Casa Milà)</a>, con precios y visita nocturna.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
