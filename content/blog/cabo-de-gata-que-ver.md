@@ -86,6 +86,8 @@ En la playa de **Mónsul** rodaron una escena de *Indiana Jones*, y en el faro h
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve fuera de temporada</b>: en octubre el agua aún está buena y no hay restricciones de acceso.</li><li><b>En verano, usa la lanzadera</b>: o llega antes de las 9:00 para encontrar sitio.</li><li><b>Haz snorkel</b>: las aguas del parque son de las más claras del Mediterráneo.</li><li><b>Lleva agua y sombra</b>: casi no hay servicios en las playas vírgenes.</li></ul></div>
 
+<p>🏖️ <strong>Al norte del parque:</strong> la <a href="/blog/playa-de-los-muertos.html">Playa de los Muertos</a>, en Carboneras.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
