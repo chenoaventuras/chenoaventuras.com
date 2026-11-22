@@ -33,8 +33,8 @@ faq:
     a: "Sí, la cala mira al oeste y el sol se pone sobre el mar en los meses de verano. Es uno de los atardeceres más bonitos de la zona de Sant Antoni."
   - q: "¿Hay servicios en Cala Salada?"
     a: "Pocos: un restaurante junto a la playa en temporada. En Saladeta no hay nada, así que lleva agua y comida."
-guia: /assets/guias/guia-ibiza-chenoaventuras.pdf
-guiaTitulo: 'Guía Ibiza en PDF'
+guia: /assets/guias/guia-ibiza-formentera-chenoaventuras.pdf
+guiaTitulo: 'Guía Ibiza y Formentera en PDF'
 ---
 Agua turquesa que se ve desde lo alto de la carretera, un pinar que baja hasta el mar y unas casetas de pescadores de madera sobre las rocas. **Cala Salada** es de las calas más bonitas de **Ibiza**, y a cinco minutos andando tiene a su vecina **Cala Saladeta**, todavía más pequeña.
 
