@@ -91,6 +91,8 @@ Te cuento qué ver y cuándo ir 👇
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarla al máximo</h2><ul><li><b>Ven el 2 de mayo</b>: la carrera de los Caballos del Vino es increíble. Llega pronto para coger sitio en la cuesta.</li><li><b>Pasea por las Fuentes del Marqués</b>: un paraje con manantiales y arboleda a las afueras, perfecto para un paseo.</li><li><b>Combínalo con más Murcia</b>: el Cañón de Almadenes y la Cueva del Puerto están a menos de una hora.</li><li><b>Prueba las yemas de Caravaca</b>: el dulce típico de la ciudad.</li></ul></div>
 
+<p>🛡️ A un paso tienes <a href="/blog/cehegin-que-ver.html">Cehegín</a>, con su casco de los cien escudos y candidato a pueblo de la Navidad de Ferrero Rocher 2026.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
