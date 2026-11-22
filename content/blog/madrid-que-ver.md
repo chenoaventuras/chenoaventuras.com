@@ -72,6 +72,8 @@ Un **palacio real**, un **templo egipcio** de más de dos mil años, la mayor co
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Madrid en dos días</h2><ul><li><b>Día 1 (mañana)</b>: Palacio Real y Catedral de la Almudena, con entradas reservadas.</li><li><b>Día 1 (tarde)</b>: Plaza Mayor, Barrio de las Letras y Templo de Debod al atardecer.</li><li><b>Día 2 (mañana)</b>: Museo del Prado, con un recorrido corto y planificado.</li><li><b>Día 2 (tarde)</b>: Retiro, Palacio de Cristal, Cibeles y Puerta de Alcalá.</li><li><b>Con niños o calor</b>: museos en las horas centrales, parques a primera y última hora.</li></ul></div>
 
+<p>👑 <strong>Excursión desde Madrid:</strong> el <a href="/blog/monasterio-de-el-escorial.html">Monasterio de El Escorial</a>, con precios y cuándo es gratis.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
