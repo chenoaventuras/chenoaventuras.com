@@ -13,7 +13,7 @@ tags:
 wide: true
 faq:
   - q: "¿Cuánto cuesta entrar al Palacio Real de Aranjuez?"
-    a: "La entrada general cuesta 12 € y la reducida 7 €. Los ciudadanos de la UE e Iberoamérica entran gratis los miércoles y domingos por la tarde."
+    a: "Según Patrimonio Nacional, la tarifa básica cuesta 9 € y la reducida 4 € (guía, 8 € más; audioguía, 5 €). Es gratis los miércoles y domingos de 15:00 a 18:00 de octubre a marzo, y hasta las 19:00 de abril a septiembre. La Casa del Labrador cuesta 10 €, con visita guiada obligatoria incluida."
   - q: "¿Los jardines de Aranjuez son gratis?"
     a: "Sí, los jardines del Parterre, de la Isla y del Príncipe son de acceso libre."
   - q: "¿Cuándo funciona el Tren de la Fresa?"
@@ -31,6 +31,7 @@ actividades:
     u: "https://www.civitatis.com/es/aranjuez/free-tour-aranjuez/"
   - t: "Paseo en barco por Aranjuez"
     u: "https://www.civitatis.com/es/aranjuez/paseo-barco-aranjuez/"
+updated: 2026-11-23
 guia: /assets/guias/guia-escapadas-madrid-chenoaventuras.pdf
 guiaTitulo: 'Guía Escapadas desde Madrid en PDF'
 comer:
@@ -60,7 +61,7 @@ Y para llegar hay una forma de cuento: el **Tren de la Fresa**, un tren históri
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Palacio Real de Aranjuez: precio y horario</h2></div>
 <div class="guide__tips">
 <div class="guide__tip"><h3>🎟️ Palacio Real</h3><p>Se compran en la web de Patrimonio Nacional o en taquilla.</p>
-<ul class="guide__prices"><li><span>General</span><b>12 €</b></li><li><span>Reducida</span><b>7 €</b></li><li><span>Ciudadanos UE e Iberoamérica: miércoles y domingos por la tarde</span><b>Gratis</b></li></ul>
+<ul class="guide__prices"><li><span>General</span><b>9 €</b></li><li><span>Reducida</span><b>4 €</b></li><li><span>Miércoles y domingos desde las 15:00</span><b>Gratis</b></li><li><span>Casa del Labrador (visita guiada)</span><b>10 €</b></li><li><span>Jardines de la Isla y del Príncipe</span><b>Gratis</b></li></ul><p>Horario del palacio: de martes a domingo, de 10:00 a 18:00 (octubre-marzo) o 19:00 (abril-septiembre); <strong>cierra los lunes</strong>. La Casa del Labrador abre de viernes a domingo. Precios de Patrimonio Nacional, noviembre de 2026.</p>
 </div>
 <div class="guide__tip"><h3>🌳 Jardines</h3><p>Los jardines del Parterre, de la Isla y del Príncipe son de <strong>acceso libre y gratuito</strong>. Cierran al anochecer.</p></div>
 <div class="guide__tip"><h3>🚂 Tren de la Fresa</h3><p>Funciona en <strong>primavera y otoño</strong> desde el Museo del Ferrocarril de Madrid, con revisores de época y fresas a bordo. Consulta fechas y tarifas en su web.</p></div>
