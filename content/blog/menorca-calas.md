@@ -100,6 +100,8 @@ Te cuento mis calas favoritas, cómo llegar a ellas en verano y todo lo demás q
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Menorca en 4 días</h2><ul><li><b>Día 1 · Ciutadella</b>: casco antiguo, Naveta des Tudons y atardecer en el puerto.</li><li><b>Día 2 · Calas del sur</b>: Cala Galdana, Mitjana, Macarella y Turqueta por el Camí de Cavalls.</li><li><b>Día 3 · Norte</b>: Cala Pregonda, Faro de Cavalleria, Fornells y Monte Toro.</li><li><b>Día 4 · Este</b>: Mahón y su puerto, Binibeca Vell y atardecer en la Cova d'en Xoroi.</li></ul></div>
 
+<p>🏖️ <strong>¿Vas a Macarella?</strong> Te cuento cómo llegar en bus, el parking y cómo pasar a Macarelleta en <a href="/blog/cala-macarella.html">Cala Macarella y Macarelleta</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
