@@ -328,7 +328,10 @@ const fmtEs = new Intl.DateTimeFormat("es-ES", { day: "numeric", month: "long", 
 function dateLine(p) {
   const t = (d) => `<time datetime="${d.toISOString().slice(0, 10)}">${fmtEs.format(d)}</time>`;
   const changed = Math.abs(p.updated - p.date) > 24 * 3600 * 1000;
-  return `<p class="article__date">Publicado el ${t(p.date)}${changed ? ` · Actualizado el ${t(p.updated)}` : ""}</p>`;
+  // Si se ha actualizado, solo se muestra la fecha de actualización (que el lector no vea una fecha vieja de publicación).
+  return changed
+    ? `<p class="article__date">Actualizado el ${t(p.updated)}</p>`
+    : `<p class="article__date">Publicado el ${t(p.date)}</p>`;
 }
 
 // Miniatura de 640 px (si existe) para tarjetas y mapa; el hero del post usa la original.
