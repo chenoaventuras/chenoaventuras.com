@@ -79,6 +79,8 @@ Casas de colores colgadas sobre un río, un **barrio judío medieval**, una cate
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Girona en un día</h2><ul><li><b>Mañana</b>: Catedral, Sant Feliu y el Call Jueu.</li><li><b>Mediodía</b>: Comida en el barrio antiguo, con platos catalanes de mercado.</li><li><b>Tarde</b>: Banys Àrabs y paseo por las murallas (Passeig Arqueològic).</li><li><b>Atardecer</b>: Casas del Onyar desde el Pont de Sant Agustí y el puente rojo.</li><li><b>Si tienes más días</b>: Besalú, Cap de Creus y Tossa de Mar.</li></ul></div>
 
+<p>🎭 <strong>A media hora:</strong> el <a href="/blog/teatro-museo-dali-figueres.html">Teatro-Museo Dalí de Figueres</a>, con horario y precios.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
