@@ -79,6 +79,8 @@ Pero tiene truco: no siempre lleva agua. Te cuento cuándo ir y cómo llegar al 
 
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Mira la lluvia</b>: ve tras varios días de lluvia o con deshielo: es cuando más agua cae.</li><li><b>Lleva abrigo</b>: el mirador está muy expuesto al viento.</li><li><b>Otoño</b>: el hayedo se pone rojo y amarillo.</li></ul></div>
 
+<p>🏛️ Muy cerca tienes <a href="/blog/orduna-que-ver.html">Urduña/Orduña</a>, la única ciudad de Bizkaia y candidato a pueblo de la Navidad de Ferrero Rocher 2026.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
