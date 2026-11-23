@@ -97,6 +97,8 @@ La **Serra de Tramuntana** es Patrimonio de la Humanidad. Te dejo mis imprescind
 
 <p>🎻 <strong>En el este de la isla:</strong> las <a href="/blog/cuevas-del-drach.html">Cuevas del Drach</a>, con precios, pases y el concierto del lago.</p>
 
+<p>🦩 En el norte de la isla tienes <a href="/blog/muro-mallorca-que-ver.html">Muro</a>, con s'Albufera y su playa, candidato a pueblo de la Navidad de Ferrero Rocher 2026.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
