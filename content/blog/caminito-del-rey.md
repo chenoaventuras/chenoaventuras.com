@@ -75,7 +75,7 @@ Lo hice en noviembre de 2026 y todas las fotos de este post son de ese día. Aqu
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Caminito del Rey: precio y horario</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>🎟️ Entradas</h3><p>Se compran en la <strong>web oficial</strong> (máximo 10 por compra) o en la taquilla del acceso norte, solo si quedan plazas. Se ponen a la venta <strong>por temporadas</strong> y en primavera y fines de semana se agotan: <strong>reserva con antelación</strong>. El centro de visitantes no vende entradas.</p>
+<div class="guide__tip"><h3>🎟️ Entradas</h3><p>Se compran en la <strong>web oficial</strong> (máximo 10 por compra) o en la taquilla del acceso norte, solo si quedan plazas. Se ponen a la venta <strong>por temporadas</strong> (en noviembre de 2026 ya se pueden comprar hasta el <strong>2 de mayo de 2027</strong>) y en primavera y fines de semana se agotan: <strong>reserva con antelación</strong>. El centro de visitantes no vende entradas.</p>
 <ul class="guide__prices"><li><span>Entrada general</span><b>10 €</b></li><li><span>Visita guiada oficial</span><b>18 €</b></li><li><span>Bus lanzadera (i/v)</span><b>2,50 €</b></li><li><span>Parking</span><b>2 €/día</b></li></ul>
 </div>
 <div class="guide__tip"><h3>🕒 Horario</h3><p>Se entra desde las <strong>9:00</strong> y el último pase es entre las <strong>14:50 y las 17:20</strong>, según la temporada. Si cierran por mal tiempo, puedes cambiar la entrada de día desde tu espacio personal.</p></div>
