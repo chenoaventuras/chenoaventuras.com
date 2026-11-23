@@ -15,6 +15,8 @@ tags:
 wide: true
 actividadesTitulo: 'Más planes en la Comunidad Valenciana'
 actividades:
+  - t: "Excursión a Bocairent desde Valencia"
+    u: "https://www.civitatis.com/es/valencia/excursion-bocairente/"
   - t: "Free tour por Valencia"
     u: "https://www.civitatis.com/es/valencia/free-tour-valencia/"
   - t: "Excursión a Guadalest y Altea"
