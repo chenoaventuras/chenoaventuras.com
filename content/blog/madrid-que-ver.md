@@ -76,6 +76,8 @@ Un **palacio real**, un **templo egipcio** de más de dos mil años, la mayor co
 
 <p>👑 <strong>Imprescindible:</strong> el <a href="/blog/palacio-real-de-madrid.html">Palacio Real de Madrid</a>, con precios, horario y cuándo es gratis.</p>
 
+<p>🖼️ Si vas al Prado, aquí tienes <a href="/blog/museo-del-prado.html">precios, horario gratis y obras imprescindibles del Museo del Prado</a>.</p>
+
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
