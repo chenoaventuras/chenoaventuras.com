@@ -106,7 +106,7 @@ Te cuento qué ver, cuándo ir para pillar la cascada en su mejor momento y cóm
 
 <div class="guide__howto guide__exp"><h3>Mi experiencia</h3><p>Mi consejo: quédate hasta el atardecer. Cuando se encienden las luces del pueblo y la cascada sigue bajando entre las casas, es de las estampas más bonitas de Burgos.</p></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve después de llover</b>: la cascada es mucho más espectacular con caudal.</li><li><b>Sube a las rocas</b>: la senda hasta las peñas da las mejores vistas del cañón.</li><li><b>Calzado con agarre</b>: las piedras junto al agua resbalan.</li><li><b>Combínalo con Las Merindades</b>: Frías, Puentedey o el Monumento Natural de Ojo Guareña están en la misma zona.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ve después de llover</b>: la cascada es mucho más espectacular con caudal.</li><li><b>Sube a las rocas</b>: la senda hasta las peñas da las mejores vistas del cañón.</li><li><b>Calzado con agarre</b>: las piedras junto al agua resbalan.</li><li><b>Combínalo con Las Merindades</b>: Frías, Puentedey o el Monumento Natural de Ojo Guareña están en la misma zona.</li><li><b>En la capital</b>, no te pierdas la <a href="/blog/catedral-de-burgos.html">Catedral de Burgos</a> (gratis los martes por la mañana).</li></ul></div>
 
 <!--faq-->
 
