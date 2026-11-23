@@ -30,6 +30,8 @@ faq:
 actividades:
   - t: "Free tour por Ciudad Rodrigo"
     u: "https://www.civitatis.com/es/ciudad-rodrigo/free-tour-ciudad-rodrigo/"
+  - t: "Visita guiada por Ciudad Rodrigo"
+    u: "https://www.civitatis.com/es/ciudad-rodrigo/visita-guiada-ciudad-rodrigo/"
 comer:
   - n: "Restaurante El Rodeo"
     r: 4.7

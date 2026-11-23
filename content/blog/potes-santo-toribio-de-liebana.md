@@ -19,7 +19,7 @@ faq:
   - q: '¿Cuándo es el próximo Año Jubilar Lebaniego?'
     a: 'El Año Jubilar se celebra cuando el 16 de abril cae en domingo. El último se clausuró en abril de 2024 y el próximo será en 2028.'
   - q: '¿Cuándo es la Fiesta del Orujo de Potes?'
-    a: 'Se celebra el segundo fin de semana de noviembre. En 2026 es del 13 al 15 de noviembre. Está declarada de Interés Turístico Nacional.'
+    a: 'Se celebra el segundo fin de semana de noviembre (en 2026 fue del 13 al 15). Está declarada de Interés Turístico Nacional.'
   - q: '¿Cuánto se tarda de Potes a Santo Toribio?'
     a: 'Son 3 km: unos 5 minutos en coche o 45 minutos andando cuesta arriba.'
 comer:
@@ -43,8 +43,15 @@ actividades:
     u: "https://www.civitatis.com/es/potes/descenso-canones-potes/"
   - t: "Excursión a Potes, Santo Toribio y Fuente Dé desde Santander"
     u: "https://www.civitatis.com/es/santander/excursion-picos-europa/"
+  - t: "Entrada para el Teleférico de Fuente Dé"
+    u: "https://www.civitatis.com/es/fuente-de/entrada-teleferico-fuente-de/"
+  - t: "Paseo con raquetas de nieve por los Picos de Europa"
+    u: "https://www.civitatis.com/es/fuente-de/paseo-raquetas-nieve-picos-europa/"
+  - t: "Vía ferrata de La Hermida"
+    u: "https://www.civitatis.com/es/la-hermida/via-ferrata-hermida/"
 guia: /assets/guias/guia-liebana-chenoaventuras.pdf
 guiaTitulo: 'Guía Picos de Europa en PDF'
+updated: 2026-11-23
 ---
 Puentes de piedra sobre el río Quiviesa, una torre medieval en mitad de la plaza y los Picos de Europa asomando al fondo. **Potes** es la capital de la comarca de **Liébana** y uno de los pueblos más bonitos de Cantabria.
 
@@ -67,7 +74,7 @@ A solo 3 km está el **Monasterio de Santo Toribio**, uno de los cinco lugares s
 </div>
 
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>El trozo más grande de la cruz de Cristo</h2></div>
-<p>Según la tradición, <strong>Santo Toribio de Astorga</strong> trajo de Jerusalén en el siglo V un fragmento de la cruz de Cristo. Siglos después, huyendo de los musulmanes, los cristianos lo escondieron en este monasterio de Liébana, donde sigue hoy: es el <strong>Lignum Crucis</strong>, el mayor trozo conservado de la Vera Cruz.</p><p>Por eso Santo Toribio es, junto a Roma, Jerusalén, Santiago de Compostela y Caravaca de la Cruz, uno de los <strong>cinco lugares santos</strong> con año jubilar perpetuo. Cada vez que el 16 de abril, fiesta del santo, cae en domingo, se abre la <strong>Puerta del Perdón</strong> y miles de peregrinos llegan por el Camino Lebaniego.</p><div class="guide__legend"><h3>🍷 La Fiesta del Orujo</h3><p>Cada segundo fin de semana de noviembre, Potes celebra su Fiesta del Orujo, declarada de <strong>Interés Turístico Nacional</strong> en 2012. Hay alquitaras destilando en la calle, concurso de orujos y degustaciones. La próxima es del <strong>13 al 15 de noviembre de 2026</strong>.</p></div>
+<p>Según la tradición, <strong>Santo Toribio de Astorga</strong> trajo de Jerusalén en el siglo V un fragmento de la cruz de Cristo. Siglos después, huyendo de los musulmanes, los cristianos lo escondieron en este monasterio de Liébana, donde sigue hoy: es el <strong>Lignum Crucis</strong>, el mayor trozo conservado de la Vera Cruz.</p><p>Por eso Santo Toribio es, junto a Roma, Jerusalén, Santiago de Compostela y Caravaca de la Cruz, uno de los <strong>cinco lugares santos</strong> con año jubilar perpetuo. Cada vez que el 16 de abril, fiesta del santo, cae en domingo, se abre la <strong>Puerta del Perdón</strong> y miles de peregrinos llegan por el Camino Lebaniego.</p><div class="guide__legend"><h3>🍷 La Fiesta del Orujo</h3><p>Cada segundo fin de semana de noviembre, Potes celebra su Fiesta del Orujo, declarada de <strong>Interés Turístico Nacional</strong> en 2012. Hay alquitaras destilando en la calle, concurso de orujos y degustaciones. En 2026 fue del 13 al 15 de noviembre; la próxima, el <strong>segundo fin de semana de noviembre de 2027</strong>.</p></div>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Potes y Liébana</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

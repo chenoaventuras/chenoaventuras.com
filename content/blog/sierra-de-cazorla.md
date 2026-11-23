@@ -38,6 +38,12 @@ faq:
 actividades:
   - t: "Visita guiada por Cazorla + cata de aceite"
     u: "https://www.civitatis.com/es/cazorla/visita-guiada-cazorla-cata-aceite/"
+  - t: "Tour por el Parque Natural de las Sierras de Cazorla"
+    u: "https://www.civitatis.com/es/cazorla/tour-sierras-cazorla/"
+  - t: "Tour por la Cazorla desconocida"
+    u: "https://www.civitatis.com/es/cazorla/tour-cazorla-monumental/"
+  - t: "Visita a un olivar y una almazara con cata de aceites"
+    u: "https://www.civitatis.com/es/cazorla/visita-olivar-almazara-cata-aceites/"
 guia: /assets/guias/guia-jaen-chenoaventuras.pdf
 guiaTitulo: 'Guía Jaén en PDF'
 ---

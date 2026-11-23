@@ -18,6 +18,8 @@ actividades:
     u: "https://www.civitatis.com/es/llanes/free-tour-llanes/"
   - t: "Tour en kayak por Llanes"
     u: "https://www.civitatis.com/es/llanes/tour-kayak-llanes/"
+  - t: "Excursión a los lagos de Covadonga y Cangas de Onís desde Llanes"
+    u: "https://www.civitatis.com/es/llanes/excursion-covadonga-cangas-onis/"
 faqTitulo: "Dudas sobre Llanes"
 faq:
   - q: "¿Qué hacer en Llanes y alrededores?"
