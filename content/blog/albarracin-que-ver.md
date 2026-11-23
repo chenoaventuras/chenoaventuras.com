@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Albarracín: murallas, callejuelas y los Pinares de Rodeno'
 seoTitle: 'Qué ver en Albarracín (Teruel): murallas, rutas y Rodeno'
+seoDescription: 'Qué ver y qué hacer en Albarracín (Teruel) en un día o un fin de semana: la muralla, sus callejuelas rojizas, la catedral, el paseo del río y los Pinares de Rodeno. Candidato a pueblo Ferrero Rocher 2026.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Albarracín'
 lat: 40.4086
@@ -12,6 +13,10 @@ tags:
   - Aragón
 wide: true
 faq:
+  - q: "¿Qué hacer en Albarracín con niños?"
+    a: "Subir a la muralla, recorrer el paseo del río y hacer alguna ruta corta y llana por los Pinares de Rodeno entre rocas rojizas suelen gustar mucho a los peques. Lleva calzado cómodo: el casco tiene muchas cuestas."
+  - q: "¿Qué hacer en Albarracín un fin de semana?"
+    a: "El primer día, el casco: subir a la muralla, perderse por las callejuelas, la Plaza Mayor, la catedral y el paseo junto al río Guadalaviar. El segundo, los Pinares de Rodeno, con rutas a pie entre rocas rojizas y pinturas rupestres, o una escapada a Teruel."
   - q: "¿Cuánto tiempo se necesita para ver Albarracín?"
     a: "Con medio día ves el pueblo y subes a la muralla. Si quieres hacer el paseo del río y visitar los Pinares de Rodeno, mejor un día completo."
   - q: "¿Se puede subir a la muralla de Albarracín?"
@@ -49,6 +54,7 @@ comer:
 comerFecha: "octubre de 2026"
 guia: /assets/guias/guia-teruel-chenoaventuras.pdf
 guiaTitulo: 'Guía Teruel en PDF'
+updated: 2026-11-23
 ---
 Casas de color rosado colgadas sobre una hoz del río, callejuelas tan estrechas que los aleros casi se tocan y una muralla que trepa por la montaña. **Albarracín** parece un decorado medieval, pero es un pueblo de verdad, y uno de los más bonitos de España.
 

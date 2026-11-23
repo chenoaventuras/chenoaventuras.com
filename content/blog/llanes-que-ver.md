@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Llanes: Los Cubos de la Memoria, el casco antiguo, el paseo de San Pedro y las playas'
 seoTitle: 'Qué ver en Llanes: puerto, Cubos de la Memoria y playas'
+seoDescription: 'Qué ver y cosas que hacer en Llanes (Asturias): el puerto y los Cubos de la Memoria, el casco antiguo con muralla, el Paseo de San Pedro, la basílica, playas, bufones y Gulpiyuri. Candidato a pueblo Ferrero Rocher 2026.'
 date: 2026-10-24T10:00:00.000Z
 lugar: 'Llanes'
 lat: 43.4201
@@ -19,6 +20,8 @@ actividades:
     u: "https://www.civitatis.com/es/llanes/tour-kayak-llanes/"
 faqTitulo: "Dudas sobre Llanes"
 faq:
+  - q: "¿Qué hacer en Llanes y alrededores?"
+    a: "En el pueblo: el puerto con los Cubos de la Memoria, el casco antiguo, el Paseo de San Pedro y la basílica. Alrededor: sus cerca de cuarenta playas, los bufones, la playa de Gulpiyuri y, si te animas, kayak por la costa."
   - q: "¿Qué ver en Llanes?"
     a: "El casco histórico y la muralla, la basílica de Santa María del Concejo, el puerto con Los Cubos de la Memoria y el Paseo de San Pedro."
   - q: "¿Qué son Los Cubos de la Memoria?"
@@ -35,6 +38,7 @@ faq:
     a: "Un día para la villa y alguna playa."
 guia: /assets/guias/guia-asturias-chenoaventuras.pdf
 guiaTitulo: 'Guía Asturias en PDF'
+updated: 2026-11-23
 ---
 Una villa marinera con muralla, un puerto con **cubos de hormigón pintados** por Agustín Ibarrola, un paseo sobre el acantilado y casi **cuarenta playas** en su concejo. **Llanes** es la gran capital del oriente asturiano y la mejor base para las playas, los bufones y los Picos.
 

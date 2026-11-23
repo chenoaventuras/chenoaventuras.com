@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Ciudad Rodrigo: murallas, catedral con cañonazos y Carnaval del Toro'
 seoTitle: 'Qué ver en Ciudad Rodrigo y Carnaval del Toro 2027 (fechas)'
+seoDescription: 'Qué ver y qué hacer en Ciudad Rodrigo (Salamanca) en un día: la muralla para pasear, la catedral con marcas de cañonazos, el castillo, la Plaza Mayor, los palacios y el Carnaval del Toro. Candidato a pueblo Ferrero Rocher 2026.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Ciudad Rodrigo'
 lat: 40.599

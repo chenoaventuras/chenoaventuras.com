@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Almagro: el último corral de comedias del Siglo de Oro y su plaza verde'
 seoTitle: 'Qué ver en Almagro: Corral de Comedias, plaza y festival'
+seoDescription: 'Qué ver en Almagro (Ciudad Real): el Corral de Comedias, único del Siglo de Oro en uso, la Plaza Mayor de galerías verdes, el Palacio Maestral, sus calles y el Festival de Teatro Clásico. Candidato a pueblo Ferrero Rocher 2026.'
 date: 2026-10-12T13:00:00.000Z
 lugar: 'Almagro'
 provincia: Ciudad Real

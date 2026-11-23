@@ -1,6 +1,7 @@
 ---
 title: 'Montblanc: el pueblo donde Sant Jordi mató al dragón'
 seoTitle: 'Qué ver en Montblanc (Tarragona): Sant Jordi y la muralla'
+seoDescription: 'Qué ver en Montblanc (Tarragona): su muralla medieval, el Portal de Sant Jordi donde según la leyenda mató al dragón, Santa Maria la Major, el Pont Vell y Poblet. Candidato a pueblo Ferrero Rocher 2026.'
 date: 2026-10-11T08:00:00.000Z
 lugar: 'Montblanc'
 lat: 41.3757

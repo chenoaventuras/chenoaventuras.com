@@ -1,6 +1,7 @@
 ---
 title: 'Potes y Santo Toribio de Liébana: qué ver en el corazón de Liébana'
 seoTitle: 'Qué ver en Potes y Santo Toribio de Liébana (Lignum Crucis)'
+seoDescription: 'Qué ver en Potes y Santo Toribio de Liébana: los puentes y la Torre del Infantado, el barrio de la Solana, el monasterio con el Lignum Crucis, cómo ir de Potes a Santo Toribio y qué ver cerca. Candidato a pueblo Ferrero Rocher 2026.'
 date: 2026-10-17T10:00:00.000Z
 lugar: 'Potes'
 provincia: Cantabria

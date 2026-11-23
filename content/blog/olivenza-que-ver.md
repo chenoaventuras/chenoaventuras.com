@@ -1,6 +1,7 @@
 ---
 title: 'Qué ver en Olivenza: el pueblo español que fue portugués'
 seoTitle: 'Qué ver en Olivenza: historia portuguesa, iglesias y castillo'
+seoDescription: 'Qué ver en Olivenza (Badajoz), el pueblo que fue portugués: la iglesia manuelina de Santa María Magdalena, el castillo y su torre, los azulejos, la muralla y la técula mécula. Candidato a pueblo Ferrero Rocher 2026.'
 date: 2026-10-10T08:00:00.000Z
 lugar: 'Olivenza'
 lat: 38.686
