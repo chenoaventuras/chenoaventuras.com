@@ -96,6 +96,11 @@ const isExcluded = (m) =>
  * El orden de la inicio es el de fecha (el más reciente primero).
  */
 const SHOW_ON_HOME = [
+  "Df-BVf4xq54", // Mirador de Gibralfaro
+  "Df7KWYTxbrC", // Alcazaba de Málaga
+  "Df71Sd1RpXd", // Cueva del Tesoro
+  "Df0DtWPRvTl", // Caminito del Rey
+  "DfpwfZEx4ay", // Qué ver en Málaga
   "DexAY3rx7en", // Laguna Negra
   "DeRNFLzxO23", // Mercado Cervantino de Alcalá de Henares
   "DeM_bJkRRM8", // Parque de atracciones
