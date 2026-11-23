@@ -18,6 +18,7 @@ actividades:
   - t: "Free tour por Tarragona"
     u: "https://www.civitatis.com/es/tarragona/free-tour-tarragona/"
 actividadesTitulo: 'Actividades en Tarragona'
+updated: 2026-11-23
 faq:
   - q: "¿Por qué se dice que Sant Jordi mató al dragón en Montblanc?"
     a: "Porque el folclorista Joan Amades situó la leyenda delante de sus murallas, y uno de sus portales se llama Portal de Sant Jordi."
@@ -26,7 +27,11 @@ faq:
   - q: "¿Qué ver cerca de Montblanc?"
     a: "El Monasterio de Poblet, a unos 8 km, y los pueblos y bodegas de la Conca de Barberà."
   - q: "¿Se puede subir a la muralla de Montblanc?"
-    a: "Sí, hay tramos que se pueden recorrer por arriba."
+    a: "Sí. La visita libre al recinto amurallado se hace por el Portal de Sant Francesc y cuesta 3 € (reducida 1,50 €; gratis menores de 14 años). Abre de miércoles a sábado de 10 a 14 h y de 16 a 18 h, y domingos y festivos de 10 a 14 h. En noviembre abre de jueves a domingo y en diciembre solo del 3 al 8. Cierra si hace mal tiempo."
+  - q: "¿Cómo es la muralla medieval de Montblanc?"
+    a: "Se construyó en el siglo XIV por orden del rey Pedro III el Ceremonioso, durante la guerra contra Pedro el Cruel de Castilla. Tiene un perímetro de unos 1.500 metros y una treintena de torres, casi todas rectangulares y una pentagonal, la de los Cinco Cantones. Tenía cuatro portales: Sant Antoni, Sant Francesc, Sant Jordi y Bové."
+  - q: "¿Hay visitas guiadas en Montblanc?"
+    a: "Sí: la visita guiada monumental sale cada día a las 11 h desde la Oficina de Turismo, dura 2 horas y cuesta 10 € (reducida 8 €; gratis hasta 13 años). Hay que comprar la entrada antes. Se hace en catalán; en castellano o francés hay que consultarlo en el 977 861 733."
   - q: "¿Cómo llegar a Montblanc?"
     a: "En coche: está en la Conca de Barberà, a unos 40 minutos de Tarragona y una hora y cuarto de Barcelona."
 comer:
@@ -60,7 +65,7 @@ Una muralla medieval casi intacta, torres, portales y un casco antiguo que parec
 <div class="guide__tips">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la Conca de Barberà (<strong>Tarragona</strong>), a unos <strong>40 minutos de Tarragona</strong> y una hora y cuarto de Barcelona.</p></div>
 <div class="guide__tip"><h3>⏱️ Tiempo</h3><p>El pueblo en <strong>2-3 horas</strong>. Con el Monasterio de Poblet, <strong>un día completo</strong>.</p></div>
-<div class="guide__tip"><h3>🎟️ Precio</h3><p>Pasear por el casco antiguo es <strong>gratis</strong>. Algunos tramos de muralla y museos tienen entrada.</p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p>Pasear por el casco es <strong>gratis</strong>. Subir a la muralla, <strong>3 €</strong>; visita guiada monumental, <strong>10 €</strong>.</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>Sant Jordi y el dragón</h2></div>
@@ -68,7 +73,7 @@ Una muralla medieval casi intacta, torres, portales y un casco antiguo que parec
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Montblanc</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/montblanc-que-ver/muralla.webp" alt="Muralla medieval de Montblanc" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La muralla</h3><p>Del siglo XIV, con torres y portales. Gran parte se conserva y algunos tramos se pueden recorrer por arriba.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/montblanc-que-ver/muralla.webp" alt="Muralla medieval de Montblanc" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La muralla</h3><p>Del siglo XIV, con unos <strong>1.500 metros</strong> de perímetro y una treintena de torres. Se recorre por arriba entrando por el Portal de Sant Francesc (3 €).</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/montblanc-que-ver/portal.webp" alt="Portal de Sant Jordi en Montblanc" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El Portal de Sant Jordi</h3><p>La puerta donde la tradición sitúa la batalla con el dragón. La foto obligada.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/montblanc-que-ver/santa-maria.webp" alt="Iglesia de Santa Maria la Major en Montblanc" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Santa Maria la Major</h3><p>Una iglesia gótica tan grande que la llaman «la catedral de la Montaña». Sube a su mirador.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/montblanc-que-ver/casco.webp" alt="Casco antiguo de Montblanc" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El casco antiguo</h3><p>Calles medievales, la plaza Major y casas nobles. Se recorre en un paseo.</p></div></li>
@@ -92,4 +97,4 @@ Una muralla medieval casi intacta, torres, portales y un casco antiguo que parec
 
 <div class="guide__cta"><h2>¿Te gustan los lugares con leyenda?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Consulta las fechas de la Semana Medieval y los horarios de la muralla en la oficina de turismo de Montblanc. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AMuralla_Montblanc_3.jpg" target="_blank" rel="noopener">Mmorell</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APortal_de_Sant_Jordi_1.jpg" target="_blank" rel="noopener">Till F. Teenck</a> (CC BY-SA 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3AMontblanc-Santa_Maria_la_Major.jpg" target="_blank" rel="noopener">Josep Grin</a> (CC BY-SA 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3AMontblanc_-_Pla%C3%A7a_Major.jpg" target="_blank" rel="noopener">Jordi D. A. from Barcelona, Catalan Lands</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APont_vell_montblanc_6.jpg" target="_blank" rel="noopener">Santi Gomà</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMonestir_de_Poblet-PM_26149.jpg" target="_blank" rel="noopener">PMRMaeyaert</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Muralla_Montblanc_2.jpg" target="_blank" rel="noopener">Mmorell</a> (CC BY-SA 4.0).</p>
+<p class="guide__note">Información consultada en noviembre de 2026 en la web oficial de turismo de Montblanc (muralla, visitas guiadas y oficina de turismo: C/ Muralla de Santa Tecla, 56; tel. 977 86 17 33). Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3AMuralla_Montblanc_3.jpg" target="_blank" rel="noopener">Mmorell</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APortal_de_Sant_Jordi_1.jpg" target="_blank" rel="noopener">Till F. Teenck</a> (CC BY-SA 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3AMontblanc-Santa_Maria_la_Major.jpg" target="_blank" rel="noopener">Josep Grin</a> (CC BY-SA 2.5) · <a href="https://commons.wikimedia.org/wiki/File%3AMontblanc_-_Pla%C3%A7a_Major.jpg" target="_blank" rel="noopener">Jordi D. A. from Barcelona, Catalan Lands</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APont_vell_montblanc_6.jpg" target="_blank" rel="noopener">Santi Gomà</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3AMonestir_de_Poblet-PM_26149.jpg" target="_blank" rel="noopener">PMRMaeyaert</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File:Muralla_Montblanc_2.jpg" target="_blank" rel="noopener">Mmorell</a> (CC BY-SA 4.0).</p>
