@@ -11,12 +11,17 @@ tags:
   - Spots
   - Cataluña
 wide: true
+updated: 2026-11-24
 faqTitulo: "Dudas sobre la Casa de Dalí"
 faq:
   - q: "¿Dónde murió Salvador Dalí?"
     a: "En Figueres, en 1989; está enterrado en la cripta del Teatro-Museo Dalí."
   - q: "¿Qué es el triángulo daliniano?"
     a: "El recorrido por Figueres (Teatro-Museo), Púbol (castillo de Gala) y Portlligat (la casa-taller)."
+  - q: "¿Cuánto cuesta la entrada a la Casa de Dalí en Portlligat?"
+    a: "Según la Fundació Gala-Salvador Dalí, la general (casa y olivar) cuesta 15,50 € y la reducida 12 €; en julio y agosto, 18,50 € y 14 €. Solo el olivar, 8 € (reducida 6 €). Menores de 9 años, gratis."
+  - q: "¿Qué horario tiene la Casa de Dalí?"
+    a: "De noviembre a marzo, de martes a domingo de 10:30 a 18:00; de abril a octubre, todos los días (de 9:30 a 20:00 del 15 de junio al 13 de septiembre). Cierra el 1 de enero, el 25 de diciembre y unas semanas en invierno (en 2026, del 7 de enero al 11 de febrero)."
   - q: "¿Hay que reservar para la Casa de Dalí en Portlligat?"
     a: "Sí, las visitas son en grupos reducidos con hora. Reserva online."
   - q: "¿Por qué hay huevos en el tejado?"
@@ -58,10 +63,11 @@ Te cuento su historia, cómo conseguir entrada (se agotan) y qué ver 👇
 <div class="etiles"><div><b>🥚</b><span>Huevos gigantes</span></div><div><b>🐻</b><span>Oso</span></div><div><b>🏠</b><span>Casa de pescadores</span></div><div><b>🌅</b><span>Ventana del amanecer</span></div><div><b>🎟️</b><span>Reserva</span></div></div>
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Lo básico de la casa</h2></div>
-<div class="guide__tips">
+<div class="guide__tips guide__tips--2">
 <div class="guide__tip"><h3>📍 Dónde está</h3><p>En la cala de <strong>Portlligat</strong>, a 15 minutos andando de Cadaqués (Girona).</p></div>
 <div class="guide__tip"><h3>📅 Reserva</h3><p>Solo se visita en <strong>grupos pequeños con hora</strong>. Reserva online con días o semanas de antelación.</p></div>
-<div class="guide__tip"><h3>🎟️ Precio</h3><p>Entrada de pago. Consulta en la web de la Fundación Gala-Salvador Dalí.</p></div>
+<div class="guide__tip"><h3>🎟️ Precio</h3><p>General <strong>15,50 €</strong> (18,50 € en julio y agosto); reducida 12 €. Solo el olivar, 8 €. Menores de 9 años, gratis.</p></div>
+<div class="guide__tip"><h3>🕙 Horario</h3><p>Nov-mar: <strong>martes a domingo, 10:30-18:00</strong>. Abr-oct: todos los días (9:30-20:00 del 15 de junio al 13 de septiembre). Cierre de invierno (en 2026, 7 ene-11 feb).</p></div>
 </div>
 
 <div class="guide__head"><span class="eyebrow">La historia</span><h2>El refugio de Dalí y Gala</h2></div>
@@ -85,10 +91,10 @@ Te cuento su historia, cómo conseguir entrada (se agotan) y qué ver 👇
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar a Portlligat</h2></div>
 <div class="guide__howto"><p>Desde <strong>Cadaqués</strong>, unos 15 minutos a pie por un camino junto al mar. En coche hay un aparcamiento pequeño (de pago) cerca de la casa.</p><p>Cadaqués está a unos 40 minutos de Figueres.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Casa-Museu%20Salvador%20Dal%C3%AD%2C%20Portlligat%2C%20Cadaqu%C3%A9s" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva ya</b>: en verano se agota con semanas de antelación.</li><li><b>Triángulo daliniano</b>: combina con el Teatro-Museo de Figueres y el Castillo de Púbol.</li><li><b>Cap de Creus</b>: las rocas que inspiraban a Dalí están a 15 minutos.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva ya</b>: en verano se agota con semanas de antelación.</li><li><b>Triángulo daliniano</b>: combina con el Teatro-Museo de Figueres y el Castillo de Púbol.</li><li><b>Pasea por</b> <a href="/blog/cadaques-que-ver.html">Cadaqués</a>, a un paseo.</li><li><b>Cap de Creus</b>: las rocas que inspiraban a Dalí están a 15 minutos.</li></ul></div>
 
 <!--faq-->
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>
 
-<p class="guide__note">Información consultada en octubre de 2026. Horarios, accesos y precios pueden cambiar: consúltalos antes de ir. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACasa_Salvador_Dal%C3%AD_Portlligat.JPG" target="_blank" rel="noopener">CGE</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACasa_Salvador_Dal%C3%AD_de_Portlligat_%28Cadaqu%C3%A9s%29_-_1.jpg" target="_blank" rel="noopener">ferran pestaña</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APortlligat_-_Dali_-_Zypresse_im_Boot.jpg" target="_blank" rel="noopener">Genet (Diskussion)</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APort_Lligat%2C_Cadaqu%C3%A9s_%28Gerona%29_-_panoramio_%282%29.jpg" target="_blank" rel="noopener">velomartinez</a> (CC BY-SA 3.0).</p>
+<p class="guide__note">Precios y horarios consultados en noviembre de 2026 en la web oficial de la Fundació Gala-Salvador Dalí. Fotos de Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File%3ACasa_Salvador_Dal%C3%AD_Portlligat.JPG" target="_blank" rel="noopener">CGE</a> (CC BY-SA 3.0) · <a href="https://commons.wikimedia.org/wiki/File%3ACasa_Salvador_Dal%C3%AD_de_Portlligat_%28Cadaqu%C3%A9s%29_-_1.jpg" target="_blank" rel="noopener">ferran pestaña</a> (CC BY-SA 2.0) · <a href="https://commons.wikimedia.org/wiki/File%3APortlligat_-_Dali_-_Zypresse_im_Boot.jpg" target="_blank" rel="noopener">Genet (Diskussion)</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File%3APort_Lligat%2C_Cadaqu%C3%A9s_%28Gerona%29_-_panoramio_%282%29.jpg" target="_blank" rel="noopener">velomartinez</a> (CC BY-SA 3.0).</p>

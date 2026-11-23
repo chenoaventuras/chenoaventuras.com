@@ -92,7 +92,7 @@ Te cuento qué ver, cómo llegar desde Cadaqués y el truco para ver el amanecer
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar al Cap de Creus</h2></div>
 <div class="guide__howto"><p>Desde <strong>Cadaqués</strong>, sigue la carretera GIV-6141 hacia el faro: unos 8 km. En verano, mira si hay restricciones y lanzadera.</p><p>Desde Barcelona son unas 2 horas y cuarto en coche.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Far%20de%20Cap%20de%20Creus" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ojo con la tramontana</b>: con viento fuerte, cuidado al borde de los acantilados.</li><li><b>Kayak</b>: la forma más bonita de ver las calas.</li><li><b>Casa de Dalí</b>: combínalo con Portlligat, a 10 minutos.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Ojo con la tramontana</b>: con viento fuerte, cuidado al borde de los acantilados.</li><li><b>Kayak</b>: la forma más bonita de ver las calas.</li><li><b>Casa de Dalí</b>: combínalo con Portlligat, a 10 minutos.</li><li><b>Al lado</b>, el pueblo de <a href="/blog/cadaques-que-ver.html">Cadaqués</a>.</li></ul></div>
 
 <!--faq-->
 
