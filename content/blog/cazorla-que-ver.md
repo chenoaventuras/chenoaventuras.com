@@ -1,6 +1,6 @@
 ---
 title: 'Qué ver en Cazorla (Jaén): el pueblo blanco bajo el castillo de la Yedra'
-seoTitle: 'Qué ver en Cazorla pueblo: castillo de la Yedra y casco antiguo'
+seoTitle: 'Qué ver en Cazorla, el pueblo andaluz candidato a Ferrero Rocher 2026'
 seoDescription: 'Qué ver en el pueblo de Cazorla (Jaén), candidato a pueblo Ferrero Rocher 2026: el castillo de la Yedra y su museo, las ruinas de Santa María, la plaza de Santa María, sus palacios, el río Cerezuelo y visitas guiadas.'
 date: 2026-11-23T11:00:00.000Z
 lugar: 'Cazorla'

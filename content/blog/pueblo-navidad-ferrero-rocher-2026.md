@@ -12,7 +12,7 @@ cover: /assets/img/blog/albarracin-que-ver/portada.webp
 tags:
   - Pueblos
 wide: true
-updated: 2026-11-23
+updated: 2026-11-24
 actividadesTitulo: 'Visitas guiadas en los pueblos candidatos'
 actividades:
   - t: "Visita guiada por Albarracín"
@@ -33,6 +33,8 @@ actividades:
     u: "https://www.civitatis.com/es/cehegin/visita-guiada-cehegin/"
 faqTitulo: "Dudas sobre el pueblo de Ferrero Rocher"
 faq:
+  - q: "¿Qué pueblo representa a cada comunidad en Ferrero Rocher 2026?"
+    a: "Andalucía: Cazorla (Jaén). Aragón: Albarracín (Teruel). Asturias: Llanes. Baleares: Muro (Mallorca). Canarias: Villa de Mazo (La Palma). Cantabria: Potes. Castilla-La Mancha: Almagro (Ciudad Real). Castilla y León: Ciudad Rodrigo (Salamanca). Cataluña: Montblanc (Tarragona). Comunidad Valenciana: Bocairent (Valencia). Extremadura: Olivenza (Badajoz). Galicia: Betanzos (A Coruña). Madrid: Los Molinos. Murcia: Cehegín. Navarra: Estella-Lizarra. País Vasco: Urduña/Orduña (Bizkaia). La Rioja: Alfaro."
   - q: "¿Quiénes son los finalistas de Ferrero Rocher 2026?"
     a: "Todavía no se conocen. A 23 de noviembre, la web oficial muestra que está haciendo el recuento de votos de la fase de los 17 pueblos. El 30 de noviembre empieza la fase de los 5 semifinalistas y el 7 de diciembre la de los 2 finalistas. Actualizaré este post en cuanto salgan."
   - q: "¿Hasta cuándo se puede votar?"
