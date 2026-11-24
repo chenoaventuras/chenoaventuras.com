@@ -36,9 +36,9 @@ faq:
   - q: "¿Qué pueblo representa a cada comunidad en Ferrero Rocher 2026?"
     a: "Andalucía: Cazorla (Jaén). Aragón: Albarracín (Teruel). Asturias: Llanes. Baleares: Muro (Mallorca). Canarias: Villa de Mazo (La Palma). Cantabria: Potes. Castilla-La Mancha: Almagro (Ciudad Real). Castilla y León: Ciudad Rodrigo (Salamanca). Cataluña: Montblanc (Tarragona). Comunidad Valenciana: Bocairent (Valencia). Extremadura: Olivenza (Badajoz). Galicia: Betanzos (A Coruña). Madrid: Los Molinos. Murcia: Cehegín. Navarra: Estella-Lizarra. País Vasco: Urduña/Orduña (Bizkaia). La Rioja: Alfaro."
   - q: "¿Quiénes son los finalistas de Ferrero Rocher 2026?"
-    a: "Todavía no se conocen. A 23 de noviembre, la web oficial muestra que está haciendo el recuento de votos de la fase de los 17 pueblos. El 30 de noviembre empieza la fase de los 5 semifinalistas y el 7 de diciembre la de los 2 finalistas. Actualizaré este post en cuanto salgan."
+    a: "Todavía no se conocen. A 24 de noviembre, la web oficial muestra que está contando los votos de la fase de los 17 pueblos. El 30 de noviembre empieza la fase de los 5 semifinalistas y el 7 de diciembre la de los 2 finalistas. Actualizaré este post en cuanto salgan."
   - q: "¿Hasta cuándo se puede votar?"
-    a: "La segunda votación, entre los 17 pueblos, empezó el 9 de noviembre y dura unas tres semanas, hasta el anuncio de los semifinalistas el 30 de noviembre. Después se abre una votación nueva en cada fase."
+    a: "Ahora mismo no: a 24 de noviembre, la web oficial muestra el aviso «Estamos contando los votos de esta fase». La votación entre los 17 pueblos empezó el 9 de noviembre y la siguiente, entre los 5 semifinalistas, se abre el 30 de noviembre. Cada fase tiene su propia votación."
   - q: "¿Qué pueblos compiten en Ferrero Rocher 2026?"
     a: "Tras la primera votación quedan 17, uno por comunidad: Cazorla, Albarracín, Llanes, Potes, Almagro, Ciudad Rodrigo, Montblanc, Los Molinos, Bocairent, Olivenza, Betanzos, Muro, Villa de Mazo, Alfaro, Estella-Lizarra, Urduña/Orduña y Cehegín."
   - q: "¿Cuándo se sabe el ganador del concurso de Ferrero Rocher 2026?"
@@ -58,17 +58,17 @@ faq:
 ---
 Cada Navidad, **Ferrero Rocher** elige un pueblo de España para llenarlo de luces con su campaña **«Juntos Brillamos Más»**. En 2026 empezaron **34 candidatos**, dos por comunidad autónoma, y tras la primera votación quedan **17**. El ganador se conoce el **14 de diciembre** y su iluminación se enciende el **16**.
 
-<div class="article__callout">🗳️ <strong>Cómo va el concurso:</strong> la web oficial de Ferrero Rocher muestra ahora el aviso «<em>Estamos haciendo el recuento de votos</em>» de la fase de los 17 pueblos. Los <strong>5 semifinalistas</strong> se conocen con el arranque de la siguiente fase, el <strong>30 de noviembre</strong>. Ferrero no publica cómo va el recuento. <em>Actualizado el 23 de noviembre de 2026.</em></div>
+<div class="article__callout">🗳️ <strong>Cómo va el concurso:</strong> la web oficial de Ferrero Rocher muestra ahora el aviso «<em>Estamos contando los votos de esta fase</em>»: ahora mismo no se puede votar. Los <strong>5 semifinalistas</strong> se conocen con el arranque de la siguiente fase, el <strong>30 de noviembre</strong>. Ferrero no publica cómo va el recuento. <em>Actualizado el 24 de noviembre de 2026.</em></div>
 
 Los 17 candidatos tienen su guía en el blog. Te cuento el calendario, cómo votar y qué ver en cada uno, gane quien gane 👇
 
 <div class="guide__head"><span class="eyebrow">En un vistazo</span><h2>Lo que vas a encontrar</h2></div>
-<div class="etiles"><div><b>🎄</b><span>17 pueblos</span></div><div><b>🗳️</b><span>Votación abierta</span></div><div><b>🏆</b><span>Ganador el 14 dic</span></div><div><b>✨</b><span>Encendido el 16 dic</span></div><div><b>🗺️</b><span>Qué ver en cada uno</span></div></div>
+<div class="etiles"><div><b>🎄</b><span>17 pueblos</span></div><div><b>🗳️</b><span>Recuento de votos</span></div><div><b>🏆</b><span>Ganador el 14 dic</span></div><div><b>✨</b><span>Encendido el 16 dic</span></div><div><b>🗺️</b><span>Qué ver en cada uno</span></div></div>
 
 <div class="guide__head"><span class="eyebrow">Fechas</span><h2>Calendario del concurso 2026</h2></div>
 <ol class="guide__timeline">
 <li><b>8 nov</b><span>Primera votación: de 34 a 17 pueblos</span></li>
-<li><b>9-30 nov</b><span>Segunda votación entre los 17 (fase actual)</span></li>
+<li><b>9-30 nov</b><span>Segunda votación entre los 17 (ya cerrada, en recuento)</span></li>
 <li><b>30 nov</b><span>Se anuncian los 5 semifinalistas</span></li>
 <li><b>7 dic</b><span>Se anuncian los 2 finalistas</span></li>
 <li><b>14 dic</b><span>Ganador</span></li>
@@ -97,13 +97,14 @@ Los 17 candidatos tienen su guía en el blog. Te cuento el calendario, cómo vot
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cómo funciona</span><h2>Cómo votar paso a paso</h2></div>
-<ol class="checklist" style="margin:0 0 1rem;"><li><strong>Entra en la web oficial de la campaña</strong> «Juntos brillamos más» de Ferrero Rocher y pulsa «Vota».</li><li><strong>Elige comunidad y pueblo</strong> en el desplegable.</li><li><strong>Marca las casillas</strong>: que eres mayor de 18 años y que aceptas las bases y la política de privacidad (la de recibir publicidad es opcional).</li><li><strong>Pulsa «Vota».</strong> Solo puedes votar <strong>un pueblo por fase</strong>, hasta 4 veces en total.</li><li><strong>Vuelve en cada fase:</strong> según Ferrero, los votos <strong>se acumulan</strong> entre fases, así que cada voto cuenta hasta el final.</li></ol>
+<ol class="checklist" style="margin:0 0 1rem;"><li><strong>Entra en la <a href="https://www.ferrerorocher.com/es/es/xp/navidaddeoro/votar/" target="_blank" rel="noopener">página oficial para votar</a></strong> de la campaña «Juntos brillamos más» de Ferrero Rocher (ferrerorocher.com).</li><li><strong>Elige comunidad y pueblo</strong> en el desplegable.</li><li><strong>Marca las casillas</strong>: que eres mayor de 18 años y que aceptas las bases y la política de privacidad (la de recibir publicidad es opcional).</li><li><strong>Pulsa «Vota».</strong> Solo puedes votar <strong>un pueblo por fase</strong>, hasta 4 veces en total.</li><li><strong>Vuelve en cada fase:</strong> según Ferrero, los votos <strong>se acumulan</strong> entre fases, así que cada voto cuenta hasta el final.</li></ol>
+<p><a class="btn" href="https://www.ferrerorocher.com/es/es/xp/navidaddeoro/votar/" target="_blank" rel="noopener">🗳️ Ir a la votación oficial de Ferrero Rocher</a></p>
 <p>En 2025 ganó <strong>Tejeda</strong>, en Gran Canaria, y en 2024, <a href="/blog/ribadavia-que-ver.html">Ribadavia</a>, en Ourense.</p>
 <div class="guide__legend"><h3>🎄 Aunque no gane tu favorito</h3><p>Todos estos pueblos se visten de Navidad a su manera y son una escapada perfecta en diciembre. Además, en temporada baja hay menos gente y el alojamiento es más barato.</p></div>
 
 <p>Si buscas más planes de estas fechas, mira mi guía de <a href="/blog/navidad-en-madrid.html">Navidad en Madrid</a>, las <a href="/blog/luces-navidad-vigo.html">luces de Navidad de Vigo</a> o las <a href="/blog/magicas-navidades-torrejon.html">Mágicas Navidades de Torrejón</a>.</p>
 
-<p class="navhub">🎄 <strong>Más Navidad en España:</strong> <a href="/blog/navidad-en-madrid.html">Madrid</a> · <a href="/blog/magicas-navidades-torrejon.html">Mágicas Navidades de Torrejón</a> · <a href="/blog/navidad-en-barcelona.html">Barcelona</a> · <a href="/blog/navidad-en-sevilla.html">Sevilla</a> · <a href="/blog/navidad-en-valencia.html">Valencia</a> · <a href="/blog/navidad-en-palma.html">Palma</a> · <a href="/blog/navidad-en-zaragoza.html">Zaragoza</a> · <a href="/blog/navidad-en-malaga.html">Málaga</a> · <a href="/blog/luces-navidad-vigo.html">luces de Vigo</a> · <a href="/blog/belen-viviente-buitrago-del-lozoya.html">Belén viviente de Buitrago</a>.</p>
+<p class="navhub">🎄 <strong>Más Navidad en España:</strong> <a href="/blog/navidad-en-madrid.html">Madrid</a> · <a href="/blog/cortylandia-2026.html">Cortylandia</a> · <a href="/blog/magicas-navidades-torrejon.html">Mágicas Navidades de Torrejón</a> · <a href="/blog/navidad-en-barcelona.html">Barcelona</a> · <a href="/blog/navidad-en-sevilla.html">Sevilla</a> · <a href="/blog/navidad-en-valencia.html">Valencia</a> · <a href="/blog/navidad-en-palma.html">Palma</a> · <a href="/blog/navidad-en-zaragoza.html">Zaragoza</a> · <a href="/blog/navidad-en-malaga.html">Málaga</a> · <a href="/blog/luces-navidad-vigo.html">luces de Vigo</a> · <a href="/blog/belen-viviente-buitrago-del-lozoya.html">Belén viviente de Buitrago</a>.</p>
 
 <!--faq-->
 
