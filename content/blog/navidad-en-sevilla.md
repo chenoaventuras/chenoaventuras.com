@@ -22,6 +22,8 @@ eventoInfo:
   localidad: 'Sevilla'
   cp: '41004'
   region: 'Andalucía'
+  organizador: 'Ayuntamiento de Sevilla'
+  web: 'https://www.sevilla.org/'
   precioMin: 0
 actividadesTitulo: 'Planes en Sevilla para estas Navidades'
 actividades:

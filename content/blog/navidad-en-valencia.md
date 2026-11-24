@@ -22,6 +22,8 @@ eventoInfo:
   localidad: 'Valencia'
   cp: '46002'
   region: 'Comunidad Valenciana'
+  organizador: 'Ayuntamiento de València'
+  web: 'https://www.valencia.es/'
   precioMin: 0
 actividadesTitulo: 'Planes en Valencia para estas Navidades'
 actividades:

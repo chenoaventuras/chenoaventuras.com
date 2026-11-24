@@ -22,6 +22,8 @@ eventoInfo:
   localidad: 'Zaragoza'
   cp: '50003'
   region: 'Aragón'
+  organizador: 'Ayuntamiento de Zaragoza'
+  web: 'https://www.zaragoza.es/'
   precioMin: 0
 actividadesTitulo: 'Planes en Zaragoza para estas Navidades'
 actividades:

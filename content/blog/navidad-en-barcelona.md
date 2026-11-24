@@ -22,6 +22,8 @@ eventoInfo:
   localidad: 'Barcelona'
   cp: '08008'
   region: 'Cataluña'
+  organizador: 'Ajuntament de Barcelona'
+  web: 'https://www.barcelona.cat/'
   precioMin: 0
 actividadesTitulo: 'Tours de Navidad en Barcelona'
 actividades:

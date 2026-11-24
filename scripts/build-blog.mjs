@@ -701,7 +701,7 @@ function renderPost(p, tagColorMap, nextPost, related = [], destino = null, near
                         priceCurrency: "EUR",
                         availability: "https://schema.org/InStock",
                         validFrom: new Date(p.eventoInfo.ventaDesde || p.date).toISOString(),
-                        ...(p.eventoInfo.entradas ? { url: String(p.eventoInfo.entradas) } : {}),
+                        url: String(p.eventoInfo.entradas || p.eventoInfo.web || p.url),
                       },
                     }
                   : {}),

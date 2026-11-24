@@ -12,6 +12,7 @@ eventoInfo:
   region: 'Madrid'
   precioMin: 6
   precioMax: 6
+  organizador: 'Asociación Cultural Belén Viviente de Buitrago del Lozoya'
   web: 'https://belenvivientebuitrago.es/'
 date: 2026-11-21T18:00:00.000Z
 evento: true
