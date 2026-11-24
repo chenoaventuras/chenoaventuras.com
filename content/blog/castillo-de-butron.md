@@ -1,6 +1,6 @@
 ---
 title: 'Castillo de Butrón: el castillo de cuento escondido en Bizkaia'
-seoTitle: 'Castillo de Butrón: horarios, precio y si se puede entrar'
+seoTitle: 'Castillo de Butrón: cómo llegar, horarios y si se puede entrar'
 seoDescription: 'Castillo de Butrón (Bizkaia): si está abierto, horarios, si se puede entrar o solo verlo por fuera, precio, cómo llegar y dónde aparcar. Datos de 2026.'
 date: 2026-10-10T10:50:00.000Z
 lugar: 'Castillo de Butrón'
