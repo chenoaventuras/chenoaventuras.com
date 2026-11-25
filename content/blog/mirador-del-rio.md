@@ -19,6 +19,10 @@ actividades:
     u: "https://www.civitatis.com/es/arrecife/excursion-isla-graciosa/"
 faqTitulo: "Dudas sobre el Mirador del Río"
 faq:
+  - q: "¿Por qué se llama Batería del Río?"
+    a: "Porque en ese escarpe del Risco de Famara hubo una batería de artillería costera del ejército español que vigilaba el estrecho de El Río; ya existía en 1904. El nombre se quedó en el lugar cuando Manrique levantó el mirador."
+  - q: "¿Quién trabajó con Manrique en el mirador?"
+    a: "Los técnicos Eduardo Cáceres y Jesús Soto colaboraron con él en el proyecto, que se realizó entre 1971 y 1973."
   - q: "¿Cuánto cuesta entrar al Mirador del Río?"
     a: "Es de pago. Según la web oficial del CACT, 9 € por adulto. Confírmalo antes de ir."
   - q: "¿Qué horario tiene?"
@@ -49,6 +53,9 @@ Te cuento cuánto cuesta, a qué hora ir y cómo llegar 👇
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una obra de Manrique dentro de la montaña</h2></div>
 <p>El mirador está en el <strong>Risco de Famara</strong>, en un escarpe llamado <strong>Batería del Río</strong>, a unos <strong>475 metros</strong> de altura. César Manrique lo diseñó entre 1971 y 1973 para <strong>integrarlo en el paisaje</strong>: la construcción se camufla en el acantilado y casi no se ve desde fuera. Dentro hay una <strong>cristalera panorámica</strong> de gran amplitud, sin marcos verticales, y una terraza superior.</p><div class="guide__legend"><h3>🏝️ Qué islas ves</h3><p>Al otro lado del estrecho de El Río se ven <strong>La Graciosa</strong>, <strong>Montaña Clara</strong>, <strong>Alegranza</strong> y los roques del Este y del Oeste, que forman el <strong>Archipiélago Chinijo</strong>. Con día claro, todas se distinguen.</p></div>
+
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Antes de mirador, batería militar</h2></div>
+<p>El escarpe donde está el mirador se llama <strong>Batería del Río</strong> porque, a finales del siglo XIX y principios del XX, el ejército español instaló aquí piezas de artillería para vigilar el estrecho de El Río, que separa Lanzarote de La Graciosa; hay constancia de una batería de costa en este punto ya en 1904. Décadas después, <strong>César Manrique</strong> convirtió un enclave militar en una de las obras más famosas de Lanzarote: entre 1971 y 1973 trabajó junto a los técnicos Eduardo Cáceres y Jesús Soto para integrar el edificio en el acantilado, de manera que casi no se ve desde fuera.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué vas a ver</h2><p>Una de las vistas más famosas de Lanzarote.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

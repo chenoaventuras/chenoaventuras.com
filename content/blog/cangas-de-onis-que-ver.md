@@ -20,6 +20,10 @@ actividades:
     u: "https://www.civitatis.com/es/arriondas/barranquismo-arriondas/"
 faqTitulo: "Dudas sobre Cangas de Onís"
 faq:
+  - q: "¿Cuánto tiempo fue capital Cangas de Onís?"
+    a: "Según varias fuentes, hasta el año 774, cuando la corte se trasladó a Pravia; después Oviedo se convertiría en la capital definitiva. Los historiadores recuerdan que la corte fue itinerante en los primeros tiempos."
+  - q: "¿De qué año es la capilla de la Santa Cruz?"
+    a: "Del siglo VIII: la tradición la sitúa entre 733 y 737, según la fuente. Se levantó sobre un dolmen, y la que se visita hoy es una reconstrucción de posguerra."
   - q: "¿Qué ver en Cangas de Onís?"
     a: "El puente «romano», la capilla de la Santa Cruz con el dolmen, el monasterio de San Pedro de Villanueva y el monumento a Pelayo."
   - q: "¿El puente de Cangas de Onís es romano?"
@@ -50,7 +54,10 @@ Te cuento qué ver, su historia y qué hacer alrededor 👇
 </div>
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Un puente que no es romano</h2></div>
-<p>El famoso <strong>puente «romano»</strong> sobre el Sella no lo es: se construyó en la <strong>Edad Media, en tiempos de Alfonso XI</strong>. Aun así es el símbolo de la villa y Monumento Histórico Artístico. De su arco central cuelga una réplica de la <strong>Cruz de la Victoria</strong>, el emblema de Asturias.</p><div class="guide__legend"><h3>⛪ Mi consejo</h3><p>Cruza el puente y sube a la <strong>capilla de la Santa Cruz</strong>: en su cripta está el dolmen. La iglesia se atribuye al año 733, aunque la actual es una reconstrucción de posguerra.</p></div>
+<p>El famoso <strong>puente «romano»</strong> sobre el Sella no lo es: se construyó en la <strong>Edad Media, en tiempos de Alfonso XI</strong>. Aun así es el símbolo de la villa y Monumento Histórico Artístico. De su arco central cuelga una réplica de la <strong>Cruz de la Victoria</strong>, el emblema de Asturias.</p><div class="guide__legend"><h3>⛪ Mi consejo</h3><p>Cruza el puente y sube a la <strong>capilla de la Santa Cruz</strong>: en su cripta está el dolmen. La iglesia se atribuye al siglo VIII (entre 733 y 737, según la fuente), aunque la actual es una reconstrucción de posguerra.</p></div>
+
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Dónde empezó el reino de Asturias</h2></div>
+<p>La tradición sitúa el origen del reino de Asturias en la revuelta de <strong>Pelayo</strong> (hacia 718), que culminó en la <strong>batalla de Covadonga</strong>, en 722. Pelayo estableció su pequeño núcleo de poder en Cánicas, la actual <strong>Cangas de Onís</strong>, que según varias fuentes fue capital del reino hasta el año <strong>774</strong>, cuando la corte pasó a Pravia y, más tarde, a Oviedo. Del siglo VIII se conserva una de las construcciones más antiguas de Asturias: la <strong>capilla de la Santa Cruz</strong>, levantada sobre un dolmen. Las fechas varían según la fuente (entre 733 y 737), y la capilla actual es una reconstrucción posterior a la guerra. El «puente romano», en cambio, es medieval, aunque puede asentarse sobre una estructura romana anterior.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Cangas de Onís</h2><p>Un paseo corto con mucha historia.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

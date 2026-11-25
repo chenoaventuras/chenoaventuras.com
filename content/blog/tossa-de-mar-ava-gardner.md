@@ -13,6 +13,12 @@ tags:
   - Cataluña
 wide: true
 faq:
+  - q: "¿Desde cuándo está protegida la Vila Vella de Tossa?"
+    a: "Desde 1931, cuando se declaró monumento histórico-artístico nacional; hoy es Bien Cultural de Interés Nacional. Las murallas y torres se levantaron entre los siglos XII y XIV, según las fuentes."
+  - q: "¿Cuánto tiempo hace falta para ver Tossa de Mar?"
+    a: "Con medio día basta para la Vila Vella, el mirador y la playa; si quieres sumar calas por el camino de ronda, cuenta con un día."
+  - q: "¿Es la única villa medieval amurallada de la costa catalana?"
+    a: "Según el organismo de turismo local, sí: es el único ejemplo de población medieval fortificada que se conserva en el litoral catalán."
   - q: "¿Qué película rodó Ava Gardner en Tossa?"
     a: "«Pandora y el holandés errante» (1951), rodada en 1950 con James Mason."
   - q: "¿Dónde está la estatua de Ava Gardner?"
@@ -63,6 +69,9 @@ Te cuento la historia y qué ver en su espectacular **Vila Vella** amurallada �
 
 <div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Ava Gardner y Tossa</h2></div>
 <p>En la película el pueblo se llamaba «Esperanza». El rodaje revolucionó Tossa: la actriz paseaba por sus calles y la prensa de medio mundo la siguió hasta aquí. Además, durante el rodaje vivió un romance con el torero Mario Cabré, que también actuaba en la película.</p><p>En <strong>1998</strong> el pueblo le dedicó una <strong>estatua de bronce</strong> en la Vila Vella, y desde entonces es la foto obligada.</p><div class="guide__legend"><h3>🎨 El «Paraíso azul»</h3><p>Antes que Ava, el pintor <strong>Marc Chagall</strong> veraneó aquí en 1933 y 1934 y llamó a Tossa el «Paraíso azul».</p></div><div class="guide__legend"><h3>🏰 La Vila Vella</h3><p>Es el recinto amurallado medieval mejor conservado de la costa catalana, con torres y murallas sobre el mar.</p></div>
+
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>La única villa medieval amurallada de la costa catalana</h2></div>
+<p>La <strong>Vila Vella</strong> de Tossa es, según el organismo de turismo local, el único ejemplo de población medieval fortificada que se conserva en el litoral catalán. Sus <strong>murallas y torres redondas</strong> se levantaron entre los siglos XII y XIV (las fuentes varían) para proteger a los vecinos de las incursiones de los piratas, y el recinto fue declarado <strong>monumento histórico-artístico nacional en 1931</strong>, hoy Bien Cultural de Interés Nacional. Dentro, las calles estrechas de piedra, la iglesia vieja y el faro sobre el cabo explican por qué pintores como Chagall se enamoraron de Tossa mucho antes de que llegara Ava Gardner.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Tossa de Mar</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

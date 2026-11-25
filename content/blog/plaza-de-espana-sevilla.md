@@ -14,8 +14,14 @@ tags:
 wide: true
 faqTitulo: "Dudas sobre la Plaza de España de Sevilla"
 faq:
+  - q: "¿Cuándo se construyó la Plaza de España de Sevilla?"
+    a: "Se levantó para la Exposición Iberoamericana de 1929. Las obras fueron largas y las fuentes no coinciden en el año de inicio (1914 o ya en los años veinte); Aníbal González dimitió en 1926 y el arquitecto Vicente Traver la terminó en 1928."
+  - q: "¿Cuánto tiempo hace falta para visitarla?"
+    a: "Con una hora basta para recorrer el semicírculo, los puentes y la galería. Si quieres remar en el canal y buscar el banco de tu provincia, cuenta con hora y media o dos."
+  - q: "¿Cobran entrada o no?"
+    a: "Hasta donde he podido comprobar (prensa de enero y febrero de 2026), el alcalde planteó cerrar el conjunto y cobrar a los turistas, pero no he encontrado una decisión oficial con precio y fecha, así que la entrada sigue siendo libre. Confírmalo en la web del Ayuntamiento de Sevilla antes de ir."
   - q: "¿Hay que pagar para entrar en la Plaza de España de Sevilla?"
-    a: "No, a día de hoy la entrada es gratuita. El Ayuntamiento ha planteado cobrar a los turistas en el futuro, así que conviene comprobarlo antes de ir."
+    a: "No: a día de hoy la entrada es gratuita. El Ayuntamiento ha planteado cobrar a los turistas (en 2026 se habló de cerrar el recinto y cobrar entrada), pero no hay una decisión oficial publicada con precio y fecha. Conviene comprobarlo en la web del Ayuntamiento antes de ir."
   - q: "¿Qué horario tiene la Plaza de España?"
     a: "Abre todos los días, normalmente de 8:00 a 22:00. Por la noche se cierra."
   - q: "¿Qué película de Star Wars se rodó en la Plaza de España?"
@@ -64,6 +70,10 @@ Te cuento sus curiosidades, qué no te puedes perder y lo que tienes que saber a
 
 <div class="guide__head"><span class="eyebrow">Un poco de historia</span><h2>Construida para una exposición</h2></div>
 <p>La plaza la diseñó el arquitecto sevillano <strong>Aníbal González</strong> para la <strong>Exposición Iberoamericana de 1929</strong>. Su forma de semicírculo es simbólica: representa a España «abrazando» a sus antiguos territorios de América, hacia donde mira, en dirección al río Guadalquivir.</p><div class="guide__legend"><h3>🎬 La plaza de Star Wars</h3><p>En <strong>«Star Wars: Episodio II – El ataque de los clones»</strong> (2002), la Plaza de España aparece como un palacio del planeta <strong>Naboo</strong>: Anakin y Padmé pasean por su galería. Antes ya había salido en <strong>«Lawrence de Arabia»</strong>, haciendo de cuartel británico en El Cairo.</p></div>
+
+<div class="guide__head"><span class="eyebrow">Cómo se hizo</span><h2>Una obra de años para la Exposición de 1929</h2></div>
+<p>Aníbal González proyectó la plaza para la <strong>Exposición Iberoamericana de 1929</strong>, la gran cita con la que Sevilla quiso mostrarse al mundo, y la concibió como el edificio estrella del certamen, de ladrillo visto, cerámica y hierro forjado. Las obras fueron largas y las fuentes no coinciden en cuándo empezaron (se citan 1914 y la década de 1920). Lo que sí consta es que González dimitió en <strong>1926</strong> sin verla terminada y que la acabó el arquitecto <strong>Vicente Traver</strong>, en <strong>1928</strong>. Es el mejor ejemplo del estilo <strong>regionalista</strong> que Aníbal González impulsó en la Sevilla de principios del siglo XX, y se nota en los detalles: cada azulejo y cada barandilla de cerámica forman parte del decorado.</p>
+<p>Tras casi un siglo de uso, el Ayuntamiento la sometió a una restauración integral entre <strong>2007 y 2010</strong> para recuperar la cerámica y las fachadas.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Las curiosidades de la Plaza de España</h2><p>Detalles en los que mucha gente ni se fija.</p></div>
 <ol class="guide__grid guide__grid--cuenca">

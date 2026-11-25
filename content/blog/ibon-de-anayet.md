@@ -18,6 +18,12 @@ guiaTitulo: 'Guía del Pirineo Aragonés en PDF'
 wide: true
 faqTitulo: "Dudas sobre el Ibón de Anayet"
 faq:
+  - q: "¿Por qué el pico Anayet es volcánico?"
+    a: "Porque sus rocas son andesitas y basaltos del Pérmico, de hace unos 250-300 millones de años, que ascendieron entre las capas sedimentarias. Es raro en el Pirineo, y comparte origen con el Midi d'Ossau."
+  - q: "¿Se puede subir al pico Anayet desde los ibones?"
+    a: "Sí, pero es una ruta aparte y más exigente: las rutas publicadas dan unas 5-6 horas y más de 1.000 m de desnivel positivo. Hay que ir con buen tiempo y experiencia en montaña."
+  - q: "¿Se puede aparcar siempre en el inicio?"
+    a: "Según rutas publicadas, el acceso en coche al aparcamiento de Anayet suele cerrarse cuando las pistas de esquí no funcionan. Si está cerrado, hay que dejar el coche antes y sumar algo de caminata."
   - q: "¿Cuánto se tarda en subir al Ibón de Anayet?"
     a: "Unas 2 horas y 15 minutos de subida desde el Corral de las Mulas, cerca de Formigal. Entre ida y vuelta, calcula de 4 a 5 horas."
   - q: "¿Qué desnivel tiene la ruta al Ibón de Anayet?"
@@ -83,6 +89,10 @@ La foto de portada es mía, dando saltos de alegría al llegar arriba (literalme
 <!--actividades-->
 
 <!--cuando-->
+<div class="guide__head"><span class="eyebrow">La geología</span><h2>Por qué el Anayet es un pico distinto</h2></div>
+<p>La mayor parte del Pirineo aragonés es de roca caliza o granito, pero el <strong>Anayet</strong> es de origen <strong>volcánico</strong>: sus rocas son andesitas y basaltos del <strong>Pérmico</strong>, de hace unos 250-300 millones de años, que se abrieron paso entre las capas sedimentarias. Por eso su forma de cuerno y su color oscuro contrastan con el entorno, y por eso se parece tanto al <strong>Midi d'Ossau</strong>, al otro lado de la frontera, que se formó de manera parecida. Las cifras de altitud del pico varían según la fuente (suele darse entre 2.545 y 2.574 m), y los de los ibones rondan los 2.200-2.230 m.</p>
+<div class="guide__legend"><h3>🏔️ ¿Y subir al pico?</h3><p>Llegar hasta el Anayet y el vértice es <strong>otra ruta</strong>, mucho más exigente: las rutas publicadas hablan de unas 5-6 horas, más de 1.000 m de desnivel positivo y terreno de alta montaña. Para el ibón no hace falta, y es la opción más razonable si es tu primera vez.</p></div>
+
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Mejor época y qué llevar</h2></div>
 <ul class="checklist" style="margin:0 0 1rem;"><li><strong>Época:</strong> de junio a octubre; antes puede haber nieve en los ibones.</li><li><strong>Qué llevar:</strong> botas, chubasquero y una capa de abrigo: en alta montaña el tiempo cambia rápido.</li><li><strong>Evita:</strong> salir tarde con tormentas de verano: en el Pirineo suelen caer por la tarde.</li></ul>
 

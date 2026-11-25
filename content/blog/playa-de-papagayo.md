@@ -19,6 +19,12 @@ actividades:
     u: "https://www.civitatis.com/es/playa-blanca/excursion-velero-playas-papagayo/"
 faqTitulo: "Dudas sobre Papagayo"
 faq:
+  - q: "¿Cómo se paga el acceso en coche?"
+    a: "Según varias guías, el pago es electrónico (tarjeta o móvil), no en efectivo, y los residentes en Lanzarote están exentos. No he encontrado la tarifa en una web oficial: confírmala con el Ayuntamiento de Yaiza."
+  - q: "¿Cuál es la cala más tranquila de Papagayo?"
+    a: "La Caleta del Congrio, en un extremo del sendero que une las cinco calas; la más concurrida es Papagayo."
+  - q: "¿Está en buen estado la pista de tierra?"
+    a: "A principios de 2026 el Ayuntamiento de Yaiza intervino en las pistas por los daños de los vehículos y las lluvias. Aun así, conduce despacio: es de tierra y con baches."
   - q: "¿Cuánto cuesta entrar a Papagayo?"
     a: "Según varias guías y la prensa local, unos 3 € por vehículo (los residentes en Lanzarote, exentos). A pie o en bici es gratuito. Confírmalo con el Ayuntamiento de Yaiza."
   - q: "¿Cómo se llega a Papagayo desde Playa Blanca?"
@@ -56,6 +62,9 @@ Cinco calas de **arena dorada y aguas turquesas** al sur de Lanzarote, dentro de
 </ol>
 
 <div class="guide__howto"><h3>🗺️ Si estás por la zona</h3><p>Si te gustan las playas salvajes, cruza en barco desde Órzola, en el norte de Lanzarote, a <a href="/blog/la-graciosa.html">La Graciosa</a>: su <a href="/blog/playa-de-las-conchas-la-graciosa.html">Playa de las Conchas</a> es de las más bonitas de Canarias.</p><p><strong>Por mar:</strong> a Papagayo también se llega en barco: hay <a href="https://www.civitatis.com/es/playa-blanca/kayak-snorkel-playa-papagayo/?aid=110968" target="_blank" rel="noopener sponsored">kayak y snorkel desde Playa Blanca</a> y <a href="https://www.civitatis.com/es/playa-blanca/excursion-velero-playas-papagayo/?aid=110968" target="_blank" rel="noopener sponsored">tours en velero por las playas de Papagayo</a>.</p></div>
+
+<div class="guide__head"><span class="eyebrow">Organízate</span><h2>Cómo evitar las masas en Papagayo</h2></div>
+<p>Papagayo es de las zonas más visitadas de Lanzarote, y a mediodía en temporada alta la cola de coches en la pista puede ser larga. Lo más sencillo es <strong>llegar pronto</strong> (el control de acceso suele abrir hacia las 9:00), quedarte en las calas del extremo, como la Caleta del Congrio, que son las más tranquilas, y comer antes o después en Playa Blanca, porque en la playa casi no hay servicios ni sombra. Si prefieres no conducir por la pista de tierra, que el Ayuntamiento de Yaiza ha reparado a principios de 2026 tras los daños por vehículos y lluvia, puedes llegar caminando o en barco-taxi desde Playa Blanca.</p>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>Se llega desde <strong>Playa Blanca</strong> (Yaiza), por una pista de tierra de unos 5 km hasta el primer aparcamiento. Hay un camino cómodo desde el parking hasta las calas.</p><p>Como alternativa, el barco-taxi o los veleros que salen de Playa Blanca llegan directamente, sin pista. Revisa horarios y precios.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Playa+de+Papagayo+Lanzarote" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>
