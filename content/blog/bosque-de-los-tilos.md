@@ -8,7 +8,7 @@ provincia: Santa Cruz de Tenerife
 lat: 28.7954
 lng: -17.7949
 excerpt: "Guía del Bosque de Los Tilos, en San Andrés y Sauces: laurisilva húmeda, cascada, Reserva de la Biosfera desde 1983, centro de visitantes, sendero autoguiado y cómo llegar."
-cover: /assets/img/blog/bosque-de-los-tilos/portada.jpg
+cover: /assets/img/blog/bosque-de-los-tilos/portada.webp
 tags:
   - Spots
   - Canarias
@@ -55,10 +55,10 @@ Te cuento cómo llegar, qué se ve, qué senderos hay y cómo combinarlo con el 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Los Tilos</h2></div>
 
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-los-tilos/carretera.jpg" alt="Carretera cubierta de vegetación hacia el Bosque de Los Tilos" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La carretera bajo el dosel</h3><p>La LP-105 entra en el barranco bajo un techo de ramas. Ya el trayecto merece la pena: conduce despacio, es estrecha y hay curvas cerradas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-los-tilos/puente.jpg" alt="Puente de Los Tilos sobre el Barranco del Agua" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El puente y el Barranco del Agua</h3><p>Antes de subir al bosque, el puente de Los Tilos cruza el barranco a gran altura. Es una buena parada para fotos del tajo verde.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-los-tilos/sendero.jpg" alt="Sendero con barandilla entre la roca y la vegetación en Los Tilos" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El sendero de la cascada</h3><p>Un camino con barandilla pegado a la roca y entre la vegetación lleva hasta la zona de la cascada. Es corto, pero resbala: ve con calma.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-los-tilos/barranco.jpg" alt="Barranco del Agua con terrazas de cultivo en San Andrés y Sauces" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Barranco del Agua</h3><p>Desde los miradores se ve el contraste entre el bosque cerrado y las laderas cultivadas, hasta el mar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-los-tilos/carretera.webp" alt="Carretera cubierta de vegetación hacia el Bosque de Los Tilos" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La carretera bajo el dosel</h3><p>La LP-105 entra en el barranco bajo un techo de ramas. Ya el trayecto merece la pena: conduce despacio, es estrecha y hay curvas cerradas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-los-tilos/puente.webp" alt="Puente de Los Tilos sobre el Barranco del Agua" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El puente y el Barranco del Agua</h3><p>Antes de subir al bosque, el puente de Los Tilos cruza el barranco a gran altura. Es una buena parada para fotos del tajo verde.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-los-tilos/sendero.webp" alt="Sendero con barandilla entre la roca y la vegetación en Los Tilos" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El sendero de la cascada</h3><p>Un camino con barandilla pegado a la roca y entre la vegetación lleva hasta la zona de la cascada. Es corto, pero resbala: ve con calma.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/bosque-de-los-tilos/barranco.webp" alt="Barranco del Agua con terrazas de cultivo en San Andrés y Sauces" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Barranco del Agua</h3><p>Desde los miradores se ve el contraste entre el bosque cerrado y las laderas cultivadas, hasta el mar.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Senderos</span><h2>Dónde caminar</h2></div>

@@ -8,7 +8,7 @@ provincia: Santa Cruz de Tenerife
 lat: 28.6397
 lng: -17.8624
 excerpt: "Guía de la Ruta de los Volcanes de La Palma (GR 131): de El Pilar a Fuencaliente por la cumbre, unos 17 km. Duración, desnivel, dificultad, qué llevar, cuándo ir y cómo volver."
-cover: /assets/img/blog/ruta-de-los-volcanes-la-palma/portada.jpg
+cover: /assets/img/blog/ruta-de-los-volcanes-la-palma/portada.webp
 tags:
   - Actividades
   - Canarias
@@ -60,9 +60,9 @@ Te cuento cómo es, cuánto se tarda, qué llevar y cómo organizar la vuelta �
 <ol class="guide__grid guide__grid--cuenca">
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-los-volcanes-la-palma/refugio.jpg" alt="Refugio de El Pilar en La Palma" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El Refugio de El Pilar</h3><p>El punto de salida, en un pinar a unos 1.400 metros de altura. Aquí hay un área recreativa y se ve el cartel de la ruta.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-los-volcanes-la-palma/cono.jpg" alt="Cono volcánico con retamas amarillas en la Ruta de los Volcanes" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Conos y retamas</h3><p>El camino de ceniza sube y baja entre conos. En primavera, las retamas llenan de amarillo las laderas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-los-volcanes-la-palma/hoyo-negro.jpg" alt="Cráter del Hoyo Negro en la Ruta de los Volcanes" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Hoyo Negro</h3><p>Uno de los cráteres de la erupción de 1949, de paredes casi verticales. Se contempla desde el borde, sin entrar.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-los-volcanes-la-palma/deseada.jpg" alt="Volcán Deseada visto desde la Ruta de los Volcanes" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Deseada</h3><p>Otro de los conos de la cumbre, con el pinar al fondo, antes de iniciar la larga bajada hacia Fuencaliente.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-los-volcanes-la-palma/mar-de-nubes.jpg" alt="Mar de nubes visto desde la Ruta de los Volcanes" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El mar de nubes</h3><p>Muchos días, las nubes se quedan abajo y el camino queda por encima. Con suerte asoma el Teide en el horizonte.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-los-volcanes-la-palma/hoyo-negro.webp" alt="Cráter del Hoyo Negro en la Ruta de los Volcanes" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El Hoyo Negro</h3><p>Uno de los cráteres de la erupción de 1949, de paredes casi verticales. Se contempla desde el borde, sin entrar.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-los-volcanes-la-palma/deseada.webp" alt="Volcán Deseada visto desde la Ruta de los Volcanes" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La Deseada</h3><p>Otro de los conos de la cumbre, con el pinar al fondo, antes de iniciar la larga bajada hacia Fuencaliente.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/ruta-de-los-volcanes-la-palma/mar-de-nubes.webp" alt="Mar de nubes visto desde la Ruta de los Volcanes" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El mar de nubes</h3><p>Muchos días, las nubes se quedan abajo y el camino queda por encima. Con suerte asoma el Teide en el horizonte.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Prepárala</span><h2>Cómo organizarla</h2></div>

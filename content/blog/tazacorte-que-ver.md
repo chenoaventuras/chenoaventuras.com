@@ -8,7 +8,7 @@ provincia: Santa Cruz de Tenerife
 lat: 28.6516
 lng: -17.9459
 excerpt: "Qué ver en Tazacorte (La Palma): playa de arena negra, puerto, Plaza de España y su pérgola, plataneras, mirador del Time y excursiones en barco para ver ballenas y delfines."
-cover: /assets/img/blog/tazacorte-que-ver/portada.jpg
+cover: /assets/img/blog/tazacorte-que-ver/portada.webp
 tags:
   - Pueblos
   - Canarias
@@ -62,10 +62,10 @@ Te cuento qué ver, qué hacer en el puerto y cómo combinarlo con el mirador de
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Tazacorte</h2></div>
 
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tazacorte-que-ver/pergola.jpg" alt="Pérgola de buganvilla en la Plaza de España de Tazacorte" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Plaza de España</h3><p>Su pérgola cubierta de buganvilla, con bancos de azulejos, es la imagen más típica del pueblo. En primavera, llena de color.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tazacorte-que-ver/iglesia.jpg" alt="Iglesia de San Miguel Arcángel en Tazacorte" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La iglesia de San Miguel</h3><p>Blanca, con campanario de espadaña, preside la plaza. Dentro conserva un retablo dorado.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tazacorte-que-ver/platanos.jpg" alt="Plataneras y mar en Tazacorte" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las plataneras</h3><p>El paisaje que rodea el pueblo: terrazas de plataneras hasta el acantilado y el mar al fondo.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tazacorte-que-ver/playa.jpg" alt="Playa de Tazacorte de arena negra" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La playa de Tazacorte</h3><p>Arena negra junto al puerto y el paseo marítimo, con terrazas para comer pescado.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tazacorte-que-ver/pergola.webp" alt="Pérgola de buganvilla en la Plaza de España de Tazacorte" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La Plaza de España</h3><p>Su pérgola cubierta de buganvilla, con bancos de azulejos, es la imagen más típica del pueblo. En primavera, llena de color.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tazacorte-que-ver/iglesia.webp" alt="Iglesia de San Miguel Arcángel en Tazacorte" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>La iglesia de San Miguel</h3><p>Blanca, con campanario de espadaña, preside la plaza. Dentro conserva un retablo dorado.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tazacorte-que-ver/platanos.webp" alt="Plataneras y mar en Tazacorte" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Las plataneras</h3><p>El paisaje que rodea el pueblo: terrazas de plataneras hasta el acantilado y el mar al fondo.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tazacorte-que-ver/playa.webp" alt="Playa de Tazacorte de arena negra" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La playa de Tazacorte</h3><p>Arena negra junto al puerto y el paseo marítimo, con terrazas para comer pescado.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/tazacorte-que-ver/time.jpg" alt="Vistas de Tazacorte desde el mirador del Time" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>El mirador del Time</h3><p>Desde lo alto del acantilado, el valle de Aridane, el puerto y el mar a tus pies.</p></div></li>
 </ol>
 

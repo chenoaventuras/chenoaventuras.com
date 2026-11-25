@@ -8,7 +8,7 @@ provincia: Santa Cruz de Tenerife
 lat: 28.4541
 lng: -17.841
 excerpt: "Guía de las Salinas de Fuencaliente y sus dos faros, en la punta sur de La Palma: historia, faro viejo y nuevo, centro de interpretación, cómo llegar y planes cercanos."
-cover: /assets/img/blog/salinas-y-faros-de-fuencaliente/portada.jpg
+cover: /assets/img/blog/salinas-y-faros-de-fuencaliente/portada.webp
 tags:
   - Spots
   - Canarias
@@ -62,10 +62,10 @@ Te cuento su historia, qué ver, cómo llegar y qué más hacer en la zona 👇
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en las salinas y los faros</h2></div>
 
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salinas-y-faros-de-fuencaliente/salinas.jpg" alt="Estanques rosados de las Salinas de Fuencaliente" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Los estanques</h3><p>Cuadrículas de piedra negra rellenas de agua que va del verde al rosa y al blanco, según la cantidad de sal. Se pasea por los caminos que las rodean.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salinas-y-faros-de-fuencaliente/naranja.jpg" alt="Estanques de color naranja en las salinas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El color de la sal</h3><p>Al evaporarse, el agua cambia de color por la concentración de sal y de algas diminutas, hasta dejar montones de sal blanca.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salinas-y-faros-de-fuencaliente/faros.jpg" alt="Faro viejo y faro nuevo de Fuencaliente junto a las salinas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los dos faros</h3><p>El nuevo, rojiblanco, y el viejo, restaurado, comparten la punta. Desde ahí se ve la costa de lava hasta el Teneguía.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salinas-y-faros-de-fuencaliente/restaurante.jpg" alt="Salinas, restaurante y faro de Punta de Fuencaliente" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El mirador y el restaurante</h3><p>Junto a las salinas hay terraza y restaurante para comer con vistas, y una pequeña tienda donde comprar sal artesanal.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salinas-y-faros-de-fuencaliente/salinas.webp" alt="Estanques rosados de las Salinas de Fuencaliente" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>Los estanques</h3><p>Cuadrículas de piedra negra rellenas de agua que va del verde al rosa y al blanco, según la cantidad de sal. Se pasea por los caminos que las rodean.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salinas-y-faros-de-fuencaliente/naranja.webp" alt="Estanques de color naranja en las salinas" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El color de la sal</h3><p>Al evaporarse, el agua cambia de color por la concentración de sal y de algas diminutas, hasta dejar montones de sal blanca.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salinas-y-faros-de-fuencaliente/faros.webp" alt="Faro viejo y faro nuevo de Fuencaliente junto a las salinas" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Los dos faros</h3><p>El nuevo, rojiblanco, y el viejo, restaurado, comparten la punta. Desde ahí se ve la costa de lava hasta el Teneguía.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/salinas-y-faros-de-fuencaliente/restaurante.webp" alt="Salinas, restaurante y faro de Punta de Fuencaliente" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El mirador y el restaurante</h3><p>Junto a las salinas hay terraza y restaurante para comer con vistas, y una pequeña tienda donde comprar sal artesanal.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Más cerca</span><h2>Qué hacer por la zona</h2></div>

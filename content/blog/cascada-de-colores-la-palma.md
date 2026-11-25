@@ -8,7 +8,7 @@ provincia: Santa Cruz de Tenerife
 lat: 28.704
 lng: -17.904
 excerpt: "Guía de la ruta a la Cascada de Colores, en la Caldera de Taburiente (La Palma): por el barranco de las Angustias, duración, dificultad, crecidas, qué llevar y cómo comprobar si está abierta."
-cover: /assets/img/blog/cascada-de-colores-la-palma/portada.jpg
+cover: /assets/img/blog/cascada-de-colores-la-palma/portada.webp
 tags:
   - Actividades
   - Canarias
@@ -58,7 +58,7 @@ Te cuento cómo es la ruta, cuánto dura, qué riesgos tiene y cómo saber si es
 <div class="guide__head"><span class="eyebrow">La ruta</span><h2>Cómo es el camino</h2></div>
 
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-colores-la-palma/barranco.jpg" alt="Cauce del barranco de las Angustias con paredes de roca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El barranco de las Angustias</h3><p>El camino remonta el cauce de este barranco, entre paredes de roca que se estrechan poco a poco. Es llano, pero con piedras sueltas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-colores-la-palma/barranco.webp" alt="Cauce del barranco de las Angustias con paredes de roca" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El barranco de las Angustias</h3><p>El camino remonta el cauce de este barranco, entre paredes de roca que se estrechan poco a poco. Es llano, pero con piedras sueltas.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-colores-la-palma/cruce.jpg" alt="Excursionista vadeando el arroyo en el barranco de las Angustias" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Los vadeos</h3><p>El arroyo se cruza varias veces, a veces saltando de piedra en piedra y otras mojándote los pies. Con calzado adecuado es parte de la gracia.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-colores-la-palma/arroyo.jpg" alt="Arroyo de color rojizo bajo la Cascada de Colores" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El arroyo rojizo</h3><p>Cerca de la cascada, el cauce se tiñe de naranja por los minerales del agua. Un aviso de que ya estás llegando.</p></div></li>
 <li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/cascada-de-colores-la-palma/cascada.jpg" alt="Cascada de Colores en la Caldera de Taburiente" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>La cascada</h3><p>Un hilo de agua cae por una pared naranja, verde y amarilla. Hay que mirarla de lejos y sin pisar la zona húmeda.</p></div></li>

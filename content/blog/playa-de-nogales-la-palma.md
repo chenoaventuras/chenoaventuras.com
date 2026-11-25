@@ -8,7 +8,7 @@ provincia: Santa Cruz de Tenerife
 lat: 28.7599
 lng: -17.7405
 excerpt: "Guía de la playa de Nogales, en Puntallana (La Palma): arena negra bajo un acantilado verde, cómo llegar a pie, riesgos del baño y cierres por desprendimientos, y qué ver cerca."
-cover: /assets/img/blog/playa-de-nogales-la-palma/portada.jpg
+cover: /assets/img/blog/playa-de-nogales-la-palma/portada.webp
 tags:
   - Spots
   - Canarias
@@ -55,10 +55,10 @@ Te cuento cómo llegar, qué riesgos tiene y qué ver por la zona 👇
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Nogales y alrededores</h2></div>
 
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-nogales-la-palma/oleaje.jpg" alt="Olas rompiendo en la playa de arena negra de Nogales" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El oleaje</h3><p>Las olas llegan largas y potentes hasta la orilla. Es el espectáculo de la playa, y también su peligro.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-nogales-la-palma/rocas.jpg" alt="Playa de Nogales con rocas rojizas y arena negra" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Rocas rojas y arena negra</h3><p>El contraste de colores: arena negra, rocas rojizas de origen volcánico y la pared verde del acantilado.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-nogales-la-palma/aviso.jpg" alt="Cartel de peligro en la playa de Nogales" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El cartel de aviso</h3><p>Antes de bajar, lee el cartel. Si hay oleaje, quédate cerca de la orilla y no te metas más allá de las rodillas.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-nogales-la-palma/cubo.jpg" alt="Cubo de La Galga en Puntallana" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Cubo de La Galga</h3><p>A pocos kilómetros, un barranco de laurisilva con paredes tapizadas de musgo y helechos, muy distinto al paisaje de la playa.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-nogales-la-palma/oleaje.webp" alt="Olas rompiendo en la playa de arena negra de Nogales" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>El oleaje</h3><p>Las olas llegan largas y potentes hasta la orilla. Es el espectáculo de la playa, y también su peligro.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-nogales-la-palma/rocas.webp" alt="Playa de Nogales con rocas rojizas y arena negra" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>Rocas rojas y arena negra</h3><p>El contraste de colores: arena negra, rocas rojizas de origen volcánico y la pared verde del acantilado.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-nogales-la-palma/aviso.webp" alt="Cartel de peligro en la playa de Nogales" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>El cartel de aviso</h3><p>Antes de bajar, lee el cartel. Si hay oleaje, quédate cerca de la orilla y no te metas más allá de las rodillas.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/playa-de-nogales-la-palma/cubo.webp" alt="Cubo de La Galga en Puntallana" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El Cubo de La Galga</h3><p>A pocos kilómetros, un barranco de laurisilva con paredes tapizadas de musgo y helechos, muy distinto al paisaje de la playa.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Seguridad</span><h2>Cuidado con el baño y con el acantilado</h2></div>

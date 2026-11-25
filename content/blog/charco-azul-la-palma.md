@@ -8,7 +8,7 @@ provincia: Santa Cruz de Tenerife
 lat: 28.8079
 lng: -17.7616
 excerpt: "Guía del Charco Azul, las piscinas naturales de San Andrés y Sauces (La Palma): cómo llegar, normas del recinto, cuándo bañarse con seguridad y qué ver cerca."
-cover: /assets/img/blog/charco-azul-la-palma/portada.jpg
+cover: /assets/img/blog/charco-azul-la-palma/portada.webp
 tags:
   - Spots
   - Canarias
@@ -55,11 +55,11 @@ Te cuento cómo llegar, cuándo bañarte con seguridad y qué ver por los alrede
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en el Charco Azul y alrededores</h2></div>
 
 <ol class="guide__grid guide__grid--cuenca">
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/piscina.jpg" alt="Piscina natural del Charco Azul con el mar al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La piscina principal</h3><p>Un recinto de roca con escalones y un muro bajo que deja pasar el oleaje. Con el mar en calma es una piscina tranquila; con oleaje, un espectáculo desde fuera.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/arco.jpg" alt="Arco de roca y escaleras del Charco Azul" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El arco de roca</h3><p>El mar ha perforado la roca volcánica y ha dejado un arco junto a las escaleras. Ideal para fotos, pero con las olas, mantente a distancia.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/puerto.jpg" alt="Playa de arena negra de Puerto Espíndola" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Puerto Espíndola</h3><p>A pocos minutos, el pequeño puerto y su playa de arena negra, con las olas rompiendo y el pueblo colgado de la ladera.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/carteles.jpg" alt="Cartel de normas y piscinas del Charco Azul" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El cartel de normas</h3><p>Antes de bajar, lee el cartel: recoge normas (sin alcohol, comida, perros ni música) y avisos para cuando el mar está peligroso.</p></div></li>
-<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/platanos.jpg" alt="Plataneras junto al Charco Azul en San Andrés y Sauces" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las plataneras</h3><p>El paisaje de la zona: plataneras en terrazas sobre el acantilado. En La Palma el plátano es parte de la identidad de la isla.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/piscina.webp" alt="Piscina natural del Charco Azul con el mar al fondo" loading="lazy" decoding="async" /><span class="gcard__n">01</span></div><div class="gcard__body"><h3>La piscina principal</h3><p>Un recinto de roca con escalones y un muro bajo que deja pasar el oleaje. Con el mar en calma es una piscina tranquila; con oleaje, un espectáculo desde fuera.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/arco.webp" alt="Arco de roca y escaleras del Charco Azul" loading="lazy" decoding="async" /><span class="gcard__n">02</span></div><div class="gcard__body"><h3>El arco de roca</h3><p>El mar ha perforado la roca volcánica y ha dejado un arco junto a las escaleras. Ideal para fotos, pero con las olas, mantente a distancia.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/puerto.webp" alt="Playa de arena negra de Puerto Espíndola" loading="lazy" decoding="async" /><span class="gcard__n">03</span></div><div class="gcard__body"><h3>Puerto Espíndola</h3><p>A pocos minutos, el pequeño puerto y su playa de arena negra, con las olas rompiendo y el pueblo colgado de la ladera.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/carteles.webp" alt="Cartel de normas y piscinas del Charco Azul" loading="lazy" decoding="async" /><span class="gcard__n">04</span></div><div class="gcard__body"><h3>El cartel de normas</h3><p>Antes de bajar, lee el cartel: recoge normas (sin alcohol, comida, perros ni música) y avisos para cuando el mar está peligroso.</p></div></li>
+<li class="gcard reveal"><div class="gcard__media"><img src="/assets/img/blog/charco-azul-la-palma/platanos.webp" alt="Plataneras junto al Charco Azul en San Andrés y Sauces" loading="lazy" decoding="async" /><span class="gcard__n">05</span></div><div class="gcard__body"><h3>Las plataneras</h3><p>El paisaje de la zona: plataneras en terrazas sobre el acantilado. En La Palma el plátano es parte de la identidad de la isla.</p></div></li>
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Cuándo ir</span><h2>Cuándo bañarte (y cuándo no)</h2></div>
