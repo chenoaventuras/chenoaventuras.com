@@ -25,7 +25,7 @@ actividadesTitulo: 'Planes en la nieve y en Granada'
 faqTitulo: "Dudas sobre Sierra Nevada"
 faq:
   - q: "¿Cuándo abre Sierra Nevada en la temporada 2026-2027?"
-    a: "La apertura está prevista para el sábado 28 de noviembre de 2026, siempre que haya nieve suficiente. La temporada suele alargarse hasta principios de mayo. Confirma la fecha en la web oficial, sierranevada.es."
+    a: "La apertura está prevista para el sábado 28 de noviembre de 2026, siempre que haya nieve suficiente. El cierre previsto es el 18 de abril de 2027, aunque otros años se ha alargado hasta mayo. Confirma la fecha en la web oficial, sierranevada.es."
   - q: "¿Cuánto cuesta el forfait de un día en Sierra Nevada?"
     a: "El forfait de día de adulto cuesta aproximadamente entre 50 y 70 €: es más barato entre semana en temporada baja y más caro en puentes, Navidad y fines de semana. Comprarlo online con antelación suele salir algo mejor."
   - q: "¿Se puede ir a Sierra Nevada sin esquiar?"
@@ -50,7 +50,7 @@ Te cuento cuándo abre esta temporada, cuánto cuesta, cómo llegar y qué hacer
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Temporada 2026-2027: fechas y precios</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>📅 Apertura</h3><p>Prevista para el <strong>sábado 28 de noviembre de 2026</strong>, si hay nieve. La temporada suele durar hasta <strong>principios de mayo</strong>.</p></div>
+<div class="guide__tip"><h3>📅 Apertura</h3><p>Prevista para el <strong>sábado 28 de noviembre de 2026</strong>, si hay nieve. El cierre previsto es el <strong>18 de abril de 2027</strong> (otros años se ha alargado hasta mayo). Mira las <a href="/blog/apertura-estaciones-esqui-2026.html">fechas de apertura de todas las estaciones</a>.</p></div>
 <div class="guide__tip"><h3>🎟️ Forfait</h3><p>El de un día cuesta <strong>aproximadamente entre 50 y 70 €</strong> para adultos, según la fecha. En puentes y Navidad es más caro: cómpralo online con antelación.</p></div>
 <div class="guide__tip"><h3>📆 Cuándo ir</h3><p>Entre semana y en <strong>enero y marzo</strong> hay menos gente. Los días más llenos son el <strong>puente de diciembre</strong>, Navidad y los fines de semana de febrero.</p></div>
 </div>

@@ -67,7 +67,7 @@ Te dejo **siete rutas del Pirineo de Huesca**, de la más sencilla a las de nive
 
 <!--actividades-->
 
-<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Un fin de semana de raquetas</h2><ul><li><b>Sábado por la mañana</b>: salida guiada con raquetas por el Valle de Tena.</li><li><b>Sábado por la tarde</b>: baño termal en el Balneario de Panticosa o paseo por el pueblo de Panticosa.</li><li><b>Domingo</b>: ruta corta por tu cuenta, al ibón de Piedrafita o en Canfranc.</li><li><b>Antes de volver</b>: la estación de Canfranc y Jaca. Más ideas en mi guía del <a href="/blog/pirineo-aragones-que-ver.html">Pirineo aragonés</a>.</li></ul></div>
+<div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Un fin de semana de raquetas</h2><ul><li><b>Sábado por la mañana</b>: salida guiada con raquetas por el Valle de Tena.</li><li><b>Sábado por la tarde</b>: baño termal en el Balneario de Panticosa o paseo por el pueblo de Panticosa.</li><li><b>Domingo</b>: ruta corta por tu cuenta, al ibón de Piedrafita o en Canfranc.</li><li><b>Antes de volver</b>: la estación de Canfranc y Jaca. Más ideas en mi guía del <a href="/blog/pirineo-aragones-que-ver.html">Pirineo aragonés</a>.</li><li><b>¿Cuándo abren las pistas?</b> Mira las <a href="/blog/apertura-estaciones-esqui-2026.html">fechas de apertura de todas las estaciones</a>.</li></ul></div>
 
 <!--faq-->
 

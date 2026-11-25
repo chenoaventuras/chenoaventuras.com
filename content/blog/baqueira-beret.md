@@ -44,7 +44,7 @@ Te cuento las fechas de esta temporada, cuánto cuesta y cómo organizarte 👇
 
 <div class="guide__head"><span class="eyebrow">Antes de ir</span><h2>Temporada 2026-2027</h2></div>
 <div class="guide__tips">
-<div class="guide__tip"><h3>📅 Fechas</h3><p>Apertura prevista el <strong>28 de noviembre de 2026</strong> y cierre el <strong>4 de abril de 2027</strong>, si la nieve lo permite.</p></div>
+<div class="guide__tip"><h3>📅 Fechas</h3><p>Apertura prevista el <strong>28 de noviembre de 2026</strong> y cierre el <strong>4 de abril de 2027</strong>, si la nieve lo permite. Mira las <a href="/blog/apertura-estaciones-esqui-2026.html">fechas de apertura de todas las estaciones</a>.</p></div>
 <div class="guide__tip"><h3>🎟️ Forfait</h3><ul class="guide__prices"><li><span>Día (adulto)</span><b>71,50 €</b></li><li><span>Fin de semana (por día)</span><b>66,50 €</b></li><li><span>Temporada (adulto)</span><b>1.400 €</b></li></ul></div>
 <div class="guide__tip"><h3>🅿️ Novedad</h3><p>El aparcamiento de la <strong>cota 1500</strong> pasa a ser de pago (hasta unos 12 € al día), y hay un <strong>telesilla nuevo</strong> en la cota 1800.</p></div>
 </div>
