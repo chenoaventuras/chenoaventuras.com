@@ -36,13 +36,13 @@ faq:
   - q: "¿Qué pueblo representa a cada comunidad en Ferrero Rocher 2026?"
     a: "Andalucía: Cazorla (Jaén). Aragón: Albarracín (Teruel). Asturias: Llanes. Baleares: Muro (Mallorca). Canarias: Villa de Mazo (La Palma). Cantabria: Potes. Castilla-La Mancha: Almagro (Ciudad Real). Castilla y León: Ciudad Rodrigo (Salamanca). Cataluña: Montblanc (Tarragona). Comunidad Valenciana: Bocairent (Valencia). Extremadura: Olivenza (Badajoz). Galicia: Betanzos (A Coruña). Madrid: Los Molinos. Murcia: Cehegín. Navarra: Estella-Lizarra. País Vasco: Urduña/Orduña (Bizkaia). La Rioja: Alfaro."
   - q: "¿Quiénes son los finalistas de Ferrero Rocher 2026?"
-    a: "Todavía no se conocen. A 24 de noviembre, la web oficial muestra que está contando los votos de la fase de los 17 pueblos. El 30 de noviembre empieza la fase de los 5 semifinalistas y el 7 de diciembre la de los 2 finalistas. Actualizaré este post en cuanto salgan."
+    a: "Todavía no se conocen. A 24 de noviembre, la web oficial muestra que está contando los votos de la fase de los 17 pueblos. Según me han confirmado desde Ferrero Rocher, se darán a conocer el miércoles 2 de diciembre, en directo y con Jesús Vázquez como presentador. La web oficial marca el 30 de noviembre como inicio de esa fase y el 7 de diciembre el de los 2 finalistas. Actualizaré este post en cuanto salgan."
   - q: "¿Hasta cuándo se puede votar?"
-    a: "Ahora mismo no: a 24 de noviembre, la web oficial muestra el aviso «Estamos contando los votos de esta fase». La votación entre los 17 pueblos empezó el 9 de noviembre y la siguiente, entre los 5 semifinalistas, se abre el 30 de noviembre. Cada fase tiene su propia votación."
+    a: "Ahora mismo no: a 24 de noviembre, la web oficial muestra el aviso «Estamos contando los votos de esta fase». La votación entre los 17 pueblos empezó el 9 de noviembre y la siguiente, entre los 5 pueblos que pasan a la tercera fase, empieza según la web oficial el 30 de noviembre (esos 5 se darán a conocer el 2 de diciembre, en directo). Cada fase tiene su propia votación."
   - q: "¿Qué pueblos compiten en Ferrero Rocher 2026?"
     a: "Tras la primera votación quedan 17, uno por comunidad: Cazorla, Albarracín, Llanes, Potes, Almagro, Ciudad Rodrigo, Montblanc, Los Molinos, Bocairent, Olivenza, Betanzos, Muro, Villa de Mazo, Alfaro, Estella-Lizarra, Urduña/Orduña y Cehegín."
   - q: "¿Cuándo se sabe el ganador del concurso de Ferrero Rocher 2026?"
-    a: "El 30 de noviembre se anuncian los 5 semifinalistas, el 7 de diciembre los 2 finalistas y el 14 de diciembre el ganador. La iluminación del pueblo ganador se enciende el 16 de diciembre."
+    a: "El miércoles 2 de diciembre se dan a conocer, en directo y con Jesús Vázquez, los 5 pueblos que pasan a la tercera fase; el 7 de diciembre se conocen los 2 finalistas y el 14 de diciembre el ganador. La iluminación del pueblo ganador se enciende el 16 de diciembre."
   - q: "¿Cómo se vota al pueblo de Ferrero Rocher?"
     a: "En la web oficial de la campaña «Juntos brillamos más» de Ferrero Rocher: eliges comunidad y pueblo, confirmas que eres mayor de 18 años, aceptas las bases y pulsas «Vota». No hace falta registrarse para votar."
   - q: "¿Cuántas veces se puede votar al pueblo de Ferrero Rocher?"
@@ -58,7 +58,7 @@ faq:
 ---
 Cada Navidad, **Ferrero Rocher** elige un pueblo de España para llenarlo de luces con su campaña **«Juntos Brillamos Más»**. En 2026 empezaron **34 candidatos**, dos por comunidad autónoma, y tras la primera votación quedan **17**. El ganador se conoce el **14 de diciembre** y su iluminación se enciende el **16**.
 
-<div class="article__callout">🗳️ <strong>Cómo va el concurso:</strong> la web oficial de Ferrero Rocher muestra ahora el aviso «<em>Estamos contando los votos de esta fase</em>»: ahora mismo no se puede votar. Los <strong>5 semifinalistas</strong> se conocen con el arranque de la siguiente fase, el <strong>30 de noviembre</strong>. Ferrero no publica cómo va el recuento. <em>Actualizado el 24 de noviembre de 2026.</em></div>
+<div class="article__callout">🗳️ <strong>Cómo va el concurso:</strong> la web oficial de Ferrero Rocher muestra ahora el aviso «<em>Estamos contando los votos de esta fase</em>»: ahora mismo no se puede votar. Los <strong>5 pueblos que pasan a la tercera fase</strong> se darán a conocer el <strong>miércoles 2 de diciembre, en directo</strong>, con <strong>Jesús Vázquez</strong> como presentador, según me han confirmado desde Ferrero Rocher (la web oficial marca el 30 de noviembre como inicio de esa fase). Ferrero no publica cómo va el recuento. <em>Actualizado el 25 de noviembre de 2026.</em></div>
 
 Los 17 candidatos tienen su guía en el blog. Te cuento el calendario, cómo votar y qué ver en cada uno, gane quien gane 👇
 
@@ -69,7 +69,7 @@ Los 17 candidatos tienen su guía en el blog. Te cuento el calendario, cómo vot
 <ol class="guide__timeline">
 <li><b>8 nov</b><span>Primera votación: de 34 a 17 pueblos</span></li>
 <li><b>9-30 nov</b><span>Segunda votación entre los 17 (ya cerrada, en recuento)</span></li>
-<li><b>30 nov</b><span>Se anuncian los 5 semifinalistas</span></li>
+<li><b>2 dic</b><span>Gala en directo con Jesús Vázquez: se dan a conocer los 5 pueblos de la tercera fase</span></li>
 <li><b>7 dic</b><span>Se anuncian los 2 finalistas</span></li>
 <li><b>14 dic</b><span>Ganador</span></li>
 <li><b>16 dic</b><span>Encendido de las luces</span></li>
