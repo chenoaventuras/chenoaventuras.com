@@ -19,6 +19,8 @@ actividades:
     u: "https://www.civitatis.com/es/pamplona/excursion-valle-baztan/"
 faqTitulo: "Dudas sobre la Selva de Irati"
 faq:
+  - q: "¿Qué tamaño tiene la Selva de Irati?"
+    a: "Unas 17.000 hectáreas, repartidas entre los valles de Aezkoa y Salazar, en Navarra, y con una parte en el lado francés. Es uno de los mayores hayedo-abetales de Europa."
   - q: "¿Cuándo es mejor ir a la Selva de Irati?"
     a: "En otoño, de mediados de octubre a principios de noviembre, cuando las hayas cambian de color. Primavera también es muy bonita."
   - q: "¿Hay que pagar para entrar en la Selva de Irati?"
@@ -54,6 +56,9 @@ Te cuento cómo llegar, qué rutas hacer y cómo evitar las colas de coches 👇
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>El bosque de las brujas</h2></div>
 <p>Irati es un enorme <strong>hayedo-abetal</strong> de unas 17.000 hectáreas, de los mayores de Europa. Durante siglos se usó su madera para construir barcos para la Armada, y en Orbaizeta aún quedan las ruinas de una antigua fábrica de armas que aprovechaba sus recursos.</p><div class="guide__legend"><h3>🧙 Mitología vasca</h3><p>En la tradición vasca, los bosques como Irati son hogar de <strong>Basajaun</strong>, el señor del bosque, un gigante peludo que protege los rebaños, y de las <strong>lamias</strong>, que peinan sus cabellos junto a los ríos. Cuando la niebla se mete entre las hayas, cuesta no creérselo.</p></div>
+
+<div class="guide__head"><span class="eyebrow">El bosque</span><h2>Irati en cifras y por qué es tan especial</h2></div>
+<p>Irati ocupa unas <strong>17.000 hectáreas</strong> repartidas entre los valles navarros de <strong>Aezkoa</strong> y <strong>Salazar</strong>, y se prolonga por el lado francés. Es uno de los mayores hayedo-abetales de Europa: según varias guías, solo la Selva Negra alemana es más extensa. Sus hayas y abetos son el resultado de siglos de gestión: de aquí salieron durante generaciones troncos para barcos y para las fábricas de Orbaizeta, y hoy buena parte del bosque está protegido. Por eso se conserva tan denso, con árboles viejos, musgo y mucha humedad.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en la Selva de Irati</h2></div>
 <ol class="guide__grid guide__grid--cuenca">

@@ -86,6 +86,8 @@ Te cuento cómo es la ruta clásica (con el truco del taxi), la Cascada de Color
 
 <p>Te cuento el resto de la isla en <a href="/blog/que-hacer-en-la-palma.html">qué hacer en La Palma</a>, y la historia de su última erupción en <a href="/blog/volcan-tajogaite-la-palma.html">el volcán Tajogaite</a>. Si te gustan los paisajes volcánicos, en Tenerife te espera el <a href="/blog/teide.html">Teide</a>.</p>
 
+<p>Si prefieres otra forma de conocer el fondo de la Caldera, tienes la ruta por el barranco hasta la <a href="/blog/cascada-de-colores-la-palma.html">Cascada de Colores</a>. Y para completar la isla: el <a href="/blog/bosque-de-los-tilos.html">Bosque de Los Tilos</a>, <a href="/blog/tazacorte-que-ver.html">Tazacorte</a> y la <a href="/blog/ruta-de-los-volcanes-la-palma.html">Ruta de los Volcanes</a>.</p>
+
 <div class="guide__plan"><span class="eyebrow" style="color:var(--gold-soft)">Consejos de Cheno</span><h2>Para disfrutarlo al máximo</h2><ul><li><b>Reserva el taxi a Los Brecitos</b>: en temporada alta se llenan los primeros viajes.</li><li><b>Empieza pronto</b>: tendrás luz de sobra y menos calor en el barranco.</li><li><b>Mira el tiempo</b>: con lluvia, la ruta del barranco no se hace.</li><li><b>Sube al Roque al atardecer</b>: el mar de nubes y la luz sobre la Caldera son increíbles.</li><li><b>No te bañes en las pozas</b> ni bebas del arroyo sin tratar el agua.</li></ul></div>
 
 <div class="guide__cta"><h2>¿Te gustan estos planes?</h2><p>Sígueme en Instagram como <a href="https://www.instagram.com/chenoaventuras/" target="_blank" rel="noopener">@chenoaventuras</a>: subo escapadas como esta cada semana.</p><a class="btn guide__btn" href="/blog.html">Ver más planes en el blog</a></div>

@@ -121,6 +121,8 @@ Te cuento qué pasó, cómo está ahora y cómo verlo con respeto 👇
 <div class="guide__tip"><h3>🏠 Respeto</h3><p>Bajo la lava hay casas y fincas de vecinos. Fotos sí, pero sin invadir propiedades.</p></div>
 </div>
 
+<p>Para ver más volcanes de la isla, mira la <a href="/blog/ruta-de-los-volcanes-la-palma.html">Ruta de los Volcanes</a>, los <a href="/blog/volcan-san-antonio-teneguia.html">volcanes San Antonio y Teneguía</a> y, junto a la costa donde llegó la lava, <a href="/blog/tazacorte-que-ver.html">Tazacorte</a>.</p>
+
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p>Desde <strong>Santa Cruz de La Palma</strong> o el aeropuerto hay unos <strong>40 minutos</strong> en coche hasta El Paso por la LP-3 (el túnel de la cumbre). La guagua <strong>línea 300</strong> une Santa Cruz con El Paso y Los Llanos.</p><p>Para los miradores lo más práctico es el coche. Para la ruta guiada, la empresa te dará el punto de encuentro.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Volc%C3%A1n%20Tajogaite%2C%20El%20Paso%2C%20La%20Palma" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Ver en Google Maps</a></div></div>
 

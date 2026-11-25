@@ -26,6 +26,10 @@ faq:
     a: "Sí, fue declarado Bien de Interés Cultural en 1975."
   - q: "¿Cuánto tiempo hace falta?"
     a: "Un día para recorrer el casco histórico con calma."
+  - q: "¿Cada cuánto se celebra la Bajada de la Virgen?"
+    a: "Cada cinco años, desde 1680. La última fue en 2025 y la próxima será en 2030; las fechas exactas se publican poco antes."
+  - q: "¿Qué es Los Indianos?"
+    a: "Una fiesta de Carnaval que se celebra el lunes de Carnaval en Santa Cruz de La Palma: la gente se viste de blanco, como los emigrantes que volvían de América, y lanza polvos de talco."
   - q: "¿Se puede ir a pie?"
     a: "Sí, el casco es pequeño y se recorre andando."
 guia: /assets/guias/guia-la-palma-chenoaventuras.pdf
@@ -45,8 +49,12 @@ Te cuento qué ver, en qué orden y cómo organizarlo 👇
 <div class="guide__tip"><h3>🚗 Cómo llegar</h3><p>Es la capital de la isla, con aeropuerto cercano y buena conexión por carretera con el resto de La Palma.</p></div>
 </div>
 
-<div class="guide__head"><span class="eyebrow">Curiosidades</span><h2>Una ciudad colonial en Canarias</h2></div>
-<p>El casco antiguo fue declarado <strong>Bien de Interés Cultural en 1975</strong>. La plaza de España es, según una fuente, el mejor conjunto renacentista de Canarias, con el Ayuntamiento y la iglesia de El Salvador. Los <strong>balcones de madera</strong> de la Avenida Marítima son la postal más conocida de la ciudad. Y el <strong>Barco de la Virgen</strong> es una réplica de la nao Santa María de Cristóbal Colón que alberga objetos de la historia marítima de la isla.</p><div class="guide__legend"><h3>📸 Mi consejo</h3><p>Camina por la <strong>Avenida Marítima</strong> y mira los balcones desde el paseo: es la mejor foto de Santa Cruz de La Palma.</p></div>
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>De puerto de la conquista a ciudad colonial</h2></div>
+<p>Santa Cruz de La Palma nació al terminar la conquista de la isla, en <strong>1493</strong> (la tradición da el 3 de mayo). En el siglo XVI creció como <strong>puerto comercial</strong> y cabeza administrativa y religiosa de La Palma; se suele decir que fue «el tercer puerto del Imperio», tras Sevilla y Amberes, aunque los historiadores discuten esa cifra. De esa época son el <strong>Ayuntamiento</strong> y la <strong>iglesia de El Salvador</strong>, que dan forma a la <strong>plaza de España</strong>. El casco antiguo fue declarado <strong>Bien de Interés Cultural en 1975</strong>, y los <strong>balcones de madera</strong> de la Avenida Marítima son su postal más conocida. El <strong>Barco de la Virgen</strong> es una réplica de la nao Santa María de Cristóbal Colón que alberga objetos de la historia marítima de la isla.</p>
+<div class="guide__legend"><h3>📸 Mi consejo</h3><p>Camina por la <strong>Avenida Marítima</strong> por la mañana, cuando los balcones reciben la luz, y deja la plaza de España y la calle Real para el mediodía.</p></div>
+
+<div class="guide__head"><span class="eyebrow">Fiestas</span><h2>La Bajada de la Virgen y Los Indianos</h2></div>
+<p>Santa Cruz es famosa por dos fiestas. La <strong>Bajada de la Virgen de las Nieves</strong> se celebra <strong>cada cinco años, desde 1680</strong>: la última fue en el verano de 2025 y la próxima será en <strong>2030</strong>. Solo en esos años se baila la <strong>Danza de los Enanos</strong> y se representa el <strong>Diálogo entre el Castillo y la Nave</strong>. Está declarada <strong>Bien de Interés Cultural</strong> y es de Interés Turístico Nacional. Y todos los años, el <strong>lunes de Carnaval</strong>, llegan <strong>Los Indianos</strong>: miles de personas vestidas de blanco, como los emigrantes que regresaban de América, y una nube de polvos de talco por las calles del centro.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Santa Cruz de La Palma: los imprescindibles</h2><p>Un día entre balcones, plazas y museo naval.</p></div>
 <ol class="guide__grid guide__grid--cuenca">
@@ -62,7 +70,7 @@ Te cuento qué ver, en qué orden y cómo organizarlo 👇
 </ol>
 
 <div class="guide__head"><span class="eyebrow">Más paradas</span><h2>Otros lugares con encanto</h2></div>
-<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Castillo de Santa Catalina:</strong> a pocos minutos de los balcones, con vistas a la costa.</li><li><strong>Casa Salazar:</strong> con patio de balcones de madera del siglo XVII (acceso gratuito, según una guía).</li><li><strong>Mercado de Abastos (La Recova):</strong> productos locales y artesanía.</li><li><strong>Más La Palma:</strong> <a href="/blog/que-hacer-en-la-palma.html">Qué hacer en La Palma</a>, <a href="/blog/caldera-de-taburiente.html">la Caldera de Taburiente</a> y <a href="/blog/roque-de-los-muchachos.html">el Roque de los Muchachos</a>.</li></ul>
+<ul class="checklist" style="margin:0 0 1rem;"><li><strong>Castillo de Santa Catalina:</strong> a pocos minutos de los balcones, con vistas a la costa.</li><li><strong>Casa Salazar:</strong> una casa señorial con un bonito patio de balcones de madera.</li><li><strong>Mercado de Abastos (La Recova):</strong> productos locales y artesanía.</li><li><strong>Más La Palma:</strong> <a href="/blog/que-hacer-en-la-palma.html">Qué hacer en La Palma</a>, <a href="/blog/caldera-de-taburiente.html">la Caldera de Taburiente</a> y <a href="/blog/roque-de-los-muchachos.html">el Roque de los Muchachos</a>.</li></ul>
 
 <div class="guide__head"><span class="eyebrow">Cómo llegar</span><h2>Cómo llegar</h2></div>
 <div class="guide__howto"><p><strong>En coche:</strong> la ciudad tiene aparcamientos cerca del casco. Es mejor dejar el coche y recorrerla a pie.</p><p><strong>En guagua:</strong> hay líneas desde otros puntos de la isla; consulta horarios.</p><div class="guide__maps"><a class="btn guide__mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Santa Cruz de La Palma" target="_blank" rel="noopener"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="currentColor"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg> Cómo llegar en Google Maps</a></div></div>

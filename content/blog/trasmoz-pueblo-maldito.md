@@ -21,6 +21,10 @@ faq:
     a: "Bécquer vivió una temporada en el Monasterio de Veruela y escribió sobre Trasmoz y sus brujas en sus Cartas desde mi celda."
   - q: "¿Cuándo es la feria de brujería de Trasmoz?"
     a: "Se celebra en julio. Consulta las fechas exactas con el ayuntamiento."
+  - q: "¿Pueden los vecinos de Trasmoz ir a misa?"
+    a: "Sí. Aunque ningún papa ha revocado la maldición de 1511, en la práctica los vecinos participan con normalidad en la vida religiosa del pueblo."
+  - q: "¿Por qué se maldijo Trasmoz en 1511?"
+    a: "Por un conflicto por el agua con el Monasterio de Veruela: la que llegaba al pueblo cruzaba tierras del monasterio. El abad, con permiso del papa Julio II, pronunció una maldición solemne contra el señor de Trasmoz, sus descendientes y todo el pueblo."
   - q: "¿Cómo llegar a Trasmoz desde Zaragoza?"
     a: "En coche, en una hora. Está en las faldas del Moncayo, a unos 20 km de Tarazona."
 actividades:
@@ -54,6 +58,9 @@ Brujas, un castillo en ruinas y un poeta que se inspiró en todo ello. Te cuento
 
 <div class="guide__head"><span class="eyebrow">La leyenda</span><h2>Excomulgado y maldito</h2></div>
 <p>En el siglo XIII, Trasmoz y el vecino <strong>Monasterio de Veruela</strong> se enfrentaron por la leña y el agua del Moncayo. Los monjes excomulgaron al pueblo, y la tradición añade que lo hicieron también por la fama de sus <strong>brujas</strong>. En <strong>1511</strong>, otro abad de Veruela fue más allá y lanzó sobre Trasmoz una <strong>maldición</strong> en toda regla. Nadie la ha levantado desde entonces, y dicen que solo el Papa podría hacerlo.</p><div class="guide__legend"><h3>🧙 Bécquer y la tía Casca</h3><p>Gustavo Adolfo Bécquer pasó una temporada en el Monasterio de Veruela y escribió sobre Trasmoz en sus <em>Cartas desde mi celda</em>. Allí aparece la <strong>tía Casca</strong>, una supuesta bruja a la que los vecinos acabaron despeñando. Su espíritu, dice la leyenda, sigue rondando el pueblo.</p></div>
+
+<div class="guide__head"><span class="eyebrow">La historia</span><h2>Cómo fue la maldición de 1511</h2></div>
+<p>El origen del conflicto fue el <strong>agua</strong>: la que llegaba al pueblo tenía que atravesar tierras que pertenecían al Monasterio de Veruela. En 1511, el abad de Veruela, con la autorización del papa Julio II, pronunció una <strong>maldición solemne</strong> contra el señor de Trasmoz, sus descendientes y todo el pueblo. Según la tradición, cubrió el crucifijo con un velo negro, recitó el salmo 108 y marcó cada frase con un toque de campana. Una excomunión anterior, que algunas fuentes sitúan hacia 1255 por una disputa por la leña, ya había enfrentado a ambos. Ningún papa ha revocado esas condenas, pero en la práctica los vecinos van a misa y reciben los sacramentos con normalidad. Incluso se cuenta que han llegado a votar en contra de pedir la absolución, porque la fama de «pueblo maldito» forma ya parte de su identidad.</p>
 
 <div class="guide__head"><span class="eyebrow">Qué ver</span><h2>Qué ver en Trasmoz</h2></div>
 <ol class="guide__grid guide__grid--cuenca">
