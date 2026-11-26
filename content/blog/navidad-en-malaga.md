@@ -23,7 +23,7 @@ actividadesTitulo: 'Más planes en Málaga'
 faqTitulo: "Dudas sobre la Navidad en Málaga"
 faq:
   - q: "¿Cuándo se encienden las luces de Navidad de Málaga en 2026?"
-    a: "El viernes 27 de noviembre de 2026 a las 18:30, en calle Larios, junto a la estatua del Marqués de Larios. El acto incluye un concierto gratuito de El Kanka."
+    a: "El viernes 27 de noviembre de 2026 a las 18:30, en calle Larios, junto a la estatua del Marqués de Larios. El periodista Matías Prats pulsa el botón del encendido y después hay un concierto gratuito de El Kanka."
   - q: "¿A qué hora es el espectáculo de luces de calle Larios?"
     a: "Hay tres pases diarios, a las 18:30, a las 20:30 y a las 22:00, hasta el 4 de enero de 2027. Los días 24 y 31 de diciembre y el 5 de enero las luces se encienden sin música."
   - q: "¿Cuándo es el videomapping de la Catedral de Málaga?"
