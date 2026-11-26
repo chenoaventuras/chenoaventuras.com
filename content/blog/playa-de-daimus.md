@@ -1,7 +1,7 @@
 ---
 title: 'Playa de Daimús: amaneceres, dunas y qué hacer en la costa de la Safor'
-seoTitle: 'Playa de Daimús: cómo llegar, aparcamiento y servicios'
-seoDescription: 'Cómo llegar a la playa de Daimús (Valencia) en coche o autobús, dónde aparcar, qué servicios tiene y qué ver cerca en Gandia y la Safor.'
+seoTitle: 'Playa de Daimús (Daimuz): cómo llegar y dónde aparcar'
+seoDescription: 'Cómo llegar a la playa de Daimús o Daimuz (Valencia) en coche o autobús, dónde aparcar, qué servicios tiene y qué ver cerca en Gandia y la Safor.'
 date: 2026-10-20T10:00:00.000Z
 lugar: 'Playa de Daimús'
 lat: 38.977
@@ -21,6 +21,8 @@ actividades:
 actividadesTitulo: 'Actividades en Gandía'
 faqTitulo: "Dudas sobre la playa de Daimús"
 faq:
+  - q: "¿Se escribe Daimús o Daimuz?"
+    a: "Las dos formas se usan: Daimús es el nombre oficial en valenciano y Daimuz la forma castellana que se ve en muchos mapas y carteles. Es el mismo pueblo y la misma playa, junto a Gandia."
   - q: "¿Cómo es la playa de Daimús?"
     a: "Un arenal de unos 1.000 metros con dunas y aguas tranquilas, con paseo marítimo, chiringuitos y servicios."
   - q: "¿Cómo se llega desde Valencia?"
